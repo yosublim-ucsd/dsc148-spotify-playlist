@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,786 songs - 6 day 1 hr 4 min
+3,787 songs - 6 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,6 +649,7 @@
 | [Coffee for Two](https://open.spotify.com/track/4ZvoVfFckum6EIA5RPD57M) | [HawkOne](https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y), [Alejo](https://open.spotify.com/artist/4zXkBiz56l3LiruH26i2RE) | [Coffee for Two](https://open.spotify.com/album/4JqumuMFKpOCohl2KTsEMy) | 2:03 | 2022-03-24 | 2023-09-01 |
 | [Coffee Grounds](https://open.spotify.com/track/1ZReW2kgC7jYoTpJWMNqyW) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [Gus Levy](https://open.spotify.com/artist/6Mn5Qrf7648LdTNDmRISiD), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ) | [Coffee Grounds](https://open.spotify.com/album/2t4iehNTlrRtVbR8BPDu0g) | 2:56 | 2022-09-22 | 2022-11-04 |
 | [Coffee In Autumn](https://open.spotify.com/track/4BQgyKp8B2gcyAQUAO2r75) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Coffee In Autumn](https://open.spotify.com/album/60B1sIVtx3IuN7AA7RMXT0) | 2:30 | 2023-10-26 |  |
+| [Coffee in My Garden](https://open.spotify.com/track/1gYpTOM06O9EpxI1Zq15wR) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Coffee in My Garden](https://open.spotify.com/album/3ytOv1efIhpgI4gseo0s6B) | 2:30 | 2023-10-26 |  |
 | [Coffee Jazz](https://open.spotify.com/track/2JnVnqt3M2mUw1BJcCqI0U) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Coffee Jazz](https://open.spotify.com/album/7cQ81TcqB4raY5AfZx0e3u) | 2:22 | 2022-06-16 | 2023-08-18 |
 | [Coffee Lounge](https://open.spotify.com/track/2LibFNLagdslaPFEeIVgFn) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Coffee Lounge](https://open.spotify.com/album/4Kw9j32hS1NJ9FsKYsbQhI) | 1:51 | 2021-04-19 | 2021-06-11 |
 | [Coffee Shop](https://open.spotify.com/track/2nc2Sd3bh28jmFyXw5c3zm) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [Coffee Shop](https://open.spotify.com/album/4QbdmWR49SVAOrgapcCd1E) | 2:13 | 2019-06-19 | 2019-11-28 |
@@ -2831,7 +2832,7 @@
 | [Señorita](https://open.spotify.com/track/1fpQgDZTcwS41o2I4OIjKD) | [Richie Rych](https://open.spotify.com/artist/4DAnH7C46v8Z0xhaw5ktTo) | [Señorita](https://open.spotify.com/album/3gRn0AZFXo3u45gFY2aPvs) | 2:53 | 2020-07-18 | 2021-02-06 |
 | [Shades](https://open.spotify.com/track/6xr8yXroOADgxqkcI2vWmJ) | [Smuff Tha Quiz](https://open.spotify.com/artist/3RoPCko9qLmfQiDg8mHaZn), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Shades](https://open.spotify.com/album/0uVljqtx1Zy6YSmjkPjTLn) | 1:51 | 2021-08-12 | 2021-09-07 |
 | [Shades of Green](https://open.spotify.com/track/4bNMZSIr5eqqTNBbyiidqq) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB) | [Shades of Green](https://open.spotify.com/album/00iPorvskATKIBE9D3O7an) | 3:30 | 2019-05-26\* | 2019-08-13 |
-| [Shadowbrook](https://open.spotify.com/track/21K1rLF9exSvUwu0XiC6d8) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Shadowbrook](https://open.spotify.com/album/5QmSnQ9df0Q2UdpNGyJHvU) | 2:40 | 2023-10-19 |  |
+| [Shadowbrook](https://open.spotify.com/track/21K1rLF9exSvUwu0XiC6d8) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Shadowbrook](https://open.spotify.com/album/5QmSnQ9df0Q2UdpNGyJHvU) | 2:40 | 2023-10-19 | 2023-11-01 |
 | [Shadows](https://open.spotify.com/track/2eCZOj4VWNO1X0lIFeqd8y) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Shadows](https://open.spotify.com/album/0QtttUP2boh8MljGdOWP7L) | 1:18 | 2020-09-18 | 2021-04-30 |
 | [Shakedown](https://open.spotify.com/track/0oZbYnNWqYBbiX2Rv3A2rb) | [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2ZV5zCY2tJBRn0EtLOj3gr) | 3:42 | 2019-05-26\* | 2019-06-15 |
 | [Shaken Not Stirred](https://open.spotify.com/track/40rMcopMxdrjTy4SnWFu7g) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Shaken Not Stirred](https://open.spotify.com/album/1NirfvwlYQldrCn3ysCp2W) | 2:48 | 2023-08-24 |  |

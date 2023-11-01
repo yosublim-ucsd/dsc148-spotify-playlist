@@ -1,12 +1,12 @@
 {
   "description": "Masterpieces from the world of opera.",
-  "num_followers": 401636,
+  "num_followers": 401851,
   "original_name": "Opera Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTZmMmNkNWNmNGVkOTgyOWMyNjNmY2ZmOWM3OGM0ZTlkMTlhYjcw",
+  "snapshot_id": "MCwwNmVlOWFiYzk2NDk4ZTE0ZjliNzU4NzAzMTdjYTFhYWQxNjUwYzFj",
   "tracks": [
     {
       "added_at": "2023-01-10 11:04:25",
@@ -58,10 +58,18 @@
         {
           "name": "William Christie",
           "url": "https://open.spotify.com/artist/7mkcqdifmNkhfJ7XZ7WFFS"
+        },
+        {
+          "name": "Anne Sofie von Otter",
+          "url": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+        },
+        {
+          "name": "Les Arts Florissants",
+          "url": "https://open.spotify.com/artist/652tly1eoAkKzhJ5z4LsEx"
         }
       ],
       "duration_ms": 203760,
-      "name": "Handel: Serse, HWV 40, Act 1 Scene 1: No. 2, Arioso, \"Ombra mai f\u00f9\" (Serse)",
+      "name": "Handel: Serse, HWV 40, Act 1, Scene 1: Arioso. \"Ombra mai f\u00f9\" (Serse)",
       "url": "https://open.spotify.com/track/4fBqGaGJfEqTQDX4d7Hcil"
     },
     {

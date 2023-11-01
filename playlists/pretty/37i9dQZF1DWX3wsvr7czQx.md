@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 
 > Icons only\. Cover: Duran Duran
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,599 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,616 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 24 | [Pretending](https://open.spotify.com/track/3WYq8auGS8CFtRM7XLNxJn) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Pretending](https://open.spotify.com/album/5sHQpKS54EcEG784t7bJaO) | 6:47 |
 | 25 | [Same Heartbreak Different Day](https://open.spotify.com/track/5ZJPhXxYnaUM8i7C9oboqI) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Same Heartbreak Different Day](https://open.spotify.com/album/7iyIit99oHjCpa1ndnCJtU) | 3:08 |
 | 26 | [Moon Over Wichita](https://open.spotify.com/track/2kWASdkm5BAA5kGJ4jN39D) | [Burt Bacharach](https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC), [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [Moon Over Wichita/Heartbreak Storms](https://open.spotify.com/album/1gQZpefWws00Mglq7lv1oM) | 3:12 |
-| 27 | [Beautiful World \(From “American Song Contest”\)](https://open.spotify.com/track/2UKJt37EGeYkSc4qx13cq8) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Beautiful World \(From “American Song Contest”\)](https://open.spotify.com/album/4nkhERcJG0Zg9dlfrgA55B) | 3:17 |
+| 27 | [Beautiful World](https://open.spotify.com/track/4qqY0D1mR2iVvtmVdt1Aio) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Spark of Light](https://open.spotify.com/album/16lQiSe7q4wKDTicJp7jLI) | 3:19 |
 | 28 | [Always Have, Always Will](https://open.spotify.com/track/02p16pYf7Hk0zgkwGF5EzL) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:46 |
 | 29 | [End Of Night](https://open.spotify.com/track/2mOzVvURATXmEU64DANxDr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 3:23 |
 | 30 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 49 | [Find My Way](https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:54 |
 | 50 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 |
 
-Snapshot ID: `MCw0MTBiMmQ2N2MwODY5MWE3YWM4YWY3MDVmZjgyMzNiMDJiZDA4NmZk`
+Snapshot ID: `MCwyZmZiZGI3NjBlYmE2Y2FmYzEyMWQwNDg3Yzk1MGY3OTg0Mzk0YzRl`

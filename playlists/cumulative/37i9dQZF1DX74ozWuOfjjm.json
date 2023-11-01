@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Listen to the women of Au & NZ at full volume! Cover: Cat & Calmell",
+  "description": "Listen to the women of Au & NZ at full volume! Cover: The Veronicas",
   "name": "EQUAL AU & NZ",
   "tracks": [
     {
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 184240,
       "name": "Come Apart",
       "url": "https://open.spotify.com/track/3yJqlmzdenTmQeb3bdRJfO"
@@ -1849,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "dead end kids",
+        "url": "https://open.spotify.com/album/1teNbZLz3PUefD4NXLocTl"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197993,
+      "name": "dead end kids",
+      "url": "https://open.spotify.com/track/54w5kOv00WeffHtdNs6Ut4"
+    },
+    {
+      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/5ziOA3BzD49xDKsSJMMikl"
       },
@@ -1958,6 +1976,24 @@
       "duration_ms": 196369,
       "name": "Done With Boys",
       "url": "https://open.spotify.com/track/4N9ZQzyILp50rhNKJd7W27"
+    },
+    {
+      "album": {
+        "name": "Dramamine",
+        "url": "https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177473,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW"
     },
     {
       "album": {
@@ -2282,7 +2318,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 241712,
       "name": "Exploding",
       "url": "https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf"
@@ -3806,7 +3842,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 230855,
       "name": "I Am Free",
       "url": "https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T"
@@ -5037,6 +5073,24 @@
     },
     {
       "album": {
+        "name": "Little More Country",
+        "url": "https://open.spotify.com/album/5BdwfjzRMHWaz3l0ZmXDXh"
+      },
+      "artists": [
+        {
+          "name": "Max Jackson",
+          "url": "https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "Little More Country",
+      "url": "https://open.spotify.com/track/33LP5EPvWMtjRGG2wn4NJf"
+    },
+    {
+      "album": {
         "name": "Blossom",
         "url": "https://open.spotify.com/album/4CdFQ4boNTxFzjm9rFbL8d"
       },
@@ -5221,6 +5275,24 @@
     },
     {
       "album": {
+        "name": "Making It Through",
+        "url": "https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282366,
+      "name": "Making It Through",
+      "url": "https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV"
+    },
+    {
+      "album": {
         "name": "Mana-W\u0101-Hine",
         "url": "https://open.spotify.com/album/74NQaYnBRJzKlkfxJt8OAL"
       },
@@ -5275,6 +5347,24 @@
     },
     {
       "album": {
+        "name": "Me & You",
+        "url": "https://open.spotify.com/album/483srdSP2mimkaMPIHyxd4"
+      },
+      "artists": [
+        {
+          "name": "Shavaun Marie",
+          "url": "https://open.spotify.com/artist/4cWfaEBJ4w8CeJWNPkKUHY"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Me & You",
+      "url": "https://open.spotify.com/track/0OEuWuxC4k8eqC6BWkZrhl"
+    },
+    {
+      "album": {
         "name": "Meet U Again",
         "url": "https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP"
       },
@@ -5304,7 +5394,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 188853,
       "name": "Mermaid Avenue",
       "url": "https://open.spotify.com/track/72qBzteCINzfZGqOCkD4sA"
@@ -5412,7 +5502,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 217737,
       "name": "Monster Brain",
       "url": "https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG"
@@ -5748,7 +5838,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 117620,
       "name": "nice",
       "url": "https://open.spotify.com/track/29wl32cIPkuiOcGLYdFGVv"
@@ -6000,7 +6090,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 184750,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/581RQr3HXrnCbVqfwmRnEj"
@@ -6331,6 +6421,24 @@
     },
     {
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/7Ecotv7Pdu4utXTqulJ45n"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153642,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/5Vfl6AYr1PyG4BcEMIr8oT"
+    },
+    {
+      "album": {
         "name": "Perfect For You",
         "url": "https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir"
       },
@@ -6620,7 +6728,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 178240,
       "name": "Ring-a-Ling",
       "url": "https://open.spotify.com/track/0CAisIL2Tjy47oEkzQUMns"
@@ -6794,7 +6902,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 194503,
       "name": "See Through",
       "url": "https://open.spotify.com/track/0ZtMzghkupL55g6ToThFwZ"
@@ -7244,7 +7352,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 199813,
       "name": "Softly",
       "url": "https://open.spotify.com/track/367oCfrxb0IK5XlIuKfRBS"
@@ -7720,6 +7828,24 @@
       "duration_ms": 189202,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/3fcPv6ZWPfIwWENirt7w2w"
+    },
+    {
+      "album": {
+        "name": "Tell Her",
+        "url": "https://open.spotify.com/album/5r8xf0HbtvpK61fsiZ4x7I"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Tell Her",
+      "url": "https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5"
     },
     {
       "album": {

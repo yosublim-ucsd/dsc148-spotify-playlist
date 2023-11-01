@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-615 songs - 1 day 20 hr 22 min
+616 songs - 1 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,7 +533,7 @@
 | [Teen Etus](https://open.spotify.com/track/0CEslFNe6rY0pmHaksb9vW) | [Cedric Pytel](https://open.spotify.com/artist/11ls4fvCxj7Lwa7FBF7EnB), [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Teen Etus](https://open.spotify.com/album/4WJwqsOGhFoR2EessviVrV) | 2:52 | 2022-04-17 | 2022-06-23 |
 | [Telejayi \(Heavy Baile Remix\)](https://open.spotify.com/track/67nZx73Q8eQenpnx2rPUkP) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Brazil is my land](https://open.spotify.com/album/2A79rk8kBWAMoOfN3bXzbd) | 2:22 | 2022-12-30 | 2023-02-20 |
 | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/track/2telsvYtSRHVlj8kWqrB6A) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/album/5QemzvXDdZw3BAEyjcgPWD) | 4:39 | 2021-10-06 | 2022-05-26 |
-| [Terra Preta](https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy) | [Tapioca](https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr) | [Samba em Kigali](https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf) | 3:46 | 2023-05-24 |  |
+| [Terra Preta](https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy) | [Tapioca](https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr) | [Samba em Kigali](https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf) | 3:46 | 2023-05-24 | 2023-11-01 |
 | [Teu sorriso \- 56 Mix](https://open.spotify.com/track/4bOlBoY9gcHSIPew1Sbi3F) | [Paraíso](https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0) | [Teu sorriso](https://open.spotify.com/album/2PjHbUJ1FaYtEPO5JsmRDs) | 5:33 | 2022-03-29 | 2022-04-21 |
 | [Thank You](https://open.spotify.com/track/024X0CCgxFHrgGKY1WTFcA) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 5:51 | 2022-04-26 |  |
 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-04-21 | 2023-07-06 |
@@ -607,6 +607,7 @@
 | [Yardley Suite](https://open.spotify.com/track/2u9mRfYp5vzMCCSLxS85X9) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/1MVB8WaiCepzmHVvX741WN) | 3:55 | 2021-10-06 | 2022-04-15 |
 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 | 2023-08-31 |  |
 | [Yaykatekar Dub \(Love Dub\)](https://open.spotify.com/track/1nkKYuTCHJAczQSpbgigO9) | [OKI](https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO) | [Yaykatekara Dub \(Love Dub\)](https://open.spotify.com/album/143yn83F4xFKVKSWmAFPlb) | 5:10 | 2022-02-03 | 2022-07-29 |
+| [Yaykatekar Dub \(Love Dub\)](https://open.spotify.com/track/6RAt5KUqAzW3XT8pVHTuTT) | [OKI](https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO) | [Tonkori In The Moonlight](https://open.spotify.com/album/5R83YBUE67ySdEaSc1Wpsx) | 5:10 | 2023-10-29 |  |
 | [Yeanoh \(Powe'hande Binga'dbe\)](https://open.spotify.com/track/0IVlx6wUnkGmU8zWXznnf1) | [Kondi Band](https://open.spotify.com/artist/2IPZPCen311aH09425TKpF) | [Belle Wahallah](https://open.spotify.com/album/757OI3ObWjiqLTkU6TEFkc) | 5:26 | 2021-10-06 |  |
 | [Yeanoh \(Powe'hande Binga'dbe\)](https://open.spotify.com/track/7L667oKoPNZZQW6AMuxK9a) | [Kondi Band](https://open.spotify.com/artist/2IPZPCen311aH09425TKpF) | [Belle Wahallah](https://open.spotify.com/album/6zfD5ApPpXLXFXqNoaX7b6) | 5:26 | 2021-10-06 | 2022-07-29 |
 | [Yellow Sari](https://open.spotify.com/track/2xRB7a9UJXns10FMexgKn8) | [JJ Whitefield](https://open.spotify.com/artist/1YkLBP9z7ymGS5FXHMEl5S) | [Yellow Sari](https://open.spotify.com/album/2c0QZvuJ1KGVT4mD8rRQCb) | 3:00 | 2021-10-06 | 2022-07-13 |

@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks in the North. Cover: Bad Bunny",
-  "num_followers": 867731,
+  "num_followers": 867904,
   "original_name": "Hot Hits Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDkxYTU1NWMxODNiODI0MDQyMjAzYjc1MTg5YWZlMTFmY2JkZjJk",
+  "snapshot_id": "MCxiYzU3ZGY1N2UyMDhjODMyN2EzYWI1ZmMyMzYyMTJmMmNlOGE4ZWEw",
   "tracks": [
     {
       "added_at": "2023-10-27 04:01:00",
@@ -307,6 +307,26 @@
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
       "added_at": "2023-10-27 04:01:00",

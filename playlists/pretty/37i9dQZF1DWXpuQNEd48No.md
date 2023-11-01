@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala & Raftaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,370 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,485 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,21 +37,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 27 | [Naina Ki Talwar](https://open.spotify.com/track/0o26gLFYauwW6oBwtHZFZZ) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:43 |
 | 28 | [Sheesha](https://open.spotify.com/track/0aFLaSo21GazAKoZDooDuc) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sheesha](https://open.spotify.com/album/3H2mp5opnTBnWbFYQlxEaT) | 3:37 |
 | 29 | [32 Bore](https://open.spotify.com/track/0EPQT3CkZHMHIJvCFZqYke) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [32 Bore](https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC) | 2:24 |
-| 30 | [Bonjour](https://open.spotify.com/track/1X0uwEHBqPZiXnpFT1hZDm) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Bonjour](https://open.spotify.com/album/7EGPSrVw9GfbFOzEs46T2b) | 2:53 |
-| 31 | [Desi Haan Ji](https://open.spotify.com/track/1LXUJ62m2Ak7ZuXSxkftgW) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Desi Haan Ji](https://open.spotify.com/album/4iFoZiTsA7Q6aSrB5EIETo) | 3:53 |
+| 30 | [Desi Haan Ji](https://open.spotify.com/track/1LXUJ62m2Ak7ZuXSxkftgW) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Desi Haan Ji](https://open.spotify.com/album/4iFoZiTsA7Q6aSrB5EIETo) | 3:53 |
+| 31 | [Bonjour](https://open.spotify.com/track/1X0uwEHBqPZiXnpFT1hZDm) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Bonjour](https://open.spotify.com/album/7EGPSrVw9GfbFOzEs46T2b) | 2:53 |
 | 32 | [Been](https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Been](https://open.spotify.com/album/4YGwBcyeLlawZd9QYg21Xg) | 3:04 |
 | 33 | [Success](https://open.spotify.com/track/4dO5LtlRj5wqdVVrDHjeh3) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Success](https://open.spotify.com/album/7K4xHrateeQtpa7n3bV0XN) | 4:01 |
 | 34 | [Badmos Chora](https://open.spotify.com/track/1aN0nqXAM5fgrsmltCMUgq) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:21 |
 | 35 | [Tabahi](https://open.spotify.com/track/01aP0lDm92ehOIy7zfpJkw) | [Yachi Dhounchak](https://open.spotify.com/artist/5pUmnQvCEu3sTcSZWH5USc), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Tabahi](https://open.spotify.com/album/5UTeuo86cat06VcIp7Nnrk) | 4:03 |
-| 36 | [Afgan](https://open.spotify.com/track/1wL7PQ8llOmRXdgNLRnm4j) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Afgan](https://open.spotify.com/album/6RuY485BMHDFNkc0FydvNn) | 3:17 |
-| 37 | [Vampire](https://open.spotify.com/track/31olLVhKdDW291OezbnDZt) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Vampire](https://open.spotify.com/album/5KI34lG871b5QkuNHKeIn1) | 5:06 |
+| 36 | [Vampire](https://open.spotify.com/track/31olLVhKdDW291OezbnDZt) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Vampire](https://open.spotify.com/album/5KI34lG871b5QkuNHKeIn1) | 5:06 |
+| 37 | [Afgan](https://open.spotify.com/track/1wL7PQ8llOmRXdgNLRnm4j) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Afgan](https://open.spotify.com/album/6RuY485BMHDFNkc0FydvNn) | 3:17 |
 | 38 | [Pataka](https://open.spotify.com/track/23jHzNShbAaRsuEmQJN5hE) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Pataka](https://open.spotify.com/album/1RHx6SdPqgoYkmpiOqV29P) | 3:24 |
 | 39 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 |
 | 40 | [Donali](https://open.spotify.com/track/7pGWXs5NjOtYnr07cjVj9y) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Donali](https://open.spotify.com/album/0xlAEkP9ChcMnyxR1Fm5X2) | 3:24 |
 | 41 | [MAHAKAAL](https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [MAHAKAAL](https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0) | 3:19 |
 | 42 | [Sneeze](https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sneeze](https://open.spotify.com/album/0i9EeZFCVSRa3FbSeLF64o) | 4:16 |
-| 43 | [Hukumat](https://open.spotify.com/track/2Q9yt6YZuSSOwaWriqUX4o) | [Siddh](https://open.spotify.com/artist/2O2zQMpJF97uRqphTsm7hV) | [Hukumat](https://open.spotify.com/album/7DzYIOcztFH1kJLo5RoLxn) | 3:51 |
-| 44 | [Bagdadi](https://open.spotify.com/track/56kDXRd6Yy2w7034LaOwJN) | [Semicolon](https://open.spotify.com/artist/1MWKy0Hucv9MInRiOf0Duh), [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs) | [Bagdadi](https://open.spotify.com/album/54VGUtzXIowOk9m3NPOCpW) | 2:50 |
+| 43 | [Bagdadi](https://open.spotify.com/track/56kDXRd6Yy2w7034LaOwJN) | [Semicolon](https://open.spotify.com/artist/1MWKy0Hucv9MInRiOf0Duh), [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs) | [Bagdadi](https://open.spotify.com/album/54VGUtzXIowOk9m3NPOCpW) | 2:50 |
+| 44 | [Hukumat](https://open.spotify.com/track/2Q9yt6YZuSSOwaWriqUX4o) | [Siddh](https://open.spotify.com/artist/2O2zQMpJF97uRqphTsm7hV) | [Hukumat](https://open.spotify.com/album/7DzYIOcztFH1kJLo5RoLxn) | 3:51 |
 | 45 | [Badmash](https://open.spotify.com/track/59NeNxSve36qM7JRHVdD6G) | [KD](https://open.spotify.com/artist/0RPNJNnaW9YEmWCHtL5Yo2) | [Badmash](https://open.spotify.com/album/1Aa0LC60RZzl1qGSjyTbvI) | 5:56 |
 | 46 | [Kaand](https://open.spotify.com/track/202W8cvVBBKZw9uEwTs0BC) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa) | [Kaand](https://open.spotify.com/album/1TZLTVAVHYPUsLwskjBHvs) | 3:06 |
 | 47 | [Flirt](https://open.spotify.com/track/4K6jf2Pu26P6VbsLdOZP7e) | [MD](https://open.spotify.com/artist/2DAFnKypr3QcXMZZjHnFtx), [KD](https://open.spotify.com/artist/4F4MEZmjiBwcqNa4bTT6PD) | [Flirt](https://open.spotify.com/album/1bJEz7lupCxXDH2g6e65tN) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 49 | [Mcoca](https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Mcoca](https://open.spotify.com/album/1LTxGYiIFEo8KzqpEkJKS1) | 3:13 |
 | 50 | [AAHO](https://open.spotify.com/track/33LN6U5oQa8bHh03oqxajL) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [AAHO](https://open.spotify.com/album/3tP7d652s8J8TitZHGGnZx) | 4:12 |
 
-Snapshot ID: `MCwxZDE0ZTdiMGE2N2EzNGExMzU1ZjIxZDVlZGQ0OGQzY2NhM2U4NWVh`
+Snapshot ID: `MCxjYTE0ZDZjZWY3OTI4ZDkxYTM2NzE1ZjJjYjZlNmUxNTM0Mjg3ZDE2`

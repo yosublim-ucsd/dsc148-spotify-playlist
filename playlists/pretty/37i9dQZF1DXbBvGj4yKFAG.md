@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,488 likes - 105 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,833 likes - 105 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 62 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 |
 | 63 | [Hole in My Pocket](https://open.spotify.com/track/3m9RcdyMk4KoppIdAYUo46) | [Purple Tears](https://open.spotify.com/artist/6rlWf1GiPgR0mfeFbJzoJi) | [Hole in My Pocket](https://open.spotify.com/album/0RWp78xmyuPx9gLClAHpBP) | 3:38 |
 | 64 | [When Everything Was Lost](https://open.spotify.com/track/6KpFwd5bRdGizEXTaUSoLi) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [When Everything Was Lost](https://open.spotify.com/album/4LqsBqbpTQ634UZjEcKrwj) | 4:00 |
-| 65 | [Wishuwerehere](https://open.spotify.com/track/6yKHbryXqvrAs6IRlm7KU7) | [Dead Sullivan](https://open.spotify.com/artist/6l1iT5q2DEGQTPIED2fU8I) | [Reason](https://open.spotify.com/album/50hxpwsOJzyixVu9e02Dm3) | 3:29 |
+| 65 | [Wishuwerehere](https://open.spotify.com/track/7nAg9e2rEkIVtM4PQockjj) | [Dead Sullivan](https://open.spotify.com/artist/6l1iT5q2DEGQTPIED2fU8I) | [Reason](https://open.spotify.com/album/3PSOspwqLIsf6t602LWmpD) | 3:29 |
 | 66 | [Cosmic Healing](https://open.spotify.com/track/0TeQkFUDSFbtmHjvAEkCoV) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [Cosmic Healing](https://open.spotify.com/album/3ahj4pz2dCaetSPtagcxcf) | 3:08 |
 | 67 | [mean creek.](https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [Elizabethtown.](https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid) | 2:16 |
 | 68 | [The Sling](https://open.spotify.com/track/6SEHTEHmNtZ7Y1927AVuHv) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:33 |

@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: XG
 
-234 songs - 13 hr 42 min
+235 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 | 2023-06-29 | 2023-09-13 |
 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 | 2023-05-30 | 2023-06-14 |
 | [Boukenroku](https://open.spotify.com/track/2RUeYsbLz7BUVyO6Q3Ijx5) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Boukenroku](https://open.spotify.com/album/1CAQgaomrrnWrQ7FvnjeqL) | 3:47 | 2023-08-15 | 2023-10-04 |
+| [Brand New World](https://open.spotify.com/track/6whSMGAThhLXhJPdDlE1xa) | [FANCYLABO](https://open.spotify.com/artist/34MPZmd0trUjRPtfDVUrwo), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Aoi Yagawa](https://open.spotify.com/artist/7w3N4hKPh9CssP6wIKDaww), [市川美織](https://open.spotify.com/artist/1T4Z4cFkzKoX4sELty6Y6A) | [Brand New World](https://open.spotify.com/album/7KtbBsp3aFBW2qAmgKGbhu) | 3:06 | 2023-10-31 |  |
 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-05 |  |
 | [Buckingham](https://open.spotify.com/track/7uX2DpFsKiitlAYGLSGlci) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8) | 3:41 | 2023-05-09 | 2023-05-31 |
 | [Burn The Fire](https://open.spotify.com/track/6FqxaTZhLuGWc89hc9ZOMe) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Burn The Fire](https://open.spotify.com/album/01F2KOw5jXOkJDBAeDLAWs) | 3:55 | 2023-10-17 |  |
@@ -63,7 +64,7 @@
 | [Hanaarashi](https://open.spotify.com/track/7appEyBT2D7skgWyyb5klH) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Hanaarashi](https://open.spotify.com/album/1txQrmehD3TKMQ8a5SQrbv) | 3:43 | 2023-10-03 |  |
 | [Hyper](https://open.spotify.com/track/2gjcKUENc1b3CkBEWjSL1E) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/1SVGVA68dbU3oTG8nRISM4) | 4:17 | 2023-10-03 | 2023-10-05 |
 | [Hyper](https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N) | 4:17 | 2023-10-03 | 2023-10-13 |
-| [I just wanna dance with you\- period](https://open.spotify.com/track/4u86QOvdhxGfsYsWz2O42J) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [I just wanna dance with you\- period](https://open.spotify.com/album/4u7Y1abTcYxn5Ob0Nl4Xzk) | 3:48 | 2023-09-26 |  |
+| [I just wanna dance with you\- period](https://open.spotify.com/track/4u86QOvdhxGfsYsWz2O42J) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [I just wanna dance with you\- period](https://open.spotify.com/album/4u7Y1abTcYxn5Ob0Nl4Xzk) | 3:48 | 2023-09-26 | 2023-11-01 |
 | [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 | 2023-09-07 | 2023-09-21 |
 | [I'm your hero](https://open.spotify.com/track/3mxwpuEFhRxKTryxKqDymy) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [I'm your hero](https://open.spotify.com/album/31KsChYG9kwMqcQNjxCsAG) | 4:19 | 2023-10-17 | 2023-10-25 |
 | [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 | 2023-05-09 | 2023-06-23 |

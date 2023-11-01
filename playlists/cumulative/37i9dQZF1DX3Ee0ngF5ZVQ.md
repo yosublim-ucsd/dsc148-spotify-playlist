@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Flatland Cavalry
 
-558 songs - 1 day 9 hr 14 min
+559 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Buzzed Brain](https://open.spotify.com/track/28BlOyCL7tkzuc9xWwTPFI) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Buzzed Brain, Pt\. 2](https://open.spotify.com/album/04Z0wNec76yBlauZ0gabJ3) | 4:26 | 2021-12-17 | 2022-07-24 |
 | [Calling Your Bluff](https://open.spotify.com/track/2KBsnRFMKnPkjjQNuVhClj) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol \- EP](https://open.spotify.com/album/1hEQhjpGQpqDjLE9iYt1bH) | 3:23 | 2022-06-10 | 2022-07-29 |
 | [Can't Put the Bottle Down](https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Can't Put the Bottle Down](https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm) | 3:23 | 2022-05-06 | 2022-08-24 |
+| [Can’t Cry Anymore \(feat\. Bri Bagwell\)](https://open.spotify.com/track/3yz6BlKzJ2baiuIUC6t3FS) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Cover Girl](https://open.spotify.com/album/4tbA2NrQQetM0NUqszgn52) | 3:34 | 2023-10-27 |  |
 | [Car Ride Home](https://open.spotify.com/track/5oiyEMZL6oA50VLnbas2hE) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Car Ride Home](https://open.spotify.com/album/5qRwxL43IJCKoVJKpicz0e) | 4:35 | 2023-04-28 | 2023-05-20 |
 | [Carolina Blue](https://open.spotify.com/track/76JB6oI3TtAfumq8n6nWie) | [Casey Daniels Band](https://open.spotify.com/artist/7eVdtDS1ReoSxBZ4Apqpc7) | [Carolina Blue](https://open.spotify.com/album/0fkNQ1049j1r0Dj4oF6hRn) | 3:41 | 2023-01-13 | 2023-06-24 |
 | [Change Your Mind](https://open.spotify.com/track/0pGMmBw3aXGWGR32ydIZMU) | [Nathan Perry](https://open.spotify.com/artist/0GNySaIRzLXcOfWpKlRv3w) | [Change Your Mind](https://open.spotify.com/album/3SavsOcLJAxYDGWUvgo4e1) | 4:10 | 2022-03-25 | 2022-07-09 |
@@ -329,7 +330,7 @@
 | [My Dad And His Truck](https://open.spotify.com/track/5A0ZaBJiX2I1iWrCl4ThBE) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [My Dad And His Truck](https://open.spotify.com/album/6I1mXDYlhYNobaKVB0qStf) | 3:38 | 2023-05-26 | 2023-08-12 |
 | [My First Rodeo](https://open.spotify.com/track/2hUnTBO3xdwXyB0Kwdmur5) | [Savanna Chestnut](https://open.spotify.com/artist/25Q8chabmr7xmJgVsdDErq) | [My First Rodeo](https://open.spotify.com/album/6ILAL65oJ9IMH31DEBTGNh) | 3:28 | 2021-12-17 | 2022-08-27 |
 | [My Guitar](https://open.spotify.com/track/2R8J4w7gU2jdhE19Eq353x) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [My Guitar](https://open.spotify.com/album/6SrueBxY4VCFGfWmPzxM6S) | 3:06 | 2022-06-24 | 2022-07-21 |
-| [My Heart You'll Tend](https://open.spotify.com/track/3po9LDXpTQyJCPc5O1RUut) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [My Heart You'll Tend](https://open.spotify.com/album/1KpJBUETISSfAToyFkBDDA) | 3:53 | 2023-07-28 |  |
+| [My Heart You'll Tend](https://open.spotify.com/track/3po9LDXpTQyJCPc5O1RUut) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [My Heart You'll Tend](https://open.spotify.com/album/1KpJBUETISSfAToyFkBDDA) | 3:53 | 2023-07-28 | 2023-11-01 |
 | [My Mistake](https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp) | 3:41 | 2021-12-17 | 2022-03-19 |
 | [My Old Man and Jesus](https://open.spotify.com/track/3dm2tAOVyFavpTXVir5sGL) | [Casey Daniels Band](https://open.spotify.com/artist/7eVdtDS1ReoSxBZ4Apqpc7) | [My Old Man and Jesus](https://open.spotify.com/album/1ck49Jsp0ZNzWyPdWUFWif) | 3:26 | 2023-06-23 | 2023-08-05 |
 | [Neon You](https://open.spotify.com/track/1IuV2JJG9u3fqL5GYT3FEM) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is For You](https://open.spotify.com/album/3PVjlBT5pTSG4YSLsB9oa8) | 3:07 | 2023-06-16 | 2023-09-02 |

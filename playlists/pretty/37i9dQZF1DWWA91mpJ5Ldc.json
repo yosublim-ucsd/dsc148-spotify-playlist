@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 119890,
+  "num_followers": 119931,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDBlMzE1MmEwZjQyMTZiYTgwNzhkNjg5ZmU0NDhkMTZkOGM3MWUw",
+  "snapshot_id": "MCw5MDY2OTE1N2VkZDIwYjdiYTliZGE3NWNhNTkzZDJhMWU5MTg3Yzhl",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -67,6 +67,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Eletrocardiograma",
+        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 190096,
+      "name": "O Jeito",
+      "url": "https://open.spotify.com/track/2HkiLuom1eTh8ZEaGqQjLY"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "T\u00e3o Real",
         "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 185333,
       "name": "Pipa Voada (feat. Emicida)",
       "url": "https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Eletrocardiograma",
-        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 190096,
-      "name": "O Jeito",
-      "url": "https://open.spotify.com/track/2HkiLuom1eTh8ZEaGqQjLY"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -355,6 +355,38 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 176920,
+      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Aqui n\u00e3o",
+        "url": "https://open.spotify.com/album/6NZRTrHKebVLVs6YLWPihz"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 137739,
+      "name": "Aqui n\u00e3o",
+      "url": "https://open.spotify.com/track/1sJC8sQycGEeuC3T87DzMs"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Fran\u00e7a (Papasessions#10) [feat. L7NNON]",
         "url": "https://open.spotify.com/album/4KoMHdExjgAnPiEk9bthn0"
       },
@@ -379,38 +411,6 @@
       "duration_ms": 294545,
       "name": "Fran\u00e7a (Papasessions#10) [feat. L7NNON]",
       "url": "https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Aqui n\u00e3o",
-        "url": "https://open.spotify.com/album/6NZRTrHKebVLVs6YLWPihz"
-      },
-      "artists": [
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 137739,
-      "name": "Aqui n\u00e3o",
-      "url": "https://open.spotify.com/track/1sJC8sQycGEeuC3T87DzMs"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 176920,
-      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Te Amo L\u00e1 Fora",
-        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 246346,
-      "name": "Decis\u00e3o de Te Amar",
-      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "C\u00e9u Lil\u00e1s - Na Estrada",
         "url": "https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 218822,
       "name": "Na Estrada",
       "url": "https://open.spotify.com/track/1kurYZn4PdsziIm0IsttFY"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Te Amo L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "Decis\u00e3o de Te Amar",
+      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -803,6 +803,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Servi\u00e7o",
+        "url": "https://open.spotify.com/album/4HN3LF9h0II1QfSJvs5x96"
+      },
+      "artists": [
+        {
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 179622,
+      "name": "C\u00e9u da Boca",
+      "url": "https://open.spotify.com/track/5RYsihoTr47Rd9uXYrVZpC"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 275333,
       "name": "Apesar de Voc\u00ea",
       "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Servi\u00e7o",
-        "url": "https://open.spotify.com/album/4HN3LF9h0II1QfSJvs5x96"
-      },
-      "artists": [
-        {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 179622,
-      "name": "C\u00e9u da Boca",
-      "url": "https://open.spotify.com/track/5RYsihoTr47Rd9uXYrVZpC"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -991,22 +991,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Alumi\u00f4",
-        "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
+        "name": "Trevo, Figuinha e Suor na Camisa",
+        "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
       },
       "artists": [
         {
-          "name": "Luiza Lian",
-          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Bixiga 70",
-          "url": "https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU"
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 204116,
-      "name": "Alumi\u00f4",
-      "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
+      "duration_ms": 170453,
+      "name": "Trevo, Figuinha e Suor na Camisa",
+      "url": "https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1027,22 +1027,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Trevo, Figuinha e Suor na Camisa",
-        "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
+        "name": "Alumi\u00f4",
+        "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Luiza Lian",
+          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
         },
         {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+          "name": "Bixiga 70",
+          "url": "https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU"
         }
       ],
-      "duration_ms": 170453,
-      "name": "Trevo, Figuinha e Suor na Camisa",
-      "url": "https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk"
+      "duration_ms": 204116,
+      "name": "Alumi\u00f4",
+      "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Espelho",
         "url": "https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 208986,
       "name": "Espelho",
       "url": "https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
     }
   ],
   "unique_name": "Cozinhando em Casa",

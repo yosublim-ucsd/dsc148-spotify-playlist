@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 539197,
+  "num_followers": 539362,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjQ3ZWI2Yzg2ZWJhMmJkMzIxNjA3MDE0OWUxODM3YjhkNWU4Y2Nj",
+  "snapshot_id": "MCw4MGViZDliY2E3N2M5YzY1YzI3YWI2ZDg4OTQ1NDZlNjkwNWY1OTFh",
   "tracks": [
     {
       "added_at": "2023-02-18 03:38:32",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
+        "name": "spark. (Live)",
+        "url": "https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 567093,
+      "name": "Breakthrough - Live",
+      "url": "https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
         "name": "Passion: Let The Future Begin",
         "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
       },
@@ -823,34 +839,18 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "spark. (Live)",
-        "url": "https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy"
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
       "artists": [
         {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 567093,
-      "name": "Breakthrough - Live",
-      "url": "https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
-        "name": "I Will Follow",
-        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Christ In Me",
-      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
+      "duration_ms": 333053,
+      "name": "I Am Not Alone - Live",
+      "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 333053,
-      "name": "I Am Not Alone - Live",
-      "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
+      "duration_ms": 211600,
+      "name": "Christ In Me",
+      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
     },
     {
       "added_at": "2023-02-18 03:38:32",

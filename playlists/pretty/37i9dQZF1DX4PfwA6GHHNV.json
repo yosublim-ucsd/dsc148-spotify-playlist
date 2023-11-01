@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 12464,
+  "num_followers": 12513,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTM5MTRiN2E3N2IxYjU2Y2NlYjRkODk2MWVmZDMzNzUxZTE5Zjk1",
+  "snapshot_id": "MCw4MzBlNmRiMjQyMDI1OTQ4MDVhOGMyZTgzZWRjOGJiMDI1NjBiOTcw",
   "tracks": [
     {
       "added_at": "2023-10-27 03:01:00",
@@ -75,26 +75,6 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Do Mesmo Lado",
-        "url": "https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        }
-      ],
-      "duration_ms": 158109,
-      "name": "Do Mesmo Lado",
-      "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
         "name": "SSA",
         "url": "https://open.spotify.com/album/4MbRQR6jIWe9IQArJXVUFd"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 221359,
       "name": "SSA",
       "url": "https://open.spotify.com/track/0DI7TtujPBwhpjmUncFpU9"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Do Mesmo Lado",
+        "url": "https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "duration_ms": 158109,
+      "name": "Do Mesmo Lado",
+      "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "A Volta Do Astro-Rei",
+        "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
+      },
+      "artists": [
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        }
+      ],
+      "duration_ms": 152941,
+      "name": "A Volta Do Astro-Rei",
+      "url": "https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Sabe Que \u00c9 Gostosa",
         "url": "https://open.spotify.com/album/3ZQOEv7DHr6xKvbzl8blVC"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 138666,
       "name": "Abelha",
       "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "A Volta Do Astro-Rei",
-        "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
-      },
-      "artists": [
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        }
-      ],
-      "duration_ms": 152941,
-      "name": "A Volta Do Astro-Rei",
-      "url": "https://open.spotify.com/track/0PHdvnqGjOah4swvDO5qFm"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -403,6 +403,34 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Unic\u00f3rnio",
+        "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        },
+        {
+          "name": "Pivet Panda",
+          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
+        }
+      ],
+      "duration_ms": 175543,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/6q0eaSM4WDEHavJ9BSbIfq"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Meio",
         "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
       },
@@ -443,34 +471,6 @@
       "duration_ms": 142105,
       "name": "Canc\u00fan",
       "url": "https://open.spotify.com/track/2gbmbB5KHCpLYgr7AMwNEn"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Unic\u00f3rnio",
-        "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        },
-        {
-          "name": "Pivet Panda",
-          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
-        }
-      ],
-      "duration_ms": 175543,
-      "name": "Online",
-      "url": "https://open.spotify.com/track/6q0eaSM4WDEHavJ9BSbIfq"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -523,22 +523,22 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Encruzilhada",
-        "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/5OYa7DkVEnROKwcKybrBdl"
       },
       "artists": [
         {
-          "name": "Young Piva",
-          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
+          "name": "Karl Wine",
+          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
         },
         {
-          "name": "Dactes",
-          "url": "https://open.spotify.com/artist/2zYKxqey1SNN4lFLjMw0FS"
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
         }
       ],
-      "duration_ms": 162774,
-      "name": "Oceano",
-      "url": "https://open.spotify.com/track/2c4suE33LALjs5wGWAnD4F"
+      "duration_ms": 169250,
+      "name": "Cabeza",
+      "url": "https://open.spotify.com/track/5y6IrzbBkHqV0E0Dzg2DkZ"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -571,46 +571,22 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Cabeza",
-        "url": "https://open.spotify.com/album/5OYa7DkVEnROKwcKybrBdl"
+        "name": "Encruzilhada",
+        "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
       },
       "artists": [
         {
-          "name": "Karl Wine",
-          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
+          "name": "Young Piva",
+          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
         },
         {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+          "name": "Dactes",
+          "url": "https://open.spotify.com/artist/2zYKxqey1SNN4lFLjMw0FS"
         }
       ],
-      "duration_ms": 169250,
-      "name": "Cabeza",
-      "url": "https://open.spotify.com/track/5y6IrzbBkHqV0E0Dzg2DkZ"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Do Nada",
-        "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
-      },
-      "artists": [
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "Stanley Castro",
-          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
-        }
-      ],
-      "duration_ms": 205531,
-      "name": "Do Nada",
-      "url": "https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF"
+      "duration_ms": 162774,
+      "name": "Oceano",
+      "url": "https://open.spotify.com/track/2c4suE33LALjs5wGWAnD4F"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -655,6 +631,30 @@
       "duration_ms": 197667,
       "name": "A\u00ed \u00e9 Bom Demais",
       "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Do Nada",
+        "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
+      },
+      "artists": [
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "Stanley Castro",
+          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
+        }
+      ],
+      "duration_ms": 205531,
+      "name": "Do Nada",
+      "url": "https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Ressaca",
+        "url": "https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG"
+      },
+      "artists": [
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Ressaca",
+      "url": "https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Te Vejo Mais Tarde",
         "url": "https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv"
       },
@@ -743,38 +759,30 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Em Mim",
-        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
+        "name": "Vit\u00f3ria Brindar",
+        "url": "https://open.spotify.com/album/0dgw83NEUgjL7oXjFFk75O"
       },
       "artists": [
         {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+          "name": "BADZILLA",
+          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
         },
         {
-          "name": "Guetta FInelly",
-          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
-        }
-      ],
-      "duration_ms": 126143,
-      "name": "Em Mim",
-      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Ressaca",
-        "url": "https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG"
-      },
-      "artists": [
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        },
         {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        },
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
         }
       ],
-      "duration_ms": 238500,
-      "name": "Ressaca",
-      "url": "https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ"
+      "duration_ms": 197558,
+      "name": "Vit\u00f3ria Brindar",
+      "url": "https://open.spotify.com/track/2udyF4SetdTT2OLhc9oO57"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -815,6 +823,26 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Em Mim",
+        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
+      },
+      "artists": [
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Guetta FInelly",
+          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
+        }
+      ],
+      "duration_ms": 126143,
+      "name": "Em Mim",
+      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Me Deixa",
         "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
       },
@@ -851,34 +879,6 @@
       "duration_ms": 199012,
       "name": "Anel da Pandora",
       "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Vit\u00f3ria Brindar",
-        "url": "https://open.spotify.com/album/0dgw83NEUgjL7oXjFFk75O"
-      },
-      "artists": [
-        {
-          "name": "BADZILLA",
-          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
-        },
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        },
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        },
-        {
-          "name": "Carlos do Complexo",
-          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
-        }
-      ],
-      "duration_ms": 197558,
-      "name": "Vit\u00f3ria Brindar",
-      "url": "https://open.spotify.com/track/2udyF4SetdTT2OLhc9oO57"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Arrepios",
-        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
-      },
-      "artists": [
-        {
-          "name": "Salah",
-          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
-        },
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Arrepios",
-      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 144522,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Arrepios",
+        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
     },
     {
       "added_at": "2023-10-27 03:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 115428,
+  "num_followers": 115598,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 320906,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -187,22 +171,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "Johnny Winter",
         "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
       },
@@ -215,6 +183,38 @@
       "duration_ms": 314880,
       "name": "Be Careful With a Fool",
       "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320906,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Ice Pick",
+      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -455,38 +471,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Ice Pick",
-      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "The Very Best of Jimmy Reed",
-        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
       },
       "artists": [
         {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
         }
       ],
-      "duration_ms": 169306,
-      "name": "Shame, Shame, Shame",
-      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
+      "duration_ms": 295466,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -555,6 +539,22 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "The Very Best of Jimmy Reed",
+        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Shame, Shame, Shame",
+      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "East West",
         "url": "https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
-        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "Completely Well",
         "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 275160,
       "name": "No Good",
       "url": "https://open.spotify.com/track/1YAqMv5kabudsXnTrCj9KL"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "1956-1958 Cobra Recordings",
-        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Double Trouble",
-      "url": "https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "Al's Big Deal",
         "url": "https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 414000,
       "name": "Albert's Shuffle",
       "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "1956-1958 Cobra Recordings",
+        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "A Long Time Comin'",
-        "url": "https://open.spotify.com/album/5816bqBdozCXD95olZoLHk"
-      },
-      "artists": [
-        {
-          "name": "The Electric Flag",
-          "url": "https://open.spotify.com/artist/6qyfxCyE6JsPkcGVIOPpyl"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Killing Floor",
-      "url": "https://open.spotify.com/track/47KjgcMPHmdhZZYJARV8dT"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "The Chess Story 1957-1964",
         "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "A Long Time Comin'",
+        "url": "https://open.spotify.com/album/5816bqBdozCXD95olZoLHk"
+      },
+      "artists": [
+        {
+          "name": "The Electric Flag",
+          "url": "https://open.spotify.com/artist/6qyfxCyE6JsPkcGVIOPpyl"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Killing Floor",
+      "url": "https://open.spotify.com/track/47KjgcMPHmdhZZYJARV8dT"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "What It Takes: The Chess Years",
         "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 181733,
       "name": "Wang Dang Doodle",
       "url": "https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "Green Onions",
+        "url": "https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "duration_ms": 150693,
+      "name": "Jelly Bread",
+      "url": "https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -863,22 +879,6 @@
       "duration_ms": 175200,
       "name": "The Super-Natural",
       "url": "https://open.spotify.com/track/5WralwF47zqlIgIzxYburB"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "Green Onions",
-        "url": "https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq"
-      },
-      "artists": [
-        {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
-        }
-      ],
-      "duration_ms": 150693,
-      "name": "Jelly Bread",
-      "url": "https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z"
     },
     {
       "added_at": "2023-08-10 16:46:04",

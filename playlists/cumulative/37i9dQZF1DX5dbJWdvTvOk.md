@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-605 songs - 1 day 1 hr 38 min
+608 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Antofagasta](https://open.spotify.com/track/5CuV4yJTY9gaMGBlq14afa) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Antofagasta](https://open.spotify.com/album/1Vght0beo7Xp1utA81XL2a) | 2:07 | 2022-07-15 | 2022-10-29 |
 | [Antoni](https://open.spotify.com/track/6zklaT8tid33upy12H9Tlk) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Antoni](https://open.spotify.com/album/3lXB92uIKsnBNy9XLFzDqO) | 2:46 | 2022-07-15 | 2023-04-22 |
 | [Ao Clarear](https://open.spotify.com/track/3ZBVScPb6BlEwHruAWdhtx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 3:17 | 2023-04-21 |  |
-| [Apex](https://open.spotify.com/track/0hszWwnBHYA7WmKeBnaF37) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Apex](https://open.spotify.com/album/5CsVDwvXW4hyQqBfcqRptQ) | 2:12 | 2023-04-21 |  |
+| [Apex](https://open.spotify.com/track/0hszWwnBHYA7WmKeBnaF37) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Apex](https://open.spotify.com/album/5CsVDwvXW4hyQqBfcqRptQ) | 2:12 | 2023-04-21 | 2023-11-01 |
 | [Aquarela da Vida](https://open.spotify.com/track/3W72SrUpDoLiTnxNttOo4B) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Aquarela da Vida](https://open.spotify.com/album/7b0K2VoR8mxJADRbTCxWvz) | 3:20 | 2022-07-15 | 2023-03-31 |
 | [Arashiyama](https://open.spotify.com/track/1GrZGGozbbpBboXNLv7khL) | [Phillipe Goldman](https://open.spotify.com/artist/2kSOIyf9QXEISbCLOgy7rW) | [Arashiyama](https://open.spotify.com/album/4PnrVJ7jOX8ZAT8sxrh8No) | 2:21 | 2023-04-21 |  |
 | [Armónico](https://open.spotify.com/track/4fMkra3CJ5mTAc6DWbFLqT) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Armónico](https://open.spotify.com/album/7gM87esW35sDdevEejH70f) | 1:48 | 2022-10-14 | 2023-04-22 |
@@ -130,7 +130,7 @@
 | [Da Capo](https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Da Capo](https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq) | 2:15 | 2023-04-21 |  |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-03-31 | 2023-04-22 |
 | [Dans tes mains](https://open.spotify.com/track/5ECdxrA7QwtRFqxyuM3BK6) | [Bonno Neo](https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf) | [Toucher mon coeur](https://open.spotify.com/album/2gz6d6FUO7EUSGT3YAXSZl) | 2:29 | 2023-04-21 |  |
-| [Dartden Road](https://open.spotify.com/track/0xW2pfHnKCyDQXACbQonff) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Dartden Road](https://open.spotify.com/album/2CY1GbH0o6jWzddu6qR13U) | 2:07 | 2023-04-21 |  |
+| [Dartden Road](https://open.spotify.com/track/0xW2pfHnKCyDQXACbQonff) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Dartden Road](https://open.spotify.com/album/2CY1GbH0o6jWzddu6qR13U) | 2:07 | 2023-04-21 | 2023-11-01 |
 | [das einsame Waldhaus](https://open.spotify.com/track/4vZ4qi9FYdMdqKB8g0dzxo) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [das einsame Waldhaus](https://open.spotify.com/album/6qkwLbJ5GqcOaLRYysZ511) | 3:03 | 2022-07-15 | 2023-04-22 |
 | [Davinci](https://open.spotify.com/track/74xrzR2MKdzp7AT06enGvk) | [Novia Stella](https://open.spotify.com/artist/5FsD7fr9sKWu0x5XdJHrDA) | [Davinci](https://open.spotify.com/album/1vkIgRJj1wNbkmEyOl9aUa) | 2:07 | 2022-07-15 |  |
 | [Davos](https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:26 | 2022-07-15 | 2023-04-22 |
@@ -227,6 +227,7 @@
 | [Harvest Time](https://open.spotify.com/track/5YdzD8A9GAe51MFscLAfVq) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Harvest Time](https://open.spotify.com/album/1OxQ8lUawMgaxAxu5oYbJN) | 2:23 | 2023-02-24 | 2023-04-22 |
 | [Haute Garonne](https://open.spotify.com/track/76loNX1slkkTetxZZQ183q) | [Christopher Renault](https://open.spotify.com/artist/3QrTQRLyYqfw8K2zzFsEn4) | [back in time](https://open.spotify.com/album/1iZlR1EQhzM6itJ396l41C) | 3:18 | 2022-07-15 | 2023-04-22 |
 | [Havana Vieja](https://open.spotify.com/track/5ykTeQ3ky7XyS7js8jqRNW) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Havana Vieja](https://open.spotify.com/album/4G5bMXtQj8ZR99j6QU1Oqf) | 2:51 | 2023-04-21 |  |
+| [Have Faith In What Will Be](https://open.spotify.com/track/1oq0mwvjEoJPdnjq1relpX) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Have Faith In What Will Be](https://open.spotify.com/album/3WyBMmOjjn6kcTgZS3jlxV) | 3:18 | 2023-10-27 |  |
 | [Haven](https://open.spotify.com/track/3b30jDSlElH2AsedaBgLaw) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Haven](https://open.spotify.com/album/6L2FYF5DUWMYia12leLKAo) | 2:15 | 2023-04-21 | 2023-06-09 |
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 | 2023-04-22 |
 | [Heimweh](https://open.spotify.com/track/3cAAUD4tggStdAti1TDQNE) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Heimweh](https://open.spotify.com/album/0NwnK3pUidy0E7dGTmnvR9) | 2:16 | 2023-04-21 | 2023-06-03 |
@@ -294,6 +295,7 @@
 | [Lagoa do Fogo](https://open.spotify.com/track/7rYXdXdtCSLjmZzecpXkgg) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Lagoa do Fogo](https://open.spotify.com/album/09OR2Jo6jK0KxEzTpz74ww) | 2:50 | 2023-04-21 |  |
 | [Laguna](https://open.spotify.com/track/6v7vnohTh1WrGJznocVGdg) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Laguna](https://open.spotify.com/album/7lBsRkafxyp9aUhvuiD1hF) | 3:11 | 2022-11-18 | 2023-04-22 |
 | [Laguna Blanca](https://open.spotify.com/track/17GnGJcqKS8JzbwDkWUcIh) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Laguna Blanca](https://open.spotify.com/album/6jQ90op173u5KInBVXVLCl) | 3:00 | 2023-04-21 |  |
+| [Laguna Colorada](https://open.spotify.com/track/3J2QDxVOOmQKalHgfU8LUx) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Laguna Colorada](https://open.spotify.com/album/04OjNl78J3in8FrCedTKun) | 2:34 | 2023-10-27 |  |
 | [Lake Constance](https://open.spotify.com/track/4IAIUOpxTzrrspahVpk88S) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Lake Constance](https://open.spotify.com/album/0Ux3osuVEO4LGxDxM2ddh9) | 1:34 | 2023-04-21 | 2023-06-03 |
 | [Lake District](https://open.spotify.com/track/2xrNBiMKQ8Waq8Yfk3SILh) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Lake District](https://open.spotify.com/album/2D3X3S42HBWPbhWL9nE7YE) | 2:49 | 2022-07-15 | 2022-10-29 |
 | [Lange Reise](https://open.spotify.com/track/47s7kyfVRgsnwgkK2sGQzM) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Wunder der Welt](https://open.spotify.com/album/0KpjPdNUuZ0k3CwzSde3Gg) | 2:36 | 2023-04-21 |  |
@@ -442,7 +444,7 @@
 | [Romance Castellano](https://open.spotify.com/track/3pW3bF6TRv7bmeH8vw5Lkm) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Romance Castellano](https://open.spotify.com/album/3riMPqEcEtegXn7vGQ8KEm) | 2:15 | 2022-10-07 | 2023-04-22 |
 | [Rome Tivoli](https://open.spotify.com/track/5cjoEk6N6psm1BO9Qdd4ML) | [Miguel Serugetti](https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz) | [Rome Tivoli](https://open.spotify.com/album/2PqlKRq3A5LJlV7G8NBkom) | 1:51 | 2022-09-16 | 2023-04-22 |
 | [Rosebuds](https://open.spotify.com/track/0GydsTxQwwzuyVbqpdSgD7) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Rosebuds](https://open.spotify.com/album/36pUo2ZfESoPVlGVRGrzIK) | 2:18 | 2022-07-15 | 2022-10-07 |
-| [Rêves de perpétuité](https://open.spotify.com/track/3zVvkgye4Y4ZZNQceOXhx1) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Rêves de perpétuité](https://open.spotify.com/album/1NiiCOCRi6SgLhPDP6QTKZ) | 2:14 | 2023-04-21 |  |
+| [Rêves de perpétuité](https://open.spotify.com/track/3zVvkgye4Y4ZZNQceOXhx1) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Rêves de perpétuité](https://open.spotify.com/album/1NiiCOCRi6SgLhPDP6QTKZ) | 2:14 | 2023-04-21 | 2023-11-01 |
 | [Saas Fee](https://open.spotify.com/track/2q9RdGt69x8gWofFuPTLtD) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [Welt Stille](https://open.spotify.com/album/0EDr3KbcnfoWmOsA4mhWaC) | 2:43 | 2022-07-15 | 2022-09-17 |
 | [Saffron Hills](https://open.spotify.com/track/65334YdgENom7CuEpChTCJ) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Saffron Hills](https://open.spotify.com/album/6j9zshvn2NhNjUKGRP1NgM) | 2:25 | 2022-07-15 | 2022-11-18 |
 | [Sail For Toumain](https://open.spotify.com/track/1WFdNNCiWcNFnL45R08pou) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Sail For Toumain](https://open.spotify.com/album/4qEH9vdWvau9XxXhlBi3q1) | 2:26 | 2023-04-21 |  |
@@ -478,6 +480,7 @@
 | [Silent Senses](https://open.spotify.com/track/25OjmtlPiAxOBYVK9RJpEB) | [Jónatan Tinek](https://open.spotify.com/artist/3m1CHyq4P8IYZyEn4A2qVF) | [Silent Senses](https://open.spotify.com/album/6FM9tmXDgP3cOofFRSFZ8b) | 2:19 | 2023-04-21 |  |
 | [Silent Sigh](https://open.spotify.com/track/612dMYgROLM8ZTF7ucY41U) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Silent Sigh](https://open.spotify.com/album/5znmBBJ5OV0jVSMFX9a7rT) | 2:45 | 2023-04-21 |  |
 | [Silver Light](https://open.spotify.com/track/6jqOMgW43YKj1Q8mRzQoxS) | [Vincenzo Adelini](https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v) | [Silver Light](https://open.spotify.com/album/1LO8pLa7mpZgkLddhh9B8m) | 2:16 | 2023-04-21 | 2023-06-03 |
+| [Simpatia](https://open.spotify.com/track/4HeyYmT5CJldklMP2ZLeSJ) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Simpatia](https://open.spotify.com/album/3HHbMvYOgKOAcEyLrkJQ17) | 2:46 | 2023-10-27 |  |
 | [Sirius](https://open.spotify.com/track/0SeZxemKR9G0OZ9peDOMjK) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Sirius](https://open.spotify.com/album/6uhWaOInvJrT8zV8YbGiN6) | 1:52 | 2023-04-21 | 2023-08-26 |
 | [Situatie](https://open.spotify.com/track/6gppQeAHYa7eary500daO1) | [Elle Vorink](https://open.spotify.com/artist/1qY54CD9iY4Y5yKywqCYqG) | [Situatie](https://open.spotify.com/album/398miCQf8mAmxGt7agtqGI) | 3:09 | 2023-04-21 | 2023-05-13 |
 | [Slaap Niet Meer](https://open.spotify.com/track/17zkvQZwuaKdZkSyR1MmV3) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Slaap Niet Meer](https://open.spotify.com/album/2ZyTh0oFrwe5HhUUKPQmw4) | 2:27 | 2023-04-21 |  |

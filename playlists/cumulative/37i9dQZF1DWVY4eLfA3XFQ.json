@@ -2909,6 +2909,28 @@
     },
     {
       "album": {
+        "name": "Bring The Noise / Stutter",
+        "url": "https://open.spotify.com/album/0Tp4HZEY7LTY11vIN8uhgy"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "Rave Rae",
+          "url": "https://open.spotify.com/artist/72I24QKKHBlfjLwDH359MG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/74JGPkr0Lb0KOTJJvp28UH"
+    },
+    {
+      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY"
       },
@@ -6088,7 +6110,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 156480,
       "name": "Dont Sleep",
       "url": "https://open.spotify.com/track/0bmT2MQ4FrBOgWhYr4S8Lj"
@@ -12333,6 +12355,24 @@
     },
     {
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225116,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
+    },
+    {
+      "album": {
         "name": "La Gente",
         "url": "https://open.spotify.com/album/1yMQ7a4fay6bmaCKDS6Q7a"
       },
@@ -13792,6 +13832,24 @@
       "duration_ms": 354285,
       "name": "Lost Love",
       "url": "https://open.spotify.com/track/0MjmTuK9Va2HN7eRhwc6hZ"
+    },
+    {
+      "album": {
+        "name": "LOVE DESIRE",
+        "url": "https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3"
+      },
+      "artists": [
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "LOVE DESIRE",
+      "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
     },
     {
       "album": {
@@ -15750,7 +15808,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 365871,
       "name": "Music Is Life - Main Mix",
       "url": "https://open.spotify.com/track/1Wy9vsNoymAlUsr4NpV5C9"
@@ -19022,7 +19080,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 166919,
       "name": "Rasta Man",
       "url": "https://open.spotify.com/track/6voZD5npVSYcPaNOYvmAqk"

@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 124667,
+  "num_followers": 124710,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDA2MGI2YTA2NWQxODI1NmE5ZjNhNGY0ODZmMDNkZTM4OGU3ZjEw",
+  "snapshot_id": "MCxiMDAyYjVkZjEyZDk3MzA0NTQ5Y2QzZWFiMzg1ZGUwOWEzMWViZGJm",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -495,18 +495,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
+        "name": "All I See (feat. CASS)",
+        "url": "https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "Jaisua",
+          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
         }
       ],
-      "duration_ms": 234443,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
+      "duration_ms": 183341,
+      "name": "All I See (feat. CASS)",
+      "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -527,22 +531,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "All I See (feat. CASS)",
-        "url": "https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs"
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
       },
       "artists": [
         {
-          "name": "Jaisua",
-          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
-        },
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 183341,
-      "name": "All I See (feat. CASS)",
-      "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
+      "duration_ms": 234443,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        },
-        {
-          "name": "Eric Gilmour",
-          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
-        }
-      ],
-      "duration_ms": 209739,
-      "name": "Rest On Us",
-      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "EXIT",
         "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
       },
@@ -651,22 +631,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy"
       },
@@ -679,6 +643,22 @@
       "duration_ms": 197675,
       "name": "Won't Let Me Go",
       "url": "https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -719,26 +699,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "III (Reimagined)",
-        "url": "https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Eyes On You (Live)",
         "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
       },
@@ -755,6 +715,26 @@
       "duration_ms": 233947,
       "name": "Eyes On You - Live",
       "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "III (Reimagined)",
+        "url": "https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -779,22 +759,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "I Could Sing Of Your Love Forever",
-        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 212998,
-      "name": "I Could Sing of Your Love Forever",
-      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
       },
@@ -807,6 +771,22 @@
       "duration_ms": 200133,
       "name": "Free",
       "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "I Could Sing Of Your Love Forever",
+        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 212998,
+      "name": "I Could Sing of Your Love Forever",
+      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -911,22 +891,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Ages",
         "url": "https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k"
       },
@@ -943,18 +907,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "It's Coming",
-        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
       },
       "artists": [
         {
-          "name": "Jet Trouble",
-          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 154305,
-      "name": "It's Coming",
-      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -971,6 +935,22 @@
       "duration_ms": 168853,
       "name": "Better View",
       "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "It's Coming",
+        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
+      },
+      "artists": [
+        {
+          "name": "Jet Trouble",
+          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+        }
+      ],
+      "duration_ms": 154305,
+      "name": "It's Coming",
+      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1039,6 +1019,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Crown (Deluxe)",
+        "url": "https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC"
+      },
+      "artists": [
+        {
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Turn This Ship Around - Gregatron Remix",
+      "url": "https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "I've Got A Fire",
         "url": "https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI"
       },
@@ -1059,18 +1055,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Crown (Deluxe)",
-        "url": "https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC"
+        "name": "Fear Not",
+        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
       },
       "artists": [
         {
-          "name": "Hannah Schaefer",
-          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
+          "name": "FEARLESS BND",
+          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Turn This Ship Around - Gregatron Remix",
-      "url": "https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl"
+      "duration_ms": 333890,
+      "name": "Not a Chance",
+      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1091,22 +1087,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Fear Not",
-        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
-      },
-      "artists": [
-        {
-          "name": "FEARLESS BND",
-          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
-        }
-      ],
-      "duration_ms": 333890,
-      "name": "Not a Chance",
-      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
       },
@@ -1119,6 +1099,22 @@
       "duration_ms": 200324,
       "name": "Earth",
       "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 230220,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1163,6 +1159,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/5oNay5SgVIVqAnioxLq3lL"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 225856,
+      "name": "Heaven On Earth - Radio Single",
+      "url": "https://open.spotify.com/track/54xPBJBmLLI8JvsfPYJ670"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "I Feel Good About It",
         "url": "https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4"
       },
@@ -1183,34 +1195,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Heaven On Earth",
-        "url": "https://open.spotify.com/album/5oNay5SgVIVqAnioxLq3lL"
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/0KK2IqQPjzy1pvrzmSxVqJ"
       },
       "artists": [
         {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
         }
       ],
-      "duration_ms": 225856,
-      "name": "Heaven On Earth - Radio Single",
-      "url": "https://open.spotify.com/track/54xPBJBmLLI8JvsfPYJ670"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 230220,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+      "duration_ms": 204555,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/5V1Z5Onw8fVeSHn6Se89JX"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1227,22 +1223,6 @@
       "duration_ms": 225472,
       "name": "Nothing But Good",
       "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Help Me",
-        "url": "https://open.spotify.com/album/0KK2IqQPjzy1pvrzmSxVqJ"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 204555,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/5V1Z5Onw8fVeSHn6Se89JX"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1291,6 +1271,26 @@
       "duration_ms": 218200,
       "name": "More Than Good Enough",
       "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Clouds Are Clearing: Mixtape 1A",
+        "url": "https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Higher Than Mine (Remix)",
+      "url": "https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7"
     }
   ],
   "unique_name": "Hits UP",

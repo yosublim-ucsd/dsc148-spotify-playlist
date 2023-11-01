@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 
 > Your favorite folk songs, live\. Cover: John Prine
 
-[Spotify](https://open.spotify.com/user/spotify) - 405 likes - 66 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 406 likes - 66 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

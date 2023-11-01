@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 682346,
+  "num_followers": 682490,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjRjZTVhOTQyNzQ5YTMzNzlhYzFkNzJiYThmYTgwYWMzZWUxMTI0",
+  "snapshot_id": "MCwyYTk1NjliYjFmM2JkNTI1ZmU3MzU1NjM5MjYxZjMwMWFmMzE5YmQ1",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
+        "name": "Lo Mio Es Amor",
+        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 309826,
+      "name": "Lo M\u00edo Es Amor",
+      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
         "name": "Una Historia Musical",
         "url": "https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 231306,
       "name": "Cuando Te Miro",
       "url": "https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "Lo Mio Es Amor",
-        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 309826,
-      "name": "Lo M\u00edo Es Amor",
-      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
     },
     {
       "added_at": "2023-10-19 19:33:14",

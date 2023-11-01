@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 27055,
+  "num_followers": 27103,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjBkYTY4Y2ZhODQzZjUyZmQwZGI1NDhjYjZlOWM1ODc3MzFkZDVh",
+  "snapshot_id": "MCxmZWU0MWZiMWI0MmUzY2Q4Yjc3ODU4NTU4YTAyNWJiMmU3NDJiZmY1",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:34",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Cheo",
-        "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
+        "name": "Cant\u00e1ndole al Amor, Vol. 2",
+        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
       },
       "artists": [
         {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 253253,
-      "name": "Anacaona",
-      "url": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg"
+      "duration_ms": 301441,
+      "name": "T\u00fa Con El",
+      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Cant\u00e1ndole al Amor, Vol. 2",
-        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
+        "name": "Cheo",
+        "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
         }
       ],
-      "duration_ms": 301441,
-      "name": "T\u00fa Con El",
-      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
+      "duration_ms": 253253,
+      "name": "Anacaona",
+      "url": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Pura Salsa",
-        "url": "https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1"
-      },
-      "artists": [
-        {
-          "name": "Azuquita Y Su Orquesta Melao",
-          "url": "https://open.spotify.com/artist/4DRX9H3y8WLxqYspsWHpFR"
-        }
-      ],
-      "duration_ms": 275040,
-      "name": "Salsa Na' Ma'",
-      "url": "https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "Perdido",
         "url": "https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 489000,
       "name": "Y Yo Ganga",
       "url": "https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Pura Salsa",
+        "url": "https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1"
+      },
+      "artists": [
+        {
+          "name": "Azuquita Y Su Orquesta Melao",
+          "url": "https://open.spotify.com/artist/4DRX9H3y8WLxqYspsWHpFR"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Salsa Na' Ma'",
+      "url": "https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "The Best Of The Concord Years",
-        "url": "https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 315986,
-      "name": "Tokyo Blues",
-      "url": "https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "Yo Soy La Rumba",
         "url": "https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 214360,
       "name": "Tanga",
       "url": "https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "The Best Of The Concord Years",
+        "url": "https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 315986,
+      "name": "Tokyo Blues",
+      "url": "https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1723,8 +1723,8 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "From Hollywood",
-        "url": "https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf"
+        "name": "West Side Beat",
+        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
       },
       "artists": [
         {
@@ -1732,9 +1732,9 @@
           "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
         }
       ],
-      "duration_ms": 172226,
-      "name": "Cuando Sale El Sol",
-      "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
+      "duration_ms": 167640,
+      "name": "Matrimonio Feliz",
+      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1855,8 +1855,8 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "West Side Beat",
-        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
+        "name": "From Hollywood",
+        "url": "https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf"
       },
       "artists": [
         {
@@ -1864,9 +1864,9 @@
           "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
         }
       ],
-      "duration_ms": 167640,
-      "name": "Matrimonio Feliz",
-      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
+      "duration_ms": 172226,
+      "name": "Cuando Sale El Sol",
+      "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
     },
     {
       "added_at": "2023-10-19 19:33:34",

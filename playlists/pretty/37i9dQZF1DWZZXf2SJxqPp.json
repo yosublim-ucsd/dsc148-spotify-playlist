@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 129177,
+  "num_followers": 129199,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTAzNDEwZTYxZWRmNmViMzQ4YzQ2NWE3MWY3Yjc4ZDY2MTRmOTRm",
+  "snapshot_id": "MCxmNGEzOWU2MTNiNTE4ZmIyNWU1YmI0OWUzYmE4MWZkMDc3ZTRjMzdm",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Premiers \u00e9mois",
+        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "La femme \u00e0 la peau bleue",
+      "url": "https://open.spotify.com/track/3t9AQbyfGnVbe3xuTg9PEX"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Dancy Party",
         "url": "https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Premiers \u00e9mois",
-        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "La femme \u00e0 la peau bleue",
-      "url": "https://open.spotify.com/track/3t9AQbyfGnVbe3xuTg9PEX"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
-      },
-      "artists": [
-        {
-          "name": "Bleu Toucan",
-          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
-        }
-      ],
-      "duration_ms": 194082,
-      "name": "Hano\u00ef caf\u00e9",
-      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 255826,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
+      },
+      "artists": [
+        {
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+        }
+      ],
+      "duration_ms": 194082,
+      "name": "Hano\u00ef caf\u00e9",
+      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Black Catbird",
-        "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
-      },
-      "artists": [
-        {
-          "name": "the Garifuna Collective",
-          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
-        }
-      ],
-      "duration_ms": 165593,
-      "name": "Black Catbird",
-      "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "MOOD",
         "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 287123,
       "name": "WALLS",
       "url": "https://open.spotify.com/track/4mUWS2M0eoM8jezmEJPbFh"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Black Catbird",
+        "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
+      },
+      "artists": [
+        {
+          "name": "the Garifuna Collective",
+          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
+        }
+      ],
+      "duration_ms": 165593,
+      "name": "Black Catbird",
+      "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Burning Bright",
         "url": "https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 268829,
       "name": "Sister",
       "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Isla Mater",
+        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "It's alright",
-        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
-      },
-      "artists": [
-        {
-          "name": "Goose Groovy",
-          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
-        }
-      ],
-      "duration_ms": 196676,
-      "name": "It's alright",
-      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Topical Dancer",
         "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 226253,
       "name": "Ceci n'est pas un clich\u00e9",
       "url": "https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "It's alright",
+        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "duration_ms": 196676,
+      "name": "It's alright",
+      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Hustler's Lullaby",
-        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
+        "name": "On the Cloud",
+        "url": "https://open.spotify.com/album/2P06JH4YLK8eDlbuB5JgEG"
       },
       "artists": [
         {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+          "name": "DGHTR",
+          "url": "https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL"
         }
       ],
-      "duration_ms": 314181,
-      "name": "Shinjuku Strut",
-      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
+      "duration_ms": 111272,
+      "name": "On The Cloud",
+      "url": "https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "On the Cloud",
-        "url": "https://open.spotify.com/album/2P06JH4YLK8eDlbuB5JgEG"
+        "name": "Hustler's Lullaby",
+        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
       },
       "artists": [
         {
-          "name": "DGHTR",
-          "url": "https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL"
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
         }
       ],
-      "duration_ms": 111272,
-      "name": "On The Cloud",
-      "url": "https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm"
+      "duration_ms": 314181,
+      "name": "Shinjuku Strut",
+      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1567,6 +1567,26 @@
       "duration_ms": 208150,
       "name": "Lost in Music",
       "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Beige 70 (Domenique Dumont Bilingual Remix)",
+        "url": "https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox"
+      },
+      "artists": [
+        {
+          "name": "Cola Boyy",
+          "url": "https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8"
+        },
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 262019,
+      "name": "Beige 70 - Domenique Dumont Bilingual Remix",
+      "url": "https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1635,26 +1655,6 @@
       "duration_ms": 319677,
       "name": "Feel The Heat",
       "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Beige 70 (Domenique Dumont Bilingual Remix)",
-        "url": "https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox"
-      },
-      "artists": [
-        {
-          "name": "Cola Boyy",
-          "url": "https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8"
-        },
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 262019,
-      "name": "Beige 70 - Domenique Dumont Bilingual Remix",
-      "url": "https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "The Universe",
+        "url": "https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
       },
@@ -1795,22 +1815,6 @@
       "duration_ms": 220038,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
-      },
-      "artists": [
-        {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
-        }
-      ],
-      "duration_ms": 451362,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

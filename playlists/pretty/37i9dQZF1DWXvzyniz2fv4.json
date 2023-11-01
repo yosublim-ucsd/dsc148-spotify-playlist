@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 153448,
+  "num_followers": 153498,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDk4MDg3Zjg0OWNhN2Y2OGYzODgyMmEwYWQzOTBmOGRlM2Q2ZGIw",
+  "snapshot_id": "MCwyNWM0ZTg4YmI3YWYyNTZmNjYzNmQyOTk0NWIzNTk2MDExMDllY2Q3",
   "tracks": [
     {
       "added_at": "2023-10-27 03:01:00",
@@ -187,6 +187,30 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Melhor Dia 12 - Levanta",
+        "url": "https://open.spotify.com/album/75xY7bpwi8IyR3wjJCo701"
+      },
+      "artists": [
+        {
+          "name": "Marcos Baroni",
+          "url": "https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Melhor Dia 12 - Levanta",
+      "url": "https://open.spotify.com/track/3rmbC9VCOgP5CgUAgUIULU"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Andressa",
         "url": "https://open.spotify.com/album/6XQbOoWHk2L2Cnn472eHGJ"
       },
@@ -247,30 +271,6 @@
       "duration_ms": 256523,
       "name": "Praia do Rosa - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Melhor Dia 12 - Levanta",
-        "url": "https://open.spotify.com/album/75xY7bpwi8IyR3wjJCo701"
-      },
-      "artists": [
-        {
-          "name": "Marcos Baroni",
-          "url": "https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        },
-        {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Melhor Dia 12 - Levanta",
-      "url": "https://open.spotify.com/track/3rmbC9VCOgP5CgUAgUIULU"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -783,22 +783,30 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Pra Voc\u00ea Ficar",
-        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
+        "name": "Mais Al\u00e9m",
+        "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
       },
       "artists": [
         {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+          "name": "Lipe",
+          "url": "https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3"
         },
         {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        },
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/1jahAth5iScVQXLQsPjzlJ"
+        },
+        {
+          "name": "Ricca",
+          "url": "https://open.spotify.com/artist/7mk7g6IiTDEVc9aSRe2Yxc"
         }
       ],
-      "duration_ms": 160819,
-      "name": "Pra Voc\u00ea Ficar",
-      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
+      "duration_ms": 193854,
+      "name": "Mais Al\u00e9m",
+      "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -839,30 +847,22 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Mais Al\u00e9m",
-        "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
+        "name": "Pra Voc\u00ea Ficar",
+        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
       },
       "artists": [
         {
-          "name": "Lipe",
-          "url": "https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3"
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
         },
         {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        },
-        {
-          "name": "Lobo",
-          "url": "https://open.spotify.com/artist/1jahAth5iScVQXLQsPjzlJ"
-        },
-        {
-          "name": "Ricca",
-          "url": "https://open.spotify.com/artist/7mk7g6IiTDEVc9aSRe2Yxc"
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
         }
       ],
-      "duration_ms": 193854,
-      "name": "Mais Al\u00e9m",
-      "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
+      "duration_ms": 160819,
+      "name": "Pra Voc\u00ea Ficar",
+      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1175,6 +1175,34 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Interfone",
+        "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
+      },
+      "artists": [
+        {
+          "name": "Sergin",
+          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "Juan Branco",
+          "url": "https://open.spotify.com/artist/4IeVdoR6r3NmxRDZIeVhU3"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Interfone",
+      "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Perto do Sol",
         "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
       },
@@ -1227,30 +1255,22 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Interfone",
-        "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
+        "name": "Vento Bom",
+        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
       "artists": [
         {
-          "name": "Sergin",
-          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
         },
         {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "Juan Branco",
-          "url": "https://open.spotify.com/artist/4IeVdoR6r3NmxRDZIeVhU3"
+          "name": "Mc Tek\u00e1da-B",
+          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Interfone",
-      "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
+      "duration_ms": 169409,
+      "name": "Vento Bom",
+      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1275,26 +1295,6 @@
       "duration_ms": 152000,
       "name": "Voe",
       "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Vento Bom",
-        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
-      },
-      "artists": [
-        {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
-        },
-        {
-          "name": "Mc Tek\u00e1da-B",
-          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
-        }
-      ],
-      "duration_ms": 169409,
-      "name": "Vento Bom",
-      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -1439,42 +1455,22 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+        "name": "Puro Suco Stronda",
+        "url": "https://open.spotify.com/album/3uihtsjHXuNvtqM30f4UIa"
       },
       "artists": [
         {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "V\u00e1rios Planos",
-        "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+          "name": "Diego Thug",
+          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
         },
         {
-          "name": "Hila Campelo",
-          "url": "https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+          "name": "YoungAlxn",
+          "url": "https://open.spotify.com/artist/5efPHAUTNMCmlrD4viZ0w4"
         }
       ],
-      "duration_ms": 180705,
-      "name": "V\u00e1rios Planos",
-      "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
+      "duration_ms": 205906,
+      "name": "Puro Suco Stronda",
+      "url": "https://open.spotify.com/track/3CIBwDCGbrYAyUIT9Gt7Bc"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1511,6 +1507,30 @@
       "duration_ms": 190769,
       "name": "Adaptar",
       "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "V\u00e1rios Planos",
+        "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Hila Campelo",
+          "url": "https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "V\u00e1rios Planos",
+      "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1559,26 +1579,6 @@
       "duration_ms": 139097,
       "name": "27 Dias",
       "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Puro Suco Stronda",
-        "url": "https://open.spotify.com/album/3uihtsjHXuNvtqM30f4UIa"
-      },
-      "artists": [
-        {
-          "name": "Diego Thug",
-          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
-        },
-        {
-          "name": "YoungAlxn",
-          "url": "https://open.spotify.com/artist/5efPHAUTNMCmlrD4viZ0w4"
-        }
-      ],
-      "duration_ms": 205906,
-      "name": "Puro Suco Stronda",
-      "url": "https://open.spotify.com/track/3CIBwDCGbrYAyUIT9Gt7Bc"
     },
     {
       "added_at": "2023-10-27 03:01:00",

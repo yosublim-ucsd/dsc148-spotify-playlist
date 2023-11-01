@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,650 songs - 2 day 14 hr 39 min
+1,651 songs - 2 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,7 +714,7 @@
 | [Insouciance](https://open.spotify.com/track/0YNVsowpOPrBvgvcu8lQtO) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Insouciance](https://open.spotify.com/album/7thZLq5RVtYhHFqRmfijgd) | 2:07 | 2022-07-22 | 2022-08-12 |
 | [Inspiration](https://open.spotify.com/track/7tlfSeR24SK1zh9hd32fcw) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Inspiration](https://open.spotify.com/album/3H2cPlfyCa0ahwUXnUpfmz) | 2:12 | 2022-11-11 | 2023-09-16 |
 | [Inspiration Sign](https://open.spotify.com/track/4MpKdXBjzGUvJr4dY6Klyd) | [Boozoo Bajou](https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3), [Hellmann](https://open.spotify.com/artist/5KnMQpvFLFj2bCJKAe10sB), [Bembo.wav](https://open.spotify.com/artist/5Bdfkiu2iPkIxqWE3Kxcvb) | [Inspiration Sign](https://open.spotify.com/album/0CqSkcSkYAQqOHLXqZ8Q8A) | 2:37 | 2023-08-31 | 2023-10-13 |
-| [Inspired](https://open.spotify.com/track/7FtklceBvMCY4Fju8qATUH) | [Flying Fruits](https://open.spotify.com/artist/6sVtAx9fJjuO2RSlJlN7fq) | [Inspired](https://open.spotify.com/album/2TTKmkQ72n4DRtLJWx9kZm) | 1:40 | 2022-10-28 |  |
+| [Inspired](https://open.spotify.com/track/7FtklceBvMCY4Fju8qATUH) | [Flying Fruits](https://open.spotify.com/artist/6sVtAx9fJjuO2RSlJlN7fq) | [Inspired](https://open.spotify.com/album/2TTKmkQ72n4DRtLJWx9kZm) | 1:40 | 2022-10-28 | 2023-11-01 |
 | [intentions](https://open.spotify.com/track/7an4nPcSCnHX3BZBPJsMON) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [intentions](https://open.spotify.com/album/4k2f1pwo3sQrePxO8LSP3v) | 2:18 | 2022-04-15 | 2022-10-14 |
 | [Interlace](https://open.spotify.com/track/7LV01OBynmYstauhU7HeTC) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Interlace](https://open.spotify.com/album/770bOOrgLvY5Sn7Crrhh2U) | 2:36 | 2022-04-15 | 2022-09-09 |
 | [Interrupt](https://open.spotify.com/track/4yCfAzDbOFFc5Wd54vIaV6) | [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [Interrupt](https://open.spotify.com/album/3maY7Y2WbVcFWHTWkeEqki) | 1:33 | 2022-05-13 | 2022-11-12 |
@@ -1122,6 +1122,7 @@
 | [Peaches 'n' Cream](https://open.spotify.com/track/12aZMF06csv4n55b8GFGhc) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Peaches 'n' Cream](https://open.spotify.com/album/0YvX1LoDv97RVWeh44ANzo) | 3:12 | 2022-05-13 | 2023-02-07 |
 | [Peaches And Cream](https://open.spotify.com/track/14oGzCDd0Vc8zAmy4XZo9s) | [Extatics](https://open.spotify.com/artist/4iGRANB0bQlyjiewj4ZFs6) | [Peaches And Cream](https://open.spotify.com/album/35UfPfsj9bf6I90OS16Xqe) | 2:20 | 2022-07-15 |  |
 | [peanut butter shake](https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/2P0nMU7WLtITurnReYqaH3) | 2:45 | 2023-10-27 | 2023-10-29 |
+| [peanut dream shake](https://open.spotify.com/track/32R8uRLa9uf1ffKWhVrdFR) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/7aqITKpq0WfAmXYwNCwj9u) | 2:45 | 2023-10-27 |  |
 | [Pearl Dust](https://open.spotify.com/track/4HhZZZAtRufBXnJyPtf7uB) | [florentine](https://open.spotify.com/artist/7FLMLV8T9qJOkzGZArUAns) | [Pearl Dust](https://open.spotify.com/album/6CEev0dBhWl5ed27yrBEOL) | 2:28 | 2022-04-15 | 2022-09-23 |
 | [Pearls](https://open.spotify.com/track/0SglF5UdDxNogi2W6eW8EI) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Pearls](https://open.spotify.com/album/1w4Tj86M2Sk3HwsT83mg2v) | 2:32 | 2022-12-16 | 2023-09-16 |
 | [Pen Pal](https://open.spotify.com/track/5Oo2QK56CJN3scvaXVdaOR) | [Siegburg West](https://open.spotify.com/artist/06QqgeWBB7omtNKDJk773W) | [Pen Pal](https://open.spotify.com/album/3IeuMsDTGxhx94xO2UdSPO) | 2:18 | 2023-03-01 |  |

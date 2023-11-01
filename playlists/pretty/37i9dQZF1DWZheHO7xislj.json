@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 138309,
+  "num_followers": 138330,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTE4MWI4NWU1OGJiM2UyODU1YmVkZjU4YzY1MzU0N2ExYTQ2Mjc4",
+  "snapshot_id": "MCxlOWJlZjQ2ZjJiMmZjOTRjZmZiN2ViMjgyYjFkNzkxZWQ0M2VlOGVk",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "Feelin' Alright",
-      "url": "https://open.spotify.com/track/0Jl5bIEve3A4axcjY3EgDZ"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Spinners",
         "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 249733,
       "name": "Could It Be I'm Falling in Love",
       "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "Feelin' Alright",
+      "url": "https://open.spotify.com/track/0Jl5bIEve3A4axcjY3EgDZ"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Baby Huey Story: The Living Legend",
-        "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
-      },
-      "artists": [
-        {
-          "name": "Baby Huey",
-          "url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Adventures In Paradise",
         "url": "https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 250866,
       "name": "Baby, This Love I Have",
       "url": "https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Baby Huey Story: The Living Legend",
+        "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
+      },
+      "artists": [
+        {
+          "name": "Baby Huey",
+          "url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "Love That Girl",
-      "url": "https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -1867,18 +1851,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
         }
       ],
-      "duration_ms": 262800,
-      "name": "Nothing Can Come Between Us",
-      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
+      "duration_ms": 184413,
+      "name": "Love That Girl",
+      "url": "https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1895,6 +1879,22 @@
       "duration_ms": 280062,
       "name": "Remember the Rain",
       "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Nothing Can Come Between Us",
+      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 265186,
-      "name": "The Sweetest Taboo - Remastered",
-      "url": "https://open.spotify.com/track/5SRvh35HZmN5bNe8iT4ST5"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
@@ -2011,6 +1995,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 265186,
+      "name": "The Sweetest Taboo - Remastered",
+      "url": "https://open.spotify.com/track/5SRvh35HZmN5bNe8iT4ST5"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
       },
@@ -2023,22 +2023,6 @@
       "duration_ms": 178840,
       "name": "Am I The Same Girl",
       "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Irma Thomas Collection: 1961-1966",
-        "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Ruler Of My Heart",
-      "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2079,6 +2063,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Irma Thomas Collection: 1961-1966",
+        "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Ruler Of My Heart",
+      "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Inspiration Information/ Wings Of Love",
         "url": "https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S"
       },
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Turn Your Love Around - 2015 GH Version",
-      "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Express Yourself (Remastered & Expanded)",
         "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 229653,
       "name": "Express Yourself - Remastered Version",
       "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Turn Your Love Around - 2015 GH Version",
+      "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Stand By Your Man",
-        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Is It Because I'm Black",
         "url": "https://open.spotify.com/album/7Iw4TahLkIe8RtKT8e4HIJ"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 147280,
       "name": "Concrete Reservation",
       "url": "https://open.spotify.com/track/1Li9HBLXG2LJSeD4fEhtcd"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2415,6 +2415,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Made In Jamaica",
+        "url": "https://open.spotify.com/album/02a2wsjmtlcOn3mLbJuHb4"
+      },
+      "artists": [
+        {
+          "name": "Courtney John",
+          "url": "https://open.spotify.com/artist/53uGQ1amGHHb0Tzn2A6Oc0"
+        }
+      ],
+      "duration_ms": 194293,
+      "name": "Lucky Man",
+      "url": "https://open.spotify.com/track/4XBN0BNKaePeANSEcrs8vw"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "R&B: From Doo-Wop To Hip-Hop",
         "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
@@ -2431,22 +2447,6 @@
       "duration_ms": 211426,
       "name": "Wake up Everybody (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Made In Jamaica",
-        "url": "https://open.spotify.com/album/02a2wsjmtlcOn3mLbJuHb4"
-      },
-      "artists": [
-        {
-          "name": "Courtney John",
-          "url": "https://open.spotify.com/artist/53uGQ1amGHHb0Tzn2A6Oc0"
-        }
-      ],
-      "duration_ms": 194293,
-      "name": "Lucky Man",
-      "url": "https://open.spotify.com/track/4XBN0BNKaePeANSEcrs8vw"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2663,6 +2663,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "The Art Of Tea",
+        "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
+      },
+      "artists": [
+        {
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Monkey See-Monkey Do",
+      "url": "https://open.spotify.com/track/65LeJBEMVBGJ8u68Cw8LXZ"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Wake Up!",
         "url": "https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP"
       },
@@ -2679,22 +2695,6 @@
       "duration_ms": 386866,
       "name": "Compared to What",
       "url": "https://open.spotify.com/track/6HwUwxon7QjBIf75SCz2QD"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "The Art Of Tea",
-        "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
-      },
-      "artists": [
-        {
-          "name": "Michael Franks",
-          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Monkey See-Monkey Do",
-      "url": "https://open.spotify.com/track/65LeJBEMVBGJ8u68Cw8LXZ"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3175,22 +3175,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Soul Power",
-        "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 270325,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "FEVER",
         "url": "https://open.spotify.com/album/2QcXOk9Jd26gGzg8jTg3Ck"
       },
@@ -3203,6 +3187,22 @@
       "duration_ms": 183275,
       "name": "45",
       "url": "https://open.spotify.com/track/33tsDNAc6GeNXidKLCHhfz"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Soul Power",
+        "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 270325,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3259,22 +3259,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
-        "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
-      },
-      "artists": [
-        {
-          "name": "Sandra Wright",
-          "url": "https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "I'll Come Running Back (Mr Scruff Edit)",
-      "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "W.E.L.F.A.R.E",
         "url": "https://open.spotify.com/album/5ml124B4zTopEnWFW4hYYw"
       },
@@ -3287,6 +3271,22 @@
       "duration_ms": 168229,
       "name": "W.E.L.F.A.R.E",
       "url": "https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
+        "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
+      },
+      "artists": [
+        {
+          "name": "Sandra Wright",
+          "url": "https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "I'll Come Running Back (Mr Scruff Edit)",
+      "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
     },
     {
       "added_at": "2023-08-15 12:19:30",

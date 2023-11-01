@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1857590,
+  "num_followers": 1857597,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzAzMDk2YmQ5MGFhMmZiMzNjNDBiZjJhMDcxZDAyNTcwY2ViNmIz",
+  "snapshot_id": "MCxhNGIyNzk1MWVjYzEzMGM4MDVhOGRjYjI2YzlkOGZiMmE2ZmZmYTBi",
   "tracks": [
     {
       "added_at": "2023-10-13 01:34:23",
@@ -1199,6 +1199,30 @@
     {
       "added_at": "2023-10-13 01:34:23",
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        }
+      ],
+      "duration_ms": 199357,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
+    },
+    {
+      "added_at": "2023-10-13 01:34:23",
+      "album": {
         "name": "Me Gusta (with Cardi B & Myke Towers)",
         "url": "https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd"
       },
@@ -1219,34 +1243,6 @@
       "duration_ms": 180788,
       "name": "Me Gusta (with Cardi B & Myke Towers)",
       "url": "https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE"
-    },
-    {
-      "added_at": "2023-10-13 01:34:23",
-      "album": {
-        "name": "Que Calor (feat. J Balvin & El Alfa)",
-        "url": "https://open.spotify.com/album/5AKSUA3pizhoVgfjW1ijVC"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 169997,
-      "name": "Que Calor (feat. J Balvin & El Alfa)",
-      "url": "https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7"
     },
     {
       "added_at": "2023-10-13 01:34:23",
@@ -1275,26 +1271,30 @@
     {
       "added_at": "2023-10-13 01:34:23",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3"
+        "name": "Que Calor (feat. J Balvin & El Alfa)",
+        "url": "https://open.spotify.com/album/5AKSUA3pizhoVgfjW1ijVC"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         },
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
-      "duration_ms": 199357,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
+      "duration_ms": 169997,
+      "name": "Que Calor (feat. J Balvin & El Alfa)",
+      "url": "https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7"
     },
     {
       "added_at": "2023-10-13 01:34:23",

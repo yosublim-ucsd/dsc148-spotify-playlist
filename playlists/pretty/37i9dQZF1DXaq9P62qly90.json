@@ -1,6 +1,6 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12615,
+  "num_followers": 12617,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,26 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "A Reminder (Remix)",
+        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "duration_ms": 285161,
+      "name": "A Reminder (Remix)",
+      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "I Was Just Leaving",
         "url": "https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 482173,
       "name": "Permanent Holiday",
       "url": "https://open.spotify.com/track/73gASYnzwZAzq5IYQf4Hff"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "A Reminder (Remix)",
-        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        },
-        {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
-        }
-      ],
-      "duration_ms": 285161,
-      "name": "A Reminder (Remix)",
-      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "KALA",
+        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 351866,
+      "name": "You Can't Rush Your Healing",
+      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "Campfire Anthems, Vol. I",
         "url": "https://open.spotify.com/album/5rVbfchsQDXcJQYF7sDHVw"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 222850,
       "name": "All Ways Love",
       "url": "https://open.spotify.com/track/1sfAxYGCFIz5M17vHimFxj"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "KALA",
-        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 351866,
-      "name": "You Can't Rush Your Healing",
-      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "You're It!",
-        "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
-      },
-      "artists": [
-        {
-          "name": "Wookiefoot",
-          "url": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Don't Hold Your Breath",
-      "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "You Ain't Going Nowhere",
         "url": "https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 145404,
       "name": "You Ain't Going Nowhere",
       "url": "https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "You're It!",
+        "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
+      },
+      "artists": [
+        {
+          "name": "Wookiefoot",
+          "url": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Don't Hold Your Breath",
+      "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "Burn Right Through",
+        "url": "https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Keep Running",
+      "url": "https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "The Fire in Me",
         "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Burn Right Through",
-        "url": "https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em"
+        "name": "Sometimes I",
+        "url": "https://open.spotify.com/album/3acnEcu23lZXhYda51Nzpp"
       },
       "artists": [
         {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
         }
       ],
-      "duration_ms": 251840,
-      "name": "Keep Running",
-      "url": "https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG"
+      "duration_ms": 377258,
+      "name": "Sometimes I",
+      "url": "https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -751,22 +767,6 @@
       "duration_ms": 261006,
       "name": "Directions",
       "url": "https://open.spotify.com/track/2h5silGx7nHrQ6IWMw1huo"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "Sometimes I",
-        "url": "https://open.spotify.com/album/3acnEcu23lZXhYda51Nzpp"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        }
-      ],
-      "duration_ms": 377258,
-      "name": "Sometimes I",
-      "url": "https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -819,34 +819,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Kulture",
-        "url": "https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT"
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
       },
       "artists": [
         {
-          "name": "Satsang",
-          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
-        }
-      ],
-      "duration_ms": 276017,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "Road Goes All Night",
-        "url": "https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D"
-      },
-      "artists": [
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        },
         {
           "name": "Dirtwire",
           "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
         }
       ],
-      "duration_ms": 351272,
-      "name": "Steppegrass",
-      "url": "https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L"
+      "duration_ms": 262174,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -863,6 +851,22 @@
       "duration_ms": 207485,
       "name": "Lifeguard",
       "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Kulture",
+        "url": "https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT"
+      },
+      "artists": [
+        {
+          "name": "Satsang",
+          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
+        }
+      ],
+      "duration_ms": 276017,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe"
     }
   ],
   "unique_name": "Peace Of Mind",

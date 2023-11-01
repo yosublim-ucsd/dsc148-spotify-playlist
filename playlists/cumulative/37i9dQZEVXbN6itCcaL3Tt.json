@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 180381,
       "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
@@ -5434,7 +5434,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-31",
+      "date_removed": null,
       "duration_ms": 194610,
       "name": "Cichosza",
       "url": "https://open.spotify.com/track/3kjMeY6ZgOZYAFRiPHMqmS"
@@ -7844,7 +7844,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 202758,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4kcMDgaU8xb4otoDv5c4kD"
@@ -11806,7 +11806,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 229477,
       "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
@@ -19356,7 +19356,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 146436,
       "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
@@ -21256,7 +21256,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 157104,
       "name": "Pasek Gucci - La La La - Majki Remix",
       "url": "https://open.spotify.com/track/4qKEuYY93wCOWaqHky7dM7"
@@ -23914,6 +23914,10 @@
         {
           "name": "Kaptur",
           "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
+        },
+        {
+          "name": "Mjonszu",
+          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
         }
       ],
       "date_added": "2023-10-28",
@@ -27062,6 +27066,28 @@
       "duration_ms": 159183,
       "name": "Taka Praca",
       "url": "https://open.spotify.com/track/7kyCYBIHvr6tdaGYwQtCzB"
+    },
+    {
+      "album": {
+        "name": "Taka sama",
+        "url": "https://open.spotify.com/album/0UpEaCYLlXHdutuuUQhe72"
+      },
+      "artists": [
+        {
+          "name": "WERSOW",
+          "url": "https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC"
+        },
+        {
+          "name": "FRIZ",
+          "url": "https://open.spotify.com/artist/6K02Q2fEVl7WMmMqN85tIc"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Taka sama",
+      "url": "https://open.spotify.com/track/0Ys2kSfWVriB10t17eHqm4"
     },
     {
       "album": {
@@ -30373,6 +30399,36 @@
     },
     {
       "album": {
+        "name": "WSZYSTKO GUCCI",
+        "url": "https://open.spotify.com/album/4aDAPi37Xt9uSAMmpCdzPw"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142360,
+      "name": "WSZYSTKO GUCCI",
+      "url": "https://open.spotify.com/track/2rBmOHorZGGzgIw9iLX9k2"
+    },
+    {
+      "album": {
         "name": "PLE\u015a\u0143",
         "url": "https://open.spotify.com/album/36pNCEfgsdV2ZU5JSY40uk"
       },
@@ -31028,7 +31084,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 128571,
       "name": "ZAKOCHANE PARY XD",
       "url": "https://open.spotify.com/track/4oTzg9QwkgwUBLgqdJaXr9"
@@ -31606,7 +31662,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 207000,
       "name": "ztb",
       "url": "https://open.spotify.com/track/7vXWyqGHBqZi8oec17wYIl"

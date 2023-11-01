@@ -1371,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Devil",
+        "url": "https://open.spotify.com/album/54WiyGQ7TL7nqIPoh1ieF8"
+      },
+      "artists": [
+        {
+          "name": "Diamond Eyes",
+          "url": "https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241714,
+      "name": "Devil",
+      "url": "https://open.spotify.com/track/5mn6mZIHIQF6sl3KCkMtIY"
+    },
+    {
+      "album": {
         "name": "die 4 u",
         "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
       },

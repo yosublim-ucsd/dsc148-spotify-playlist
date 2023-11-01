@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-595 songs - 1 day 6 hr 1 min
+597 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Bäst här inne](https://open.spotify.com/track/2r8X5szspfSyhUlVes7plU) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Bäst här inne](https://open.spotify.com/album/5StD84eoU8BOFcReirunrU) | 4:59 | 2023-09-21 | 2023-09-26 |
 | [Bäst här inne](https://open.spotify.com/track/7ifhAM3ObwyI92K2P8Dl6z) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Superlativ 97](https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu) | 4:59 | 2023-10-12 | 2023-10-27 |
 | [Bästa var du](https://open.spotify.com/track/544i2kupbLppslcGI1PhlL) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bästa var du](https://open.spotify.com/album/6S6WCiLAWuTOT1gBWOvm7m) | 3:18 | 2023-08-17 | 2023-10-06 |
+| [Bättre nu \(The Wedding\)](https://open.spotify.com/track/5Fvq4z7pr7146lrYQCD9bY) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Bättre nu \(The Wedding\)](https://open.spotify.com/album/1D46XUOvhkabY7IlRSIgPv) | 3:24 | 2023-10-31 |  |
 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2022-11-08 | 2023-05-26 |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-12-16 | 2022-01-21 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-26 | 2023-09-15 |
@@ -196,7 +197,7 @@
 | [Fri till slut \- Spotify Singles](https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Fri till slut \- Spotify Singles](https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO) | 4:48 | 2023-10-19 |  |
 | [FUCK MITT EKS](https://open.spotify.com/track/4YGMqFWObIcl5RFrqghmOz) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [FUCK MITT EKS](https://open.spotify.com/album/2eY4rIMTU8UGFnCq1JFpZj) | 2:29 | 2022-01-13 | 2022-04-12 |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-08-02 | 2023-10-13 |
-| [Fånga mig när jag faller](https://open.spotify.com/track/6HuNgzEw9b4tDcSDCQBS1O) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fånga mig när jag faller](https://open.spotify.com/album/4NsssUJj3cxavJQDU8axoG) | 2:27 | 2023-04-27 |  |
+| [Fånga mig när jag faller](https://open.spotify.com/track/6HuNgzEw9b4tDcSDCQBS1O) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fånga mig när jag faller](https://open.spotify.com/album/4NsssUJj3cxavJQDU8axoG) | 2:27 | 2023-04-27 | 2023-11-01 |
 | [för oss](https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [för oss](https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV) | 3:01 | 2022-11-05 | 2023-01-27 |
 | [Förför mig](https://open.spotify.com/track/5i8OzyvCnieyg5twoH0kMh) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Förför mig](https://open.spotify.com/album/4Ocv8AAKKEe9YaE7B6FtMe) | 2:39 | 2022-04-28 | 2022-06-10 |
 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 | 2023-03-30 | 2023-05-26 |
@@ -280,6 +281,7 @@
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-04-05 | 2022-04-22 |
 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 | 2023-10-19 |  |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-28 | 2022-12-09 |
+| [Inatt \(Inget Stoppar Oss Nu\)](https://open.spotify.com/track/4uPSmNAuHFVLcSHLKyWfny) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Inatt \(Inget Stoppar Oss Nu\)](https://open.spotify.com/album/7FtYP3MDq2sK9FMUMJTQcC) | 2:46 | 2023-10-31 |  |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2022-01-07 | 2022-03-18 |
 | [Ingen annan rör mig som du](https://open.spotify.com/track/6D434uIe6ssDPXbCx9O9Bn) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Ingen annan rör mig som du](https://open.spotify.com/album/6HUWcyVUOcdPTMcqvmX02a) | 3:37 | 2022-10-26 | 2023-02-25 |
 | [INGEN KAN SLÅ \(BOTEN ANNA\)](https://open.spotify.com/track/1pLglW5mDscxmbo32uaf3U) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [INGEN KAN SLÅ \(BOTEN ANNA\)](https://open.spotify.com/album/3wiC6E5VBDno4edLIFcWKY) | 2:09 | 2023-06-22 | 2023-09-29 |
@@ -292,7 +294,7 @@
 | [Jag Lovar](https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Jag Lovar](https://open.spotify.com/album/3iJQtcdLiYcD5R6bsQTVRm) | 2:48 | 2022-01-27 | 2022-04-01 |
 | [Jag vill bara va med dej](https://open.spotify.com/track/7EIhW2IWOEuOyvl1aFTCaj) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc), [Noonie Bao](https://open.spotify.com/artist/1vIuPjtFhqIPE2n9W2ePgO) | [Jag vill bara va med dej](https://open.spotify.com/album/10JTOhisVeDfvxsNSQsD8E) | 3:37 | 2022-05-13 | 2022-07-22 |
 | [John Daly](https://open.spotify.com/track/2bHkxIrKmodno557Z4BJBK) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [John Daly](https://open.spotify.com/album/410yZGA5oklqvmUXCEJeVu) | 2:49 | 2023-03-30 | 2023-05-14 |
-| [Josefin](https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Josefin](https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk) | 3:34 | 2023-06-30 |  |
+| [Josefin](https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Josefin](https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk) | 3:34 | 2023-06-30 | 2023-11-01 |
 | [Julibarn](https://open.spotify.com/track/3KKJ0gfzfKfHOgKH8K9G5x) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Julibarn](https://open.spotify.com/album/4Z2DhkUJh87klzVawbKaEc) | 3:11 | 2023-10-26 |  |
 | [JUMPSTART](https://open.spotify.com/track/7LnkcJhUZ0qs0HoyRm61xr) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [JUMPSTART](https://open.spotify.com/album/3tmkaAWU7c2g3BWQ7rdZpR) | 2:37 | 2022-11-03 | 2022-11-18 |
 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-05-04 | 2023-05-11 |

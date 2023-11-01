@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Elis Regina
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,295,571 likes - 90 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,296,010 likes - 90 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

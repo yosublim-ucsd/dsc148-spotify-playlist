@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,285 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,287 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 109 | [Venganza Ranchera](https://open.spotify.com/track/0p02jDf42e91iwFtMJHIK3) | [Goyo Medina](https://open.spotify.com/artist/7IyjrsHMh126oyS54Bay3A) | [Palenque Musical](https://open.spotify.com/album/5nK4ZEBFieuTxY5QCyGnVU) | 2:44 |
 | 110 | [El Mariachi \- Remastered](https://open.spotify.com/track/44jBSFAc7qfldyuRpLNMls) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Voz de México \(Remastered\)](https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE) | 3:06 |
 | 111 | [Yuriria De Mis Amores](https://open.spotify.com/track/0GA2aANe0ftrXW8SxXicX8) | [Gabriel Allende](https://open.spotify.com/artist/5O80lVVbsiiHc93W11QNMe) | [Palenque Musical](https://open.spotify.com/album/5nK4ZEBFieuTxY5QCyGnVU) | 3:19 |
-| 112 | [Baker Street \(Edit\) \- Radio Edit](https://open.spotify.com/track/2TZ46DnfbpUbDKh8rSRW0a) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [70 Hits of the 70s](https://open.spotify.com/album/6tF3XO8i8MvyvGvMPBlT0Q) | 4:08 |
+| 112 | [Baker Street \- Radio Edit](https://open.spotify.com/track/2OvXUMw8CmgU8fuaWiQ0fK) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Classic Rock](https://open.spotify.com/album/2QaATxSGlkOmg7BhJfihl3) | 4:08 |
 | 113 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 |
 | 114 | [Bailala Pronto](https://open.spotify.com/track/2tDoreKvv4UqcfZACXXqaM) | [Manny Oquendo Y Libre](https://open.spotify.com/artist/0RCOPdcvHvXsH30ym7trfH) | [Salsa Del Barrio](https://open.spotify.com/album/6cMCcIUu4pvNiZTB1WeTY7) | 8:30 |
 | 115 | [October](https://open.spotify.com/track/2ZjMf65ieYnu2GqBRsK8nE) | [J\. Michael Henderson](https://open.spotify.com/artist/5cC1eRiZSJYZam9KhiThM0) | [Lost & Found Sessions, Vol\. I](https://open.spotify.com/album/5vZ8jCyLWRg23yrRTZv4gM) | 4:14 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 166 | [Rock And Roll Never Forgets \- Live/Remastered](https://open.spotify.com/track/7wfMo45fLnq1fnmghB5388) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Nine Tonight \(Live/Remastered\)](https://open.spotify.com/album/3IopzrrHrPPzEEp28YtP35) | 3:35 |
 | 167 | [Dejé la puerta abierta](https://open.spotify.com/track/3EfbEKy4d9yQu7N53pSdfa) | [Efraín Ríos](https://open.spotify.com/artist/1QFw9RTzNqQ66UEJoNfEZ4) | [Antologia de Cuba](https://open.spotify.com/album/3AFDWZtcXQbPOfnk9r6Bag) | 2:52 |
 
-Snapshot ID: `MCw4NzllYWQ3NDJjNzNmMTA2ODc1YzIxNWQzOGI0ZThkYzhmNjk3YmMz`
+Snapshot ID: `MCw0NjBhNDA3ODM1Zjg1NjcxMDllNDk1OTFiNDYwYmE1NDc2YmFlNGEw`

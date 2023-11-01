@@ -1,12 +1,12 @@
 {
   "description": "Pop ac\u00fastico para tu d\u00eda.",
-  "num_followers": 1994283,
+  "num_followers": 1994292,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDhlZjI0NGJmNmIxOGNlMDcyMzdkNWY0ZjdmNGZmYzRmYWM5Y2E3",
+  "snapshot_id": "MCwyNjdjMDM5MTUzNTcwMTlhYzhhY2JmODI4OWVjZjI4ODVmZDIyYmI4",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "La Bilirrubina",
-        "url": "https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 201452,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "La Bilirrubina",
+        "url": "https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Tus Ojitos",
+        "url": "https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc"
+      },
+      "artists": [
+        {
+          "name": "Samanez",
+          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
+        }
+      ],
+      "duration_ms": 255514,
+      "name": "Tus Ojitos",
+      "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Solo M\u00eda",
         "url": "https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 255669,
       "name": "Solo M\u00eda",
       "url": "https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Tus Ojitos",
-        "url": "https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc"
-      },
-      "artists": [
-        {
-          "name": "Samanez",
-          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
-        }
-      ],
-      "duration_ms": 255514,
-      "name": "Tus Ojitos",
-      "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Volverte A Ver - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "A M\u00ed y a Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 157617,
       "name": "A M\u00ed y a Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Volverte A Ver - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1147,22 +1147,6 @@
       "duration_ms": 209826,
       "name": "SUBEME LA RADIO",
       "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 264106,
-      "name": "Es Por T\u00ed - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 264106,
+      "name": "Es Por T\u00ed - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Despacito (Acoustic)",
         "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
       },
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Acustico",
-        "url": "https://open.spotify.com/album/7nWAePPkngD730y97WP8H1"
-      },
-      "artists": [
-        {
-          "name": "La Quinta Estacion",
-          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
-        },
-        {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
-        }
-      ],
-      "duration_ms": 453893,
-      "name": "Algo M\u00e1s (Versi\u00f3n Ac\u00fastica) (with Miguel Inzunza) - En Vivo",
-      "url": "https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Preso (Grabado en ONErpm Studios)",
         "url": "https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt"
       },
@@ -1335,22 +1315,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "azul",
-        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
+        "name": "Acustico",
+        "url": "https://open.spotify.com/album/7nWAePPkngD730y97WP8H1"
       },
       "artists": [
         {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+          "name": "La Quinta Estacion",
+          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
         },
         {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
         }
       ],
-      "duration_ms": 165200,
-      "name": "azul",
-      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
+      "duration_ms": 453893,
+      "name": "Algo M\u00e1s (Versi\u00f3n Ac\u00fastica) (with Miguel Inzunza) - En Vivo",
+      "url": "https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1371,6 +1351,26 @@
       "duration_ms": 185186,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/3ogdUxCZqn5JikojnmsdKZ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "azul",
+        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "azul",
+      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "no vuelvas a mirar atr\u00e1s",
-        "url": "https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 245945,
-      "name": "no vuelvas a mirar atr\u00e1s",
-      "url": "https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "De Rodillas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1vjl5MYuhrEKd9leIUnADp"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 268257,
       "name": "De Rodillas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2iMb7HAmOcdnZzAOa4yNAq"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "no vuelvas a mirar atr\u00e1s",
+        "url": "https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 245945,
+      "name": "no vuelvas a mirar atr\u00e1s",
+      "url": "https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ"
     },
     {
       "added_at": "2023-10-27 04:00:00",

@@ -2,7 +2,7 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to Indian women, at full volume\. Cover \- Kavita Seth
+> Listen to Indian women, at full volume\. Cover \- Lisa Mishra
 
 240 songs - 13 hr 59 min
 

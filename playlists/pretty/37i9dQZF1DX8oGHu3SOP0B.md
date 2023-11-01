@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > เปิดให้ดังแล้วฟังเสียงเต็มๆ ของผู้หญิงจากประเทศไทย\. ศิลปิน: DIDIxDADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,487 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,513 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

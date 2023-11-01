@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,346 likes - 120 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,484 likes - 120 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 57 | [Blood in the Sands of Time](https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Chuck Billy](https://open.spotify.com/artist/62PhVjMmDVdX7u8pHx7N2C) | [Elegy](https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb) | 5:22 |
 | 58 | [Human Carrying Capacity](https://open.spotify.com/track/63C2F8dGaKxdhUW1oVWPlW) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:17 |
 | 59 | [All Love Is Lost \(feat\. Max Cavalera\)](https://open.spotify.com/track/3AsOm7qVG0IWyLFKRH7v6V) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i), [Max Cavalera](https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf) | [Bloodlust](https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m) | 3:36 |
-| 60 | [Thief](https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn) | [Johnny Booth](https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc) | [Firsthand Accounts](https://open.spotify.com/album/2hSmn7TSh7erJZw8IcmNsA) | 3:14 |
-| 61 | [Ultimate Annihilation](https://open.spotify.com/track/1rGYgf81OmT2AIPbrcbwun) | [Suburban Scum](https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy) | [Ultimate Annihilation](https://open.spotify.com/album/4ErhvbjyVnkGgkRKvKQC1F) | 2:21 |
+| 60 | [Ultimate Annihilation](https://open.spotify.com/track/1rGYgf81OmT2AIPbrcbwun) | [Suburban Scum](https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy) | [Ultimate Annihilation](https://open.spotify.com/album/4ErhvbjyVnkGgkRKvKQC1F) | 2:21 |
+| 61 | [Thief](https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn) | [Johnny Booth](https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc) | [Firsthand Accounts](https://open.spotify.com/album/2hSmn7TSh7erJZw8IcmNsA) | 3:14 |
 | 62 | [Scratch the Surface](https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 2:45 |
 | 63 | [In The Court Of The Dragon](https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/3x3csj05nBEuh2pVL49l9P) | 5:09 |
 | 64 | [Trial by Fire](https://open.spotify.com/track/0DRhN7G5jfmZZqUyN6uy1B) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Welcome to the West Coast II](https://open.spotify.com/album/0koMGPUKzfeKYT376Unywa) | 3:17 |
 | 65 | [Dreh auf!](https://open.spotify.com/track/2lU7wi6V6RpYKYdelZqms6) | [We Butter The Bread With Butter](https://open.spotify.com/artist/1oA1SW4FRAis6e8krh5YAf) | [Dreh auf!](https://open.spotify.com/album/6wfCf6I0akMdGasL0DcywD) | 3:04 |
 | 66 | [Pariah](https://open.spotify.com/track/4NaYTAuIouqO0uzJqlN5l2) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Splinters from an Ever\-Changing Face](https://open.spotify.com/album/6X3196GAOJl9oHyQC2YJNm) | 3:29 |
-| 67 | [Annihilation](https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Annihilation](https://open.spotify.com/album/1NGoxSNqRAzHNr0BbfWlHV) | 3:10 |
-| 68 | [Blackened Sun](https://open.spotify.com/track/1jE88GZBfLFkRrlzQhB2DY) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2) | [Infinite Punishment](https://open.spotify.com/album/7dPVNXsA5xZHiA6JLttSuq) | 3:45 |
+| 67 | [Blackened Sun](https://open.spotify.com/track/1jE88GZBfLFkRrlzQhB2DY) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2) | [Infinite Punishment](https://open.spotify.com/album/7dPVNXsA5xZHiA6JLttSuq) | 3:45 |
+| 68 | [Annihilation](https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Annihilation](https://open.spotify.com/album/1NGoxSNqRAzHNr0BbfWlHV) | 3:10 |
 | 69 | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [FU2 \(feat\. AJ Channer of Fire From The Gods\)](https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB) | 3:14 |
 | 70 | [In Darkness](https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [In Darkness](https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD) | 2:37 |
 | 71 | [Become a Machine](https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:12 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 77 | [Obsidian](https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Obsidian](https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP) | 4:51 |
 | 78 | [Preachers of Death](https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [Strength in Numbers](https://open.spotify.com/album/5GVpTi1IWHZWsb6FMUhwrN) | 4:55 |
 | 79 | [Invidious](https://open.spotify.com/track/0FFI8kPrtI1bWTLyOsLxzi) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [The Level Above Human](https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN) | 4:18 |
-| 80 | [SUPERNØVA \(feat\. Marcus Bischoff of Heaven Shall Burn\)](https://open.spotify.com/track/6yipS5nDSFvW73cxDOimST) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [GHØSTKID](https://open.spotify.com/album/3FcNEcNgxEuBCXv8PbH3wT) | 3:47 |
-| 81 | [Iron Strengthens Iron](https://open.spotify.com/track/3az8b1yUBQ2JJMgRP0hXwQ) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:35 |
+| 80 | [Iron Strengthens Iron](https://open.spotify.com/track/3az8b1yUBQ2JJMgRP0hXwQ) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:35 |
+| 81 | [SUPERNØVA \(feat\. Marcus Bischoff of Heaven Shall Burn\)](https://open.spotify.com/track/6yipS5nDSFvW73cxDOimST) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [GHØSTKID](https://open.spotify.com/album/3FcNEcNgxEuBCXv8PbH3wT) | 3:47 |
 | 82 | [The Preservation Of Hate](https://open.spotify.com/track/22ukl1QrvD95MlnSSw22QS) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [The Preservation Of Hate](https://open.spotify.com/album/5uGmDOy7SqZ1hXGyns00YN) | 3:06 |
 | 83 | [Vermin](https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Vermin](https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab) | 3:38 |
 | 84 | [Chainbreaker](https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Chainbreaker](https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B) | 4:35 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 116 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
 | 117 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 |
 | 118 | [R!ot](https://open.spotify.com/track/0zAb3JhZbExyPZxiGq9cky) | [Spoil Engine](https://open.spotify.com/artist/6nQqTxjWcBSDpjvVKRTfig) | [Renaissance Noire](https://open.spotify.com/album/62cj4fAYeia8TRD8VqrpbD) | 3:16 |
-| 119 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
-| 120 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
+| 119 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
+| 120 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
 
-Snapshot ID: `MCw1YzcwMDE0ZjRkZDIxMjBkODU0M2VjNzc0YTVhZWQ5YTBmMWFkNDZm`
+Snapshot ID: `MCw1ZTE2ODc4YjUyMmYxNDM1OTNhNTg4MmExNDk3MzMyMzE4ZjIzNDM4`

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Philippines.",
-  "num_followers": 1309453,
+  "num_followers": 1309750,
   "original_name": "Top 50 - Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUyMDMwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUyMTE2ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "Sad Songs and Bullshit Part 1",
         "url": "https://open.spotify.com/album/7H0mDAUmK6BUuGZCy10kcv"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2BLdelIp46CHvKkyWeqZHL"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "homebdy (feat. Madman Stan)",
         "url": "https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -81,23 +81,7 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Style (Taylor's Version)",
-      "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "PAREHAS TAYO",
         "url": "https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk"
@@ -113,23 +97,7 @@
       "url": "https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "Raining In Manila",
-        "url": "https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy"
-      },
-      "artists": [
-        {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
-        }
-      ],
-      "duration_ms": 291070,
-      "name": "Raining In Manila",
-      "url": "https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "YK",
         "url": "https://open.spotify.com/album/0vJ2H4ZG19Enzadvy7xHIS"
@@ -145,43 +113,23 @@
       "url": "https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
-        "name": "Seven (feat. Latto)",
-        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+        "name": "Raining In Manila",
+        "url": "https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
         }
       ],
-      "duration_ms": 184400,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+      "duration_ms": 291070,
+      "name": "Raining In Manila",
+      "url": "https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 279833,
-      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "Kisame",
         "url": "https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe"
@@ -197,7 +145,7 @@
       "url": "https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "Tingin",
         "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
@@ -217,7 +165,7 @@
       "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "Lihim",
         "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
@@ -233,7 +181,27 @@
       "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "Gusto",
         "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
@@ -253,7 +221,7 @@
       "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
@@ -264,12 +232,28 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 229477,
-      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+      "duration_ms": 231000,
+      "name": "Style (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 279833,
+      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "WELCOME2DTQ",
         "url": "https://open.spotify.com/album/1coaR0jupZjPePYu3AkFQP"
@@ -285,23 +269,7 @@
       "url": "https://open.spotify.com/track/3gRhGExNITCqVo0mCyqp3m"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231833,
-      "name": "Blank Space (Taylor's Version)",
-      "url": "https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "Pasilyo",
         "url": "https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK"
@@ -317,7 +285,23 @@
       "url": "https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
@@ -333,39 +317,7 @@
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "Out Of The Woods (Taylor's Version)",
-      "url": "https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "Saan?",
-        "url": "https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Saan?",
-      "url": "https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "Nahuhulog",
         "url": "https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP"
@@ -381,103 +333,39 @@
       "url": "https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "Saan?",
+        "url": "https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
         }
       ],
-      "duration_ms": 146436,
-      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
+      "duration_ms": 206500,
+      "name": "Saan?",
+      "url": "https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 271000,
-      "name": "Clean (Taylor's Version)",
-      "url": "https://open.spotify.com/track/2ByBBvpR9b7IynvRmnG7kG"
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 212600,
-      "name": "Welcome To New York (Taylor's Version)",
-      "url": "https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 180381,
-      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "Uhaw (Tayong Lahat)",
-        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
-      },
-      "artists": [
-        {
-          "name": "Dilaw",
-          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
-        }
-      ],
-      "duration_ms": 241185,
-      "name": "Uhaw (Tayong Lahat)",
-      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 220433,
-      "name": "Wildest Dreams (Taylor's Version)",
-      "url": "https://open.spotify.com/track/1K39ty6o1sHwwlZwO6a7wK"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "Silly Hoes",
         "url": "https://open.spotify.com/album/5FFcOsqb6a7g8rIXYh2BrM"
@@ -497,7 +385,7 @@
       "url": "https://open.spotify.com/track/7jaW3zW1UquUY4I2j7OoAZ"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "Mahika",
         "url": "https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4"
@@ -517,23 +405,7 @@
       "url": "https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
@@ -544,12 +416,28 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 193289,
-      "name": "All You Had To Do Was Stay (Taylor's Version)",
-      "url": "https://open.spotify.com/track/6GXgd1BPD9bUpqw5AntGV5"
+      "duration_ms": 146436,
+      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "Uhaw (Tayong Lahat)",
+        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
+      },
+      "artists": [
+        {
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+        }
+      ],
+      "duration_ms": 241185,
+      "name": "Uhaw (Tayong Lahat)",
+      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
@@ -560,28 +448,28 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 219209,
-      "name": "Shake It Off (Taylor's Version)",
-      "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
+      "duration_ms": 231833,
+      "name": "Blank Space (Taylor's Version)",
+      "url": "https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
-        "name": "So Fine",
-        "url": "https://open.spotify.com/album/0I4DciUUKfcgQo54XDYtUZ"
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
       "artists": [
         {
-          "name": "Realest Cram",
-          "url": "https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 225882,
-      "name": "So Fine",
-      "url": "https://open.spotify.com/track/1M5KNlFaSwG8gDZQCTjFx2"
+      "duration_ms": 235800,
+      "name": "Out Of The Woods (Taylor's Version)",
+      "url": "https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
@@ -601,23 +489,103 @@
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
+        "name": "So Fine",
+        "url": "https://open.spotify.com/album/0I4DciUUKfcgQo54XDYtUZ"
       },
       "artists": [
         {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+          "name": "Realest Cram",
+          "url": "https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5"
         }
       ],
-      "duration_ms": 201806,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
+      "duration_ms": 225882,
+      "name": "So Fine",
+      "url": "https://open.spotify.com/track/1M5KNlFaSwG8gDZQCTjFx2"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Clean (Taylor's Version)",
+      "url": "https://open.spotify.com/track/2ByBBvpR9b7IynvRmnG7kG"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "Malaking P (Rich N**** Shit Remix)",
+        "url": "https://open.spotify.com/album/5tCHTJUJiydizlAspI60QC"
+      },
+      "artists": [
+        {
+          "name": "E.J",
+          "url": "https://open.spotify.com/artist/4CUQubNxrznvOLWuWDxsuN"
+        }
+      ],
+      "duration_ms": 152066,
+      "name": "Malaking P - Rich N**** Shit Remix",
+      "url": "https://open.spotify.com/track/3UsQ5xVmuxXhZkJOJbVDed"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 220433,
+      "name": "Wildest Dreams (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1K39ty6o1sHwwlZwO6a7wK"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "Para Sa Streets",
+        "url": "https://open.spotify.com/album/62G53UzsyGd1updwIfyXLq"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 194475,
+      "name": "Para Sa Streets",
+      "url": "https://open.spotify.com/track/0szRYVD2MwFzQMs58PT1Ec"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "LWKY",
         "url": "https://open.spotify.com/album/6DzQl3sVnvW7QlNwmQDlWE"
@@ -645,135 +613,7 @@
       "url": "https://open.spotify.com/track/1v8KGf0DdZKIuS0GexqPZC"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "Suburban Legends (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 207650,
-      "name": "I Wish You Would (Taylor's Version)",
-      "url": "https://open.spotify.com/track/43y1WpBdnEy5TR9aZoSQL9"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "Malaking P (Rich N**** Shit Remix)",
-        "url": "https://open.spotify.com/album/5tCHTJUJiydizlAspI60QC"
-      },
-      "artists": [
-        {
-          "name": "E.J",
-          "url": "https://open.spotify.com/artist/4CUQubNxrznvOLWuWDxsuN"
-        }
-      ],
-      "duration_ms": 152066,
-      "name": "Malaking P - Rich N**** Shit Remix",
-      "url": "https://open.spotify.com/track/3UsQ5xVmuxXhZkJOJbVDed"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "Umaasa",
-        "url": "https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW"
-      },
-      "artists": [
-        {
-          "name": "Calein",
-          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
-        }
-      ],
-      "duration_ms": 335624,
-      "name": "Umaasa",
-      "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 230177,
-      "name": "New Romantics (Taylor's Version)",
-      "url": "https://open.spotify.com/track/2vPMoMDXxu9uX1igWZmXSG"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "Para Sa Streets",
-        "url": "https://open.spotify.com/album/62G53UzsyGd1updwIfyXLq"
-      },
-      "artists": [
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 194475,
-      "name": "Para Sa Streets",
-      "url": "https://open.spotify.com/track/0szRYVD2MwFzQMs58PT1Ec"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 250100,
-      "name": "This Love (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/5QVVjX0ZItqlVpEuVCM9Yg"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 211103,
-      "name": "Bad Blood (Taylor's Version)",
-      "url": "https://open.spotify.com/track/64FzgoLZ3oXu2SriZblHic"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -789,7 +629,7 @@
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
@@ -800,28 +640,44 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 247533,
-      "name": "How You Get The Girl (Taylor's Version)",
-      "url": "https://open.spotify.com/track/75W3SngKzTuoQ94uLf3y82"
+      "duration_ms": 212600,
+      "name": "Welcome To New York (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5"
+      "duration_ms": 201806,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "Umaasa",
+        "url": "https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW"
+      },
+      "artists": [
+        {
+          "name": "Calein",
+          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
+        }
+      ],
+      "duration_ms": 335624,
+      "name": "Umaasa",
+      "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -837,7 +693,119 @@
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 193289,
+      "name": "All You Had To Do Was Stay (Taylor's Version)",
+      "url": "https://open.spotify.com/track/6GXgd1BPD9bUpqw5AntGV5"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "summer flows 0.02",
+        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "seasons",
+      "url": "https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "711",
+        "url": "https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL"
+      },
+      "artists": [
+        {
+          "name": "TONEEJAY",
+          "url": "https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "711",
+      "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 171818,
+      "name": "Suburban Legends (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
       "album": {
         "name": "0.1 flaws and all.",
         "url": "https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0"
@@ -851,6 +819,42 @@
       "duration_ms": 263250,
       "name": "bad",
       "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219209,
+      "name": "Shake It Off (Taylor's Version)",
+      "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
+    },
+    {
+      "added_at": "2023-10-31 08:32:55",
+      "album": {
+        "name": "LUV DRUG",
+        "url": "https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE"
+      },
+      "artists": [
+        {
+          "name": "gins&melodies",
+          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
+        },
+        {
+          "name": "Eros Tongco",
+          "url": "https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393"
+        }
+      ],
+      "duration_ms": 198888,
+      "name": "LUV DRUG",
+      "url": "https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm"
     }
   ],
   "unique_name": "Top 50 - Philippines",

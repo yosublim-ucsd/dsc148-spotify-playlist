@@ -8030,7 +8030,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 154213,
       "name": "My California Dream",
       "url": "https://open.spotify.com/track/2wnxrNECnWUT8Z8peldD8z"
@@ -9840,6 +9840,24 @@
       "duration_ms": 186062,
       "name": "Recognise",
       "url": "https://open.spotify.com/track/3YwyAnL9NlqAK9V833qiGz"
+    },
+    {
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/1UPN1PmpJUwUNbPPkBWCMA"
+      },
+      "artists": [
+        {
+          "name": "Ehrling",
+          "url": "https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198250,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/0TKKcJg1w6soyNXBqJmJES"
     },
     {
       "album": {

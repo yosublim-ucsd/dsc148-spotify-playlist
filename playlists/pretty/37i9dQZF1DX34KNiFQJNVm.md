@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gloria Groove, Pedro Sampaio e MC Ryan SP, Israel & Rodolffo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921,911 likes - 98 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,920,401 likes - 98 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 71 | [Tu Pode Até Não Acreditar](https://open.spotify.com/track/5Sz5wfmEpFUD3EYLWYBFZK) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Dj Luizin](https://open.spotify.com/artist/1j5jjya5prvPJE2FZU8JPj), [Os Gemeos da Putaria](https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs) | [Tu Pode Até Não Acreditar](https://open.spotify.com/album/2iuoTRJhmXaZvJYEffEpDy) | 1:56 |
 | 72 | [No Meio do Baile](https://open.spotify.com/track/44WUBVFFg1IT9vNHXhN5nm) | [MC Gabluca](https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [Dj Luizin](https://open.spotify.com/artist/1j5jjya5prvPJE2FZU8JPj), [DJ Marcus Vinicius](https://open.spotify.com/artist/2mRSRf8SwYI5p2wXvPEZFe) | [No Meio do Baile](https://open.spotify.com/album/0UgNeQOIse4RrJoziWby2c) | 2:59 |
 | 73 | [EU TIVE UM SONHO](https://open.spotify.com/track/2NFfvCO84qsH64erMlrHnt) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [EU TIVE UM SONHO](https://open.spotify.com/album/1w3rOtKy0lhHqxupMm2hFG) | 2:29 |
-| 74 | [Preso](https://open.spotify.com/track/465Bb7qa8hMMBq2ekj8LUW) | [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx) | [NVV](https://open.spotify.com/album/6TpHI1VJgqkrLq87qZZox2) | 3:27 |
+| 74 | [Preso](https://open.spotify.com/track/465Bb7qa8hMMBq2ekj8LUW) | [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [NVV](https://open.spotify.com/album/6TpHI1VJgqkrLq87qZZox2) | 3:27 |
 | 75 | [Barras de Grammy](https://open.spotify.com/track/7tbY6HkiVw5wDVuSdNtgIc) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Schuler](https://open.spotify.com/artist/0aT5y8wuG7hRDIoWDxBTk9) | [Barras de Grammy](https://open.spotify.com/album/2JdwJp90wKfprE8XvU7G0L) | 2:54 |
 | 76 | [Na Van](https://open.spotify.com/track/0mX57zevb4AUhpNDe1MKsa) | [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Na Van](https://open.spotify.com/album/78nhNeXpgh88toi08X9wfJ) | 2:27 |
 | 77 | [Mulher Casada É Perigo](https://open.spotify.com/track/0NoXcmKtiZg9qNxc7elLzP) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [FiotiThug](https://open.spotify.com/artist/2mQACjq79eJxkFtsSO4sWA) | [Mulher Casada É Perigo](https://open.spotify.com/album/0KWnHT22kEC34NLje52jhT) | 3:00 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [Questão de Segurança \- Ao Vivo](https://open.spotify.com/track/2wmUkYi1QB8uiw7KYU2HpZ) | [Roger & Gustavo](https://open.spotify.com/artist/4FTFlQC5nmDiOgU1hcMfaI) | [Questão de Segurança \(Ao Vivo\)](https://open.spotify.com/album/5qWBRzvQ8a4WQmdMOM6I2X) | 2:29 |
 | 98 | [Me Encantou](https://open.spotify.com/track/5yjBFCJ3Tzr5X6Vq6JGFke) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Me Encantou](https://open.spotify.com/album/0ZZBgETzkoGuJuchaW9Fqr) | 2:34 |
 
-Snapshot ID: `MCxlNGE2ZjNmZDMyMzAxNzYyOWRkMmNlNmI5OWM0NjkwOGE3OTM5ZDk5`
+Snapshot ID: `MCw4NzM1ODQxMzE0ZGMwMGQwNmE4MzhkM2E1N2RiOWUyNjJjMTBlZThi`

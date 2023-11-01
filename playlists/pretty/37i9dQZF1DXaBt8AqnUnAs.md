@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,106 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,212 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 15 | [Louvre](https://open.spotify.com/track/3i6fLGNvs9r890mlKSystr) | [Cleiton Oliveira](https://open.spotify.com/artist/4d8by4oOSOmGSeDgcz1BYs) | [Louvre](https://open.spotify.com/album/1iqhVBGw0Eo4GbdI9XJC24) | 3:41 |
 | 16 | [Mais Um Voo](https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mais Um Voo](https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U) | 3:14 |
 | 17 | [Ibiza](https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Ibiza](https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7) | 2:30 |
-| 18 | [Foto no Espelho](https://open.spotify.com/track/4O2PFUDvEGZQ4uN9iZIAZ2) | [DHION](https://open.spotify.com/artist/1lzxvMTm6klPlX7nmHSDYy), [5três](https://open.spotify.com/artist/0bc6UXkTqd8FnaiQYChJD7), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Foto no Espelho](https://open.spotify.com/album/1elDI1137lBKU1zNMqnS4o) | 3:40 |
+| 18 | [Foto no Espelho](https://open.spotify.com/track/4O2PFUDvEGZQ4uN9iZIAZ2) | [DHION](https://open.spotify.com/artist/1lzxvMTm6klPlX7nmHSDYy), [5três](https://open.spotify.com/artist/0bc6UXkTqd8FnaiQYChJD7), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Slaasty](https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1), [Azin](https://open.spotify.com/artist/2JypXtaUBCwZgyHcrVYruu) | [Foto no Espelho](https://open.spotify.com/album/1elDI1137lBKU1zNMqnS4o) | 3:40 |
 | 19 | [Amor Sem Compromisso](https://open.spotify.com/track/3YKfT0FuG5Gk3znshjLURM) | [Brigadeiro](https://open.spotify.com/artist/1mbVcuAPwoThnWBehQkJG0), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm) | [Amor Sem Compromisso](https://open.spotify.com/album/6Rn2tE8jgyP4Gss1I5VCG6) | 3:30 |
 | 20 | [Fala na Cara](https://open.spotify.com/track/0OBv4CEP5FKS19ZQGHAUM6) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Fala na Cara](https://open.spotify.com/album/7lJy7mlkpSW21llZgg96bb) | 2:51 |
 | 21 | [Lulu Santos](https://open.spotify.com/track/5GwnZRiw7DdrWASBuWAHy9) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Músicas Para Fumar Balão](https://open.spotify.com/album/2zBsNCMQxokxViSI9kiaQX) | 3:09 |

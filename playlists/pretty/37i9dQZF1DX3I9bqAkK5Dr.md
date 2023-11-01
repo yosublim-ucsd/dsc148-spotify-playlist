@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Damini Bhatla, Krishna Tejasvi
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,659 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,681 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 71 | [Sathya \- Expression Of Love](https://open.spotify.com/track/4vIJqRzuVkLWg7wKMOL7St) | [Nishanth Shekar](https://open.spotify.com/artist/4eyGSxCplyGRpM7tKXP8l5), [Ayaan](https://open.spotify.com/artist/66NRi9Dp2PVLCOlxfSHY3v) | [Sathya \- Expression Of Love](https://open.spotify.com/album/64GLiOFpf3yKKlLUoOFgbK) | 2:54 |
 | 72 | [Jimpak Chipak](https://open.spotify.com/track/75SwvdhOdYQ9FAVfzBcpsF) | [MC Mike](https://open.spotify.com/artist/3fJeUWROZ8RmlLHDWTtqYo), [MC Uneek](https://open.spotify.com/artist/5V59VPRPHoUasr8KOncBne), [Om Sripathi](https://open.spotify.com/artist/6cHpt2n70Z4fNJdkP7r13T) | [Jimpak Chipak](https://open.spotify.com/album/5Bl77fvZRxNfEkudOcjgaT) | 3:07 |
 | 73 | [Maakkikirkiri](https://open.spotify.com/track/0p5SBWlo2FD8jQFDyqbIGt) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Noel Sean](https://open.spotify.com/artist/0zdnUAZHhPa4ZgxEhovTSN) | [Maakkikirkiri](https://open.spotify.com/album/7tGakiVZjFCUKw3uh8LUuS) | 5:17 |
-| 74 | [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/4vFm3dGHcpeuBAcn0mCNyi) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/2XDzMJ73yjD3ffYyWCGcbP) | 3:13 |
+| 74 | [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/29uZ19VV4GQyS8mKdyavOf) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/4xy4FT93ivcqANeyvZxEuh) | 3:13 |
 | 75 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
 
-Snapshot ID: `MCxkMWRjMDMwN2ZlYzQwZGYzNTQ4YTRiYzdmYjAxMjVhZThjMjZkNjc2`
+Snapshot ID: `MCw1MWQwZjg0NGM0N2Y1NTFlNzBhNDVhZDA4NjkwODBjYTVlMTI4M2Qw`

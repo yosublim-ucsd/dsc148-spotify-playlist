@@ -6838,10 +6838,28 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 156886,
       "name": "Minha Hora",
       "url": "https://open.spotify.com/track/1SkwhZcGTHDxx9eod4IyZi"
+    },
+    {
+      "album": {
+        "name": "Minha Hora",
+        "url": "https://open.spotify.com/album/3wGreoxQU9bxcUOL6nnUHu"
+      },
+      "artists": [
+        {
+          "name": "Rez",
+          "url": "https://open.spotify.com/artist/5zI2o9jsEmNCXWeNiSNVJl"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156886,
+      "name": "Minha Hora",
+      "url": "https://open.spotify.com/track/4QE8Gq8Jm2TvpPE6JdltpT"
     },
     {
       "album": {

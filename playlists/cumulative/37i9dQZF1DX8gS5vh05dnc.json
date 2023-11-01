@@ -542,7 +542,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 263120,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
@@ -706,6 +706,24 @@
       "duration_ms": 150298,
       "name": "boyfriend material",
       "url": "https://open.spotify.com/track/20dYdhOwY8nfGsVaIockAR"
+    },
+    {
+      "album": {
+        "name": "break",
+        "url": "https://open.spotify.com/album/5ohXBBdn3W8bSsR0TwSjOe"
+      },
+      "artists": [
+        {
+          "name": "GARETH FERNANDEZ",
+          "url": "https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "break",
+      "url": "https://open.spotify.com/track/70Ao7kHuPXDg94NfMAarJm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXap0h4PBqZpr.md) - [plain]
 
 > Fina selección musical por el legendario ídolo del Rock Latinoamericano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,325 likes - 29 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,361 likes - 29 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXap0h4PBqZpr.md) - [plain]
 | 11 | [La Ventana Sin Cancel](https://open.spotify.com/track/1QBxPUkYUzlVaET2jacJbT) | [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Melopea](https://open.spotify.com/album/47F4NhL63vHv6Zesrg3DO6) | 1:59 |
 | 12 | [Instituciones](https://open.spotify.com/track/0RPoVlxtkhJPaeeCNHTy85) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Pequenas Anécdotas Sobre Las Instituciones](https://open.spotify.com/album/2bW96QNHxL6oDb7kERQrA1) | 4:51 |
 | 13 | [Dale Gracias](https://open.spotify.com/track/4YI74GIyptzhi4nt4zuAsA) | [Spinetta Jade](https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe) | [Alma de Diamante](https://open.spotify.com/album/08WhOkH7KtcbYzyxfMuV2R) | 5:17 |
-| 14 | [Sandwiches de Miga](https://open.spotify.com/track/004G9E3EZhxxn5aE9yEQqx) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/3TIorpubpykzUFdUNBLOdp) | 3:00 |
+| 14 | [Sandwiches de Miga](https://open.spotify.com/track/2WTuqSbFdFQ4Ft5Q17pMhf) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/1F3hULFzB7JebCft7dcdBq) | 3:02 |
 | 15 | [Cadáver exquisito](https://open.spotify.com/track/63EdqxrZft3yMVZdHFAQKI) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Euforia](https://open.spotify.com/album/5AhTbUjvm7jfcHh473PtOC) | 5:37 |
 | 16 | [Laura Va](https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:52 |
 | 17 | [Yendo De La Cama Al Living](https://open.spotify.com/track/13tz2i3p3x2dMK9906nVFk) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Pubis Angelical / Yendo De La Cama Al Living](https://open.spotify.com/album/1oZU9a9rdlLV2AB0OCocTZ) | 4:45 |

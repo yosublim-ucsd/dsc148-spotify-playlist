@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Marc Anthony",
-  "num_followers": 492031,
+  "num_followers": 492249,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTZkMWJmZTY1MTJlNDBmNmQ4YjYyZGI2ZDE3ZTY1ODQyMzU2NDIz",
+  "snapshot_id": "MCxmOGU1NDA1MzVhNjBjZDJhOTk5MDY3NjYzZDk0ZjE0MjMwZGQ3NTg2",
   "tracks": [
     {
       "added_at": "2023-09-26 23:46:47",
@@ -735,18 +735,22 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+        "name": "Oro Salsero (20 \u00c9xitos)",
+        "url": "https://open.spotify.com/album/0xpohAmHs1FIAlWliG4IDz"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Edgar Joel",
+          "url": "https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A"
+        },
+        {
+          "name": "Anthony Colon",
+          "url": "https://open.spotify.com/artist/0tc7v6aUc2MuA3qdjwVQir"
         }
       ],
-      "duration_ms": 409080,
-      "name": "Peri\u00f3dico De Ayer",
-      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
+      "duration_ms": 294026,
+      "name": "Hechizo De Luna",
+      "url": "https://open.spotify.com/track/5qjSPrKTBqYpgVJSTcgKTd"
     },
     {
       "added_at": "2023-09-26 23:46:47",
@@ -767,22 +771,18 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "Oro Salsero (20 \u00c9xitos)",
-        "url": "https://open.spotify.com/album/0xpohAmHs1FIAlWliG4IDz"
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
       "artists": [
         {
-          "name": "Edgar Joel",
-          "url": "https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A"
-        },
-        {
-          "name": "Anthony Colon",
-          "url": "https://open.spotify.com/artist/0tc7v6aUc2MuA3qdjwVQir"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 294026,
-      "name": "Hechizo De Luna",
-      "url": "https://open.spotify.com/track/5qjSPrKTBqYpgVJSTcgKTd"
+      "duration_ms": 409080,
+      "name": "Peri\u00f3dico De Ayer",
+      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
     },
     {
       "added_at": "2023-09-26 23:46:47",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
+        "name": "Cant\u00e1ndole al Amor, Vol. 2",
+        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 301441,
+      "name": "T\u00fa Con El",
+      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
+    },
+    {
+      "added_at": "2023-09-26 23:46:47",
+      "album": {
         "name": "Cheo",
         "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "Cant\u00e1ndole al Amor, Vol. 2",
-        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 301441,
-      "name": "T\u00fa Con El",
-      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
-    },
-    {
-      "added_at": "2023-09-26 23:46:47",
-      "album": {
         "name": "Probablemente",
         "url": "https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP"
       },
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
+        "name": "Voy Pa'Encima",
+        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
+    },
+    {
+      "added_at": "2023-09-26 23:46:47",
+      "album": {
         "name": "Milenario, Vol. 3",
         "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 160115,
       "name": "El Watusi",
       "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
-    },
-    {
-      "added_at": "2023-09-26 23:46:47",
-      "album": {
-        "name": "Voy Pa'Encima",
-        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
     }
   ],
   "unique_name": "Dame Salsa",

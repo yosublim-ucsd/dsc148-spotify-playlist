@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6fZnlEQhCdN5rTWuzKG7ao?si=PTlXF2E1SoKbV2yr7WZZXw">Nkosi Zondo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,343 likes - 55 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,372 likes - 55 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

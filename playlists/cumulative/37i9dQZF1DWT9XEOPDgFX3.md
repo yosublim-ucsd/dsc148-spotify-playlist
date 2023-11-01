@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Sun June
 
-410 songs - 1 day 1 hr 33 min
+411 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [Sucker](https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker's Lunch](https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ) | 4:43 | 2022-04-29 | 2023-04-30 |
 | [Sucker](https://open.spotify.com/track/5Fj6VahostTvV1J2TMYLyS) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker's Lunch](https://open.spotify.com/album/0ofgTu4mwAvYoLalhMJLKr) | 4:43 | 2023-06-16 | 2023-07-26 |
 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 | 2022-01-21 |  |
-| [Sunburn Fades](https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunburn Fades](https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia) | 3:53 | 2023-06-23 |  |
+| [Sunburn Fades](https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunburn Fades](https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia) | 3:53 | 2023-06-23 | 2023-11-01 |
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2022-01-21 |  |
 | [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 | 2023-09-01 |  |
 | [Sweetspot](https://open.spotify.com/track/6gJIgCURxpAOG61j5Q9LVx) | [Mess Esque](https://open.spotify.com/artist/52o8MHT44vLaGDarbic1zq) | [Mess Esque](https://open.spotify.com/album/3FxizRBHvFR28BC4yYGMih) | 7:57 | 2022-01-21 | 2023-06-17 |
@@ -386,6 +386,7 @@
 | [Ultraviolet](https://open.spotify.com/track/0atoPGT6rAGWcMnaPUuCtn) | [Lionlimb](https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V) | [Ultraviolet](https://open.spotify.com/album/1rLY7IDUdjqqNlEqmRnIUd) | 3:50 | 2022-04-13 | 2022-11-14 |
 | [Under the Sky](https://open.spotify.com/track/1pU3Ujy096uOmEd68Doqi3) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [When It Comes](https://open.spotify.com/album/3onCVtegEMRsrgiysa4m1P) | 4:18 | 2022-04-29 | 2022-12-10 |
 | [Under the Sky](https://open.spotify.com/track/3vbBc820WrJ6xMjwxB4bxM) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [I Kiss the Night](https://open.spotify.com/album/29WmMuLngwP4b4j1ExcwBv) | 4:18 | 2022-04-13 | 2022-07-29 |
+| [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 | 2023-10-20 |  |
 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 | 2022-09-09 | 2023-04-11 |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-07-21 |  |
 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 | 2022-01-21 | 2023-05-08 |

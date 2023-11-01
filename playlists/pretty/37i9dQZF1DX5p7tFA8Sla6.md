@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,268 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,290 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 60 | [Let's Work](https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 3:54 |
 | 61 | [Funky President \(People It's Bad\)](https://open.spotify.com/track/01xhntcYe1f5EqHc2T7pep) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 3:58 |
 | 62 | [Joyous](https://open.spotify.com/track/4yVKYKv0qoS66bU4KQUsLe) | [Pleasure](https://open.spotify.com/artist/4XeVhjTp485r7duDSL3PmU) | [The Greatest Of Pleasure](https://open.spotify.com/album/6n3TTv12yYErhIaMiL7Fwn) | 6:27 |
-| 63 | [Dance Or Die](https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ), [Papa Dee](https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf), [Anna Brooks](https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV) | [Funk Ain't Ova](https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM) | 4:56 |
-| 64 | [I Can Understand It](https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8) | [The New Birth](https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA) | [Birth Day](https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3) | 6:23 |
+| 63 | [I Can Understand It](https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8) | [The New Birth](https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA) | [Birth Day](https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3) | 6:23 |
+| 64 | [Dance Or Die](https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ), [Papa Dee](https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf), [Anna Brooks](https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV) | [Funk Ain't Ova](https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM) | 4:56 |
 | 65 | [Do Me Right](https://open.spotify.com/track/3LrGfMjIgqI16WtPQawUSq) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Do Me Right](https://open.spotify.com/album/3acm84d09PzJGK9jXpJbk0) | 3:37 |
 | 66 | [Shake It](https://open.spotify.com/track/1apfl27W9ell44IcK6Wb1t) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Shake It](https://open.spotify.com/album/1h5VAB9cswXF7JEwv4Rwp7) | 2:57 |
 | 67 | [Housequake](https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 4:42 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 74 | [Hangin' with My Baby](https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Soul Side of Town](https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ) | 5:28 |
 | 75 | [Death Or Devotion](https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 4:25 |
 | 76 | [Dancin' To The Truth](https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:09 |
-| 77 | [Shake Your Money](https://open.spotify.com/track/6EpT9STInmudS2JOVd9f1S) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [Shake Your Money](https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r) | 3:20 |
-| 78 | [Ready to Live](https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Elevate](https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf) | 4:05 |
+| 77 | [Ready to Live](https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Elevate](https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf) | 4:05 |
+| 78 | [Shake Your Money](https://open.spotify.com/track/6EpT9STInmudS2JOVd9f1S) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [Shake Your Money](https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r) | 3:20 |
 | 79 | [Take It Back \(feat\. Doc Brown\)](https://open.spotify.com/track/1ENj6P8jaXJgURajSJCsIL) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu), [Doc Brown](https://open.spotify.com/artist/7usDVD6PDkEOCbHK7Elk7O) | [One of These Days](https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8) | 3:31 |
 | 80 | [Night Time](https://open.spotify.com/track/7tjRXebutOf50Ks2cRzv9d) | [Mr President](https://open.spotify.com/artist/0vxQClb5BOpAPfYZl1l0fR), [Sabba MG](https://open.spotify.com/artist/4AUMNpNUkYFFEVtqO4htFl) | [Going to a Go Go](https://open.spotify.com/album/3ssGWeOGiSLWVX5xIuVSc9) | 6:42 |
 | 81 | [Water](https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743), [Reggie Watkins](https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z), [carlos sosa](https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL), [Fernanco Castillo](https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Wild](https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI), [Mammal Dap](https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq) | [Wild](https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK) | 3:32 |
 | 100 | [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 |
 
-Snapshot ID: `MCw3NDNiOWEyY2JiNTkzMGQwM2MxODQ5NjQ2ODgyMTAzMDIzNDQ0ZWFh`
+Snapshot ID: `MCwxOGFhYTRiM2UyNDBiYTYzNDc2Mzc0NjQ1OWE4NTY5ZGFiY2RmMDg2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,031 likes - 90 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,093 likes - 90 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 37 | [A Certain Sadness](https://open.spotify.com/track/3vHcprrLUS7hJ7sGljPVgf) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [A Certain Smile, A Certain Sadness \(Expanded Edition\)](https://open.spotify.com/album/1vLQYFvmDj7hTYvlvdMSQ4) | 3:08 |
 | 38 | [I'm Through With Love](https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 5:25 |
 | 39 | [Gone With the Wind](https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ), [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Social Call](https://open.spotify.com/album/7MGttcftncXXItvutjK9dM) | 4:11 |
-| 40 | [The Boulevard of Broken Dreams](https://open.spotify.com/track/5bG5GUKVJztKR5nff1CwUp) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Duets An American Classic](https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX) | 3:21 |
-| 41 | [That Old Feeling](https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:28 |
-| 42 | [I See Your Face Before Me \- Remastered](https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Dippin'](https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j) | 5:29 |
+| 40 | [I See Your Face Before Me \- Remastered](https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Dippin'](https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j) | 5:29 |
+| 41 | [The Boulevard of Broken Dreams](https://open.spotify.com/track/5bG5GUKVJztKR5nff1CwUp) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Duets An American Classic](https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX) | 3:21 |
+| 42 | [That Old Feeling](https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:28 |
 | 43 | [Once Upon A Summertime](https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 2:47 |
 | 44 | [Everything Happens To Me \- Complete Take 2](https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 3:38 |
 | 45 | [There Must Be A Way](https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:08 |
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 81 | [Too Young To Go Steady \- Remastered](https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Night Lights](https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx) | 2:54 |
 | 82 | [He Was Too Good To Me](https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [When Your Heart's On Fire](https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF) | 3:45 |
 | 83 | [Just One More Chance \- 1931 Single Version](https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 3:30 |
-| 84 | [Whatever Happened To You?](https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 4:41 |
-| 85 | [I'm Gonna Laugh You Right Out Of My Life \- Remastered](https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:40 |
+| 84 | [I'm Gonna Laugh You Right Out Of My Life \- Remastered](https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:40 |
+| 85 | [Whatever Happened To You?](https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 4:41 |
 | 86 | [Blues In My Heart](https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [The Rockin' Chair Lady](https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC) | 3:09 |
 | 87 | [It's Easy to Remember](https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Smooth Songs](https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf) | 3:36 |
 | 88 | [My Old Flame](https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Sensation](https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh) | 2:25 |
 | 89 | [No More](https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 3:11 |
 | 90 | [Somebody Else Is Taking My Place](https://open.spotify.com/track/1pOs0EmRYSB2qHkq3RqQ3F) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Complete Recordings 1941\-1947](https://open.spotify.com/album/0x5yF2BAmms8KLA3YubZDP) | 3:08 |
 
-Snapshot ID: `MCwxYWIwMGJlOTgwMGMzODQ1NzM2YWFiYmE5MmUzM2I0Y2QyMThhMDBi`
+Snapshot ID: `MCxhNGU3MDBhYjYzZWIwYWUyMDI5Y2UyZDM4ZWQ5Zjg2MWNkMTNjM2Ri`

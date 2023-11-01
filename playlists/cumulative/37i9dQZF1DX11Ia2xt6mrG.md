@@ -2,7 +2,7 @@
 
 ### [mint MX](https://open.spotify.com/playlist/37i9dQZF1DX11Ia2xt6mrG)
 
-> Descubre lo más fresco de la electrónica mexicana\. Dannylux en portada.
+> Descubre lo más fresco de la electrónica mexicana\. Lex en portada.
 
 227 songs - 12 hr 54 min
 

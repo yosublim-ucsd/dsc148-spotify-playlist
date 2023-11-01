@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 126277,
+  "num_followers": 126289,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTE4ZTJkNWVlMzNjMGMyOTNiNGZhZDljNzQ3Y2ZiNGEzYWYxMzA5",
+  "snapshot_id": "MCw4ZDlmMjVmZDAxZjcxMzFiODk4ZjJlZjcxZTNlYzdmZWUyODQzZjg1",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -83,18 +83,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "La Casa No Existe",
-        "url": "https://open.spotify.com/album/7FwDCtgp0Y4IPyGKpv2Ze7"
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
       "artists": [
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Li Saumet",
+          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
         }
       ],
-      "duration_ms": 204814,
-      "name": "Ag\u00fcita del Equilibrio",
-      "url": "https://open.spotify.com/track/4tLVYBNIWBXpJjvXD1wYMX"
+      "duration_ms": 298809,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -119,22 +123,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Miss Colombia",
-        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+        "name": "This Is How You Smile",
+        "url": "https://open.spotify.com/album/1hHcudN9rY3XDskB78O1bd"
       },
       "artists": [
         {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        },
-        {
-          "name": "Li Saumet",
-          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
         }
       ],
-      "duration_ms": 298809,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
+      "duration_ms": 272229,
+      "name": "Pais Nublado",
+      "url": "https://open.spotify.com/track/5TnONsGGPD0ZO7DdEq0BsL"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -203,22 +203,6 @@
       "duration_ms": 254815,
       "name": "Coraz\u00f3n de Rub\u00ed",
       "url": "https://open.spotify.com/track/53qroFU9Rs6gDq7pSD8rHP"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "This Is How You Smile",
-        "url": "https://open.spotify.com/album/1hHcudN9rY3XDskB78O1bd"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 272229,
-      "name": "Pais Nublado",
-      "url": "https://open.spotify.com/track/5TnONsGGPD0ZO7DdEq0BsL"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -839,22 +823,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7"
-      },
-      "artists": [
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 317790,
-      "name": "Gente Mariposa",
-      "url": "https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Mezcla",
         "url": "https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa"
       },
@@ -867,6 +835,46 @@
       "duration_ms": 351173,
       "name": "De Barrio",
       "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "\u00d3diame",
+        "url": "https://open.spotify.com/album/3SwFT7Pq0A98vQypiY6vde"
+      },
+      "artists": [
+        {
+          "name": "Los Cancionautas Surmel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/2MxbFKWZMuLqHiRJ00Xzga"
+        },
+        {
+          "name": "Lunal\u00e9",
+          "url": "https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu"
+        }
+      ],
+      "duration_ms": 223047,
+      "name": "\u00d3diame",
+      "url": "https://open.spotify.com/track/4EoDDuA7b9V2lVlmdkEkPA"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Viaje de Mixturas",
+        "url": "https://open.spotify.com/album/5UDyoz7X5WktqJadjWvmVA"
+      },
+      "artists": [
+        {
+          "name": "Paulopulus",
+          "url": "https://open.spotify.com/artist/1IWXmmObccEzvcNxa9Dtvo"
+        },
+        {
+          "name": "Juan Luis Pereira",
+          "url": "https://open.spotify.com/artist/4svRjaFMW12wuoZ0PJqj40"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Viaje Andino",
+      "url": "https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M"
     }
   ],
   "unique_name": "Entre los Andes",

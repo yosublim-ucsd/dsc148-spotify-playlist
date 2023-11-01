@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 109252,
+  "num_followers": 109313,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDViZDk5NTFiMzVkNDRjNWY0MGM4ZThlMDUxZDBmZjg2NjE1Mzdh",
+  "snapshot_id": "MCxhNTU3NzdiMTlmNzY4MDlmZjA4N2I1MDY4YTgyNDFjMjUxOWZjODU1",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -266,10 +266,14 @@
         {
           "name": "El Chombo",
           "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        },
+        {
+          "name": "Jam & Suppose",
+          "url": "https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q"
         }
       ],
-      "duration_ms": 175856,
-      "name": "Papi Chulo",
+      "duration_ms": 114442,
+      "name": "El Cubo de Leche",
       "url": "https://open.spotify.com/track/1f2AyplMMO29MHBkjfFRmc"
     },
     {
@@ -446,10 +450,14 @@
         {
           "name": "El Chombo",
           "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        },
+        {
+          "name": "Jimmy Bad Boy",
+          "url": "https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r"
         }
       ],
-      "duration_ms": 180062,
-      "name": "Chacarr\u00f3n",
+      "duration_ms": 190589,
+      "name": "Luna y Estrellas",
       "url": "https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8"
     },
     {
@@ -550,10 +558,14 @@
         {
           "name": "El Chombo",
           "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        },
+        {
+          "name": "Jimmy Bad Boy",
+          "url": "https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r"
         }
       ],
-      "duration_ms": 84192,
-      "name": "Quieren Chorizo",
+      "duration_ms": 190693,
+      "name": "Bailando",
       "url": "https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z"
     },
     {
@@ -986,10 +998,14 @@
         {
           "name": "El Chombo",
           "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        },
+        {
+          "name": "Wassa Banga",
+          "url": "https://open.spotify.com/artist/3TWyInhPb6Ai7SCUK4zo5X"
         }
       ],
-      "duration_ms": 114442,
-      "name": "El Cubo de Leche",
+      "duration_ms": 84192,
+      "name": "Quieren Chorizo",
       "url": "https://open.spotify.com/track/25kTE35NF5YD9kR1J639Pd"
     },
     {
@@ -1143,22 +1159,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Dos Tiempos Bajo Un Mismo Tono",
-        "url": "https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj"
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
       },
       "artists": [
         {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        },
-        {
-          "name": "Jossie Esteban",
-          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
+          "name": "Ruben Sam",
+          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
         }
       ],
-      "duration_ms": 306373,
-      "name": "Viernes 13 - Parte 1",
-      "url": "https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB"
+      "duration_ms": 161632,
+      "name": "Pers\u00edgueme",
+      "url": "https://open.spotify.com/track/2STcXIS8BHSiRsypyRA19r"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1179,18 +1191,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+        "name": "Dos Tiempos Bajo Un Mismo Tono",
+        "url": "https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj"
       },
       "artists": [
         {
-          "name": "Ruben Sam",
-          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        },
+        {
+          "name": "Jossie Esteban",
+          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
         }
       ],
-      "duration_ms": 161632,
-      "name": "Pers\u00edgueme",
-      "url": "https://open.spotify.com/track/2STcXIS8BHSiRsypyRA19r"
+      "duration_ms": 306373,
+      "name": "Viernes 13 - Parte 1",
+      "url": "https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB"
     },
     {
       "added_at": "2021-12-20 17:02:25",

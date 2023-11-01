@@ -454,10 +454,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 138977,
       "name": "El Hombre Suburbano",
       "url": "https://open.spotify.com/track/1AgOt4TGz8VH4xj657ycLS"
+    },
+    {
+      "album": {
+        "name": "Pappo's Blues, Vol. 1",
+        "url": "https://open.spotify.com/album/0pCYUpMnAkVNkCNtPluhSC"
+      },
+      "artists": [
+        {
+          "name": "Pappo's Blues",
+          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141106,
+      "name": "El Hombre Suburbano",
+      "url": "https://open.spotify.com/track/1pakHYd2svU7ytp8H7RsuE"
     },
     {
       "album": {

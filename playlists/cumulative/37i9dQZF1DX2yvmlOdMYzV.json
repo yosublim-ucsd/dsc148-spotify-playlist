@@ -9036,7 +9036,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 146493,
       "name": "stronger than pride",
       "url": "https://open.spotify.com/track/54URaRW4KVRnIklZvxS353"
@@ -10846,6 +10846,24 @@
       "duration_ms": 223900,
       "name": "You're Too Precious",
       "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
+    },
+    {
+      "album": {
+        "name": "You, The World Vs Me",
+        "url": "https://open.spotify.com/album/4V49T04xtT0ZAN5I6wmHWr"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123319,
+      "name": "You, The World Vs Me",
+      "url": "https://open.spotify.com/track/6dG5YbZK6atPesjFH2zgaI"
     },
     {
       "album": {

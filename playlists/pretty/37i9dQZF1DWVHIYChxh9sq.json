@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Recluta y Adrian Chaparro",
-  "num_followers": 63620,
+  "num_followers": 63709,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjk1ODJkMjk0MDJmMDc3ZjE0ZjEwN2Y5OTRhOGY4YjUzNWE0YWEz",
+  "snapshot_id": "MCwzNmEzZDFhYzM4NDNjZDc3ZjEwN2NmNDYxODAyYWU0MjUxYjZiMzgz",
   "tracks": [
     {
       "added_at": "2023-09-26 05:23:38",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
+        "name": "Jalando La Bandona (En Vivo)",
+        "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "Levantando Polvadera (En vivo)",
+      "url": "https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
         "name": "Seguimos Bateando (En Vivo)",
         "url": "https://open.spotify.com/album/428LK3nKU8Wf0HE6KY1oYv"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 144917,
       "name": "Seguimos Bateando - En Vivo",
       "url": "https://open.spotify.com/track/5smmZhNxvXuacsJ6pEzMDw"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
-        "name": "Jalando La Bandona (En Vivo)",
-        "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Los Populares Del Llano",
-          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
-        }
-      ],
-      "duration_ms": 129500,
-      "name": "Levantando Polvadera (En vivo)",
-      "url": "https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2059,18 +2059,18 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "H\u00edbrido (En Vivo)",
-        "url": "https://open.spotify.com/album/0eAoN7SGB0N8ZE455QW5aX"
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 180537,
-      "name": "Celos del Viento - En Vivo",
-      "url": "https://open.spotify.com/track/35XIupdRiCOfwH59viQ35v"
+      "duration_ms": 211945,
+      "name": "Hace Un A\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/1vldXJyBmGmkNCvbH9uNif"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2091,18 +2091,18 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma"
+        "name": "H\u00edbrido (En Vivo)",
+        "url": "https://open.spotify.com/album/0eAoN7SGB0N8ZE455QW5aX"
       },
       "artists": [
         {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 211945,
-      "name": "Hace Un A\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/1vldXJyBmGmkNCvbH9uNif"
+      "duration_ms": 180537,
+      "name": "Celos del Viento - En Vivo",
+      "url": "https://open.spotify.com/track/35XIupdRiCOfwH59viQ35v"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2307,22 +2307,18 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "A Como te Ven (En Vivo)",
-        "url": "https://open.spotify.com/album/7H5HTt5Kh353pj9XCUHB0m"
+        "name": "Comando \u00danico con Compa Danny (En vivo)",
+        "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
       },
       "artists": [
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+          "name": "Comando \u00danico",
+          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
         }
       ],
-      "duration_ms": 202735,
-      "name": "A Como te Ven (En Vivo)",
-      "url": "https://open.spotify.com/track/7jtSoRjShFbMGW0s8WCKfi"
+      "duration_ms": 157500,
+      "name": "El Sube y Baja - En vivo",
+      "url": "https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2347,18 +2343,22 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Comando \u00danico con Compa Danny (En vivo)",
-        "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
+        "name": "A Como te Ven (En Vivo)",
+        "url": "https://open.spotify.com/album/7H5HTt5Kh353pj9XCUHB0m"
       },
       "artists": [
         {
-          "name": "Comando \u00danico",
-          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
         }
       ],
-      "duration_ms": 157500,
-      "name": "El Sube y Baja - En vivo",
-      "url": "https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq"
+      "duration_ms": 202735,
+      "name": "A Como te Ven (En Vivo)",
+      "url": "https://open.spotify.com/track/7jtSoRjShFbMGW0s8WCKfi"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2535,6 +2535,22 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
+        "name": "Los De La Noria En Vivo",
+        "url": "https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF"
+      },
+      "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        }
+      ],
+      "duration_ms": 257254,
+      "name": "Popurr\u00ed El Primer Tonto / Eres Mi Droga",
+      "url": "https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
         "name": "La Chapiza (En Vivo)",
         "url": "https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6"
       },
@@ -2551,22 +2567,6 @@
       "duration_ms": 125956,
       "name": "La Chapiza - En Vivo",
       "url": "https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
-        "name": "Los De La Noria En Vivo",
-        "url": "https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF"
-      },
-      "artists": [
-        {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        }
-      ],
-      "duration_ms": 257254,
-      "name": "Popurr\u00ed El Primer Tonto / Eres Mi Droga",
-      "url": "https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs"
     },
     {
       "added_at": "2023-09-26 05:23:38",

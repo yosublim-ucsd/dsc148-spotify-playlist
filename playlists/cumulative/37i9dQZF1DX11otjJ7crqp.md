@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Alec Benjamin
 
-4,214 songs - 8 day 17 hr 22 min
+4,215 songs - 8 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,8 @@
 | [Better Alone](https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Better Alone](https://open.spotify.com/album/0vTZFLIIpFT4Zxwbt1dFFD) | 3:29 | 2022-07-22 | 2022-08-13 |
 | [Better Alone](https://open.spotify.com/track/0qP18DVtb51rkanFTjx3gq) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Better Alone](https://open.spotify.com/album/2iCGgapIpUT8xuhV9jv1PO) | 3:23 | 2023-04-07 | 2023-04-22 |
 | [Better Alone](https://open.spotify.com/track/4KskDaTafpIJt0cezCGLR8) | [West](https://open.spotify.com/artist/0rCFX1FVZ9ulGM0uZm37tN) | [Better Alone](https://open.spotify.com/album/5TvpgvO46LNlVp8yRFDfFL) | 3:15 | 2022-02-04 | 2022-02-12 |
-| [Better Days](https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc) | 2:47 | 2023-10-27 |  |
+| [Better Days](https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc) | 2:47 | 2023-10-27 | 2023-11-01 |
+| [Better Days](https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE) | 2:47 | 2023-10-27 |  |
 | [Better Days \(feat\. EARTHGANG\)](https://open.spotify.com/track/4SF7B5YO80iewARxhdBW5t) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Better Days \(feat\. EARTHGANG\)](https://open.spotify.com/album/7bodl1LiY4085jq4L2Dfxx) | 3:37 | 2022-02-04 | 2022-02-19 |
 | [Better Man](https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 2:52 | 2023-04-07 | 2023-04-29 |
 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 | 2023-05-12 | 2023-05-27 |

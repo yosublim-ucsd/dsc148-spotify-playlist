@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1422062,
+  "num_followers": 1422630,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -18,10 +18,14 @@
         {
           "name": "Gala",
           "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        },
+        {
+          "name": "Molella",
+          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
         }
       ],
       "duration_ms": 213394,
-      "name": "Freed From Desire",
+      "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
@@ -171,22 +175,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 429533,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Singled Out",
         "url": "https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7"
       },
@@ -223,6 +211,22 @@
       "duration_ms": 243160,
       "name": "Push The Feeling On - Mk Dub Revisited Edit",
       "url": "https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -343,18 +347,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+        "name": "Heads Will Roll",
+        "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
         }
       ],
-      "duration_ms": 224693,
-      "name": "Harder, Better, Faster, Stronger",
-      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
+      "duration_ms": 203920,
+      "name": "Heads Will Roll - A-Trak Remix Radio Edit",
+      "url": "https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -375,22 +383,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Heads Will Roll",
-        "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
       "artists": [
         {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
-      "duration_ms": 203920,
-      "name": "Heads Will Roll - A-Trak Remix Radio Edit",
-      "url": "https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi"
+      "duration_ms": 224693,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -539,22 +543,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Day 'N' Nite (Crookers Remix)",
         "url": "https://open.spotify.com/album/6tisDlBrOOltEsFFq2vy6F"
       },
@@ -571,6 +559,22 @@
       "duration_ms": 281080,
       "name": "Day 'N' Nite - Crookers Remix",
       "url": "https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -803,6 +807,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 169426,
+      "name": "Call On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Bunkka",
         "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
       },
@@ -823,22 +843,6 @@
       "duration_ms": 228493,
       "name": "Starry Eyed Surprise",
       "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 169426,
-      "name": "Call On Me - Radio Edit",
-      "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1227,22 +1231,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Basement Boys Anthology",
-        "url": "https://open.spotify.com/album/6S72JaSvpkzsTJ4hkRJpHV"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 581226,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/2jBQYMPjY0UspZAVyYPRUG"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Show Me Love (feat. Robin S)",
         "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
       },
@@ -1287,6 +1275,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Basement Boys Anthology",
+        "url": "https://open.spotify.com/album/6S72JaSvpkzsTJ4hkRJpHV"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 581226,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/2jBQYMPjY0UspZAVyYPRUG"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Carry Me Away , Pt. 1",
         "url": "https://open.spotify.com/album/5wUsPJbsSVgz9eORxhj3uf"
       },
@@ -1303,6 +1307,22 @@
       "duration_ms": 205920,
       "name": "Carry Me Away (feat. Emma Hewitt) - Radio Edit",
       "url": "https://open.spotify.com/track/3vVdNuzFHL0hmT8Xq4vbhY"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Move For Me",
+      "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1339,22 +1359,6 @@
       "duration_ms": 224842,
       "name": "Underlying Feeling - Adam K & Soha Radio Edit",
       "url": "https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Move For Me",
-      "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1583,6 +1587,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 283040,
+      "name": "I Remember (Strobelight Edit)",
+      "url": "https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Worldwide Dance Hits",
         "url": "https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup"
       },
@@ -1647,42 +1671,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 283040,
-      "name": "I Remember (Strobelight Edit)",
-      "url": "https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Ready to Dare",
-        "url": "https://open.spotify.com/album/5Qaao9KPcE0dL21razJGx9"
-      },
-      "artists": [
-        {
-          "name": "AnnaGrace",
-          "url": "https://open.spotify.com/artist/1gGy6vCfc2Q2rAe1uhCCIs"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "You Make Me Feel",
-      "url": "https://open.spotify.com/track/5yjKR9RIBWixx9Cjz6FUft"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Every Word",
         "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
       },
@@ -1699,6 +1687,22 @@
       "duration_ms": 213173,
       "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
       "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Ready to Dare",
+        "url": "https://open.spotify.com/album/5Qaao9KPcE0dL21razJGx9"
+      },
+      "artists": [
+        {
+          "name": "AnnaGrace",
+          "url": "https://open.spotify.com/artist/1gGy6vCfc2Q2rAe1uhCCIs"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/5yjKR9RIBWixx9Cjz6FUft"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1783,6 +1787,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Take Me Away (Into the Night)",
+        "url": "https://open.spotify.com/album/4WB7XNlgLRBQHt0I6cLqIc"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "duration_ms": 191120,
+      "name": "Take Me Away - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/2iXSGmkft1qLUwxkRolc9U"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Nervous Rewind 2008",
         "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
       },
@@ -1815,22 +1835,6 @@
       "duration_ms": 202066,
       "name": "Shadows - Inpetto Edit",
       "url": "https://open.spotify.com/track/2jAbU8zHsqLDxAAgTdDHbE"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Take Me Away (Into the Night)",
-        "url": "https://open.spotify.com/album/4WB7XNlgLRBQHt0I6cLqIc"
-      },
-      "artists": [
-        {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
-        }
-      ],
-      "duration_ms": 191120,
-      "name": "Take Me Away - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/2iXSGmkft1qLUwxkRolc9U"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1931,6 +1935,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Just One Day",
+        "url": "https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A"
+      },
+      "artists": [
+        {
+          "name": "Kim Sozzi",
+          "url": "https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "Feel Your Love",
+      "url": "https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Nervous Rewind 2008",
         "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
       },
@@ -1947,18 +1967,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Just One Day",
-        "url": "https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A"
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
       },
       "artists": [
         {
-          "name": "Kim Sozzi",
-          "url": "https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         }
       ],
-      "duration_ms": 200080,
-      "name": "Feel Your Love",
-      "url": "https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s"
+      "duration_ms": 200280,
+      "name": "Step One Two",
+      "url": "https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2015,18 +2035,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/2iPHV0vUp2IoooYQXHIyI8"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "M.A.N.D.Y.",
+          "url": "https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
         }
       ],
-      "duration_ms": 200280,
-      "name": "Step One Two",
-      "url": "https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac"
+      "duration_ms": 438013,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5koBIzuWS86S2IR36yt2LW"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2063,22 +2087,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/2iPHV0vUp2IoooYQXHIyI8"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
       },
       "artists": [
         {
-          "name": "M.A.N.D.Y.",
-          "url": "https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX"
-        },
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         }
       ],
-      "duration_ms": 438013,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/5koBIzuWS86S2IR36yt2LW"
+      "duration_ms": 211266,
+      "name": "Sorry - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2095,38 +2115,6 @@
       "duration_ms": 224640,
       "name": "Chemistry - Radio Edit",
       "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "Bendj Feat Sushy",
-          "url": "https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU"
-        }
-      ],
-      "duration_ms": 172493,
-      "name": "Me and Myself (Wolfgang Gartner Radio Edit)",
-      "url": "https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Sorry - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2167,6 +2155,22 @@
       "duration_ms": 228501,
       "name": "Everything (feat. Myah) - Radio Edit",
       "url": "https://open.spotify.com/track/6Ypg2IzQhNOpxQi2vIBvfz"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "Bendj Feat Sushy",
+          "url": "https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU"
+        }
+      ],
+      "duration_ms": 172493,
+      "name": "Me and Myself (Wolfgang Gartner Radio Edit)",
+      "url": "https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV"
     },
     {
       "added_at": "2023-03-22 14:00:00",

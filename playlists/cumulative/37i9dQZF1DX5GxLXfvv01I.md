@@ -4,15 +4,16 @@
 
 > Music from and inspired by Wendell & Wild, curated by Tunde Adebimpe of TV on the Radio\. Watch now on Netflix.
 
-49 songs - 3 hr 0 min
+50 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...And Loyalty Is A Nuisance Child](https://open.spotify.com/track/0PDQRG9ogXCApqBNF6TmOb) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 2:13 | 2022-10-26 | 2023-02-03 |
 | [...And Loyalty Is A Nuisance Child](https://open.spotify.com/track/30Ch4yWdgbTcYziAvFt9TK) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/6eWOqykBzznyzi3NrMWy7y) | 2:13 | 2022-10-26 |  |
 | [Another Tear \(2022 Remaster\)](https://open.spotify.com/track/27bk6lMaDP3Wd3d78ru3oB) | [Guitar Gabby & The TxLips Band](https://open.spotify.com/artist/5X9ip2szSenntdqKlDjzB9) | [Another Tear \(2022 Remaster\)](https://open.spotify.com/album/4Ka8Hqwfw1X01hlit2QtNC) | 6:21 | 2022-10-28 |  |
-| [Beep Beep](https://open.spotify.com/track/2iRwO38p5iFSxD1Uc7sH8h) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Black Beauty \(Deluxe Version\)](https://open.spotify.com/album/6clmQiEbiFg1REgNGZlo3b) | 2:13 | 2022-10-26 |  |
+| [Beep Beep](https://open.spotify.com/track/2iRwO38p5iFSxD1Uc7sH8h) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Black Beauty \(Deluxe Version\)](https://open.spotify.com/album/6clmQiEbiFg1REgNGZlo3b) | 2:13 | 2022-10-26 | 2023-11-01 |
 | [Beep Beep](https://open.spotify.com/track/4TH1GFk1VUpIVRxrxGpntC) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Black Beauty \(Deluxe Version\)](https://open.spotify.com/album/1pdjhcIuj7MOtvNX1NIdI9) | 2:13 | 2022-10-26 | 2023-04-30 |
+| [Beep Beep](https://open.spotify.com/track/7gZ7Knn3D3uBhLuA1CA41F) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Black Beauty \(Deluxe Version\)](https://open.spotify.com/album/5VqD9o3sYi1uqkoR53lqV2) | 2:14 | 2022-10-26 |  |
 | [Board Up](https://open.spotify.com/track/7lPHOnjC7z6FdxIVcdx1sn) | [Fuck U Pay Us](https://open.spotify.com/artist/38OhJ6o5aFB6ENQlmx1QQJ) | [Board Up](https://open.spotify.com/album/2oDnujgPWTevv3eXNSqqK1) | 4:19 | 2022-10-26 |  |
 | [Boot](https://open.spotify.com/track/4IyJB9qgAYMup5WotzSgAG) | [Tamar\-Kali](https://open.spotify.com/artist/7JIvYIoSFTMVO2q7FoWO1e) | [Geechee Goddess Hardcore Warrior Soul EP](https://open.spotify.com/album/22CjcoUDiLcSVgRwVY0SGS) | 2:40 | 2022-10-26 |  |
 | [Choose Your Fighter](https://open.spotify.com/track/6tL8gSH1BWB5noSIac3uGZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 2:15 | 2022-10-26 |  |

@@ -722,7 +722,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 132819,
       "name": "Apex",
       "url": "https://open.spotify.com/track/0hszWwnBHYA7WmKeBnaF37"
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 127269,
       "name": "Dartden Road",
       "url": "https://open.spotify.com/track/0xW2pfHnKCyDQXACbQonff"
@@ -3967,6 +3967,24 @@
     },
     {
       "album": {
+        "name": "Have Faith In What Will Be",
+        "url": "https://open.spotify.com/album/3WyBMmOjjn6kcTgZS3jlxV"
+      },
+      "artists": [
+        {
+          "name": "Francisco Chavez",
+          "url": "https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198484,
+      "name": "Have Faith In What Will Be",
+      "url": "https://open.spotify.com/track/1oq0mwvjEoJPdnjq1relpX"
+    },
+    {
+      "album": {
         "name": "Haven",
         "url": "https://open.spotify.com/album/6L2FYF5DUWMYia12leLKAo"
       },
@@ -5182,6 +5200,24 @@
       "duration_ms": 180624,
       "name": "Laguna Blanca",
       "url": "https://open.spotify.com/track/17GnGJcqKS8JzbwDkWUcIh"
+    },
+    {
+      "album": {
+        "name": "Laguna Colorada",
+        "url": "https://open.spotify.com/album/04OjNl78J3in8FrCedTKun"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154374,
+      "name": "Laguna Colorada",
+      "url": "https://open.spotify.com/track/3J2QDxVOOmQKalHgfU8LUx"
     },
     {
       "album": {
@@ -7864,7 +7900,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 134532,
       "name": "R\u00eaves de perp\u00e9tuit\u00e9",
       "url": "https://open.spotify.com/track/3zVvkgye4Y4ZZNQceOXhx1"
@@ -8502,6 +8538,24 @@
       "duration_ms": 136127,
       "name": "Silver Light",
       "url": "https://open.spotify.com/track/6jqOMgW43YKj1Q8mRzQoxS"
+    },
+    {
+      "album": {
+        "name": "Simpatia",
+        "url": "https://open.spotify.com/album/3HHbMvYOgKOAcEyLrkJQ17"
+      },
+      "artists": [
+        {
+          "name": "Hanni Licht",
+          "url": "https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166501,
+      "name": "Simpatia",
+      "url": "https://open.spotify.com/track/4HeyYmT5CJldklMP2ZLeSJ"
     },
     {
       "album": {

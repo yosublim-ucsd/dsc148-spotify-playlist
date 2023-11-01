@@ -401,6 +401,32 @@
     },
     {
       "album": {
+        "name": "3D (feat. Jack Harlow) (MK Remix)",
+        "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186241,
+      "name": "3D (feat. Jack Harlow) (MK Remix)",
+      "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
+    },
+    {
+      "album": {
         "name": "Archive 01",
         "url": "https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH"
       },
@@ -1316,7 +1342,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 62789,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
       "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
@@ -6028,7 +6054,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 201391,
       "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
@@ -7112,7 +7138,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 238106,
       "name": "Father",
       "url": "https://open.spotify.com/track/365znJ27Fb3faGsctmQYWR"
@@ -11698,7 +11724,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
@@ -18612,6 +18638,32 @@
       "duration_ms": 157986,
       "name": "Set Myself On Fire",
       "url": "https://open.spotify.com/track/002wiS64p2qXaYYVAP7KOW"
+    },
+    {
+      "album": {
+        "name": "Seven (feat. Latto) (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/4a8HKe6jKdCemtBCh5LnYH"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Seven (David Guetta Remix)",
+      "url": "https://open.spotify.com/track/1JedlGqkzYvVUITKsvhbPh"
     },
     {
       "album": {

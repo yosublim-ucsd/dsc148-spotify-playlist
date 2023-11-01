@@ -4,7 +4,7 @@
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-85 songs - 5 hr 49 min
+86 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Here Without You \- Acoustic](https://open.spotify.com/track/2HIU8kiFo9sB5ih05q8wgP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Here Without You \(Acoustic\)](https://open.spotify.com/album/4flaMBqrWP26gwhRRxbq7e) | 3:52 | 2023-05-05 |  |
 | [How to Save a Life \- Live in NYC \- 2009](https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Live From Soho](https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq) | 4:50 | 2023-05-05 |  |
 | [I Wanna Get Lost With You \(Acoustic 2015\)](https://open.spotify.com/track/1gLVsT8unGZfx1G6DGJyp2) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Keep the Village Alive \(Deluxe\)](https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW) | 4:17 | 2023-05-05 |  |
-| [Ignorance \- Acoustic Version](https://open.spotify.com/track/6x9Sf1jBFcSeSvMEkdKbOz) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [100 Greatest Acoustic Songs](https://open.spotify.com/album/4744LKhHEUK88uQPtDc5AH) | 3:40 | 2023-05-05 |  |
+| [Ignorance \- Acoustic Version](https://open.spotify.com/track/3gwP9by92tR3CpMAhy0zqU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Acoustic Now](https://open.spotify.com/album/3GeJxvKkvaozN1bg0QxZtt) | 3:40 | 2023-10-20 |  |
+| [Ignorance \- Acoustic Version](https://open.spotify.com/track/6x9Sf1jBFcSeSvMEkdKbOz) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [100 Greatest Acoustic Songs](https://open.spotify.com/album/4744LKhHEUK88uQPtDc5AH) | 3:40 | 2023-05-05 | 2023-11-01 |
 | [Imprevisível \(Acústico\)](https://open.spotify.com/track/0zo8ZIMMDWQNOmUNS3BIXl) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Imprevisível \(Acústico\)](https://open.spotify.com/album/5j4JF0JaqOzsPxIfXP0bDf) | 3:08 | 2023-05-05 |  |
 | [Infinita Highway \- Ao Vivo](https://open.spotify.com/track/0yDvCGnKcBuv0ltINV0nuu) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [Acústico \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/26A68nUfZ08rQSrwjSdcR5) | 4:18 | 2023-05-05 |  |
 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 | 2023-05-05 |  |

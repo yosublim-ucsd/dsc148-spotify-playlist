@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to Indian women, at full volume\. Cover \- Kavita Seth
+> Listen to Indian women, at full volume\. Cover \- Lisa Mishra
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,296 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,318 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 |
-| 2 | [Bahaane](https://open.spotify.com/track/7eQBzDRjBJ2bCkRKxNPbXm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Bahaane](https://open.spotify.com/album/0R3qoIMGjyEOrntY9seZCk) | 2:42 |
+| 1 | [Bahaane](https://open.spotify.com/track/7eQBzDRjBJ2bCkRKxNPbXm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Bahaane](https://open.spotify.com/album/0R3qoIMGjyEOrntY9seZCk) | 2:42 |
+| 2 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 |
 | 3 | [Shagnaa](https://open.spotify.com/track/4YtqSiEWM1xXtzn1hmdkqr) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Shagnaa](https://open.spotify.com/album/2YxNZ37OoJNlYLhfpBWVSp) | 3:25 |
 | 4 | [Udh Di Phiran](https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Udh Di Phiran](https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e) | 3:41 |
 | 5 | [Rasiya \(From "Brahmastra"\)](https://open.spotify.com/track/4Hv055xg1SZZgwwGBx8Cr5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Rasiya \(From "Brahmastra"\)](https://open.spotify.com/album/5pjSP9gi3qIDK9NvI0uY88) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 49 | [Meri Jaan](https://open.spotify.com/track/7KunOacBzaPJitn25oWKYy) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Abdul Rashid Hafiz](https://open.spotify.com/artist/2b7NGjYG1FRerFRrYT8SlM) | [Meri Jaan](https://open.spotify.com/album/7LbxG7fQBDbuAGRqdm0eYC) | 5:12 |
 | 50 | [Pari Hoon Main \(From "Thank You For Coming\)](https://open.spotify.com/track/4351grftIjxdiHySLZYrvS) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Sushant Divgikar](https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8), [Rahul Pais](https://open.spotify.com/artist/0iByQOkheGQaW823yagplF), [Nariman Khambata](https://open.spotify.com/artist/3kvPoJrBHkhNT8j7Pj8QZN), [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Rajesh Johri](https://open.spotify.com/artist/4Jl8jq6OJfgIj896dVWVn2) | [Pari Hoon Main \(From "Thank You for Coming\)](https://open.spotify.com/album/0BMh0toShdqxdgFU4TOMmA) | 3:19 |
 
-Snapshot ID: `MCw2ZGM5YzRlOTdjOGU5ZmE4ZDAwNzQ5YjliOTM4MzA5MTQ0OTczYmVh`
+Snapshot ID: `MCxkODIzM2U3NDI1YzRhYjhjODQ0MzA2OTFmNGZjYzk5MjA3ZjIzZmVi`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "2023\u5e748\u6708~10\u6708\u306b\u958b\u50ac\u3055\u308c\u308b<a href=\"https://www.straykidsjapan.com/5stardometour/\">Stray Kids 5-STAR Dome Tour</a>\u306b\u5099\u3048\u3066\u3001\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u4e88\u7fd2\u3057\u3088\u3046!",
+  "description": "\u3010\u30bb\u30c8\u30ea\u516c\u958b\u30112023\u5e748\u6708\u301c10\u6708\u306b\u958b\u50ac\u3055\u308c\u305f\u300cStray Kids 5-STAR Dome Tour 2023\u300d\u306e\u65e5\u672c\u516c\u6f14\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u516c\u958b\uff01",
   "name": "On Tour Japan: Stray Kids",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 208573,
       "name": "3RACHA (Bang Chan, Changbin, HAN)",
       "url": "https://open.spotify.com/track/6T4o4xEh61CpgM9v4jG5DJ"
@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "SKZ2020",
+        "url": "https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/7kvRVikkyStN8wEGbn8Gbk"
+    },
+    {
+      "album": {
         "name": "IN LIFE",
         "url": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X"
       },
@@ -88,10 +106,28 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 191360,
       "name": "Back Door -Japanese ver.-",
       "url": "https://open.spotify.com/track/7p1Cyfo5Wt0c5YJPHQcUJW"
+    },
+    {
+      "album": {
+        "name": "THE SOUND",
+        "url": "https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "Battle Ground",
+      "url": "https://open.spotify.com/track/6TyUrD8PmqxYyPlYXNGLXq"
     },
     {
       "album": {
@@ -106,7 +142,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 190706,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3Oi8I8awZsuJtSEOGHuOXf"
@@ -124,7 +160,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 167426,
       "name": "CALL",
       "url": "https://open.spotify.com/track/40eQ3f56CJ34Io5JXKn5rF"
@@ -142,7 +178,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 209666,
       "name": "Can't Stop (Seungmin, I.N)",
       "url": "https://open.spotify.com/track/33vfE5bxDMHpOFHMSgxehR"
@@ -178,7 +214,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 188573,
       "name": "Charmer",
       "url": "https://open.spotify.com/track/4QDpsNBlllaLGj8zbF2EE0"
@@ -196,7 +232,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 182080,
       "name": "CHEESE",
       "url": "https://open.spotify.com/track/7qpSatdWQcRHA3hpedL2u4"
@@ -250,7 +286,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 157626,
       "name": "Collision",
       "url": "https://open.spotify.com/track/2vukoriV9e7oyOojN1NtsB"
@@ -286,7 +322,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 186000,
       "name": "DLC",
       "url": "https://open.spotify.com/track/6dyXogYZZ45wBgRY1Wq3P1"
@@ -304,7 +340,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 194760,
       "name": "DLMLU",
       "url": "https://open.spotify.com/track/6e7SWgyx1EsEHmdDlsrbth"
@@ -322,7 +358,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 198720,
       "name": "DOMINO",
       "url": "https://open.spotify.com/track/6Ib6RkvLBMD85bov85apSL"
@@ -340,7 +376,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 183134,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4s9diT9GXpI7QiysMkoANG"
@@ -394,7 +430,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 171680,
       "name": "FNF",
       "url": "https://open.spotify.com/track/7LQvpgaadSh74HzYAjOisA"
@@ -430,7 +466,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 171000,
       "name": "GET LIT",
       "url": "https://open.spotify.com/track/7dqUVy6c69qzuAtIFbNeZ8"
@@ -448,7 +484,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 198173,
       "name": "Give Me Your TMI",
       "url": "https://open.spotify.com/track/7CQhZA3qNDZBoTKWqjD7gR"
@@ -502,7 +538,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 199671,
       "name": "Haven",
       "url": "https://open.spotify.com/track/1B960zmIFgde0TflN2q8Au"
@@ -520,7 +556,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 239133,
       "name": "Hellevator",
       "url": "https://open.spotify.com/track/77B96OF6qhdVTjzLZWCn0O"
@@ -556,7 +592,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 164853,
       "name": "Lonely St.",
       "url": "https://open.spotify.com/track/2xo84jGkxFPrZmmBtS3Pkd"
@@ -592,7 +628,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 184786,
       "name": "MANIAC -Japanese ver.-",
       "url": "https://open.spotify.com/track/6X5yUYQz3bKq0EZ0n82rqP"
@@ -646,7 +682,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 175293,
       "name": "Mixtape : Time Out",
       "url": "https://open.spotify.com/track/5vMQIOhLw85H8WYIf1kEWw"
@@ -686,6 +722,24 @@
       "duration_ms": 189149,
       "name": "My Pace -Japanese ver.-",
       "url": "https://open.spotify.com/track/0fREGqFdul0GnsIuxU7aEh"
+    },
+    {
+      "album": {
+        "name": "SKZ2020",
+        "url": "https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184360,
+      "name": "Question",
+      "url": "https://open.spotify.com/track/5tuWRIcjZJXPKio9W8jFqh"
     },
     {
       "album": {
@@ -754,7 +808,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 199706,
       "name": "Scars",
       "url": "https://open.spotify.com/track/0iWdGvKnDkTOG6VCQQJIL0"
@@ -790,10 +844,28 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 211226,
       "name": "Silent Cry -Japanese ver.-",
       "url": "https://open.spotify.com/track/6QmZI52HcGpe1rwPVom7DX"
+    },
+    {
+      "album": {
+        "name": "SLUMP -Japanese ver.-",
+        "url": "https://open.spotify.com/album/7GP9GqO7fah2PnwEb9uRUF"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137080,
+      "name": "SLUMP -Japanese ver.-",
+      "url": "https://open.spotify.com/track/47bH8n39mkMHosMkniJRq0"
     },
     {
       "album": {
@@ -812,10 +884,32 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 198786,
       "name": "Social Path",
       "url": "https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d"
+    },
+    {
+      "album": {
+        "name": "Social Path / Super Bowl -Japanese ver.-",
+        "url": "https://open.spotify.com/album/7xBMOCdTrdP3Y7rDBHp2AW"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198786,
+      "name": "Social Path",
+      "url": "https://open.spotify.com/track/3dxcr1h2eM5dgYeWjCQ41H"
     },
     {
       "album": {
@@ -830,7 +924,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 215240,
       "name": "Star Lost",
       "url": "https://open.spotify.com/track/1LSHzXAZXQH9R1zSEFF8Hz"
@@ -866,7 +960,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 183160,
       "name": "Super Bowl",
       "url": "https://open.spotify.com/track/3OhW68CiyfCoeGntozuUMl"
@@ -902,7 +996,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 216120,
       "name": "TASTE (Lee Know, Hyunjin, Felix)",
       "url": "https://open.spotify.com/track/05ib88vsMeLfwlAfrZyz99"
@@ -920,7 +1014,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 180733,
       "name": "THE SOUND",
       "url": "https://open.spotify.com/track/2ovMFHvl5jWOZdhd9hL7uf"
@@ -938,7 +1032,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 215373,
       "name": "There",
       "url": "https://open.spotify.com/track/3jHSFa6SJUwp4Za5DNEaCh"
@@ -1057,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "NOEASY",
+        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190865,
+      "name": "WOLFGANG",
+      "url": "https://open.spotify.com/track/0aWEt5aMfU2zYxE1tg2efw"
+    },
+    {
+      "album": {
         "name": "SKZ2020",
         "url": "https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM"
       },
@@ -1086,7 +1198,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 196386,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t"
@@ -1104,7 +1216,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 209280,
       "name": "Youtiful",
       "url": "https://open.spotify.com/track/5sSv2lotkWeHZ9YSTQrdbf"
@@ -1122,7 +1234,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 184480,
       "name": "\u30bd\u30ea\u30af\u30f3 -Japanese ver.-",
       "url": "https://open.spotify.com/track/43kRGbM0W3mEbvHn0R7tWQ"
@@ -1158,7 +1270,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 195480,
       "name": "\u8718\u86db\u306e\u7cf8 (VENOM) -Japanese ver.-",
       "url": "https://open.spotify.com/track/14s7yMIqLhXW31laHmKFr9"

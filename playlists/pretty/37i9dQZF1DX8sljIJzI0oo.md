@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Do you dare to come in? Click <a href="spotify:playlist:37i9dQZF1DWXUjbdeyfJuU">HERE</a> to enter the haunted playlist and find the hidden mixtapes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909,299 likes - 12 songs - 3 min 22 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,909,933 likes - 12 songs - 3 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

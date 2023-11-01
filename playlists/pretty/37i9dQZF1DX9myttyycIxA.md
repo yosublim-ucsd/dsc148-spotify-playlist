@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Teethe
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,611 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,690 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 27 | [Greg Abbott's Maxi Pad](https://open.spotify.com/track/21JwaGcxPE1KuAWgoasLL1) | [Farmer's Wife](https://open.spotify.com/artist/01epJHd4z4JfvkUBWHD5Os) | [Greg Abbott's Maxi Pad](https://open.spotify.com/album/5i4YyMtdpLfa9aMrszZL5D) | 3:08 |
 | 28 | [Pale Blue](https://open.spotify.com/track/7uOINyletKxpHrSiWehjEy) | [All Things Blue](https://open.spotify.com/artist/01sLjLNQxogo8tXiVnuXty) | [Pale Blue](https://open.spotify.com/album/21tRaGSWiv8i1d5PSQkBEr) | 3:55 |
 | 29 | [natural devotion 2](https://open.spotify.com/track/126S4GL29vBOGJBcgIIvBu) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [tapeworm / natural devotion 2](https://open.spotify.com/album/4TJBJOEp2oEQnjz30ZECfO) | 3:12 |
-| 30 | [With Me](https://open.spotify.com/track/19oJeztertAs96nTXrkTNM) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [With Me](https://open.spotify.com/album/3ItpOcDRCMne7N7KFotDCQ) | 3:24 |
+| 30 | [With Me](https://open.spotify.com/track/37M8fz6hqNXisWg1el9DCl) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [With Me](https://open.spotify.com/album/1u1QRvmnXqynuqnQojlYGU) | 3:24 |
 | 31 | [exit girl](https://open.spotify.com/track/6nbfnqVbTWYfgscVHlgTR3) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [exit girl](https://open.spotify.com/album/39yddITr5Zid1HdG611km6) | 3:26 |
 | 32 | [Cheetah](https://open.spotify.com/track/2lSYQyP8LYXyfSp6S1kJu0) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Cheetah](https://open.spotify.com/album/6cpyeXYrpyzPI1VwOkA8Jo) | 3:02 |
 | 33 | [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 |

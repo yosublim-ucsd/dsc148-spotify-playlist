@@ -2,7 +2,7 @@
 
 ### [Tantalizers](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=41dz747lS2yRF62xACeKHQ"> Xenia Manasseh </a>
+> The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC?si=f37zn79yTcCtdQ9LGcPk2w"> Karun</a>
 
 300 songs - 16 hr 1 min
 
@@ -94,7 +94,7 @@
 | [Everything](https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Don't Tell Anyone](https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY) | 2:57 | 2023-05-25 |  |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2021-07-01 |  |
 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 | 2022-09-01 | 2023-03-04 |
-| [Falling Down](https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:04 | 2022-11-11 |  |
+| [Falling Down](https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:04 | 2022-11-11 | 2023-11-01 |
 | [FAR AWAY](https://open.spotify.com/track/0TTzrBufRSH2B0xGzpvVbT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [MY DIARY \- EP](https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r) | 3:15 | 2022-07-22 | 2022-11-19 |
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 |  |
 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 | 2021-08-06 | 2023-09-22 |

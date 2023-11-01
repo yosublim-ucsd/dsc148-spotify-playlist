@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation Cover: Faye Webster
 
-179 songs - 11 hr 49 min
+180 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Angels Bowling](https://open.spotify.com/track/6i7nxi0UXihzEUoIaU9Mku) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [Angels Bowling](https://open.spotify.com/album/18IQDpZlz1jlYmnKy3graV) | 2:18 | 2023-02-23 | 2023-07-15 |
 | [Ashes](https://open.spotify.com/track/0OVAeW31O5lvcjtfTLIGrK) | [Kelley McRae](https://open.spotify.com/artist/5jisWKblA5tIYYDLfTOKle) | [Ashes](https://open.spotify.com/album/5QWoRFLjMx1SwW4fJaGoCT) | 4:00 | 2023-03-24 |  |
 | [Astronaut](https://open.spotify.com/track/39XuhccP5xec13dC02yIS0) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/2otQW146DtK0V0TiOVe83O) | 3:22 | 2023-02-23 | 2023-09-02 |
-| [Away From The Castle](https://open.spotify.com/track/0lQd2j6DVcXvRFRsat7Cwz) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/4oEso7P9WBi868KZPWpJAg) | 3:42 | 2023-08-11 |  |
+| [Away From The Castle](https://open.spotify.com/track/0lQd2j6DVcXvRFRsat7Cwz) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/4oEso7P9WBi868KZPWpJAg) | 3:42 | 2023-08-11 | 2023-11-01 |
+| [Away From The Castle](https://open.spotify.com/track/73oTXbmbelMf3lVJBuLlf7) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/2QbX68So8TZjAmUzpvmt6R) | 3:42 | 2023-10-27 |  |
 | [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 | 2023-07-28 |  |
 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2023-02-23 |  |
 | [Better Friends](https://open.spotify.com/track/2oxPRS0DjGNecUpumDubt8) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Thread](https://open.spotify.com/album/4ngbnWenF6xcw6gtZzGOFH) | 4:46 | 2023-04-28 |  |

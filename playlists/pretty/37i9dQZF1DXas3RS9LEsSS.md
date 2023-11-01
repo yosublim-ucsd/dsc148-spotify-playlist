@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,857 likes - 60 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,881 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 | 34 | [Coward's Knife](https://open.spotify.com/track/1i0omOr6pmzaWyqTjq5BbX) | [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn) | [King of Latin Blues](https://open.spotify.com/album/5KHZUTEVbbXX4TJtlROycP) | 3:54 |
 | 35 | [Framed](https://open.spotify.com/track/7eZ4Mq4WArkSeZ9y1uSZCS) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba](https://open.spotify.com/album/4yruAhkPML9KnFteGkdaOV) | 2:34 |
 | 36 | [Agua Con Sal](https://open.spotify.com/track/4ErUQPFQhcudo9rKn5pNtQ) | [Real De Catorce](https://open.spotify.com/artist/0ds6VsUgSpysVJeAUyLzYz) | [Nueve](https://open.spotify.com/album/2jefulG83rGz5TET4c1CBw) | 4:48 |
-| 37 | [El Hombre Suburbano](https://open.spotify.com/track/1AgOt4TGz8VH4xj657ycLS) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 1](https://open.spotify.com/album/6uWGYV8FdHIJD95GRqv3QH) | 2:18 |
+| 37 | [El Hombre Suburbano](https://open.spotify.com/track/1pakHYd2svU7ytp8H7RsuE) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 1](https://open.spotify.com/album/0pCYUpMnAkVNkCNtPluhSC) | 2:21 |
 | 38 | [Trato de hacer blues](https://open.spotify.com/track/1XEANKLQHjtulQRj28X60i) | [El Cruce](https://open.spotify.com/artist/7qaHFNFCjcXpsHQM5NQhaK) | [10 años de Blues Criollo \(Vol\. 1\)](https://open.spotify.com/album/7gqryZPanv9wQMNrIxBAYU) | 5:49 |
 | 39 | [Todo Mal](https://open.spotify.com/track/2X1zXfkUGFHq3D7Fl9T37E) | [Don Vilanova Botafogo](https://open.spotify.com/artist/74iLgy7TMiwthOGMfGob53), [La Rata Bluesera](https://open.spotify.com/artist/2lbnuoTiUF2WUqQ4YAQsyn), [Gonzalo Araya](https://open.spotify.com/artist/00ua8zSEXT7dVLjI1P4o2G) | [Patas Negras](https://open.spotify.com/album/7Jz4V8qexPjZbT3TvQ4fai) | 4:20 |
 | 40 | [Gris](https://open.spotify.com/track/2ipUiBU7acIwFmNXRFDclR) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Cielo Perro](https://open.spotify.com/album/62rTbLNfcEIArsBBX8zCVt) | 3:05 |

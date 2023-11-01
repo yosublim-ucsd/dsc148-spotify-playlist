@@ -4,7 +4,7 @@
 
 > Let the music take you on a journey of peace, love, and good vibes.
 
-64 songs - 3 hr 41 min
+65 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 | 2023-03-21 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 | 2023-03-21 |  |
 | [Dreamboat Annie](https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 2:01 | 2023-07-19 |  |
-| [Everybody’s Gotta Live](https://open.spotify.com/track/6fBPZBMT8pokhb7dH7Wizn) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Reel To Real](https://open.spotify.com/album/43rAJMh5HNFHLDOsWAWQAE) | 3:24 | 2023-03-21 |  |
+| [Everybody's Gotta Live](https://open.spotify.com/track/53KaWf8R44BwbEwKEkvlUq) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Reel to Real \(Deluxe Version\)](https://open.spotify.com/album/55SUyh2rkdGh40pAa1f0J0) | 3:24 | 2023-10-04 |  |
+| [Everybody’s Gotta Live](https://open.spotify.com/track/6fBPZBMT8pokhb7dH7Wizn) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Reel To Real](https://open.spotify.com/album/43rAJMh5HNFHLDOsWAWQAE) | 3:24 | 2023-03-21 | 2023-11-01 |
 | [Father And Son](https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:41 | 2023-03-21 | 2023-07-20 |
 | [For What It's Worth](https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:33 | 2023-03-21 |  |
 | [Get Together](https://open.spotify.com/track/7CQXyFX44CXmnuq8Bi9Dyc) | [The Youngbloods](https://open.spotify.com/artist/5I6MzhNEMk27cZsCqGAIYo) | [The Youngbloods](https://open.spotify.com/album/5s0VNKqar5MPHpL5atfTFG) | 4:39 | 2023-03-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 418931,
+  "num_followers": 418964,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzM3OTM5NmVkZjQ0NGIwNTVhMDQ0MDEzZWE1YTlmNzE5YWM3MjZl",
+  "snapshot_id": "MCxkOTllZjEwZGUwYTVmN2YwODZlMmM1ODc3NzE0MjBkNTVjZjNkODk5",
   "tracks": [
     {
       "added_at": "2023-10-26 20:32:45",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 122760,
-      "name": "Je ne t'aime plus",
-      "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb"
-    },
-    {
-      "added_at": "2023-10-26 20:32:45",
-      "album": {
         "name": "Ciencia Exacta",
         "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 205569,
       "name": "Hablar de Ti",
       "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
+    },
+    {
+      "added_at": "2023-10-26 20:32:45",
+      "album": {
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 122760,
+      "name": "Je ne t'aime plus",
+      "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb"
     },
     {
       "added_at": "2023-10-26 20:32:45",
@@ -883,18 +883,22 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
-        "name": "Guerras (Un Viaje en el Tiempo)",
-        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+        "name": "Timidez (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
       "artists": [
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 194343,
-      "name": "Te Encontr\u00e9 (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1yB0GiaDvlGfLDJlaHSJyl"
+      "duration_ms": 214186,
+      "name": "Timidez (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
     },
     {
       "added_at": "2023-10-26 20:32:45",
@@ -915,22 +919,18 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
-        "name": "Timidez (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Timidez (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+      "duration_ms": 194343,
+      "name": "Te Encontr\u00e9 (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1yB0GiaDvlGfLDJlaHSJyl"
     },
     {
       "added_at": "2023-10-26 20:32:45",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
+        "name": "Algo Es Mejor",
+        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Algo Es Mejor",
+      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
+    },
+    {
+      "added_at": "2023-10-26 20:32:45",
+      "album": {
         "name": "Destilar",
         "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 260523,
       "name": "La Luna de Neuqu\u00e9n",
       "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
-    },
-    {
-      "added_at": "2023-10-26 20:32:45",
-      "album": {
-        "name": "Algo Es Mejor",
-        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Algo Es Mejor",
-      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
     },
     {
       "added_at": "2023-10-26 20:32:45",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        }
-      ],
-      "duration_ms": 261815,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
-    },
-    {
-      "added_at": "2023-10-26 20:32:45",
-      "album": {
         "name": "Gal\u00e1ctica",
         "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 207000,
       "name": "Gal\u00e1ctica",
       "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
+    },
+    {
+      "added_at": "2023-10-26 20:32:45",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        }
+      ],
+      "duration_ms": 261815,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
     },
     {
       "added_at": "2023-10-26 20:32:45",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 238128,
-      "name": "Los Paisajes",
-      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
-    },
-    {
-      "added_at": "2023-10-26 20:32:45",
-      "album": {
         "name": "Con Las Ganas",
         "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 241306,
       "name": "Con Las Ganas",
       "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
+    },
+    {
+      "added_at": "2023-10-26 20:32:45",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 238128,
+      "name": "Los Paisajes",
+      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
     },
     {
       "added_at": "2023-10-26 20:32:45",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
-        "name": "Velocidad Crucero",
-        "url": "https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1"
-      },
-      "artists": [
-        {
-          "name": "Puebla",
-          "url": "https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm"
-        },
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        }
-      ],
-      "duration_ms": 232947,
-      "name": "Velocidad Crucero",
-      "url": "https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU"
-    },
-    {
-      "added_at": "2023-10-26 20:32:45",
-      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+    },
+    {
+      "added_at": "2023-10-26 20:32:45",
+      "album": {
+        "name": "Me Entrego",
+        "url": "https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4"
+      },
+      "artists": [
+        {
+          "name": "Juan Solo",
+          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Me Entrego",
+      "url": "https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc"
     }
   ],
   "unique_name": "T\u00e9 Para Tres",

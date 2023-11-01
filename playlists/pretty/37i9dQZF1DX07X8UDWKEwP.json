@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Lenny Tav\u00e1rez",
-  "num_followers": 255391,
+  "num_followers": 255406,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTYxMDk0OTQ3NmI3ZWJlZmVlODI3N2FjZTM1N2M1ZWYzOTUwMDdh",
+  "snapshot_id": "MCw2NWFiZjViNmE5MzkxMjAzYjM2YzdlODFhOGY0ZDI0YWU4NTI5MTgw",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -463,6 +463,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Hipnotizados",
         "url": "https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7"
       },
@@ -483,22 +503,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB"
       },
       "artists": [
         {
-          "name": "Jd Pantoja",
-          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         }
       ],
-      "duration_ms": 225640,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
+      "duration_ms": 202268,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -523,22 +539,6 @@
       "duration_ms": 181894,
       "name": "No Es Normal",
       "url": "https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 202268,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "duration_ms": 206412,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
       },
@@ -871,18 +887,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
+        "name": "Bienvenidos a Mi Barrio",
+        "url": "https://open.spotify.com/album/7c6XRLWcvCYf5slViBDKmF"
       },
       "artists": [
         {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
-      "duration_ms": 206412,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
+      "duration_ms": 173329,
+      "name": "Bienvenidos a Mi Barrio",
+      "url": "https://open.spotify.com/track/4uRBz2dXQnwi0GyZzvijyM"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -899,22 +919,6 @@
       "duration_ms": 202360,
       "name": "ORGULLO",
       "url": "https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Nubes",
-        "url": "https://open.spotify.com/album/7lEjVKtnPigIjjCVNrGd3J"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 238205,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/7EBDeDKSY5QS185IpakRNe"
     },
     {
       "added_at": "2023-10-27 04:00:00",

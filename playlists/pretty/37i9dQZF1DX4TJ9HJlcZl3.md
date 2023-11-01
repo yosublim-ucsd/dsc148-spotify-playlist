@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,387 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,393 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 3 | [In Love Again](https://open.spotify.com/track/19wX7jFn6EsJmvbOhQpnaj) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [In Love Again](https://open.spotify.com/album/7g0rtDedv83hrOX65g9dtX) | 4:07 |
 | 4 | [Shiny and New](https://open.spotify.com/track/71VnmWirWkHf6XAloWH5TO) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Shiny and New](https://open.spotify.com/album/00rDINWPKuv6v4uPEmReYG) | 3:30 |
 | 5 | [A Matter Of Fact](https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Sunbursting EP](https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV) | 3:00 |
-| 6 | [Better Than Ever](https://open.spotify.com/track/5PXPE3omLz44P8p6o0HNI1) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Better Than Ever](https://open.spotify.com/album/6IXkIsTAzELAO5mwzJQ6yh) | 3:56 |
+| 6 | [Better Than Ever](https://open.spotify.com/track/5fUKZY3f9BGGRbW22toY19) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/2QbX68So8TZjAmUzpvmt6R) | 3:56 |
 | 7 | [Without You](https://open.spotify.com/track/28SHB4LMHD9ExTETbQIZfY) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Without You](https://open.spotify.com/album/3gAlDfcCFS4LEYtNTndsCx) | 3:10 |
 | 8 | [Fool](https://open.spotify.com/track/4loDVfneBX3ezG86mwToP0) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Eli & Harry](https://open.spotify.com/album/1CYU3DuCTjz4IkthZBr6cY) | 3:49 |
 | 9 | [Surrender](https://open.spotify.com/track/2lbfgYWkeW7rQRYlixgkAZ) | [Surahn](https://open.spotify.com/artist/7isf2onROC85pAnUK3wXAb) | [Surrender](https://open.spotify.com/album/2RknVcT1UWgRzNEJyRpLPn) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 49 | [I Wonder](https://open.spotify.com/track/6QsnUuIH1eWCmZ3Du1hzFJ) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [I Wonder](https://open.spotify.com/album/07vvTjXpmDxTVulZkXrK6p) | 4:11 |
 | 50 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 |
 
-Snapshot ID: `MCwxYjY3NWE4NmQ1M2U2YzhlZTc4ZjM3ZTY1YTU2ZDBkMzY1YzhmZWEx`
+Snapshot ID: `MCxjZGI3OGI0Yjg5Y2E0Mzk1MmZiNjQ5ZjllYmM4MDYxZjU5NWI1ZDQ1`

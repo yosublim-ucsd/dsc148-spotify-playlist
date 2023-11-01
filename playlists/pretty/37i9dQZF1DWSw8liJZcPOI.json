@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 49563,
+  "num_followers": 49723,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mzc1OGE4OWY5NGYwMWEzNDM1MzhhMWYzOTQ5OGU3YWMyM2Q1ZWNj",
+  "snapshot_id": "MCw4ZWU1OTdjNjY5ZjE4M2NhMjk0MjVjZWUyMzBkNWVmN2QwNzBiZGQw",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/3Amd5iGpGd9lv6hNAVwdA8"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/3NABVjRtAZrbnmGNeoyCyN"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 125437,
       "name": "Frost",
       "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3Amd5iGpGd9lv6hNAVwdA8"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/3NABVjRtAZrbnmGNeoyCyN"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Suite in D IV (Dreamland)",
-        "url": "https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP"
-      },
-      "artists": [
-        {
-          "name": "Martin Bloch",
-          "url": "https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z"
-        }
-      ],
-      "duration_ms": 174107,
-      "name": "Suite in D IV (Dreamland)",
-      "url": "https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "All I Hear Is Birds (Focus Rework)",
         "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 248506,
       "name": "All I Hear Is Birds - Focus Rework",
       "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Suite in D IV (Dreamland)",
+        "url": "https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP"
+      },
+      "artists": [
+        {
+          "name": "Martin Bloch",
+          "url": "https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z"
+        }
+      ],
+      "duration_ms": 174107,
+      "name": "Suite in D IV (Dreamland)",
+      "url": "https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Clouds in the Mirror (This Is Not a Safe Place Reimagined by P\u00eatr Aleks\u00e4nder) [Instrumentals]",
-        "url": "https://open.spotify.com/album/5J1t0MUxKrixwW0RuyaBJb"
+        "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle [Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv"
       },
       "artists": [
         {
-          "name": "Ride",
-          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
-        },
-        {
-          "name": "P\u00eatr Aleks\u00e4nder",
-          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
         }
       ],
-      "duration_ms": 183186,
-      "name": "Future Love (Reimagined by P\u00eatr Aleks\u00e4nder) - Instrumental",
-      "url": "https://open.spotify.com/track/3mug1SqX316NBMW9Gab4hv"
+      "duration_ms": 236520,
+      "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle - Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle [Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)]",
-        "url": "https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv"
+        "name": "Clouds in the Mirror (This Is Not a Safe Place Reimagined by P\u00eatr Aleks\u00e4nder) [Instrumentals]",
+        "url": "https://open.spotify.com/album/5J1t0MUxKrixwW0RuyaBJb"
       },
       "artists": [
         {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        },
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
         }
       ],
-      "duration_ms": 236520,
-      "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle - Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)",
-      "url": "https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe"
+      "duration_ms": 183186,
+      "name": "Future Love (Reimagined by P\u00eatr Aleks\u00e4nder) - Instrumental",
+      "url": "https://open.spotify.com/track/3mug1SqX316NBMW9Gab4hv"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
-      },
-      "artists": [
-        {
-          "name": "Sisulu",
-          "url": "https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "A Tiny Ripple That Becomes A Giant Wave",
         "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 210440,
       "name": "A Tiny Ripple That Becomes A Giant Wave",
       "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
+      },
+      "artists": [
+        {
+          "name": "Sisulu",
+          "url": "https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
-        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
-      },
-      "artists": [
-        {
-          "name": "Slow Shiver",
-          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
-      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Next Winter",
         "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 234683,
       "name": "Next Winter",
       "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
+        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
+      },
+      "artists": [
+        {
+          "name": "Slow Shiver",
+          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
+      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Familiar",
-        "url": "https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT"
-      },
-      "artists": [
-        {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
-        },
-        {
-          "name": "Canea Quartett",
-          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
-        }
-      ],
-      "duration_ms": 212732,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Tramlines",
         "url": "https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r"
       },
@@ -1651,22 +1631,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Floreana",
-        "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT"
       },
       "artists": [
         {
-          "name": "Gustaf Ljunggren",
-          "url": "https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs"
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
         },
         {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+          "name": "Canea Quartett",
+          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
         }
       ],
-      "duration_ms": 263608,
-      "name": "Leading Somewhere",
-      "url": "https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM"
+      "duration_ms": 212732,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1727,6 +1707,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Floreana",
+        "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Ljunggren",
+          "url": "https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        }
+      ],
+      "duration_ms": 263608,
+      "name": "Leading Somewhere",
+      "url": "https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
       },
@@ -1739,6 +1739,22 @@
       "duration_ms": 201181,
       "name": "For You",
       "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+      },
+      "artists": [
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+        }
+      ],
+      "duration_ms": 127995,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1763,34 +1779,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+        "name": "Nomadland (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
       },
       "artists": [
         {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 127995,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Be in the moment",
-        "url": "https://open.spotify.com/album/4nbi49mVkoZMEVETySmBjO"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Paterlini",
-          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
-        }
-      ],
-      "duration_ms": 189125,
-      "name": "Be in the moment",
-      "url": "https://open.spotify.com/track/6XBEK00TaLQhjLk2IoFgDr"
+      "duration_ms": 246257,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
     },
     {
       "added_at": "2023-10-20 04:00:00",

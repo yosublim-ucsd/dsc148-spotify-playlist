@@ -1,12 +1,12 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 56203,
+  "num_followers": 56343,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWViYzljNDkwOGQyNDAxNWE2MGUwZmE3NTIyZjY2NGI4MDU3NDMx",
+  "snapshot_id": "MCw1Y2MzZTllNjQyYzI1N2JjOTNmOWM1YjM5OGY0YmVmN2Q4MGMxNDYz",
   "tracks": [
     {
       "added_at": "2023-10-27 13:00:00",
@@ -471,26 +471,6 @@
     {
       "added_at": "2023-10-27 13:00:00",
       "album": {
-        "name": "Olympia",
-        "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "You've Done Enough",
-      "url": "https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP"
-    },
-    {
-      "added_at": "2023-10-27 13:00:00",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/4pDIOPC2fdiaPJFlyTBJmE"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 136097,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/55Qwa5Sfzx4ab7Q2MBhgas"
+    },
+    {
+      "added_at": "2023-10-27 13:00:00",
+      "album": {
+        "name": "Olympia",
+        "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "You've Done Enough",
+      "url": "https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP"
     },
     {
       "added_at": "2023-10-27 13:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-10-27 13:00:00",
       "album": {
-        "name": "Original Sin",
-        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 171598,
-      "name": "Original Sin",
-      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
-    },
-    {
-      "added_at": "2023-10-27 13:00:00",
-      "album": {
         "name": "Beyond the Fire",
         "url": "https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 228620,
       "name": "Beyond the Fire",
       "url": "https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"
+    },
+    {
+      "added_at": "2023-10-27 13:00:00",
+      "album": {
+        "name": "Original Sin",
+        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 171598,
+      "name": "Original Sin",
+      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
     },
     {
       "added_at": "2023-10-27 13:00:00",
@@ -991,18 +991,26 @@
     {
       "added_at": "2023-10-27 13:00:00",
       "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/1a8j1xt8u7J9ozOgZVm9AI"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH"
       },
       "artists": [
         {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Dinia",
+          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
         }
       ],
-      "duration_ms": 171048,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/7dTkiXLxCLpAquNt3MulYB"
+      "duration_ms": 168398,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"
     }
   ],
   "unique_name": "melancholia",

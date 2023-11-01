@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 238833,
+  "num_followers": 238907,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGM0M2UyNDk5NzY2Njc2NzUyYTE3M2MyZGZjNDFmZWNiNDA3OGUz",
+  "snapshot_id": "MCw0ZmMzOTFjZWMyYmUxNjRkYTQ2NmJjNThlMzc0ZWY4MmUxZmNlNzBj",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Diversion",
-        "url": "https://open.spotify.com/album/1qmpNeGmGgnBYgCRttwEB5"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Diversion",
-      "url": "https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Three Dimensions Deep",
         "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 173968,
       "name": "Softly",
       "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Diversion",
+        "url": "https://open.spotify.com/album/1qmpNeGmGgnBYgCRttwEB5"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Diversion",
+      "url": "https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Check Myself",
-        "url": "https://open.spotify.com/album/2WmIdURIvY3eZctc92T6Ma"
+        "name": "Loveloca",
+        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
       },
       "artists": [
         {
-          "name": "Lyna",
-          "url": "https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV"
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
         }
       ],
-      "duration_ms": 136971,
-      "name": "Check Myself",
-      "url": "https://open.spotify.com/track/4Oz1Aw9TEyuNljkUAaY8mw"
+      "duration_ms": 174000,
+      "name": "Loveloca",
+      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Loveloca",
-        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
+        "name": "Check Myself",
+        "url": "https://open.spotify.com/album/2WmIdURIvY3eZctc92T6Ma"
       },
       "artists": [
         {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+          "name": "Lyna",
+          "url": "https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Loveloca",
-      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
+      "duration_ms": 136971,
+      "name": "Check Myself",
+      "url": "https://open.spotify.com/track/4Oz1Aw9TEyuNljkUAaY8mw"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "1+1",
+        "url": "https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4"
+      },
+      "artists": [
+        {
+          "name": "Cyra Gwynth",
+          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
+        }
+      ],
+      "duration_ms": 172739,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 179954,
       "name": "Ride",
       "url": "https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "1+1",
-        "url": "https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4"
-      },
-      "artists": [
-        {
-          "name": "Cyra Gwynth",
-          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
-        }
-      ],
-      "duration_ms": 172739,
-      "name": "1+1",
-      "url": "https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt"
     },
     {
       "added_at": "2023-10-12 22:00:00",

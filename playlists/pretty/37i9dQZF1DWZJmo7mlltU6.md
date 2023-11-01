@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Claire Rosinkranz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,140 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,159 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 99 | [Jupiter I.](https://open.spotify.com/track/494TCdCW0A02emykMUeiJZ) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [Jupiter I.](https://open.spotify.com/album/3D7B39pnYJKpc9wi2ZD0C8) | 3:44 |
 | 100 | [Puentes Rotos](https://open.spotify.com/track/1KkQ56dX3KGiIkk19Jywxa) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Puentes Rotos](https://open.spotify.com/album/6FKtUHtGL9RZ6fERhYsXj7) | 3:37 |
 
-Snapshot ID: `MCxmMDA4MDRjZTA2NzU4NDcxMDE5NjY2ZTFmNjUwYWRjZmRkYzE4Nzdm`
+Snapshot ID: `MCw0MDM0MDEzZGU0OWI2ZTI1MzZmNjUyODA1MDliYTU4MDZhYjQ1MTky`

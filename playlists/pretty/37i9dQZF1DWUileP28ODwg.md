@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Guest curated by: <a href="spotify:artist:6KVnMm856M8CHHBCw53Ihh">Natalie Grant</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,096 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,217 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 53 | [Hope](https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hope](https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O) | 2:59 |
 | 54 | [ABLE](https://open.spotify.com/track/3v7797Fzh4pma99gdKrhsq) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [ABLE](https://open.spotify.com/album/5wVNAe5fORILSHquSst7Z5) | 3:41 |
 | 55 | [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Yeshua \(Friend Of Sinners\)](https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O) | 3:35 |
-| 56 | [The Church I Grew Up In \- Live](https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Church I Grew Up in \(Live\)](https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi) | 4:56 |
-| 57 | [While I Can](https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [While I Can](https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV) | 3:06 |
+| 56 | [While I Can](https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [While I Can](https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV) | 3:06 |
+| 57 | [The Church I Grew Up In \- Live](https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Church I Grew Up in \(Live\)](https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi) | 4:56 |
 | 58 | [The Lord Almighty Reigns \- Live](https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Sing! Christ Our Hope In Life And Death \(Live At The Getty Music Worship Conference\)](https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG) | 4:03 |
 | 59 | [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 |
 | 60 | [Where You Are](https://open.spotify.com/track/4IjgGxTQDs9Bf31TGtdxOv) | [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR), [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Where You Are](https://open.spotify.com/album/3aOI1EJVtokwfq2tob9xkQ) | 2:27 |
@@ -88,16 +88,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 78 | [Live Out Loud](https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Live Out Loud](https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT) | 3:23 |
 | 79 | [Plans](https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Plans](https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp) | 4:57 |
 | 80 | [Time](https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Time](https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL) | 4:01 |
-| 81 | [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 |
-| 82 | [I LOVE YOU TO DEATH](https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [I LOVE YOU TO DEATH](https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK) | 3:23 |
+| 81 | [I LOVE YOU TO DEATH](https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [I LOVE YOU TO DEATH](https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK) | 3:23 |
+| 82 | [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 |
 | 83 | [Not So Sure](https://open.spotify.com/track/50l0btNM2EyBEXJbAIri9U) | [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [Where The Winter Was](https://open.spotify.com/album/5aHds2df6eKrOirRI9895D) | 3:30 |
 | 84 | [At The End Of The River](https://open.spotify.com/track/1l1NFdzq5team6HHbWlTLk) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [At The End Of The River](https://open.spotify.com/album/7bfqllwYRjQSG6PfUGJsCX) | 4:42 |
 | 85 | [Lead of Love](https://open.spotify.com/track/0o8tEsgdKFeCy1ScEi4tiM) | [Caedmon's Call](https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA) | [Caedmon's Call](https://open.spotify.com/album/6ptgSZ2JdSNK5TfU8s4B7A) | 4:01 |
 | 86 | [Burial](https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Burial](https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G) | 4:38 |
 | 87 | [Valor](https://open.spotify.com/track/0zrDcz4IcvtNqvB04tJQgh) | [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6) | [Valor](https://open.spotify.com/album/0P3HrGJ2h1D1XAoGRFaPK4) | 5:42 |
 | 88 | [Worthy One](https://open.spotify.com/track/7DnsLjXPTPq0Sy24k6LPIR) | [CLINE](https://open.spotify.com/artist/1r5nbIz4NV4qjHiHA16FZj), [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4) | [Worthy One](https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R) | 3:56 |
-| 89 | [I Believe](https://open.spotify.com/track/07i9grlktadLuWDbfOwVTG) | [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6), [Wes King](https://open.spotify.com/artist/0mv7taBJWmKVK7KVZs2Yep) | [I Believe](https://open.spotify.com/album/1Jx6RxYgQJX9pHBNLHhWMQ) | 3:11 |
-| 90 | [But God](https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:50 |
+| 89 | [But God](https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:50 |
+| 90 | [I Believe](https://open.spotify.com/track/07i9grlktadLuWDbfOwVTG) | [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6), [Wes King](https://open.spotify.com/artist/0mv7taBJWmKVK7KVZs2Yep) | [I Believe](https://open.spotify.com/album/1Jx6RxYgQJX9pHBNLHhWMQ) | 3:11 |
 | 91 | [Run](https://open.spotify.com/track/6AYDBBuLOp7DvRoPC3P9Uv) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW) | [Run](https://open.spotify.com/album/1RKGwSiX9BMJq3mQS7RI3f) | 3:40 |
 | 92 | [Hold Me Jesus](https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c) | [Bellsburg Sessions](https://open.spotify.com/artist/008bteZ1A25Vw1jhUNbibn), [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7), [Andrew Greer](https://open.spotify.com/artist/3gAG5zquZV8QJXqq3Tbj0z), [Bonnie Keen](https://open.spotify.com/artist/4c6YjNzvGYOqNkomC0giwl) | [Hold Me Jesus \(The Songs of Rich Mullins\)](https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T) | 3:51 |
 | 93 | [Wounded Healer](https://open.spotify.com/track/4YsShNqQca2l7F0ycSpZXi) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Wounded Healer](https://open.spotify.com/album/0mdmYWwRjrZwnN6kWlVwFx) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 |
 | 100 | [To Not Worship You](https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD) | 3:45 |
 
-Snapshot ID: `MCwzMWQ5YmJjNGYwNTBjMTkwNzA5ODVhNDA3NWE1YThhYjM1Y2YxNGU1`
+Snapshot ID: `MCwzOTk5MTU1Yzg1M2M4Nzc3ZjY4NjFlZWU5ZmE0N2U2NWI4M2M5MzE4`

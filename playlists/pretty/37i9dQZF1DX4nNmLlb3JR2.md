@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,347 likes - 164 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,492 likes - 164 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 163 | [Sunny](https://open.spotify.com/track/1LG2brYleAjyAbOgYDAjG8) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [Sunny](https://open.spotify.com/album/1a8VE2Tf2qQoEXldyBBDJz) | 2:29 |
 | 164 | [Jimmy Cooks \- Lofi Cover](https://open.spotify.com/track/0QtpzHpNX7piC7zuMFEHEK) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl), [Wild Issues](https://open.spotify.com/artist/1m3Su2QS1BPQuE4SdHjb2S) | [Lo\-Fi Rap Caviar, Vol\. 4](https://open.spotify.com/album/6d59AcN0nULql52ea9ViNJ) | 1:09 |
 
-Snapshot ID: `MCw1OTU5NzhhOWM0ZTYxYTAwZDhmYTkzMDNhYzUxZTMzMGVkMTViNGYx`
+Snapshot ID: `MCxjY2ZiODk1ZWZmMDFkMmQzMDQzMjExYWRmOGUyZTI5ZmY3ODc4OGVj`

@@ -1,12 +1,12 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 375367,
+  "num_followers": 375556,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTY2ZDdjYWY0ZmUxNWEzMGMzYjg5MzljNWQyYTBhMTliNzQwMGUy",
+  "snapshot_id": "MCwzZmM0ZTk5Y2EyODgxMTZmYWEwOWI1YzIxZDRmOTExNTQyOTdjZWU1",
   "tracks": [
     {
       "added_at": "2023-10-24 04:44:54",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "That Towering Feeling",
-        "url": "https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos"
-      },
-      "artists": [
-        {
-          "name": "Vic Damone",
-          "url": "https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g"
-        }
-      ],
-      "duration_ms": 118400,
-      "name": "Let's Fall in Love",
-      "url": "https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
         "name": "Oh! Look At Me Now",
         "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 138600,
       "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
       "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "That Towering Feeling",
+        "url": "https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos"
+      },
+      "artists": [
+        {
+          "name": "Vic Damone",
+          "url": "https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "Let's Fall in Love",
+      "url": "https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE"
     },
     {
       "added_at": "2023-10-24 04:44:54",

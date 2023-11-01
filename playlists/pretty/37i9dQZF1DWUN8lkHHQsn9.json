@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:4GUR4UKtbNQiAV2h5qV2df\">Kamil Kempi\u0144ski</a>",
-  "num_followers": 6696,
+  "num_followers": 6697,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2E1NzE3ZjU4YjliNjlkN2Q4NzU4MjA3ZThkNjAzMDljYWZjZTk4",
+  "snapshot_id": "MCw2NzhlNzM4MTUxNjQ2MDVmNDhmYTQwYjUxYThjZjMwMThhOTljZGFl",
   "tracks": [
     {
       "added_at": "2023-10-20 09:12:18",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
-      },
-      "artists": [
-        {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 211555,
-      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Le$bijka",
         "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 169759,
       "name": "Le$bijka",
       "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
+      },
+      "artists": [
+        {
+          "name": "Raf Skowro\u0144ski",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 211555,
+      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -703,18 +703,22 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Hydra",
-        "url": "https://open.spotify.com/album/7A7tpEscBr4gb6G5dJAqZv"
+        "name": "OH WOW",
+        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
       },
       "artists": [
         {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "Nick Sinckler",
+          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
         }
       ],
-      "duration_ms": 288480,
-      "name": "Hydra",
-      "url": "https://open.spotify.com/track/5IIkGVU8NWqjWmxWSKyD6u"
+      "duration_ms": 174000,
+      "name": "OH WOW",
+      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -735,22 +739,18 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "OH WOW",
-        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
+        "name": "Hydra",
+        "url": "https://open.spotify.com/album/7A7tpEscBr4gb6G5dJAqZv"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "Nick Sinckler",
-          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 174000,
-      "name": "OH WOW",
-      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
+      "duration_ms": 288480,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/5IIkGVU8NWqjWmxWSKyD6u"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -823,26 +823,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Pokussa Na Parkiecie",
-        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "POKUSSA",
-      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Przypadki",
         "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
       },
@@ -855,6 +835,22 @@
       "duration_ms": 190443,
       "name": "Przypadki",
       "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "SLAY",
+        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -927,22 +923,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "SLAY",
-        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "SLAY",
-      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Jeszcze mam serce",
         "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
       },
@@ -959,22 +939,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Scarchest",
-        "url": "https://open.spotify.com/album/5uRIdLZnznQsisjxhqFZ8P"
-      },
-      "artists": [
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Scarchest",
-      "url": "https://open.spotify.com/track/32MEv5faahEWBKUKFoYLSY"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Przed siebie",
         "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
       },
@@ -987,6 +951,22 @@
       "duration_ms": 183178,
       "name": "Przed siebie",
       "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Scarchest",
+        "url": "https://open.spotify.com/album/5uRIdLZnznQsisjxhqFZ8P"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Scarchest",
+      "url": "https://open.spotify.com/track/32MEv5faahEWBKUKFoYLSY"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1019,6 +999,26 @@
       "duration_ms": 186468,
       "name": "J\u0119zyk",
       "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Pokussa Na Parkiecie",
+        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "POKUSSA",
+      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
       "artists": [
         {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
+      "duration_ms": 225920,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1099,6 +1099,74 @@
       "duration_ms": 141340,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Dziewczyna z NASA",
+        "url": "https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX"
+      },
+      "artists": [
+        {
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+        },
+        {
+          "name": "Panilas",
+          "url": "https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Dziewczyna z NASA",
+      "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Gus\u0142a (Human Rites)",
+        "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
+      },
+      "artists": [
+        {
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
+        }
+      ],
+      "duration_ms": 305869,
+      "name": "Nieludzie (Ignorance Ha)",
+      "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Bezpowrotnie",
+        "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 182219,
+      "name": "Bezpowrotnie",
+      "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1127,74 +1195,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Dziewczyna z NASA",
-        "url": "https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        },
-        {
-          "name": "Panilas",
-          "url": "https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Dziewczyna z NASA",
-      "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
-        "name": "Gus\u0142a (Human Rites)",
-        "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
-      },
-      "artists": [
-        {
-          "name": "Avtomat",
-          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
-        }
-      ],
-      "duration_ms": 305869,
-      "name": "Nieludzie (Ignorance Ha)",
-      "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
-        "name": "Ulubione miejsce",
-        "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Ulubione miejsce",
-      "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "FOMO",
         "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
       },
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Bezpowrotnie",
-        "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
+        "name": "Ulubione miejsce",
+        "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
       },
       "artists": [
         {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
         }
       ],
-      "duration_ms": 182219,
-      "name": "Bezpowrotnie",
-      "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
+      "duration_ms": 175200,
+      "name": "Ulubione miejsce",
+      "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
     },
     {
       "added_at": "2023-10-20 09:12:18",

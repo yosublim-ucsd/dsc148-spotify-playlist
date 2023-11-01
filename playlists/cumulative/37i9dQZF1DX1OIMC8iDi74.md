@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: G Jones
 
-275 songs - 15 hr 9 min
+276 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Remember 01](https://open.spotify.com/track/7uVb2BbkZGTtsZOZJX8ZHp) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [John Trudell](https://open.spotify.com/artist/66UTgjk1qw87MQEpsidHdA), [Black Bear](https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7) | [Remember 01](https://open.spotify.com/album/2snP3VAdPPSFNoxWx89l4L) | 2:47 | 2021-11-19 | 2022-02-02 |
 | [Rendez\-Vous](https://open.spotify.com/track/3ydK0BduQnwOF0A1Oe4VPd) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Chase.Wav](https://open.spotify.com/artist/3eVkYzgZJfjCl2lqdNonUS) | [Rendez Vous](https://open.spotify.com/album/2pXZl0vL2Yj5xRDn3nKWMy) | 3:12 | 2021-11-19 | 2022-02-02 |
 | [Replay](https://open.spotify.com/track/47dkQqmCfAjtKGofoDyd7x) | [Buku](https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Replay](https://open.spotify.com/album/6R8buPuDpgqL0fgSsdUWXF) | 3:48 | 2023-06-23 | 2023-10-17 |
-| [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 | 2021-11-19 |  |
+| [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 | 2021-11-19 | 2023-11-01 |
 | [Run Around](https://open.spotify.com/track/1RXh1aAInzM41tTIMwLMxX) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Run Around](https://open.spotify.com/album/6PEApdxop2cHLXra7RScde) | 2:19 | 2021-11-19 | 2022-07-29 |
 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 | 2021-11-19 |  |
 | [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/track/0tWgUaqAz1g9RoKbYYfUTG) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/album/2aOduwWZEWYDJ8389eDUar) | 3:12 | 2021-11-19 | 2023-03-02 |
@@ -270,6 +270,7 @@
 | [Uh Uh](https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Uh Uh](https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC) | 3:13 | 2023-06-23 |  |
 | [ULTRAMAGNET](https://open.spotify.com/track/5fz7jzEkp9Hxh9kZewWVCU) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [ULTRAMAGNET](https://open.spotify.com/album/6XaUan1jso0Nbpiqe3UYmy) | 3:02 | 2021-11-19 | 2022-02-02 |
 | [Ur Body](https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi) | 3:36 | 2022-03-18 | 2023-10-15 |
+| [Ur Body](https://open.spotify.com/track/2yaNaFyZsZSWLI5evzKlGK) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/46SVWbWMuVMgT2sjzCB6hR) | 3:36 | 2023-10-27 |  |
 | [Us](https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Us](https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM) | 3:04 | 2022-02-01 |  |
 | [Used To Know Me](https://open.spotify.com/track/54qwl8mJQ45SmIeYKp6jZp) | [iSHi](https://open.spotify.com/artist/6Dy7Ex5zlTLgXbsB92rPji) | [iSHi Instrumentals Vol.1](https://open.spotify.com/album/1ErrsW3p5x3XUzXEdRN3Iv) | 2:20 | 2021-12-03 | 2022-01-31 |
 | [WARDOGZ](https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4) | [6 FEET UNDER](https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl) | 2:34 | 2022-02-01 |  |

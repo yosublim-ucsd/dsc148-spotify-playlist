@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,990 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,038 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 45 | [Station Six](https://open.spotify.com/track/4RUphASXlXEs8SJQvES7N0) | [Dualistic](https://open.spotify.com/artist/5kVFEq0ZL9wPGx6nnJDcm8) | [Station Six](https://open.spotify.com/album/15jLSYp2WsQVPI6GWjq4Al) | 5:00 |
 | 46 | [The Ticket](https://open.spotify.com/track/7tEgXYCi32cOG6s9Fut8T2) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Silhouettes \- Part Three](https://open.spotify.com/album/4q4PTlt8sDTIEAuZo46LQu) | 4:34 |
 | 47 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 |
-| 48 | [Gifted Lover](https://open.spotify.com/track/2xsK1pXFX2Dlx7xH33Tc1N) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf), [Mcleod](https://open.spotify.com/artist/0mEsOKLNGOPE2Zhb6OCYuf), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Better Place EP](https://open.spotify.com/album/0HtD2johjX3h3AgONmmiU0) | 6:01 |
+| 48 | [Radiate](https://open.spotify.com/track/40iYRKFmxhuDToTWjfXT7M) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/1Xt1e08HamHZvElKK0UoW9) | 4:17 |
 | 49 | [She Moves](https://open.spotify.com/track/1QeliItLbS0fvWbJA2dxMX) | [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg), [KILLSWSH](https://open.spotify.com/artist/015vF6YuCsnX2b89hU3qNG) | [Off Broadway](https://open.spotify.com/album/6Lu0XmmqRDocjeFR5GlOTh) | 5:40 |
-| 50 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
+| 50 | [Gifted Lover](https://open.spotify.com/track/2xsK1pXFX2Dlx7xH33Tc1N) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf), [Mcleod](https://open.spotify.com/artist/0mEsOKLNGOPE2Zhb6OCYuf), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Better Place EP](https://open.spotify.com/album/0HtD2johjX3h3AgONmmiU0) | 6:01 |
 
-Snapshot ID: `MCxiZTg4M2NmZTIwYmIwYzNmYWEyNzhmYzM5YjNhNDVhNzdkMjc5MDJh`
+Snapshot ID: `MCw1YmJhN2E5YWFmOWJlNmNlMTExNTYxOTcxNTM5N2UzODFiYWZkNWZk`

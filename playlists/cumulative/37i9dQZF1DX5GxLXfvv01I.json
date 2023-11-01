@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 133767,
       "name": "Beep Beep",
       "url": "https://open.spotify.com/track/2iRwO38p5iFSxD1Uc7sH8h"
@@ -92,6 +92,24 @@
       "duration_ms": 133767,
       "name": "Beep Beep",
       "url": "https://open.spotify.com/track/4TH1GFk1VUpIVRxrxGpntC"
+    },
+    {
+      "album": {
+        "name": "Black Beauty (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5VqD9o3sYi1uqkoR53lqV2"
+      },
+      "artists": [
+        {
+          "name": "Love",
+          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134533,
+      "name": "Beep Beep",
+      "url": "https://open.spotify.com/track/7gZ7Knn3D3uBhLuA1CA41F"
     },
     {
       "album": {

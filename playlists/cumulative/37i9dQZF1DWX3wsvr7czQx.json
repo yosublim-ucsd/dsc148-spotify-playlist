@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "Spark of Light",
+        "url": "https://open.spotify.com/album/16lQiSe7q4wKDTicJp7jLI"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199061,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/4qqY0D1mR2iVvtmVdt1Aio"
+    },
+    {
+      "album": {
         "name": "Beautiful World (From \u201cAmerican Song Contest\u201d)",
         "url": "https://open.spotify.com/album/4nkhERcJG0Zg9dlfrgA55B"
       },
@@ -194,7 +216,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 197807,
       "name": "Beautiful World (From \u201cAmerican Song Contest\u201d)",
       "url": "https://open.spotify.com/track/2UKJt37EGeYkSc4qx13cq8"

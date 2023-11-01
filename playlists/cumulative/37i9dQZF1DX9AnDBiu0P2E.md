@@ -4,7 +4,7 @@
 
 > feel the wind in your hair with these rock favorites, new and old.
 
-60 songs - 3 hr 52 min
+61 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,10 @@
 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 | 2023-02-24 |  |
 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 | 2023-02-24 |  |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2023-02-24 |  |
+| [Everybody's Gotta Live](https://open.spotify.com/track/53KaWf8R44BwbEwKEkvlUq) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Reel to Real \(Deluxe Version\)](https://open.spotify.com/album/55SUyh2rkdGh40pAa1f0J0) | 3:24 | 2023-08-25 |  |
 | [Everybody’s Gotta Live](https://open.spotify.com/track/1Og2Qi5XwYdr0YI6rn79Zb) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Reel To Real](https://open.spotify.com/album/5fhrpFxoThV3rhboaG1PzC) | 3:24 | 2023-02-24 | 2023-04-29 |
 | [Everybody’s Gotta Live](https://open.spotify.com/track/5ZSTPkWpGLrMPRyUhc3tlG) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Reel To Real \(Deluxe Version\)](https://open.spotify.com/album/0cFWdL6nkWv8Gikq1RYS47) | 3:24 | 2023-02-24 | 2023-04-30 |
-| [Everybody’s Gotta Live](https://open.spotify.com/track/6fBPZBMT8pokhb7dH7Wizn) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Reel To Real](https://open.spotify.com/album/43rAJMh5HNFHLDOsWAWQAE) | 3:24 | 2023-02-24 |  |
+| [Everybody’s Gotta Live](https://open.spotify.com/track/6fBPZBMT8pokhb7dH7Wizn) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Reel To Real](https://open.spotify.com/album/43rAJMh5HNFHLDOsWAWQAE) | 3:24 | 2023-02-24 | 2023-11-01 |
 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 | 2023-02-24 |  |
 | [Fox On The Run](https://open.spotify.com/track/4uip0lLkMKl1nwchsdXs1r) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Desolation Boulevard](https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54) | 3:27 | 2023-02-24 |  |
 | [Goin' Up The Country](https://open.spotify.com/track/6MmEhuhrGUoMgfOzwqMyn5) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Living The Blues](https://open.spotify.com/album/0ALfgSm7duoHSdrY07Wt24) | 2:49 | 2023-02-24 |  |

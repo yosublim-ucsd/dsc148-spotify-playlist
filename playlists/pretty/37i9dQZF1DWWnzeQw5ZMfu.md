@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,836 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,891 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 22 | [You Need To Calm Down \- Live From Paris](https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You Need To Calm Down \(Live From Paris\)](https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra) | 3:23 |
 | 23 | [Don't Start Now \- Live in LA Remix](https://open.spotify.com/track/7d9aNPQ3idYpe9zjQHSLwQ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now \(Live in LA Remix\)](https://open.spotify.com/album/0MaGeHimijY3IhEWPkTUEx) | 5:40 |
 | 24 | [Angels](https://open.spotify.com/track/2EU5LDgtGnh8RTz7VGlGoR) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Live At Knebworth](https://open.spotify.com/album/1S543Bgkd1pzNtqHrDp5bq) | 5:55 |
-| 25 | [Waiting On the World to Change \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 3:50 |
-| 26 | [Take Me to Church \- Live From Spotify London](https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions London](https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb) | 4:06 |
+| 25 | [Take Me to Church \- Live From Spotify London](https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions London](https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb) | 4:06 |
+| 26 | [Waiting On the World to Change \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 3:50 |
 | 27 | [I'm Yours \- Live at the Charter One Pavilion, Chicago, IL, 8/13/2009](https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Jason Mraz's Beautiful Mess: Live on Earth](https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs) | 5:12 |
 | 28 | [You're Still The One \- Live](https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 3:35 |
 | 29 | [Kill This Love \- Live](https://open.spotify.com/track/1GrGs8HBvOHHdeho4w1ZkH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK 2021 'THE SHOW' LIVE](https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi) | 3:11 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 60 | [The Man Who Can't Be Moved \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 4:55 |
 | 61 | [She Will Be Loved \- Live](https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Live Friday The 13th](https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C) | 6:19 |
 | 62 | [Forever Young](https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Stark Naked and Absolutely Live](https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43) | 5:43 |
-| 63 | [The Lady In Red \- Live](https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Live in Dortmund](https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl) | 4:06 |
-| 64 | [Kiss You \- Live Version From The Motion Picture "One Direction: This Is Us"](https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Best Song Ever \(From THIS IS US\)](https://open.spotify.com/album/7slbkjkfIPufuEa858735n) | 4:27 |
-| 65 | [Latch \- Live From Madison Square Garden](https://open.spotify.com/track/63i2WzJd0BIyyOT2aVLGVO) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 8:06 |
+| 63 | [Latch \- Live From Madison Square Garden](https://open.spotify.com/track/63i2WzJd0BIyyOT2aVLGVO) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 8:06 |
+| 64 | [The Lady In Red \- Live](https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Live in Dortmund](https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl) | 4:06 |
+| 65 | [Kiss You \- Live Version From The Motion Picture "One Direction: This Is Us"](https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Best Song Ever \(From THIS IS US\)](https://open.spotify.com/album/7slbkjkfIPufuEa858735n) | 4:27 |
 | 66 | [Just Can't Get Enough \- Live at Rose Bowl, Pasadena, CA, 18/6/1988](https://open.spotify.com/track/19dqbkqEgpgUZsh7FXftIs) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [101](https://open.spotify.com/album/5BeufSLtuFnIP808stSFjg) | 4:01 |
 | 67 | [Ghost \- Live From Spotify NYC](https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Spotify Sessions \(Live From Spotify NYC\)](https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL) | 2:40 |
 | 68 | [The A Team \- Live and in Session](https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [Warwick Avenue \- Live](https://open.spotify.com/track/7wLfeZcN4HW3qulI8CBNPs) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Divas En Directo](https://open.spotify.com/album/4ffR3iBOv3qVty8FmT1bLl) | 3:57 |
 | 100 | [Alone \- Live](https://open.spotify.com/track/3U8x5bb3UcDoYOBj9ksvEN) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Fanatic Live from Caesars Colosseum](https://open.spotify.com/album/4N4W7ZlX5DrFMMeQAPZUGC) | 4:22 |
 
-Snapshot ID: `MCwwNDA1M2U4ZjJjY2E0OWE5ODQ0M2E1MjQ3M2NjY2UwODVjZDQwNTQw`
+Snapshot ID: `MCwyMGUyNWIzMjljMDQ4NWE3NDI5MDI3OTU0NWIzYTMyYjBjYjgyOGMw`

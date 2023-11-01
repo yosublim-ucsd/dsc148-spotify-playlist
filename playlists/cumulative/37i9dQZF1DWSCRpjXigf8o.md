@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-440 songs - 1 day 2 hr 56 min
+443 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [Too Much To Ask \- Acoustic](https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Too Much To Ask \(Acoustic\)](https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up) | 3:41 | 2023-02-23 | 2023-03-01 |
 | [True](https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh) | [Ryan Cabrera](https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN) | [Take It All Away \(U.S\. Version\)](https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj) | 3:24 | 2023-03-07 | 2023-03-18 |
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-10-03 |  |
-| [Turn The World On](https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Turn The World On](https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3) | 3:30 | 2023-09-12 |  |
+| [Turn The World On](https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Turn The World On](https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3) | 3:30 | 2023-09-12 | 2023-11-01 |
 | [Ubu's Blues \(feat\. Kurt Rosenwinkel\)](https://open.spotify.com/track/3nh4nZyGwdPUz6MlYHJFUD) | [Bill Hangley, Jr](https://open.spotify.com/artist/3IEHYiHIEKkU9DBxmIPujL), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Ubu's Blues \(feat\. Kurt Rosenwinkel\)](https://open.spotify.com/album/11a8l6jbArhIZ2x94v55r0) | 3:49 | 2023-08-08 | 2023-08-21 |
 | [Ubu's Blues \(feat\. Kurt Rosenwinkel\)](https://open.spotify.com/track/6zrKkoBYt4J3XgZLQpq3Jg) | [Bill Hangley, Jr](https://open.spotify.com/artist/3IEHYiHIEKkU9DBxmIPujL), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Jukebox Jed and Other Songs](https://open.spotify.com/album/6MUpp3QW3V3cZPpe90UcRe) | 3:49 | 2023-08-17 | 2023-10-04 |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-10-20 |  |
@@ -410,12 +410,12 @@
 | [セラヴィ \-c'est la vie\-](https://open.spotify.com/track/1MDpjHl1plH4ZyQkVqIU4k) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [セラヴィ \-c'est la vie\-](https://open.spotify.com/album/0egtsy2R72JXPLqyZVg3nm) | 4:15 | 2023-03-30 | 2023-04-21 |
 | [ドロップな朝](https://open.spotify.com/track/6CIOLsCQjbCLs47TSnrTFT) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ドロップな朝](https://open.spotify.com/album/3LVnhqOSV1xdCo5RezLkAf) | 4:27 | 2023-03-23 | 2023-04-21 |
 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 | 2023-02-14 | 2023-03-01 |
-| [ハアト](https://open.spotify.com/track/6ghxqAEmAy369mF3O0t2N3) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ハアト](https://open.spotify.com/album/6wGLVnsYsN0o6RpobFs4Ux) | 3:58 | 2023-10-03 |  |
+| [ハアト](https://open.spotify.com/track/6ghxqAEmAy369mF3O0t2N3) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ハアト](https://open.spotify.com/album/6wGLVnsYsN0o6RpobFs4Ux) | 3:58 | 2023-10-03 | 2023-11-01 |
 | [ハローソング](https://open.spotify.com/track/07FLYYBSqru9qs5hFlMa2N) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [ハローソング](https://open.spotify.com/album/1QPajmQ6wMNWfIlGLiPAt9) | 2:56 | 2023-07-20 | 2023-08-02 |
 | [ブラスバンド \- Remastered](https://open.spotify.com/track/4qdmJJsYlpnRxdCWTkRhaE) | [豪起](https://open.spotify.com/artist/4dlhWjRj1R2K9PcfSzQQVQ) | [ブラスバンド \(Remastered\)](https://open.spotify.com/album/02Tgubit8DqujEzmTN8EY6) | 4:02 | 2023-01-24 | 2023-02-15 |
 | [ブルーグラス](https://open.spotify.com/track/7Lp7f1LepstiBcED0WZHXb) | [the hollows](https://open.spotify.com/artist/4WfM6bTmKWlemJydz5SHTA), [田中カズ](https://open.spotify.com/artist/57Gil4buf0JDxk8h29FGUw) | [ブルーグラス](https://open.spotify.com/album/2vkRImsgwYenvjNrw0c2Jw) | 4:28 | 2023-02-14 | 2023-03-01 |
 | [マシかもしれない](https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [マシかもしれない](https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA) | 3:15 | 2022-10-20 | 2022-11-09 |
-| [マリーアン](https://open.spotify.com/track/1DonBSaThjb3An2qmcV2T6) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [マリーアン](https://open.spotify.com/album/2KOYRhDdqcjpzL6c80EUHS) | 2:37 | 2023-10-10 |  |
+| [マリーアン](https://open.spotify.com/track/1DonBSaThjb3An2qmcV2T6) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [マリーアン](https://open.spotify.com/album/2KOYRhDdqcjpzL6c80EUHS) | 2:37 | 2023-10-10 | 2023-11-01 |
 | [傘](https://open.spotify.com/track/20vsE9x63o1JUlMbU2qZ3O) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [傘](https://open.spotify.com/album/100ElNipKedqL4iTrDFMrx) | 3:03 | 2022-11-29 | 2022-12-07 |
 | [僕らの大移動](https://open.spotify.com/track/7qSocdyfuHkk56HZeen5XR) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [僕らの大移動](https://open.spotify.com/album/5IGdu1jBdM5CN1vRVOdHPI) | 4:25 | 2022-10-20 | 2022-11-09 |
 | [僕等の日々](https://open.spotify.com/track/22PT5uLiey4j5iE5ZMLlvE) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [僕等の日々](https://open.spotify.com/album/1MPswJxnfrhjN1rcPSLIO2) | 4:32 | 2022-10-20 | 2022-11-02 |
@@ -428,7 +428,9 @@
 | [夜のむこうまで](https://open.spotify.com/track/0vhaAcMgmPPjfClsYsHjFc) | [たけとんぼ](https://open.spotify.com/artist/7eb00dGlGaLZbbd1rQiU3O) | [夜のむこうまで](https://open.spotify.com/album/6XvZWa2y2deWwvdtigWCaq) | 4:14 | 2023-02-14 | 2023-02-16 |
 | [夢にならないように](https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢にならないように](https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV) | 4:28 | 2022-11-22 |  |
 | [家族の風景](https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [音タイム](https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW) | 4:37 | 2022-11-19 | 2023-02-15 |
+| [巡る季節に身を任せ](https://open.spotify.com/track/70NcBpRFJzDaWN6VmK3IuW) | [アロワナレコード](https://open.spotify.com/artist/5ovS96NpdzR5dDjnjdxKLk) | [幸せを願えるように](https://open.spotify.com/album/0E3CT1bUN1wH8zi75ktGwJ) | 4:19 | 2023-10-31 |  |
 | [微熱 \(秋\)](https://open.spotify.com/track/4blBGh56WnJOb2VVubD4yF) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [微熱 \(秋\) / Honesty \(Session 1\)](https://open.spotify.com/album/45vKG9pi5lln4SsNdHTqSQ) | 4:58 | 2022-11-15 | 2022-11-17 |
+| [微笑み](https://open.spotify.com/track/1hLTIAmQa2era3fKz1V17b) | [Merchant](https://open.spotify.com/artist/6Znnlm7AdtM0ulJk5cuk0W) | [微笑み](https://open.spotify.com/album/0r6aAUaoXkkG0aNi2eNZIn) | 2:52 | 2023-10-31 |  |
 | [恋のバネ](https://open.spotify.com/track/5gjrO7df7lZWszwE07LSTP) | [Merchant](https://open.spotify.com/artist/6Znnlm7AdtM0ulJk5cuk0W) | [恋のバネ](https://open.spotify.com/album/3FXaTXzFzy17Vyhn90InBA) | 3:06 | 2023-06-27 | 2023-07-05 |
 | [恋焦がれ](https://open.spotify.com/track/2UWWPtVYqDMU3Dtp0zME5K) | [Baby Kiy](https://open.spotify.com/artist/1CNrTrXERkuBWYb8dtWl62) | [Love seasons](https://open.spotify.com/album/6ZDHv7FtiL3PqiIoCOiiaU) | 3:21 | 2023-07-04 | 2023-07-06 |
 | [愛の二段階右折](https://open.spotify.com/track/5SJZu4LpEywFR6ijjGeCg5) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [愛の二段階右折](https://open.spotify.com/album/3AYlpm999fttRquPhhg18W) | 4:03 | 2023-03-23 | 2023-04-21 |
@@ -439,6 +441,7 @@
 | [朝まだき](https://open.spotify.com/track/2nOOogBHzumPaaacgXt0jQ) | [haruyoi](https://open.spotify.com/artist/2yS0IP11ovUxJixmToidBi) | [朝まだき](https://open.spotify.com/album/0BxMvFnUEqIcleuLcJnHzb) | 4:56 | 2023-10-10 |  |
 | [未来のこと](https://open.spotify.com/track/6cYzQkwsO6StfGaSdH1nmk) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [未来のこと](https://open.spotify.com/album/6IZcWgH4YcB4ydbxDVZ9Fc) | 5:53 | 2022-10-20 | 2022-11-09 |
 | [涙](https://open.spotify.com/track/1HaBsSHSuY94emnUEuLDot) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN), [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [涙](https://open.spotify.com/album/1kzUbAwv2BjK5ucekGZqmZ) | 3:22 | 2023-05-04 | 2023-07-05 |
+| [犬ころ \- ACOUSTIC ver.](https://open.spotify.com/track/23I8aRvG4XIC0stNGiynA1) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [犬ころ \(ACOUSTIC ver\)](https://open.spotify.com/album/5BMAO6e2opOWkhTuxBFG0e) | 3:56 | 2023-10-31 |  |
 | [目醒めは合わせ鏡のように](https://open.spotify.com/track/4d5CiAGnqKfFVgxLBiefTh) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [目醒めは合わせ鏡のように](https://open.spotify.com/album/06M2ieovjfI0eS2bSNHA2W) | 3:47 | 2023-07-11 | 2023-08-16 |
 | [紫陽花の庭](https://open.spotify.com/track/6akOpGJcktIeKmtqK8LXdh) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [Calyx](https://open.spotify.com/album/30u7TBjP17nCKURG0tkmwl) | 2:34 | 2022-10-20 | 2022-10-26 |
 | [虫](https://open.spotify.com/track/03fWcvMJUrIBGgiGpM5Z9z) | [Tocago](https://open.spotify.com/artist/5WYxT3w8PntFhAJC48Y7oc) | [虫](https://open.spotify.com/album/58XOr4Fe8QQrHNdwCub48d) | 3:03 | 2023-07-04 | 2023-09-13 |

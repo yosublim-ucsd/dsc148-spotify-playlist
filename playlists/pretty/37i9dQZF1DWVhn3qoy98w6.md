@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: CRISTALINO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,208 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,215 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 48 | [2035](https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln), [Nina Emocional](https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz) | [2035](https://open.spotify.com/album/7xcHmGc4ctuRjSQn54hZst) | 1:52 |
 | 49 | [Peter Pan](https://open.spotify.com/track/1yuvkcayFZKZtDeBCB4ZBZ) | [Marcos Naide](https://open.spotify.com/artist/0w2oYmjQYOPqe74dZ5LuwF) | [Peter Pan](https://open.spotify.com/album/51LUFLNFNP8860vj81kDWZ) | 2:21 |
 
-Snapshot ID: `MCw5YWM4Njg0ZjJkZDRjZGNlYzJjMGIzMGI5Y2ZjYzg4NTMxNDZiNDFk`
+Snapshot ID: `MCw1MGMwNmM3ODFiYzg2NzU5ZTEzNGU2NjFhNWYwMDI1YjY4MDY1NzQ5`

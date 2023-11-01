@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23647,
+  "num_followers": 23649,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWRjMjYxYzg2NDc4YWM2YTQ1MDk3YzY0MDg0ZWI5YzEzMTY3MTFk",
+  "snapshot_id": "MCxmZDFiZTFmY2ViNTRhNjgyZWFiYjRjMzdhYmYwMDg4NDU0Njk0MmEy",
   "tracks": [
     {
       "added_at": "2023-10-26 18:51:01",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Desaparecer",
-        "url": "https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Desaparecer",
-      "url": "https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Mango Negro",
         "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 208095,
       "name": "Volver",
       "url": "https://open.spotify.com/track/1t59IuGyLPy0ge1nKeQNXL"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Desaparecer",
+        "url": "https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Desaparecer",
+      "url": "https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
+        "name": "Chicos de la Luz",
+        "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
       },
       "artists": [
         {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g"
         }
       ],
-      "duration_ms": 201601,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
+      "duration_ms": 279600,
+      "name": "Caribbean",
+      "url": "https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -975,22 +975,6 @@
       "duration_ms": 280000,
       "name": "Sola por la Ciudad",
       "url": "https://open.spotify.com/track/1UH3xWxB8T2kTZlg37tfFs"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
-        "name": "Chicos de la Luz",
-        "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
-      },
-      "artists": [
-        {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Caribbean",
-      "url": "https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1059,6 +1043,38 @@
       "duration_ms": 149538,
       "name": "Pervertida",
       "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Despu\u00e9s De Ti",
+        "url": "https://open.spotify.com/album/2O8B8Y5bKAiimKnNU0p7OT"
+      },
+      "artists": [
+        {
+          "name": "Fernanda El\u00edo",
+          "url": "https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK"
+        }
+      ],
+      "duration_ms": 144116,
+      "name": "Te quiero ver",
+      "url": "https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1135,22 +1151,6 @@
       "duration_ms": 192786,
       "name": "Voces",
       "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
-        "name": "Despu\u00e9s De Ti",
-        "url": "https://open.spotify.com/album/2O8B8Y5bKAiimKnNU0p7OT"
-      },
-      "artists": [
-        {
-          "name": "Fernanda El\u00edo",
-          "url": "https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK"
-        }
-      ],
-      "duration_ms": 144116,
-      "name": "Te quiero ver",
-      "url": "https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Cu\u00e1nto Falta",
-        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
-      },
-      "artists": [
-        {
-          "name": "Ziberia",
-          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
-        }
-      ],
-      "duration_ms": 240050,
-      "name": "Cu\u00e1nto Falta",
-      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Atemporal",
         "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 226464,
       "name": "M\u00edstico Mezcal",
       "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Cu\u00e1nto Falta",
+        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
+      },
+      "artists": [
+        {
+          "name": "Ziberia",
+          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
+        }
+      ],
+      "duration_ms": 240050,
+      "name": "Cu\u00e1nto Falta",
+      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1419,6 +1419,22 @@
       "duration_ms": 185187,
       "name": "Noche de Vampiros",
       "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/1DNqh53UJJWkRg5Tk9ysWc"
+      },
+      "artists": [
+        {
+          "name": "Gor2",
+          "url": "https://open.spotify.com/artist/0HaKpLgYbvjuZWzAvc39ME"
+        }
+      ],
+      "duration_ms": 309014,
+      "name": "Delight",
+      "url": "https://open.spotify.com/track/2h4yMcOkn6n62XBYhtgQl4"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1495,38 +1511,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Delight",
-        "url": "https://open.spotify.com/album/1DNqh53UJJWkRg5Tk9ysWc"
-      },
-      "artists": [
-        {
-          "name": "Gor2",
-          "url": "https://open.spotify.com/artist/0HaKpLgYbvjuZWzAvc39ME"
-        }
-      ],
-      "duration_ms": 309014,
-      "name": "Delight",
-      "url": "https://open.spotify.com/track/2h4yMcOkn6n62XBYhtgQl4"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
-        "name": "Peces Raros (Vivo Buenos Aires)",
-        "url": "https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 310890,
-      "name": "Sombras en la Pared - Vivo Buenos Aires",
-      "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
         "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
       },
@@ -1547,22 +1531,34 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Latina",
-        "url": "https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR"
+        "name": "Peces Raros (Vivo Buenos Aires)",
+        "url": "https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "duration_ms": 310890,
+      "name": "Sombras en la Pared - Vivo Buenos Aires",
+      "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Formas",
+        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
       },
       "artists": [
         {
           "name": "Entr\u00f3pica",
           "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        },
-        {
-          "name": "Sukubito",
-          "url": "https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy"
         }
       ],
-      "duration_ms": 187248,
-      "name": "Latina",
-      "url": "https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU"
+      "duration_ms": 213018,
+      "name": "Housie",
+      "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1639,18 +1635,22 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Formas",
-        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
+        "name": "Latina",
+        "url": "https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR"
       },
       "artists": [
         {
           "name": "Entr\u00f3pica",
           "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        },
+        {
+          "name": "Sukubito",
+          "url": "https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy"
         }
       ],
-      "duration_ms": 213018,
-      "name": "Housie",
-      "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
+      "duration_ms": 187248,
+      "name": "Latina",
+      "url": "https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Nft",
-        "url": "https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim"
-      },
-      "artists": [
-        {
-          "name": "\u00bfJuan Julian?",
-          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 221711,
-      "name": "Nft",
-      "url": "https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Secreto a Voces",
         "url": "https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 231569,
       "name": "Secreto a Voces",
       "url": "https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Nft",
+        "url": "https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim"
+      },
+      "artists": [
+        {
+          "name": "\u00bfJuan Julian?",
+          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 221711,
+      "name": "Nft",
+      "url": "https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo"
     },
     {
       "added_at": "2023-10-26 18:51:01",

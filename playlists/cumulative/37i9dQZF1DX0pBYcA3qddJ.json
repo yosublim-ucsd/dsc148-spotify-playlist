@@ -10254,7 +10254,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 227226,
       "name": "\u30c9\u30d3\u30e5\u30c3\u30b7\u30fc:\u5922",
       "url": "https://open.spotify.com/track/3x7A5efAHawOPeh3MML8Ge"
@@ -10774,6 +10774,36 @@
       "duration_ms": 206986,
       "name": "\u5e73\u5747\u5f8b\u30af\u30e9\u30f4\u30a3\u30a2\u66f2\u96c61-10 \u30db\u77ed\u8abf, BWV 855a: \u30d7\u30ec\u30ea\u30e5\u30fc\u30c9",
       "url": "https://open.spotify.com/track/7w1mosI1qd2wrTjKpLTdVO"
+    },
+    {
+      "album": {
+        "name": "\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u3067\u8074\u304f\u3001\u611f\u52d5\u306e\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u540d\u66f2\u96c6-The Most Beautiful Melody 'Musical' \u30a4\u30f3\u30b9\u30c8\u30a5\u30eb\u30e1\u30f3\u30bf\u30eb&\u30ab\u30e9\u30aa\u30b1-",
+        "url": "https://open.spotify.com/album/2MotmDQaOGZiXGy2J1yF9E"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        },
+        {
+          "name": "\u77f3\u7530\u6cf0\u5c1a",
+          "url": "https://open.spotify.com/artist/2gWmsXfwLkLs12TIFIxj96"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408800,
+      "name": "\u611b\u306f\u6b7b\u306a\u305a\uff5e\u300e\u30e9\u30d6\u30fb\u30cd\u30d0\u30fc\u30fb\u30c0\u30a4\u300f\u3088\u308a",
+      "url": "https://open.spotify.com/track/5FJ24IGN3usoEy0tBd13MW"
     },
     {
       "album": {

@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "ALL EARS",
+        "url": "https://open.spotify.com/album/0cUuScs99kjjb19BeDqB25"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195882,
+      "name": "ALL EARS",
+      "url": "https://open.spotify.com/track/71npaVc8R0tKEF9avvZe7o"
+    },
+    {
+      "album": {
         "name": "Journals",
         "url": "https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 160052,
       "name": "Bad Neighbors",
       "url": "https://open.spotify.com/track/0lYElfgYvfNJfwevdPd3tY"

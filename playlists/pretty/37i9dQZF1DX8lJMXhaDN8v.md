@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8lJMXhaDN8v.md) - [plain]
 
 > Music from "PRINCESS CONNECT！Re:Dive"\. 「プリンセスコネクト！Re:Dive」の楽曲を1つのプレイリストで。© Cygames, Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,828 likes - 36 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,856 likes - 36 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 438769,
+  "num_followers": 439014,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTQwZWQ5NzRmZWMyYjgxYTZmNjYxNjgzOTBjZWUwZGI3N2RmYmRl",
+  "snapshot_id": "MCw0YmU3NDY0YTY1ODZlYjY5NDc4ZDIwMTAzZThkY2M3ZDE0YjA3MWQ3",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Suzanne (feat. Gregory Porter)",
+      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Eternal Beauty",
         "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 171306,
       "name": "Love of My Life",
       "url": "https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Suzanne",
-        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Suzanne (feat. Gregory Porter)",
-      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Castles in the Air",
+        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
+      },
+      "artists": [
+        {
+          "name": "Laura & Anton",
+          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
+        }
+      ],
+      "duration_ms": 233848,
+      "name": "Castles in the Air",
+      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Creole Love Call",
         "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Castles in the Air",
-        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
-      },
-      "artists": [
-        {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
-        }
-      ],
-      "duration_ms": 233848,
-      "name": "Castles in the Air",
-      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Coming Back To You",
         "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 220600,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "I Can\u2019t Make You Love Me",
+        "url": "https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "I Can\u2019t Make You Love Me",
+      "url": "https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1043,22 +1059,6 @@
       "duration_ms": 200626,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/2cb5IF0FtYPqFujORervcL"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "I Can\u2019t Make You Love Me",
-        "url": "https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz"
-      },
-      "artists": [
-        {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
-        }
-      ],
-      "duration_ms": 303680,
-      "name": "I Can\u2019t Make You Love Me",
-      "url": "https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lovbrand",
-          "url": "https://open.spotify.com/artist/0dcpb2NumxoK75LauEbfOc"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "I Will Wait for You",
-      "url": "https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "American Classic",
         "url": "https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 261706,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lovbrand",
+          "url": "https://open.spotify.com/artist/0dcpb2NumxoK75LauEbfOc"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "I Will Wait for You",
+      "url": "https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "My Wonderland",
-        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
+        "name": "\"Moon River\"",
+        "url": "https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf"
       },
       "artists": [
         {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+          "name": "Lauren Coleman",
+          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
         }
       ],
-      "duration_ms": 255000,
-      "name": "A Man and a Woman",
-      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
+      "duration_ms": 172106,
+      "name": "\"Moon River\"",
+      "url": "https://open.spotify.com/track/2F3bzglfmmsKVrgzunXhPB"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "\"Moon River\"",
-        "url": "https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf"
+        "name": "My Wonderland",
+        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
       },
       "artists": [
         {
-          "name": "Lauren Coleman",
-          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
         }
       ],
-      "duration_ms": 172106,
-      "name": "\"Moon River\"",
-      "url": "https://open.spotify.com/track/2F3bzglfmmsKVrgzunXhPB"
+      "duration_ms": 255000,
+      "name": "A Man and a Woman",
+      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -2355,26 +2355,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "I'm the Sky, I'm the Earth",
-        "url": "https://open.spotify.com/album/2QwPH97GI2FZtSIde5XYtq"
-      },
-      "artists": [
-        {
-          "name": "Deniz Ta\u015far",
-          "url": "https://open.spotify.com/artist/2Z7riPm17MlJxHaIFnQwP6"
-        },
-        {
-          "name": "Halil \u00c7a\u011flar Serin",
-          "url": "https://open.spotify.com/artist/7kxam8m0RJa1CvcEm7ufmd"
-        }
-      ],
-      "duration_ms": 175636,
-      "name": "I'm the Sky, I'm the Earth",
-      "url": "https://open.spotify.com/track/1Z1Smvor04ZbmXWzEjhKoT"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/1g7TW3FbyhPzxBLLGSNFkd"
       },
@@ -2391,6 +2371,26 @@
       "duration_ms": 216124,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/4vgJoEztJ2uXCgU5fXxxGW"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "I'm the Sky, I'm the Earth",
+        "url": "https://open.spotify.com/album/2QwPH97GI2FZtSIde5XYtq"
+      },
+      "artists": [
+        {
+          "name": "Deniz Ta\u015far",
+          "url": "https://open.spotify.com/artist/2Z7riPm17MlJxHaIFnQwP6"
+        },
+        {
+          "name": "Halil \u00c7a\u011flar Serin",
+          "url": "https://open.spotify.com/artist/7kxam8m0RJa1CvcEm7ufmd"
+        }
+      ],
+      "duration_ms": 175636,
+      "name": "I'm the Sky, I'm the Earth",
+      "url": "https://open.spotify.com/track/1Z1Smvor04ZbmXWzEjhKoT"
     },
     {
       "added_at": "2023-10-27 00:01:00",

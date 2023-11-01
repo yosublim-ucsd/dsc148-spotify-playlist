@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 66047,
+  "num_followers": 66155,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWIyYjBjNDgzYTk5M2ExM2YyYWEzMDc1MGIyMmJmZDY0N2I1MzBm",
+  "snapshot_id": "MCwxNDgyYWJkZGFhMDFhODQ0NTRiZGFhMDM4MjA0NmU0MTBmNjE2YTZk",
   "tracks": [
     {
       "added_at": "2023-10-25 13:09:21",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Blame It On My Youth - Remastered 1999",
-      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "Ella Swings Lightly",
         "url": "https://open.spotify.com/album/3UC5JUy1CydJYU53KAtbdH"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 154106,
       "name": "Little White Lies",
       "url": "https://open.spotify.com/track/2LyNm94f8adOw3frDUHB5o"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Blame It On My Youth - Remastered 1999",
+      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Waiter, Make Mine Blues",
-      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "Johnny Hodges With Billy Strayhorn And The Orchestra",
         "url": "https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 180306,
       "name": "Your Love Has Faded",
       "url": "https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Waiter, Make Mine Blues",
+      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -635,6 +635,26 @@
       "duration_ms": 181266,
       "name": "Autumn Leaves - Instrumental Version",
       "url": "https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/6wDBY75wrVJoQZsSCyM234"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -683,26 +703,6 @@
       "duration_ms": 292106,
       "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Mood Indigo",
-      "url": "https://open.spotify.com/track/6wDBY75wrVJoQZsSCyM234"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -775,22 +775,22 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "Social Call",
-        "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
+        "name": "Reunion With Chet Baker",
+        "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
       },
       "artists": [
         {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         },
         {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 251680,
-      "name": "Gone With the Wind",
-      "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
+      "duration_ms": 224066,
+      "name": "Trav'lin Light",
+      "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -811,22 +811,22 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "Reunion With Chet Baker",
-        "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
+        "name": "Social Call",
+        "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
         },
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
         }
       ],
-      "duration_ms": 224066,
-      "name": "Trav'lin Light",
-      "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
+      "duration_ms": 251680,
+      "name": "Gone With the Wind",
+      "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "Give Him The Ooh-La-La (Expanded Edition)",
-        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 258093,
-      "name": "I Walk A Little Faster",
-      "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "Wailing With Lou",
         "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 413080,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "Give Him The Ooh-La-La (Expanded Edition)",
+        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 258093,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "Angel Eyes",
-        "url": "https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 528226,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 204333,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/07l1kkIQkfNlCmVwMC4GD0"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 528226,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D"
     },
     {
       "added_at": "2023-10-25 13:09:21",

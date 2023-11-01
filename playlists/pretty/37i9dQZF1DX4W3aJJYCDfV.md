@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Taylor Swift \(pictured\), Nathan Dawe, Rema and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,118 likes - 152 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,169 likes - 152 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 151 | [Who Dunnit?](https://open.spotify.com/track/2rcKuc6LBiOQFSzYIa5CsW) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Who Dunnit?](https://open.spotify.com/album/65zcWNbHC9PzhkrBw3Mtcx) | 2:59 |
 | 152 | [Blazin \(feat\. Enisa\)](https://open.spotify.com/track/75xnT9ZmnvbjdyCX3pwizB) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blazin \(feat\. Enisa\)](https://open.spotify.com/album/69rtLq7JppAFO3by5g1mNJ) | 2:07 |
 
-Snapshot ID: `MCwwYWI1OWNiOWJiNmIyYmQzZWQxMmFkYTIxMWIwMmFmMmI3MWE4ZDAw`
+Snapshot ID: `MCxkYTc5YTNkZDU3ZTgzMmU3MGJhYzIyNjZhYjgzZmIzZWEzZDg1NDQ1`

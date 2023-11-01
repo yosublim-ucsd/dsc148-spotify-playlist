@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-393 songs - 21 hr 26 min
+394 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Calico](https://open.spotify.com/track/2lJM9fK3zYQRXVXOTauwhZ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [kanashī](https://open.spotify.com/album/3y6f7n2bRBCXJLCrg3D4jp) | 4:51 | 2021-07-26 | 2022-07-25 |
 | [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe) | 3:00 | 2021-12-07 | 2022-07-28 |
 | [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 | 2023-08-04 |  |
+| [Can't Shut Us Down](https://open.spotify.com/track/3JWNZPc8fsMmaMx3N4voQZ) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Can't Shut Us Down](https://open.spotify.com/album/19VPME5BsYWcAkyxz17rj9) | 3:12 | 2023-10-27 |  |
 | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 | 2023-04-07 |  |
 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 | 2021-07-26 | 2022-07-25 |
 | [Ce Soir](https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Ce Soir](https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl) | 2:42 | 2022-08-05 |  |
@@ -265,7 +266,7 @@
 | [Passion](https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:18 | 2022-07-30 |  |
 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 | 2022-03-25 | 2023-10-07 |
 | [Picture in My Mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 | 2022-08-12 | 2023-10-07 |
-| [PLAY](https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [PLAY](https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13) | 2:22 | 2023-05-26 |  |
+| [PLAY](https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [PLAY](https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13) | 2:22 | 2023-05-26 | 2023-11-01 |
 | [Play](https://open.spotify.com/track/6t542uAqikGaV2ivLGPtKR) | [ZULA](https://open.spotify.com/artist/6tWqBIxAeRmld2npkzFZf3) | [PLAY](https://open.spotify.com/album/6fwGrUGDBjL04UOue5fU3m) | 3:08 | 2021-07-26 | 2022-07-15 |
 | [Polite \- Mura Masa Remix](https://open.spotify.com/track/1p9rgYTrfwr2vfSlHXHOyn) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Polite \(Mura Masa Remix\)](https://open.spotify.com/album/2Pfn9zVC8sWAaJ6gvvd3nP) | 3:50 | 2021-11-12 | 2022-07-27 |
 | [Pomegranate](https://open.spotify.com/track/4fuCjmRIxbmGHnplGymd9c) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Pomegranate](https://open.spotify.com/album/6R1039pv3LJlHZfdwmVWcZ) | 3:27 | 2022-07-30 | 2023-08-26 |

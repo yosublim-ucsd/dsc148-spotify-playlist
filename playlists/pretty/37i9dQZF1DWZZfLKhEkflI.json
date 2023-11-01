@@ -1,12 +1,12 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 65989,
+  "num_followers": 66017,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjdmOGE0MjJhNThjZDdiOTI4ODVhMzJiNjQzNTQxMmVlMjdkNThk",
+  "snapshot_id": "MCwxY2IxODU0ZGI1NWY0ZTQ2MTdiNGE4NTBkZGViMzAxNzdiZGQ0ZWM2",
   "tracks": [
     {
       "added_at": "2023-09-13 11:53:55",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-09-13 11:53:55",
       "album": {
-        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 376666,
-      "name": "Soulville - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm"
-    },
-    {
-      "added_at": "2023-09-13 11:53:55",
-      "album": {
         "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
         "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 530840,
       "name": "Blues Up And Down",
       "url": "https://open.spotify.com/track/22IK0azgagib3S51e9AIOF"
+    },
+    {
+      "added_at": "2023-09-13 11:53:55",
+      "album": {
+        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 376666,
+      "name": "Soulville - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm"
     },
     {
       "added_at": "2023-09-13 11:53:55",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-09-13 11:53:55",
       "album": {
-        "name": "Quartet / Quintet / Sextet",
-        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
+        "name": "Boss Tenor",
+        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
       },
       "artists": [
         {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
         }
       ],
-      "duration_ms": 201226,
-      "name": "Down Home",
-      "url": "https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy"
+      "duration_ms": 507933,
+      "name": "Hittin' The Jug - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5"
     },
     {
       "added_at": "2023-09-13 11:53:55",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-09-13 11:53:55",
       "album": {
-        "name": "Boss Tenor",
-        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
+        "name": "Quartet / Quintet / Sextet",
+        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
       },
       "artists": [
         {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
         }
       ],
-      "duration_ms": 507933,
-      "name": "Hittin' The Jug - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5"
+      "duration_ms": 201226,
+      "name": "Down Home",
+      "url": "https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy"
     },
     {
       "added_at": "2023-09-13 11:53:55",
@@ -971,6 +971,22 @@
       "duration_ms": 294893,
       "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
+    },
+    {
+      "added_at": "2023-09-13 11:53:55",
+      "album": {
+        "name": "Doin' Allright",
+        "url": "https://open.spotify.com/album/5HSURQb31DMhX0mg0F87zs"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 741106,
+      "name": "Society Red - Rudy Van Gelder/24-Bit Mastering/Digital Remaster/2004",
+      "url": "https://open.spotify.com/track/5A76U6Sz8cWleyN3CFTvjy"
     },
     {
       "added_at": "2023-09-13 11:53:55",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2023-09-13 11:53:55",
       "album": {
-        "name": "Doin' Allright",
-        "url": "https://open.spotify.com/album/5HSURQb31DMhX0mg0F87zs"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 741106,
-      "name": "Society Red - Rudy Van Gelder/24-Bit Mastering/Digital Remaster/2004",
-      "url": "https://open.spotify.com/track/5A76U6Sz8cWleyN3CFTvjy"
-    },
-    {
-      "added_at": "2023-09-13 11:53:55",
-      "album": {
         "name": "The Cat Walk",
         "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-09-13 11:53:55",
       "album": {
-        "name": "Benny Golson And The Philadelphians",
-        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "Blues March",
-      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
-    },
-    {
-      "added_at": "2023-09-13 11:53:55",
-      "album": {
         "name": "That's Where It's At",
         "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 395213,
       "name": "Light Blue - Remastered",
       "url": "https://open.spotify.com/track/57gN4EUhMll26FXfYKWVLw"
+    },
+    {
+      "added_at": "2023-09-13 11:53:55",
+      "album": {
+        "name": "Benny Golson And The Philadelphians",
+        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "Blues March",
+      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
     },
     {
       "added_at": "2023-09-13 11:53:55",

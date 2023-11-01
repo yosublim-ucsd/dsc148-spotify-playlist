@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-818 songs - 1 day 7 hr 49 min
+819 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,8 @@
 | [Flora](https://open.spotify.com/track/1e1mFuvsUtb607JVgjjhQu) | [Mr\. Freed](https://open.spotify.com/artist/35LocEP0NXBVe8GwWZoe5w) | [Flora](https://open.spotify.com/album/6LhhJlBZBimAkKUrGvShMR) | 2:09 | 2022-11-11 |  |
 | [Flora](https://open.spotify.com/track/5c18FHzgn8ApdGcDieWoBg) | [Mr\. Freed](https://open.spotify.com/artist/35LocEP0NXBVe8GwWZoe5w) | [Flora](https://open.spotify.com/album/0MCD6c0qEzasNHgs8eYhhG) | 2:09 | 2022-09-30 | 2022-11-20 |
 | [Flower Kingdom](https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Flower Kingdom](https://open.spotify.com/album/0ZyDmjkemTFFIGrlenJiiV) | 2:08 | 2023-10-13 |  |
-| [Fly with me to the moon](https://open.spotify.com/track/6ax46rQsYBiZoZS4QDrvvM) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Fly with me to the moon](https://open.spotify.com/album/3om1Wcwqb7qMFegOjcRPog) | 2:09 | 2022-08-19 |  |
+| [Fluffity](https://open.spotify.com/track/22iHU9AESPMxf6aaI2OKd3) | [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl), [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Fluffity](https://open.spotify.com/album/7syd7u5StZKwBgcaFw7JUB) | 2:39 | 2023-10-27 |  |
+| [Fly with me to the moon](https://open.spotify.com/track/6ax46rQsYBiZoZS4QDrvvM) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Fly with me to the moon](https://open.spotify.com/album/3om1Wcwqb7qMFegOjcRPog) | 2:09 | 2022-08-19 | 2023-11-01 |
 | [Foemeo](https://open.spotify.com/track/6yRz4gpq370pGg5hKTp91X) | [Earium](https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq) | [Foemeo](https://open.spotify.com/album/0H5rVwDQTq53oKuwSAMvoc) | 2:15 | 2022-04-15 |  |
 | [Forever](https://open.spotify.com/track/21zRahHVewQL1Auzm64pd2) | [Rytmdesign](https://open.spotify.com/artist/3PhgDl4rf3FDsQL7Bu4wyI) | [Forever](https://open.spotify.com/album/55Q1Osijq5pFwpFHio0s8S) | 1:58 | 2022-07-01 | 2022-11-20 |
 | [Forever](https://open.spotify.com/track/7mgyF0MVvFzvWhrGlR3YUn) | [Rytmdesign](https://open.spotify.com/artist/3PhgDl4rf3FDsQL7Bu4wyI) | [Forever](https://open.spotify.com/album/1LM5SvKdVqLsFa1T3di8x2) | 1:58 | 2022-11-11 |  |

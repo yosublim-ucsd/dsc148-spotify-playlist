@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 234394,
+  "num_followers": 234493,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzI3Njg0Y2NmZTMwODVjYTkyMzBiNzc1NDUwMmM4NWQ0OTBjMWI5",
+  "snapshot_id": "MCw3YWQ2ODNlMTQwMTc4ZTdkMzQ2ZDEwNzFkZTllZWNlOTM5ZTc2MTcz",
   "tracks": [
     {
       "added_at": "2023-08-11 15:42:20",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "So Many Colours",
-        "url": "https://open.spotify.com/album/4WlD2i4Eb75fNj9VukkEB8"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Padilla",
-          "url": "https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU"
-        },
-        {
-          "name": "Lydmor",
-          "url": "https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR"
-        }
-      ],
-      "duration_ms": 364225,
-      "name": "Maybe The Sunset",
-      "url": "https://open.spotify.com/track/00CQJXwhMPdoyXRlITsoBT"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
         "name": "Don't You Want Me",
         "url": "https://open.spotify.com/album/5EsmJemSNDssD0hy9bJA3N"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 187053,
       "name": "Don't You Want Me - Hooj Mix Edit",
       "url": "https://open.spotify.com/track/5yccftMOR4DWGxpVyuqaKs"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "So Many Colours",
+        "url": "https://open.spotify.com/album/4WlD2i4Eb75fNj9VukkEB8"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Padilla",
+          "url": "https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU"
+        },
+        {
+          "name": "Lydmor",
+          "url": "https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR"
+        }
+      ],
+      "duration_ms": 364225,
+      "name": "Maybe The Sunset",
+      "url": "https://open.spotify.com/track/00CQJXwhMPdoyXRlITsoBT"
     },
     {
       "added_at": "2023-08-11 15:42:20",

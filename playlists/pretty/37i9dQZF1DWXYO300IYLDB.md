@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,375 likes - 99 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,402 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 88 | [私を呼んだ 夏の空のような \- feat\. 兼松衆, 須原杏, 関口将史](https://open.spotify.com/track/5dQ8lzqlmJedzovrH8WsLq) | [高木大丈夫](https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60), [兼松 衆](https://open.spotify.com/artist/2ibirI68QUhfYuXM0oq8J1), [須原杏](https://open.spotify.com/artist/0ekqoA1GGFwC9lalszdIJR), [関口将史](https://open.spotify.com/artist/5Q5qAs7kOYA3gloFl5gAzs) | [私を呼んだ 夏の空のような \(feat\. 兼松衆, 須原杏, 関口将史\)](https://open.spotify.com/album/7k9LWhjXNPB6g2Q1cRU2Im) | 4:39 |
 | 89 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 |
 | 90 | [A Running Start](https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [A Running Start](https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG) | 4:21 |
-| 91 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |
+| 91 | [Your Song \- Bonus Track](https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights \(Lights Re\-pack / Bonus Version\)](https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V) | 3:11 |
 | 92 | [The Way You Can](https://open.spotify.com/track/1WgNdsLpFXb7ycFcM9Cldk) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [The Way You Can](https://open.spotify.com/album/477iSTSOUFTAc2860g7x9L) | 4:24 |
-| 93 | [Your Song \- Bonus Track](https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights \(Lights Re\-pack / Bonus Version\)](https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V) | 3:11 |
+| 93 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |
 | 94 | [Time After Time](https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo) | 2:50 |
 | 95 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |
 | 96 | [I Take It Back \- Acoustic](https://open.spotify.com/track/7gkvwUyiqYPznNMwdhdZdd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Day from Night](https://open.spotify.com/album/0YCHR86iTQUOkPVdYwgfDW) | 2:39 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 98 | [i wish you cheated \(acoustic\)](https://open.spotify.com/track/2PWe35jhtzmXp2y1862ApF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [i wish you cheated \(acoustic\)](https://open.spotify.com/album/5hsssklJGTWScnUf4kSHM2) | 3:13 |
 | 99 | [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 |
 
-Snapshot ID: `MCwyZDY0MTU5OWM3ZDYxZGRmMWZiNjliZWYwNDAyZWRmNDYyMjBlNGZk`
+Snapshot ID: `MCw3MDAyMDIzZmY2NzM0N2Q1NGQ2MjllZTFlNTViOTIxYjFjZDM0ZTdi`

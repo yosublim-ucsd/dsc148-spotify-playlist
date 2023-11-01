@@ -1,6 +1,6 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 3325,
+  "num_followers": 3327,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
+        "name": "Charly Garc\u00eda",
+        "url": "https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 157467,
+      "name": "Charly Garc\u00eda",
+      "url": "https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
         "name": "Mientras Ando",
         "url": "https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 198000,
       "name": "Me lo kiero imaginar",
       "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
-        "name": "Charly Garc\u00eda",
-        "url": "https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF"
-      },
-      "artists": [
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 157467,
-      "name": "Charly Garc\u00eda",
-      "url": "https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP"
     },
     {
       "added_at": "2022-11-30 14:18:55",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
+        "name": "Mi Barco",
+        "url": "https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 210005,
+      "name": "Mi Barco",
+      "url": "https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
         "name": "Quemonito",
         "url": "https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 220463,
       "name": "Quemonito",
       "url": "https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
-        "name": "Mi Barco",
-        "url": "https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 210005,
-      "name": "Mi Barco",
-      "url": "https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL"
     },
     {
       "added_at": "2022-11-30 14:18:55",

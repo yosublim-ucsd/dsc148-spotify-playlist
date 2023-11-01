@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
-  "num_followers": 114544,
+  "num_followers": 114563,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmUyOTlhMmUwMmY3YjMyZTFiZTA1ZmE0NTliZDllYWY4ZjdiNWIz",
+  "snapshot_id": "MCxhMzk0NDI0NzA1ODZhMDVkMjVmMTYxZjFkMWViMDM1ODFiMTJiYThk",
   "tracks": [
     {
       "added_at": "2023-09-22 06:08:09",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-09-22 06:08:09",
       "album": {
-        "name": "Posa",
-        "url": "https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n"
-      },
-      "artists": [
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        },
-        {
-          "name": "Zara Williams",
-          "url": "https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB"
-        }
-      ],
-      "duration_ms": 206585,
-      "name": "Posa",
-      "url": "https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8"
-    },
-    {
-      "added_at": "2023-09-22 06:08:09",
-      "album": {
         "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
         "url": "https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
+    },
+    {
+      "added_at": "2023-09-22 06:08:09",
+      "album": {
+        "name": "Posa",
+        "url": "https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Zara Williams",
+          "url": "https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB"
+        }
+      ],
+      "duration_ms": 206585,
+      "name": "Posa",
+      "url": "https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8"
     },
     {
       "added_at": "2023-09-22 06:08:09",

@@ -1,12 +1,12 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 694217,
+  "num_followers": 695118,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGYzZGE3NTQwNGU5NzA0MWQ1ZDBkMTNkODNkNWYwMTU3NzRiM2E1",
+  "snapshot_id": "MCwyOGVlY2NlMDEzMGUzYzQzZDNmMDZmMjU2MTY4NjEyNjhkYmQ5ZTY4",
   "tracks": [
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Isn't Anything",
-        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "The Singles 1983-1995",
         "url": "https://open.spotify.com/album/23bJrYWdTWLUlBdtgCMMCp"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 291600,
       "name": "I Walk the Line",
       "url": "https://open.spotify.com/track/6kJoVUIqzlkjNeVGatlGKB"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
     },
     {
       "added_at": "2023-01-24 21:00:19",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "It Will Come to You",
-        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
+        "name": "Elizium",
+        "url": "https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB"
       },
       "artists": [
         {
-          "name": "ACTORS",
-          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
+          "name": "Fields Of The Nephilim",
+          "url": "https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs"
         }
       ],
-      "duration_ms": 216750,
-      "name": "Face Meets Glass",
-      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
+      "duration_ms": 181466,
+      "name": "For Her Light",
+      "url": "https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ"
     }
   ],
   "unique_name": "Dark & Gothic",

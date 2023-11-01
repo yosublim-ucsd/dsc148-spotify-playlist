@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 934005,
+  "num_followers": 934087,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDgwYzkzYWM2ZjJmYWQ0OGNiYjcwNDRhYzI3YjBlNGNlOGY5MzA0",
+  "snapshot_id": "MCw4NTg5NGVlN2FlNjBhMTQ2MWI3MGFhNDRiNmQ2MmJjOGE1ZWRlYjlh",
   "tracks": [
     {
       "added_at": "2023-10-27 20:10:59",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
+        "name": "THE END OF EVERYTHING",
+        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "July",
+      "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
-        "name": "THE END OF EVERYTHING",
-        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "July",
-      "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 210251,
-      "name": "the 1",
-      "url": "https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 221820,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 210251,
+      "name": "the 1",
+      "url": "https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 153096,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
         "name": "Give You Love (feat. Jason Derulo)",
         "url": "https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 174125,
       "name": "Give You Love (feat. Jason Derulo)",
       "url": "https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
-        "name": "Superache",
-        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 153096,
-      "name": "Disaster",
-      "url": "https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
+        "name": "(Un)Commentary",
+        "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 164396,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/7JSSJf4TcJDv8KL6UO8FGH"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
         "name": "Special (feat. SZA)",
         "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 174748,
       "name": "Special (feat. SZA)",
       "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
-        "name": "(Un)Commentary",
-        "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 164396,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/7JSSJf4TcJDv8KL6UO8FGH"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
+        "name": "Evering Road (Special Edition)",
+        "url": "https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Don't Break the Heart",
+      "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
         "name": "chemistry (Deluxe)",
         "url": "https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 204720,
       "name": "you don\u2019t make me cry (feat. River Rose)",
       "url": "https://open.spotify.com/track/6rbr35phTqlk7F3gVym16B"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
-        "name": "Evering Road (Special Edition)",
-        "url": "https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Don't Break the Heart",
-      "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -2203,6 +2203,22 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
+        "name": "I'll Never Not Love You",
+        "url": "https://open.spotify.com/album/40Ud7EvNeSxYcpNibD0Qhu"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 218390,
+      "name": "I'll Never Not Love You",
+      "url": "https://open.spotify.com/track/3tKggonCKJgCG7nroEH2np"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
         "name": "A Second to Midnight",
         "url": "https://open.spotify.com/album/6kp91tuVBPtw7HvwTJjDHr"
       },
@@ -2219,22 +2235,6 @@
       "duration_ms": 207986,
       "name": "A Second to Midnight",
       "url": "https://open.spotify.com/track/3YY9Yu1JsgVfF1lOXEenq9"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
-        "name": "I'll Never Not Love You",
-        "url": "https://open.spotify.com/album/40Ud7EvNeSxYcpNibD0Qhu"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 218390,
-      "name": "I'll Never Not Love You",
-      "url": "https://open.spotify.com/track/3tKggonCKJgCG7nroEH2np"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -2339,6 +2339,26 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
+        "name": "How Long Do You Think It's Gonna Last?",
+        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
+      },
+      "artists": [
+        {
+          "name": "Big Red Machine",
+          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 330066,
+      "name": "Birch",
+      "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
         "name": "Chicken Little",
         "url": "https://open.spotify.com/album/54Pdjd4Q1XSYJqt2dAdYko"
       },
@@ -2371,26 +2391,6 @@
       "duration_ms": 183000,
       "name": "KEEP IT UP",
       "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
-        "name": "How Long Do You Think It's Gonna Last?",
-        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
-      },
-      "artists": [
-        {
-          "name": "Big Red Machine",
-          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 330066,
-      "name": "Birch",
-      "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -2459,6 +2459,22 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
+        "name": "These Tears",
+        "url": "https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 169656,
+      "name": "These Tears",
+      "url": "https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
         "name": "A R I Z O N A",
         "url": "https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED"
       },
@@ -2487,22 +2503,6 @@
       "duration_ms": 183895,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
-        "name": "These Tears",
-        "url": "https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 169656,
-      "name": "These Tears",
-      "url": "https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "All White",
-        "url": "https://open.spotify.com/album/21jO577CzbYLBWg66ubYMH"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "All White",
-      "url": "https://open.spotify.com/track/60cnpF1CzUx286QwoPFwqv"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
         "name": "Where The Light Goes",
         "url": "https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 183986,
       "name": "Closure (feat. BIRDY and Mishaal)",
       "url": "https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "All White",
+        "url": "https://open.spotify.com/album/21jO577CzbYLBWg66ubYMH"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "All White",
+      "url": "https://open.spotify.com/track/60cnpF1CzUx286QwoPFwqv"
     }
   ],
   "unique_name": "Work From Home",

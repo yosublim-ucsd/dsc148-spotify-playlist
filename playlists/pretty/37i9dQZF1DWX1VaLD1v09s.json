@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 77119,
+  "num_followers": 77112,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDA1ZmQ4NmI1NWI4NDc5MmQwM2Y3Yjk4MjYzNWRmZDUxZWNkMTZj",
+  "snapshot_id": "MCw0NDlmOTYzYWFjZDAzOTIyMzFiZDMwYjdjN2YwMjFhMzRjODM0NTg1",
   "tracks": [
     {
       "added_at": "2023-04-09 08:59:03",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Neon Steeple",
-        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 289746,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Don't Lose Hope",
         "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 203774,
       "name": "Grave",
       "url": "https://open.spotify.com/track/5maAhFnbY2RPPYcaCPB1Tb"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Neon Steeple",
+        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 289746,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "spark. (Live)",
+        "url": "https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 567093,
+      "name": "Breakthrough - Live",
+      "url": "https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Passion: Let The Future Begin",
         "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 339493,
       "name": "In Christ Alone - Live",
       "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "spark. (Live)",
-        "url": "https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 567093,
-      "name": "Breakthrough - Live",
-      "url": "https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Brewster",
-          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
-        }
-      ],
-      "duration_ms": 225187,
-      "name": "There Is Power",
-      "url": "https://open.spotify.com/track/68x16tb33FQdWyiOaZYteP"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "My Hope Secure",
         "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 256734,
       "name": "My Hope Secure",
       "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+        }
+      ],
+      "duration_ms": 225187,
+      "name": "There Is Power",
+      "url": "https://open.spotify.com/track/68x16tb33FQdWyiOaZYteP"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Even So Come (Radio Version/Live)",
-        "url": "https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 254373,
-      "name": "Even So Come - Radio Version/Live",
-      "url": "https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Love Revolution",
         "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 371774,
       "name": "Extravagant - Live",
       "url": "https://open.spotify.com/track/5UivJ02lC3RH9MmAysIltU"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Even So Come (Radio Version/Live)",
+        "url": "https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 254373,
+      "name": "Even So Come - Radio Version/Live",
+      "url": "https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Head to the Heart (Live)",
+      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 212533,
       "name": "Where You Go I Follow (feat. Pink Sweat$, Chandler Moore & Judah Smith)",
       "url": "https://open.spotify.com/track/4DrBQoFqYm3WTNyJEAkbU9"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Head to the Heart (Live)",
-      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "Call on Your Name",
+        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 309173,
+      "name": "Call on Your Name",
+      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/2QPKh4LqUxtwXGwbriYzqZ"
       },
@@ -2323,18 +2339,18 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Call on Your Name",
-        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
+        "name": "Something Different (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
       },
       "artists": [
         {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
         }
       ],
-      "duration_ms": 309173,
-      "name": "Call on Your Name",
-      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
+      "duration_ms": 228040,
+      "name": "To Live Is Christ",
+      "url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2371,22 +2387,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Something Different (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
-      },
-      "artists": [
-        {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "To Live Is Christ",
-      "url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Look To The Lamb",
         "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
       },
@@ -2411,26 +2411,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 468208,
-      "name": "Come Alive (Resurrection Power) - Live",
-      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "God You Are",
         "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
       },
@@ -2447,6 +2427,26 @@
       "duration_ms": 265286,
       "name": "God You Are (feat. Josh Baldwin)",
       "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 468208,
+      "name": "Come Alive (Resurrection Power) - Live",
+      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
     },
     {
       "added_at": "2023-04-09 08:59:03",

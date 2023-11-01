@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 659260,
+  "num_followers": 659464,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTFjNmEyY2ZiODQ4YmIxOTZmN2RiYzI3YWRlMzllZjcyYTU2MDI5",
+  "snapshot_id": "MCwyZTY4MjRlNjZmY2Q2ZTU5ZTczM2U1YjQyMzdkOWY5ZDIxNGI2NDBk",
   "tracks": [
     {
       "added_at": "2023-10-04 13:49:02",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Clocks",
-        "url": "https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT"
-      },
-      "artists": [
-        {
-          "name": "Mar Malade",
-          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
-        }
-      ],
-      "duration_ms": 197576,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "ready now",
         "url": "https://open.spotify.com/album/3UimgkGAY5asGDoRqwKbz3"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 176567,
       "name": "ready now",
       "url": "https://open.spotify.com/track/1hH8pM8m5vPOFqNkZdqfZd"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Clocks",
+        "url": "https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT"
+      },
+      "artists": [
+        {
+          "name": "Mar Malade",
+          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
+        }
+      ],
+      "duration_ms": 197576,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
         "name": "How Lucky",
         "url": "https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 203106,
       "name": "How Lucky",
       "url": "https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
         "name": "Ode to Joy",
         "url": "https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Bathroom Light",
-        "url": "https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 188266,
-      "name": "Bathroom Light",
-      "url": "https://open.spotify.com/track/71glNHT4FultOqlau4zrFf"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Chin Up",
         "url": "https://open.spotify.com/album/2W0l4M80ykkBI8WkPtHf7T"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 265213,
       "name": "Chin Up",
       "url": "https://open.spotify.com/track/1Q5gm2dsPwvJeQPQeNs2nv"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Bathroom Light",
+        "url": "https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "Bathroom Light",
+      "url": "https://open.spotify.com/track/71glNHT4FultOqlau4zrFf"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Blue Hours",
-        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "All That You Are",
-      "url": "https://open.spotify.com/track/6V7BW7mCfARAhKOlI4SkuM"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 274423,
       "name": "Low",
       "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Blue Hours",
+        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "All That You Are",
+      "url": "https://open.spotify.com/track/6V7BW7mCfARAhKOlI4SkuM"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
+        "name": "Ocean Wide",
+        "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
+      },
+      "artists": [
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 184515,
+      "name": "Ocean Wide",
+      "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
         "name": "Around The Sun",
         "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 234493,
       "name": "Around The Sun",
       "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
-        "name": "Ocean Wide",
-        "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
-      },
-      "artists": [
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 184515,
-      "name": "Ocean Wide",
-      "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "Old Graffiti",
-      "url": "https://open.spotify.com/track/3uKuL94RnvekaDsDLHPOMD"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/4mhvs37yJYqOKs0c6Bunvk"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 264045,
       "name": "Spark",
       "url": "https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Old Graffiti",
+      "url": "https://open.spotify.com/track/3uKuL94RnvekaDsDLHPOMD"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
         "name": "Quarantine at El Ganzo",
         "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 228059,
       "name": "Price",
       "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
+        "name": "As Long As You Are",
+        "url": "https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 218738,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3RGdTJbr4eWMS0upJntQAn"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
         "name": "The Barrel",
         "url": "https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 202000,
       "name": "My Guitar is too Loud",
       "url": "https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
-        "name": "As Long As You Are",
-        "url": "https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 218738,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/3RGdTJbr4eWMS0upJntQAn"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
+        "name": "Le temps se fuit",
+        "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 210706,
+      "name": "Le temps se fuit",
+      "url": "https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW"
       },
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Le temps se fuit",
-        "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
+        "name": "Cartoon People",
+        "url": "https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT"
       },
       "artists": [
         {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 210706,
-      "name": "Le temps se fuit",
-      "url": "https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ"
+      "duration_ms": 213539,
+      "name": "Cartoon People",
+      "url": "https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1503,22 +1519,6 @@
       "duration_ms": 198306,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6maswXqaxmZmrVnr2B82ii"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
-        "name": "Cartoon People",
-        "url": "https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 213539,
-      "name": "Cartoon People",
-      "url": "https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4"
     },
     {
       "added_at": "2023-10-04 13:49:02",

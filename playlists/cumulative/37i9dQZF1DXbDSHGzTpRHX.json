@@ -3256,10 +3256,28 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 174000,
       "name": "What I Do",
       "url": "https://open.spotify.com/track/0pSv8kfVtfIFGmo8jfCZ2W"
+    },
+    {
+      "album": {
+        "name": "Sad Day",
+        "url": "https://open.spotify.com/album/2zefR2m3XYgO4nQbZFdqQf"
+      },
+      "artists": [
+        {
+          "name": "LG Izz",
+          "url": "https://open.spotify.com/artist/6QTXiCqm2kDOWnLqgyYi4y"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "What I Do",
+      "url": "https://open.spotify.com/track/2wGz8qF4BURGrRjtKuaHG7"
     },
     {
       "album": {

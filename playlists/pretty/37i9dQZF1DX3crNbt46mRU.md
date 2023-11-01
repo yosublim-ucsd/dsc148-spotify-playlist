@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,342 likes - 112 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,431 likes - 112 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 111 | [Celebration](https://open.spotify.com/track/2OknBu4J7GCNxBiyvwUeBr) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Celebration](https://open.spotify.com/album/27S9xAMocdPV43yDLXiuxA) | 2:11 |
 | 112 | [Something's Dripping From The Ceiling](https://open.spotify.com/track/3zO4t7n7JScZQPcpPNi1WF) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Something's Dripping From The Ceiling](https://open.spotify.com/album/4YNwKQcG0gcHovZ9P2zjiE) | 4:06 |
 
-Snapshot ID: `MCxjMTliY2RkN2VjMTI4NmYyOWIxYTJjYjBmYmZjZjU0MWFmNzJmZWE4`
+Snapshot ID: `MCxjYzgwMGFjYmI1MzEzMDZjYmY0ZTk2YzU1MjljZGE1ZTIzMjhlODEw`

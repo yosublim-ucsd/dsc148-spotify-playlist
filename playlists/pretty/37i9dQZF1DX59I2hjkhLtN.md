@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Sandrini 2830.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,656 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,676 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 87 | [No Time](https://open.spotify.com/track/2hQ1OweM2djoEunj1j9mPX) | [Zt35](https://open.spotify.com/artist/4yEpDApCiftRugkpN2sOVM) | [No Time](https://open.spotify.com/album/3sJYckxG419tIObfH0f7Mk) | 2:12 |
 | 88 | [Mandato Di Captura](https://open.spotify.com/track/5Rg87Evf2mySqHq6dFY9de) | [Máfia200N](https://open.spotify.com/artist/24tOhs7tfXtXhBTuzVWspw), [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Dreams Chasers EP Vol.1](https://open.spotify.com/album/2m356u0GaEHrq0t5tnC3AS) | 3:08 |
 | 89 | [Grana](https://open.spotify.com/track/0L3Liok2b1z26yS2u4kGCk) | [E2SON](https://open.spotify.com/artist/2LUpzCPtbdSZg8viFA9Szs) | [Valores](https://open.spotify.com/album/4jvaYRQJ3LObu5oQ1h2v4F) | 3:12 |
-| 90 | [Minha Hora](https://open.spotify.com/track/1SkwhZcGTHDxx9eod4IyZi) | [Rez](https://open.spotify.com/artist/5zI2o9jsEmNCXWeNiSNVJl) | [Minha Hora](https://open.spotify.com/album/2EukMhhV5YukRincmVbsCP) | 2:36 |
+| 90 | [Minha Hora](https://open.spotify.com/track/4QE8Gq8Jm2TvpPE6JdltpT) | [Rez](https://open.spotify.com/artist/5zI2o9jsEmNCXWeNiSNVJl) | [Minha Hora](https://open.spotify.com/album/3wGreoxQU9bxcUOL6nnUHu) | 2:36 |
 | 91 | [Kre Mas](https://open.spotify.com/track/4DbdyCdI0GqS8h0HFbWopw) | [Lord XIV](https://open.spotify.com/artist/5TYWbwBIIkfhJHUrYbatRF), [Dj Dadda](https://open.spotify.com/artist/01cSS9Li4G0S7dH0h7Khfu) | [Folie à Deux](https://open.spotify.com/album/27BGwwzTWqwTJbgSbnwB57) | 2:41 |
 | 92 | [Longe da Cidade](https://open.spotify.com/track/4H3oTqglc688zt0YuGdsVX) | [Decola](https://open.spotify.com/artist/4vF5bsMZq3QEjEWCYiP0sp) | [Longe da Cidade](https://open.spotify.com/album/1HA1DDlcEoqz6d4y4QC5yt) | 2:43 |
 | 93 | [Toma](https://open.spotify.com/track/6vlgxZGsjQ5KkjGiVpkyjk) | [B3L2](https://open.spotify.com/artist/6KUYblbSpjuGjZvTXpUUEn) | [Toma](https://open.spotify.com/album/6EN7a3ganJcwxov2NHyypD) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Miami](https://open.spotify.com/track/76pmiSAa2Lzx9LJi1AqytS) | [Sali](https://open.spotify.com/artist/6b2j8sTUYQJ8fiEXgrIoLb) | [Miami](https://open.spotify.com/album/5qXGhlIF5j32Vo4SuYBOy2) | 2:34 |
 | 100 | [Flores \(feat\. Fred Mineiro\)](https://open.spotify.com/track/18fRGty4s8QQSKxVrvOVUs) | [Kappa Young](https://open.spotify.com/artist/7BjaRn4pph6TUOZ33JfiDG), [Fred Mineiro](https://open.spotify.com/artist/1jtX2PZFt5F9F9bjZwLQDS) | [Flores \(feat\. Fred Mineiro\)](https://open.spotify.com/album/01XAxuMmJgrR74yZZBhERv) | 3:15 |
 
-Snapshot ID: `MCw2ZDhhMGU3OTVkNmQwMjU0OTZjOWFiMDZlNTJiNmVjYTAxYTNhODE0`
+Snapshot ID: `MCw3YjE0NmY3MTU3ZDVjMWIyMWRjY2IyMzZmMGIzYjBmYWIwODUwZDVi`

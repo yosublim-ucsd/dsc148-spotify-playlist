@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 447135,
+  "num_followers": 447263,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjE0NTI1M2EyNGM2ZWM3YzBkN2YwMjhlOGMzZjk3ZjMxZTI1Njcx",
+  "snapshot_id": "MCwzMDNjOGU5MDJlMzNjMjI2NmVmZTFlODA4NWY3MmIyMjY0MzY2YTA4",
   "tracks": [
     {
       "added_at": "2023-10-27 03:03:00",
@@ -411,6 +411,26 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
+        "name": "Bem Melhor (KVSH Remix)",
+        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "Bem Melhor - KVSH Remix",
+      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
         "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] [2023 Version]",
         "url": "https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 160961,
       "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version",
       "url": "https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
-        "name": "Bem Melhor (KVSH Remix)",
-        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "Bem Melhor - KVSH Remix",
-      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Low (feat. Victor Perry)",
-        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Victor Perry",
-          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Low (feat. Victor Perry)",
-      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
         "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
         "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 209032,
       "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
       "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
+        "name": "Low (feat. Victor Perry)",
+        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Victor Perry",
+          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Low (feat. Victor Perry)",
+      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -999,22 +999,26 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Dias Melhores - Remix",
-        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
+        "name": "Lovezinho",
+        "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
       },
       "artists": [
         {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
         },
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Treyce",
+          "url": "https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Dias Melhores - Remix",
-      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
+      "duration_ms": 172986,
+      "name": "Lovezinho",
+      "url": "https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -1039,26 +1043,22 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Lovezinho",
-        "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
+        "name": "Dias Melhores - Remix",
+        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
       },
       "artists": [
         {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
         },
         {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Treyce",
-          "url": "https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         }
       ],
-      "duration_ms": 172986,
-      "name": "Lovezinho",
-      "url": "https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K"
+      "duration_ms": 174193,
+      "name": "Dias Melhores - Remix",
+      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
         "name": "Um Erro (Malifoo, Voltech Remix)",
         "url": "https://open.spotify.com/album/5SMXWvlU5nqmk261Hh5OUE"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 161904,
       "name": "Um Erro (Malifoo, Voltech Remix)",
       "url": "https://open.spotify.com/track/0HGGQcBOouXNzapKPoJsOq"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
     },
     {
       "added_at": "2023-10-27 03:03:00",

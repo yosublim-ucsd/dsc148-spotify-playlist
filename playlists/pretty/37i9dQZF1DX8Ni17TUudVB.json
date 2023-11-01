@@ -1,6 +1,6 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 140347,
+  "num_followers": 140396,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,26 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Nataaoki",
+      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Nataaoki",
-      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -343,46 +343,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 246061,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -411,6 +371,46 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 129817,
+      "name": "Hot In It (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 246061,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
         "name": "Plata O Plomo (Mr. Pig - Rework)",
         "url": "https://open.spotify.com/album/4lnOQEhXMGj2fL8hMfzUlL"
       },
@@ -431,22 +431,22 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
         },
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
         }
       ],
-      "duration_ms": 129817,
-      "name": "Hot In It (feat. Charli XCX)",
-      "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -531,22 +531,18 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
+        "name": "Network - taken from Superstar",
+        "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Global Deejays",
+          "url": "https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L"
         }
       ],
-      "duration_ms": 161880,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
+      "duration_ms": 224200,
+      "name": "The Sound Of San Francisco - Progressive Album Mix",
+      "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -595,18 +591,22 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Network - taken from Superstar",
-        "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
       },
       "artists": [
         {
-          "name": "Global Deejays",
-          "url": "https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 224200,
-      "name": "The Sound Of San Francisco - Progressive Album Mix",
-      "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
+      "duration_ms": 161880,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -939,6 +939,26 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
+        "name": "New Rave",
+        "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 208095,
+      "name": "Kill Me Slow",
+      "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/5HzqkCHI7AFVhTjvozMnXj"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 166299,
       "name": "Bum Bum",
       "url": "https://open.spotify.com/track/1rUfAnT35qS7hL6okyDOH0"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "New Rave",
-        "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 208095,
-      "name": "Kill Me Slow",
-      "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "My Pony",
-        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "My Pony",
-      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "The Best Of Armin Only",
         "url": "https://open.spotify.com/album/1WEVdCa5YAK8tep9xOs2hS"
       },
@@ -1279,58 +1263,18 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+        "name": "My Pony",
+        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
       },
       "artists": [
         {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 170869,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "Menage A Trois",
-        "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 168508,
-      "name": "Menage A Trois",
-      "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "Permanence",
-        "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 231290,
-      "name": "Permanence",
-      "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
+      "duration_ms": 153414,
+      "name": "My Pony",
+      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1355,26 +1299,58 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Blue Dreams",
-        "url": "https://open.spotify.com/album/3R2U7mwzBgEAEPyb75ieqe"
+        "name": "Menage A Trois",
+        "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
       },
       "artists": [
         {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
         },
         {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Sapir Amar",
-          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
         }
       ],
-      "duration_ms": 248780,
-      "name": "Blue Dreams",
-      "url": "https://open.spotify.com/track/40kMwlgBSTjg7sqK694ze3"
+      "duration_ms": 168508,
+      "name": "Menage A Trois",
+      "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 170869,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 231290,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1399,6 +1375,30 @@
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Blue Dreams",
+        "url": "https://open.spotify.com/album/3R2U7mwzBgEAEPyb75ieqe"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Sapir Amar",
+          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
+        }
+      ],
+      "duration_ms": 248780,
+      "name": "Blue Dreams",
+      "url": "https://open.spotify.com/track/40kMwlgBSTjg7sqK694ze3"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "So What",
-        "url": "https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr"
-      },
-      "artists": [
-        {
-          "name": "Jay Pryor",
-          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
-        }
-      ],
-      "duration_ms": 135499,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Nothing To Do",
         "url": "https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 153652,
       "name": "Nothing To Do",
       "url": "https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr"
+      },
+      "artists": [
+        {
+          "name": "Jay Pryor",
+          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+        }
+      ],
+      "duration_ms": 135499,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
+        "name": "BRAVE",
+        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        }
+      ],
+      "duration_ms": 285860,
+      "name": "IM GONE",
+      "url": "https://open.spotify.com/track/7CEvYqcXhE11M8tBVIpUb0"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/4JmR9ubw7pcnzt73IW5Mp8"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 192760,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/0iQd47VJs14l8EA00PlI71"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "BRAVE",
-        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
-      },
-      "artists": [
-        {
-          "name": "JOYRYDE",
-          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
-        }
-      ],
-      "duration_ms": 285860,
-      "name": "IM GONE",
-      "url": "https://open.spotify.com/track/7CEvYqcXhE11M8tBVIpUb0"
     },
     {
       "added_at": "2023-09-11 15:59:41",

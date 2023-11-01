@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1081788,
+  "num_followers": 1082673,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDNkOTc3YjgyZjA1NzQ2YjI4YTVmOTBkYjUwMWRjMDk0YWU1ZTll",
+  "snapshot_id": "MCw0ZjZiZWEyNTY4ZTQ0ZjRjZmM4YzMzZGYzZWRmZmZmMGI0YzI4ZWU3",
   "tracks": [
     {
       "added_at": "2023-09-21 20:00:18",
@@ -786,6 +786,10 @@
         {
           "name": "Don Toliver",
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "DJ Purpberry",
+          "url": "https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0"
         }
       ],
       "duration_ms": 195573,

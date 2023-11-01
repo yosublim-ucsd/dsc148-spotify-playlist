@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,223 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,386 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 32 | [Who Dunnit?](https://open.spotify.com/track/2rcKuc6LBiOQFSzYIa5CsW) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Who Dunnit?](https://open.spotify.com/album/65zcWNbHC9PzhkrBw3Mtcx) | 2:59 |
 | 33 | [How To Disappear](https://open.spotify.com/track/2q1uTb4UGj9T7nPiFR2Kwo) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/1EuVYwdFz5QnhJVzUEu81A) | 5:11 |
 | 34 | [NOTHING WILL EVER BE THE SAME](https://open.spotify.com/track/5e5mWtx00orL2FTbRv4kr9) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [NOTHING WILL EVER BE THE SAME](https://open.spotify.com/album/721N179Yxv1G8kqefWUc0A) | 2:50 |
-| 35 | [Better Off](https://open.spotify.com/track/2LZMG5AvjpzrVMZJR4Un9M) | [Sunsleep](https://open.spotify.com/artist/4vungj589HhKBF2LldLXf4) | [Moonlight Euphoria](https://open.spotify.com/album/1eRV0c7Nv1HKQX0cYHceTM) | 4:05 |
+| 35 | [Better Off](https://open.spotify.com/track/2LZMG5AvjpzrVMZJR4Un9M) | [Sunsleep](https://open.spotify.com/artist/4vungj589HhKBF2LldLXf4), [Jonny Craig](https://open.spotify.com/artist/46MmlFKM8ivDsUnGOejvSM) | [Moonlight Euphoria](https://open.spotify.com/album/1eRV0c7Nv1HKQX0cYHceTM) | 4:05 |
 | 36 | [Brakelights](https://open.spotify.com/track/7HbYvg6Ghiw0Ipxw4wa7L6) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Brakelights](https://open.spotify.com/album/1PrcKV1b7YuPD7HgTq9mFo) | 3:20 |
 | 37 | [Suffer Me](https://open.spotify.com/track/5dKbBbsVpru7xroQvJGkEi) | [EVNTYD](https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh) | [Suffer Me](https://open.spotify.com/album/5rLzLVXhTPLEPHR664N6R7) | 2:47 |
 | 38 | [WOT?](https://open.spotify.com/track/3reDMknQne3fFioU5DGjxn) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [WOT?](https://open.spotify.com/album/1ZR2wheKOl3LfjIMeldl7E) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [An Elegy Written on Porcelain Arms](https://open.spotify.com/track/4aY3jXrsltZ8J6L3XRRY6e) | [The Requiem](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [An Elegy Written on Porcelain Arms](https://open.spotify.com/album/1u1WmdaoOTSZBdj6mIUBjK) | 3:23 |
 | 50 | [In My Head](https://open.spotify.com/track/53rpjI533RjaRNlL58gk4f) | [Ethereal](https://open.spotify.com/artist/0SolhJ6GwWLTkAFIfwWlfE) | [In My Head](https://open.spotify.com/album/3d8fAHGmxrWHa7jRdUpA2f) | 3:29 |
 
-Snapshot ID: `MCw2Y2I3ZTYwMDNlNGVlMjFjMjVlNzI1NTJjZmNkMTFlOGIzZTlmMTgw`
+Snapshot ID: `MCxjZTZiMjhkMTI4ODc3NDhmYzVhMGE5ZWU0ZDFiZTZiYjlkY2Q3YjJm`

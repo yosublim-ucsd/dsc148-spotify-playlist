@@ -1,6 +1,6 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"https://www.thestellarawards.com/index.html\">Stellar Award</a> winning artist <a href=\"https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=ba40ca816da6450e\">Pastor Mike Jr.</a>.",
-  "num_followers": 63106,
+  "num_followers": 63218,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,26 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Any Attack",
+        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 113051,
+      "name": "Any Attack",
+      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 173230,
       "name": "GO WITH THE GHOST",
       "url": "https://open.spotify.com/track/1ArrMOlOFWYmrst6DTV95C"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Any Attack",
-        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 113051,
-      "name": "Any Attack",
-      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "Joy In The Morning (Remix)",
         "url": "https://open.spotify.com/album/7Ach1ESfO3xhhhs8bOBcZp"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 233373,
       "name": "Joy In The Morning - Remix",
       "url": "https://open.spotify.com/track/0edWLFpD77Xw6wt0hJOswX"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Back To Life (Studio Version)",
-        "url": "https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        }
-      ],
-      "duration_ms": 253077,
-      "name": "Back To Life - Studio Version",
-      "url": "https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "OVER",
         "url": "https://open.spotify.com/album/7lhvGgOvFyFnVkEkIlsBTk"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 162538,
       "name": "OVER",
       "url": "https://open.spotify.com/track/5vrl5DchHxFCkXWNRTZeRF"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Back To Life (Studio Version)",
+        "url": "https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "duration_ms": 253077,
+      "name": "Back To Life - Studio Version",
+      "url": "https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Look Up to the Sky",
-        "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
-      },
-      "artists": [
-        {
-          "name": "Lathan Warlick",
-          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 173522,
-      "name": "Look Up to the Sky",
-      "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "Watch The Sun",
         "url": "https://open.spotify.com/album/5H1FtrVEYKl9hQyDxBZHvN"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 323855,
       "name": "The Better Benediction (feat. Zacardi Cortez, Gene Moore, Samoht, Tim Rogers & Darrel 'MusiqCity' Walls)",
       "url": "https://open.spotify.com/track/3lHg2hk5SKxykj9bt48ARl"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Look Up to the Sky",
+        "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
+      },
+      "artists": [
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 173522,
+      "name": "Look Up to the Sky",
+      "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -751,38 +751,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 187458,
-      "name": "All Things New",
-      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Marvelous",
-        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 142826,
-      "name": "Marvelous",
-      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "FIND MY WAY",
         "url": "https://open.spotify.com/album/6zMB1gaaFKxJIWQtYnsES5"
       },
@@ -807,6 +775,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Marvelous",
+        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 142826,
+      "name": "Marvelous",
+      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 154970,
       "name": "Glory",
       "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 187458,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "My Dey",
-        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "My Dey",
-      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "High Noon",
         "url": "https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 130679,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "My Dey",
+        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "My Dey",
+      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -915,6 +915,30 @@
       "duration_ms": 153418,
       "name": "IF I RAN AWAY",
       "url": "https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3j8SxbKhTdNXTHmHt0jJjp"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Thi'sl",
+          "url": "https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 193234,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/755eT9EDA6vjWcFv5lLUGI"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -979,30 +1003,6 @@
       "duration_ms": 228280,
       "name": "Keeper Of My Soul",
       "url": "https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/3j8SxbKhTdNXTHmHt0jJjp"
-      },
-      "artists": [
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        },
-        {
-          "name": "Thi'sl",
-          "url": "https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 193234,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/755eT9EDA6vjWcFv5lLUGI"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Sunday In Lagos",
-        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 153351,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "Enemies and Foes",
         "url": "https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 289134,
       "name": "Enemies and Foes",
       "url": "https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Sunday In Lagos",
+        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 153351,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Renown",
-        "url": "https://open.spotify.com/album/1ZDo0cHB13rmsNADYajGY2"
-      },
-      "artists": [
-        {
-          "name": "Jimi Cravity",
-          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
-        }
-      ],
-      "duration_ms": 270374,
-      "name": "Renown",
-      "url": "https://open.spotify.com/track/0zWrUnuH7OCjXEEJzefARV"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 248057,
       "name": "First Love",
       "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/6bLyGhK2QLpi8yS3GWtRML"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/6BFVwjDZLLtmxaxsl1t3lP"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/6bLyGhK2QLpi8yS3GWtRML"
+        "name": "Breakthrough: The Exodus (Live)",
+        "url": "https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/6BFVwjDZLLtmxaxsl1t3lP"
+      "duration_ms": 518057,
+      "name": "All Of My Help - Live",
+      "url": "https://open.spotify.com/track/5v15knLpGP0gV5vHUemx1R"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Breakthrough: The Exodus (Live)",
-        "url": "https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ"
+        "name": "Renown",
+        "url": "https://open.spotify.com/album/1ZDo0cHB13rmsNADYajGY2"
       },
       "artists": [
         {
-          "name": "Ricky Dillard",
-          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+          "name": "Jimi Cravity",
+          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
         }
       ],
-      "duration_ms": 518057,
-      "name": "All Of My Help - Live",
-      "url": "https://open.spotify.com/track/5v15knLpGP0gV5vHUemx1R"
+      "duration_ms": 270374,
+      "name": "Renown",
+      "url": "https://open.spotify.com/track/0zWrUnuH7OCjXEEJzefARV"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1363,38 +1363,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Ultimate Self",
-        "url": "https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd"
-      },
-      "artists": [
-        {
-          "name": "Lani Rose",
-          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Ultimate Self",
-      "url": "https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 185382,
-      "name": "Blak Sheep Freestyle",
-      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "I's On Him",
         "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
       },
@@ -1415,6 +1383,38 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 185382,
+      "name": "Blak Sheep Freestyle",
+      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Ultimate Self",
+        "url": "https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd"
+      },
+      "artists": [
+        {
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Ultimate Self",
+      "url": "https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "Blues and Roses",
         "url": "https://open.spotify.com/album/1ZFR3JEObwGawMRnvj2ZDY"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 145725,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/0QvZBcImFtSlNrWgUQeChr"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Zion (Gbe)",
-        "url": "https://open.spotify.com/album/2P685NkylY7hPjlsD30EBZ"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 164269,
-      "name": "Zion (Gbe)",
-      "url": "https://open.spotify.com/track/57p3KH8I42tHFBVrQwtjlw"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Zion (Gbe)",
+        "url": "https://open.spotify.com/album/2P685NkylY7hPjlsD30EBZ"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 164269,
+      "name": "Zion (Gbe)",
+      "url": "https://open.spotify.com/track/57p3KH8I42tHFBVrQwtjlw"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 397297,
       "name": "Build My Life",
       "url": "https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
+      },
+      "artists": [
+        {
+          "name": "Matthews Ntlele",
+          "url": "https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1555,30 +1571,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/5md45mofvGSgVFUS15ePkN"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        },
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        }
-      ],
-      "duration_ms": 203027,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "HOLY GHOST",
         "url": "https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA"
       },
@@ -1607,22 +1599,6 @@
       "duration_ms": 251206,
       "name": "GREAT IS YOUR FAITHFULNESS",
       "url": "https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Start Over",
-        "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
-      },
-      "artists": [
-        {
-          "name": "Matthews Ntlele",
-          "url": "https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1663,6 +1639,30 @@
       "duration_ms": 362120,
       "name": "Here All the Time (feat. Maranda Curtis)",
       "url": "https://open.spotify.com/track/2vDMKTckSTQrdf01YjiaxO"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/5md45mofvGSgVFUS15ePkN"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 203027,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Hold It All Together",
-        "url": "https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "God of Dreams",
-      "url": "https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "The Word Is Working (Refreshed)",
         "url": "https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d"
       },
@@ -1803,22 +1787,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "The Village Is On Fire",
-        "url": "https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh"
+        "name": "Hold It All Together",
+        "url": "https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E"
       },
       "artists": [
         {
-          "name": "Guvna B",
-          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
-        },
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
         }
       ],
-      "duration_ms": 191808,
-      "name": "Amplify",
-      "url": "https://open.spotify.com/track/7JCUFszcuSHwvcj2ZjQ0T9"
+      "duration_ms": 158000,
+      "name": "God of Dreams",
+      "url": "https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1855,6 +1835,26 @@
       "duration_ms": 246774,
       "name": "Don't Eat Crow",
       "url": "https://open.spotify.com/track/1ZaSsBG2OwORPzE6g4NSek"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "The Village Is On Fire",
+        "url": "https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh"
+      },
+      "artists": [
+        {
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "duration_ms": 191808,
+      "name": "Amplify",
+      "url": "https://open.spotify.com/track/7JCUFszcuSHwvcj2ZjQ0T9"
     },
     {
       "added_at": "2023-07-13 07:29:04",

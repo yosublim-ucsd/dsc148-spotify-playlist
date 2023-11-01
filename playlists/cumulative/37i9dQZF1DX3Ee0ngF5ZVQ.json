@@ -1603,6 +1603,28 @@
     },
     {
       "album": {
+        "name": "Cover Girl",
+        "url": "https://open.spotify.com/album/4tbA2NrQQetM0NUqszgn52"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        },
+        {
+          "name": "Bri Bagwell",
+          "url": "https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214396,
+      "name": "Can\u2019t Cry Anymore (feat. Bri Bagwell)",
+      "url": "https://open.spotify.com/track/3yz6BlKzJ2baiuIUC6t3FS"
+    },
+    {
+      "album": {
         "name": "Car Ride Home",
         "url": "https://open.spotify.com/album/5qRwxL43IJCKoVJKpicz0e"
       },
@@ -5958,7 +5980,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 233203,
       "name": "My Heart You'll Tend",
       "url": "https://open.spotify.com/track/3po9LDXpTQyJCPc5O1RUut"

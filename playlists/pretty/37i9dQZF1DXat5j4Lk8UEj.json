@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 493657,
+  "num_followers": 493693,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Men Amongst Mountains",
-        "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 274093,
-      "name": "Wish I Knew You",
-      "url": "https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Living Mirage",
         "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 216120,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Men Amongst Mountains",
+        "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 274093,
+      "name": "Wish I Knew You",
+      "url": "https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Are We There",
         "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Can I Believe You",
+      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "I Don't Think It Will Hurt If You Smile",
         "url": "https://open.spotify.com/album/4rsVi2ypkpMwTh8UciewU9"
       },
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 244186,
-      "name": "Can I Believe You",
-      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
+      "duration_ms": 225560,
+      "name": "All We Ever Knew",
+      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -503,6 +503,22 @@
       "duration_ms": 279373,
       "name": "The Joke",
       "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Trick To Happy",
+      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -567,22 +583,6 @@
       "duration_ms": 163746,
       "name": "Fever Pitch",
       "url": "https://open.spotify.com/track/5vyt44455ipNNVSYq8fYY7"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Trick To Happy",
-      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Orange Blood",
-        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0AJQjFdtEEr0rVoCGauYRU"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 266756,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Orange Blood",
+        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0AJQjFdtEEr0rVoCGauYRU"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Puppy and a Truck",
-      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Into The Mystery",
         "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Inwards & Onwards",
         "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
       },
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "People Are My Drug",
-        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
-      },
-      "artists": [
-        {
-          "name": "Phil Cook",
-          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Happy Birthday, Ratboy",
         "url": "https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 169066,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "People Are My Drug",
+        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
+      },
+      "artists": [
+        {
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "The Pet Parade",
+        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 248925,
+      "name": "The Balcony",
+      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "The Waves, The Wake",
         "url": "https://open.spotify.com/album/4Bj3F7hjjfJm5XW2LY1wXi"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Pet Parade",
-        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 248925,
-      "name": "The Balcony",
-      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Sun Leads Me On",
         "url": "https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Las Vegas",
-      "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Gamble for a Rose",
         "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 270853,
       "name": "Gamble for a Rose",
       "url": "https://open.spotify.com/track/2zqSMjsmbqtm80YwQaPgmY"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Las Vegas",
+      "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Bearing Witness",
-        "url": "https://open.spotify.com/album/6Qmthq6Wv3acOxwO8uHkVA"
+        "name": "Do You",
+        "url": "https://open.spotify.com/album/0RqhEB5mHX22h2FsHLF2m4"
       },
       "artists": [
         {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
         }
       ],
-      "duration_ms": 269386,
-      "name": "Bearing Witness",
-      "url": "https://open.spotify.com/track/5roSuLVGUWxiyayrBhOdtL"
+      "duration_ms": 248759,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/4ZffJ6gXFwMzpzLrlRHSh0"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1515,22 +1515,6 @@
       "duration_ms": 172324,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Do You",
-        "url": "https://open.spotify.com/album/0RqhEB5mHX22h2FsHLF2m4"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 248759,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/4ZffJ6gXFwMzpzLrlRHSh0"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "All That Was East Is West Of Me Now",
+        "url": "https://open.spotify.com/album/3TE5qMvIQjDutZPQCpHk6W"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 269386,
+      "name": "Bearing Witness",
+      "url": "https://open.spotify.com/track/7lJ1U4f03kKou1YhvkX62E"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Good Luck With Whatever",
         "url": "https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ"
       },
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+        "name": "Mercury & Lightning",
+        "url": "https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
         }
       ],
-      "duration_ms": 195213,
-      "name": "River Wider",
-      "url": "https://open.spotify.com/track/5ucRrHQrCGDeUdL5bKFWk1"
+      "duration_ms": 281205,
+      "name": "Wilderlove",
+      "url": "https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE"
     },
     {
       "added_at": "2023-10-20 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 27190,
+  "num_followers": 27215,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDM1MzZhZjA0NmNlYmJjNDQ5OGZiMzcyOTdhNTRkOTdhYjU2ZmM4",
+  "snapshot_id": "MCw2MTZhNThmZDk0NzdhYjZhZDJlZGFiMjNjNGI1MjdiZWEzNWUyNTVj",
   "tracks": [
     {
       "added_at": "2023-05-15 07:15:38",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Fela With Ginger Baker Live!",
-        "url": "https://open.spotify.com/album/7fkwNiJJggsA4bFyDMzmSr"
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
       },
       "artists": [
         {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 465280,
-      "name": "Let's Start",
-      "url": "https://open.spotify.com/track/5iBPlU3XOy6ooug4rD9Cft"
+      "duration_ms": 310133,
+      "name": "Fallin' - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
+      "url": "https://open.spotify.com/track/1fzYdlr2RdnhxsI0bZsTms"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
+        "name": "Fela With Ginger Baker Live!",
+        "url": "https://open.spotify.com/album/7fkwNiJJggsA4bFyDMzmSr"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
         }
       ],
-      "duration_ms": 310133,
-      "name": "Fallin' - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
-      "url": "https://open.spotify.com/track/1fzYdlr2RdnhxsI0bZsTms"
+      "duration_ms": 465280,
+      "name": "Let's Start",
+      "url": "https://open.spotify.com/track/5iBPlU3XOy6ooug4rD9Cft"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "River - Live at SXSW 2015",
-      "url": "https://open.spotify.com/track/2ko4juHbeDhU02oRxzwKEc"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 210600,
       "name": "A Woman's Worth (Live) - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
       "url": "https://open.spotify.com/track/2KxLC0zzzCvJ5xg9dZPnA2"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "River - Live at SXSW 2015",
+      "url": "https://open.spotify.com/track/2ko4juHbeDhU02oRxzwKEc"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Alive In America",
-        "url": "https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Peg - Live",
-      "url": "https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 180551,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Alive In America",
+        "url": "https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Peg - Live",
+      "url": "https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Anniversary \u2013 The Live Album",
-        "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
+        "name": "These Songs for You, Live!",
+        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
       },
       "artists": [
         {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 223232,
-      "name": "Love Calls - Anniversary \u2013 Live",
-      "url": "https://open.spotify.com/track/3N5SwICIY2ZVCQsXatCmPw"
+      "duration_ms": 355400,
+      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
+      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "These Songs for You, Live!",
-        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
+        "name": "Anniversary \u2013 The Live Album",
+        "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
       },
       "artists": [
         {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
         }
       ],
-      "duration_ms": 355400,
-      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
-      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
+      "duration_ms": 223232,
+      "name": "Love Calls - Anniversary \u2013 Live",
+      "url": "https://open.spotify.com/track/3N5SwICIY2ZVCQsXatCmPw"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Aretha Live at Fillmore West",
-        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
+        "name": "Live From San Francisco",
+        "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 197200,
-      "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
-      "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
+      "duration_ms": 295306,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live From San Francisco",
-        "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
+        "name": "Aretha Live at Fillmore West",
+        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 295306,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
+      "duration_ms": 197200,
+      "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
+      "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "One Night Only (Live At The Royal Albert Hall / 02 April 2018)",
+        "url": "https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 220672,
+      "name": "Hey Laura - Live At The Royal Albert Hall / 02 April 2018",
+      "url": "https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 336440,
       "name": "You Got the Love - Live Version",
       "url": "https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "One Night Only (Live At The Royal Albert Hall / 02 April 2018)",
-        "url": "https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 220672,
-      "name": "Hey Laura - Live At The Royal Albert Hall / 02 April 2018",
-      "url": "https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 289600,
-      "name": "What's Going On - Live At Oakland Coliseum, CA / 1974",
-      "url": "https://open.spotify.com/track/5HKeylrH9lOy90PXK3KmAn"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Live at Metropolis Studios",
         "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
       },
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Tokyo... Live",
-        "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
+        "name": "Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 232706,
-      "name": "Let's Stay Together - Live",
-      "url": "https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW"
+      "duration_ms": 289600,
+      "name": "What's Going On - Live At Oakland Coliseum, CA / 1974",
+      "url": "https://open.spotify.com/track/5HKeylrH9lOy90PXK3KmAn"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1567,6 +1551,22 @@
       "duration_ms": 348240,
       "name": "A Song for You - Live at the Troubador, Los Angeles, CA",
       "url": "https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Tokyo... Live",
+        "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Let's Stay Together - Live",
+      "url": "https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW"
     },
     {
       "added_at": "2023-05-15 07:15:38",

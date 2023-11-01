@@ -1627,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "B\u00e4ttre nu (The Wedding)",
+        "url": "https://open.spotify.com/album/1D46XUOvhkabY7IlRSIgPv"
+      },
+      "artists": [
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204157,
+      "name": "B\u00e4ttre nu (The Wedding)",
+      "url": "https://open.spotify.com/track/5Fvq4z7pr7146lrYQCD9bY"
+    },
+    {
+      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
@@ -3788,7 +3806,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 147880,
       "name": "F\u00e5nga mig n\u00e4r jag faller",
       "url": "https://open.spotify.com/track/6HuNgzEw9b4tDcSDCQBS1O"
@@ -5389,6 +5407,24 @@
     },
     {
       "album": {
+        "name": "Inatt (Inget Stoppar Oss Nu)",
+        "url": "https://open.spotify.com/album/7FtYP3MDq2sK9FMUMJTQcC"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166523,
+      "name": "Inatt (Inget Stoppar Oss Nu)",
+      "url": "https://open.spotify.com/track/4uPSmNAuHFVLcSHLKyWfny"
+    },
+    {
+      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
       },
@@ -5628,7 +5664,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 214187,
       "name": "Josefin",
       "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"

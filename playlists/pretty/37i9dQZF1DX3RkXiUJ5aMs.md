@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 
 > A collection of inspired songs about life and the love of the father.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,160 likes - 65 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,161 likes - 65 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 64 | [I Still Believe in That](https://open.spotify.com/track/4x80O7HhUzxec2hAgWdvQ8) | [Ash Bowers](https://open.spotify.com/artist/2aJsgmclt9joQMsHMffCBr) | [I Still Believe in That](https://open.spotify.com/album/0u3WForpl37yjNBo7gllCa) | 3:26 |
 | 65 | [Stealing Cinderella](https://open.spotify.com/track/0Pvbr31U9bjdvUUNGNFnQJ) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Stealing Cinderella](https://open.spotify.com/album/1tlxI1SGhyybdGhG15ByTT) | 4:02 |
 
-Snapshot ID: `MCxiYWQ3ZDA1ZjhiY2NkNjcyOTFiZGVjNzQwNzdlNjFlMGExNDU3MDQw`
+Snapshot ID: `MCwxZDVlYTI1NmE0NWI1NDM5NTZhNDNmNjM0MGI3MjVjZDZkMTBiZGZh`

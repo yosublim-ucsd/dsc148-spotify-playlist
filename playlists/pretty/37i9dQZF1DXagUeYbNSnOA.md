@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Baby City Club\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,581 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,583 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 27 | [RamaRa](https://open.spotify.com/track/0l2q5ed19U4EJnUhHg37sA) | [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [RamaRa](https://open.spotify.com/album/30QF5M3lnBZcSPcRJiIaTw) | 6:12 |
 | 28 | [Santo Domingo](https://open.spotify.com/track/5y7vUylJIyY6JL0dfxiqEc) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G), [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Santo Domingo](https://open.spotify.com/album/43xXsEQV8Fsha4np27jPHG) | 2:36 |
 | 29 | [Quién me va a Cuidar](https://open.spotify.com/track/7E7IomTA0czZ9RfuHDCpce) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3), [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Quién me va a Cuidar](https://open.spotify.com/album/6JJUxUcY7NDbfjgWuvSZLU) | 3:22 |
-| 30 | [hola bb](https://open.spotify.com/track/5x33Y41pVO5zJT8eAgS35u) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [hola bb](https://open.spotify.com/album/1fkR4uAUXPeTpiZ2lECvNc) | 1:54 |
-| 31 | [COREO \# 2](https://open.spotify.com/track/1V9IPUC0M3KvCE8woMsAQr) | [Valeria Sandoval](https://open.spotify.com/artist/51fdZdVcBwjviXCMKgbklL), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [COREO \# 2](https://open.spotify.com/album/70wQiLgM2vrSvrOQhSmVFe) | 1:51 |
-| 32 | [Tu mirar](https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8) | [Tu mirar](https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae) | 2:42 |
+| 30 | [Tu mirar](https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8) | [Tu mirar](https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae) | 2:42 |
+| 31 | [hola bb](https://open.spotify.com/track/5x33Y41pVO5zJT8eAgS35u) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [hola bb](https://open.spotify.com/album/1fkR4uAUXPeTpiZ2lECvNc) | 1:54 |
+| 32 | [COREO \# 2](https://open.spotify.com/track/1V9IPUC0M3KvCE8woMsAQr) | [Valeria Sandoval](https://open.spotify.com/artist/51fdZdVcBwjviXCMKgbklL), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [COREO \# 2](https://open.spotify.com/album/70wQiLgM2vrSvrOQhSmVFe) | 1:51 |
 | 33 | [Tu Camisa](https://open.spotify.com/track/5QzrbYb8scoKE3AKHpFjIl) | [Shadia Maraby](https://open.spotify.com/artist/7sZZP1GyxDl5SHahBdDO0G), [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [Tu Camisa](https://open.spotify.com/album/3QZ9gRQ1xRfcPxYrb3iHni) | 3:12 |
-| 34 | [Verito de la Perla](https://open.spotify.com/track/1TPyTg3Hws6vnF7I5zfJtA) | [Verito Asprilla](https://open.spotify.com/artist/38bNWh48s9AsoYUtdojwPm), [Bejuco](https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Verito de la Perla](https://open.spotify.com/album/0980mLZgi937qBV1Xuih8t) | 3:40 |
-| 35 | [Japon](https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Japon](https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv) | 2:50 |
+| 34 | [Japon](https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Japon](https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv) | 2:50 |
+| 35 | [Verito de la Perla](https://open.spotify.com/track/1TPyTg3Hws6vnF7I5zfJtA) | [Verito Asprilla](https://open.spotify.com/artist/38bNWh48s9AsoYUtdojwPm), [Bejuco](https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Verito de la Perla](https://open.spotify.com/album/0980mLZgi937qBV1Xuih8t) | 3:40 |
 | 36 | [Una Mañana](https://open.spotify.com/track/4svWyFxwaXJYfLlUNqw0uv) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Una Mañana](https://open.spotify.com/album/1viiLY7oeUX6GkIdJ9XxnZ) | 3:41 |
 | 37 | [SABI](https://open.spotify.com/track/30UQMD34yVMjJKnTS9QEjL) | [Amantina](https://open.spotify.com/artist/7hc53iJC9NjiLwr0BLWim7) | [SABI](https://open.spotify.com/album/0gvi2Qze85ds6I9cNEUDGU) | 2:40 |
 | 38 | [SE DESVANECIÓ](https://open.spotify.com/track/4q0AvJnUh3y2ADKcaIUYgi) | [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL) | [SE DESVANECIÓ](https://open.spotify.com/album/0yww6xqlxtNQLcb1EsAXGP) | 2:41 |

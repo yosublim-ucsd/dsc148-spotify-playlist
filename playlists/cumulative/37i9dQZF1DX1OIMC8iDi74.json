@@ -4288,7 +4288,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 278808,
       "name": "Rumor",
       "url": "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"
@@ -5494,6 +5494,28 @@
       "duration_ms": 216338,
       "name": "Ur Body",
       "url": "https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP"
+    },
+    {
+      "album": {
+        "name": "Ur Body",
+        "url": "https://open.spotify.com/album/46SVWbWMuVMgT2sjzCB6hR"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216363,
+      "name": "Ur Body",
+      "url": "https://open.spotify.com/track/2yaNaFyZsZSWLI5evzKlGK"
     },
     {
       "album": {

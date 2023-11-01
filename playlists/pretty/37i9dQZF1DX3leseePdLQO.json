@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring GALE.",
-  "num_followers": 8588,
+  "num_followers": 8601,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGJiNzI4OGVkZmMzM2Y2YzRhNDYxN2M1ODk2ZGU2OWVjMWU4NzIy",
+  "snapshot_id": "MCw1M2Y4YzIyMjFhNTk3NDA4NGQ2YjUwZTU4YTVkZGExNzc5ODdlOWJk",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "\u00cdndigo",
-      "url": "https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Correcaminos",
         "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 214520,
+      "name": "\u00cdndigo",
+      "url": "https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 191863,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 161880,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI"
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -987,6 +971,22 @@
       "duration_ms": 132677,
       "name": "Alguien M\u00e1s",
       "url": "https://open.spotify.com/track/2KmMR2NuY9gjDdVXSyUJ9m"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 173440,
       "name": "NUNCA PASAR\u00c1",
       "url": "https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "bellodrama",
+        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 184195,
+      "name": "Lentamente",
+      "url": "https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "A Las 3",
         "url": "https://open.spotify.com/album/431FDuXe10BcviQ9o3T9Ge"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 162259,
       "name": "A Las 3",
       "url": "https://open.spotify.com/track/6aDI3fxbf3PdDz9z8rK9fr"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "bellodrama",
-        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 184195,
-      "name": "Lentamente",
-      "url": "https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "P.M.",
-        "url": "https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "P.M.",
-      "url": "https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Alguien M\u00e1s",
         "url": "https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 145741,
       "name": "Alguien M\u00e1s",
       "url": "https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "P.M.",
+        "url": "https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "P.M.",
+      "url": "https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Soltando A Pedazos",
-        "url": "https://open.spotify.com/album/5KsQBvqPKCWGC15MCPOaJy"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 164673,
-      "name": "Soltando A Pedazos",
-      "url": "https://open.spotify.com/track/54Hpm4MoCvzmlO6yvD2wj0"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Los Mejores A\u00f1os",
         "url": "https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 202106,
       "name": "Los Mejores A\u00f1os",
       "url": "https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Soltando A Pedazos",
+        "url": "https://open.spotify.com/album/5KsQBvqPKCWGC15MCPOaJy"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 164673,
+      "name": "Soltando A Pedazos",
+      "url": "https://open.spotify.com/track/54Hpm4MoCvzmlO6yvD2wj0"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1739,22 +1739,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Thalia's Mixtape",
-        "url": "https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf"
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "David Summers",
-          "url": "https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 202736,
-      "name": "Devu\u00e9lveme a Mi Chica",
-      "url": "https://open.spotify.com/track/7sl70g1z4UCKl28PdAG5na"
+      "duration_ms": 248546,
+      "name": "Eva",
+      "url": "https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o"
     }
   ],
   "unique_name": "Crema Pop",

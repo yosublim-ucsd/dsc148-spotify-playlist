@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,426 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,502 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 43 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 |
 | 44 | [Infinity \(feat\. ILIRA, iiola & Tom Cane\)](https://open.spotify.com/track/05zD7iVuzpzDWsYvxxcvgd) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [iiola](https://open.spotify.com/artist/3YSLjtLPCULe41kgElVrWj), [Tom Cane](https://open.spotify.com/artist/5iFDzfBI6aebgrb9ljJhme) | [Infinity \(feat\. ILIRA, iiola & Tom Cane\)](https://open.spotify.com/album/6l9QJGEoMRYD86XIXHCJvp) | 3:33 |
 | 45 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 |
-| 46 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 |
-| 47 | [Lumberjackin' \- Vocal Mix](https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [VIP](https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty) | 4:00 |
+| 46 | [Lumberjackin' \- Vocal Mix](https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [VIP](https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty) | 4:00 |
+| 47 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 |
 | 48 | [Out of Time](https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Out of Time](https://open.spotify.com/album/5j1LFq1ZzTBfwPyYWWNjAf) | 3:51 |
-| 49 | [Take Me As I Am](https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [None Of Us Are Getting Out Of This Life Alive](https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB) | 3:06 |
-| 50 | [Talk To Me](https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Talk To Me](https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K) | 4:26 |
+| 49 | [Talk To Me](https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Talk To Me](https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K) | 4:26 |
+| 50 | [Take Me As I Am](https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [None Of Us Are Getting Out Of This Life Alive](https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB) | 3:06 |
 | 51 | [Vibration \(feat\. AR/CO\)](https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 4:02 |
 | 52 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 |
 | 53 | [All For You](https://open.spotify.com/track/3y1fEFFHFv79OYeCbzc774) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [All For You](https://open.spotify.com/album/254Y0CD07dB40q84db89EB) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Sliding](https://open.spotify.com/track/5iAp1pQB3dqB3rWfs38Yb6) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [Charlie Choppa](https://open.spotify.com/artist/4aTBKDsrXC1os9HzfPuDTR) | [Sliding](https://open.spotify.com/album/5WvQFSYrjHNsZ85XP22GtT) | 4:17 |
 | 75 | [Renaissance \(Edit\)](https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX) | 3:29 |
 
-Snapshot ID: `MCwzYjU2NGVlOWI4NWIxZWFmNzdlM2MzNjliNTQ3ZTIyODYxYjVjNDcw`
+Snapshot ID: `MCwyZWYzYjNjZWM0OTFlMDlmNDg3ZjhkOGQzOWY1YzgxNTk5Y2M5ODhi`

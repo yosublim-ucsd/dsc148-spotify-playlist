@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 127943,
+  "num_followers": 127972,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWIyYzg0NzdiNDVjNWNkMTQ4YzJmMGRhMjM2Yzc4MzcxZmIzMTk1",
+  "snapshot_id": "MCwwMWZjMTE0NzE0YWRhZjBmOTEyMTM4NzE1YzI2YWZlYTlmMDY1Y2Nl",
   "tracks": [
     {
       "added_at": "2023-10-26 12:50:51",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2023-10-26 12:50:51",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
         }
       ],
-      "duration_ms": 184687,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
+      "duration_ms": 216818,
+      "name": "Highest Building (feat. Oklou)",
+      "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
     },
     {
       "added_at": "2023-10-26 12:50:51",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2023-10-26 12:50:51",
       "album": {
-        "name": "Palaces",
-        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         }
       ],
-      "duration_ms": 216818,
-      "name": "Highest Building (feat. Oklou)",
-      "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
+      "duration_ms": 184687,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
     },
     {
       "added_at": "2023-10-26 12:50:51",

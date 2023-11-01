@@ -4626,28 +4626,6 @@
     {
       "album": {
         "name": "Youth Is Wasted on the Young",
-        "url": "https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT"
-      },
-      "artists": [
-        {
-          "name": "Anden",
-          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "date_added": "2023-10-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193011,
-      "name": "Grouplove",
-      "url": "https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo"
-    },
-    {
-      "album": {
-        "name": "Youth Is Wasted on the Young",
         "url": "https://open.spotify.com/album/3ijdNgdZu1vj5l5gXfxgGa"
       },
       "artists": [
@@ -4666,6 +4644,28 @@
       "duration_ms": 193623,
       "name": "Grouplove",
       "url": "https://open.spotify.com/track/04VNPjMAsLO49GPgsl8xrq"
+    },
+    {
+      "album": {
+        "name": "Youth Is Wasted on the Young",
+        "url": "https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT"
+      },
+      "artists": [
+        {
+          "name": "Anden",
+          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193623,
+      "name": "Grouplove",
+      "url": "https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo"
     },
     {
       "album": {

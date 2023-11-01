@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 
 > The ultimate line\-up of Summer anthems, strap in !!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,424 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,420 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 53 | [Ghost](https://open.spotify.com/track/4z7gh3aIZV9arbL9jJSc5J) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One](https://open.spotify.com/album/3ndfnISZRohKZGbKh6kv33) | 3:33 |
 | 54 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/1c478uMN61yF2JOXXEtsdw) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Spectrum \(Say My Name\) EP](https://open.spotify.com/album/2cwJklonI65VsnAw9Z0bIu) | 3:38 |
 | 55 | [Stronger](https://open.spotify.com/track/1gudTcOiMosmCC6EKEzomI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4WNXpeZR1jc2NFgOAeyLMB) | 5:12 |
-| 56 | [Jubel \- Radio Edit](https://open.spotify.com/track/7715F9Eg9SlfYb1qdMb9en) | [Shawkie](https://open.spotify.com/artist/3ZvGfQARM0fy65J41kZqOy), [3ario](https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil) | [Jubel \- Radio Edit](https://open.spotify.com/album/5FGTcarbUXSplzZDmsAwkQ) | 2:28 |
-| 57 | [Do You Really Like It? \- Radio Edit](https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp) | [DJ Pied Piper & The Masters Of Ceremonies](https://open.spotify.com/artist/7KMddxPqjqv0fiucwg0c3D) | [Do You Really Like It? \(Remixes\)](https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV) | 3:37 |
+| 56 | [Do You Really Like It? \- Radio Edit](https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp) | [DJ Pied Piper & The Masters Of Ceremonies](https://open.spotify.com/artist/7KMddxPqjqv0fiucwg0c3D) | [Do You Really Like It? \(Remixes\)](https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV) | 3:37 |
+| 57 | [Jubel \- Radio Edit](https://open.spotify.com/track/7715F9Eg9SlfYb1qdMb9en) | [Shawkie](https://open.spotify.com/artist/3ZvGfQARM0fy65J41kZqOy), [3ario](https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil) | [Jubel \- Radio Edit](https://open.spotify.com/album/5FGTcarbUXSplzZDmsAwkQ) | 2:28 |
 | 58 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 |
 | 59 | [Stereo Love \- UK Radio Edit](https://open.spotify.com/track/6TyXieyAu2z51H6VMPKRI4) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/1g9MChpxVdgoyA7kMbcnfj) | 2:35 |
 | 60 | [Babycakes](https://open.spotify.com/track/0dAn58pe2GWDTlqa2Th4mP) | [3 Of A Kind](https://open.spotify.com/artist/0WG74hoaVTaNb3hx3yRqb1) | [Babycakes](https://open.spotify.com/album/4sW39hh7uYqe8zDg7ylPAW) | 2:34 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 71 | [Flat Beat \- Radio Edit](https://open.spotify.com/track/0LjTqBwFKfblqnuuDCH2Sw) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Flat Beat](https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ) | 3:57 |
 | 72 | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/track/1ftK0tLj4ZYKYxSzXk5Lpb) | [DJ Spiller](https://open.spotify.com/artist/6Ai7Oi56rJwoPAG8N2jsv6), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/album/774f2ASob19UJBVIrxNzg7) | 3:47 |
 | 73 | [Another Chance \(Radio Edit\)](https://open.spotify.com/track/46WVWDw8SubxyzQUXRBWt4) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Another Chance](https://open.spotify.com/album/1KyaCwJ2Hcz1M5g7qQcmue) | 3:30 |
-| 74 | [Black & Gold \- Radio Edit](https://open.spotify.com/track/1r9G1B0OJzb2O8NBPo4vLL) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Noughties Songs](https://open.spotify.com/album/1wD1MhNeYZT4RO9FE4Intf) | 3:30 |
-| 75 | [House Every Weekend \- Radio Edit](https://open.spotify.com/track/7u9zFAWUAZy2vdVwAIAv5s) | [David Zowie](https://open.spotify.com/artist/2yEkeJoFOvm6qHuECSDHFg) | [House Every Weekend \(Radio Edit\)](https://open.spotify.com/album/19hIjxvx2QBJoyJ0DVJgHJ) | 3:02 |
+| 74 | [House Every Weekend \- Radio Edit](https://open.spotify.com/track/7u9zFAWUAZy2vdVwAIAv5s) | [David Zowie](https://open.spotify.com/artist/2yEkeJoFOvm6qHuECSDHFg) | [House Every Weekend \(Radio Edit\)](https://open.spotify.com/album/19hIjxvx2QBJoyJ0DVJgHJ) | 3:02 |
+| 75 | [Black & Gold \- Radio Edit](https://open.spotify.com/track/1r9G1B0OJzb2O8NBPo4vLL) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Noughties Songs](https://open.spotify.com/album/1wD1MhNeYZT4RO9FE4Intf) | 3:30 |
 | 76 | [That's Not My Name \- Radio Edit](https://open.spotify.com/track/2H68hrTywSrLZjHH3kQ9wR) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [00s Party Mixtape](https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0) | 3:46 |
 | 77 | [Louder \(feat\. Sian Evans\)](https://open.spotify.com/track/5rr88Jg9B0QLFMDj9qREaI) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Sian Evans](https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw) | [Louder EP](https://open.spotify.com/album/5JM2WMfuniCvsSgoVdbtyb) | 3:26 |
 | 78 | [Good Times \- Radio Edit](https://open.spotify.com/track/49Hb6hA4WJE6KdpDpotxt6) | [Roll Deep](https://open.spotify.com/artist/4gpElxNt5pL515njzmZaZG), [Jodie Connor](https://open.spotify.com/artist/2z8TUHYgpATw1YCb8WV6qv) | [Sommer Klassiker](https://open.spotify.com/album/3vkUHTM5ZgvHocuE882zew) | 3:43 |
 | 79 | [Bound 4 da Reload \- Casualty](https://open.spotify.com/track/24SElG0D2F6vJ7Z9EMD5Xu) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf) | [Execute](https://open.spotify.com/album/1C7r9ofyU8ajv54XBSAJEC) | 4:52 |
 | 80 | [Young \- Radio Edit](https://open.spotify.com/track/0ObbI1mRYkcWHeM82rZf9U) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [Sommer Klassiker](https://open.spotify.com/album/3vkUHTM5ZgvHocuE882zew) | 3:35 |
 
-Snapshot ID: `MCxiOWE5YjJiMzNkMDMzY2NhNzYzZjhiYzcyYzlhZWNjYjU5YzU5YWRk`
+Snapshot ID: `MCxkN2JiNGZlYzhiOGE1N2VmMDg2OWM2ZWZmZDQzZmU3M2NjMjQxOWMx`

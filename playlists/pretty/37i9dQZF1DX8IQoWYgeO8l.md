@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IQoWYgeO8l.md) - [plain]
 
 > Los tracks que escribieron la historia del Hip\-Hop mexicano en 2022\. La Santa Grifa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,344 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,347 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

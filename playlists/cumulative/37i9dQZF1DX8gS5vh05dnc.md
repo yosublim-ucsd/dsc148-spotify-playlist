@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-250 songs - 13 hr 31 min
+251 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Be The One](https://open.spotify.com/track/33Gzs2NEMqRKhSp6etYP26) | [Y ARA](https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6) | [Be The One](https://open.spotify.com/album/50Zm3VsbMMLlt9Ezp8YlVG) | 4:57 | 2022-06-06 | 2022-07-29 |
 | [Be Yourself \(From 'The Amazing Maurice'\)](https://open.spotify.com/track/48eVpe47KAAmMGbcghBOsR) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [The Amazing Maurice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ny6lB6g08PQgfPlkkR9U3) | 2:35 | 2023-02-13 | 2023-02-21 |
 | [Beautiful Soul](https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S) | 3:34 | 2022-07-25 |  |
-| [Better Man](https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 4:23 | 2023-02-13 |  |
+| [Better Man](https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 4:23 | 2023-02-13 | 2023-11-01 |
 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 | 2023-10-02 |  |
 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Big Energy \(feat\. DJ Khaled\) \[Remix\]](https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv) | 3:01 | 2022-07-25 | 2023-03-16 |
 | [Bla Bli Blu](https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Bla Bli Blu](https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw) | 2:57 | 2022-06-06 | 2022-07-29 |
@@ -44,6 +44,7 @@
 | [Bodies](https://open.spotify.com/track/24ZhIGmqatQWhIDBhoLq2a) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [Irwinandfire](https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa) | [Bodies](https://open.spotify.com/album/4dbDCsQirM7V0tthrVgpze) | 3:27 | 2022-06-06 | 2022-07-29 |
 | [Body Like A Back Road](https://open.spotify.com/track/7FpBQ067pHB67deawpbbcY) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 2:42 | 2022-10-10 |  |
 | [boyfriend material](https://open.spotify.com/track/20dYdhOwY8nfGsVaIockAR) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [boyfriend material](https://open.spotify.com/album/1puIY6s30W5p5r5X3NjVIU) | 2:30 | 2022-06-06 | 2022-07-23 |
+| [break](https://open.spotify.com/track/70Ao7kHuPXDg94NfMAarJm) | [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [break](https://open.spotify.com/album/5ohXBBdn3W8bSsR0TwSjOe) | 2:57 | 2023-10-30 |  |
 | [Breakdown](https://open.spotify.com/track/4RpK4bIUQWwrCJwRCQcAVZ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ESTERO](https://open.spotify.com/album/0eknrlSMX6nOZZ6l0fgvBW) | 4:05 | 2022-07-11 | 2022-07-17 |
 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 | 2022-09-19 | 2022-10-04 |
 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 | 2023-02-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,021 likes - 78 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,063 likes - 78 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 77 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/05nDWMKbb0Kr39EazJlCbw) | [Max Laugland](https://open.spotify.com/artist/7ASrnmDyLPEBiO97unM9AC) | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/album/6XTqe4kwzC01JL9xxEa74L) | 2:01 |
 | 78 | [Auld Lang Syne](https://open.spotify.com/track/4QXYi1FykH0IS7EzSMiZjP) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Auld Lang Syne](https://open.spotify.com/album/0117x9jVfJF94hR3QPTfkc) | 2:20 |
 
-Snapshot ID: `MCxkY2RjZGNkYmVhMWJmODc5MTAxNjc2OGYwZTU1Y2U5Y2Q0ZmY4NzJi`
+Snapshot ID: `MCxkNGM1ZmNmOWJhYzExNjE0NjAzMDRhZjliYmU1ZTVlMGRkYjY0MzQ4`

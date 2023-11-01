@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: ProfJam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,430 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,485 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 79 | [NASTY](https://open.spotify.com/track/09882XP1lt5VQwc2I9i9Pf) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NASTY](https://open.spotify.com/album/5z6BbFaxfgfEJDXDT3ps4Q) | 3:07 |
 | 80 | [Morte do Artista](https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Morte do Artista](https://open.spotify.com/album/7a88VpAUQJiWQbrlWOF9oL) | 3:27 |
 
-Snapshot ID: `MCxlOGIzYTZiZWRhMmE2NTM5MTE0NmVlY2U4NGYwMDVlZDQ5YzA4NmFi`
+Snapshot ID: `MCw3NTNiYzZmNzNmODM5MTQ3OTk3NjViMTdlZTMxYWVmMThkY2RmZTEw`

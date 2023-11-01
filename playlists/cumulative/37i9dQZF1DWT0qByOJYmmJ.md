@@ -4,7 +4,7 @@
 
 > Tristeza independiente para aquellos días de bajón.
 
-181 songs - 10 hr 26 min
+182 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [MAMÁ](https://open.spotify.com/track/34yQeTktePdLm0b95RffPw) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL) | [MAMÁ](https://open.spotify.com/album/5rjblafbv954vxZYqnNvhR) | 2:55 | 2023-02-24 |  |
 | [Me Acordé](https://open.spotify.com/track/7imMmgvgkKM7I99m5LqvMM) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Mauricio Sanchez](https://open.spotify.com/artist/7uLKM7dYWaZi8ymQIDoMqq) | [Me Acordé](https://open.spotify.com/album/6hWp4jtQR5ohmPmLEqpVXC) | 3:02 | 2022-05-27 | 2022-06-18 |
 | [Me Haces Muy Bien \- Acústico](https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Me Haces Muy Bien \(Acústico\)](https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP) | 3:25 | 2022-05-27 | 2022-07-09 |
+| [Me La Saludan \(Versión Acústica\)](https://open.spotify.com/track/39IorjgSqhwcXOA3GHsXc4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Me La Saludan](https://open.spotify.com/album/0onsACtccTsYDdjF04SqFm) | 3:50 | 2023-02-24 |  |
 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 | 2022-05-27 |  |
 | [Mujer Distante](https://open.spotify.com/track/6Zy0ITa16EjCAbbGuPzdRi) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 4:13 | 2022-05-27 | 2022-09-10 |
 | [Nada Me Hace Feliz](https://open.spotify.com/track/31fFj2VX2zKUHRtkETy2O5) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Nada Me Hace Feliz](https://open.spotify.com/album/0fnPiP2dKTc7MLVeLk77Nc) | 2:37 | 2022-05-27 | 2022-07-05 |
@@ -126,7 +127,7 @@
 | [Pensando en Ti](https://open.spotify.com/track/2FNL8nW9rvlDKjNwJXVfm7) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [Pensando en Ti](https://open.spotify.com/album/0bNoOCnPKQVK5KvtQbJ6ZA) | 2:56 | 2022-07-11 | 2022-08-06 |
 | [Pensando en Ti](https://open.spotify.com/track/7erD8TKGNjHhNDqKAkEhMI) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [Pensando en Ti](https://open.spotify.com/album/122vrIZIMO0xi8BOfbp2uK) | 2:56 | 2022-05-27 | 2022-07-29 |
 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/6DL3askn1pOCp6Ch2imE74) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/album/4u1QVmlGWpPJUq1n3PaEWd) | 3:50 | 2022-05-27 | 2022-07-27 |
-| [pero qué cosa](https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr) | 2:45 | 2023-02-24 |  |
+| [pero qué cosa](https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr) | 2:45 | 2023-02-24 | 2023-11-01 |
 | [Playlist](https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Playlist](https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov) | 3:01 | 2022-07-11 | 2022-08-06 |
 | [Ponte en Mi Lugar](https://open.spotify.com/track/2fpGFJKJlpMPMRVqU1olyV) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Ponte en Mi Lugar](https://open.spotify.com/album/4uwXTB8SVFcBTXvfRcY5Pp) | 3:12 | 2022-07-11 | 2023-02-16 |
 | [Ponte en Mi Lugar](https://open.spotify.com/track/55iIqtFbxy8mJEZC08B1wl) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Ponte en Mi Lugar](https://open.spotify.com/album/1eZJVi0cCd63BeI4cXlWxK) | 3:12 | 2022-12-09 |  |

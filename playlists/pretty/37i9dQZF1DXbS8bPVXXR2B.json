@@ -1,6 +1,6 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 221035,
+  "num_followers": 221147,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 407053,
-      "name": "Hot Stuff - 12\" Version",
-      "url": "https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Give Me the Night",
         "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 301026,
       "name": "Give Me the Night",
       "url": "https://open.spotify.com/track/5gaUkg5JNk8c4mr2jnpX8H"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 407053,
+      "name": "Hot Stuff - 12\" Version",
+      "url": "https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+        "name": "Straight from the Heart (Remastered)",
+        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
       },
       "artists": [
         {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
         }
       ],
-      "duration_ms": 375400,
-      "name": "He's the Greatest Dancer - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+      "duration_ms": 319893,
+      "name": "Remind Me - Remastered",
+      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -251,34 +251,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Straight from the Heart (Remastered)",
-        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
       "artists": [
         {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
         }
       ],
-      "duration_ms": 319893,
-      "name": "Remind Me - Remastered",
-      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 495186,
-      "name": "I Feel Love - 12\" Version",
-      "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
+      "duration_ms": 375400,
+      "name": "He's the Greatest Dancer - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -327,6 +311,22 @@
       "duration_ms": 217733,
       "name": "Don't Leave Me This Way",
       "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 495186,
+      "name": "I Feel Love - 12\" Version",
+      "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Watchin' Out",
-        "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
-      },
-      "artists": [
-        {
-          "name": "Split Decision Band",
-          "url": "https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf"
-        }
-      ],
-      "duration_ms": 195114,
-      "name": "Watchin' Out",
-      "url": "https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Silk Rhodes",
         "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 145646,
       "name": "Face 2 Face",
       "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Watchin' Out",
+        "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
+      },
+      "artists": [
+        {
+          "name": "Split Decision Band",
+          "url": "https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf"
+        }
+      ],
+      "duration_ms": 195114,
+      "name": "Watchin' Out",
+      "url": "https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Rhythm Of Life",
+        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+      },
+      "artists": [
+        {
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+        }
+      ],
+      "duration_ms": 326320,
+      "name": "Sweet Power of Your Embrace",
+      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Charles Webster - Coast2Coast",
         "url": "https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 177653,
       "name": "I Believe In Miracles",
       "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Rhythm Of Life",
-        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
-      },
-      "artists": [
-        {
-          "name": "James Mason",
-          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
-        }
-      ],
-      "duration_ms": 326320,
-      "name": "Sweet Power of Your Embrace",
-      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "Hold Tight - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Groovin' You (Expanded Edition)",
         "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 376986,
       "name": "Groovin' You - 12\" Version",
       "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "Hold Tight - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "You're a Melody",
-        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
-      },
-      "artists": [
-        {
-          "name": "Aged In Harmony",
-          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
-        }
-      ],
-      "duration_ms": 259415,
-      "name": "You're a Melody - Extended Disco Version",
-      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
         "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
       },
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Agb'oju L'ogun",
-        "url": "https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk"
+        "name": "You're a Melody",
+        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
       },
       "artists": [
         {
-          "name": "Shina Williams & His African Percussionists",
-          "url": "https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe"
+          "name": "Aged In Harmony",
+          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
         }
       ],
-      "duration_ms": 702167,
-      "name": "Agb'oju L'ogun - Original 12\" Version",
-      "url": "https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV"
+      "duration_ms": 259415,
+      "name": "You're a Melody - Extended Disco Version",
+      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1427,6 +1411,22 @@
       "duration_ms": 357760,
       "name": "On the Beat - Full Length Mix",
       "url": "https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Agb'oju L'ogun",
+        "url": "https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk"
+      },
+      "artists": [
+        {
+          "name": "Shina Williams & His African Percussionists",
+          "url": "https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe"
+        }
+      ],
+      "duration_ms": 702167,
+      "name": "Agb'oju L'ogun - Original 12\" Version",
+      "url": "https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Dancing in Outer Space",
-        "url": "https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r"
+        "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
       },
       "artists": [
         {
-          "name": "Atmosfear",
-          "url": "https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF"
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
         }
       ],
-      "duration_ms": 577093,
-      "name": "Dancing in Outer Space",
-      "url": "https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH"
+      "duration_ms": 284985,
+      "name": "Lypso Illusion",
+      "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
     }
   ],
   "unique_name": "Disco Hi-Life",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,610 likes - 43 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,785 likes - 43 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 4 | [Dear Santa](https://open.spotify.com/track/5zqzV32ifPJ9XhqfyjYrBy) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dear Santa](https://open.spotify.com/album/2hhMU1z6iEq0UxYMBdp9xp) | 2:49 |
 | 5 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/1WFjVtWkQhMnaaKgg3sDb3) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas \(Extended Version\)](https://open.spotify.com/album/4BG1fw7D43HDyTfvabUGGO) | 2:19 |
 | 6 | [Pure Imagination / Christmas Time Is Here](https://open.spotify.com/track/18QnV6B8oCorqVYkz0Nljp) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Greatest Christmas Hits](https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT) | 3:20 |
-| 7 | [Wake Up \(It's Christmas Time\)](https://open.spotify.com/track/5neA7SHia4v59Thx1QpRXs) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Wake Up \(It’s Christmas Time\)](https://open.spotify.com/album/4dRTI6bNOEP4j6PdghSske) | 2:40 |
+| 7 | [Wake Up! \(It's Christmas Time\)](https://open.spotify.com/track/5neA7SHia4v59Thx1QpRXs) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Wake Up! \(It’s Christmas Time\)](https://open.spotify.com/album/4dRTI6bNOEP4j6PdghSske) | 2:40 |
 | 8 | [The Christmas Song](https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [A Joyful Holiday](https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU) | 3:26 |
 | 9 | [Everything You Want \(feat\. MUNA\)](https://open.spotify.com/track/7bJplW3g1hYRS5XIzYXxOG) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Everything You Want \(feat\. MUNA\)](https://open.spotify.com/album/3SxxeUmQRDHn2Yq5Xp0Kxx) | 3:38 |
 | 10 | [What Christmas Means To Me \(with Stevie Wonder\)](https://open.spotify.com/track/6DIA408m0Am7GDTqCzsI59) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:35 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 31 | [O Holy Night](https://open.spotify.com/track/10fIEVkZmS2ZCpCHSZIBfG) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Christmas](https://open.spotify.com/album/6x8ImQxhntrc7TLqokZoiD) | 4:20 |
 | 32 | [Christmas All Over Again](https://open.spotify.com/track/6zYDdWwGjEI6w8pRvQnkdn) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Christmas All Over Again](https://open.spotify.com/album/7B3eH4HDNsYRZh8wzx6XMJ) | 2:43 |
 | 33 | [Winter Wonderland](https://open.spotify.com/track/41NcmmSQEwpqxxUZ8vebwq) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Everybody Knows It's Christmas](https://open.spotify.com/album/6tLo95XYo6NLecEzFehsdG) | 2:43 |
-| 34 | [Christmas is a White Valentine's](https://open.spotify.com/track/3fF316hDGi6jcbQrHja8Xw) | [Freyr](https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y) | [Christmas is a White Valentine's](https://open.spotify.com/album/4bTB3vteNcKukSprLgImuv) | 2:01 |
+| 34 | [Christmas Is a White Valentine's](https://open.spotify.com/track/3fF316hDGi6jcbQrHja8Xw) | [Freyr](https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y) | [Christmas Is a White Valentine's](https://open.spotify.com/album/4bTB3vteNcKukSprLgImuv) | 2:01 |
 | 35 | [Amazing Grace \[Feat\. The Tabernacle Choir at Temple Square, Mack Wilberg\]](https://open.spotify.com/track/28jnXcjSRpWIOaM506zvGM) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre), [The Tabernacle Choir at Temple Square](https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5), [Mack Wilberg](https://open.spotify.com/artist/2Zpql3RdMQjunbDKk1bIiz) | [Amazing Grace](https://open.spotify.com/album/2Af93EMMgovYkVVl1xFFI9) | 4:27 |
 | 36 | [Last Christmas](https://open.spotify.com/track/0u74xi5AJEulKPccore7B2) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb), [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy), [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Last Christmas](https://open.spotify.com/album/5M5dF1R53sHPHUGuPMRz4R) | 2:48 |
 | 37 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/4vpZ39U9F1jyw2bAHv1HUY) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas with The Tenors](https://open.spotify.com/album/3KPvwbNGc4WL7IzvD0fP2V) | 2:31 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 42 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 |
 | 43 | [At Least I Have Santa](https://open.spotify.com/track/78InQyI314pCq9GVTrUBib) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [At Least I Have Santa](https://open.spotify.com/album/6cpaLiEmVaQrpPUPiAePDF) | 3:24 |
 
-Snapshot ID: `MCxkNDIzMzYzYzJhMThlZWE2MTQyNzNjNmM2MDJhNjA5ODgwZGNlN2E4`
+Snapshot ID: `MCwzYTM5NTcwNTA5YjZmN2FkNjVkOGE3YTAxYmIyMDYzZDNhZWU2NzRh`

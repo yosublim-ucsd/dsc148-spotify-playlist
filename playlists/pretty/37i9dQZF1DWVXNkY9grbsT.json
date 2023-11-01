@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 46754,
+  "num_followers": 46795,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWJkYWJkMjAxNWY0ZWRjN2RlMThkZjhkYWJhNDQ3ZDRlMmMzMTc4",
+  "snapshot_id": "MCw0ODI0NDNhYzI1YjhhZGI4Y2IyNjY5OTQ2MjMzZTUyOTQ5ZDM2NDA0",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Feorm Falorx",
-        "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 186624,
-      "name": "C.A.",
-      "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Reflections 06",
         "url": "https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 233853,
       "name": "The Prettiest Pearl",
       "url": "https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Feorm Falorx",
+        "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 186624,
+      "name": "C.A.",
+      "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -291,38 +291,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "HYbr:ID Ectopia Field 1",
-        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 245407,
-      "name": "HYbr:ID Ectopia Field 1",
-      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Night Journeys",
-        "url": "https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Night Journeys I",
-      "url": "https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Unknown Tokyo",
         "url": "https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh"
       },
@@ -343,18 +311,34 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Castle Song",
-        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
+        "name": "Night Journeys",
+        "url": "https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY"
       },
       "artists": [
         {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
         }
       ],
-      "duration_ms": 173311,
-      "name": "Castle Song",
-      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
+      "duration_ms": 186600,
+      "name": "Night Journeys I",
+      "url": "https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "HYbr:ID Ectopia Field 1",
+        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 245407,
+      "name": "HYbr:ID Ectopia Field 1",
+      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -375,6 +359,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Castle Song",
+        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "duration_ms": 173311,
+      "name": "Castle Song",
+      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Portico",
         "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
       },
@@ -387,22 +387,6 @@
       "duration_ms": 402333,
       "name": "Portico",
       "url": "https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "HYbr:ID II",
-        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 474155,
-      "name": "HYbr:ID Ectopia Elastic 2",
-      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -423,58 +407,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Movie Night Cancelled (Domenique Dumont Ambient Remix)",
-        "url": "https://open.spotify.com/album/3JfqvFhdAbRCXE9GQysRsl"
+        "name": "HYbr:ID II",
+        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
       },
       "artists": [
         {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
         }
       ],
-      "duration_ms": 299931,
-      "name": "Movie Night Cancelled - Domenique Dumont Ambient Remix",
-      "url": "https://open.spotify.com/track/6ZEBJELL4zzOSSAHCYGEV8"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "By the Air (Six Missing Rework)",
-        "url": "https://open.spotify.com/album/261LawGBTfFPu5oGT9TphF"
-      },
-      "artists": [
-        {
-          "name": "Wicked Expectation",
-          "url": "https://open.spotify.com/artist/2DNFg3KAsbnkj62zIc9lyQ"
-        },
-        {
-          "name": "Six Missing",
-          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
-        }
-      ],
-      "duration_ms": 210243,
-      "name": "By the Air - Six Missing Rework",
-      "url": "https://open.spotify.com/track/2OGLsbkQN7nv4iDFvN183f"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Mango Feedback",
-        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 260612,
-      "name": "Watersynth",
-      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
+      "duration_ms": 474155,
+      "name": "HYbr:ID Ectopia Elastic 2",
+      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -499,6 +443,62 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "By the Air (Six Missing Rework)",
+        "url": "https://open.spotify.com/album/261LawGBTfFPu5oGT9TphF"
+      },
+      "artists": [
+        {
+          "name": "Wicked Expectation",
+          "url": "https://open.spotify.com/artist/2DNFg3KAsbnkj62zIc9lyQ"
+        },
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        }
+      ],
+      "duration_ms": 210243,
+      "name": "By the Air - Six Missing Rework",
+      "url": "https://open.spotify.com/track/2OGLsbkQN7nv4iDFvN183f"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Movie Night Cancelled (Domenique Dumont Ambient Remix)",
+        "url": "https://open.spotify.com/album/3JfqvFhdAbRCXE9GQysRsl"
+      },
+      "artists": [
+        {
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 299931,
+      "name": "Movie Night Cancelled - Domenique Dumont Ambient Remix",
+      "url": "https://open.spotify.com/track/6ZEBJELL4zzOSSAHCYGEV8"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Mango Feedback",
+        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 260612,
+      "name": "Watersynth",
+      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Atlas der Gedanken",
         "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 322857,
       "name": "Tagtraum",
       "url": "https://open.spotify.com/track/2wY21rTqBmiqenCLLGDQG6"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Objekt",
-        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 302367,
-      "name": "Objekt",
-      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -555,6 +539,22 @@
       "duration_ms": 488706,
       "name": "Contain (In Key)",
       "url": "https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Objekt",
+        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 302367,
+      "name": "Objekt",
+      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Ten As One",
+        "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
+      },
+      "artists": [
+        {
+          "name": "Matthias Vogt",
+          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
+        },
+        {
+          "name": "Sato",
+          "url": "https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD"
+        }
+      ],
+      "duration_ms": 336251,
+      "name": "Carmel",
+      "url": "https://open.spotify.com/track/6p7rJm00kefcjiGuQuAV6w"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Windmills (Salamanda Remix)",
         "url": "https://open.spotify.com/album/22Qv4LBhjZHFCKcnL28wxF"
       },
@@ -707,6 +727,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Radio Mnemosyne",
+        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
+      },
+      "artists": [
+        {
+          "name": "Snufmumriko",
+          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "L\u00e5ngt under noll",
+      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Consumed In Key",
         "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
       },
@@ -727,42 +763,6 @@
       "duration_ms": 517000,
       "name": "Locomotion (In Key)",
       "url": "https://open.spotify.com/track/1mhLRTKbnyP85NSpdb84Mx"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Ten As One",
-        "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
-      },
-      "artists": [
-        {
-          "name": "Matthias Vogt",
-          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
-        },
-        {
-          "name": "Sato",
-          "url": "https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD"
-        }
-      ],
-      "duration_ms": 336251,
-      "name": "Carmel",
-      "url": "https://open.spotify.com/track/6p7rJm00kefcjiGuQuAV6w"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Radio Mnemosyne",
-        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
-      },
-      "artists": [
-        {
-          "name": "Snufmumriko",
-          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "L\u00e5ngt under noll",
-      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Dogtooth",
-        "url": "https://open.spotify.com/album/1VqyDNavZFGg51K7hgpQHf"
-      },
-      "artists": [
-        {
-          "name": "o k h o",
-          "url": "https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Dogtooth",
-      "url": "https://open.spotify.com/track/0uTTMTQdkZjmacsiSMQ71s"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Petrovo Uho Remixes Part I/III",
         "url": "https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 249672,
       "name": "Formanta",
       "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Dogtooth",
+        "url": "https://open.spotify.com/album/1VqyDNavZFGg51K7hgpQHf"
+      },
+      "artists": [
+        {
+          "name": "o k h o",
+          "url": "https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Dogtooth",
+      "url": "https://open.spotify.com/track/0uTTMTQdkZjmacsiSMQ71s"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 242142,
-      "name": "17\u00b0C",
-      "url": "https://open.spotify.com/track/5bWxtgC36JZDNgXckBfXGy"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Natural Wonder Beauty Concept",
         "url": "https://open.spotify.com/album/5laVAiCfglBYJqfqxyx8az"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 184240,
       "name": "Clear",
       "url": "https://open.spotify.com/track/63xYYVpQ8fMihQxAsv4Bn1"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 242142,
+      "name": "17\u00b0C",
+      "url": "https://open.spotify.com/track/5bWxtgC36JZDNgXckBfXGy"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Extemperate",
+        "url": "https://open.spotify.com/album/1CU6vcBYMcbV4NUIUpRGtn"
+      },
+      "artists": [
+        {
+          "name": "Matt Robertson",
+          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
+        }
+      ],
+      "duration_ms": 240636,
+      "name": "Boundary Effect",
+      "url": "https://open.spotify.com/track/6EXvFsFMtcobZApGF0SVdT"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "R Abacus Lndr",
         "url": "https://open.spotify.com/album/543Orm1f55ALN6N8QAgwkf"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 432439,
       "name": "Antikythera Rddl",
       "url": "https://open.spotify.com/track/2wyilqh7Q8GK0ws10oF1qk"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Extemperate",
-        "url": "https://open.spotify.com/album/1CU6vcBYMcbV4NUIUpRGtn"
-      },
-      "artists": [
-        {
-          "name": "Matt Robertson",
-          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
-        }
-      ],
-      "duration_ms": 240636,
-      "name": "Boundary Effect",
-      "url": "https://open.spotify.com/track/6EXvFsFMtcobZApGF0SVdT"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Field",
-        "url": "https://open.spotify.com/album/4i7oE95RXgkWoLofkEjVob"
-      },
-      "artists": [
-        {
-          "name": "Shuttle358",
-          "url": "https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n"
-        }
-      ],
-      "duration_ms": 203013,
-      "name": "caudex",
-      "url": "https://open.spotify.com/track/7427iNpKoYs4z8COyqeNZz"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Opal",
         "url": "https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 396049,
       "name": "Outline of a Distant Memory",
       "url": "https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Field",
+        "url": "https://open.spotify.com/album/4i7oE95RXgkWoLofkEjVob"
+      },
+      "artists": [
+        {
+          "name": "Shuttle358",
+          "url": "https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n"
+        }
+      ],
+      "duration_ms": 203013,
+      "name": "caudex",
+      "url": "https://open.spotify.com/track/7427iNpKoYs4z8COyqeNZz"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Failure",
-        "url": "https://open.spotify.com/album/51bIrOWGkHi450cs2HrWy0"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/2Ol2OMdYRXNkAteRTzbttB"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/3UBUuSTpia3mTXUN3V3dgl"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Arrow Map",
         "url": "https://open.spotify.com/album/0p289J7yWaIqWMsTg0CPe3"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 395000,
       "name": "Arrow Map",
       "url": "https://open.spotify.com/track/4uaAKISGtheqOFGab9j801"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/51bIrOWGkHi450cs2HrWy0"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/2Ol2OMdYRXNkAteRTzbttB"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3UBUuSTpia3mTXUN3V3dgl"
     },
     {
       "added_at": "2023-10-13 00:01:00",

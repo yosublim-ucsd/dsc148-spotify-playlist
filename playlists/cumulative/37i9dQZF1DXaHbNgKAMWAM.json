@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221081,
+      "name": "best song",
+      "url": "https://open.spotify.com/track/7p3pFIgcbsFCvX4SLtZkUS"
+    },
+    {
+      "album": {
         "name": "Extraordinary Attorney Woo (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts"
       },
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 226573,
       "name": "Dream Catcher",
       "url": "https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj"
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 224394,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
@@ -1398,7 +1416,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 184066,
       "name": "For You",
       "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,769 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,868 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 48 | [Calling](https://open.spotify.com/track/5NrecJDB0DefSkXKERjTFF) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Calling EP](https://open.spotify.com/album/0dDkU7N5EdbL9cernFdnKi) | 4:07 |
 | 49 | [Vivi](https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Vivi](https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy) | 3:56 |
 | 50 | [Need You By My Side](https://open.spotify.com/track/09xjDhkPAbr3OqP9zYjnM8) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Need You by My Side](https://open.spotify.com/album/1dQQsumH9Y0MO5xbq3Tr9s) | 3:20 |
-| 51 | [Freedom Call](https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Black 8](https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju) | [Freedom Call](https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo) | 3:59 |
-| 52 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
+| 51 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
+| 52 | [Freedom Call](https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Black 8](https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju) | [Freedom Call](https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo) | 3:59 |
 | 53 | [Hiding](https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Hiding](https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH) | 7:11 |
 | 54 | [Colibrí](https://open.spotify.com/track/16jegZgDZS5mkhp6KCKrCd) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Colibrí](https://open.spotify.com/album/3E0HK3VIW7CkG90bFNEoqo) | 3:34 |
 | 55 | [Unite](https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H) | [Yeadon](https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn) | [Unite](https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd) | 3:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Hope In Balance](https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq), [Sebastian Reynoso](https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX) | [Hope In Balance](https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO) | 4:38 |
 | 60 | [The Old You](https://open.spotify.com/track/1mCh3IVhrn2PuNGkV9mYo6) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Jackarta](https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d) | [The Old You](https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh) | 3:15 |
 
-Snapshot ID: `MCxlYThiYmYyMzY1YjE4NGI2MzUwMzkzN2JlZDkyYjYwYTRjYTBkYTEy`
+Snapshot ID: `MCw1MDFiNGY3MzE4NTg3MDNiZDNhNjc2NTE3Mzk3ZWQwYTUxYmJkNmRl`

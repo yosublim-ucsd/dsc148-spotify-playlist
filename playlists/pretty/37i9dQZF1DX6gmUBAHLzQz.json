@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Aikatsu!\", a story of young girls dreaming of becoming a top idol. \u30c8\u30c3\u30d7\u30a2\u30a4\u30c9\u30eb\u3092\u76ee\u6307\u3059\u5c11\u5973\u9054\u306e\u7269\u8a9e\u3001<a href=\"http://www.aikatsu.net/01/\">\u30a2\u30a4\u30ab\u30c4\uff01</a>\u306e\u714c\u3081\u304f\u4e16\u754c\u3078\u3002(C)BNP/BANDAI, DENTSU, TV TOKYO",
-  "num_followers": 27997,
+  "num_followers": 28008,
   "original_name": "Let's Aikatsu! -\u30a2\u30a4\u30ab\u30c4-\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzEwZjhiMmY5ZDJlZjQ3ZDcwNDQ4NGI5NGM0OGI0MTY0YmNlMTUx",
+  "snapshot_id": "MCxlYTJmM2JlZTYzYjYzMGYyYjczN2MxMDBkZjU5YzUwYWM4M2Y2MWM2",
   "tracks": [
     {
       "added_at": "2022-07-26 16:16:56",
@@ -340,13 +340,13 @@
       },
       "artists": [
         {
-          "name": "\u308a\u3059\u3053 from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/1GNfpNmyWP4gv22gYeUVrc"
+          "name": "\u3082\u3048\u30fb\u3059\u306a\u304a from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/2404HKaozvQG02hkzZ8iFz"
         }
       ],
-      "duration_ms": 389093,
-      "name": "Moonlight destiny",
-      "url": "https://open.spotify.com/track/1W24U7V23R3EIO1THxED2E"
+      "duration_ms": 386026,
+      "name": "\u785d\u5b50\u30c9\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6rwa5QTCeA2eR7GFYFxDM7"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -356,13 +356,13 @@
       },
       "artists": [
         {
-          "name": "\u3082\u3048\u30fb\u3059\u306a\u304a from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/2404HKaozvQG02hkzZ8iFz"
+          "name": "\u308a\u3059\u3053 from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/1GNfpNmyWP4gv22gYeUVrc"
         }
       ],
-      "duration_ms": 386026,
-      "name": "\u785d\u5b50\u30c9\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/6rwa5QTCeA2eR7GFYFxDM7"
+      "duration_ms": 389093,
+      "name": "Moonlight destiny",
+      "url": "https://open.spotify.com/track/1W24U7V23R3EIO1THxED2E"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
-        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
-      },
-      "artists": [
-        {
-          "name": "\u3082\u306a\u30fb\u308b\u304b\u30fb\u307f\u304d from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/6JVhciihf3K1vdE48ym5Vk"
-        }
-      ],
-      "duration_ms": 283720,
-      "name": "\u30c1\u30e5\u30c1\u30e5\u30fb\u30d0\u30ec\u30ea\u30fc\u30ca",
-      "url": "https://open.spotify.com/track/3G3z3lpTbmN62PSQ3K3zfA"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
         "name": "\u30a2\u30a4\u30ab\u30c4\uff01\u30b7\u30ea\u30fc\u30ba 10th Anniversary Album Vol.01\u300cRing Ring Carnival\u300d",
         "url": "https://open.spotify.com/album/1QvMF8zo4vYf1eidom6ttu"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 215709,
       "name": "Shiny day",
       "url": "https://open.spotify.com/track/5p4SyNJHFOkY7zTjUNtOqi"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
+        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
+      },
+      "artists": [
+        {
+          "name": "\u3082\u306a\u30fb\u308b\u304b\u30fb\u307f\u304d from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/6JVhciihf3K1vdE48ym5Vk"
+        }
+      ],
+      "duration_ms": 283720,
+      "name": "\u30c1\u30e5\u30c1\u30e5\u30fb\u30d0\u30ec\u30ea\u30fc\u30ca",
+      "url": "https://open.spotify.com/track/3G3z3lpTbmN62PSQ3K3zfA"
     },
     {
       "added_at": "2022-07-26 16:16:56",

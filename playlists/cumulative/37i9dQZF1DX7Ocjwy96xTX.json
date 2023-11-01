@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-04",
-  "description": "dark & dreamy for night creatures",
+  "description": "New music from Wisp, plus 10 songs she's loving right now. ",
   "name": "IRL ANGEL ",
   "tracks": [
     {
@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Muta / Blue Sugar",
+        "url": "https://open.spotify.com/album/7sxcNLaLkNtfDolRxsPG8m"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288682,
+      "name": "Blue Sugar",
+      "url": "https://open.spotify.com/track/0wZj8uoPCbK96GIcuMtiGu"
+    },
+    {
+      "album": {
         "name": "brainrot",
         "url": "https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj"
       },
@@ -594,6 +612,24 @@
       "duration_ms": 132111,
       "name": "brainrot",
       "url": "https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L"
+    },
+    {
+      "album": {
+        "name": "By Your Side / Destroy You",
+        "url": "https://open.spotify.com/album/1eMgkeDfHK9QvIk0NYuKcv"
+      },
+      "artists": [
+        {
+          "name": "Flatsound",
+          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199125,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/0Vwc4ONQtM3dEVcCMnLDHc"
     },
     {
       "album": {
@@ -1199,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "Breaker Boy",
+        "url": "https://open.spotify.com/album/4do7zPLmn5NefiFf08KjWi"
+      },
+      "artists": [
+        {
+          "name": "White Lighters",
+          "url": "https://open.spotify.com/artist/0kv3JYkOy6mSRXIOeKvyYs"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179966,
+      "name": "Extinct Californians",
+      "url": "https://open.spotify.com/track/66HpVpcaHGSrujIH9DGObN"
+    },
+    {
+      "album": {
         "name": "f my haterz anthem",
         "url": "https://open.spotify.com/album/0s3ocpYpZlUtQmfnL6t1u2"
       },
@@ -1315,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "Within The Depths Of A Darkened Forest",
+        "url": "https://open.spotify.com/album/5Gk1Trdz04ixib0LV4LIdy"
+      },
+      "artists": [
+        {
+          "name": "Autumn's Grey Solace",
+          "url": "https://open.spotify.com/artist/0f00mZvxmxeuhmxEot8LlP"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283746,
+      "name": "Forgotten, Fossilized, Archaic",
+      "url": "https://open.spotify.com/track/61YVCATCLSWCAh7xDNN7Kw"
+    },
+    {
+      "album": {
         "name": "gave you my all",
         "url": "https://open.spotify.com/album/6f2HSagGc0cJvZAZZraJqp"
       },
@@ -1348,6 +1420,24 @@
       "duration_ms": 231805,
       "name": "get high, breathe underwater (#3)",
       "url": "https://open.spotify.com/track/7wmtiUjDliyuM6dA2OSAnZ"
+    },
+    {
+      "album": {
+        "name": "Distressor",
+        "url": "https://open.spotify.com/album/4Mk9GyIiXwZg9KZN1UvTA2"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252375,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4yiCdDyDuTCDpvy3ppYIP1"
     },
     {
       "album": {
@@ -1554,6 +1644,24 @@
       "duration_ms": 165671,
       "name": "haunt me (x 3)",
       "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
+    },
+    {
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/6Unw8A3kdy8ZPj6MmlbA7E"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265173,
+      "name": "Heart of Chambers",
+      "url": "https://open.spotify.com/track/2ldmzcLJvYv4WHPrzGbBgq"
     },
     {
       "album": {
@@ -2527,6 +2635,24 @@
     },
     {
       "album": {
+        "name": "Hyperview",
+        "url": "https://open.spotify.com/album/1xRsnyytuSTf1rIxWV8m2r"
+      },
+      "artists": [
+        {
+          "name": "Title Fight",
+          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156720,
+      "name": "Murder Your Memory",
+      "url": "https://open.spotify.com/track/5imSIRUGtX4aeRRA81UakE"
+    },
+    {
+      "album": {
         "name": "My Time As a Ghostly Someone Else",
         "url": "https://open.spotify.com/album/2XRwNGOkqLRrUYnC9AdDDO"
       },
@@ -2758,6 +2884,24 @@
       "duration_ms": 208456,
       "name": "On The Sly",
       "url": "https://open.spotify.com/track/7e9Gf8to4zVzk20qvlkipN"
+    },
+    {
+      "album": {
+        "name": "Once then we'll be free",
+        "url": "https://open.spotify.com/album/4vIM3lUezeQRsuevPU1h4N"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "Once then we'll be free",
+      "url": "https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ"
     },
     {
       "album": {
@@ -3180,6 +3324,24 @@
       "duration_ms": 178937,
       "name": "Rose In A Glass",
       "url": "https://open.spotify.com/track/0oACcecqRIuP0vi2wvBq5o"
+    },
+    {
+      "album": {
+        "name": "California Nebula",
+        "url": "https://open.spotify.com/album/4GrpuTC5tCnxVmgfu9ZISQ"
+      },
+      "artists": [
+        {
+          "name": "\u7f3a\u7701",
+          "url": "https://open.spotify.com/artist/32g75UA59s48aBhDpSEtdO"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447106,
+      "name": "Schwarzschild Drainhole",
+      "url": "https://open.spotify.com/track/4UApIN6oyiQoGbl1j7TGmN"
     },
     {
       "album": {
@@ -3685,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "Black Moon",
+        "url": "https://open.spotify.com/album/13wXdYJA77QJCbsSZeRpEm"
+      },
+      "artists": [
+        {
+          "name": "Valium Aggelein",
+          "url": "https://open.spotify.com/artist/6SDzqJ9bJXWCYlgBl6zXWw"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357253,
+      "name": "The Clouds Will Drop Ladders",
+      "url": "https://open.spotify.com/track/6Ky0MGU5rsXTUCXf7wrLcW"
+    },
+    {
+      "album": {
         "name": "Tonight (demo)",
         "url": "https://open.spotify.com/album/2CY6wMGNGCESBIRaaIDF1Y"
       },
@@ -3736,6 +3916,24 @@
       "duration_ms": 200060,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/6KYsdBZ0077Vf37ZL1ozrT"
+    },
+    {
+      "album": {
+        "name": "Feels Like You",
+        "url": "https://open.spotify.com/album/1fyZK4ivI8xZCOdOuOgPa7"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279451,
+      "name": "Under the Same Name",
+      "url": "https://open.spotify.com/track/4HvvHSzR1fAS653pHO5XTu"
     },
     {
       "album": {

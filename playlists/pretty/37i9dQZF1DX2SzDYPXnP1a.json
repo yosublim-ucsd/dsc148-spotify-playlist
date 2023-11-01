@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 43202,
+  "num_followers": 43309,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzBlMjczMjE0YjE5YjBlMTdkZjJhMTNhZWY3YzMxNjM0ZWJhY2Vm",
+  "snapshot_id": "MCw1MDg1YjBlNzYwOTc5YjNhMDFjYWIwMDFmNzc5YjljZjAyNDAxOWI4",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -475,22 +475,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Heartland",
-        "url": "https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL"
+        "name": "They Don't Know",
+        "url": "https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        },
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 176983,
-      "name": "Country Boy Do (feat. Tyler Hubbard)",
-      "url": "https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF"
+      "duration_ms": 194506,
+      "name": "Lights Come On",
+      "url": "https://open.spotify.com/track/4llYMkhHa1w7UAdDFRQcEZ"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -527,18 +523,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "They Don't Know",
-        "url": "https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6"
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 194506,
-      "name": "Lights Come On",
-      "url": "https://open.spotify.com/track/4llYMkhHa1w7UAdDFRQcEZ"
+      "duration_ms": 176983,
+      "name": "Country Boy Do (feat. Tyler Hubbard)",
+      "url": "https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF"
     },
     {
       "added_at": "2023-06-30 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 272257,
+  "num_followers": 272361,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjAxYzcwNjUwMWZiYTQzNWRmOGI2NmI5ZTAyNjg0MGZiMzY3YTM2",
+  "snapshot_id": "MCw0NTQ2OTBjNTg3MWVmZTlkMDc3ZjI3ODhmNWEyNDc5YjQ4ZDAzNzEx",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Green, Green Grass Of Home",
-        "url": "https://open.spotify.com/album/15QRC2FhT659a5YJIS0Nff"
-      },
-      "artists": [
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Green Green Grass Of Home",
-      "url": "https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "How Sweet It Is To Be Loved By You",
         "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 177773,
       "name": "How Sweet It Is (To Be Loved By You)",
       "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Green, Green Grass Of Home",
+        "url": "https://open.spotify.com/album/15QRC2FhT659a5YJIS0Nff"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Green Green Grass Of Home",
+      "url": "https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "I'll Never Fall in Love Again",
-        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "I'll Never Fall in Love Again",
-      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "I Left My Heart In San Francisco",
         "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 170960,
       "name": "(I Left My Heart) In San Francisco",
       "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "I'll Never Fall in Love Again",
+        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "I'll Never Fall in Love Again",
+      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Chronology",
+        "url": "https://open.spotify.com/album/5LUcaJu2OGKCCABM4kgSMj"
+      },
+      "artists": [
+        {
+          "name": "Brian Hyland",
+          "url": "https://open.spotify.com/artist/6YROFUbu5zRCHi2xkir5pk"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Sealed With A Kiss",
+      "url": "https://open.spotify.com/track/6oM4ryXpuZmbFfBv2sEe7v"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Chronology",
-        "url": "https://open.spotify.com/album/5LUcaJu2OGKCCABM4kgSMj"
-      },
-      "artists": [
-        {
-          "name": "Brian Hyland",
-          "url": "https://open.spotify.com/artist/6YROFUbu5zRCHi2xkir5pk"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Sealed With A Kiss",
-      "url": "https://open.spotify.com/track/6oM4ryXpuZmbFfBv2sEe7v"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
         "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Platinum - A Life In Music",
-        "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Are You Lonesome Tonight?",
-      "url": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "I'll Cry If I Want To",
         "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 138000,
       "name": "Misty",
       "url": "https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Platinum - A Life In Music",
+        "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Are You Lonesome Tonight?",
+      "url": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Golden Hits of The Everly Brothers",
-        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 120306,
-      "name": "Crying in the Rain",
-      "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 198600,
       "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra",
       "url": "https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Golden Hits of The Everly Brothers",
+        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 120306,
+      "name": "Crying in the Rain",
+      "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
     },
     {
       "added_at": "2022-05-30 13:00:37",

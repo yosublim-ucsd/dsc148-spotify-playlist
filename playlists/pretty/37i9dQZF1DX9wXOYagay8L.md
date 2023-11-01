@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg?si=Nqo9ZKGfR\_2v9iKZZ\_eypQ">Phila Dlozi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,134 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,307 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

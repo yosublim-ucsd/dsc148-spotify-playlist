@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,616 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,636 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 13 | [El Hijo del Altiplano](https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym) | [La Danza](https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL) | 5:45 |
 | 14 | [A la Mañanita](https://open.spotify.com/track/5zNvRx6WBrZu2aYm6oY2Yc) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Gozar Hasta Que Me Ausente](https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP) | 4:37 |
 | 15 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 |
-| 16 | [Toca](https://open.spotify.com/track/07VELk4yHZ0MpGndajSrMX) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx) | 3:30 |
-| 17 | [Los Andes](https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Los Andes](https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j) | 2:35 |
+| 16 | [Los Andes](https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Los Andes](https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j) | 2:35 |
+| 17 | [Toca](https://open.spotify.com/track/07VELk4yHZ0MpGndajSrMX) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx) | 3:30 |
 | 18 | [Atahualpa](https://open.spotify.com/track/19d9NJpNn4ZGYxcqzCrM7K) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym) | [La Danza](https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL) | 4:05 |
 | 19 | [Soy la lluvia](https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Vicky Ripa](https://open.spotify.com/artist/6p4NHYSocHSiSm3FFz6uJr) | [Soy la lluvia](https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB) | 5:27 |
 | 20 | [Caracol](https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ) | 4:08 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 53 | [Rio Contento](https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Circular Tejido](https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN) | 4:55 |
 | 54 | [Te digo Wayno](https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A) | [King Coya](https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy) | [Tierra de King Coya](https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j) | 4:36 |
 | 55 | [Lupuna](https://open.spotify.com/track/5LTk1XzBCaTz20Ofd60KTC) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Claudio Reche](https://open.spotify.com/artist/6kfpY9G6unVKEBsr8CdqQJ) | [Lupuna](https://open.spotify.com/album/19nZKevjR88xBmIl8qXv0F) | 7:13 |
-| 56 | [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 |
-| 57 | [Madre de la Sierra](https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2) | [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG) | [Madre de la Sierra](https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk) | 4:35 |
+| 56 | [Madre de la Sierra](https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2) | [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG) | [Madre de la Sierra](https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk) | 4:35 |
+| 57 | [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 |
 | 58 | [Serenata Plateada](https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [New Latam Beats From Argentina \(Disco A\)](https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86) | 5:25 |
 | 59 | [Cuando](https://open.spotify.com/track/1b9TpQFJK0WA6V0Aap0kZT) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [SUELTA](https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP) | 5:32 |
 | 60 | [CUMBIA ORIENTAL](https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [La Montaña Sin Nombre II](https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs) | 6:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 79 | [Antikuna Anqa](https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO) | [Nintu](https://open.spotify.com/artist/6fhBqhLVgzSRQAvGxm4yt5), [Mauricio Arratia](https://open.spotify.com/artist/42h2ekeqZDzgo6IcfiPpai), [Pao Pamaki](https://open.spotify.com/artist/6vqF9GI9o8la8YpvWQaWbz) | [Antikuna Anqa](https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD) | 7:36 |
 | 80 | [La Fuerza](https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j) | [Ensamble Folklórico Digital](https://open.spotify.com/artist/42AgikIswL8YgTNkWoqIiI), [Villa Diamante](https://open.spotify.com/artist/3teTanCAHVFtUilgdGrfaD), [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I), [Bienvenidos a la Computadora](https://open.spotify.com/artist/1viypXNNWz9XslwCH1Hzz4), [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Cehache Respira](https://open.spotify.com/artist/7oKFnoNXS5mgfZ8ERqF23l) | [La Fuerza](https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R) | 4:27 |
 
-Snapshot ID: `MCwzOTNjN2FjYzc5N2Q4NzljNmVlOGE2Mjk4MGU2ODhjY2JlZjYyYjZm`
+Snapshot ID: `MCwxOTJhMDAwMTE1M2E0ZjUxMTNhYjlhNWZhYWM0YmY4ZDk3Y2QzMWEz`

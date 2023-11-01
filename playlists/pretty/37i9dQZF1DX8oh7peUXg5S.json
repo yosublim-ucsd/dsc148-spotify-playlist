@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Pedro Guerra y Bunbury.",
-  "num_followers": 315129,
+  "num_followers": 315310,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Sea",
-        "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Me haces bien",
-      "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Desde Que No Nos Vemos",
         "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
       },
@@ -687,22 +671,6 @@
       "duration_ms": 264840,
       "name": "Cr\u00edmenes perfectos",
       "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Esta Boca Es Mia",
-        "url": "https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Por el Bulevar de los Sue\u00f1os Rotos",
-      "url": "https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -739,6 +707,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "Sea",
+        "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Me haces bien",
+      "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "Cosas Mias",
         "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 242000,
       "name": "Siete Vidas",
       "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Esta Boca Es Mia",
+        "url": "https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Por el Bulevar de los Sue\u00f1os Rotos",
+      "url": "https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 264197,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Esc\u00fachame",
         "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 152906,
       "name": "Yo no soy esa",
       "url": "https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 264197,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Lunas Rotas: De casa a las ventas (Standard version)",
-        "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Si t\u00fa no estas",
-      "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Romancero",
         "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 184480,
       "name": "De Momento Abril",
       "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Lunas Rotas: De casa a las ventas (Standard version)",
+        "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Si t\u00fa no estas",
+      "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1055,38 +1055,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "No soy de aqu\u00ed",
-        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "No soy de aqu\u00ed",
-      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Luna nueva",
-        "url": "https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 239653,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/6bXhCHurSM6988FKos7DLY"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Inevitable",
         "url": "https://open.spotify.com/album/29V69M5YTfCEtTAxZGqEH3"
       },
@@ -1099,6 +1067,22 @@
       "duration_ms": 179754,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/7HiM1RdkxnqWIoHe7lgq27"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "No soy de aqu\u00ed",
+      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "Luna nueva",
+        "url": "https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 239653,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/6bXhCHurSM6988FKos7DLY"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "Auterretratos",
         "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 157466,
       "name": "Las Cuatro y Diez",
       "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "26 Grandes Canciones Y Una Nube Blanca",
-        "url": "https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7"
-      },
-      "artists": [
-        {
-          "name": "Ana Bel\u00e9n",
-          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
-        }
-      ],
-      "duration_ms": 317733,
-      "name": "El Hombre del Piano",
-      "url": "https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "26 Grandes Canciones Y Una Nube Blanca",
+        "url": "https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7"
+      },
+      "artists": [
+        {
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+        }
+      ],
+      "duration_ms": 317733,
+      "name": "El Hombre del Piano",
+      "url": "https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Cuerpo a Cuerpo (Remasterizado)",
-        "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Sin Tu Latido - Remasterizado",
-      "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Un Ramito De Violetas",
         "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
@@ -1275,22 +1259,18 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
-        "url": "https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn"
+        "name": "Cuerpo a Cuerpo (Remasterizado)",
+        "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Pablo L\u00f3pez",
-          "url": "https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ"
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
         }
       ],
-      "duration_ms": 390861,
-      "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
-      "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
+      "duration_ms": 302000,
+      "name": "Sin Tu Latido - Remasterizado",
+      "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1335,6 +1315,26 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
+        "url": "https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Pablo L\u00f3pez",
+          "url": "https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ"
+        }
+      ],
+      "duration_ms": 390861,
+      "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
+      "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Manifiesto",
-        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
-      },
-      "artists": [
-        {
-          "name": "Victor Jara",
-          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Manifiesto",
-      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 442680,
       "name": "Ahora Que Te Encuentro",
       "url": "https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Manifiesto",
+        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
+      },
+      "artists": [
+        {
+          "name": "Victor Jara",
+          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Manifiesto",
+      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "Algo contigo",
+        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 231706,
       "name": "Que yo no lo sab\u00eda (feat. Antonio Vega)",
       "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Algo contigo",
-        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1687,6 +1687,22 @@
       "duration_ms": 285341,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "La Vida Plena",
+        "url": "https://open.spotify.com/album/0ji205YLsJO7V4tJVl0lEk"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Verde Selva",
+      "url": "https://open.spotify.com/track/5xUdjeu6jLea7OniZP7d8e"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1795,22 +1811,6 @@
       "duration_ms": 198106,
       "name": "Dama Dama (Album Version)",
       "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "La Vida Plena",
-        "url": "https://open.spotify.com/album/0ji205YLsJO7V4tJVl0lEk"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Verde Selva",
-      "url": "https://open.spotify.com/track/5xUdjeu6jLea7OniZP7d8e"
     }
   ],
   "unique_name": "Cantautores",

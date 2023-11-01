@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=rllz7OZPSViyw9qteCdG-g\"> Mr Eazi </a>  ",
-  "num_followers": 526671,
+  "num_followers": 526893,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzFmYzMxZDcxOTVmYzlhYjM0YTVhMzE0NjZiOGZmNjdmMmE2ZGY3",
+  "snapshot_id": "MCxhMTVlNzk2MjM1MDQyM2JlZjQ3MjQwYmE0NDcyNjE0NzdkOTBmN2Uz",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -667,46 +667,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "One Side (Remix)",
-        "url": "https://open.spotify.com/album/5fDSeMU8zMued647WjTnyj"
-      },
-      "artists": [
-        {
-          "name": "Iyanya",
-          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 198877,
-      "name": "One Side - Remix",
-      "url": "https://open.spotify.com/track/1ipr0yVUgIworATMZrTAhG"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Routine Lover",
         "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
       },
@@ -727,6 +687,46 @@
       "duration_ms": 168510,
       "name": "Routine Lover",
       "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "One Side (Remix)",
+        "url": "https://open.spotify.com/album/5fDSeMU8zMued647WjTnyj"
+      },
+      "artists": [
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 198877,
+      "name": "One Side - Remix",
+      "url": "https://open.spotify.com/track/1ipr0yVUgIworATMZrTAhG"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Likor (feat. Stonebwoy)",
-        "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Likor (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Trumpet",
         "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
       },
@@ -807,6 +787,26 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Likor (feat. Stonebwoy)",
+        "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Likor (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Sad Romance (Deluxe)",
         "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
       },
@@ -819,38 +819,6 @@
       "duration_ms": 184942,
       "name": "nwayi",
       "url": "https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Shu-Peru",
-        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 139377,
-      "name": "Shu-Peru",
-      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Ogaranya",
-        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 168610,
-      "name": "Ogaranya",
-      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -875,6 +843,38 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Ogaranya",
+        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 168610,
+      "name": "Ogaranya",
+      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Shu-Peru",
+        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 139377,
+      "name": "Shu-Peru",
+      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Lanke",
         "url": "https://open.spotify.com/album/6Di2j6dmIeMGuJDAd2m4ix"
       },
@@ -887,26 +887,6 @@
       "duration_ms": 152913,
       "name": "Lanke",
       "url": "https://open.spotify.com/track/3mYXLXiDW6iRIht6dfusIy"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Nobody (feat. Fireboy DML)",
-        "url": "https://open.spotify.com/album/2QhVHAu7Jw3HLZNuEaoEgM"
-      },
-      "artists": [
-        {
-          "name": "Nissi",
-          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 183267,
-      "name": "Nobody (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/7rsF6JHMItNOu6qwupYA2a"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -931,6 +911,26 @@
       "duration_ms": 179454,
       "name": "Feel Different",
       "url": "https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Nobody (feat. Fireboy DML)",
+        "url": "https://open.spotify.com/album/2QhVHAu7Jw3HLZNuEaoEgM"
+      },
+      "artists": [
+        {
+          "name": "Nissi",
+          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 183267,
+      "name": "Nobody (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/7rsF6JHMItNOu6qwupYA2a"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Love.. For Free",
+        "url": "https://open.spotify.com/album/67d06FDN55b7vN6vaqKpiE"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Lose Control (feat. Blxckie)",
+      "url": "https://open.spotify.com/track/57NBD4H4CIFw5sdOuci0UB"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Single Again (feat. Ruger) [Remix]",
         "url": "https://open.spotify.com/album/0xsygiGSVxNtNnz06K173w"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 178579,
       "name": "MOTO",
       "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Love.. For Free",
-        "url": "https://open.spotify.com/album/67d06FDN55b7vN6vaqKpiE"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Lose Control (feat. Blxckie)",
-      "url": "https://open.spotify.com/track/57NBD4H4CIFw5sdOuci0UB"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Anger Management",
-        "url": "https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4"
+        "name": "Clueless (with Oxlade)",
+        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
       },
       "artists": [
         {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 180884,
-      "name": "Mad Apology",
-      "url": "https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0"
+      "duration_ms": 164705,
+      "name": "Clueless (with Oxlade)",
+      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1243,6 +1247,22 @@
       "duration_ms": 141818,
       "name": "King of Pop",
       "url": "https://open.spotify.com/track/6IvgXou1CDNFO1cuILIqsf"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 180884,
+      "name": "Mad Apology",
+      "url": "https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1271,26 +1291,6 @@
       "duration_ms": 240000,
       "name": "Unfortunately",
       "url": "https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Clueless (with Oxlade)",
-        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Clueless (with Oxlade)",
-      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
     }
   ],
   "unique_name": "Afropop",

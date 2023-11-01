@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,789 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,052 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 | 19 | [DREAMIN' ON](https://open.spotify.com/track/1rxh0iojvTB24C6BpOdfC1) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 3:55 |
 | 20 | [memories](https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [Stories](https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00) | 4:26 |
 | 21 | [RUN! RUN! RUN!](https://open.spotify.com/track/0T4JQ3TIptM9GEotNGlMxg) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [情熱の2000'sベストヒッツ35曲！〜Epic35〜](https://open.spotify.com/album/4UfSDQKcZuql45DhlBFgNY) | 3:59 |
-| 22 | [私がいるよ](https://open.spotify.com/track/4kOg6GJfo1M4UntuWNcD7i) | [TOMATO CUBE](https://open.spotify.com/artist/23OQe0T0ugZZBMT33jHx03) | [TOMATO CUBE](https://open.spotify.com/album/3Mp9iOLNx6Ikd7V2bVuuj6) | 3:58 |
+| 22 | [私がいるよ](https://open.spotify.com/track/4kOg6GJfo1M4UntuWNcD7i) | [TOMATO CUBE](https://open.spotify.com/artist/23OQe0T0ugZZBMT33jHx03) | [ＴＯＭＡＴＯ ＣＵＢＥ](https://open.spotify.com/album/3Mp9iOLNx6Ikd7V2bVuuj6) | 3:58 |
 | 23 | [しょうちのすけ](https://open.spotify.com/track/6G8uYcvbeQUcZFRotTUJEx) | [Suiteisho\-jo](https://open.spotify.com/artist/3hwWcZNHs2MXyC1e8JjAnY) | [16 \-sixteen\-](https://open.spotify.com/album/2IIdJPW3oosPTi6FoA1GXp) | 3:54 |
 | 24 | [BEFORE DAWN](https://open.spotify.com/track/5VO43mOKxgeGJHJXbGb5OI) | [AI\-SACHI](https://open.spotify.com/artist/0NB3FoktZLjieA6PLykBK9) | [BEFORE DAWN](https://open.spotify.com/album/3q4uXJaP2O87vnJ3lCeYSy) | 3:17 |
 | 25 | [GLORY\-君がいるから\-](https://open.spotify.com/track/2qn0HC2YhRAP1jRFl10rss) | [上原多香子](https://open.spotify.com/artist/0BKGjW5PfSW1QpwMimgrtj) | [pupa](https://open.spotify.com/album/71ImG9D6a9ylkSjPRa09GZ) | 4:56 |

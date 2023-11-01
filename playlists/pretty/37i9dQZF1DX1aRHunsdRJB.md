@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,121 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,125 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 39 | [Yuh Bad \(No Stressing\)](https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [Yuh Bad \(No Stressing\)](https://open.spotify.com/album/64lvuxlqXjzWZ3cGUe4i8V) | 3:14 |
 | 40 | [Like Dat](https://open.spotify.com/track/4jawyoaIAYoHq2gKnWQv5o) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Arch & Bend Riddim Reloaded](https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy) | 2:16 |
 | 41 | [Private Zess](https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN) | [K Lion](https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi), [LR](https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l) | [Private Zess](https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6) | 2:48 |
-| 42 | [Wrong Again](https://open.spotify.com/track/3TVWXE8hUeSzoAC3xCrErX) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Wrong Again](https://open.spotify.com/album/45cwc8M8DQrrAcfjTDog4b) | 2:46 |
+| 42 | [Play Harder](https://open.spotify.com/track/6Cn3zyojCFk7QsVoQrU0xe) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Wedding Album](https://open.spotify.com/album/2K8mWL2Bph4tETpm54zOUQ) | 3:39 |
 | 43 | [Captain](https://open.spotify.com/track/2uoIP6BmQxHIXWT2CFAUFO) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Saga Boy](https://open.spotify.com/album/1ijwvFIx4XKoJP5EXsTxXM) | 3:50 |
-| 44 | [Play Harder](https://open.spotify.com/track/6Cn3zyojCFk7QsVoQrU0xe) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Wedding Album](https://open.spotify.com/album/2K8mWL2Bph4tETpm54zOUQ) | 3:39 |
+| 44 | [Wrong Again](https://open.spotify.com/track/3TVWXE8hUeSzoAC3xCrErX) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Wrong Again](https://open.spotify.com/album/45cwc8M8DQrrAcfjTDog4b) | 2:46 |
 | 45 | [Conch Shell](https://open.spotify.com/track/6NVR4oBAlPuuvpsYSZcyJF) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Conch Shell](https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ) | 3:12 |
 | 46 | [Shots \(One for Di Road\)](https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:17 |
 | 47 | [Go Hard](https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Lifestyle Riddim](https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb) | 2:44 |
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 59 | [Rough Wine](https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol\. 9](https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih) | 3:23 |
 | 60 | [Wine](https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Toco Loco Riddim](https://open.spotify.com/album/2ob3YAOPzGhkHbj9JjIq7R) | 3:04 |
 | 61 | [Wuk](https://open.spotify.com/track/5e9KCW4doT8xvliiDO8urK) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Sir Fingaz](https://open.spotify.com/artist/64LrJCEMV2Ft7yP6YvD7GU), [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Jollof Rice Riddim](https://open.spotify.com/album/4twnYdvTuLBX29k0AImPAB) | 3:01 |
-| 62 | [Stink Behavior](https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8) | 3:31 |
-| 63 | [Honda](https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF) | [Twani](https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh) | [Honda](https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1) | 3:33 |
+| 62 | [Honda](https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF) | [Twani](https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh) | [Honda](https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1) | 3:33 |
+| 63 | [Stink Behavior](https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8) | 3:31 |
 | 64 | [Bus a Wine](https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Bus a Wine](https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH) | 3:03 |
 | 65 | [Down in de Meat](https://open.spotify.com/track/32j9nOIzJrWPtgtzqrzVNp) | [Lednek](https://open.spotify.com/artist/4Ft1CU17NiK3HFEDMGxLCK) | [Smoke Mask Riddim](https://open.spotify.com/album/3NLzUwBAZqGkgzf0qnlic1) | 3:22 |
 | 66 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
 | 67 | [Braff](https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Braff](https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E) | 3:08 |
 | 68 | [Toat No Feelings](https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 1:56 |
 
-Snapshot ID: `MCw3MTEzYjIwZGI5MmUxMTgwOWRmOWIyYzM1YzM0ZTA0YmI5OGI4NDEw`
+Snapshot ID: `MCwwMmJmNzRlZmE0Njk0NzQzYmY0YTQ4Yzk5OTA4YmM1MzQ2Y2IwZjkx`

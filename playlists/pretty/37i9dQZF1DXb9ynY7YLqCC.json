@@ -1,6 +1,6 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 153547,
+  "num_followers": 153774,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "9 de Julio",
-      "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Verde Paisaje del Infierno",
         "url": "https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 256386,
       "name": "Ruleta",
       "url": "https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "9 de Julio",
+      "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Presi\u00f3n",
-        "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 277560,
-      "name": "Una Nueva Noche Fr\u00eda",
-      "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Momo Sampler",
         "url": "https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 202360,
       "name": "Chino",
       "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Presi\u00f3n",
+        "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 277560,
+      "name": "Una Nueva Noche Fr\u00eda",
+      "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Libertinaje",
-        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
         }
       ],
-      "duration_ms": 259813,
-      "name": "Sr. Cobranza",
-      "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
+      "duration_ms": 281533,
+      "name": "Va A Escampar",
+      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Libertinaje",
+        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 259813,
+      "name": "Sr. Cobranza",
+      "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
         "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
@@ -423,38 +439,6 @@
       "duration_ms": 198706,
       "name": "Par Mil",
       "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 281533,
-      "name": "Va A Escampar",
-      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Rocanroles Sin Destino",
-        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -475,18 +459,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Fulanos de Nadie",
-        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+        "name": "Rocanroles Sin Destino",
+        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
       },
       "artists": [
         {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
         }
       ],
-      "duration_ms": 259146,
-      "name": "Sapo de Otro Pozo",
-      "url": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
+      "duration_ms": 210013,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -519,6 +503,22 @@
       "duration_ms": 207280,
       "name": "Loco Un Poco",
       "url": "https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Fulanos de Nadie",
+        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Sapo de Otro Pozo",
+      "url": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "La Esquina Del Infinito",
-        "url": "https://open.spotify.com/album/4M0ydzwbRw8c1RV07TpMX9"
+        "name": "Lo Que Somos",
+        "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
         }
       ],
-      "duration_ms": 182360,
-      "name": "Panic Show",
-      "url": "https://open.spotify.com/track/7ao7jtJIMzppW0p1CwEJ9Q"
+      "duration_ms": 191530,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -695,6 +695,22 @@
       "duration_ms": 205946,
       "name": "Se Viene",
       "url": "https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "La Esquina Del Infinito",
+        "url": "https://open.spotify.com/album/4M0ydzwbRw8c1RV07TpMX9"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Panic Show",
+      "url": "https://open.spotify.com/track/7ao7jtJIMzppW0p1CwEJ9Q"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Lo Que Somos",
-        "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 191530,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Karmagedon",
         "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 328746,
       "name": "Chance",
       "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "La Paciencia De La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 317066,
-      "name": "Oxidado",
-      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -811,22 +795,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 431626,
-      "name": "Amar y Envejecer",
-      "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Casi Justicia Social I",
         "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
       },
@@ -843,6 +811,38 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "A Mil",
+        "url": "https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 214651,
+      "name": "Volver a Nacer",
+      "url": "https://open.spotify.com/track/6mH8dpee5PZFA7L8QISURa"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "La Paciencia De La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 317066,
+      "name": "Oxidado",
+      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "A Contraluz",
         "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 308666,
       "name": "Clarobscuro",
       "url": "https://open.spotify.com/track/5aXacxWAOHOZjH2uxMJ0q0"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 431626,
+      "name": "Amar y Envejecer",
+      "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -907,22 +923,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "A Mil",
-        "url": "https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 214651,
-      "name": "Volver a Nacer",
-      "url": "https://open.spotify.com/track/6mH8dpee5PZFA7L8QISURa"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Vengo Del Placard De Otro",
         "url": "https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 208373,
       "name": "Nunca me ense\u00f1aste",
       "url": "https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 198385,
-      "name": "Se\u00f1or Kioskero",
-      "url": "https://open.spotify.com/track/4lK6lXhFBHIQQyF9Kdck4d"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 198385,
+      "name": "Se\u00f1or Kioskero",
+      "url": "https://open.spotify.com/track/4lK6lXhFBHIQQyF9Kdck4d"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Gardeliando",
         "url": "https://open.spotify.com/album/2YVadYqrEQR7iHn45PVyZy"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "El Favor",
-        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 245024,
-      "name": "El Favor",
-      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 236605,
       "name": "Solito",
       "url": "https://open.spotify.com/track/3lomF1J4N3LQXkbkAZxw9v"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "El Favor",
+        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 245024,
+      "name": "El Favor",
+      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Monta\u00f1a Rusa Emocional",
-        "url": "https://open.spotify.com/album/0KOjxfn6PBm3ntF4NZnhjq"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 199881,
-      "name": "Monta\u00f1a Rusa Emocional",
-      "url": "https://open.spotify.com/track/6OrpYqotia6MQqlKZKsgZ1"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 199573,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/7JvKnVhM6qksNREXInCsXo"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Monta\u00f1a Rusa Emocional",
+        "url": "https://open.spotify.com/album/0KOjxfn6PBm3ntF4NZnhjq"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 199881,
+      "name": "Monta\u00f1a Rusa Emocional",
+      "url": "https://open.spotify.com/track/6OrpYqotia6MQqlKZKsgZ1"
     },
     {
       "added_at": "2023-10-20 03:00:00",

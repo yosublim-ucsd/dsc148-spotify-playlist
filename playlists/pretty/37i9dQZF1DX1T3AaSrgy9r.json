@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 111890,
+  "num_followers": 112014,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzZlNTBiODk4YzdjOTY3MTVjMTg0Mjc4MmQ3YzgzNDhlMTQ4MTJl",
+  "snapshot_id": "MCwyZTA0ZDdmNTdkNzk0NGMxZDJkZTAyZGEyMmIyZjI0NzI5NTlkNTJi",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Red Alert",
-        "url": "https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 218026,
-      "name": "Red Alert - Jaxx Radio Mix",
-      "url": "https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Endtroducing.....",
         "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 298373,
       "name": "Midnight In A Perfect World",
       "url": "https://open.spotify.com/track/1a9maLxqpx3cxjY1lTj62B"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Red Alert",
+        "url": "https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 218026,
+      "name": "Red Alert - Jaxx Radio Mix",
+      "url": "https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Metropol",
-        "url": "https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n"
-      },
-      "artists": [
-        {
-          "name": "Lunatic Calm",
-          "url": "https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX"
-        }
-      ],
-      "duration_ms": 192640,
-      "name": "Leave You Far Behind",
-      "url": "https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "When It Falls",
         "url": "https://open.spotify.com/album/2pTVmzJ3y3H2TI9dDQMvl7"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 416933,
       "name": "Somersault",
       "url": "https://open.spotify.com/track/6CgIaRVXNmpUgeVuHmA4a2"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Metropol",
+        "url": "https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n"
+      },
+      "artists": [
+        {
+          "name": "Lunatic Calm",
+          "url": "https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX"
+        }
+      ],
+      "duration_ms": 192640,
+      "name": "Leave You Far Behind",
+      "url": "https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G"
     },
     {
       "added_at": "2021-07-14 17:36:34",

@@ -4,11 +4,11 @@
 
 > Sons da floresta para inspirar seus dia ou noite.
 
-51 songs - 3 hr 2 min
+52 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4am Rain Forest Birds](https://open.spotify.com/track/4U4iuHAFtmSfsnscPtsBES) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Thunder, Birds and Rain](https://open.spotify.com/album/5poU2ZGDPQjYdHR7swuqkw) | 2:44 | 2023-06-19 |  |
+| [4am Rain Forest Birds](https://open.spotify.com/track/4U4iuHAFtmSfsnscPtsBES) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Thunder, Birds and Rain](https://open.spotify.com/album/5poU2ZGDPQjYdHR7swuqkw) | 2:44 | 2023-06-19 | 2023-11-01 |
 | [Afternoon Bird Chorus](https://open.spotify.com/track/0rxCggh9HxS2NVDqKuioPu) | [Forest Soundscapes](https://open.spotify.com/artist/3afxrYkVNCaNbMqJbfThUy) | [Forest Soundscapes](https://open.spotify.com/album/69JfteEShbXv4Lh1NdL2pW) | 3:35 | 2023-06-19 |  |
 | [Birds And Breeze](https://open.spotify.com/track/5vRvzOHbx40CCMkmSC28fY) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 3:52 | 2023-06-19 |  |
 | [Birds Of the Rainforest](https://open.spotify.com/track/4KbwasB5txiAwLRFQsrZ07) | [Lively Nature Sounds](https://open.spotify.com/artist/4hYhL32tebI7EDJR8aDNWL) | [Wild Life Birds and Rain](https://open.spotify.com/album/7hGDH33pjK2feH0YSPZjyG) | 2:35 | 2023-06-19 |  |
@@ -25,6 +25,7 @@
 | [Heavy Island of Borneo Ambience](https://open.spotify.com/track/42MugaGyjJt5jHcn6uXgQw) | [Nature Sound Collection](https://open.spotify.com/artist/0qhhlPFVV3YoxoB4jtqvkx) | [200 Nature Sounds](https://open.spotify.com/album/4GWSfEGWNCOGWvTkkiIgYn) | 6:00 | 2023-06-19 |  |
 | [Jungle Hideout](https://open.spotify.com/track/2YUGgIVUWqZnZq0XseGdfv) | [Peter Graham](https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv) | [Nature Living](https://open.spotify.com/album/7v6f0Qzdn4U2kLXX43D0fW) | 2:23 | 2023-06-19 |  |
 | [Jungle Relaxation Sleep](https://open.spotify.com/track/0KvIXQVhzpRfVDT3xDSUrL) | [Ambient Nature White Noise](https://open.spotify.com/artist/2vgMXbvbpzLc0CuugRYpL3) | [Rain Forest Ambience Sleep Sounds \- Sounds From The Jungle For A Clearer Mind](https://open.spotify.com/album/7vJGaKJj8PvMqYTi58Jlun) | 2:00 | 2023-06-19 |  |
+| [Jungle, Day \- Afternoon Jungle Ambience: Heavy Birds, Insects, Foreign Forests, Jungles & Swamps](https://open.spotify.com/track/5W3ORIYUu2eXASNHbVwzTC) | [Sound Effects Library](https://open.spotify.com/artist/6BzziB95IQ1jfkr7GHCfl3) | [Jungles & Forests: Sound Effects](https://open.spotify.com/album/3cNjWCQje5rTOJa6rj3pIg) | 2:02 | 2023-06-19 |  |
 | [Lakeside Repose](https://open.spotify.com/track/58rgF4KUtRIMH3LTczh1wY) | [Sounds of the Forest](https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6) | [Thicket Winging](https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l) | 6:16 | 2023-06-19 |  |
 | [Late Night Peace](https://open.spotify.com/track/7wODjbGBAR6CvHFUo7LZOu) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 3:38 | 2023-06-19 |  |
 | [Midnight Sounds](https://open.spotify.com/track/5jhcezlQC1tk8ZL1B9Uuzl) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 | 2023-06-19 |  |

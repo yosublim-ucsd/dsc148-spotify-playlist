@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: Laufey & beabadoobee. ",
-  "num_followers": 279884,
+  "num_followers": 279968,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTc0MTUzZmRiZDIwYWU3ZjRiNGFhMjhkZWY2Nzk4OTliMTM3OGYy",
+  "snapshot_id": "MCw4M2E1NTY1ODg5ZWM3NjdhZTU4ZWM1NTdmZWRjNGI5NTFiODdlYWM2",
   "tracks": [
     {
       "added_at": "2023-10-30 04:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "AMERICAN HORROR SHOW",
-        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
-      },
-      "artists": [
-        {
-          "name": "SNOW WIFE",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 149391,
-      "name": "AMERICAN HORROR SHOW",
-      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
         "name": "NEW DNA",
         "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 199960,
       "name": "PUPPET SHOW",
       "url": "https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
+        "name": "AMERICAN HORROR SHOW",
+        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 149391,
+      "name": "AMERICAN HORROR SHOW",
+      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "NEW DANCE",
-        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "NEW DANCE",
-      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
         "name": "GAME PLAN",
         "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
       },
@@ -787,22 +771,6 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 224333,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
+        "name": "NEW DANCE",
+        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "NEW DANCE",
+      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "GRL GVNG",
-        "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "GRL GVNG",
-      "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
         "name": "So I Danced",
         "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
       },
@@ -867,18 +851,34 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 246693,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
+      "duration_ms": 212333,
+      "name": "Bug Like an Angel",
+      "url": "https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
+        "name": "GRL GVNG",
+        "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "GRL GVNG",
+      "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 212333,
-      "name": "Bug Like an Angel",
-      "url": "https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70"
+      "duration_ms": 246693,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
         "name": "TGIF",
         "url": "https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c"
       },
@@ -995,6 +1011,22 @@
       "duration_ms": 171240,
       "name": "TGIF",
       "url": "https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -1019,22 +1051,6 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "Peanut Butter & Tears",
-        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Peanut Butter & Tears",
-      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
         "name": "Irresponsible",
         "url": "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 124751,
       "name": "Irresponsible",
       "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
-        "name": "Phases",
-        "url": "https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Unlearn You",
-      "url": "https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
         }
       ],
-      "duration_ms": 179346,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E"
+      "duration_ms": 168461,
+      "name": "Unlearn You",
+      "url": "https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
+        "name": "Pop Star (Chaeyoung Remix)",
+        "url": "https://open.spotify.com/album/6r0xsy4FAx4p2Fc2WZxVR0"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        },
+        {
+          "name": "Chaeyoung",
+          "url": "https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Pop Star - Chaeyoung Remix",
+      "url": "https://open.spotify.com/track/1vQOTeTQlZ5NWX2el2RmlG"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
         "name": "Drink!",
         "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
       },
@@ -1255,26 +1275,6 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "Pop Star (Chaeyoung Remix)",
-        "url": "https://open.spotify.com/album/6r0xsy4FAx4p2Fc2WZxVR0"
-      },
-      "artists": [
-        {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
-        },
-        {
-          "name": "Chaeyoung",
-          "url": "https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa"
-        }
-      ],
-      "duration_ms": 208640,
-      "name": "Pop Star - Chaeyoung Remix",
-      "url": "https://open.spotify.com/track/1vQOTeTQlZ5NWX2el2RmlG"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
         "name": "Shortcut To Heaven",
         "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 184343,
       "name": "Shortcut To Heaven",
       "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 173661,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -1323,6 +1307,22 @@
       "duration_ms": 205750,
       "name": "close with desires (feat. thuy)",
       "url": "https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 173661,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "Sandhills",
-        "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "Sidelines",
-      "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
         "name": "Falling In Love",
         "url": "https://open.spotify.com/album/4RDu4REbJHnc4rgvulKdUs"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 162020,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
+        "name": "Sandhills",
+        "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -1707,6 +1707,26 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
+        "name": "buttons!",
+        "url": "https://open.spotify.com/album/4LBaHD1RYaiZh4YGiLDyGo"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "buttons!",
+      "url": "https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
         "name": "WORLD STOP TURNING (feat. Warren Hue)",
         "url": "https://open.spotify.com/album/73uv8IgpT6e22cr6ZRzH2x"
       },
@@ -1755,26 +1775,6 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "buttons!",
-        "url": "https://open.spotify.com/album/4LBaHD1RYaiZh4YGiLDyGo"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "buttons!",
-      "url": "https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
         "name": "House on a Hill",
         "url": "https://open.spotify.com/album/0h8Vq0ZgnV8W5H3skqwArY"
       },
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "Don't Know About The World",
-        "url": "https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 143696,
-      "name": "Don't Know About The World",
-      "url": "https://open.spotify.com/track/76M8uxD1WvL0H4h2Jv8Fm5"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
         "name": "TENNESSEE",
         "url": "https://open.spotify.com/album/1FExYW4kwoxuHmCGgRYm8o"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 203360,
       "name": "TENNESSEE",
       "url": "https://open.spotify.com/track/2AFwCOahN4s0NlODlXLRFa"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
+        "name": "Don't Know About The World",
+        "url": "https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 143696,
+      "name": "Don't Know About The World",
+      "url": "https://open.spotify.com/track/76M8uxD1WvL0H4h2Jv8Fm5"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
+        "name": "playing tricks",
+        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 184257,
+      "name": "playing tricks",
+      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
         "name": "SHYPOP",
         "url": "https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 208941,
       "name": "SHYPOP",
       "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
-        "name": "playing tricks",
-        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 184257,
-      "name": "playing tricks",
-      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "Ya Ya",
-        "url": "https://open.spotify.com/album/0nrNwgR8o24TRZK3BPNs1V"
-      },
-      "artists": [
-        {
-          "name": "Dinah Jane",
-          "url": "https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V"
-        }
-      ],
-      "duration_ms": 213082,
-      "name": "Ya Ya",
-      "url": "https://open.spotify.com/track/30xQOGi9kqeGU24U0VIjG0"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 190624,
       "name": "Hopelessly Devoted To You - Spotify Single",
       "url": "https://open.spotify.com/track/3ab4v5DEX5BTlfKp5PA6yu"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
+        "name": "Ya Ya",
+        "url": "https://open.spotify.com/album/0nrNwgR8o24TRZK3BPNs1V"
+      },
+      "artists": [
+        {
+          "name": "Dinah Jane",
+          "url": "https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V"
+        }
+      ],
+      "duration_ms": 213082,
+      "name": "Ya Ya",
+      "url": "https://open.spotify.com/track/30xQOGi9kqeGU24U0VIjG0"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "Bloomingtale",
-        "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
-      },
-      "artists": [
-        {
-          "name": "Vira Talisa",
-          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
-        }
-      ],
-      "duration_ms": 208136,
-      "name": "More & More",
-      "url": "https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
         "name": "Thinkin Of U",
         "url": "https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 121682,
       "name": "Thinkin Of U",
       "url": "https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
+        "name": "Bloomingtale",
+        "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
+      },
+      "artists": [
+        {
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+        }
+      ],
+      "duration_ms": 208136,
+      "name": "More & More",
+      "url": "https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -2399,6 +2399,22 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
+        "name": "APESHIT",
+        "url": "https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 151400,
+      "name": "APESHIT",
+      "url": "https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V"
+    },
+    {
+      "added_at": "2023-10-30 04:00:00",
+      "album": {
         "name": "Summer went and came around",
         "url": "https://open.spotify.com/album/0PLmsTuFzMLdP2bnUygGhl"
       },
@@ -2431,18 +2447,18 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "Sidharth",
-        "url": "https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM"
+        "name": "sole outlet",
+        "url": "https://open.spotify.com/album/0Xmtrxgeg2ivd3874Nn9fL"
       },
       "artists": [
         {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+          "name": "juno roome",
+          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
         }
       ],
-      "duration_ms": 340773,
-      "name": "Quiet Storm",
-      "url": "https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg"
+      "duration_ms": 227538,
+      "name": "sole outlet",
+      "url": "https://open.spotify.com/track/3Axrk0m3aMkCz2D7R3GT5D"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -2463,22 +2479,6 @@
       "duration_ms": 207550,
       "name": "The Show - with JJ Lin",
       "url": "https://open.spotify.com/track/3MpC4En7qGkwcuzp8qnsrr"
-    },
-    {
-      "added_at": "2023-10-30 04:00:00",
-      "album": {
-        "name": "sole outlet",
-        "url": "https://open.spotify.com/album/0Xmtrxgeg2ivd3874Nn9fL"
-      },
-      "artists": [
-        {
-          "name": "juno roome",
-          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
-        }
-      ],
-      "duration_ms": 227538,
-      "name": "sole outlet",
-      "url": "https://open.spotify.com/track/3Axrk0m3aMkCz2D7R3GT5D"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -2523,18 +2523,18 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "OUT OF BODY",
-        "url": "https://open.spotify.com/album/6Vn4kSaFkyRbNToiLEtNiX"
+        "name": "Sidharth",
+        "url": "https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM"
       },
       "artists": [
         {
-          "name": "Rhea Raj",
-          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         }
       ],
-      "duration_ms": 127985,
-      "name": "OUT OF BODY",
-      "url": "https://open.spotify.com/track/6UHF567WPxGMnBYLy87G7w"
+      "duration_ms": 340773,
+      "name": "Quiet Storm",
+      "url": "https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg"
     },
     {
       "added_at": "2023-10-30 04:00:00",
@@ -2563,22 +2563,18 @@
     {
       "added_at": "2023-10-30 04:00:00",
       "album": {
-        "name": "I Miss My Friends (feat. Phum Viphurit)",
-        "url": "https://open.spotify.com/album/33HFtu7PiE4xTeV3FFGoOD"
+        "name": "OUT OF BODY",
+        "url": "https://open.spotify.com/album/6Vn4kSaFkyRbNToiLEtNiX"
       },
       "artists": [
         {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
-        },
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
         }
       ],
-      "duration_ms": 223026,
-      "name": "I Miss My Friends (feat. Phum Viphurit)",
-      "url": "https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr"
+      "duration_ms": 127985,
+      "name": "OUT OF BODY",
+      "url": "https://open.spotify.com/track/6UHF567WPxGMnBYLy87G7w"
     },
     {
       "added_at": "2023-10-30 04:00:00",

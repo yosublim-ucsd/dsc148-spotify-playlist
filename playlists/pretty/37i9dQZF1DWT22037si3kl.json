@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Ig\u00e3o",
-  "num_followers": 131738,
+  "num_followers": 132020,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzY4ODAxMGQ0YTk2MGIxM2E1ZGRmMDM3YjRjYTcwZjk3NWQ0MGNj",
+  "snapshot_id": "MCw5YThiZWExOGMyNzI3M2I2YzQ2ZWEyM2ViMzJmYWMyMjFhNjlhYjA0",
   "tracks": [
     {
       "added_at": "2023-10-27 23:09:16",
@@ -631,30 +631,6 @@
     {
       "added_at": "2023-10-27 23:09:16",
       "album": {
-        "name": "EVDC DELUXE",
-        "url": "https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4"
-      },
-      "artists": [
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "Neckklace",
-          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
-        }
-      ],
-      "duration_ms": 159298,
-      "name": "Vandame",
-      "url": "https://open.spotify.com/track/33pxk7eQUhrZI2tiuMd4zZ"
-    },
-    {
-      "added_at": "2023-10-27 23:09:16",
-      "album": {
         "name": "Lista De Contato",
         "url": "https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 122826,
       "name": "Lista De Contato",
       "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
+    },
+    {
+      "added_at": "2023-10-27 23:09:16",
+      "album": {
+        "name": "EVDC DELUXE",
+        "url": "https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4"
+      },
+      "artists": [
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "duration_ms": 159298,
+      "name": "Vandame",
+      "url": "https://open.spotify.com/track/33pxk7eQUhrZI2tiuMd4zZ"
     },
     {
       "added_at": "2023-10-27 23:09:16",
@@ -835,6 +835,30 @@
     {
       "added_at": "2023-10-27 23:09:16",
       "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
+    },
+    {
+      "added_at": "2023-10-27 23:09:16",
+      "album": {
         "name": "Yeezy Slide \"FREESTYLE 01\"",
         "url": "https://open.spotify.com/album/4bJbDWMhQ5vmWhISmnsKQe"
       },
@@ -935,30 +959,6 @@
       "duration_ms": 225000,
       "name": "Jogo Sujo",
       "url": "https://open.spotify.com/track/0lkAURQeEdd49DVZPu020Q"
-    },
-    {
-      "added_at": "2023-10-27 23:09:16",
-      "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "added_at": "2023-10-27 23:09:16",

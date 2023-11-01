@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: BADBADNOTGOOD
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,604 likes - 99 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,629 likes - 99 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 98 | [A Noisy Train](https://open.spotify.com/track/3KJHGwOSRZmoM9WD7DaVVd) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [A Noisy Train](https://open.spotify.com/album/1HlFmZZUjGmNgppfCP7yz3) | 4:20 |
 | 99 | [Sojourn](https://open.spotify.com/track/1tN9qCwdEYsYmu3e4IypgE) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Sojourn](https://open.spotify.com/album/3F8zTUdqovD6TNHlNsOPMg) | 3:33 |
 
-Snapshot ID: `MCxhYWM3NTA1MzQzNTBiN2Q1YjVjNDA1NDhkY2MwNzUwYThjZDM1YzA3`
+Snapshot ID: `MCxhNTM1YzFhOWZjZDIxZGEwMjc2MzQ2YjZlNjJiOGM4OTBkZjRiZjE5`

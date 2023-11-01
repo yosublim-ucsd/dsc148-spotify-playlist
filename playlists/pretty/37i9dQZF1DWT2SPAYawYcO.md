@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Angie McMahon
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,652 likes - 93 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,694 likes - 93 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 9 | [Heart Still Beating](https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m) | 2:29 |
 | 10 | [Tell Her](https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Tell Her](https://open.spotify.com/album/5r8xf0HbtvpK61fsiZ4x7I) | 3:12 |
 | 11 | [Upset \(feat\. Tommy Richman & FELIX!\)](https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:57 |
-| 12 | [Better Days](https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc) | 2:47 |
+| 12 | [Better Days](https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE) | 2:47 |
 | 13 | [Run It Back](https://open.spotify.com/track/5VwNj5acbQKtpHs5nUYXWf) | [Home Brew](https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH) | [Run It Back](https://open.spotify.com/album/5IosgT3kQg44QnkGWONK1w) | 3:08 |
 | 14 | [Faithfully](https://open.spotify.com/track/2UIkqoTk5YyvRpEEUIeoVg) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Faithfully](https://open.spotify.com/album/0uSrvD5hS9m0j9Ldhlyg31) | 4:11 |
 | 15 | [Strictly 4 Tha](https://open.spotify.com/track/0qBIwcab1a5J8RDczBALuW) | [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Strictly 4 Tha](https://open.spotify.com/album/0CfTs0imoYBls6zTPdqRVH) | 3:14 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 92 | [Weightless](https://open.spotify.com/track/0zWKEW4wxvNUW2z58HWJSr) | [Oshua](https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV) | [Everything Can Levitate](https://open.spotify.com/album/5VIr5VJPxXeMjlT7IAAwel) | 2:38 |
 | 93 | [The One](https://open.spotify.com/track/4tCzAMFUd31yxOA4Mc8cz4) | [Peter Bibby](https://open.spotify.com/artist/2hL4zRvjx5funfrhNUxUS2) | [The One](https://open.spotify.com/album/7hjGINTLUq7K82NK9brytF) | 2:24 |
 
-Snapshot ID: `MCw1NDEzNGJiZGY1YzMxNDJjMTQ3ZTU4ZTVjYTk1YzE3ZjIwNGZiOWFj`
+Snapshot ID: `MCxhOWU2NDc1MzY2OTU4ZjQxOWM5NjcwZjM4Y2ZmYTYxMmI4YzQxMGIz`

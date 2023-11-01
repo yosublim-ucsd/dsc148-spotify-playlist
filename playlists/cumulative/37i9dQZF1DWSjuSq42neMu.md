@@ -4,7 +4,7 @@
 
 > todo un mood.
 
-239 songs - 13 hr 38 min
+240 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bentley](https://open.spotify.com/track/3RGg9W1OyEiRMwu1Qi45dW) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:08 | 2022-03-29 | 2022-04-21 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-03-29 |  |
 | [BIOL\-101](https://open.spotify.com/track/5FNAn5k6X5zeTg84chzd6c) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [BIOL\-101](https://open.spotify.com/album/2WKMQLwJ93MxJZiUu9iVfD) | 3:45 | 2021-12-14 | 2022-07-29 |
-| [Bonita](https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Bonita](https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM) | 3:07 | 2021-12-14 |  |
+| [Bonita](https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Bonita](https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM) | 3:07 | 2021-12-14 | 2023-11-01 |
 | [Borracho y Loco](https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 2:44 | 2022-07-26 | 2022-08-23 |
 | [Buen Rato](https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [Fe](https://open.spotify.com/album/1TW2yrWSXV0mT6OPm5hMRi) | 3:05 | 2021-12-14 | 2022-06-17 |
 | [BYAK](https://open.spotify.com/track/6mPzI9mXSv4HbjtsuluEen) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [BYAK](https://open.spotify.com/album/6jsKmnNS6eZ13rLiwb8XrC) | 2:28 | 2022-03-29 | 2022-04-20 |
@@ -97,6 +97,7 @@
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu) | 2:36 | 2022-08-22 |  |
 | [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2022-06-06 | 2023-04-05 |
 | [Fingías](https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Fingías](https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn) | 3:45 | 2022-03-29 |  |
+| [Fragancia](https://open.spotify.com/track/5URNvRGY4fqoaWTkBJpOiH) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Fragancia](https://open.spotify.com/album/2C85n4dvEGR9SnvTYFmWMy) | 3:57 | 2023-09-20 |  |
 | [Fragancia \(with Jay Wheeler\)](https://open.spotify.com/track/3YNolHalg56UrvPabqw6JP) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Fragancia \(with Jay Wheeler\)](https://open.spotify.com/album/6IvNKfgj37xVwthEmXHcMK) | 3:57 | 2021-12-14 | 2023-02-28 |
 | [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 | 2023-01-19 |  |
 | [Girl](https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 3:06 | 2023-01-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 7811,
+  "num_followers": 7860,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzE2MGI0MGRlMDViYmEzYjU4NmMzZTcwODZhNjVmNTVjOWI2MTY4",
+  "snapshot_id": "MCw1MWI3YTAzNGQwZjJhYjA1NDU2MzcwMDMzOTI1ZTBkMGRiMDg5Mjgz",
   "tracks": [
     {
       "added_at": "2023-10-20 00:01:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Igwe",
-        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
-      },
-      "artists": [
-        {
-          "name": "Midnight Crew",
-          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
-        }
-      ],
-      "duration_ms": 312556,
-      "name": "Igwe",
-      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "RADICAL",
         "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 188540,
       "name": "Greatest",
       "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Igwe",
+        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
+      },
+      "artists": [
+        {
+          "name": "Midnight Crew",
+          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
+        }
+      ],
+      "duration_ms": 312556,
+      "name": "Igwe",
+      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -533,6 +533,142 @@
       "url": "https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU"
     },
     {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/33IS3ibSQBRCKT5cWkZyBL"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "duration_ms": 176379,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Never Ending Love",
+        "url": "https://open.spotify.com/album/6Pj4CUUtQXon0qZ7aFtQc1"
+      },
+      "artists": [
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        },
+        {
+          "name": "The Excentric",
+          "url": "https://open.spotify.com/artist/3XrrUDnJSH7bX0DEbSUCu3"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "duration_ms": 174995,
+      "name": "Never Ending Love",
+      "url": "https://open.spotify.com/track/6PTdosZg7sMabnr47NGdVE"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Taking Care",
+        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Taking Care - Remix",
+      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Mo",
+        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
+      },
+      "artists": [
+        {
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Mo",
+      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Praises",
+        "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 244300,
+      "name": "Praises",
+      "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "S. W. A. G (Saved with Amazing Grace)",
+        "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
+      },
+      "artists": [
+        {
+          "name": "Sammie Okposo",
+          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
+        },
+        {
+          "name": "Kike Mudiaga",
+          "url": "https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF"
+        }
+      ],
+      "duration_ms": 242704,
+      "name": "Oluwa E Tobi",
+      "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
+    },
+    {
       "added_at": "2023-10-20 00:01:00",
       "album": {
         "name": "Yeshua (Extended)",
@@ -559,134 +695,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Mo",
-        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
-      },
-      "artists": [
-        {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Mo",
-      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Taking Care",
-        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Taking Care - Remix",
-      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Exit",
-        "url": "https://open.spotify.com/album/33IS3ibSQBRCKT5cWkZyBL"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
-        }
-      ],
-      "duration_ms": 176379,
-      "name": "Exit",
-      "url": "https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Praises",
-        "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 244300,
-      "name": "Praises",
-      "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "My Dey",
-        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "My Dey",
-      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "S. W. A. G (Saved with Amazing Grace)",
-        "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
-      },
-      "artists": [
-        {
-          "name": "Sammie Okposo",
-          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
-        },
-        {
-          "name": "Kike Mudiaga",
-          "url": "https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF"
-        }
-      ],
-      "duration_ms": 242704,
-      "name": "Oluwa E Tobi",
-      "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "The Assignment",
         "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
       },
@@ -703,6 +711,22 @@
       "duration_ms": 262321,
       "name": "COME AND SEE",
       "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "My Dey",
+        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "My Dey",
+      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -725,28 +749,20 @@
       "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
     },
     {
-      "added_at": "2023-10-20 00:01:00",
+      "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Never Ending Love",
-        "url": "https://open.spotify.com/album/6Pj4CUUtQXon0qZ7aFtQc1"
+        "name": "You Do This One",
+        "url": "https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o"
       },
       "artists": [
         {
-          "name": "Holy drill",
-          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
-        },
-        {
-          "name": "The Excentric",
-          "url": "https://open.spotify.com/artist/3XrrUDnJSH7bX0DEbSUCu3"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 174995,
-      "name": "Never Ending Love",
-      "url": "https://open.spotify.com/track/6PTdosZg7sMabnr47NGdVE"
+      "duration_ms": 226649,
+      "name": "You Do This One",
+      "url": "https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -823,18 +839,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Hosanna",
-        "url": "https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV"
+        "name": "Bianule",
+        "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
       },
       "artists": [
         {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
         }
       ],
-      "duration_ms": 321684,
-      "name": "Hosanna",
-      "url": "https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn"
+      "duration_ms": 284080,
+      "name": "Bianule",
+      "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -855,18 +871,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Bianule",
-        "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
+        "name": "Hosanna",
+        "url": "https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV"
       },
       "artists": [
         {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
         }
       ],
-      "duration_ms": 284080,
-      "name": "Bianule",
-      "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
+      "duration_ms": 321684,
+      "name": "Hosanna",
+      "url": "https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -903,22 +919,6 @@
       "duration_ms": 812470,
       "name": "When I See You",
       "url": "https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "You Do This One",
-        "url": "https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 226649,
-      "name": "You Do This One",
-      "url": "https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Edwards",
-          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
-        },
-        {
-          "name": "Rushawn",
-          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
-        }
-      ],
-      "duration_ms": 154218,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Akuzike",
         "url": "https://open.spotify.com/album/5rApc4mQ4yHIJxSlkBPSuL"
       },
@@ -1007,6 +987,30 @@
       "duration_ms": 200282,
       "name": "Akuzike",
       "url": "https://open.spotify.com/track/6HvdB8sn4XF6VmpBxtxjmn"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Cross",
+        "url": "https://open.spotify.com/album/4Qag1ETTQqPAMLVoUjmtWJ"
+      },
+      "artists": [
+        {
+          "name": "Young Bezzel",
+          "url": "https://open.spotify.com/artist/68vLjv4HTWK7D1NZVwbTke"
+        },
+        {
+          "name": "FOEVA",
+          "url": "https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI"
+        },
+        {
+          "name": "O.N.E.",
+          "url": "https://open.spotify.com/artist/53EXxMxrCahuzrjzn8G7iR"
+        }
+      ],
+      "duration_ms": 269736,
+      "name": "Cross",
+      "url": "https://open.spotify.com/track/1u2BepDrxf9SXp9r9ZBSpk"
     }
   ],
   "unique_name": "Higher",

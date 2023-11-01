@@ -4,7 +4,7 @@
 
 > lofi beats by Latinxs.
 
-83 songs - 3 hr 20 min
+84 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bossa De Flauta](https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu) | [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Bossa De Flauta](https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e) | 1:54 | 2023-06-26 |  |
 | [Brazilian Flavor](https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg) | [Dawmata](https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3) | [Brazilian Flavor](https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR) | 1:58 | 2023-06-26 |  |
 | [Break](https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK) | [Anto Pla](https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee) | [Break](https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ) | 1:56 | 2023-09-14 |  |
+| [Callejón de las Catrinas](https://open.spotify.com/track/1YFdN7uDnEGZWj1aRoOiLr) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Callejón de las Catrinas](https://open.spotify.com/album/5Up7bwvarctNUb6TE70fDT) | 1:15 | 2023-10-27 |  |
 | [Catá Surf](https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:55 | 2023-06-26 |  |
 | [Cavaquinho](https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Cavaquinho](https://open.spotify.com/album/3lzaTrd6xnDq33RyIETTfS) | 2:18 | 2023-06-26 |  |
 | [Cempasuchil](https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Dia de Muertos](https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V) | 2:29 | 2023-09-14 |  |
@@ -82,7 +83,7 @@
 | [Shemomedjamo](https://open.spotify.com/track/26HbFJdrkXgWrME5kLrk8r) | [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [100% Barztep](https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91) | 3:30 | 2023-09-14 |  |
 | [soltarte \(instrumental\)](https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT) | [soltarte \(instrumental\)](https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9) | 2:56 | 2023-09-14 |  |
 | [spirits](https://open.spotify.com/track/19AiqwcVZDgbivDpLwZtG3) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [spirits](https://open.spotify.com/album/1ZRT7cfPl8hIcOoALNiuBm) | 2:17 | 2023-06-26 |  |
-| [Sunset on Vallarta](https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Sunset on Vallarta](https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh) | 2:25 | 2023-09-14 |  |
+| [Sunset on Vallarta](https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Sunset on Vallarta](https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh) | 2:25 | 2023-09-14 | 2023-11-01 |
 | [Te Adoro](https://open.spotify.com/track/1sagWkuNSjjj1juUOTQNRF) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [9T7](https://open.spotify.com/artist/6FUrvlop2OuQ4v0NLgkaKD), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Te Adoro](https://open.spotify.com/album/6YpkDFutK6pQfAdSQiwwp5) | 2:04 | 2023-06-26 |  |
 | [Todo Tranqui](https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Todo Tranqui](https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP) | 1:40 | 2023-06-26 |  |
 | [Trust](https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j) | [Baskito](https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v) | [Quiet Process](https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc) | 2:48 | 2023-06-26 |  |

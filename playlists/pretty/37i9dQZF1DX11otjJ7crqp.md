@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Alec Benjamin
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,751 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,812 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 47 | [Holding on to Us](https://open.spotify.com/track/7pgjXQqGqzUi0Wp3ySvhTc) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Holding on to Us](https://open.spotify.com/album/5SwqkXIOm7AbNgMxnB1FSh) | 3:24 |
 | 48 | [at the end of the world](https://open.spotify.com/track/5ivyykAJXgoxXRTaNli7JB) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [at the end of the world](https://open.spotify.com/album/1zyZ6yfGnOV4zgYFwglVsS) | 3:04 |
 | 49 | [Love Me Like The First Time](https://open.spotify.com/track/0VJDKFCfJJyA8CgMd2Cygj) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Love Me Like The First Time](https://open.spotify.com/album/7djdwVJvXXMDXTLbBPzRzh) | 3:17 |
-| 50 | [Better Days](https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc) | 2:47 |
+| 50 | [Better Days](https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE) | 2:47 |
 | 51 | [Awkward](https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba) | 2:33 |
 | 52 | [wish you would](https://open.spotify.com/track/1LFrlYjezwFadKoL6UESMd) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [wish you would](https://open.spotify.com/album/0M1Oz5d6jsNjAGcAATbWNk) | 3:14 |
 | 53 | [Flashy \(feat\. Kim Petras\)](https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Silver Lining](https://open.spotify.com/track/3aT88But3JPrDE5y7r7YQA) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Silver Lining](https://open.spotify.com/album/6kRzZnRbdKcnjozCn9S0B9) | 2:42 |
 | 100 | [How You Leave A Man](https://open.spotify.com/track/4ySjA0oHoiVQRuHdkm2wsy) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [How You Leave A Man](https://open.spotify.com/album/30AHFEzmxi6iKzhb6PTv29) | 3:34 |
 
-Snapshot ID: `MCw0OTQ3YWU0YzI2OGJlMzY5NTMxNmRmYmMxZGU4NDFlZmNlYzE2ZGY4`
+Snapshot ID: `MCw5MzIyNjQ5N2MwNjk0MjU2YjhiYjI3YjhiZTA3YjY3NzNmOGJjODg2`

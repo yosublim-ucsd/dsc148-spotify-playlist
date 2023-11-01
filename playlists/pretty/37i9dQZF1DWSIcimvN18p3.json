@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Sunny War",
-  "num_followers": 280292,
+  "num_followers": 280316,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTRjMWVmMDljMmE2MWIxZWVkNmEyNWRiNmYzYjVmNjExMWNkZTA5",
+  "snapshot_id": "MCwxMzkyOWY3NTNkNjUzOTMxYjNjNmQ2Y2JmYjY1NmIwY2ZlMzQ3YTJh",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "A Month Or Two",
+        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "A Month Or Two",
+      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Because I Wanted You to Know",
         "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
@@ -907,6 +923,22 @@
       "duration_ms": 210196,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/33O3akLJROZIzHaYbujfUY"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)",
+        "url": "https://open.spotify.com/album/6cqQoeptBmTpSw23R87hxU"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 137360,
+      "name": "Train Song",
+      "url": "https://open.spotify.com/track/6qRmb4uhIUaWE5LySgSfQS"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -947,38 +979,6 @@
       "duration_ms": 221302,
       "name": "Dooley's Farm (feat. Billy Strings)",
       "url": "https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "A Month Or Two",
-        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "A Month Or Two",
-      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)",
-        "url": "https://open.spotify.com/album/6cqQoeptBmTpSw23R87hxU"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 137360,
-      "name": "Train Song",
-      "url": "https://open.spotify.com/track/6qRmb4uhIUaWE5LySgSfQS"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Urban Driftwood",
         "url": "https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 230333,
       "name": "Juvenescence",
       "url": "https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Roses in the Snow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2LSEEOLu3PSt0T30n0Vg9O"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "The Boxer - 2002 Remaster",
-      "url": "https://open.spotify.com/track/2xchn60m6hRjWwpb7tGvpU"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Quiet the Room",
         "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 225154,
       "name": "Whatever Fits Together",
       "url": "https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Roses in the Snow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2LSEEOLu3PSt0T30n0Vg9O"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "The Boxer - 2002 Remaster",
+      "url": "https://open.spotify.com/track/2xchn60m6hRjWwpb7tGvpU"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ"
-      },
-      "artists": [
-        {
-          "name": "The A's",
-          "url": "https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Swing and Turn Jubilee",
-      "url": "https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Little May",
         "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 195735,
       "name": "Boardwalks",
       "url": "https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ"
+      },
+      "artists": [
+        {
+          "name": "The A's",
+          "url": "https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Swing and Turn Jubilee",
+      "url": "https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Total Freedom",
-        "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
-      },
-      "artists": [
-        {
-          "name": "Kathleen Edwards",
-          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
-        }
-      ],
-      "duration_ms": 270120,
-      "name": "Glenfern",
-      "url": "https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Do You See The Light Around Me?",
         "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 204034,
       "name": "Do You See The Light Around Me?",
       "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Total Freedom",
+        "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        }
+      ],
+      "duration_ms": 270120,
+      "name": "Glenfern",
+      "url": "https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
-      },
-      "artists": [
-        {
-          "name": "Buffy Sainte-Marie",
-          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "Universal Soldier",
-      "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Deer Creek Canyon",
         "url": "https://open.spotify.com/album/0BwzPjT3gChyxVmQYzGvzK"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 198893,
       "name": "Deer Creek Canyon",
       "url": "https://open.spotify.com/track/4bjK4okiLjAPmGjvxEjEBY"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
+      },
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "Universal Soldier",
+      "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
     },
     {
       "added_at": "2023-08-04 04:00:00",

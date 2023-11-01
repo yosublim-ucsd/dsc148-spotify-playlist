@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,185 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,194 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 72 | [And goodbye](https://open.spotify.com/track/0se8KNsSxOzUqudivqSWHB) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [And…](https://open.spotify.com/album/3Fd78AN1LXqbV4xqn9ZzJk) | 3:41 |
 | 73 | [The Letter](https://open.spotify.com/track/7x4ZCeYY5ihBsL7mXcN4TM) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [Lee Kyoung Seo](https://open.spotify.com/artist/3BVKpQR5CjWwQ9xN2kHP7m) | [Fantastic Duo, Pt\. 13](https://open.spotify.com/album/2BCByuEjdYUHbCI8SbsxAU) | 5:18 |
 | 74 | [The Words I Want To Say](https://open.spotify.com/track/74rDZsnTnMsvCBaoVY2KR3) | [Kim Tae Woo](https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi) | [Adding Love KTW](https://open.spotify.com/album/3MT47ZhG0otBZoR068YBPN) | 4:32 |
-| 75 | [Every moment of you \- Piano Ver.](https://open.spotify.com/track/23nYSeav0fx7NcOefWdmWL) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star \(Original Television Soundtrack\)](https://open.spotify.com/album/5rx7yA3wqQpDZz0xDeiflG) | 4:02 |
+| 75 | [Every Moment Of You \(Piano Ver.\)](https://open.spotify.com/track/1DzUxfql9qF6Jk8zijN0IT) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star OST](https://open.spotify.com/album/64eGzMLFB50yhI3L8oNQr0) | 4:02 |
 | 76 | [애인 있어요](https://open.spotify.com/track/3f5bz3Gzkftj206JtM3s6b) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [윤일상 작곡가 21주년 기념 앨범 I'm 21, Pt.3](https://open.spotify.com/album/4IaE4tz9fC5QYt01QgUp8I) | 4:08 |
 | 77 | [One Person](https://open.spotify.com/track/3urQmb67JAbkMBBFGHpzJO) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Huh Gak\-One Person' Big \(Original Television Soundtrack\)](https://open.spotify.com/album/3L6aluNnQ9NaFgcoimyvUy) | 3:58 |
 | 78 | [밀리언조각 A Million Pieces](https://open.spotify.com/track/55GUJw0zEtfcjxjkwl8GL5) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Fall, Once again \- The 2nd Mini Album](https://open.spotify.com/album/3fIvs6taFrgHDXIG7E6XZP) | 5:12 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MCwwZjNkNjJmMzI1MjAwNDNhNmRmZmE1OWNkNjQwYjA3ZDNiMDMwNzBh`
+Snapshot ID: `MCw3ZGUwM2JjMzZmYzQxOTA1MWMxN2FjZTI0NWYwMzE5NzIxOWEwMmVl`

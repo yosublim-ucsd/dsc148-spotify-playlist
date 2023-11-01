@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 379648,
+  "num_followers": 379677,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGM0MjkzNjgzMmQ0YTcxMjBmYzlmODI3ODMzMDRkN2YxOTI1ZjMz",
+  "snapshot_id": "MCw5YjcwOTJlNjEwOTU5Y2VmZmFkZjE4YzQwYWMxZjk3ZWM5NDY1ZDQx",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Letting In",
+        "url": "https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl"
+      },
+      "artists": [
+        {
+          "name": "Beauville",
+          "url": "https://open.spotify.com/artist/4uf9PIXkZQTXqzl5gyDJLj"
+        },
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        }
+      ],
+      "duration_ms": 263466,
+      "name": "Letting In",
+      "url": "https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 160505,
       "name": "My Love",
       "url": "https://open.spotify.com/track/398CKeawsPHfonnxsimsPe"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Letting In",
-        "url": "https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl"
-      },
-      "artists": [
-        {
-          "name": "Beauville",
-          "url": "https://open.spotify.com/artist/4uf9PIXkZQTXqzl5gyDJLj"
-        },
-        {
-          "name": "NoMBe",
-          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
-        }
-      ],
-      "duration_ms": 263466,
-      "name": "Letting In",
-      "url": "https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "something more",
-        "url": "https://open.spotify.com/album/6xqDqHbdWJMuYtKySlTgaL"
-      },
-      "artists": [
-        {
-          "name": "j ember",
-          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
-        }
-      ],
-      "duration_ms": 196022,
-      "name": "something more",
-      "url": "https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "God Save The Animals",
         "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 224253,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/5PZuWw56Wwc9W6nEi3ZcWO"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "something more",
+        "url": "https://open.spotify.com/album/6xqDqHbdWJMuYtKySlTgaL"
+      },
+      "artists": [
+        {
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "something more",
+      "url": "https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Fading",
-        "url": "https://open.spotify.com/album/7GCPAZQCDwH0jF731PGq0I"
-      },
-      "artists": [
-        {
-          "name": "Vallis Alps",
-          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
-        }
-      ],
-      "duration_ms": 282701,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/1H8qj01KxNgHyKHsF5QHXB"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Far From Here",
         "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 260338,
       "name": "Edge of the Dark",
       "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/7GCPAZQCDwH0jF731PGq0I"
+      },
+      "artists": [
+        {
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+        }
+      ],
+      "duration_ms": 282701,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/1H8qj01KxNgHyKHsF5QHXB"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Tremors",
-        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
-      },
-      "artists": [
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Artifice",
-      "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "The Pilot",
         "url": "https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Tremors",
+        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
+      },
+      "artists": [
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Artifice",
+      "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Roses & Revolutions",
         "url": "https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi"
       },
@@ -947,6 +947,30 @@
       "duration_ms": 187466,
       "name": "The Pines",
       "url": "https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 199768,
+      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -979,30 +1003,6 @@
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Subconsciously",
-        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 199768,
-      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
-      "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "YOUNG",
+        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Nighttime Hunger",
+      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Gold (Flume Rework)",
         "url": "https://open.spotify.com/album/0c6k1Sx08mOgZ1ZmnyqG9T"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 267231,
       "name": "Gold - Flume Rework",
       "url": "https://open.spotify.com/track/6iIDeCpn9TQB7yns5zwkc6"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "YOUNG",
-        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Nighttime Hunger",
-      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "That Was Now",
-        "url": "https://open.spotify.com/album/1gCGFSSWkObei98ZWHVt3D"
-      },
-      "artists": [
-        {
-          "name": "Just Jack",
-          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Trouble to Share",
-      "url": "https://open.spotify.com/track/4LeOE2C8BG5mQUu0SC5YEX"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Heart (Alternative Version)",
         "url": "https://open.spotify.com/album/3raFKyVQMl05qPHSDUUjcS"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 175862,
       "name": "Heart - Alternative Version",
       "url": "https://open.spotify.com/track/44EPCM1s8YWZKGUTTcbxOB"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "That Was Now",
+        "url": "https://open.spotify.com/album/1gCGFSSWkObei98ZWHVt3D"
+      },
+      "artists": [
+        {
+          "name": "Just Jack",
+          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Trouble to Share",
+      "url": "https://open.spotify.com/track/4LeOE2C8BG5mQUu0SC5YEX"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Awaken (Feel Alive)",
+        "url": "https://open.spotify.com/album/3LjP2mnsPooNbNG5faylZH"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 180204,
+      "name": "Awaken (Feel Alive)",
+      "url": "https://open.spotify.com/track/2qTWIlRARiTrE5MIO1Q0HE"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Iridescent",
         "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
       },
@@ -1611,26 +1631,6 @@
       "duration_ms": 188866,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Awaken (Feel Alive)",
-        "url": "https://open.spotify.com/album/3LjP2mnsPooNbNG5faylZH"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 180204,
-      "name": "Awaken (Feel Alive)",
-      "url": "https://open.spotify.com/track/2qTWIlRARiTrE5MIO1Q0HE"
     },
     {
       "added_at": "2023-01-11 21:01:15",

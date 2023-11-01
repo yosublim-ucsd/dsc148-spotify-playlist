@@ -1245,6 +1245,28 @@
     },
     {
       "album": {
+        "name": "Away From You",
+        "url": "https://open.spotify.com/album/6Aboyci4QbukIyV93AdcKo"
+      },
+      "artists": [
+        {
+          "name": "Ruben de Ronde",
+          "url": "https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m"
+        },
+        {
+          "name": "Kay Wilder",
+          "url": "https://open.spotify.com/artist/0ySNFsBXHoZE2NqwM0FCtV"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Away From You",
+      "url": "https://open.spotify.com/track/4DRmet0zFQ4dzQzHRqYbZI"
+    },
+    {
+      "album": {
         "name": "Ayuma",
         "url": "https://open.spotify.com/album/2rezrkEnh6JNfYNyvGdVzy"
       },
@@ -8046,7 +8068,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 151304,
       "name": "Light Up The Sky",
       "url": "https://open.spotify.com/track/2kD2avc7DcABRwAMFgakCy"

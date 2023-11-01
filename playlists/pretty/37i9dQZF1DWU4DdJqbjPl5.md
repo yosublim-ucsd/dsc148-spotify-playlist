@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 ### [Tantalizers](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=41dz747lS2yRF62xACeKHQ"> Xenia Manasseh </a>
+> The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC?si=f37zn79yTcCtdQ9LGcPk2w"> Karun</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,300 likes - 76 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,252 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,11 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 68 | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK) | 4:05 |
 | 69 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |
 | 70 | [Pieces \(with Tay Iwar\)](https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:24 |
-| 71 | [Falling Down](https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:04 |
-| 72 | [Do Not Disturb](https://open.spotify.com/track/6pvxoVnP8Ep3AtjGCV9AMd) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 3:13 |
-| 73 | [Touching on My Baby](https://open.spotify.com/track/4TQqtk6JQD6pYBOhiIrNwd) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Touching on My Baby](https://open.spotify.com/album/72AlrzsvuiyydOXwe09foV) | 2:35 |
-| 74 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
-| 75 | [What Have You Done?](https://open.spotify.com/track/5xvRXXVYOketwpYA39Dfrm) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [What Have You Done?](https://open.spotify.com/album/3G7drc03HfTHoIVCUJ8m11) | 3:28 |
-| 76 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 |
+| 71 | [Do Not Disturb](https://open.spotify.com/track/6pvxoVnP8Ep3AtjGCV9AMd) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 3:13 |
+| 72 | [Touching on My Baby](https://open.spotify.com/track/4TQqtk6JQD6pYBOhiIrNwd) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Touching on My Baby](https://open.spotify.com/album/72AlrzsvuiyydOXwe09foV) | 2:35 |
+| 73 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
+| 74 | [What Have You Done?](https://open.spotify.com/track/5xvRXXVYOketwpYA39Dfrm) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [What Have You Done?](https://open.spotify.com/album/3G7drc03HfTHoIVCUJ8m11) | 3:28 |
+| 75 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 |
 
-Snapshot ID: `MCw1NWE3ZTIxNTMyYjM0NGQ2NTZjMTcyNThhNDFkYTZmMTk0YjNkNjFi`
+Snapshot ID: `MCxjOWE5NmU1OTFlNDk0YzY1YzYyNzRiM2I2NGMzNjMyNzY3YTZjMGI4`

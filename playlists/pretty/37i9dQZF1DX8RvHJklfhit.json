@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 171686,
+  "num_followers": 171769,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -107,30 +107,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        }
-      ],
-      "duration_ms": 207454,
-      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
-      "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Someone To Spend Time With",
         "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
       },
@@ -179,6 +155,30 @@
       "duration_ms": 211021,
       "name": "Beso",
       "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "duration_ms": 207454,
+      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
+      "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -263,6 +263,26 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Am\u00e1rrame",
+      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "R\u00edo Salvaje",
         "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
@@ -295,22 +315,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 207333,
-      "name": "Am\u00e1rrame",
-      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -331,18 +347,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+      "duration_ms": 199505,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -359,22 +375,6 @@
       "duration_ms": 236000,
       "name": "V\u00e1monos De Viaje",
       "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 199505,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/4JOcTTsqOx4g1G0U3lnt9m"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 159533,
       "name": "Friends",
       "url": "https://open.spotify.com/track/50efMyG2rMRQZ755G5iYMN"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Am\u00e9rica Supers\u00f3nica",
-        "url": "https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Lo Mejor, Lo Peor",
-      "url": "https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Romancero",
         "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 184480,
       "name": "De Momento Abril",
       "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Am\u00e9rica Supers\u00f3nica",
+        "url": "https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Lo Mejor, Lo Peor",
+      "url": "https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "\u00c9pocas",
-        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 221853,
-      "name": "\u00c9pocas",
-      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Girls Go Wild (feat. Ximena Sari\u00f1ana)",
         "url": "https://open.spotify.com/album/0Jkc1qjF3OzXzUrO9QlcZX"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 188341,
       "name": "Suin Romanticon",
       "url": "https://open.spotify.com/track/50ikhv8M3yUnoNW9dUEXxy"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "\u00c9pocas",
+        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "\u00c9pocas",
+      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Kinky (Remastered)",
-        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 261813,
-      "name": "Ejercicio #16 - Remastered",
-      "url": "https://open.spotify.com/track/1zIEjkEd2awwjVTxqPPecY"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "PSILOCIBINA",
         "url": "https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
+        "name": "Kinky (Remastered)",
+        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
         }
       ],
-      "duration_ms": 253984,
-      "name": "Nydia",
-      "url": "https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E"
+      "duration_ms": 261813,
+      "name": "Ejercicio #16 - Remastered",
+      "url": "https://open.spotify.com/track/1zIEjkEd2awwjVTxqPPecY"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Night Moves",
-        "url": "https://open.spotify.com/album/2bvow9uJrep57G06zuoLjc"
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
       "artists": [
         {
-          "name": "Michi",
-          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 199613,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/1D6Slhg7MMnraZpIEE8pbb"
+      "duration_ms": 253984,
+      "name": "Nydia",
+      "url": "https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "HU HU HU",
-        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
+        "name": "Night Moves",
+        "url": "https://open.spotify.com/album/2bvow9uJrep57G06zuoLjc"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
         }
       ],
-      "duration_ms": 267840,
-      "name": "Cursis Melod\u00edas",
-      "url": "https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q"
+      "duration_ms": 199613,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/1D6Slhg7MMnraZpIEE8pbb"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1315,6 +1299,22 @@
       "duration_ms": 290106,
       "name": "There Must Be a Song Like You",
       "url": "https://open.spotify.com/track/0686tzFJ79mRZPApYYLiMA"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "HU HU HU",
+        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 267840,
+      "name": "Cursis Melod\u00edas",
+      "url": "https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Ahomale",
-        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
-      "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Musica Para Despues De Almuerzo",
-        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
+        "name": "Ahomale",
+        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
       },
       "artists": [
         {
-          "name": "Bitman & Roban",
-          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Despues De Almuerzo Parte 3",
-      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
+      "duration_ms": 236786,
+      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
+      "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1495,6 +1479,22 @@
       "duration_ms": 189176,
       "name": "Gala",
       "url": "https://open.spotify.com/track/0ykuiiJRJD5OasJuMH0DTV"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Musica Para Despues De Almuerzo",
+        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
+      },
+      "artists": [
+        {
+          "name": "Bitman & Roban",
+          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Despues De Almuerzo Parte 3",
+      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "NTE",
+        "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 171807,
+      "name": "NTE",
+      "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Nubes",
         "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 221877,
       "name": "Someone",
       "url": "https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "NTE",
-        "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 171807,
-      "name": "NTE",
-      "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
     }
   ],
   "unique_name": "Latin Indie Classics",

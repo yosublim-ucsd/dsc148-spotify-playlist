@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 116564,
       "name": "Hatin' Ass Bitches Anthem",
       "url": "https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft"
@@ -3758,7 +3758,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 127503,
       "name": "My Back (Jersey Club)",
       "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
@@ -5687,6 +5687,24 @@
     },
     {
       "album": {
+        "name": "UDNTLUVME",
+        "url": "https://open.spotify.com/album/6cqqln1dVUJrrrf5eAuiu0"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "UDNTLUVME",
+      "url": "https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV"
+    },
+    {
+      "album": {
         "name": "SKYPE",
         "url": "https://open.spotify.com/album/6n2zjPqLT1aZWSEgNYcWZZ"
       },
@@ -5760,7 +5778,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 145655,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW"

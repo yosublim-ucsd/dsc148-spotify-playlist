@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,583 likes - 67 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,587 likes - 67 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

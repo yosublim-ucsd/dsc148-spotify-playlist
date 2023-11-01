@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Giriboy\(기리보이\)\)
 
-1,011 songs - 2 day 7 hr 31 min
+1,012 songs - 2 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,6 +608,7 @@
 | [MOSS \(Feat\. MINO, BOBBY\) \(Prod\. MINO\)](https://open.spotify.com/track/1cYDmIZtF2SGveyqhc7X1Y) | [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 4:04 | 2021-12-21 | 2022-06-30 |
 | [Motor Show](https://open.spotify.com/track/3IOMwFPdDEz9pRhp57M9Me) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [YNR VS ALL](https://open.spotify.com/album/2K65RodurSpx5oPT94nG9b) | 3:26 | 2023-03-08 | 2023-07-18 |
 | [Move Up \(Prod\. by Deepflow & Van Ruther\)](https://open.spotify.com/track/69QwCU3FaWdRLfU9YMKe5G) | [Walo](https://open.spotify.com/artist/0pVr6piInuPIThw585LsJy), [Kool Aid](https://open.spotify.com/artist/4SixcaYyvQR5tOY5rkiihR) | [ROOM RAPPER Part.2 Semi\-Final](https://open.spotify.com/album/6hgoiUuzVPlrqOZ5IzFZ9R) | 3:13 | 2022-06-09 | 2022-08-13 |
+| [Move! \(Prod\. Slom\)](https://open.spotify.com/track/7egXoFXUqXCE1FT73wHNCK) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Street Woman Fighter2\(SWF2\) Final Performance](https://open.spotify.com/album/6K8UR09gTck9A0GaOs1LJf) | 2:48 | 2023-10-31 |  |
 | [MR\. BAD \(Feat\. Woo\)](https://open.spotify.com/track/5KkAIk1aWPPIWIkSGnEmJg) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [MR\. BAD](https://open.spotify.com/album/71KOTVJkEhbXVLNdZGKe9a) | 3:05 | 2022-08-09 | 2023-01-18 |
 | [Mr\. FOSHO \(feat\. OXYNOVA, Polodared & KHAN\)](https://open.spotify.com/track/2QAb4EOQoy8QshiTBAaCH2) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [KHAN](https://open.spotify.com/artist/2dixWDh9f2COEfikojSd39) | [Mr\. FOSHO](https://open.spotify.com/album/6Ccz99yuUi2KVQHB6zsUSn) | 3:13 | 2022-06-09 | 2022-08-13 |
 | [Mr.Crooked \(Feat\. Kim Seungmin, Han Yo Han\)](https://open.spotify.com/track/0XGRwNXqZ5Aao3r5ACoPAz) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Mr.Crooked](https://open.spotify.com/album/7fqLcDodbP3uYIkzJwZM7I) | 3:35 | 2022-08-19 | 2022-10-30 |

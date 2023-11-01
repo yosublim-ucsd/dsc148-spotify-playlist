@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,873 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,930 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 54 | [Me Voy a Poner Bien Loco](https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:23 |
 | 55 | [Chingo de Cheve](https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Millonario Sin Corona](https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3) | 3:29 |
 | 56 | [Borracho Gacho](https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 2:45 |
-| 57 | [Ni Miedo Ni Piedad](https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Ni Miedo Ni Piedad](https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg) | 4:38 |
-| 58 | [Entrada Sin Salida](https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK) | [Mr\. Yosie Locote](https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR) | [Viaje Sin Equipaje](https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw) | 4:15 |
+| 57 | [Entrada Sin Salida](https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK) | [Mr\. Yosie Locote](https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR) | [Viaje Sin Equipaje](https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw) | 4:15 |
+| 58 | [Ni Miedo Ni Piedad](https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Ni Miedo Ni Piedad](https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg) | 4:38 |
 | 59 | [Malo Es No Hacer Billete](https://open.spotify.com/track/1qokziiqQTfZyXdroK13rP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Malo Es No Hacer Billete](https://open.spotify.com/album/1cyMKWjSIl6fL1hQg67QIJ) | 2:49 |
 | 60 | [Pow Wow Wow](https://open.spotify.com/track/6mmhluGpoTV7m49MG5krOY) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Pow Wow Wow](https://open.spotify.com/album/6ja3hrP2QFKJb7qhPpX3Cy) | 2:46 |
 | 61 | [Liga Malandra](https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Duende](https://open.spotify.com/artist/6RqzIj3qOKsNemp4GZMDH9), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Quetzal](https://open.spotify.com/artist/1NsELvHsy63esCtlakIxjD), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t) | [Locofonías](https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT) | 6:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 99 | [Sabadrugs](https://open.spotify.com/track/5RuBHhtREoVI9t1YpdsJJ5) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [B\-RASTER](https://open.spotify.com/artist/4TH5DHRtzUUijYshUgKdby), [Sonik 420](https://open.spotify.com/artist/21TpgyDPXfEFa21Hgaj9Ed) | [Sabadrugs](https://open.spotify.com/album/4DjsNnuINp4iwMarVMSvJC) | 3:49 |
 | 100 | [My Name](https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [My Name](https://open.spotify.com/album/5VX1xk0uVSPBVUsD80v1ji) | 3:02 |
 
-Snapshot ID: `MCw0MTJiMjUxN2YwNWZhNDMxMDFmNWIyMTYxNmM1OTZlOTQwYzlhZjNm`
+Snapshot ID: `MCxhMmVlZWM2NjIxNjdiZmYzMDQzNmI1MGI4MGRkNTNlOGViMWRkZmZh`

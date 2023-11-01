@@ -189,6 +189,28 @@
     },
     {
       "album": {
+        "name": "Ame ga Yandara",
+        "url": "https://open.spotify.com/album/0ftzkdLQHqBd5axuwbEVlV"
+      },
+      "artists": [
+        {
+          "name": "Shizuka Kanata",
+          "url": "https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy"
+        },
+        {
+          "name": "Tsuyoshi Nariyama",
+          "url": "https://open.spotify.com/artist/2n0myr3J8YDZCPCfzoSE7Y"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303631,
+      "name": "Ame ga Yandara",
+      "url": "https://open.spotify.com/track/0gQlQ6SjuwbLNdIPGqrXBz"
+    },
+    {
+      "album": {
         "name": "Amy goes (feat.Takashi Kobayashi)",
         "url": "https://open.spotify.com/album/5LuhFz7J0HjWsa1AC4jH3U"
       },
@@ -544,6 +566,24 @@
       "duration_ms": 207040,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/5VQzdW80ZpK4Hb4Pqp8BLh"
+    },
+    {
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2WMOvKjD5NAMPNbGhxKkRD"
+      },
+      "artists": [
+        {
+          "name": "Eminata",
+          "url": "https://open.spotify.com/artist/3NhhOmhRHpzI0UvKqNSdn1"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253534,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/08xTPwrXO0v8LhDmCsI0cC"
     },
     {
       "album": {
@@ -1474,7 +1514,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 287000,
       "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
       "url": "https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w"
@@ -2024,7 +2064,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 118253,
       "name": "Moon Flower",
       "url": "https://open.spotify.com/track/1zNdql4RAENgsKUM6W0muM"
@@ -4275,6 +4315,24 @@
     },
     {
       "album": {
+        "name": "\u30b0\u30c3\u30d0\u30a4\u30d9\u30a4\u30d3\u30fc",
+        "url": "https://open.spotify.com/album/6GMSKJKRpnputlzaa4XcT1"
+      },
+      "artists": [
+        {
+          "name": "\u91d1\u5b50\u99ff\u5e73",
+          "url": "https://open.spotify.com/artist/5DUP4fm6KyjShYp8fqK4q0"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359707,
+      "name": "\u30b0\u30c3\u30d0\u30a4\u30fb\u30d9\u30a4\u30d3\u30fc",
+      "url": "https://open.spotify.com/track/5clahllWaMb4oN7NwkCoy1"
+    },
+    {
+      "album": {
         "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
         "url": "https://open.spotify.com/album/6ZJiQK3EF2ra1WqFaeX6qz"
       },
@@ -4470,7 +4528,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 228038,
       "name": "\u30d1\u30ec\u30fc\u30c9",
       "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
@@ -5006,6 +5064,24 @@
       "duration_ms": 303812,
       "name": "\u5fc3\u306e\u305d\u3070\u306b",
       "url": "https://open.spotify.com/track/3VXkaNgYFHOxbuOmKejypT"
+    },
+    {
+      "album": {
+        "name": "fractal",
+        "url": "https://open.spotify.com/album/3NenWu6krTP5SUjq6OSUTp"
+      },
+      "artists": [
+        {
+          "name": "sleepy.ab",
+          "url": "https://open.spotify.com/artist/6K5m40eGoEYPBOg7hSLjwy"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295899,
+      "name": "\u606f\u7d99\u304e",
+      "url": "https://open.spotify.com/track/2kgovYj0rviDMAm3NsB54t"
     },
     {
       "album": {
@@ -5772,7 +5848,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 233946,
       "name": "\u7720\u308c\u306c\u7f8a - with TENDRE",
       "url": "https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj"

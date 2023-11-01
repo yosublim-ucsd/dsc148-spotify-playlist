@@ -1042,10 +1042,32 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 201600,
       "name": "Island Girl",
       "url": "https://open.spotify.com/track/6Mkftw4IhDly1y4temAjAJ"
+    },
+    {
+      "album": {
+        "name": "Island Girl",
+        "url": "https://open.spotify.com/album/6DbDxpKx3zn2I5bpuREtL9"
+      },
+      "artists": [
+        {
+          "name": "DJ Noiz",
+          "url": "https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK"
+        },
+        {
+          "name": "JAHBOY",
+          "url": "https://open.spotify.com/artist/1Y2oDvzU0n9fALfGLYx6Mt"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Island Girl",
+      "url": "https://open.spotify.com/track/7n08gZOuPxQmCRl4apCT3n"
     },
     {
       "album": {

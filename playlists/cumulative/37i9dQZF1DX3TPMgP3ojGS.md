@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,767 songs - 3 day 7 hr 9 min
+1,768 songs - 3 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1634,7 +1634,7 @@
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-02-09 | 2022-12-24 |
 | [Un peu d'espoir](https://open.spotify.com/track/43PPeEImtgU8I1a7Wm41bt) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Un peu d'espoir](https://open.spotify.com/album/1G3A5OJ2NooyclJwgrCHGD) | 2:13 | 2022-07-08 | 2022-07-14 |
 | [Un sogno tutto mio](https://open.spotify.com/track/09MOGGltE3OpP7e5V0XLej) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Un sogno tutto mio](https://open.spotify.com/album/4RoP7tZyamHdU49ZI17BFb) | 2:40 | 2021-04-22 | 2022-04-18 |
-| [Un sourire et une larme \(valse\)](https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Petites danses et rêveries](https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB) | 2:26 | 2022-12-22 |  |
+| [Un sourire et une larme \(valse\)](https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Petites danses et rêveries](https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB) | 2:26 | 2022-12-22 | 2023-11-01 |
 | [Unassailable](https://open.spotify.com/track/5n3cwcqeC5XvcBuix3ZuVC) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Unassailable](https://open.spotify.com/album/2HPF5oiDvF7hhvzG5LjlnY) | 3:14 | 2022-06-22 | 2022-12-24 |
 | [Unbridled Enthusiasm](https://open.spotify.com/track/5YhfanimuTXvKF7WHWwOi6) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Piano 1](https://open.spotify.com/album/6nN0rcQ7C1JvZl2RiK0lt5) | 2:40 | 2021-03-22 | 2021-03-23 |
 | [Under a tree](https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Under a tree](https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn) | 2:18 | 2023-10-03 |  |
@@ -1722,6 +1722,7 @@
 | [Where Worlds Collide](https://open.spotify.com/track/04F2CVACUouSEWkaApQnmf) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 4:02 | 2021-03-10 | 2022-07-29 |
 | [Where's My Love \- Piano Solo](https://open.spotify.com/track/7ih16mauHrpUMOIeWEOyVO) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Piano Solo\)](https://open.spotify.com/album/6YhPay3BxJkrx8WGrgNdj2) | 4:34 | 2022-04-14 | 2022-04-17 |
 | [Whirlwind](https://open.spotify.com/track/6XLHtgcoVSxYAo8EgXyGqy) | [Yitzhak Benjamin](https://open.spotify.com/artist/4I9Uarr9FJIWY02W2CzT4L) | [Whirlwind](https://open.spotify.com/album/6MnmCNHk4otC7QsfKWHtRg) | 2:01 | 2021-03-25 | 2021-10-05 |
+| [Whispering Oaks](https://open.spotify.com/track/5jJodZ6zXjMdAgumEyVKb1) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Whispering Oaks](https://open.spotify.com/album/1jg0lKpBFgPpgww85JzDNz) | 2:31 | 2023-10-26 |  |
 | [White Butterfly](https://open.spotify.com/track/08YpIbdhqosOuZl9cddBHF) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [White Butterfly](https://open.spotify.com/album/7kRdP9sK6uKzQbBrGQ54yN) | 2:34 | 2022-12-22 | 2023-03-10 |
 | [White Christmas](https://open.spotify.com/track/6svYbhJNpBNGMABD4aXD3n) | [Mila Crowell](https://open.spotify.com/artist/5abWpggjZABRz6VzlVjzyo) | [Soft Christmas](https://open.spotify.com/album/5NVZvHywOX33YAOZduxxCI) | 2:38 | 2021-03-09 | 2022-04-16 |
 | [White Water](https://open.spotify.com/track/0mAJr2W8VI3b7ErenwsTbG) | [Chris DiGiorgio](https://open.spotify.com/artist/2TzK3jTz6ETUS8ElO97lHl) | [White Water](https://open.spotify.com/album/2M464pJs8w3RhyZdEXRZEq) | 4:15 | 2021-05-05 | 2022-06-28 |

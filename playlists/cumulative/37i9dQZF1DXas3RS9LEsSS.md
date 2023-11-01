@@ -4,7 +4,7 @@
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-80 songs - 5 hr 28 min
+81 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Da Más](https://open.spotify.com/track/6jNFyxd2wub6PcDlkEhEOw) | [Adrián Otero](https://open.spotify.com/artist/0RZvJL3AicNni7cisqcIxC) | [Imán](https://open.spotify.com/album/7oWfoOQuNX8N53vZxv7yzY) | 3:14 | 2020-12-01 |  |
 | [Don't Let Fear](https://open.spotify.com/track/0o8Do9Ed0v3MqoGnjy2ghK) | [Jessy Howe](https://open.spotify.com/artist/4qdw2RTYky5FRJAq1znp2v), [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn), [Vikings of Blues](https://open.spotify.com/artist/37Y8IZI30LNBrm4QF9mt7x) | [Soul Food](https://open.spotify.com/album/0bFLql3wAV9twd1RcFPrL1) | 4:20 | 2021-04-09 | 2022-09-02 |
 | [Don't Let Fear](https://open.spotify.com/track/3Z2pjyXFZRClZ6VzNHB1CI) | [Vikings of Blues](https://open.spotify.com/artist/37Y8IZI30LNBrm4QF9mt7x), [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn), [Jessy Howe](https://open.spotify.com/artist/4qdw2RTYky5FRJAq1znp2v) | [Soul Food](https://open.spotify.com/album/1lfVzJ28tTgXnz4hS5SdoD) | 4:20 | 2021-04-09 |  |
-| [El Hombre Suburbano](https://open.spotify.com/track/1AgOt4TGz8VH4xj657ycLS) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 1](https://open.spotify.com/album/6uWGYV8FdHIJD95GRqv3QH) | 2:18 | 2020-12-01 |  |
+| [El Hombre Suburbano](https://open.spotify.com/track/1AgOt4TGz8VH4xj657ycLS) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 1](https://open.spotify.com/album/6uWGYV8FdHIJD95GRqv3QH) | 2:18 | 2020-12-01 | 2023-11-01 |
+| [El Hombre Suburbano](https://open.spotify.com/track/1pakHYd2svU7ytp8H7RsuE) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 1](https://open.spotify.com/album/0pCYUpMnAkVNkCNtPluhSC) | 2:21 | 2020-12-01 |  |
 | [Ella Es Como un Ángel \- En Vivo Cosquín Rock](https://open.spotify.com/track/1ZwRW2fBF8MwLhopiNeYcJ) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Vivo Cosquín Rock](https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR) | 2:58 | 2021-08-06 |  |
 | [Enciende la Mecha](https://open.spotify.com/track/5hWiJ0JF3uR4gLQOa9OnQs) | [Esencia Vudú](https://open.spotify.com/artist/0KGjxpIP86Yc0Qmcy1Mllp) | [Reflejos](https://open.spotify.com/album/03ACvXgC0UhX2LbntbbypT) | 4:32 | 2020-12-01 |  |
 | [Enciende la mecha](https://open.spotify.com/track/6DQUzFS2EFIvsA6tDjUvFD) | [Esencia Vudú](https://open.spotify.com/artist/0KGjxpIP86Yc0Qmcy1Mllp) | [Reflejos](https://open.spotify.com/album/4FEM4RgQRenJRpDGTkLh0E) | 4:32 | 2020-12-01 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 
 > Music by our 2023 Artists To Watch\. Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,655 likes - 30 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,661 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 | 19 | [La Curiosidad \- Deluxe](https://open.spotify.com/track/7EesJDJFoBjFoWeA3CeLVo) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 3:36 |
 | 20 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
 | 21 | [Aquí Sigo](https://open.spotify.com/track/4NBbnTNp6oFMUlIDjOtXsB) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Aquí Sigo](https://open.spotify.com/album/3hr6FTGLuXCFvYnHuBpPaX) | 2:38 |
-| 22 | [Loco](https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Loco](https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI) | 3:33 |
-| 23 | [Full of Diamonds](https://open.spotify.com/track/0cmJ4BzHucAJGS8BtJgxnm) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Full of Diamonds](https://open.spotify.com/album/6rWB7o6ZtJo7wXGDz3ywpx) | 4:24 |
+| 22 | [Full of Diamonds](https://open.spotify.com/track/0cmJ4BzHucAJGS8BtJgxnm) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Full of Diamonds](https://open.spotify.com/album/6rWB7o6ZtJo7wXGDz3ywpx) | 4:24 |
+| 23 | [Loco](https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Loco](https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI) | 3:33 |
 | 24 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
 | 25 | [te kiero ver](https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [te kiero ver](https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg) | 2:27 |
 | 26 | [LQTQH](https://open.spotify.com/track/2rEtrKowZlSwB3YJU9KJhL) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [LQTQH](https://open.spotify.com/album/5HPXDjAoNY2sLab8HotJ59) | 2:41 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 | 29 | [Yo Tengo un Novio](https://open.spotify.com/track/2G4v9zseCOfdTvIs90qi6D) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:37 |
 | 30 | [noches largas, faldas cortas](https://open.spotify.com/track/3So3rUrTEA5PT5lJCNXFe4) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 |
 
-Snapshot ID: `MCw0MWQ0OWVkODZlNzYxODY2ZDcyNzMwMTFjODY1NGM3MWY0Y2JiZjYw`
+Snapshot ID: `MCw1MmRlYWY1ZGM5NGNjYjcwNGE4MmNiYTYzODRkZjBhODVlODNmNjI3`

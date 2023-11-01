@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Whatever The Weather
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,685 likes - 100 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,699 likes - 100 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 67 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 |
 | 68 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 |
 | 69 | [Mountain of Air](https://open.spotify.com/track/5yMNNTsImr64llPwqtB6p4) | [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [For Organ and Brass](https://open.spotify.com/album/1CYC6me7uYzEHT5klCLQpL) | 7:26 |
-| 70 | [A Journey](https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M) | 4:16 |
-| 71 | [Marina\`s Song](https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP) | [EIRLYS](https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l) | [Marina\`s Song](https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g) | 5:03 |
+| 70 | [Marina\`s Song](https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP) | [EIRLYS](https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l) | [Marina\`s Song](https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g) | 5:03 |
+| 71 | [A Journey](https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M) | 4:16 |
 | 72 | [Hyphae](https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Possessed \(Original Score\)](https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY) | 6:27 |
 | 73 | [Cry Me A Blizzard \- AFRODEUTSCHE I'm Here Remix](https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG), [AFRODEUTSCHE](https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m) | [Cry Me A Blizzard \(AFRODEUTSCHE I'm Here Remix\)](https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3) | 3:29 |
 | 74 | [Inspirit \- Extended Version](https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle \- Extended Versions](https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d) | 10:40 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 78 | [The Centre of Everything](https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X) | [Alice in Freefall](https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX) | [World Breathes](https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj) | 3:14 |
 | 79 | [Sonnet](https://open.spotify.com/track/19829GO0Ckd7czgPIoSoVb) | [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee) | [Maquishti](https://open.spotify.com/album/6RSCxwbIAA8Wyc86A0cigc) | 5:43 |
 | 80 | [Light in Phases](https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 4:26 |
-| 81 | [Hope Dealers](https://open.spotify.com/track/4V6Y9lCX3xnSoa11nN2S02) | [Klein](https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct) | [Hope Dealers](https://open.spotify.com/album/71cZVBxEtdDgJDRXipmtlZ) | 5:52 |
-| 82 | [Divining \(naming of the Lost\)](https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk) | [The Seven Fields Of Aphelion](https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ) | [Keep the Ocean Inside](https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2) | 4:51 |
-| 83 | [I'll Look for You in Others](https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [I'll Look For You In Others](https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6) | 6:33 |
+| 81 | [Divining \(naming of the Lost\)](https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk) | [The Seven Fields Of Aphelion](https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ) | [Keep the Ocean Inside](https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2) | 4:51 |
+| 82 | [I'll Look for You in Others](https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [I'll Look For You In Others](https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6) | 6:33 |
+| 83 | [Hope Dealers](https://open.spotify.com/track/4V6Y9lCX3xnSoa11nN2S02) | [Klein](https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct) | [Hope Dealers](https://open.spotify.com/album/71cZVBxEtdDgJDRXipmtlZ) | 5:52 |
 | 84 | [Myg](https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 10:18 |
 | 85 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 4:56 |
 | 86 | [Effektology](https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc) | [Noveller](https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2) | [Arrow](https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S) | 3:47 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 88 | [Firmamento](https://open.spotify.com/track/0KHQIxbitvGI5Hm8AKEtZa) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [The Harmonic Series Volume 2](https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2) | 13:55 |
 | 89 | [danaïdes](https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 4:40 |
 | 90 | [Berceuse for a Star Child](https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [Evensong: Canticles for the Earth](https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z) | 5:51 |
-| 91 | [fountainhead](https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4) | [Courtney Swain](https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0) | [Fountainhead](https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn) | 6:45 |
-| 92 | [Hymn](https://open.spotify.com/track/1OqQpPHXWlfEZDEwHH1BFa) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Chain Reaction at Dusk](https://open.spotify.com/album/5ZHQ26B7GrALEvdtx2fymP) | 7:28 |
+| 91 | [Hymn](https://open.spotify.com/track/1OqQpPHXWlfEZDEwHH1BFa) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Chain Reaction at Dusk](https://open.spotify.com/album/5ZHQ26B7GrALEvdtx2fymP) | 7:28 |
+| 92 | [fountainhead](https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4) | [Courtney Swain](https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0) | [Fountainhead](https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn) | 6:45 |
 | 93 | [Humidity](https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Nana Pi](https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I) | [Humidity](https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba) | 4:31 |
 | 94 | [Epistasis](https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO) | [Maria W Horn](https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak) | [Epistasis](https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev) | 9:31 |
 | 95 | [You, at the End \- Laurel Halo Version](https://open.spotify.com/track/0mpoJatIQQiyxaAvAS6H9e) | [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [The Fifth Season \(Versions\)](https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs) | 11:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 99 | [Aralkum](https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Berlin Atonal: More Light](https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA) | 6:39 |
 | 100 | [Traquair \(LAYERS ambient\)](https://open.spotify.com/track/1cUOojLPXn3SSGXvnil5qC) | [Mara Simpson](https://open.spotify.com/artist/1qn02YVZeKMegZimHpELHH), [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [LAYERS](https://open.spotify.com/album/52V08L7diSUAIP9Mt4eXjV) | 4:09 |
 
-Snapshot ID: `MCxiNzdkNTA3ZGJmZWFmYzZjYmEyNjNmMDQ5NWE3ZTQ4MTIxYjY5YzQ2`
+Snapshot ID: `MCw1MTM3NDRkMDk0Y2E0ZDhiNTEwOGJmOTViM2RjMDM4MTcwMzAxNmEy`

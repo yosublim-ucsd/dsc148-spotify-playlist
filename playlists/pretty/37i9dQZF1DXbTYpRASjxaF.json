@@ -1,6 +1,6 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Abbot, VHOOR",
-  "num_followers": 125451,
+  "num_followers": 125512,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,30 @@
     {
       "added_at": "2023-10-27 23:10:33",
       "album": {
+        "name": "Licor 43",
+        "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 142470,
+      "name": "Licor 43",
+      "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
+    },
+    {
+      "added_at": "2023-10-27 23:10:33",
+      "album": {
         "name": "Contagem",
         "url": "https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA"
       },
@@ -339,66 +363,6 @@
     {
       "added_at": "2023-10-27 23:10:33",
       "album": {
-        "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
-        "url": "https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h"
-      },
-      "artists": [
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
-      "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
-    },
-    {
-      "added_at": "2023-10-27 23:10:33",
-      "album": {
-        "name": "Licor 43",
-        "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 142470,
-      "name": "Licor 43",
-      "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
-    },
-    {
-      "added_at": "2023-10-27 23:10:33",
-      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
@@ -435,6 +399,42 @@
     {
       "added_at": "2023-10-27 23:10:33",
       "album": {
+        "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
+        "url": "https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
+      "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
+    },
+    {
+      "added_at": "2023-10-27 23:10:33",
+      "album": {
         "name": "Ascens\u00e3o do Cisne Negro",
         "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
       },
@@ -455,6 +455,30 @@
       "duration_ms": 177877,
       "name": "Dose de Gin",
       "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
+    },
+    {
+      "added_at": "2023-10-27 23:10:33",
+      "album": {
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "7 NOVINHA PRA 2 MLK - BONUS TRACK",
+      "url": "https://open.spotify.com/track/53d5THIukxStMHSJrGOOvu"
     },
     {
       "added_at": "2023-10-27 23:10:33",
@@ -495,34 +519,22 @@
     {
       "added_at": "2023-10-27 23:10:33",
       "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq"
       },
       "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
         {
           "name": "KayBlack",
           "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
         }
       ],
-      "duration_ms": 162506,
-      "name": "Celine",
-      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
+      "duration_ms": 131927,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
     },
     {
       "added_at": "2023-10-27 23:10:33",
@@ -543,30 +555,6 @@
       "duration_ms": 203128,
       "name": "Prazeres da Vida Noturna",
       "url": "https://open.spotify.com/track/66FenlqXH5BFAGehrxovT0"
-    },
-    {
-      "added_at": "2023-10-27 23:10:33",
-      "album": {
-        "name": "Trap The Fato Deluxe",
-        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "7 NOVINHA PRA 2 MLK - BONUS TRACK",
-      "url": "https://open.spotify.com/track/53d5THIukxStMHSJrGOOvu"
     },
     {
       "added_at": "2023-10-27 23:10:33",
@@ -603,54 +591,34 @@
     {
       "added_at": "2023-10-27 23:10:33",
       "album": {
-        "name": "O \u00daltimo Rom\u00e2ntico Online",
-        "url": "https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4"
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
       "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
         {
           "name": "Vulgo FK",
           "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
         },
         {
           "name": "Pedro Lotto",
           "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         },
         {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
         }
       ],
-      "duration_ms": 230886,
-      "name": "O \u00daltimo Rom\u00e2ntico Online (feat. Pedro Lotto & Wey)",
-      "url": "https://open.spotify.com/track/4yzSTxcOIaCbEdtM4KwJ1W"
-    },
-    {
-      "added_at": "2023-10-27 23:10:33",
-      "album": {
-        "name": "Bonjour",
-        "url": "https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 131927,
-      "name": "Bonjour",
-      "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
+      "duration_ms": 162506,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
     },
     {
       "added_at": "2023-10-27 23:10:33",
@@ -695,6 +663,38 @@
       "duration_ms": 394883,
       "name": "Melhor Dia 11: Ilus\u00e3o com Autoestima",
       "url": "https://open.spotify.com/track/6vHa5xCUuoZikmu0cWPnIj"
+    },
+    {
+      "added_at": "2023-10-27 23:10:33",
+      "album": {
+        "name": "O \u00daltimo Rom\u00e2ntico Online",
+        "url": "https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "duration_ms": 230886,
+      "name": "O \u00daltimo Rom\u00e2ntico Online (feat. Pedro Lotto & Wey)",
+      "url": "https://open.spotify.com/track/4yzSTxcOIaCbEdtM4KwJ1W"
     },
     {
       "added_at": "2023-10-27 23:10:33",
@@ -759,6 +759,30 @@
       "duration_ms": 121031,
       "name": "Atlanta - Spotify Singles",
       "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+    },
+    {
+      "added_at": "2023-10-27 23:10:33",
+      "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "added_at": "2023-10-27 23:10:33",
@@ -883,30 +907,6 @@
     {
       "added_at": "2023-10-27 23:10:33",
       "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
-    },
-    {
-      "added_at": "2023-10-27 23:10:33",
-      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -959,30 +959,6 @@
     {
       "added_at": "2023-10-27 23:10:33",
       "album": {
-        "name": "\u00c9 Quem?",
-        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 170647,
-      "name": "N\u00fameros da Sorte",
-      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
-    },
-    {
-      "added_at": "2023-10-27 23:10:33",
-      "album": {
         "name": "Namora & Disfar\u00e7a (Bonus Track)",
         "url": "https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 231529,
       "name": "Falar de Amor",
       "url": "https://open.spotify.com/track/6jkqFX0JprURdUqSkWmUgK"
+    },
+    {
+      "added_at": "2023-10-27 23:10:33",
+      "album": {
+        "name": "\u00c9 Quem?",
+        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 170647,
+      "name": "N\u00fameros da Sorte",
+      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
     },
     {
       "added_at": "2023-10-27 23:10:33",
@@ -1095,26 +1095,30 @@
     {
       "added_at": "2023-10-27 23:10:33",
       "album": {
-        "name": "Novinha do Peito Bicudo",
-        "url": "https://open.spotify.com/album/0xauDsRaLwPZzkLSWYXbWa"
+        "name": "Prazo De Validade",
+        "url": "https://open.spotify.com/album/79X2Zz8FuvzjIHzKTfSxcA"
       },
       "artists": [
         {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
         },
         {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
         },
         {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+          "name": "Rodriguinho",
+          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         }
       ],
-      "duration_ms": 177230,
-      "name": "Novinha do Peito Bicudo",
-      "url": "https://open.spotify.com/track/48t7p44DDZoJpHq0NDgGdG"
+      "duration_ms": 342857,
+      "name": "Prazo De Validade",
+      "url": "https://open.spotify.com/track/6tQVvcmfUvtxxg4FmQTpv9"
     },
     {
       "added_at": "2023-10-27 23:10:33",
@@ -1167,30 +1171,26 @@
     {
       "added_at": "2023-10-27 23:10:33",
       "album": {
-        "name": "Prazo De Validade",
-        "url": "https://open.spotify.com/album/79X2Zz8FuvzjIHzKTfSxcA"
+        "name": "Novinha do Peito Bicudo",
+        "url": "https://open.spotify.com/album/0xauDsRaLwPZzkLSWYXbWa"
       },
       "artists": [
         {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
         },
         {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
         },
         {
-          "name": "Rodriguinho",
-          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
         }
       ],
-      "duration_ms": 342857,
-      "name": "Prazo De Validade",
-      "url": "https://open.spotify.com/track/6tQVvcmfUvtxxg4FmQTpv9"
+      "duration_ms": 177230,
+      "name": "Novinha do Peito Bicudo",
+      "url": "https://open.spotify.com/track/48t7p44DDZoJpHq0NDgGdG"
     },
     {
       "added_at": "2023-10-27 23:10:33",
@@ -1287,22 +1287,22 @@
     {
       "added_at": "2023-10-27 23:10:33",
       "album": {
-        "name": "Apesar De Voc\u00ea (Mixtape)",
-        "url": "https://open.spotify.com/album/4hEwNsdQMT8r1ue2X4KMDX"
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/5OYa7DkVEnROKwcKybrBdl"
       },
       "artists": [
         {
-          "name": "Delatorvi",
-          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
+          "name": "Karl Wine",
+          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
         },
         {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
         }
       ],
-      "duration_ms": 138129,
-      "name": "S\u00e1bado A Noite",
-      "url": "https://open.spotify.com/track/3gCAOaIcHdlgtcKYAgnsBp"
+      "duration_ms": 169250,
+      "name": "Cabeza",
+      "url": "https://open.spotify.com/track/5y6IrzbBkHqV0E0Dzg2DkZ"
     },
     {
       "added_at": "2023-10-27 23:10:33",
@@ -1347,22 +1347,22 @@
     {
       "added_at": "2023-10-27 23:10:33",
       "album": {
-        "name": "Cabeza",
-        "url": "https://open.spotify.com/album/5OYa7DkVEnROKwcKybrBdl"
+        "name": "Apesar De Voc\u00ea (Mixtape)",
+        "url": "https://open.spotify.com/album/4hEwNsdQMT8r1ue2X4KMDX"
       },
       "artists": [
         {
-          "name": "Karl Wine",
-          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
+          "name": "Delatorvi",
+          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
         },
         {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         }
       ],
-      "duration_ms": 169250,
-      "name": "Cabeza",
-      "url": "https://open.spotify.com/track/5y6IrzbBkHqV0E0Dzg2DkZ"
+      "duration_ms": 138129,
+      "name": "S\u00e1bado A Noite",
+      "url": "https://open.spotify.com/track/3gCAOaIcHdlgtcKYAgnsBp"
     }
   ],
   "unique_name": "Cop\u00e3o na M\u00e3o",

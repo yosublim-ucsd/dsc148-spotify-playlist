@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,294 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,371 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 26 | [Guadalajara \- En Vivo](https://open.spotify.com/track/5mQy3HRlkUyJc1VQ7tkekV) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:23 |
 | 27 | [No \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/0qVDR0ggGqFmiyOQQPY9k9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 3:27 |
 | 28 | [La Diferencia \- En Vivo Desde Bellas Artes, México/ 2013](https://open.spotify.com/track/5qjWsZ8kudvaVKG2g0cRvz) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis 40 En Bellas Artes \(En Vivo Desde Bellas Artes, México/ 2013\)](https://open.spotify.com/album/7AP8musNODGGdC8MSGa7or) | 3:37 |
-| 29 | [A Pesar de Todos \- En Vivo](https://open.spotify.com/track/16VI8N8iECaBkUdadqchqq) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy) | 3:48 |
-| 30 | [Seremos \- En Vivo Desde El Lunario/Mariachi/Banda](https://open.spotify.com/track/0Kguq4LDvq2YrUU4QDVBW3) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Desde El Lunario, Ciudad De México \(En Vivo Desde El Lunario/Mariachi/Banda\)](https://open.spotify.com/album/0OciUfz9VZIm5N4ZHIHlg5) | 3:07 |
+| 29 | [Seremos \- En Vivo Desde El Lunario/Mariachi/Banda](https://open.spotify.com/track/0Kguq4LDvq2YrUU4QDVBW3) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Desde El Lunario, Ciudad De México \(En Vivo Desde El Lunario/Mariachi/Banda\)](https://open.spotify.com/album/0OciUfz9VZIm5N4ZHIHlg5) | 3:07 |
+| 30 | [A Pesar de Todos \- En Vivo](https://open.spotify.com/track/16VI8N8iECaBkUdadqchqq) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy) | 3:48 |
 | 31 | [En Mi Viejo San Juan \- En Vivo en Puerto Rico \- Teatro Bellas Artes /2000](https://open.spotify.com/track/4VelAw3TjuAW0hlL9Gr8ei) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Vivo](https://open.spotify.com/album/2B6NtQv1oRA1uVD8qQC0k6) | 4:18 |
 | 32 | [La Diferencia](https://open.spotify.com/track/74nYy9TioHzoaPghz6m77N) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Mariachi Hit Parade](https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A) | 3:11 |
 | 33 | [El Rey \- En Vivo](https://open.spotify.com/track/7KQJyqHkmOk6LTf9OtooYc) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 74 | [Viva México / Guadalajara \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/1dGhp7hbHWFhYSzJDITEl8) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:58 |
 | 75 | [Medley Kumbia \- En Vivo Auditorio Nacional](https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 7:21 |
 
-Snapshot ID: `MCxhNDE1N2RjODRlNjYzNTExZWQ1YzMyYjVkMDMxYjZhNjk0YWNlNTYz`
+Snapshot ID: `MCxkZDA0OTIyOTdhMWExMmNlMmRhNTZmMjExNzc5Yzk2M2ZjNTJjMzEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Chxrry22
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,058 likes - 101 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,073 likes - 101 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 100 | [2MANYTHINGS](https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 3:13 |
 | 101 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/3W7p3aKtbyLjqiTwxF1jKw) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/0gcr59uNr2tD6yoz9dRipQ) | 3:15 |
 
-Snapshot ID: `MCxjMjU1OTJkMGNiOWU4NDYwZDkzNDgyOTE4MGM3NzVkMDQ1ZmQ0ODEy`
+Snapshot ID: `MCw0NzI2ZTM1ZWY1N2E5OGIwYjlkZmZmM2JlZjRiYWIyZmNkOTRjNzRi`

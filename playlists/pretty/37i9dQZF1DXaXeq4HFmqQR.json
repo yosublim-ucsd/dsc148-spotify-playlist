@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen. Foto: Marineros.",
-  "num_followers": 12877,
+  "num_followers": 12881,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Peque\u00f1as Esperanzas",
+        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 200238,
+      "name": "Peque\u00f1as Esperanzas",
+      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "La Mariposa",
         "url": "https://open.spotify.com/album/0c6di7PysBHM3aaqyhC5BO"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 109962,
       "name": "La Mariposa",
       "url": "https://open.spotify.com/track/3k8diAty8oozYqQV8j7v0R"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "Peque\u00f1as Esperanzas",
-        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 200238,
-      "name": "Peque\u00f1as Esperanzas",
-      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Cuerpo y Guitarra",
+        "url": "https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ"
+      },
+      "artists": [
+        {
+          "name": "Mariel Mariel",
+          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
+        }
+      ],
+      "duration_ms": 177056,
+      "name": "Cuerpo y Guitarra",
+      "url": "https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "Hacerlo Mejor",
         "url": "https://open.spotify.com/album/6fdXfuTQQrBnpNTz8pXiJk"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Cuerpo y Guitarra",
-        "url": "https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ"
-      },
-      "artists": [
-        {
-          "name": "Mariel Mariel",
-          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
-        }
-      ],
-      "duration_ms": 177056,
-      "name": "Cuerpo y Guitarra",
-      "url": "https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Tiempo a mi favor",
         "url": "https://open.spotify.com/album/0lxBKyCp0wv8asbF776NwF"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Pl\u00e1stico",
-        "url": "https://open.spotify.com/album/6Z2s9YDN6NM2d9DD3iZTvj"
-      },
-      "artists": [
-        {
-          "name": "Floresalegr\u00eda",
-          "url": "https://open.spotify.com/artist/6Dp3p3MdGF7dhhU8GzOfAt"
-        }
-      ],
-      "duration_ms": 153462,
-      "name": "Pl\u00e1stico",
-      "url": "https://open.spotify.com/track/6HAEIK2FnaawhsaJBc2YGr"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "La Monta\u00f1a",
         "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Pl\u00e1stico",
+        "url": "https://open.spotify.com/album/6Z2s9YDN6NM2d9DD3iZTvj"
+      },
+      "artists": [
+        {
+          "name": "Floresalegr\u00eda",
+          "url": "https://open.spotify.com/artist/6Dp3p3MdGF7dhhU8GzOfAt"
+        }
+      ],
+      "duration_ms": 153462,
+      "name": "Pl\u00e1stico",
+      "url": "https://open.spotify.com/track/6HAEIK2FnaawhsaJBc2YGr"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "Labios de Miel",
         "url": "https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 140649,
       "name": "Labios de Miel",
       "url": "https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "aterrizar",
-        "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
-      },
-      "artists": [
-        {
-          "name": "Vale Castillo",
-          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "aterrizar",
-      "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -575,6 +559,22 @@
       "duration_ms": 270279,
       "name": "entre las sombras,",
       "url": "https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "aterrizar",
+        "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
+      },
+      "artists": [
+        {
+          "name": "Vale Castillo",
+          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "aterrizar",
+      "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
     },
     {
       "added_at": "2023-10-04 04:00:00",

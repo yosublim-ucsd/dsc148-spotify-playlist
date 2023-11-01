@@ -4640,7 +4640,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 374634,
       "name": "Kababo",
       "url": "https://open.spotify.com/track/4cJJVxs9tMBNsH9yP2d20s"
@@ -10044,6 +10044,24 @@
       "duration_ms": 261538,
       "name": "Turning Away - Parra for Cuva Remix",
       "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
+    },
+    {
+      "album": {
+        "name": "Ultima Ratio",
+        "url": "https://open.spotify.com/album/5zajsdXm81cFLL7qExclll"
+      },
+      "artists": [
+        {
+          "name": "Joachim Pastor",
+          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277018,
+      "name": "Ultima Ratio",
+      "url": "https://open.spotify.com/track/4dmiklzCRnTM237iBtbEi5"
     },
     {
       "album": {

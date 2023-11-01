@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-135 songs - 9 hr 14 min
+136 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Million Ways=One Destination](https://open.spotify.com/track/744jwW4TDgHXimEXg5T5ET) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SUPERNAL LIBERTY](https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt) | 4:57 | 2022-03-08 |  |
 | [Monster Disco](https://open.spotify.com/track/4WRAOt2Z3hXq7M8YerWXWq) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Monster Disco](https://open.spotify.com/album/0gOMkoBaclSCoOH091zrXW) | 3:15 | 2022-07-12 | 2023-02-04 |
 | [Monster Disco](https://open.spotify.com/track/1zcLKA7aKfjeGq6dQZk9Wi) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [Hyadain](https://open.spotify.com/artist/3P8XlKjP5uFoGdo6elPTxn) | [INNOCENT](https://open.spotify.com/album/39JkWHpnRuDFRAW11829PZ) | 3:15 | 2022-08-04 |  |
+| [NICE！RICE！SMILE！](https://open.spotify.com/track/5PHuST5U2NTTxmGTrcTiEh) | [本気でお米作り隊](https://open.spotify.com/artist/42SmQU0oIVJhUpJM2fBdzy) | [NICE！RICE！SMILE！](https://open.spotify.com/album/4t2cwRgMIbyAVv5omOwAJx) | 3:25 | 2023-10-31 |  |
 | [OKITATTAー](https://open.spotify.com/track/3PLUM7RPDgEZ0E8e8M4XQN) | [おきたらんどキッズ](https://open.spotify.com/artist/2Xt5lDM9fryAwMlI2ps1QO), [畑中香音ちゃん](https://open.spotify.com/artist/1kskfEZRyBTOXxptAu9EYw), [中田麻菜ちゃん](https://open.spotify.com/artist/4IQPj8sjJMndVdNKlNd7hm), [高木京之介くん](https://open.spotify.com/artist/128Hd6hjRTirJHRzw4DU9m) | [ABCTV OHAYOUASAHIDESU OKITARAND OKITATTA](https://open.spotify.com/album/2M5uSQandeQMIhCgpkjkHN) | 1:48 | 2022-07-12 |  |
 | [Owaranai Uta](https://open.spotify.com/track/2OxXrvNPvi5Re4BIazEuqV) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Towa](https://open.spotify.com/album/0SJZLC4rrnMg4YgdWvUK9J) | 3:41 | 2022-07-12 |  |
 | [Perfect\-area complete!](https://open.spotify.com/track/0mbUCoZHwCFPAyUsEEWXK7) | [麻生夏子](https://open.spotify.com/artist/1DDZtVeKCSNTVs2EupUsQ1) | [Movement of magic](https://open.spotify.com/album/0V6EFjSPBXudBEZ13Bt7iZ) | 4:01 | 2022-03-08 |  |

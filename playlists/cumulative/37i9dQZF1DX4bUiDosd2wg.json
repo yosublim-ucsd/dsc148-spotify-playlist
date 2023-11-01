@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "My Love From the Star OST",
+        "url": "https://open.spotify.com/album/64eGzMLFB50yhI3L8oNQr0"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242477,
+      "name": "Every Moment Of You (Piano Ver.)",
+      "url": "https://open.spotify.com/track/1DzUxfql9qF6Jk8zijN0IT"
+    },
+    {
+      "album": {
         "name": "My Love From the Star (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5rx7yA3wqQpDZz0xDeiflG"
       },
@@ -460,7 +478,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 242466,
       "name": "Every moment of you - Piano Ver.",
       "url": "https://open.spotify.com/track/23nYSeav0fx7NcOefWdmWL"

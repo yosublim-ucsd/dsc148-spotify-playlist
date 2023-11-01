@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Taylor Swift
 
-9,351 songs - 20 day 13 hr 6 min
+9,352 songs - 20 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -867,7 +867,8 @@
 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 | 2022-09-16 | 2022-09-24 |
 | [Better Apart](https://open.spotify.com/track/1MaXSKqoQ2UxothMqc77Xq) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz) | 3:10 | 2023-08-11 | 2023-08-19 |
 | [Better Boy](https://open.spotify.com/track/5zyaXeckgqmCJso44ma5gK) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Better Boy + Oil Spot](https://open.spotify.com/album/1LhFaHadv0LYqHN3WzfLoc) | 2:55 | 2023-02-17 | 2023-02-25 |
-| [Better Days](https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc) | 2:47 | 2023-10-27 |  |
+| [Better Days](https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc) | 2:47 | 2023-10-27 | 2023-11-01 |
+| [Better Days](https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE) | 2:47 | 2023-10-27 |  |
 | [Better Friends](https://open.spotify.com/track/5aH2jkj6VAeuoFfAxdDFo7) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Better Friends](https://open.spotify.com/album/1xAaeRGN7LploVcEwBR6TW) | 4:46 | 2023-03-17 | 2023-03-25 |
 | [Better in the Shade](https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 3:36 | 2022-04-21 | 2022-04-29 |
 | [Better Love](https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Better Love](https://open.spotify.com/album/0delJu1UUzdBfufg94lbME) | 2:18 | 2023-03-03 | 2023-03-11 |

@@ -19388,10 +19388,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 204000,
       "name": "With Me",
       "url": "https://open.spotify.com/track/19oJeztertAs96nTXrkTNM"
+    },
+    {
+      "album": {
+        "name": "With Me",
+        "url": "https://open.spotify.com/album/1u1QRvmnXqynuqnQojlYGU"
+      },
+      "artists": [
+        {
+          "name": "Varsity",
+          "url": "https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/37M8fz6hqNXisWg1el9DCl"
     },
     {
       "album": {

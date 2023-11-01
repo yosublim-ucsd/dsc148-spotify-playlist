@@ -4,13 +4,14 @@
 
 > Get into a morning flow with this focus playlist.
 
-104 songs - 7 hr 17 min
+105 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [9:00 AM: Venture](https://open.spotify.com/track/2L14ycnXhBP4PXcwz76yD9) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [Songs For The Morning](https://open.spotify.com/album/6zvbfn1GOLjCuVdsRUtoNL) | 3:39 | 2023-05-05 |  |
 | [A Bach Response](https://open.spotify.com/track/4y9slcqIZOLrHFHTrpU59l) | [Tristan Barton](https://open.spotify.com/artist/0obGrBCNNmdEbcJfzjuA68) | [Minimal Piano Works](https://open.spotify.com/album/3i5F24FMzyHE3BTzJqBrHH) | 2:34 | 2023-09-29 |  |
-| [A Brief Walk in the Sea](https://open.spotify.com/track/5F1vyDlHJfC8APmTQbrWmK) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'Eixample](https://open.spotify.com/album/1lfCe8KBQcAdEttuWRuao5) | 7:04 | 2023-05-05 |  |
+| [A Brief Walk in the Sea](https://open.spotify.com/track/0vie4cHF1RnW9n4Pvzadzi) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'Eixample](https://open.spotify.com/album/64d6rUGUQCzx5YYQxqEJuH) | 7:04 | 2023-10-05 |  |
+| [A Brief Walk in the Sea](https://open.spotify.com/track/5F1vyDlHJfC8APmTQbrWmK) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'Eixample](https://open.spotify.com/album/1lfCe8KBQcAdEttuWRuao5) | 7:04 | 2023-05-05 | 2023-11-01 |
 | [A Note from Time](https://open.spotify.com/track/6bsDMsU1gT0yeZQ21uUJHW) | [Oscar Kowalski](https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04), [Emma Jackson](https://open.spotify.com/artist/2c8d4XeZ3rL9RTtzd6VXpW) | [A Note from Time](https://open.spotify.com/album/1ZgehSXeEZP1Cu0DJ6v9lZ) | 3:36 | 2023-05-05 |  |
 | [A Spark, A Beginning](https://open.spotify.com/track/53Q8YAh03JoqrGQ5U9bZNx) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 2:25 | 2023-05-05 |  |
 | [Adam Forever](https://open.spotify.com/track/1EOnzIicFKok5BQC9OMUwj) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Adam Forever / The Great Leap](https://open.spotify.com/album/03Xy8weEkKx0f3kI1Hqsue) | 4:08 | 2023-05-05 |  |

@@ -2349,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "Uncanny Valley",
+        "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184315,
+      "name": "Cutie",
+      "url": "https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG"
+    },
+    {
+      "album": {
         "name": "Disappear Here",
         "url": "https://open.spotify.com/album/2YXl7mV4d30fEbwpVQ7YBQ"
       },
@@ -9012,7 +9030,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 197965,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/16oMvdrGRE4vSLx42eM0M0"

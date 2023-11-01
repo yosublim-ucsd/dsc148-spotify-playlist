@@ -1,12 +1,12 @@
 {
   "description": "All 00s, all ballads. Cover: Norah Jones",
-  "num_followers": 259852,
+  "num_followers": 259928,
   "original_name": "00s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmJhNDUzYjMyMTliMDg1NzAzN2U4MjAwZWUxYWU1YWY2Y2IzOTZi",
+  "snapshot_id": "MCw3ZTk0YTc3OTJkMTg5ZDI1MTkwMThhMTNlM2VhNGU5YThhMjQ4OTg2",
   "tracks": [
     {
       "added_at": "2021-02-10 17:52:46",
@@ -711,18 +711,18 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Never Gone",
-        "url": "https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV"
+        "name": "Little Voice",
+        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 239586,
-      "name": "Incomplete",
-      "url": "https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W"
+      "duration_ms": 232760,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -743,18 +743,18 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Little Voice",
-        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
+        "name": "Never Gone",
+        "url": "https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV"
       },
       "artists": [
         {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 232760,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
+      "duration_ms": 239586,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W"
     },
     {
       "added_at": "2021-02-10 17:52:46",

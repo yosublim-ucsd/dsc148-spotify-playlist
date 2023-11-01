@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296,504 likes - 105 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,297,402 likes - 105 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

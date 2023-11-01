@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Bea Rodrigues
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,911 likes - 60 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,956 likes - 60 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 28 | [Deus Te Chama](https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS) | [Deus Te Chama](https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e) | 4:23 |
 | 29 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB) | 3:36 |
 | 30 | [Ágape \- Ao Vivo](https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Ágape \(Ao Vivo\)](https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru) | 9:33 |
-| 31 | [Quanto Amor](https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Quanto Amor](https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj) | 3:44 |
-| 32 | [Sinal de Amor](https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE) | [Yuri Costa](https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Sinal de Amor](https://open.spotify.com/album/4nwqWoQzvdRMQRnxWIuTFt) | 3:35 |
+| 31 | [Sinal de Amor](https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE) | [Yuri Costa](https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Sinal de Amor](https://open.spotify.com/album/4nwqWoQzvdRMQRnxWIuTFt) | 3:35 |
+| 32 | [Quanto Amor](https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Quanto Amor](https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj) | 3:44 |
 | 33 | [Andar Sobre As Águas](https://open.spotify.com/track/40VTLWDGsKNLK9sHKIzZ7F) | [Bia Monteiro](https://open.spotify.com/artist/7FYYgll3NQzD9ZcwcdRpB6) | [Andar Sobre As Águas](https://open.spotify.com/album/2hQPAbaRfmLotiqzdMGMuT) | 4:23 |
 | 34 | [Pra Que Eu Fosse Livre](https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH) | [Klev](https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC) | [Pra Que Eu Fosse Livre](https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ) | 4:48 |
 | 35 | [Quem é Esse?](https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT) | [Naara e Sarah](https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9) | [Quem é Esse?](https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL) | 5:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 59 | [Pedaços](https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Pedaços](https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg) | 4:19 |
 | 60 | [Em uma só voz](https://open.spotify.com/track/7t10vTBBTfdELqVlawK6vY) | [Kethelen Baittinger](https://open.spotify.com/artist/5LG8UU5L7I1QGFDGVH7MnA) | [Kethelen Baittinger](https://open.spotify.com/album/1gLk6yyOrJakvzbaz5odg5) | 6:06 |
 
-Snapshot ID: `MCxhODAzZDQ5ODgwZTY5NTQ4NzY1MDkwNmE0Y2QyYjE1ZjA2NjExYzUw`
+Snapshot ID: `MCxlYjM0ZjQzNzE1YzMxNjkyYzRlNWRhMTBjNDQ5OGVmNzhlM2NhYjUx`

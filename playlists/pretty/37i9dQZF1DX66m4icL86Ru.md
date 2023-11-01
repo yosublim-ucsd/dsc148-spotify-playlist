@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Aliyah's Interlude
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,307 likes - 79 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,494 likes - 79 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 78 | [Peppers \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:08 |
 | 79 | [HOT](https://open.spotify.com/track/38gSLIGyzkLKykkG4S72v5) | [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [HOT](https://open.spotify.com/album/3vKu3E7Vrg0fDrzik36yXz) | 2:33 |
 
-Snapshot ID: `MCwwY2I0OTY4MDg1N2Q0ODAxZGYxMjM4MTY5ZGJiNmY4OWMyMWZhMjEw`
+Snapshot ID: `MCw2ZTQxYmJkYThiNDJiYWIwMTI2MmFjMGRkMzExZGI5MmM0ZWU5OTM1`

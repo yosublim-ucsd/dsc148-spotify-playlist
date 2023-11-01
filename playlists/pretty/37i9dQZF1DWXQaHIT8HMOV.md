@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: Azawi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,861 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,861 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 39 | [Kitooke Kyagonja](https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7) | [B2c](https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4) | [Kitooke Kyagonja](https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa) | 3:10 |
 | 40 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 |
 | 41 | [Singa](https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Singa](https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9) | 3:17 |
-| 42 | [Voices & Vices](https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Voices & Vices](https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp) | 2:50 |
-| 43 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 |
-| 44 | [Mama I Made It](https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 2:17 |
+| 42 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 |
+| 43 | [I Do](https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Do](https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj) | 3:08 |
+| 44 | [Voices & Vices](https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Voices & Vices](https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp) | 2:50 |
 | 45 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 |
 | 46 | [Wanting Me](https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Wanting Me](https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b) | 2:45 |
 | 47 | [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 |
-| 48 | [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 |
-| 49 | [Gukuba](https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6), [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Gukuba](https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z) | 2:52 |
+| 48 | [Gukuba](https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6), [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Gukuba](https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z) | 2:52 |
+| 49 | [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 |
 | 50 | [Chai We Njaye](https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc) | 2:45 |
 
-Snapshot ID: `MCw2OGRkODY1YTc2OGU2ZjZiODE4ZWQ2YmM1MjQwZGM4NjY2MWY5YjEy`
+Snapshot ID: `MCxmZTA2NzM0Yjk2NzE4MmY5OTlkMzIwMzNkNzc1OGYxNGFlOWY0MWM0`

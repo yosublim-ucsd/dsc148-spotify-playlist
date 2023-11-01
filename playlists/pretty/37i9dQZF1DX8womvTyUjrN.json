@@ -1,6 +1,6 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Joaquina",
-  "num_followers": 284981,
+  "num_followers": 285052,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "\u00bfY Si Eras T\u00fa?",
-        "url": "https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "\u00bfY Si Eras T\u00fa?",
-      "url": "https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "ojos. labios. cara.",
         "url": "https://open.spotify.com/album/1CTsEbkffQZulUwUZKzmCX"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 173114,
       "name": "ojos. labios. cara.",
       "url": "https://open.spotify.com/track/0Ont2OoEaOYF9BYeSIhaFT"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "\u00bfY Si Eras T\u00fa?",
+        "url": "https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "\u00bfY Si Eras T\u00fa?",
+      "url": "https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "en el pasado",
-        "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 223124,
-      "name": "en el pasado",
-      "url": "https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Hora Loca",
         "url": "https://open.spotify.com/album/5L7vepCGsq5Ji84DPEDjP8"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 191825,
       "name": "Hora Loca",
       "url": "https://open.spotify.com/track/5vgwmo15qa4jKLFW726iaF"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "en el pasado",
+        "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 223124,
+      "name": "en el pasado",
+      "url": "https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "REVOLUCION AZUL",
+        "url": "https://open.spotify.com/album/4qmFz9qSSzSMkqgmszlXBm"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 254439,
+      "name": "REVOLUCION AZUL",
+      "url": "https://open.spotify.com/track/2ebfsQkDYWCq8d0otA1zbu"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "B\u00f3rrame",
         "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
       },
@@ -687,6 +703,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Linda Natural",
+        "url": "https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 142016,
+      "name": "Linda Natural",
+      "url": "https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0"
       },
@@ -699,22 +731,6 @@
       "duration_ms": 206546,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "REVOLUCION AZUL",
-        "url": "https://open.spotify.com/album/4qmFz9qSSzSMkqgmszlXBm"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 254439,
-      "name": "REVOLUCION AZUL",
-      "url": "https://open.spotify.com/track/2ebfsQkDYWCq8d0otA1zbu"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -735,22 +751,6 @@
       "duration_ms": 192231,
       "name": "Qui\u00e9n Me Dir\u00eda",
       "url": "https://open.spotify.com/track/6350jXu89L6Ul7OyuGkOnY"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Linda Natural",
-        "url": "https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 142016,
-      "name": "Linda Natural",
-      "url": "https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 167485,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Combustible",
         "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 191008,
       "name": "Tu Canci\u00f3n",
       "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 167485,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
     },
     {
       "added_at": "2023-10-27 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,865 likes - 90 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,907 likes - 90 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 33 | [Love That Burns](https://open.spotify.com/track/39xwaEbjsgAEsh5yN4X90k) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 5:04 |
 | 34 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 |
 | 35 | [When Will You Tell Him About Me?](https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [The Chicago Way](https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS) | 4:29 |
-| 36 | [By the Water](https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:39 |
-| 37 | [That's Why I'm Crying](https://open.spotify.com/track/2oaHiYkuDjqbfMPZERPlKH) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Open Road](https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV) | 5:04 |
-| 38 | [Sweet Little Angel](https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
-| 39 | [Please Tell Me Why](https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Jackie Sings The Blues](https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4) | 2:04 |
+| 36 | [That's Why I'm Crying](https://open.spotify.com/track/2oaHiYkuDjqbfMPZERPlKH) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Open Road](https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV) | 5:04 |
+| 37 | [By the Water](https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:39 |
+| 38 | [Please Tell Me Why](https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Jackie Sings The Blues](https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4) | 2:04 |
+| 39 | [Sweet Little Angel](https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
 | 40 | [Juice Head Baby](https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6) | [Eddie "Cleanhead" Vinson](https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58) | [Kidney Stew \(The Definitive Black & Blue Sessions\)](https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G) | 4:35 |
 | 41 | [Waiting For The Dawn](https://open.spotify.com/track/5zi2iVnuW5PEpALVgCypi3) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 5:50 |
 | 42 | [A Fool No More](https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [Man of the World: The Anthology 1968\-1988](https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o) | 7:44 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 57 | [I Need Love So Bad](https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 2:36 |
 | 58 | [Sufferin' With The Blues](https://open.spotify.com/track/780aR01ClCSK7X6DQlyT60) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Wish Someone Would Care](https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY) | 2:20 |
 | 59 | [If You Gotta Make a Fool of Somebody \- 2008 Remaster](https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:00 |
-| 60 | [You Put the Heart on Me](https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Chicago Blues Session Volume 12](https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE) | 2:40 |
-| 61 | [Blues Keep Chasing Me](https://open.spotify.com/track/3GK95DlclAn2RFYY36IHoc) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Straight from the Heart](https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ) | 4:22 |
+| 60 | [Blues Keep Chasing Me](https://open.spotify.com/track/3GK95DlclAn2RFYY36IHoc) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Straight from the Heart](https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ) | 4:22 |
+| 61 | [You Put the Heart on Me](https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Chicago Blues Session Volume 12](https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE) | 2:40 |
 | 62 | [Friendless Blues](https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7) | [Lonnie Johnson](https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM) | [The Essential Blue Archive: Why Should I Cry](https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4) | 2:59 |
 | 63 | [I've Lost My Baby](https://open.spotify.com/track/1K3L55HIhx61FIn173umta) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 4:17 |
 | 64 | [Sanctified, Holy And Hateful](https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 5:29 |
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 83 | [You Can't Lose What You Ain't Never Had](https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [Portrait](https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV) | 3:34 |
 | 84 | [Love & Gravity](https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR) | [Matt Katsis](https://open.spotify.com/artist/3uql1lp6c9CcJL2tjzKrkv) | [Love & Gravity](https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB) | 3:48 |
 | 85 | [Mistreated so Bad](https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Pickin' the Blues](https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW) | 3:25 |
-| 86 | [Blues Stay Away From Me](https://open.spotify.com/track/0gKGDH5XsrWGH7pojMcXSY) | [Mamie Minch](https://open.spotify.com/artist/5FpYyf3AOAl5YXVxAuYfzW), [Tamar Korn](https://open.spotify.com/artist/2OWPS13qorm1Vj3wxUO5lF) | [The Best of the 5th Annual Brooklyn Folk Festival](https://open.spotify.com/album/2yTbT5DQqjSn3ly5oypYhw) | 4:12 |
-| 87 | [Down On My Knees](https://open.spotify.com/track/3soWDvvrdUZeeniNWxwPji) | [King Leo](https://open.spotify.com/artist/24Y1QM5HxIVWItCw16bw1C) | [Down On My Knees](https://open.spotify.com/album/4MVKaN7r9Wlxr0KyXP9RAa) | 3:33 |
+| 86 | [Down On My Knees](https://open.spotify.com/track/3soWDvvrdUZeeniNWxwPji) | [King Leo](https://open.spotify.com/artist/24Y1QM5HxIVWItCw16bw1C) | [Down On My Knees](https://open.spotify.com/album/4MVKaN7r9Wlxr0KyXP9RAa) | 3:33 |
+| 87 | [Blues Stay Away From Me](https://open.spotify.com/track/0gKGDH5XsrWGH7pojMcXSY) | [Mamie Minch](https://open.spotify.com/artist/5FpYyf3AOAl5YXVxAuYfzW), [Tamar Korn](https://open.spotify.com/artist/2OWPS13qorm1Vj3wxUO5lF) | [The Best of the 5th Annual Brooklyn Folk Festival](https://open.spotify.com/album/2yTbT5DQqjSn3ly5oypYhw) | 4:12 |
 | 88 | [Hold That Train](https://open.spotify.com/track/0YnoAn9FBUopgdwEOTsGlE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [My Kind Of Blues](https://open.spotify.com/album/6nnI1qK92ewOpEerMB9Lhw) | 3:59 |
 | 89 | [Karma Wheel](https://open.spotify.com/track/1rWNmWtcbwpuZlx1b5ep9x) | [Joel Astley](https://open.spotify.com/artist/7IVBtfN5PK0ZVVQoU9zcGS) | [Seattle to Greaseland](https://open.spotify.com/album/4AEV6zOQHpeir1oa37YWRc) | 5:03 |
 | 90 | [Use As Needed](https://open.spotify.com/track/0jcyLI0xuoNn2ENh1Vvzxv) | [Willie J\. Campbell](https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7) | [Be Cool](https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27) | 5:42 |
 
-Snapshot ID: `MCw0MWIwMjcxMDY0NjQ0YjgzZTYxOGFhMTk2ZGEyMGI1NjQ1OTk2Yzdl`
+Snapshot ID: `MCwyZTRiNzY1YzMxZjc0NDgwMzBhZjhkN2VmMGI4NGIwYzRjOTczN2Q0`

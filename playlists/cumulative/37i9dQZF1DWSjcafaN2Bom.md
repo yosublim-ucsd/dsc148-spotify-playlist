@@ -4,7 +4,7 @@
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-356 songs - 22 hr 8 min
+357 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [First Love](https://open.spotify.com/track/01iyINEYgPQ7ThMZuHUsqS) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [First Love](https://open.spotify.com/album/7syMmofF2t1xI0RFCtrSG9) | 3:27 | 2021-10-26 |  |
 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 | 2023-09-21 |  |
 | [Forever In Sunset](https://open.spotify.com/track/7ofb8SMiE4pDit5ewXNArn) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [All Of Us Flames](https://open.spotify.com/album/5vO3cJcNAgBv91ADrMnc8l) | 4:22 | 2023-09-21 |  |
-| [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2023-08-22 |  |
+| [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2023-08-22 |  |
 | [Frying Pan](https://open.spotify.com/track/4XzkAHiqB0jsgmYLXzxOAl) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education: Songs from Season 3](https://open.spotify.com/album/5CGSdovQvDlAaaD7xqpGX7) | 1:07 | 2023-08-22 |  |
 | [Fuck the Pain Away](https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:10 | 2023-08-22 |  |
 | [Give Me a Reason](https://open.spotify.com/track/6cX3uCjgBBPUjyKFcRMaOn) | [Ibibio Sound Machine](https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c) | [Uyai](https://open.spotify.com/album/7qxsknfxgU90BxBDuodK1A) | 4:17 | 2023-08-22 |  |
@@ -224,7 +224,8 @@
 | [Morning Train \(Nine to Five\)](https://open.spotify.com/track/6CEKntwndUlmWhSRflWA5X) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Greatest Hits](https://open.spotify.com/album/7oYG4SA51T8d3QAMpImZ7G) | 3:20 | 2021-10-26 |  |
 | [My First Kiss \(feat\. Ke$ha\)](https://open.spotify.com/track/17tDv8WA8IhqE8qzuQn707) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Streets Of Gold](https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R) | 3:12 | 2021-10-26 |  |
 | [My Zero](https://open.spotify.com/track/7c391oxUbYSvwfIfpWc32l) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Day Of The Dog](https://open.spotify.com/album/11fA3GE9y2Qi0i8OfLv4AP) | 3:55 | 2023-08-22 |  |
-| [Mysterious Girl](https://open.spotify.com/track/6NLJlusvVnw31IYwU6mDPr) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [Timeless Songs](https://open.spotify.com/album/4FOVqYCDh143soz01EjTqr) | 3:36 | 2023-09-21 |  |
+| [Mysterious Girl](https://open.spotify.com/track/6NLJlusvVnw31IYwU6mDPr) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [Timeless Songs](https://open.spotify.com/album/4FOVqYCDh143soz01EjTqr) | 3:36 | 2023-09-21 | 2023-11-01 |
+| [Mysterious Girl \- Radio Edit](https://open.spotify.com/track/6Y3lJ2VwukbHOH9zCDi6zj) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [90\-tal](https://open.spotify.com/album/0yjliARBQfcAQkVqq46sS8) | 3:38 | 2023-09-25 |  |
 | [Mysterious Power](https://open.spotify.com/track/3O1TxpDQzLKu8S0uMAEkkC) | [Ezra Furman & The Harpoons](https://open.spotify.com/artist/6mMA3DehwLwdvO6YlwUFHk) | [Mysterious Power](https://open.spotify.com/album/2UxFvYFHXR1mKurBo95GmH) | 3:08 | 2023-08-22 |  |
 | [Mysterious Power](https://open.spotify.com/track/3sBRhgrhGeT39oBWvuHHnF) | [Ezra Furman & The Harpoons](https://open.spotify.com/artist/6mMA3DehwLwdvO6YlwUFHk) | [Sex Education: Songs from Season 3](https://open.spotify.com/album/5CGSdovQvDlAaaD7xqpGX7) | 3:08 | 2023-08-22 |  |
 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 | 2023-08-22 |  |

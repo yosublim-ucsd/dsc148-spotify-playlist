@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-372 songs - 22 hr 38 min
+373 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Clovers](https://open.spotify.com/track/5k8oU9p71fIhYiTCPudwdh) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 4:51 | 2023-10-13 |  |
 | [Color of the Pool](https://open.spotify.com/track/487No2iHijl2TqOM6OBC3U) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Color of the Pool](https://open.spotify.com/album/6BnLKRLuEEeTwZwfVk1Eo3) | 2:22 | 2021-11-14 | 2022-07-29 |
 | [Combat](https://open.spotify.com/track/2oFcg1dEGotfeeEYFrWSqD) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2A2k0MgzDEiFjW3ejlpxxV) | 3:48 | 2021-11-14 | 2022-07-29 |
+| [Come Apart](https://open.spotify.com/track/3yJqlmzdenTmQeb3bdRJfO) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka) | 3:04 | 2023-10-27 |  |
 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 | 2022-10-07 | 2023-04-09 |
 | [Comeback Kid](https://open.spotify.com/track/1Qpyt7U1yu4tfuJc4LKuzF) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 3:02 | 2022-05-20 | 2022-10-08 |
 | [Comeback Kid](https://open.spotify.com/track/4uwpFuqYn5wON8iRg2mnhp) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Comeback Kid](https://open.spotify.com/album/6gnT7IIyHL2nYYPsF9teBw) | 3:02 | 2022-04-01 | 2022-04-20 |
@@ -148,7 +149,7 @@
 | [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 | 2021-11-14 | 2023-01-01 |
 | [Homesick Honeybee \- Edit](https://open.spotify.com/track/1WigTAhMwh26nQXs4yLZqC) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Homesick Honeybee](https://open.spotify.com/album/79yJK67RNO0zJkhrDon9wz) | 2:58 | 2023-07-28 | 2023-10-28 |
 | [Honey](https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Honey](https://open.spotify.com/album/6vkuAUXk0Gm8xizHhtjx0w) | 3:44 | 2021-11-14 | 2022-04-14 |
-| [Honey](https://open.spotify.com/track/5GL1bMkfFdclBzQOMjfIT9) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Breathing Song / Honey](https://open.spotify.com/album/4eUxvQuguleFjUp01I6N36) | 3:23 | 2023-01-27 |  |
+| [Honey](https://open.spotify.com/track/5GL1bMkfFdclBzQOMjfIT9) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Breathing Song / Honey](https://open.spotify.com/album/4eUxvQuguleFjUp01I6N36) | 3:23 | 2023-01-27 | 2023-11-01 |
 | [Honey Understand](https://open.spotify.com/track/1FnqKOwkmTClK22zr3kWuH) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Honey Understand](https://open.spotify.com/album/5RltgL786Wbbtt2TT4rWsR) | 4:01 | 2022-02-04 | 2023-09-21 |
 | [Honey Understand](https://open.spotify.com/track/7siMZ3gD1KWKxakHJcKYCU) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc) | 4:01 | 2023-09-15 |  |
 | [Hospital](https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:33 | 2023-02-03 | 2023-02-18 |

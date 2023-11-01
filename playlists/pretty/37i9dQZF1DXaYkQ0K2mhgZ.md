@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYkQ0K2mhgZ.md) - [plain]
 
 > Move your feet and shake your hips to these family\-friendly tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,837 likes - 62 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,845 likes - 62 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YH6gzskizy.md) - [plain]
 
 > You are a mood, so is this playlist\. ✨ Cover \- Shreya Jain, Nakul Chugh
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,588 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,631 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

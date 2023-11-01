@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Virlán García & Grupo Los de la O en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,063 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,188 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Nacho Coronel](https://open.spotify.com/track/4vWGykpz2KZIYl13oY0cfE) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD), [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [Pisteando con Nico & Alemi](https://open.spotify.com/album/4vZa4rfWwniKA7thjP5WaK) | 4:24 |
 | 75 | [G5 El Financiero](https://open.spotify.com/track/5wboAylc8aZatUpOdmxcvM) | [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d) | [G5 El Financiero](https://open.spotify.com/album/5ecdxDqawNjW2e6XPnBT5m) | 5:02 |
 
-Snapshot ID: `MCw3OGViNDMzN2JmYzA1OWY1OTFlMzNhMTVjMDU3YmJjNmUyNTU2Zjg5`
+Snapshot ID: `MCwxMzQ0MDhjNTlmNTIxMTNjM2M1OTFiMWU0MDAyZTQ4OGYzZGY4ODUw`

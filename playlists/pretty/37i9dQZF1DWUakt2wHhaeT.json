@@ -1,12 +1,12 @@
 {
   "description": "Manifest some motivation with Broadway's best \"I Want\" songs. Cover: Hamilton",
-  "num_followers": 40716,
+  "num_followers": 40754,
   "original_name": "I Want My Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzcyMGFkMTI2NWM5Yjk1ZDE4NTYyNDdkYTk2ODAxY2VjY2FkMjQy",
+  "snapshot_id": "MCw2ODA1M2ZiNTFjMmExNjFjYWNiOTg4NjVjZDdkM2RmY2M3ZjNiNDc5",
   "tracks": [
     {
       "added_at": "2021-12-14 17:49:40",
@@ -1152,28 +1152,28 @@
           "url": "https://open.spotify.com/artist/69NsP4MC1JbfvKMwpx2oy8"
         },
         {
-          "name": "Allison Case",
-          "url": "https://open.spotify.com/artist/5uKw4HhcEhIPoVlYqs6FCE"
-        },
-        {
-          "name": "William Youmans",
-          "url": "https://open.spotify.com/artist/5jd4uKyxRmjPtjo4dUExXe"
-        },
-        {
-          "name": "Dale Soules",
-          "url": "https://open.spotify.com/artist/245QszPeKlN1vDpTkDZf3f"
+          "name": "Kathleen Elizabeth Monteleone",
+          "url": "https://open.spotify.com/artist/0kgbK5VpdTKGTOiMvxE18P"
         },
         {
           "name": "David Larsen",
           "url": "https://open.spotify.com/artist/41opZfsP91icqyFO0JEnCt"
         },
         {
-          "name": "Kathleen Elizabeth Monteleone",
-          "url": "https://open.spotify.com/artist/0kgbK5VpdTKGTOiMvxE18P"
+          "name": "Dale Soules",
+          "url": "https://open.spotify.com/artist/245QszPeKlN1vDpTkDZf3f"
+        },
+        {
+          "name": "William Youmans",
+          "url": "https://open.spotify.com/artist/5jd4uKyxRmjPtjo4dUExXe"
         },
         {
           "name": "Keala Settle",
           "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
+        },
+        {
+          "name": "Allison Case",
+          "url": "https://open.spotify.com/artist/5uKw4HhcEhIPoVlYqs6FCE"
         }
       ],
       "duration_ms": 257519,

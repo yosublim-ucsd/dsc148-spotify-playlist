@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Mad Tsai
 
-293 songs - 15 hr 54 min
+294 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 4:38 | 2023-05-26 |  |
 | [just last week](https://open.spotify.com/track/6ZaONgEsATQp3q0fxJ8inz) | [Ethan Jewell](https://open.spotify.com/artist/17Cit7wNuKM6q67MwLH6gD) | [stuck in a bad place](https://open.spotify.com/album/5ZaLbGUiBmH6ru5JYzr6vL) | 3:44 | 2023-06-02 |  |
 | [kill myself](https://open.spotify.com/track/1ESEhyt5VAkioMnh4vnDHC) | [Tom O'Donovan](https://open.spotify.com/artist/06loAWIFFerpfkQdMI0moL) | [kill myself](https://open.spotify.com/album/2FOmTkLSZvr2xVf1hVmDVm) | 3:00 | 2022-07-13 | 2022-07-16 |
+| [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-01 |  |
 | [Kiss Me, I'm a Prince](https://open.spotify.com/track/5qVQqa8DOJVPFmQI8mrlsb) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Kiss Me, I'm a Prince](https://open.spotify.com/album/0BEhfiN2fU9vE7KZseDhYM) | 3:30 | 2023-03-16 |  |
 | [La Seine \- Extrait de la bande originale un monstre à Paris](https://open.spotify.com/track/4B6XjmOWI55np7y4MUTXDu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:47 | 2022-05-17 |  |
 | [Laputa](https://open.spotify.com/track/0TO7y9uCA3eEYp7g9NsuGL) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/7FWEOSHm38Sq7dybOA4w7D) | 2:43 | 2022-08-08 | 2022-09-16 |
@@ -196,7 +197,7 @@
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-22 |  |
 | [My R](https://open.spotify.com/track/4Li4x03VzGLRZW5B6hv0Xt) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3) | [My R](https://open.spotify.com/album/7HbKsuGxSH4WsAK3vIaPec) | 3:34 | 2022-06-07 | 2022-12-10 |
 | [My Time](https://open.spotify.com/track/0wZUJxxybEiafs0BIg9SAP) | [bo en](https://open.spotify.com/artist/1EotkJocwHvhFOAsoOj1jJ) | [Pale Machine](https://open.spotify.com/album/1a2UnYDnfK25QJKfgHNHnu) | 5:13 | 2022-05-17 | 2022-06-25 |
-| [Never Ending Song](https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Never Ending Song](https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI) | 2:35 | 2023-05-19 |  |
+| [Never Ending Song](https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Never Ending Song](https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI) | 2:35 | 2023-05-19 | 2023-11-01 |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-12 | 2023-04-29 |
 | [News At 9](https://open.spotify.com/track/2ezY94QlqbDG0aYgKnpy9C) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:13 | 2022-06-07 | 2022-12-10 |
 | [News At 9](https://open.spotify.com/track/4ve3XvrdiYbKeDZ1QdeBU7) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [News At 9](https://open.spotify.com/album/7xc9xUwYtVKNIA2DEx51ce) | 3:13 | 2022-05-17 | 2022-07-29 |

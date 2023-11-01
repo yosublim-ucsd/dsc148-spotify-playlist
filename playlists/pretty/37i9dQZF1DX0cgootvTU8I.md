@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,259 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,292 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 14 | [Who Started Jungle](https://open.spotify.com/track/6n15iBMrAgeAhiCSF0iFUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [To the Core](https://open.spotify.com/album/5jg7MkaU3gRhwufJRjxgeP) | 4:00 |
 | 15 | [The Original Certified Bubbler](https://open.spotify.com/track/1n3wnYtGsP9geUSywMFsgZ) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [The Original Certified Bubbler](https://open.spotify.com/album/0xQmzZ346eae8j9bR1OxIg) | 3:06 |
 | 16 | [Drivin' Me Crazy](https://open.spotify.com/track/1fPUG09vA8KRKwdcj4rHI5) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Drivin' Me Crazy](https://open.spotify.com/album/6MpGVt0srq4BwYBvIj4Elu) | 3:38 |
-| 17 | [Gold Soul](https://open.spotify.com/track/2puGT4f9oJn6drCWQvWsPe) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/6gq5UMNlJ6XX5xghGm1DVh) | 4:51 |
-| 18 | [JUNGLE TEKNAH](https://open.spotify.com/track/5eStmyvgU3yFAiHn35oPE8) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7frIZAGJytWq2BV7qAcwYU) | 4:01 |
+| 17 | [JUNGLE TEKNAH](https://open.spotify.com/track/5eStmyvgU3yFAiHn35oPE8) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7frIZAGJytWq2BV7qAcwYU) | 4:01 |
+| 18 | [Gold Soul](https://open.spotify.com/track/2puGT4f9oJn6drCWQvWsPe) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/6gq5UMNlJ6XX5xghGm1DVh) | 4:51 |
 | 19 | [Will U B There?](https://open.spotify.com/track/3Oqk9DfH1krBlATVWywyQ8) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Will U B There?](https://open.spotify.com/album/1y2PXgYr9dCH3n2aVwLLzL) | 6:12 |
 | 20 | [Surfing The Anxiety Waves](https://open.spotify.com/track/6tbQHnuPgy7m4ElWYhr9tP) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/0XcdWrmdAbRkGuXNKjbEMQ) | 4:03 |
 | 21 | [Drips](https://open.spotify.com/track/3KdHrB4WQsUYJ4yytUPyBo) | [Philip D Kick](https://open.spotify.com/artist/6fioiOJRfc72Mr74xgToJt), [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [Drips](https://open.spotify.com/album/2SaX3Uv70CZpL4qSOU6mxw) | 3:39 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 45 | [DANGER!](https://open.spotify.com/track/7FW0vBBn9JB364K2aUOWCp) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [DANGER!](https://open.spotify.com/album/0A2QLAw1OqmIUleF57n52T) | 2:56 |
 | 46 | [Casca](https://open.spotify.com/track/4Qu41yeeAQ3bCQ4Dd8JUuG) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S), [Tamen](https://open.spotify.com/artist/2HVIdpqXvq82kEqaXzWIc6) | [Casca EP](https://open.spotify.com/album/3M4zL1J2RN7sZrRb4LcG4j) | 5:55 |
 | 47 | [Cloud Busting](https://open.spotify.com/track/626yGgf3EhAd2FEYyZljIi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Cloud Busting / Octopus](https://open.spotify.com/album/5vILT1JDVDMq9SaxaPfRz3) | 6:50 |
-| 48 | [1 Million Breaks](https://open.spotify.com/track/11CNiCDrhdElGjJB53Pxuv) | [AceMoMa](https://open.spotify.com/artist/5igyz9vWH6ban6NMfKeCir), [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX), [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [A Future](https://open.spotify.com/album/0DJkcrqqnMlkHt2ybbz7Qn) | 6:55 |
-| 49 | [Renegade](https://open.spotify.com/track/2XRgGgN0DCEJ05NIAWeM05) | [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [Renegade EP](https://open.spotify.com/album/43VEJuOIWJa5GfwrGC7ral) | 5:00 |
+| 48 | [Renegade](https://open.spotify.com/track/2XRgGgN0DCEJ05NIAWeM05) | [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [Renegade EP](https://open.spotify.com/album/43VEJuOIWJa5GfwrGC7ral) | 5:00 |
+| 49 | [1 Million Breaks](https://open.spotify.com/track/11CNiCDrhdElGjJB53Pxuv) | [AceMoMa](https://open.spotify.com/artist/5igyz9vWH6ban6NMfKeCir), [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX), [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [A Future](https://open.spotify.com/album/0DJkcrqqnMlkHt2ybbz7Qn) | 6:55 |
 | 50 | [Yes, Ok?](https://open.spotify.com/track/6TfEn8jq0laP1hN0pw1Clf) | [Beep Tzt](https://open.spotify.com/artist/0OPS6KMivVzxP2moJjMvSS) | [Beep Tzt](https://open.spotify.com/album/3RSLqqDvm5YYXjytf1sMle) | 7:56 |
 
-Snapshot ID: `MCw5NmI4MDQzOGFlYzQ5OGY5NDYyNjliYmYwZDY2YzkyMDFiMzA1N2Ri`
+Snapshot ID: `MCxmZTU0YTUzNTg2M2FmODUzNDdkZDZhYTE0MmE5MGJjM2U5YzNhMDUw`

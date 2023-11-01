@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Yebba
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,588 likes - 173 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,686 likes - 173 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 172 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 |
 | 173 | [Good Ex](https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 2:35 |
 
-Snapshot ID: `MCwzZGRhYmJhYTZkNjc3ZmFhNjJiYTNjYTJhZGQwOTEwZjFiN2QzNWYw`
+Snapshot ID: `MCwwMWVlNzI2YWFlMjMzZmYyYWJkMDExNGJkNjFmNWIzM2YwYjhjMjM0`

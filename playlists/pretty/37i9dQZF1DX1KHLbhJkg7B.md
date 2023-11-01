@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,272 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,312 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 15 | [Don't Take The Girl](https://open.spotify.com/track/1MgF4Za06e1KQxzCYqGChf) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Across The Sheets](https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu) | 4:20 |
 | 16 | [Better Now](https://open.spotify.com/track/0sBwJpFob6KmGmbu0Yln3a) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Better Now](https://open.spotify.com/album/6p0DLh5SXE1bXBwf22QKdH) | 3:48 |
 | 17 | [Lift Me Up](https://open.spotify.com/track/0rYXSQ5SztqtP3DfBAHoA6) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Lift Me Up](https://open.spotify.com/album/5ADQNJnzQw34bJAEL3bjWL) | 3:09 |
-| 18 | [Slow Dancing In A Burning Room \(Circle Sessions\)](https://open.spotify.com/track/5lc6hhwOvfNJjZy5EyrbxG) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [ERNEST & The Fellas Unplugged](https://open.spotify.com/album/0lxxrZlnRP8K7gIqspSDjU) | 3:54 |
-| 19 | [Ghost](https://open.spotify.com/track/1IUEz40wavYETWJgak8iI3) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [2022](https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC) | 2:26 |
+| 18 | [Slow Dancing In A Burning Room \(Circle Sessions\)](https://open.spotify.com/track/4BdJ29tKViIvXhSKoB2dSS) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [ERNEST & The Fellas Unplugged](https://open.spotify.com/album/25Kg2AqcqSY4FtrUtXc1s7) | 3:54 |
+| 19 | [Vienna](https://open.spotify.com/track/1I9htETbx6XBkh0kyCz5uW) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Vienna](https://open.spotify.com/album/7y83ATsotdhOR8adq6fobK) | 3:09 |
 | 20 | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/track/0SA1RVvy3x161K2PcW2CSO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/album/3cWhv1rqi54T1eRzM9kfPJ) | 3:41 |
-| 21 | [Vienna](https://open.spotify.com/track/1I9htETbx6XBkh0kyCz5uW) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Vienna](https://open.spotify.com/album/7y83ATsotdhOR8adq6fobK) | 3:09 |
+| 21 | [Ghost](https://open.spotify.com/track/1IUEz40wavYETWJgak8iI3) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [2022](https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC) | 2:26 |
 | 22 | [Dancing in the Sky](https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:06 |
 | 23 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 |
 | 24 | [Girl from the North Country \- \(Hot Country Artists to Watch\) \- Spotify Singles](https://open.spotify.com/track/7xQHkdNrmdGb5kh56MSoRr) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl), [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Spotify Singles](https://open.spotify.com/album/2l64EH6TtWunXz3z2fM9u8) | 3:53 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 97 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 |
 | 98 | [Outskirts of Heaven](https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Outskirts of Heaven](https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm) | 4:03 |
 | 99 | [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 |
-| 100 | [You're Still the One](https://open.spotify.com/track/1Lmtr7tJasX392hKpbHPx1) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:29 |
+| 100 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
 
-Snapshot ID: `MCxiYjc5NDQ3MDQwYmM4MTU4Y2JlNzhmNmQ0MmIwYWY1Nzk1YTU0Mzdl`
+Snapshot ID: `MCxhMTdmYmI0ZjViNDM1YWZkNmQ2ODA3ZmVlZDM3ZWY1NTFmMjUzNDM2`

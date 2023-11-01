@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,271 likes - 70 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,356 likes - 70 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 5 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 |
 | 6 | [Pictureoftheday](https://open.spotify.com/track/7BnFGrk7w1UTZ2Vu3FbHuv) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 8:32 |
 | 7 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 |
-| 8 | [Distant Love \- Extended Version](https://open.spotify.com/track/2l0emhOFWPN5sMc8DWybB3) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Distant Love \(Extended Version\)](https://open.spotify.com/album/5IeEHN7JoSqqaxl7TZFs6p) | 3:28 |
+| 8 | [Distant Love](https://open.spotify.com/track/2l0emhOFWPN5sMc8DWybB3) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Distant Love](https://open.spotify.com/album/5IeEHN7JoSqqaxl7TZFs6p) | 3:28 |
 | 9 | [Cee](https://open.spotify.com/track/3uH4GSjsQRDnvdQQCHCXD3) | [Fabique](https://open.spotify.com/artist/69CFg5Gp1zrNZbqLjprGS8) | [Cee](https://open.spotify.com/album/0984f8nBVFnUqEebp5bFLg) | 5:11 |
 | 10 | [Hoax](https://open.spotify.com/track/0apY6reg2xv1ZnnBH19qRC) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Hoax](https://open.spotify.com/album/2NVG3pJbAvK8MspezeqDxT) | 5:27 |
 | 11 | [Black Swan](https://open.spotify.com/track/1j8f8Hbddk4CUFfYQ9wGgL) | [Axel N.](https://open.spotify.com/artist/6ojATIeQIuYkrS2YCiT8sG) | [Black Swan](https://open.spotify.com/album/3clIyTbnkkIeaokgKhQ1k2) | 8:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 69 | [Dominator \- Rebūke Remix](https://open.spotify.com/track/6cKvyvg3sMnyZZsi8tgXMP) | [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dominator \(Rebūke Remix\)](https://open.spotify.com/album/7n6n1dLOtrxPa3HV29b1Vr) | 3:59 |
 | 70 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/1afHl4iHfqeQ5U0vnWYRCh) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The House Of House](https://open.spotify.com/album/6wz1BxyLMqtnziouqFnFtp) | 7:35 |
 
-Snapshot ID: `MCxjM2IyMTZlN2NiNDI5YTlmZDQxY2ExZDg4YmRkYmM5NzQ5MzdlYmZj`
+Snapshot ID: `MCw4NzY0ZjhhMGQzNDg3NTAwZTM3MTlmMzJiMWU4OGFmZjllMTk3ZTUz`

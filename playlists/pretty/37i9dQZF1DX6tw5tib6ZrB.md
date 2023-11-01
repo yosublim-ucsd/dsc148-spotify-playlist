@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Kid Cudi, Offset, Drake, Nasty C, Megan Thee Stallion, Doja Cat and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,651 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,804 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 50 | [Release Me](https://open.spotify.com/track/3TilxKqLPw1fOI1bu5Hua9) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [I Love It Here](https://open.spotify.com/album/0H98jJ9v0BU34blx5YSfZy) | 2:44 |
 
-Snapshot ID: `MCxmYTNjMDU5MmIzOWUzZDlhODhhYzdlZDRkZjcxOTI1YTA0MzM4YWJh`
+Snapshot ID: `MCwzZWUzMzM2YmZlNjViNWVjNWY3NWZlOWUxYmE1NGE2MmI4OGYzOTU2`

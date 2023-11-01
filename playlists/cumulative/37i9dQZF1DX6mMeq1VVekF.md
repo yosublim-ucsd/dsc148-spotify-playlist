@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Sainte & Cash Cobain
 
-312 songs - 16 hr 28 min
+313 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Cheer Me Up](https://open.spotify.com/track/2A6rn2K7LHN5peOcEwQfzo) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [Cheer Me Up](https://open.spotify.com/album/2I1A6Wn4hwuhAmP0K1GKAl) | 3:22 | 2022-06-24 | 2022-07-13 |
 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 | 2022-06-24 |  |
 | [Cherry Ice Cream Sundae](https://open.spotify.com/track/2kp5QEtvCuWmDmc7prlDJq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Cherry Ice Cream Sundae](https://open.spotify.com/album/17BNqYJaKGeF9xwU2xCuy0) | 3:12 | 2022-06-24 | 2022-07-28 |
+| [Closed Doors](https://open.spotify.com/track/7HLmj4xIlHt3lIQ6EB87nT) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:48 | 2023-08-18 |  |
 | [Closed Doors \(feat\. Roddy Ricch\)](https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg) | 2:48 | 2023-08-18 | 2023-10-22 |
 | [code red](https://open.spotify.com/track/5Vd46pXPA18ky9n1t4OOiP) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [code red](https://open.spotify.com/album/6JbZyVHufuyBDRYmG0td7G) | 2:35 | 2022-06-24 | 2022-07-28 |
 | [come & go](https://open.spotify.com/track/7q89Ym3j7b8qxVtIN421qZ) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [come & go](https://open.spotify.com/album/2wPHLlWlUmkLUmKcWlnlfb) | 1:50 | 2023-08-18 |  |
@@ -112,7 +113,7 @@
 | [Free My People \(feat\. Simmy & Kid Cruise\) \- The Streets Remix](https://open.spotify.com/track/6qFbRXLt0IN3M1HE5d7YPu) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Free My People \(The Streets Remix\)](https://open.spotify.com/album/3tsrF1lrccDppgj0mMi0HK) | 3:16 | 2022-06-24 | 2022-07-29 |
 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 | 2022-07-17 |  |
 | [G.O.Y.D.](https://open.spotify.com/track/4jueyRHAHwDovQi3Nlce8v) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [G.O.Y.D.](https://open.spotify.com/album/5Hg1kryXTelIkPktBhRnQE) | 3:19 | 2022-06-24 | 2022-07-29 |
-| [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 | 2022-10-23 |  |
+| [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 | 2022-10-23 | 2023-11-01 |
 | [GLT Freestyle](https://open.spotify.com/track/2KiH3ZHLrWifFpmtzz9veg) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [GLT Freestyle](https://open.spotify.com/album/5YdDjGB5ARWBpHkna6ZyJr) | 2:28 | 2023-05-15 | 2023-06-17 |
 | [Go](https://open.spotify.com/track/2eoJHHLFlADDkbyOm3icMf) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Go](https://open.spotify.com/album/6PdBkfE508vLyjZdFGZsaP) | 2:29 | 2022-06-24 | 2022-07-28 |
 | [Gold Chains](https://open.spotify.com/track/0T7PAJKN2k6k7kBSWIcw34) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Gold Chains](https://open.spotify.com/album/3IRr3MaG3mJQbrvMLhS3Zr) | 3:38 | 2022-06-24 | 2022-07-27 |

@@ -744,7 +744,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 279786,
       "name": "FOCUS ON YOUR LIFE",
       "url": "https://open.spotify.com/track/3QFYE3SwxDx0e0WRpYjV5I"
@@ -1887,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -08 Caf\u00e9 Parade",
+        "url": "https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u96f2\u8358\u4e00\u90ce (CV.\u5929\ufa11\u6ec9\u5e73)",
+          "url": "https://open.spotify.com/artist/7Fag7eFJZILyzgp3Y7TFn2"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251933,
+      "name": "Sweet Diamant",
+      "url": "https://open.spotify.com/track/5lFPTFN5wJ2qnHRG57Mj67"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 02",
         "url": "https://open.spotify.com/album/2NSsTgEgV6pCRYqLBCgJoS"
       },
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-31",
+      "date_removed": null,
       "duration_ms": 349000,
       "name": "\u3044\u3064\u304b\u306e\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb",
       "url": "https://open.spotify.com/track/1HFMjPsihGlVX4MiECVlgp"
@@ -3086,7 +3104,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 296440,
       "name": "\u7b11\u9854\u306e\u796d\u308a\u306b\u3083\u3001\u798f\u6765\u308b",
       "url": "https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9"

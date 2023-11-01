@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 1002086,
+  "num_followers": 1002141,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTY0ZjE1NTQ2NjdlZjM2ZmU3ZTQ3OTMyNDFhYzgwZjMwZmE5MGUw",
+  "snapshot_id": "MCw5Y2VlNWJkYzBiOGI0ZjUwZGY3MTAzMmI0YWYzNGZiMjJkOTc2MTBi",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -599,18 +599,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "VAI MENINA",
-        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
+        "name": "Cheia de Marra",
+        "url": "https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4"
       },
       "artists": [
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         }
       ],
-      "duration_ms": 122435,
-      "name": "VAI MENINA",
-      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
+      "duration_ms": 267049,
+      "name": "Cheia de Marra",
+      "url": "https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -647,22 +651,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Cheia de Marra",
-        "url": "https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4"
+        "name": "VAI MENINA",
+        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
       },
       "artists": [
         {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         }
       ],
-      "duration_ms": 267049,
-      "name": "Cheia de Marra",
-      "url": "https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw"
+      "duration_ms": 122435,
+      "name": "VAI MENINA",
+      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -795,22 +795,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Na Raba Toma Tap\u00e3o",
-        "url": "https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP"
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/3kMegJnLY4Ywh6Dw1NvHBF"
       },
       "artists": [
         {
-          "name": "Niack",
-          "url": "https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML"
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
         },
         {
-          "name": "Markim WF",
-          "url": "https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP"
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         }
       ],
-      "duration_ms": 165230,
-      "name": "Na Raba Toma Tap\u00e3o",
-      "url": "https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe"
+      "duration_ms": 214153,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/01t5aRQQqY5R95Ptlwi2jm"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -839,22 +839,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/3kMegJnLY4Ywh6Dw1NvHBF"
+        "name": "Na Raba Toma Tap\u00e3o",
+        "url": "https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP"
       },
       "artists": [
         {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+          "name": "Niack",
+          "url": "https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML"
         },
         {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+          "name": "Markim WF",
+          "url": "https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP"
         }
       ],
-      "duration_ms": 214153,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/01t5aRQQqY5R95Ptlwi2jm"
+      "duration_ms": 165230,
+      "name": "Na Raba Toma Tap\u00e3o",
+      "url": "https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Finalidade Era Ficar em Casa",
+        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "Finalidade Era Ficar em Casa",
+      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "S\u00f3 Tap\u00e3o Nervoso Vs Toma Catucada Violenta",
         "url": "https://open.spotify.com/album/0FkHrCD8RzALIgBvzsqvXR"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 186363,
       "name": "S\u00f3 Tap\u00e3o Nervoso Vs Toma Catucada Violenta",
       "url": "https://open.spotify.com/track/2BEGTomoM88uGMOzRmZirl"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Finalidade Era Ficar em Casa",
-        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "Finalidade Era Ficar em Casa",
-      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
     },
     {
       "added_at": "2023-06-26 14:06:50",

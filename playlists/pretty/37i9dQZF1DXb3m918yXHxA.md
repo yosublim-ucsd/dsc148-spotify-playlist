@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,493,697 likes - 130 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494,229 likes - 130 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 89 | [Lazy Nina](https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q) | [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Pulse \(Expanded Edition\)](https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4) | 5:26 |
 | 90 | [Let Me Go, Love](https://open.spotify.com/track/4Gkn68RCQMsPpBU1nCWikJ) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [In The Nick Of Time](https://open.spotify.com/album/2zVCb4GhgcJegyhF6DAmtC) | 3:49 |
 | 91 | [Bi\-Coastal](https://open.spotify.com/track/1JFt7RvlIgRrTs4dXYbw0o) | [Peter Allen](https://open.spotify.com/artist/6748v9yNrbb4PPJuvfoMRa) | [Bi\-Coastal](https://open.spotify.com/album/18q7pXVYXXcuDPkstx2yxC) | 4:21 |
-| 92 | [That Girl Is Gone](https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Anywhere You Go](https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo) | 4:44 |
+| 92 | [That Girl Is Gone](https://open.spotify.com/track/4TuwguyKN7gebQhpJll8aN) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [80's Soft Rock](https://open.spotify.com/album/2dUg1D8m0U0W7eRBxvSrbv) | 4:44 |
 | 93 | [My Baby](https://open.spotify.com/track/7xbpkpqhnksMOptxX6mPQG) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Anywhere You Go](https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo) | 4:15 |
 | 94 | [Got to Be Lovin' You](https://open.spotify.com/track/5JIobM5qcmVROZLIAJz4gD) | [Erik Tagg](https://open.spotify.com/artist/5zcCnWi56qN3EgcQZUg2gR) | [Rendez\-Vous](https://open.spotify.com/album/7hoTV10wiY6EFY9885V0p2) | 3:28 |
 | 95 | [Trouble in Paradise](https://open.spotify.com/track/3b9SxtCRgPFPtIGpv1qQ1t) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Jarreau](https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb) | 3:49 |

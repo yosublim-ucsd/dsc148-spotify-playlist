@@ -1,12 +1,12 @@
 {
   "description": "Mode lecture al\u00e9atoire obligatoire.",
-  "num_followers": 26311,
+  "num_followers": 26344,
   "original_name": "boxon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODY1NDNiOTliMGRlZDMzYmVlYzRjOTg0NTdmNGVkMWZiYTBhMzNk",
+  "snapshot_id": "MCwwOWFmODEwMWZiMDRlMjM4YWZlMGY1YTVkMDNiZjczZTllMTdjZjNj",
   "tracks": [
     {
       "added_at": "2023-10-23 10:10:04",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-10-23 10:10:04",
       "album": {
-        "name": "Lucifer On The Sofa",
-        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 193369,
-      "name": "The Hardest Cut",
-      "url": "https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU"
-    },
-    {
-      "added_at": "2023-10-23 10:10:04",
-      "album": {
         "name": "Dawn Of The Freak",
         "url": "https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 285000,
       "name": "Broken",
       "url": "https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W"
+    },
+    {
+      "added_at": "2023-10-23 10:10:04",
+      "album": {
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 193369,
+      "name": "The Hardest Cut",
+      "url": "https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU"
     },
     {
       "added_at": "2023-10-23 10:10:04",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-10-23 10:10:04",
       "album": {
-        "name": "Stay Blessed",
-        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 177731,
-      "name": "Stay Blessed",
-      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
-    },
-    {
-      "added_at": "2023-10-23 10:10:04",
-      "album": {
         "name": "JTM",
         "url": "https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 183840,
       "name": "Kleenex",
       "url": "https://open.spotify.com/track/2UToegl7AOOC0qflCqGcBH"
+    },
+    {
+      "added_at": "2023-10-23 10:10:04",
+      "album": {
+        "name": "Stay Blessed",
+        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 177731,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
     },
     {
       "added_at": "2023-10-23 10:10:04",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-10-23 10:10:04",
       "album": {
-        "name": "Toward a Never Ending New Beginning",
-        "url": "https://open.spotify.com/album/4N7crJO2i5qyJ3s3fmtbCS"
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/4DAcNelO7672wOl6OdA23u"
       },
       "artists": [
         {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
         }
       ],
-      "duration_ms": 179560,
-      "name": "Hallucinate",
-      "url": "https://open.spotify.com/track/1YzVJzx4WkFNqFtx1vLpwI"
+      "duration_ms": 179426,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/6vEBjNnWYadgKeihTMs2Nb"
     },
     {
       "added_at": "2023-10-23 10:10:04",
@@ -803,34 +803,34 @@
     {
       "added_at": "2023-10-23 10:10:04",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/4DAcNelO7672wOl6OdA23u"
+        "name": "Toward a Never Ending New Beginning",
+        "url": "https://open.spotify.com/album/4N7crJO2i5qyJ3s3fmtbCS"
       },
       "artists": [
         {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
         }
       ],
-      "duration_ms": 179426,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/6vEBjNnWYadgKeihTMs2Nb"
+      "duration_ms": 179560,
+      "name": "Hallucinate",
+      "url": "https://open.spotify.com/track/1YzVJzx4WkFNqFtx1vLpwI"
     },
     {
       "added_at": "2023-10-23 10:10:04",
       "album": {
-        "name": "Le c\u0153ur qui cogne",
-        "url": "https://open.spotify.com/album/4yQrejKybw0gsJ7W6k0Vmw"
+        "name": "Isaac Delusion",
+        "url": "https://open.spotify.com/album/53NFdlmnX8Mqd9cW5Nzv2w"
       },
       "artists": [
         {
-          "name": "St Graal",
-          "url": "https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I"
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
         }
       ],
-      "duration_ms": 161333,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/5LsHB7a3E9wtoKac1FVMmi"
+      "duration_ms": 245179,
+      "name": "She Pretends",
+      "url": "https://open.spotify.com/track/6B8GIRuUKgN7CHx0yAHw6K"
     }
   ],
   "unique_name": "boxon",

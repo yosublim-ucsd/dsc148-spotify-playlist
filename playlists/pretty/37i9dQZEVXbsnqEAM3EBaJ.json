@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMDYyNjAsMDAwMDAwMDA3NDhkNmMwMDQ2YTQzOTJiZTI3NjJmNTU0MmQ2OWE4Ng==",
+  "snapshot_id": "MjgzMDYyNjAsMDAwMDAwMDBlZDEwMmU0NmViYzlhODAzYTA3Nzk1YjQ0MWY3ZTgwYQ==",
   "tracks": [
     {
       "added_at": "2023-10-27 03:00:00",
@@ -127,26 +127,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Nada Que O\u00edr",
-        "url": "https://open.spotify.com/album/6rZQNUJuTQhhqgAa3oV3Qh"
-      },
-      "artists": [
-        {
-          "name": "BARRAC\u00dcDA",
-          "url": "https://open.spotify.com/artist/76CL5heNuTVZrutkli7cKx"
-        },
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 215361,
-      "name": "Yo Ya Lo Dejo",
-      "url": "https://open.spotify.com/track/7263S16l0i2iF9RHuQOw6v"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Live 1978 - 1992",
         "url": "https://open.spotify.com/album/5nnR9Is6buE9ntceg1whyP"
       },
@@ -175,6 +155,22 @@
       "duration_ms": 255866,
       "name": "Glittering Prize - Live From Paisley Abbey",
       "url": "https://open.spotify.com/track/2yzyrPWGjrP5UNdbZPo3x9"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "M\u00fasica Medicina",
+        "url": "https://open.spotify.com/album/0nPqXBvJzhhaowJRXaArdD"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "duration_ms": 376967,
+      "name": "Abuela Luna",
+      "url": "https://open.spotify.com/track/0rD0GNdO3DUps569PnVJRR"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -211,6 +207,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "Diamonds and Pearls (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2CnYN07kMv2DMP3cDjEjHK"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 332680,
+      "name": "Diamonds and Pearls (Long Version)",
+      "url": "https://open.spotify.com/track/1FgB9Iqyvi59tC0GNtQxGQ"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "The Nutcracker Suite",
         "url": "https://open.spotify.com/album/3mCPacNsUFWiAuI2qRgzj6"
       },
@@ -239,22 +251,6 @@
       "duration_ms": 175546,
       "name": "The Nutcracker Suite: IV. Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
       "url": "https://open.spotify.com/track/4O7Z4EpCzkboRQ5R1Z4t4L"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Diamonds and Pearls (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2CnYN07kMv2DMP3cDjEjHK"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 332680,
-      "name": "Diamonds and Pearls (Long Version)",
-      "url": "https://open.spotify.com/track/1FgB9Iqyvi59tC0GNtQxGQ"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -395,6 +391,26 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "My Favourite Stranger (Remixes)",
+        "url": "https://open.spotify.com/album/4sKi74JyzjNzfrb1KYNtue"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 228883,
+      "name": "My Favourite Stranger - Ela Minus Remix",
+      "url": "https://open.spotify.com/track/0mmzCZ3uYf9r4AwiH0m3o3"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "I Want You (Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978)",
         "url": "https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT"
       },
@@ -407,6 +423,22 @@
       "duration_ms": 151840,
       "name": "I Want You - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
       "url": "https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "This Is Home (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/5TNdfilbyjqccWhe94Cprl"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 304887,
+      "name": "This Is Home - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/5Kn3h8TmaMfTY19Fpy0m55"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -439,38 +471,26 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "My Favourite Stranger (Remixes)",
-        "url": "https://open.spotify.com/album/4sKi74JyzjNzfrb1KYNtue"
+        "name": "El Viaje Nunca Llega al Horizonte",
+        "url": "https://open.spotify.com/album/5jW99GeUF9H8mNoxaRZrWn"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Ed Neidhardt",
+          "url": "https://open.spotify.com/artist/3bNG06xa1cMet4wV0dg21h"
         },
         {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 228883,
-      "name": "My Favourite Stranger - Ela Minus Remix",
-      "url": "https://open.spotify.com/track/0mmzCZ3uYf9r4AwiH0m3o3"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "This Is Home (Bright-Side Mix)",
-        "url": "https://open.spotify.com/album/5TNdfilbyjqccWhe94Cprl"
-      },
-      "artists": [
+          "name": "Bufalo Dit",
+          "url": "https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK"
+        },
         {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
         }
       ],
-      "duration_ms": 304887,
-      "name": "This Is Home - Bright-Side Mix",
-      "url": "https://open.spotify.com/track/5Kn3h8TmaMfTY19Fpy0m55"
+      "duration_ms": 209250,
+      "name": "Tr\u00e1tate Bi\u00e9n",
+      "url": "https://open.spotify.com/track/0H9XzJ1wraMqsGheDlxsLH"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -495,30 +515,6 @@
       "duration_ms": 170261,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "El Viaje Nunca Llega al Horizonte",
-        "url": "https://open.spotify.com/album/5jW99GeUF9H8mNoxaRZrWn"
-      },
-      "artists": [
-        {
-          "name": "Ed Neidhardt",
-          "url": "https://open.spotify.com/artist/3bNG06xa1cMet4wV0dg21h"
-        },
-        {
-          "name": "Bufalo Dit",
-          "url": "https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        }
-      ],
-      "duration_ms": 209250,
-      "name": "Tr\u00e1tate Bi\u00e9n",
-      "url": "https://open.spotify.com/track/0H9XzJ1wraMqsGheDlxsLH"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -739,22 +735,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Rewind Forward",
-        "url": "https://open.spotify.com/album/2ETwP4mpMMUgx9BYYuzdmm"
-      },
-      "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "Feeling The Sunlight",
-      "url": "https://open.spotify.com/track/1YpeUoLUxtvVV09t1ltR3d"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Catch A Fire (50th Anniversary)",
         "url": "https://open.spotify.com/album/1KQFJswSSy7hTfxSgy3ql4"
       },
@@ -771,18 +751,34 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK"
+        "name": "Rewind Forward",
+        "url": "https://open.spotify.com/album/2ETwP4mpMMUgx9BYYuzdmm"
       },
       "artists": [
         {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
         }
       ],
-      "duration_ms": 179091,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv"
+      "duration_ms": 186453,
+      "name": "Feeling The Sunlight",
+      "url": "https://open.spotify.com/track/1YpeUoLUxtvVV09t1ltR3d"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Live in Switzerland (Remastered 2023)",
+        "url": "https://open.spotify.com/album/1DLdNlZoXWPL3ooXijwcEI"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 686000,
+      "name": "Budapest - Live - Remastered 2023",
+      "url": "https://open.spotify.com/track/0rjwoRP5XV7SMSj38sq1bR"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -807,34 +803,18 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Live in Switzerland (Remastered 2023)",
-        "url": "https://open.spotify.com/album/1DLdNlZoXWPL3ooXijwcEI"
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK"
       },
       "artists": [
         {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 395000,
-      "name": "Farm On The Freeway - Live - Remastered 2023",
-      "url": "https://open.spotify.com/track/7Iq3UghudyQNWGbJ8mg7cG"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Mantra del Maestro Jes\u00fas",
-        "url": "https://open.spotify.com/album/6zPoGZ5VIBoeFNJsPtGFMC"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Donalson",
-          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
-        }
-      ],
-      "duration_ms": 312378,
-      "name": "Mantra del Maestro Jes\u00fas",
-      "url": "https://open.spotify.com/track/3LtyBtGFstooQecQfxHDUS"
+      "duration_ms": 179091,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -943,22 +923,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "The Collection II",
-        "url": "https://open.spotify.com/album/67KYu6Smel916pR6QBeIsQ"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 316046,
-      "name": "Learning to See - 2023 Remaster",
-      "url": "https://open.spotify.com/track/1B9Cf7gVcYR7gBWXD9YnRK"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "The Dark Side of the Moon Redux",
         "url": "https://open.spotify.com/album/2LywAZA9wrn0VmDYnkp1CU"
       },
@@ -971,6 +935,22 @@
       "duration_ms": 456485,
       "name": "Us and Them",
       "url": "https://open.spotify.com/track/0RZicklCcsEWF4jodu8QD2"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "The Collection II",
+        "url": "https://open.spotify.com/album/67KYu6Smel916pR6QBeIsQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 316046,
+      "name": "Learning to See - 2023 Remaster",
+      "url": "https://open.spotify.com/track/1B9Cf7gVcYR7gBWXD9YnRK"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1023,22 +1003,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Velas Ciegas",
-        "url": "https://open.spotify.com/album/63nQGE7xONCjYGS8JCW88Q"
-      },
-      "artists": [
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        }
-      ],
-      "duration_ms": 173209,
-      "name": "Velas Ciegas",
-      "url": "https://open.spotify.com/track/6FXyXeis8xGewrxuAZd0Rc"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Little Lies",
         "url": "https://open.spotify.com/album/7INtd4oNndspcldngUkOSN"
       },
@@ -1055,26 +1019,18 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Call Your Name (Andromedik Remix)",
-        "url": "https://open.spotify.com/album/3TIjAIFSHDzJMBSSCtGtmc"
+        "name": "Velas Ciegas",
+        "url": "https://open.spotify.com/album/63nQGE7xONCjYGS8JCW88Q"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        },
-        {
-          "name": "Andromedik",
-          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
         }
       ],
-      "duration_ms": 160500,
-      "name": "Call Your Name - Andromedik Remix",
-      "url": "https://open.spotify.com/track/2ktvmX53byZmws2q2qMRiI"
+      "duration_ms": 173209,
+      "name": "Velas Ciegas",
+      "url": "https://open.spotify.com/track/6FXyXeis8xGewrxuAZd0Rc"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1103,6 +1059,30 @@
       "duration_ms": 169533,
       "name": "Insatiable - BLVCK CROWZ Remix",
       "url": "https://open.spotify.com/track/1Az1YG8U4nuNuNLnfALqas"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Call Your Name (Andromedik Remix)",
+        "url": "https://open.spotify.com/album/3TIjAIFSHDzJMBSSCtGtmc"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        },
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Call Your Name - Andromedik Remix",
+      "url": "https://open.spotify.com/track/2ktvmX53byZmws2q2qMRiI"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

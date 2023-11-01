@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Rubio",
-  "num_followers": 133884,
+  "num_followers": 133891,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTcyNmFlNDJiNGY3ZGU0MGI3M2I5NTczYjczNmI3MDVkNTRlZDA3",
+  "snapshot_id": "MCwzY2EwMThiY2ZkNjMzMGQ1NTlkMjQ4NTU5MmQyOTVjMjI5Y2Y0ODdj",
   "tracks": [
     {
       "added_at": "2023-10-20 15:49:32",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-10-20 15:49:32",
       "album": {
-        "name": "R\u00e1pido",
-        "url": "https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW"
-      },
-      "artists": [
-        {
-          "name": "MJ Nebreda",
-          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
-        },
-        {
-          "name": "Ana Macho",
-          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
-        }
-      ],
-      "duration_ms": 178252,
-      "name": "R\u00e1pido",
-      "url": "https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG"
-    },
-    {
-      "added_at": "2023-10-20 15:49:32",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 244088,
       "name": "Bailemos en la Sala",
       "url": "https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX"
+    },
+    {
+      "added_at": "2023-10-20 15:49:32",
+      "album": {
+        "name": "R\u00e1pido",
+        "url": "https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW"
+      },
+      "artists": [
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        },
+        {
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+        }
+      ],
+      "duration_ms": 178252,
+      "name": "R\u00e1pido",
+      "url": "https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG"
     }
   ],
   "unique_name": "BRILLO",

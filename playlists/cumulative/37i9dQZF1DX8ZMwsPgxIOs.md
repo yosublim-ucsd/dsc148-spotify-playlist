@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Adam Beyer
 
-239 songs - 19 hr 29 min
+240 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Leela](https://open.spotify.com/track/6FbdCNOZ4ldJPi43Rf01iE) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [LP2](https://open.spotify.com/album/55sCnDa3AJX3CeSM0pSO8e) | 5:22 | 2022-10-28 | 2022-11-11 |
 | [Life Window](https://open.spotify.com/track/2KM0Fxre2A4V97Yq8W0AQS) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Life Window](https://open.spotify.com/album/0EnUlTPW784TP5qMnad7nB) | 3:55 | 2023-01-20 |  |
 | [Lizard Den](https://open.spotify.com/track/0gdS1Bf65Q9Rm8Ps92uWpv) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Lizard Den](https://open.spotify.com/album/5SNEHRYenRSwt6a0dsJNxB) | 5:07 | 2022-05-06 | 2023-04-06 |
-| [Loam](https://open.spotify.com/track/5cAcVaabqTC3n3TS3eaxkG) | [SCALER](https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Loam](https://open.spotify.com/album/3FH7tPm5VdQTb49nceSBRP) | 4:59 | 2023-09-22 |  |
+| [Loam](https://open.spotify.com/track/5cAcVaabqTC3n3TS3eaxkG) | [SCALER](https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Loam](https://open.spotify.com/album/3FH7tPm5VdQTb49nceSBRP) | 4:59 | 2023-09-22 | 2023-11-01 |
+| [Loam](https://open.spotify.com/track/6P3cOgj5LWSmtRbqrrCflU) | [SCALER](https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Loam / New Symbols](https://open.spotify.com/album/68iZNNrpkM91TSXbGmMAhL) | 4:59 | 2023-10-27 |  |
 | [Lotus](https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Lotus](https://open.spotify.com/album/4efymwZTnjpIXStNWWdCJ8) | 4:32 | 2022-07-29 |  |
 | [Made 4 U](https://open.spotify.com/track/2gqoaVqj3suM9DAkeBgUKD) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Made 4 U](https://open.spotify.com/album/058gfK0rY6EBqx6xdXxBMp) | 3:39 | 2022-11-11 | 2023-08-11 |
 | [Maladaptive Daydreamer](https://open.spotify.com/track/1OMzDNa8XPcc7ry1lHY0JB) | [Vixen](https://open.spotify.com/artist/52o3kir2OhAcvcTNUYYXfN) | [Maladaptive Daydreamer](https://open.spotify.com/album/0Zdz4k1rSM83jjR4CKflrl) | 7:17 | 2022-04-15 | 2023-03-15 |

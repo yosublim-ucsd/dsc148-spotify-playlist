@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=8eFI3bZKQg6\-tCSQCFaw2A">Mercy Chinwo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,860 likes - 97 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,912 likes - 97 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Exit](https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Exit](https://open.spotify.com/album/33IS3ibSQBRCKT5cWkZyBL) | 2:56 |
-| 2 | [YAHWEH \(Afro Culture\)](https://open.spotify.com/track/17E2UfGUSSw6TfQmSSCSX8) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [YAHWEH \(Afro Culture\)](https://open.spotify.com/album/29zxl62L6ANKDgtV8w5P5B) | 3:37 |
+| 2 | [YAHWEH \(Afro Culture\)](https://open.spotify.com/track/17E2UfGUSSw6TfQmSSCSX8) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/4dogVZbXFfZXZRb43us6CJ) | [YAHWEH \(Afro Culture\)](https://open.spotify.com/album/29zxl62L6ANKDgtV8w5P5B) | 3:37 |
 | 3 | [True Believer](https://open.spotify.com/track/2uXm2JGnMEWf6SHRekJVwm) | [DJ Foxy](https://open.spotify.com/artist/4CAAaRx8ytzVRFjhP2YUjA), [Myspro](https://open.spotify.com/artist/32zhuEZ2B9Co3r8NaLRLIa) | [True Believer](https://open.spotify.com/album/4s6E6v7m0LBJrKi5MwN9yT) | 3:05 |
 | 4 | [Hark The Herald Angels Sing](https://open.spotify.com/track/7ry33QJNnX9YJFEo51yUQK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Echo The Angels](https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb) | 4:04 |
 | 5 | [You Do This One](https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [You Do This One](https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o) | 3:46 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 96 | [Celebrate](https://open.spotify.com/track/023XtDo25wzIeY6an6toIG) | [Ndlovu Youth Choir](https://open.spotify.com/artist/5Wj12iPc23dZqX3K67PwE6) | [Celebrate](https://open.spotify.com/album/5mddCYEjhXEb6muZB4SsS2) | 2:54 |
 | 97 | [High Calling](https://open.spotify.com/track/2XIfWKsjf0ufQNzYDCFV3m) | [The Shelter](https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [High Calling](https://open.spotify.com/album/3A3N6gYhQUFK48zRkg5o63) | 3:08 |
 
-Snapshot ID: `MCw4ZTRjNzU3YjIyZWE2MDQ2YzY4ZTc0YmU3NmMwY2FlNzYwODhmZDFh`
+Snapshot ID: `MCwxODJkM2M0ZWQyOTNjM2NkMzM3M2QyOTIwMmI4MTQ3NzcwOWVlZDE2`

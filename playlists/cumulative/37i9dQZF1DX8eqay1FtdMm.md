@@ -4,7 +4,7 @@
 
 > Meet the vocalists representing Korea! \(Cover:Sung Si Kyung x NAUL\(성시경 x 나얼\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-432 songs - 1 day 4 hr 14 min
+433 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Diaspora](https://open.spotify.com/track/4LxjliHXyosD6sqDp9vMjU) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Diaspora](https://open.spotify.com/album/424WFw7apETzYjkgOsyOs5) | 5:03 | 2022-05-03 | 2022-05-12 |
 | [didn't know me](https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:58 | 2021-12-20 |  |
 | [Diving \(Piano by Seokwon Lee\)](https://open.spotify.com/track/76BHfwrmbjxqHiUFdJS4zL) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 3:32 | 2023-02-13 | 2023-02-25 |
+| [Do](https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Do](https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX) | 2:45 | 2023-10-29 |  |
 | [dolphin](https://open.spotify.com/track/4GM3fJA0hhvLK654hg5fXO) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [dolphin](https://open.spotify.com/album/14hlDO2H1pMIUVovoMpaQ8) | 3:04 | 2022-03-29 | 2022-04-21 |
 | [Don't treat me well](https://open.spotify.com/track/6gf5ELYMwGOYvihbp6NA0s) | [yeo eun](https://open.spotify.com/artist/00hyJ4Om3BEqgLwfqHSFxv) | [Don't treat me well](https://open.spotify.com/album/2FqhiCBwlQAuNW87paj41N) | 3:38 | 2022-02-10 | 2022-04-09 |
 | [Don’t Forget](https://open.spotify.com/track/0THW04vlFAkfflASMFam0t) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Don't Forget](https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt) | 3:39 | 2022-07-25 |  |
@@ -302,7 +303,7 @@
 | [Scattered Days](https://open.spotify.com/track/27HoEXjsTVnwmvsSMQEDKb) | [Hanseul](https://open.spotify.com/artist/1mXzPR6FH3CMZYu4VQ6ghD), [In the City](https://open.spotify.com/artist/31Gze6obVZxuBeqEXJYNo8) | [PLAYBACK \#4 'Scattered Days'](https://open.spotify.com/album/6JwxEhmxoie8ldjW6PBE7m) | 3:48 | 2022-01-14 | 2022-06-26 |
 | [seep into you](https://open.spotify.com/track/1gI4erUG1xjcWi5Ysm8YjY) | [Yeoeun](https://open.spotify.com/artist/4KDlIFwLpNZE8xx3cpzsej) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/0pazoqMfChhTpwsbqaDS9P) | 3:48 | 2022-07-04 | 2022-07-23 |
 | [Seven, \(Prologue\) \- 위로](https://open.spotify.com/track/1ewzpN8UdeWkvxi8XBsJVG) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven, \(Prologue\) \- 위로](https://open.spotify.com/album/7oWC3ZxT8Tb95JQJwNarxV) | 4:48 | 2022-10-24 | 2022-11-24 |
-| [Should′ve known](https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Ballad 21 F/W](https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq) | 3:41 | 2021-12-20 |  |
+| [Should′ve known](https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Ballad 21 F/W](https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq) | 3:41 | 2021-12-20 | 2023-11-01 |
 | [Simple is the best](https://open.spotify.com/track/0CuWEtjM6WSMOZaUe25qRX) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 3:43 | 2022-03-24 | 2022-04-21 |
 | [Snow Flower](https://open.spotify.com/track/0t3lRe5onWuDCm5533MRZ1) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Snow Flower](https://open.spotify.com/album/3GeRwFsu0S9PKpbzerXDt5) | 5:43 | 2023-01-25 | 2023-02-21 |
 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 | 2022-03-24 |  |

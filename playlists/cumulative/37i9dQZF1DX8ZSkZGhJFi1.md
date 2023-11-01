@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-629 songs - 1 day 1 hr 37 min
+630 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 | 2023-10-27 |  |
 | [Catcher in the rye](https://open.spotify.com/track/1MjAqFdbI32eabt6lufWfy) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Catcher in the rye](https://open.spotify.com/album/1U7K08lz9Y5HK31C2yqYDd) | 3:52 | 2022-02-17 | 2023-09-09 |
 | [Cavern](https://open.spotify.com/track/3m4iAUrVsW0BFkyOmdeNrr) | [Lil Joke](https://open.spotify.com/artist/5OjXKVQtwCAwQ3EGw3ZzBQ) | [Cavern](https://open.spotify.com/album/2KQOOidJ1pYuui2rnhBio1) | 1:57 | 2023-09-08 | 2023-10-22 |
-| [Caves](https://open.spotify.com/track/5v4Mbrr1OSdpILZnLoIib1) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ), [Modokat](https://open.spotify.com/artist/0MOkCubG8ucV1oT8sRynNd) | [Caves](https://open.spotify.com/album/58hOksHan9dD6Jbn54ROVc) | 2:26 | 2023-09-08 |  |
+| [Caves](https://open.spotify.com/track/5v4Mbrr1OSdpILZnLoIib1) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ), [Modokat](https://open.spotify.com/artist/0MOkCubG8ucV1oT8sRynNd) | [Caves](https://open.spotify.com/album/58hOksHan9dD6Jbn54ROVc) | 2:26 | 2023-09-08 | 2023-11-01 |
 | [Chanterelle](https://open.spotify.com/track/3JSg9IUjqze3mySqLn4HmT) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:45 | 2023-09-08 |  |
 | [cheek to cheek](https://open.spotify.com/track/42wnWqsyRqvM0N0UnOCXiy) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [cheek to cheek](https://open.spotify.com/album/0BMKRF854P5D01wz9Kib5x) | 2:00 | 2023-09-08 |  |
 | [cheydinhal](https://open.spotify.com/track/1LZn2Iumd6EBPa16SxZmgg) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [cheydinhal](https://open.spotify.com/album/5qkawH5rfKsYEwTXWMRDeP) | 2:05 | 2023-09-08 |  |
@@ -181,6 +181,7 @@
 | [Flora](https://open.spotify.com/track/1e1mFuvsUtb607JVgjjhQu) | [Mr\. Freed](https://open.spotify.com/artist/35LocEP0NXBVe8GwWZoe5w) | [Flora](https://open.spotify.com/album/6LhhJlBZBimAkKUrGvShMR) | 2:09 | 2023-09-08 |  |
 | [Flower Kingdom](https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Flower Kingdom](https://open.spotify.com/album/0ZyDmjkemTFFIGrlenJiiV) | 2:08 | 2023-10-13 |  |
 | [Floweristic](https://open.spotify.com/track/6pKRvIqBqR11TwVeHQLfcH) | [Miss Sangria](https://open.spotify.com/artist/7qFNxNfrKpdnnDIaQkh4Ou) | [Floweristic](https://open.spotify.com/album/2K069mIX5P0ad1wZTtpOE7) | 1:57 | 2022-02-17 | 2023-09-09 |
+| [Fluffity](https://open.spotify.com/track/22iHU9AESPMxf6aaI2OKd3) | [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl), [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Fluffity](https://open.spotify.com/album/7syd7u5StZKwBgcaFw7JUB) | 2:39 | 2023-10-27 |  |
 | [Fly by Night](https://open.spotify.com/track/5u3vpXS3p1NEPGpK87MfTO) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Fly By Night](https://open.spotify.com/album/3XDxXhJUcii0AcwIiqkIsm) | 2:09 | 2022-02-17 | 2023-09-09 |
 | [Fly with me to the moon](https://open.spotify.com/track/6ax46rQsYBiZoZS4QDrvvM) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Fly with me to the moon](https://open.spotify.com/album/3om1Wcwqb7qMFegOjcRPog) | 2:09 | 2023-09-08 |  |
 | [Foemeo](https://open.spotify.com/track/6yRz4gpq370pGg5hKTp91X) | [Earium](https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq) | [Foemeo](https://open.spotify.com/album/0H5rVwDQTq53oKuwSAMvoc) | 2:15 | 2023-09-08 |  |

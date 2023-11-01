@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=tV19pJIgSkSq1IjoAZtWIQ">Anendlessocean</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,678 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,737 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 74 | [Nazarene](https://open.spotify.com/track/5DAi3gOoRMUU2Jn6QkyU1e) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Nazarene](https://open.spotify.com/album/6r98akghS6z03kYuYkO1oZ) | 2:51 |
 | 75 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 |
 
-Snapshot ID: `MCwyZTFiYTExZWFiZmQ5Nzg2YjVlNmU5ZWNmMjJkMTY0NzBkZjU5ZDZh`
+Snapshot ID: `MCxmMjZmMWI4YWM3MzBkMDFiYmZhZTFkYWNlZWMzMWFkY2ViOTkzYjQ3`

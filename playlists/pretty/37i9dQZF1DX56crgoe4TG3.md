@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,647 likes - 134 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,675 likes - 134 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 133 | [No Diggity](https://open.spotify.com/track/2X2mue7uhDOCEgA3ewrB2l) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 5:51 |
 | 134 | [On The Road Again](https://open.spotify.com/track/3xkY21Y37cXIHrWTQBAKNZ) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Country Mountain Tributes: The Songs of Willie Nelson](https://open.spotify.com/album/5hVPIFkN55JJWu2iM6CW5D) | 3:22 |
 
-Snapshot ID: `MCw0ZjJlMzhjMzNmNzdhOTQyMjIyYjBjNGU1MzU2NzFiNmUzYzVmZjMx`
+Snapshot ID: `MCxkMTI3ZjM4ZWRiOThmYmViNmE0NWI2NWM3YjNlMmNkYjRmNGYzOWM2`

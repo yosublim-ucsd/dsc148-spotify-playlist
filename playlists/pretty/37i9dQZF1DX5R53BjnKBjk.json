@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 18396,
+  "num_followers": 18418,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmRjYWI3YjA1NjNjOTNhMGExMmNhMThkODkwYWYzZDRhN2IxNzQw",
+  "snapshot_id": "MCw1ZjFlZTI5ODQxMDExZWIyNmZiZjUyZjcyMWUxNTY1ZTM4ZjRlZjY2",
   "tracks": [
     {
       "added_at": "2023-09-29 03:03:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Embalo",
-        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
-      },
-      "artists": [
-        {
-          "name": "TIRI",
-          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Embalo",
-      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Do Meu Lado",
         "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 151187,
       "name": "Do Meu Lado",
       "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Embalo",
+        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
+      },
+      "artists": [
+        {
+          "name": "TIRI",
+          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
+        }
+      ],
+      "duration_ms": 201231,
+      "name": "Embalo",
+      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Queda livre",
-        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
-      },
-      "artists": [
-        {
-          "name": "Playmoboys",
-          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
-        },
-        {
-          "name": "Oh! I Kill",
-          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Queda livre",
-      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Sabotagem",
         "url": "https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N"
       },
@@ -531,6 +511,26 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
+        "name": "Queda livre",
+        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
+      },
+      "artists": [
+        {
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+        },
+        {
+          "name": "Oh! I Kill",
+          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Queda livre",
+      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
         "name": "Quando Eu Falei Pra Ela",
         "url": "https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 183666,
       "name": "Quando Eu Falei Pra Ela",
       "url": "https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Amor de Sonhos",
+        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Amor de Sonhos",
+      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Casal Desgra\u00e7a",
-        "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
-      },
-      "artists": [
-        {
-          "name": "Lucas Andrade",
-          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Casal Desgra\u00e7a",
-      "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
       },
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
+        "name": "Casal Desgra\u00e7a",
+        "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
+      },
+      "artists": [
+        {
+          "name": "Lucas Andrade",
+          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Casal Desgra\u00e7a",
+      "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
         "name": "\u00d4 Lulu",
         "url": "https://open.spotify.com/album/55xxEtIfagPjZR5LcCMJbP"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 184646,
       "name": "\u00d4 Lulu",
       "url": "https://open.spotify.com/track/4zANO1rVIY1EeaDyyI3BN6"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
-        "name": "Amor de Sonhos",
-        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Amor de Sonhos",
-      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
+        "name": "Hortel\u00e3",
+        "url": "https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y"
+      },
+      "artists": [
+        {
+          "name": "leffs",
+          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Hortel\u00e3",
+      "url": "https://open.spotify.com/track/1thjFFcnXI3r8W89oVewce"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
         "name": "V\u00edcio Que C\u00ea Tem Em Mim",
         "url": "https://open.spotify.com/album/6lLhGUbpGSVUuGhlp1BHrg"
       },
@@ -867,18 +883,18 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Hortel\u00e3",
-        "url": "https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y"
+        "name": "Tarde no Walkiria",
+        "url": "https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr"
       },
       "artists": [
         {
-          "name": "leffs",
-          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
+          "name": "\u00cdtallo",
+          "url": "https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Hortel\u00e3",
-      "url": "https://open.spotify.com/track/1thjFFcnXI3r8W89oVewce"
+      "duration_ms": 239950,
+      "name": "Palavra de Amor",
+      "url": "https://open.spotify.com/track/7z8gTjbcWPazkxjybrwV3K"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -895,22 +911,6 @@
       "duration_ms": 201734,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
-        "name": "Tarde no Walkiria",
-        "url": "https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr"
-      },
-      "artists": [
-        {
-          "name": "\u00cdtallo",
-          "url": "https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9"
-        }
-      ],
-      "duration_ms": 239950,
-      "name": "Palavra de Amor",
-      "url": "https://open.spotify.com/track/7z8gTjbcWPazkxjybrwV3K"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
+        "name": "Esquece",
+        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
+      },
+      "artists": [
+        {
+          "name": "Jalma",
+          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
+        }
+      ],
+      "duration_ms": 178526,
+      "name": "Esquece",
+      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
         "name": "Me Liga",
         "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
       },
@@ -1091,6 +1107,22 @@
       "duration_ms": 176398,
       "name": "Me Liga",
       "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Jacquemus",
+        "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
+      },
+      "artists": [
+        {
+          "name": "TOLENTINO",
+          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
+        }
+      ],
+      "duration_ms": 153559,
+      "name": "Jacquemus",
+      "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1111,22 +1143,6 @@
       "duration_ms": 275882,
       "name": "Se Eu Te Ver de Novo",
       "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
-        "name": "Jacquemus",
-        "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
-      },
-      "artists": [
-        {
-          "name": "TOLENTINO",
-          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
-        }
-      ],
-      "duration_ms": 153559,
-      "name": "Jacquemus",
-      "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "VERO",
-        "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
-      },
-      "artists": [
-        {
-          "name": "M. Costta",
-          "url": "https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Bom Vivant",
-      "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "PSEUDODRAMA",
         "url": "https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ"
       },
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Esquece",
-        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
+        "name": "VERO",
+        "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
       },
       "artists": [
         {
-          "name": "Jalma",
-          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
+          "name": "M. Costta",
+          "url": "https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE"
         }
       ],
-      "duration_ms": 178526,
-      "name": "Esquece",
-      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
+      "duration_ms": 197538,
+      "name": "Bom Vivant",
+      "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
     },
     {
       "added_at": "2023-09-29 03:03:00",

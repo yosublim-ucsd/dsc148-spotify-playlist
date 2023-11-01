@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Ja Rule",
-  "num_followers": 125366,
+  "num_followers": 125680,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YThhMWRkZjZkMmY3Y2IyNjIwOTg4NzU4NjVlZjM1NDdlNDc3ZTky",
+  "snapshot_id": "MCwxMGY1YzNmYTg4ODJjM2U0MDcxZWMzZTg1MTJmOTIzNDM3NzQzYjA5",
   "tracks": [
     {
       "added_at": "2023-10-10 20:31:06",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-10-10 20:31:06",
       "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Can't Tell Me Nothing",
+      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
+    },
+    {
+      "added_at": "2023-10-10 20:31:06",
+      "album": {
         "name": "The Massacre",
         "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 209106,
       "name": "Candy Shop",
       "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
-    },
-    {
-      "added_at": "2023-10-10 20:31:06",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 271600,
-      "name": "Can't Tell Me Nothing",
-      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
     },
     {
       "added_at": "2023-10-10 20:31:06",

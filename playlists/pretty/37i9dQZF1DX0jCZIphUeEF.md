@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,591 likes - 65 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,606 likes - 65 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 64 | [Dame Rabia \- Amine K Remix](https://open.spotify.com/track/1K68lCTAxaIHgamh0wiJZI) | [Chelabôm](https://open.spotify.com/artist/08aeUwOG7EXNoJSob9mawV), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Buddha Bar by Amine K & Ravin](https://open.spotify.com/album/7Awsu0TzbHe1Wxt9cGg1EL) | 6:18 |
 | 65 | [Rapture \(John Creamer & Stephane K\. Remix\) \[feat\. Nadia Ali\]](https://open.spotify.com/track/21s9uaVLfdKb1xEyiy0MBM) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Rapture Reconstruction, Platinum Edition \(feat\. Nadia Ali\)](https://open.spotify.com/album/4bOu5bLJpRBNfD0fb5apQf) | 9:58 |
 
-Snapshot ID: `MCxiMTA0OTIxOGJmOGJlODUyZDg4NDQ4ZGZjYjZmZWQyMDU5MjdlZjBi`
+Snapshot ID: `MCwzNDA2MThjN2Q2YTJiN2ZiNzkzNTY5ZmJhNjllOGMyNTgyYzExNGUw`

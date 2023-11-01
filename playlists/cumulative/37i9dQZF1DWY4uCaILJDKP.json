@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "NICE\uff01RICE\uff01SMILE\uff01",
+        "url": "https://open.spotify.com/album/4t2cwRgMIbyAVv5omOwAJx"
+      },
+      "artists": [
+        {
+          "name": "\u672c\u6c17\u3067\u304a\u7c73\u4f5c\u308a\u968a",
+          "url": "https://open.spotify.com/artist/42SmQU0oIVJhUpJM2fBdzy"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205121,
+      "name": "NICE\uff01RICE\uff01SMILE\uff01",
+      "url": "https://open.spotify.com/track/5PHuST5U2NTTxmGTrcTiEh"
+    },
+    {
+      "album": {
         "name": "ABCTV OHAYOUASAHIDESU OKITARAND OKITATTA",
         "url": "https://open.spotify.com/album/2M5uSQandeQMIhCgpkjkHN"
       },

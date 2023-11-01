@@ -4601,6 +4601,44 @@
     },
     {
       "album": {
+        "name": "Koma West",
+        "url": "https://open.spotify.com/album/49jGCFjyTcGjEzkbwLZVEq"
+      },
+      "artists": [
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        },
+        {
+          "name": "Koma Saxo",
+          "url": "https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8"
+        },
+        {
+          "name": "Otis Sandsj\u00f6",
+          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
+        },
+        {
+          "name": "Jonas Kullhammar",
+          "url": "https://open.spotify.com/artist/3hHc4tqyPsRJOzzqaxkadB"
+        },
+        {
+          "name": "Mikko Innanen",
+          "url": "https://open.spotify.com/artist/4HWtSGcRzJwM9qj21ODsIj"
+        },
+        {
+          "name": "Christian Lillinger",
+          "url": "https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210258,
+      "name": "Koma Kaprifol",
+      "url": "https://open.spotify.com/track/0SP2kWvuj63r7cPSisuABm"
+    },
+    {
+      "album": {
         "name": "Koma Kaprifol",
         "url": "https://open.spotify.com/album/2K6NzSo1DWgQsAenWfryBM"
       },
@@ -6140,7 +6178,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 387737,
       "name": "New York Stroll",
       "url": "https://open.spotify.com/track/52hrFgOpNZX5pO8JdMjzJK"

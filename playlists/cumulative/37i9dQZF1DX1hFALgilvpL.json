@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146866,
+      "name": "I\u2019m In Love",
+      "url": "https://open.spotify.com/track/5uTQC24DoCTc287oH8Xpp4"
+    },
+    {
+      "album": {
         "name": "Some Hearts",
         "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 197453,
       "name": "Settling Down",
       "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"

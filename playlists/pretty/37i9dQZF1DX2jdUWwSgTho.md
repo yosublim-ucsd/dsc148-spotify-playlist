@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 
 > Les hits préférés des enfants.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,094 likes - 30 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,122 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 | 8 | [Plus forts ensemble \(extrait de "Miraculous, le film : la bande originale"\) \- Radio Edit](https://open.spotify.com/track/4N1Rgnb7Xyzt0PlIKUKsyQ) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg), [Elliott](https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC) | [Plus forts ensemble \(extrait de "Miraculous, le film : la bande originale"\) \[Radio Edit\]](https://open.spotify.com/album/22T57wU3V470K1fGIjUxx9) | 4:29 |
 | 9 | [Suavemente](https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Suavemente](https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA) | 2:39 |
 | 10 | [Clic clic pan pan](https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3) | [Yanns](https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR) | [Pays des merveilles](https://open.spotify.com/album/7B1NFmx9uu3VbOvGBAiUCe) | 2:43 |
-| 11 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
+| 11 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
 | 12 | [CP\_009\_ Évidemment](https://open.spotify.com/track/6btgTbK2UslfSu0qjTEXQm) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Civilisation Edition Ultime](https://open.spotify.com/album/68YP0pEgwhnfRqQAzu71gP) | 3:26 |
 | 13 | [Le coach \(feat\. Vincenzo\)](https://open.spotify.com/track/1RighqmKZNqLP9rklJ4HCz) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Vincenzo](https://open.spotify.com/artist/0qip4dhB68FjSC0Y2S86RP) | [Phoenix](https://open.spotify.com/album/7aa71fyBd1G9q4BPQlibUu) | 3:20 |
 | 14 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 | 29 | [Un jour je marierai un ange](https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 2:44 |
 | 30 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |
 
-Snapshot ID: `MCw1OWExMmVlOTczOGM0Mzc4ODYyZjViMjQwMDljODM3Y2NiOWZjMTRm`
+Snapshot ID: `MCw0ZmJiN2YxYzEwMmEwZTJlODg2MmVlNTRkZDc3NGY5YTE1ODdiN2Jh`

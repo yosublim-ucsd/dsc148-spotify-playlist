@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> if she's got blue eyes, I will surmise that you'll probably date her!!!!!!
+> boy you know i'm magic on the mic houdini 🪄
 
 1,267 songs - 2 day 18 hr 30 min
 

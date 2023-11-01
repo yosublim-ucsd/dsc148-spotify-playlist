@@ -4,7 +4,7 @@
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-140 songs - 11 hr 56 min
+141 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Citizen's Dream](https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Signals](https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI) | 6:01 | 2022-03-18 |  |
 | [A Dream to Call My Own \(feat\. Janell Rosa\)](https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3) | [Nature Feels](https://open.spotify.com/artist/1ltepWinShlb0TKyJrNfEq), [Janell Rosa](https://open.spotify.com/artist/1p9RwfShi3tpt02GuEs7HD) | [A Dream to Call My Own \(feat\. Janell Rosa\)](https://open.spotify.com/album/2VX4sX25BcOUOY7sofYgaq) | 3:49 | 2022-03-25 |  |
 | [A Letter from the Past](https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [bu.re\_](https://open.spotify.com/artist/6CJUEvrgdk2Qy2M8M8ucy0) | [Momentary Ghosts](https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI) | 4:43 | 2022-03-18 |  |
-| [Abell 1835](https://open.spotify.com/track/6hyj3mdLzyCq1Cd2F8S42o) | [LIGHTS OUT ASIA](https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi) | [Hy\-Brasil](https://open.spotify.com/album/0Ovb8VJpDHHtTbqjbYhywu) | 3:55 | 2023-01-27 |  |
+| [Abell 1835](https://open.spotify.com/track/6hyj3mdLzyCq1Cd2F8S42o) | [LIGHTS OUT ASIA](https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi) | [Hy\-Brasil](https://open.spotify.com/album/0Ovb8VJpDHHtTbqjbYhywu) | 3:55 | 2023-01-27 | 2023-11-01 |
 | [Abell 1835](https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26) | [LIGHTS OUT ASIA](https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi) | [Hy\-Brasil](https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI) | 3:55 | 2022-03-25 | 2022-06-01 |
 | [Above the Fog \(Pt.2\)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 8:46 | 2022-03-18 |  |
 | [Abschied](https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy) | [Ausklang](https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z) | [Chronos](https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn) | 5:55 | 2022-03-18 |  |
@@ -31,7 +31,7 @@
 | [Be the Light](https://open.spotify.com/track/3BgjBJHBnRWY2Ah4L5vLz4) | [Stray Theories](https://open.spotify.com/artist/6zrYVEFX8UvqKu99mWVOKs) | [This Light](https://open.spotify.com/album/6jreztqQw5fcT87HVRPVe3) | 5:46 | 2022-03-18 | 2023-04-30 |
 | [Be the Light](https://open.spotify.com/track/7lzOZfO08GlKkSBz7TPX6t) | [Stray Theories](https://open.spotify.com/artist/6zrYVEFX8UvqKu99mWVOKs) | [This Light](https://open.spotify.com/album/6ccahDchi2b0LObfYsiQTT) | 5:46 | 2023-08-18 |  |
 | [Blowback \- Edit](https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Blowback](https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5) | 5:09 | 2022-03-18 |  |
-| [Cura](https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On) | [Call the Ocean](https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr) | [Cura](https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU) | 7:19 | 2022-04-01 |  |
+| [Cura](https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On) | [Call the Ocean](https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr) | [Cura](https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU) | 7:19 | 2022-04-01 | 2023-11-01 |
 | [Dark Awakening](https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Dark Awakening](https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh) | 4:41 | 2022-03-25 |  |
 | [Deliveries](https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Volcan](https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW) | 4:44 | 2022-03-18 |  |
 | [Didn't See The Comet](https://open.spotify.com/track/02iSZuD2mo9C7bEAsrDmWr) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Didn't See The Comet](https://open.spotify.com/album/1yNLDRaMnJDZ1Xp81WQAfg) | 6:03 | 2022-05-06 | 2023-04-29 |
@@ -48,7 +48,7 @@
 | [Feeling Everything but Lost](https://open.spotify.com/track/5OY253uETDSe8456oYvkS3) | [Andrew Prahlow](https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8) | [Feeling Everything but Lost](https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG) | 4:55 | 2022-03-18 |  |
 | [Fire at Static Valley](https://open.spotify.com/track/05qZjkncp85Z4pu4of3w6y) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/1RDLG5wi0a2Lrgdxs32tKL) | 5:58 | 2022-03-18 | 2022-07-29 |
 | [Fire at Static Valley](https://open.spotify.com/track/0r4MOhVw2anZScz5PTUrJk) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 5:58 | 2022-05-27 |  |
-| [Floating Above Saturn](https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6) | [Framed By Stars](https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf) | [Floating Above Saturn](https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW) | 2:17 | 2022-03-25 | 2023-09-08 |
+| [Floating Above Saturn](https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6) | [Framed By Stars](https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf) | [Floating Above Saturn](https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW) | 2:17 | 2022-03-25 |  |
 | [Forever Rain](https://open.spotify.com/track/3OgeE10HY1P4Xiz8kqX01N) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [Forever Rain](https://open.spotify.com/album/3cduDi7Yj9llJs4hIzmF4x) | 5:34 | 2022-03-18 | 2022-07-29 |
 | [Forever Rain](https://open.spotify.com/track/5eLUHTUUnkiIrDE3TgtgjA) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [Beautiful Illusions](https://open.spotify.com/album/7lpRgODu2tRCkiDIUNV0Wc) | 5:34 | 2022-05-27 |  |
 | [Glaciers](https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Bloom](https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay) | 2:56 | 2022-03-25 |  |
@@ -99,6 +99,7 @@
 | [OUR SIDE HAS TO WIN \(for D.H.\)](https://open.spotify.com/track/6AWgFM6ORRfr9bphIW25bB) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 6:30 | 2022-05-27 |  |
 | [Out of It](https://open.spotify.com/track/3BbU4k2CFvzpG7BNQlwnmR) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [The World Is A House On Fire](https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J) | 6:45 | 2022-03-18 | 2022-07-26 |
 | [Passage](https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Passage](https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw) | 5:47 | 2022-03-25 |  |
+| [Pavan II](https://open.spotify.com/track/0RpvzpYNOegtn3k6MxiXav) | [Cahill Costello](https://open.spotify.com/artist/2Hx8lclV6wl5gP4ronSGWm) | [Offworld](https://open.spotify.com/album/6tpZaw2NgfCBdGNHVaflwe) | 8:01 | 2023-09-29 |  |
 | [Pavan II](https://open.spotify.com/track/3GyMswLMHlC5bAEnqWA5qr) | [Cahill Costello](https://open.spotify.com/artist/2Hx8lclV6wl5gP4ronSGWm) | [Offworld](https://open.spotify.com/album/4uytwEGcmllVKV0xEBMM2h) | 8:01 | 2022-03-18 | 2023-09-21 |
 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 | 2022-03-25 |  |
 | [Peterson](https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [The American Dollar](https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF) | 3:19 | 2022-03-25 |  |

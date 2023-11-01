@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,999 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,002 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nevar Love Again](https://open.spotify.com/track/1B8McCxEmyLM7Xv64zx0Qc) | [Aryamanu Baloji](https://open.spotify.com/artist/2Udj46YBjkjfds4hjRLMcp), [Shubhangini](https://open.spotify.com/artist/08XZ4vBBklbpgX2tvDbN9Q) | [Never Love Again](https://open.spotify.com/album/2rNtWzYqaHhzUiNpngNEz6) | 3:41 |
+| 1 | [Never Love Again](https://open.spotify.com/track/1B8McCxEmyLM7Xv64zx0Qc) | [Aryamanu Baloji](https://open.spotify.com/artist/2Udj46YBjkjfds4hjRLMcp), [Shubhangini](https://open.spotify.com/artist/08XZ4vBBklbpgX2tvDbN9Q) | [Never Love Again](https://open.spotify.com/album/2rNtWzYqaHhzUiNpngNEz6) | 3:41 |
 | 2 | [Kannada Balso](https://open.spotify.com/track/5XoGUpJ2Q7u2lBfpgznbxG) | [Vibe Guru](https://open.spotify.com/artist/7bd8H4hvMWUY8v6I54DCvi) | [Kannada Balso](https://open.spotify.com/album/1w3uXnjR5gDuVTNTdnqlsO) | 2:46 |
 | 3 | [Meghave](https://open.spotify.com/track/2ht1eT798Q3WvZqkanpdEN) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Aditi Prahalad](https://open.spotify.com/artist/2WQSmxEh1TrVQA9RXSgp6a), [Ashwin Mandoth](https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w), [Mitra Hegde](https://open.spotify.com/artist/3boqeGhnLs24Kw3k7wybcN) | [Meghave](https://open.spotify.com/album/7m9qZKWRJ8SiwtSQg6R33E) | 3:29 |
 | 4 | [Free](https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Free](https://open.spotify.com/album/2dVX6UPdVWKPKs8g4huCHG) | 3:48 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 84 | [Nenapaagiru](https://open.spotify.com/track/72hwWV8M33IeJaYjKnR2JJ) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/1h8A3OYCcs2dLGRljWGwgj) | 3:44 |
 | 85 | [Ninnane Bayaside](https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnane Bayaside](https://open.spotify.com/album/65X3c2WdqKnrralQy9ccEm) | 2:52 |
 
-Snapshot ID: `MCxiODY2MzQ1NjMwMGYyMzk0MzJkNGJlZDYwOWM0Y2Y3NWNlNDI4NGE1`
+Snapshot ID: `MCwxNmRhY2NkOTg2ZmYwODJlYzljNjQ4NjljZTVkNzE2OWUzNGVlNzU5`

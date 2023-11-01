@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 342594,
+  "num_followers": 342957,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzQ4YTg3N2JlYTA5MmYwNzRiMzJkYTFhYjc5YzhmZTY4YzY0NTE0",
+  "snapshot_id": "MCxiYmFlMTVjOGE3ODNlY2MzZTQyYjRkMTY0MjU1ZjllOWY4ZjA5OGIx",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
-      },
-      "artists": [
-        {
-          "name": "Saint Asonia",
-          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
-        }
-      ],
-      "duration_ms": 183357,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "In The Air Tonight",
         "url": "https://open.spotify.com/album/0BjqOTHFwWeDq1jZwcSGmC"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 300631,
       "name": "In The Air Tonight",
       "url": "https://open.spotify.com/track/4n82AVSg6y0mSPw9PY06Gf"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        }
+      ],
+      "duration_ms": 183357,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "The Premonition",
-        "url": "https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj"
-      },
-      "artists": [
-        {
-          "name": "Firewind",
-          "url": "https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r"
-        }
-      ],
-      "duration_ms": 295440,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Skeletons in the Closet (Japan Edition)",
         "url": "https://open.spotify.com/album/24kO281Ejj7HwIJKibKwpd"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 200173,
       "name": "Oops!...I Did It Again",
       "url": "https://open.spotify.com/track/06wKZYu5dpve2WRS5O34MI"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "The Premonition",
+        "url": "https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj"
+      },
+      "artists": [
+        {
+          "name": "Firewind",
+          "url": "https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r"
+        }
+      ],
+      "duration_ms": 295440,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Under C\u00f6ver",
-        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 260720,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Beat It",
         "url": "https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Personal Jesus",
-        "url": "https://open.spotify.com/album/3YvC5RaRG42fAd6VGqWR0R"
+        "name": "Under C\u00f6ver",
+        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
       },
       "artists": [
         {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 246960,
-      "name": "Personal Jesus",
-      "url": "https://open.spotify.com/track/4gZYw4chUdkjumdu0ODJ9t"
+      "duration_ms": 260720,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -731,6 +715,22 @@
       "duration_ms": 200240,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/34ccBqL3xNaCzPxr0UqoEw"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Personal Jesus",
+        "url": "https://open.spotify.com/album/3YvC5RaRG42fAd6VGqWR0R"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Personal Jesus",
+      "url": "https://open.spotify.com/track/4gZYw4chUdkjumdu0ODJ9t"
     },
     {
       "added_at": "2023-08-23 14:56:37",

@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 414757,
+  "num_followers": 414948,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzkwYzMwZmRhYzI1YjA4NDZkZDVhZGNiYmI4MTU5NTBlZGIzMjk1",
+  "snapshot_id": "MCw2MjMwOTdhYjQyODJlMDAxM2U2YTAwNDM2ZGEzOGUxYTA3OTdiMzM0",
   "tracks": [
     {
       "added_at": "2023-04-19 21:20:11",
@@ -389,22 +389,6 @@
       "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
     },
     {
-      "added_at": "2023-04-14 00:36:48",
-      "album": {
-        "name": "Reckless & Sweet",
-        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 159680,
-      "name": "Reckless & Sweet",
-      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Hotel Surrender",
@@ -419,6 +403,22 @@
       "duration_ms": 274423,
       "name": "Low",
       "url": "https://open.spotify.com/track/3vDa2fcL7Ge1jQVKJ3uIOA"
+    },
+    {
+      "added_at": "2023-04-14 00:36:48",
+      "album": {
+        "name": "Reckless & Sweet",
+        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 159680,
+      "name": "Reckless & Sweet",
+      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
     },
     {
       "added_at": "2023-10-10 01:29:29",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 156293,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Morning Matters",
         "url": "https://open.spotify.com/album/5Blcv1aeBSSVLkOcpR280c"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 236093,
       "name": "Own Your Own",
       "url": "https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 156293,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
     },
     {
       "added_at": "2023-04-05 03:06:38",
@@ -1005,20 +1005,20 @@
       "url": "https://open.spotify.com/track/6pq03Hl5tIY9ryqSEKt82n"
     },
     {
-      "added_at": "2023-02-21 02:56:05",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Phosphorescent",
-        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
+        "name": "SULA",
+        "url": "https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K"
       },
       "artists": [
         {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         }
       ],
-      "duration_ms": 240449,
-      "name": "Skylight",
-      "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
+      "duration_ms": 255906,
+      "name": "SULA (Paperback)",
+      "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1037,20 +1037,20 @@
       "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-02-21 02:56:05",
       "album": {
-        "name": "SULA",
-        "url": "https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K"
+        "name": "Phosphorescent",
+        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
       },
       "artists": [
         {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
         }
       ],
-      "duration_ms": 255906,
-      "name": "SULA (Paperback)",
-      "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
+      "duration_ms": 240449,
+      "name": "Skylight",
+      "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
     },
     {
       "added_at": "2022-09-09 13:33:50",
@@ -1141,20 +1141,24 @@
       "url": "https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT"
     },
     {
-      "added_at": "2023-05-24 02:01:11",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "I Hope You Can Forgive Me",
-        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
+        "name": "((( 2 )))",
+        "url": "https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ"
       },
       "artists": [
         {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+        },
+        {
+          "name": "Please Wait",
+          "url": "https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E"
         }
       ],
-      "duration_ms": 177401,
-      "name": "Stay Away (From Me)",
-      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
+      "duration_ms": 133377,
+      "name": "Bayou",
+      "url": "https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1177,24 +1181,20 @@
       "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-05-24 02:01:11",
       "album": {
-        "name": "((( 2 )))",
-        "url": "https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ"
+        "name": "I Hope You Can Forgive Me",
+        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
       },
       "artists": [
         {
-          "name": "((( O )))",
-          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
-        },
-        {
-          "name": "Please Wait",
-          "url": "https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E"
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
         }
       ],
-      "duration_ms": 133377,
-      "name": "Bayou",
-      "url": "https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5"
+      "duration_ms": 177401,
+      "name": "Stay Away (From Me)",
+      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 228694,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Shout Out! To Freedom...",
         "url": "https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio"
       },
@@ -1281,22 +1297,6 @@
       "url": "https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 228694,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
-    },
-    {
       "added_at": "2023-03-30 03:13:10",
       "album": {
         "name": "Mormor",
@@ -1311,22 +1311,6 @@
       "duration_ms": 240262,
       "name": "Mormor",
       "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "blame game",
-      "url": "https://open.spotify.com/track/4s79MjBAL0LxmhrPM47G8F"
     },
     {
       "added_at": "2022-12-07 04:54:47",
@@ -1347,22 +1331,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Something Like A War",
-        "url": "https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz"
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX"
       },
       "artists": [
         {
-          "name": "Kindness",
-          "url": "https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 194946,
-      "name": "The Warning",
-      "url": "https://open.spotify.com/track/5h6RX4lJ9opFcpGycS2ckD"
+      "duration_ms": 209413,
+      "name": "blame game",
+      "url": "https://open.spotify.com/track/4s79MjBAL0LxmhrPM47G8F"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1383,6 +1363,26 @@
       "duration_ms": 206820,
       "name": "Sweetness - Dub Mix by Andras",
       "url": "https://open.spotify.com/track/6h5SiRf0aOLRql4UGopHOu"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Something Like A War",
+        "url": "https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz"
+      },
+      "artists": [
+        {
+          "name": "Kindness",
+          "url": "https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "The Warning",
+      "url": "https://open.spotify.com/track/5h6RX4lJ9opFcpGycS2ckD"
     },
     {
       "added_at": "2022-04-18 03:39:12",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Sounds Of Blue",
+        "url": "https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc"
+      },
+      "artists": [
+        {
+          "name": "Morcheeba",
+          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+        }
+      ],
+      "duration_ms": 214897,
+      "name": "Sounds Of Blue",
+      "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6WvJL6ZCOXBbBtCOiyBOuK"
       },
@@ -1593,36 +1609,20 @@
       "url": "https://open.spotify.com/track/47AS3xyNXDjP5SrgpG3cmL"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2022-12-07 04:04:10",
       "album": {
-        "name": "Sounds Of Blue",
-        "url": "https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc"
+        "name": "head down",
+        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
       },
       "artists": [
         {
-          "name": "Morcheeba",
-          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+          "name": "Habe",
+          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
         }
       ],
-      "duration_ms": 214897,
-      "name": "Sounds Of Blue",
-      "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 261614,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB"
+      "duration_ms": 148304,
+      "name": "head down",
+      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1641,20 +1641,20 @@
       "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
-      "added_at": "2022-12-07 04:04:10",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "head down",
-        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
       "artists": [
         {
-          "name": "Habe",
-          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
         }
       ],
-      "duration_ms": 148304,
-      "name": "head down",
-      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
+      "duration_ms": 261614,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB"
     },
     {
       "added_at": "2023-06-02 01:19:32",

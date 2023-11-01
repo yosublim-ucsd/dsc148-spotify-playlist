@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-94 songs - 5 hr 54 min
+95 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Back On The Music!](https://open.spotify.com/track/5QALJWWpHnigY6CRPdQqhu) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR) | 3:27 | 2022-10-21 |  |
 | [Back On The Music!](https://open.spotify.com/track/68PHkOQpABqaKdxRMhbzMg) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:27 | 2022-10-21 | 2023-04-30 |
 | [Back To Me](https://open.spotify.com/track/3Pko6euCnCPuwGy4TVK7o3) | [Super db](https://open.spotify.com/artist/6Fsj5gGio0BcLbbgrKh5IY) | [Back To Me](https://open.spotify.com/album/0d2wOE8aJIRJp6RJO5PJGd) | 4:31 | 2023-03-17 | 2023-09-23 |
-| [Better Than Ever](https://open.spotify.com/track/5PXPE3omLz44P8p6o0HNI1) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Better Than Ever](https://open.spotify.com/album/6IXkIsTAzELAO5mwzJQ6yh) | 3:56 | 2023-09-08 |  |
+| [Better Than Ever](https://open.spotify.com/track/5PXPE3omLz44P8p6o0HNI1) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Better Than Ever](https://open.spotify.com/album/6IXkIsTAzELAO5mwzJQ6yh) | 3:56 | 2023-09-08 | 2023-11-01 |
+| [Better Than Ever](https://open.spotify.com/track/5fUKZY3f9BGGRbW22toY19) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/2QbX68So8TZjAmUzpvmt6R) | 3:56 | 2023-09-08 |  |
 | [Big Brown Eyes](https://open.spotify.com/track/3lRDE6JZRfstK9mWig5oaf) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Art \(2022 Remastered Deluxe\)](https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU) | 4:11 | 2022-10-21 | 2023-01-14 |
 | [CHIVALRY IS DEAD](https://open.spotify.com/track/48KAjFkydsuZHkG7ftt8GW) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [CHIVALRY IS DEAD](https://open.spotify.com/album/7L4qkkUL8dr979LA7hzV9W) | 3:03 | 2023-10-13 |  |
 | [Clear](https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [Clear](https://open.spotify.com/album/0H5PiJtK74cXzs4A1HDmeR) | 4:02 | 2022-10-21 |  |

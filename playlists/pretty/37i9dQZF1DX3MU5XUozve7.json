@@ -1,12 +1,12 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 880611,
+  "num_followers": 880910,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzdiOTM4YTFiZDM5MjA4NzNkOGM4ZjgxYTc4ODFmYWM4NTY5YzU2",
+  "snapshot_id": "MCw1NmI3NjNhOGZjNzNiNTFiOTMyNDYwZDM3YjFkMGMxNTEzM2M1Y2Y3",
   "tracks": [
     {
       "added_at": "2022-07-26 16:46:12",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 127533,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Fight the Good Fight",
         "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 170453,
       "name": "She's Kerosene",
       "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 127533,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "When Your Heart Stops Beating",
-        "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
-      },
-      "artists": [
-        {
-          "name": "+44",
-          "url": "https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "When Your Heart Stops Beating",
-      "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "The Shape Of Punk To Come (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 310200,
       "name": "New Noise",
       "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "When Your Heart Stops Beating",
+        "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
+      },
+      "artists": [
+        {
+          "name": "+44",
+          "url": "https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "When Your Heart Stops Beating",
+      "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Party Animals",
-        "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
-      },
-      "artists": [
-        {
-          "name": "Turbonegro",
-          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "All My Friends Are Dead",
-      "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Fight the Good Fight",
         "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 187515,
       "name": "Gave You Everything",
       "url": "https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Party Animals",
+        "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
+      },
+      "artists": [
+        {
+          "name": "Turbonegro",
+          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "All My Friends Are Dead",
+      "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
     },
     {
       "added_at": "2022-07-26 16:46:12",

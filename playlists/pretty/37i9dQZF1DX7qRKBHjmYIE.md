@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ con Feid getting us in our feels this week 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,935 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,938 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 33 | [Queen Of Colombia](https://open.spotify.com/track/6nhyIjR1CkE1nmZqfvEpl3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Queen Of Colombia](https://open.spotify.com/album/2oBTmcMFzlhTHcw7TqB3cK) | 2:55 |
 | 34 | [Falling](https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Young In California](https://open.spotify.com/album/1reYO7vImj6L4ZshyK9qZP) | 3:45 |
 | 35 | [Labios](https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios](https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab) | 2:44 |
-| 36 | [egodeath](https://open.spotify.com/track/6NL6uKfXQRx4FlY7DCBPJn) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [egodeath](https://open.spotify.com/album/4ryLP6ODKCP7I0uG9gjnjU) | 3:14 |
-| 37 | [Barbed Wire](https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 3:22 |
+| 36 | [Barbed Wire](https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 3:22 |
+| 37 | [egodeath](https://open.spotify.com/track/6NL6uKfXQRx4FlY7DCBPJn) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [egodeath](https://open.spotify.com/album/4ryLP6ODKCP7I0uG9gjnjU) | 3:14 |
 | 38 | [Garden \- SIDE A](https://open.spotify.com/track/4pGnWlr2Lk5MDPI6zgG972) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Miracle](https://open.spotify.com/album/11mzVM4ZtpOUxescgnFUsN) | 1:12 |
 | 39 | [Selfish](https://open.spotify.com/track/71NBNju9KEg6G8qTi1Y0kA) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí](https://open.spotify.com/album/0XteKwNr7uXZXz92CIE1Xe) | 2:25 |
 | 40 | [Canto a la Imaginación](https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Canto a la Imaginación](https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H) | 3:01 |
 
-Snapshot ID: `MCw1MjQyZGY5MzcwMjY1OWE0ODM2MjAzYWVlZGIzY2Y2YzAyMmI5NTg4`
+Snapshot ID: `MCw5YzNmMTkwNjU1ZTU5MGRlNWU2Y2VkYmE5ZjZlNTQzN2Q3NmRkZDdh`

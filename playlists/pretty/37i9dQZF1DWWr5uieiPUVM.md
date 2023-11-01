@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,280,497 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,281,124 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 17 | [Disposição e Atividade](https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Disposição e Atividade](https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU) | 2:44 |
 | 18 | [Namora & Disfarça \- Bonus Track](https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Namora & Disfarça \(Bonus Track\)](https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS) | 1:42 |
 | 19 | [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 |
-| 20 | [Foto no Espelho](https://open.spotify.com/track/4O2PFUDvEGZQ4uN9iZIAZ2) | [DHION](https://open.spotify.com/artist/1lzxvMTm6klPlX7nmHSDYy), [5três](https://open.spotify.com/artist/0bc6UXkTqd8FnaiQYChJD7), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Foto no Espelho](https://open.spotify.com/album/1elDI1137lBKU1zNMqnS4o) | 3:40 |
+| 20 | [Foto no Espelho](https://open.spotify.com/track/4O2PFUDvEGZQ4uN9iZIAZ2) | [DHION](https://open.spotify.com/artist/1lzxvMTm6klPlX7nmHSDYy), [5três](https://open.spotify.com/artist/0bc6UXkTqd8FnaiQYChJD7), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Slaasty](https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1), [Azin](https://open.spotify.com/artist/2JypXtaUBCwZgyHcrVYruu) | [Foto no Espelho](https://open.spotify.com/album/1elDI1137lBKU1zNMqnS4o) | 3:40 |
 | 21 | [Lista De Contato](https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Lista De Contato](https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG) | 2:02 |
 | 22 | [depois da meia noite](https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:50 |
 | 23 | [Avisa Minha Mãe](https://open.spotify.com/track/3ImhKE2Io4Em1iVpq7zw5D) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Pugli](https://open.spotify.com/artist/2IXnOvK1O0L4PzfyYanJkM) | [Avisa Minha Mãe](https://open.spotify.com/album/3LfpZaOWk43gVhPFDzORym) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Melhor Só](https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Melhor Só](https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ) | 3:49 |
 | 50 | [Dialogo](https://open.spotify.com/track/5T9QnISeG2Q6Ysu9HbaAzS) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [D Santana](https://open.spotify.com/artist/6jTAbPlEnP8A2CG5LX3q2m), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Meu Amigo Diário, Vol\. 1 \- M.A.D](https://open.spotify.com/album/681qRc7HzASc5cALLkOFLO) | 2:21 |
 
-Snapshot ID: `MCwwNzg5ZmEwNzE3MzU1ZWY0ZDQxMDEyZDYzMDc0NWFjY2JlMjkzNjU3`
+Snapshot ID: `MCxhZTNhMTJiMjRhYTllM2YzZmU1YzcxOTU1MDQzYjc2ZDRiZDQzZmEz`

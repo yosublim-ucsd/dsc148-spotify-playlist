@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6937\)
+## Playlists \(6939\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -3062,6 +3062,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Level Up Lofi](/playlists/pretty/37i9dQZF1DX1bJXtym592H.md)
 - [Levitate](/playlists/pretty/37i9dQZF1DWVY5eNJoKHd2.md)
 - [Leyendas del Mariachi](/playlists/pretty/37i9dQZF1DWTyvco9C4Og0.md)
+- [Libra](/playlists/pretty/37i9dQZF1DX7FqJtg90sGe.md)
 - [License To Chill](/playlists/pretty/37i9dQZF1DXa9xHlDa5fc6.md)
 - [Liebeslieder](/playlists/pretty/37i9dQZF1DX8Zl33If947W.md)
 - [Life Sucks](/playlists/pretty/37i9dQZF1DX3YSRoSdA634.md)
@@ -6790,6 +6791,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [shōnen](/playlists/pretty/37i9dQZF1DX89EkrAT8Z6U.md)
 - [side effects](/playlists/pretty/37i9dQZF1DXbBvGj4yKFAG.md)
 - [sigilkore](/playlists/pretty/37i9dQZF1DX7XEgl7z0Lyy.md)
+- [situationship](/playlists/pretty/37i9dQZF1DX6Pu7l5vEGMM.md)
 - [slowcore](/playlists/pretty/37i9dQZF1DX30gKInBBe5k.md)
 - [slowed and reverbed](/playlists/pretty/37i9dQZF1DX0h2LvJ7ZJ15.md)
 - [sneakerhead](/playlists/pretty/37i9dQZF1DX41uhnJlpNx4.md)

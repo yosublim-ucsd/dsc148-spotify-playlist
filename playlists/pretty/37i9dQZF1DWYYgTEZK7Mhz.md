@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,724 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,767 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 11 | [Kobra](https://open.spotify.com/track/7mHsKepJwoP9zieWBclpVW) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Magnifico delirio \(Gli Indimenticabili\)](https://open.spotify.com/album/4uGELrbo8NqrHwFa0oceXk) | 3:27 |
 | 12 | [Tropicana](https://open.spotify.com/track/4Ak0UaodK4JW3B8rHIEv3R) | [Gruppo Italiano](https://open.spotify.com/artist/7sai3Jr74gYNxLfDnAW6ft) | [Gruppo Italiano](https://open.spotify.com/album/4qGJn9ggCnF2YMh3q7pVfD) | 3:30 |
 | 13 | [Il Ballo Del Mattone](https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum) | 2:17 |
-| 14 | [L'estate sta finendo](https://open.spotify.com/track/1eEMDXRpkipdhKj9nZliol) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Best Righeira](https://open.spotify.com/album/62KcZpsdRkth5bVIQfduNi) | 3:45 |
-| 15 | [Stasera mi butto](https://open.spotify.com/track/7uZF6CYmfNQ2lqRYqDhSdc) | [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Rocky Roberts](https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK) | 1:53 |
+| 14 | [Stasera mi butto](https://open.spotify.com/track/7uZF6CYmfNQ2lqRYqDhSdc) | [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Rocky Roberts](https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK) | 1:53 |
+| 15 | [L'estate sta finendo](https://open.spotify.com/track/1eEMDXRpkipdhKj9nZliol) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Best Righeira](https://open.spotify.com/album/62KcZpsdRkth5bVIQfduNi) | 3:45 |
 | 16 | [Una rotonda sul mare](https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [Italian Classics: Fred Bongusto, Vol\. 1](https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ) | 2:48 |
 | 17 | [Luglio](https://open.spotify.com/track/083VTM4yXnNrspPRcVadTm) | [Riccardo Del Turco](https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq) | [Riccardo Del Turco](https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO) | 3:11 |
 | 18 | [Acapulco](https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Gwiazdy xx Wieku \- Ricchi E Poveri](https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 49 | [Il mare nel cassetto](https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Le più belle canzoni di Milva](https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1) | 3:00 |
 | 50 | [Con Te Sulla Spiaggia](https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [RCA 100 Años De Musica \- Segunda Parte \- Lo Mejor De Italia](https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH) | 2:36 |
 
-Snapshot ID: `MCw1YmIxZDI1ZmYwMGQyODQ0M2JmYTQ1ZmI4MDViMTY4YTRlMmQ5ZWJi`
+Snapshot ID: `MCw4NmJlYmI0YmU4NDc1YWVhM2JjMGVjYTI1YTE4OGQwZjJjZGRiOTli`

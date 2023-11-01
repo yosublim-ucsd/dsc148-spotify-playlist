@@ -14773,6 +14773,24 @@
     },
     {
       "album": {
+        "name": "Love Covers III",
+        "url": "https://open.spotify.com/album/5ynv4PWOsiPHTzu6DR5QBX"
+      },
+      "artists": [
+        {
+          "name": "J-JUN",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208613,
+      "name": "\u611b\u3057\u304d\u65e5\u3005\u306e\u771f\u3093\u4e2d\u3067",
+      "url": "https://open.spotify.com/track/3aC1FThusVlVvTMXIom52f"
+    },
+    {
+      "album": {
         "name": "moments",
         "url": "https://open.spotify.com/album/641cArZ8NkDgTF4CcisYii"
       },

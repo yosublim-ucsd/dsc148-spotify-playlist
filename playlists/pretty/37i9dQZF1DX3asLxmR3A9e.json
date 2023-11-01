@@ -1,12 +1,12 @@
 {
   "description": "2014 highlights from the home of indie music.",
-  "num_followers": 50727,
+  "num_followers": 50753,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDUzZDM2ZWJkOWU3ZGQ4OWYxNzQzYjBlZmE1NWFhZDI0NzM1ODEw",
+  "snapshot_id": "MCw2MjM5YmMxNGY5M2Q2MTcyODNjYWUyNzM0YWQwZjU2NmRmNzBiMDAx",
   "tracks": [
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "They Want My Soul",
-        "url": "https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/7qCZgvV98j6RjUULW1s1it"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 239306,
       "name": "A Dream of You and Me",
       "url": "https://open.spotify.com/track/44GeTdr7MktZDqNUkLaj5h"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "They Want My Soul",
+        "url": "https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/7qCZgvV98j6RjUULW1s1it"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "El Pintor",
+        "url": "https://open.spotify.com/album/0YAtJCLY8ogFUjdopdHsyS"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 262426,
+      "name": "All the Rage Back Home",
+      "url": "https://open.spotify.com/track/30rUH583B1TFoisTeBfuA2"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "You're Dead!",
         "url": "https://open.spotify.com/album/7DFT5wc0jn6U7DqooS8y6l"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 234486,
       "name": "Never Catch Me",
       "url": "https://open.spotify.com/track/1KOqY0QTSadQFRgbNw1sLh"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "El Pintor",
-        "url": "https://open.spotify.com/album/0YAtJCLY8ogFUjdopdHsyS"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 262426,
-      "name": "All the Rage Back Home",
-      "url": "https://open.spotify.com/track/30rUH583B1TFoisTeBfuA2"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1343,22 +1343,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "How Do You Feel Now?",
-        "url": "https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR"
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
       "artists": [
         {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
-        },
-        {
-          "name": "KOPPS",
-          "url": "https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK"
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
         }
       ],
-      "duration_ms": 234773,
-      "name": "Tongues",
-      "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
+      "duration_ms": 281017,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1379,18 +1375,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+        "name": "How Do You Feel Now?",
+        "url": "https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR"
       },
       "artists": [
         {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        },
+        {
+          "name": "KOPPS",
+          "url": "https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK"
         }
       ],
-      "duration_ms": 281017,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
+      "duration_ms": 234773,
+      "name": "Tongues",
+      "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB"
-      },
-      "artists": [
-        {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
-        }
-      ],
-      "duration_ms": 191807,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/1285n66OGGUB3Bnh6c18nS"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Urban Flora",
         "url": "https://open.spotify.com/album/1MDXXd7ea47KCYOfHww6En"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 218947,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/17YuXw2ScwLLL1sUrRKhoW"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB"
+      },
+      "artists": [
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "duration_ms": 191807,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/1285n66OGGUB3Bnh6c18nS"
     },
     {
       "added_at": "2021-09-03 05:42:37",

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-525 songs - 2 day 2 hr 50 min
+526 songs - 2 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Jama](https://open.spotify.com/track/0qrFuzJksG1vm1u67m7IM2) | [Lian Gold](https://open.spotify.com/artist/5NgAdRVBzrOLKRQ8RRvBx4), [Erika Krall](https://open.spotify.com/artist/1mFosR8GfDea3Vvdfcz48W) | [Jama](https://open.spotify.com/album/20hK6YrkLQdgzl6V50k9As) | 6:14 | 2022-04-08 | 2022-07-22 |
 | [Jameela](https://open.spotify.com/track/73ACKQUKfq1iz7cAgPCUim) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Jameela](https://open.spotify.com/album/0f4XzO7YPKUZtfLHj4BK4f) | 3:09 | 2022-05-20 | 2022-07-03 |
 | [Jellydish](https://open.spotify.com/track/0o5vFkIE7BwQwBhkQ0s8ev) | [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Bi Ba Bü](https://open.spotify.com/album/45qxQ2ACnkIlrWy9UY1HqN) | 8:26 | 2022-02-11 | 2022-07-29 |
-| [Kababo](https://open.spotify.com/track/4cJJVxs9tMBNsH9yP2d20s) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Kababo](https://open.spotify.com/album/11O0BU7mUyyzavBc7vbsXf) | 6:14 | 2023-10-06 |  |
+| [Kababo](https://open.spotify.com/track/4cJJVxs9tMBNsH9yP2d20s) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Kababo](https://open.spotify.com/album/11O0BU7mUyyzavBc7vbsXf) | 6:14 | 2023-10-06 | 2023-11-01 |
 | [Kakooja](https://open.spotify.com/track/6w77q0msPrGkcs8GjXMWq8) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [Holographic Witness](https://open.spotify.com/album/7cg8231Zuu1nV8vdV051eR) | 5:08 | 2022-09-09 | 2022-09-20 |
 | [Kami](https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 5:15 | 2022-07-08 |  |
 | [Kami](https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Kami EP](https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ) | 5:15 | 2022-07-08 | 2022-10-15 |
@@ -487,6 +487,7 @@
 | [Trip In \- Xinobi Remix](https://open.spotify.com/track/44TGd1DqzCDKPHQHq2XjQw) | [Omri Guetta](https://open.spotify.com/artist/4GDZFqNEOr2pNK8Uz6ZRX6), [Omer Tayar](https://open.spotify.com/artist/7ITO7tOeUqqjVBSVQB4yFB), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Trip In \( Xinobi Remix \)](https://open.spotify.com/album/20anOD1TikexSu4EOfFsHU) | 5:00 | 2021-09-24 | 2022-07-29 |
 | [Tumda](https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Tumda](https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9) | 3:12 | 2023-04-21 | 2023-07-08 |
 | [Turning Away \- Parra for Cuva Remix](https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Turning Away \(Parra for Cuva Remix\)](https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs) | 4:21 | 2023-04-21 |  |
+| [Ultima Ratio](https://open.spotify.com/track/4dmiklzCRnTM237iBtbEi5) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Ultima Ratio](https://open.spotify.com/album/5zajsdXm81cFLL7qExclll) | 4:37 | 2023-10-27 |  |
 | [Ummo](https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Doors To Shambhala](https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr) | 4:31 | 2023-06-30 | 2023-09-11 |
 | [Unexpected \- Original Mix](https://open.spotify.com/track/6r51snBpocTojQyqiTvydG) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Unexpected](https://open.spotify.com/album/3fUMfl3s0VtOVWeRshPSGj) | 7:02 | 2022-07-01 | 2022-07-29 |
 | [Unfold Me](https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [Unfold Voices EP](https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T) | 6:31 | 2022-12-09 |  |

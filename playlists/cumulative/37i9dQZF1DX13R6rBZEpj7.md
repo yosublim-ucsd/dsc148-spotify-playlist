@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline! ft\. Y U QT
 
-210 songs - 13 hr 9 min
+211 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Haunter](https://open.spotify.com/track/0IptiiymmfXv3j2NSCHlrm) | [Dr.Oscillator](https://open.spotify.com/artist/0rMuvMAwCY7ciR8ZL0HZyV) | [Cuckoo EP](https://open.spotify.com/album/7Joe9vMJE6545YJxhC0Mww) | 3:33 | 2022-05-20 | 2022-06-08 |
 | [Heartbeat](https://open.spotify.com/track/6Oix0EalSiYYUBOO6xhAaZ) | [Kirbs](https://open.spotify.com/artist/4nuxG6KiK9pq1GRc89GkIm), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC) | [Heartbeat](https://open.spotify.com/album/2zY0mxdrK2mopZ69Id9pQ9) | 3:35 | 2022-04-15 | 2022-07-23 |
 | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ) | 2:48 | 2023-09-22 |  |
-| [Higher](https://open.spotify.com/track/0ToozEOeZ9UR0y1rbSj9Kv) | [Daffy](https://open.spotify.com/artist/19lhg4NCjnOC2gVeHsTed6) | [Higher](https://open.spotify.com/album/1KD01E2RBcy8JDDFa0YUlU) | 4:22 | 2022-08-12 |  |
+| [Higher](https://open.spotify.com/track/0ToozEOeZ9UR0y1rbSj9Kv) | [Daffy](https://open.spotify.com/artist/19lhg4NCjnOC2gVeHsTed6) | [Higher](https://open.spotify.com/album/1KD01E2RBcy8JDDFa0YUlU) | 4:22 | 2022-08-12 | 2023-11-01 |
 | [Higher](https://open.spotify.com/track/6HvxFxVD2YshIPMB4RjGqH) | [Mikey B](https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy) | [Higher \- EP](https://open.spotify.com/album/2HO3wjMunaXlVRyR2Qv91J) | 3:51 | 2022-04-15 | 2022-07-29 |
 | [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 | 2022-04-15 | 2023-10-29 |
 | [Hold On](https://open.spotify.com/track/6cAQp72PYiCVJfsp9ksLAt) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [Hold On](https://open.spotify.com/album/2TcoMjeUIueyJIeL7PnzhY) | 3:37 | 2022-04-15 | 2022-07-29 |
@@ -129,6 +129,7 @@
 | [Let U Have It](https://open.spotify.com/track/4ZhbxBYEqsuyk61ZBhgrBW) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Charlotte X](https://open.spotify.com/artist/5KEaTilneqGJ2SUc6ilfDS) | [Let U Have It](https://open.spotify.com/album/59ioF1E2Sbpfwy5Rwpt3Sj) | 2:55 | 2022-09-23 | 2023-10-28 |
 | [Lighter \(feat\. KSI\) \- Shapes Remix](https://open.spotify.com/track/3SMyy85TGAxfH7NYu65ujO) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw) | [Lighter \(feat\. KSI\) \[Shapes Remix\]](https://open.spotify.com/album/3qKcrBnDpoJoGGdNUyi7d2) | 3:24 | 2022-04-15 | 2023-08-11 |
 | [Lights](https://open.spotify.com/track/0ObQeoS1Mka9as8t4Tn9BC) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC) | [Lights](https://open.spotify.com/album/7pnFfPujVx8j0atIcYV2sP) | 4:16 | 2022-06-10 | 2022-07-25 |
+| [Live And Direct](https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Live And Direct](https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td) | 2:51 | 2023-10-28 |  |
 | [Live It Up](https://open.spotify.com/track/5ghFZ07jKDue7T8oPbh9nt) | [A.2.Z](https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ) | [Live It Up](https://open.spotify.com/album/23JOrfgEKJvYNrFCdSoTDw) | 4:00 | 2022-04-15 | 2022-10-08 |
 | [Lose My Mind](https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Lose My Mind](https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc) | 3:41 | 2022-04-15 | 2023-05-19 |
 | [Lose My Mind](https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:41 | 2023-04-04 |  |

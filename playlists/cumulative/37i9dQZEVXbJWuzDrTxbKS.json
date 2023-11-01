@@ -509,7 +509,7 @@
         },
         {
           "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/03Y2QFcKHNvafmrVnQz7pe"
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
         }
       ],
       "date_added": "2023-10-28",
@@ -728,6 +728,32 @@
       "duration_ms": 159100,
       "name": "99 Problems",
       "url": "https://open.spotify.com/track/0r9fpWPI6z3V3YZXIiVaNC"
+    },
+    {
+      "album": {
+        "name": "Memphis Cult Vol. 6",
+        "url": "https://open.spotify.com/album/5TaVh9bj30QqGbvmC2CFoq"
+      },
+      "artists": [
+        {
+          "name": "Memphis Cult",
+          "url": "https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ"
+        },
+        {
+          "name": "Groove Dealers",
+          "url": "https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z"
+        },
+        {
+          "name": "SPLYXER",
+          "url": "https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86709,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY"
     },
     {
       "album": {
@@ -1912,7 +1938,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 290616,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
@@ -9314,7 +9340,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 146086,
       "name": "Friesenjung",
       "url": "https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF"
@@ -9398,7 +9424,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 133170,
       "name": "Full House",
       "url": "https://open.spotify.com/track/3wkvbFrwiecuUPFWPsPvft"
@@ -12594,7 +12620,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-31",
+      "date_removed": null,
       "duration_ms": 161760,
       "name": "IT GIRL",
       "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
@@ -15538,6 +15564,28 @@
       "duration_ms": 182923,
       "name": "low down",
       "url": "https://open.spotify.com/track/6OlK1W3yH6V3pr6e81hI0u"
+    },
+    {
+      "album": {
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313546,
+      "name": "Low Life (feat. The Weeknd)",
+      "url": "https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX"
     },
     {
       "album": {
@@ -19018,7 +19066,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 211253,
       "name": "Nun id change",
       "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
@@ -23218,7 +23266,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -26362,7 +26410,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-31",
+      "date_removed": null,
       "duration_ms": 129692,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/5WV6br0BPUzhJwyBty80s0"
@@ -26788,7 +26836,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"

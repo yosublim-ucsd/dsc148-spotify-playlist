@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 844163,
+  "num_followers": 844217,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNThhMjE1YTliMTIwNzUwOGE5YTU1NTE2ODQ2NjA4NTZmNDJjM2Ew",
+  "snapshot_id": "MCw0NGM1NTliYWEzZjZkZGQ3MTdlN2MzMWIwNzJjMTBhMjBhNDc2YmFk",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "A.M.",
-        "url": "https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc"
+        "name": "All We've Known",
+        "url": "https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A"
       },
       "artists": [
         {
-          "name": "Richard Walters",
-          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
         }
       ],
-      "duration_ms": 239400,
-      "name": "July Bones",
-      "url": "https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2"
+      "duration_ms": 242333,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/574uSIfe7tTBLCFjN38vij"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "All We've Known",
-        "url": "https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A"
+        "name": "A.M.",
+        "url": "https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc"
       },
       "artists": [
         {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
         }
       ],
-      "duration_ms": 242333,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/574uSIfe7tTBLCFjN38vij"
+      "duration_ms": 239400,
+      "name": "July Bones",
+      "url": "https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "For The Company",
+        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
+      },
+      "artists": [
+        {
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Seven Hours",
+      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Rolling Thunder",
         "url": "https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 241785,
       "name": "Rolling Thunder",
       "url": "https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "For The Company",
-        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
-      },
-      "artists": [
-        {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Seven Hours",
-      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
     },
     {
       "added_at": "2023-10-20 04:00:00",

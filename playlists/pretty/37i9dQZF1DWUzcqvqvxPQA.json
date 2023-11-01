@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25927,
+  "num_followers": 25932,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmRjNzZlZGVlMDE1OTdiZjA0MWEwODdjZTMwMDQ2ZjhjM2E2ZGZj",
+  "snapshot_id": "MCw4OWJmNzJhZWU0ZGVhNzc3ZGI1NTBkODQyNjk3ODM0OWYyYmNmYTZm",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -391,18 +391,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Champion (Studio Version)",
-        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
+        "name": "Over And Over",
+        "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
       },
       "artists": [
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
         }
       ],
-      "duration_ms": 237013,
-      "name": "Champion - Studio Version",
-      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
+      "duration_ms": 218813,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/5AjM1AF3Gy3W5Mr4ZG7zgI"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -459,22 +463,34 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Over And Over",
-        "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
+        "name": "Champion (Studio Version)",
+        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
       },
       "artists": [
         {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 218813,
-      "name": "Over And Over",
-      "url": "https://open.spotify.com/track/5AjM1AF3Gy3W5Mr4ZG7zgI"
+      "duration_ms": 237013,
+      "name": "Champion - Studio Version",
+      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Patient",
+      "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -495,22 +511,6 @@
       "duration_ms": 232656,
       "name": "I\u2019ll Give Thanks",
       "url": "https://open.spotify.com/track/5iBYUI5N7zZzTkd7ychQ0P"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Patient",
-      "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -659,22 +659,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
       },
       "artists": [
         {
           "name": "Tauren Wells",
           "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Steven Furtick",
-          "url": "https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Close (feat. Steven Furtick)",
-      "url": "https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx"
+      "duration_ms": 182043,
+      "name": "Never Gonna Let Me Go",
+      "url": "https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -751,18 +747,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
       "artists": [
         {
           "name": "Tauren Wells",
           "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Steven Furtick",
+          "url": "https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM"
         }
       ],
-      "duration_ms": 182043,
-      "name": "Never Gonna Let Me Go",
-      "url": "https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE"
+      "duration_ms": 168000,
+      "name": "Close (feat. Steven Furtick)",
+      "url": "https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "The Divine Storm",
-        "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
-      },
-      "artists": [
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 207129,
-      "name": "The Power +",
-      "url": "https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/1ArqSTfoWMgeVRmDzCa8bq"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 204897,
       "name": "All Good",
       "url": "https://open.spotify.com/track/7iMhd9oIQEM4REnLM0GSwu"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "The Divine Storm",
+        "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 207129,
+      "name": "The Power +",
+      "url": "https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "THIS MOMENT",
-        "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 176624,
-      "name": "THIS MOMENT",
-      "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 193148,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "THIS MOMENT",
+        "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 176624,
+      "name": "THIS MOMENT",
+      "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Most High",
-        "url": "https://open.spotify.com/album/2tRavvTisR46dR3HUnSREs"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        }
-      ],
-      "duration_ms": 194686,
-      "name": "Most High",
-      "url": "https://open.spotify.com/track/18g3j7p3KTtdypNrJ1fU2V"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "20XX",
         "url": "https://open.spotify.com/album/7DTBjBDwZqmyslZxC3JrMK"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 244032,
       "name": "Heart Stops Beating",
       "url": "https://open.spotify.com/track/0ijnQEqATd4jxvoFYwLBTk"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Most High",
+        "url": "https://open.spotify.com/album/2tRavvTisR46dR3HUnSREs"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 194686,
+      "name": "Most High",
+      "url": "https://open.spotify.com/track/18g3j7p3KTtdypNrJ1fU2V"
     },
     {
       "added_at": "2020-08-13 14:39:00",

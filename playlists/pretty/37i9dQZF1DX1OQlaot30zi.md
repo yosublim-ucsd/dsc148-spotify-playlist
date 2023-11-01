@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Articolo 31, Artie 5ive, Villabanks, Néza e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,824 likes - 99 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,837 likes - 99 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 60 | [Spinaci](https://open.spotify.com/track/4XYsnV3VKzYgwZj1mrnanq) | [Pepito Rella](https://open.spotify.com/artist/2eX8GywDmO0LWmhzN1f0Kw), [Leslie](https://open.spotify.com/artist/4EUhkiP7GREV2rIXE5SW0E), [Joelz](https://open.spotify.com/artist/6W4pWXkP68yDyjj1KQgMcf) | [Spinaci](https://open.spotify.com/album/43jSDGMz2VFfF2MlnCcgch) | 3:03 |
 | 61 | [Hype](https://open.spotify.com/track/5ey5STubawrstxJRRSudjd) | [Parix Hilton](https://open.spotify.com/artist/2zL8COJjKkyuyJXlogQpEi) | [Hype](https://open.spotify.com/album/46JPxg4BUlS3xmQ8wIYqRv) | 3:26 |
 | 62 | [Italiano a Barcellona](https://open.spotify.com/track/0Z8wMCFNPVIsV2bjiMAKlT) | [PlokhoG](https://open.spotify.com/artist/3K1wf3rfEAQXSAVT2uZ8g7) | [Italiano a Barcellona](https://open.spotify.com/album/3UpB3tC5cjmCxYlKUxdsap) | 1:51 |
-| 63 | [PA SHA](https://open.spotify.com/track/2JUTY9RHPcz4fFAnDTnZu3) | [La Flèche](https://open.spotify.com/artist/64FfdZrhEAVBq0fdEaoO7r), [Achille G](https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1) | [PA SHA](https://open.spotify.com/album/7m1pV1Px9eDBFsmIGuaqEm) | 2:18 |
+| 63 | [PA SHA](https://open.spotify.com/track/2JUTY9RHPcz4fFAnDTnZu3) | [La Flèche](https://open.spotify.com/artist/64FfdZrhEAVBq0fdEaoO7r), [Achille G](https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [PA SHA](https://open.spotify.com/album/7m1pV1Px9eDBFsmIGuaqEm) | 2:18 |
 | 64 | [Sogni](https://open.spotify.com/track/30rpLRqSni1fPBbKBqnFKc) | [Cody](https://open.spotify.com/artist/4CJDaUHW1qkxkqD8TdGH2Z) | [Sogni](https://open.spotify.com/album/6R6hsHbX2mlQhJZy2VM3mm) | 3:01 |
 | 65 | [Problemi veri](https://open.spotify.com/track/6tWv6sK7V8u7lYney8Tspv) | [SHINE](https://open.spotify.com/artist/7LZvdPWUQl9C4q4dMFzVxX) | [Problemi veri](https://open.spotify.com/album/0xUDzSZ65sokdp0elS3LOK) | 2:10 |
 | 66 | [Gotham](https://open.spotify.com/track/1sb1exBPZtpGSjFUYk0cDA) | [4arte](https://open.spotify.com/artist/7JdNkyyfaDjVq2jJXw8vMq), [JWar](https://open.spotify.com/artist/0qAbbuu4T1Kq9r3gweW2ZC) | [Limite](https://open.spotify.com/album/4TPPl7rh3nRFB9r2mGbB2u) | 1:19 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 98 | [Naples](https://open.spotify.com/track/6hOndc2UrGv7jU12S6IvS0) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [Naples](https://open.spotify.com/album/2bpDU3tbbS3kvj17Ds34wC) | 3:16 |
 | 99 | [RIGHT NOW](https://open.spotify.com/track/297PW1HJOcvwUJ1MivA7IL) | [SixOneSix](https://open.spotify.com/artist/5QK6u3vdOJBt4hJjJoYCLd), [Young AM](https://open.spotify.com/artist/2upvuqOIxuRf1vq9KsojFJ) | [RIGHT NOW](https://open.spotify.com/album/6QFSqhW28t4XaQZ0KZ6zOp) | 2:19 |
 
-Snapshot ID: `MCxiN2UyZTYzY2U2Y2MyMDc4MzE0YTAzYTI5OGY5Mzc2NjMxNjg1Mzc1`
+Snapshot ID: `MCwwZWFiODAwYWQyYjk3NjZiODVlZjc5MjQzNDA3YWVlNzAyNWFhOGNk`

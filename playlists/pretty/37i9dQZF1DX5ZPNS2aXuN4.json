@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
-  "num_followers": 18611,
+  "num_followers": 18616,
   "original_name": "This Is Bart\u00f3k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjQzODc3OGQ5OGE4YWEzYjA4OWIxMGVjMmVhYjRmZTM3MDc5MWEy",
+  "snapshot_id": "MCxiOTRjNDdkZDg1YzBlZTUwNjU0YWEzOTA1YzRjMGMwY2M3NGJiMTYy",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -387,26 +387,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Complete Solo Piano Works",
-        "url": "https://open.spotify.com/album/2QGqrHVhT67lWT1MYO4lqB"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Zolt\u00e1n Kocsis",
-          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
-        }
-      ],
-      "duration_ms": 69000,
-      "name": "Mikrokosmos, Sz. 107 - Book 6: No. 149 Dance in Bulgarian Rhythm II",
-      "url": "https://open.spotify.com/track/14GM5RZ3p3JB1CM9WoS469"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
         "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 453000,
       "name": "Music for Strings, Percussion and Celesta, BB 114: III. Adagio",
       "url": "https://open.spotify.com/track/6NEwZwRUI1gGoY2VtPQeeD"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bart\u00f3k: Complete Solo Piano Works",
+        "url": "https://open.spotify.com/album/2QGqrHVhT67lWT1MYO4lqB"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "duration_ms": 69000,
+      "name": "Mikrokosmos, Sz. 107 - Book 6: No. 149 Dance in Bulgarian Rhythm II",
+      "url": "https://open.spotify.com/track/14GM5RZ3p3JB1CM9WoS469"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -503,26 +503,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Complete Works for Piano Solo, Vol. 2 \u2013 The Romantic Bart\u00f3k",
-        "url": "https://open.spotify.com/album/2NYDZNpORZUw9Jon6Z1TYH"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Andreas Bach",
-          "url": "https://open.spotify.com/artist/3mie871VjIKR2EV34P1lhj"
-        }
-      ],
-      "duration_ms": 673800,
-      "name": "4 Piano Pieces, Sz. 22: No. 4. Scherzo",
-      "url": "https://open.spotify.com/track/0tlHSq6tvEB7ohg0aaL58d"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bartok, E\u00f6tv\u00f6s, Ligeti",
         "url": "https://open.spotify.com/album/3TWUktoDymo3inYpD6yNpS"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 601866,
       "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
       "url": "https://open.spotify.com/track/6yVbBDI2gPqKnSJDb6UbD3"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bart\u00f3k: Complete Works for Piano Solo, Vol. 2 \u2013 The Romantic Bart\u00f3k",
+        "url": "https://open.spotify.com/album/2NYDZNpORZUw9Jon6Z1TYH"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Andreas Bach",
+          "url": "https://open.spotify.com/artist/3mie871VjIKR2EV34P1lhj"
+        }
+      ],
+      "duration_ms": 673800,
+      "name": "4 Piano Pieces, Sz. 22: No. 4. Scherzo",
+      "url": "https://open.spotify.com/track/0tlHSq6tvEB7ohg0aaL58d"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1191,30 +1191,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
-        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Belgian Radio and Television Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
-        },
-        {
-          "name": "Alexander Rahbari",
-          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
-        }
-      ],
-      "duration_ms": 652000,
-      "name": "Concerto for Orchestra, BB 123: I. Introduzione: Andante non troppo - Allegro vivace",
-      "url": "https://open.spotify.com/track/7KnuT7nqwqj3JjgqZ4EFil"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bart\u00f3k: Bluebeard's Castle, Op. 11, Sz. 48",
         "url": "https://open.spotify.com/album/36dGchtqt2hLKTS2oeNHPx"
       },
@@ -1243,6 +1219,30 @@
       "duration_ms": 526186,
       "name": "Bluebeard's Castle, Op. 11, Sz. 48: L\u00e1sd a r\u00e9gi asszonyokat (7th Door)",
       "url": "https://open.spotify.com/track/2CiEsmgNchRGnvHMIioM7U"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+        }
+      ],
+      "duration_ms": 652000,
+      "name": "Concerto for Orchestra, BB 123: I. Introduzione: Andante non troppo - Allegro vivace",
+      "url": "https://open.spotify.com/track/7KnuT7nqwqj3JjgqZ4EFil"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bart\u00f3k: The String Quartets",
+        "url": "https://open.spotify.com/album/5tHG8pljpG926DuvpxBwXc"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Tokyo String Quartet",
+          "url": "https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO"
+        }
+      ],
+      "duration_ms": 416000,
+      "name": "String Quartet No. 6, Sz. 114: 4. Mesto",
+      "url": "https://open.spotify.com/track/4wbvnvzu7hPtB7JNoMbsZE"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bartok: 5 Songs / Hungarian Folksongs",
         "url": "https://open.spotify.com/album/6YmwcQKBGg6puz6vSTcmuk"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 550840,
       "name": "2 Pictures, Op.10 (Sz. 46): 2. Dorftanz",
       "url": "https://open.spotify.com/track/6i4eW4tmetHtmS3RFWNIQB"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bart\u00f3k: The String Quartets",
-        "url": "https://open.spotify.com/album/5tHG8pljpG926DuvpxBwXc"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Tokyo String Quartet",
-          "url": "https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO"
-        }
-      ],
-      "duration_ms": 416000,
-      "name": "String Quartet No. 6, Sz. 114: 4. Mesto",
-      "url": "https://open.spotify.com/track/4wbvnvzu7hPtB7JNoMbsZE"
     },
     {
       "added_at": "2022-07-01 04:02:00",

@@ -1,15 +1,15 @@
 {
   "description": "It's Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 733306,
+  "num_followers": 733337,
   "original_name": "It's Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTYxN2VkNGVmMDU0MDZlYTg4ODYwMTY0NmNlMjEzZDQ4NWRlODJl",
+  "snapshot_id": "MCwxNDUwNDVlYmEyYWM5NjEzODgwZTFlOTE4MDZmYWU4YTcwOTI1YzQ1",
   "tracks": [
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig - Spotify Singles",
         "url": "https://open.spotify.com/album/6zEEpctC1joN7KkqsWIm1j"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
+    {
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
@@ -57,23 +73,39 @@
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
-        "name": "N\u00e4r lyktorna t\u00e4nds \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/4hpel896xPcyHSPphnZ6TR"
+        "name": "Inatt (Inget Stoppar Oss Nu)",
+        "url": "https://open.spotify.com/album/7FtYP3MDq2sK9FMUMJTQcC"
       },
       "artists": [
         {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
         }
       ],
-      "duration_ms": 246967,
-      "name": "N\u00e4r lyktorna t\u00e4nds \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/477OQNyWt0hvsGLG4fXqP4"
+      "duration_ms": 166523,
+      "name": "Inatt (Inget Stoppar Oss Nu)",
+      "url": "https://open.spotify.com/track/4uPSmNAuHFVLcSHLKyWfny"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
+      "album": {
+        "name": "Hj\u00e4rta",
+        "url": "https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "Hj\u00e4rta",
+      "url": "https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d"
+    },
+    {
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "On My Love",
         "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
@@ -93,39 +125,23 @@
       "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
-        "name": "Hj\u00e4rta",
-        "url": "https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH"
+        "name": "N\u00e4r lyktorna t\u00e4nds \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/4hpel896xPcyHSPphnZ6TR"
       },
       "artists": [
         {
-          "name": "B.Baby",
-          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
         }
       ],
-      "duration_ms": 158918,
-      "name": "Hj\u00e4rta",
-      "url": "https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d"
+      "duration_ms": 246967,
+      "name": "N\u00e4r lyktorna t\u00e4nds \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/477OQNyWt0hvsGLG4fXqP4"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 180381,
-      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Valborg - Spotify Singles",
         "url": "https://open.spotify.com/album/2gh1otyRAP056ov4kwzPpz"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/6rHvgDYUjdYRf4K5jVLfpw"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Is It Love",
         "url": "https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf"
@@ -173,55 +189,7 @@
       "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Fan va dyrt",
-        "url": "https://open.spotify.com/album/38RGJuywRLdIriec2eMTOj"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 186663,
-      "name": "Fan va dyrt",
-      "url": "https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Superlativ 97",
-        "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Hoppas att jag gjorde allt jag kan",
-      "url": "https://open.spotify.com/track/6msOfq0hbXa5pbqlVFhgj0"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Julibarn",
         "url": "https://open.spotify.com/album/4Z2DhkUJh87klzVawbKaEc"
@@ -241,7 +209,55 @@
       "url": "https://open.spotify.com/track/3KKJ0gfzfKfHOgKH8K9G5x"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
+      "album": {
+        "name": "Fan va dyrt",
+        "url": "https://open.spotify.com/album/38RGJuywRLdIriec2eMTOj"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 186663,
+      "name": "Fan va dyrt",
+      "url": "https://open.spotify.com/track/7mIgleiDBBlShwtZz8Piir"
+    },
+    {
+      "added_at": "2023-10-31 09:27:01",
+      "album": {
+        "name": "Superlativ 97",
+        "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Hoppas att jag gjorde allt jag kan",
+      "url": "https://open.spotify.com/track/6msOfq0hbXa5pbqlVFhgj0"
+    },
+    {
+      "added_at": "2023-10-31 09:27:01",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
+    },
+    {
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Farv\u00e4l",
         "url": "https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ"
@@ -257,7 +273,23 @@
       "url": "https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
+      "album": {
+        "name": "B\u00e4ttre nu (The Wedding)",
+        "url": "https://open.spotify.com/album/1D46XUOvhkabY7IlRSIgPv"
+      },
+      "artists": [
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "duration_ms": 204157,
+      "name": "B\u00e4ttre nu (The Wedding)",
+      "url": "https://open.spotify.com/track/5Fvq4z7pr7146lrYQCD9bY"
+    },
+    {
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "ALLTING D\u00c4REMELLAN",
         "url": "https://open.spotify.com/album/03b0ygdn23KMUTWpRmwpON"
@@ -273,7 +305,7 @@
       "url": "https://open.spotify.com/track/3LpEvBoyEnGQcu1ofaJ5AQ"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
@@ -297,7 +329,7 @@
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
@@ -313,7 +345,7 @@
       "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "In The City",
         "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
@@ -333,7 +365,7 @@
       "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -353,7 +385,7 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "N\u00e4r festen tagit slut",
         "url": "https://open.spotify.com/album/6SbXhwxJudbAiM1WIJG5Ml"
@@ -369,7 +401,7 @@
       "url": "https://open.spotify.com/track/5fEE0xGJCPFgZTHJycBddf"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
@@ -385,7 +417,7 @@
       "url": "https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -409,23 +441,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Josefin",
-        "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Josefin",
-      "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "En annan jag",
         "url": "https://open.spotify.com/album/5IScUyxaPLwT91UoEm4aXn"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/5KHO2Rsilm7Nq9Wr8TxmnN"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Nyanser av liv",
         "url": "https://open.spotify.com/album/5uyC93S9gBbzFQTcFdvnNz"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/6ehSWpWjyuwbTx4yS1nUf7"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Pistol - Spotify Singles",
         "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "20-n\u00e5nting",
         "url": "https://open.spotify.com/album/5bJi4q157OiMjxJJVzbQCL"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/2xUPpHWbm8dCqhNqZtk7B6"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
@@ -505,7 +521,7 @@
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Fri till slut - Spotify Singles",
         "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Big FU",
         "url": "https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Dans fr\u00e5n dig",
         "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Natten blir till dag",
         "url": "https://open.spotify.com/album/3AqAKMOt7dNZqbvPAhYzbZ"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/2cqyU75B4rXPHlU2X6WLCI"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/5ryLFHTIipAHhnxUVjmytI"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/1KB9MeVcnX2rjNGRYvP4aU"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Soldat",
         "url": "https://open.spotify.com/album/30rq6uVi2lypmp6787cImE"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Konstn\u00e4rer",
         "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Better Off (Alone, Pt. III)",
         "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Andas in andas ut",
         "url": "https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -841,7 +857,7 @@
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Ikv\u00e4ll Igen",
         "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
@@ -857,23 +873,7 @@
       "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "F\u00e5nga mig n\u00e4r jag faller",
-        "url": "https://open.spotify.com/album/4NsssUJj3cxavJQDU8axoG"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 147880,
-      "name": "F\u00e5nga mig n\u00e4r jag faller",
-      "url": "https://open.spotify.com/track/6HuNgzEw9b4tDcSDCQBS1O"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-10-31 09:27:01",
       "album": {
         "name": "Gr\u00e4t",
         "url": "https://open.spotify.com/album/15S6L5LQiWcBNtrEPHufAp"

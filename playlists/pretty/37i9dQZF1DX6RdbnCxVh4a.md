@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 
 > Mode lecture aléatoire obligatoire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,311 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,344 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 | 32 | [You Will Never Work In Television Again](https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 2:48 |
 | 33 | [Hertz](https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 2:33 |
 | 34 | [Dream](https://open.spotify.com/track/1gg7VrHQD09dTZd8MzCsRA) | [Husbands](https://open.spotify.com/artist/006Mv4bnAJGVnasH1pbDEO) | [DREAM / OVERSEAS](https://open.spotify.com/album/5TSqxB0rEAWFXXApmFtwXf) | 3:37 |
-| 35 | [The Hardest Cut](https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
-| 36 | [Broken](https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 4:45 |
+| 35 | [Broken](https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 4:45 |
+| 36 | [The Hardest Cut](https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
 | 37 | [Hero](https://open.spotify.com/track/5uS4Gy2ECwIzqfDVBEWlBs) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB) | [Hero](https://open.spotify.com/album/7F2S7LvZiS9TO9pQa4PYp7) | 2:55 |
 | 38 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 |
 | 39 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
 | 40 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
-| 41 | [Stay Blessed](https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Stay Blessed](https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5) | 2:57 |
-| 42 | [Kleenex](https://open.spotify.com/track/2UToegl7AOOC0qflCqGcBH) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [JTM](https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O) | 3:03 |
+| 41 | [Kleenex](https://open.spotify.com/track/2UToegl7AOOC0qflCqGcBH) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [JTM](https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O) | 3:03 |
+| 42 | [Stay Blessed](https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Stay Blessed](https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5) | 2:57 |
 | 43 | [Soleil Mort](https://open.spotify.com/track/7ziSNSAMNDvWBHuSqbGy08) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Pyrale](https://open.spotify.com/album/3fiBUejWxczE7f8ITf4ad1) | 3:15 |
 | 44 | [Power \(feat\. Carpenter Brut\)](https://open.spotify.com/track/1chn0UfLmTjpW6GHVeluqp) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4), [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [Power \(feat.Carpenter Brut\)](https://open.spotify.com/album/4tH4QwEtWoiCYZBYV3O2qE) | 4:10 |
 | 45 | [All I Need](https://open.spotify.com/track/66stDprhtsjuhwS5oxg7ft) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Saturday Night, Sunday Morning](https://open.spotify.com/album/7KrrgdgGjU4TqTCEdBilA0) | 3:36 |
 | 46 | [Let's Get To Work](https://open.spotify.com/track/456sTgUGjvqvmYr7GqMFnG) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Let's Get To Work](https://open.spotify.com/album/7cnBwqsBiHUPFQZtCJE0uN) | 3:00 |
-| 47 | [Hallucinate](https://open.spotify.com/track/1YzVJzx4WkFNqFtx1vLpwI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Toward a Never Ending New Beginning](https://open.spotify.com/album/4N7crJO2i5qyJ3s3fmtbCS) | 2:59 |
+| 47 | [Normal](https://open.spotify.com/track/6vEBjNnWYadgKeihTMs2Nb) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Normal](https://open.spotify.com/album/4DAcNelO7672wOl6OdA23u) | 2:59 |
 | 48 | [N.E.M.](https://open.spotify.com/track/1evi0s1rOH5ZFJkrCWbStm) | [Las Aves](https://open.spotify.com/artist/0bbL6moYLUu792U2ZdWgXU) | [Die In Shanghai](https://open.spotify.com/album/3X0fVmPjhrn1tjsz8ALmdC) | 3:20 |
-| 49 | [Normal](https://open.spotify.com/track/6vEBjNnWYadgKeihTMs2Nb) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Normal](https://open.spotify.com/album/4DAcNelO7672wOl6OdA23u) | 2:59 |
-| 50 | [Drag](https://open.spotify.com/track/5LsHB7a3E9wtoKac1FVMmi) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Le cœur qui cogne](https://open.spotify.com/album/4yQrejKybw0gsJ7W6k0Vmw) | 2:41 |
+| 49 | [Hallucinate](https://open.spotify.com/track/1YzVJzx4WkFNqFtx1vLpwI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Toward a Never Ending New Beginning](https://open.spotify.com/album/4N7crJO2i5qyJ3s3fmtbCS) | 2:59 |
+| 50 | [She Pretends](https://open.spotify.com/track/6B8GIRuUKgN7CHx0yAHw6K) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Isaac Delusion](https://open.spotify.com/album/53NFdlmnX8Mqd9cW5Nzv2w) | 4:05 |
 
-Snapshot ID: `MCwzODY1NDNiOTliMGRlZDMzYmVlYzRjOTg0NTdmNGVkMWZiYTBhMzNk`
+Snapshot ID: `MCwwOWFmODEwMWZiMDRlMjM4YWZlMGY1YTVkMDNiZjczZTllMTdjZjNj`

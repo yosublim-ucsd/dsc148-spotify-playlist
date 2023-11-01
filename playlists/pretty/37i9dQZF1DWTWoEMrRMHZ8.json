@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico Buarque",
-  "num_followers": 345636,
+  "num_followers": 345692,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzYwZDdmYzQxZWQ3ZjFjMGI5ZjgxMTQwMTYxZmJiOTk1YTA0ZjRj",
+  "snapshot_id": "MCxiYTc2NTBkOWI1NGFhNGU2MTMxMDNmNmJhYjA3YmEwNWMxZDRjYzFl",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 145191,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/4iGkVt85kQ6mnNa2hDzuBI"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 222186,
       "name": "Lisboa",
       "url": "https://open.spotify.com/track/4Q79hNZOvRHN3bVt8Tf7s6"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 145191,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Meu Parceiro Belchior",
-        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
-      },
-      "artists": [
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
-        },
-        {
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        }
-      ],
-      "duration_ms": 166006,
-      "name": "A Palo Seco",
-      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "B\u00e9di Beat (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 275750,
       "name": "B\u00e9di Beat (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Meu Parceiro Belchior",
+        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
+      },
+      "artists": [
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        },
+        {
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+        }
+      ],
+      "duration_ms": 166006,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "coisa mais bonita",
+        "url": "https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "duration_ms": 176103,
+      "name": "coisa mais bonita",
+      "url": "https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Faz Parte Do Meu Show",
         "url": "https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "coisa mais bonita",
-        "url": "https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb"
-      },
-      "artists": [
-        {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
-        }
-      ],
-      "duration_ms": 176103,
-      "name": "coisa mais bonita",
-      "url": "https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Belezas S\u00e3o Coisas Acesas por Dentro",
         "url": "https://open.spotify.com/album/4bRLaK2J6JGpL3lzF2XLDH"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Ata-me",
-        "url": "https://open.spotify.com/album/5m1WwMk6bpyxqU5A0TCRog"
-      },
-      "artists": [
-        {
-          "name": "Ala\u00edde Costa",
-          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Ata-me",
-      "url": "https://open.spotify.com/track/3zFak51eEEHDHxmBnms9sm"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Dr\u00e3o (Remasterizado)",
         "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 311745,
       "name": "Dr\u00e3o - Remasterizado",
       "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Ata-me",
+        "url": "https://open.spotify.com/album/5m1WwMk6bpyxqU5A0TCRog"
+      },
+      "artists": [
+        {
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Ata-me",
+      "url": "https://open.spotify.com/track/3zFak51eEEHDHxmBnms9sm"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Carnavil\u00e3",
-        "url": "https://open.spotify.com/album/6M823WJsJilFHI1CBcCS3D"
-      },
-      "artists": [
-        {
-          "name": "Lencker",
-          "url": "https://open.spotify.com/artist/4iX6JdpeGEvWnO3tnm12sC"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 249411,
-      "name": "Carnavil\u00e3",
-      "url": "https://open.spotify.com/track/3ZwxCLm9NO4DHraGWleIpc"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Tiramis\u00f9",
         "url": "https://open.spotify.com/album/1im365PiyIdcKbl3spm4EC"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 185691,
       "name": "Eu Sei Que Vou Te Amar",
       "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Carnavil\u00e3",
+        "url": "https://open.spotify.com/album/6M823WJsJilFHI1CBcCS3D"
+      },
+      "artists": [
+        {
+          "name": "Lencker",
+          "url": "https://open.spotify.com/artist/4iX6JdpeGEvWnO3tnm12sC"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 249411,
+      "name": "Carnavil\u00e3",
+      "url": "https://open.spotify.com/track/3ZwxCLm9NO4DHraGWleIpc"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
+      },
+      "artists": [
+        {
+          "name": "Tuca Oliveira",
+          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
+        }
+      ],
+      "duration_ms": 196319,
+      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Redescobrir",
         "url": "https://open.spotify.com/album/42cmmfuVuaLEHUbQzbqsWU"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 207240,
       "name": "Redescobrir",
       "url": "https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
-      },
-      "artists": [
-        {
-          "name": "Tuca Oliveira",
-          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
-        }
-      ],
-      "duration_ms": 196319,
-      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
     },
     {
       "added_at": "2023-10-20 03:00:00",

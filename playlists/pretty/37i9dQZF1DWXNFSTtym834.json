@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1219592,
+  "num_followers": 1220317,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzQ1YjlhOGI5ZTc5NTQwYTJmOTdlM2EyM2JlODZmNjQ0ODI2Yzgw",
+  "snapshot_id": "MCxmZjNmMTk3MGUyNDY4MjBlZDI2NzNhMDFmYThhYjdmNmNiMDliMTUx",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Reise, Reise",
-        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Amerika",
-      "url": "https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "XIII",
         "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 193813,
       "name": "Sun Doesn't Rise",
       "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Reise, Reise",
+        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Amerika",
+      "url": "https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "ObZen",
-        "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
-      },
-      "artists": [
-        {
-          "name": "Meshuggah",
-          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
-        }
-      ],
-      "duration_ms": 442733,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Century Child",
         "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 248706,
       "name": "The Phantom Of The Opera",
       "url": "https://open.spotify.com/track/6VOxRb9IAJQDDyHBlyEdPF"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "ObZen",
+        "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "duration_ms": 442733,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
     },
     {
       "added_at": "2023-02-08 17:32:03",

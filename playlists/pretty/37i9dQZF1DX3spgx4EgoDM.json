@@ -1,12 +1,12 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 155610,
+  "num_followers": 155652,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODNjMWRmOTAxMmRiNzY3MDQ5MDM5YzQ4Mjc0MDYxNzNmMTVlMmYx",
+  "snapshot_id": "MCw0NDRmZTVlYmRjODY0ZjcwMTE4ZWQ3YTA0MmEzNjI0YzRiYzNmMWY3",
   "tracks": [
     {
       "added_at": "2023-10-26 20:27:55",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-10-26 20:27:55",
       "album": {
-        "name": "No Te Creas Tan Importante (En Vivo)",
-        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "No Te Creas Tan Importante - En Vivo",
-      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
-      "added_at": "2023-10-26 20:27:55",
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 187426,
       "name": "Vida de Rico",
       "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
+    },
+    {
+      "added_at": "2023-10-26 20:27:55",
+      "album": {
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
     },
     {
       "added_at": "2023-10-26 20:27:55",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-10-26 20:27:55",
       "album": {
-        "name": "Sa, Za...Sabor",
-        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
-      },
-      "artists": [
-        {
-          "name": "La Cumbia",
-          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Porque te amo",
-      "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
-    },
-    {
-      "added_at": "2023-10-26 20:27:55",
-      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 280895,
       "name": "Perrito Malvado",
       "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
+    },
+    {
+      "added_at": "2023-10-26 20:27:55",
+      "album": {
+        "name": "Sa, Za...Sabor",
+        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
+      },
+      "artists": [
+        {
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Porque te amo",
+      "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
     },
     {
       "added_at": "2023-10-26 20:27:55",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2023-10-26 20:27:55",
       "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
+    },
+    {
+      "added_at": "2023-10-26 20:27:55",
+      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
       },
@@ -1447,26 +1467,6 @@
     {
       "added_at": "2023-10-26 20:27:55",
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
-    },
-    {
-      "added_at": "2023-10-26 20:27:55",
-      "album": {
         "name": "El Maestro",
         "url": "https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-10-26 20:27:55",
       "album": {
-        "name": "Furia Loca",
-        "url": "https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S"
-      },
-      "artists": [
-        {
-          "name": "La Gran Magia Tropical",
-          "url": "https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP"
-        }
-      ],
-      "duration_ms": 190970,
-      "name": "Furia Loca (Mujer C\u00f3smica)",
-      "url": "https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT"
-    },
-    {
-      "added_at": "2023-10-26 20:27:55",
-      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 197616,
       "name": "Entre el Cielo Vos y Yo",
       "url": "https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR"
+    },
+    {
+      "added_at": "2023-10-26 20:27:55",
+      "album": {
+        "name": "Furia Loca",
+        "url": "https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S"
+      },
+      "artists": [
+        {
+          "name": "La Gran Magia Tropical",
+          "url": "https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP"
+        }
+      ],
+      "duration_ms": 190970,
+      "name": "Furia Loca (Mujer C\u00f3smica)",
+      "url": "https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT"
     },
     {
       "added_at": "2023-10-26 20:27:55",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-10-26 20:27:55",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
-    },
-    {
-      "added_at": "2023-10-26 20:27:55",
-      "album": {
         "name": "Hasta El Cielo Lloro",
         "url": "https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 327000,
       "name": "Vuelvo A Sentir",
       "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"
+    },
+    {
+      "added_at": "2023-10-26 20:27:55",
+      "album": {
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2023-10-26 20:27:55",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-10-26 20:27:55",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
-    },
-    {
-      "added_at": "2023-10-26 20:27:55",
-      "album": {
         "name": "Lo Nuevo Y\u2026Lo Mejor",
         "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 169640,
       "name": "La Cumbia De La Cerveza",
       "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
+    },
+    {
+      "added_at": "2023-10-26 20:27:55",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
     },
     {
       "added_at": "2023-10-26 20:27:55",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2023-10-26 20:27:55",
       "album": {
+        "name": "Para Que La Cu\u00f1a Apriete",
+        "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual? Dinastia Pedraza Es Grupo Kein?",
+          "url": "https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd"
+        },
+        {
+          "name": "Grupo Kien? Los reyes del sabor",
+          "url": "https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy"
+        }
+      ],
+      "duration_ms": 270506,
+      "name": "Las Mujers No Se Acaban",
+      "url": "https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6"
+    },
+    {
+      "added_at": "2023-10-26 20:27:55",
+      "album": {
         "name": "30 Aniversario (Edici\u00f3n Limitada)",
         "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 208400,
       "name": "Cumbia A La Gente",
       "url": "https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH"
-    },
-    {
-      "added_at": "2023-10-26 20:27:55",
-      "album": {
-        "name": "Para Que La Cu\u00f1a Apriete",
-        "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual? Dinastia Pedraza Es Grupo Kein?",
-          "url": "https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd"
-        },
-        {
-          "name": "Grupo Kien? Los reyes del sabor",
-          "url": "https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy"
-        }
-      ],
-      "duration_ms": 270506,
-      "name": "Las Mujers No Se Acaban",
-      "url": "https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6"
     }
   ],
   "unique_name": "Cocina con Cumbia",

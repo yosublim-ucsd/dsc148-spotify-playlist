@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain]
 
 > Get your kids in the holiday spirit with this collection of Hanukkah tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,332 likes - 44 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,335 likes - 44 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

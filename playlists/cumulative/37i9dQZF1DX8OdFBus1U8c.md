@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : M.H.R, JOKER390P, SA, Dabzee
 
-108 songs - 5 hr 55 min
+109 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Arpo](https://open.spotify.com/track/2biQljjf8AuYx5u8Se6clY) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Arpo](https://open.spotify.com/album/3MaGl3zOrZrEEqUMoXpN1d) | 2:46 | 2023-07-23 | 2023-09-12 |
 | [Avastha](https://open.spotify.com/track/34xTAbD9NbfABNGwoAkfUH) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Avastha](https://open.spotify.com/album/4Tpv8xA81bbsYKm3bI2YMT) | 3:44 | 2022-04-18 |  |
 | [Ayyayyo](https://open.spotify.com/track/5yX1n7GniBnjMlrS5GairC) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Ayyayyo](https://open.spotify.com/album/4AUgdGeQBTqfPpPfbvaDJf) | 3:40 | 2023-09-14 |  |
-| [BANDANA](https://open.spotify.com/track/5n0H86Axz5rqTyv8ljXZ8X) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [BANDANA](https://open.spotify.com/album/4UiGCvmgCLtDvrCBheMLNR) | 2:13 | 2023-07-23 |  |
-| [Blue Bucket Rebirth](https://open.spotify.com/track/6J77IL7C21HvGmMe6XHzWH) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Blue Bucket Rebirth](https://open.spotify.com/album/4ZEGMUyGGImpKOaTxWIQ29) | 3:46 | 2022-06-23 |  |
+| [BANDANA](https://open.spotify.com/track/2o7dxduoe3YXvuSyOFjROL) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [BANDANA](https://open.spotify.com/album/6LnrtNJONoihgwiKbZqJv0) | 2:13 | 2023-07-23 |  |
+| [BANDANA](https://open.spotify.com/track/5n0H86Axz5rqTyv8ljXZ8X) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [BANDANA](https://open.spotify.com/album/4UiGCvmgCLtDvrCBheMLNR) | 2:13 | 2023-07-23 | 2023-11-01 |
+| [Blue Bucket Rebirth](https://open.spotify.com/track/6J77IL7C21HvGmMe6XHzWH) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Blue Bucket Rebirth](https://open.spotify.com/album/4ZEGMUyGGImpKOaTxWIQ29) | 3:46 | 2022-06-23 | 2023-11-01 |
 | [Bobby & Sulaiman](https://open.spotify.com/track/4dZg42I2oAMIa86UNeqZhp) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [JUNGLE SPEAKS, Vol\. 1](https://open.spotify.com/album/64hiwux15xTgMb9Fc8u5hM) | 3:23 | 2022-06-23 | 2023-09-12 |
 | [Boss Kid](https://open.spotify.com/track/2mquWSV8POF4pfkQ1eQFOm) | [Rap Kid India](https://open.spotify.com/artist/40KXGueq8yPOb6dtZD6QmA), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Boss Kid](https://open.spotify.com/album/2S2nHAPutWZIhHsQgiCqRf) | 2:44 | 2023-07-23 | 2023-08-10 |
 | [BREAKFAST](https://open.spotify.com/track/6p21ywjrVlUnpmujl4S3dP) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 3:56 | 2023-07-23 |  |
@@ -36,7 +37,7 @@
 | [DULM](https://open.spotify.com/track/2tY9R8Pdyw0FxDm12kMa1S) | [Samii](https://open.spotify.com/artist/7CzTpDulCrDngkdUgaimiA), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [DULM](https://open.spotify.com/album/5W80rmSWbCTTbEaKDLT4Ce) | 2:40 | 2023-09-25 |  |
 | [Ente Kaalam](https://open.spotify.com/track/1XpVCD9Pk2ODY5F4mYyQqY) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Ente Kaalam](https://open.spotify.com/album/2j6KT1OUYbkQQDPSKRupDq) | 3:02 | 2022-06-23 | 2023-07-24 |
 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 | 2022-07-13 | 2023-07-24 |
-| [Fly](https://open.spotify.com/track/42AVHXyJhx67wNVbAdeX8s) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 4:06 | 2022-06-23 | 2023-09-12 |
+| [Fly](https://open.spotify.com/track/42AVHXyJhx67wNVbAdeX8s) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 4:06 | 2022-06-23 |  |
 | [Hey Nima](https://open.spotify.com/track/5PUkJvKMnevgDUktjt5DR2) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Hey Nima](https://open.spotify.com/album/0B36i98w5vbYZv6ZZUX2IY) | 2:44 | 2022-06-23 |  |
 | [Hope](https://open.spotify.com/track/3oMeTMaSY44CZLkefVhQHR) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 3:18 | 2022-06-23 | 2023-09-12 |
 | [Hope](https://open.spotify.com/track/2nujuLW4cF1iqUXQvcPL5Q) | [Praveen Kay William](https://open.spotify.com/artist/5klbbSjhiOCdvF5iYYatcf), [Jibin Krishna](https://open.spotify.com/artist/7ys1Gv482wuxQRWcGH1FfK) | [Hope](https://open.spotify.com/album/6pgDb9UUgOUF8ugOHSL0px) | 3:42 | 2023-08-31 | 2023-09-12 |

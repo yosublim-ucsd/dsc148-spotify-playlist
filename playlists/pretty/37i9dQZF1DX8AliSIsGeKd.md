@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Enrico Sangiuliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,447 likes - 90 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,521 likes - 90 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 26 | [Artificial Dreams](https://open.spotify.com/track/36BBNRey2XrfRwOOiAREV0) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp), [PARI](https://open.spotify.com/artist/3US9YU4DOMD9TfCNehM1Ux) | [Artificial Dreams](https://open.spotify.com/album/31rhSoBjPsMLQvIooxeZcU) | 3:03 |
 | 27 | [Let Me Out](https://open.spotify.com/track/67qAVjzBUVVs8RALR2AQ3K) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Let Me Out](https://open.spotify.com/album/2wjZRBDyv6WtFUjfzK65wn) | 5:13 |
 | 28 | [Heart on Hold](https://open.spotify.com/track/7klqcPyFmka0E9aqTsul7t) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Heart on Hold](https://open.spotify.com/album/4i5PRWBoNmWwV4YcWboLy9) | 3:44 |
-| 29 | [Distant Love \- Extended Version](https://open.spotify.com/track/2l0emhOFWPN5sMc8DWybB3) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Distant Love \(Extended Version\)](https://open.spotify.com/album/5IeEHN7JoSqqaxl7TZFs6p) | 3:28 |
+| 29 | [Distant Love](https://open.spotify.com/track/2l0emhOFWPN5sMc8DWybB3) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Distant Love](https://open.spotify.com/album/5IeEHN7JoSqqaxl7TZFs6p) | 3:28 |
 | 30 | [Humanity](https://open.spotify.com/track/2JNSF3Ut0DmKksRks5yN3f) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Humanity](https://open.spotify.com/album/2VMsgi0xQf9eNhwzAzPPIA) | 2:55 |
 | 31 | [Cycle of Life](https://open.spotify.com/track/3HA1tvMrOoOnZl3GOb3rEB) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Cycle of Life](https://open.spotify.com/album/5mnmAkEBByR4mXyA8ybYsc) | 5:55 |
 | 32 | [Do My Thing \- Dixon Rework](https://open.spotify.com/track/4taJ42xa2t0EmWsrHcZNiz) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [Do My Thing \(Dixon Rework\)](https://open.spotify.com/album/0f3ZiEntOHX7P6W790ukxe) | 3:17 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Lazer Beams](https://open.spotify.com/track/6UeKd8PjbEHf4E3pdD3fh1) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Lazer Beams](https://open.spotify.com/album/2gN3totDrc88agXSCW6zQk) | 5:40 |
 | 90 | [Devotion](https://open.spotify.com/track/16auMK6Amhx6Uj62JzLpMA) | [Elisa Bee](https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX) | [Devotion EP](https://open.spotify.com/album/6JlxoikbK1kntRGQrTAMtP) | 5:14 |
 
-Snapshot ID: `MCw0ZjY1YjIxNGJjZTc2MWZlOWIyN2UyYzRlYThjMjkwODdiMWRjOWJh`
+Snapshot ID: `MCw0MjFkZDFjNjA5MGZkMmZlNTEyYzg1MGJmYmViMjg5ZTgzNWQ0NTJk`

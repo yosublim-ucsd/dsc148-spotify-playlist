@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Joy Denalane
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,427 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,436 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 25 | [Rosarot](https://open.spotify.com/track/4WXhjmJaVEheeiaxbuVvDZ) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Rosarot](https://open.spotify.com/album/49aM6o7lUyIPUZUDIx5he1) | 2:39 |
 | 26 | [Toxic Baggage](https://open.spotify.com/track/3HGcCi6OUatVgbGwD16ktQ) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Toxic Baggage](https://open.spotify.com/album/17Q5R0UNJuXQCQxRN6lgHH) | 2:26 |
 | 27 | [STERNE EGAL](https://open.spotify.com/track/4NVV6v5XmfzMHztGnVcArC) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [STERNE EGAL](https://open.spotify.com/album/7lyZsfKXqj7DSyY9mhAOyR) | 2:33 |
-| 28 | [get tough](https://open.spotify.com/track/1fHKPEMw05XGxtB7ESSDZo) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [get tough](https://open.spotify.com/album/4Rbu6trRci6vt24z52i1p8) | 3:05 |
-| 29 | [Morgana \- 2023 Edit](https://open.spotify.com/track/2IOaOQTxrtJf0clbcjXNua) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Morgana \(2023 Edit\)](https://open.spotify.com/album/3YlTnr4cYNg9tufccsFgRQ) | 5:06 |
+| 28 | [Morgana \- 2023 Edit](https://open.spotify.com/track/2IOaOQTxrtJf0clbcjXNua) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Morgana \(2023 Edit\)](https://open.spotify.com/album/3YlTnr4cYNg9tufccsFgRQ) | 5:06 |
+| 29 | [get tough](https://open.spotify.com/track/1fHKPEMw05XGxtB7ESSDZo) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [get tough](https://open.spotify.com/album/4Rbu6trRci6vt24z52i1p8) | 3:05 |
 | 30 | [Honey \(I Hope, You Understand\)](https://open.spotify.com/track/3mk3oJaBqlHnDGJJ7hOG91) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Honey \(I Hope, You Understand\)](https://open.spotify.com/album/4aSxjNrJrf8ayjpml0dgF0) | 3:21 |
 | 31 | [Running](https://open.spotify.com/track/44l2NbA8lMwFMNNB3rWTqI) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [I've Stopped Getting Chills For A While Now](https://open.spotify.com/album/7GjlQUFZz3eK3rhBFJKwer) | 4:15 |
 | 32 | [TOGETHER](https://open.spotify.com/track/3kn71wloYHKswuBJM3k1YC) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [TOGETHER](https://open.spotify.com/album/1AOdhW4UAxw29q7AudrMPR) | 5:29 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 37 | [Referee](https://open.spotify.com/track/3gHCOrb1EasRxmmCy7apKD) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [Referee](https://open.spotify.com/album/4jilCP2w2LpwgBFhCjWGjT) | 3:08 |
 | 38 | [BAD NEWS](https://open.spotify.com/track/2KGUmLjKyYgQeD6xPFsoIY) | [TRINA](https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ) | [BAD NEWS](https://open.spotify.com/album/7h2aBUeVqh7J9BEagbwTbj) | 2:40 |
 | 39 | [TÜR ZU/ LICHT AUS](https://open.spotify.com/track/41KucuT8C3ofEethijrSfx) | [DenniJasmin](https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE) | [TÜR ZU/ LICHT AUS](https://open.spotify.com/album/4B3pFDgOsCNSRYLcJV7PTr) | 3:10 |
-| 40 | [Summer of Love](https://open.spotify.com/track/2HhAic2lb5CNK2wow3fbDm) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Summer of Love](https://open.spotify.com/album/2ALp3KE42NdXMNi2jXPyjd) | 5:34 |
-| 41 | [Blue](https://open.spotify.com/track/2LUgeF13FtpZMcgKhjlzKc) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [You Deserve Romance](https://open.spotify.com/album/3ccL08UCW2cUZweKKEKa3Q) | 3:36 |
-| 42 | [DOUBLE\-CHECK](https://open.spotify.com/track/1di8QXf5cdFqymWCFunwSN) | [LNA](https://open.spotify.com/artist/4AwHWQ8KL6tCUIzL9Du1RA), [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [DOUBLE\-CHECK](https://open.spotify.com/album/277ontaO8DXHJWYD58T5TH) | 3:01 |
+| 40 | [Blue](https://open.spotify.com/track/2LUgeF13FtpZMcgKhjlzKc) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [You Deserve Romance](https://open.spotify.com/album/3ccL08UCW2cUZweKKEKa3Q) | 3:36 |
+| 41 | [DOUBLE\-CHECK](https://open.spotify.com/track/1di8QXf5cdFqymWCFunwSN) | [LNA](https://open.spotify.com/artist/4AwHWQ8KL6tCUIzL9Du1RA), [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [DOUBLE\-CHECK](https://open.spotify.com/album/277ontaO8DXHJWYD58T5TH) | 3:01 |
+| 42 | [Summer of Love](https://open.spotify.com/track/2HhAic2lb5CNK2wow3fbDm) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Summer of Love](https://open.spotify.com/album/2ALp3KE42NdXMNi2jXPyjd) | 5:34 |
 | 43 | [Kaputte Welt](https://open.spotify.com/track/6ql7fHwKhxhGj4rqDPTUC6) | [Girlwoman](https://open.spotify.com/artist/24rqTvJDFy2t2xgCxsN2f0) | [Kaputte Welt](https://open.spotify.com/album/7xU1Dyuwp0DcAeQLb8yw8C) | 4:28 |
 | 44 | [Good Sex](https://open.spotify.com/track/6Gp05KXNNL8E2q8aggDVG9) | [Zemine](https://open.spotify.com/artist/7zB3RuBgX3ssVdhKBQOEjJ) | [Butterfly](https://open.spotify.com/album/6YBtOk7MkPWkzN20YonHxd) | 2:06 |
 | 45 | [Already There](https://open.spotify.com/track/7bg3d9PhFUrkmNGRkvpQap) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Drinking Gasoline](https://open.spotify.com/album/0EpIQ8fu194s2Um54bybXd) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Pussy Edible](https://open.spotify.com/track/3tFqXkmpukEmx0evY1yiK8) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Replica Of My Heart](https://open.spotify.com/album/1t0qPUVKhK3TSB9049ON4a) | 2:10 |
 | 50 | [wELLeN](https://open.spotify.com/track/3tvkbP7uk2ZISn5mM9qves) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:48 |
 
-Snapshot ID: `MCw2OWM0MDM5MjkyNWJlMGMzMWFjOWI0OWJkZGI3ZjViMmE5YWIwMGFj`
+Snapshot ID: `MCxkYjcyNWE5MzI0YTkzMDRhYmQxNGYyN2U2NGJjZDIzNDA3ODUwNzQz`

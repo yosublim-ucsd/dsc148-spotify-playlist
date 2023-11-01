@@ -1,12 +1,12 @@
 {
   "description": "Disfruta con mam\u00e1 la era dorada de los 80's.  ",
-  "num_followers": 170391,
+  "num_followers": 170477,
   "original_name": "Mam\u00e1 80era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDkyMjc1YzkzMGZlZTRhNGEwZDg5YTdlNmRjZGVkNjRjOGE0MDJh",
+  "snapshot_id": "MCwwZWE2OTU1MWIyZjllNzQ4ZTA5YjJhM2ZjNWUwNjlkNDQ1MmYwOTEz",
   "tracks": [
     {
       "added_at": "2021-05-21 05:05:27",
@@ -131,18 +131,18 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Whenever You Need Somebody",
-        "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
       },
       "artists": [
         {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -167,18 +167,18 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+        "name": "Whenever You Need Somebody",
+        "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
       },
       "artists": [
         {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
         }
       ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
+      "duration_ms": 213573,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 324573,
-      "name": "Voy a Llenarte Toda",
-      "url": "https://open.spotify.com/track/6RjJbVwSkEdr6UnzVUDtn4"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "The Works (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 198773,
       "name": "I Want To Break Free - Remastered 2011",
       "url": "https://open.spotify.com/track/6NAEpcvbmNdT0cWP3LFDcY"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 324573,
+      "name": "Voy a Llenarte Toda",
+      "url": "https://open.spotify.com/track/6RjJbVwSkEdr6UnzVUDtn4"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "1 + 1 = 2 Enamorados",
-        "url": "https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 205909,
-      "name": "1+1=2 Enamorados",
-      "url": "https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Daniela Romo",
         "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 161026,
       "name": "Celos",
       "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "1 + 1 = 2 Enamorados",
+        "url": "https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 205909,
+      "name": "1+1=2 Enamorados",
+      "url": "https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz"
     }
   ],
   "unique_name": "Mam\u00e1 80era",

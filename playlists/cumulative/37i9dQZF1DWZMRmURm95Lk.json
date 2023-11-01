@@ -1931,6 +1931,28 @@
     },
     {
       "album": {
+        "name": "Fai Il Bravo",
+        "url": "https://open.spotify.com/album/7GSENlwnihb4PiGB6dPJ2G"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Grido",
+          "url": "https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175124,
+      "name": "Fai Il Bravo",
+      "url": "https://open.spotify.com/track/4NCGrDj3x1wboFL0BmKPSy"
+    },
+    {
+      "album": {
         "name": "Fari Spenti.",
         "url": "https://open.spotify.com/album/4OjBdQH7u5K77VpMefe8e8"
       },
@@ -5510,7 +5532,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 185893,
       "name": "Sapori e sostanza",
       "url": "https://open.spotify.com/track/21jGfTFjt6MPGltvk7yHrS"

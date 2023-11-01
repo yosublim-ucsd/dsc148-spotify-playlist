@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-233 songs - 14 hr 43 min
+234 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 | 2023-04-14 |  |
 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 | 2021-12-09 |  |
 | [Gopher Mambo \- Remastered 2009](https://open.spotify.com/track/6TsE30wjcOmuQRheHdtaAF) | [Gozzo](https://open.spotify.com/artist/2pdPgAYPa2nKBgE1yCEZr0), [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq), [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d), [The Rico Mambo Orchestra](https://open.spotify.com/artist/11GPsCMxATNWk1L7OKFLpH) | [Mambo!](https://open.spotify.com/album/6OenJxBgcOKKqrfaLagFDL) | 2:17 | 2022-01-01 | 2023-03-08 |
+| [Grietas](https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Grietas](https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3) | 5:13 | 2023-10-27 |  |
 | [Guajira](https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re) | [HABIBI](https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt), [Elisabeth Borne](https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna) | [Guajira](https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V) | 3:30 | 2021-12-09 |  |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-12-09 |  |
 | [Jogando Capoeira](https://open.spotify.com/track/38gAlHeR2U1ptn4mPC1cal) | [Beatfanatic](https://open.spotify.com/artist/1FIkyRKs1x2ByTLq6BD6KA) | [Latin Concrete: A Modern Latin Beat Suite mixed and compiled by Chris Read](https://open.spotify.com/album/5sImLUIHsB11XCDNHSBfgf) | 6:45 | 2021-12-09 | 2022-07-29 |
@@ -170,7 +171,7 @@
 | [Perdoa](https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls), [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Meus Momentos: Paulinho Da Viola](https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu) | 4:00 | 2022-01-01 |  |
 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 | 2021-12-09 | 2023-03-08 |
 | [Por Si Las Dudas](https://open.spotify.com/track/2XaUNp5zFwIAP9dPrHQkX0) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU), [Lof](https://open.spotify.com/artist/4TrbIX2ppmaAvqO5IYcSH0) | [A MAR](https://open.spotify.com/album/7JKDL61RT0utazyGSYmGl8) | 3:49 | 2021-12-09 | 2022-07-29 |
-| [Por Si las Dudas](https://open.spotify.com/track/1mSZtzrkyjPVHryN28833M) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU), [SpreadLof](https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O) | [A MAR](https://open.spotify.com/album/6amcskT3XUBmlayQ1O0Bne) | 3:49 | 2022-01-01 |  |
+| [Por Si las Dudas](https://open.spotify.com/track/1mSZtzrkyjPVHryN28833M) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU), [SpreadLof](https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O) | [A MAR](https://open.spotify.com/album/6amcskT3XUBmlayQ1O0Bne) | 3:49 | 2022-01-01 | 2023-11-01 |
 | [Porro Maracatu](https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [LADAMA](https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6) | 3:46 | 2022-01-01 | 2023-04-11 |
 | [Pra Manha](https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN) | [Songs From The Tin](https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl) | 6:13 | 2022-01-01 |  |
 | [Pra Manha](https://open.spotify.com/track/2d9qr42YiIJ4EXebh7PSFz) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN) | [Late Night Tales: Another Late Night \- Zero 7 \[Remastered\] \(Remastered Version\)](https://open.spotify.com/album/3RHjlzQbBixfj7mgmLDbFM) | 6:13 | 2022-01-01 | 2022-07-25 |

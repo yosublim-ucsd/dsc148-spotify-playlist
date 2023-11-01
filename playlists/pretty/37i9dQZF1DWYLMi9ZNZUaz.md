@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,171 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,275 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 39 | [NOLOVENOLIFE](https://open.spotify.com/track/4X2vrRE8Pi5hBMbWRjofAU) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u) | 2:50 |
 | 40 | [Tay To](https://open.spotify.com/track/41aMYNen9G7uUbqLfV65cF) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [RPT PhongKhin](https://open.spotify.com/artist/2TmAAcsAhUVnRNtf3Jm0uc) | [Rapitalove](https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E) | 2:45 |
 | 41 | [Okeokeoke](https://open.spotify.com/track/3nw5vYaH4qVx8joq3qhtNx) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Okeokeoke](https://open.spotify.com/album/6jz6E152RTO3RfyjmdpAri) | 2:19 |
-| 42 | [Xin Đừng Nhấc Máy](https://open.spotify.com/track/4Rbnxa7kFSpCHNPJ3uZhtR) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Han Sara](https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Xin Đừng Nhấc Máy](https://open.spotify.com/album/7Jzha1P8JmEFO0oyr3SbB8) | 3:07 |
+| 42 | [Có đau thì đau một mình](https://open.spotify.com/track/37od1g713ZvI32VA2diR9L) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [Có đau thì đau một mình](https://open.spotify.com/album/0CUpq5X4lU88UaDjg04HjJ) | 3:30 |
 | 43 | [Hai lần mất em](https://open.spotify.com/track/3Crx5BdxpqzkMfBmNLyZ4v) | [Khói](https://open.spotify.com/artist/3FZ4GX2mWNn7XElse3fQWd), [Galaxyy](https://open.spotify.com/artist/0ZIJokI7PUnSoUqPumMbTv), [VoVanDuc](https://open.spotify.com/artist/0MMvhtfFn1izZ6EeSSPBQW) | [Hai lần mất em](https://open.spotify.com/album/0SjWUk87Zr8h7MX6WZn0QZ) | 4:41 |
-| 44 | [Có đau thì đau một mình](https://open.spotify.com/track/37od1g713ZvI32VA2diR9L) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [Có đau thì đau một mình](https://open.spotify.com/album/0CUpq5X4lU88UaDjg04HjJ) | 3:30 |
+| 44 | [Xin Đừng Nhấc Máy](https://open.spotify.com/track/4Rbnxa7kFSpCHNPJ3uZhtR) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Han Sara](https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Xin Đừng Nhấc Máy](https://open.spotify.com/album/7Jzha1P8JmEFO0oyr3SbB8) | 3:07 |
 | 45 | [thế giới thần tiên](https://open.spotify.com/track/2cJyuhqcXvd6ccvAn8NXsL) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:50 |
 | 46 | [Bài Này Chill Phết](https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Bài Này Chill Phết](https://open.spotify.com/album/7vjwxcUJGv2cAD584tBDzn) | 4:36 |
 | 47 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [A Veil of Mist](https://open.spotify.com/track/37PyxXH5vlbNcYwxOHbfFn) | [SPACESPEAKERS](https://open.spotify.com/artist/23jUmiOyAG9Dzq6Ayp9LUG), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw), [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [KOSMIK](https://open.spotify.com/album/22YHa0g0LTJ9kjQ03me248) | 5:02 |
 | 50 | [Thương](https://open.spotify.com/track/0sMc56aynx4DJwJtElVOSf) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj) | [Thương](https://open.spotify.com/album/0eVRpLCwnAcVnlZM52DN5m) | 3:05 |
 
-Snapshot ID: `MCw3ODAxNTdhOTg4YzNiZWIzNzIxNzE1ODU5Yzc3MjZmOTBhMzYyNzYw`
+Snapshot ID: `MCwzYzYyODBiOTM0NmI5NTk4NTg0YjQzZDg4ZGViYTE3ZTcxOGY1N2U4`

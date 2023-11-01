@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Damini Bhatla, Krishna Tejasvi
 
-165 songs - 9 hr 59 min
+166 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Nuvvunte Acoustic](https://open.spotify.com/track/3YfCpxpyXviMwEmrvSkzqx) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J) | [Nuvvunte Acoustic](https://open.spotify.com/album/1rUB6pntj9LVvjrH8f9pZR) | 3:12 | 2023-04-17 | 2023-05-23 |
 | [O Mayya](https://open.spotify.com/track/1H9R0AWj5cxVdRA6JGx2ZI) | [Sai Madhav Rella](https://open.spotify.com/artist/7J2eKWSknBCCkwQEK5rDpw) | [O Mayya](https://open.spotify.com/album/5jXOvuqz6iFThLiUxMdbdx) | 4:14 | 2023-07-10 | 2023-10-14 |
 | [O Pilla \(TELUGU\)](https://open.spotify.com/track/1hmHzSfyVerXSYiY1Qq4Vx) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [O Pilla \(TELUGU\)](https://open.spotify.com/album/0lCTbSr2qTIXfRTHy2cWXp) | 3:21 | 2022-10-11 | 2023-05-23 |
-| [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/4vFm3dGHcpeuBAcn0mCNyi) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/2XDzMJ73yjD3ffYyWCGcbP) | 3:13 | 2022-07-18 |  |
+| [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/29uZ19VV4GQyS8mKdyavOf) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/4xy4FT93ivcqANeyvZxEuh) | 3:13 | 2022-07-18 |  |
+| [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/4vFm3dGHcpeuBAcn0mCNyi) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/2XDzMJ73yjD3ffYyWCGcbP) | 3:13 | 2022-07-18 | 2023-11-01 |
 | [Oh Cheli](https://open.spotify.com/track/7xQuTzWxHFncW6mBEvXegI) | [Praneeth Muzic](https://open.spotify.com/artist/4fJQkBLnzJM725l64C07Bh), [Kavya Chandana](https://open.spotify.com/artist/742OuEIIrGCAVqVD4SX2YE), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Oh Cheli](https://open.spotify.com/album/2of8a03mnIa3LQo9hptHoM) | 3:36 | 2023-05-16 | 2023-05-26 |
 | [Oh Chitti](https://open.spotify.com/track/4CHbfbxAvRSowI8Xy0zraI) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs) | [Oh Chitti](https://open.spotify.com/album/115UcJEPH2enKkLLLpgSny) | 3:13 | 2022-07-27 | 2023-05-23 |
 | [Ole Ole](https://open.spotify.com/track/44wZfxFJ6CbTavqxdbbHxz) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS) | [Ole Ole](https://open.spotify.com/album/3NeFI900xOcCuuYjxKr5xr) | 5:31 | 2023-10-13 |  |

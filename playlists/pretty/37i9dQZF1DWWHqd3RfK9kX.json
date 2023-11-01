@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 22592,
+  "num_followers": 22597,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTI3NzUzMDg2Zjg5NDk5ODMwYTYwZmRkMmFhODE0NzAyYzQwNTBi",
+  "snapshot_id": "MCxiNTlmZmExODNmYjQ0OGRiN2IxYThjNjU5OGM4ZTYxYjk4YzkyNDAz",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -135,22 +135,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Tribalistas",
-        "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "A Valentine For You",
         "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 127186,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Tribalistas",
+        "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -399,22 +399,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
         "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 187746,
       "name": "Tous les gar\u00e7ons et les filles - Slow",
       "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2020-11-10 18:47:22",

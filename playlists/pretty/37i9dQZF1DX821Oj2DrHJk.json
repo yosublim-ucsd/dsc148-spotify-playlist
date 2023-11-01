@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGFkZWEzYzU0M2FlNzRiYTc0NGYyMTgwMWYyYzNmNzY5ODg0NzY5",
+  "snapshot_id": "MCxmMTg5MzBmOWVhN2YxZjUzYWYxZmNkYmUyYWQ2YWQ0MDA5MjE3Zjdk",
   "tracks": [
     {
       "added_at": "2022-11-17 16:14:04",
@@ -139,18 +139,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 230480,
-      "name": "La Grange - 2005 Remaster",
-      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 220310,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+      "duration_ms": 230480,
+      "name": "La Grange - 2005 Remaster",
+      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 511400,
-      "name": "Won't Get Fooled Again - Original Album Version",
-      "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "McCartney (Archive Collection)",
         "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 229826,
       "name": "Maybe I\u2019m Amazed - 2011 Remaster",
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 511400,
+      "name": "Won't Get Fooled Again - Original Album Version",
+      "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of The Who",
-        "url": "https://open.spotify.com/album/1SCBhdgoRZDnGNyUafyNJC"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 264440,
-      "name": "Join Together",
-      "url": "https://open.spotify.com/track/6JNVCUi0TUeNFVLvyXFJfN"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Since We've Been Gone",
         "url": "https://open.spotify.com/album/4EdLgC4Q2QX7MDnkzv6X5o"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 209186,
       "name": "Substitute",
       "url": "https://open.spotify.com/track/6Emcew1wV588w2hh8SmLiw"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Who",
+        "url": "https://open.spotify.com/album/1SCBhdgoRZDnGNyUafyNJC"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 264440,
+      "name": "Join Together",
+      "url": "https://open.spotify.com/track/6JNVCUi0TUeNFVLvyXFJfN"
     },
     {
       "added_at": "2022-11-17 16:14:04",

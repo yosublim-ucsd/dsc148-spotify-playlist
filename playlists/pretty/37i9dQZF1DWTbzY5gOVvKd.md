@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,201,405 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,201,565 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 56 | [Long Ago And Far Away](https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Best Of..\. The Great American Songbook](https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg) | 3:12 |
 | 57 | [Autumn In New York \(feat\. Chris Potter, Bill Cunliffe & Vinnie Colaiuta\)](https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC) | [Andy James](https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [An Evening with/ Andy James & John Patitucci](https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl) | 4:23 |
 | 58 | [Language Of Love](https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language Of Love](https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL) | 4:16 |
-| 59 | [Moonlight Becomes You](https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Night Songs II](https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV) | 3:27 |
-| 60 | [For All We Know](https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 2:53 |
+| 59 | [For All We Know](https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 2:53 |
+| 60 | [Moonlight Becomes You](https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Night Songs II](https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV) | 3:27 |
 | 61 | [I Can't Give You Anything](https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [Me and My Radio](https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF) | 5:18 |
 | 62 | [The Man I Love](https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W) | [Søs Fenger](https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S) | [On Holiday](https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4) | 4:45 |
 | 63 | [Never Let Me Go](https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [First Conversation](https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [Keep Me From The Cold](https://open.spotify.com/track/0rBzGuDtwP8wIdqIXOKQFE) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [This Life](https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J) | 4:43 |
 | 100 | [These Things You Are To Me](https://open.spotify.com/track/22rek75QknVrI85tEIUF7a) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Jamison](https://open.spotify.com/album/6JQxB9qntPmPkJF3vD1fIz) | 4:23 |
 
-Snapshot ID: `MCwyMDE2NGI3M2Q2N2ViM2JkMmI5ZDZhNWVmY2I0ZmVkNTY0OGY5YjVh`
+Snapshot ID: `MCw1NDI3MjdiZDU4MzI3YTczNWM1NjM3OTMyNWI2MDM2ODdhNzc5ZjFi`

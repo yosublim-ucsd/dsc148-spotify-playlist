@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: ANNA, Capo Plaza, AVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,874 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,945 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 76 | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ) | [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz) | 3:16 |
 | 77 | [Boogieman \(feat\. Salmo\)](https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:39 |
 | 78 | [No wallet \(feat\. Marracash\)](https://open.spotify.com/track/7EPJ1OFdXVw0eA5gvZziEv) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:02 |
-| 79 | [SPLASH \(feat\. Enzo Dong\)](https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [HOURS](https://open.spotify.com/album/6wo9LoC6T6VWdsSR35SXlE) | 2:52 |
-| 80 | [No y No](https://open.spotify.com/track/2QyTXB4a7l7NBBceBhXt5e) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No y No](https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4) | 4:15 |
+| 79 | [No y No](https://open.spotify.com/track/2QyTXB4a7l7NBBceBhXt5e) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No y No](https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4) | 4:15 |
+| 80 | [SPLASH \(feat\. Enzo Dong\)](https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [HOURS](https://open.spotify.com/album/6wo9LoC6T6VWdsSR35SXlE) | 2:52 |
 
-Snapshot ID: `MCw0NjliN2Y5YTdlZTNiODlmNzVlYzVkNTViMmU0NDNlZjM5ZTBhNzE1`
+Snapshot ID: `MCw5MjVlMDNhOTMzNTIxN2ZhMThhMmMyYWRiZjNhZjRhMTVkNGU2NzM2`

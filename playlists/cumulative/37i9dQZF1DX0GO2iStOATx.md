@@ -4,7 +4,7 @@
 
 > Punjabi superstar’s biggest hits.
 
-104 songs - 5 hr 25 min
+105 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Poppin'](https://open.spotify.com/track/6jEpoHPMVryUcmLOJr5H2l) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:34 | 2023-10-03 | 2023-10-30 |
 | [Proper Patola](https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Namaste England \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB) | 2:58 | 2021-12-02 |  |
 | [Psychotic](https://open.spotify.com/track/45IjJhFxThn3MhC4NQsLpz) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 4:35 | 2023-10-03 | 2023-10-30 |
-| [Raat Di Gedi](https://open.spotify.com/track/52rRjGjdTwlDIKXjTLKAv9) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do Gabru \- Diljit Dosanjh & Akhil](https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ) | 3:18 | 2022-07-05 |  |
+| [Raat Di Gedi](https://open.spotify.com/track/52rRjGjdTwlDIKXjTLKAv9) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do Gabru \- Diljit Dosanjh & Akhil](https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ) | 3:18 | 2022-07-05 | 2023-11-01 |
 | [Raat Di Gedi](https://open.spotify.com/track/74vJYik6nWVR3YkkbGMZAH) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Lohri 2019](https://open.spotify.com/album/2eCg4FjFr0V8uYmGD8hCMk) | 3:18 | 2022-10-07 | 2022-11-13 |
 | [Raat Di Gedi](https://open.spotify.com/track/1v7nvuF8Or7nTX0hqNg2FA) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Raat Di Gedi](https://open.spotify.com/album/0o0DkE6Z8UbdRF67DafGAJ) | 3:18 | 2021-12-02 | 2022-07-29 |
 | [Radio](https://open.spotify.com/track/1mYjwd7fhieNlsrjiFyOr0) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 4:04 | 2021-12-02 | 2023-08-08 |
@@ -110,6 +110,7 @@
 | [Void](https://open.spotify.com/track/6jJ75TzzADszxOwKyJbyAl) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:32 | 2021-12-02 |  |
 | [Welcome to My Hood](https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Welcome to My Hood](https://open.spotify.com/album/1eIdNQUDw6dlSpMBoRXzIK) | 4:00 | 2021-12-02 |  |
 | [What Ve](https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [What Ve](https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi) | 3:08 | 2022-01-10 |  |
+| [Whatcha Doin'](https://open.spotify.com/track/4qQnXwD4XtiWq4PfjQoTbo) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Ghost](https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH) | 2:17 | 2023-10-09 |  |
 | [Whatcha Doin'](https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:17 | 2023-10-03 | 2023-10-30 |
 | [Whiskey](https://open.spotify.com/track/2EU4dEMDrPS1hwLSxk6PZ7) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:25 | 2021-12-02 |  |
 

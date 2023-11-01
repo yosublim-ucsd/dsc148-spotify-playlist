@@ -1,6 +1,6 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con Jacob Forever en portada.",
-  "num_followers": 3590,
+  "num_followers": 3647,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
@@ -134,6 +134,10 @@
         {
           "name": "Wow Popy",
           "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+        },
+        {
+          "name": "Ja Rulay",
+          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
         }
       ],
       "duration_ms": 212038,
@@ -183,22 +187,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "OTRA COSA",
-        "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Si No Vuelves",
-      "url": "https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Que Rico",
         "url": "https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx"
       },
@@ -215,6 +203,22 @@
       "duration_ms": 157777,
       "name": "Que Rico",
       "url": "https://open.spotify.com/track/0zokajVwRcYAeETU54uu0s"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "OTRA COSA",
+        "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Si No Vuelves",
+      "url": "https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -279,26 +283,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Muchacha",
-        "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "Muchacha",
-      "url": "https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
       },
@@ -315,26 +299,6 @@
       "duration_ms": 203273,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Invicto",
-        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 215453,
-      "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
-      "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -359,6 +323,26 @@
       "duration_ms": 198058,
       "name": "Pornosotros",
       "url": "https://open.spotify.com/track/7DTnxzUjeho8NYE0IsoDw1"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
+      "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -419,26 +403,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "H\u00e1blame de Miami",
-        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 158773,
-      "name": "H\u00e1blame de Miami",
-      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Abr\u00e1zame Muy Fuerte",
         "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
       },
@@ -451,6 +415,26 @@
       "duration_ms": 219333,
       "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
       "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Muchacha",
+        "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "Muchacha",
+      "url": "https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -519,30 +503,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Southwezzzt",
-        "url": "https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi"
-      },
-      "artists": [
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "El Yonki",
-          "url": "https://open.spotify.com/artist/5Dcy46qDr77Bkep7KHRJIR"
-        },
-        {
-          "name": "DJ Conds",
-          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Southwezzzt",
-      "url": "https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Agua Noche Remix",
         "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
       },
@@ -554,35 +514,15 @@
         {
           "name": "Fixty Ordara y Ja Rulay",
           "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+        },
+        {
+          "name": "Ja Rulay",
+          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
         }
       ],
       "duration_ms": 238269,
       "name": "Agua Noche Remix",
       "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Lagrimas de Champan",
-        "url": "https://open.spotify.com/album/0Todvs4mCXdaRprlytDK7E"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "El Carli",
-          "url": "https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Lagrimas de Champan",
-      "url": "https://open.spotify.com/track/467QxcDwgclgfAyiOoe0sU"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -594,6 +534,10 @@
         {
           "name": "Fixty Ordara y Ja Rulay",
           "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+        },
+        {
+          "name": "Ja Rulay",
+          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
         }
       ],
       "duration_ms": 214574,
@@ -627,26 +571,46 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Funimate",
-        "url": "https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9"
+        "name": "H\u00e1blame de Miami",
+        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
       },
       "artists": [
         {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         },
         {
-          "name": "Pokercito",
-          "url": "https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
         }
       ],
-      "duration_ms": 195918,
-      "name": "Funimate - Prod. by Ernesto Losa",
-      "url": "https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL"
+      "duration_ms": 158773,
+      "name": "H\u00e1blame de Miami",
+      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Southwezzzt",
+        "url": "https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "El Yonki",
+          "url": "https://open.spotify.com/artist/5Dcy46qDr77Bkep7KHRJIR"
+        },
+        {
+          "name": "DJ Conds",
+          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Southwezzzt",
+      "url": "https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -667,6 +631,30 @@
       "duration_ms": 182500,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Funimate",
+        "url": "https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "Pokercito",
+          "url": "https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "Funimate - Prod. by Ernesto Losa",
+      "url": "https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -743,6 +731,30 @@
       "duration_ms": 231250,
       "name": "Toxica",
       "url": "https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Lagrimas de Champan",
+        "url": "https://open.spotify.com/album/0Todvs4mCXdaRprlytDK7E"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "El Carli",
+          "url": "https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Lagrimas de Champan",
+      "url": "https://open.spotify.com/track/467QxcDwgclgfAyiOoe0sU"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1000,6 +1012,10 @@
           "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
         },
         {
+          "name": "Ja Rulay",
+          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
+        },
+        {
           "name": "Dj Cham",
           "url": "https://open.spotify.com/artist/6PopKfMnCk5W6hX8EsS0Eh"
         }
@@ -1031,6 +1047,38 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Tu & Yo (Remix)",
+        "url": "https://open.spotify.com/album/7aC9SavBc4WfPAbcVqiBbk"
+      },
+      "artists": [
+        {
+          "name": "El Kamel",
+          "url": "https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34"
+        },
+        {
+          "name": "Bryan Omega",
+          "url": "https://open.spotify.com/artist/6xWHyWz4dEAEcUieksnCqq"
+        },
+        {
+          "name": "Dekano Kano y Efowa Owa",
+          "url": "https://open.spotify.com/artist/3lyh1gSW0AbRFRTksN8H9W"
+        },
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "DJ Conds",
+          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
+        }
+      ],
+      "duration_ms": 177196,
+      "name": "Tu & Yo - Remix",
+      "url": "https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Descaradita",
         "url": "https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk"
       },
@@ -1055,26 +1103,6 @@
       "duration_ms": 258298,
       "name": "Descaradita",
       "url": "https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Dale Pa' Miami",
-        "url": "https://open.spotify.com/album/3pivUJGUg3vK0yqWFqsKer"
-      },
-      "artists": [
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        },
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        }
-      ],
-      "duration_ms": 194274,
-      "name": "Dale Pa' Miami",
-      "url": "https://open.spotify.com/track/6Z3g1JRk0PL2UWGtWW1PxI"
     }
   ],
   "unique_name": "Cubat\u00f3n Miami",

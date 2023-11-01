@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Cata Raybaud y Benjamin Walker",
-  "num_followers": 178446,
+  "num_followers": 178502,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "added_at": "2023-10-26 20:30:57",
+      "album": {
         "name": "El Bolero (ac\u00fastico)",
         "url": "https://open.spotify.com/album/5P85yo4uOZwMXQT46vubPe"
       },
@@ -251,22 +267,6 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2023-10-26 20:30:57",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
       },
@@ -283,22 +283,6 @@
       "duration_ms": 275440,
       "name": "Sue\u00f1os (with Julieta Venegas) - MTV Unplugged",
       "url": "https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV"
-    },
-    {
-      "added_at": "2023-10-26 20:30:57",
-      "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 294146,
-      "name": "Entre Canibales - MTV Unplugged",
-      "url": "https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf"
     },
     {
       "added_at": "2023-10-26 20:30:57",
@@ -331,6 +315,22 @@
       "duration_ms": 302613,
       "name": "Bossa & People",
       "url": "https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc"
+    },
+    {
+      "added_at": "2023-10-26 20:30:57",
+      "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 294146,
+      "name": "Entre Canibales - MTV Unplugged",
+      "url": "https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf"
     },
     {
       "added_at": "2023-10-26 20:30:57",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
-        "name": "El Ruise\u00f1or, el Amor y la Muerte",
-        "url": "https://open.spotify.com/album/18XJ0o0XkXC6K9OZTilVfN"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "El Callej\u00f3n de los Milagros",
-      "url": "https://open.spotify.com/track/0KAEdRme7EioqZPD2dQlj1"
-    },
-    {
-      "added_at": "2023-10-26 20:30:57",
-      "album": {
         "name": "Chica Acuario",
         "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 218800,
       "name": "Soltar",
       "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
+    },
+    {
+      "added_at": "2023-10-26 20:30:57",
+      "album": {
+        "name": "El Ruise\u00f1or, el Amor y la Muerte",
+        "url": "https://open.spotify.com/album/18XJ0o0XkXC6K9OZTilVfN"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "El Callej\u00f3n de los Milagros",
+      "url": "https://open.spotify.com/track/0KAEdRme7EioqZPD2dQlj1"
     },
     {
       "added_at": "2023-10-26 20:30:57",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/4fsolZF2A6KMYokByMvOQs"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 196044,
-      "name": "Nunca Quise",
-      "url": "https://open.spotify.com/track/6D9DeEzBK6sHfPyTd3p46l"
-    },
-    {
-      "added_at": "2023-10-26 20:30:57",
-      "album": {
         "name": "Sof\u00e1",
         "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
-        "name": "Guerras (Un Viaje en el Tiempo)",
-        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/4fsolZF2A6KMYokByMvOQs"
       },
       "artists": [
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 246858,
-      "name": "Tan Solo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW"
+      "duration_ms": 196044,
+      "name": "Nunca Quise",
+      "url": "https://open.spotify.com/track/6D9DeEzBK6sHfPyTd3p46l"
     },
     {
       "added_at": "2023-10-26 20:30:57",
@@ -927,6 +911,22 @@
       "duration_ms": 214986,
       "name": "Tu Nombre - En Vivo En El Gran Rex / 2015",
       "url": "https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38"
+    },
+    {
+      "added_at": "2023-10-26 20:30:57",
+      "album": {
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 246858,
+      "name": "Tan Solo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW"
     },
     {
       "added_at": "2023-10-26 20:30:57",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
-        "name": "Respirar Bajo el Agua",
-        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        }
-      ],
-      "duration_ms": 165032,
-      "name": "Laberinto",
-      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
-    },
-    {
-      "added_at": "2023-10-26 20:30:57",
-      "album": {
         "name": "Mensajes en el Mar",
         "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 277520,
       "name": "Un Pacto",
       "url": "https://open.spotify.com/track/3g8vgAx9nQWBWw2USi5xEA"
+    },
+    {
+      "added_at": "2023-10-26 20:30:57",
+      "album": {
+        "name": "Respirar Bajo el Agua",
+        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 165032,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
     },
     {
       "added_at": "2023-10-26 20:30:57",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+    },
+    {
+      "added_at": "2023-10-26 20:30:57",
+      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 208289,
       "name": "A Little Respect",
       "url": "https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV"
-    },
-    {
-      "added_at": "2023-10-26 20:30:57",
-      "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2023-10-26 20:30:57",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
-        "name": "Dije Que No Me Iba a Enamorar",
-        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
+        "name": "Desapego",
+        "url": "https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi"
       },
       "artists": [
         {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+          "name": "Purahei Soul",
+          "url": "https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p"
         }
       ],
-      "duration_ms": 152520,
-      "name": "Tan Bien",
-      "url": "https://open.spotify.com/track/6CpH8zZLNEXLP0hGEMdKnu"
+      "duration_ms": 218827,
+      "name": "Desapego",
+      "url": "https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN"
     },
     {
       "added_at": "2023-10-26 20:30:57",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
-        "name": "Desapego",
-        "url": "https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi"
+        "name": "Dije Que No Me Iba a Enamorar",
+        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
       },
       "artists": [
         {
-          "name": "Purahei Soul",
-          "url": "https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
         }
       ],
-      "duration_ms": 218827,
-      "name": "Desapego",
-      "url": "https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN"
+      "duration_ms": 152520,
+      "name": "Tan Bien",
+      "url": "https://open.spotify.com/track/6CpH8zZLNEXLP0hGEMdKnu"
     },
     {
       "added_at": "2023-10-26 20:30:57",

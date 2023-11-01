@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGRkODY1YTc2OGU2ZjZiODE4ZWQ2YmM1MjQwZGM4NjY2MWY5YjEy",
+  "snapshot_id": "MCxmZTA2NzM0Yjk2NzE4MmY5OTlkMzIwMzNkNzc1OGYxNGFlOWY0MWM0",
   "tracks": [
     {
       "added_at": "2023-10-26 20:59:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2023-10-26 20:59:00",
       "album": {
-        "name": "Voices & Vices",
-        "url": "https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp"
-      },
-      "artists": [
-        {
-          "name": "Xcript",
-          "url": "https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5"
-        },
-        {
-          "name": "Axon",
-          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
-        }
-      ],
-      "duration_ms": 170434,
-      "name": "Voices & Vices",
-      "url": "https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN"
-    },
-    {
-      "added_at": "2023-10-26 20:59:00",
-      "album": {
         "name": "Kika Buka",
         "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
       },
@@ -799,8 +779,8 @@
     {
       "added_at": "2023-10-26 20:59:00",
       "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
       },
       "artists": [
         {
@@ -808,13 +788,33 @@
           "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         },
         {
-          "name": "Lagum the Rapper",
-          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+          "name": "BRYAN THE MENSAH",
+          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
         }
       ],
-      "duration_ms": 137333,
-      "name": "Mama I Made It",
-      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
+      "duration_ms": 188444,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
+    },
+    {
+      "added_at": "2023-10-26 20:59:00",
+      "album": {
+        "name": "Voices & Vices",
+        "url": "https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp"
+      },
+      "artists": [
+        {
+          "name": "Xcript",
+          "url": "https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "duration_ms": 170434,
+      "name": "Voices & Vices",
+      "url": "https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN"
     },
     {
       "added_at": "2023-10-26 20:59:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-10-26 20:59:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS"
-      },
-      "artists": [
-        {
-          "name": "Jesse10s",
-          "url": "https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH"
-        }
-      ],
-      "duration_ms": 174905,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J"
-    },
-    {
-      "added_at": "2023-10-26 20:59:00",
-      "album": {
         "name": "Gukuba",
         "url": "https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 172965,
       "name": "Gukuba",
       "url": "https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx"
+    },
+    {
+      "added_at": "2023-10-26 20:59:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS"
+      },
+      "artists": [
+        {
+          "name": "Jesse10s",
+          "url": "https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH"
+        }
+      ],
+      "duration_ms": 174905,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J"
     },
     {
       "added_at": "2023-10-26 20:59:00",

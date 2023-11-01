@@ -4,7 +4,7 @@
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-182 songs - 12 hr 33 min
+183 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 | 2021-12-20 | 2023-08-16 |
 | [Take Me to Your Heaven](https://open.spotify.com/track/2QQDZl9xzGOM3z0JevtVgZ) | [Wilson Brothers](https://open.spotify.com/artist/2o9nlTHLJ2SExgv0OHARnW) | [Another Night](https://open.spotify.com/album/72je1WuK4ghlcioqrigQXl) | 3:40 | 2023-10-20 |  |
 | [Takin' It to the Streets](https://open.spotify.com/track/1WDgdCoNSN0fosaTaLGXKU) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Takin' It to the Streets](https://open.spotify.com/album/6yXfAEtkB6MUyhRkiGg5X2) | 3:51 | 2021-12-20 |  |
-| [That Girl Is Gone](https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Anywhere You Go](https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo) | 4:44 | 2022-11-23 |  |
+| [That Girl Is Gone](https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Anywhere You Go](https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo) | 4:44 | 2022-11-23 | 2023-11-01 |
+| [That Girl Is Gone](https://open.spotify.com/track/4TuwguyKN7gebQhpJll8aN) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [80's Soft Rock](https://open.spotify.com/album/2dUg1D8m0U0W7eRBxvSrbv) | 4:44 | 2022-11-23 |  |
 | [The Girl Is Mine \(with Paul McCartney\)](https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:42 | 2021-12-20 |  |
 | [The Way I Feel](https://open.spotify.com/track/0gZipIAthUggJMMJZAH5tv) | [Adrian Gurvitz](https://open.spotify.com/artist/1VKSw4zNYbYK2BXbOOXkcd) | [Sweet Vendetta](https://open.spotify.com/album/5X9a2PYg5a0K8pf7I6gt9b) | 5:17 | 2022-02-12 |  |
 | [This Is It](https://open.spotify.com/track/0YO8KsprTrEUEvJevpI7Na) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Keep The Fire](https://open.spotify.com/album/3Z9IvbRwLHwLXXBlPFKg3B) | 3:56 | 2021-12-20 |  |

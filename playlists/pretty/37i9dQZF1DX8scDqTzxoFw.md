@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8scDqTzxoFw.md) - [plain]
 
 > Watch the kids go wild for these party tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,168 likes - 110 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,155 likes - 110 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

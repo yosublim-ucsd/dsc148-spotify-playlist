@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Will Swinton
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,441 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,453 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 |
 | 2 | [WHAT JUST HAPPENED](https://open.spotify.com/track/2djNsYsA71cIs4A8YaF59J) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [WHAT JUST HAPPENED](https://open.spotify.com/album/5cFhETbBm8L6tybXY4AZSj) | 2:42 |
 | 3 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 |
-| 4 | [Better Days](https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc) | 2:47 |
+| 4 | [Better Days](https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE) | 2:47 |
 | 5 | [The Last One](https://open.spotify.com/track/6VKGPwLUO7nki5cDXT3gvQ) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 3:59 |
 | 6 | [Faithfully](https://open.spotify.com/track/2UIkqoTk5YyvRpEEUIeoVg) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Faithfully](https://open.spotify.com/album/0uSrvD5hS9m0j9Ldhlyg31) | 4:11 |
 | 7 | [Tell Her](https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Tell Her](https://open.spotify.com/album/5r8xf0HbtvpK61fsiZ4x7I) | 3:12 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 100 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
 | 101 | [Slice of Heaven \(feat\. Dave Dobbyn\)](https://open.spotify.com/track/6NzxMmxVHloqGM758vrOmn) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY), [Dave Dobbyn](https://open.spotify.com/artist/5bYfbDXaMVCxEt7hOAvEWc) | [Slice of Heaven \(feat\. Dave Dobbyn\)](https://open.spotify.com/album/7qfKavzeo74lEX0OZ6HZ0F) | 2:55 |
 
-Snapshot ID: `MCxmY2ZjNGRjMTA1YTlmMGVkMzgwZDU2OTFkYjkwNjJhMmEwYmRlNjEy`
+Snapshot ID: `MCw1MjgzMDI3ZWEyYWYxMmY2MDZjZTU4ZDdiZGZlYzQ3ZTNiYjEzNGRm`

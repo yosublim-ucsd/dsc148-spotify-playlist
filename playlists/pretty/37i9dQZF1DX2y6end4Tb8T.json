@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 56003,
+  "num_followers": 56052,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDFlNjQ2NjUzOTU2ZWYzOTA3NzBlN2JhNDI4Mjc3MGRjMGY0Zjcy",
+  "snapshot_id": "MCwyYmMwYjJmMjRjMDRkNzk0NmNjMThkNjRhMzZkNzIyYWMxYzdlM2Q2",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -563,6 +563,34 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "B4 The Storm",
+        "url": "https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Lemonade (feat. NAV)",
+      "url": "https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
@@ -607,34 +635,6 @@
       "duration_ms": 296011,
       "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "B4 The Storm",
-        "url": "https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Lemonade (feat. NAV)",
-      "url": "https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 283285,
+      "name": "Excitement",
+      "url": "https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "High Off Life",
         "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
       },
@@ -1091,26 +1111,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 283285,
-      "name": "Excitement",
-      "url": "https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/1zg6QT0eGqLBlhAT2FPoFj"
       },
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "BURBERRY",
-        "url": "https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 281218,
-      "name": "BURBERRY",
-      "url": "https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Top",
         "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 192000,
       "name": "My Window (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/7IECs9d4Rrlpa7tiHOCE1w"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "BURBERRY",
+        "url": "https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 281218,
+      "name": "BURBERRY",
+      "url": "https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "TattleTales",
+        "url": "https://open.spotify.com/album/6f9LKRKpSTI5m2O0yBlWQS"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "TROLLZ",
+      "url": "https://open.spotify.com/track/3xIzkKqp7oe37NEVrcPjGS"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Quedate Sola",
         "url": "https://open.spotify.com/album/5ovRJUVUBRZmOcyzUbJFNl"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 270608,
       "name": "Quedate Sola",
       "url": "https://open.spotify.com/track/0UT1rpFwDw5GLM7jDVs9pN"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "TattleTales",
-        "url": "https://open.spotify.com/album/6f9LKRKpSTI5m2O0yBlWQS"
-      },
-      "artists": [
-        {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "TROLLZ",
-      "url": "https://open.spotify.com/track/3xIzkKqp7oe37NEVrcPjGS"
     },
     {
       "added_at": "2023-09-01 14:43:51",

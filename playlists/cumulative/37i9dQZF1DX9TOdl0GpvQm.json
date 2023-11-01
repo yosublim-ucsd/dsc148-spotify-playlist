@@ -2970,7 +2970,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 80746,
       "name": "Sighting in Corridor 12",
       "url": "https://open.spotify.com/track/4Bl2Z2vukTroAm242DDtov"
@@ -3032,6 +3032,24 @@
       "duration_ms": 106212,
       "name": "Song For Francoise",
       "url": "https://open.spotify.com/track/59Bgzhll0tIQECwB1A4phI"
+    },
+    {
+      "album": {
+        "name": "Le Rose De Fer / Intiaani Kesa\u00a8",
+        "url": "https://open.spotify.com/album/72T9jAmp8fduL1V7dQk4nz"
+      },
+      "artists": [
+        {
+          "name": "Pierre Raph",
+          "url": "https://open.spotify.com/artist/5mvn4QDfC0rOICm4VKY3o7"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106212,
+      "name": "Song for Francoise",
+      "url": "https://open.spotify.com/track/6A1gadsV2bJ7JWRLcUXfGQ"
     },
     {
       "album": {

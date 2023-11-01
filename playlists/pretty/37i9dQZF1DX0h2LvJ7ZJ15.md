@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081,788 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082,673 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 42 | [Meh \(Banakula\) \- Slowed](https://open.spotify.com/track/0aswWa6WvtPPCNSDTneSay) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [Hal Walker](https://open.spotify.com/artist/6GD3EDNcRB99xxR6g7Fnrw) | [Banakula @ Meh \(Original\)](https://open.spotify.com/album/6ZnmsjIq9ZSe9MXwaZ6QQs) | 1:46 |
 | 43 | [Only Love Can Hurt Like This \- Slowed Down Version](https://open.spotify.com/track/48CKzGWOC65n8a8kdANJV8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Only Love Can Hurt Like This \(Slowed Down Version\)](https://open.spotify.com/album/1xtXcIxBOXAGZYCUIs6EUG) | 4:17 |
 | 44 | [green to blue \- slowed + reverbed](https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [green to blue \(slowed + reverbed\)](https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s) | 3:07 |
-| 45 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |
+| 45 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [DJ Purpberry](https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |
 | 46 | [Hands up! \- Slowed](https://open.spotify.com/track/5QysgWndNifZvQ6RSjZVcZ) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Hands up! \(Slowed\)](https://open.spotify.com/album/4MRoilt5EIy78XbiemIdfZ) | 2:38 |
 | 47 | [New Home \(Slowed\)](https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home \(Slowed\)](https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq) | 2:54 |
 | 48 | [Limbo \- ChopNotSlop Remix](https://open.spotify.com/track/5r0X4MhcC7KjN2NQeonWlC) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Freddie's Inferno \- The Slow Descent](https://open.spotify.com/album/69LXu03hHWw4zOaZwi7Zv2) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 99 | [Possibility \- Slowed Down](https://open.spotify.com/track/03JlIW3RyZdEJBJgfJBWiF) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Possibility](https://open.spotify.com/album/38pk7xhWyZNvTODl9fdSVP) | 6:23 |
 | 100 | [Everything's Good \- slowed + reverb](https://open.spotify.com/track/7AlaXfx2sqPDyv5iTnVJVf) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Everything's \(Not\) Good](https://open.spotify.com/album/5JcqFw1JKinpCu1IOeEnCz) | 3:47 |
 
-Snapshot ID: `MCxkMDNkOTc3YjgyZjA1NzQ2YjI4YTVmOTBkYjUwMWRjMDk0YWU1ZTll`
+Snapshot ID: `MCw0ZjZiZWEyNTY4ZTQ0ZjRjZmM4YzMzZGYzZWRmZmZmMGI0YzI4ZWU3`

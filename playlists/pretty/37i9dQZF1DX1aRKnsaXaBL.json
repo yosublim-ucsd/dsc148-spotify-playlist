@@ -1,12 +1,12 @@
 {
   "description": "Chasing sunsets con buena m\u00fasica de fondo.",
-  "num_followers": 4762,
+  "num_followers": 4780,
   "original_name": "canciones para ver atardeceres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTVmMTFhZGE4MzQ5MDZhZmRiMzU5YWYzNzFkZDU5ZjlkMWVjNDE5",
+  "snapshot_id": "MCw2ZTUzYWRkZTAzM2E0NmM1MGVlMGIzOWIzMjRiYzAyMWYwM2NiZmE3",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -507,6 +507,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "C\u00e1mara Lenta",
+        "url": "https://open.spotify.com/album/02Dl37emVo6TB4mO7UOU2Z"
+      },
+      "artists": [
+        {
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 204897,
+      "name": "C\u00e1mara Lenta",
+      "url": "https://open.spotify.com/track/4brctVrw130rY1DS3j0mZC"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Holidays - Chromocosmic Avenue",
         "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 222666,
       "name": "Laguna",
       "url": "https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "C\u00e1mara Lenta",
-        "url": "https://open.spotify.com/album/02Dl37emVo6TB4mO7UOU2Z"
-      },
-      "artists": [
-        {
-          "name": "Depresi\u00f3n Sonora",
-          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 204897,
-      "name": "C\u00e1mara Lenta",
-      "url": "https://open.spotify.com/track/4brctVrw130rY1DS3j0mZC"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Tu Forma",
-        "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Tu Forma",
-      "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Corolla 94",
         "url": "https://open.spotify.com/album/0ntx5OUeKXWlmEiXHh7jXN"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 201176,
       "name": "Corolla 94",
       "url": "https://open.spotify.com/track/2n9rhvlYHPaMEFOmw5Y1QX"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Tu Forma",
+        "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Tu Forma",
+      "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "El Rayo Vallecano",
+        "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 170864,
+      "name": "El Rayo Vallecano",
+      "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Quemarropa",
         "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 180891,
       "name": "Porque",
       "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Last Spa on Earth",
-        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
-      },
-      "artists": [
-        {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
-        }
-      ],
-      "duration_ms": 214496,
-      "name": "Nos Soltamos",
-      "url": "https://open.spotify.com/track/5wiHLVINwcLi2x0G6IoIYL"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "El Rayo Vallecano",
-        "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
+        "name": "Last Spa on Earth",
+        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
       },
       "artists": [
         {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
         }
       ],
-      "duration_ms": 170864,
-      "name": "El Rayo Vallecano",
-      "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
+      "duration_ms": 214496,
+      "name": "Nos Soltamos",
+      "url": "https://open.spotify.com/track/5wiHLVINwcLi2x0G6IoIYL"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "El Sol De Las 3",
-        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
+        "name": "jard\u00edn de flores",
+        "url": "https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2"
       },
       "artists": [
         {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 152869,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/3Jege5i2BBYLvsTPiHANja"
+      "duration_ms": 199523,
+      "name": "jard\u00edn de flores",
+      "url": "https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "jard\u00edn de flores",
-        "url": "https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2"
+        "name": "El Sol De Las 3",
+        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
       },
       "artists": [
         {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
         }
       ],
-      "duration_ms": 199523,
-      "name": "jard\u00edn de flores",
-      "url": "https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv"
+      "duration_ms": 152869,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/3Jege5i2BBYLvsTPiHANja"
     }
   ],
   "unique_name": "canciones para ver atardeceres",

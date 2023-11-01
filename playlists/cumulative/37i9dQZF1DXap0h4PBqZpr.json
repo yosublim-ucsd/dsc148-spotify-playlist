@@ -538,7 +538,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 180713,
       "name": "Sandwiches de Miga",
       "url": "https://open.spotify.com/track/004G9E3EZhxxn5aE9yEQqx"
@@ -560,6 +560,24 @@
       "duration_ms": 180713,
       "name": "Sandwiches de Miga",
       "url": "https://open.spotify.com/track/3aPQy0EeOdeR3DGXsF2qoz"
+    },
+    {
+      "album": {
+        "name": "Pappo's Blues, Vol. 3",
+        "url": "https://open.spotify.com/album/1F3hULFzB7JebCft7dcdBq"
+      },
+      "artists": [
+        {
+          "name": "Pappo's Blues",
+          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
+        }
+      ],
+      "date_added": "2020-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182840,
+      "name": "Sandwiches de Miga",
+      "url": "https://open.spotify.com/track/2WTuqSbFdFQ4Ft5Q17pMhf"
     },
     {
       "album": {

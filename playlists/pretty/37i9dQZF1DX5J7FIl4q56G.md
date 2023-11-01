@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Year of the Knife
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,613 likes - 67 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,706 likes - 67 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 66 | [Blossom](https://open.spotify.com/track/55QKgQKHffpFemjyt0B9iV) | [Liquid State](https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p) | [Blossom](https://open.spotify.com/album/5gnwimgoo4S9wBkS3FK1F1) | 4:04 |
 | 67 | [Journey to Rebuild](https://open.spotify.com/track/5VA86G33omzLrsSmhaPblh) | [Lies We Sold](https://open.spotify.com/artist/1ZaXyPktPr1gpp3m3c7330) | [Adrift in the mist](https://open.spotify.com/album/61a5ULRYsyHuU3DBRcENhK) | 5:10 |
 
-Snapshot ID: `MCxhYzQ1MDgwZDkyZjg2YmViZTI1NDg5OTc2ZDg2YjE1OWEzOWZlNmMx`
+Snapshot ID: `MCw5NWVlYjMwYmY1OGUxNDJlNGMwY2QzODMyZGFlZDI3NWE4YWI5OTVm`

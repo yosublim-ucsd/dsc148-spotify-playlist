@@ -1,12 +1,12 @@
 {
   "description": "cute moments in fields and on dancefloors #SpotifyWrapped",
-  "num_followers": 55234,
+  "num_followers": 55295,
   "original_name": "dance tracks we hugged our friends to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmNkYzk5ZGQ2NDNlY2Y0ZDFhOGRhNjU2YTg3MGU3MzY0Mjc0ZTEz",
+  "snapshot_id": "MCwxZWViMjlkOWMzNGUwNGFmNGZkMGZlMDFhODVkMWM5Mjc3NzM5MjY2",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Arms",
-        "url": "https://open.spotify.com/album/3tIcgx98A4fcBEwvIoH7EQ"
-      },
-      "artists": [
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        }
-      ],
-      "duration_ms": 244672,
-      "name": "Arms",
-      "url": "https://open.spotify.com/track/4NSe5EhRScbUpixWwojp7o"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "To Feel Again / Trois",
         "url": "https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 293489,
       "name": "To Feel Again / Trois",
       "url": "https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Arms",
+        "url": "https://open.spotify.com/album/3tIcgx98A4fcBEwvIoH7EQ"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 244672,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/4NSe5EhRScbUpixWwojp7o"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "My Heart Still Leans On You",
-        "url": "https://open.spotify.com/album/3QLP5YPGen6T7pnYpb8Gt8"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        },
-        {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
-        }
-      ],
-      "duration_ms": 287187,
-      "name": "My Heart Still Leans On You",
-      "url": "https://open.spotify.com/track/7hTcipfBVimzXdYd9ynEbA"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "My Heart Still Leans On You",
+        "url": "https://open.spotify.com/album/3QLP5YPGen6T7pnYpb8Gt8"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        },
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        }
+      ],
+      "duration_ms": 287187,
+      "name": "My Heart Still Leans On You",
+      "url": "https://open.spotify.com/track/7hTcipfBVimzXdYd9ynEbA"
     },
     {
       "added_at": "2022-11-30 13:46:00",

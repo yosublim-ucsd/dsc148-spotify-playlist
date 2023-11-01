@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 79716,
+  "num_followers": 79816,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDBiNWJmZmU3YTg2ZTU0ZTM0NTY5M2MwOGQ2YjI3YTE4ZTMyMDBk",
+  "snapshot_id": "MCxhZDcxNTRlNDJlODNmYzMxZTE5YTc5MTU3ODkxNGIwYmI4ZTNkOTQw",
   "tracks": [
     {
       "added_at": "2023-09-01 07:42:13",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Desmond Blue",
-        "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 279146,
-      "name": "I've Got You Under My Skin - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Boss Tenor",
         "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 254026,
       "name": "My Romance - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Desmond Blue",
+        "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 279146,
+      "name": "I've Got You Under My Skin - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Jackie's Bag",
-        "url": "https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P"
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
       },
       "artists": [
         {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 545346,
-      "name": "Blues Inn - Remastered",
-      "url": "https://open.spotify.com/track/7Kwi4xmgY4qQwOhBe0zsbh"
+      "duration_ms": 310520,
+      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+        "name": "Jackie's Bag",
+        "url": "https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 310520,
-      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
+      "duration_ms": 545346,
+      "name": "Blues Inn - Remastered",
+      "url": "https://open.spotify.com/track/7Kwi4xmgY4qQwOhBe0zsbh"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Presenting The Gerry Mulligan Sextet",
-        "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 323373,
-      "name": "Everything Happens To Me",
-      "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Go! (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 393746,
       "name": "Cheese Cake - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Presenting The Gerry Mulligan Sextet",
+        "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 323373,
+      "name": "Everything Happens To Me",
+      "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "One Flight Up (Remastered 2015)",
+        "url": "https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 451407,
+      "name": "Darn That Dream - Remastered 2015",
+      "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Cliff Craft",
         "url": "https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 216693,
       "name": "You'd Be So Nice To Come Home To",
       "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "One Flight Up (Remastered 2015)",
-        "url": "https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 451407,
-      "name": "Darn That Dream - Remastered 2015",
-      "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 340173,
+      "name": "You've Come Home",
+      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "The Blues And The Abstract Truth",
         "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 544826,
       "name": "Peace",
       "url": "https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 340173,
-      "name": "You've Come Home",
-      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Tales From The Hudson",
-        "url": "https://open.spotify.com/album/0ETqvY4pIhY46IXMTUpXMc"
-      },
-      "artists": [
-        {
-          "name": "Michael Brecker",
-          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
-        }
-      ],
-      "duration_ms": 344240,
-      "name": "Song For Bilbao",
-      "url": "https://open.spotify.com/track/0WMG5EgKUdK73cLMEPoRMX"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "The Complete Savoy & Dial Master Takes",
         "url": "https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 181600,
       "name": "Ornithology",
       "url": "https://open.spotify.com/track/7s1fLxwhmKa6VDNqzJzOsE"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Tales From The Hudson",
+        "url": "https://open.spotify.com/album/0ETqvY4pIhY46IXMTUpXMc"
+      },
+      "artists": [
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "duration_ms": 344240,
+      "name": "Song For Bilbao",
+      "url": "https://open.spotify.com/track/0WMG5EgKUdK73cLMEPoRMX"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Page One",
-        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 548960,
-      "name": "La Mesha",
-      "url": "https://open.spotify.com/track/44g1MkUneM54KqxLyfWSr9"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Very Cool",
         "url": "https://open.spotify.com/album/4Znupug2SmOqzImnUJ9aS6"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 443613,
       "name": "Crazy She Calls Me",
       "url": "https://open.spotify.com/track/44Iy3NmrG5kLWfCeieKIiD"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Page One",
+        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 548960,
+      "name": "La Mesha",
+      "url": "https://open.spotify.com/track/44g1MkUneM54KqxLyfWSr9"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "JuJu",
-        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "We Free Kings",
         "url": "https://open.spotify.com/album/4ayNl8wrfXJXABMk0L4eRW"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 280573,
       "name": "A Sack Full Of Soul",
       "url": "https://open.spotify.com/track/0J35LZeovLDsokAl3oiu35"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "JuJu",
+        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Pepper Steak",
-      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Just You, Just Me",
         "url": "https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 208400,
       "name": "On the Sunny Side of the Street - 2003 Remastered Version",
       "url": "https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Pepper Steak",
+      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Cliff Craft",
-        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
-      },
-      "artists": [
-        {
-          "name": "Clifford Jordan",
-          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
-        }
-      ],
-      "duration_ms": 511093,
-      "name": "Soul-Lo Blues - Remastered 1997",
-      "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Swingin' Till The Girls Come Home",
         "url": "https://open.spotify.com/album/4yl06rWUAfJwtgC4O3ZfSw"
       },
@@ -1831,6 +1815,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Cliff Craft",
+        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
+      },
+      "artists": [
+        {
+          "name": "Clifford Jordan",
+          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
+        }
+      ],
+      "duration_ms": 511093,
+      "name": "Soul-Lo Blues - Remastered 1997",
+      "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "On Impulse!",
         "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
       },
@@ -1843,6 +1843,22 @@
       "duration_ms": 417333,
       "name": "Three Little Words",
       "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Lester Young Trio",
+        "url": "https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "I've Found A New Baby",
+      "url": "https://open.spotify.com/track/08oxRRmEvG88Mpy4V2LDpD"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1875,22 +1891,6 @@
       "duration_ms": 582133,
       "name": "The Song Is You",
       "url": "https://open.spotify.com/track/2BDZCdN2zLYjfbZ3WdqZBC"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Lester Young Trio",
-        "url": "https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "I've Found A New Baby",
-      "url": "https://open.spotify.com/track/08oxRRmEvG88Mpy4V2LDpD"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Analog Man",
+        "url": "https://open.spotify.com/album/1CO7OMJS4alGJG1gKOnKlP"
+      },
+      "artists": [
+        {
+          "name": "Ernie Watts",
+          "url": "https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH"
+        }
+      ],
+      "duration_ms": 605013,
+      "name": "Joshua",
+      "url": "https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Twio",
         "url": "https://open.spotify.com/album/2ekSSgd5FCCjgkMwT3qVXb"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 367773,
       "name": "On the Trail",
       "url": "https://open.spotify.com/track/5MKKKVSZZalOWxwTfIDxkO"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Analog Man",
-        "url": "https://open.spotify.com/album/1CO7OMJS4alGJG1gKOnKlP"
-      },
-      "artists": [
-        {
-          "name": "Ernie Watts",
-          "url": "https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH"
-        }
-      ],
-      "duration_ms": 605013,
-      "name": "Joshua",
-      "url": "https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 368053,
-      "name": "Eco - Remastered",
-      "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Tetragon",
         "url": "https://open.spotify.com/album/06cAiKXhst8u5voEhCRJNA"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 336333,
       "name": "R.J.",
       "url": "https://open.spotify.com/track/3FItXB8TBtUCyY9hS9UtdX"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 368053,
+      "name": "Eco - Remastered",
+      "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "The Sirens",
-        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 504266,
-      "name": "Kalypso",
-      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Pushing the World Away",
         "url": "https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 497906,
       "name": "Vertigo - Remastered",
       "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "The Sirens",
+        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 504266,
+      "name": "Kalypso",
+      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2427,30 +2427,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Triptykon",
-        "url": "https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb"
-      },
-      "artists": [
-        {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
-        },
-        {
-          "name": "Arild Andersen",
-          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
-        },
-        {
-          "name": "Edward Vesala",
-          "url": "https://open.spotify.com/artist/1L8P0focMerZcfKibETMRr"
-        }
-      ],
-      "duration_ms": 447600,
-      "name": "J.E.V.",
-      "url": "https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Where Are You?",
         "url": "https://open.spotify.com/album/5UIu8Ra41XV49VoscOnMjT"
       },
@@ -2475,18 +2451,26 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Moving In",
-        "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
+        "name": "Triptykon",
+        "url": "https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb"
       },
       "artists": [
         {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+        },
+        {
+          "name": "Edward Vesala",
+          "url": "https://open.spotify.com/artist/1L8P0focMerZcfKibETMRr"
         }
       ],
-      "duration_ms": 463640,
-      "name": "The Forest",
-      "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
+      "duration_ms": 447600,
+      "name": "J.E.V.",
+      "url": "https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2503,6 +2487,22 @@
       "duration_ms": 329200,
       "name": "New Days",
       "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Moving In",
+        "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 463640,
+      "name": "The Forest",
+      "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
     },
     {
       "added_at": "2023-09-01 07:42:13",

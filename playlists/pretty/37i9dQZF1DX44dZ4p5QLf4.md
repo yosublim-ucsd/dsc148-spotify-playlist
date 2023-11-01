@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: vAn
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,489 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,517 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [3AM](https://open.spotify.com/track/6TAnJ7ubFuZ7nYgzYst2Wp) | [Julia Marcks](https://open.spotify.com/artist/35HvO2FkpLWHDbbCXpgohf) | [3AM](https://open.spotify.com/album/7sH5hP8sAND4vzvvdhXp58) | 3:24 |
 | 80 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 |
 
-Snapshot ID: `MCw2ZjIyOGQzMWY4NTRmNGNmY2VkNzdjNjJjMjI3NTQ0ZDRmYTI4MzMw`
+Snapshot ID: `MCw5MDNkMTE2MjIwNzlkOGUxZWNlNWExZGQ2NWVmOTViMjNmMzI2OGQx`

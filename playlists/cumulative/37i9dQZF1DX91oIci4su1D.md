@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-768 songs - 1 day 22 hr 39 min
+769 songs - 1 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Atlantis](https://open.spotify.com/track/2Q6crgCiZsT5cSbCOn5snz) | [Dustin Husain](https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl) | [Atlantis](https://open.spotify.com/album/2Jc6QLBZHVicHidjCASyBf) | 3:28 | 2022-03-04 | 2022-07-07 |
 | [Atom \- 138 Mix](https://open.spotify.com/track/3d2580DKGk2tH3XrTFiRZf) | [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Atom \(138 Mix\)](https://open.spotify.com/album/5dFn5Dz7VfyViSJWujZaUC) | 3:26 | 2022-10-14 |  |
 | [Au79](https://open.spotify.com/track/6ZCDcrD8fetYcBmQOrhLfI) | [Koyah](https://open.spotify.com/artist/3ruRvp4imiIkW1LP666jnd), [Leonard A](https://open.spotify.com/artist/5B96LwVo1fnVehzyyxCzYC) | [Au79](https://open.spotify.com/album/55MZcCAnI1bSM9lE4DWV1v) | 3:41 | 2021-12-17 | 2022-07-13 |
+| [Away From You](https://open.spotify.com/track/4DRmet0zFQ4dzQzHRqYbZI) | [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [Kay Wilder](https://open.spotify.com/artist/0ySNFsBXHoZE2NqwM0FCtV) | [Away From You](https://open.spotify.com/album/6Aboyci4QbukIyV93AdcKo) | 3:54 | 2023-10-27 |  |
 | [Ayuma](https://open.spotify.com/track/3EcGHkTPyInwjBg6svuzRo) | [Ronski Speed](https://open.spotify.com/artist/3cOY6XMFQ12Q0D6Xif7BZh) | [Ayuma](https://open.spotify.com/album/2rezrkEnh6JNfYNyvGdVzy) | 3:48 | 2022-04-08 | 2022-07-09 |
 | [Babylon](https://open.spotify.com/track/71Pmye31kkN12PiUug7xcP) | [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Babylon](https://open.spotify.com/album/6jG20c1eFYq7vwFaBmzFhv) | 3:37 | 2023-09-22 |  |
 | [Back To My Love](https://open.spotify.com/track/0onLNYV4aYuSQb8wPxR0O0) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Back To My Love](https://open.spotify.com/album/15DIdaAn3pfC5uETbGsUSF) | 6:41 | 2022-04-29 | 2023-03-04 |
@@ -383,7 +384,7 @@
 | [Lifeline](https://open.spotify.com/track/4tvDQfaM3ZJMrQbLA13RNm) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Lifeline](https://open.spotify.com/album/3TgepwNI0HXrFMPfQom2B7) | 3:38 | 2022-09-23 | 2023-05-20 |
 | [Lifeline \- Fisherman Remix](https://open.spotify.com/track/1GuVsKyXDotOBc7k1ZsQHZ) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Fisherman](https://open.spotify.com/artist/0vykncECxuxH5RqOMt6IIg) | [Lifeline \(Fisherman Remix\)](https://open.spotify.com/album/3RcHIST3XzCyqc5wOTxmPZ) | 3:34 | 2023-05-19 |  |
 | [Light & Shade](https://open.spotify.com/track/1YBg8ylGKiTrq4Sniw6UdB) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [re:boot](https://open.spotify.com/artist/1HBB7Pn85JrPzx4PwRWIWH), [Adrian Alexander](https://open.spotify.com/artist/5msCUDk1PeADCytZ4lw5D6), [Nikhil Prakash](https://open.spotify.com/artist/3StDV7dbuu968KpgOAnsnT) | [Fatum's Anjunabeats Worldwide 10 Collaborations EP](https://open.spotify.com/album/32hWfoag5Fg80aC1oa6398) | 2:58 | 2022-07-29 | 2023-05-20 |
-| [Light Up The Sky](https://open.spotify.com/track/2kD2avc7DcABRwAMFgakCy) | [Spencer Newell](https://open.spotify.com/artist/5TuPKF4PK5PDgGuR9PlGfv), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Light Up the Sky](https://open.spotify.com/album/08dpmlrmw3XRon9u81knVM) | 2:31 | 2023-06-09 |  |
+| [Light Up The Sky](https://open.spotify.com/track/2kD2avc7DcABRwAMFgakCy) | [Spencer Newell](https://open.spotify.com/artist/5TuPKF4PK5PDgGuR9PlGfv), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Light Up the Sky](https://open.spotify.com/album/08dpmlrmw3XRon9u81knVM) | 2:31 | 2023-06-09 | 2023-11-01 |
 | [Lightning](https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Lightning](https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz) | 3:54 | 2022-06-03 | 2023-06-10 |
 | [Lights](https://open.spotify.com/track/0xfU9beVFKw5wi9sIQS73P) | [AK](https://open.spotify.com/artist/3h8Rryl61DV4vQhAn1cLVH), [Audrey Gallagher](https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ) | [Lights](https://open.spotify.com/album/1ZZmYRy7EjfYgFeltGVjYk) | 3:23 | 2022-03-11 | 2022-07-25 |
 | [Lights](https://open.spotify.com/track/60nHIZtCpSQyJbhQuEsaIi) | [Mike Zaloxx](https://open.spotify.com/artist/3ouOviMDzZMb55MJp08Tu4), [Rinaly](https://open.spotify.com/artist/17fstkJkaEYiI1tBX1N7RD) | [Lights](https://open.spotify.com/album/6XakwOBOnXBrHYmH158jEo) | 3:57 | 2022-03-18 | 2022-07-14 |

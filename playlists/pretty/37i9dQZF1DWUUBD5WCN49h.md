@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys?si=\_SkkIr7mTK\-80NWvju\_itw"> Spyro </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,658 likes - 78 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,669 likes - 78 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 77 | [Hypnotic](https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4) | [Lifesize Teddy](https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:07 |
 | 78 | [Love Dimension](https://open.spotify.com/track/4UCwWL7cXSnRzQQzqnPZVN) | [MOONLIGHT AFRIQA](https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF) | [Love Dimension](https://open.spotify.com/album/5WwKRfcpYRBA8MSuLHoetx) | 2:25 |
 
-Snapshot ID: `MCw5NmUwOGMzMWU1ZTEwMWJjNzhkMDI0NWVjOGY1NTdjMjU5YWM0Yjc1`
+Snapshot ID: `MCw2YzcwNGI0NjJhYjFkYjNiNDk4YWJhNTEwNDQ4MDRmOTY5MTcxZjk5`

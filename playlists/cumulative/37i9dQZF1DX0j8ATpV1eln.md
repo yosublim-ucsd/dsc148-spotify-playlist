@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-146 songs - 9 hr 35 min
+147 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda](https://open.spotify.com/track/7xTgtfIJ54hKynnZPPPQzq) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:43 | 2022-07-26 |  |
 | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda](https://open.spotify.com/track/7jNQBs0eqcRBnJYBi3uXA1) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda / Eiyu no Uta](https://open.spotify.com/album/2NH1SQE6jRoYQqS71bnGM2) | 3:44 | 2022-08-16 | 2022-11-13 |
 | [Shinda!](https://open.spotify.com/track/2wLuWWfrOHnPjbC3CUuuZ9) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Shinda!](https://open.spotify.com/album/2VQMSyKrXpA0m6PECjU8sm) | 3:40 | 2023-04-06 |  |
+| [Suki ni Naccha Dame na Hito](https://open.spotify.com/track/4qnO8leJ0xIAvEkEnYB4nu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Suki ni Naccha Dame na Hito](https://open.spotify.com/album/2VnYRRWGs3kat0GeFjwzwl) | 3:37 | 2023-10-31 |  |
 | [Tears of a Genius](https://open.spotify.com/track/0V8zCJZH63TLW6uPTPl2eN) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Be The Best! Be The Blue!/Tears of a Genius](https://open.spotify.com/album/6caPYuL5B1w6SV05gcBZo1) | 4:44 | 2022-04-26 |  |
 | [The Show Must Go On!](https://open.spotify.com/track/3pxhvNnbNC1RRjooKaJIkj) | [Mankai Stage "A3!" ～ Autumn & Winter 2019 ～ All Cast](https://open.spotify.com/artist/0PrtmhjXzixHsZ8WqDWd6L) | ["Mankai Stage "A3!" \~ Autumn & Winter 2019 \~" Music Collection](https://open.spotify.com/album/5PQTVNw0GPJAL9dIY1UyTP) | 4:35 | 2022-07-26 |  |
 | [The Show Must Go On!](https://open.spotify.com/track/2TqPbikfiJUB6BcaIlnnVJ) | [MANKAI STAGE『A3!』\~AUTUMN & WINTER 2019\~オールキャスト](https://open.spotify.com/artist/6GjVqZPNAGuZN13WoTyOcF) | [「MANKAI STAGE『A3!』\~AUTUMN & WINTER 2019\~」MUSIC Collection](https://open.spotify.com/album/7m9rX4FJTMpj8QGaVg8ayP) | 4:35 | 2022-04-26 | 2022-07-29 |

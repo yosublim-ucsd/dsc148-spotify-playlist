@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-714 songs - 1 day 17 hr 47 min
+716 songs - 1 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,7 +537,8 @@
 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 | 2021-03-27\* | 2021-08-18 |
 | [ฉบับปรับปรุง](https://open.spotify.com/track/2MnVrkbwL6ViB7q4NI7oVK) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi), [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q), [Lazyloxy](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [MAS\[S\]TERPIECE](https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2) | 4:04 | 2022-01-15 | 2023-01-14 |
 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 | 2022-07-29 | 2022-09-23 |
-| [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC) | 4:48 | 2023-02-11 |  |
+| [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/track/2iFl47C6PcxFEBntbBAfeI) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [เรนิษรา Radio](https://open.spotify.com/album/3epd1gHGZvz2NBeF0lyyyP) | 4:48 | 2023-10-31 |  |
+| [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC) | 4:48 | 2023-02-11 | 2023-11-01 |
 | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 | 2022-07-22 | 2023-04-13 |
 | [ชอบอยู่คนเดียว](https://open.spotify.com/track/3LzQ0QF4Ud7CyAIWdFxUHl) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ชอบอยู่คนเดียว](https://open.spotify.com/album/1PXCXG0vrdGwIbykWKt9eB) | 2:59 | 2022-09-30 | 2022-12-20 |
 | [ช่วยไม่ได้](https://open.spotify.com/track/4GGNl8jiANylTJj4hfzqP7) | [UrboyTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:17 | 2021-03-27\* | 2022-02-02 |
@@ -581,7 +582,8 @@
 | [ปล่อยมือ](https://open.spotify.com/track/5jmubjyS1YMOR9kRQ7nrTC) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ปล่อยมือ](https://open.spotify.com/album/50WWKTpHmUdxADkIxFVBLB) | 4:12 | 2023-06-03 | 2023-06-05 |
 | [ปล่อยให้เวลา](https://open.spotify.com/track/7AcomvHhlYUB0m9tIX4aC8) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ปล่อยให้เวลา](https://open.spotify.com/album/5hN6ebTHczsMaw9t0ijTXG) | 2:51 | 2022-09-29 | 2023-01-27 |
 | [ปีนี้ไม่ต้องเหงาคนเดียวแล้วโว้ย](https://open.spotify.com/track/0jfh6PNB5GBg094Ilg84yG) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ปีนี้ไม่ต้องเหงาคนเดียวแล้วโว้ย](https://open.spotify.com/album/01eKsPypv6vDuDznnhMWfe) | 3:50 | 2023-02-15 | 2023-02-17 |
-| [ผู้ถูกเลือกให้ผิดหวัง \(ดอกไม้ฤดูหนาว\)](https://open.spotify.com/track/7BUHKcrvmr9WIAgEBkwukl) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ผู้ถูกเลือกให้ผิดหวัง \(ดอกไม้ฤดูหนาว\)](https://open.spotify.com/album/3h5McsoCWje5uRcj8psVEH) | 4:30 | 2022-12-09 |  |
+| [ผู้ถูกเลือกให้ผิดหวัง \(ดอกไม้ฤดูหนาว\)](https://open.spotify.com/track/28WUoGt6gycR4gWHdIOkKP) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [เรนิษรา Radio](https://open.spotify.com/album/3epd1gHGZvz2NBeF0lyyyP) | 4:30 | 2023-10-31 |  |
+| [ผู้ถูกเลือกให้ผิดหวัง \(ดอกไม้ฤดูหนาว\)](https://open.spotify.com/track/7BUHKcrvmr9WIAgEBkwukl) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ผู้ถูกเลือกให้ผิดหวัง \(ดอกไม้ฤดูหนาว\)](https://open.spotify.com/album/3h5McsoCWje5uRcj8psVEH) | 4:30 | 2022-12-09 | 2023-11-01 |
 | [ฝนตกไหม](https://open.spotify.com/track/2pB3TJsSleiRiL0NP6rtCw) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 4:21 | 2021-03-27\* | 2021-08-08 |
 | [ฝันถึงแฟนเก่า](https://open.spotify.com/track/3kJG9AsDp8CPiqeIXtvHTM) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 4:01 | 2021-03-27\* | 2021-04-17 |
 | [พะจัน](https://open.spotify.com/track/63b22ti1AAmGyAR1OpqUmi) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [พะจัน](https://open.spotify.com/album/634ttKDuMq3fzM2WzeEuc4) | 3:03 | 2021-07-01 | 2021-08-21 |

@@ -1,28 +1,52 @@
 {
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: Awich",
-  "num_followers": 126718,
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: Watson",
+  "num_followers": 126818,
   "original_name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTgxZTc2OWJjZGE4ODc1YWIwNmE2NTk5NjkwYzg5YmNmMWI0MTlj",
+  "snapshot_id": "MCwyODQ5NDQ4NjEzN2VjNjQyMGJkNWY0ZjY4MzY5YzRmMjRkMGE2OGY5",
   "tracks": [
     {
-      "added_at": "2023-10-24 15:00:00",
+      "added_at": "2023-10-31 15:00:00",
       "album": {
-        "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+        "name": "pen and note",
+        "url": "https://open.spotify.com/album/7IsrYa1ReyfTE22L7y0lWv"
       },
       "artists": [
         {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
         }
       ],
-      "duration_ms": 219331,
-      "name": "THE UNION",
-      "url": "https://open.spotify.com/track/1qlcGHhGLtcSYqtHFtDIoC"
+      "duration_ms": 149761,
+      "name": "pen and note",
+      "url": "https://open.spotify.com/track/5GpmiEzd0BgavQ20ZWcm7V"
+    },
+    {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "Luv Myself",
+        "url": "https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        },
+        {
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        },
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
+        }
+      ],
+      "duration_ms": 268799,
+      "name": "Luv Myself",
+      "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -65,6 +89,22 @@
       "url": "https://open.spotify.com/track/5ziiPlHiZWgexfYDWaMfMS"
     },
     {
+      "added_at": "2023-10-24 15:00:00",
+      "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "duration_ms": 219331,
+      "name": "THE UNION",
+      "url": "https://open.spotify.com/track/1qlcGHhGLtcSYqtHFtDIoC"
+    },
+    {
       "added_at": "2023-10-19 15:00:00",
       "album": {
         "name": "Sol",
@@ -79,6 +119,26 @@
       "duration_ms": 223163,
       "name": "Sol",
       "url": "https://open.spotify.com/track/6mMliV5nFpbX2WbYEtKImK"
+    },
+    {
+      "added_at": "2023-10-24 15:00:00",
+      "album": {
+        "name": "Demon",
+        "url": "https://open.spotify.com/album/4m0qYtUPfTAPtCitvg1Bz1"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        }
+      ],
+      "duration_ms": 174147,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/0zZ7wK7JjXXLKd38i2M0zh"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -123,6 +183,26 @@
       "duration_ms": 209496,
       "name": "Change Up",
       "url": "https://open.spotify.com/track/1u7rOKJDVmppE1qo7FmAxm"
+    },
+    {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "No.00",
+        "url": "https://open.spotify.com/album/5VSSjZsuExEyP8KvO7Tqw3"
+      },
+      "artists": [
+        {
+          "name": "Olive Oil",
+          "url": "https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH"
+        },
+        {
+          "name": "febb as Young Mason",
+          "url": "https://open.spotify.com/artist/3Vdee0nI7ShM31ttHAf8BO"
+        }
+      ],
+      "duration_ms": 269818,
+      "name": "MURDER ONE",
+      "url": "https://open.spotify.com/track/2WqNlaeEowDwcGc9t84wFJ"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -185,26 +265,6 @@
       "url": "https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW"
     },
     {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
-        "name": "Demon",
-        "url": "https://open.spotify.com/album/4m0qYtUPfTAPtCitvg1Bz1"
-      },
-      "artists": [
-        {
-          "name": "Kaneee",
-          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
-        },
-        {
-          "name": "ZOT on the WAVE",
-          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
-        }
-      ],
-      "duration_ms": 174147,
-      "name": "Demon",
-      "url": "https://open.spotify.com/track/0zZ7wK7JjXXLKd38i2M0zh"
-    },
-    {
       "added_at": "2023-10-19 15:00:00",
       "album": {
         "name": "\u8389\u5b50",
@@ -249,6 +309,22 @@
       "url": "https://open.spotify.com/track/3Gmwg6yc89O20kDpWSn06o"
     },
     {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "Nail Sounds",
+        "url": "https://open.spotify.com/album/34KZGV0Hdx8WFbwI6RqgHI"
+      },
+      "artists": [
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Nail Sounds",
+      "url": "https://open.spotify.com/track/216ATzMjBAufHAcRpifWvW"
+    },
+    {
       "added_at": "2023-10-19 15:00:00",
       "album": {
         "name": "SUN NO KUNI",
@@ -273,6 +349,26 @@
       "url": "https://open.spotify.com/track/3a3IzXws4QWyMJjpalutIi"
     },
     {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "HEAD LINER",
+        "url": "https://open.spotify.com/album/2LpDRKDUvuGxiYP0QB4XFH"
+      },
+      "artists": [
+        {
+          "name": "KOS\u00c9 8ROCKS",
+          "url": "https://open.spotify.com/artist/4xPnkzn7b7oxBNhk8hYfZz"
+        },
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+        }
+      ],
+      "duration_ms": 126614,
+      "name": "HEAD LINER",
+      "url": "https://open.spotify.com/track/1slaNIUTRwgRzPWutB2jGr"
+    },
+    {
       "added_at": "2023-10-24 00:38:18",
       "album": {
         "name": "HAHAHA",
@@ -291,6 +387,30 @@
       "duration_ms": 117000,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/2g2RTLYybr4euVKkinEFrR"
+    },
+    {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "\u30a4\u30ab\u308c\u305f\u30b2\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/3hEPaFA3NrAuHf28kaaqjB"
+      },
+      "artists": [
+        {
+          "name": "KUJA",
+          "url": "https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c"
+        },
+        {
+          "name": "T-STONE",
+          "url": "https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D"
+        },
+        {
+          "name": "EASTA",
+          "url": "https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO"
+        }
+      ],
+      "duration_ms": 218117,
+      "name": "\u30a4\u30ab\u308c\u305f\u30b2\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/35AqyuX0ti4FuUnaElmC0o"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -325,6 +445,22 @@
       "url": "https://open.spotify.com/track/2fm2buqrUMup9mkeAcV5wQ"
     },
     {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "SCRAP",
+        "url": "https://open.spotify.com/album/2RwjAlkI4DCQYd1a1R1vuh"
+      },
+      "artists": [
+        {
+          "name": "SHO-SENSEI!!",
+          "url": "https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "Map",
+      "url": "https://open.spotify.com/track/0fp0f5ZA3gUdzwB5Vlm6Wg"
+    },
+    {
       "added_at": "2023-10-19 15:00:00",
       "album": {
         "name": "EDEN",
@@ -351,22 +487,22 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "REVENGE",
-        "url": "https://open.spotify.com/album/42hlt0eaqW9269f8jqqa20"
+        "name": "Massive",
+        "url": "https://open.spotify.com/album/4B8VBwGrDf68aQIw7QU0ua"
       },
       "artists": [
         {
-          "name": "ShowyVICTOR",
-          "url": "https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA"
+          "name": "SPARTA",
+          "url": "https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA"
         },
         {
-          "name": "Lil\u2019Yukichi",
-          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+          "name": "KID FRESINO",
+          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
         }
       ],
-      "duration_ms": 205500,
-      "name": "REVENGE",
-      "url": "https://open.spotify.com/track/0R4r4I1toXjohYKZLcIQEL"
+      "duration_ms": 241096,
+      "name": "Player",
+      "url": "https://open.spotify.com/track/6idXMKMHmuIGyHOvJtJ9jb"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -447,42 +583,6 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "\u5de6\u5229\u304d\u306eBenz",
-        "url": "https://open.spotify.com/album/7HvUJW7LG42RXGgOUJWw4X"
-      },
-      "artists": [
-        {
-          "name": "IO",
-          "url": "https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd"
-        }
-      ],
-      "duration_ms": 124362,
-      "name": "\u5de6\u5229\u304d\u306eBenz",
-      "url": "https://open.spotify.com/track/2aC3fh9QFYTHHE0VoIlOSE"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "Massive",
-        "url": "https://open.spotify.com/album/4B8VBwGrDf68aQIw7QU0ua"
-      },
-      "artists": [
-        {
-          "name": "SPARTA",
-          "url": "https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA"
-        },
-        {
-          "name": "KID FRESINO",
-          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
-        }
-      ],
-      "duration_ms": 241096,
-      "name": "Player",
-      "url": "https://open.spotify.com/track/6idXMKMHmuIGyHOvJtJ9jb"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/1cSQfptWx5BzodaVMwtYVj"
       },
@@ -505,28 +605,20 @@
       "url": "https://open.spotify.com/track/09ugFDsvJDQLMUpsE4IS0L"
     },
     {
-      "added_at": "2023-10-24 15:00:00",
+      "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+        "name": "\u5de6\u5229\u304d\u306eBenz",
+        "url": "https://open.spotify.com/album/7HvUJW7LG42RXGgOUJWw4X"
       },
       "artists": [
         {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        },
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        },
-        {
-          "name": "BIM",
-          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
+          "name": "IO",
+          "url": "https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd"
         }
       ],
-      "duration_ms": 286366,
-      "name": "Twinkle Stars (feat. BIM)",
-      "url": "https://open.spotify.com/track/2xOLmtjnAX12xklZD05SOw"
+      "duration_ms": 124362,
+      "name": "\u5de6\u5229\u304d\u306eBenz",
+      "url": "https://open.spotify.com/track/2aC3fh9QFYTHHE0VoIlOSE"
     },
     {
       "added_at": "2023-10-24 15:00:00",
@@ -547,6 +639,58 @@
       "duration_ms": 231000,
       "name": "chulove",
       "url": "https://open.spotify.com/track/4aibjndq3kDrcOxIn89zdg"
+    },
+    {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "Osanpo (Remix)",
+        "url": "https://open.spotify.com/album/25nRq5WP5RSRhGWs3LGaMC"
+      },
+      "artists": [
+        {
+          "name": "SOCKS",
+          "url": "https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw"
+        },
+        {
+          "name": "DJ RYOW",
+          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
+        },
+        {
+          "name": "Hannya",
+          "url": "https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh"
+        },
+        {
+          "name": "R-shitei",
+          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
+        },
+        {
+          "name": "Space Dust Club",
+          "url": "https://open.spotify.com/artist/2gzAqApojzEcGpWzvrZjRy"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Osanpo - Remix",
+      "url": "https://open.spotify.com/track/32xeuwMvGI5jugOe0sv8cq"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
+        "name": "REVENGE",
+        "url": "https://open.spotify.com/album/42hlt0eaqW9269f8jqqa20"
+      },
+      "artists": [
+        {
+          "name": "ShowyVICTOR",
+          "url": "https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA"
+        },
+        {
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "REVENGE",
+      "url": "https://open.spotify.com/track/0R4r4I1toXjohYKZLcIQEL"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -591,6 +735,26 @@
       "duration_ms": 194000,
       "name": "GO FUSION",
       "url": "https://open.spotify.com/track/35VMDe4mPBrdZoOfClyYSa"
+    },
+    {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "GRID",
+        "url": "https://open.spotify.com/album/7nxc6TpKNEJIRAqYFmJTpp"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA",
+          "url": "https://open.spotify.com/artist/2v4xE9iGRGIKGxxCku3HWy"
+        },
+        {
+          "name": "1Co.INR",
+          "url": "https://open.spotify.com/artist/13OKLLncWlV84TyMUEgq4m"
+        }
+      ],
+      "duration_ms": 181005,
+      "name": "GRID",
+      "url": "https://open.spotify.com/track/70LeAfudzGENZhf3kgJSsx"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -725,56 +889,24 @@
       "url": "https://open.spotify.com/track/3uWZxSe9r4YvDL0k34Fc0d"
     },
     {
-      "added_at": "2023-10-19 15:00:00",
+      "added_at": "2023-10-31 15:00:00",
       "album": {
-        "name": "PLAYA'z ANTHE M",
-        "url": "https://open.spotify.com/album/7cXsWSJ9zaLCD2tEaoy47S"
+        "name": "Y.L.F. EP",
+        "url": "https://open.spotify.com/album/1a1R7iGEBEScUfpb6W4IJY"
       },
       "artists": [
         {
-          "name": "noizy",
-          "url": "https://open.spotify.com/artist/2bwaXc6DMSZRMrJ5f3NLoH"
+          "name": "YELLADIGOS",
+          "url": "https://open.spotify.com/artist/4XoMdQKZT6hC57PRnacpYa"
         },
         {
-          "name": "$ELMA",
-          "url": "https://open.spotify.com/artist/607cJ7M9vsr1xAYWCE51tX"
-        },
-        {
-          "name": "$oil J",
-          "url": "https://open.spotify.com/artist/6o73thd36b4cdF4dV16ktA"
+          "name": "TWIGY",
+          "url": "https://open.spotify.com/artist/3LRuRmJcuRBvc7mLhTli0v"
         }
       ],
-      "duration_ms": 196483,
-      "name": "LEGIT",
-      "url": "https://open.spotify.com/track/7nntkO0yiM5ORBmNhKuI31"
-    },
-    {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
-        "name": "TAMAROU (2023 Remix)",
-        "url": "https://open.spotify.com/album/3r7naNQhjDJy51WDhqvOP2"
-      },
-      "artists": [
-        {
-          "name": "JNKMN",
-          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
-        },
-        {
-          "name": "DJ JAM",
-          "url": "https://open.spotify.com/artist/429uK9aePbJMBV2siIj2u8"
-        },
-        {
-          "name": "YTG",
-          "url": "https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c"
-        },
-        {
-          "name": "GORE-TEX",
-          "url": "https://open.spotify.com/artist/3tFoTCvKyb9SKtLAuN60Mr"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "TAMAROU - 2023 Remix",
-      "url": "https://open.spotify.com/track/04KiAYckwbH4dmjrI50E1D"
+      "duration_ms": 216000,
+      "name": "Be Okay",
+      "url": "https://open.spotify.com/track/6nJhj9WxACmME1v7jzcPeP"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -869,6 +1001,30 @@
       "url": "https://open.spotify.com/track/0cub0o5LgyxsaOlGgdG8OK"
     },
     {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "dialogue",
+        "url": "https://open.spotify.com/album/0KsIeCtFzTVrYgvhsZom5b"
+      },
+      "artists": [
+        {
+          "name": "illmore",
+          "url": "https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ"
+        },
+        {
+          "name": "\u30b1\u30f3\u30c1\u30f3\u30df\u30f3",
+          "url": "https://open.spotify.com/artist/50FwwdpHJIyYhoYfmd3tSL"
+        },
+        {
+          "name": "Kojoe",
+          "url": "https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu"
+        }
+      ],
+      "duration_ms": 191994,
+      "name": "Space Game",
+      "url": "https://open.spotify.com/track/5Ul7pkpoCGaLqhZiASXuuz"
+    },
+    {
       "added_at": "2023-10-19 15:00:00",
       "album": {
         "name": "now that UR gone",
@@ -903,26 +1059,6 @@
       "duration_ms": 148968,
       "name": "Heartache",
       "url": "https://open.spotify.com/track/1pBeYVoKOTXOotNJ1MjHrk"
-    },
-    {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
-        "name": "DOG AXX",
-        "url": "https://open.spotify.com/album/6PlDJCSMwShASWcVlspDLA"
-      },
-      "artists": [
-        {
-          "name": "Shaka Bose",
-          "url": "https://open.spotify.com/artist/2T7vRIAvrUUUKATk6IcZma"
-        },
-        {
-          "name": "DJ UPPERCUT",
-          "url": "https://open.spotify.com/artist/51KenhkwJPOIC5O6eXUYaw"
-        }
-      ],
-      "duration_ms": 106639,
-      "name": "DOG AXX",
-      "url": "https://open.spotify.com/track/0v635Upcce6Ci9bm3Qs2fd"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -1121,6 +1257,42 @@
       "url": "https://open.spotify.com/track/4XrbQ2Njf0632aZUo40zlt"
     },
     {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "DIY",
+        "url": "https://open.spotify.com/album/6xQC8VCtzdrwECjSMUVzXf"
+      },
+      "artists": [
+        {
+          "name": "Itto",
+          "url": "https://open.spotify.com/artist/2ysorIMr4GzHF4dHiVRX5E"
+        },
+        {
+          "name": "maiya rei",
+          "url": "https://open.spotify.com/artist/4jB1yAzdJ2wmkAlhr5BzgZ"
+        }
+      ],
+      "duration_ms": 122517,
+      "name": "DIY",
+      "url": "https://open.spotify.com/track/21Dfcbq9Fiki70prHOhhdJ"
+    },
+    {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "CHAMPION SOUND",
+        "url": "https://open.spotify.com/album/1fFbxBMQFBuNNk9Q6k45xl"
+      },
+      "artists": [
+        {
+          "name": "FREEZ",
+          "url": "https://open.spotify.com/artist/1SgsdAxtT2jPv6pWihNLGp"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "CHAMPION SOUND - Scratch by DJ MATTO",
+      "url": "https://open.spotify.com/track/5VJqOw7zvmf0KSwKpRYkBZ"
+    },
+    {
       "added_at": "2023-10-19 15:00:00",
       "album": {
         "name": "United Queens",
@@ -1181,46 +1353,6 @@
       "url": "https://open.spotify.com/track/5B0o09FCKdm8JP0yCSUeQv"
     },
     {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
-        "name": "SEIJYAKU ASAMAKI (REMIX)",
-        "url": "https://open.spotify.com/album/5xufxHiHSvm3JN6BZC7G2D"
-      },
-      "artists": [
-        {
-          "name": "Silent Killa Joint",
-          "url": "https://open.spotify.com/artist/1nNfL1cMyGVkyODtqf90wI"
-        },
-        {
-          "name": "rkemishi",
-          "url": "https://open.spotify.com/artist/0p8wb8VQyOYmHkN42xhJ9v"
-        }
-      ],
-      "duration_ms": 185060,
-      "name": "True - rkemishi REMIX",
-      "url": "https://open.spotify.com/track/1WNvxSUleRIchRUT7M747c"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "KAWAII BUBBLY LOVELY \u2162",
-        "url": "https://open.spotify.com/album/4xsD66uiRwxoiJrbM0WYMJ"
-      },
-      "artists": [
-        {
-          "name": "Elle Teresa",
-          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
-        },
-        {
-          "name": "Choppa Capone",
-          "url": "https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez"
-        }
-      ],
-      "duration_ms": 190986,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/0iYIYWGj5NnXHsNDwK900D"
-    },
-    {
       "added_at": "2023-10-19 15:00:00",
       "album": {
         "name": "Rockdown",
@@ -1263,22 +1395,6 @@
       "duration_ms": 141200,
       "name": "Forever Street",
       "url": "https://open.spotify.com/track/4hICL79aIU4z62Cvh5GBDw"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "RANDO",
-        "url": "https://open.spotify.com/album/4NQ2zVZ53ndO3XCMTuhOj5"
-      },
-      "artists": [
-        {
-          "name": "Watson",
-          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
-        }
-      ],
-      "duration_ms": 146924,
-      "name": "RANDO",
-      "url": "https://open.spotify.com/track/5fJZDfgIiQgjzTlRxR6Q5G"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -1347,22 +1463,6 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "Naiya",
-        "url": "https://open.spotify.com/album/3ifbPgar0fxH4qyznObkn9"
-      },
-      "artists": [
-        {
-          "name": "JUMADIBA",
-          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
-        }
-      ],
-      "duration_ms": 136740,
-      "name": "Naiya",
-      "url": "https://open.spotify.com/track/1wcJpJWF1aK1WHyl7vjTR2"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
         "name": "ASIAN CINEMA",
         "url": "https://open.spotify.com/album/5QE6Stcdit842Nf00oho5Z"
       },
@@ -1393,42 +1493,6 @@
       "url": "https://open.spotify.com/track/01ZsXCb8HrueIEVZNewduy"
     },
     {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/1VLFfDuuqsC3xYyeKtzQnW"
-      },
-      "artists": [
-        {
-          "name": "PEAVIS",
-          "url": "https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/3pA9teCcxI6k42jaWQPmxn"
-    },
-    {
-      "added_at": "2023-10-24 15:00:00",
-      "album": {
-        "name": "ZAZAMARU",
-        "url": "https://open.spotify.com/album/10DZJdnEGqAvyU4fmM3b0M"
-      },
-      "artists": [
-        {
-          "name": "eyezen",
-          "url": "https://open.spotify.com/artist/5BcJpRblTAzBQV0Qp0jewW"
-        },
-        {
-          "name": "Shaka Bose",
-          "url": "https://open.spotify.com/artist/2T7vRIAvrUUUKATk6IcZma"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "ZAZAMARU",
-      "url": "https://open.spotify.com/track/65P6jjxIjVQrenzr5oO4eN"
-    },
-    {
       "added_at": "2023-10-19 15:00:00",
       "album": {
         "name": "ROBIN HOOD STREET",
@@ -1443,38 +1507,6 @@
       "duration_ms": 220333,
       "name": "DIFFICULT",
       "url": "https://open.spotify.com/track/6RbrF27Pe3oHVt0tC7cIwD"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "CHALLENGER",
-        "url": "https://open.spotify.com/album/39VgHgvLOmMS9OSV8H1BdP"
-      },
-      "artists": [
-        {
-          "name": "Rappagariya",
-          "url": "https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "ENERGY SONG",
-      "url": "https://open.spotify.com/track/0mQXPMmV7Pq4jvHyKPydOh"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "Oil",
-        "url": "https://open.spotify.com/album/1RiMtUb7MdEGVCV3XxgHY8"
-      },
-      "artists": [
-        {
-          "name": "SHO-SENSEI!!",
-          "url": "https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc"
-        }
-      ],
-      "duration_ms": 120266,
-      "name": "Oil",
-      "url": "https://open.spotify.com/track/7dn9D2UEhRrOVBjC2zhfdk"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -1551,30 +1583,6 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "anthem",
-        "url": "https://open.spotify.com/album/0kOnGqiGCtJYM9NWOzu7up"
-      },
-      "artists": [
-        {
-          "name": "Kingo",
-          "url": "https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP"
-        },
-        {
-          "name": "Black petrol",
-          "url": "https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt"
-        },
-        {
-          "name": "DinoJr.",
-          "url": "https://open.spotify.com/artist/2Tjsjqtiz24545VekPM72J"
-        }
-      ],
-      "duration_ms": 338773,
-      "name": "anthem",
-      "url": "https://open.spotify.com/track/3JeWH79fpt8lFF799Zbqws"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
       },
@@ -1591,34 +1599,6 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
-      },
-      "artists": [
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        },
-        {
-          "name": "Tsubaki",
-          "url": "https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx"
-        },
-        {
-          "name": "OZworld",
-          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
-        },
-        {
-          "name": "CHICO CARLITO",
-          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
-        }
-      ],
-      "duration_ms": 289846,
-      "name": "RASEN in OKINAWA",
-      "url": "https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
         "name": "rose",
         "url": "https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL"
       },
@@ -1631,42 +1611,6 @@
       "duration_ms": 136986,
       "name": "rose",
       "url": "https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "Me vs. Me",
-        "url": "https://open.spotify.com/album/5ioH2X1MVgNbIy9rZjdTzs"
-      },
-      "artists": [
-        {
-          "name": "Bonbero",
-          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Me vs. Me",
-      "url": "https://open.spotify.com/track/4ekHj2CZEIOgGxreDtW8Hn"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "\u3044\u307e\u3082",
-        "url": "https://open.spotify.com/album/4noSiPBaI0PhTJrkCt4F59"
-      },
-      "artists": [
-        {
-          "name": "Itto",
-          "url": "https://open.spotify.com/artist/2ysorIMr4GzHF4dHiVRX5E"
-        },
-        {
-          "name": "Jambo Lacquer",
-          "url": "https://open.spotify.com/artist/0eCTHbWkpE5PHesKzCf4cQ"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "\u3044\u307e\u3082",
-      "url": "https://open.spotify.com/track/1N1dfP5lttRxhcLzIUY74j"
     },
     {
       "added_at": "2023-10-19 15:00:00",

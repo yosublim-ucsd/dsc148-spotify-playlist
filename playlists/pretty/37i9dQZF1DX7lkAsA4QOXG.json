@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 115697,
+  "num_followers": 115742,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjY5Mjc1MTIwZGVhODljMTMxY2UzZDJlOTgxNzc3NzdhMWY0MDlk",
+  "snapshot_id": "MCw0MDA2MzRiOWI5MzQyYTI1YTc2YmU5NTQzZmI5Y2IwYWE2MmI1YmVl",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/1kS7asSbEPEd5KMB9krFDx"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 266862,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/32E9nlJdTcgeO0ifM8IkqU"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 250133,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/1kS7asSbEPEd5KMB9krFDx"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 266862,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/32E9nlJdTcgeO0ifM8IkqU"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -847,6 +847,30 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Uncle John's Band",
+        "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        }
+      ],
+      "duration_ms": 549600,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Your Song",
         "url": "https://open.spotify.com/album/5wgdPiD77nrKUBiW7ptss4"
       },
@@ -871,30 +895,6 @@
       "duration_ms": 270847,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/0OelgOpyjbEyc1agABKR4P"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Uncle John's Band",
-        "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        },
-        {
-          "name": "Vicente Archer",
-          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
-        }
-      ],
-      "duration_ms": 549600,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 320893,
       "name": "Streets Of Philadelphia",
       "url": "https://open.spotify.com/track/6S3bsnpvBqRRn7LfzZSchM"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
+      },
+      "artists": [
+        {
+          "name": "Staci Griesbach",
+          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
+        }
+      ],
+      "duration_ms": 309810,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
       },
@@ -1111,38 +1127,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
-      },
-      "artists": [
-        {
-          "name": "Staci Griesbach",
-          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
-        }
-      ],
-      "duration_ms": 309810,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Joshua Redman",
-        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 279573,
-      "name": "I Got You - I Feel Good",
-      "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+        "name": "Joshua Redman",
+        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
       },
       "artists": [
         {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
         }
       ],
-      "duration_ms": 239186,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1"
+      "duration_ms": 279573,
+      "name": "I Got You - I Feel Good",
+      "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 265546,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/2jNw83C2mRYWCLNiqGZ4GQ"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 239186,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "All I Do",
-        "url": "https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln"
-      },
-      "artists": [
-        {
-          "name": "Julius Rodriguez",
-          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
-        }
-      ],
-      "duration_ms": 280535,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
       },
@@ -1375,34 +1359,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+        "name": "All I Do",
+        "url": "https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
         }
       ],
-      "duration_ms": 288546,
-      "name": "Lover, You Should Have Come Over",
-      "url": "https://open.spotify.com/track/0f6bXABu4brGJMt0bG9yPQ"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Blacknuss",
-        "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Roland Kirk",
-          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
+      "duration_ms": 280535,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1423,6 +1391,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 288546,
+      "name": "Lover, You Should Have Come Over",
+      "url": "https://open.spotify.com/track/0f6bXABu4brGJMt0bG9yPQ"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Everybody Loves Angels",
         "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 320460,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Blacknuss",
+        "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Roland Kirk",
+          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "Hey, That's No Way To Say Goodbye",
-      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "I Can't Make You Love Me",
         "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
       },
@@ -1771,26 +1751,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Accelerando",
-        "url": "https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF"
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
       "artists": [
         {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
         },
         {
-          "name": "Stephan Crump",
-          "url": "https://open.spotify.com/artist/4nJDD9jIfsXuY93Kvx7bgT"
-        },
-        {
-          "name": "Marcus Gilmore",
-          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
         }
       ],
-      "duration_ms": 579160,
-      "name": "Human Nature (Trio Extension)",
-      "url": "https://open.spotify.com/track/6vT6GhO6th2JE3NBQRlhKL"
+      "duration_ms": 252680,
+      "name": "Hey, That's No Way To Say Goodbye",
+      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1819,6 +1795,30 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Accelerando",
+        "url": "https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF"
+      },
+      "artists": [
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        },
+        {
+          "name": "Stephan Crump",
+          "url": "https://open.spotify.com/artist/4nJDD9jIfsXuY93Kvx7bgT"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        }
+      ],
+      "duration_ms": 579160,
+      "name": "Human Nature (Trio Extension)",
+      "url": "https://open.spotify.com/track/6vT6GhO6th2JE3NBQRlhKL"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Sealed with a Kiss",
         "url": "https://open.spotify.com/album/3WCTl9gYGQqyLtKIiVLtuj"
       },
@@ -1831,22 +1831,6 @@
       "duration_ms": 196113,
       "name": "Sealed with a Kiss",
       "url": "https://open.spotify.com/track/2JzWC2BLboCvHxfUTWovJA"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Tears in Heaven",
-        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
-      },
-      "artists": [
-        {
-          "name": "The Uptown Players",
-          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Tears in Heaven",
-      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1867,6 +1851,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Tears in Heaven",
+        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Optimistic",
         "url": "https://open.spotify.com/album/1QCP0GWc0wl0UPs2KI8Nrf"
       },
@@ -1879,26 +1879,6 @@
       "duration_ms": 369876,
       "name": "Optimistic",
       "url": "https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "Bird On The Wire",
-      "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1935,18 +1915,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Ultrahang",
-        "url": "https://open.spotify.com/album/1t82Iyc1g2Z5xAUPjGzCvj"
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
       "artists": [
         {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 402160,
-      "name": "Ladies Of the Canyon (Bonus)",
-      "url": "https://open.spotify.com/track/6KjMkGCoRpcb9nHS2auXo5"
+      "duration_ms": 226693,
+      "name": "Bird On The Wire",
+      "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1967,6 +1951,22 @@
       "duration_ms": 303186,
       "name": "She's Leaving Home - Live",
       "url": "https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Ultrahang",
+        "url": "https://open.spotify.com/album/1t82Iyc1g2Z5xAUPjGzCvj"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 402160,
+      "name": "Ladies Of the Canyon (Bonus)",
+      "url": "https://open.spotify.com/track/6KjMkGCoRpcb9nHS2auXo5"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Ships With Tattooed Sails",
+        "url": "https://open.spotify.com/album/30hPxpO6LJ9aKjSiUpOGp9"
+      },
+      "artists": [
+        {
+          "name": "Jewels and Binoculars/Michael Moore, Lindsey Horner, Michael Vat",
+          "url": "https://open.spotify.com/artist/2klyWtHE9x9145UqosyEQP"
+        }
+      ],
+      "duration_ms": 390613,
+      "name": "It's Alright Ma (I'm Only Bleeding)",
+      "url": "https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/6MdJLoigLIOtMEHh3a4XcO"
       },
@@ -2251,22 +2267,6 @@
       "duration_ms": 552186,
       "name": "Masters Of War",
       "url": "https://open.spotify.com/track/4cOFrivheYAhrEppNAWMW7"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Ships With Tattooed Sails",
-        "url": "https://open.spotify.com/album/30hPxpO6LJ9aKjSiUpOGp9"
-      },
-      "artists": [
-        {
-          "name": "Jewels and Binoculars/Michael Moore, Lindsey Horner, Michael Vat",
-          "url": "https://open.spotify.com/artist/2klyWtHE9x9145UqosyEQP"
-        }
-      ],
-      "duration_ms": 390613,
-      "name": "It's Alright Ma (I'm Only Bleeding)",
-      "url": "https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu"
     }
   ],
   "unique_name": "Jazz Covers",

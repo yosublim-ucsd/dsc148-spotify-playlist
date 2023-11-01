@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Rod 3030
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,840 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,850 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 13 | [Mil e uma Treta](https://open.spotify.com/track/41i1EFJa4guXadDAIHbXad) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 1:58 |
 | 14 | [Eu Mermo](https://open.spotify.com/track/34E4gKoSSeSyUoSizdaDRP) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [R.Muñoz](https://open.spotify.com/artist/3G3NEjL0kEhipEEDKWzZcP) | [MIXTAPE EU MERMO](https://open.spotify.com/album/7vRgYe1RGL5md2vIZQadmW) | 2:32 |
 | 15 | [Show Lotado](https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:26 |
-| 16 | [Corrente](https://open.spotify.com/track/29jVj20ixkDYcTS22In5un) | [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A), [vula](https://open.spotify.com/artist/7w1tboFXlthRy5UJd4CldI) | [NVV](https://open.spotify.com/album/6TpHI1VJgqkrLq87qZZox2) | 3:23 |
+| 16 | [Corrente](https://open.spotify.com/track/29jVj20ixkDYcTS22In5un) | [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A), [vula](https://open.spotify.com/artist/7w1tboFXlthRy5UJd4CldI), [Fumaça](https://open.spotify.com/artist/7eDlh9f8incKPYxg5a58vK) | [NVV](https://open.spotify.com/album/6TpHI1VJgqkrLq87qZZox2) | 3:23 |
 | 17 | [Até o Fim](https://open.spotify.com/track/7FXPV2TaHgJqHEFcHdTrMh) | [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [Limonnada](https://open.spotify.com/album/2jhYJ1sGIKotj2VFIciO6f) | 3:31 |
 | 18 | [Meu Fechamento](https://open.spotify.com/track/1Qh2N24WF6Vm0hJsWixrGr) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Meu Fechamento](https://open.spotify.com/album/3vsrbA8dwUeoeo8QQs2xR8) | 3:28 |
 | 19 | [Disposição e Atividade](https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Disposição e Atividade](https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [INTENÇÃO](https://open.spotify.com/track/3BSrkgc0HEM0dod45jmqyN) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Dj Juninho da Espanha](https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:46 |
 | 75 | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4) | 2:18 |
 
-Snapshot ID: `MCxmNmEzMTBmMDBjMGU0ZWFlYjc0NzhiYTQxMTk4ODQ4Y2ViMDQ2NTEz`
+Snapshot ID: `MCxlOGFjMTRkZWQ3NGYwNmJhNmNiY2JkOGQ1ODg0MjEyODhkNGM3Y2Rl`

@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 419499,
+  "num_followers": 419741,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODUwYjdjZGNjYmU0ZGM2ODdhOTQ0OGFjMDAyYTA4MjFhNzBhZTJi",
+  "snapshot_id": "MCxiNjdjNTkyNTJjNmM4ZDA1ZTE0NzM5ODFlMjdiNjAxZjhjMzgyMGRi",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -215,8 +215,8 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Love Generation (Radio Edit)",
-        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
+        "name": "Rock This Party (Everybody Dance Now)",
+        "url": "https://open.spotify.com/album/0FoptdZTKSUm6JU99XVKhO"
       },
       "artists": [
         {
@@ -224,13 +224,25 @@
           "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
         },
         {
-          "name": "Gary Pine",
-          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+          "name": "Cutee B.",
+          "url": "https://open.spotify.com/artist/5PTDGbHPxxXf81RrubpIOO"
+        },
+        {
+          "name": "DollarMan",
+          "url": "https://open.spotify.com/artist/0TsTesOYlZmHOLnFPLPKLZ"
+        },
+        {
+          "name": "Big Ali",
+          "url": "https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls"
+        },
+        {
+          "name": "Makedah",
+          "url": "https://open.spotify.com/artist/0f5cjky3a6ee9e0WicpzhW"
         }
       ],
-      "duration_ms": 204798,
-      "name": "Love Generation - Radio Edit",
-      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
+      "duration_ms": 245466,
+      "name": "Rock This Party - Everybody Dance Now",
+      "url": "https://open.spotify.com/track/0Qn0i8df7Q76ej3RAXAtI2"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -303,8 +315,8 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Rock This Party (Everybody Dance Now)",
-        "url": "https://open.spotify.com/album/0FoptdZTKSUm6JU99XVKhO"
+        "name": "Love Generation (Radio Edit)",
+        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
       },
       "artists": [
         {
@@ -312,25 +324,13 @@
           "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
         },
         {
-          "name": "Cutee B.",
-          "url": "https://open.spotify.com/artist/5PTDGbHPxxXf81RrubpIOO"
-        },
-        {
-          "name": "DollarMan",
-          "url": "https://open.spotify.com/artist/0TsTesOYlZmHOLnFPLPKLZ"
-        },
-        {
-          "name": "Big Ali",
-          "url": "https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls"
-        },
-        {
-          "name": "Makedah",
-          "url": "https://open.spotify.com/artist/0f5cjky3a6ee9e0WicpzhW"
+          "name": "Gary Pine",
+          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
         }
       ],
-      "duration_ms": 245466,
-      "name": "Rock This Party - Everybody Dance Now",
-      "url": "https://open.spotify.com/track/0Qn0i8df7Q76ej3RAXAtI2"
+      "duration_ms": 204798,
+      "name": "Love Generation - Radio Edit",
+      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w"
-      },
-      "artists": [
-        {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Take Me Away (Into The Night) - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "From Paris to Berlin",
         "url": "https://open.spotify.com/album/6SC5NVbBXCHW78zOSPZgYx"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 209666,
       "name": "From Paris to Berlin",
       "url": "https://open.spotify.com/track/5ClXLJW6OLZuTLCwhmX9h9"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Take Me Away (Into The Night) - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Rooty",
-        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 217493,
-      "name": "Romeo",
-      "url": "https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/5Y7dFFiVB9zHfGZJPX2Pql"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 187493,
       "name": "Poison - Radio Edit",
       "url": "https://open.spotify.com/track/6ZmIw9YmXbptqITm1bycnm"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Rooty",
+        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 217493,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Musique, Vol. 1",
-        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Around the World - Radio Edit [Radio Edit]",
-      "url": "https://open.spotify.com/track/0TxMRiAvI1s0L821BJJWzx"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "God Is a Girl",
         "url": "https://open.spotify.com/album/1yvLJHtq56YTPHbBRhcyd0"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 223560,
       "name": "God Is a Girl",
       "url": "https://open.spotify.com/track/5LArYFxcsMkArh2RFC5dyn"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Musique, Vol. 1",
+        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Around the World - Radio Edit [Radio Edit]",
+      "url": "https://open.spotify.com/track/0TxMRiAvI1s0L821BJJWzx"
     },
     {
       "added_at": "2021-04-29 18:40:15",

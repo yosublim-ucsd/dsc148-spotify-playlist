@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMDYzMjAsMDAwMDAwMDA4MDkzMmYzMDkzNDJkMzg4MTJlZjExZjUzNGY3OWY0ZA==",
+  "snapshot_id": "MjgzMDYzMjAsMDAwMDAwMDAwNGIyY2UxMmQzNWQxNjc0NmEyY2YwNzdmNTMzYTM5OA==",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -111,26 +111,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Diabolical Swordsmen",
-        "url": "https://open.spotify.com/album/3qPtxtunjBOw8zIg1TqHO2"
-      },
-      "artists": [
-        {
-          "name": "Cedrick Bogan",
-          "url": "https://open.spotify.com/artist/1FkEIUlqPePELLE6R80zB8"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 120032,
-      "name": "Diabolical Swordsmen",
-      "url": "https://open.spotify.com/track/7z9ntrrjkTKslZY5OCxmMy"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Starla",
         "url": "https://open.spotify.com/album/2bIjr9wL104aZf6RlcbwT9"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 196022,
       "name": "Starla",
       "url": "https://open.spotify.com/track/2nyf95vcNywPnHYxRBX1YV"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Diabolical Swordsmen",
+        "url": "https://open.spotify.com/album/3qPtxtunjBOw8zIg1TqHO2"
+      },
+      "artists": [
+        {
+          "name": "Cedrick Bogan",
+          "url": "https://open.spotify.com/artist/1FkEIUlqPePELLE6R80zB8"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 120032,
+      "name": "Diabolical Swordsmen",
+      "url": "https://open.spotify.com/track/7z9ntrrjkTKslZY5OCxmMy"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -219,30 +219,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/2Vf11H8WREJzPPm57eqAS4"
-      },
-      "artists": [
-        {
-          "name": "Justdiba",
-          "url": "https://open.spotify.com/artist/74ka9AXPf2SfkytbNcRzV5"
-        },
-        {
-          "name": "Primus",
-          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
-        },
-        {
-          "name": "Yowdy",
-          "url": "https://open.spotify.com/artist/5m9RfrvhBU3rs02gydxFud"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Simpe Ruhepo",
-      "url": "https://open.spotify.com/track/5zasT45VJQwjz5QKAjBYVo"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Claudine",
         "url": "https://open.spotify.com/album/6CrpCUOZaU1N3N5ZaFesAi"
       },
@@ -295,6 +271,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Te Mata",
+        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "Te Mata",
+      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Hackney Diamonds",
         "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
       },
@@ -311,18 +303,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Te Mata",
-        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
+        "name": "NFL",
+        "url": "https://open.spotify.com/album/6rsIciAfxrSApDOpNXZSll"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 232306,
-      "name": "Te Mata",
-      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
+      "duration_ms": 185678,
+      "name": "NFL",
+      "url": "https://open.spotify.com/track/1X1dy95bo2OirAmMkBIwkS"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -343,22 +335,6 @@
       "duration_ms": 244271,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "NFL",
-        "url": "https://open.spotify.com/album/6rsIciAfxrSApDOpNXZSll"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 185678,
-      "name": "NFL",
-      "url": "https://open.spotify.com/track/1X1dy95bo2OirAmMkBIwkS"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -431,42 +407,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "I Left My Heart In Ladera",
-        "url": "https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 135189,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "\u010cohkka/Cort\u00e8ge (Live In Helsinki St. John's Church)",
-        "url": "https://open.spotify.com/album/7wZR2dWNOpsRpEZ2GPhWMJ"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 370293,
-      "name": "\u010cohkka/Cort\u00e8ge - Live In Helsinki St. John's Church",
-      "url": "https://open.spotify.com/track/0086lDreUts8H4OQRxlxEu"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Power Them Off",
         "url": "https://open.spotify.com/album/5olgCqRatEu1l1MfHv7BWI"
       },
@@ -487,18 +427,38 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Cherish",
-        "url": "https://open.spotify.com/album/5CHZD9I0LTF6Jfclc8zXbo"
+        "name": "\u010cohkka/Cort\u00e8ge (Live In Helsinki St. John's Church)",
+        "url": "https://open.spotify.com/album/7wZR2dWNOpsRpEZ2GPhWMJ"
       },
       "artists": [
         {
-          "name": "Vacationer",
-          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
         }
       ],
-      "duration_ms": 133792,
-      "name": "Dialogue",
-      "url": "https://open.spotify.com/track/6G1pMFiINOJgyGjmIgXXQ9"
+      "duration_ms": 370293,
+      "name": "\u010cohkka/Cort\u00e8ge - Live In Helsinki St. John's Church",
+      "url": "https://open.spotify.com/track/0086lDreUts8H4OQRxlxEu"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "I Left My Heart In Ladera",
+        "url": "https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 135189,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -515,6 +475,22 @@
       "duration_ms": 204277,
       "name": "Almost blue",
       "url": "https://open.spotify.com/track/2TvvypFABr65clA6O68qfn"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Cherish",
+        "url": "https://open.spotify.com/album/5CHZD9I0LTF6Jfclc8zXbo"
+      },
+      "artists": [
+        {
+          "name": "Vacationer",
+          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+        }
+      ],
+      "duration_ms": 133792,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/6G1pMFiINOJgyGjmIgXXQ9"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -591,22 +567,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Reunion (25th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/0LKOlxflzwKoZerUQLtSmJ"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 209774,
-      "name": "Selling My Soul - Danny Saber Remix",
-      "url": "https://open.spotify.com/track/5soAf86M7IS91HacoojI9H"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Big Youth (feat. El-P)",
         "url": "https://open.spotify.com/album/0hidwDhYbIU6eXyGltHikN"
       },
@@ -623,6 +583,22 @@
       "duration_ms": 183720,
       "name": "Big Youth (feat. El-P)",
       "url": "https://open.spotify.com/track/4YucKCHgSdWoj7BtH8lbDa"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Reunion (25th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/0LKOlxflzwKoZerUQLtSmJ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 209774,
+      "name": "Selling My Soul - Danny Saber Remix",
+      "url": "https://open.spotify.com/track/5soAf86M7IS91HacoojI9H"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -731,38 +707,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Tether",
-        "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Into The Sun",
-      "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Who's That?",
-        "url": "https://open.spotify.com/album/2aq3ORkrQrbY34dFnQDKZH"
-      },
-      "artists": [
-        {
-          "name": "Attica Riots",
-          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
-        }
-      ],
-      "duration_ms": 251500,
-      "name": "Who's That?",
-      "url": "https://open.spotify.com/track/306sDtgbcHZJrz9fxTZD5U"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Whenever I Call You Friend",
         "url": "https://open.spotify.com/album/3UDpY8hvITJfi4P3Y2ISpI"
       },
@@ -783,6 +727,38 @@
       "duration_ms": 242226,
       "name": "Whenever I Call You Friend",
       "url": "https://open.spotify.com/track/5QGUp0Iz7KYyji9UdzHV5J"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Who's That?",
+        "url": "https://open.spotify.com/album/2aq3ORkrQrbY34dFnQDKZH"
+      },
+      "artists": [
+        {
+          "name": "Attica Riots",
+          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
+        }
+      ],
+      "duration_ms": 251500,
+      "name": "Who's That?",
+      "url": "https://open.spotify.com/track/306sDtgbcHZJrz9fxTZD5U"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Tether",
+        "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Into The Sun",
+      "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

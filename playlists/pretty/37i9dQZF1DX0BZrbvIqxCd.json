@@ -1,29 +1,13 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 541530,
+  "num_followers": 541586,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTU2NzMxNzQ1MzU1NWVlMzEwMmZjNGZlOGQ4Mjc1YjE0YTY3ODNl",
+  "snapshot_id": "MCw2NTc2ZTJiN2NhM2ExZDdlZWUzNjU2OTJjN2RjNWU5NDlmM2I0NGQw",
   "tracks": [
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
-    },
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 180160,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Dear Maria, Count Me In",
-      "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 177826,
       "name": "You're Gonna Go Far, Kid",
       "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Dear Maria, Count Me In",
+      "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -223,18 +223,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "The Warrior's Code",
-        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
       "artists": [
         {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 153600,
-      "name": "I'm Shipping Up To Boston",
-      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -255,34 +255,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 199386,
-      "name": "Prayer Of The Refugee",
-      "url": "https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+      "duration_ms": 153600,
+      "name": "I'm Shipping Up To Boston",
+      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -303,6 +287,22 @@
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Prayer Of The Refugee",
+      "url": "https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -387,22 +387,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "...And Out Come The Wolves",
-        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 144585,
-      "name": "Time Bomb",
-      "url": "https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Appeal To Reason",
         "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 242280,
       "name": "Savior",
       "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 144585,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -611,22 +611,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Ghost in My Home",
-        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200189,
-      "name": "Ghost in My Home",
-      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Double Dare",
         "url": "https://open.spotify.com/album/1uh8SiLASOMowO5TWEYmbw"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 191544,
       "name": "Stupid for You",
       "url": "https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Ghost in My Home",
+        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 200189,
+      "name": "Ghost in My Home",
+      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -691,22 +691,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "When Your Heart Stops Beating",
-        "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
-      },
-      "artists": [
-        {
-          "name": "+44",
-          "url": "https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "When Your Heart Stops Beating",
-      "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "The Shape Of Punk To Come (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 310200,
       "name": "New Noise",
       "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "When Your Heart Stops Beating",
+        "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
+      },
+      "artists": [
+        {
+          "name": "+44",
+          "url": "https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "When Your Heart Stops Beating",
+      "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
       },
       "artists": [
         {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
         }
       ],
-      "duration_ms": 185419,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R"
+      "duration_ms": 193280,
+      "name": "Me First",
+      "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
       },
       "artists": [
         {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
         }
       ],
-      "duration_ms": 193280,
-      "name": "Me First",
-      "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
+      "duration_ms": 185419,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "From The Outside",
+      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Crisis Of Faith",
         "url": "https://open.spotify.com/album/0xwYNuGTVa31IWnADrA3tb"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 204076,
       "name": "Reckless Paradise",
       "url": "https://open.spotify.com/track/5DyopyvTi9Lt4Hpe1JGbD2"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 211100,
-      "name": "Want Me Around",
-      "url": "https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh"
     },
     {
       "added_at": "2021-07-08 22:59:55",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
       },
       "artists": [
         {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
         }
       ],
-      "duration_ms": 185493,
-      "name": "From The Outside",
-      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
+      "duration_ms": 211100,
+      "name": "Want Me Around",
+      "url": "https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh"
     },
     {
       "added_at": "2020-11-20 21:27:18",

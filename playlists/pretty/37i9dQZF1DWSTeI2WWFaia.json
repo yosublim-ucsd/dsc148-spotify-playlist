@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Earl Sweatshirt",
-  "num_followers": 1617459,
+  "num_followers": 1617499,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGM1MTRlM2Q2OTFmNzU1ZWMzODRlMzQzNjg4ZmFkNTRjNTNhNTc4",
+  "snapshot_id": "MCxiNTIwODFiODljOTUxNjAwMzhlNWZkNGM1MTk1ZThlNmFmMjdhOGM0",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -667,18 +667,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Broski",
-        "url": "https://open.spotify.com/album/6pmNvWLb8NDdierueF4F07"
+        "name": "Blowfly (with Ab-Soul)",
+        "url": "https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD"
       },
       "artists": [
         {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
         }
       ],
-      "duration_ms": 314067,
-      "name": "Broski",
-      "url": "https://open.spotify.com/track/63nolDQzy67C0vlyNXHfI7"
+      "duration_ms": 166238,
+      "name": "Blowfly (with Ab-Soul)",
+      "url": "https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -699,22 +703,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Blowfly (with Ab-Soul)",
-        "url": "https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD"
+        "name": "Broski",
+        "url": "https://open.spotify.com/album/6pmNvWLb8NDdierueF4F07"
       },
       "artists": [
         {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
-        },
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
         }
       ],
-      "duration_ms": 166238,
-      "name": "Blowfly (with Ab-Soul)",
-      "url": "https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR"
+      "duration_ms": 314067,
+      "name": "Broski",
+      "url": "https://open.spotify.com/track/63nolDQzy67C0vlyNXHfI7"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -848,17 +848,17 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
         },
         {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+          "name": "Sideshow",
+          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
         }
       ],
-      "duration_ms": 218600,
-      "name": "RIP Tracy (feat. Earl Sweatshirt & billy woods)",
-      "url": "https://open.spotify.com/track/2IUJBpKPp9jW3p2d4EbkmB"
+      "duration_ms": 179200,
+      "name": "Bless (feat. MIKE & Sideshow)",
+      "url": "https://open.spotify.com/track/2iPfam65gH9PWFplrBXwDW"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -940,17 +940,17 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         },
         {
-          "name": "Sideshow",
-          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
         }
       ],
-      "duration_ms": 179200,
-      "name": "Bless (feat. MIKE & Sideshow)",
-      "url": "https://open.spotify.com/track/2iPfam65gH9PWFplrBXwDW"
+      "duration_ms": 218600,
+      "name": "RIP Tracy (feat. Earl Sweatshirt & billy woods)",
+      "url": "https://open.spotify.com/track/2IUJBpKPp9jW3p2d4EbkmB"
     },
     {
       "added_at": "2023-10-27 04:00:00",

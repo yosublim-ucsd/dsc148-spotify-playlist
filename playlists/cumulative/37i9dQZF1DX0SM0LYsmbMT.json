@@ -12783,6 +12783,24 @@
     },
     {
       "album": {
+        "name": "Coffee in My Garden",
+        "url": "https://open.spotify.com/album/3ytOv1efIhpgI4gseo0s6B"
+      },
+      "artists": [
+        {
+          "name": "baegel",
+          "url": "https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150418,
+      "name": "Coffee in My Garden",
+      "url": "https://open.spotify.com/track/1gYpTOM06O9EpxI1Zq15wR"
+    },
+    {
+      "album": {
         "name": "Coffee Jazz",
         "url": "https://open.spotify.com/album/7cQ81TcqB4raY5AfZx0e3u"
       },
@@ -56934,7 +56952,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 160892,
       "name": "Shadowbrook",
       "url": "https://open.spotify.com/track/21K1rLF9exSvUwu0XiC6d8"

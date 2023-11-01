@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,207 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,369 likes - 100 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 38 | [Misericordia](https://open.spotify.com/track/45kBRk3OOKJNKJJFO0h1OJ) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Misericordia](https://open.spotify.com/album/0Y29ylAB8U61Jfb1O719IS) | 3:38 |
 | 39 | [Tu Reino Está Aquí](https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 5:33 |
 | 40 | [Más De Ti](https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Más De Ti](https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v) | 3:09 |
-| 41 | [Como Río En Primavera](https://open.spotify.com/track/1yWXAAeTbbjWEfzKvNBLQA) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [El Mismo Cielo](https://open.spotify.com/album/4a1zDZ3LqsdOsCb43s6l4r) | 3:50 |
-| 42 | [Mi Cristo Vive](https://open.spotify.com/track/7rz2GHDXUBsrFrxe1LnwTJ) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Dios Cuida De Mí](https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4) | 5:12 |
+| 41 | [Mi Cristo Vive](https://open.spotify.com/track/7rz2GHDXUBsrFrxe1LnwTJ) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Dios Cuida De Mí](https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4) | 5:12 |
+| 42 | [Como Río En Primavera](https://open.spotify.com/track/1yWXAAeTbbjWEfzKvNBLQA) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [El Mismo Cielo](https://open.spotify.com/album/4a1zDZ3LqsdOsCb43s6l4r) | 3:50 |
 | 43 | [Océanos \(Donde Mis Pies Pueden Fallar\) \- Live](https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 4:19 |
 | 44 | [Mi Refugio](https://open.spotify.com/track/59ThysQrym292KleIzgqci) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 4:46 |
 | 45 | [Mi Shalom](https://open.spotify.com/track/58japnj5Xn49Wpi5WpMiUT) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Graciela Galmes](https://open.spotify.com/artist/7EnYA3MomsUMPg4hbWmy5r) | [Mi Shalom](https://open.spotify.com/album/5tcaH26vOYM9mluQUwROcz) | 7:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 99 | [Hasta el Final](https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk) | 3:42 |
 | 100 | [Amor Imparable](https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 3:45 |
 
-Snapshot ID: `MCxhZTllNGM3NjI5ODRiMWQxOWFhZDA3Nzc0NTNlY2U5ODE4ZTI2MzYz`
+Snapshot ID: `MCwyNDhlNmUxZDVkOTRkMWNlZjFjNTc5MTE0NjJmMjM3OTgwNTA3ZjM1`

@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Pendulum \\m/",
-  "num_followers": 319476,
+  "num_followers": 319527,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDI4YTY4NDI5YTRlZGJhMTU1NGZhY2RiZjhiNmEzYzYxZDQxMDE0",
+  "snapshot_id": "MCw2YWI1NGY0ZDI1NGUwNTg0MWVhZmIzYjY0ZTZkZWYzYjhjNTdjM2Zh",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -895,30 +895,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Miss Anthropocene (Rave Edition)",
-        "url": "https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "name": "i_o",
-          "url": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
-        },
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 195300,
-      "name": "Violence - REZZ Remix",
-      "url": "https://open.spotify.com/track/2khrbeiEg5R6jZwbJzR5OL"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "1000 gecs and The Tree of Clues",
         "url": "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 175699,
       "name": "hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",
       "url": "https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Miss Anthropocene (Rave Edition)",
+        "url": "https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "i_o",
+          "url": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 195300,
+      "name": "Violence - REZZ Remix",
+      "url": "https://open.spotify.com/track/2khrbeiEg5R6jZwbJzR5OL"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Liar (with OST)",
-        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "OST",
-          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Liar (with OST)",
-      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Light Up The Sky (feat. Scott Stapp)",
         "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 284425,
       "name": "Light Up The Sky (feat. Scott Stapp)",
       "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Liar (with OST)",
+        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "OST",
+          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Liar (with OST)",
+      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "A Change of Perspective (Deluxe)",
-        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
-      },
-      "artists": [
-        {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Regret - Remix",
-      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Ghost Story (with All Time Low)",
         "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 166971,
       "name": "Ghost Story (with All Time Low)",
       "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "A Change of Perspective (Deluxe)",
+        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Regret - Remix",
+      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "BURNING RUBBER",
+        "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 133888,
+      "name": "BURNING RUBBER",
+      "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "11 Minutes (feat. Travis Barker) [Kayzo Remix]",
         "url": "https://open.spotify.com/album/77iOq0ll6f92j1Z0O8mW1u"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 257349,
       "name": "11 Minutes (feat. Travis Barker) - Kayzo Remix",
       "url": "https://open.spotify.com/track/0YbKNvAu6wHeM4bfRTZFT3"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "BURNING RUBBER",
-        "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 133888,
-      "name": "BURNING RUBBER",
-      "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Enemy Brain Entertainment Suite",
+        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
+      },
+      "artists": [
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "duration_ms": 251511,
+      "name": "Enemy Brain",
+      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Better Than Before",
         "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 164897,
       "name": "Better Than Before",
       "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Enemy Brain Entertainment Suite",
-        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
-      },
-      "artists": [
-        {
-          "name": "Fox Stevenson",
-          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
-        }
-      ],
-      "duration_ms": 251511,
-      "name": "Enemy Brain",
-      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "DANCEFLOOR",
-        "url": "https://open.spotify.com/album/1POG70eBb9W3K3BHhGKNMO"
-      },
-      "artists": [
-        {
-          "name": "NOISY",
-          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "DANCEFLOOR",
-      "url": "https://open.spotify.com/track/1Pvq76uvP8iMC7K0BXNE1c"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "demolition (Ruined by Glass Petals)",
         "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 226440,
       "name": "demolition (Ruined by Glass Petals)",
       "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "DANCEFLOOR",
+        "url": "https://open.spotify.com/album/1POG70eBb9W3K3BHhGKNMO"
+      },
+      "artists": [
+        {
+          "name": "NOISY",
+          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "DANCEFLOOR",
+      "url": "https://open.spotify.com/track/1Pvq76uvP8iMC7K0BXNE1c"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "The Wild Hunt",
-      "url": "https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "come around",
         "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 219789,
       "name": "come around",
       "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "The Wild Hunt",
+      "url": "https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2191,22 +2191,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Superhuman (with K.Flay)",
-        "url": "https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs"
+        "name": "you\u2019ve changed, i\u2019ve changed",
+        "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
       },
       "artists": [
         {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         },
         {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
         }
       ],
-      "duration_ms": 240044,
-      "name": "Superhuman (with K.Flay)",
-      "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
+      "duration_ms": 311625,
+      "name": "you\u2019ve changed, i\u2019ve changed",
+      "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2231,22 +2231,38 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "you\u2019ve changed, i\u2019ve changed",
-        "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
+        "name": "Superhuman (with K.Flay)",
+        "url": "https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
         },
         {
-          "name": "Chet Porter",
-          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
         }
       ],
-      "duration_ms": 311625,
-      "name": "you\u2019ve changed, i\u2019ve changed",
-      "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
+      "duration_ms": 240044,
+      "name": "Superhuman (with K.Flay)",
+      "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2275,18 +2291,38 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
+        "name": "Get To U",
+        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
       },
       "artists": [
         {
-          "name": "HVDES",
-          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
         }
       ],
-      "duration_ms": 292173,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
+      "duration_ms": 176008,
+      "name": "Get To U",
+      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Ohio is for Lovers",
+        "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 232123,
+      "name": "Ohio is for Lovers",
+      "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2315,42 +2351,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Ohio is for Lovers",
-        "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 232123,
-      "name": "Ohio is for Lovers",
-      "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Get To U",
-        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 176008,
-      "name": "Get To U",
-      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Raindrops",
         "url": "https://open.spotify.com/album/0r4obL0cot6rc2XIvcDoBD"
       },
@@ -2371,26 +2371,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Don't Miss (The Bloody Beetroots Remix)",
-        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        },
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
-      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X"
       },
@@ -2407,6 +2387,26 @@
       "duration_ms": 196500,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/2ppAD4evsVMvE6maIUlmZ2"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Don't Miss (The Bloody Beetroots Remix)",
+        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        },
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
+      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
     },
     {
       "added_at": "2023-10-27 04:00:00",

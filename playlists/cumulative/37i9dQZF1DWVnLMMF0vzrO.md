@@ -4,7 +4,7 @@
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-172 songs - 10 hr 30 min
+173 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Apasionado](https://open.spotify.com/track/5SdunfqBgvpPCyhlp0cZAO) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Apasionado](https://open.spotify.com/album/3SfEmyaHreB3JRU6fzVk6u) | 2:43 | 2021-11-17 |  |
 | [Aurora](https://open.spotify.com/track/2f3bnOItTiQNELrLBl5Ztc) | [Chiquito Socarras y su Conjunto](https://open.spotify.com/artist/4sadDI30koP3HJ8sRy91wk) | [Recordando El Ayer](https://open.spotify.com/album/5zerx4VZjfwZyNphtXk7Lz) | 2:26 | 2021-11-17 |  |
 | [Bailala Pronto](https://open.spotify.com/track/2tDoreKvv4UqcfZACXXqaM) | [Manny Oquendo Y Libre](https://open.spotify.com/artist/0RCOPdcvHvXsH30ym7trfH) | [Salsa Del Barrio](https://open.spotify.com/album/6cMCcIUu4pvNiZTB1WeTY7) | 8:30 | 2021-11-17 |  |
-| [Baker Street \(Edit\) \- Radio Edit](https://open.spotify.com/track/2TZ46DnfbpUbDKh8rSRW0a) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [70 Hits of the 70s](https://open.spotify.com/album/6tF3XO8i8MvyvGvMPBlT0Q) | 4:08 | 2021-11-17 |  |
+| [Baker Street \(Edit\) \- Radio Edit](https://open.spotify.com/track/2TZ46DnfbpUbDKh8rSRW0a) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [70 Hits of the 70s](https://open.spotify.com/album/6tF3XO8i8MvyvGvMPBlT0Q) | 4:08 | 2021-11-17 | 2023-11-01 |
+| [Baker Street \- Radio Edit](https://open.spotify.com/track/2OvXUMw8CmgU8fuaWiQ0fK) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Classic Rock](https://open.spotify.com/album/2QaATxSGlkOmg7BhJfihl3) | 4:08 | 2021-11-17 |  |
 | [Balenciaga](https://open.spotify.com/track/7ESfMW8XqaCRJvDy1vPKpQ) | [Dick Doerschuck](https://open.spotify.com/artist/3mc5pYdOrBnL4s3XOWHLQ6) | [Kpm 1000 Series: Flamboyant Themes \- Volume 5](https://open.spotify.com/album/3UVYqMDMCrRVLwBF5jRhII) | 2:41 | 2021-11-17 |  |
 | [Bazar](https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:29 | 2021-11-17 |  |
 | [Besos De Ceniza](https://open.spotify.com/track/55DQStH29qHXa29EgJa7fb) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 2:56 | 2021-11-17 |  |

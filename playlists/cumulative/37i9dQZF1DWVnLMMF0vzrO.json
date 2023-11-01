@@ -208,10 +208,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 248826,
       "name": "Baker Street (Edit) - Radio Edit",
       "url": "https://open.spotify.com/track/2TZ46DnfbpUbDKh8rSRW0a"
+    },
+    {
+      "album": {
+        "name": "Classic Rock",
+        "url": "https://open.spotify.com/album/2QaATxSGlkOmg7BhJfihl3"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248826,
+      "name": "Baker Street - Radio Edit",
+      "url": "https://open.spotify.com/track/2OvXUMw8CmgU8fuaWiQ0fK"
     },
     {
       "album": {

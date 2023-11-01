@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u4e0a\u767d\u77f3\u840c\u97f3",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: EIKO",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 164506,
       "name": "#Me",
       "url": "https://open.spotify.com/track/0W8xLPtCErwDQvi35pUlQj"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 182360,
       "name": "(wanna vibe) with you",
       "url": "https://open.spotify.com/track/16Hfgakfi5BH52Uq6giV9P"
@@ -1208,6 +1208,24 @@
       "duration_ms": 198002,
       "name": "All to Myself",
       "url": "https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g"
+    },
+    {
+      "album": {
+        "name": "Allure of the Dark",
+        "url": "https://open.spotify.com/album/3Qw8d15CTQP4gqkG7KkgjH"
+      },
+      "artists": [
+        {
+          "name": "Daoko",
+          "url": "https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248852,
+      "name": "Allure of the Dark",
+      "url": "https://open.spotify.com/track/0hXgDM8G5XNXQvkPmrZI5j"
     },
     {
       "album": {
@@ -4119,6 +4137,24 @@
     },
     {
       "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/1x9h8VxQhsxtO7v2ReRTMs"
+      },
+      "artists": [
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219100,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/0IzDyNfwiqQGaQ6DqX7ss0"
+    },
+    {
+      "album": {
         "name": "Ctrl Z (feat. Foi)",
         "url": "https://open.spotify.com/album/5JrSCjgBmW2kTKIVvJSXen"
       },
@@ -4868,7 +4904,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 201411,
       "name": "doudemoii hanashiga shitai",
       "url": "https://open.spotify.com/track/7pbMb6wgeowLSl2ZoN5X31"
@@ -4940,7 +4976,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 250247,
       "name": "DREAMER",
       "url": "https://open.spotify.com/track/7L48QojIipgnEBcmVgAb9a"
@@ -5086,7 +5122,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 234043,
       "name": "EDEN",
       "url": "https://open.spotify.com/track/1OqhdM5mUZ5fJeh4s5vhxg"
@@ -5522,7 +5558,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 154765,
       "name": "f e e l\u3000d o w n",
       "url": "https://open.spotify.com/track/28g681iatxhWl09gpKVxPO"
@@ -5954,7 +5990,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 230520,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/01PfUkulXfv8lciqwwElRT"
@@ -7366,7 +7402,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 211226,
       "name": "Hey Song",
       "url": "https://open.spotify.com/track/0tjzgMwPAAkL4xAY3g74FS"
@@ -7984,8 +8020,8 @@
       },
       "artists": [
         {
-          "name": "\u6e80\u5cf6\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/3NmymwEu7AQgg74vBh57NW"
+          "name": "Hikari Mitsushima",
+          "url": "https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG"
         }
       ],
       "date_added": "2023-10-24",
@@ -9410,7 +9446,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 259333,
       "name": "Kimi ni Sayonara",
       "url": "https://open.spotify.com/track/1XORfqcIaAjoEMLkR4GKou"
@@ -9494,6 +9530,24 @@
       "duration_ms": 313853,
       "name": "Kodoku na Rhapsody",
       "url": "https://open.spotify.com/track/5EzgUSV8GCGZgJr5VLcJkV"
+    },
+    {
+      "album": {
+        "name": "koi",
+        "url": "https://open.spotify.com/album/3kmSRwmaYAPQDBPkG3WZJL"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30b8\u30bf \u30ab\u30b3",
+          "url": "https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196007,
+      "name": "koi",
+      "url": "https://open.spotify.com/track/6aR2Dy2Ur9TZ6PifgvJYFJ"
     },
     {
       "album": {
@@ -9674,7 +9728,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 362920,
       "name": "Kosetsuran Suki Yori Aishiteru",
       "url": "https://open.spotify.com/track/3DpJekec48fIolX3wWDqUY"
@@ -10124,7 +10178,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 247380,
       "name": "Lifetime Respect",
       "url": "https://open.spotify.com/track/03z4BbXemDadxz54qdyEyu"
@@ -11009,6 +11063,24 @@
     },
     {
       "album": {
+        "name": "Manifest Girl",
+        "url": "https://open.spotify.com/album/7L8m54pVt46SzHAKPLAZEG"
+      },
+      "artists": [
+        {
+          "name": "Julia Takada",
+          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143275,
+      "name": "Manifest Girl",
+      "url": "https://open.spotify.com/track/5AD6qHY3vZtSEZqzan9EeW"
+    },
+    {
+      "album": {
         "name": "MASK",
         "url": "https://open.spotify.com/album/1M8IjVBPdGbXni92fG1BGq"
       },
@@ -11771,6 +11843,24 @@
     },
     {
       "album": {
+        "name": "Mori no chiisana restaurant",
+        "url": "https://open.spotify.com/album/06ZsAXR2QKeZGVrLhqmbJa"
+      },
+      "artists": [
+        {
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153033,
+      "name": "Mori no chiisana restaurant",
+      "url": "https://open.spotify.com/track/77GGe1iI6TipMCaWuxfWXr"
+    },
+    {
+      "album": {
         "name": "flow",
         "url": "https://open.spotify.com/album/0EiXrwXffN7ACOHt6kRBkf"
       },
@@ -12042,7 +12132,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 283757,
       "name": "nagame",
       "url": "https://open.spotify.com/track/2tLy9jIGMYYDMyRDlgFzn8"
@@ -12432,7 +12522,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 178604,
       "name": "NIGHTINGALE",
       "url": "https://open.spotify.com/track/27WwSBBpQmkCh5YlOmHpDm"
@@ -14426,7 +14516,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 300043,
       "name": "Reason",
       "url": "https://open.spotify.com/track/4xQ0XF4ncDPqwbBeneZXuS"
@@ -15797,6 +15887,24 @@
     },
     {
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/4HscBfxdWkJ1HE1tEDliKr"
+      },
+      "artists": [
+        {
+          "name": "KOMONO LAKE",
+          "url": "https://open.spotify.com/artist/3wWaB9vMXkeUHD6RgH3lpG"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/7Jdp3DDmfO5JbfdRSRB8K8"
+    },
+    {
+      "album": {
         "name": "Silhouette (feat. Asako Toki)",
         "url": "https://open.spotify.com/album/3cXuQfb9T7Jge2sne0xbfl"
       },
@@ -16106,7 +16214,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 253115,
       "name": "SLOW",
       "url": "https://open.spotify.com/track/3bL3FdQBW9AXBnB5RatG8f"
@@ -16290,7 +16398,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 233529,
       "name": "Soap Flower",
       "url": "https://open.spotify.com/track/4yjt1QUXTzlGh8EsXDXgun"
@@ -18285,6 +18393,24 @@
     },
     {
       "album": {
+        "name": "This Wish (From \"Wish\")",
+        "url": "https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv"
+      },
+      "artists": [
+        {
+          "name": "Erika Ikuta",
+          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "This Wish - From \"Wish\"",
+      "url": "https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb"
+    },
+    {
+      "album": {
         "name": "Thoughts",
         "url": "https://open.spotify.com/album/2Agph7QhGyQzKPIDBXkF9p"
       },
@@ -18804,7 +18930,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 177259,
       "name": "Trank",
       "url": "https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA"
@@ -19304,7 +19430,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 181022,
       "name": "utatane",
       "url": "https://open.spotify.com/track/2gIyLzwAB0kagC7WwQaGWy"
@@ -19496,7 +19622,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 252361,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/5fqDukIEgU8Zn8aJxumLdd"
@@ -20078,6 +20204,24 @@
       "duration_ms": 272466,
       "name": "Where the Wind Blows",
       "url": "https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6"
+    },
+    {
+      "album": {
+        "name": "Whimsical Love",
+        "url": "https://open.spotify.com/album/6iswmI2uVud7XSnCkF71Hg"
+      },
+      "artists": [
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138088,
+      "name": "Whimsical Love",
+      "url": "https://open.spotify.com/track/7pTNf5ChU3IBRjj9kx397O"
     },
     {
       "album": {
@@ -21174,7 +21318,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 248906,
       "name": "\u3042\u309d\u7121\u60c5",
       "url": "https://open.spotify.com/track/0WKL3HPjCBQYnJXCqPEV6M"
@@ -21399,6 +21543,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30ca\u30c3\u30afJUJU \uff5e\u591c\u306eRequest\uff5e \u300e\u5e30\u3063\u3066\u304d\u305f\u30de\u30de\u300f",
+        "url": "https://open.spotify.com/album/1TRaceQ2OvqtBD79bEwkmt"
+      },
+      "artists": [
+        {
+          "name": "JUJU",
+          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263266,
+      "name": "\u3044\u3068\u3057\u306e\u30a8\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/1TApEXSKbGFEEWoRAReZI6"
+    },
+    {
+      "album": {
         "name": "\u3044\u3068\u3092\u304b\u3057",
         "url": "https://open.spotify.com/album/0IeYhVouWKJSzL9RoaJoQf"
       },
@@ -21414,6 +21576,24 @@
       "duration_ms": 195000,
       "name": "\u3044\u3068\u3092\u304b\u3057",
       "url": "https://open.spotify.com/track/7EDm2Hy7WYm49AXywJdpkW"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea \u30c8\u30ea\u30d3\u30e5\u30fc\u30c8\u30a2\u30eb\u30d0\u30e0\u300c\u30b8\u30d6\u30ea\u3092\u3046\u305f\u3046\u300d",
+        "url": "https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0"
+      },
+      "artists": [
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269840,
+      "name": "\u3044\u306e\u3061\u306e\u540d\u524d",
+      "url": "https://open.spotify.com/track/0uUiDGILIZ6QYSjFhbNwSz"
     },
     {
       "album": {
@@ -22283,6 +22463,24 @@
     },
     {
       "album": {
+        "name": "\u305a\u308b\u3044\u4eba",
+        "url": "https://open.spotify.com/album/2uuQEGZJ9rG524LtsMdLb5"
+      },
+      "artists": [
+        {
+          "name": "POP ART TOWN",
+          "url": "https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274368,
+      "name": "\u305a\u308b\u3044\u4eba",
+      "url": "https://open.spotify.com/track/15iUxYEJLqCUAmQbWoLiSr"
+    },
+    {
+      "album": {
         "name": "URL",
         "url": "https://open.spotify.com/album/4Z3L9cwcj2znLM7bXYDHaM"
       },
@@ -22909,6 +23107,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea \u30c8\u30ea\u30d3\u30e5\u30fc\u30c8\u30a2\u30eb\u30d0\u30e0\u300c\u30b8\u30d6\u30ea\u3092\u3046\u305f\u3046\u300d",
+        "url": "https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0"
+      },
+      "artists": [
+        {
+          "name": "Hikari Mitsushima",
+          "url": "https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236173,
+      "name": "\u3072\u3068\u308a\u307c\u3063\u3061\u306f\u3084\u3081\u305f",
+      "url": "https://open.spotify.com/track/7irKTBIgIKmDByJj2OVwCr"
+    },
+    {
+      "album": {
         "name": "\u3072\u308b\u306d\u306e\u56fd",
         "url": "https://open.spotify.com/album/42FD62QpX9fh4PUcKjSRXM"
       },
@@ -23476,7 +23692,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 284217,
       "name": "\u30a2\u30a4\u30b3\u30c8\u30d0",
       "url": "https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9"
@@ -24358,7 +24574,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 167470,
       "name": "\u30af\u30e9\u30f3\u30d9\u30ea\u30fc\u30b8\u30e3\u30e0\u3092\u304b\u3051\u3066",
       "url": "https://open.spotify.com/track/49vr4m19sPkH12IKTauEUz"
@@ -25333,6 +25549,24 @@
     },
     {
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/0QRUkGBG6o0HmgelXtC4XF"
+      },
+      "artists": [
+        {
+          "name": "EIKO",
+          "url": "https://open.spotify.com/artist/5LK4fwi1YX9hHocTLR1ss1"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "\u30bf\u30a4\u30e0\u30fb\u30c8\u30e9\u30d9\u30eb",
+      "url": "https://open.spotify.com/track/3nWLKDOToAlFX9rhbUjCiA"
+    },
+    {
+      "album": {
         "name": "FOLK 4",
         "url": "https://open.spotify.com/album/7JMNAUh6TKRU0V0ozb0CAf"
       },
@@ -25482,6 +25716,24 @@
       "duration_ms": 203554,
       "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
       "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea \u30c8\u30ea\u30d3\u30e5\u30fc\u30c8\u30a2\u30eb\u30d0\u30e0\u300c\u30b8\u30d6\u30ea\u3092\u3046\u305f\u3046\u300d",
+        "url": "https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0"
+      },
+      "artists": [
+        {
+          "name": "Little Glee Monster",
+          "url": "https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281960,
+      "name": "\u30c6\u30eb\u30fc\u306e\u5504",
+      "url": "https://open.spotify.com/track/2mCNZTuIJjX39Jer2ap2oX"
     },
     {
       "album": {
@@ -26335,6 +26587,28 @@
     },
     {
       "album": {
+        "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3",
+        "url": "https://open.spotify.com/album/5S1jzfiw00B4Uqm69TGZop"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153461,
+      "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3",
+      "url": "https://open.spotify.com/track/4M1dqbgZzVtUfddPIDt4CJ"
+    },
+    {
+      "album": {
         "name": "\u30dc\u30af\u3068\u30ad\u30df\u3092\u7e4b\u3050\u30e2\u30ce",
         "url": "https://open.spotify.com/album/7bacewGlY9bUzu2Fy94hKG"
       },
@@ -27077,6 +27351,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea \u30c8\u30ea\u30d3\u30e5\u30fc\u30c8\u30a2\u30eb\u30d0\u30e0\u300c\u30b8\u30d6\u30ea\u3092\u3046\u305f\u3046\u300d",
+        "url": "https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0"
+      },
+      "artists": [
+        {
+          "name": "Kaela Kimura",
+          "url": "https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198933,
+      "name": "\u30eb\u30fc\u30b8\u30e5\u306e\u4f1d\u8a00",
+      "url": "https://open.spotify.com/track/5WAbPoq187MvAYExnuxPTM"
+    },
+    {
+      "album": {
         "name": "\u30ec\u30a4\u30c9\u30d0\u30c3\u30af\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
         "url": "https://open.spotify.com/album/6EBNFErF2A9KQb2Jcjbfqq"
       },
@@ -27359,6 +27651,24 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u5b89\u6642\u9593",
+        "url": "https://open.spotify.com/album/4F4gdyk85vpE3eoyUpycjr"
+      },
+      "artists": [
+        {
+          "name": "peanut butters",
+          "url": "https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202164,
+      "name": "\u4e0d\u5b89\u6642\u9593",
+      "url": "https://open.spotify.com/track/6IFu5wpsp8fqtsEsogzB4w"
+    },
+    {
+      "album": {
         "name": "\u5927\u5929\u56fd",
         "url": "https://open.spotify.com/album/2xODGTzciH3878f1NXogYx"
       },
@@ -27594,6 +27904,24 @@
       "duration_ms": 197653,
       "name": "\u4eca\u65e5\u305f\u3099\u3051\u306f\u601d\u3044\u51fa\u3057\u3066\u3044\u3044?",
       "url": "https://open.spotify.com/track/5objh7fI7Hl6Tw5oKOI1e1"
+    },
+    {
+      "album": {
+        "name": "\u4eca\u751f\u306e\u559c",
+        "url": "https://open.spotify.com/album/2GUaWPSbCAaEDTGBvjHBW8"
+      },
+      "artists": [
+        {
+          "name": "Tina Moon",
+          "url": "https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248372,
+      "name": "\u4eca\u751f\u306e\u559c",
+      "url": "https://open.spotify.com/track/71dBOO3g27m1HPqA7bV7CP"
     },
     {
       "album": {
@@ -28707,6 +29035,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea \u30c8\u30ea\u30d3\u30e5\u30fc\u30c8\u30a2\u30eb\u30d0\u30e0\u300c\u30b8\u30d6\u30ea\u3092\u3046\u305f\u3046\u300d",
+        "url": "https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0"
+      },
+      "artists": [
+        {
+          "name": "Leo Ieiri",
+          "url": "https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232600,
+      "name": "\u541b\u3092\u306e\u305b\u3066",
+      "url": "https://open.spotify.com/track/6WvgXsUgmgCYUMspN7FO6Y"
+    },
+    {
+      "album": {
         "name": "\u544a\u767d\u30b9\u30c6\u30c3\u30d7\u30b9",
         "url": "https://open.spotify.com/album/5GV4FMJ6ZYXhkmf1Jaf8tA"
       },
@@ -28736,7 +29082,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 232678,
       "name": "\u5473\u564c\u6c41\u3068\u30d0\u30bf\u30fc",
       "url": "https://open.spotify.com/track/6QrokLHD7AFvDqFH7pCY7U"
@@ -29791,6 +30137,24 @@
     },
     {
       "album": {
+        "name": "\u597d\u304d\u306b\u3057\u306a\u3088",
+        "url": "https://open.spotify.com/album/0himSAZSz3XxBPhX5JWs6p"
+      },
+      "artists": [
+        {
+          "name": "Anly",
+          "url": "https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266693,
+      "name": "\u597d\u304d\u306b\u3057\u306a\u3088",
+      "url": "https://open.spotify.com/track/3Yyc0Ccj7lZ3VOgBFMlEQo"
+    },
+    {
+      "album": {
         "name": "\u5984\u60f3\u811a\u672c\u57f7\u7b46\u6d3b\u52d5",
         "url": "https://open.spotify.com/album/3jSCPwRonPwBHFuCNQRNvm"
       },
@@ -30384,7 +30748,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 182653,
       "name": "\u604b\u3054\u3053\u308d",
       "url": "https://open.spotify.com/track/56jCBYUSzkGqxnLSCAEXBA"
@@ -30788,6 +31152,24 @@
       "duration_ms": 209333,
       "name": "\u611b\u611b\u3060\u306a",
       "url": "https://open.spotify.com/track/0R8iqGwB3Pqm8B682EdFNo"
+    },
+    {
+      "album": {
+        "name": "\u611b\u6d74\u3073\u308b",
+        "url": "https://open.spotify.com/album/07OwU3Hy6GsnrkUgTkP3JA"
+      },
+      "artists": [
+        {
+          "name": "Izumi Makura",
+          "url": "https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196100,
+      "name": "\u611b\u6d74\u3073\u308b",
+      "url": "https://open.spotify.com/track/1pMWifOvrQ5DVqnIHCBUh3"
     },
     {
       "album": {
@@ -31290,7 +31672,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 376300,
       "name": "\u6642\u306e\u89e3\u6c7a",
       "url": "https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l"
@@ -32208,7 +32590,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 257799,
       "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
       "url": "https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR"
@@ -32244,7 +32626,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 271500,
       "name": "\u6d99\u304f\u3093\u3001\u4eca\u65e5\u3082\u304a\u306f\u3088\u3046\u3063",
       "url": "https://open.spotify.com/track/3pUwKM67uYbqJY6EwJgTRu"
@@ -33556,7 +33938,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-31",
+      "date_removed": null,
       "duration_ms": 199266,
       "name": "\u7dda\u9999\u82b1\u706b - feat. \u5e7e\u7530\u308a\u3089",
       "url": "https://open.spotify.com/track/5p0iFOcN4kDKBqE9Tld5eJ"
@@ -33881,6 +34263,24 @@
     },
     {
       "album": {
+        "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
+        "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199333,
+      "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
+      "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
+    },
+    {
+      "album": {
         "name": "\u82b1\u306e\u3088\u3046\u306a\u541b\u306b",
         "url": "https://open.spotify.com/album/65jHLiPPEIKWSfiRRPApw8"
       },
@@ -34098,7 +34498,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 275384,
       "name": "\u8679\u8272\u30af\u30b8\u30e9",
       "url": "https://open.spotify.com/track/6NmQdItURzFsHGP6f0VOQo"
@@ -35104,7 +35504,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 300021,
       "name": "\u97f3\u306e\u8a18\u61b6",
       "url": "https://open.spotify.com/track/48CztoIkzgIucZ6ynPUrmr"

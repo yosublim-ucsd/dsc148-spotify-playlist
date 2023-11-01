@@ -4,7 +4,7 @@
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-223 songs - 16 hr 10 min
+224 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Endless](https://open.spotify.com/track/1OzCTRwO4znqWZsPJZpRSt) | [플라워](https://open.spotify.com/artist/5sp44iOiTOC0lXmN8zMRaT) | [해룡이의 Sad Love Story](https://open.spotify.com/album/7KFnrJoRlzphnYp2tZefaS) | 4:15 | 2021-04-21 |  |
 | [Etude of Memory](https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition](https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj) | 5:13 | 2021-04-21 |  |
 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 | 2021-04-21 |  |
-| [Every moment of you \- Piano Ver.](https://open.spotify.com/track/23nYSeav0fx7NcOefWdmWL) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star \(Original Television Soundtrack\)](https://open.spotify.com/album/5rx7yA3wqQpDZz0xDeiflG) | 4:02 | 2021-04-21 |  |
+| [Every Moment Of You \(Piano Ver.\)](https://open.spotify.com/track/1DzUxfql9qF6Jk8zijN0IT) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star OST](https://open.spotify.com/album/64eGzMLFB50yhI3L8oNQr0) | 4:02 | 2021-04-21 |  |
+| [Every moment of you \- Piano Ver.](https://open.spotify.com/track/23nYSeav0fx7NcOefWdmWL) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star \(Original Television Soundtrack\)](https://open.spotify.com/album/5rx7yA3wqQpDZz0xDeiflG) | 4:02 | 2021-04-21 | 2023-11-01 |
 | [Fall in Fall](https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Fall in Fall](https://open.spotify.com/album/41JYmSk66c8HtX3boieMWe) | 3:51 | 2021-04-21 | 2023-04-24 |
 | [Fall in Fall](https://open.spotify.com/track/7M8UfQ4tszq3j4zpljhLX2) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [ABOUT ME](https://open.spotify.com/album/6sxOMgS63kM7nDYkUYkkuZ) | 3:51 | 2021-04-21 |  |
 | [Farewell In Tears](https://open.spotify.com/track/0nbO8Vw4XVkVQF0rSw9lBf) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The World of the Married, Pt\. 5 \(Original Television SoundTrack\)](https://open.spotify.com/album/3JNtbSAHXEcR67bAjVSscB) | 4:16 | 2021-04-21 |  |

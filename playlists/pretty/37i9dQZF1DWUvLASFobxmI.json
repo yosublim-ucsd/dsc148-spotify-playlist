@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Primos del Este en portada.",
-  "num_followers": 428230,
+  "num_followers": 428333,
   "original_name": "Norte\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTI2M2Q4YWU3MDEyOTI5Yjc4NTdlYzgwNWNmNGQ4MGNiNjNmYzVk",
+  "snapshot_id": "MCxmZWVlMTBjODFjNzdjZjM1NmI2OWUyNzQ3YzI2OWZkN2RhZTNmODY3",
   "tracks": [
     {
       "added_at": "2023-10-21 07:06:11",
@@ -607,22 +607,18 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "No Quiero Perderte",
-        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
       "artists": [
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 159530,
-      "name": "No Quiero Perderte",
-      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
+      "duration_ms": 183594,
+      "name": "El Ruddy",
+      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -767,18 +763,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+        "name": "No Quiero Perderte",
+        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
       },
       "artists": [
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 183594,
-      "name": "El Ruddy",
-      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
+      "duration_ms": 159530,
+      "name": "No Quiero Perderte",
+      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Lo Que La Gente Estaba Esperando",
-        "url": "https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 166229,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "Cuando Alguien Me Amaba",
         "url": "https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 144514,
       "name": "Cuando Alguien Me Amaba",
       "url": "https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "Lo Que La Gente Estaba Esperando",
+        "url": "https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 166229,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Huapango Amor Ranchero",
-        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
-      },
-      "artists": [
-        {
-          "name": "La Humildad De La Musica Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "Huapango Amor Ranchero",
-      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "John Wick",
         "url": "https://open.spotify.com/album/54ocTUzlLDrjdP07uq40Lh"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 139458,
       "name": "John Wick",
       "url": "https://open.spotify.com/track/6qpkbNq4GA8m4bOz9iqt5m"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
+        "name": "Pens\u00e9",
+        "url": "https://open.spotify.com/album/1k7uFcLZQFa5Fc2uGRQlUE"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "Pens\u00e9",
+      "url": "https://open.spotify.com/track/1uXBWH2EywSGYviZ1yTTAu"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
         "name": "Mi Reca\u00edda en Los Excesos",
         "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 183724,
       "name": "Mi Reca\u00edda en Los Excesos",
       "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
-        "name": "Pens\u00e9",
-        "url": "https://open.spotify.com/album/1k7uFcLZQFa5Fc2uGRQlUE"
-      },
-      "artists": [
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Pens\u00e9",
-      "url": "https://open.spotify.com/track/1uXBWH2EywSGYviZ1yTTAu"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
+        "name": "Qu\u00e9date Conmigo Esta Noche",
+        "url": "https://open.spotify.com/album/3B5Wz224y9RsbOZ7uCmedi"
+      },
+      "artists": [
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Qu\u00e9date Conmigo Esta Noche",
+      "url": "https://open.spotify.com/track/0eJ45rJvRVc6OBZqe4hHsc"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
         "name": "Que Lloro",
         "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
       },
@@ -1683,22 +1699,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Qu\u00e9date Conmigo Esta Noche",
-        "url": "https://open.spotify.com/album/3B5Wz224y9RsbOZ7uCmedi"
-      },
-      "artists": [
-        {
-          "name": "Geru y Su Legion 7",
-          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Qu\u00e9date Conmigo Esta Noche",
-      "url": "https://open.spotify.com/track/0eJ45rJvRVc6OBZqe4hHsc"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "Me Rehuso",
         "url": "https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY"
       },
@@ -1711,6 +1711,22 @@
       "duration_ms": 167131,
       "name": "Me Rehuso",
       "url": "https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "El Cabez\u00f3n (El Papas Fritas)",
+        "url": "https://open.spotify.com/album/480oASOS6npWutZkW7zeNf"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "El Cabez\u00f3n (El Papas Fritas)",
+      "url": "https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1735,18 +1751,18 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "El Cabez\u00f3n (El Papas Fritas)",
-        "url": "https://open.spotify.com/album/480oASOS6npWutZkW7zeNf"
+        "name": "Con Una Mirada",
+        "url": "https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 153653,
-      "name": "El Cabez\u00f3n (El Papas Fritas)",
-      "url": "https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ"
+      "duration_ms": 201898,
+      "name": "Con Una Mirada",
+      "url": "https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1767,22 +1783,6 @@
       "duration_ms": 186125,
       "name": "Sobran Motivos",
       "url": "https://open.spotify.com/track/0UqFVRFPxC6SfwFOTRfhRp"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
-        "name": "Con Una Mirada",
-        "url": "https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 201898,
-      "name": "Con Una Mirada",
-      "url": "https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Pu\u00f1o y Letra",
-        "url": "https://open.spotify.com/album/1SQYNl1nhmKCcg36EyhSbE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        }
-      ],
-      "duration_ms": 180143,
-      "name": "Pu\u00f1o y Letra",
-      "url": "https://open.spotify.com/track/2JAGlHbTLkKCb1w6T9mmEn"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 233404,
       "name": "La Octava Maravilla - En Vivo",
       "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "Pu\u00f1o y Letra",
+        "url": "https://open.spotify.com/album/1SQYNl1nhmKCcg36EyhSbE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "duration_ms": 180143,
+      "name": "Pu\u00f1o y Letra",
+      "url": "https://open.spotify.com/track/2JAGlHbTLkKCb1w6T9mmEn"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -2095,6 +2095,26 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda",
+          "url": "https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 240128,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
         "name": "Se Te Olvid\u00f3",
         "url": "https://open.spotify.com/album/0GWovdEPvpI0iq4kgAop1c"
       },
@@ -2115,22 +2135,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Pap\u00e1 Mundo",
-        "url": "https://open.spotify.com/album/2cVrh5er4TOD47uUn6bRLA"
-      },
-      "artists": [
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        }
-      ],
-      "duration_ms": 185735,
-      "name": "Pap\u00e1 Mundo",
-      "url": "https://open.spotify.com/track/5NttWarP12vtmBUYB6gfwy"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "Los de 100pre",
         "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
       },
@@ -2147,22 +2151,18 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd"
+        "name": "Pap\u00e1 Mundo",
+        "url": "https://open.spotify.com/album/2cVrh5er4TOD47uUn6bRLA"
       },
       "artists": [
         {
-          "name": "Conjunto Rienda",
-          "url": "https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU"
-        },
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
         }
       ],
-      "duration_ms": 240128,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8"
+      "duration_ms": 185735,
+      "name": "Pap\u00e1 Mundo",
+      "url": "https://open.spotify.com/track/5NttWarP12vtmBUYB6gfwy"
     },
     {
       "added_at": "2023-10-21 07:06:11",

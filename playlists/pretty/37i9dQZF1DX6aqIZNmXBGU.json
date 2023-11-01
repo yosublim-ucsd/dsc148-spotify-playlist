@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17533,
+  "num_followers": 17531,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTZhMjBlYWQ1YzU2NDE1ZjFmZDMxZmNjMjhlNmYxYTE1Yzg4OTZl",
+  "snapshot_id": "MCwzOTM2NGFkM2Y5ZjA4M2E3Y2I1N2VkNGMzM2U5ZDM3MWY5ZDNkYjM1",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -379,8 +379,8 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "name": "In Utero",
+        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 211440,
-      "name": "Stay Away",
-      "url": "https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q"
+      "duration_ms": 95386,
+      "name": "Tourette's",
+      "url": "https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -475,8 +475,8 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "In Utero",
-        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 95386,
-      "name": "Tourette's",
-      "url": "https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a"
+      "duration_ms": 211440,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q"
     },
     {
       "added_at": "2021-04-09 06:19:31",

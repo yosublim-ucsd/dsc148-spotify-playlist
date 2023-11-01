@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Bou
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,985 likes - 55 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,050 likes - 55 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 46 | [Dancing in the Dark](https://open.spotify.com/track/3DZExPtWIJE8LPMCLpHGxK) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Buunshin](https://open.spotify.com/artist/5ucX3eT8wlEQGRVwUyeqBj) | [Dancing in the Dark](https://open.spotify.com/album/35bk4rPp9c8t7wEmXgrBFU) | 2:47 |
 | 47 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 |
 | 48 | [Breathe \(feat\. RZA\) \- René LaVice Dark D&B Remix](https://open.spotify.com/track/1acpIlnD71Anfcy2RXZkm3) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v) | [Breathe \(feat\. RZA\) \[René LaVice Dark D&B Remix\]](https://open.spotify.com/album/6dmrmMHEwhSDb593XSxc4M) | 4:35 |
-| 49 | [Lively \(feat\. Jaykae & Blair Muir\) \- Alcemist Remix](https://open.spotify.com/track/3bDmXTnza1kblLGQrN5jvX) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Lively \(feat\. Jaykae & Blair Muir\) \[Alcemist Remix\]](https://open.spotify.com/album/6dn1fXm9vecpP4wc0Qmawi) | 3:54 |
-| 50 | [Transcend](https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8) | 4:52 |
+| 49 | [Transcend](https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8) | 4:52 |
+| 50 | [Lively \(feat\. Jaykae & Blair Muir\) \- Alcemist Remix](https://open.spotify.com/track/3bDmXTnza1kblLGQrN5jvX) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Lively \(feat\. Jaykae & Blair Muir\) \[Alcemist Remix\]](https://open.spotify.com/album/6dn1fXm9vecpP4wc0Qmawi) | 3:54 |
 | 51 | [Empire](https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Empire](https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn) | 6:07 |
 | 52 | [Ultralight](https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI) | 3:43 |
 | 53 | [Do It Like Me](https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Complex](https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Do It Like Me](https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR) | 3:24 |
-| 54 | [High Roller](https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [High Roller](https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM) | 4:35 |
-| 55 | [All Night](https://open.spotify.com/track/6D0sSoC203d1T7ojLff5vs) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ) | [All Night](https://open.spotify.com/album/69tWFPs75Z5mThgLAdQ3xt) | 4:41 |
+| 54 | [Spotlight](https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h) | 3:45 |
+| 55 | [High Roller](https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [High Roller](https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM) | 4:35 |
 
-Snapshot ID: `MCw1MzNhNjMyZDBhZWE1ZGJjNzY1NTkwOGFkYjQzOWM1ZGI5MTlhYzI2`
+Snapshot ID: `MCxlOGVlZjE5YmJiNDk0YmJlNjAxMjg5OGJjMzZkNjU5YmUyNzE3NDg5`

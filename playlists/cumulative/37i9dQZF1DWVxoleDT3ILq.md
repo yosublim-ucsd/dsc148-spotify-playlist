@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Rubio
 
-426 songs - 1 day 1 hr 39 min
+427 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Agosto](https://open.spotify.com/track/7GYVJNG96WYYpjs9QN5S4n) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Agosto](https://open.spotify.com/album/1ZCUK43eRN1Joej7uRKJYD) | 2:53 | 2022-08-26 | 2023-04-09 |
 | [Agua](https://open.spotify.com/track/2b5FtKZKGmcd5WVS2qJIVn) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Agua](https://open.spotify.com/album/3tahunuQxPmrmEdzGimH3V) | 3:48 | 2022-04-15 | 2022-12-10 |
 | [Al Borde del Abismo](https://open.spotify.com/track/3c4nmwwFOmnH1dR16H1Dhp) | [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo) | [Al Borde del Abismo](https://open.spotify.com/album/6n625qD6IsFwbWmhPZLten) | 3:09 | 2022-04-15 | 2023-01-28 |
-| [Al Norte](https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Al Norte](https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp) | 2:53 | 2022-08-12 |  |
+| [Al Norte](https://open.spotify.com/track/34ztqmhrKX3aaARaXKr8vP) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Al Norte](https://open.spotify.com/album/4JujA1bT5q4BGZXqfsbFQ8) | 2:53 | 2023-10-27 |  |
+| [Al Norte](https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Al Norte](https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp) | 2:53 | 2022-08-12 | 2023-11-01 |
 | [algo más, algo menos](https://open.spotify.com/track/6XNL7GwuEhXYDgfw1dEtOz) | [Templada](https://open.spotify.com/artist/6WWrWdvZxk9o04pHUwS3Ka) | [Misiva](https://open.spotify.com/album/1RgRGtuZgoIXvzzUwEI31D) | 2:11 | 2022-04-15 | 2022-07-28 |
 | [Altar](https://open.spotify.com/track/3WyJCG5TITCX9XlgIkD3oj) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf) | [Altar](https://open.spotify.com/album/6gxBp3aafZ9LzXD1M2Remx) | 3:55 | 2023-01-20 | 2023-04-25 |
 | [Amanecer](https://open.spotify.com/track/5zY6Y32KhjA0TzMYrbpeud) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Amanecer](https://open.spotify.com/album/6wJTeqF97YGb5QbwCwhcUS) | 2:44 | 2023-07-14 | 2023-08-17 |
@@ -349,7 +350,7 @@
 | [Sin Ofender](https://open.spotify.com/track/6dNkn16oWASmBhkNrCyLik) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Sin Ofender](https://open.spotify.com/album/2wDiayqUBx2uOH9paOpVjT) | 4:47 | 2022-04-15 | 2022-08-27 |
 | [SIN TI](https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM) | [Benji B](https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R) | [SIN TI](https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX) | 2:54 | 2023-03-24 | 2023-08-05 |
 | [Sin Título](https://open.spotify.com/track/6d8GtfivRUvdI3SU7PFD3t) | [Hija de Rojo](https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd) | [Sin Título](https://open.spotify.com/album/2izT2j03zrRep2fAXwdXGL) | 3:08 | 2022-04-15 | 2022-07-29 |
-| [Sincronía Universal \- Edición Deluxe](https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j) | [Landabur](https://open.spotify.com/artist/1wjCCLQxYABcvDbSOoF2NF), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Duelo \(Edición Deluxe\)](https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P) | 3:26 | 2023-04-07 | 2023-10-29 |
+| [Sincronía Universal \- Edición Deluxe](https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j) | [Landabur](https://open.spotify.com/artist/1wjCCLQxYABcvDbSOoF2NF), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Duelo \(Edición Deluxe\)](https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P) | 3:26 | 2023-04-07 |  |
 | [Sinfonía](https://open.spotify.com/track/4Jr5xnojFBpqe2e0lnor5A) | [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Sinfonía](https://open.spotify.com/album/5VeegDgRdju23x1HN6Gy2I) | 3:03 | 2022-04-15 | 2022-07-29 |
 | [Sobre la Profundidad](https://open.spotify.com/track/5FWCG1rDK3X2FPMpzmddxd) | [Matorral](https://open.spotify.com/artist/2a8POhVZ2iN9PK21YPygmd) | [Sobre la Profundidad](https://open.spotify.com/album/2dGiRub4mmXwFzRmp9dwJE) | 3:42 | 2022-04-15 | 2022-07-28 |
 | [Solo Solo](https://open.spotify.com/track/16qBTMdJ1aedTCf078l492) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Solo Solo](https://open.spotify.com/album/4fFcQLekE7gINxM2zqd9xo) | 3:07 | 2022-05-27 | 2023-01-28 |
@@ -382,7 +383,7 @@
 | [Tercero](https://open.spotify.com/track/1qhyXY725dxXb18j43G9fm) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Tercero](https://open.spotify.com/album/0sTpVleBRwymbvFbGlxNTh) | 3:29 | 2023-06-30 | 2023-08-12 |
 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 | 2023-05-26 |  |
 | [Tinder uwu](https://open.spotify.com/track/6NCbo0bYHyUWJ4cPeyqGss) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Tinder uwu](https://open.spotify.com/album/5TaV1ZaU7baZVhr6jYAqAm) | 3:03 | 2022-04-15 | 2022-12-10 |
-| [Tormenta](https://open.spotify.com/track/6VeClqVfXXenGaGe5ZS7oq) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Tormenta](https://open.spotify.com/album/2sT5JezOJTH4pgc3htTn3i) | 2:37 | 2022-05-06 |  |
+| [Tormenta](https://open.spotify.com/track/6VeClqVfXXenGaGe5ZS7oq) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Tormenta](https://open.spotify.com/album/2sT5JezOJTH4pgc3htTn3i) | 2:37 | 2022-05-06 | 2023-11-01 |
 | [tournesol](https://open.spotify.com/track/0qJrBdxMDcKANTRrPxMZGB) | [White MJ](https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT) | [tournesol](https://open.spotify.com/album/60CR0x9lxB2FUadJhSeKJg) | 3:09 | 2022-04-15 | 2022-12-10 |
 | [Triálogo](https://open.spotify.com/track/7jhOHdaEHGCiGnRaNFNHTG) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [Cuatro](https://open.spotify.com/album/0UHvv58P5yJLGxHyAM66hS) | 2:30 | 2022-08-05 |  |
 | [Tu Centro Se Aferra a Mi](https://open.spotify.com/track/59OQfyqSyAbfJIKIaixaS1) | [De Mónaco](https://open.spotify.com/artist/67bpPvzKD2IiNBqcxBHAII), [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [III](https://open.spotify.com/album/2T9nC7wwk50wrpcFwpYxLz) | 3:16 | 2022-04-15 | 2022-07-27 |

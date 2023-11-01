@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de octubre 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,536,650 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,536,667 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 17 | [PUERTO ESCONDIDO](https://open.spotify.com/track/6p9lWmoGI6WNlh3MFNhYSU) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [PUERTO ESCONDIDO](https://open.spotify.com/album/4lj7xDOBMMb76MrLKt9w8z) | 3:28 |
 | 18 | [XQ Sigues Pasando :\(](https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [XQ Sigues Pasando :\(](https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz) | 3:34 |
 | 19 | [Vas a Destrozarme](https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Vas a Destrozarme](https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E) | 2:54 |
-| 20 | [Trofeo](https://open.spotify.com/track/4ajAhp58D3zWqtpGJFG2NB) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Trofeo](https://open.spotify.com/album/4BrK3QOclSE0bAumHy1Lz7) | 3:42 |
+| 20 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 |
 | 21 | [VENTE CONMIGO](https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VENTE CONMIGO](https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB) | 3:06 |
-| 22 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 |
+| 22 | [Trofeo](https://open.spotify.com/track/4ajAhp58D3zWqtpGJFG2NB) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Trofeo](https://open.spotify.com/album/4BrK3QOclSE0bAumHy1Lz7) | 3:42 |
 | 23 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
 | 24 | [Solo Que Lo Dudes](https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Solo Que Lo Dudes](https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP) | 2:39 |
 | 25 | [Mientras no Vuelves](https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mientras no Vuelves](https://open.spotify.com/album/73N5MlAHtOwluaDHv5vtLZ) | 3:17 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 35 | [INSTALÁRTELO \(feat\. Sleezy O & Young Gallo\)](https://open.spotify.com/track/4iiLT6wrLtcoW3vOUjjlbS) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [Young Gallo](https://open.spotify.com/artist/1AfxlMLCP8GSIoyA5htFUd) | [INSTALÁRTELO \(feat\. Sleezy O & Young Gallo\)](https://open.spotify.com/album/1WEHAfCuVdBCKUU0cUMZjp) | 4:00 |
 | 36 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
 | 37 | [cielo violeta](https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [cielo violeta](https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK) | 2:40 |
-| 38 | [Calor](https://open.spotify.com/track/2bmAfAeeEEDT3p8UqFu9iA) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Manolo Ramos](https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW), [Ghetto](https://open.spotify.com/artist/4yxglAiH5h8Db7TmN0MUr5) | [Calor](https://open.spotify.com/album/0G8qT6fC0rJBzUpGL2qp5m) | 3:32 |
-| 39 | [La Que Yo Amo](https://open.spotify.com/track/57G0Wqaly1Sdm4S5QL3i0w) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 2:12 |
+| 38 | [La Que Yo Amo](https://open.spotify.com/track/57G0Wqaly1Sdm4S5QL3i0w) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 2:12 |
+| 39 | [Calor](https://open.spotify.com/track/2bmAfAeeEEDT3p8UqFu9iA) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Manolo Ramos](https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW), [Ghetto](https://open.spotify.com/artist/4yxglAiH5h8Db7TmN0MUr5) | [Calor](https://open.spotify.com/album/0G8qT6fC0rJBzUpGL2qp5m) | 3:32 |
 | 40 | [ORGULLO](https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:22 |
 | 41 | [Imprudencia](https://open.spotify.com/track/3Cd4tTkxEGTnxWddyxWgDK) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [Imprudencia](https://open.spotify.com/album/5X5UnBgIVpuoSeOrs0Xd09) | 3:19 |
 | 42 | [Nada Que Me Guste Más](https://open.spotify.com/track/24ZdWvvNirs87VDxSMDU9u) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Nada Que Me Guste Más](https://open.spotify.com/album/1TvWgVEEt5UMrodGdtZ7O7) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [ALI](https://open.spotify.com/track/0CgKpM15mWm8az3ypb4Q1N) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [MILLAS](https://open.spotify.com/album/71ANhRl5U4jM8vBUTvQTsZ) | 1:35 |
 | 50 | [Me Gustas Tu](https://open.spotify.com/track/5NF8FAe3INIXOnTJuo3ngL) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Me Gustas Tu](https://open.spotify.com/album/1WWkPIDdO1PWxIl36eymzE) | 3:25 |
 
-Snapshot ID: `MCxmNGUyNzZjNTFhODczMTRkMjU5MzA2NmYyZTQ0MGRjYzY1OGQzMzk4`
+Snapshot ID: `MCwwM2U2NDhkM2UyZTA1NmZmMjIxZTYwYTA2YTYyYmZlYWI1Njc2N2Rj`

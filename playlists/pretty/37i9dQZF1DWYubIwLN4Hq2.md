@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain]
 
 > It's a Saturday night in the country, all the time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,861 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,944 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain]
 | 74 | [Singles You Up \- Ryan Riback Remix](https://open.spotify.com/track/3clfDJ1mvmbSTg9jw40wan) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Singles You Up \(Ryan Riback Remix\)](https://open.spotify.com/album/6BdsIEdziglvxn10fmjsVf) | 3:18 |
 | 75 | [Footloose](https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Footloose](https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN) | 3:38 |
 
-Snapshot ID: `MCw4Zjc4YmUwYzlmM2YyYmI2MjI3ZjY3ODNhYzcwOTUxMWY0MGMwMTFj`
+Snapshot ID: `MCxmM2NmOGU2MjI1YmY2NDM2ZTczY2VkYzIxZTczMmI1MDg0ZTQ3NTU3`

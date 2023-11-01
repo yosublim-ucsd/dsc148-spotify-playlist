@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,648 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,680 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 24 | [Butterflies \(Feat\. Jay Park\)](https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Butterflies](https://open.spotify.com/album/6CcrXh8NHk5agJtbGt0tYR) | 3:11 |
 | 25 | [POST IT \(Feat\. Jay Park\)](https://open.spotify.com/track/1ByJ2Pn1yxfTVl2cjCdYGO) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [POST IT](https://open.spotify.com/album/4QEyVgpccxmKuzeb5VQmNm) | 3:46 |
 | 26 | [WE \(Feat\. Jay Park\) \(Prod\. by Slom\)](https://open.spotify.com/track/4QoOoFKhAWYOylWw2io6va) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ), [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SHOW ME THE MONEY 11 Episode 1](https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy) | 4:25 |
-| 27 | [BRB](https://open.spotify.com/track/620yE97rij2snTka7EbKH0) | [H1GHR MUSIC](https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K) | [BRB](https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2) | 5:04 |
+| 27 | [Dingo X 쌔끈보이즈 \- 궁금해](https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL) | [SGBOYZ](https://open.spotify.com/artist/5PDw41tArOne60p7F4vTtU) | [Dingo X 쌔끈보이즈 \- 궁금해](https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb) | 4:16 |
 | 28 | [WATER \(Prod\. by GooseBumps\)](https://open.spotify.com/track/7EBxRB5zybo2zutJuiAwoF) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Woodie Gochild](https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [WATER](https://open.spotify.com/album/1jPLfwzHnBTJIMzrA2lb7y) | 4:22 |
-| 29 | [Dingo X 쌔끈보이즈 \- 궁금해](https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL) | [SGBOYZ](https://open.spotify.com/artist/5PDw41tArOne60p7F4vTtU) | [Dingo X 쌔끈보이즈 \- 궁금해](https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb) | 4:16 |
+| 29 | [BRB](https://open.spotify.com/track/620yE97rij2snTka7EbKH0) | [H1GHR MUSIC](https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K) | [BRB](https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2) | 5:04 |
 | 30 | [Forget About Tomorrow](https://open.spotify.com/track/6u7ipGHDJsBA3UOwuz0W2T) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Forget About Tomorrow](https://open.spotify.com/album/6jmeG5l8ltMgtu8XFGB30A) | 3:07 |
 | 31 | [INTRO \(Feat\. Jay Park\)](https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [School Rapper4 Final](https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR) | 3:33 |
 | 32 | [Give It to Me](https://open.spotify.com/track/4w7P5OaLfcinkb0RTMNxqh) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [Alone Tonight \(Feat\. Sik\-K\)](https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:11 |
 | 100 | [WORLDWIDE](https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 6:02 |
 
-Snapshot ID: `MCxiODQ2ZWZlY2EwYTc5ZTc5NzkyMWQ2MWYyNzc4MmYyMmRmYmUwZDNi`
+Snapshot ID: `MCwzYmJiZmQ3N2I5NWQ2NTA4ZjAyYzlhZTBhNTZkNWE5NmI2MGQzZjdh`

@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 263677,
+  "num_followers": 263675,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDcwNGMxZWIxZjcyMjhlNjgyOGZiMTE0MDc5OTYyMmUwYmI5MDBj",
+  "snapshot_id": "MCxhYTAwMzE5NTZiOTM0NTYyNzE2OTIyMWEzMTUwNDg4Y2JmYWE5Yzc3",
   "tracks": [
     {
       "added_at": "2023-10-23 12:50:32",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-10-23 12:50:32",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 232837,
+      "name": "when the party's over - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
+    },
+    {
+      "added_at": "2023-10-23 12:50:32",
+      "album": {
         "name": "One Too Many",
         "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 203893,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
-    },
-    {
-      "added_at": "2023-10-23 12:50:32",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 232837,
-      "name": "when the party's over - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
     },
     {
       "added_at": "2023-10-23 12:50:32",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-10-23 12:50:32",
       "album": {
-        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 149233,
-      "name": "I Ain\u2019t Worried - Acoustic",
-      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
-    },
-    {
-      "added_at": "2023-10-23 12:50:32",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 203853,
       "name": "if this is the last time",
       "url": "https://open.spotify.com/track/3bsRMvQja4huvPWo1S5ONc"
+    },
+    {
+      "added_at": "2023-10-23 12:50:32",
+      "album": {
+        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 149233,
+      "name": "I Ain\u2019t Worried - Acoustic",
+      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
     },
     {
       "added_at": "2023-10-23 12:50:32",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-10-23 12:50:32",
       "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "Ain't Together",
-      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
-    },
-    {
-      "added_at": "2023-10-23 12:50:32",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2023-10-23 12:50:32",
       "album": {
-        "name": "Dancing On My Own (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 230553,
-      "name": "Dancing On My Own - triple j Like A Version",
-      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
+      "duration_ms": 202280,
+      "name": "Ain't Together",
+      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
     },
     {
       "added_at": "2023-10-23 12:50:32",
@@ -1071,6 +1055,22 @@
       "duration_ms": 138348,
       "name": "Love Me Now (feat. FAST BOY) - Acoustic",
       "url": "https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P"
+    },
+    {
+      "added_at": "2023-10-23 12:50:32",
+      "album": {
+        "name": "Dancing On My Own (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 230553,
+      "name": "Dancing On My Own - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
     },
     {
       "added_at": "2023-10-23 12:50:32",

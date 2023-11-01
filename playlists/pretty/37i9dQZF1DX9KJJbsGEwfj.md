@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9KJJbsGEwfj.md) - [plain]
 
 > Únete al party con estos hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,859,042 likes - 152 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,859,730 likes - 152 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

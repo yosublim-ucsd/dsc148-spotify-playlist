@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Adam Beyer
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,250 likes - 80 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,356 likes - 80 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 34 | [Neoteny](https://open.spotify.com/track/05YfutYgRtZGpaMMuBhlYi) | [Boo](https://open.spotify.com/artist/2TFIKib8RK7fj3oHC1NCkW) | [Neoteny](https://open.spotify.com/album/0rwUVS8qarsDGRa8n9Wszy) | 3:48 |
 | 35 | [Touch It](https://open.spotify.com/track/5l8CvrROVRgFm2jhciguXF) | [Giants](https://open.spotify.com/artist/7onRrkVzPELAot9ZpatsfV) | [Touch It](https://open.spotify.com/album/015hBlXofVlxCHIkUOsMmc) | 3:39 |
 | 36 | [Drowning](https://open.spotify.com/track/0VqzQ7TOqavkEa4uDYkGnH) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Drowning](https://open.spotify.com/album/0XXxllyCo8iylhxOqwne94) | 4:20 |
-| 37 | [Loam](https://open.spotify.com/track/5cAcVaabqTC3n3TS3eaxkG) | [SCALER](https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Loam](https://open.spotify.com/album/3FH7tPm5VdQTb49nceSBRP) | 4:59 |
+| 37 | [Loam](https://open.spotify.com/track/6P3cOgj5LWSmtRbqrrCflU) | [SCALER](https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Loam / New Symbols](https://open.spotify.com/album/68iZNNrpkM91TSXbGmMAhL) | 4:59 |
 | 38 | [Inside My Head](https://open.spotify.com/track/3MFwdV9DU2hnMqnFupb7yl) | [ANU](https://open.spotify.com/artist/1sWiTvDqck2OJDffcKK7Vy) | [Inside My Head](https://open.spotify.com/album/3TOiMFIAIKraCdeFXmSUHW) | 6:55 |
 | 39 | [Everything](https://open.spotify.com/track/06AbpLxu17SbYQ6R3ZFAoL) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 5:32 |
 | 40 | [Heartbreak](https://open.spotify.com/track/2UCncsHyNdD1vydaF7rZ1k) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Radical](https://open.spotify.com/album/5EFl876r4ClNKdplwwH2XP) | 4:34 |

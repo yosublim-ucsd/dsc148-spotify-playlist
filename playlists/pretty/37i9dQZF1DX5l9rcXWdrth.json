@@ -1,12 +1,12 @@
 {
   "description": "Some of the most influential and innovative voices in hip-hop\u2014yesterday, today, tomorrow. Cover: Doja Cat",
-  "num_followers": 45697,
+  "num_followers": 45806,
   "original_name": "Women of Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTY1ZjBhNTE0ZDVlNzBiMDVjMjE4ODdkNTE4NmI4NWE4YmZmNmZi",
+  "snapshot_id": "MCxiYjAwZGRkNTczNjg2MzIxNzVmN2RiOWIyZGVlMGQzMTg0NzA2YzBh",
   "tracks": [
     {
       "added_at": "2022-03-08 20:45:52",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-03-08 20:45:52",
       "album": {
+        "name": "Erica Banks",
+        "url": "https://open.spotify.com/album/5d0diKuXWPHNxon86lnjOJ"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Buss It",
+      "url": "https://open.spotify.com/track/25j0Sape7qZbq6ZPLFefTT"
+    },
+    {
+      "added_at": "2022-03-08 20:45:52",
+      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 175342,
       "name": "Tempo (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/6nBQFAIVFmAx2oZ8p6lUg6"
-    },
-    {
-      "added_at": "2022-03-08 20:45:52",
-      "album": {
-        "name": "Erica Banks",
-        "url": "https://open.spotify.com/album/5d0diKuXWPHNxon86lnjOJ"
-      },
-      "artists": [
-        {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Buss It",
-      "url": "https://open.spotify.com/track/25j0Sape7qZbq6ZPLFefTT"
     },
     {
       "added_at": "2022-03-08 20:45:52",

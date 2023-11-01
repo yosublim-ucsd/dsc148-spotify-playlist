@@ -332,6 +332,24 @@
     {
       "album": {
         "name": "BANDANA",
+        "url": "https://open.spotify.com/album/6LnrtNJONoihgwiKbZqJv0"
+      },
+      "artists": [
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "BANDANA",
+      "url": "https://open.spotify.com/track/2o7dxduoe3YXvuSyOFjROL"
+    },
+    {
+      "album": {
+        "name": "BANDANA",
         "url": "https://open.spotify.com/album/4UiGCvmgCLtDvrCBheMLNR"
       },
       "artists": [
@@ -346,7 +364,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 133333,
       "name": "BANDANA",
       "url": "https://open.spotify.com/track/5n0H86Axz5rqTyv8ljXZ8X"
@@ -364,7 +382,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 226716,
       "name": "Blue Bucket Rebirth",
       "url": "https://open.spotify.com/track/6J77IL7C21HvGmMe6XHzWH"
@@ -612,7 +630,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Fly",
       "url": "https://open.spotify.com/track/42AVHXyJhx67wNVbAdeX8s"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,764 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,806 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 37 | [You're a Superstar \- Radio Edit](https://open.spotify.com/track/0F7HW6u4LdXDxuCJynN9bF) | [Love Inc.](https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx), [Simone Denny](https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs) | [00s Party Mixtape](https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0) | 3:30 |
 | 38 | [Diggin' A Hole](https://open.spotify.com/track/1DJ4sDZgj56rBUZYj4ZHRu) | [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Hemi\-Vision](https://open.spotify.com/album/1Zj6HNUUmO1WVmrH8TgU2i) | 4:37 |
 | 39 | [I Don't Want To Think About It](https://open.spotify.com/track/0mLzR7UE4so9fUfi3MX3rf) | [Wild Strawberries](https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y) | [Heroine](https://open.spotify.com/album/3TwFXy7ldbkDmSC9EiUTcB) | 3:46 |
-| 40 | [London Rain \(Nothing Heals Me Like You Do\)](https://open.spotify.com/track/2CCxzA9QAVSki6OR2t1Jhl) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Songs from Dawson's Creek](https://open.spotify.com/album/0hSUxdwxk9RKLRIfjH0BAd) | 3:50 |
-| 41 | [Wayne](https://open.spotify.com/track/5RCyu62J9pk1PqgFfCxgn8) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Under These Rocks And Stones](https://open.spotify.com/album/3PMSWzK8diDoaMdOZTHzFJ) | 4:45 |
+| 40 | [Wayne](https://open.spotify.com/track/5RCyu62J9pk1PqgFfCxgn8) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Under These Rocks And Stones](https://open.spotify.com/album/3PMSWzK8diDoaMdOZTHzFJ) | 4:45 |
+| 41 | [London Rain \(Nothing Heals Me Like You Do\)](https://open.spotify.com/track/2CCxzA9QAVSki6OR2t1Jhl) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Songs from Dawson's Creek](https://open.spotify.com/album/0hSUxdwxk9RKLRIfjH0BAd) | 3:50 |
 | 42 | [Push](https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Silver](https://open.spotify.com/album/5QcdaEgknPDT2CwsQ3fKMn) | 3:50 |
 | 43 | [apparitions](https://open.spotify.com/track/6H7bfOGDhdJB5ejjFMWUTz) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/7ljqmefDOpPyqYswrk6Uc4) | 5:12 |
 | 44 | [Squeeze Toy](https://open.spotify.com/track/5IVckL0RmYTjMzazIUBp0J) | [The Boomtang Boys](https://open.spotify.com/artist/5x2uSbE1afrYyEUD0GqNmT), [Kim Esty](https://open.spotify.com/artist/0WHRMUndMVIszj5fSeLdiK) | [Greatest Hits Volume One](https://open.spotify.com/album/4oKWaqi2tkfhBZiA4dNVwK) | 3:39 |

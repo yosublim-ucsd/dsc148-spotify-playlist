@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Sandrini 2830.
 
-641 songs - 1 day 8 hr 26 min
+642 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,8 @@
 | [Migalhas](https://open.spotify.com/track/2efNQgbiCxyul14somPFfF) | [Escriba](https://open.spotify.com/artist/5cuFpe5IkDDWeYMXBmamTP) | [Migalhas](https://open.spotify.com/album/4q5Vt5fUyRAjT363uCRl6W) | 3:22 | 2022-07-07 | 2022-08-12 |
 | [Milhão](https://open.spotify.com/track/0xNorrhfY1y3m86sURZYvH) | [Yung La Flame](https://open.spotify.com/artist/4RcJEaTZJmbra95gDbv71J) | [Milhão](https://open.spotify.com/album/4DQ1p6D9MPerlfEoN9eJPs) | 3:13 | 2023-07-27 |  |
 | [Minha Escolha](https://open.spotify.com/track/52kweQksln2jXTAxdaxuZz) | [Kid Robinn](https://open.spotify.com/artist/1d6Yr0fkBLjrTW6bPHTzJd) | [Minha Escolha](https://open.spotify.com/album/4re1WiGmbCjBFLZGOBfW7L) | 2:59 | 2023-04-06 | 2023-06-23 |
-| [Minha Hora](https://open.spotify.com/track/1SkwhZcGTHDxx9eod4IyZi) | [Rez](https://open.spotify.com/artist/5zI2o9jsEmNCXWeNiSNVJl) | [Minha Hora](https://open.spotify.com/album/2EukMhhV5YukRincmVbsCP) | 2:36 | 2023-07-27 |  |
+| [Minha Hora](https://open.spotify.com/track/1SkwhZcGTHDxx9eod4IyZi) | [Rez](https://open.spotify.com/artist/5zI2o9jsEmNCXWeNiSNVJl) | [Minha Hora](https://open.spotify.com/album/2EukMhhV5YukRincmVbsCP) | 2:36 | 2023-07-27 | 2023-11-01 |
+| [Minha Hora](https://open.spotify.com/track/4QE8Gq8Jm2TvpPE6JdltpT) | [Rez](https://open.spotify.com/artist/5zI2o9jsEmNCXWeNiSNVJl) | [Minha Hora](https://open.spotify.com/album/3wGreoxQU9bxcUOL6nnUHu) | 2:36 | 2023-10-26 |  |
 | [Miopia](https://open.spotify.com/track/094uD2FUQ5CAJyqqIs5gdx) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf) | [Miopia](https://open.spotify.com/album/3GGDmoL0Rhqk4KdoD9nYfu) | 2:38 | 2023-09-14 |  |
 | [Mira](https://open.spotify.com/track/4P8halZmD87IBnWNXLgWfO) | [Lilbeyes](https://open.spotify.com/artist/1nM0klS9gLVqNJLlxZwZX3) | [Mira](https://open.spotify.com/album/0jAKUz2aAe7zzs5pK0IC3o) | 2:43 | 2023-01-16 | 2023-03-31 |
 | [MOISÉS](https://open.spotify.com/track/7FRLKyhv0TyMoI9lASUFx7) | [David Da Rapper](https://open.spotify.com/artist/5ipSKrIl4oWWd6Ew8GrLW4) | [MOISÉS](https://open.spotify.com/album/0PAUGHHXHuwVgvg9RDbWbM) | 2:21 | 2023-02-03 | 2023-04-14 |

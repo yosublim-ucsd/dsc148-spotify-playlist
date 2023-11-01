@@ -2802,10 +2802,28 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 284186,
       "name": "That Girl Is Gone",
       "url": "https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb"
+    },
+    {
+      "album": {
+        "name": "80's Soft Rock",
+        "url": "https://open.spotify.com/album/2dUg1D8m0U0W7eRBxvSrbv"
+      },
+      "artists": [
+        {
+          "name": "David Pack",
+          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284186,
+      "name": "That Girl Is Gone",
+      "url": "https://open.spotify.com/track/4TuwguyKN7gebQhpJll8aN"
     },
     {
       "album": {

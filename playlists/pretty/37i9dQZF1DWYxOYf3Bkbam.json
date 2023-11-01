@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 42940,
+  "num_followers": 42968,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjZjZTBlNmNlMWM4MTdmMTFjYjU2MjAzNDE5OTBhY2QzNDJjNDBi",
+  "snapshot_id": "MCw4YWU2MWU5YTJiNWYwY2FiMWYwYjg0MmM3ZDY4OWI0MmFjOTkyZjM4",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
+      },
+      "artists": [
+        {
+          "name": "Los Troperos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6rWPHXNkJ29ThBSYOc92iE"
+        }
+      ],
+      "duration_ms": 202786,
+      "name": "Km. 11",
+      "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Alegr\u00eda y Chamam\u00e9",
         "url": "https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 173386,
       "name": "La Due\u00f1a del Monte",
       "url": "https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
-      },
-      "artists": [
-        {
-          "name": "Los Troperos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6rWPHXNkJ29ThBSYOc92iE"
-        }
-      ],
-      "duration_ms": 202786,
-      "name": "Km. 11",
-      "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Chamame - Los 100 mejores temas - Vol 4",
-        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
-      },
-      "artists": [
-        {
-          "name": "Los Taitas",
-          "url": "https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Bien picadito",
-      "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Sobredosis De Chamame",
         "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 296653,
       "name": "La Fiesta Del Chamam\u00e9",
       "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Los Taitas",
+          "url": "https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Bien picadito",
+      "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "duration_ms": 139253,
+      "name": "El Gato Blanco",
+      "url": "https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 147986,
       "name": "Siete Higueras",
       "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
-        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
-        }
-      ],
-      "duration_ms": 139253,
-      "name": "El Gato Blanco",
-      "url": "https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "P\u00e1jaro Chog\u00fc\u00ed",
         "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 138893,
       "name": "P\u00e1jaro Chog\u00fc\u00ed",
       "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1443,6 +1443,22 @@
       "duration_ms": 214727,
       "name": "Canci\u00f3n para Mi Muerte",
       "url": "https://open.spotify.com/track/4HJZ42ANJk2Wq7aLEC1sGR"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Otras M\u00fasicas",
+        "url": "https://open.spotify.com/album/09sEjVuNxgmY9OxKR6P9Jn"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "Nazareno",
+      "url": "https://open.spotify.com/track/6pIAha0Dd1jjrMLozs2kVv"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1479,22 +1495,6 @@
       "duration_ms": 186013,
       "name": "Las Penas del Provinciano",
       "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Otras M\u00fasicas",
-        "url": "https://open.spotify.com/album/09sEjVuNxgmY9OxKR6P9Jn"
-      },
-      "artists": [
-        {
-          "name": "Chango Spasiuk",
-          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "Nazareno",
-      "url": "https://open.spotify.com/track/6pIAha0Dd1jjrMLozs2kVv"
     },
     {
       "added_at": "2023-06-09 03:00:00",

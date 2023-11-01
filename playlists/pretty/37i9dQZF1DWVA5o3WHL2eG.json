@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Joy Denalane",
-  "num_followers": 29427,
+  "num_followers": 29436,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWM0MDM5MjkyNWJlMGMzMWFjOWI0OWJkZGI3ZjViMmE5YWIwMGFj",
+  "snapshot_id": "MCxkYjcyNWE5MzI0YTkzMDRhYmQxNGYyN2U2NGJjZDIzNDA3ODUwNzQz",
   "tracks": [
     {
       "added_at": "2023-10-03 22:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "get tough",
-        "url": "https://open.spotify.com/album/4Rbu6trRci6vt24z52i1p8"
-      },
-      "artists": [
-        {
-          "name": "PAENDA",
-          "url": "https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz"
-        }
-      ],
-      "duration_ms": 185185,
-      "name": "get tough",
-      "url": "https://open.spotify.com/track/1fHKPEMw05XGxtB7ESSDZo"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
         "name": "Morgana (2023 Edit)",
         "url": "https://open.spotify.com/album/3YlTnr4cYNg9tufccsFgRQ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 306501,
       "name": "Morgana - 2023 Edit",
       "url": "https://open.spotify.com/track/2IOaOQTxrtJf0clbcjXNua"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
+        "name": "get tough",
+        "url": "https://open.spotify.com/album/4Rbu6trRci6vt24z52i1p8"
+      },
+      "artists": [
+        {
+          "name": "PAENDA",
+          "url": "https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz"
+        }
+      ],
+      "duration_ms": 185185,
+      "name": "get tough",
+      "url": "https://open.spotify.com/track/1fHKPEMw05XGxtB7ESSDZo"
     },
     {
       "added_at": "2023-10-03 22:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "Summer of Love",
-        "url": "https://open.spotify.com/album/2ALp3KE42NdXMNi2jXPyjd"
-      },
-      "artists": [
-        {
-          "name": "Velvet Two Stripes",
-          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
-        }
-      ],
-      "duration_ms": 334973,
-      "name": "Summer of Love",
-      "url": "https://open.spotify.com/track/2HhAic2lb5CNK2wow3fbDm"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
         "name": "You Deserve Romance",
         "url": "https://open.spotify.com/album/3ccL08UCW2cUZweKKEKa3Q"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 181886,
       "name": "DOUBLE-CHECK",
       "url": "https://open.spotify.com/track/1di8QXf5cdFqymWCFunwSN"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
+        "name": "Summer of Love",
+        "url": "https://open.spotify.com/album/2ALp3KE42NdXMNi2jXPyjd"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "duration_ms": 334973,
+      "name": "Summer of Love",
+      "url": "https://open.spotify.com/track/2HhAic2lb5CNK2wow3fbDm"
     },
     {
       "added_at": "2023-10-03 22:00:00",

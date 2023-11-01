@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 346240,
+  "num_followers": 346378,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzhhZTk2NTMzYTY1OGY2ZTBlNmE3YjAyMDhhNzVkYzFiMTA0NTE3",
+  "snapshot_id": "MCxlZTc5M2VjYzA3ZjY3NmNhMmMxNTc5NTcyOGVmYWNlMDQzMzAzMzA1",
   "tracks": [
     {
       "added_at": "2023-09-22 07:02:14",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 183594,
+      "name": "El Ruddy",
+      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
+    },
+    {
+      "added_at": "2023-09-22 07:02:14",
+      "album": {
         "name": "Se Fue La Pantera (En Vivo)",
         "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+        "name": "Seguimos Laborando",
+        "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Grupo 360",
+          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
         }
       ],
-      "duration_ms": 183594,
-      "name": "El Ruddy",
-      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
+      "duration_ms": 205813,
+      "name": "Seguimos Laborando",
+      "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -887,22 +903,6 @@
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
-      "added_at": "2023-09-22 07:02:14",
-      "album": {
-        "name": "Seguimos Laborando",
-        "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
-      },
-      "artists": [
-        {
-          "name": "Grupo 360",
-          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Seguimos Laborando",
-      "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
-        "name": "El Chamaquito",
-        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
-        }
-      ],
-      "duration_ms": 139863,
-      "name": "El Chamaquito",
-      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
-    },
-    {
-      "added_at": "2023-09-22 07:02:14",
-      "album": {
         "name": "The Green Trip",
         "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 174275,
       "name": "Aerol\u00ednea Carrillo",
       "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
+    },
+    {
+      "added_at": "2023-09-22 07:02:14",
+      "album": {
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "duration_ms": 139863,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
-        "name": "Contrabando Y Traicion",
-        "url": "https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 206293,
-      "name": "Contrabando Y Traici\u00f3n",
-      "url": "https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ"
-    },
-    {
-      "added_at": "2023-09-22 07:02:14",
-      "album": {
         "name": "Hay Niveles",
         "url": "https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 122111,
       "name": "Hay Niveles",
       "url": "https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn"
+    },
+    {
+      "added_at": "2023-09-22 07:02:14",
+      "album": {
+        "name": "Contrabando Y Traicion",
+        "url": "https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "Contrabando Y Traici\u00f3n",
+      "url": "https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -1943,6 +1943,30 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
+        "name": "El De Las Dos Pistolas",
+        "url": "https://open.spotify.com/album/0LkXAgU73w2GQAHW4VDtSD"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Los de la O",
+          "url": "https://open.spotify.com/artist/5IUHqCKGttBbtZ0h1Fv4xU"
+        }
+      ],
+      "duration_ms": 167288,
+      "name": "El De Las Dos Pistolas",
+      "url": "https://open.spotify.com/track/3BvGcHKkSKRdkathkvvxRp"
+    },
+    {
+      "added_at": "2023-09-22 07:02:14",
+      "album": {
         "name": "Por Apodo Soy Sobrino (En Vivo)",
         "url": "https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk"
       },
@@ -1971,30 +1995,6 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
-        "name": "El De Las Dos Pistolas",
-        "url": "https://open.spotify.com/album/0LkXAgU73w2GQAHW4VDtSD"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Los de la O",
-          "url": "https://open.spotify.com/artist/5IUHqCKGttBbtZ0h1Fv4xU"
-        }
-      ],
-      "duration_ms": 167288,
-      "name": "El De Las Dos Pistolas",
-      "url": "https://open.spotify.com/track/3BvGcHKkSKRdkathkvvxRp"
-    },
-    {
-      "added_at": "2023-09-22 07:02:14",
-      "album": {
         "name": "Bulgari",
         "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
       },
@@ -2011,18 +2011,18 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
-        "name": "Ni Modo Que Sea Mentira",
-        "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
       },
       "artists": [
         {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 118851,
-      "name": "El Tony",
-      "url": "https://open.spotify.com/track/2H8NfRvMm7sBJBmjSxJimb"
+      "duration_ms": 154090,
+      "name": "Chingandole Macizo",
+      "url": "https://open.spotify.com/track/7d6Om5zkPVABcMU9dat8kF"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -2059,18 +2059,18 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+        "name": "Ni Modo Que Sea Mentira",
+        "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 154090,
-      "name": "Chingandole Macizo",
-      "url": "https://open.spotify.com/track/7d6Om5zkPVABcMU9dat8kF"
+      "duration_ms": 118851,
+      "name": "El Tony",
+      "url": "https://open.spotify.com/track/2H8NfRvMm7sBJBmjSxJimb"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
-        "name": "Pa Que Vayan y Digan",
-        "url": "https://open.spotify.com/album/3mLFnv3XBh9olLHaCU9SIN"
-      },
-      "artists": [
-        {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
-        }
-      ],
-      "duration_ms": 182767,
-      "name": "Pa Que Vayan y Digan",
-      "url": "https://open.spotify.com/track/7pQvG1dQLjIFRQI3pLWT00"
-    },
-    {
-      "added_at": "2023-09-22 07:02:14",
-      "album": {
         "name": "Delux 12",
         "url": "https://open.spotify.com/album/6G9Wfz5z9w33QrJdwaPUMb"
       },
@@ -2359,6 +2343,22 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
+        "name": "Pa Que Vayan y Digan",
+        "url": "https://open.spotify.com/album/3mLFnv3XBh9olLHaCU9SIN"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        }
+      ],
+      "duration_ms": 182767,
+      "name": "Pa Que Vayan y Digan",
+      "url": "https://open.spotify.com/track/7pQvG1dQLjIFRQI3pLWT00"
+    },
+    {
+      "added_at": "2023-09-22 07:02:14",
+      "album": {
         "name": "No Me Gusta Perder",
         "url": "https://open.spotify.com/album/4Zdzpz6ILDSQg5CRuBYovA"
       },
@@ -2371,22 +2371,6 @@
       "duration_ms": 151646,
       "name": "No Me Gusta Perder",
       "url": "https://open.spotify.com/track/4iYFx1RAtKpsnybhQh7kuO"
-    },
-    {
-      "added_at": "2023-09-22 07:02:14",
-      "album": {
-        "name": "Los Envidiosos",
-        "url": "https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 181553,
-      "name": "Los Envidiosos",
-      "url": "https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -2423,6 +2407,22 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
+        "name": "Los Envidiosos",
+        "url": "https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 181553,
+      "name": "Los Envidiosos",
+      "url": "https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ"
+    },
+    {
+      "added_at": "2023-09-22 07:02:14",
+      "album": {
         "name": "Ni Modo Que Sea Mentira",
         "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
       },
@@ -2451,22 +2451,6 @@
       "duration_ms": 177225,
       "name": "Vieran Que Agusto",
       "url": "https://open.spotify.com/track/0lx0NFxS6g9UKNJQwr4EDW"
-    },
-    {
-      "added_at": "2023-09-22 07:02:14",
-      "album": {
-        "name": "Vida Rencorosa",
-        "url": "https://open.spotify.com/album/4gNmyfqYP4Fy72OYAnbM6D"
-      },
-      "artists": [
-        {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Vida Rencorosa",
-      "url": "https://open.spotify.com/track/5KhsR58yXGWcLkAfCTzLZE"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -2515,6 +2499,22 @@
       "duration_ms": 132800,
       "name": "38 y Super",
       "url": "https://open.spotify.com/track/2ccEuah5UamtifhUsHoBCR"
+    },
+    {
+      "added_at": "2023-09-22 07:02:14",
+      "album": {
+        "name": "Vida Rencorosa",
+        "url": "https://open.spotify.com/album/4gNmyfqYP4Fy72OYAnbM6D"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Vida Rencorosa",
+      "url": "https://open.spotify.com/track/5KhsR58yXGWcLkAfCTzLZE"
     }
   ],
   "unique_name": "La Mamalona",

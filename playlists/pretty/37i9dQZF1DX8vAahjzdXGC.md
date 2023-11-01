@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ramengvrl, Basboi
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,350 likes - 107 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,367 likes - 107 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 17 | [Pilih Salah Satu](https://open.spotify.com/track/6gTSLoCCF8vEj4rswqGJFe) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Pilih Salah Satu](https://open.spotify.com/album/5ggv5hrHt5aIPS8TEAy3ZP) | 3:31 |
 | 18 | [Yang Lain Boleh Hilang Asal Kau Jangan](https://open.spotify.com/track/7fks1RZCaiO8JEE33y4DIi) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [27](https://open.spotify.com/album/4yc5k3mU7Q6dsHCuTQLkFq) | 3:29 |
 | 19 | [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 |
-| 20 | [Shared Trauma \(feat\. Keenan Te\)](https://open.spotify.com/track/3OL3ZqqZYc3JkwTUWwEVCc) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Shared Trauma \(feat\. Keenan Te\)](https://open.spotify.com/album/1LuVyW6R5qb5Wv9YNmsSzf) | 2:37 |
+| 20 | [Shared Trauma \(feat\. Keenan Te\)](https://open.spotify.com/track/3OL3ZqqZYc3JkwTUWwEVCc) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Shared Trauma \(feat\. Keenan Te\)](https://open.spotify.com/album/1LuVyW6R5qb5Wv9YNmsSzf) | 2:37 |
 | 21 | [Heart Still Beating](https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m) | 2:29 |
 | 22 | [Keep Stronger](https://open.spotify.com/track/6GbwpvFJn0LW2d3sq5Pv3n) | [Gugun Blues Shelter](https://open.spotify.com/artist/5sIvntdXv3HcJucbkLNePp) | [Keep Stronger](https://open.spotify.com/album/1m5o3fkT33iJdAiD9VwmMs) | 4:38 |
 | 23 | [Amuleto](https://open.spotify.com/track/7iHmpe3erGv96DwDVrUDU7) | [Neida](https://open.spotify.com/artist/6pXFLqoZMjMxHMwrNuueoW) | [Amuleto](https://open.spotify.com/album/2kHBlZBuEF6QoBxjrJ9PVz) | 4:11 |

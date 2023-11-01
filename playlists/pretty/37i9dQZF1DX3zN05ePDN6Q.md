@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Derxan
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,949 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,996 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 10 | [Psiu](https://open.spotify.com/track/4ypg8CzKr3waYdtQTKQYnj) | [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Psiu](https://open.spotify.com/album/6RcCdEawmZ28PGs023jYMi) | 2:02 |
 | 11 | [Momentos](https://open.spotify.com/track/4gXbu96gGyRM52KFYGBge5) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Douglas Lemos](https://open.spotify.com/artist/2jKDUa4Or2jrPrvE1EIyp8) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:23 |
 | 12 | [Ni Hao](https://open.spotify.com/track/0GEPTrEfY4KE7oA3JiUA1J) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH) | [Ni Hao](https://open.spotify.com/album/5SLYeKCZufLvoi9EkeffQe) | 2:14 |
-| 13 | [Ce Ñ Viu](https://open.spotify.com/track/0qIUxTynOqz0uG5XX31Kxc) | [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A) | [NVV](https://open.spotify.com/album/6TpHI1VJgqkrLq87qZZox2) | 2:03 |
+| 13 | [Ce Ñ Viu](https://open.spotify.com/track/0qIUxTynOqz0uG5XX31Kxc) | [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NVV](https://open.spotify.com/album/6TpHI1VJgqkrLq87qZZox2) | 2:03 |
 | 14 | [Tão Gostoso](https://open.spotify.com/track/0bgy7v2lKWmvaegE7JKF7m) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 4:22 |
 | 15 | [Sem Sono](https://open.spotify.com/track/0gjtaNRdXuCAiSvp3OfIOx) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 1:43 |
 | 16 | [Ynae](https://open.spotify.com/track/1Wbewe1dnpvSGSpN2vfboY) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Parece Morte, Mas é Só a Vida](https://open.spotify.com/album/2hfVKJpFbDVf4AkqpxNsJc) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Sobre mim](https://open.spotify.com/track/4qaOtwB4LjQv2U3UAJN5a1) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Sobre mim](https://open.spotify.com/album/6JTFaHvi9gXwJchaSRP9BK) | 3:28 |
 | 75 | [Carta pra Lucas](https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 3:01 |
 
-Snapshot ID: `MCwxNDc2NWFmODg1ODIzYjQ5YWZlYTVjYTFkNGIyMzcwMzNiMWRlNDEz`
+Snapshot ID: `MCxhZGIyZjgyYTY4Y2ViYmU0YThhYmViZThjZWU5Yjc2YzM0N2U4M2Yy`

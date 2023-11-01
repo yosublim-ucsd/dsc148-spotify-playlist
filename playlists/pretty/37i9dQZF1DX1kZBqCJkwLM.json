@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: SNOW WIFE",
-  "num_followers": 82465,
+  "num_followers": 82469,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2VkZGRkN2Y2ZTFjNWU3NWRjZmYxYzZhN2Q5M2ZiMzA4ZDIxNzFi",
+  "snapshot_id": "MCxkMDk3ODQxYzY4MzdjNmZiYzI2NWJlOTZlYzgzZmFkNjU0ZmE0NDZh",
   "tracks": [
     {
       "added_at": "2023-10-27 21:17:54",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-10-27 21:17:54",
       "album": {
-        "name": "Irresponsible",
-        "url": "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd"
+        "name": "Cold Blooded",
+        "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
         }
       ],
-      "duration_ms": 124751,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
+      "duration_ms": 150053,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
     },
     {
       "added_at": "2023-10-27 21:17:54",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-10-27 21:17:54",
       "album": {
-        "name": "Cold Blooded",
-        "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
-    },
-    {
-      "added_at": "2023-10-27 21:17:54",
-      "album": {
         "name": "Laurel Hell",
         "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 158617,
       "name": "Working for the Knife",
       "url": "https://open.spotify.com/track/2ORVHijyYA8bAOCVaIbmdS"
+    },
+    {
+      "added_at": "2023-10-27 21:17:54",
+      "album": {
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 124751,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
     },
     {
       "added_at": "2023-10-27 21:17:54",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-10-27 21:17:54",
       "album": {
-        "name": "CLOUDS",
-        "url": "https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
-        },
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 196007,
-      "name": "CLOUDS",
-      "url": "https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ"
-    },
-    {
-      "added_at": "2023-10-27 21:17:54",
-      "album": {
         "name": "That XX - Spotify Singles",
         "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 207946,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
+    },
+    {
+      "added_at": "2023-10-27 21:17:54",
+      "album": {
+        "name": "CLOUDS",
+        "url": "https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        },
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "duration_ms": 196007,
+      "name": "CLOUDS",
+      "url": "https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ"
     },
     {
       "added_at": "2023-10-27 21:17:54",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-10-27 21:17:54",
       "album": {
-        "name": "Seoul",
-        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kay",
-          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
-        }
-      ],
-      "duration_ms": 213076,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
-    },
-    {
-      "added_at": "2023-10-27 21:17:54",
-      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 193396,
       "name": "Space",
       "url": "https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3"
+    },
+    {
+      "added_at": "2023-10-27 21:17:54",
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kay",
+          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
+        }
+      ],
+      "duration_ms": 213076,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
     },
     {
       "added_at": "2023-10-27 21:17:54",

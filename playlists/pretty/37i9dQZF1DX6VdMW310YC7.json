@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3675850,
+  "num_followers": 3676056,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTE5ZTEwNmIyMzI3ZjBiMGE3ODA3N2U3YzU3NTE1YTYyNmQyNWJh",
+  "snapshot_id": "MCxkNjEwNWZiZjUxMjk5NTdhMGVmZDk0NmQzOWMzNGY4NjgzMzcxMjA0",
   "tracks": [
     {
       "added_at": "2023-10-28 22:59:35",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
-        "name": "Perfect Mistakes",
-        "url": "https://open.spotify.com/album/2ImjAATcpj7FOT4f3XTxlp"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 233804,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/5cGBQ9W3XtRuRQFgDklDrI"
-    },
-    {
-      "added_at": "2023-10-28 22:59:35",
-      "album": {
         "name": "When The Light Breaks",
         "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 240009,
       "name": "Matter of Time",
       "url": "https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG"
+    },
+    {
+      "added_at": "2023-10-28 22:59:35",
+      "album": {
+        "name": "Perfect Mistakes",
+        "url": "https://open.spotify.com/album/2ImjAATcpj7FOT4f3XTxlp"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 233804,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/5cGBQ9W3XtRuRQFgDklDrI"
     },
     {
       "added_at": "2023-10-28 22:59:35",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 423006,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
+    },
+    {
+      "added_at": "2023-10-28 22:59:35",
+      "album": {
         "name": "Another Time",
         "url": "https://open.spotify.com/album/4rqr9zrFHD4fd2Y1hv6RKK"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 255789,
       "name": "Another Time",
       "url": "https://open.spotify.com/track/67f7gMWZ2PJI7IsUBs3mNQ"
-    },
-    {
-      "added_at": "2023-10-28 22:59:35",
-      "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 423006,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2023-10-28 22:59:35",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
-        "name": "I'll Be Around",
-        "url": "https://open.spotify.com/album/6z0mzroQzquz0gPkPwLAx5"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "duration_ms": 228094,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/1Swh2Td4N7mpMG9xyG09gA"
-    },
-    {
-      "added_at": "2023-10-28 22:59:35",
-      "album": {
         "name": "Loving Blind",
         "url": "https://open.spotify.com/album/2XvypO5sCalte148ttpNPI"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 216926,
       "name": "Loving Blind",
       "url": "https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl"
+    },
+    {
+      "added_at": "2023-10-28 22:59:35",
+      "album": {
+        "name": "I'll Be Around",
+        "url": "https://open.spotify.com/album/6z0mzroQzquz0gPkPwLAx5"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "duration_ms": 228094,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/1Swh2Td4N7mpMG9xyG09gA"
     },
     {
       "added_at": "2023-10-28 22:59:35",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 174344,
+      "name": "Just Over",
+      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
+    },
+    {
+      "added_at": "2023-10-28 22:59:35",
+      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 220383,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
-    },
-    {
-      "added_at": "2023-10-28 22:59:35",
-      "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 174344,
-      "name": "Just Over",
-      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
     },
     {
       "added_at": "2023-10-28 22:59:35",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
-        "name": "See You / Feel So Lonely",
-        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 283953,
-      "name": "See You",
-      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
-    },
-    {
-      "added_at": "2023-10-28 22:59:35",
-      "album": {
         "name": "Unfurl",
         "url": "https://open.spotify.com/album/3f91d3qVwL2zX9k4PKoXK2"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 298213,
       "name": "Bound",
       "url": "https://open.spotify.com/track/1iOPoPTFROlTeYpJik7VMs"
+    },
+    {
+      "added_at": "2023-10-28 22:59:35",
+      "album": {
+        "name": "See You / Feel So Lonely",
+        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 283953,
+      "name": "See You",
+      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
     },
     {
       "added_at": "2023-10-28 22:59:35",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
-        "name": "All I've Ever Known",
-        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "All I've Ever Known",
-      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
-    },
-    {
-      "added_at": "2023-10-28 22:59:35",
-      "album": {
         "name": "Assassin",
         "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 326000,
       "name": "Assassin",
       "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
+    },
+    {
+      "added_at": "2023-10-28 22:59:35",
+      "album": {
+        "name": "All I've Ever Known",
+        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "All I've Ever Known",
+      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
     },
     {
       "added_at": "2023-10-28 22:59:35",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
-        "name": "When The Light Breaks",
-        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 191557,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
-    },
-    {
-      "added_at": "2023-10-28 22:59:35",
-      "album": {
         "name": "Into The Sun (Chill Mix)",
         "url": "https://open.spotify.com/album/7ix2yVIJHAdLNqIbTBeKil"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 269249,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
+    },
+    {
+      "added_at": "2023-10-28 22:59:35",
+      "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 191557,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
     },
     {
       "added_at": "2023-10-28 22:59:35",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
-        "name": "Manzanita",
-        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        }
-      ],
-      "duration_ms": 164433,
-      "name": "Manzanita",
-      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
-    },
-    {
-      "added_at": "2023-10-28 22:59:35",
-      "album": {
         "name": "Carry On (EarthLife Remix)",
         "url": "https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 218789,
       "name": "Carry On - EarthLife Remix",
       "url": "https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF"
+    },
+    {
+      "added_at": "2023-10-28 22:59:35",
+      "album": {
+        "name": "Manzanita",
+        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "duration_ms": 164433,
+      "name": "Manzanita",
+      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
     },
     {
       "added_at": "2023-10-28 22:59:35",

@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Teethe
 
-1,082 songs - 2 day 13 hr 39 min
+1,083 songs - 2 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1064,7 +1064,8 @@
 | [winter prayer](https://open.spotify.com/track/1E5dzu6VFqQKRERcOy3ake) | [speakerhug](https://open.spotify.com/artist/79bwkhHh6qKP7dehlCdYJP) | [winter prayer](https://open.spotify.com/album/0ooCV2n3UGtvVshpAOUSic) | 4:54 | 2023-06-15 | 2023-09-09 |
 | [Wish](https://open.spotify.com/track/3BQnvX4XaBYmMDfAhtuoZ6) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Wish](https://open.spotify.com/album/0dD5lv9nE67MU25iNX7Lsd) | 4:08 | 2022-07-22 | 2023-05-20 |
 | [Wish It Was](https://open.spotify.com/track/31fAHxxQshddV7JHNkxz49) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Wish It Was](https://open.spotify.com/album/6VPEA2UY1r17TtbsGAiIdz) | 3:06 | 2022-09-02 | 2022-12-15 |
-| [With Me](https://open.spotify.com/track/19oJeztertAs96nTXrkTNM) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [With Me](https://open.spotify.com/album/3ItpOcDRCMne7N7KFotDCQ) | 3:24 | 2023-09-29 |  |
+| [With Me](https://open.spotify.com/track/19oJeztertAs96nTXrkTNM) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [With Me](https://open.spotify.com/album/3ItpOcDRCMne7N7KFotDCQ) | 3:24 | 2023-09-29 | 2023-11-01 |
+| [With Me](https://open.spotify.com/track/37M8fz6hqNXisWg1el9DCl) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [With Me](https://open.spotify.com/album/1u1QRvmnXqynuqnQojlYGU) | 3:24 | 2023-10-27 |  |
 | [Without Me](https://open.spotify.com/track/59CvrXg1dTTVlPDpdur9wK) | [Smoothboi Ezra](https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj) | [Stuck](https://open.spotify.com/album/2FhHAKCrIdmILg8GDAmSUM) | 4:48 | 2021-06-11 | 2022-03-22 |
 | [woah](https://open.spotify.com/track/79ZeN4pLdlB3XfGnJXwMFR) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [woah](https://open.spotify.com/album/4VK3EEaN4S9UhPF2Xr86XA) | 2:16 | 2021-05-14 | 2022-04-27 |
 | [Woman on Fire](https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Woman on Fire](https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV) | 2:58 | 2023-03-31 | 2023-06-16 |

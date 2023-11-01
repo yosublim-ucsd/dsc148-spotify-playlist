@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock bands/artists in Japan right now! Cover: \u30a8\u30ec\u30d5\u30a1\u30f3\u30c8\u30ab\u30b7\u30de\u30b7",
+  "description": "The biggest rock bands/artists in Japan right now! Cover: \u66fd\u6211\u90e8\u6075\u4e00",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 265417,
       "name": "17 (until the day I die)",
       "url": "https://open.spotify.com/track/3wtd7yHCfguOUw29er37ai"
@@ -4930,7 +4930,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 250750,
       "name": "Midnight Highway",
       "url": "https://open.spotify.com/track/3Q028IJOizXo2hA7FUyjJV"
@@ -5276,7 +5276,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 172092,
       "name": "My One Wish",
       "url": "https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i"
@@ -5388,6 +5388,24 @@
       "duration_ms": 252293,
       "name": "Namonaki Watashi",
       "url": "https://open.spotify.com/track/4qtFABgORVZZ1Yk2OahY3a"
+    },
+    {
+      "album": {
+        "name": "Coin a Phrase",
+        "url": "https://open.spotify.com/album/2ObAw1tc5qL1RuBNj7GA8D"
+      },
+      "artists": [
+        {
+          "name": "Naoyuki Fujii",
+          "url": "https://open.spotify.com/artist/0Z7JM0rEJJAKuuBQIJZr1E"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251396,
+      "name": "NANA",
+      "url": "https://open.spotify.com/track/6DLv1Vvgeb0JlzBcMRok7p"
     },
     {
       "album": {
@@ -5662,6 +5680,24 @@
       "duration_ms": 239933,
       "name": "O2",
       "url": "https://open.spotify.com/track/3OMBXsuVWujn3bPQXZgHvh"
+    },
+    {
+      "album": {
+        "name": "OAW!",
+        "url": "https://open.spotify.com/album/3JB9hZuUq5auO9isyLKlmt"
+      },
+      "artists": [
+        {
+          "name": "UNICORN",
+          "url": "https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259466,
+      "name": "OAW!",
+      "url": "https://open.spotify.com/track/0HdYjyYWidXHD4eCbcKq76"
     },
     {
       "album": {
@@ -6460,6 +6496,24 @@
       "duration_ms": 243333,
       "name": "REMEMBER",
       "url": "https://open.spotify.com/track/3zQfJvpdIOPxGLu3NR9zy4"
+    },
+    {
+      "album": {
+        "name": "Rest In Punk",
+        "url": "https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152941,
+      "name": "Rest In Punk",
+      "url": "https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ"
     },
     {
       "album": {
@@ -8877,6 +8931,24 @@
     },
     {
       "album": {
+        "name": "Unmei to tatakae",
+        "url": "https://open.spotify.com/album/15lT5wECfmUSPxPYU8LgG0"
+      },
+      "artists": [
+        {
+          "name": "Keiichi Sokabe",
+          "url": "https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224122,
+      "name": "Unmei to tatakae",
+      "url": "https://open.spotify.com/track/33O05VD8TxJ4uYcWoHptzV"
+    },
+    {
+      "album": {
         "name": "Unnamed Song",
         "url": "https://open.spotify.com/album/4XRTzbvLTIPyHnngt3bfiZ"
       },
@@ -8924,7 +8996,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 188800,
       "name": "Utakatarattara",
       "url": "https://open.spotify.com/track/43xCf1kLDNLNzdDu5V5qZS"
@@ -9162,7 +9234,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 273600,
       "name": "Waratteokure",
       "url": "https://open.spotify.com/track/588GkOEGHQUW4DOB7z2znS"
@@ -10666,7 +10738,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 214088,
       "name": "\u30a2\u30b2\u30a4\u30f3",
       "url": "https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh"
@@ -11816,7 +11888,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 238586,
       "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
       "url": "https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp"
@@ -12256,6 +12328,28 @@
       "duration_ms": 322986,
       "name": "\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
       "url": "https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9"
+    },
+    {
+      "album": {
+        "name": "MASTER PIECE -maverick-Best of 30 Years",
+        "url": "https://open.spotify.com/album/6wBwrdupGzvzTN7ApWytkS"
+      },
+      "artists": [
+        {
+          "name": "Yohito Teraoka",
+          "url": "https://open.spotify.com/artist/1TgmCvWmvvyKZuWWKXDkjU"
+        },
+        {
+          "name": "\u6210\u7530\u662d\u6b21",
+          "url": "https://open.spotify.com/artist/1KJ0iyFM9nBziAmyOj2fHZ"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185227,
+      "name": "\u30e1\u30c3\u30ad",
+      "url": "https://open.spotify.com/track/1pz9RH2Z3JDEbZZJIGTIaC"
     },
     {
       "album": {
@@ -12850,7 +12944,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 228960,
       "name": "\u539f\u8272",
       "url": "https://open.spotify.com/track/2nOZce6QgOgVbcJu93HZtP"
@@ -13132,7 +13226,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 325851,
       "name": "\u5927\u56e3\u5186",
       "url": "https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb"
@@ -14232,7 +14326,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 261440,
       "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
       "url": "https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis"
@@ -14628,7 +14722,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 276373,
       "name": "\u767d\u65e5",
       "url": "https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r"

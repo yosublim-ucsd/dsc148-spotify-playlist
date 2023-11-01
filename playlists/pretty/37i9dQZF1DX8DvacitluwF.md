@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE?si=OFuCTSgFTWKQJZwmSAiNNg">Kaien Cruz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,875 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,991 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

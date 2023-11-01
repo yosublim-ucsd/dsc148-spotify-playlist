@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 荒巻勇仁
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,074 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,100 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Gaze](https://open.spotify.com/track/6s4yoCzQJOR2JtTMbFhIQj) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Gaze](https://open.spotify.com/album/0hoSnKno21HWDf6u46AQ50) | 4:01 |
 | 80 | [SAI\-AO\-TYPE](https://open.spotify.com/track/30vLvc1cHvsA4wi2TBBbxs) | [achilles and tortoise](https://open.spotify.com/artist/5BC7oiOWJt9M78Tq6bwEDX) | [SAI\-AO\-TYPE](https://open.spotify.com/album/2MtV6BcaoY9YzdWjRedUEJ) | 3:21 |
 
-Snapshot ID: `MCxmYTg0ZjlkOWYxNzU3YmU1YTBlMTk1OTFkZTYxNTI4MzQ5ZGZkZjhl`
+Snapshot ID: `MCxiZjM0ODM2Mzk5MWNmODFmYzVjZjc3NzhjODFkOGUyYTA3ZTZjOTM4`

@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Cecilia Toussaint en portada. ",
-  "num_followers": 1008746,
+  "num_followers": 1008809,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTNiNzNmZjNiM2RlYzkzMWE5MjNkMzk4YzQ2MjdhYjBlZDBmZWQ1",
+  "snapshot_id": "MCwyNjZkZmRjN2UzNzFjYWJiYzQ2Zjk3YzUyMzJhMTRiYTA3MWQyODEy",
   "tracks": [
     {
       "added_at": "2023-10-23 22:33:28",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-10-23 22:33:28",
       "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 245481,
-      "name": "C\u00edrculo De Amor",
-      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
-    },
-    {
-      "added_at": "2023-10-23 22:33:28",
-      "album": {
         "name": "A Casa",
         "url": "https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 209440,
       "name": "Quisiera Saber (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg"
+    },
+    {
+      "added_at": "2023-10-23 22:33:28",
+      "album": {
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 245481,
+      "name": "C\u00edrculo De Amor",
+      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
     },
     {
       "added_at": "2023-10-23 22:33:28",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-23 22:33:28",
       "album": {
-        "name": "Libres Y Locos",
-        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 187493,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
-    },
-    {
-      "added_at": "2023-10-23 22:33:28",
-      "album": {
         "name": "Amor Chiquito",
         "url": "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 297533,
       "name": "Veneno Vil",
       "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
+    },
+    {
+      "added_at": "2023-10-23 22:33:28",
+      "album": {
+        "name": "Libres Y Locos",
+        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 187493,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
     },
     {
       "added_at": "2023-10-23 22:33:28",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-23 22:33:28",
       "album": {
-        "name": "Elemento (Noches De Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 223990,
-      "name": "Elemento - Noches De Sal\u00f3n",
-      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
-    },
-    {
-      "added_at": "2023-10-23 22:33:28",
-      "album": {
         "name": "Trinchera",
         "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 194769,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct"
+    },
+    {
+      "added_at": "2023-10-23 22:33:28",
+      "album": {
+        "name": "Elemento (Noches De Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 223990,
+      "name": "Elemento - Noches De Sal\u00f3n",
+      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
     },
     {
       "added_at": "2023-10-23 22:33:28",

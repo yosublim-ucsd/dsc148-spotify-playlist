@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 79036,
+  "num_followers": 79053,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWI1ZmFkODU4ZDgzYzBjNTJkNGYyYjUwYTNmZWE5YmY2ZDFhZDkz",
+  "snapshot_id": "MCw4YjE1ZTYwMjUyMWVkNjE4ZTFjMDQ3M2UyYTM3Y2EyMTQxMjM5OThi",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -187,22 +187,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+        "name": "I.",
+        "url": "https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk"
       },
       "artists": [
         {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 250626,
-      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+      "duration_ms": 286293,
+      "name": "Nothing's Gonna Hurt You Baby",
+      "url": "https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -255,18 +251,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "I.",
-        "url": "https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk"
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 286293,
-      "name": "Nothing's Gonna Hurt You Baby",
-      "url": "https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2"
+      "duration_ms": 250626,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Gossamer",
-        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 221973,
-      "name": "Carried Away",
-      "url": "https://open.spotify.com/track/52a6VcF23v5HB7KfDEmBHq"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Arrow",
         "url": "https://open.spotify.com/album/1mupITVP9mYqKBHjWWDN1W"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 308066,
       "name": "Only for You",
       "url": "https://open.spotify.com/track/4KwvTXx3yR0FA4LGfxD4xP"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "duration_ms": 221973,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/52a6VcF23v5HB7KfDEmBHq"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Allah-Las",
+        "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 212986,
+      "name": "Catamaran",
+      "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Coexist",
         "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Allah-Las",
-        "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
+        "name": "Thinking In Textures",
+        "url": "https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M"
       },
       "artists": [
         {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 212986,
-      "name": "Catamaran",
-      "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
+      "duration_ms": 221533,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1095,22 +1111,6 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Thinking In Textures",
-        "url": "https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 221533,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
-      },
-      "artists": [
-        {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "I Belong in Your Arms",
-      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 247506,
       "name": "We Come Running",
       "url": "https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
+      },
+      "artists": [
+        {
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "I Belong in Your Arms",
+      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Man On Fire",
+      "url": "https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 223840,
       "name": "Forest Whitaker",
       "url": "https://open.spotify.com/track/5S67wnJOMjuySVEu4ssCof"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Man On Fire",
-      "url": "https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq"
     },
     {
       "added_at": "2022-05-19 08:11:23",

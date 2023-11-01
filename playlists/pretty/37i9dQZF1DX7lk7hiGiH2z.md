@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Süßes sonst gibt's Saures! 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,410 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,104 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 49 | [Monsterparty](https://open.spotify.com/track/43fpx6UumXkrClViE5kfrV) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Party \- EP](https://open.spotify.com/album/1Axi7PGr2v3JLEHHkoLAK7) | 2:10 |
 | 50 | [In der Disko an der Geisterbahn](https://open.spotify.com/track/0Cf54rLmoPvCl3qL4DNP5n) | [Patricia](https://open.spotify.com/artist/5uhEKaUlEsILfNbjIiyZKo) | [Tanz doch mit!](https://open.spotify.com/album/444GkGF5I3iqs8YTAJSWzz) | 2:58 |
 
-Snapshot ID: `MCxiYzE1OWRlZWQzNDAxNTlhMzNmYzA3MmJhMzU2ZDBhNGI1ZWVjM2Mx`
+Snapshot ID: `MCwwZGEwNmQzNmRhZTc4ZTdhNmM3ZjRkNGViMTRhOGVlODM3MDE0ODU1`

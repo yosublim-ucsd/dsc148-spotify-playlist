@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY?si=03c1kirSTgCUAXEoU7gnCw">West Coast Wolves</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,156 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,171 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

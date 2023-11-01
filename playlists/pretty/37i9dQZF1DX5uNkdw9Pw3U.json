@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 88534,
+  "num_followers": 88955,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWYyNzVjMmVlZmRkM2JkYjJiYTM3YTQ4ODk3OTdlMWM0Nzg0MjJk",
+  "snapshot_id": "MCw1YzYwOWNmMmNlMjgzYWI0YjM2MzNlNThjOTUzM2JmYWQwZjIyOGE3",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Do To Me",
-        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 225103,
-      "name": "Do To Me",
-      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 266287,
       "name": "Sober",
       "url": "https://open.spotify.com/track/3C57ewlHARCVqeH3KiYkma"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Do To Me",
+        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 225103,
+      "name": "Do To Me",
+      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "People Come And Go",
-        "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 154076,
-      "name": "People Come And Go",
-      "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/7yd9HHhG8MvhJ1ksT3InDF"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 216906,
       "name": "Hair Down (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4QiyTGoMBRz4AHbsPYgiRc"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "People Come And Go",
+        "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 154076,
+      "name": "People Come And Go",
+      "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Hyperion",
-        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
-      },
-      "artists": [
-        {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
-        },
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "So Bad (feat. HAIM)",
-      "url": "https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Seasons (with Khalid)",
         "url": "https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 250001,
       "name": "Seasons (with Khalid)",
       "url": "https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Hyperion",
+        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
+      },
+      "artists": [
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "So Bad (feat. HAIM)",
+      "url": "https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W"
     },
     {
       "added_at": "2023-10-19 22:00:00",

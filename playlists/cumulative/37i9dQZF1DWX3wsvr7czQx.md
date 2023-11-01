@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Duran Duran
 
-95 songs - 6 hr 10 min
+96 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 | 2021-10-22 |  |
 | [Beautiful Sunshine](https://open.spotify.com/track/06vruaOv6AAjmL0lGhimEI) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [The Journey](https://open.spotify.com/album/5wqUZZr1E77YnRSBYD0Y5E) | 2:55 | 2021-11-05 |  |
 | [Beautiful World](https://open.spotify.com/track/3jUvfhQkh89AHkl2f4nNAE) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Beautiful World](https://open.spotify.com/album/6t00567XAMyOx3B7Yj0cEG) | 3:19 | 2023-06-16 |  |
-| [Beautiful World \(From “American Song Contest”\)](https://open.spotify.com/track/2UKJt37EGeYkSc4qx13cq8) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Beautiful World \(From “American Song Contest”\)](https://open.spotify.com/album/4nkhERcJG0Zg9dlfrgA55B) | 3:17 | 2022-03-25 |  |
+| [Beautiful World](https://open.spotify.com/track/4qqY0D1mR2iVvtmVdt1Aio) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Spark of Light](https://open.spotify.com/album/16lQiSe7q4wKDTicJp7jLI) | 3:19 | 2022-03-25 |  |
+| [Beautiful World \(From “American Song Contest”\)](https://open.spotify.com/track/2UKJt37EGeYkSc4qx13cq8) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Beautiful World \(From “American Song Contest”\)](https://open.spotify.com/album/4nkhERcJG0Zg9dlfrgA55B) | 3:17 | 2022-03-25 | 2023-11-01 |
 | [Better With You](https://open.spotify.com/track/2eIiQ5mf0EEYWSfN5Pzxki) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Better With You](https://open.spotify.com/album/2hCIK1s0jAD2s9LBzXusT4) | 3:20 | 2023-03-03 |  |
 | [Big Big Love](https://open.spotify.com/track/1bKccVkVv8Fww7g47ecGKA) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Big Big Love](https://open.spotify.com/album/7wtRSJjjEdOxlZ0gn7MK7y) | 3:46 | 2023-03-17 |  |
 | [Big Dreams and Faded Jeans](https://open.spotify.com/track/3N0isz0Mae8SVfL7gQLeet) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Big Dreams and Faded Jeans](https://open.spotify.com/album/3HGWM4zYtxWEZetYK8jqWI) | 4:07 | 2022-01-14 | 2022-02-12 |

@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 168700,
+  "num_followers": 168748,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTAxZTM5YjM2NGVjNDU2Yzg5OWQ0MjI0MjVkOTg0MmMwNGViY2Yy",
+  "snapshot_id": "MCxkNzE3OGNlMjdmODRhMmNhYTEyYWMyNDZmYzJjMTA5YTQ2ZTNkNzlm",
   "tracks": [
     {
       "added_at": "2023-10-10 00:48:29",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/6HHaF08StaSFk1MdDOMAp4"
-      },
-      "artists": [
-        {
-          "name": "Slauson Malone 1",
-          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW"
-    },
-    {
       "added_at": "2022-02-04 15:20:01",
       "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
@@ -427,6 +411,22 @@
       "duration_ms": 171342,
       "name": "Log In Your Fire",
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
+    },
+    {
+      "added_at": "2023-08-24 03:26:17",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/6HHaF08StaSFk1MdDOMAp4"
+      },
+      "artists": [
+        {
+          "name": "Slauson Malone 1",
+          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW"
     },
     {
       "added_at": "2022-08-31 04:34:22",
@@ -493,6 +493,22 @@
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
+      "added_at": "2021-10-15 03:46:13",
+      "album": {
+        "name": "Mouth Full of Glass",
+        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
+      },
+      "artists": [
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "Garter Snake",
+      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
+    },
+    {
       "added_at": "2022-09-29 00:57:24",
       "album": {
         "name": "Meditations on Crime",
@@ -515,22 +531,6 @@
       "duration_ms": 213159,
       "name": "Crime Seed",
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
-    },
-    {
-      "added_at": "2021-10-15 03:46:13",
-      "album": {
-        "name": "Mouth Full of Glass",
-        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
-      },
-      "artists": [
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Garter Snake",
-      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/6H6NwvDmPVk0VvHRfA6cYs"
     },
     {
-      "added_at": "2023-03-23 20:08:51",
-      "album": {
-        "name": "Ready To Ball",
-        "url": "https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp"
-      },
-      "artists": [
-        {
-          "name": "Kassa Overall",
-          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
-        }
-      ],
-      "duration_ms": 207484,
-      "name": "Ready To Ball",
-      "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Second Spring OST",
@@ -717,6 +701,22 @@
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
+      "added_at": "2023-03-23 20:08:51",
+      "album": {
+        "name": "Ready To Ball",
+        "url": "https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp"
+      },
+      "artists": [
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "duration_ms": 207484,
+      "name": "Ready To Ball",
+      "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
+    },
+    {
       "added_at": "2023-08-08 03:45:10",
       "album": {
         "name": "Highlight",
@@ -731,6 +731,30 @@
       "duration_ms": 197500,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Hildegard",
+        "url": "https://open.spotify.com/album/73YfC8h0xwIr2KFhW99iLk"
+      },
+      "artists": [
+        {
+          "name": "Hildegard",
+          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "duration_ms": 186544,
+      "name": "Jour 3",
+      "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
     },
     {
       "added_at": "2023-06-26 14:17:57",
@@ -801,22 +825,6 @@
       "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
     },
     {
-      "added_at": "2023-06-07 04:10:00",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
-    },
-    {
       "added_at": "2022-07-19 04:00:00",
       "album": {
         "name": "\u00a1Ay!",
@@ -831,6 +839,22 @@
       "duration_ms": 187307,
       "name": "Atemporal",
       "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
+    },
+    {
+      "added_at": "2023-06-07 04:10:00",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -871,30 +895,6 @@
       "duration_ms": 447453,
       "name": "Corner Of My Sky",
       "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Hildegard",
-        "url": "https://open.spotify.com/album/73YfC8h0xwIr2KFhW99iLk"
-      },
-      "artists": [
-        {
-          "name": "Hildegard",
-          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
-        },
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        },
-        {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
-        }
-      ],
-      "duration_ms": 186544,
-      "name": "Jour 3",
-      "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Robber",
-        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 320524,
-      "name": "Robber",
-      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Heartlow",
         "url": "https://open.spotify.com/album/3uWfwfYAKxPBC0Ro4xof8i"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 218925,
       "name": "Heartlow - Edit",
       "url": "https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Robber",
+        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 320524,
+      "name": "Robber",
+      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
     },
     {
-      "added_at": "2022-01-21 20:15:30",
-      "album": {
-        "name": "Songs For Vienna",
-        "url": "https://open.spotify.com/album/5j4EVgx8biIphy8M4InK0a"
-      },
-      "artists": [
-        {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
-        }
-      ],
-      "duration_ms": 188873,
-      "name": "Feedback Loop",
-      "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "MERCY",
@@ -1235,6 +1219,22 @@
       "duration_ms": 420080,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
+    },
+    {
+      "added_at": "2022-01-21 20:15:30",
+      "album": {
+        "name": "Songs For Vienna",
+        "url": "https://open.spotify.com/album/5j4EVgx8biIphy8M4InK0a"
+      },
+      "artists": [
+        {
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+        }
+      ],
+      "duration_ms": 188873,
+      "name": "Feedback Loop",
+      "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1285,22 +1285,6 @@
       "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
     },
     {
-      "added_at": "2023-06-02 00:24:20",
-      "album": {
-        "name": "Open the Gates",
-        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
-      },
-      "artists": [
-        {
-          "name": "Irreversible Entanglements",
-          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
-        }
-      ],
-      "duration_ms": 159093,
-      "name": "Open the Gates",
-      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
-    },
-    {
       "added_at": "2023-03-31 19:12:14",
       "album": {
         "name": "Follow the Cyborg",
@@ -1315,6 +1299,22 @@
       "duration_ms": 229183,
       "name": "Nothing's Wrong",
       "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
+    },
+    {
+      "added_at": "2023-06-02 00:24:20",
+      "album": {
+        "name": "Open the Gates",
+        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
+      },
+      "artists": [
+        {
+          "name": "Irreversible Entanglements",
+          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "Open the Gates",
+      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
     },
     {
       "added_at": "2023-01-03 23:48:36",
@@ -1481,6 +1481,22 @@
       "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
     },
     {
+      "added_at": "2022-04-20 13:58:09",
+      "album": {
+        "name": "Las Olas Contra Todos",
+        "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
+      },
+      "artists": [
+        {
+          "name": "La Villana",
+          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
+        }
+      ],
+      "duration_ms": 165113,
+      "name": "Las Olas Contra Todos",
+      "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
+    },
+    {
       "added_at": "2023-05-12 04:28:08",
       "album": {
         "name": "The Lava Is Calm",
@@ -1499,22 +1515,6 @@
       "duration_ms": 186678,
       "name": "The Lava Is Calm",
       "url": "https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR"
-    },
-    {
-      "added_at": "2022-04-20 13:58:09",
-      "album": {
-        "name": "Las Olas Contra Todos",
-        "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
-      },
-      "artists": [
-        {
-          "name": "La Villana",
-          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
-        }
-      ],
-      "duration_ms": 165113,
-      "name": "Las Olas Contra Todos",
-      "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
     },
     {
       "added_at": "2022-08-13 01:25:00",
@@ -1549,24 +1549,20 @@
       "url": "https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3"
     },
     {
-      "added_at": "2022-08-25 19:38:46",
+      "added_at": "2022-07-14 12:42:06",
       "album": {
-        "name": "A Liberdade \u00e9 Cara",
-        "url": "https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq"
+        "name": "Mapa",
+        "url": "https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF"
       },
       "artists": [
         {
-          "name": "Flak",
-          "url": "https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4"
-        },
-        {
-          "name": "Cachupa Psicadelica",
-          "url": "https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO"
+          "name": "Sundarbans",
+          "url": "https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82"
         }
       ],
-      "duration_ms": 380973,
-      "name": "A Liberdade \u00e9 Cara",
-      "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
+      "duration_ms": 175849,
+      "name": "Mapa",
+      "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
     },
     {
       "added_at": "2022-08-13 01:40:58",
@@ -1585,20 +1581,24 @@
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
-      "added_at": "2022-07-14 12:42:06",
+      "added_at": "2022-08-25 19:38:46",
       "album": {
-        "name": "Mapa",
-        "url": "https://open.spotify.com/album/4CN3s6fTjeM8mG98w5m2mF"
+        "name": "A Liberdade \u00e9 Cara",
+        "url": "https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq"
       },
       "artists": [
         {
-          "name": "Sundarbans",
-          "url": "https://open.spotify.com/artist/7idPJuNNhYxuaMbIfcCX82"
+          "name": "Flak",
+          "url": "https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4"
+        },
+        {
+          "name": "Cachupa Psicadelica",
+          "url": "https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO"
         }
       ],
-      "duration_ms": 175849,
-      "name": "Mapa",
-      "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
+      "duration_ms": 380973,
+      "name": "A Liberdade \u00e9 Cara",
+      "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
     },
     {
       "added_at": "2023-03-24 15:38:14",

@@ -146,10 +146,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 236188,
       "name": "Better Than Ever",
       "url": "https://open.spotify.com/track/5PXPE3omLz44P8p6o0HNI1"
+    },
+    {
+      "album": {
+        "name": "Away From The Castle",
+        "url": "https://open.spotify.com/album/2QbX68So8TZjAmUzpvmt6R"
+      },
+      "artists": [
+        {
+          "name": "Video Age",
+          "url": "https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236188,
+      "name": "Better Than Ever",
+      "url": "https://open.spotify.com/track/5fUKZY3f9BGGRbW22toY19"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: CMK, Jhony Mc, Choice, MAGRÃO XRE, Spike mc, Terror da Cena
 
-159 songs - 7 hr 34 min
+159 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 95327,
+  "num_followers": 95355,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmJjYjg1YmNkNzFkNTU3MmI0ZDgwNTZmODU0NzZmOWQ5YjY2NmQ0",
+  "snapshot_id": "MCwxOWIwNmMxY2UxN2UzZjlkMzZjMmRiZThhZGUzNjFiZjRiODc2MGIx",
   "tracks": [
     {
       "added_at": "2023-05-09 01:25:54",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
-      "added_at": "2022-09-21 01:59:31",
-      "album": {
-        "name": "Feorm Falorx",
-        "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 186624,
-      "name": "C.A.",
-      "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
-    },
-    {
       "added_at": "2022-12-20 22:24:39",
       "album": {
         "name": "Whatever The Weather",
@@ -423,6 +407,22 @@
       "duration_ms": 262375,
       "name": "10\u00b0C",
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
+      "added_at": "2022-09-21 01:59:31",
+      "album": {
+        "name": "Feorm Falorx",
+        "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 186624,
+      "name": "C.A.",
+      "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
     },
     {
-      "added_at": "2022-07-08 04:56:00",
-      "album": {
-        "name": "Spirit Exit",
-        "url": "https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 619200,
-      "name": "Knot of Spirit - Synth Version",
-      "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
-    },
-    {
       "added_at": "2023-04-15 02:42:19",
       "album": {
         "name": "No Highs",
@@ -673,6 +657,22 @@
       "url": "https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP"
     },
     {
+      "added_at": "2022-07-08 04:56:00",
+      "album": {
+        "name": "Spirit Exit",
+        "url": "https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "duration_ms": 619200,
+      "name": "Knot of Spirit - Synth Version",
+      "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
+    },
+    {
       "added_at": "2022-03-30 15:08:41",
       "album": {
         "name": "Between Voids",
@@ -687,6 +687,22 @@
       "duration_ms": 268000,
       "name": "The Psychedelic One",
       "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Translate",
+        "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
+      },
+      "artists": [
+        {
+          "name": "Luke Abbott",
+          "url": "https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg"
+        }
+      ],
+      "duration_ms": 108237,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -711,22 +727,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Translate",
-        "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
-      },
-      "artists": [
-        {
-          "name": "Luke Abbott",
-          "url": "https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg"
-        }
-      ],
-      "duration_ms": 108237,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Milliseconds",
         "url": "https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 177000,
       "name": "Milliseconds",
       "url": "https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Homescreen Glow",
-        "url": "https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr"
-      },
-      "artists": [
-        {
-          "name": "Brin",
-          "url": "https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp"
-        }
-      ],
-      "duration_ms": 326829,
-      "name": "Soft Gaiden",
-      "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -777,6 +761,22 @@
       "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Homescreen Glow",
+        "url": "https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr"
+      },
+      "artists": [
+        {
+          "name": "Brin",
+          "url": "https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp"
+        }
+      ],
+      "duration_ms": 326829,
+      "name": "Soft Gaiden",
+      "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
+    },
+    {
       "added_at": "2022-08-03 03:12:27",
       "album": {
         "name": "Sons Of",
@@ -795,6 +795,22 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
+    },
+    {
+      "added_at": "2022-03-29 02:05:38",
+      "album": {
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -833,22 +849,6 @@
       "url": "https://open.spotify.com/track/4FevOfNa6R6UDCXPjJbVFm"
     },
     {
-      "added_at": "2022-03-29 02:05:38",
-      "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
-    },
-    {
       "added_at": "2022-07-06 16:48:39",
       "album": {
         "name": "Echoes",
@@ -881,20 +881,20 @@
       "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2023-03-03 04:14:50",
       "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
+        "name": "Vegetal Passivity",
+        "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Rzekomo",
+          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
         }
       ],
-      "duration_ms": 231529,
-      "name": "Oquo Quooon",
-      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
+      "duration_ms": 238153,
+      "name": "Vegetal Passivity",
+      "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
     },
     {
       "added_at": "2022-02-25 03:33:17",
@@ -913,20 +913,20 @@
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
-      "added_at": "2023-03-03 04:14:50",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Vegetal Passivity",
-        "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
       },
       "artists": [
         {
-          "name": "Rzekomo",
-          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 238153,
-      "name": "Vegetal Passivity",
-      "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
+      "duration_ms": 231529,
+      "name": "Oquo Quooon",
+      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -977,38 +977,6 @@
       "url": "https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3"
     },
     {
-      "added_at": "2023-04-15 02:42:19",
-      "album": {
-        "name": "FOREVERANDEVERNOMORE (FOREVER VOICELESS EDITION)",
-        "url": "https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 205906,
-      "name": "Ch\u00e9ri - Instrumental",
-      "url": "https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Coral Jazz",
-        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Coral Jazz",
-      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
-    },
-    {
       "added_at": "2022-02-16 00:42:21",
       "album": {
         "name": "drames rurals",
@@ -1039,6 +1007,22 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
+    },
+    {
+      "added_at": "2023-04-15 02:42:19",
+      "album": {
+        "name": "FOREVERANDEVERNOMORE (FOREVER VOICELESS EDITION)",
+        "url": "https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 205906,
+      "name": "Ch\u00e9ri - Instrumental",
+      "url": "https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r"
     },
     {
       "added_at": "2022-03-30 04:41:43",
@@ -1107,8 +1091,8 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Panspermia",
-        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
+        "name": "Coral Jazz",
+        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
       },
       "artists": [
         {
@@ -1116,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Panspermia",
-      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
+      "duration_ms": 183529,
+      "name": "Coral Jazz",
+      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1219,6 +1203,22 @@
       "duration_ms": 317183,
       "name": "Ultra Truth",
       "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Panspermia",
+        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Panspermia",
+      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
     },
     {
-      "added_at": "2022-09-30 02:46:46",
-      "album": {
-        "name": "\u307f\u305e\u3046\u3075\u304f",
-        "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
-      },
-      "artists": [
-        {
-          "name": "\u4e0b\u6751\u771f\u4e00",
-          "url": "https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97"
-        }
-      ],
-      "duration_ms": 388373,
-      "name": "Ripples",
-      "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Hodes",
@@ -1573,20 +1557,20 @@
       "url": "https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK"
     },
     {
-      "added_at": "2022-01-21 20:27:00",
+      "added_at": "2022-09-30 02:46:46",
       "album": {
-        "name": "Some Way",
-        "url": "https://open.spotify.com/album/2dpL1I201z6H3710toHacQ"
+        "name": "\u307f\u305e\u3046\u3075\u304f",
+        "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
       },
       "artists": [
         {
-          "name": "Holodec",
-          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
+          "name": "\u4e0b\u6751\u771f\u4e00",
+          "url": "https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97"
         }
       ],
-      "duration_ms": 217494,
-      "name": "Some Way",
-      "url": "https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN"
+      "duration_ms": 388373,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1619,6 +1603,22 @@
       "duration_ms": 289320,
       "name": "The Star Compass",
       "url": "https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh"
+    },
+    {
+      "added_at": "2022-01-21 20:27:00",
+      "album": {
+        "name": "Some Way",
+        "url": "https://open.spotify.com/album/2dpL1I201z6H3710toHacQ"
+      },
+      "artists": [
+        {
+          "name": "Holodec",
+          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
+        }
+      ],
+      "duration_ms": 217494,
+      "name": "Some Way",
+      "url": "https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN"
     },
     {
       "added_at": "2021-10-06 04:42:05",

@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-243 songs - 14 hr 34 min
+244 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [BEHIND YOU](https://open.spotify.com/track/3KslL1oHw2JreJF9RBzuVt) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 4:29 | 2022-05-11 | 2022-07-20 |
 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 | 2022-10-05 |  |
 | [best song](https://open.spotify.com/track/259vEYIeuiVqTcJsaaE696) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:41 | 2022-05-11 | 2022-11-02 |
+| [best song](https://open.spotify.com/track/7p3pFIgcbsFCvX4SLtZkUS) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF) | 3:41 | 2023-10-16 |  |
 | [Beyond My Dreams](https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts) | 3:05 | 2022-07-08 |  |
 | [blooming](https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [blooming](https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3) | 3:59 | 2022-05-11 | 2022-07-15 |
 | [Bom](https://open.spotify.com/track/0jnUqXkSxqe8hLkPVfzIjz) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/4pR0eatWzDISWS8LHv5dzZ) | 3:37 | 2022-05-11 | 2022-07-29 |
@@ -61,7 +62,7 @@
 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 | 2022-07-08 | 2023-01-13 |
 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 | 2022-06-09 |  |
 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 | 2023-03-31 |  |
-| [Dream Catcher](https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:46 | 2022-05-11 | 2023-10-30 |
+| [Dream Catcher](https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:46 | 2022-05-11 |  |
 | [Endless](https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9) | [JIN](https://open.spotify.com/artist/4qXqEpcMnp74cCHrVW9rRJ) | [Endless](https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5) | 3:15 | 2023-02-03 | 2023-02-26 |
 | [Errr Day](https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Errr Day](https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK) | 3:24 | 2023-03-28 |  |
 | [Especially For You](https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ) | [Lee Daneung](https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO) | [Especially For You](https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl) | 2:34 | 2022-12-26 |  |
@@ -69,7 +70,7 @@
 | [Evening \(feat\. BIG Naughty\)](https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Evening](https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6) | 3:37 | 2022-08-01 |  |
 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 | 2022-05-11 |  |
 | [Every Night](https://open.spotify.com/track/6acz13EUEssNacRUAJRywC) | [The Hills](https://open.spotify.com/artist/0uTmGGHyDZobyR6got7zSz) | [Every Night](https://open.spotify.com/album/2P3JPwhpXGa4omLSZvMxVy) | 3:04 | 2022-07-04 | 2022-07-09 |
-| [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 | 2022-06-20 |  |
+| [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 | 2022-06-20 | 2023-11-01 |
 | [Everything](https://open.spotify.com/track/58oHUm7jyaVlcRnB9Z75ZC) | [kennytheking](https://open.spotify.com/artist/4693A2I2TyU25cJJLJXgYS) | [Everything](https://open.spotify.com/album/6NQwGZ8CGt28dy5EcyNRn0) | 5:00 | 2022-05-11 | 2022-07-28 |
 | [Fall In Love](https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Love Alarm CLAP! CLAP! CLAP! OST](https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L) | 4:10 | 2023-07-07 | 2023-09-21 |
 | [Fateful Love 운명처럼](https://open.spotify.com/track/1Sk4nG0ao54jfaU6ASVzTr) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [The Package 더 패키지 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/16W5lDfcQgrvqqeMsoRvcc) | 3:50 | 2022-05-11 | 2022-07-25 |
@@ -79,7 +80,7 @@
 | [First Love](https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [First Love](https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE) | 3:02 | 2022-07-04 | 2023-04-28 |
 | [FLAVONO](https://open.spotify.com/track/1KeXQ2tuWBgEkF1sAKQ3sA) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [FLAVONO](https://open.spotify.com/album/0YLOzSD8x1vqN3UahvhJRn) | 4:00 | 2022-06-09 | 2022-07-28 |
 | [Fling](https://open.spotify.com/track/3WdgA44BJij5X8qYdynTXO) | [DIVE](https://open.spotify.com/artist/57wwJWPNlKaN300irTjaM9) | [Fling](https://open.spotify.com/album/46bhJQcDLQhGs2kFPGx5UJ) | 2:54 | 2023-01-19 | 2023-02-18 |
-| [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 | 2022-09-05 |  |
+| [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 | 2022-09-05 | 2023-11-01 |
 | [Forever](https://open.spotify.com/track/6TtJ8RqkT729SKTzSdnZgH) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:48 | 2022-05-11 | 2022-07-22 |
 | [FRR](https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [FRR](https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC) | 3:40 | 2023-05-02 | 2023-08-06 |
 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 | 2022-07-08 |  |

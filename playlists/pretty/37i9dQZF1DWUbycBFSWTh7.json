@@ -1,13 +1,65 @@
 {
   "description": "get into the groove",
-  "num_followers": 183623,
+  "num_followers": 183690,
   "original_name": "Deep House Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTgzMmE5ZjA1ZmM1M2U1MWIwNjUwODkxMGE1OTMwY2NiMDdlNTkw",
+  "snapshot_id": "MCxkY2Q3ZjUzMTYyYTk4MWI3OWIyYjcxMmJlYzYzODc2NWVlYzRmMTk4",
   "tracks": [
+    {
+      "added_at": "2023-10-12 10:00:00",
+      "album": {
+        "name": "Water Vibration",
+        "url": "https://open.spotify.com/album/6QgU7RmiyBoEugUHfUCL6q"
+      },
+      "artists": [
+        {
+          "name": "Laszlo",
+          "url": "https://open.spotify.com/artist/0IYI04P2UzxwxJxvdvKk7P"
+        }
+      ],
+      "duration_ms": 200873,
+      "name": "Water Vibration",
+      "url": "https://open.spotify.com/track/55L2O3rTwy9jaFWAkcth9i"
+    },
+    {
+      "added_at": "2023-10-12 10:00:00",
+      "album": {
+        "name": "Allez Hoop",
+        "url": "https://open.spotify.com/album/7FuFwlTDkECL0M3zPCIGdw"
+      },
+      "artists": [
+        {
+          "name": "Danou P",
+          "url": "https://open.spotify.com/artist/7zbOXmwDJ5Ezs8reLsSsmv"
+        },
+        {
+          "name": "Kems Kriol",
+          "url": "https://open.spotify.com/artist/5x3KzaHOhfM4mOW2nLq0Yl"
+        }
+      ],
+      "duration_ms": 349430,
+      "name": "Jazz Dummy",
+      "url": "https://open.spotify.com/track/2pZHOul3kAtiGx8jf2LvQx"
+    },
+    {
+      "added_at": "2023-10-12 10:00:00",
+      "album": {
+        "name": "Voice Memos",
+        "url": "https://open.spotify.com/album/5fvdI0au0Ncr9EDbKBIzV6"
+      },
+      "artists": [
+        {
+          "name": "LoMalo",
+          "url": "https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN"
+        }
+      ],
+      "duration_ms": 173675,
+      "name": "Keep Rocking",
+      "url": "https://open.spotify.com/track/2v8xrpCugWBJgNbJfzErqQ"
+    },
     {
       "added_at": "2023-10-12 10:00:00",
       "album": {
@@ -27,6 +79,42 @@
     {
       "added_at": "2023-10-12 10:00:00",
       "album": {
+        "name": "HARD15",
+        "url": "https://open.spotify.com/album/7zJTQzhmKWT8VEl99Na5lA"
+      },
+      "artists": [
+        {
+          "name": "Milion (NL)",
+          "url": "https://open.spotify.com/artist/6aEZk5JB4srSWr4Pz7MagD"
+        },
+        {
+          "name": "Job De Jong",
+          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
+        }
+      ],
+      "duration_ms": 390697,
+      "name": "Untitled 01",
+      "url": "https://open.spotify.com/track/6Go1RnJyS7qUeJ55Znj8BF"
+    },
+    {
+      "added_at": "2023-10-12 10:00:00",
+      "album": {
+        "name": "The Personality",
+        "url": "https://open.spotify.com/album/7BUXSELRrZvrFBmvovbOi0"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 352727,
+      "name": "The Personality",
+      "url": "https://open.spotify.com/track/6VhHlgGyMJKLq9bwgLsjos"
+    },
+    {
+      "added_at": "2023-10-12 10:00:00",
+      "album": {
         "name": "Aperol Spiritz",
         "url": "https://open.spotify.com/album/2U4jv3hgtuYc95dCjjsTs2"
       },
@@ -39,22 +127,6 @@
       "duration_ms": 315200,
       "name": "Aperol Spiritz",
       "url": "https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde"
-    },
-    {
-      "added_at": "2023-10-12 10:00:00",
-      "album": {
-        "name": "Voice Memos",
-        "url": "https://open.spotify.com/album/5fvdI0au0Ncr9EDbKBIzV6"
-      },
-      "artists": [
-        {
-          "name": "LoMalo",
-          "url": "https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN"
-        }
-      ],
-      "duration_ms": 173675,
-      "name": "Keep Rocking",
-      "url": "https://open.spotify.com/track/2v8xrpCugWBJgNbJfzErqQ"
     },
     {
       "added_at": "2023-10-12 10:00:00",
@@ -79,26 +151,6 @@
       "duration_ms": 288430,
       "name": "Shenkin (pi-c remix)",
       "url": "https://open.spotify.com/track/57pHVJns05fr1dB8rckLbn"
-    },
-    {
-      "added_at": "2023-10-12 10:00:00",
-      "album": {
-        "name": "HARD15",
-        "url": "https://open.spotify.com/album/7zJTQzhmKWT8VEl99Na5lA"
-      },
-      "artists": [
-        {
-          "name": "Milion (NL)",
-          "url": "https://open.spotify.com/artist/6aEZk5JB4srSWr4Pz7MagD"
-        },
-        {
-          "name": "Job De Jong",
-          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
-        }
-      ],
-      "duration_ms": 390697,
-      "name": "Untitled 01",
-      "url": "https://open.spotify.com/track/6Go1RnJyS7qUeJ55Znj8BF"
     },
     {
       "added_at": "2023-10-12 10:00:00",
@@ -135,22 +187,6 @@
       "duration_ms": 389173,
       "name": "Evermore",
       "url": "https://open.spotify.com/track/3p789UBiSbPjcLAcQKXh7j"
-    },
-    {
-      "added_at": "2023-10-12 10:00:00",
-      "album": {
-        "name": "Motown Swagger",
-        "url": "https://open.spotify.com/album/07fDbONnuIiwwmc2MaaiyV"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 438750,
-      "name": "Motown Swagger",
-      "url": "https://open.spotify.com/track/4wT8rqDlZPLfIN34TSibdd"
     },
     {
       "added_at": "2023-10-12 10:00:00",
@@ -411,6 +447,22 @@
     {
       "added_at": "2023-10-12 10:00:00",
       "album": {
+        "name": "Motown Swagger",
+        "url": "https://open.spotify.com/album/07fDbONnuIiwwmc2MaaiyV"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 438750,
+      "name": "Motown Swagger",
+      "url": "https://open.spotify.com/track/4wT8rqDlZPLfIN34TSibdd"
+    },
+    {
+      "added_at": "2023-10-12 10:00:00",
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5HkQZ5tt9RWNGqWeXtYxox"
       },
@@ -447,26 +499,6 @@
       "duration_ms": 406147,
       "name": "Pornography",
       "url": "https://open.spotify.com/track/77ltdRhy9R9AnDWFcKLLSA"
-    },
-    {
-      "added_at": "2023-10-12 10:00:00",
-      "album": {
-        "name": "Allez Hoop",
-        "url": "https://open.spotify.com/album/7FuFwlTDkECL0M3zPCIGdw"
-      },
-      "artists": [
-        {
-          "name": "Danou P",
-          "url": "https://open.spotify.com/artist/7zbOXmwDJ5Ezs8reLsSsmv"
-        },
-        {
-          "name": "Kems Kriol",
-          "url": "https://open.spotify.com/artist/5x3KzaHOhfM4mOW2nLq0Yl"
-        }
-      ],
-      "duration_ms": 349430,
-      "name": "Jazz Dummy",
-      "url": "https://open.spotify.com/track/2pZHOul3kAtiGx8jf2LvQx"
     },
     {
       "added_at": "2023-10-12 10:00:00",
@@ -627,22 +659,6 @@
     {
       "added_at": "2023-10-12 10:00:00",
       "album": {
-        "name": "Water Vibration",
-        "url": "https://open.spotify.com/album/6QgU7RmiyBoEugUHfUCL6q"
-      },
-      "artists": [
-        {
-          "name": "Laszlo",
-          "url": "https://open.spotify.com/artist/0IYI04P2UzxwxJxvdvKk7P"
-        }
-      ],
-      "duration_ms": 200873,
-      "name": "Water Vibration",
-      "url": "https://open.spotify.com/track/55L2O3rTwy9jaFWAkcth9i"
-    },
-    {
-      "added_at": "2023-10-12 10:00:00",
-      "album": {
         "name": "Until Then / \u305d\u308c\u307e\u3067",
         "url": "https://open.spotify.com/album/3pcP8Du4Fg7bqgKR9K0wxn"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 384273,
       "name": "Until Then / \u305d\u308c\u307e\u3067 - Seb Wildblood Remix",
       "url": "https://open.spotify.com/track/59s74jR7BfyxH7gI2hbWUA"
-    },
-    {
-      "added_at": "2023-10-12 10:00:00",
-      "album": {
-        "name": "The Personality",
-        "url": "https://open.spotify.com/album/7BUXSELRrZvrFBmvovbOi0"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 352727,
-      "name": "The Personality",
-      "url": "https://open.spotify.com/track/6VhHlgGyMJKLq9bwgLsjos"
     },
     {
       "added_at": "2023-10-12 10:00:00",

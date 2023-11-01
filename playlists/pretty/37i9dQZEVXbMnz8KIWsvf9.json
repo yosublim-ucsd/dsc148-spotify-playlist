@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Thailand.",
-  "num_followers": 153092,
+  "num_followers": 153130,
   "original_name": "Top 50 - Thailand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUyMDMwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUyMTE2ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
@@ -29,23 +29,27 @@
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+        "name": "3D : The Remixes",
+        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
       },
       "artists": [
         {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 187026,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
@@ -69,59 +73,23 @@
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
-        "name": "3D : The Remixes",
-        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 201812,
-      "name": "3D (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+      "duration_ms": 187026,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "\u0e14\u0e32\u0e27\u0e2b\u0e32\u0e07\u0e2e\u0e31\u0e25\u0e40\u0e25\u0e22\u0e4c",
-        "url": "https://open.spotify.com/album/3ZqqQUWMeZasXiZhu7L1Zl"
-      },
-      "artists": [
-        {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
-        }
-      ],
-      "duration_ms": 224285,
-      "name": "\u0e14\u0e32\u0e27\u0e2b\u0e32\u0e07\u0e2e\u0e31\u0e25\u0e40\u0e25\u0e22\u0e4c",
-      "url": "https://open.spotify.com/track/56wDFSIa9Tr7zbEXUVMwjP"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "Paint Me Naked - SM STATION",
         "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
@@ -137,7 +105,39 @@
       "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "\u0e14\u0e32\u0e27\u0e2b\u0e32\u0e07\u0e2e\u0e31\u0e25\u0e40\u0e25\u0e22\u0e4c",
+        "url": "https://open.spotify.com/album/3ZqqQUWMeZasXiZhu7L1Zl"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "duration_ms": 224285,
+      "name": "\u0e14\u0e32\u0e27\u0e2b\u0e32\u0e07\u0e2e\u0e31\u0e25\u0e40\u0e25\u0e22\u0e4c",
+      "url": "https://open.spotify.com/track/56wDFSIa9Tr7zbEXUVMwjP"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
@@ -153,23 +153,7 @@
       "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 212241,
-      "name": "Like Crazy",
-      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
@@ -185,7 +169,23 @@
       "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 212241,
+      "name": "Like Crazy",
+      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "JENNIE Special Single [You & Me]",
         "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -217,23 +217,7 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "\u0e27\u0e32\u0e2a\u0e19\u0e32\u0e1c\u0e39\u0e49\u0e43\u0e14",
-        "url": "https://open.spotify.com/album/3pcJIZiaDMxH8hvTig1v99"
-      },
-      "artists": [
-        {
-          "name": "Parkmalody",
-          "url": "https://open.spotify.com/artist/6qb55pF0q2KS3v4M1Vd0yE"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "\u0e27\u0e32\u0e2a\u0e19\u0e32\u0e1c\u0e39\u0e49\u0e43\u0e14",
-      "url": "https://open.spotify.com/track/1atD9QMSoZjgKiUKKopZBW"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "Fact Check - The 5th Album",
         "url": "https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr"
@@ -249,7 +233,39 @@
       "url": "https://open.spotify.com/track/5EtiQveQFQy0R05hLVDyKv"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "\u0e27\u0e32\u0e2a\u0e19\u0e32\u0e1c\u0e39\u0e49\u0e43\u0e14",
+        "url": "https://open.spotify.com/album/3pcJIZiaDMxH8hvTig1v99"
+      },
+      "artists": [
+        {
+          "name": "Parkmalody",
+          "url": "https://open.spotify.com/artist/6qb55pF0q2KS3v4M1Vd0yE"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\u0e27\u0e32\u0e2a\u0e19\u0e32\u0e1c\u0e39\u0e49\u0e43\u0e14",
+      "url": "https://open.spotify.com/track/1atD9QMSoZjgKiUKKopZBW"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "SHALALA - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "SHALALA",
+      "url": "https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3)",
         "url": "https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "\u0e22\u0e37\u0e49\u0e2d",
         "url": "https://open.spotify.com/album/1m924NxQkRrH7GGxuInQ41"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/4gwYEnoxp8QDqrNwWNsGq9"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01 (First Love) - Single",
         "url": "https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 (Blooming)",
         "url": "https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4"
@@ -313,75 +329,7 @@
       "url": "https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e43\u0e08\u0e14\u0e35",
-        "url": "https://open.spotify.com/album/0M0ul20pgcYfWCooWsh9Sb"
-      },
-      "artists": [
-        {
-          "name": "FREEHAND",
-          "url": "https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli"
-        }
-      ],
-      "duration_ms": 295300,
-      "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e43\u0e08\u0e14\u0e35",
-      "url": "https://open.spotify.com/track/3y5HhSSAyYGtOkP6mhKs6z"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32 (Consider)",
-        "url": "https://open.spotify.com/album/00lYeU7gtlokOZDkt15QPR"
-      },
-      "artists": [
-        {
-          "name": "Musketeers",
-          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
-        },
-        {
-          "name": "Maiyarap",
-          "url": "https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M"
-        }
-      ],
-      "duration_ms": 246838,
-      "name": "\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32 (Consider)",
-      "url": "https://open.spotify.com/track/3XCoEJvCYqTbM8bhples8N"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e1b\u0e35\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27",
-        "url": "https://open.spotify.com/album/6gI2LOnO76dKJ97awecXIx"
-      },
-      "artists": [
-        {
-          "name": "MEYOU",
-          "url": "https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG"
-        }
-      ],
-      "duration_ms": 233450,
-      "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e1b\u0e35\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27",
-      "url": "https://open.spotify.com/track/4bnxMt1viexb85sAtVz1dA"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "THE GIRLS (BLACKPINK THE GAME OST)",
-        "url": "https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "THE GIRLS - BLACKPINK THE GAME OST",
-      "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -405,7 +353,55 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e43\u0e08\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/0M0ul20pgcYfWCooWsh9Sb"
+      },
+      "artists": [
+        {
+          "name": "FREEHAND",
+          "url": "https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli"
+        }
+      ],
+      "duration_ms": 295300,
+      "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e43\u0e08\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/3y5HhSSAyYGtOkP6mhKs6z"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e1b\u0e35\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/6gI2LOnO76dKJ97awecXIx"
+      },
+      "artists": [
+        {
+          "name": "MEYOU",
+          "url": "https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG"
+        }
+      ],
+      "duration_ms": 233450,
+      "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e1b\u0e35\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/4bnxMt1viexb85sAtVz1dA"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "THE GIRLS (BLACKPINK THE GAME OST)",
+        "url": "https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "THE GIRLS - BLACKPINK THE GAME OST",
+      "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
@@ -421,7 +417,27 @@
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32 (Consider)",
+        "url": "https://open.spotify.com/album/00lYeU7gtlokOZDkt15QPR"
+      },
+      "artists": [
+        {
+          "name": "Musketeers",
+          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+        },
+        {
+          "name": "Maiyarap",
+          "url": "https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M"
+        }
+      ],
+      "duration_ms": 246838,
+      "name": "\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32 (Consider)",
+      "url": "https://open.spotify.com/track/3XCoEJvCYqTbM8bhples8N"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "Shall We",
         "url": "https://open.spotify.com/album/3KyVvNvqo1Rp14e1lR0z6i"
@@ -445,23 +461,7 @@
       "url": "https://open.spotify.com/track/42TLIkJ2kFSY0WlCBjqzhB"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "SHALALA - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp"
-      },
-      "artists": [
-        {
-          "name": "TAEYONG",
-          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "SHALALA",
-      "url": "https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49",
         "url": "https://open.spotify.com/album/1ipMHOoVycUlbnkNMBuWvl"
@@ -477,7 +477,39 @@
       "url": "https://open.spotify.com/track/5OaXaynJZgklXEwzhouey5"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT"
+      },
+      "artists": [
+        {
+          "name": "Mirrr",
+          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+        }
+      ],
+      "duration_ms": 277203,
+      "name": "\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28 - Single",
+        "url": "https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT"
+      },
+      "artists": [
+        {
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+        }
+      ],
+      "duration_ms": 275714,
+      "name": "\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28",
+      "url": "https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22",
         "url": "https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG"
@@ -493,7 +525,7 @@
       "url": "https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "Pauley & Jeen",
         "url": "https://open.spotify.com/album/0wB6ZuX9UpSIc79Kah1SVA"
@@ -513,7 +545,7 @@
       "url": "https://open.spotify.com/track/0ZcyX8hFV1jdJNWOI8mMXF"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01 (Magic Moment)",
         "url": "https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx"
@@ -529,39 +561,23 @@
       "url": "https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
-        "name": "\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28 - Single",
-        "url": "https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT"
+        "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32 Radio",
+        "url": "https://open.spotify.com/album/3epd1gHGZvz2NBeF0lyyyP"
       },
       "artists": [
         {
-          "name": "Only Monday",
-          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
         }
       ],
-      "duration_ms": 275714,
-      "name": "\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28",
-      "url": "https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ"
+      "duration_ms": 270033,
+      "name": "\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e1c\u0e34\u0e14\u0e2b\u0e27\u0e31\u0e07 (\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e24\u0e14\u0e39\u0e2b\u0e19\u0e32\u0e27)",
+      "url": "https://open.spotify.com/track/28WUoGt6gycR4gWHdIOkKP"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e43\u0e19\u0e27\u0e31\u0e19\u0e25\u0e32",
-        "url": "https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf"
-      },
-      "artists": [
-        {
-          "name": "Lower Mansion",
-          "url": "https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6"
-        }
-      ],
-      "duration_ms": 268941,
-      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e43\u0e19\u0e27\u0e31\u0e19\u0e25\u0e32",
-      "url": "https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21",
         "url": "https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs"
@@ -577,23 +593,39 @@
       "url": "https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
-        "name": "\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT"
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e43\u0e19\u0e27\u0e31\u0e19\u0e25\u0e32",
+        "url": "https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf"
       },
       "artists": [
         {
-          "name": "Mirrr",
-          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+          "name": "Lower Mansion",
+          "url": "https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6"
         }
       ],
-      "duration_ms": 277203,
-      "name": "\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr"
+      "duration_ms": 268941,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e43\u0e19\u0e27\u0e31\u0e19\u0e25\u0e32",
+      "url": "https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
+        "url": "https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "duration_ms": 235058,
+      "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
+      "url": "https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "This City Won\u2019t Be Lonely Anymore",
         "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
@@ -613,55 +645,23 @@
       "url": "https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
-        "name": "\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e1c\u0e34\u0e14\u0e2b\u0e27\u0e31\u0e07 (\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e24\u0e14\u0e39\u0e2b\u0e19\u0e32\u0e27)",
-        "url": "https://open.spotify.com/album/3h5McsoCWje5uRcj8psVEH"
+        "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07 (me.)",
+        "url": "https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL"
       },
       "artists": [
         {
-          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
-          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
         }
       ],
-      "duration_ms": 270033,
-      "name": "\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e1c\u0e34\u0e14\u0e2b\u0e27\u0e31\u0e07 (\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e24\u0e14\u0e39\u0e2b\u0e19\u0e32\u0e27)",
-      "url": "https://open.spotify.com/track/7BUHKcrvmr9WIAgEBkwukl"
+      "duration_ms": 283079,
+      "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07 (me.)",
+      "url": "https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
-        "url": "https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK"
-      },
-      "artists": [
-        {
-          "name": "Anatomy Rabbit",
-          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
-        }
-      ],
-      "duration_ms": 235058,
-      "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
-      "url": "https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "TWO OF A KIND",
-        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
-      },
-      "artists": [
-        {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
-      "url": "https://open.spotify.com/track/4Yg2lUUPVk9oqbR4ubQ6BU"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "\u0e40\u0e28\u0e23\u0e49\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c",
         "url": "https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
@@ -693,7 +693,23 @@
       "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "TWO OF A KIND",
+        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/4Yg2lUUPVk9oqbR4ubQ6BU"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "\u0e2a\u0e25\u0e31\u0e01\u0e08\u0e34\u0e15 - Single",
         "url": "https://open.spotify.com/album/2UUUwWqFQUIRfzkcCqf50v"
@@ -713,23 +729,7 @@
       "url": "https://open.spotify.com/track/03Yp2uEOtPGHQ6E9XSjmyv"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07 (me.)",
-        "url": "https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL"
-      },
-      "artists": [
-        {
-          "name": "PURPEECH",
-          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
-        }
-      ],
-      "duration_ms": 283079,
-      "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07 (me.)",
-      "url": "https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "Q.E.D",
         "url": "https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0"
@@ -745,7 +745,23 @@
       "url": "https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "\u0e40\u0e14\u0e34\u0e19\u0e21\u0e32\u0e2a\u0e48\u0e07 (BYE)",
         "url": "https://open.spotify.com/album/0gHWs2N0DKlZHGcJpvpeCA"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/7jq0O5rfrzEIqNOsc7v9JT"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e23\u0e2d\u0e07 - Single",
         "url": "https://open.spotify.com/album/1vsxelQ8EZjwbqMPEETzZ8"
@@ -781,39 +797,7 @@
       "url": "https://open.spotify.com/track/38uarkAk3Y13onWxwj0MIq"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
-        "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
-      },
-      "artists": [
-        {
-          "name": "THEMOONWILLALWAYSBEWITHME",
-          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
-        }
-      ],
-      "duration_ms": 225714,
-      "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
-      "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5"
-    },
-    {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
@@ -829,7 +813,23 @@
       "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
+      "album": {
+        "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
+        "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
+      },
+      "artists": [
+        {
+          "name": "THEMOONWILLALWAYSBEWITHME",
+          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
+        }
+      ],
+      "duration_ms": 225714,
+      "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
+      "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
+    },
+    {
+      "added_at": "2023-10-31 08:32:59",
       "album": {
         "name": "Safeboys",
         "url": "https://open.spotify.com/album/31PTsm7KH7Ad8ZXLXaJR2g"
@@ -845,10 +845,10 @@
       "url": "https://open.spotify.com/track/2RJ7Q3gHb6cOeNBioSARni"
     },
     {
-      "added_at": "2023-10-30 08:26:44",
+      "added_at": "2023-10-31 08:32:59",
       "album": {
-        "name": "\u0e09\u0e31\u0e19\u0e04\u0e37\u0e2d\u0e19\u0e31\u0e01\u0e2a\u0e30\u0e2a\u0e21\u0e04\u0e27\u0e32\u0e21\u0e40\u0e28\u0e23\u0e49\u0e32",
-        "url": "https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC"
+        "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32 Radio",
+        "url": "https://open.spotify.com/album/3epd1gHGZvz2NBeF0lyyyP"
       },
       "artists": [
         {
@@ -858,7 +858,7 @@
       ],
       "duration_ms": 288024,
       "name": "\u0e09\u0e31\u0e19\u0e04\u0e37\u0e2d\u0e19\u0e31\u0e01\u0e2a\u0e30\u0e2a\u0e21\u0e04\u0e27\u0e32\u0e21\u0e40\u0e28\u0e23\u0e49\u0e32",
-      "url": "https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP"
+      "url": "https://open.spotify.com/track/2iFl47C6PcxFEBntbBAfeI"
     }
   ],
   "unique_name": "Top 50 - Thailand",

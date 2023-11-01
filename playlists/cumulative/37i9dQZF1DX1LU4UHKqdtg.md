@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ITZY
 
-795 songs - 1 day 19 hr 29 min
+796 songs - 1 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -792,6 +792,7 @@
 | [六等星](https://open.spotify.com/track/7DUin3zPxgW9vD4NnhSlkk) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [六等星](https://open.spotify.com/album/63cB2tLiZJdgy8jN7O4Qx4) | 3:29 | 2022-04-12 | 2022-06-21 |
 | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um) | 3:24 | 2022-08-23 | 2023-01-13 |
 | [君の声 \(Your voice\)](https://open.spotify.com/track/1eRlhfcn1xtBeCcayadirV) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [iKON JAPAN TOUR 2022 \[FLASHBACK\] \(Live\)](https://open.spotify.com/album/2vvQxmQOjAgMrlU1MT0qcC) | 3:20 | 2022-10-11 | 2023-01-10 |
+| [愛しき日々の真ん中で](https://open.spotify.com/track/3aC1FThusVlVvTMXIom52f) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Love Covers III](https://open.spotify.com/album/5ynv4PWOsiPHTzu6DR5QBX) | 3:28 | 2023-10-31 |  |
 | [明日に向かって](https://open.spotify.com/track/2IRd4YapC0S3mVhFo09lnW) | [L \(キム・ミョンス\)](https://open.spotify.com/artist/7IKwZ7A0LEPpAZfIgSdjao) | [moments](https://open.spotify.com/album/641cArZ8NkDgTF4CcisYii) | 4:55 | 2023-10-23 | 2023-10-31 |
 | [時を駆けて](https://open.spotify.com/track/5rLb9sJEfvEMcWTVhEIZwG) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Blooming](https://open.spotify.com/album/59WPwlL2LisK1iTOEZ5rkf) | 3:30 | 2022-03-29 | 2022-05-11 |
 | [木蘭の涙](https://open.spotify.com/track/7iBecj6numquqBjVCaqjAC) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [木蘭の涙](https://open.spotify.com/album/1VU49IhAsRovcWXa8YgnKn) | 5:32 | 2023-09-21 | 2023-09-27 |

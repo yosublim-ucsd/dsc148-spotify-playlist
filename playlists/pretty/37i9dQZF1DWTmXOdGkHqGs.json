@@ -1,12 +1,12 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 142400,
+  "num_followers": 142458,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzlkOWY5ZGI0NDg4ZmMyMDZkZTJhYjVmZjhjMjBjMGVkNmYyZDA1",
+  "snapshot_id": "MCw5YjMzOGUzNmVkNzYwNzg2ZTZkMzdjNzNjMTcxMTIzYTk0YjIwODNj",
   "tracks": [
     {
       "added_at": "2023-01-17 14:46:17",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Sonido Subtropical",
-        "url": "https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV"
-      },
-      "artists": [
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 310295,
-      "name": "Inocente",
-      "url": "https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "La Triple T",
         "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 167674,
       "name": "La Triple T",
       "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Sonido Subtropical",
+        "url": "https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "duration_ms": 310295,
+      "name": "Inocente",
+      "url": "https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
         "name": "No Te Creas Tan Importante (En Vivo)",
         "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 239760,
       "name": "No Te Creas Tan Importante - En Vivo",
       "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Sa, Za...Sabor",
-        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
-      },
-      "artists": [
-        {
-          "name": "La Cumbia",
-          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Porque te amo",
-      "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 280895,
       "name": "Perrito Malvado",
       "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Sa, Za...Sabor",
+        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
+      },
+      "artists": [
+        {
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Porque te amo",
+      "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
+        "name": "Rompiendo las Reglas de la Cumbia",
+        "url": "https://open.spotify.com/album/57D5brwOIybIORt38FflIh"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        }
+      ],
+      "duration_ms": 266396,
+      "name": "Te Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/1cFTuzXLHT6XS4PlT9wvZR"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
         "name": "Lo Intentamos",
         "url": "https://open.spotify.com/album/2Sm5w6stIMeYwnjaE8nuV5"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 232533,
       "name": "Cuando Nadie Ve",
       "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "Rompiendo las Reglas de la Cumbia",
-        "url": "https://open.spotify.com/album/57D5brwOIybIORt38FflIh"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        }
-      ],
-      "duration_ms": 266396,
-      "name": "Te Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/1cFTuzXLHT6XS4PlT9wvZR"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1399,6 +1399,30 @@
       "duration_ms": 217013,
       "name": "Soy Soltero",
       "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Nuestra Historia Termino",
+        "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        },
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        },
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "duration_ms": 234140,
+      "name": "Nuestra Historia Termino",
+      "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1467,26 +1491,22 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Nuestra Historia Termino",
-        "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
+        "name": "Ya Fue",
+        "url": "https://open.spotify.com/album/7HP4D9IXODFyFuJcOfJmDa"
       },
       "artists": [
         {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         },
         {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        },
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 234140,
-      "name": "Nuestra Historia Termino",
-      "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
+      "duration_ms": 193636,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/61mCcE6UJZyxKESDCPvrim"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1539,26 +1559,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Ya Fue",
-        "url": "https://open.spotify.com/album/7HP4D9IXODFyFuJcOfJmDa"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 193636,
-      "name": "Ya Fue",
-      "url": "https://open.spotify.com/track/61mCcE6UJZyxKESDCPvrim"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "No Puedo Olvidarte Cumbia Rosa",
         "url": "https://open.spotify.com/album/5PV24BwsDo7SxdKpgJUn5n"
       },
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
+        "name": "Ya No Est\u00e0s Aqu\u00ec",
+        "url": "https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cumbia Nova",
+          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
+        }
+      ],
+      "duration_ms": 262861,
+      "name": "Ya No Est\u00e0s Aqu\u00ec",
+      "url": "https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
         "name": "Cumbia del Recuerdo",
         "url": "https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 177340,
       "name": "Cumbia del Recuerdo",
       "url": "https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "Ya No Est\u00e0s Aqu\u00ec",
-        "url": "https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cumbia Nova",
-          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
-        }
-      ],
-      "duration_ms": 262861,
-      "name": "Ya No Est\u00e0s Aqu\u00ec",
-      "url": "https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "La colorada",
-      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "Black Power",
         "url": "https://open.spotify.com/album/1PEDqdQ95BzfHpQT8TnVv0"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 267551,
       "name": "Ya No Me Perteneces",
       "url": "https://open.spotify.com/track/6RPz8HwaPvZcAYrKbWeUwK"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "La colorada",
+      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
     },
     {
       "added_at": "2023-01-17 14:46:17",

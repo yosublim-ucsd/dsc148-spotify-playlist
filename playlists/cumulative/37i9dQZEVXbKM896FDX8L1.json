@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 211103,
       "name": "Bad Blood (Taylor's Version)",
       "url": "https://open.spotify.com/track/64FzgoLZ3oXu2SriZblHic"
@@ -5126,7 +5126,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-31",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -8242,7 +8242,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 211141,
       "name": "get him back!",
       "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
@@ -17944,7 +17944,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -22414,7 +22414,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 250100,
       "name": "This Love (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/5QVVjX0ZItqlVpEuVCM9Yg"
@@ -22490,6 +22490,24 @@
       "duration_ms": 357266,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/3S2R0EVwBSAVMd5UMgKTL0"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357800,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
     },
     {
       "album": {
@@ -24942,7 +24960,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 245566,
       "name": "Wonderland (Taylor's Version)",
       "url": "https://open.spotify.com/track/2ve0kuaWUCt4Zx8x4bf1MR"
@@ -25160,7 +25178,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 267389,
       "name": "You Are In Love (Taylor's Version)",
       "url": "https://open.spotify.com/track/4UwqOWDpdeIDVQDuKT6iza"

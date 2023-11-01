@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 42136,
+  "num_followers": 42167,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjQ3MDFmNzMzYTQ5OGI5ODE3OGEzOWE5MjNkMzM5NjQyYjNkN2U2",
+  "snapshot_id": "MCwzOGM1YTUwN2IwNjQyOWZlN2ZhMWE3MGZmOGY5ODk2ZjA5ZDkxYTAy",
   "tracks": [
     {
       "added_at": "2023-10-27 08:09:47",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "SPECCHIO",
-        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
-      },
-      "artists": [
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 91006,
-      "name": "SPECCHIO (interludio)",
-      "url": "https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j"
-    },
-    {
-      "added_at": "2023-10-27 08:09:47",
-      "album": {
         "name": "Mancati",
         "url": "https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 112000,
       "name": "Mancati",
       "url": "https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb"
+    },
+    {
+      "added_at": "2023-10-27 08:09:47",
+      "album": {
+        "name": "SPECCHIO",
+        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "duration_ms": 91006,
+      "name": "SPECCHIO (interludio)",
+      "url": "https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "Testa e cuore",
-        "url": "https://open.spotify.com/album/3HAwt0yWOAlONEkWEwranZ"
-      },
-      "artists": [
-        {
-          "name": "Incubo",
-          "url": "https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm"
-        }
-      ],
-      "duration_ms": 184087,
-      "name": "Sei stata la canzone pi\u00f9 bella del mondo",
-      "url": "https://open.spotify.com/track/68bygfznYrXh6QbTuKsoyj"
-    },
-    {
-      "added_at": "2023-10-27 08:09:47",
-      "album": {
         "name": "PROLOGO",
         "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 193067,
       "name": "solo polvere.",
       "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
+    },
+    {
+      "added_at": "2023-10-27 08:09:47",
+      "album": {
+        "name": "Testa e cuore",
+        "url": "https://open.spotify.com/album/3HAwt0yWOAlONEkWEwranZ"
+      },
+      "artists": [
+        {
+          "name": "Incubo",
+          "url": "https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm"
+        }
+      ],
+      "duration_ms": 184087,
+      "name": "Sei stata la canzone pi\u00f9 bella del mondo",
+      "url": "https://open.spotify.com/track/68bygfznYrXh6QbTuKsoyj"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "Torner\u00f2",
-        "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "Torner\u00f2",
-      "url": "https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj"
-    },
-    {
-      "added_at": "2023-10-27 08:09:47",
-      "album": {
         "name": "Cose stupide",
         "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 186500,
       "name": "Cose stupide",
       "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
+    },
+    {
+      "added_at": "2023-10-27 08:09:47",
+      "album": {
+        "name": "Torner\u00f2",
+        "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "Torner\u00f2",
+      "url": "https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
-      },
-      "artists": [
-        {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
-        }
-      ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
-    },
-    {
-      "added_at": "2023-10-27 08:09:47",
-      "album": {
         "name": "ONIRO",
         "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
       },
       "artists": [
         {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
         }
       ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1235,6 +1219,22 @@
       "duration_ms": 180278,
       "name": "Sotto lo zero",
       "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
+    },
+    {
+      "added_at": "2023-10-27 08:09:47",
+      "album": {
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
+        "name": "FARSI MALE A NOI VA BENE",
+        "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
+      },
+      "artists": [
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "duration_ms": 116933,
+      "name": "(SEMBRA BELLO)",
+      "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
+    },
+    {
+      "added_at": "2023-10-27 08:09:47",
+      "album": {
         "name": "Febbre a febbraio",
         "url": "https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 186916,
       "name": "Febbre a Febbraio (feat. Lil Kvneki)",
       "url": "https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y"
-    },
-    {
-      "added_at": "2023-10-27 08:09:47",
-      "album": {
-        "name": "FARSI MALE A NOI VA BENE",
-        "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
-      },
-      "artists": [
-        {
-          "name": "bnkr44",
-          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
-        }
-      ],
-      "duration_ms": 116933,
-      "name": "(SEMBRA BELLO)",
-      "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1351,18 +1351,26 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "Primo Amore",
-        "url": "https://open.spotify.com/album/5PW64jViF0tYk0VWwTlMl5"
+        "name": "MUSICA ALTA E STRESS",
+        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
       },
       "artists": [
         {
-          "name": "Yungdobro",
-          "url": "https://open.spotify.com/artist/12MCNZ3FEHpQtCYYHIRwNI"
+          "name": "UkuLele",
+          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
+        },
+        {
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Lettera (interlude)",
-      "url": "https://open.spotify.com/track/6NtwXat2WQtAgRsmYpVysr"
+      "duration_ms": 165714,
+      "name": "SEMBREREMO DISTANTI",
+      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1419,42 +1427,38 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "MUSICA ALTA E STRESS",
-        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
+        "name": "Primo Amore",
+        "url": "https://open.spotify.com/album/5PW64jViF0tYk0VWwTlMl5"
       },
       "artists": [
         {
-          "name": "UkuLele",
-          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
-        },
-        {
-          "name": "Delta",
-          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
-        },
-        {
-          "name": "Close Listen",
-          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+          "name": "Yungdobro",
+          "url": "https://open.spotify.com/artist/12MCNZ3FEHpQtCYYHIRwNI"
         }
       ],
-      "duration_ms": 165714,
-      "name": "SEMBREREMO DISTANTI",
-      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+      "duration_ms": 216000,
+      "name": "Lettera (interlude)",
+      "url": "https://open.spotify.com/track/6NtwXat2WQtAgRsmYpVysr"
     },
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "setiva",
-        "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
+        "name": "Non piover\u00e0 per sempre",
+        "url": "https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm"
       },
       "artists": [
         {
           "name": "Elteep",
           "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        },
+        {
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
         }
       ],
-      "duration_ms": 137137,
-      "name": "setiva",
-      "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
+      "duration_ms": 189000,
+      "name": "Non piover\u00e0 per sempre",
+      "url": "https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1611,22 +1615,18 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "Non piover\u00e0 per sempre",
-        "url": "https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm"
+        "name": "setiva",
+        "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
       },
       "artists": [
         {
           "name": "Elteep",
           "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        },
-        {
-          "name": "Lil Sanax",
-          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Non piover\u00e0 per sempre",
-      "url": "https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA"
+      "duration_ms": 137137,
+      "name": "setiva",
+      "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1739,22 +1739,22 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "NON SO CHI SIAMO",
-        "url": "https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw"
+        "name": "Io non voglio pi\u00f9 soffrire",
+        "url": "https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1"
       },
       "artists": [
         {
-          "name": "Poet",
-          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
+          "name": "Alelock",
+          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
         },
         {
-          "name": "Pi Greco",
-          "url": "https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b"
+          "name": "Gaglia",
+          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
         }
       ],
-      "duration_ms": 171700,
-      "name": "NON SO CHI SIAMO",
-      "url": "https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O"
+      "duration_ms": 156378,
+      "name": "Io non voglio pi\u00f9 soffrire",
+      "url": "https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K"
     }
   ],
   "unique_name": "ragazzo triste",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,497 likes - 55 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,500 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 12 | [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 2:55 |
 | 13 | [By and By](https://open.spotify.com/track/3nUCDAcUrRYHaBLHTZeQsb) | [Turk Murphy](https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM) | [Favorites](https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES) | 3:00 |
 | 14 | [It's Tight Like That](https://open.spotify.com/track/0t16VNebyMXzZUKqDjnmWK) | [Jimmy McPartland](https://open.spotify.com/artist/3bRlHJno4vEvZz8ZxLwGqp), [Gil Rodin](https://open.spotify.com/artist/0Hiv5EHMLjUjuD4NIBh6nd), [Larry Binyon](https://open.spotify.com/artist/6xrtn0fNHyLN4RSABdkVhm), [Vic Briedis](https://open.spotify.com/artist/1TG4CLzdfmBCqsF0ktkT56), [Dick Morgan](https://open.spotify.com/artist/0yDEmCGMl7jMaEMBbj3x0G), [Jack Teagarden](https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf), [Ray Bauduc](https://open.spotify.com/artist/4ylWW97tTAKWZFvhNM4MLg), [Harry Goodman](https://open.spotify.com/artist/6UXN2AIyPh6Epv9FCuuvHZ), [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve), [Jimmy Bracken's Toe Ticklers](https://open.spotify.com/artist/2L7s1XIW9ZnTRc77HWj2KD) | [Ken Burns Jazz\-Benny Goodman](https://open.spotify.com/album/2fIAk4u4vd8yy8th8ZSlbS) | 2:48 |
-| 15 | [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/7Mk3l9pfGuMdEe0joNtAMH) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [New Orleans Preservation, Vol\. 1](https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd) | 4:26 |
+| 15 | [Struttin' with Some Barbecue \- 78 rpm Version](https://open.spotify.com/track/43QRJNdGe4GaO0ucHHQnmS) | [Louis Armstrong & His Hot Five](https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S) | [The Complete Hot Five And Hot Seven Recordings Volume 2](https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v) | 3:03 |
 | 16 | [Tin Roof Blues](https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [Runnin' Wild](https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh) | 2:58 |
-| 17 | [Struttin' with Some Barbecue \- 78 rpm Version](https://open.spotify.com/track/43QRJNdGe4GaO0ucHHQnmS) | [Louis Armstrong & His Hot Five](https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S) | [The Complete Hot Five And Hot Seven Recordings Volume 2](https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v) | 3:03 |
+| 17 | [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/7Mk3l9pfGuMdEe0joNtAMH) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [New Orleans Preservation, Vol\. 1](https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd) | 4:26 |
 | 18 | [Wolverine Blues](https://open.spotify.com/track/37VAo2JMwa5ZC1S8ePWt76) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [The Best Of The Dukes Of Dixieland \(Formerly Titled : The Dukes Of Disneyland\)](https://open.spotify.com/album/22YuEc5U4KScFU7RiXDuCg) | 6:29 |
 | 19 | [When My Sugar Walks Down The Street](https://open.spotify.com/track/778SCkNfo4MyNQyB4H0fXb) | [Turk Murphy](https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM) | [Favorites](https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES) | 2:44 |
 | 20 | [Milenberg Joys](https://open.spotify.com/track/0XVHUN98T5As7UgtEM4bQG) | [Firehouse Five Plus Two](https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg) | [Goes South!](https://open.spotify.com/album/4e7OZWSm43uGotnZ4Js8lc) | 3:40 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [Washington Post March](https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q) | [Pete Fountain and The Kings Of Dixieland](https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So) | [The Best Of Dixieland Volume 1](https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4) | 3:12 |
 | 55 | [Carry Me Back to Old Virginia](https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [30 Classics: Dixieland Jazz for Mardi Gras](https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE) | 3:52 |
 
-Snapshot ID: `MCwyMDdkNjhhZGRlOGMzYWVmOTlhYmI1YTE4ODA5NjA3YWNjZGVlNjYx`
+Snapshot ID: `MCw3YjY0ODczNjI4ZjQzN2VlYTQxOTI1MjlmMTNlNmVkMmMyYjE2NDc4`

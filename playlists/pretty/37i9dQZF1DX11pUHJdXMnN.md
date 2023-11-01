@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,762 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,788 likes - 45 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 23 | [Nefertiti \- Red Axes Remix](https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN), [Neysa May](https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ), [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Nefertiti \(Red Axes Remix\)](https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd) | 4:48 |
 | 24 | [Under Control](https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Music Made Paradise](https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU) | 5:39 |
 | 25 | [Cocoon \- Maya Jane Coles Remix](https://open.spotify.com/track/3SPaw7nI7gwo95tpPIx7Cm) | [Gold Fields](https://open.spotify.com/artist/3kJeINOSExu0ctySTaMu6Q), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Cocoon \(Maya Jane Coles Remix\)](https://open.spotify.com/album/2WbM2EmjfDhV8TXhtqQt2u) | 4:16 |
-| 26 | [Forgive Me](https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Forgive Me](https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ) | 5:39 |
-| 27 | [Lemonade \- The Magician Italo '85' remix](https://open.spotify.com/track/6jE1Qo5DBq6ij0eg36top0) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lemonade \(The Magician Italo '85' Remix\)](https://open.spotify.com/album/5KYMm8CqIacDxfisj3A16B) | 3:15 |
+| 26 | [Lemonade \- The Magician Italo '85' remix](https://open.spotify.com/track/6jE1Qo5DBq6ij0eg36top0) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lemonade \(The Magician Italo '85' Remix\)](https://open.spotify.com/album/5KYMm8CqIacDxfisj3A16B) | 3:15 |
+| 27 | [Forgive Me](https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Forgive Me](https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ) | 5:39 |
 | 28 | [Ardore](https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV), [Tobias Bernstrup](https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt) | [Ardore \(feat\. Tobias Bernstrup\)](https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT) | 3:32 |
 | 29 | [Curb Dog '88](https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Enter Castillo](https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE) | 5:16 |
 | 30 | [Roma](https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5) | [Italo Disco](https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi) | 3:25 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 | 45 | [Up & Down](https://open.spotify.com/track/11DRarpv190YnCAXt85uFA) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 6:49 |
 
-Snapshot ID: `MCw3NmExMWUyMTJjYjk0MDlkOGZiZjg5YmI1YzE3NmY0OGE1N2YyOGNj`
+Snapshot ID: `MCxmNzgyM2FlODkyMzkyMmZiM2JiNTU2MzY1MmMwOTAyYjJlY2IwOGU4`

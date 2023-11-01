@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Rei & YSY A en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,259 likes - 102 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,397 likes - 102 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 2 | [LIBRE](https://open.spotify.com/track/4hCHvrNozvAGPJGeadXJML) | [ORO600](https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Orodembow](https://open.spotify.com/artist/0fEjMgQHvs06BQuWWzsbrn), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd) | [LIBRE](https://open.spotify.com/album/7Fli0EzDcjYjXZywh3gAsp) | 3:25 |
 | 3 | [OCASO](https://open.spotify.com/track/2KibbfI1tM4ofl4f3ojVBF) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [OCASO](https://open.spotify.com/album/4aGeeKBhCMXmnGerGbGGcI) | 3:53 |
 | 4 | [LuXxX](https://open.spotify.com/track/1tgWvt78QUQrghdsbiteyZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [LuXxX](https://open.spotify.com/album/3GmPKpcpxysC0XQ9AJFeky) | 3:21 |
-| 5 | [Frío](https://open.spotify.com/track/7CaBbXaR1sTf5OJKRQFRj6) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [4X4](https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29) | 2:25 |
+| 5 | [Frío](https://open.spotify.com/track/7CaBbXaR1sTf5OJKRQFRj6) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [4X4](https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29) | 3:05 |
 | 6 | [Fruto](https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:12 |
 | 7 | [DEL ESTUDIO AL ESTADIO](https://open.spotify.com/track/0tczOvnVojC5FckxeaYLqR) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [buscando la luz \(deluxe\)](https://open.spotify.com/album/43aMkIvyWY3jMT73OmNpdY) | 3:35 |
 | 8 | [FLECHAZO EN EL CENTRO](https://open.spotify.com/track/4jn3R3KF5hx2fCiXlj89yE) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [TU DUO FAVORITO](https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ) | 3:05 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 101 | [Drill Ar 6](https://open.spotify.com/track/4WDbhOoYYizdcM0ifB62wp) | [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp), [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p) | [Drill Ar 6](https://open.spotify.com/album/2DjDPmqIYeVYb6UdPkc6x1) | 1:42 |
 | 102 | [Duo Dinamico 1](https://open.spotify.com/track/048g5LujX43MfQdmhfPNLO) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk), [MECHAYRXMEO](https://open.spotify.com/artist/7B3Heyhw6s5y9XrxnP8TOx) | [Duo Dinamico 1](https://open.spotify.com/album/7t2LlmjpSdXt41R3oIYSfA) | 2:11 |
 
-Snapshot ID: `MCxiOTE3MjNjYmJmYWQ2OGY4NWQ4ZGFmNzY2MTcwNTM4YjhjNDE4ZDM2`
+Snapshot ID: `MCxjNzFjZGE5NDZmZmE4NGVhMGRkYjZjOGUxNDJhODU4ZWFlMWQ3NTA3`

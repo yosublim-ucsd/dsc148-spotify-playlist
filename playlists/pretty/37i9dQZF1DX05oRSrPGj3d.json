@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Remembering Charlie Robison.",
-  "num_followers": 243535,
+  "num_followers": 243579,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTk3MDhiOTc4ZTFiNDNlMjNhMDhlMzU3N2Q1OGU3YmJhM2VlMDFm",
+  "snapshot_id": "MCxkM2E1NGJjNGM3OGMyMmNiNzgyYjEzMzNiMGMxYzc1NDFjODg3ZjY1",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Wave On Wave",
-        "url": "https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V"
+        "name": "After the Fire",
+        "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
       },
       "artists": [
         {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 244373,
-      "name": "Wave on Wave",
-      "url": "https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9"
+      "duration_ms": 185247,
+      "name": "Ain't a Train",
+      "url": "https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "After the Fire",
-        "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
+        "name": "Wave On Wave",
+        "url": "https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
         }
       ],
-      "duration_ms": 185247,
-      "name": "Ain't a Train",
-      "url": "https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i"
+      "duration_ms": 244373,
+      "name": "Wave on Wave",
+      "url": "https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9"
     },
     {
       "added_at": "2023-10-13 04:01:00",

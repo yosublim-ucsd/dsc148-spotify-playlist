@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 
 > Our editors’ picks for the best of Hip\-Hop in Canada in 2022\. Cover: Drake \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,592 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,575 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 | 74 | [sophisticated](https://open.spotify.com/track/6p7Fm6TupbX3NU4fsJx5wG) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [sophisticated](https://open.spotify.com/album/1W9TZkECRCF5b1bYbdJxeS) | 2:59 |
 | 75 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 |
 
-Snapshot ID: `MCw5M2E4OGY0ZGI2NmExYzE2OWI5Y2UzZjViOGIwMGNmMWQ2YjMyNjY2`
+Snapshot ID: `MCxlMTAyN2M1YjQ2MjIzNjQ4ZmYxY2RiZGZlNmU4YWEzODVlMDc0NmMz`

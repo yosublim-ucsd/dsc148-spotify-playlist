@@ -2,7 +2,7 @@
 
 ### [90s Love Songs](https://open.spotify.com/playlist/37i9dQZF1DWXqpDKK4ed9O)
 
-> Desempolva tu perfume vintage y saca tu lado romántico…
+> Tight Roll your jeans, break out the CK1, and set the mood...
 
 125 songs - 9 hr 15 min
 

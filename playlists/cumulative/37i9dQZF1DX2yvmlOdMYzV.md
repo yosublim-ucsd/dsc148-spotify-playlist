@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-554 songs - 1 day 6 hr 25 min
+555 songs - 1 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,7 +470,7 @@
 | [STAY HERE \(feat\. Amaria\)](https://open.spotify.com/track/6xuGIouNLgWg4VEhEMp5NJ) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [STAY HERE](https://open.spotify.com/album/7u1fxY1Iy0RLXgd7HAokB6) | 4:27 | 2023-07-07 | 2023-10-22 |
 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6Rrehwtm21J7E6r5b2kEHq) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High \(Childish Gambino Version\)](https://open.spotify.com/album/3xCcyKRPqKMFMwXYfLSYLD) | 3:38 | 2021-12-15 | 2022-02-12 |
 | [Stole My Love](https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Stole My Love](https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE) | 3:31 | 2021-12-15 | 2022-09-30 |
-| [stronger than pride](https://open.spotify.com/track/54URaRW4KVRnIklZvxS353) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [stronger than pride](https://open.spotify.com/album/5StH2wfzayHmArLMOxmPd3) | 2:26 | 2023-09-16 |  |
+| [stronger than pride](https://open.spotify.com/track/54URaRW4KVRnIklZvxS353) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [stronger than pride](https://open.spotify.com/album/5StH2wfzayHmArLMOxmPd3) | 2:26 | 2023-09-16 | 2023-11-01 |
 | [Such A Thing](https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 3:25 | 2023-02-12 |  |
 | [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 | 2022-06-30 | 2023-05-03 |
 | [SULA \(Paperback\)](https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK) | 4:15 | 2021-12-15 | 2022-07-29 |
@@ -560,6 +560,7 @@
 | [You and I](https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [You and I](https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj) | 3:06 | 2023-10-06 | 2023-10-28 |
 | [You're The One \- Spotify Singles](https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:49 | 2022-03-29 | 2023-06-17 |
 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 | 2021-12-15 | 2023-01-28 |
+| [You, The World Vs Me](https://open.spotify.com/track/6dG5YbZK6atPesjFH2zgaI) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [You, The World Vs Me](https://open.spotify.com/album/4V49T04xtT0ZAN5I6wmHWr) | 2:03 | 2023-10-27 |  |
 | [YOURS \(ft\. India Shawn\)](https://open.spotify.com/track/62jDisCcICzlm1hwrU2rxl) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [DARLING](https://open.spotify.com/album/6XrAWrMOgdiK9a96OIM3Kb) | 4:20 | 2022-09-02 | 2023-09-17 |
 | [ysbcmn](https://open.spotify.com/track/0xy1sGYDq3hDYjIjLkq9zD) | [GODBY](https://open.spotify.com/artist/0kuUtCLEn8Z8X86bwUUumS) | [ysbcmn](https://open.spotify.com/album/7Jk0ig6SP1c6OjxdeAUGlg) | 3:19 | 2023-03-24 | 2023-10-21 |
 

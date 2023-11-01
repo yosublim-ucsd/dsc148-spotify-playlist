@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation Cover: Faye Webster
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,857 likes - 150 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,955 likes - 150 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 52 | [Hard Feelings](https://open.spotify.com/track/68MbMKn42dsBU9bgzHaRXw) | [Howdy](https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs) | [Hard Feelings](https://open.spotify.com/album/6JG9cpogbueo7J6AWLhl6T) | 4:24 |
 | 53 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 |
 | 54 | [Sha](https://open.spotify.com/track/6HMdSCsyt5ZNPZokEgcoxQ) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Sha](https://open.spotify.com/album/5aBRXOGZlyci28Qps87Mdp) | 3:36 |
-| 55 | [Away From The Castle](https://open.spotify.com/track/0lQd2j6DVcXvRFRsat7Cwz) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/4oEso7P9WBi868KZPWpJAg) | 3:42 |
+| 55 | [Away From The Castle](https://open.spotify.com/track/73oTXbmbelMf3lVJBuLlf7) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/2QbX68So8TZjAmUzpvmt6R) | 3:42 |
 | 56 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 |
 | 57 | [Kind Of Girl](https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:06 |
 | 58 | [Sandy](https://open.spotify.com/track/03xrlJLkVBNiCY2DebTaFU) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Sandy EP](https://open.spotify.com/album/03cBUI3wQZrq5ia2wGe2zK) | 3:55 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 149 | [Voicemail](https://open.spotify.com/track/1BhIBuQqcc797NM9gwJWwE) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Place to Land](https://open.spotify.com/album/55pfu2IeDDtlhtKuFl1krR) | 3:11 |
 | 150 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
 
-Snapshot ID: `MCw5MzlhODBmOWFlYmRiNTQxNDI2Yjg3NDJjN2JhMzc3ODkyNjQ4MWIx`
+Snapshot ID: `MCw2YTAyN2NkMDJjNTg5NmI4MzQyMjRiMGY3NDdiOWExNzI3MjVhMWU3`

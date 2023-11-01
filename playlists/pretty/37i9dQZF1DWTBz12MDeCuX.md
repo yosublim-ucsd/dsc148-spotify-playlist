@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Amaru
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,318 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,516 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Schmetterling](https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3) | 2:00 |
 | 100 | [Paris Paris](https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Paris Paris](https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD) | 2:56 |
 
-Snapshot ID: `MCxkZjY5YzI0NmExNzAyOGI5OWUzOWEyOTU2OGI2MTAzZWIyZWE2NTZh`
+Snapshot ID: `MCxhMzQ4NTQ5NjZiMWU2ZDQ4ZmY2NTk1MmQ5MTM3MjE1N2E0MDI5YTQ3`

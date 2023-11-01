@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 33595,
+  "num_followers": 33674,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGM4MWRhZWYxM2M5MzllNjZiYjU4NzkyY2Y1YjgyMGJjYTdjNjI0",
+  "snapshot_id": "MCwwNGM0NDFiNTQ2OTU4NWZlYWVmMWE4MjAwNDM3NTgyNzUwZGU4NDY1",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -27,26 +27,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "She Don't Give a Fo",
-        "url": "https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 209531,
-      "name": "She Don't Give a Fo",
-      "url": "https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "No Te Hagas",
         "url": "https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 233250,
       "name": "No Te Hagas",
       "url": "https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "She Don't Give a Fo",
+        "url": "https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 209531,
+      "name": "She Don't Give a Fo",
+      "url": "https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 245141,
-      "name": "Dejar Atr\u00e1s / Rompe Corazones",
-      "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Desperte Sin Ti (Remix)",
         "url": "https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 319586,
       "name": "Desperte Sin Ti - Remix",
       "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 245141,
+      "name": "Dejar Atr\u00e1s / Rompe Corazones",
+      "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
     },
     {
       "added_at": "2022-12-09 03:00:00",

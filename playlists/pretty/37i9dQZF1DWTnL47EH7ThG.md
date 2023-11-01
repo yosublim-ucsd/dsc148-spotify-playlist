@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,718 likes - 148 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,738 likes - 148 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,11 +150,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 140 | [Kitchen](https://open.spotify.com/track/0FFk2xCcqgmHdnjsWjJ6nK) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Kitchen](https://open.spotify.com/album/4wcbwQRJuQKt9bHoR7AlXt) | 2:13 |
 | 141 | [Hoity Toity \(feat\. Melo\-X\)](https://open.spotify.com/track/3vlauwmrYHgDDQR7Qd6ko4) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ), [Melo\-X](https://open.spotify.com/artist/6egalONrw7Bsewj7zGc8uK) | [Hoity Toity \(feat\. Melo\-X\)](https://open.spotify.com/album/59CRsVILTi6Vw33FCYiXb4) | 3:42 |
 | 142 | [Feel Free \- Blue Canariñho Remix](https://open.spotify.com/track/6AxDznMdamFBbRw8LAGWQd) | [CassKidd](https://open.spotify.com/artist/6PK38JPBr6Rq8N7qOeu2BI), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Blue Canariñho](https://open.spotify.com/artist/4hjYKKPQFgkR3cmSS5Mn7c) | [Feel Free \(Blue Canariñho Remix\)](https://open.spotify.com/album/2iDfpleE3Gcgm4OpedKQsI) | 3:12 |
-| 143 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |
+| 143 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [DJ Purpberry](https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |
 | 144 | [+44 \- Thinking \- Of \- You](https://open.spotify.com/track/38EeLoy27FTjBFKjghJYh3) | [Morwell](https://open.spotify.com/artist/4SW8tH8EFYuFGoD7CH77yJ), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Three Remixes](https://open.spotify.com/album/3w5feoEwelFMkL67PLis5g) | 4:37 |
 | 145 | [PDF](https://open.spotify.com/track/63fzTn3xge4fU2BsUdfCDQ) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 2:08 |
 | 146 | [Kumkanikazi](https://open.spotify.com/track/1rGqmyb53dK8F8S8mAmSwf) | [Benzo](https://open.spotify.com/artist/2hbl59NDr61JfA3vUy8d55) | [Kumkanikazi](https://open.spotify.com/album/18N0qMfI3WvfTJWNXYdkpq) | 2:19 |
 | 147 | [Play 2](https://open.spotify.com/track/4hjub46q0t82qgGUfLORcv) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw), [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Play 2](https://open.spotify.com/album/3R3kYSDDjnCsgrMUEdQ3nE) | 3:12 |
 | 148 | [Grimey](https://open.spotify.com/track/4IxNLYzo3NmUA8icBU7XVW) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Grimey](https://open.spotify.com/album/6DpgnIgmldVhAWSD7IGQWR) | 2:46 |
 
-Snapshot ID: `MCxmZGY2YmQ0YmFkNWRjN2UxNWJiOTY4NDQ1YTc4ZTUwNDgwNWIxM2Yx`
+Snapshot ID: `MCw0ODZmMTRhZjE5ODYxYjU5YzllMmFlNTI2YjhkYjU5YTNiMDczNzE3`

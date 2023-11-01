@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276892,
+  "num_followers": 276894,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODI5NmI2MDRkYmQwZTk4ZDJmN2NiODcyYzgzZWYwNzVjMjMzYzkz",
+  "snapshot_id": "MCxlOTRjZDEzZGMyMWRiMTg3YTkzNWUzZWI1NzI3NWFmNzdkNGMyYWE0",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -83,6 +83,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/5xHR6285R5JhrTwXIjtP8D"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "duration_ms": 174266,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "I'm Good (Blue) [Acoustic]",
         "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 138024,
       "name": "I'm Good (Blue) - Acoustic",
       "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/5xHR6285R5JhrTwXIjtP8D"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        }
-      ],
-      "duration_ms": 174266,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Paradise (Guitar Acoustic)",
-        "url": "https://open.spotify.com/album/5VSseS7GXXtGFIhEun2z47"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 185019,
-      "name": "Paradise - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/6ehKqIkVCkz9chGBwk3alc"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Sun Comes Up (Acoustic)",
         "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 255582,
       "name": "Sun Comes Up - Acoustic",
       "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Paradise (Guitar Acoustic)",
+        "url": "https://open.spotify.com/album/5VSseS7GXXtGFIhEun2z47"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 185019,
+      "name": "Paradise - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/6ehKqIkVCkz9chGBwk3alc"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Drink About (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 177656,
+      "name": "Drink About - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Bad Memories (Acoustic)",
         "url": "https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 141330,
       "name": "Bad Memories - Acoustic",
       "url": "https://open.spotify.com/track/38Z2ZEs6tW8D0AnM0AVSxP"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Drink About (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo"
-      },
-      "artists": [
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "Drink About - Acoustic Version",
-      "url": "https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -895,6 +895,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "You Don't Know Me (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "You Don't Know Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
         "url": "https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 188527,
       "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
       "url": "https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "You Don't Know Me (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "You Don't Know Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Ferrari (Acoustic)",
-        "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 141890,
-      "name": "Ferrari - Acoustic",
-      "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Where Are \u00dc Now Live (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ZnjWNmJbuN2DKc5HLNA8b"
       },
@@ -1347,6 +1327,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Smoke Filled Room (Acoustic Session)",
+        "url": "https://open.spotify.com/album/3VB0x2kFdt2T2ytvT3071d"
+      },
+      "artists": [
+        {
+          "name": "Mako",
+          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+        }
+      ],
+      "duration_ms": 189660,
+      "name": "Smoke Filled Room - Acoustic Session",
+      "url": "https://open.spotify.com/track/0ncp94ULTBgS0U3GZD80AC"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Recognise (Remixes)",
         "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
       },
@@ -1367,18 +1363,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Smoke Filled Room (Acoustic Session)",
-        "url": "https://open.spotify.com/album/3VB0x2kFdt2T2ytvT3071d"
+        "name": "Ferrari (Acoustic)",
+        "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
       },
       "artists": [
         {
-          "name": "Mako",
-          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
         }
       ],
-      "duration_ms": 189660,
-      "name": "Smoke Filled Room - Acoustic Session",
-      "url": "https://open.spotify.com/track/0ncp94ULTBgS0U3GZD80AC"
+      "duration_ms": 141890,
+      "name": "Ferrari - Acoustic",
+      "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Old Friend / Capricorn (Live Acoustic)",
+        "url": "https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 172756,
+      "name": "Old Friend - Live Acoustic",
+      "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Lionheart (feat. Tom Grennan) [Strings Version]",
         "url": "https://open.spotify.com/album/50NvGvefucu16aAdjr7MMS"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 157142,
       "name": "Lionheart (feat. Tom Grennan) - Strings Version",
       "url": "https://open.spotify.com/track/5NGS1jwlMxkdCVLG1stGRY"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Old Friend / Capricorn (Live Acoustic)",
-        "url": "https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 172756,
-      "name": "Old Friend - Live Acoustic",
-      "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Surrender - Acoustic",
+      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Spectrum EP",
         "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 167619,
       "name": "Here Tonight - Acoustic Version",
       "url": "https://open.spotify.com/track/6EJAP09tSNsp7kBhtC8Fcg"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Acoustic Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Surrender - Acoustic",
-      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Roxanne Emery",
+          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Sound Advice (Chapter One)",
         "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
       },
@@ -1667,6 +1687,26 @@
       "duration_ms": 193432,
       "name": "There Will Be Angels - Acoustic Version",
       "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Used To Have It All (Acoustic Version)",
+        "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 181934,
+      "name": "Used To Have It All - Acoustic",
+      "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1695,26 +1735,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Used To Have It All (Acoustic Version)",
-        "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
-      },
-      "artists": [
-        {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 181934,
-      "name": "Used To Have It All - Acoustic",
-      "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Kids in Love (Remixes)",
         "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
       },
@@ -1731,26 +1751,6 @@
       "duration_ms": 245066,
       "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
       "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Roxanne Emery",
-          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Florida",
+        "url": "https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 96866,
+      "name": "Florida",
+      "url": "https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Looking For Me (Remixes)",
         "url": "https://open.spotify.com/album/0IR8DIvSzJAGlSGqypZsNE"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 163562,
       "name": "Looking For Me - Acoustic",
       "url": "https://open.spotify.com/track/5lyamXh1WgObdOl7Cmsgol"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Florida",
-        "url": "https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 96866,
-      "name": "Florida",
-      "url": "https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy"
     },
     {
       "added_at": "2023-10-06 04:01:00",

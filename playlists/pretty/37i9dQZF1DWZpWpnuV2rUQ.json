@@ -1,12 +1,12 @@
 {
   "description": "Las canciones que quer\u00e9s escuchar [ERNES]",
-  "num_followers": 61780,
+  "num_followers": 61803,
   "original_name": "EyTeen!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGY1ZDJmMjEyYzExOWRhNTJhODI4NGYwNzdmMjZjOGU4N2UyY2Ix",
+  "snapshot_id": "MCw0NWZkYjIxZjAzNDg3OTEwMDQ3NTk4YWQ1MzBiNDBhMjFiZGNhYzE3",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -627,26 +627,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Dos Besitos",
-        "url": "https://open.spotify.com/album/1lwLGfbG3i8IIe8k92yv58"
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        },
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
         }
       ],
-      "duration_ms": 149083,
-      "name": "Dos Besitos",
-      "url": "https://open.spotify.com/track/4qXWX3OmEKp0YCnnxJqTMO"
+      "duration_ms": 186666,
+      "name": "Mejor Que Ayer",
+      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -667,18 +659,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
+        "name": "Dos Besitos",
+        "url": "https://open.spotify.com/album/1lwLGfbG3i8IIe8k92yv58"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Mejor Que Ayer",
-      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
+      "duration_ms": 149083,
+      "name": "Dos Besitos",
+      "url": "https://open.spotify.com/track/4qXWX3OmEKp0YCnnxJqTMO"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Amanecemos",
-        "url": "https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        }
-      ],
-      "duration_ms": 198183,
-      "name": "Amanecemos",
-      "url": "https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "ULALA (OOH LA LA)",
         "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
       },
@@ -751,6 +731,22 @@
       "duration_ms": 188009,
       "name": "ULALA (OOH LA LA)",
       "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Obsesionario",
+        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Obsesionario en La Mayor",
+      "url": "https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -831,6 +827,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Amanecemos",
+        "url": "https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "duration_ms": 198183,
+      "name": "Amanecemos",
+      "url": "https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Temporada de Reggaet\u00f3n 2",
         "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
       },
@@ -847,6 +863,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Destinologia",
+        "url": "https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "duration_ms": 209520,
+      "name": "Ciudad M\u00e1gica",
+      "url": "https://open.spotify.com/track/29Bjl63rfik8188v8J08hQ"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Dije Que No Me Iba a Enamorar",
         "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
       },
@@ -859,22 +891,6 @@
       "duration_ms": 136951,
       "name": "De Nada",
       "url": "https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Obsesionario",
-        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 266840,
-      "name": "Obsesionario en La Mayor",
-      "url": "https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -951,66 +967,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Ya No Quiero Verte",
-        "url": "https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        },
-        {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
-        }
-      ],
-      "duration_ms": 165634,
-      "name": "Ya No Quiero Verte",
-      "url": "https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Destinologia",
-        "url": "https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 209520,
-      "name": "Ciudad M\u00e1gica",
-      "url": "https://open.spotify.com/track/29Bjl63rfik8188v8J08hQ"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "De Nada (Remix)",
-        "url": "https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 179258,
-      "name": "De Nada - Remix",
-      "url": "https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
@@ -1027,6 +983,26 @@
       "duration_ms": 168508,
       "name": "intoxicao",
       "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Ya No Quiero Verte",
+        "url": "https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+        }
+      ],
+      "duration_ms": 165634,
+      "name": "Ya No Quiero Verte",
+      "url": "https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1051,6 +1027,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Obsesionario",
+        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0oH7QF9L9fzDy6EFWlivCC"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "POST MORTEM",
         "url": "https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF"
       },
@@ -1063,6 +1055,30 @@
       "duration_ms": 176568,
       "name": "220",
       "url": "https://open.spotify.com/track/6ZvsmvXknoN8uK2MSEGpwT"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "De Nada (Remix)",
+        "url": "https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 179258,
+      "name": "De Nada - Remix",
+      "url": "https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1119,22 +1135,6 @@
       "duration_ms": 158121,
       "name": "CAMBIANDO LA PIEL",
       "url": "https://open.spotify.com/track/2y2iEADc8O0Vv5IKHSs21i"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Obsesionario",
-        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/0oH7QF9L9fzDy6EFWlivCC"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "La Trampa es Ley",
+        "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 141864,
+      "name": "La Trampa es Ley",
+      "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "La Trampa es Ley",
-        "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
+        "name": "La Chain",
+        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 141864,
-      "name": "La Trampa es Ley",
-      "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
+      "duration_ms": 139518,
+      "name": "La Chain",
+      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "La Chain",
-        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 139518,
-      "name": "La Chain",
-      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
+      "duration_ms": 152280,
+      "name": "PERREO FURIOSO",
+      "url": "https://open.spotify.com/track/4nP0hfzeb5OQYImMkKfTed"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+        "name": "Obsesionario",
+        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
         }
       ],
-      "duration_ms": 152280,
-      "name": "PERREO FURIOSO",
-      "url": "https://open.spotify.com/track/4nP0hfzeb5OQYImMkKfTed"
+      "duration_ms": 227866,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5aVhIDZmDeMt2C2ZMX5KoH"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Obsesionario",
-        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/5aVhIDZmDeMt2C2ZMX5KoH"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 204003,
       "name": "Chance",
       "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "ANTAGONISTA",
+        "url": "https://open.spotify.com/album/7ofQ6GsdNL01Kki0GVaNrZ"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        }
+      ],
+      "duration_ms": 132600,
+      "name": "ANTAGONISTA",
+      "url": "https://open.spotify.com/track/25MXhQD6t6jkWhYcuGBcjt"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1391,22 +1407,6 @@
       "duration_ms": 166963,
       "name": "Vikingos",
       "url": "https://open.spotify.com/track/6t82eltBDEw70ePnk5GGe4"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "ANTAGONISTA",
-        "url": "https://open.spotify.com/album/7ofQ6GsdNL01Kki0GVaNrZ"
-      },
-      "artists": [
-        {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
-        }
-      ],
-      "duration_ms": 132600,
-      "name": "ANTAGONISTA",
-      "url": "https://open.spotify.com/track/25MXhQD6t6jkWhYcuGBcjt"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 212783,
+      "name": "Noches de Insomnio",
+      "url": "https://open.spotify.com/track/4oXBULwcvNC1KlZn80oWXp"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Libertad",
-        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 212783,
-      "name": "Noches de Insomnio",
-      "url": "https://open.spotify.com/track/4oXBULwcvNC1KlZn80oWXp"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Vamo a Darle",
         "url": "https://open.spotify.com/album/6c4s8phsGiEogUFEntAZiT"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 258846,
       "name": "Vamo a Darle",
       "url": "https://open.spotify.com/track/4rW2KfMNxdyNsLlaOYWXh3"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/2aiC1DHkCfDeUClyKukRPm"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 126958,
+      "name": "Se\u00f1ales",
+      "url": "https://open.spotify.com/track/4cIM8wpHVqmPTtLgH4ehun"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1519,18 +1535,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/2aiC1DHkCfDeUClyKukRPm"
+        "name": "Hace Calor",
+        "url": "https://open.spotify.com/album/6kfkMEQwnXozr3dnjZI9ZW"
       },
       "artists": [
         {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
         }
       ],
-      "duration_ms": 126958,
-      "name": "Se\u00f1ales",
-      "url": "https://open.spotify.com/track/4cIM8wpHVqmPTtLgH4ehun"
+      "duration_ms": 201197,
+      "name": "Hace Calor",
+      "url": "https://open.spotify.com/track/5j3wzSS6z80VEs71O0gysC"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1567,26 +1587,6 @@
       "duration_ms": 241847,
       "name": "Cerca de ti (feat. Rusherking, Bhavi, Tobi) - Remix",
       "url": "https://open.spotify.com/track/7ifCZvsDAyzveOHqUYbrpz"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Hace Calor",
-        "url": "https://open.spotify.com/album/6kfkMEQwnXozr3dnjZI9ZW"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 201197,
-      "name": "Hace Calor",
-      "url": "https://open.spotify.com/track/5j3wzSS6z80VEs71O0gysC"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "A Poca Luz",
+        "url": "https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 147149,
+      "name": "A Poca Luz",
+      "url": "https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "No Llores",
         "url": "https://open.spotify.com/album/6zpDRrBwXyaJLHGW4cApxj"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 166246,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/3d4rloohk7D9OqY267uq8n"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "A Poca Luz",
-        "url": "https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 147149,
-      "name": "A Poca Luz",
-      "url": "https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO"
     },
     {
       "added_at": "2023-10-20 03:00:00",

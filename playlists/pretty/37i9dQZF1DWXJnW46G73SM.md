@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,288 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,372 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 24 | [هيبدأ يتكلم](https://open.spotify.com/track/1WZj20KRIEm6EyJwbtt2kf) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [هيبدأ يتكلم](https://open.spotify.com/album/0T84o5dPeM7uRabHJVioSs) | 2:46 |
 | 25 | [Mestaghni \| مستغني](https://open.spotify.com/track/18RvhZWDpYtzyTwU4uopmT) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Mestaghni \| مستغني](https://open.spotify.com/album/7MMTCyQBuyEQi0elzGLMvP) | 2:54 |
 | 26 | [Da Kan Naseeb](https://open.spotify.com/track/26WuTSrvHJ31ucIbRLJAkj) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Fat Sam](https://open.spotify.com/artist/2nhUtgfFgXCQjEXXVmdxxU) | [Red Bull Sika](https://open.spotify.com/album/6DQhRP3LacBWt8T53Bbg3l) | 3:17 |
-| 27 | [Elharb Al3almia Altaltah](https://open.spotify.com/track/0nFsVjjbepvAqCzkQTg5a5) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [Elharb Al3almia Altaltah](https://open.spotify.com/album/2vpIxNIZuOarFUfHbVmr4O) | 3:03 |
+| 27 | [Tirind El Halwyat](https://open.spotify.com/track/0nFsVjjbepvAqCzkQTg5a5) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [Tirind El Halwyat](https://open.spotify.com/album/2vpIxNIZuOarFUfHbVmr4O) | 3:03 |
 | 28 | [El Refak](https://open.spotify.com/track/2eugj0DrBkAvNXO9IFzV8N) | [Nehal Nabil](https://open.spotify.com/artist/2aEck7RNheSctF7Vwdkjyx) | [El Refak](https://open.spotify.com/album/2X1W6e97CsRfv7ieC0kSra) | 4:20 |
 | 29 | [Alb Safi](https://open.spotify.com/track/0WrqGT7608mOopBNxKtjzz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [Alb Safi](https://open.spotify.com/album/4Mk24O7u5xVwkNOSGINF5s) | 2:31 |
 | 30 | [Kol Youm](https://open.spotify.com/track/3IGIcmSEULycb9jwx6iUhX) | [ميمز](https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K) | [Kol Youm](https://open.spotify.com/album/5F0Rcxjd3TOBcu059YbTS3) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [GALEK EIN](https://open.spotify.com/track/6qmxkmnQbq0lerMrj07NS0) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [GALEK EIN](https://open.spotify.com/album/5ihTnM8oVZm29OOYTWAWfL) | 3:46 |
 | 75 | [Ktab Maftoh](https://open.spotify.com/track/2HznblRR4j5w8QkSH1e8El) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Ktab Maftoh](https://open.spotify.com/album/4Zk52gbAM5A88NjkghWQpR) | 4:30 |
 
-Snapshot ID: `MCxhOGEzZGZhN2RhZDJiZmZjOGZmYTA5NzMwNzU3NzczMGJiMGM2M2Fh`
+Snapshot ID: `MCxhMTgyZmUyZDMxZTBmYzE5YjkzZmEwNzYwYTJlNTZhYjczZjlkNzI0`

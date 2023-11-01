@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with <a href="https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv?si=7ce61a0497c04183">Poppy</a> and the songs that shape her alternative spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,481 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,645 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

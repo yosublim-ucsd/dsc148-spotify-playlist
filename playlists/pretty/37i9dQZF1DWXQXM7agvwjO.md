@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Kurosuke \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,052 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,087 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 66 | [Masalah Masa Depan](https://open.spotify.com/track/34dTSIA1q3JMg59gMwQeOb) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Masalah Masa Depan](https://open.spotify.com/album/3BzdHMiZsvce5iM3y1lflJ) | 4:45 |
 | 67 | [Our Beloved Summer](https://open.spotify.com/track/6Nw6XxOGVgKPOgi8LidyPq) | [Kim Kyung Hee](https://open.spotify.com/artist/35CFI6iSFTyM0scQKBu8eE) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD) | 3:12 |
 | 68 | [Daylight \(feat\. GANGGA\)](https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Self Soothing](https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka) | 3:07 |
-| 69 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
-| 70 | [tell me, will we survive?](https://open.spotify.com/track/2TksKegWgcUKDpiG5sTY44) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT), [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk), [HNATA](https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O) | [tell me, will we survive?](https://open.spotify.com/album/70G0Vz66zfhGLqeKkQvMQk) | 3:14 |
+| 69 | [tell me, will we survive?](https://open.spotify.com/track/2TksKegWgcUKDpiG5sTY44) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT), [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk), [HNATA](https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O) | [tell me, will we survive?](https://open.spotify.com/album/70G0Vz66zfhGLqeKkQvMQk) | 3:14 |
+| 70 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
 | 71 | [รบกวน](https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [รบกวน](https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb) | 3:41 |
 | 72 | [Tsuki \- พระจันทร์](https://open.spotify.com/track/5ykMYZvOASxQrj756r9UXx) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Tsuki \(พระจันทร์\)](https://open.spotify.com/album/4rEDnBmCvEm0YksuClGr1x) | 3:36 |
 | 73 | [Kami Khawatir, Kawan](https://open.spotify.com/track/51vmyk9tINi06NE5aVcLtN) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Kami Khawatir, Kawan](https://open.spotify.com/album/02f1wRPbpqbqiaCKqAuW3P) | 4:25 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 76 | [Chết Trong Em](https://open.spotify.com/track/4QjxvzEFwb63NZ1pp3wvHy) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [Chết Trong Em](https://open.spotify.com/album/38JFpZ6hGFaQ4BUxT7XcI0) | 4:16 |
 | 77 | [friends](https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [friends](https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO) | 2:23 |
 | 78 | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk) | 4:50 |
-| 79 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 |
+| 79 | [Bawat Piyesa \(Secret Verse Ver.\)](https://open.spotify.com/track/68qOMum0kIvub5W3yQsTPo) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs), [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [Kasama Kita](https://open.spotify.com/album/5taKMMxKn6OKw7iy4pQ4ru) | 6:50 |
 | 80 | [但](https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 2:22 |
-| 81 | [Bawat Piyesa \(Secret Verse Ver.\)](https://open.spotify.com/track/68qOMum0kIvub5W3yQsTPo) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs), [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [Kasama Kita](https://open.spotify.com/album/5taKMMxKn6OKw7iy4pQ4ru) | 6:50 |
+| 81 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 |
 | 82 | [cyber meat](https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 3:06 |
 | 83 | [Around the Corner](https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:46 |
 | 84 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 93 | [ฟ้ามืดทีไร](https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ฟ้ามืดทีไร](https://open.spotify.com/album/4gCQHXHg56d7U5iP96rKss) | 4:38 |
 | 94 | [22 of Me](https://open.spotify.com/track/5UT5EWSLr9zAPLRBuVrbj3) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [22 of Me](https://open.spotify.com/album/1DdHN7p3iJJzz4mRiFANgU) | 3:30 |
 | 95 | [How Are You](https://open.spotify.com/track/5CAI7JfvqBKKbdkXs5wKE5) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [How Are You](https://open.spotify.com/album/2o59vkcCyL1fSXArEyHHTO) | 4:35 |
-| 96 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 |
-| 97 | [房屋供應問題](https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [房屋供應問題](https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp) | 2:10 |
+| 96 | [房屋供應問題](https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [房屋供應問題](https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp) | 2:10 |
+| 97 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 |
 | 98 | [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 |
-| 99 | [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 |
-| 100 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 |
+| 99 | [YANG KAU HINDARI TERJADI](https://open.spotify.com/track/6Ua0cG9PcsN0NF4IkRUZkB) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [YANG KAU HINDARI TERJADI](https://open.spotify.com/album/4NMWT25Q26qQ8OCCbt0VoV) | 6:52 |
+| 100 | [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 |
 
-Snapshot ID: `MCxlZGI1N2RmMzFkN2U5ZDRmY2RjZWZmMTkzNWFlNjVjOGVmYWQxZDU0`
+Snapshot ID: `MCwzMmY5ZTBlZmI1ODU5ZGM2ZTNiNjcxYTYyODA4ZmNmOGIyYTZjODA2`

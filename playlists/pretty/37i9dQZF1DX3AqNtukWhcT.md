@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,912 likes - 136 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,936 likes - 136 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 135 | [Aves Aristophanis](https://open.spotify.com/track/0hf4OAdQiOvMlMcRsYoHqK) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Tibetan Singing Bowls II](https://open.spotify.com/album/20BvJWKj5DK3lnnqvOcNUU) | 4:06 |
 | 136 | [Swahili](https://open.spotify.com/track/03ZYpkbpDoUJproBs64vli) | [Hank Drum](https://open.spotify.com/artist/7kpwgkybkjrBOQybEwDpWI) | [Healing My Soul](https://open.spotify.com/album/0QgeFx2lRMC9OpgeOS7cmo) | 2:31 |
 
-Snapshot ID: `MCxhMGU3MGJmMmRiYWQ0NzY4YWYyZDg0ODMzNDI4NmQyNWQwMmFhOTgx`
+Snapshot ID: `MCxhNWYxY2U4N2U0MTBlMjBlZTdkNWJlNGNjNTgyMDlkNDAzYzY1YjJh`

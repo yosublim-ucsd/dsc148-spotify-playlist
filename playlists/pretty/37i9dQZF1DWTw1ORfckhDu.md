@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Averagekidluke ja ibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,671 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,695 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 13 | [Taulut \(feat\. Costi\)](https://open.spotify.com/track/150cifhtXjdhDdr07scSVG) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Taulut \(feat\. Costi\)](https://open.spotify.com/album/7iOPxPm0nJsc5lHX3fBg6F) | 3:17 |
 | 14 | [Aji Aji](https://open.spotify.com/track/2lo7W7vYvMN3BOfKDxdxfB) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Aji Aji](https://open.spotify.com/album/1KsNClWF91RCnkBnqIVMam) | 2:46 |
 | 15 | [3 Toivomusta](https://open.spotify.com/track/35RegtSScKod4jXc4XtQXz) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [3 Toivomusta](https://open.spotify.com/album/6h2PFdf9ziIyh9SHRnbgjb) | 2:22 |
-| 16 | [Voimaantunu](https://open.spotify.com/track/1P5dnsR8u5iyEsyIuB8t4O) | [Bämä](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Aina](https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY), [Sointu Borg](https://open.spotify.com/artist/34qCYPy8p0qTLUjkskB7Dz) | [Voimaantunu](https://open.spotify.com/album/3nmdPvniUdbuQPL8ZN9u2A) | 3:15 |
+| 16 | [Voimaantunu](https://open.spotify.com/track/1P5dnsR8u5iyEsyIuB8t4O) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Aina](https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY), [Sointu Borg](https://open.spotify.com/artist/34qCYPy8p0qTLUjkskB7Dz) | [Voimaantunu](https://open.spotify.com/album/3nmdPvniUdbuQPL8ZN9u2A) | 3:15 |
 | 17 | [Aaltoi päin \(feat\. Jami Faltin\)](https://open.spotify.com/track/66BrGVswrL7ZPlumgSLRSs) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Aaltoi päin \(feat\. Jami Faltin\)](https://open.spotify.com/album/6GqaytWhywXWN9XmiZkpTj) | 2:14 |
 | 18 | [Vahinko](https://open.spotify.com/track/3EvLCrqp7tdbaNkEe68RoT) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Aino](https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6) | 3:34 |
 | 19 | [Minimi \(feat\. Purplape\)](https://open.spotify.com/track/3YS6ps8C4Dh3DbizRvgpjc) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Minimi \(feat\. Purplape\)](https://open.spotify.com/album/65xRptwAW4alJtexDzKfci) | 2:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Kylmä \(feat\. Etta\)](https://open.spotify.com/track/6DZb09dWZhI7dF4wLRRxfz) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Kylmä \(feat\. Etta\)](https://open.spotify.com/album/5M96DNh1ylelY2dbFutcZb) | 2:33 |
 | 60 | [Vampyyrit](https://open.spotify.com/track/00tdWbLkXLbQgUjPlASRUS) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Vampyyrit](https://open.spotify.com/album/3cthnJNmrkmSCSBG9cF15v) | 2:26 |
 
-Snapshot ID: `MCw2NTQ4MDBlNTU3NGMwNGZjM2VkZWI5NDFmYTY0NWJjZDI1ZWVkNmZi`
+Snapshot ID: `MCw1MDcwMzBiN2VmODE0ODkzOGNkYjBlNDhlNTQ2MzMwZDEwMWU3NWM1`

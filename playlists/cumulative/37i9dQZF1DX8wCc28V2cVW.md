@@ -4,7 +4,7 @@
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-224 songs - 13 hr 1 min
+225 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Force Your Way](https://open.spotify.com/track/0bEqzlom08DggFRZIbQmRe) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/6hbfyUrnBUh55XnOX8hrQh) | 3:53 | 2021-05-21 | 2022-07-29 |
 | [Force Your Way](https://open.spotify.com/track/3B46jXophS1p38YQzu5A1K) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn) | 3:53 | 2021-05-21 | 2023-06-09 |
 | [Full Speed Ahead](https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:54 | 2021-05-21 |  |
+| [Hall of Worship](https://open.spotify.com/track/4L1xu3jLDdbBntaMqbfVmz) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:00 | 2023-07-06 |  |
 | [Heroes](https://open.spotify.com/track/1mlQndL6Ug3XxrpNKqdQBy) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [Heavensward: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/6ok6JQ4pIIdniVz3lZHOoC) | 3:49 | 2023-06-08 |  |
 | [Home Sweet Home \- Theme of EPISODE PROMPTO](https://open.spotify.com/track/7ko7gRGHntBuoK3kypwTnT) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 3:14 | 2023-06-08 |  |
 | [Home, sweet Home](https://open.spotify.com/track/6ygpi6mir0DGnAPYuj3dmE) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY V Original Soundtrack](https://open.spotify.com/album/4Gm1PKfsnSdxz4BQGrvpv8) | 2:42 | 2021-05-21 | 2023-06-09 |
@@ -166,7 +167,7 @@
 | [This Is Your Story](https://open.spotify.com/track/0rxs6IUm0NeyvIDn9vhPnZ) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:20 | 2023-06-08 |  |
 | [To Sail Forbidden Seas](https://open.spotify.com/track/6mTYogytP7xgRHaoCeBndS) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [FINAL FANTASY XVI Original Soundtrack \(Prelude\)](https://open.spotify.com/album/4SKgLEaL1Zpj6gDrtJ0OHu) | 6:02 | 2023-07-06 |  |
 | [Torn from the Heavens](https://open.spotify.com/track/2Hf5MJo5GjGwUIySaUxiLJ) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S), [FILM SCORE](https://open.spotify.com/artist/0J16Br8ia8yp9PcluAhy1c) | [A REALM REBORN: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/3UcKmJyD3aWgwZ6OlQemJQ) | 5:11 | 2023-06-08 |  |
-| [Trisection](https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 2:37 | 2023-06-08 |  |
+| [Trisection](https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 2:37 | 2023-06-08 | 2023-11-01 |
 | [Triumph](https://open.spotify.com/track/0VIXeGG3ouqnIh3skWyjXm) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2【1/2】](https://open.spotify.com/album/7q7Zkp7Hvq0iEhrLCVTTbA) | 3:14 | 2021-05-21 | 2023-06-09 |
 | [Valse di Fantastica](https://open.spotify.com/track/2aasu7RADsAivfL00Ivj8A) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 3:40 | 2023-06-08 |  |
 | [Veiled in Black](https://open.spotify.com/track/0m04YC2z66cggr4VvZBUMS) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 3:21 | 2021-05-21 | 2023-06-09 |

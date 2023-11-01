@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGI3DKkKGzJ.md) - [plain]
 
 > Le meilleur des années 90 en 90 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,080 likes - 90 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,222 likes - 90 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGI3DKkKGzJ.md) - [plain]
 | 4 | [Rhythm Is A Dancer \- 7" Edit](https://open.spotify.com/track/4RADreHMvMkZwsPgPr9z5c) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [The Madman's Return](https://open.spotify.com/album/2TrNT4qm7qDIRTUVn9jBW4) | 3:45 |
 | 5 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 |
 | 6 | [Je danse le Mia](https://open.spotify.com/track/6P8YkdLMTBA7z5nhKXgyi3) | [IAM](https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7) | [Ombre Est Lumière](https://open.spotify.com/album/2soc1D7Ym6sGp4A4d2pbWU) | 4:27 |
-| 7 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
+| 7 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
 | 8 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 |
 | 9 | [Miami](https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:17 |
 | 10 | [Aïcha \- Version Mixte](https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Sahra](https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH) | 4:19 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGI3DKkKGzJ.md) - [plain]
 | 89 | [Simple et funky](https://open.spotify.com/track/0784emAlDLuQtgeL4QV4tJ) | [Alliance Ethnik](https://open.spotify.com/artist/2dZM3D9rBveK3dywr1WQkN) | [Simple et funky \(Edition Deluxe\)](https://open.spotify.com/album/3e3vBd28W76GroGOt8fsZN) | 3:41 |
 | 90 | [Jump](https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX) | [Kris Kross](https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf) | [Totally Krossed Out](https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka) | 3:15 |
 
-Snapshot ID: `MCxjNzliODNkY2NmYTY4MGViNjEwMDQxYjgxNWNhMDZiNzUyNDE4NWM0`
+Snapshot ID: `MCw3ZGFiODY3YTRkZjJkNTFhN2I5MWVkMmRhNzI4NTE2YjcxMDRkMGJm`

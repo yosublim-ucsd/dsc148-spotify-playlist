@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 
 > Time to headbang around the Christmas tree! Cover: August Burns Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,376 likes - 62 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,432 likes - 62 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 61 | [Merry Metal Xmas](https://open.spotify.com/track/3oQVHS7EC6AzfqSmlRUwse) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl), [Onkel Tom Angelripper](https://open.spotify.com/artist/3w0xdka8OjocXhLRP4YucU) | [Merry Metal Xmas](https://open.spotify.com/album/15n2Te5hsJUpQ0Iuv2Deig) | 3:05 |
 | 62 | [Jingle Balls](https://open.spotify.com/track/1YpvaqiJEB1sZy7YXp9T9t) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Essential Korn](https://open.spotify.com/album/4YsYdC1VAagQknJujE7cvC) | 3:25 |
 
-Snapshot ID: `MCw0NGFkZmM0YzAzY2Y5M2M4NWNhNzk5Y2Q1YWM5NTUyMzRhM2YwNmM4`
+Snapshot ID: `MCwyMzM3OWEyZTI2YzllOTJmODgxMzU1NDVkZWU0ZGVkNWE4N2ZkMzg0`

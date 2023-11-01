@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "Callej\u00f3n de las Catrinas",
+        "url": "https://open.spotify.com/album/5Up7bwvarctNUb6TE70fDT"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75333,
+      "name": "Callej\u00f3n de las Catrinas",
+      "url": "https://open.spotify.com/track/1YFdN7uDnEGZWj1aRoOiLr"
+    },
+    {
+      "album": {
         "name": "Guaguansoul",
         "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
       },
@@ -1516,7 +1534,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-01",
       "duration_ms": 145200,
       "name": "Sunset on Vallarta",
       "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"

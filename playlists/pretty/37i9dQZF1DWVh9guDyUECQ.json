@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 175802,
+  "num_followers": 175840,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjdlNjQ5NmU1ZWE1M2UwOGJmZjY1YWE1MGQ2ZDY4ZGYwZGM3NGZj",
+  "snapshot_id": "MCw5ZjVmMjA4ZmNlNWI5ZWZiYmU4ZGIwNTY3OWZmNGVmNjc0ZTExMGU0",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -983,26 +983,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
-        }
-      ],
-      "duration_ms": 160979,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Color de Alegr\u00eda",
         "url": "https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9"
       },
@@ -1027,6 +1007,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        }
+      ],
+      "duration_ms": 160979,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Pura Alegr\u00eda",
         "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
       },
@@ -1039,26 +1039,6 @@
       "duration_ms": 186367,
       "name": "Pura Alegr\u00eda",
       "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Dosis",
-        "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
-      },
-      "artists": [
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 165698,
-      "name": "No Disparo",
-      "url": "https://open.spotify.com/track/7hF2EHeIpUri12J7JQ6kMg"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1083,6 +1063,26 @@
       "duration_ms": 185361,
       "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
       "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Dosis",
+        "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
+      },
+      "artists": [
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 165698,
+      "name": "No Disparo",
+      "url": "https://open.spotify.com/track/7hF2EHeIpUri12J7JQ6kMg"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "TBT",
-        "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
-      },
-      "artists": [
-        {
-          "name": "Artury Pepper",
-          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
-        },
-        {
-          "name": "Coron3l",
-          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "TBT",
-      "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Gozo Yo Quer\u00eda",
         "url": "https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 188921,
       "name": "Gozo Yo Quer\u00eda",
       "url": "https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "TBT",
+        "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
+      },
+      "artists": [
+        {
+          "name": "Artury Pepper",
+          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
+        },
+        {
+          "name": "Coron3l",
+          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "TBT",
+      "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
     },
     {
       "added_at": "2022-08-27 05:04:45",

@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 155366,
+  "num_followers": 155406,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjM5NGU3ZDdlM2M1OTU2YTI0NWRlNWRmNDUyYjU4ZWM3Zjg2ZjAw",
+  "snapshot_id": "MCw3ZDllYTAwNDkyODg4OWY0OTg0NjI2ZGNjYmFlOTM5NzVkMzBhNTZm",
   "tracks": [
     {
       "added_at": "2023-10-30 03:04:03",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
-        "name": "The Lost Petals",
-        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 121695,
-      "name": "Once More",
-      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
-    },
-    {
-      "added_at": "2023-10-30 03:04:03",
-      "album": {
         "name": "always",
         "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 227031,
       "name": "drunk",
       "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
+    },
+    {
+      "added_at": "2023-10-30 03:04:03",
+      "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 121695,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
       "added_at": "2023-10-30 03:04:03",
@@ -351,22 +351,22 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
-        "name": "fue mejor (feat. SZA)",
-        "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         },
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 230964,
-      "name": "fue mejor (feat. SZA)",
-      "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
+      "duration_ms": 158726,
+      "name": "R.I.P. (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/4wJ8dJKBAxdDe5cUx8K779"
     },
     {
       "added_at": "2023-10-30 03:04:03",
@@ -387,22 +387,22 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+        "name": "fue mejor (feat. SZA)",
+        "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 158726,
-      "name": "R.I.P. (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/4wJ8dJKBAxdDe5cUx8K779"
+      "duration_ms": 230964,
+      "name": "fue mejor (feat. SZA)",
+      "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
     },
     {
       "added_at": "2023-10-30 03:04:03",
@@ -439,6 +439,22 @@
       "duration_ms": 140571,
       "name": "Wish I Was Better",
       "url": "https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj"
+    },
+    {
+      "added_at": "2023-10-30 03:04:03",
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 180018,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3"
     },
     {
       "added_at": "2023-10-30 03:04:03",
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
-    },
-    {
-      "added_at": "2023-10-30 03:04:03",
-      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
+    },
+    {
+      "added_at": "2023-10-30 03:04:03",
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
       },
@@ -551,38 +567,6 @@
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2023-10-30 03:04:03",
-      "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 180018,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3"
-    },
-    {
-      "added_at": "2023-10-30 03:04:03",
-      "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
     },
     {
       "added_at": "2023-10-30 03:04:03",
@@ -619,6 +603,22 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
+        "name": "Shawn Mendes",
+        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 200600,
+      "name": "Where Were You In The Morning?",
+      "url": "https://open.spotify.com/track/376Gg7Oxo5C5jUWDWpVXeI"
+    },
+    {
+      "added_at": "2023-10-30 03:04:03",
+      "album": {
         "name": "Watching Movies with the Sound Off (10th Anniversary)",
         "url": "https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
-        "name": "Shawn Mendes",
-        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "Where Were You In The Morning?",
-      "url": "https://open.spotify.com/track/376Gg7Oxo5C5jUWDWpVXeI"
-    },
-    {
-      "added_at": "2023-10-30 03:04:03",
-      "album": {
         "name": "Fair",
         "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 184012,
       "name": "Fair",
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+    },
+    {
+      "added_at": "2023-10-30 03:04:03",
+      "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
     },
     {
       "added_at": "2023-10-30 03:04:03",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+        "name": "IT'S NOT THAT SERIOUS",
+        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
         }
       ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+      "duration_ms": 140950,
+      "name": "IT'S NOT THAT SERIOUS",
+      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
     },
     {
       "added_at": "2023-10-30 03:04:03",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+    },
+    {
+      "added_at": "2023-10-30 03:04:03",
+      "album": {
         "name": "life's a beach",
         "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 155845,
       "name": "daydreams",
       "url": "https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P"
-    },
-    {
-      "added_at": "2023-10-30 03:04:03",
-      "album": {
-        "name": "IT'S NOT THAT SERIOUS",
-        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 140950,
-      "name": "IT'S NOT THAT SERIOUS",
-      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
     },
     {
       "added_at": "2023-10-30 03:04:03",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy"
-    },
-    {
-      "added_at": "2023-10-30 03:04:03",
-      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 198594,
       "name": "Sola",
       "url": "https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR"
+    },
+    {
+      "added_at": "2023-10-30 03:04:03",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy"
     },
     {
       "added_at": "2023-10-30 03:04:03",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
-    },
-    {
-      "added_at": "2023-10-30 03:04:03",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 202230,
       "name": "Revenge Of The Number",
       "url": "https://open.spotify.com/track/1ScZSUcqKAYPoBhL8KL5pU"
+    },
+    {
+      "added_at": "2023-10-30 03:04:03",
+      "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2023-10-30 03:04:03",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
-        "name": "Wavvy",
-        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
-      },
-      "artists": [
-        {
-          "name": "Lav",
-          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Wavvy",
-      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
-    },
-    {
-      "added_at": "2023-10-30 03:04:03",
-      "album": {
         "name": "late night thoughts",
         "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 153905,
       "name": "wait it out",
       "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
+    },
+    {
+      "added_at": "2023-10-30 03:04:03",
+      "album": {
+        "name": "Wavvy",
+        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
+      },
+      "artists": [
+        {
+          "name": "Lav",
+          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Wavvy",
+      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
     },
     {
       "added_at": "2023-10-30 03:04:03",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 163146,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
-    },
-    {
-      "added_at": "2023-10-30 03:04:03",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/059780GUzrYPDmQF1tlsek"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 196989,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G"
+    },
+    {
+      "added_at": "2023-10-30 03:04:03",
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 163146,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
     },
     {
       "added_at": "2023-10-30 03:04:03",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
-        "name": "Home Tapes",
-        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Oceansize",
-      "url": "https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W"
-    },
-    {
-      "added_at": "2023-10-30 03:04:03",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 253927,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
+    },
+    {
+      "added_at": "2023-10-30 03:04:03",
+      "album": {
+        "name": "Home Tapes",
+        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Oceansize",
+      "url": "https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W"
     },
     {
       "added_at": "2023-10-30 03:04:03",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-10-30 03:04:03",
       "album": {
-        "name": "Late (Again)",
-        "url": "https://open.spotify.com/album/1HG8JzEVxRXXl0MyYRjBLz"
+        "name": "Gone 2 Long",
+        "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
       },
       "artists": [
         {
-          "name": "vito.",
-          "url": "https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0"
+          "name": "PRETTYMUCH",
+          "url": "https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1"
         }
       ],
-      "duration_ms": 115119,
-      "name": "Late (Again)",
-      "url": "https://open.spotify.com/track/2hSjqnEeGoOQvCOnoMtXWE"
+      "duration_ms": 195013,
+      "name": "Gone 2 Long",
+      "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

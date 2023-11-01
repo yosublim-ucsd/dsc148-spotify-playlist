@@ -4,7 +4,7 @@
 
 > Fina selección musical por el legendario ídolo del Rock Latinoamericano.
 
-33 songs - 2 hr 26 min
+34 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,9 @@
 | [Perdida](https://open.spotify.com/track/7CmSrCIwDdWRYCcnNADtRq) | [Killer Burritos](https://open.spotify.com/artist/44HbZgVV4ohYTXfuQIf4Kn) | [Perdida](https://open.spotify.com/album/0AheFDMTdp9vr7Hv1Z3tXZ) | 5:00 | 2020-01-15 |  |
 | [Perdonado \(Niño Condenado\)](https://open.spotify.com/track/4K5ZDxu6eeAXUXhbkJRXXA) | [Invisible](https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1) | [El Jardin de los Presentes](https://open.spotify.com/album/0lbpA4dCZfaNhy6LZrGDvJ) | 7:04 | 2020-01-15 |  |
 | [Presente \(El Momento en Que Estás\)](https://open.spotify.com/track/4bFUkfOd1ZGrCaszcsBP2L) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Caliente](https://open.spotify.com/album/2G0N5Sy48qkoWxCH8t4dIv) | 3:14 | 2020-01-15 |  |
-| [Sandwiches de Miga](https://open.spotify.com/track/004G9E3EZhxxn5aE9yEQqx) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/3TIorpubpykzUFdUNBLOdp) | 3:00 | 2020-01-15 |  |
+| [Sandwiches de Miga](https://open.spotify.com/track/004G9E3EZhxxn5aE9yEQqx) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/3TIorpubpykzUFdUNBLOdp) | 3:00 | 2020-01-15 | 2023-11-01 |
 | [Sandwiches de Miga](https://open.spotify.com/track/3aPQy0EeOdeR3DGXsF2qoz) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/0Wo1WKPuu11lJ68YhOO85X) | 3:00 | 2020-01-15 | 2022-07-29 |
+| [Sandwiches de Miga](https://open.spotify.com/track/2WTuqSbFdFQ4Ft5Q17pMhf) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/1F3hULFzB7JebCft7dcdBq) | 3:02 | 2020-01-15 |  |
 | [Trola Cocacola](https://open.spotify.com/track/4Ax9I3G5qyoMS2ix5RLIIZ) | [Gonzalo Aloras](https://open.spotify.com/artist/68ylNUXfCMZfmd9bBx8Knh) | [Algo Vuela](https://open.spotify.com/album/0b0XfV0pXrjBzYSEsUIxtd) | 2:43 | 2020-01-15 |  |
 | [Yendo De La Cama Al Living](https://open.spotify.com/track/13tz2i3p3x2dMK9906nVFk) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Pubis Angelical / Yendo De La Cama Al Living](https://open.spotify.com/album/1oZU9a9rdlLV2AB0OCocTZ) | 4:45 | 2020-01-15 |  |
 

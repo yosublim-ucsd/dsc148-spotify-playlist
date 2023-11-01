@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Angie McMahon
 
-1,858 songs - 4 day 4 hr 17 min
+1,859 songs - 4 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [BETTER \(feat\. Jay Prince & Billy Davis\)](https://open.spotify.com/track/2uwes91y2qqJrutmEZJtlB) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Songs To Come Home To](https://open.spotify.com/album/3RyNOK2vXaGdkRWoh8QmjN) | 2:45 | 2023-08-24 | 2023-09-01 |
 | [Better Apart](https://open.spotify.com/track/1MaXSKqoQ2UxothMqc77Xq) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz) | 3:10 | 2023-08-10 | 2023-08-18 |
 | [Better Be Ready](https://open.spotify.com/track/2rFxkcnseIoFWZD4Ro5mFo) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [XD Project](https://open.spotify.com/artist/1zAuJhsIowtEsUZykFuaKM), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Better Be Ready](https://open.spotify.com/album/1IQJo0qSyu5DzUprB59Lr4) | 3:52 | 2023-07-07 | 2023-07-14 |
-| [Better Days](https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc) | 2:47 | 2023-10-26 |  |
+| [Better Days](https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc) | 2:47 | 2023-10-26 | 2023-11-01 |
+| [Better Days](https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE) | 2:47 | 2023-10-27 |  |
 | [Better Left Unsaid](https://open.spotify.com/track/084Bexeea6EEoUVBWz9AGB) | [Kuren](https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp) | [Better Left Unsaid](https://open.spotify.com/album/5IWlPDue4yjlDOWLJ9tNeJ) | 3:15 | 2023-09-07 | 2023-09-15 |
 | [Better Let Me In](https://open.spotify.com/track/0o3wEUGWvGYD3a4uIrqwRG) | [Miggy](https://open.spotify.com/artist/6ZJbpAPpHzzA3IqAzO6IPu), [Eternal Engine](https://open.spotify.com/artist/6OerlvzuxuCVGYfxwuNDLB), [DAYSHAWN](https://open.spotify.com/artist/6A5zU0mCwDtWHo13LSzvX5), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M), [Danté Knows](https://open.spotify.com/artist/0vrwPApXQrgJSpePdo8WHs) | [Better Let Me In](https://open.spotify.com/album/4wRlrsuVvkvZro3uvqyLAv) | 2:29 | 2023-06-23 | 2023-06-30 |
 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 | 2023-09-28 | 2023-10-06 |

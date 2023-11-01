@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,567 likes - 226 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,544 likes - 226 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 184 | [Inner Peace](https://open.spotify.com/track/0eUF2e0MbDLjn3q6oAozI3) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Inner Peace](https://open.spotify.com/album/3WSaq9ZPAbpmybrccwdxbc) | 2:05 |
 | 185 | [summer haze](https://open.spotify.com/track/0aG9gVRYIzdHwMeUQcLm0v) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Summer 32](https://open.spotify.com/album/17dlQVGukmo4BMGc3TOb4D) | 3:44 |
 | 186 | [Echoes from the Deep Blue](https://open.spotify.com/track/6Q3pWdM0ZYiCI2zgImmwvm) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Echoes from the Deep Blue](https://open.spotify.com/album/5WFHjTZNGZjn9OYCiLWrfi) | 2:26 |
-| 187 | [Leap Year](https://open.spotify.com/track/3PDahjvEAF9s02hVvdAVFv) | [Horace Bray](https://open.spotify.com/artist/2jIZEoSCmhxiHyA1rMc01u), [Teddy Roxpin](https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A), [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG) | [Leap Year](https://open.spotify.com/album/5yKsTeuD4WKJOoyMWm3dgV) | 2:09 |
+| 187 | [Leap Year](https://open.spotify.com/track/3PDahjvEAF9s02hVvdAVFv) | [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG), [Teddy Roxpin](https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG) | [Leap Year](https://open.spotify.com/album/5yKsTeuD4WKJOoyMWm3dgV) | 2:09 |
 | 188 | [take five](https://open.spotify.com/track/6cEbLX3p88YPsGrOuZNrWk) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [take five](https://open.spotify.com/album/2XiwPNXXIPLo5uK5fmUB0m) | 1:51 |
 | 189 | [Gas Station Oasis](https://open.spotify.com/track/0XSfoUnf7HB5DEd2kIEAZV) | [Lil Gromit](https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj) | [Gas Station Oasis](https://open.spotify.com/album/2P46J1xI0GgdfTOwnwt4uo) | 2:19 |
 | 190 | [Flor De Verão](https://open.spotify.com/track/52cxCWNiYdhGMGSgszz5Ow) | [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Flor De Verão](https://open.spotify.com/album/2zadQicG07qREhNK7BlLEM) | 2:07 |

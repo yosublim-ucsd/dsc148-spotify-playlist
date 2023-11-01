@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,884 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,987 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 4 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 |
 | 5 | [Great Is Thy Faithfulness](https://open.spotify.com/track/3dbQ6EkRqF9QybiLBK6OtZ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Great Is Thy Faithfulness](https://open.spotify.com/album/5THKPg2PJbxmj3nl6D7fpg) | 4:21 |
 | 6 | [Build My Life](https://open.spotify.com/track/0QatL1szZzMTAfZoJKWo0s) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Housefires III](https://open.spotify.com/album/4HCgEprGQ9xJdc80TF4fov) | 8:11 |
-| 7 | [10,000 Reasons \(Bless The Lord\) \[Radio Version\] \- Radio Version/Live](https://open.spotify.com/track/2MobJagQB0dGJoRqI8OT0m) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 4:16 |
-| 8 | [How Deep the Father's Love for Us](https://open.spotify.com/track/5yxV7E3ezJA6rF4ICYYSZV) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take Me There](https://open.spotify.com/album/0mj1P9XdKwUn2M2sVsIVFe) | 3:36 |
+| 7 | [How Deep the Father's Love for Us](https://open.spotify.com/track/5yxV7E3ezJA6rF4ICYYSZV) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take Me There](https://open.spotify.com/album/0mj1P9XdKwUn2M2sVsIVFe) | 3:36 |
+| 8 | [10,000 Reasons \(Bless The Lord\) \[Radio Version\] \- Radio Version/Live](https://open.spotify.com/track/2MobJagQB0dGJoRqI8OT0m) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 4:16 |
 | 9 | [It Is Well \- Live](https://open.spotify.com/track/3MRqm3VNWLIjRiLRQezul7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 6:25 |
 | 10 | [Not in a Hurry](https://open.spotify.com/track/4Xwry2rjyXZg9unm8QaRFL) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 4:51 |
 | 11 | [Tremble \- Live](https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Glory & Wonder](https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU) | 5:09 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 86 | [Counting Every Blessing](https://open.spotify.com/track/7ewrtrIaGOiKh3G0zD5egG) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Counting Every Blessing](https://open.spotify.com/album/77bSJkD7soqec8JBlCV4Xq) | 5:02 |
 | 87 | [At the Foot of the Cross \- Acoustic](https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 3:59 |
 | 88 | [Belly of the Deepest Love](https://open.spotify.com/track/4bYRPHqa4EhjaEGuR4ZFrn) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Tow'rs](https://open.spotify.com/album/4Np45ltBrVtuxHzYlIBwl8) | 6:21 |
-| 89 | [Note To Self](https://open.spotify.com/track/3w2Hvc5mh3Dt3QyYIhAHKQ) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Brand New](https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi) | 3:01 |
-| 90 | [My Hope Is Built / The Solid Rock](https://open.spotify.com/track/7el80wCuyU2ByLix3o7b78) | [Norton Hall Band](https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje) | [My Hope and Stay: Hymns Project, Vol\. II](https://open.spotify.com/album/5ji5EiVJLACqVSezLxHmZO) | 3:44 |
+| 89 | [My Hope Is Built / The Solid Rock](https://open.spotify.com/track/7el80wCuyU2ByLix3o7b78) | [Norton Hall Band](https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje) | [My Hope and Stay: Hymns Project, Vol\. II](https://open.spotify.com/album/5ji5EiVJLACqVSezLxHmZO) | 3:44 |
+| 90 | [Note To Self](https://open.spotify.com/track/3w2Hvc5mh3Dt3QyYIhAHKQ) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Brand New](https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi) | 3:01 |
 | 91 | [Doxology \(feat\. Selah\)](https://open.spotify.com/track/7L5YVihzHRC89rIBknxRDP) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Selah](https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI) | [Hymns](https://open.spotify.com/album/5BjcLlthKNZxElwEFd7sjc) | 2:04 |
 | 92 | [Cecie's Lullaby](https://open.spotify.com/track/4swc1KilG2ZCsF26hvz3Cq) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Undoing](https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA) | 4:04 |
 | 93 | [Far Kingdom](https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Fire and Stone](https://open.spotify.com/album/5bbM7zS6XnUD0bGWve3QpT) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [Be Still My Soul](https://open.spotify.com/track/6pnT1MuK6JLYW9HY5fKxVw) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [Roots Run Deeper](https://open.spotify.com/album/6Pcu1C4dXMinzA7AoQa83v) | 4:42 |
 | 100 | [Come Behold the Wondrous Mystery](https://open.spotify.com/track/191TpctWpKVr86es9Q2heJ) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm) | [Come Behold the Wondrous Mystery \- Single](https://open.spotify.com/album/28AvjBNITOjVYY283l9kWr) | 3:48 |
 
-Snapshot ID: `MCw0Yjk0MzgwNjNlZjkzM2M3N2Q1YmIwNDgxYjkyZTdmMmY0ZmY0MTQy`
+Snapshot ID: `MCxlODliOGUyZWZlYjMwNWE0NTczMjRjMzZlMDQwMDJjMjdjYjBhYWI0`

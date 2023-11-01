@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Mad Foxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,227 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,259 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 25 | [Full Speed Ahead](https://open.spotify.com/track/47Ze9JFgxEc0a9OS46D8X7) | [Dirty Fonzy](https://open.spotify.com/artist/2o8W6N7UkMBsAeVmyRYW4Y) | [Full Speed Ahead](https://open.spotify.com/album/5pDqns1lE2Lax57DaLqrpX) | 3:07 |
 | 26 | [It Only Bothers You](https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 4:03 |
 | 27 | [Baise tout seul](https://open.spotify.com/track/02NcPv5dsj3fCDPyLDtdrc) | [Princesses Leya](https://open.spotify.com/artist/5YunN7uZjy9Tgvds1IKSVT) | [Big Bang Therapy](https://open.spotify.com/album/1suiY7lXk68pCXeJiXi9Yl) | 2:37 |
-| 28 | [The Bell Behind The Door \(Radio Edit\)](https://open.spotify.com/track/23wkntyHN3cKC7rcKZ6OCL) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [The Bell Behind The Door \(Radio Edit\)](https://open.spotify.com/album/2726pTdi2qf62oMoZaXLZq) | 2:51 |
+| 28 | [The Bell Behind The Door \- Radio Edit](https://open.spotify.com/track/23wkntyHN3cKC7rcKZ6OCL) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [The Bell Behind The Door \(Radio Edit\)](https://open.spotify.com/album/2726pTdi2qf62oMoZaXLZq) | 2:51 |
 | 29 | [Splendore Evolution](https://open.spotify.com/track/6sWIbAepi2KBs2sLttYqeD) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Splendore Evolution](https://open.spotify.com/album/1MZeEPvgvGW86AIvg6F46u) | 3:07 |
 | 30 | [Silly Dreams](https://open.spotify.com/track/1tuZGEBipGpUXYcz5u3lIx) | [Gurl](https://open.spotify.com/artist/4Fj5Yd9zJaMILwRxWlHSTB) | [Silly Dreams](https://open.spotify.com/album/1rw3wL6MeQmcyM4rbqTe7z) | 3:59 |
 | 31 | [SOLO](https://open.spotify.com/track/6Qq8s0eASiHcvgbzsMTTo6) | [Sunborn](https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS) | [SOLO](https://open.spotify.com/album/0HboLHFNlLE9YKjvaKzDQQ) | 3:41 |
