@@ -4,7 +4,7 @@
 
 > 
 
-246 songs - 11 hr 48 min
+247 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Betongbarn](https://open.spotify.com/track/2cVOfWmxEGFB2pYOrXVrSK) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kaos & Skrål 85\-87](https://open.spotify.com/album/17HMP4aFIyIHvGTCBrMaoG) | 2:51 | 2021-12-14 | 2022-07-29 |
 | [Betongbarn](https://open.spotify.com/track/7kLPU9teUWCfCymYN5LAxU) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kaos & Skrål 85\-87](https://open.spotify.com/album/5JtGOYBzL27gSHV9XNoJjq) | 2:51 | 2021-12-14 |  |
 | [Bipolär & Kär](https://open.spotify.com/track/6K0sbOwK1P3XPGCxBU6YNO) | [Krispig Botten](https://open.spotify.com/artist/6nSEM4Qp20aVhFWfjKfPVN) | [Bipolär & Kär](https://open.spotify.com/album/60S14JbrY1QAvPLinywSVz) | 3:05 | 2021-12-14 | 2022-07-23 |
-| [Boostade Egon](https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 1:08 | 2021-12-14 | 2022-07-28 |
+| [Boostade Egon](https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 1:08 | 2021-12-14 |  |
 | [Brinner](https://open.spotify.com/track/1cE7wFI32Z7Uq4ttGJ2rcv) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alla sover](https://open.spotify.com/album/5idoXT28PizdHPL2inrMnF) | 2:47 | 2021-12-14 | 2022-07-29 |
 | [Brinner](https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alla sover](https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v) | 2:47 | 2021-12-14 |  |
 | [Börja om](https://open.spotify.com/track/3U3G16vBDC8C21ZthEWizZ) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Becksvart](https://open.spotify.com/album/10j4eMKww3Vibu641umgr5) | 2:42 | 2021-12-14 | 2022-06-27 |
@@ -143,7 +143,7 @@
 | [Lyckliga land](https://open.spotify.com/track/2vQw6ZkLNtnN6oh78ZS0CU) | [Iguana party](https://open.spotify.com/artist/0KnMJRO7zyMJ0Ny8K0P84Q) | [Lyckliga land](https://open.spotify.com/album/4tyfsQMJDa2ubymtwdmjBK) | 3:21 | 2021-12-14 | 2022-07-29 |
 | [Lägga Puzzel Med En Hammare](https://open.spotify.com/track/3hmlOXOplj48M0hTyZj6j7) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Lägga Puzzel Med En Hammare](https://open.spotify.com/album/2Urh64pMy3gF3ahcVKidJP) | 2:53 | 2021-12-14 | 2022-07-28 |
 | [Mamma pappa barn](https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:57 | 2021-12-14 |  |
-| [Martin I Skitlandet](https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 2:16 | 2021-12-14 |  |
+| [Martin I Skitlandet](https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 2:16 | 2021-12-14 | 2023-11-02 |
 | [Masspsykos](https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu) | [Psykbryt](https://open.spotify.com/artist/2eL5agdfgaWDNetbgiuE8e) | [Ursäkta röran \- vi river allt](https://open.spotify.com/album/5tKwHsShJjIiGBvnipyFeW) | 2:36 | 2021-12-14 |  |
 | [Masspsykos](https://open.spotify.com/track/6se6MaeLqy45xsfYXXzm7Q) | [Psykbryt](https://open.spotify.com/artist/2eL5agdfgaWDNetbgiuE8e) | [Ursäkta röran \- vi river allt](https://open.spotify.com/album/3jK2Jwr3V6pn1Gc23fpNA7) | 2:36 | 2021-12-14 | 2022-07-11 |
 | [Med munnen full av hat](https://open.spotify.com/track/4Xwxr2b9lxhLwmnuKaj47h) | [Vet Hut](https://open.spotify.com/artist/1hYSAZUsXHo5io3lCKRIXs) | [Med munnen full av hat](https://open.spotify.com/album/5cC3X7yrOQOTmdqqZYRSb3) | 2:51 | 2021-12-14 | 2022-07-23 |
@@ -227,7 +227,8 @@
 | [Troll Och Häxor](https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le Som En Fotomodell](https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV) | 2:10 | 2021-12-14 |  |
 | [Tuffa tjejer](https://open.spotify.com/track/68piTUx7iztTcalFvaXovc) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bara skiten avtar](https://open.spotify.com/album/7oJHyi9KpoJRKH5Ypxarcm) | 2:08 | 2021-12-14 | 2022-07-27 |
 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 | 2021-12-14 |  |
-| [Tänk negativt](https://open.spotify.com/track/49gKIBAd8nsGWGs8Aimouy) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Tänk negativt](https://open.spotify.com/album/0f5LTeksAWDDcPSMzyNZE7) | 2:31 | 2023-09-28 |  |
+| [Tänk negativt](https://open.spotify.com/track/0C8VuNSqfWxkwKmVx8Spl9) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Det blir som det blir](https://open.spotify.com/album/6ejXSnBxHRi9g5HuT1lMfj) | 2:31 | 2023-10-26 |  |
+| [Tänk negativt](https://open.spotify.com/track/49gKIBAd8nsGWGs8Aimouy) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Tänk negativt](https://open.spotify.com/album/0f5LTeksAWDDcPSMzyNZE7) | 2:31 | 2023-09-28 | 2023-11-02 |
 | [Utsugare](https://open.spotify.com/track/5HNtfpuToKHzDKOPwORi6j) | [Slaktkniv](https://open.spotify.com/artist/4TElB6wIyF7PdN7jYbgaaw) | [Powerpunk, Vol\. 2](https://open.spotify.com/album/6gKlAmyFXz9gKXE1sSue99) | 1:58 | 2021-12-14 | 2022-07-12 |
 | [Vad har du gjort?](https://open.spotify.com/track/6wdwI3hB821ni3XJJTZCgO) | [Hårdgnissel](https://open.spotify.com/artist/6go8Hycq8HF9V1g2kgPyyj) | [Vad har du gjort?](https://open.spotify.com/album/5cNCoynkJwR7mEEjiClJA1) | 1:40 | 2021-12-14 | 2022-07-28 |
 | [Vandrar vägen](https://open.spotify.com/track/2nVc9atl0DHGOIokK2aS2B) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Visar vägen](https://open.spotify.com/album/3uf8YWyGgdJRJXh5olLWO1) | 3:15 | 2021-12-14 | 2022-07-24 |

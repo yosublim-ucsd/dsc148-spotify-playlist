@@ -4,7 +4,7 @@
 
 > new gems by artists carving their own lane\. Cover: Yaeger
 
-1,003 songs - 2 day 7 hr 12 min
+1,004 songs - 2 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,7 +616,8 @@
 | [No Need To Be Shy](https://open.spotify.com/track/3VxIjocaCYMksTd4TzkdVd) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [No Need To Be Shy](https://open.spotify.com/album/1VuHpYETdoOWSbTMnGRWCA) | 4:09 | 2023-03-17 | 2023-09-23 |
 | [No No No](https://open.spotify.com/track/1zhw7Isr1B4UdYUrALHXhJ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:00 | 2022-04-29 | 2022-07-23 |
 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-09-29 |  |
-| [Nostalgie](https://open.spotify.com/track/5Y6rAybIKWexRGx2DoLnmA) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Nostalgie](https://open.spotify.com/album/6VPoJ7iW330fKJ1mJsg2pt) | 3:16 | 2023-07-21 |  |
+| [Nostalgie](https://open.spotify.com/track/59P7LifAtqA1rgmeztU6cU) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Souvenirs](https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi) | 3:16 | 2023-10-27 |  |
+| [Nostalgie](https://open.spotify.com/track/5Y6rAybIKWexRGx2DoLnmA) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Nostalgie](https://open.spotify.com/album/6VPoJ7iW330fKJ1mJsg2pt) | 3:16 | 2023-07-21 | 2023-11-02 |
 | [Not Your Fool](https://open.spotify.com/track/17KQBE9FMtFVq47Uhr88k7) | [RockLee](https://open.spotify.com/artist/0xKCpd2XrSE30wn3NLBHBM), [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Not Your Fool](https://open.spotify.com/album/65IqSBwF54Hmwa1E0abTCZ) | 4:24 | 2022-06-17 | 2022-07-30 |
 | [Nothing](https://open.spotify.com/track/6mm83X1FDG6ep65SPkga5Q) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Nothing](https://open.spotify.com/album/5flKPlpenNwQM2HAHekDMb) | 2:49 | 2022-07-15 | 2022-08-13 |
 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 | 2022-02-18 | 2022-05-20 |

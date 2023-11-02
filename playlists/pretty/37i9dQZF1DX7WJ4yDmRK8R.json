@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 361894,
+  "num_followers": 361954,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjQ4OGRhMzYzZGQ5OTk3Y2RmNDc4ODg4ZjZhOTQ0NGJhODUwYzZj",
+  "snapshot_id": "MCxjZGU0ODRiZDNhNDU2YWQzZGVmODMwYzM3NTJlNWRkYTY2YjBiYmI1",
   "tracks": [
     {
       "added_at": "2023-10-27 21:55:53",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+        "name": "Let\u2019s Face It",
+        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
       },
       "artists": [
         {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
         }
       ],
-      "duration_ms": 170453,
-      "name": "She's Kerosene",
-      "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
+      "duration_ms": 195195,
+      "name": "The Impression That I Get",
+      "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Let\u2019s Face It",
-        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
       "artists": [
         {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
         }
       ],
-      "duration_ms": 195195,
-      "name": "The Impression That I Get",
-      "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
+      "duration_ms": 170453,
+      "name": "She's Kerosene",
+      "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
+        "name": "Let\u2019s Face It",
+        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 166166,
+      "name": "The Rascal King",
+      "url": "https://open.spotify.com/track/2EeIsfOZ3RNXUahTLJXluT"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
         "name": "Twenty-Eight Teeth",
         "url": "https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 159381,
       "name": "One Step Beyond",
       "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
-        "name": "Let\u2019s Face It",
-        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 166166,
-      "name": "The Rascal King",
-      "url": "https://open.spotify.com/track/2EeIsfOZ3RNXUahTLJXluT"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
+        "name": "Keasbey Nights",
+        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
+      },
+      "artists": [
+        {
+          "name": "Catch 22",
+          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "On & On & On",
+      "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
         "name": "Message to the World",
         "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 165168,
       "name": "Madness",
       "url": "https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
-        "name": "Keasbey Nights",
-        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
-      },
-      "artists": [
-        {
-          "name": "Catch 22",
-          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "On & On & On",
-      "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "Get Warmer",
         "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 282093,
       "name": "I Don't Love You Anymore",
       "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
+        "name": "\u2026And The Battle Begun",
+        "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
+      },
+      "artists": [
+        {
+          "name": "Rx Bandits",
+          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Apparition",
+      "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
         "name": "South Somewhere Else",
         "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "\u2026And The Battle Begun",
-        "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
+        "name": "Life Sucks... Let's Dance!",
+        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
       },
       "artists": [
         {
-          "name": "Rx Bandits",
-          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
         }
       ],
-      "duration_ms": 219133,
-      "name": "Apparition",
-      "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
+      "duration_ms": 164552,
+      "name": "You Can't Have All of Me",
+      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -1451,22 +1467,6 @@
       "duration_ms": 185088,
       "name": "Enjoy Yourself",
       "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
-        "name": "Life Sucks... Let's Dance!",
-        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 164552,
-      "name": "You Can't Have All of Me",
-      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/6RllYZ84AUMAiCpdYgEydg"
-      },
-      "artists": [
-        {
-          "name": "Sly & Robbie",
-          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
-        }
-      ],
-      "duration_ms": 300028,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/37mol8ORH3HXWx2TrLR6EJ"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "Civil Disobedients",
         "url": "https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 251573,
       "name": "Ska Wars",
       "url": "https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "Heads Are Gonna Roll",
+        "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
+      },
+      "artists": [
+        {
+          "name": "The Hippos",
+          "url": "https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi"
+        }
+      ],
+      "duration_ms": 144426,
+      "name": "Lost It",
+      "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Heads Are Gonna Roll",
-        "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6RllYZ84AUMAiCpdYgEydg"
       },
       "artists": [
         {
-          "name": "The Hippos",
-          "url": "https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi"
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
         }
       ],
-      "duration_ms": 144426,
-      "name": "Lost It",
-      "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
+      "duration_ms": 300028,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/37mol8ORH3HXWx2TrLR6EJ"
     },
     {
       "added_at": "2023-10-27 21:55:53",

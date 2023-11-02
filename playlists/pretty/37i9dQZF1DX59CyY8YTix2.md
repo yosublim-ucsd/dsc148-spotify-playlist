@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ULTRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,884 likes - 69 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,888 likes - 69 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 24 | [ずるい人](https://open.spotify.com/track/15iUxYEJLqCUAmQbWoLiSr) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [ずるい人](https://open.spotify.com/album/2uuQEGZJ9rG524LtsMdLb5) | 4:34 |
 | 25 | [私を取り戻す為のうた](https://open.spotify.com/track/19EcONnJZqNNEUfd4SnSov) | [Q.I.S.](https://open.spotify.com/artist/28WPc8Ww4MrKCvUynmJ74C) | [私を取り戻す為のうた](https://open.spotify.com/album/7hJJu67qduNveC07t8OyVh) | 4:23 |
 | 26 | [ウロボロス](https://open.spotify.com/track/4LXgVmwJfKI2YIVLuaIKNb) | [のんぴー](https://open.spotify.com/artist/0JEql610gvFzhlnZZkI4we) | [ウロボロス](https://open.spotify.com/album/2JTkYGzLLOqBF6zCZA2kIk) | 3:46 |
-| 27 | [わっしょいダンシング](https://open.spotify.com/track/1h8qlRg7T9dEbXetMeWCYe) | [Uchudan](https://open.spotify.com/artist/1WHpW3NlTIdo7P4we5jFKC) | [わっしょいダンシング](https://open.spotify.com/album/4aAtNzomwKb4ntk63z3jnv) | 2:42 |
+| 27 | [Wasshoi Dancing](https://open.spotify.com/track/5Zi6s0YzshTSF4lGR9dLX9) | [Uchudan](https://open.spotify.com/artist/1WHpW3NlTIdo7P4we5jFKC) | [Wasshoi Dancing](https://open.spotify.com/album/2XAjBLbVjFQjpwSqODEEjG) | 2:42 |
 | 28 | [バイバイヒーロー](https://open.spotify.com/track/5tMptuJ28ZseN6KFoFh8aW) | [こぶたのぶうぶうず](https://open.spotify.com/artist/6jx0JWfjAeXKGfx6MlTpgN) | [バイバイヒーロー](https://open.spotify.com/album/4emP64hdDOk51X15gCZWbK) | 4:56 |
 | 29 | [化石](https://open.spotify.com/track/0w3NiLeDTLQDkYk86Gjtd2) | [日向文](https://open.spotify.com/artist/6aWI8ZZ9CCyUFpayXQPoR2) | [化石](https://open.spotify.com/album/5mPX2XLb3mJQFxZOJJ4tzA) | 3:30 |
 | 30 | [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 32 | [Wanna Be In A Sad Mood](https://open.spotify.com/track/61ZsLyi4omqZs3H72sm5sb) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/3jMkyqeHsfveTdu30JyGxn) | 4:14 |
 | 33 | [スルーザロンリーナイツ](https://open.spotify.com/track/2gLys6sn8Kas0av2iCdxQT) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [チアキ](https://open.spotify.com/artist/5BgZvhd8WV1wd3dChcjNK6) | [スルーザロンリーナイツ](https://open.spotify.com/album/6l8DDXE9nWMDZkib6ulwrY) | 4:22 |
 | 34 | [innocent arrogance](https://open.spotify.com/track/7JgBlEV4AbeHVhaTczGdTg) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [innocent arrogance](https://open.spotify.com/album/1VoA8bMAIB5BRjSMqaFQkP) | 3:31 |
-| 35 | [永遠の恋人](https://open.spotify.com/track/286zSr3sjCn9MhmgfSJwE8) | [とにもかくにも](https://open.spotify.com/artist/7eRFoVEguUGUZ5kYaOR8sL) | [永遠の恋人](https://open.spotify.com/album/0oTwqQ34fD65BfspOYa4kd) | 3:48 |
+| 35 | [eienno koibito](https://open.spotify.com/track/2x5ycWQvPTl4sOk5BSnGpS) | [とにもかくにも](https://open.spotify.com/artist/7eRFoVEguUGUZ5kYaOR8sL) | [eienno koibito](https://open.spotify.com/album/0WCgyIveEmwIVnkteT94Fp) | 3:48 |
 | 36 | [Let It Go As If You Wander](https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy) | 2:42 |
 | 37 | [西日暮里の緑](https://open.spotify.com/track/0RtpYEDtccOkPrL7j1P3hz) | [松田今宵](https://open.spotify.com/artist/4hFuB8PPtCDza8ewzekmbf) | [西日暮里の緑](https://open.spotify.com/album/3F7PUM6MDPsT1OsOcAlnVm) | 4:03 |
 | 38 | [ゴーストダイブ](https://open.spotify.com/track/3YSYq98AiBIXAj8GCW3wbd) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ゴーストダイブ](https://open.spotify.com/album/22Y4CMkBXjaGCVfzNrtdEw) | 3:18 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 50 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 |
 | 51 | [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 |
 | 52 | [FOOL](https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [FOOL](https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j) | 3:04 |
-| 53 | [JANAINDAYO](https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 2:59 |
-| 54 | [Kiddy](https://open.spotify.com/track/0XnzXvYScKwURM2Jf4vMlT) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Kiddy](https://open.spotify.com/album/52rgoVYXzK00nZMHDGHFSn) | 3:18 |
+| 53 | [Kiddy](https://open.spotify.com/track/0XnzXvYScKwURM2Jf4vMlT) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Kiddy](https://open.spotify.com/album/52rgoVYXzK00nZMHDGHFSn) | 3:18 |
+| 54 | [JANAINDAYO](https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 2:59 |
 | 55 | [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 |
 | 56 | [Don!!](https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ) | 3:48 |
 | 57 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 68 | [プロミスザスター ’23](https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [BiSH THE BEST](https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3) | 4:29 |
 | 69 | [夏が来るたび](https://open.spotify.com/track/55ItTj78No5IMK6yR9grGj) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [季億の箱](https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs) | 3:59 |
 
-Snapshot ID: `MCw4MTk4NDA5YjNiZTQ5Y2I2MmM0ZDEyZWQxZjc0ZmNhYTFlMTAwOWJm`
+Snapshot ID: `MCw1OGY5YjNkOTZlNTc2MTY2M2IzZDlmODU5NjIzOWNhNWY0NjZmZDcy`

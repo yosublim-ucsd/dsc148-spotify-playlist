@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 347682,
+  "num_followers": 347722,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzdjZDZlNTIzODY4ZDcyZTliMTdlYjk4MTNhNWJiNDNmYjY1M2Fh",
+  "snapshot_id": "MCwxMDgxOTczMTk3ODJmOTc2NWQ2NWZlYzI3NWI2MTBlYWMwYTVmODNl",
   "tracks": [
     {
       "added_at": "2023-10-20 14:34:56",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-10-20 14:34:56",
       "album": {
-        "name": "Not Ready",
-        "url": "https://open.spotify.com/album/3ehwkHOVfqCDgizH3vGXLa"
-      },
-      "artists": [
-        {
-          "name": "Myle",
-          "url": "https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw"
-        }
-      ],
-      "duration_ms": 180118,
-      "name": "Not Ready",
-      "url": "https://open.spotify.com/track/2O9VKLv8pPmGM3PHTzQrKA"
-    },
-    {
-      "added_at": "2023-10-20 14:34:56",
-      "album": {
         "name": "Mehr davon",
         "url": "https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 173808,
       "name": "Mehr davon",
       "url": "https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW"
+    },
+    {
+      "added_at": "2023-10-20 14:34:56",
+      "album": {
+        "name": "Not Ready",
+        "url": "https://open.spotify.com/album/3ehwkHOVfqCDgizH3vGXLa"
+      },
+      "artists": [
+        {
+          "name": "Myle",
+          "url": "https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw"
+        }
+      ],
+      "duration_ms": 180118,
+      "name": "Not Ready",
+      "url": "https://open.spotify.com/track/2O9VKLv8pPmGM3PHTzQrKA"
     },
     {
       "added_at": "2023-10-20 14:34:56",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-10-20 14:34:56",
       "album": {
-        "name": "Somewhere in Between",
-        "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
-      },
-      "artists": [
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 148345,
-      "name": "Faded Love",
-      "url": "https://open.spotify.com/track/5JQrj18Cgein2F1uJ60tUt"
-    },
-    {
-      "added_at": "2023-10-20 14:34:56",
-      "album": {
         "name": "Keep It Low",
         "url": "https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 172000,
       "name": "Keep It Low",
       "url": "https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb"
+    },
+    {
+      "added_at": "2023-10-20 14:34:56",
+      "album": {
+        "name": "Somewhere in Between",
+        "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 148345,
+      "name": "Faded Love",
+      "url": "https://open.spotify.com/track/5JQrj18Cgein2F1uJ60tUt"
     },
     {
       "added_at": "2023-10-20 14:34:56",

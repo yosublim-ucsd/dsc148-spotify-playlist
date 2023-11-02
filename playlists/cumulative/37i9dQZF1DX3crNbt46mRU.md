@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Taylor Swift
 
-9,314 songs - 19 day 11 hr 37 min
+9,315 songs - 19 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4540,6 +4540,7 @@
 | [KMN](https://open.spotify.com/track/4xBLgpxzMtaZxAE3fdycGN) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [KMN](https://open.spotify.com/album/0NpkiX8PaxksZBBX7eJDMO) | 2:30 | 2022-06-23 | 2022-07-01 |
 | [Knight in Shining Armor](https://open.spotify.com/track/19Bbo6pDB5AdMFIl9UpxlV) | [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Knight in Shining Armor](https://open.spotify.com/album/6anwom4cs5kruajxIqjveO) | 2:20 | 2022-06-02 | 2022-06-10 |
 | [Knock Knock](https://open.spotify.com/track/4EmzSqaqpv663TP3VvqCa9) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Knock Knock](https://open.spotify.com/album/4QrN6qO8WQQ9Y5HBV4GcbG) | 3:00 | 2022-02-17 | 2022-02-25 |
+| [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 | 2023-10-26 |  |
 | [Komet](https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu) | [Udo Lindenberg](https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Komet](https://open.spotify.com/album/2XWoQ5VUcmGYL1025mZ5dO) | 2:47 | 2023-01-19 | 2023-01-27 |
 | [Komisch](https://open.spotify.com/track/5xSB65nP67AIjwa7sRpK1V) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Sekundenschlaf](https://open.spotify.com/album/2vCBo2IAxZKGw4aK8VYOPF) | 2:36 | 2023-08-31 | 2023-09-08 |
 | [Komm Heim](https://open.spotify.com/track/2aD85JRcgBlEQ49KS4NKPy) | [MEL](https://open.spotify.com/artist/6FlJleUXbFb19c0U2BocbM), [O.G.](https://open.spotify.com/artist/5QZJttrSLq4WJL9Vb1MgFq) | [Komm Heim](https://open.spotify.com/album/1R8y2soksx69QYul8qUabm) | 2:08 | 2023-09-14 | 2023-09-22 |

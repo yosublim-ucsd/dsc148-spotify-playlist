@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,684 likes - 368 songs - 14 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,753 likes - 368 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -377,4 +377,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 367 | [Driftin' Blues](https://open.spotify.com/track/1fjPX6GXvJ7OQMuIk9jW83) | [Dulcet](https://open.spotify.com/artist/7kOMTlIze4HK68RCpaLBTp) | [Driftin' Blues](https://open.spotify.com/album/3WV5TzmUJ4xuccEY9qOHYB) | 1:49 |
 | 368 | [Lofi Dream](https://open.spotify.com/track/02mHW5SE0g0D6PFua2ZEz6) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Lofi Dream](https://open.spotify.com/album/6PYP8V2TuS1jtG8luQ9j2H) | 2:03 |
 
-Snapshot ID: `MCw0ZjcwZjQwZjhlMDY0YTFjYmFiNjY3ZjkyYWNhMGU5MGYwMDk5ZWVl`
+Snapshot ID: `MCxkMWY5YjY4MTAwZDM2MzNhZDM2ZjBhZmViNzBmZjliM2VhZWI5Mjhk`

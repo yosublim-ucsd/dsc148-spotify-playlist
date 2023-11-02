@@ -1926,10 +1926,32 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 185478,
       "name": "Lulu's Back in Town",
       "url": "https://open.spotify.com/track/5BaWh0PA2TqGv2WOj9VZgK"
+    },
+    {
+      "album": {
+        "name": "Mel Torm\u00e9 with The Marty Paich Dek-Tette (2012 - Remaster)",
+        "url": "https://open.spotify.com/album/1DMGnIxnjzHaYVJ2KhrPZM"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        },
+        {
+          "name": "The Marty Paich Dek-tette",
+          "url": "https://open.spotify.com/artist/3LKTSEL1dpa0iAUVZmikcr"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185466,
+      "name": "Lulu's Back in Town (2012 - Remaster)",
+      "url": "https://open.spotify.com/track/5A433jPWMHyngbyBkyXDF6"
     },
     {
       "album": {
@@ -1984,10 +2006,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 188594,
       "name": "Nice Work If You Can Get It",
       "url": "https://open.spotify.com/track/7gczaB86KEDi6D6Uic4vtM"
+    },
+    {
+      "album": {
+        "name": "Mel Torm\u00e9 Sings Fred Astaire (2012 - Remaster)",
+        "url": "https://open.spotify.com/album/01xKHe137Bs6g3HcBMjLD7"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Nice Work If You Can Get It (2012 - Remaster)",
+      "url": "https://open.spotify.com/track/2WMksdlzNvs5O8EdwFWw4b"
     },
     {
       "album": {

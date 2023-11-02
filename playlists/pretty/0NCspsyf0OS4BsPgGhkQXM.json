@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2047347,
+  "num_followers": 2047407,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQxMzksNmM1NTM2MTJjMzM2NmVlOTgwNDJmOGEwMjU0ZGZiY2NiMGMxNTJkZQ==",
+  "snapshot_id": "MTQxNDEsN2FkZWM2MjQyZDRhMTY1ZmRkMWE0MzI4ODA5M2JkNTAyN2I4YWM2MA==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -543,6 +543,22 @@
       "duration_ms": 237241,
       "name": "STAR MVCHINE",
       "url": "https://open.spotify.com/track/3VnxAsE1mWebpGJleOOGTj"
+    },
+    {
+      "added_at": "2023-11-01 22:46:36",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/34gKjA6hQbaYJ5sq7dUOW5"
+      },
+      "artists": [
+        {
+          "name": "RAZRWAV",
+          "url": "https://open.spotify.com/artist/6HGPVdgfqWFBHKn0izGWM2"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/23UJlvZozOXAA9ow6Ixv9o"
     },
     {
       "added_at": "2023-09-06 04:03:55",

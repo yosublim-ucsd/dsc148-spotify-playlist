@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Adam Beyer
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,356 likes - 80 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,410 likes - 80 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 13 | [Phantasy](https://open.spotify.com/track/5uEW8Kp1dM8UbotWxieU9c) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Phantasy](https://open.spotify.com/album/2w9JaI4kPmMHweV6ComleZ) | 4:00 |
 | 14 | [New Symbols](https://open.spotify.com/track/4KXEaUrzTUeEh8XlWsEZWZ) | [SCALER](https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Loam / New Symbols](https://open.spotify.com/album/68iZNNrpkM91TSXbGmMAhL) | 4:12 |
 | 15 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 |
-| 16 | [FILTY ACID](https://open.spotify.com/track/5pQE39FojbnW0fiXLswMdI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [ACID TRAXXX](https://open.spotify.com/album/0ZNaxa4WrvuHmyBwZY49UA) | 6:07 |
+| 16 | [FILTHY ACID](https://open.spotify.com/track/5pQE39FojbnW0fiXLswMdI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [ACID TRAXXX](https://open.spotify.com/album/0ZNaxa4WrvuHmyBwZY49UA) | 6:07 |
 | 17 | [Emergency](https://open.spotify.com/track/3XLrGMJnAGawXv0a1yoTQr) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Emergency](https://open.spotify.com/album/22COEF7PICKo3aWjudtV6T) | 3:47 |
 | 18 | [Pria](https://open.spotify.com/track/5NLu9XiiF80Txfg2Pl8zE8) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Power Of Thought EP](https://open.spotify.com/album/1WjosIw46H2KJUb9W462FU) | 7:00 |
 | 19 | [Next Game](https://open.spotify.com/track/4f9AES1edYYx4qyyp29yn2) | [wAFF](https://open.spotify.com/artist/4OHSon9N7JAfxkjlH8nKDb) | [Slapfunk EP](https://open.spotify.com/album/5FvmHM9fi9sztkWrBNLGjP) | 6:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 79 | [Ghosts](https://open.spotify.com/track/045EJUy4tNHrB3lgvpSdND) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Icons](https://open.spotify.com/album/5sJJC4UoKTfJaW0jO6YYCG) | 5:53 |
 | 80 | [Seance](https://open.spotify.com/track/0YWDmzwd4pkBlKxLqOD3Xl) | [Kundai](https://open.spotify.com/artist/3X08gT9HYzAdJFfQvS7f81) | [Glisten](https://open.spotify.com/album/7pqQBz6OVlRO1NxFuGBIk1) | 5:57 |
 
-Snapshot ID: `MCw5MDY3N2YwYjUxYjJlNzcxMzgzNTg0Y2JlOGU2OTY5N2RhZTFjYTcy`
+Snapshot ID: `MCwxZTg0OTU0NTQyYWYyNWY5NjVmYTA4ZmI3NDFhNzFlZjE4MTVkYWY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aCk0vzzaZQ.md) - [plain]
 
 > When you're a 19th century villain with excellent taste in music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,719 likes - 46 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,014 likes - 46 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aCk0vzzaZQ.md) - [plain]
 | 45 | [Violin Concerto No\. 3: III\. Vivo](https://open.spotify.com/track/4z3ywmuYl4pyHWdQEmusXn) | [Grażyna Bacewicz](https://open.spotify.com/artist/3NcNY4xIKsMItzdecOxWrB), [Łukasz Borowicz](https://open.spotify.com/artist/7uLvjFKAw1iwyrA3FrSkaa), [Polish Radio Symphony Orchestra, Krakow](https://open.spotify.com/artist/4bNdwxraawS9igfyQQbAVl), [Joanna Kurkowicz](https://open.spotify.com/artist/03mNwkOPahk1RQPvo0Atx0) | [Bacewicz: Violin Concertos Nos\. 1, 3 & 7](https://open.spotify.com/album/42PCT91P3nKk4DFGeCI0xi) | 7:18 |
 | 46 | [The Rite of Spring: Part Two: The Sacrifice: Sacrificial Dance \(The Chosen One\)](https://open.spotify.com/track/6g4dvPG9jMtSCwQKIHOvo4) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Teodor Currentzis](https://open.spotify.com/artist/2MMdTWWDamS8wyZJ6Hosch), [musicAeterna](https://open.spotify.com/artist/6GmGAy0QwcMmcANFv79xLF) | [Stravinsky: Le Sacre du Printemps](https://open.spotify.com/album/0RR9tJp55MeV72JLZJOfsZ) | 4:35 |
 
-Snapshot ID: `MCxkYWMwODI1MmYxODUwMzhmZWJiMTIzMGI1M2ZmMzgxNmUzMWI0YmFi`
+Snapshot ID: `MCwyYmRlYzA4ZWYwOTUyZjljYWEyNzlmMjJlZWYwMTcxMGZiOWNiMjNj`

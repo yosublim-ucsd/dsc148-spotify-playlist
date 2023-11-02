@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Josiah and the Bonnevilles
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,879 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,944 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Not a Man, Not a Woman](https://open.spotify.com/track/5fJ6ZUko0kbaXpUfG946RX) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Not a Man, Not a Woman](https://open.spotify.com/album/3peH8wCp0MB2SWRD0AKqBT) | 2:31 |
 | 150 | [Jealous Moon](https://open.spotify.com/track/6hHTBOwgnAGOLcHFDlYknX) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Jealous Moon](https://open.spotify.com/album/1rWmeFnn1ucnPJCHedPDl7) | 4:24 |
 
-Snapshot ID: `MCwwNjZjYjlmOWFhOWQ2ODkzODI3MDQ1MmQ3NzRjMTRhYTNmN2UwNzg2`
+Snapshot ID: `MCw4YTNjY2FhNWJhYTAxMDM4MmE5MDg4ZGU5MDJiNTIxYTZlMzcyMTMy`

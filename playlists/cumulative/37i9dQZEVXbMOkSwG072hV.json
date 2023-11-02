@@ -7096,7 +7096,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 192458,
       "name": "Chama De Amor",
       "url": "https://open.spotify.com/track/7FENXy3cRC1nkwerVvxgCI"
@@ -11505,6 +11505,24 @@
     },
     {
       "album": {
+        "name": "Era a M\u00e3o de Deus",
+        "url": "https://open.spotify.com/album/4PhqLWohBPhftvRY3PrvB8"
+      },
+      "artists": [
+        {
+          "name": "Leandro Soares",
+          "url": "https://open.spotify.com/artist/5QiowaqBJe5wxa8S1c2Xhr"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198186,
+      "name": "Era a M\u00e3o de Deus",
+      "url": "https://open.spotify.com/track/4C6vz2IfBlrOZwhL1kKoKH"
+    },
+    {
+      "album": {
         "name": "Seresta pra Pared\u00e3o 3.0",
         "url": "https://open.spotify.com/album/0fgAwNfRajNcfeYsFKZfev"
       },
@@ -12440,7 +12458,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 376035,
       "name": "Eu Sou Teu Pai - Ao Vivo",
       "url": "https://open.spotify.com/track/34eKejr8wd69fFpL38IIfv"
@@ -22078,7 +22096,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 178080,
       "name": "MONTAGEM ANOS 2000",
       "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"

@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: bohemianvoodoo",
-  "num_followers": 24567,
+  "num_followers": 24613,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjAyNDYxOTM2MDZmYTI2MWRmZGM2Y2Y0YzA0OGNlNmZlZjU0YjQw",
+  "snapshot_id": "MCw2ZDcyYjQ3MWZjYTZhMWVjYjJhYzVjMTNlZjgwMzJiZDMyMDdmZDMy",
   "tracks": [
     {
       "added_at": "2023-10-17 15:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "Ovall",
-        "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
+        "name": "Asian Dreamer",
+        "url": "https://open.spotify.com/album/2brs79CBxiApvCNRM880RA"
       },
       "artists": [
         {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+          "name": "CASIOPEA",
+          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
         }
       ],
-      "duration_ms": 205480,
-      "name": "Slow Motion Town",
-      "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
+      "duration_ms": 324973,
+      "name": "Galactic Funk",
+      "url": "https://open.spotify.com/track/3Y1k10FsXMXFw9H08dZlKl"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "Asian Dreamer",
-        "url": "https://open.spotify.com/album/2brs79CBxiApvCNRM880RA"
+        "name": "Ovall",
+        "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
       },
       "artists": [
         {
-          "name": "CASIOPEA",
-          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
         }
       ],
-      "duration_ms": 324973,
-      "name": "Galactic Funk",
-      "url": "https://open.spotify.com/track/3Y1k10FsXMXFw9H08dZlKl"
+      "duration_ms": 205480,
+      "name": "Slow Motion Town",
+      "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "Ordinary Landscape",
-        "url": "https://open.spotify.com/album/5dYHGuiBBzx6hWdZWtdlhO"
+        "name": "Asian Dreamer",
+        "url": "https://open.spotify.com/album/2brs79CBxiApvCNRM880RA"
       },
       "artists": [
         {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+          "name": "CASIOPEA",
+          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
         }
       ],
-      "duration_ms": 256133,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/1ghPHoNXf4L5wO4kOvJUoW"
+      "duration_ms": 292666,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/4IjS1LeleZKxuHPrVqq33j"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "Asian Dreamer",
-        "url": "https://open.spotify.com/album/2brs79CBxiApvCNRM880RA"
+        "name": "Ordinary Landscape",
+        "url": "https://open.spotify.com/album/5dYHGuiBBzx6hWdZWtdlhO"
       },
       "artists": [
         {
-          "name": "CASIOPEA",
-          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
         }
       ],
-      "duration_ms": 292666,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/4IjS1LeleZKxuHPrVqq33j"
+      "duration_ms": 256133,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/1ghPHoNXf4L5wO4kOvJUoW"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "POLY LIFE MULTI SOUL",
-        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
       },
       "artists": [
         {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
         }
       ],
-      "duration_ms": 128028,
-      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
-      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
+      "duration_ms": 202733,
+      "name": "Good song",
+      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
-      },
-      "artists": [
-        {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Good song",
-      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3000OUTSIDE",
         "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 250933,
       "name": "Blue Eyed Monster",
       "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
+        "name": "POLY LIFE MULTI SOUL",
+        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "duration_ms": 128028,
+      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
+      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
-      },
-      "artists": [
-        {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "Spartacus",
-      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
         "name": "NEW",
         "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 300560,
       "name": "Red Ocean",
       "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
+      },
+      "artists": [
+        {
+          "name": "Hidefumi Ino",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "Spartacus",
+      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "Living Message",
-        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
-      },
-      "artists": [
-        {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Blood is thicker than water",
-      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
         "name": "PYRAMID4",
         "url": "https://open.spotify.com/album/1YeWcKq1F4VLvGescahAG7"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 306373,
       "name": "Love Lights",
       "url": "https://open.spotify.com/track/4kQbWhGdyt1OHTutPHlcjm"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
+        "name": "MOMENTS",
+        "url": "https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "\u77f3\u306e\u6559\u4f1a",
+      "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

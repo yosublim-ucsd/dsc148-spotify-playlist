@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg?si=Nqo9ZKGfR\_2v9iKZZ\_eypQ">Phila Dlozi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,307 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,422 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [ithemba \(Litsomo Version\)](https://open.spotify.com/track/0L40hQoFVhcdkkDftKhoNd) | [Kekelingo](https://open.spotify.com/artist/4tNXPWxHHch1TCCXilE1q2), [John Lundun](https://open.spotify.com/artist/0yZ5REAJnSQ71pr9yC9CVk), [Leomile](https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [Pula EP](https://open.spotify.com/album/5N4dc7uW6ZLkDdzHBVc59E) | 4:06 |
 | 50 | [Thixo Wami](https://open.spotify.com/track/4txtAWhrRwxQeMXU87XG8O) | [Zakwe](https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW), [Riot](https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR) | [Thixo Wami](https://open.spotify.com/album/0xGISgMZkizfIK7SzlOfSG) | 4:49 |
 
-Snapshot ID: `MCxmMGY2ODIzMTg1MzIyMmM2ZGYwYTAzNjAzMDMwODAzNzZmNGFhMGY1`
+Snapshot ID: `MCxlZWIwYjczNjFjOGRjZjViOTYyODlmMDlmNDBhMTgyMDA1NzczZTU5`

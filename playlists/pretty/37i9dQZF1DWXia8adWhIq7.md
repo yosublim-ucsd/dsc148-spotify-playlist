@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: LUDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,251 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,373 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 67 | [Me Alcançou \(Remix\)](https://open.spotify.com/track/1nB2rtGVCTZl1XazO4eTvV) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k), [Yann RD](https://open.spotify.com/artist/4vRegmzSs4RfvmEJVWgOIL) | [Me Alcançou \(Remix\)](https://open.spotify.com/album/7rCwRGabV1EuDoZC1eDIfa) | 5:31 |
 | 68 | [Todo Meu Viver \(Acústico\) \- Ao Vivo](https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv) | [Margem Norte](https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1), [Cristiano Halabi](https://open.spotify.com/artist/6UbiNQAO1m9RvbBx9dSF0M) | [Todo Meu Viver \(Acústico\) \[Ao Vivo\]](https://open.spotify.com/album/1tUx1ptJZcFhPsWjGu6igw) | 3:17 |
 | 69 | [Amor de Deus](https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Amor de Deus](https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw) | 2:58 |
-| 70 | [Rota](https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Rota](https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH) | 3:16 |
-| 71 | [Pense Bem](https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Pense Bem](https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ) | 4:00 |
+| 70 | [Pense Bem](https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Pense Bem](https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ) | 4:00 |
+| 71 | [Rota](https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Rota](https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH) | 3:16 |
 | 72 | [Pai Nosso \- Our Father](https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [Pai Nosso](https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl) | 4:21 |
 | 73 | [Mostra\-Me Tua Glória](https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Mostra\-Me Tua Glória](https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK) | 3:50 |
 | 74 | [Azul do Céu](https://open.spotify.com/track/3v2bkyjuqCsb8RuHMXuLpI) | [Débora Ulhoa](https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz), [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Azul do Céu](https://open.spotify.com/album/68akHXeQKYnjTELPGdV2JI) | 3:02 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 84 | [Voltar](https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM) | [Eric Cortes](https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F) | [Voltar](https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw) | 4:16 |
 | 85 | [Testemunho](https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0) | [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Testemunho](https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ) | 2:19 |
 
-Snapshot ID: `MCxmOGQ1NDJjNzJhYjllNzM5NDdhMTRiMmE1Y2U1OTMzMmExODg3YTAy`
+Snapshot ID: `MCwxNDYzMjAwYWQ1ZWE4NjA4NTE0NDMwZTVlODRlMTE5ZTM2Mjg2Njkz`

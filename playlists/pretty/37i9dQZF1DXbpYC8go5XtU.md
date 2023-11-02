@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,659 likes - 132 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,124 likes - 132 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 8 | [Nature's Symphony](https://open.spotify.com/track/0GcSvOGiNZmXFzFCiqcq6C) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [A Turning Earth](https://open.spotify.com/album/0le0m5ADH12SfkysmxSNDx) | 3:21 |
 | 9 | [Enkō\-ji Loop](https://open.spotify.com/track/3gQSfPwtxXgCUFK3DeizAw) | [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [Enkō\-ji Loop](https://open.spotify.com/album/7AVAX9IHU9JuX3r9FcjNY7) | 10:07 |
 | 10 | [Kannon](https://open.spotify.com/track/4vxVU7azXS6qfpR1iIG15I) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5), [takayama naoko](https://open.spotify.com/artist/1RtPxS3LU1mjAvSZDgnEJL) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 2:55 |
-| 11 | [Lost Woods](https://open.spotify.com/track/3kB6DqvwMcPqDdTnmspybi) | [Subsets](https://open.spotify.com/artist/1kdM4ZjjkM45gj9HAZeNdb) | [Lost Woods](https://open.spotify.com/album/27kEJssSAjbdqQAHkAG6JL) | 2:19 |
+| 11 | [Lost Woods](https://open.spotify.com/track/3kB6DqvwMcPqDdTnmspybi) | [happo.](https://open.spotify.com/artist/5DRgQ5TDIwDVupnWxfd8lv) | [Lost Woods](https://open.spotify.com/album/27kEJssSAjbdqQAHkAG6JL) | 2:19 |
 | 12 | [River Music](https://open.spotify.com/track/1gCDWzcqD3vqLJjJKIwpmU) | [Sage Martens](https://open.spotify.com/artist/3nBOpQmwfeXzOnnC6KNWq8), [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [Lieven Martens](https://open.spotify.com/artist/2WAfuIA8abrpze7v9V42hC) | [Riding Fences](https://open.spotify.com/album/1yHg9iDE0fEBrs5EsKiNUc) | 3:11 |
 | 13 | [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 |
 | 14 | [Night on the Isle](https://open.spotify.com/track/5k4Qp001CR5wIzzB6ORd8i) | [Scarless Arms](https://open.spotify.com/artist/4vNVbRGbiqUb48X6d9yiX0) | [Night on the Isle](https://open.spotify.com/album/4u3Lf5McnpeJ8m3H1GkpH9) | 4:53 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 131 | [Dawn](https://open.spotify.com/track/2CtGXLSiPIJiGCwcqlp6oT) | [The Green Kingdom](https://open.spotify.com/artist/4EOmRRSrO3mMPt9W4knkJO) | [Residence on Earth](https://open.spotify.com/album/2E93vwKg4VcQZaN8fBKaWB) | 2:48 |
 | 132 | [Heart of the Forest](https://open.spotify.com/track/5jDXQNtNbPWMQvMW6iIyhT) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [Heart of the Forest](https://open.spotify.com/album/6Sr2sLVQAosKrGZyB7kdaD) | 5:56 |
 
-Snapshot ID: `MCwxNTdmNjYxOTViYTcwODkzYTM5MzQwYThlOGQzYThlNDY0NTQ5MzNk`
+Snapshot ID: `MCwzYTA3MDM1ZDdkYWY2Y2I4YTcwYTI1NDFmMDgwMjRkN2Q1NDgyNDg0`

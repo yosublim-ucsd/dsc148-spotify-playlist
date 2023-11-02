@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl?si=AvqIY2gjRqyKhpfGBzZZRQ">Tyler Page</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,556 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,583 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 99 | [A Stone in the Mouth of the Ocean](https://open.spotify.com/track/4wO4ACUZ6O4kyRUXzkslvW) | [Luke Beling](https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V), [Last Year's Man](https://open.spotify.com/artist/56XJ4jcK8kaqy6jbJbGs2M) | [A Stone in the Mouth of the Ocean](https://open.spotify.com/album/3XR4d44NxvJvu8QBDUslsG) | 3:32 |
 | 100 | [Waiting Forever](https://open.spotify.com/track/0wABBgkiamVDvK04MUvHkU) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl), [Preston.](https://open.spotify.com/artist/6N69WEWIfckF4KpLH6WLLC) | [Waiting Forever](https://open.spotify.com/album/56aLlCwfr5e53TVYK0LOc5) | 3:06 |
 
-Snapshot ID: `MCw2YzBkZmUxNThkYTA4Mjc4OTQ1NTA1MjYyM2UxMWFjZDJkNDAyNGY3`
+Snapshot ID: `MCwzMGJkZjVmYTIwNTI0MWVlMGY3OTMzY2Y0MWExN2Y5NjBmZWFmOWJh`

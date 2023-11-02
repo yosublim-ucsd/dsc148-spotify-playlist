@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Edu Falaschi
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,918 likes - 75 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,964 likes - 75 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 15 | [Days Of Future Past](https://open.spotify.com/track/5grapy5yRWQo4MjOb9nNjY) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/4bBIsMKf6EmHRlhBwtC33N) | 4:03 |
 | 16 | [In The Wind](https://open.spotify.com/track/2NMY0HrpgXgo0AYrjlQiXe) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [In The Wind](https://open.spotify.com/album/4HvkVUY6cCAeSNnfU0v4Wv) | 3:49 |
 | 17 | [O Tempo Não Para](https://open.spotify.com/track/0makTIleiItaT4oD2ffTYd) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni), [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [O Tempo Não Para](https://open.spotify.com/album/0Uztu45QjI0TtZcOJxIrPE) | 4:35 |
-| 18 | [Roots Bloody Roots \- Live; 2022 \- Remaster](https://open.spotify.com/track/2ef6CT41GcKShloWcjzb95) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Live in São Paulo \(2022 \- Remaster\)](https://open.spotify.com/album/5cEdx9cxvbEovNdTF0JK7i) | 4:34 |
+| 18 | [Roots Bloody Roots \(Live\) \(2022 \- Remaster\)](https://open.spotify.com/track/4UGW0qtMaMHUM9YJGvL5IB) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Live in São Paulo \(2022 \- Remaster\)](https://open.spotify.com/album/5CWd1H6Wzku5pBygRnjkV8) | 4:34 |
 | 19 | [Serpent Messiah](https://open.spotify.com/track/1jFTIXwJJkZCV1h4EYVBsb) | [Krisiun](https://open.spotify.com/artist/3pzAW9xs16rX8fukH8wV6N) | [Serpent Messiah](https://open.spotify.com/album/3dVbvhK6esUysE2aNih19b) | 4:37 |
 | 20 | [Seventh Sun](https://open.spotify.com/track/7jgCtSWhv7Y2glV9I8sCUy) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Seventh Sun](https://open.spotify.com/album/5rWzNqVFg8nispXCaewxIB) | 5:30 |
 | 21 | [Torn Apart](https://open.spotify.com/track/4LM2zp6DJaKQfN0Gyi8Z5f) | [NervoChaos](https://open.spotify.com/artist/79Zxs7jzzD0sCwnYOUCKGx) | [Torn Apart](https://open.spotify.com/album/3jRfBgD7F6J9AhrNMiNbD4) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 74 | [Mysterious](https://open.spotify.com/track/1YNfg67rPhWMSIalelU6ph) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [9](https://open.spotify.com/album/09GlDec2IEaxGMkB0L1rH0) | 4:43 |
 | 75 | [Heroes of Sand](https://open.spotify.com/track/7u7VM9dtMRygn59a5SDKCz) | [Nando Fernandes](https://open.spotify.com/artist/6e3Z5Yq6G5vcsuEnmBkeng) | [Edu Falaschi: a New Lease of Life \(Tribute\)](https://open.spotify.com/album/6OuMNT3xYHMWoYTgWxdExj) | 4:40 |
 
-Snapshot ID: `MCw5NzFkNmM5YjlkMmFlODVjMTAwMmNmNGI0ZDgwOWZjZjQ2NTIwZDUx`
+Snapshot ID: `MCwzZWNiMGUxOGFkODFhMWMzMzg0YzNmNjMxMGZmOGYyMjUxYmVjODcw`

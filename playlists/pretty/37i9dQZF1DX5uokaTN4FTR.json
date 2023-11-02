@@ -1,12 +1,12 @@
 {
   "description": "The UK's biggest dance playlist! Cover: Zara Larsson, David Guetta",
-  "num_followers": 1369449,
+  "num_followers": 1369695,
   "original_name": "Massive Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2MwYzYwNjBlYTIwZTc4NWI2M2JiZjc3ZDNlNjRmZTI1NmVkY2Qz",
+  "snapshot_id": "MCw1MzM3NDlhOGIwYWNjNzUwYjU4MThhMzgwNTVkNjc1YjdjYzgzZWY3",
   "tracks": [
     {
       "added_at": "2023-10-27 09:30:34",
@@ -391,26 +391,6 @@
       "duration_ms": 152400,
       "name": "Drums (Feat. Kim Petras)",
       "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
-    },
-    {
-      "added_at": "2023-10-27 09:30:34",
-      "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 176479,
-      "name": "In The City",
-      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
     },
     {
       "added_at": "2023-10-27 09:30:34",

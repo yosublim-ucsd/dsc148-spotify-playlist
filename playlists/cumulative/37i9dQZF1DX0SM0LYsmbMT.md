@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,787 songs - 6 day 1 hr 7 min
+3,788 songs - 6 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3141,6 +3141,7 @@
 | [Sunday Blue](https://open.spotify.com/track/2cSFuvmLZSYnwNr8JIy1Yu) | [Syrup](https://open.spotify.com/artist/3F4JEfklypM9dhsSZmXJGc), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Sunday Blue](https://open.spotify.com/album/30GeQkDjxAMxCEQpKtG3xo) | 1:25 | 2020-12-18 | 2021-01-23 |
 | [Sunday Brunch Break](https://open.spotify.com/track/68ZYkG4jpbLTA9CfZjbpOj) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Sunday Brunch Break](https://open.spotify.com/album/1TJ7Onrrj3ZP7SIVZyHPQU) | 2:36 | 2021-05-07 | 2021-06-11 |
 | [Sunday Morning](https://open.spotify.com/track/1phm7vWriyvUGp0BqP0riI) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [Sunday Morning](https://open.spotify.com/album/03ZiSGU2jflZfPnGPxyU0I) | 2:08 | 2019-05-26\* | 2019-08-13 |
+| [sunday morning](https://open.spotify.com/track/5kC6kyA0ZyjXcmPM9rBKIt) | [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [sunday morning](https://open.spotify.com/album/0l0TsLGhwGsvkdALHn1ga5) | 2:28 | 2023-10-26 |  |
 | [Sunday Swamp](https://open.spotify.com/track/2YiDJMp5tdg2dYjEFqT82S) | [Nobel](https://open.spotify.com/artist/5uC5qAuoCUyUduFrVAnYrE), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Sunday Swamp](https://open.spotify.com/album/7AhwSFEkCGp6t6yfcIc8Wk) | 2:49 | 2022-10-13 | 2023-05-12 |
 | [Sunday To Monday](https://open.spotify.com/track/79NwfZ6vSQvehoR6T2AzEp) | [IAMPAUL](https://open.spotify.com/artist/1mBlZPMpRL8wT9aHBnBBph) | [Unnifty](https://open.spotify.com/album/7lyxArCeA4kkHRiYpnh8eA) | 2:25 | 2020-03-20 | 2020-05-01 |
 | [sundaythefirstofaugust](https://open.spotify.com/track/2X7P7uAfV5MLqz4tXUttXO) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [sundaythefirstofaugust](https://open.spotify.com/album/3BzM89d666UZerVmu2gwyG) | 2:37 | 2022-04-28 | 2022-11-20 |
@@ -3794,6 +3795,6 @@
 | [ōnsen](https://open.spotify.com/track/5mRujdwuXJkZuJQQnqPtXl) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [ave \| ōnsen](https://open.spotify.com/album/2yn90YWW1z9fc4r1vS2vKA) | 1:39 | 2020-02-22 | 2020-05-19 |
 | [산책 Stroll](https://open.spotify.com/track/3qWVH8bq3VH47hROmKl27F) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR) | [Lone Rider / 산책 Stroll](https://open.spotify.com/album/6AKmKh1BxvbIATomn52p7s) | 3:16 | 2020-10-09 | 2020-11-07 |
 | [Ọsanyìn](https://open.spotify.com/track/1bquB6VQlW6bm9FUauzpRJ) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Ọsanyìn](https://open.spotify.com/album/1ObUCC7AMfSsYLVwurAiRQ) | 2:04 | 2021-07-02 | 2021-08-06 |
-| [😊](https://open.spotify.com/track/5TnioMrD7HVnU5GJsQTOcw) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Jakob Gerhardt](https://open.spotify.com/artist/6naolhpsGxwmfRVMZxQjNt), [Beta Beat](https://open.spotify.com/artist/5om7d89XzwR16u36EyuRSk) | [😊 / I Can See Your House From Here](https://open.spotify.com/album/4cL5RfiYMPC4dYwd7b9VvE) | 3:03 | 2023-10-26 |  |
+| [😊](https://open.spotify.com/track/5TnioMrD7HVnU5GJsQTOcw) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Jakob Gerhardt](https://open.spotify.com/artist/6naolhpsGxwmfRVMZxQjNt), [Beta Beat](https://open.spotify.com/artist/5om7d89XzwR16u36EyuRSk) | [😊 / I Can See Your House From Here](https://open.spotify.com/album/4cL5RfiYMPC4dYwd7b9VvE) | 3:03 | 2023-10-26 | 2023-11-02 |
 
 \*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

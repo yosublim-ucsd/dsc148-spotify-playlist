@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-196 songs - 10 hr 37 min
+197 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Neene Illade](https://open.spotify.com/track/6lo8HaKpbucdA2eGaHFSYs) | [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG) | [Neene Illade](https://open.spotify.com/album/2v8IFuiNx11xHjNpmA4PGk) | 3:23 | 2022-11-15 | 2023-08-25 |
 | [Neene Nanna Dilruba](https://open.spotify.com/track/30TLwuKugPfrnMGJUyOpCX) | [Sneha P](https://open.spotify.com/artist/7a340nNpfXGVZrWSrJeZ1x), [Ashwin G](https://open.spotify.com/artist/7rY02n29nmQUH6J1sTs6lK) | [Neene Nanna Dilruba](https://open.spotify.com/album/12mK3U7Mre8X8KnDzdbHfj) | 3:06 | 2023-06-19 |  |
 | [Neene Neene](https://open.spotify.com/track/3oNl7SQVQnogVXaXdfbdhw) | [Drusti](https://open.spotify.com/artist/3cHpejJPT84dzssv89n0s7), [Kiran Bangera](https://open.spotify.com/artist/2LrYMr4C9gYroHRoyQQ6CY), [Manvith Karkera](https://open.spotify.com/artist/6lGuqxlQ4esOsUzZNZ1Pkw) | [Neene Neene](https://open.spotify.com/album/4V6OLQHOHCSYf8MM3xWisY) | 4:36 | 2023-09-06 |  |
-| [Nenapaagiru](https://open.spotify.com/track/72hwWV8M33IeJaYjKnR2JJ) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/1h8A3OYCcs2dLGRljWGwgj) | 3:44 | 2023-03-20 |  |
+| [Nenapaagiru](https://open.spotify.com/track/3pAb0JyhnVl8U6PGUpEmmL) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/5djLiHTiPKqbHxa6fhwYO8) | 3:44 | 2023-03-20 |  |
+| [Nenapaagiru](https://open.spotify.com/track/72hwWV8M33IeJaYjKnR2JJ) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/1h8A3OYCcs2dLGRljWGwgj) | 3:44 | 2023-03-20 | 2023-11-02 |
 | [Never](https://open.spotify.com/track/0d20BQIXw2xUKXQMRJoQRz) | [Derrick You Kno Me](https://open.spotify.com/artist/7FLBUmEZsWCSPMcHO8Xcm3), [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Never](https://open.spotify.com/album/24iuXtQnq7fa6XV75ZkZxS) | 3:00 | 2023-04-14 | 2023-06-09 |
 | [Never Ever Follow The Girl](https://open.spotify.com/track/7Idjqfzp8LRN0EbX3HxK2E) | [Style King Kumar](https://open.spotify.com/artist/2cpe8d5uD4KkfPA4mJ7uFY) | [Never Ever Follow The Girl](https://open.spotify.com/album/6T1XrCJFma60INvzYDEubT) | 3:14 | 2023-02-17 | 2023-06-08 |
 | [Never Love Again](https://open.spotify.com/track/1B8McCxEmyLM7Xv64zx0Qc) | [Aryamanu Baloji](https://open.spotify.com/artist/2Udj46YBjkjfds4hjRLMcp), [Shubhangini](https://open.spotify.com/artist/08XZ4vBBklbpgX2tvDbN9Q) | [Never Love Again](https://open.spotify.com/album/2rNtWzYqaHhzUiNpngNEz6) | 3:41 | 2023-10-25 |  |

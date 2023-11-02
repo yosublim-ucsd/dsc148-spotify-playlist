@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW!  BERCHANDYA! Cover: Alextbh",
-  "num_followers": 16832,
+  "num_followers": 16845,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGY3NTVmNmE2ZjhkMmUxNDY1NGNlYzEyOTYwY2UzMTE5MTYyOGI4",
+  "snapshot_id": "MCxjODkwNjcwNjNmYWVmOGMzMmRkNGIxZjRiODc4Y2FlMzliOTJkMTU2",
   "tracks": [
     {
       "added_at": "2023-10-27 02:47:11",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-10-27 02:47:11",
       "album": {
+        "name": "Confession No.1",
+        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 251454,
+      "name": "Terima Kasih Cinta",
+      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
+    },
+    {
+      "added_at": "2023-10-27 02:47:11",
+      "album": {
         "name": "Pujaanku (feat. Aisyah Aziz)",
         "url": "https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 234154,
       "name": "Pujaanku (feat. Aisyah Aziz)",
       "url": "https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg"
-    },
-    {
-      "added_at": "2023-10-27 02:47:11",
-      "album": {
-        "name": "Confession No.1",
-        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 251454,
-      "name": "Terima Kasih Cinta",
-      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
     },
     {
       "added_at": "2023-10-27 02:47:11",

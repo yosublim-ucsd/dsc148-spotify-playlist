@@ -1956,10 +1956,28 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 338792,
       "name": "Morning Breeze",
       "url": "https://open.spotify.com/track/6PbYlYIv0NPf7AxNbZJjO0"
+    },
+    {
+      "album": {
+        "name": "Ambivalent",
+        "url": "https://open.spotify.com/album/2j1c5l21rUT9jyLlOEAC3M"
+      },
+      "artists": [
+        {
+          "name": "Yucco Miller",
+          "url": "https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339373,
+      "name": "Morning Breeze",
+      "url": "https://open.spotify.com/track/787LMYziuf0azkYUvyva7d"
     },
     {
       "album": {
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 252215,
       "name": "Spring Kiss",
       "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
@@ -4168,7 +4186,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 256360,
       "name": "\u4e59\u5973\u306e\u7948\u308a",
       "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"

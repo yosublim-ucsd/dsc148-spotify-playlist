@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,049 songs - 23 hr 21 min
+1,050 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [Moonlight Echoes](https://open.spotify.com/track/1R4jHCzDcxyadZxB0ZCZqg) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Moonlight Echoes](https://open.spotify.com/album/0jMKVVOxTLjUcM2Ti6urpr) | 2:51 | 2022-01-12 | 2023-04-09 |
 | [Moonlight Mystery \- Piano Lullaby](https://open.spotify.com/track/0Yz35KBM6ots6PhZ9qGfQt) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Moonlight Mystery](https://open.spotify.com/album/7AAPLcfkp1OoQAuDLe8Typ) | 1:02 | 2023-05-14 |  |
 | [Moonshine Arr\. For Cello And Piano](https://open.spotify.com/track/0Eg7oFTySCgBzJ35Kis4vD) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Winter Shadows](https://open.spotify.com/album/2YYMwsK9i3Qz90Kb0jmbF0) | 1:01 | 2023-04-19 |  |
+| [Morning](https://open.spotify.com/track/6BxMBQtlvEoQk9a51rwQnI) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Morning](https://open.spotify.com/album/4QgJAGgj8sj8ctk70MhqvO) | 1:00 | 2023-11-01 |  |
 | [Morning By The Sea Arr\. For Grand Piano](https://open.spotify.com/track/4pTkXQHqerOsei3Bary8IR) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Two Soft Piano Preludes](https://open.spotify.com/album/0mnucD4cDwBMjnwQfqQiGC) | 1:00 | 2023-08-17 |  |
 | [Morning Calm](https://open.spotify.com/track/37WsMLQKWs6HNatOhCJLoN) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Morning Calm](https://open.spotify.com/album/1Pcrf4XQXZIKjTRn6HdcAN) | 1:02 | 2022-09-01 |  |
 | [Morning Comforts](https://open.spotify.com/track/65Wq2DcxRLal3DUZEeQfQj) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Restored](https://open.spotify.com/album/1xwDx8jc8SdscX2xYWSrud) | 1:03 | 2022-02-11 |  |

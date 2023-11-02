@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-249 songs - 20 hr 54 min
+250 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Abandoned Places](https://open.spotify.com/track/3zP5jZNeK9VgCkd4tNPKib) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Abandoned Places](https://open.spotify.com/album/7J6pXQPzUoFW2GozOiD6fq) | 5:43 | 2022-02-18 | 2022-07-27 |
 | [Abandoned Places](https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Our True Nature](https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7) | 5:43 | 2022-07-22 |  |
 | [Above below](https://open.spotify.com/track/3xe2mnK1su5rkjvGXs8hm6) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [RIPTIDE](https://open.spotify.com/album/7lAip95eODxxCJOKeeQW1P) | 4:49 | 2022-01-21 | 2022-07-29 |
+| [all i feel is an empty void](https://open.spotify.com/track/7Fy7wF7CcszlAss8kUVq7D) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [A Shimmer in the Void](https://open.spotify.com/album/573u28okxfMLC50wzehOWy) | 2:21 | 2023-10-23 |  |
 | [All We Can't See](https://open.spotify.com/track/5CO4UIfBWDillkIS3a1oTb) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [All We Can't See / An Image](https://open.spotify.com/album/7yAAi4irn34TeF2i7xUZk6) | 1:56 | 2022-01-21 | 2022-07-26 |
 | [All We Can't See](https://open.spotify.com/track/7MQxjq3mF74zRFUVx3C4K5) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [All We Can't See / An Image](https://open.spotify.com/album/6LU399jo756EUFEHFQDhJF) | 1:56 | 2022-07-22 | 2023-10-06 |
 | [And A Twist](https://open.spotify.com/track/1OA0e38XJKFh8rcGhmHRLg) | [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Observation of Breath](https://open.spotify.com/album/2XGBwfEC7ovLUTttUVUpmZ) | 2:42 | 2022-01-21 |  |
@@ -68,7 +69,7 @@
 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 | 2022-01-21 |  |
 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 | 2022-01-21 |  |
 | [Floor Position](https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [Everything is Already There](https://open.spotify.com/album/1he2AlYOWu58VJxZQPzdJK) | 2:56 | 2022-01-21 |  |
-| [Frozen Plains](https://open.spotify.com/track/3czI9Tjuim4boa9KwizjvQ) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Baba Gnohm](https://open.spotify.com/artist/2emlnsOgKrMMwXqpgpBMLF) | [Frozen Plains](https://open.spotify.com/album/6NP6uRqDzvNfSmJZi4uqx7) | 5:38 | 2023-01-27 |  |
+| [Frozen Plains](https://open.spotify.com/track/3czI9Tjuim4boa9KwizjvQ) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Baba Gnohm](https://open.spotify.com/artist/2emlnsOgKrMMwXqpgpBMLF) | [Frozen Plains](https://open.spotify.com/album/6NP6uRqDzvNfSmJZi4uqx7) | 5:38 | 2023-01-27 | 2023-11-02 |
 | [Full Av Tomhet](https://open.spotify.com/track/0tOAVxzcetDy2wzrJ0Hmk8) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Bansull](https://open.spotify.com/album/1HhptIM5EglrNcLOtaZXRj) | 3:24 | 2023-03-10 |  |
 | [Fundament \(Part 1\)](https://open.spotify.com/track/0NWuVsxbGEwS4qCiicGxBs) | [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Plasmafuse](https://open.spotify.com/artist/6iYdmg7rSNUKQabi5wzRtN) | [Mörkrets Narr](https://open.spotify.com/album/2VqFfX6U0xOW0Ad58xyfV9) | 7:40 | 2022-01-21 |  |
 | [Future Memory](https://open.spotify.com/track/5kiPu9EFwEhzzClpoEtRfQ) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Only Love From Now On](https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL) | 5:02 | 2022-03-25 | 2023-03-06 |

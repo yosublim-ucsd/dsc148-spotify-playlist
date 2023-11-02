@@ -1,12 +1,12 @@
 {
   "description": "The world's biggest dance hits. Cover: David Guetta, Ayra Starr, Lil Durk",
-  "num_followers": 6015418,
+  "num_followers": 6015533,
   "original_name": "mint",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjAwYzdmMDZiYmU4NmMzNzgyZGU4MWQzYWJlZjQzNTM0ZDAyOWY1",
+  "snapshot_id": "MCw2Mzc3N2Y1YmY3ZDcyMDgyZDkzYWExZGY2OTA2YTdiOWYxNjZmYTAx",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -411,30 +411,6 @@
       "duration_ms": 188000,
       "name": "BOTH",
       "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Prada",
-        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
-      },
-      "artists": [
-        {
-          "name": "cass\u00f6",
-          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        }
-      ],
-      "duration_ms": 132359,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
       "added_at": "2023-10-27 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,693 likes - 148 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,700 likes - 148 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 107 | [Dirt Road Anthem \(Remix\) \[feat\. Ludacris\]](https://open.spotify.com/track/4s3Z1svzMAu8OwmhWLUWHw) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Dirt Road Anthem \(Remix\) \[feat\. Ludacris\]](https://open.spotify.com/album/0VLksQeRExDkOfVsmTXtBk) | 3:52 |
 | 108 | [Somethin' Bad \(with Carrie Underwood\) \- Duet with Carrie Underwood \[Album\]](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 |
 | 109 | [GOOD TIME \- Andrelli Remix](https://open.spotify.com/track/7n4UKXvKGFZKSdU1NUw06T) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [GOOD TIME \(Andrelli Remix\)](https://open.spotify.com/album/4IGBxXXi1Mz0y3jLgh0zhf) | 2:44 |
-| 110 | [The Git Up \(feat\. Ciara\) \- Remix](https://open.spotify.com/track/5PPk5WM8vpJ7VOR9gUrMFH) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Git Up \(feat\. Ciara\) \[Remix\]](https://open.spotify.com/album/3wRyrZCXZxuj45KThDqe4O) | 3:13 |
+| 110 | [The Git Up \(feat\. Ciara\) \(Remix\)](https://open.spotify.com/track/3zhflexak3VmuY88axLRol) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Git Up \(feat\. Ciara\) \[Remix\]](https://open.spotify.com/album/1Dl92iIBUDfJkVRgFTD1IJ) | 3:13 |
 | 111 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |
 | 112 | [Angel Eyes \(Dee Jay Silver Remix\)](https://open.spotify.com/track/3bXvv1X4Jel4OCkkqCPpiH) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 3:04 |
 | 113 | [Diamonds \- Cash Cash Remix](https://open.spotify.com/track/2ByP6u4dKJSTmHziCVDteF) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS), [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Diamonds \(Cash Cash Remix\)](https://open.spotify.com/album/3iyYMP6fNOHsYpVKDr026R) | 2:59 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 147 | [Someday](https://open.spotify.com/track/73h6Ma5QhBFrshEN2CTevS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:43 |
 | 148 | [Two Black Cadillacs / Jolene \(Dee Jay Silver Edit\) \(feat\. Dolly Parton\)](https://open.spotify.com/track/3H0JQLCfWoVvPGfQvzDT42) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 4:12 |
 
-Snapshot ID: `MCxiNDVhNGEzNTNiZTNjOWI3ZGYyYzM4NTFhZTQ1NGE3YTEwNWY5NWEw`
+Snapshot ID: `MCxiODcyNDgyMjRiZGZlODc1MmE4MmQ3ODRjYzY3OTg1ZDA4MTFhMTg3`

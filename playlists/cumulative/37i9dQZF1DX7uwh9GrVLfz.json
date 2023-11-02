@@ -5181,6 +5181,24 @@
     },
     {
       "album": {
+        "name": "Only once",
+        "url": "https://open.spotify.com/album/7sSDLjJh4tnCOt5OIAO2gX"
+      },
+      "artists": [
+        {
+          "name": "\u30d7\u30d4\u30ea\u30c3\u30c8\u30d1\u30ed",
+          "url": "https://open.spotify.com/artist/0Wqd6QKWApCBqdiJEbfkZm"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "Only once",
+      "url": "https://open.spotify.com/track/2s92nIri4MOFCg6QeVRZKC"
+    },
+    {
+      "album": {
         "name": "BLOOMING",
         "url": "https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN"
       },
@@ -5775,6 +5793,24 @@
     },
     {
       "album": {
+        "name": "Rest in Punk",
+        "url": "https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152941,
+      "name": "Rest in Punk",
+      "url": "https://open.spotify.com/track/45fdY5d6sQWanxK8VH1LzA"
+    },
+    {
+      "album": {
         "name": "Rest In Punk",
         "url": "https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4"
       },
@@ -5786,7 +5822,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 152941,
       "name": "Rest In Punk",
       "url": "https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ"
@@ -8688,7 +8724,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 176516,
       "name": "\u3044\u3061\u3069\u304d\u308a",
       "url": "https://open.spotify.com/track/6ps0b7PeDwszjUeXU9gqTv"

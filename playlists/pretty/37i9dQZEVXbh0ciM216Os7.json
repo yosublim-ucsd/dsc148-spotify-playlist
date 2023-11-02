@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMDYzMjAsMDAwMDAwMDAwNGIyY2UxMmQzNWQxNjc0NmEyY2YwNzdmNTMzYTM5OA==",
+  "snapshot_id": "MjgzMDYzMjAsMDAwMDAwMDBhMTRiYjkzYzJiOWNkZWY1ZjVmM2RjOGY3ZmUzMGY3Zg==",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -288,7 +288,7 @@
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Hackney Diamonds",
-        "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
+        "url": "https://open.spotify.com/album/3j0kAPRr52jZmyIy4olRK9"
       },
       "artists": [
         {
@@ -298,23 +298,7 @@
       ],
       "duration_ms": 243687,
       "name": "Mess It Up",
-      "url": "https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "NFL",
-        "url": "https://open.spotify.com/album/6rsIciAfxrSApDOpNXZSll"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 185678,
-      "name": "NFL",
-      "url": "https://open.spotify.com/track/1X1dy95bo2OirAmMkBIwkS"
+      "url": "https://open.spotify.com/track/6fVCPBFgs69jSSM114rGmy"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -335,6 +319,22 @@
       "duration_ms": 244271,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "NFL",
+        "url": "https://open.spotify.com/album/6rsIciAfxrSApDOpNXZSll"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 185678,
+      "name": "NFL",
+      "url": "https://open.spotify.com/track/1X1dy95bo2OirAmMkBIwkS"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Chet on Poetry",
+        "url": "https://open.spotify.com/album/6ixxTaomYhDBVdm6A4qmKo"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 204277,
+      "name": "Almost blue",
+      "url": "https://open.spotify.com/track/2TvvypFABr65clA6O68qfn"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "\u010cohkka/Cort\u00e8ge (Live In Helsinki St. John's Church)",
         "url": "https://open.spotify.com/album/7wZR2dWNOpsRpEZ2GPhWMJ"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 135189,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Chet on Poetry",
-        "url": "https://open.spotify.com/album/6ixxTaomYhDBVdm6A4qmKo"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 204277,
-      "name": "Almost blue",
-      "url": "https://open.spotify.com/track/2TvvypFABr65clA6O68qfn"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -684,7 +684,7 @@
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Champagne Shit (feat. Latto & Quavo) [Remix]",
-        "url": "https://open.spotify.com/album/0EIDcpEoX0tO28b55vvCTK"
+        "url": "https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM"
       },
       "artists": [
         {
@@ -702,31 +702,7 @@
       ],
       "duration_ms": 177600,
       "name": "Champagne Shit (feat. Latto & Quavo) - Remix",
-      "url": "https://open.spotify.com/track/2oKU8iNurGW4W1WjshPdWe"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Whenever I Call You Friend",
-        "url": "https://open.spotify.com/album/3UDpY8hvITJfi4P3Y2ISpI"
-      },
-      "artists": [
-        {
-          "name": "Melissa Manchester",
-          "url": "https://open.spotify.com/artist/78udmCDNaDu5jqfVnBqwia"
-        },
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Whenever I Call You Friend",
-      "url": "https://open.spotify.com/track/5QGUp0Iz7KYyji9UdzHV5J"
+      "url": "https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -759,6 +735,30 @@
       "duration_ms": 214000,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Whenever I Call You Friend",
+        "url": "https://open.spotify.com/album/3UDpY8hvITJfi4P3Y2ISpI"
+      },
+      "artists": [
+        {
+          "name": "Melissa Manchester",
+          "url": "https://open.spotify.com/artist/78udmCDNaDu5jqfVnBqwia"
+        },
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Whenever I Call You Friend",
+      "url": "https://open.spotify.com/track/5QGUp0Iz7KYyji9UdzHV5J"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

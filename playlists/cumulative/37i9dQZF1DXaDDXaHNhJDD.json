@@ -3298,10 +3298,40 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 241475,
       "name": "Thiruvaavaniraavu",
       "url": "https://open.spotify.com/track/5G3hYU6EYSFRX4JsXxR3aF"
+    },
+    {
+      "album": {
+        "name": "Jacobinte Swargarajyam",
+        "url": "https://open.spotify.com/album/4XxfZW3PEKRIgeKhPqmPzX"
+      },
+      "artists": [
+        {
+          "name": "Shaan Rahman",
+          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
+        },
+        {
+          "name": "Unni Menon",
+          "url": "https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        },
+        {
+          "name": "Meera Scharma",
+          "url": "https://open.spotify.com/artist/6KepfgxU9OD3UJ7g9t0rAP"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241333,
+      "name": "Thiruvaavaniraavu - From \"Jacobinte Swargarajyam\"",
+      "url": "https://open.spotify.com/track/459ybAhLo329txQy9NBIqF"
     },
     {
       "album": {

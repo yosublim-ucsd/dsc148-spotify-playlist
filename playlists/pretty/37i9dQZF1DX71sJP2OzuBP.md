@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,570 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,585 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 62 | [相遇即是分開 \(《最佳利益2\-決戰利益》片尾曲\)](https://open.spotify.com/track/5XobxkzbDfHeFGjsgmhKQt) | [Ann Bai](https://open.spotify.com/artist/6ytn3LGlsoOgU3YGF9T42s) | [《最佳利益2\-決戰利益》戲劇歌曲原聲帶](https://open.spotify.com/album/0Ir9bYIlHKXc4npemUdOGB) | 4:23 |
 | 63 | [你是我這輩子最想愛的呀](https://open.spotify.com/track/4NF4arILnIdBOZu2FkRV8P) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [你是我這輩子最想愛的呀](https://open.spotify.com/album/30pjHo1kj2exb6bIUfCvVv) | 4:24 |
 | 64 | [尋光而來 \(電視劇《照亮你》片尾曲\)](https://open.spotify.com/track/3aJPpo62uoNsrWgwvm7FD6) | [許靖韻](https://open.spotify.com/artist/70XRdb848u15UedRaqzOyy) | [尋光而來 \(電視劇《照亮你》片尾曲\)](https://open.spotify.com/album/2sDoBYcxYMov98rg2gPMWn) | 3:57 |
-| 65 | [取暖 \(新传媒电视剧《只此一家》主题曲\)](https://open.spotify.com/track/6uC4jSmhIlbfVoc0ximADq) | [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2), [Alfred Sim](https://open.spotify.com/artist/3epKmTu8QPqArqY6gEVfyS) | [取暖 \(新传媒电视剧《只此一家》主题曲\)](https://open.spotify.com/album/7Ho01QKUccrusKrE4hXGLk) | 3:46 |
+| 65 | [Qu Nuan \(Mediacorp Drama "My One and Only" Theme Song\)](https://open.spotify.com/track/6uC4jSmhIlbfVoc0ximADq) | [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2), [Alfred Sim](https://open.spotify.com/artist/3epKmTu8QPqArqY6gEVfyS) | [Qu Nuan \(Mediacorp Drama "My One and Only" Theme Song\)](https://open.spotify.com/album/7Ho01QKUccrusKrE4hXGLk) | 3:46 |
 | 66 | [斷捨離](https://open.spotify.com/track/3SGelhCWnm8CU2y18TwEgp) | [施語庭](https://open.spotify.com/artist/4IuEkOrNCePRLpRYVWbUql) | [斷捨離](https://open.spotify.com/album/3qE0In8H2JhWbS59UsYVws) | 3:49 |
 | 67 | [雨季](https://open.spotify.com/track/7zJLX40mHrjN4NfoT4GZpR) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [雨季](https://open.spotify.com/album/3z2ycnShuTsTkPj78LNLa3) | 4:21 |
 | 68 | [暗号](https://open.spotify.com/track/5J7BOS35dPK27X8PacuLA5) | [李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90), [J.En Cheo](https://open.spotify.com/artist/6a4zj3BAL2o9RWOlyKpKhr) | [暗号](https://open.spotify.com/album/6CjcZUrIbto4gRIz2axmB1) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [給月亮的三行詩 \(《我要逆風去》電視劇片尾曲 \)](https://open.spotify.com/track/2qvw3TxW0AeGygQliu379B) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [給月亮的三行詩](https://open.spotify.com/album/2nHZoTwkHnpTVEEk1g8Hmn) | 3:30 |
 | 100 | [不喜歡沒有你的地方](https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [不喜歡沒有你的地方](https://open.spotify.com/album/75aDWkYgrA0ZAMEHpPCHeJ) | 3:47 |
 
-Snapshot ID: `MCw3ZmU3Nzg5OWVmYjRjYWRiZjkzYTdhYTg0Zjg3NDA4MGE2NjI0YTRm`
+Snapshot ID: `MCw4MzkwMjlmMWY5Njg1NDk3MmQxNjI3N2NkNWFhY2M5MjBkM2FlMjUx`

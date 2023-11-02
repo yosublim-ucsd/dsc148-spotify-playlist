@@ -4,7 +4,7 @@
 
 > A feel\-good soulful house  and disco selection.
 
-222 songs - 15 hr 31 min
+223 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Love Hangover \- Eric Kupper Remix](https://open.spotify.com/track/5i0uFONyXP5dbN3VT1a8Mp) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [Love Hangover](https://open.spotify.com/album/4THihbbJZnvUbuXGZ1AXON) | 3:48 | 2021-12-07 | 2022-05-23 |
 | [Love Somebody Else \- Sandy Rivera & Aruhtra's Mix](https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX) | [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3), [Aruhtra](https://open.spotify.com/artist/0eNdTqhwRWK5udfkUOuMAv), [April Morgan](https://open.spotify.com/artist/4yZgqRQwgyYlGEwINIslPz) | [Love Somebody Else](https://open.spotify.com/album/55fImdHcBicoU5PoIWTZyn) | 2:40 | 2021-12-07 |  |
 | [Love the Way \(Happiness\)](https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Love the Way \(Happiness\)](https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R) | 3:35 | 2021-12-07 |  |
-| [Lover 4 Now \(feat\. Todd Edwards\) \- Edit](https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Lover 4 Now \(feat\. Todd Edwards\) \[Edit\]](https://open.spotify.com/album/0n6nUGLEa2MGv53Kqkm5sa) | 3:22 | 2021-12-07 |  |
+| [Lover 4 Now \(feat\. Todd Edwards\) \(Edit\)](https://open.spotify.com/track/6Hq3uq5WuAThcnuDUNyzQO) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Lover 4 Now \(feat\. Todd Edwards\) \[Edit\]](https://open.spotify.com/album/2PfzLGZl1mSVk7gKdXUoNP) | 3:22 | 2023-10-27 |  |
+| [Lover 4 Now \(feat\. Todd Edwards\) \- Edit](https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Lover 4 Now \(feat\. Todd Edwards\) \[Edit\]](https://open.spotify.com/album/0n6nUGLEa2MGv53Kqkm5sa) | 3:22 | 2021-12-07 | 2023-11-02 |
 | [Loving You](https://open.spotify.com/track/68hh4dfRImeafyik0zKP02) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Loving You](https://open.spotify.com/album/28YDQOSz4NJsukYQVPTas0) | 2:56 | 2023-10-27 |  |
 | [MacArthur Park \- Michael Gray Classic Edit](https://open.spotify.com/track/3dg0IGBvoEV2HV0DI2OQMa) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [Kelli Sae](https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17) | [MacArthur Park](https://open.spotify.com/album/0Mzt1yuEg8LOoItFMiNAMz) | 3:27 | 2023-10-27 |  |
 | [me with your <3 \- Edit](https://open.spotify.com/track/1FmpFPiqyvFgOZawC6Xrkl) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Zissou Edits Best Vol\. 1](https://open.spotify.com/album/3LCza5PZcH60VdGQHnxvLn) | 4:32 | 2021-12-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Loyal Lobos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,019 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,022 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Sobrenatural](https://open.spotify.com/track/4yZxXT6EvyXbr0mVhObb5c) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Sobrenatural](https://open.spotify.com/album/0xnbZxwXdtJFS5BaXkLeXh) | 2:38 |
 | 50 | [El Amor Se Fue de Repente](https://open.spotify.com/track/7Kt2X9nFAr7v6lHqclet9m) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [El Amor Se Fue de Repente](https://open.spotify.com/album/3BR6BEzOxK1ukJo8RkHSsL) | 3:46 |
 
-Snapshot ID: `MCw5MGMwMWZkMDY5YTI0MGM2NTUxZWM1ZjgwNDQ3YzNiM2IyZTg3ZjEw`
+Snapshot ID: `MCw2M2RiM2Q0MjU1OTU2NjM5YzhhYjQ2YjE2YWU3YTZiMzk1YjI3ODFm`

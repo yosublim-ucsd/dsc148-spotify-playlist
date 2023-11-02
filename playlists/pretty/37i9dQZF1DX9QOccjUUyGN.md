@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Mac Júlia
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,666 likes - 74 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,667 likes - 74 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 33 | [Engano](https://open.spotify.com/track/0bVpusqcvnDWoymFgsLNtw) | [Zares](https://open.spotify.com/artist/1yXn7j84tP9bcA0k4OgIaF), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Engano](https://open.spotify.com/album/7aoqwYZyqDjZehaVU25QWb) | 2:16 |
 | 34 | [Fragrância](https://open.spotify.com/track/0BN3skmXfNjhFaRQHLzh5p) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Fragância](https://open.spotify.com/album/7cJleJxgIm19B2hQVjbtSG) | 2:09 |
 | 35 | [Love, Death + Robots](https://open.spotify.com/track/4uPodG2bz6bbipLSkFKwQZ) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Fragmentado](https://open.spotify.com/album/68Tgc6yABJipkYkoDjnt5P) | 2:36 |
-| 36 | [Diferente de Vários](https://open.spotify.com/track/4ECsk9biT0PILIy3TW4Vqd) | [HTreze](https://open.spotify.com/artist/0cAR1YpbfgXZnTYTL3PG3w), [Felipe Poeta](https://open.spotify.com/artist/3gZcF1tlgvrjYOaMOUW8Px), [Laundry Records](https://open.spotify.com/artist/2V3I6RpWfNn1Y5cQzdu4zY) | [Diferente de Vários](https://open.spotify.com/album/2ihdGuyTAT8CugfbSgmdqi) | 2:04 |
+| 36 | [Diferente de Vários](https://open.spotify.com/track/4ECsk9biT0PILIy3TW4Vqd) | [HTreze](https://open.spotify.com/artist/0cAR1YpbfgXZnTYTL3PG3w), [Laundry Records](https://open.spotify.com/artist/2V3I6RpWfNn1Y5cQzdu4zY) | [Diferente de Vários](https://open.spotify.com/album/2ihdGuyTAT8CugfbSgmdqi) | 2:04 |
 | 37 | [Chuva de Benção](https://open.spotify.com/track/30vr0rox6VBWsmAcbuf5yW) | [Rosa](https://open.spotify.com/artist/6jw8SiJGInnFJ76Je7NtsV), [Dj Vitinho Beat](https://open.spotify.com/artist/3J9aTItEsTv0bdV4W7oVrt), [991Didi](https://open.spotify.com/artist/4Gi0bQFqrTkn6d6xAH0AIr) | [Chuva de Benção](https://open.spotify.com/album/2RQ5gGFs0EvyAvhL4i9VHw) | 2:51 |
 | 38 | [GEMINIANA](https://open.spotify.com/track/2wyFw9zIMvm86zFqC9IAHl) | [Txéllo](https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU), [Two Records](https://open.spotify.com/artist/4SfxAv3Xdu1gD1HBs6BYSn) | [GEMINIANA](https://open.spotify.com/album/1V3NL0ZzXRXle86DaoKHrH) | 2:26 |
 | 39 | [Fauna e Flora](https://open.spotify.com/track/71tcKNNAxaAnkxvkwNYszB) | [Barcellos](https://open.spotify.com/artist/3P7RXjD1Ak6IETrHzuRk8P) | [Fauna e Flora](https://open.spotify.com/album/5OEyOvloQ7nHauiurMqq00) | 2:09 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 73 | [TE ENCONTREI](https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:24 |
 | 74 | [Invisto](https://open.spotify.com/track/4BQT37CbzTDHPm6yRAdp5z) | [Júlia Castro](https://open.spotify.com/artist/0erBEEMgeNCyNWxbV462iH), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Invisto](https://open.spotify.com/album/2tlcSnDzE0JKPSzQoFdiVy) | 2:04 |
 
-Snapshot ID: `MCxlNjY2Mzg3ZjFiOGRjZjJiOTI2YTlmMmE3OGUyMjI4ZjUzZjVjMzQ2`
+Snapshot ID: `MCwxMzIzMTJlYTFlMDcwZDk5MGI0Y2UzYmUxZTJlNTUwYmJmZDFiZWJm`

@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Alaskan Tapes on cover.",
-  "num_followers": 171864,
+  "num_followers": 171969,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjA4Njg1YWY2ZDIzOGY3NjQ2MzY4NGJjMDc5MDJiMjlkYWMzMWQy",
+  "snapshot_id": "MCw1YmYxMzU4MzI2YWY1ODFkNWNiMmEzOWMwZmQzMTViZWI2ZTljYWRi",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -507,18 +507,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "paradox",
-        "url": "https://open.spotify.com/album/2k9DkBdiToaatxmdfl9HkF"
+        "name": "sweet nothings",
+        "url": "https://open.spotify.com/album/0aRSkBysa3PHcNQbKkfDBt"
       },
       "artists": [
         {
-          "name": "Headphone Activist",
-          "url": "https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk"
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        },
+        {
+          "name": "Miranda Rain",
+          "url": "https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c"
         }
       ],
-      "duration_ms": 134493,
-      "name": "paradox",
-      "url": "https://open.spotify.com/track/4GbOIpoNo5zhsAd6ksrQ4p"
+      "duration_ms": 151276,
+      "name": "ur my safe place",
+      "url": "https://open.spotify.com/track/58RZwI0FcNW7pvyEf4Fxhu"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -543,22 +547,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "sweet nothings",
-        "url": "https://open.spotify.com/album/0aRSkBysa3PHcNQbKkfDBt"
+        "name": "paradox",
+        "url": "https://open.spotify.com/album/2k9DkBdiToaatxmdfl9HkF"
       },
       "artists": [
         {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        },
-        {
-          "name": "Miranda Rain",
-          "url": "https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c"
+          "name": "Headphone Activist",
+          "url": "https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk"
         }
       ],
-      "duration_ms": 151276,
-      "name": "ur my safe place",
-      "url": "https://open.spotify.com/track/58RZwI0FcNW7pvyEf4Fxhu"
+      "duration_ms": 134493,
+      "name": "paradox",
+      "url": "https://open.spotify.com/track/4GbOIpoNo5zhsAd6ksrQ4p"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "EARS",
+        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Voices 2",
         "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "EARS",
-        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Ten Impressions for Piano and Strings",
         "url": "https://open.spotify.com/album/7DOkAK4tvQ7qtKKlbAAEYK"
       },
@@ -655,38 +655,6 @@
       "duration_ms": 156422,
       "name": "Sylvan Smoke",
       "url": "https://open.spotify.com/track/2Gfs49i4wLusg8WLM8Q3jS"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Dawn Chorus",
-        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 208625,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "no way out",
-        "url": "https://open.spotify.com/album/1nDOFtmb6Bm3kYaE9EOFsY"
-      },
-      "artists": [
-        {
-          "name": "Antent",
-          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
-        }
-      ],
-      "duration_ms": 129856,
-      "name": "no way out",
-      "url": "https://open.spotify.com/track/3pWKrNnAXCfiLMGN4nYSNX"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -707,26 +675,34 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Vast (ANNA Remix)",
-        "url": "https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD"
+        "name": "no way out",
+        "url": "https://open.spotify.com/album/1nDOFtmb6Bm3kYaE9EOFsY"
       },
       "artists": [
         {
-          "name": "Sandrayati",
-          "url": "https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
         }
       ],
-      "duration_ms": 206769,
-      "name": "Vast - ANNA Remix",
-      "url": "https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH"
+      "duration_ms": 129856,
+      "name": "no way out",
+      "url": "https://open.spotify.com/track/3pWKrNnAXCfiLMGN4nYSNX"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Dawn Chorus",
+        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 208625,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -755,6 +731,30 @@
       "duration_ms": 174855,
       "name": "Integration",
       "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Vast (ANNA Remix)",
+        "url": "https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD"
+      },
+      "artists": [
+        {
+          "name": "Sandrayati",
+          "url": "https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Vast - ANNA Remix",
+      "url": "https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Our True Nature",
-        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        }
-      ],
-      "duration_ms": 343666,
-      "name": "Abandoned Places",
-      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "regrets",
         "url": "https://open.spotify.com/album/6onJVnXQHyqMAgc3B0CEhF"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 136145,
       "name": "regrets - Slowed",
       "url": "https://open.spotify.com/track/7KlnTSf5iLWUpYJCLRONLx"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Our True Nature",
+        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
+      },
+      "artists": [
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        }
+      ],
+      "duration_ms": 343666,
+      "name": "Abandoned Places",
+      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "!",
-        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
+        "name": "Places (Rerecorded)",
+        "url": "https://open.spotify.com/album/1Oxo6zLZx9IcMJKnKNAaqO"
       },
       "artists": [
         {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
         }
       ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
+      "duration_ms": 158774,
+      "name": "Places - Rerecorded",
+      "url": "https://open.spotify.com/track/56o6ehGMe1PijKh5mTfHi6"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Places (Rerecorded)",
-        "url": "https://open.spotify.com/album/1Oxo6zLZx9IcMJKnKNAaqO"
+        "name": "!",
+        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
       },
       "artists": [
         {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
         }
       ],
-      "duration_ms": 158774,
-      "name": "Places - Rerecorded",
-      "url": "https://open.spotify.com/track/56o6ehGMe1PijKh5mTfHi6"
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "I Remember You Being Happy",
-        "url": "https://open.spotify.com/album/4w3v6gYbN4mdKd2mo5CtYS"
-      },
-      "artists": [
-        {
-          "name": "BAILE",
-          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "I Remember You Being Happy",
-      "url": "https://open.spotify.com/track/2Z2fWWESeWka0erDgpl6hZ"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Nouveau-N\u00e9",
         "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 200862,
       "name": "Nouveau-N\u00e9 (Re-Imagined)",
       "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "I Remember You Being Happy",
+        "url": "https://open.spotify.com/album/4w3v6gYbN4mdKd2mo5CtYS"
+      },
+      "artists": [
+        {
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "I Remember You Being Happy",
+      "url": "https://open.spotify.com/track/2Z2fWWESeWka0erDgpl6hZ"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Nocturnes",
-        "url": "https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 118133,
-      "name": "Morning Tides",
-      "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Conception",
         "url": "https://open.spotify.com/album/51SIsJxGaN6FgnDjRB8WDM"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 208000,
       "name": "Drift Through the Need",
       "url": "https://open.spotify.com/track/15mfP42t0kKFtxbWVakQWa"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Nocturnes",
+        "url": "https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 118133,
+      "name": "Morning Tides",
+      "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Warm",
-        "url": "https://open.spotify.com/album/3GWc3v2tqB5uSiJBpB0HNq"
-      },
-      "artists": [
-        {
-          "name": "Francesco Siano",
-          "url": "https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/1oA7O8vf7psdrFcXTbUMbT"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "#3 (Rhubarb)",
         "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 437138,
       "name": "#3 (Rhubarb)",
       "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Warm",
+        "url": "https://open.spotify.com/album/3GWc3v2tqB5uSiJBpB0HNq"
+      },
+      "artists": [
+        {
+          "name": "Francesco Siano",
+          "url": "https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/1oA7O8vf7psdrFcXTbUMbT"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "After the Flood",
-        "url": "https://open.spotify.com/album/6AbZWAv1wudSm3Ee8QkJ0w"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        },
-        {
-          "name": "LUCHS",
-          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
-        }
-      ],
-      "duration_ms": 295394,
-      "name": "After the Flood",
-      "url": "https://open.spotify.com/track/5uDNJnKd1gWSZnz0QeP6TO"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Mesmerising Waves",
         "url": "https://open.spotify.com/album/5UVbMTGLR7YZHyqqhB5bVt"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 207756,
       "name": "VIM",
       "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "After the Flood",
+        "url": "https://open.spotify.com/album/6AbZWAv1wudSm3Ee8QkJ0w"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        },
+        {
+          "name": "LUCHS",
+          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
+        }
+      ],
+      "duration_ms": 295394,
+      "name": "After the Flood",
+      "url": "https://open.spotify.com/track/5uDNJnKd1gWSZnz0QeP6TO"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Late Reflections",
         "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 116875,
       "name": "Golden Dust",
       "url": "https://open.spotify.com/track/4hUaTmX1C1TsbjGvcL6vRP"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1803,18 +1803,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Flur",
-        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/03VL92zMZKklDDcd5Js06l"
       },
       "artists": [
         {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+          "name": "Pascal Schumacher",
+          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
         }
       ],
-      "duration_ms": 301189,
-      "name": "JUL",
-      "url": "https://open.spotify.com/track/4RIJQDx8lM9fPDDdBH4YUh"
+      "duration_ms": 366825,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd"
     }
   ],
   "unique_name": "Ambient X",

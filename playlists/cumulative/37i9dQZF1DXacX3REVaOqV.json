@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 142800,
       "name": "Caught In The Rain",
       "url": "https://open.spotify.com/track/1GvyPmmkOxcrnLBjpgFBPX"
@@ -1122,6 +1122,32 @@
       "duration_ms": 206564,
       "name": "Change Is Gonna Come - Edit",
       "url": "https://open.spotify.com/track/7nfQrgnnJFG9Fjlwg9FnWY"
+    },
+    {
+      "album": {
+        "name": "Change Your Mind (feat. Stevie Appleton)",
+        "url": "https://open.spotify.com/album/5qthXGfK0aszoaa3c3wOt7"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125982,
+      "name": "Change Your Mind (feat. Stevie Appleton)",
+      "url": "https://open.spotify.com/track/4zzk9QpZXsGby0TLrFGe0V"
     },
     {
       "album": {
@@ -4366,7 +4392,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 293000,
       "name": "My Own Way - Extended",
       "url": "https://open.spotify.com/track/5x0e4uMMRFnRMxcsEYaSgC"
@@ -6564,6 +6590,24 @@
       "duration_ms": 135865,
       "name": "The Spirit",
       "url": "https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I"
+    },
+    {
+      "album": {
+        "name": "The Spirit",
+        "url": "https://open.spotify.com/album/3i5p6n3EtdzZMRdR5d9xLX"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135865,
+      "name": "The Spirit",
+      "url": "https://open.spotify.com/track/0moQc5wWxUwUFg9FdjVioq"
     },
     {
       "album": {

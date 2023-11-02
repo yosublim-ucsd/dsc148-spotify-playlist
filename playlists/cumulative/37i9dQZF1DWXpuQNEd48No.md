@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala & Raftaar
 
-128 songs - 6 hr 55 min
+129 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [32 Bore](https://open.spotify.com/track/0EPQT3CkZHMHIJvCFZqYke) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [32 Bore](https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC) | 2:24 | 2023-06-29 |  |
 | [3B2](https://open.spotify.com/track/4OKhBPMo7JzLlACGxm8gMr) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [3B2](https://open.spotify.com/album/6HWe0u8z4qbiuatajJ7n6N) | 2:44 | 2023-07-11 | 2023-08-31 |
 | [4X4](https://open.spotify.com/track/4Nw9nfxHby5docS7aRMpfY) | [DIHAATI](https://open.spotify.com/artist/7EJKPx2uSd6xqtTDlpRb2b), [KB](https://open.spotify.com/artist/0kcYojab9VeXwVDSNhsDxO), [Prince Muzic](https://open.spotify.com/artist/7G8l57G7HQMlQvIFKJNGmx) | [4X4](https://open.spotify.com/album/6mERiL88oGJ4CxnBc9hYef) | 2:56 | 2023-08-14 | 2023-08-24 |
-| [AAHO](https://open.spotify.com/track/33LN6U5oQa8bHh03oqxajL) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [AAHO](https://open.spotify.com/album/3tP7d652s8J8TitZHGGnZx) | 4:12 | 2023-09-27 |  |
+| [AAHO](https://open.spotify.com/track/33LN6U5oQa8bHh03oqxajL) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [AAHO](https://open.spotify.com/album/3tP7d652s8J8TitZHGGnZx) | 4:12 | 2023-09-27 | 2023-11-02 |
 | [Ace](https://open.spotify.com/track/42SQxZPBS9pNGDAk5ZRY4V) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5) | [Ace](https://open.spotify.com/album/00a9Oe7Hayv4refjmwmaBg) | 2:27 | 2023-08-14 | 2023-09-09 |
 | [Ace](https://open.spotify.com/track/1TsvGXzmBCn3AdqJeqTMfm) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [Shiqaari](https://open.spotify.com/artist/6SGlv8rvlA0TfucEWP7Mvh) | [Ace](https://open.spotify.com/album/7AgbNhegpQac8FMASg9oy6) | 3:21 | 2023-03-28 |  |
 | [Afgan](https://open.spotify.com/track/1wL7PQ8llOmRXdgNLRnm4j) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Afgan](https://open.spotify.com/album/6RuY485BMHDFNkc0FydvNn) | 3:17 | 2023-03-28 |  |
@@ -43,6 +43,7 @@
 | [DAD](https://open.spotify.com/track/3gMWtZT62pIpVY6JZAmjrU) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [DAD](https://open.spotify.com/album/46D35bKFH47ZVfaaTgQE3C) | 3:19 | 2023-03-28 | 2023-05-24 |
 | [Dad](https://open.spotify.com/track/1Ehci8oBSgx7n0fJ9R5dEl) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dad](https://open.spotify.com/album/1a4MJT6IU0NeZkv6znNTM3) | 3:06 | 2023-04-10 | 2023-05-16 |
 | [Day By Day](https://open.spotify.com/track/76WnNlXWHy8kYtS6qJcW1B) | [Vikash Kashyap](https://open.spotify.com/artist/0aRUcCzk6K2cy4SsvsypQf), [Ranjan Assaniya](https://open.spotify.com/artist/5JKxDoTKlzy3lF2KiKQUq4) | [Day By Day](https://open.spotify.com/album/5SzLToKl72b5GspUW086PG) | 4:27 | 2023-04-03 | 2023-06-17 |
+| [DEKH TERA BHAI](https://open.spotify.com/track/0KIPfwLB8gi4naTsCFFZ2h) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [DEKH TERA BHAI](https://open.spotify.com/album/1WjVedTEdYqwrzjzW1sh25) | 3:09 | 2023-10-27 |  |
 | [Desi Haan Ji](https://open.spotify.com/track/1LXUJ62m2Ak7ZuXSxkftgW) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Desi Haan Ji](https://open.spotify.com/album/4iFoZiTsA7Q6aSrB5EIETo) | 3:53 | 2023-03-28 |  |
 | [DJ Baajan De](https://open.spotify.com/track/3owDxCaFzjXl3blZQ6EonS) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [MD DesiRockstar](https://open.spotify.com/artist/5j28WuraZ1QL8A3IXruKU0), [DJ Sheizwood](https://open.spotify.com/artist/11PdcXwGoRPtYOXNETRC0x), [Simaran Kaur](https://open.spotify.com/artist/2dTGtc9FpbXHMuAw95F6sy) | [DJ Baajan De](https://open.spotify.com/album/4UQGppLaW1FDAYnPSW7d5n) | 3:05 | 2023-03-28 | 2023-04-19 |
 | [Donali](https://open.spotify.com/track/7pGWXs5NjOtYnr07cjVj9y) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Donali](https://open.spotify.com/album/0xlAEkP9ChcMnyxR1Fm5X2) | 3:24 | 2023-04-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
-  "num_followers": 988044,
+  "num_followers": 988222,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTViMWU0YTA0NDNhOTJiNGU2NzJkNDdlZDU4Yjc3ODlkMmFiZWVi",
+  "snapshot_id": "MCxhYWZhMWJmMGQ3MWJkNzlhYjlmNGQwMzY0NDNkMjY1ZjBhNjUxMDQy",
   "tracks": [
     {
       "added_at": "2023-10-27 17:45:24",
@@ -247,22 +247,22 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "ELLA TIENE",
-        "url": "https://open.spotify.com/album/0VSnZVbjbufIZYKwy3Rafu"
+        "name": "El Correcto",
+        "url": "https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH"
       },
       "artists": [
         {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         },
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 196800,
-      "name": "ELLA TIENE",
-      "url": "https://open.spotify.com/track/31YHWv22Lyv9iKBepk3guM"
+      "duration_ms": 168124,
+      "name": "El Correcto",
+      "url": "https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -283,22 +283,22 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "El Correcto",
-        "url": "https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH"
+        "name": "ELLA TIENE",
+        "url": "https://open.spotify.com/album/0VSnZVbjbufIZYKwy3Rafu"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         },
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 168124,
-      "name": "El Correcto",
-      "url": "https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo"
+      "duration_ms": 196800,
+      "name": "ELLA TIENE",
+      "url": "https://open.spotify.com/track/31YHWv22Lyv9iKBepk3guM"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -667,8 +667,8 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "Derecho a No Declarar",
-        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
+        "name": "El Olor De Tu Pelo",
+        "url": "https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
         }
       ],
-      "duration_ms": 146763,
-      "name": "Derecho a No Declarar",
-      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
+      "duration_ms": 163448,
+      "name": "El Olor De Tu Pelo",
+      "url": "https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -731,6 +731,26 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
+        "name": "Con Solo una Sonrisa",
+        "url": "https://open.spotify.com/album/5PsdC4KHAN21WOZN0sW8zP"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        }
+      ],
+      "duration_ms": 234611,
+      "name": "Con Solo una Sonrisa",
+      "url": "https://open.spotify.com/track/6mu9zsveVti5Tf4gVs0LLR"
+    },
+    {
+      "added_at": "2023-10-27 17:45:24",
+      "album": {
         "name": "bellodrama",
         "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
@@ -743,6 +763,42 @@
       "duration_ms": 164351,
       "name": "Me Enamoro",
       "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
+    },
+    {
+      "added_at": "2023-10-27 17:45:24",
+      "album": {
+        "name": "Los Lugares Donde Ir\u00e1s",
+        "url": "https://open.spotify.com/album/78Q2cME3Xqp5REjAlDHX8a"
+      },
+      "artists": [
+        {
+          "name": "Hey Kid",
+          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
+        },
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Los Lugares Donde Ir\u00e1s",
+      "url": "https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1"
+    },
+    {
+      "added_at": "2023-10-27 17:45:24",
+      "album": {
+        "name": "Derecho a No Declarar",
+        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 146763,
+      "name": "Derecho a No Declarar",
+      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -783,22 +839,6 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "El Olor De Tu Pelo",
-        "url": "https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "El Olor De Tu Pelo",
-      "url": "https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK"
-    },
-    {
-      "added_at": "2023-10-27 17:45:24",
-      "album": {
         "name": "Canci\u00f3n de pop",
         "url": "https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH"
       },
@@ -811,26 +851,6 @@
       "duration_ms": 139876,
       "name": "Canci\u00f3n de pop",
       "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
-    },
-    {
-      "added_at": "2023-10-27 17:45:24",
-      "album": {
-        "name": "Los Lugares Donde Ir\u00e1s",
-        "url": "https://open.spotify.com/album/78Q2cME3Xqp5REjAlDHX8a"
-      },
-      "artists": [
-        {
-          "name": "Hey Kid",
-          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
-        },
-        {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Los Lugares Donde Ir\u00e1s",
-      "url": "https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -851,26 +871,6 @@
       "duration_ms": 203768,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6V1lDPAv04ezqfgl58Hb58"
-    },
-    {
-      "added_at": "2023-10-27 17:45:24",
-      "album": {
-        "name": "Con Solo una Sonrisa",
-        "url": "https://open.spotify.com/album/5PsdC4KHAN21WOZN0sW8zP"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        },
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        }
-      ],
-      "duration_ms": 234611,
-      "name": "Con Solo una Sonrisa",
-      "url": "https://open.spotify.com/track/6mu9zsveVti5Tf4gVs0LLR"
     },
     {
       "added_at": "2023-10-27 17:45:24",

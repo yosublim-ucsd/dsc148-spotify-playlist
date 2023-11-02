@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,160 likes - 117 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,211 likes - 117 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,10 +120,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 110 | [Spring in September](https://open.spotify.com/track/5PkgKQxZ73NxGaKdWrAUNg) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Spring in September](https://open.spotify.com/album/6iZSNXjixRDZ6owQkOM37K) | 3:43 |
 | 111 | [The Pain Is Over Here](https://open.spotify.com/track/7lGyKRGHqiNJy3iX53WlZO) | [Autumn Vacation](https://open.spotify.com/artist/09FfoFiVjZZEQ7ZcFVfYts) | [The World Is Like a Handkerchief](https://open.spotify.com/album/1fUnCRqBma6HJXolcC4SDO) | 3:47 |
 | 112 | [Daydreaming](https://open.spotify.com/track/6xHK3zWW1AwpRQbsOuc4f0) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ryXl7IIN877fqTwfalFwT) | 3:22 |
-| 113 | [Sunday Night](https://open.spotify.com/track/1XvZJO24bVGFcoTjUdwDyi) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U), [JURIN](https://open.spotify.com/artist/7ltLMdhCWprT0dbggchc6e) | [Sunday Night](https://open.spotify.com/album/6U9cqG0pcELOONAmqMTVsd) | 3:45 |
+| 113 | [Sunday Night](https://open.spotify.com/track/7y2knCRhPmiyv5lmLaNBhG) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U), [Jurin](https://open.spotify.com/artist/08nocpCapN94qptgBMDIUy) | [Sunday Night](https://open.spotify.com/album/7c3RhURbVqHtRrTvHwxLpK) | 3:45 |
 | 114 | [Like a fool](https://open.spotify.com/track/3uYTywT548tMLTocz8XAI0) | [Mia](https://open.spotify.com/artist/24nwTOGM8qUNwKYWY2c0xr), [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [Not a fairytale](https://open.spotify.com/album/6bYLR9Zkhc6p9YWWnjxtip) | 3:22 |
 | 115 | [Let you be you](https://open.spotify.com/track/3e8zXmTtU55QH1dr5DBBe2) | [Ryu Jisu](https://open.spotify.com/artist/04jWY9JwIHZRT3HugwfHtb) | [Let you be you](https://open.spotify.com/album/71Z3eY671mt4dN3vsImj2o) | 3:33 |
 | 116 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 |
 | 117 | [Bad](https://open.spotify.com/track/2DGrRwugivZANDFU3gXo4j) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 16](https://open.spotify.com/album/19Ov0ZxXqwknA1QnqaMVK3) | 3:27 |
 
-Snapshot ID: `MCwzZTA1YTllMmZhOGMwMmYzYmJhODE2ODkyYzZkYjAxYzU0NGMzMzJj`
+Snapshot ID: `MCw4YzVhZTM1YmNjMThlOTYyM2RmODhjOTI5ZmNmYWIxYzY0NWM4YzIx`

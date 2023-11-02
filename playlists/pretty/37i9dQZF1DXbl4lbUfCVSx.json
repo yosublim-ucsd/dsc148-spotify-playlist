@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 29146,
+  "num_followers": 29372,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTk5NTg2ZWYzNWZlMWVkMDYyZGIwMTZlYWRiYTBmYjNlZDJkMzQz",
+  "snapshot_id": "MCw1ZDQ5MDEwZjU0YzhiMzU2NTdhYjk2YTAwNTBjN2YzMTMyNjk2MDNk",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -199,22 +199,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Ha\u00eftian Troubadours, Vol. 1",
-        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
-      },
-      "artists": [
-        {
-          "name": "Michael Benjamin",
-          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Ou pati",
-      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Malade (feat. Richard Cave)",
         "url": "https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 395226,
       "name": "Libre D'aimer",
       "url": "https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+      },
+      "artists": [
+        {
+          "name": "Michael Benjamin",
+          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Ou pati",
+      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -415,6 +415,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Transition",
+        "url": "https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp"
+      },
+      "artists": [
+        {
+          "name": "K-Zino",
+          "url": "https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW"
+        }
+      ],
+      "duration_ms": 247663,
+      "name": "F\u00e8 Sa W Vle Av\u00e8 M'",
+      "url": "https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "Et pourtant",
         "url": "https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Transition",
-        "url": "https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp"
+        "name": "Diferan",
+        "url": "https://open.spotify.com/album/4Fvn3EqC18EGayl4mndJq9"
       },
       "artists": [
         {
-          "name": "K-Zino",
-          "url": "https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW"
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
         }
       ],
-      "duration_ms": 247663,
-      "name": "F\u00e8 Sa W Vle Av\u00e8 M'",
-      "url": "https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz"
+      "duration_ms": 297960,
+      "name": "Mwen bouke",
+      "url": "https://open.spotify.com/track/5I8RwPZFt7hw1sBGgltoE2"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -495,22 +511,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Diferan",
-        "url": "https://open.spotify.com/album/4Fvn3EqC18EGayl4mndJq9"
-      },
-      "artists": [
-        {
-          "name": "Harmonik",
-          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
-        }
-      ],
-      "duration_ms": 297960,
-      "name": "Mwen bouke",
-      "url": "https://open.spotify.com/track/5I8RwPZFt7hw1sBGgltoE2"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Atis Lokal Pap Janm Lague",
         "url": "https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 285933,
       "name": "Fanm Sa a Move",
       "url": "https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Bagay Yo Chanje!",
-        "url": "https://open.spotify.com/album/0nYwb6eZYkb7wXjRiN13vS"
-      },
-      "artists": [
-        {
-          "name": "K-Dans",
-          "url": "https://open.spotify.com/artist/4KV6KEiSrUZRoF5YqMjyIx"
-        }
-      ],
-      "duration_ms": 319893,
-      "name": "Move chwa",
-      "url": "https://open.spotify.com/track/5SqW0PVDbz3bXsyxRdUJfR"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -583,6 +567,22 @@
       "duration_ms": 289537,
       "name": "San Limit",
       "url": "https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Bagay Yo Chanje!",
+        "url": "https://open.spotify.com/album/0nYwb6eZYkb7wXjRiN13vS"
+      },
+      "artists": [
+        {
+          "name": "K-Dans",
+          "url": "https://open.spotify.com/artist/4KV6KEiSrUZRoF5YqMjyIx"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Move chwa",
+      "url": "https://open.spotify.com/track/5SqW0PVDbz3bXsyxRdUJfR"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -639,22 +639,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "L'ann\u00e9e du Kompa 2001 (Ayiti Konpa)",
-        "url": "https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9"
-      },
-      "artists": [
-        {
-          "name": "Black Parents",
-          "url": "https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9"
-        }
-      ],
-      "duration_ms": 268480,
-      "name": "Sonia",
-      "url": "https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Degaje",
         "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 314280,
       "name": "Blakawout",
       "url": "https://open.spotify.com/track/1TWzsHg1p2lC21NXGWBOzS"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "L'ann\u00e9e du Kompa 2001 (Ayiti Konpa)",
+        "url": "https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9"
+      },
+      "artists": [
+        {
+          "name": "Black Parents",
+          "url": "https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9"
+        }
+      ],
+      "duration_ms": 268480,
+      "name": "Sonia",
+      "url": "https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0"
     }
   ],
   "unique_name": "Kompas Dir\u00e8k",

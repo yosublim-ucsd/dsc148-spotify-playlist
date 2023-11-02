@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 82195,
+  "num_followers": 82266,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWQ1ZWNmNGUzMWE3OGFkY2FjMWQ3OTdkYzcwMzVjOWQ1OGUwZjc0",
+  "snapshot_id": "MCwwYmY1ZTIyNzc5YWZlYmIzYjhjZjc0NzA4YmZkYjU2NTUxYjllNWYx",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "Alive and Unwell",
+        "url": "https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "duration_ms": 157138,
+      "name": "10 Things I Hate About You",
+      "url": "https://open.spotify.com/track/7I4XALvCb2VEmOCtGUe5uY"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "STRUT",
         "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 146523,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Alive and Unwell",
-        "url": "https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        }
-      ],
-      "duration_ms": 157138,
-      "name": "10 Things I Hate About You",
-      "url": "https://open.spotify.com/track/7I4XALvCb2VEmOCtGUe5uY"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "29",
-      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "The Funeral",
         "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 211197,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -671,18 +671,18 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Panic Attacks in Paradise / Maggots",
-        "url": "https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH"
+        "name": "what it means to be a girl / this is how i learn to say no",
+        "url": "https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA"
       },
       "artists": [
         {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
         }
       ],
-      "duration_ms": 184885,
-      "name": "Panic Attacks in Paradise",
-      "url": "https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX"
+      "duration_ms": 168266,
+      "name": "what it means to be a girl",
+      "url": "https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "what it means to be a girl / this is how i learn to say no",
-        "url": "https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA"
+        "name": "Panic Attacks in Paradise / Maggots",
+        "url": "https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH"
       },
       "artists": [
         {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         }
       ],
-      "duration_ms": 168266,
-      "name": "what it means to be a girl",
-      "url": "https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z"
+      "duration_ms": 184885,
+      "name": "Panic Attacks in Paradise",
+      "url": "https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "Twinkle Twinkle",
+        "url": "https://open.spotify.com/album/5X2sTkbON3MPA4rXZZlXSW"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Twinkle Twinkle",
+      "url": "https://open.spotify.com/track/1ngmuX9jhz3YqvLI8q5pso"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "Teenage Heartbreak",
         "url": "https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 193133,
       "name": "Fruity",
       "url": "https://open.spotify.com/track/3AtKq6VCAuCm3AhrRUiw1I"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Twinkle Twinkle",
-        "url": "https://open.spotify.com/album/5X2sTkbON3MPA4rXZZlXSW"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Twinkle Twinkle",
-      "url": "https://open.spotify.com/track/1ngmuX9jhz3YqvLI8q5pso"
     },
     {
       "added_at": "2022-11-15 00:54:21",

@@ -4,7 +4,7 @@
 
 > It's a Saturday night in the country, all the time!
 
-83 songs - 4 hr 29 min
+84 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 | 2023-08-09 |  |
 | [Neon Soul](https://open.spotify.com/track/25Gxi8mBqLUMuEAGTzUSQc) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [Neon Soul](https://open.spotify.com/album/4ysEjN3nv2ZeGYuSntqcMa) | 3:12 | 2022-07-18 |  |
 | [Never Give Up On A Good Time](https://open.spotify.com/track/5u0gLNySNwgBE9bqWSgJAA) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Never Give Up On A Good Time](https://open.spotify.com/album/7n8ypK3KRGbAVtH2NcXZBA) | 3:17 | 2023-08-31 |  |
-| [Nobody's More Country](https://open.spotify.com/track/5ebwYSZVFG6VJOE0mWs71o) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/2Jogodfbu37ikyUK11yGAf) | 2:52 | 2022-07-18 |  |
+| [Nobody's More Country](https://open.spotify.com/track/3e9GzPcnquUu3vLZU3man4) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/6Ty3A6KMug1QL8CAXmdcz5) | 2:52 | 2023-08-31 |  |
+| [Nobody's More Country](https://open.spotify.com/track/5ebwYSZVFG6VJOE0mWs71o) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/2Jogodfbu37ikyUK11yGAf) | 2:52 | 2022-07-18 | 2023-11-02 |
 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 | 2022-07-18 | 2023-02-04 |
 | [One Beer at a Time](https://open.spotify.com/track/1MYqkrzQqhs6h0ZYaSun6R) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Nothin' but Trouble](https://open.spotify.com/album/6x0Ii6bxYJONhprG5YjkRp) | 3:10 | 2022-07-18 | 2023-08-10 |
 | [One Shot](https://open.spotify.com/track/6smVfDjrVkJKfO1MasrbE9) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Wild Blue, Part I](https://open.spotify.com/album/3xDD4CKNUEVmhOL1IY8MAL) | 2:30 | 2022-07-18 |  |

@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 181666,
       "name": "Chewing Glass",
       "url": "https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys"
@@ -4790,6 +4790,24 @@
       "duration_ms": 221306,
       "name": "Simple Dude",
       "url": "https://open.spotify.com/track/3UYxSVaquXGHP1yIovi4g9"
+    },
+    {
+      "album": {
+        "name": "Siphon",
+        "url": "https://open.spotify.com/album/6l75QaQSO9TwwSKJS7E8VQ"
+      },
+      "artists": [
+        {
+          "name": "Truth Club",
+          "url": "https://open.spotify.com/artist/3GdOXWzNWcFrrUD9VentQC"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138170,
+      "name": "Siphon",
+      "url": "https://open.spotify.com/track/3GkzwxTB7kP5sH9oGX5Jlr"
     },
     {
       "album": {

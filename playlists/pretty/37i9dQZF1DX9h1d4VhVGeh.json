@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 167471,
+  "num_followers": 167605,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzI0M2ZiNjI2NzM4YWU1NWNkODM1ZjJlZjUyMGQ5YzcyMWYzZGVk",
+  "snapshot_id": "MCw0N2IyNzk0ZWZiZjU3MjA5MTFkOWIwOWEwNzU1NWFlYmI4MGYzNWE3",
   "tracks": [
     {
       "added_at": "2023-10-28 14:18:30",
@@ -107,22 +107,18 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H"
+        "name": "\u0644\u064a\u0644\u0649 \u0646\u0647\u0627\u0631\u0649",
+        "url": "https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ"
       },
       "artists": [
         {
-          "name": "Ghaliaa",
-          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
-        },
-        {
-          "name": "Samer Doumet",
-          "url": "https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47"
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
         }
       ],
-      "duration_ms": 201379,
-      "name": "3abali",
-      "url": "https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO"
+      "duration_ms": 264228,
+      "name": "\u0642\u0635\u0627\u062f \u0639\u064a\u0646\u0649",
+      "url": "https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -147,18 +143,22 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
-        "name": "\u0644\u064a\u0644\u0649 \u0646\u0647\u0627\u0631\u0649",
-        "url": "https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ"
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H"
       },
       "artists": [
         {
-          "name": "Amr Diab",
-          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        },
+        {
+          "name": "Samer Doumet",
+          "url": "https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47"
         }
       ],
-      "duration_ms": 264228,
-      "name": "\u0642\u0635\u0627\u062f \u0639\u064a\u0646\u0649",
-      "url": "https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8"
+      "duration_ms": 201379,
+      "name": "3abali",
+      "url": "https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
-        "name": "Deb",
-        "url": "https://open.spotify.com/album/1xAPktZ9m3kt6TpgxAlukd"
-      },
-      "artists": [
-        {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
-        }
-      ],
-      "duration_ms": 305653,
-      "name": "Ghir Enta",
-      "url": "https://open.spotify.com/track/738Ku4hI0ezRMNheUcW8Eh"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
         "name": "Yawman Ma",
         "url": "https://open.spotify.com/album/7gRVnSkXghsBft2P4K8Ycy"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 202422,
       "name": "Yawman Ma",
       "url": "https://open.spotify.com/track/3gucBOpDuQQkemmVE2NtEQ"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
+        "name": "Deb",
+        "url": "https://open.spotify.com/album/1xAPktZ9m3kt6TpgxAlukd"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "duration_ms": 305653,
+      "name": "Ghir Enta",
+      "url": "https://open.spotify.com/track/738Ku4hI0ezRMNheUcW8Eh"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
+        "name": "Bala Wala Shi",
+        "url": "https://open.spotify.com/album/0Y9Z6GwBnBoY4C3KvU9Ayx"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Bala Wala Shi",
+      "url": "https://open.spotify.com/track/7b89zrIr9DsWQVVKeqU3v9"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
         "name": "\u062f\u0627\u0631 \u064a\u0627 \u062f\u0627\u0631 (feat. Eftekasat)",
         "url": "https://open.spotify.com/album/5akFnUv4SEyIAkJhDjiQq7"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 252000,
       "name": "\u062f\u0627\u0631 \u064a\u0627 \u062f\u0627\u0631 (feat. Eftekasat)",
       "url": "https://open.spotify.com/track/2HjAvbDnZIiwH2bXLgYvn2"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
-        "name": "Bala Wala Shi",
-        "url": "https://open.spotify.com/album/0Y9Z6GwBnBoY4C3KvU9Ayx"
-      },
-      "artists": [
-        {
-          "name": "zeyne",
-          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Bala Wala Shi",
-      "url": "https://open.spotify.com/track/7b89zrIr9DsWQVVKeqU3v9"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
-        "name": "Ya Ashikat El Ward",
-        "url": "https://open.spotify.com/album/5A4ErdG0ZBynX0f6h7Vb1w"
-      },
-      "artists": [
-        {
-          "name": "Zaki Nassif",
-          "url": "https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT"
-        }
-      ],
-      "duration_ms": 274181,
-      "name": "Ya Ashikat El Ward",
-      "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
         "name": "Hawel Tensany",
         "url": "https://open.spotify.com/album/7ndAWFIsXAqncsWbytToka"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 219533,
       "name": "Hawel Tensany",
       "url": "https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
+        "name": "Ya Ashikat El Ward",
+        "url": "https://open.spotify.com/album/5A4ErdG0ZBynX0f6h7Vb1w"
+      },
+      "artists": [
+        {
+          "name": "Zaki Nassif",
+          "url": "https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT"
+        }
+      ],
+      "duration_ms": 274181,
+      "name": "Ya Ashikat El Ward",
+      "url": "https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
-        "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a (Cover)",
-        "url": "https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667"
-      },
-      "artists": [
-        {
-          "name": "Lina Sleibi",
-          "url": "https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz"
-        }
-      ],
-      "duration_ms": 204347,
-      "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a - Cover",
-      "url": "https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
         "name": "\u062f\u0628\u0631\u0647\u0627",
         "url": "https://open.spotify.com/album/56RwJOvWAxa6afeJYoWBwx"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 289320,
       "name": "\u062f\u0628\u0631\u0647\u0627",
       "url": "https://open.spotify.com/track/1aFTIheXpBAbSf6ag1AfDl"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
+        "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a (Cover)",
+        "url": "https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667"
+      },
+      "artists": [
+        {
+          "name": "Lina Sleibi",
+          "url": "https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz"
+        }
+      ],
+      "duration_ms": 204347,
+      "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a - Cover",
+      "url": "https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
+        "name": "Bahebek Lelsama",
+        "url": "https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Bahebek Lelsama",
+      "url": "https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
         "name": "Ya Zalamez",
         "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 233215,
       "name": "Albi",
       "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
-        "name": "Bahebek Lelsama",
-        "url": "https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Bahebek Lelsama",
-      "url": "https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
+        "name": "Ya Bay - Live",
+        "url": "https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq"
       },
       "artists": [
         {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
         }
       ],
-      "duration_ms": 274363,
-      "name": "Walhani",
-      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
+      "duration_ms": 370000,
+      "name": "Ya Bay - Live",
+      "url": "https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
-        "name": "Ya Bay - Live",
-        "url": "https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq"
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
       "artists": [
         {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
         }
       ],
-      "duration_ms": 370000,
-      "name": "Ya Bay - Live",
-      "url": "https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl"
+      "duration_ms": 274363,
+      "name": "Walhani",
+      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
+        "name": "Halalalalaya",
+        "url": "https://open.spotify.com/album/0dArmNTWLeJwmUI4XBS9Pi"
+      },
+      "artists": [
+        {
+          "name": "The Chehade Brothers",
+          "url": "https://open.spotify.com/artist/6hhD05021IbbmyD93oaFaZ"
+        }
+      ],
+      "duration_ms": 137058,
+      "name": "Halalalalaya",
+      "url": "https://open.spotify.com/track/0bNJjUrO1ng64TlBzqfq1c"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
         "name": "Mustaheel",
         "url": "https://open.spotify.com/album/43KCM5CLKO7V6kgLYpUP65"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 232456,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4Uag89IBUeSUvugURZaLnl"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
-        "name": "Halalalalaya",
-        "url": "https://open.spotify.com/album/0dArmNTWLeJwmUI4XBS9Pi"
-      },
-      "artists": [
-        {
-          "name": "The Chehade Brothers",
-          "url": "https://open.spotify.com/artist/6hhD05021IbbmyD93oaFaZ"
-        }
-      ],
-      "duration_ms": 137058,
-      "name": "Halalalalaya",
-      "url": "https://open.spotify.com/track/0bNJjUrO1ng64TlBzqfq1c"
     },
     {
       "added_at": "2023-10-28 14:18:30",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-10-28 14:18:30",
       "album": {
-        "name": "Dessine-moi Un Pays",
-        "url": "https://open.spotify.com/album/2Kj4Cn5WHRQVNFhFhsv8y9"
-      },
-      "artists": [
-        {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
-        }
-      ],
-      "duration_ms": 208845,
-      "name": "Dessine-moi Un Pays",
-      "url": "https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw"
-    },
-    {
-      "added_at": "2023-10-28 14:18:30",
-      "album": {
         "name": "Badi Nsafer",
         "url": "https://open.spotify.com/album/3rWkdN3EccK10416tX7RgX"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 224506,
       "name": "Badi Nsafer",
       "url": "https://open.spotify.com/track/2YQIEg63oy29RPK9JxjK1w"
+    },
+    {
+      "added_at": "2023-10-28 14:18:30",
+      "album": {
+        "name": "Dessine-moi Un Pays",
+        "url": "https://open.spotify.com/album/2Kj4Cn5WHRQVNFhFhsv8y9"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "duration_ms": 208845,
+      "name": "Dessine-moi Un Pays",
+      "url": "https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw"
     },
     {
       "added_at": "2023-10-28 14:18:30",

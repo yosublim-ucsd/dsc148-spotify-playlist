@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: HEY\-SMITH
 
-648 songs - 1 day 10 hr 56 min
+650 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [On Your Mark](https://open.spotify.com/track/17rGIgGRYV5VnQ3sdP0JPm) | [See You Smile](https://open.spotify.com/artist/4ll5mBYeHlhg0R2fjwspPv) | [On Your Mark](https://open.spotify.com/album/1RpvtPDDPBtiioiyie6j43) | 3:11 | 2023-01-10 | 2023-01-18 |
 | [ONE](https://open.spotify.com/track/5HcNbRIQjX0aakX2hWhywA) | [MAYSON's PARTY](https://open.spotify.com/artist/3RHFm0m7Ni1vl2Lr5sLw5t) | [ONE](https://open.spotify.com/album/4sHlvEakzqFPCVz1v1mgax) | 2:39 | 2022-06-28 | 2022-07-29 |
 | [One step forward](https://open.spotify.com/track/4lgr7mrXi5JM34HZrZTaOd) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [One step forward](https://open.spotify.com/album/5oIQmkz2uqaHMB3vSzXmJ9) | 1:52 | 2023-06-13 | 2023-06-28 |
+| [Only once](https://open.spotify.com/track/2s92nIri4MOFCg6QeVRZKC) | [プピリットパロ](https://open.spotify.com/artist/0Wqd6QKWApCBqdiJEbfkZm) | [Only once](https://open.spotify.com/album/7sSDLjJh4tnCOt5OIAO2gX) | 2:56 | 2023-10-31 |  |
 | [Open Up My Heart](https://open.spotify.com/track/45KpSMzfMaPpCDfS4zMeCV) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:41 | 2022-05-12 |  |
 | [Orange Night](https://open.spotify.com/track/6KZPFuYlff4NA8Q9nIgWUv) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [Orange Night](https://open.spotify.com/album/2O2s9JdtTXJtXGKShSQtel) | 3:34 | 2023-10-10 | 2023-11-01 |
 | [Our House](https://open.spotify.com/track/3ifwpICoKxqFIbGqkBMEVF) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DIZZYLAND \-To Infinity & Beyond\-](https://open.spotify.com/album/3QZv7ZWvLzPmL0aJqx2QMM) | 1:54 | 2022-05-12 | 2022-07-28 |
@@ -325,7 +326,8 @@
 | [RAY \- Single ver.](https://open.spotify.com/track/7D0XjmATk1Qer8WPhCBPIl) | [Ace ON Dawn](https://open.spotify.com/artist/3QGeIj8jFm6QzZFoM9rhVi) | [RAY](https://open.spotify.com/album/4hU8CinlsVyZLS5LRLJ2mr) | 4:13 | 2022-05-12 | 2022-07-25 |
 | [RED](https://open.spotify.com/track/0YBIcDTmYZP3jxcO3L2AYv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:54 | 2023-09-28 |  |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-07-13 | 2023-09-30 |
-| [Rest In Punk](https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest In Punk](https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4) | 2:32 | 2023-10-31 |  |
+| [Rest in Punk](https://open.spotify.com/track/45fdY5d6sQWanxK8VH1LzA) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 2:32 | 2023-10-31 |  |
+| [Rest In Punk](https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest In Punk](https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4) | 2:32 | 2023-10-31 | 2023-11-02 |
 | [RIGHT NOW](https://open.spotify.com/track/1d5nuyjooXOIlGDluTPlTH) | [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar) | [ALL THE AWESOME DUDES](https://open.spotify.com/album/6gnYtMrDzdsnwey7waJTR4) | 3:42 | 2022-05-12 | 2023-02-15 |
 | [Riot](https://open.spotify.com/track/223nvf6U6stGS3nkA72KQ3) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Care Package](https://open.spotify.com/album/26xfYpzZgpGWRgJ7azcrIa) | 2:50 | 2022-07-21 |  |
 | [Riot](https://open.spotify.com/track/5O4zLbMmWjJlDGWvgIwk3o) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Care Package](https://open.spotify.com/album/0NXxC1uQOqJYNOMg5dcgxu) | 2:50 | 2022-05-12 | 2022-07-29 |
@@ -484,7 +486,7 @@
 | [あなたに](https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:15 | 2022-07-21 |  |
 | [あなたへ](https://open.spotify.com/track/3QeecClT47ghMOFADhYufm) | [BUZZ THE BEARS](https://open.spotify.com/artist/0rTSanf2jBgMMPXpZvT24S) | [BUZZ THE BEST](https://open.spotify.com/album/7akUJp6Fh6FA1Fn5ZHfrd0) | 4:01 | 2022-05-12 | 2022-07-25 |
 | [あの娘とダンス](https://open.spotify.com/track/0mmTMG6MKTu2kvpD9C6FxL) | [ザ・暴動チャイルズ](https://open.spotify.com/artist/1rAfll9jPLKIllRhvevUMM) | [あの娘とダンス](https://open.spotify.com/album/6WpF4wBi4btj8SXBTkSmc6) | 3:26 | 2022-05-17 | 2022-07-26 |
-| [いちどきり](https://open.spotify.com/track/6ps0b7PeDwszjUeXU9gqTv) | [プピリットパロ](https://open.spotify.com/artist/0Wqd6QKWApCBqdiJEbfkZm) | [いちどきり](https://open.spotify.com/album/7xMRlbm86x5DeUGpQ0xSPL) | 2:56 | 2023-10-31 |  |
+| [いちどきり](https://open.spotify.com/track/6ps0b7PeDwszjUeXU9gqTv) | [プピリットパロ](https://open.spotify.com/artist/0Wqd6QKWApCBqdiJEbfkZm) | [いちどきり](https://open.spotify.com/album/7xMRlbm86x5DeUGpQ0xSPL) | 2:56 | 2023-10-31 | 2023-11-02 |
 | [いつか](https://open.spotify.com/track/2medGrZT2HlKvZx4Z9HATM) | [SHE'll SLEEP](https://open.spotify.com/artist/1UKwMkFx6lq2P49EHYGgpr) | [Days](https://open.spotify.com/album/3iCc9wAqu3gIMDMPIotEEt) | 2:22 | 2022-05-12 | 2022-07-20 |
 | [おいしい怪獣](https://open.spotify.com/track/2rVydozkwuJdzE79KyiRAI) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [おいしい怪獣](https://open.spotify.com/album/2B1d8fiv14WRJCZ2Z1JsSt) | 3:48 | 2022-05-12 | 2022-07-29 |
 | [おしえて \(アルプスの少女ハイジ\)](https://open.spotify.com/track/4DcbMiZEb8UQsCe9FcI1qS) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [ライブキッズのための名曲集](https://open.spotify.com/album/3Pk3AfSjOstY45u7g3VEnO) | 3:04 | 2022-05-17 | 2022-07-27 |

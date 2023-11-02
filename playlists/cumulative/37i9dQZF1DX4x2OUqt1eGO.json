@@ -90,7 +90,7 @@
           "url": "https://open.spotify.com/artist/2BH0PQI32fInzYixUio497"
         },
         {
-          "name": "Ravi K. Tripathi",
+          "name": "Ravi Tripathi",
           "url": "https://open.spotify.com/artist/7D73VJBs9rJh9USThws70P"
         }
       ],
@@ -769,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Soulful Indian Flute Instrumentals",
+        "url": "https://open.spotify.com/album/4GfgmRpUSyBlomg4N8oUQy"
+      },
+      "artists": [
+        {
+          "name": "Shriram Sampath",
+          "url": "https://open.spotify.com/artist/5fwYdPdoS5guRhZ1X0wXQb"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260991,
+      "name": "Ka Karoon Sajni - Instrumental",
+      "url": "https://open.spotify.com/track/70ryK0jYDmnsVhk3DlevQR"
+    },
+    {
+      "album": {
         "name": "Nirmal Mann",
         "url": "https://open.spotify.com/album/1R8PSYd2anNIBCLkcXuRJG"
       },
@@ -958,7 +976,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 244800,
       "name": "Monsoon Moon",
       "url": "https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO"

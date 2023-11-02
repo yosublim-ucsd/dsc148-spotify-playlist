@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Aquamarine",
+        "url": "https://open.spotify.com/album/4dFmwqiionPLdVclCiAJWn"
+      },
+      "artists": [
+        {
+          "name": "Dieter Huber",
+          "url": "https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159516,
+      "name": "Aquamarine",
+      "url": "https://open.spotify.com/track/5lmpup8cpMz2Xik4qwhXwl"
+    },
+    {
+      "album": {
         "name": "Aquarela da Vida",
         "url": "https://open.spotify.com/album/7b0K2VoR8mxJADRbTCxWvz"
       },
@@ -3045,6 +3063,24 @@
     },
     {
       "album": {
+        "name": "Encounters",
+        "url": "https://open.spotify.com/album/3JNn40KWFz77KtMcs1R2Um"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131312,
+      "name": "Encounters",
+      "url": "https://open.spotify.com/track/01zpU0ewFP8tjG1J9We98x"
+    },
+    {
+      "album": {
         "name": "Endless Sun",
         "url": "https://open.spotify.com/album/27256ie5J0EmEgh2U8eZlf"
       },
@@ -3550,6 +3586,24 @@
       "duration_ms": 101475,
       "name": "Flickering",
       "url": "https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY"
+    },
+    {
+      "album": {
+        "name": "Floreio",
+        "url": "https://open.spotify.com/album/3BeHMO8k913Cci8qpbitgu"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157317,
+      "name": "Floreio",
+      "url": "https://open.spotify.com/track/5qse6XR40QbLoS8jRCwpXa"
     },
     {
       "album": {
@@ -4086,7 +4140,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 167266,
       "name": "Hendaye",
       "url": "https://open.spotify.com/track/3q0jMagWUefdNxOX7qpYau"
@@ -4410,7 +4464,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 163352,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/6kTvM9JYiEriQHNRXhFUPs"
@@ -5257,6 +5311,24 @@
     },
     {
       "album": {
+        "name": "Lake Victoria",
+        "url": "https://open.spotify.com/album/5lbFPaIgO2T8jmVz5qwTMS"
+      },
+      "artists": [
+        {
+          "name": "Lee Howard-Taylor",
+          "url": "https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137359,
+      "name": "Lake Victoria",
+      "url": "https://open.spotify.com/track/7CMWRzySrY0N4lUTpJ3PzP"
+    },
+    {
+      "album": {
         "name": "Wunder der Welt",
         "url": "https://open.spotify.com/album/0KpjPdNUuZ0k3CwzSde3Gg"
       },
@@ -5614,7 +5686,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 127183,
       "name": "Livandi",
       "url": "https://open.spotify.com/track/5dwTEdDifPzXeThnggzJt4"
@@ -6676,7 +6748,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 158519,
       "name": "Nell'angolo",
       "url": "https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf"
@@ -8264,7 +8336,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 164062,
       "name": "Secret Soul",
       "url": "https://open.spotify.com/track/5ZgoZtLh1ofGyDavnEqqzp"
@@ -10742,6 +10814,24 @@
       "duration_ms": 151750,
       "name": "White Sands",
       "url": "https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz"
+    },
+    {
+      "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/1Qa7H30jLp6XDAxCv7M769"
+      },
+      "artists": [
+        {
+          "name": "Elsa Pelling",
+          "url": "https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122903,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/7Avxe9ZBaBQ8yWk1fpYM8Y"
     },
     {
       "album": {

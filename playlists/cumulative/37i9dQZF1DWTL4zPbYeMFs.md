@@ -4,7 +4,7 @@
 
 > A perfect mix for your Mehendi ceremony.
 
-73 songs - 5 hr 23 min
+74 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Mere Wala Sardar](https://open.spotify.com/track/3hCLDKPwRELWLnYF3nOY5J) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI) | [Mere Wala Sardar](https://open.spotify.com/album/4ak8uKr82XTB2QVh48CAkC) | 5:16 | 2022-03-14 | 2023-09-26 |
 | [Mere Wala Sardar](https://open.spotify.com/track/3ytXkORQXWSs4EKUj2T9z0) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI) | [Hits Of Dr\. Shree](https://open.spotify.com/album/6MurzRDPW3lMSMirQfAG24) | 5:16 | 2022-03-14 | 2022-11-14 |
 | [Mileya Mileya](https://open.spotify.com/track/7AvZDy6PGbyXwZnLIP7Ij9) | [egethevac](https://open.spotify.com/artist/0terBPKCAkmkh0u5QmFL7L), [Eser Inc.](https://open.spotify.com/artist/1xYwO3igKogfuoti47VcRO), [Konina](https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj) | [Mileya Mileya](https://open.spotify.com/album/4s2vMmrKTVvK9i6jmXZc7y) | 4:26 | 2023-10-12 | 2023-10-24 |
-| [Mileya Mileya \(From "Happy Ending\)](https://open.spotify.com/track/0F2JKW9PYQgqSmyNM3IV2W) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Priya Andrews](https://open.spotify.com/artist/27RvbKA1WxAFTWwQc712tY) | [Happy Ending \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5uoTS0t40PXYSo26sjIYSV) | 4:26 | 2023-05-23 |  |
+| [Mileya Mileya](https://open.spotify.com/track/61nxeeWF6kGQkqKdDDm2nZ) | [kadirsavage](https://open.spotify.com/artist/2ubDsTqMMSqcPtSJoDz7qB), [egethevac](https://open.spotify.com/artist/0terBPKCAkmkh0u5QmFL7L) | [Mileya Mileya](https://open.spotify.com/album/1KTLyL5b6JTcRb35uXg7fB) | 4:26 | 2023-10-27 |  |
+| [Mileya Mileya \(From "Happy Ending\)](https://open.spotify.com/track/0F2JKW9PYQgqSmyNM3IV2W) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Priya Andrews](https://open.spotify.com/artist/27RvbKA1WxAFTWwQc712tY) | [Happy Ending \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5uoTS0t40PXYSo26sjIYSV) | 4:26 | 2023-05-23 | 2023-11-02 |
 | [Multan](https://open.spotify.com/track/2Qr6caRtWpQitY0t7qjsxi) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Multan](https://open.spotify.com/album/0QQwhLBFDqjzMiWYcQaiNi) | 4:05 | 2022-03-14 |  |
 | [Navrai Majhi](https://open.spotify.com/track/5ZLplBxO5OmotTmYY8920p) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Natali Di Luccio](https://open.spotify.com/artist/672316o5Y63QCzOkXIth5w), [Neelambari Kirkire](https://open.spotify.com/artist/6alTCEe35NN3busJ9xGAlU), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [English Vinglish](https://open.spotify.com/album/65N0JAv4NbVtQHGQSegVRm) | 4:22 | 2022-03-14 |  |
 | [Navrai Majhi](https://open.spotify.com/track/73b9wDijCUpicQUzrc47EY) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Neelambari Kirkire](https://open.spotify.com/artist/6alTCEe35NN3busJ9xGAlU), [Natali Di Luccio](https://open.spotify.com/artist/672316o5Y63QCzOkXIth5w) | [English Vinglish](https://open.spotify.com/album/2uT4K3kAtYkmvzxVDNKc6U) | 4:22 | 2022-03-14 | 2023-06-09 |

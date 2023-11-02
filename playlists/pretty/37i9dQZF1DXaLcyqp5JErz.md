@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Damares
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,089 likes - 70 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,379 likes - 70 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 54 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \[Ao Vivo\]](https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j) | 8:33 |
 | 55 | [Deserto](https://open.spotify.com/track/0Nby9xQzcKdepn9xH0Glnn) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Deserto](https://open.spotify.com/album/3qh3aGtTcTBnLe6oxQ20RK) | 5:02 |
 | 56 | [Abra os Olhos do Meu Coração \- Ao Vivo em Curitiba](https://open.spotify.com/track/308mpl3G2FseXxGEjtyLIW) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Fogo e Glória \(Ao Vivo em Curitiba\)](https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq) | 8:31 |
-| 57 | [Teus Olhos Revelam \- Ao Vivo](https://open.spotify.com/track/2hqkibBr8jnh0SJgBSb6rE) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Esperança \(Ao Vivo\)](https://open.spotify.com/album/798js9h8Xwy3yxST0Lep14) | 4:58 |
+| 57 | [Abra os Meus Olhos](https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Eu Tenho a Promessa](https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw) | 5:36 |
 | 58 | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m) | 3:29 |
 | 59 | [Tempo de Vencer](https://open.spotify.com/track/4JJOLKyNrVeJhyDZt0MOSj) | [Jamily](https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp) | [Seleção De Ouro](https://open.spotify.com/album/3RKYWZSPtLvwFzYb35dqaZ) | 4:00 |
 | 60 | [Tua Unção](https://open.spotify.com/track/13wblL6thQD5NHLa29j1X4) | [Ministério Nova Jerusalém](https://open.spotify.com/artist/6Eikwdu8Tl78UPdJezEX9g), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Aba Pai](https://open.spotify.com/album/4DzXvPORyD3JtESzeteFBq) | 8:03 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 62 | [Que Se Abram Os Céus](https://open.spotify.com/track/2uUeFEF4hmM0rjFfvA4nxF) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Que Se Abram Os Céus](https://open.spotify.com/album/3ev4KNHiwlz1s9afOb6mne) | 5:07 |
 | 63 | [Ele É Exaltado \- Ao Vivo](https://open.spotify.com/track/0MVjVxZHphWNA5uAx2kwjY) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Momentos de Louvor, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Vmp2BRhyXdhjSbtMFxzIl) | 3:30 |
 | 64 | [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/3PpOOzUCXzf5tanLKIjokX) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Ao vivo Maracanãzinho, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/2iTh7vLrv3NM0F4HDaSkLA) | 8:07 |
-| 65 | [Abra os Meus Olhos](https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Eu Tenho a Promessa](https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw) | 5:36 |
+| 65 | [Teus Olhos Revelam \- Ao Vivo](https://open.spotify.com/track/2hqkibBr8jnh0SJgBSb6rE) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Esperança \(Ao Vivo\)](https://open.spotify.com/album/798js9h8Xwy3yxST0Lep14) | 4:58 |
 | 66 | [Preciso de Ti \- Ao Vivo](https://open.spotify.com/track/5JfiqvXnyiGfATt2c5sqJQ) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Diante do Trono 10 Anos \- Tempo de Festa \(Ao Vivo\)](https://open.spotify.com/album/2EWR5135TNFC58nhMIalIG) | 11:08 |
 | 67 | [Tua Graça \(feat\. Priscilla Alcantara\)](https://open.spotify.com/track/5SoyAxzmqc7yc1PdngMewL) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Priscilla Alcantara](https://open.spotify.com/artist/63W02eshTwySpJjkeiMDEA) | [Tua Graça \(feat\. Priscilla Alcantara\)](https://open.spotify.com/album/0G6oHBDRbkuSr6JQNRkonP) | 4:59 |
 | 68 | [Pra Você](https://open.spotify.com/track/2JJstgu72jt2qlB9Bw384J) | [Novo Som](https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl) | [Para Sempre, Vol\. 1](https://open.spotify.com/album/0kMruzcinTCWD5bRkfTDzj) | 4:54 |
 | 69 | [Me Rendo](https://open.spotify.com/track/2XyR41aQULwd1ZZxh1ajxY) | [Hillsong Global Project](https://open.spotify.com/artist/15QEMU8TfJ3jEJjV5dRfCi), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Global Project Português](https://open.spotify.com/album/6TXjIiTV3QPLymgQj3ABtv) | 6:10 |
 | 70 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 
-Snapshot ID: `MCxjNjAxZmQyNjkyMTc5NTQ5Y2MwMWQxMTM4NWM1Njc0NmY3MTNiNDQ5`
+Snapshot ID: `MCwxZmM1YjA4OThkNTUwZjU2M2YwNDFkYTAzY2I4NWM3ODJlODE1YTM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Giriboy\(기리보이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,901 likes - 125 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,934 likes - 125 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 114 | [Buck](https://open.spotify.com/track/1BCONvj86ada7Wbr7v0irk) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [DIFF](https://open.spotify.com/album/6mU3As6giMDJU8kV6Hx65B) | 2:04 |
 | 115 | [Mull](https://open.spotify.com/track/3R0rfIZjWpNUHNHREUvCBN) | [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI) | [Ape Into Space](https://open.spotify.com/album/6KR7vGnlkIuUKzgGAEFODW) | 2:58 |
 | 116 | [ETA \(with iiso\)](https://open.spotify.com/track/3DRZRLXhMkJSgwN61FUvdV) | [ROH YUNHA](https://open.spotify.com/artist/3dLZdTWMaokxt4y9sDzEWq), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh), [iiso](https://open.spotify.com/artist/0oveUySQ3sjC5GVG7IIQ4e) | [ETA](https://open.spotify.com/album/5Ed3Z9SI1jkkX0OivYIkIA) | 3:08 |
-| 117 | [Ghost \(Feat\. 개코, viceversa\)](https://open.spotify.com/track/4HM22JAZV3nf9RI6PLgpdz) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [\[ Rorschach \] Part 2](https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX) | 4:24 |
+| 117 | [Ghost \(Feat\. Gaeko, viceversa\)](https://open.spotify.com/track/4HM22JAZV3nf9RI6PLgpdz) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [\[ Rorschach \] Part 2](https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX) | 4:24 |
 | 118 | [TO GO \(Feat\. Jay Park, DJ Soulscape\)](https://open.spotify.com/track/2SsroOwWC3CYSpEKOsQzvh) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [DJ Soulscape](https://open.spotify.com/artist/2FuS8zARv5xaE6h046OxHN) | [TO GO](https://open.spotify.com/album/5rzwTmilL36v8i7BEHlstm) | 3:00 |
 | 119 | [Dance With Me \(feat\. Keemhyoeun, CHOILB\)](https://open.spotify.com/track/5Qlfc8kcBBiTQ0oWzAPO1q) | [RAUDI](https://open.spotify.com/artist/1Tf52Yc65Ghgb3DDBRBL1K), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [Dance With Me \(feat\. Keemhyoeun, CHOILB\)](https://open.spotify.com/album/6Y9vQJ8Qem5DBYtIG16AL1) | 2:58 |
 | 120 | [too bad](https://open.spotify.com/track/1Jrvrr5kFl3ssC8Gm3h39N) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:45 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 124 | [Seoul City \- Spotify Singles](https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [sAewoo](https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35) | [Spotify Singles](https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK) | 3:34 |
 | 125 | [Asphalt \(feat\. pH\-1\)](https://open.spotify.com/track/58mChQUTpqCnaGYC6CCSD0) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Asphalt \(feat\. pH\-1\)](https://open.spotify.com/album/6opRDXGetgN7pAaReSCb1N) | 2:56 |
 
-Snapshot ID: `MCxlNjk3YzFiN2RmZWVlZWFiNzU5OTJmZjM3OTViNTU4MDYwMGY2Yzhh`
+Snapshot ID: `MCxlMjIzMTkzZTE4NGQwMDQ5MDExZDMxODlmMTliNTQzYjY0NmJhYWE1`

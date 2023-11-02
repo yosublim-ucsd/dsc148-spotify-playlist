@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Angie McMahon
 
-1,859 songs - 4 day 4 hr 20 min
+1,860 songs - 4 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1753,7 +1753,8 @@
 | [Vin Skully](https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 1:53 | 2023-10-06 | 2023-10-13 |
 | [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 | 2023-06-15 | 2023-06-23 |
 | [VIOLET](https://open.spotify.com/track/7bj2V0jUq2wbuOwxlajhIu) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [VIOLET](https://open.spotify.com/album/1PXmYCuozfCvpV3ssSgsgA) | 2:26 | 2023-09-28 | 2023-10-06 |
-| [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 | 2023-10-26 |  |
+| [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 | 2023-10-26 | 2023-11-02 |
+| [Violet](https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3DR4H81NkCmYBKgq1vOQ3n) | 7:18 | 2023-10-27 |  |
 | [Visualise](https://open.spotify.com/track/3tJAz2ZdRXx24ftMqcGBuf) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Visualise](https://open.spotify.com/album/5qfNJ0DqdlBrEVJPST6w3k) | 2:54 | 2023-07-20 | 2023-07-28 |
 | [Visualise](https://open.spotify.com/track/7oMfrVe6CL7ZCTKLZyZrcy) | [Hey! Astro](https://open.spotify.com/artist/1kqvSaPRrMEjWr4wEi9pfl) | [In The Meantime](https://open.spotify.com/album/2HU5OrEegFi359Xs7ynjoT) | 2:08 | 2023-07-20 | 2023-07-28 |
 | [Vodka Soda](https://open.spotify.com/track/5TZRZkNTmruQp9HPb4ZDl0) | [High Tropics](https://open.spotify.com/artist/5ZAx5s0XKuGjKMikU9GCrC) | [Vodka Soda](https://open.spotify.com/album/5ZfjDtRlT4kI9aeGNiE7Tu) | 3:32 | 2023-08-17 | 2023-08-25 |

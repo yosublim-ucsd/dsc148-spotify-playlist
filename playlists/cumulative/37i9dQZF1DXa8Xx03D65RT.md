@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-725 songs - 1 day 6 hr 27 min
+727 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Felt Improv No\. 2](https://open.spotify.com/track/5ZR3kgNxgTsWXdGhnAbZLy) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improv No\. 2](https://open.spotify.com/album/24cbiNZw3ZWwz3VnrZvndX) | 1:52 | 2023-07-03 | 2023-07-25 |
 | [Felt Improv No\. 25](https://open.spotify.com/track/4jklfyp9aW2xX8oUp7Z8gA) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 25](https://open.spotify.com/album/683ttioDjnQMeIgqQC2gfM) | 2:55 | 2022-05-27 | 2023-01-21 |
 | [Felt Improv No\. 3](https://open.spotify.com/track/4mUEjeo70EeAq2ARJySrj6) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 3](https://open.spotify.com/album/1cseVonhcrCKoxuNDGY6T8) | 3:01 | 2022-05-27 | 2022-08-10 |
+| [Felt Improv No\. 6](https://open.spotify.com/track/5402is2w3kRiNBChGimT7Q) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improv No\. 6](https://open.spotify.com/album/7Cvx1CK4sAmdPF2J7KOoQk) | 2:28 | 2023-10-23 |  |
 | [Fiafia](https://open.spotify.com/track/56YJq7TZi6EY2LMblApRwf) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Fiafia](https://open.spotify.com/album/4dUPA6l6WLL2XWPPIT1eZm) | 2:38 | 2023-03-06 | 2023-09-12 |
 | [Finito](https://open.spotify.com/track/6iWBMo4Cc2yAqwqkAUzLSN) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Finito](https://open.spotify.com/album/1zrmFxQTfjPUoEZepbJaSS) | 2:42 | 2022-05-27 | 2023-09-29 |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2022-05-27 |  |
@@ -332,7 +333,7 @@
 | [La Fleur](https://open.spotify.com/track/3tTr7aNFBaUkH5O7KFB1wS) | [Blithe Youth](https://open.spotify.com/artist/4iIddIHZEHkH5SAjX7hEMu) | [La Fleur](https://open.spotify.com/album/6qec6hpXXfINiHHMnAvpHr) | 2:32 | 2022-05-27 | 2022-08-10 |
 | [La Gondola](https://open.spotify.com/track/43xkjr0u5DBR3NfkrCQdHo) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Surrender](https://open.spotify.com/album/2SSwUTubPIzCDF0n2IVYYZ) | 3:41 | 2022-05-27 |  |
 | [La Luz De La Primavera](https://open.spotify.com/track/2ommqT5NELWdMHjcKN5tTG) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [La Luz De La Primavera](https://open.spotify.com/album/4qdsR63xjUXgBeFwDkPTIc) | 2:08 | 2023-05-09 |  |
-| [La maison de l'été](https://open.spotify.com/track/0yQC370X6nqaUvfZEuAF5D) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [La maison de l'été](https://open.spotify.com/album/6lhP1cl4RdaxwDwUzDwZKr) | 2:34 | 2022-05-27 |  |
+| [La maison de l'été](https://open.spotify.com/track/0yQC370X6nqaUvfZEuAF5D) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [La maison de l'été](https://open.spotify.com/album/6lhP1cl4RdaxwDwUzDwZKr) | 2:34 | 2022-05-27 | 2023-11-02 |
 | [La rue de montmartre](https://open.spotify.com/track/4m6OniLUajvVowVSOtyi5J) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [La rue de montmartre](https://open.spotify.com/album/3z86dneZ2m3ZtoUNQBOtCB) | 2:03 | 2023-01-20 |  |
 | [La vérité sera dite](https://open.spotify.com/track/0BCprO6kUA7NzuhXMPctag) | [Marcel Cote](https://open.spotify.com/artist/32mJwpV7mqeU7ACpejFeYS) | [La vérité sera dite](https://open.spotify.com/album/3rJbQjEYzWlfZa5F51PFEx) | 2:27 | 2022-05-27 | 2022-10-14 |
 | [Laetitia](https://open.spotify.com/track/39e67SWLFobtjgr1S10iYE) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Laetitia](https://open.spotify.com/album/2MeED0qq5A14TCiVU2UNdn) | 1:57 | 2022-05-27 | 2023-07-25 |
@@ -406,6 +407,7 @@
 | [Montmarte](https://open.spotify.com/track/0I4fEtucjFVQcwNvMCgqoL) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:03 | 2022-05-27 | 2023-01-21 |
 | [Moonlight](https://open.spotify.com/track/13b7swHOlTGpZoDgtTWFIc) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Moonlight](https://open.spotify.com/album/1bRqYfdj4ipHdK3JXuhxQz) | 2:20 | 2022-05-27 | 2023-03-05 |
 | [Moonlight](https://open.spotify.com/track/2pffk16of8MhYC9bCEhS6X) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Home](https://open.spotify.com/album/2QMwdHJruAJhzFZzjHsvrx) | 2:22 | 2022-05-27 | 2022-09-24 |
+| [Moonlight Reverie](https://open.spotify.com/track/1F4LTsUjpZImXSgt4FI2Dy) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Moonlight Reverie](https://open.spotify.com/album/1EqwtiMH4fQsiTNmBVbWpY) | 3:00 | 2023-10-23 |  |
 | [Moonlight Waltz](https://open.spotify.com/track/2w4w29W62gzZ6OWWmilEB6) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Moonlight Waltz](https://open.spotify.com/album/4c7rMqF3xpqZIbjR1ISsbp) | 2:24 | 2022-08-09 |  |
 | [Morgensol](https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ) | [Bolethe Kristensen](https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI) | [Morgensol](https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk) | 1:45 | 2022-05-27 | 2023-01-21 |
 | [Morgenstern](https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Morgenstern](https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb) | 3:09 | 2022-05-27 | 2023-05-10 |
@@ -537,7 +539,7 @@
 | [Sailing](https://open.spotify.com/track/3BzjuaHgLpJPbJCSoriHbq) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Sailing](https://open.spotify.com/album/4w1hpzfnRa9pxmxamHwbiP) | 2:32 | 2023-08-14 |  |
 | [Salamander](https://open.spotify.com/track/1BshZyebub5iJgEBY26zKl) | [Ennis Elder](https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd) | [Salamander](https://open.spotify.com/album/2GfvzDnOw4QdnlgRcQzaLn) | 3:05 | 2022-08-09 | 2023-07-04 |
 | [Samarcande](https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [Samarcande](https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU) | 3:22 | 2022-05-27 | 2022-09-24 |
-| [Sanctuary](https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM) | [Wave Of Pollen](https://open.spotify.com/artist/7gPa5ROTtEKCRAaOsM6thZ) | [Sanctuary](https://open.spotify.com/album/2Ogoe8psCeVJQe7trdF7Bf) | 2:34 | 2022-05-27 |  |
+| [Sanctuary](https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM) | [Wave Of Pollen](https://open.spotify.com/artist/7gPa5ROTtEKCRAaOsM6thZ) | [Sanctuary](https://open.spotify.com/album/2Ogoe8psCeVJQe7trdF7Bf) | 2:34 | 2022-05-27 | 2023-11-02 |
 | [Santolea](https://open.spotify.com/track/6X4fTprmm1elJ6LPGXJEsP) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Santolea](https://open.spotify.com/album/0IJ1We2li4qqibNwRwR2nR) | 2:31 | 2022-05-27 |  |
 | [Sasha](https://open.spotify.com/track/5Cea1kGzMWhmpyZF7G8mxY) | [Camilla Selezneva](https://open.spotify.com/artist/0pbW0nhIY4JDlqMJU5G7eX) | [Sasha](https://open.spotify.com/album/3XAxROyOq3avBUuqs2V2jI) | 2:25 | 2022-05-27 | 2023-03-02 |
 | [Scenery](https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891) | [Alavilla Mailla](https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa) | [Scenery](https://open.spotify.com/album/0o6KH6EIH4O1DrgBuad1N3) | 2:17 | 2022-05-27 | 2022-07-29 |

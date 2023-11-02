@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: The Voidz
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,954 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,978 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 15 | [The Morning](https://open.spotify.com/track/4H8LXYMF0OABJpjL4wD4mb) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [The Morning](https://open.spotify.com/album/2mkAIECa1rpTjtX5ZqgTPS) | 4:09 |
 | 16 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 |
 | 17 | [Always Get Through To You](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 4:06 |
-| 18 | [Echoes Of The Past](https://open.spotify.com/track/25yFIb4x438niHV77uRU8p) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi), [Local Suicide](https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0) | [WUT](https://open.spotify.com/album/0ooPfXfXVfkv8WjcMkOjnE) | 5:42 |
+| 18 | [Echoes Of The Past](https://open.spotify.com/track/25yFIb4x438niHV77uRU8p) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi), [Local Suicide](https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0), [Dina Summer](https://open.spotify.com/artist/0s4dIi02iAv3SiJfBrNhHo) | [WUT](https://open.spotify.com/album/0ooPfXfXVfkv8WjcMkOjnE) | 5:42 |
 | 19 | [Shining](https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Shining](https://open.spotify.com/album/2h2rLM0aSmNe2QNLTZuoCd) | 3:34 |
 | 20 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 |
 | 21 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [How Music Makes You Feel Better \- Edit](https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [How Music Makes You Feel Better](https://open.spotify.com/album/4mUY2PlUa8qducN1OyWu4w) | 3:21 |
 | 75 | [Waiting Forever](https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl), [Preston.](https://open.spotify.com/artist/6N69WEWIfckF4KpLH6WLLC) | [Flaws in Our Design](https://open.spotify.com/album/6qhaIg3gQcKrcQYv8BzCso) | 3:06 |
 
-Snapshot ID: `MCw4MDdhODQyYzlmODJjYTJjZjk5NWJmNTJmZWFlNTc5MTU5YjBlYjdh`
+Snapshot ID: `MCxkZjQ5ZDkyMmE0ZDhiY2E1MmU0NWRmMTE5NTg4NTNlNDBmMTQ5M2Yw`

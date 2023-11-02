@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: HELLMERRY",
+  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Gloc-9, Hero, Ramdiss",
   "name": "Kalye Hip-Hop",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 205426,
       "name": "ALABAMBANG",
       "url": "https://open.spotify.com/track/5kKjzkcKdk7yPHc39b95Ue"
@@ -200,6 +200,24 @@
       "duration_ms": 168205,
       "name": "BMW",
       "url": "https://open.spotify.com/track/7C9Knp9FzLY6RwgktmW9Ge"
+    },
+    {
+      "album": {
+        "name": "Kung Alam Mo Lang",
+        "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "C2 Boyz",
+      "url": "https://open.spotify.com/track/7hGExswhBJ50VPifCdOjjw"
     },
     {
       "album": {
@@ -382,7 +400,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 199296,
       "name": "EMPILIGHT",
       "url": "https://open.spotify.com/track/6liHmUVmfhbXFG45ybCr96"
@@ -600,7 +618,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 277142,
       "name": "Kaibigan",
       "url": "https://open.spotify.com/track/24fB3JRFXxNVYEzW5mZnDj"
@@ -626,7 +644,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 232258,
       "name": "Kalmado, Pt. 3",
       "url": "https://open.spotify.com/track/5YKPccwY8eDnplwVwuxErO"
@@ -684,7 +702,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 211366,
       "name": "KG",
       "url": "https://open.spotify.com/track/3311oX5J2qJAyiuuDLpTxP"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 225000,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/2MK1KqNTm3wTq7GmwS4RKv"
@@ -877,6 +895,24 @@
     },
     {
       "album": {
+        "name": "MY THANG (GO GETTA 2)",
+        "url": "https://open.spotify.com/album/2iLm8scmBP9VcNixtMIf4G"
+      },
+      "artists": [
+        {
+          "name": "O SIDE MAFIA",
+          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190660,
+      "name": "MY THANG (GO GETTA 2)",
+      "url": "https://open.spotify.com/track/1fRLcqxVwpzpua8E6Se2sN"
+    },
+    {
+      "album": {
         "name": "Paboritong Pagkakamali",
         "url": "https://open.spotify.com/album/4qEN03PaW5dO803AotVzNB"
       },
@@ -895,6 +931,42 @@
     },
     {
       "album": {
+        "name": "Palagi",
+        "url": "https://open.spotify.com/album/54C7oOzYDgkkefGkDynZGX"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265142,
+      "name": "Palagi",
+      "url": "https://open.spotify.com/track/5uKVAn44f3V2oxlWQ7nXDY"
+    },
+    {
+      "album": {
+        "name": "PAREHAS TAYO",
+        "url": "https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk"
+      },
+      "artists": [
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "PAREHAS TAYO",
+      "url": "https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b"
+    },
+    {
+      "album": {
         "name": "PSG",
         "url": "https://open.spotify.com/album/4MqzfMoVBWnM2ZyAJipzPZ"
       },
@@ -910,6 +982,28 @@
       "duration_ms": 180000,
       "name": "PSG",
       "url": "https://open.spotify.com/track/0xaKCWpX4CBSqwh7CQa4EG"
+    },
+    {
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/02ESwFvIlpw4loR0IgMshA"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        },
+        {
+          "name": "HELLMERRY",
+          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/1prSjfNpULtRUDFImzHJHO"
     },
     {
       "album": {
@@ -1136,6 +1230,32 @@
       "duration_ms": 235080,
       "name": "THAT'S MY BABY",
       "url": "https://open.spotify.com/track/4RNvgyQgvmZYPJxnNEHfS3"
+    },
+    {
+      "album": {
+        "name": "Umaga - Spotify Singles",
+        "url": "https://open.spotify.com/album/6d5kDZ9af7LFXe4UcAazj1"
+      },
+      "artists": [
+        {
+          "name": "Gloc-9",
+          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+        },
+        {
+          "name": "Hero",
+          "url": "https://open.spotify.com/artist/0zF89Z0aMZSGZlgEBX0uvm"
+        },
+        {
+          "name": "Ramdiss",
+          "url": "https://open.spotify.com/artist/6Tfk9MrJjusZ8mvmwHegR6"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243291,
+      "name": "Umaga - Spotify Singles",
+      "url": "https://open.spotify.com/track/0qOqU6GpnwY1ElwUQMpwnA"
     },
     {
       "album": {

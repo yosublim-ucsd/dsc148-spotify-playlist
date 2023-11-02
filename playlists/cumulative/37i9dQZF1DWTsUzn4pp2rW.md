@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-290 songs - 18 hr 44 min
+291 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Your Hands](https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 4:53 | 2021-11-19 | 2022-10-08 |
 | [Your Hands](https://open.spotify.com/track/4u62bhKi6sQBPBb1txAAPT) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/1a1xCfar6N0EMGRq88O8p0) | 4:53 | 2022-11-29 | 2023-01-30 |
 | [Your Hands](https://open.spotify.com/track/5L2WZHdSzV9rCsK6KWxb2E) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx) | 4:53 | 2023-02-16 |  |
-| [Your Song](https://open.spotify.com/track/0OelgOpyjbEyc1agABKR4P) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh) | [Your Song](https://open.spotify.com/album/5wgdPiD77nrKUBiW7ptss4) | 4:30 | 2023-09-15 |  |
+| [Your Song](https://open.spotify.com/track/0OelgOpyjbEyc1agABKR4P) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh) | [Your Song](https://open.spotify.com/album/5wgdPiD77nrKUBiW7ptss4) | 4:30 | 2023-09-15 | 2023-11-02 |
+| [Your Song](https://open.spotify.com/track/66IhdjAa4bWFnRh1Edo0HN) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh) | [4 Wheel Drive II](https://open.spotify.com/album/6sPX5k3R9v6prRyG3HSttD) | 4:30 | 2023-10-27 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

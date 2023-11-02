@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: VIZE, Leony, Niklas Dee",
+  "description": "The biggest Dance hits and the ones to come. Cover: Quinten Circle, Lyente, Sonny Wern, ZANA",
   "name": "Main Stage",
   "tracks": [
     {
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 166080,
       "name": "Better Me",
       "url": "https://open.spotify.com/track/7JStcVqmZ7NbI76tRerzaB"
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 137667,
       "name": "Cold As Ice",
       "url": "https://open.spotify.com/track/13YCzjPziY4O1IKs8soJBo"
@@ -3537,6 +3537,32 @@
     },
     {
       "album": {
+        "name": "God Is In The Soundwaves",
+        "url": "https://open.spotify.com/album/20ssXnN1FKqAfIE6zSM8gQ"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Xoro",
+          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
+        },
+        {
+          "name": "Yola Recoba",
+          "url": "https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163510,
+      "name": "God Is In The Soundwaves",
+      "url": "https://open.spotify.com/track/51w0BMC24JALh8uzwRzjMB"
+    },
+    {
+      "album": {
         "name": "Gone Tomorrow",
         "url": "https://open.spotify.com/album/3u25jj4B4cqGqxEsPRFmZO"
       },
@@ -4072,6 +4098,32 @@
       "duration_ms": 133943,
       "name": "High sein",
       "url": "https://open.spotify.com/track/5fQllnHCmwjhmhnpFAcknW"
+    },
+    {
+      "album": {
+        "name": "Home Alone (with Marnik)",
+        "url": "https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128031,
+      "name": "Home Alone (with Marnik)",
+      "url": "https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP"
     },
     {
       "album": {
@@ -7937,6 +7989,32 @@
     },
     {
       "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/7hgfhxgbUKVFSNSCbEfpR8"
+      },
+      "artists": [
+        {
+          "name": "Pachanta",
+          "url": "https://open.spotify.com/artist/6JJbKj7rr0akgMZ9gBevrU"
+        },
+        {
+          "name": "Gest\u00f6rt aber GeiL",
+          "url": "https://open.spotify.com/artist/7KAGJwWQQui8b0uqwXRkSr"
+        },
+        {
+          "name": "July",
+          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128386,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/2OgXqA5XJcrc5duK7nF3qd"
+    },
+    {
+      "album": {
         "name": "She Knows (with Akon)",
         "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
       },
@@ -8510,7 +8588,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 207230,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/0H7Issbjv49SuNAeiIY7JO"

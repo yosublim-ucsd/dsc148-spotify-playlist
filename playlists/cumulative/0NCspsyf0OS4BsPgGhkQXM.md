@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-904 songs - 2 day 0 hr 7 min
+905 songs - 2 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,6 +463,7 @@
 | [Lonewolf](https://open.spotify.com/track/1IzcP7dKNW4wfAV1ECfXvM) | [Henri Werner](https://open.spotify.com/artist/0nuGLpGw9XwyMLIKZxeRzE), [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [Lonewolf](https://open.spotify.com/album/2F1W6nVEejJhco6l0kr9j2) | 2:23 | 2023-03-21 | 2023-04-29 |
 | [Looking for Gold](https://open.spotify.com/track/1TJkG92PrLibxf4qQReKYW) | [Fancy Monster](https://open.spotify.com/artist/2mTmPVVrjt7SLOtJIaI9LY), [TRØVES](https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg) | [Looking for Gold](https://open.spotify.com/album/0S8OhiTIgdSPbI54hPOpP2) | 3:39 | 2022-01-26 | 2022-09-15 |
 | [Looking For Us](https://open.spotify.com/track/0GSZ8cs7lQvV0FeY4VlLOB) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 3:56 | 2022-08-18 | 2023-02-22 |
+| [Lose Control](https://open.spotify.com/track/23UJlvZozOXAA9ow6Ixv9o) | [RAZRWAV](https://open.spotify.com/artist/6HGPVdgfqWFBHKn0izGWM2) | [Lose Control](https://open.spotify.com/album/34gKjA6hQbaYJ5sq7dUOW5) | 3:30 | 2023-11-01 |  |
 | [Lose Myself](https://open.spotify.com/track/1U5KagjIsFDyqH8XPknoDp) | [Sultan Braum](https://open.spotify.com/artist/4uzspyl19NnWA9wMwwihDc) | [Lose Myself](https://open.spotify.com/album/6lRBw1gULXV5AGxHAJFJJh) | 2:43 | 2022-08-05 | 2022-09-07 |
 | [Lose To Me](https://open.spotify.com/track/7bwvOkwmlV9okoB79ToVu2) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Lose To Me](https://open.spotify.com/album/7vaVopPswq9eSbIALYjvHo) | 2:42 | 2022-09-02 | 2022-10-08 |
 | [Lose Your Way](https://open.spotify.com/track/6H4ekfJY19P8t26lxaBW8D) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf) | [Lose Your Way](https://open.spotify.com/album/2ApZobhOJQ1GyjI8AZZ2nr) | 2:10 | 2022-01-14 | 2022-09-15 |

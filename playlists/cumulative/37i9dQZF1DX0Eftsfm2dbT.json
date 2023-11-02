@@ -514,7 +514,7 @@
     {
       "album": {
         "name": "Y.L.F. EP",
-        "url": "https://open.spotify.com/album/1a1R7iGEBEScUfpb6W4IJY"
+        "url": "https://open.spotify.com/album/2cOXs0vcXtZaqkeSqVPBCZ"
       },
       "artists": [
         {
@@ -529,6 +529,28 @@
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Be Okay",
+      "url": "https://open.spotify.com/track/0qfv1XQTuwfGpDZvdEpB0m"
+    },
+    {
+      "album": {
+        "name": "Y.L.F. EP",
+        "url": "https://open.spotify.com/album/1a1R7iGEBEScUfpb6W4IJY"
+      },
+      "artists": [
+        {
+          "name": "YELLADIGOS",
+          "url": "https://open.spotify.com/artist/4XoMdQKZT6hC57PRnacpYa"
+        },
+        {
+          "name": "TWIGY",
+          "url": "https://open.spotify.com/artist/3LRuRmJcuRBvc7mLhTli0v"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
       "duration_ms": 216000,
       "name": "Be Okay",
       "url": "https://open.spotify.com/track/6nJhj9WxACmME1v7jzcPeP"
@@ -710,7 +732,7 @@
     {
       "album": {
         "name": "CHAMPION SOUND",
-        "url": "https://open.spotify.com/album/1fFbxBMQFBuNNk9Q6k45xl"
+        "url": "https://open.spotify.com/album/1qCCGcljL92WPGuQxmdCV7"
       },
       "artists": [
         {
@@ -721,6 +743,24 @@
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 222653,
+      "name": "CHAMPION SOUND - Scratch by DJ MATTO",
+      "url": "https://open.spotify.com/track/2RNOM5GBxH9pcVdCy4iCst"
+    },
+    {
+      "album": {
+        "name": "CHAMPION SOUND",
+        "url": "https://open.spotify.com/album/1fFbxBMQFBuNNk9Q6k45xl"
+      },
+      "artists": [
+        {
+          "name": "FREEZ",
+          "url": "https://open.spotify.com/artist/1SgsdAxtT2jPv6pWihNLGp"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
       "duration_ms": 222653,
       "name": "CHAMPION SOUND - Scratch by DJ MATTO",
       "url": "https://open.spotify.com/track/5VJqOw7zvmf0KSwKpRYkBZ"
@@ -1780,7 +1820,7 @@
     {
       "album": {
         "name": "GRID",
-        "url": "https://open.spotify.com/album/7nxc6TpKNEJIRAqYFmJTpp"
+        "url": "https://open.spotify.com/album/1x7b842f1YSVOwz2SEE56Y"
       },
       "artists": [
         {
@@ -1795,6 +1835,28 @@
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 181005,
+      "name": "GRID",
+      "url": "https://open.spotify.com/track/5LSbE6Avzu5D7c3JELofP2"
+    },
+    {
+      "album": {
+        "name": "GRID",
+        "url": "https://open.spotify.com/album/7nxc6TpKNEJIRAqYFmJTpp"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA",
+          "url": "https://open.spotify.com/artist/2v4xE9iGRGIKGxxCku3HWy"
+        },
+        {
+          "name": "1Co.INR",
+          "url": "https://open.spotify.com/artist/13OKLLncWlV84TyMUEgq4m"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
       "duration_ms": 181005,
       "name": "GRID",
       "url": "https://open.spotify.com/track/70LeAfudzGENZhf3kgJSsx"
@@ -2046,6 +2108,32 @@
       "duration_ms": 172800,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5TB7HUODhKV1SVnEJQRrBP"
+    },
+    {
+      "album": {
+        "name": "IKA letter GAME",
+        "url": "https://open.spotify.com/album/23bSPuy3UH9jqJJoxhy5YH"
+      },
+      "artists": [
+        {
+          "name": "KUJA",
+          "url": "https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c"
+        },
+        {
+          "name": "T-STONE",
+          "url": "https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D"
+        },
+        {
+          "name": "EASTA",
+          "url": "https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218117,
+      "name": "IKA letter GAME",
+      "url": "https://open.spotify.com/track/5aPAncEGI6VzGEplT2Kcw2"
     },
     {
       "album": {
@@ -2552,10 +2640,36 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 268799,
       "name": "Luv Myself",
       "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
+    },
+    {
+      "album": {
+        "name": "Luv Myself",
+        "url": "https://open.spotify.com/album/4sJMZSWobdfCTgwICMGU6d"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        },
+        {
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        },
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268799,
+      "name": "Luv Myself",
+      "url": "https://open.spotify.com/track/4woDrq2rIKBbI6UNkzB48j"
     },
     {
       "album": {
@@ -2826,10 +2940,32 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 269818,
       "name": "MURDER ONE",
       "url": "https://open.spotify.com/track/2WqNlaeEowDwcGc9t84wFJ"
+    },
+    {
+      "album": {
+        "name": "No.00",
+        "url": "https://open.spotify.com/album/1dKddiZrMlf945gDs5AlvO"
+      },
+      "artists": [
+        {
+          "name": "Olive Oil",
+          "url": "https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH"
+        },
+        {
+          "name": "febb as Young Mason",
+          "url": "https://open.spotify.com/artist/3Vdee0nI7ShM31ttHAf8BO"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269818,
+      "name": "MURDER ONE",
+      "url": "https://open.spotify.com/track/6AkRHQfHt0WUrmGGiYhP7H"
     },
     {
       "album": {
@@ -3180,10 +3316,44 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 181384,
       "name": "Osanpo - Remix",
       "url": "https://open.spotify.com/track/32xeuwMvGI5jugOe0sv8cq"
+    },
+    {
+      "album": {
+        "name": "Osanpo (Remix)",
+        "url": "https://open.spotify.com/album/6qSEgFsSbHoSi5LXJQp8z5"
+      },
+      "artists": [
+        {
+          "name": "SOCKS",
+          "url": "https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw"
+        },
+        {
+          "name": "DJ RYOW",
+          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
+        },
+        {
+          "name": "Hannya",
+          "url": "https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh"
+        },
+        {
+          "name": "R-shitei",
+          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
+        },
+        {
+          "name": "Space Dust Club",
+          "url": "https://open.spotify.com/artist/2gzAqApojzEcGpWzvrZjRy"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Osanpo - Remix",
+      "url": "https://open.spotify.com/track/5wWoGtwYK9xhPTgHBFJ4JK"
     },
     {
       "album": {
@@ -4646,7 +4816,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 218117,
       "name": "\u30a4\u30ab\u308c\u305f\u30b2\u30fc\u30e0",
       "url": "https://open.spotify.com/track/35AqyuX0ti4FuUnaElmC0o"

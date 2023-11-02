@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 68168,
+  "num_followers": 68253,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDY3NTllMzJkYzczOTFlOGM3N2Y5ZDI0ODMyOWRiZjgyZDM1NmE3",
+  "snapshot_id": "MCxkMDlmZmZjMmUxMmY3MWY1NTYzMjcxY2IwMWJhOGNkMTYzMjRjMzFh",
   "tracks": [
     {
       "added_at": "2023-08-28 17:02:49",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
+        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
+        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Y se amaron dos caballos",
+      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
         "name": "Cristalitos Machacaos",
         "url": "https://open.spotify.com/album/1Ftarn4wOspiKUBODeu5Rj"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 195080,
       "name": "Sevillanas de los Bloques",
       "url": "https://open.spotify.com/track/5I2t3LU5UTMdxc9sODCT1d"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
-        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Y se amaron dos caballos",
-      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "C\u00e1ntame Sevillanas",
-        "url": "https://open.spotify.com/album/7hJrIlgMWFgZoacK5G3v5j"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 242706,
-      "name": "C\u00e1ntame",
-      "url": "https://open.spotify.com/track/40yczJ7VRenkAPVctWQfqp"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Raices de la Canci\u00f3n Espa\u00f1ola, Vol. 4",
         "url": "https://open.spotify.com/album/0YPZiUW2u8RB8zRsVANNpr"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 164395,
       "name": "Coplillas de las Divisas (Americanos)",
       "url": "https://open.spotify.com/track/2jsHf9MILNts8a4oE52QX0"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "C\u00e1ntame Sevillanas",
+        "url": "https://open.spotify.com/album/7hJrIlgMWFgZoacK5G3v5j"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 242706,
+      "name": "C\u00e1ntame",
+      "url": "https://open.spotify.com/track/40yczJ7VRenkAPVctWQfqp"
     },
     {
       "added_at": "2023-08-28 17:02:49",

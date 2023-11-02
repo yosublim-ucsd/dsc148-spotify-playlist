@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: El Fantasma
 
-3,801 songs - 8 day 7 hr 1 min
+3,802 songs - 8 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1051,7 +1051,8 @@
 | [El Escocés](https://open.spotify.com/track/5tQHOTHxGXxuQA8EI9CHML) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [El Escocés](https://open.spotify.com/album/0nFB0y3LnogYpF37iicmDB) | 3:12 | 2022-09-23 | 2022-10-01 |
 | [El Especial](https://open.spotify.com/track/6RCK1hYoBUaUmZSX0s4Rzn) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Especial](https://open.spotify.com/album/3vgqWLTfClYLFJRVPbGKuP) | 2:50 | 2022-12-09 | 2022-12-17 |
 | [El Espejo De Mi Apá](https://open.spotify.com/track/4o1RD4q23QYZz8Gu34pv69) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Espejo De Mi Apá](https://open.spotify.com/album/7kjCUQKyYvcbqbo00DREsM) | 3:11 | 2022-10-28 | 2022-11-05 |
-| [El Exitoso](https://open.spotify.com/track/5KsI0xjWupcPQTGxHDOQFW) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1grxbCfqwBpV7WR9zwun0y) | 3:42 | 2023-10-27 |  |
+| [El Exitoso](https://open.spotify.com/track/4E1QkNe7kxIzBAOvOWGgPH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/4SQZsm1mpAPJuxKW7Nlauy) | 3:42 | 2023-10-27 |  |
+| [El Exitoso](https://open.spotify.com/track/5KsI0xjWupcPQTGxHDOQFW) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1grxbCfqwBpV7WR9zwun0y) | 3:42 | 2023-10-27 | 2023-11-02 |
 | [El Famoso Pelavacas](https://open.spotify.com/track/44dkbyZZAeoifpBja7R4gG) | [Otro Nivel](https://open.spotify.com/artist/2dCsNoreGt2dkckeSrszzp) | [El Famoso Pelavacas](https://open.spotify.com/album/3Qv9yEMyoVWv3PjQjpLUv0) | 2:31 | 2022-09-02 | 2022-09-10 |
 | [El Favorito & Arriba el Roble \- En Vivo](https://open.spotify.com/track/7z4437cVR1MfZh2xn1BmQO) | [Banda La Maravillosa](https://open.spotify.com/artist/7k32LtQ732ev08KJjBcU95), [Banda Llano Grande](https://open.spotify.com/artist/4GulOHnNuGrLV8dOJaPss8), [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Favorito & Arriba el Roble \(En Vivo\)](https://open.spotify.com/album/68uH9dy74fOSihay7nbwU9) | 4:16 | 2022-12-30 | 2023-01-07 |
 | [El Fendi](https://open.spotify.com/track/64ixe7UA8GJomJmkh1vJQY) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Fendi](https://open.spotify.com/album/1aNlJwycEVQsdsRgHNaHsE) | 3:15 | 2022-06-17 | 2022-06-25 |
@@ -2575,7 +2576,7 @@
 | [No Serás Feliz](https://open.spotify.com/track/3iWzI8DLfBkOQ5lJwO7Sw1) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [No Serás Feliz](https://open.spotify.com/album/7zPLyBauWTBeUfdrcphh1h) | 3:21 | 2022-06-17 | 2022-06-25 |
 | [NO SIRVIO DE NADA](https://open.spotify.com/track/34kuHt20Ww02atSkfZhAuE) | [Patricio Valdez](https://open.spotify.com/artist/1pbATczMMPRMFSWYfF2PG5) | [NO SIRVIO DE NADA](https://open.spotify.com/album/6hjieQug5xJ8bbEgiCSqu7) | 3:34 | 2023-06-02 | 2023-06-10 |
 | [No Somos Magos \(En Vivo\)](https://open.spotify.com/track/40zjogs2ktlvHxAUFbxboV) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [No Somos Magos \(En Vivo\)](https://open.spotify.com/album/7DBlyphKV6gb24sWIvtxbM) | 3:32 | 2023-06-02 | 2023-06-10 |
-| [No Soy Como Tu \(Remix\)](https://open.spotify.com/track/0vvpgtDt8kckk9v8NZ7d6U) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Los Caliz](https://open.spotify.com/artist/3AwJzPuII3ZtANOpZSbCKJ) | [No Soy Como Tu \(Remix\)](https://open.spotify.com/album/621GOUcHAH1mlNtrH0BFbs) | 3:09 | 2023-10-27 |  |
+| [No Soy Como Tu \(Remix\)](https://open.spotify.com/track/0vvpgtDt8kckk9v8NZ7d6U) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [No Soy Como Tu \(Remix\)](https://open.spotify.com/album/621GOUcHAH1mlNtrH0BFbs) | 3:09 | 2023-10-27 |  |
 | [No Soy Un Ilegal](https://open.spotify.com/track/2KoPxrMciBOnbMM0qBh52u) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7) | [No Soy Un Ilegal](https://open.spotify.com/album/5TxzydL2Jnm8WwVLGIVJA9) | 3:02 | 2023-01-13 | 2023-01-21 |
 | [No Sé Que Tengas](https://open.spotify.com/track/5jjIkLaQZA4iaPz0wwZZBo) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ), [Luis Mexía](https://open.spotify.com/artist/6Zftf0DRHk7QWgo4QMlmP3) | [No Sé Que Tengas](https://open.spotify.com/album/1hlrfVbr5Bh0xcoXtggDOF) | 3:07 | 2022-10-07 | 2022-10-15 |
 | [No Sé Qué Pasa](https://open.spotify.com/track/5YmbEstKMg7zofgLXvbSAN) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [No Sé Qué Pasa](https://open.spotify.com/album/1HCrI1y6xGB7HPrfB4Tt6f) | 3:02 | 2023-09-22 | 2023-09-30 |

@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-117 songs - 6 hr 57 min
+120 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Blood](https://open.spotify.com/track/5TTX8tnS8kxYPPCSAFPsCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Blood](https://open.spotify.com/album/3u28SLBxnRI3cxwv9zwheu) | 3:00 | 2021-10-28 |  |
 | [Bloody Mary \(Harris & Ford Remix\)](https://open.spotify.com/track/62At4l9VMYuB8nJQPEQ1pd) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Bloody Mary \(Harris & Ford Remix\)](https://open.spotify.com/album/60wmmReuAG6SHfGkKNkY9V) | 3:08 | 2021-10-28 |  |
 | [Body Count](https://open.spotify.com/track/4L302vPKtjDaRyiXumrCxn) | [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG), [Rico Act](https://open.spotify.com/artist/7MHhTZbxn2XRwXK4s2BFO6) | [Body Count](https://open.spotify.com/album/0TjVLFf4qJn584UIZKehXu) | 3:20 | 2021-10-28 |  |
-| [Bump This](https://open.spotify.com/track/2O5oAio774pIRQGe3mnh5T) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Dubs In Limbo](https://open.spotify.com/album/3pmTlgjrJEYzS26fKhgshb) | 3:18 | 2022-10-07 |  |
+| [Bump This](https://open.spotify.com/track/2O5oAio774pIRQGe3mnh5T) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Dubs In Limbo](https://open.spotify.com/album/3pmTlgjrJEYzS26fKhgshb) | 3:18 | 2022-10-07 | 2023-11-02 |
 | [Candy Flip](https://open.spotify.com/track/3GbIAc1YF7taTuU6FG1W13) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Candy Flip](https://open.spotify.com/album/2zWd2Kv0sTPEj4Gae9GJyU) | 3:10 | 2021-10-28 |  |
 | [Cyberspace](https://open.spotify.com/track/5u1mRqeDEiNkLee97q458S) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [Cyberspace](https://open.spotify.com/album/42Ul7pOsWYrg2OJlAiFB7i) | 4:50 | 2021-10-28 |  |
 | [Dance with Death](https://open.spotify.com/track/2icGHFD0MuDrfyok0hZC0A) | [Ghost Dance](https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ), [Luz](https://open.spotify.com/artist/1eI0LIircIlC2KbRjJAswD) | [Dance with Death](https://open.spotify.com/album/6fE8CiM9Pmn3XPwx39LhWJ) | 5:52 | 2021-10-28 | 2022-12-01 |
@@ -43,6 +43,8 @@
 | [Gore On The Dancefloor](https://open.spotify.com/track/57Y16Yl1Ocu9WC837zQJz1) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [Rico Act](https://open.spotify.com/artist/7MHhTZbxn2XRwXK4s2BFO6) | [Gore On The Dancefloor](https://open.spotify.com/album/1skU1xMU8zPjaoQ7BmI72o) | 3:21 | 2021-10-28 | 2023-09-09 |
 | [Got The Blood](https://open.spotify.com/track/0CBfZAFMdQ7gEXIGUjAU8k) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [shYbeast](https://open.spotify.com/artist/3J2VNcCwzeJXNFu40evXPE) | [Got The Blood](https://open.spotify.com/album/5gMaxtk07NkQ41etdnmPx9) | 3:30 | 2021-10-28 |  |
 | [Grave](https://open.spotify.com/track/0qkSTDOUNmyPsMjTJ4jISd) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [Grave](https://open.spotify.com/album/6nDCvCvEZjvYMWxDoa2lXF) | 4:36 | 2021-10-28 |  |
+| [GREEN GOBLIN \- Spotify Singles](https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Spotify Singles](https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp) | 2:09 | 2023-10-31 |  |
+| [Haunted](https://open.spotify.com/track/2XpKr6BN17r20GV3FDSik4) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Haunted](https://open.spotify.com/album/3gXwuCDdyQBPzECnQ5tRqm) | 4:44 | 2023-10-31 |  |
 | [Haunted House](https://open.spotify.com/track/6pD0ykQutS455Qxvh7OheC) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Haunted House](https://open.spotify.com/album/1ey17n9x1NaHc83hX696bp) | 2:48 | 2021-10-28 |  |
 | [Heads Will Roll \- A\-Trak Remix](https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 6:23 | 2021-10-28 |  |
 | [Hell](https://open.spotify.com/track/5J11PTk7fy9TR0TKXpVvCt) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Koos](https://open.spotify.com/artist/3A8Fbum6y0H2ijJSRaDNtB) | [Hell](https://open.spotify.com/album/4KTwNYQY0kTnrgtjaCoMw1) | 3:52 | 2021-10-28 |  |
@@ -125,5 +127,6 @@
 | [Witch](https://open.spotify.com/track/3xLrmOAz2nCTlWLt2cutMu) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i) | [I Killed The Orchestra EP](https://open.spotify.com/album/6aWB16Ri58NuFoUZZQAr9v) | 3:32 | 2021-10-28 |  |
 | [Witches, Witches, Witches \- The Living Tombstone Remix](https://open.spotify.com/track/3nECeZ2vi0Q8NwtBclexdH) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d), [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Witches, Witches, Witches \(The Living Tombstone Remix\)](https://open.spotify.com/album/5KvGorO0DxKf71OkIVpvAY) | 3:09 | 2023-09-22 |  |
 | [You Can't Hide](https://open.spotify.com/track/32filOsmivxaFHKLX6Ixth) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [You Can't Hide](https://open.spotify.com/album/5ugJHon7uBFj5nWIBxm7np) | 4:28 | 2021-10-28 |  |
+| [Zombie \(feat\. Valerie Broussard\)](https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Zombie \(feat\. Valerie Broussard\)](https://open.spotify.com/album/1uLMooNp9bB40khUJAqe5c) | 4:44 | 2023-10-31 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

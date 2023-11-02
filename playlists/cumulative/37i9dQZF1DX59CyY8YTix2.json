@@ -2173,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "eienno koibito",
+        "url": "https://open.spotify.com/album/0WCgyIveEmwIVnkteT94Fp"
+      },
+      "artists": [
+        {
+          "name": "\u3068\u306b\u3082\u304b\u304f\u306b\u3082",
+          "url": "https://open.spotify.com/artist/7eRFoVEguUGUZ5kYaOR8sL"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228031,
+      "name": "eienno koibito",
+      "url": "https://open.spotify.com/track/2x5ycWQvPTl4sOk5BSnGpS"
+    },
+    {
+      "album": {
         "name": "embrace",
         "url": "https://open.spotify.com/album/1RYmW4uvFxPF7DF7Wd8anS"
       },
@@ -10161,6 +10179,24 @@
     },
     {
       "album": {
+        "name": "Wasshoi Dancing",
+        "url": "https://open.spotify.com/album/2XAjBLbVjFQjpwSqODEEjG"
+      },
+      "artists": [
+        {
+          "name": "Uchudan",
+          "url": "https://open.spotify.com/artist/1WHpW3NlTIdo7P4we5jFKC"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162519,
+      "name": "Wasshoi Dancing",
+      "url": "https://open.spotify.com/track/5Zi6s0YzshTSF4lGR9dLX9"
+    },
+    {
+      "album": {
         "name": "NAKIGOTO,",
         "url": "https://open.spotify.com/album/2OVSflRQ7zERLrLk3eAqmL"
       },
@@ -12658,7 +12694,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 162519,
       "name": "\u308f\u3063\u3057\u3087\u3044\u30c0\u30f3\u30b7\u30f3\u30b0",
       "url": "https://open.spotify.com/track/1h8qlRg7T9dEbXetMeWCYe"
@@ -19706,7 +19742,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 228031,
       "name": "\u6c38\u9060\u306e\u604b\u4eba",
       "url": "https://open.spotify.com/track/286zSr3sjCn9MhmgfSJwE8"

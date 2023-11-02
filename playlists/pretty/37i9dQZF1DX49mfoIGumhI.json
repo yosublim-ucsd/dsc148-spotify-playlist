@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 177300,
+  "num_followers": 177438,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDJmZGViZGM5OTU1NGExODVlYzJlZmU4MDUzMjcxMWEzYzA4Zjdj",
+  "snapshot_id": "MCxkMDUwMDg2OTU0OWRlOGYyZTE0YmJiNTI2OTA1OWFmNDAxMzAzMDY1",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Aqui Estoy Yo",
-        "url": "https://open.spotify.com/album/0fPICPWeindghNQxlegLQB"
-      },
-      "artists": [
-        {
-          "name": "Roberto Lugo",
-          "url": "https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK"
-        }
-      ],
-      "duration_ms": 322360,
-      "name": "Si Me Dejas Amarte",
-      "url": "https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "De Amor y Salsa",
         "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 332253,
       "name": "Dejame Sentirte",
       "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Aqui Estoy Yo",
+        "url": "https://open.spotify.com/album/0fPICPWeindghNQxlegLQB"
+      },
+      "artists": [
+        {
+          "name": "Roberto Lugo",
+          "url": "https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK"
+        }
+      ],
+      "duration_ms": 322360,
+      "name": "Si Me Dejas Amarte",
+      "url": "https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8"
     },
     {
       "added_at": "2022-12-30 20:18:36",

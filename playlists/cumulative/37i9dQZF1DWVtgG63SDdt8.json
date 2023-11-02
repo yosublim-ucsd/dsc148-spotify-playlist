@@ -50972,7 +50972,7 @@
     {
       "album": {
         "name": "Lost On Me",
-        "url": "https://open.spotify.com/album/3oWCHFFHearFgGwxa6vyIZ"
+        "url": "https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu"
       },
       "artists": [
         {
@@ -50983,6 +50983,24 @@
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206785,
+      "name": "Lost On Me",
+      "url": "https://open.spotify.com/track/4NhhOSsoijnkGOSZS7HALp"
+    },
+    {
+      "album": {
+        "name": "Lost On Me",
+        "url": "https://open.spotify.com/album/3oWCHFFHearFgGwxa6vyIZ"
+      },
+      "artists": [
+        {
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
       "duration_ms": 206785,
       "name": "Lost On Me",
       "url": "https://open.spotify.com/track/71eY5aHKb5zeetOe0hJNlr"

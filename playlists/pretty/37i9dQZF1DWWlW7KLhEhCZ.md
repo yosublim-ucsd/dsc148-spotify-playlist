@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Gaab, Mc Davi, Rodriguinho, Vulgo FK
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,379 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,406 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 7 | [Tapa Na Cara Da Mídia](https://open.spotify.com/track/67OEc08o7H6lVK6e3Bv5nH) | [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch), [Vitinho RB](https://open.spotify.com/artist/0C6ppWo7aVuSv0YJREtvkj) | [Tapa Na Cara Da Mídia](https://open.spotify.com/album/3BJRLcUKaTpDfyCrGnxV2v) | 3:21 |
 | 8 | [Tag Heuer](https://open.spotify.com/track/0ZPgczrExiZzzzRKbZ9xCL) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Tag Heuer](https://open.spotify.com/album/09EkyeFUQaZD0sHpAHONBw) | 2:35 |
 | 9 | [marrão de bandida](https://open.spotify.com/track/6iuIomG9c8o7WgN1evrvh5) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7) | [marrão de bandida](https://open.spotify.com/album/12QcGZ0w7bX2L3UWRxB9oV) | 3:02 |
-| 10 | [Fresh Sesh \#02 \- Sinais de Sucessagem](https://open.spotify.com/track/03lg4qwy8ugN6TtZgcQwxh) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Fresh Mind Co.](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [LH Emici](https://open.spotify.com/artist/2W1myCBiCFdRWmQuzQWCdK), [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ) | [Fresh Sesh \#02 \- Sinais de Sucessagem](https://open.spotify.com/album/1uoUpCO6SWml6hqHwfDTy9) | 3:31 |
+| 10 | [Fresh Sesh \#02 \- Sinais de Sucessagem](https://open.spotify.com/track/03lg4qwy8ugN6TtZgcQwxh) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Fresh Mind Co.](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [LH Emici](https://open.spotify.com/artist/2W1myCBiCFdRWmQuzQWCdK), [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ) | [Fresh Sesh \#02 \- Sinais de Sucessagem](https://open.spotify.com/album/1uoUpCO6SWml6hqHwfDTy9) | 3:32 |
 | 11 | [coração gelado](https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:04 |
 | 12 | [Santa Fé](https://open.spotify.com/track/4v0raTKKlRlDb4590foEiR) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Santa Fé](https://open.spotify.com/album/2Jzpbx6aNhCZc7eFy6CmRa) | 3:02 |
 | 13 | [Whole Lot](https://open.spotify.com/track/2nt1pFJCeowC1cJaKp3ail) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ), [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t) | [Never Ghost](https://open.spotify.com/album/1L32RsHbJ3RG20sHMbKm5W) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Triptamina](https://open.spotify.com/track/0X8Hlp5uBjxnKHchFD8W6A) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h) | [Triptamina](https://open.spotify.com/album/3vrmD0UDdhvUuwV5N3foZi) | 2:55 |
 | 75 | [Sonhos e Planos](https://open.spotify.com/track/3YVqPXziEBxLxl6te8hi1R) | [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF) | [Sonhos e Planos](https://open.spotify.com/album/5osXNDNx27cDbp9qi8dV6v) | 2:33 |
 
-Snapshot ID: `MCw1MzhmYTVjNWJhNTI4YjVmZDJhYzcxM2NiZmZlNjA2NWQ3Mzc1NTQx`
+Snapshot ID: `MCwzM2NkNzliODg1Y2VlNzlkYTU1ODY0ZTYwOGJkMGJjOWJlYzkyMGM2`

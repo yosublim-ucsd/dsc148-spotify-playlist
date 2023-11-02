@@ -2,9 +2,9 @@
 
 ### [EQUAL Korea](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
 
-> 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: 화사\)
+> 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: 제시\)
 
-1,008 songs - 2 day 10 hr 10 min
+1,009 songs - 2 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Grey Christmas](https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Hwa Sa Show Vol.2\] Grey Christmas](https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7) | 3:28 | 2023-01-03 | 2023-02-01 |
 | [Grim THUG \(feat\. punchnello\)](https://open.spotify.com/track/3XqHDWD2I9xX1hoFcxc98u) | [EXN](https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Grim THUG \(feat\. punchnello\)](https://open.spotify.com/album/5JTy1wdx68ijn4VKKthkUn) | 3:45 | 2022-01-04 | 2022-02-02 |
 | [GROW UP](https://open.spotify.com/track/1UWSChv41Lfs7CsGGIElT9) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [GROW UP](https://open.spotify.com/album/5GcyVh9HgqpveRqyUf2yMd) | 3:49 | 2022-03-07 | 2022-04-06 |
+| [Gum](https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Gum](https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T) | 2:42 | 2023-11-01 |  |
 | [Habit](https://open.spotify.com/track/7sKlE3oC1oyO2w99E2c4m9) | [SOMA](https://open.spotify.com/artist/2YZhod6BAbnBKh2nPdUejY) | [Moth](https://open.spotify.com/album/6TKmCIInU0FL2kcU8Nm9TR) | 3:03 | 2023-07-04 | 2023-08-04 |
 | [HAECHI](https://open.spotify.com/track/4HqqQi75mjcv0o2gjvXqrZ) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [HAECHI](https://open.spotify.com/album/4HhO5dsrJJoRwEZCwBc2b0) | 3:51 | 2022-01-04 | 2022-02-02 |
 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 | 2023-01-03 | 2023-02-01 |
@@ -905,7 +906,7 @@
 | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59) | 2:43 | 2023-01-31 | 2023-05-03 |
 | [WE \(Oui\)](https://open.spotify.com/track/3VPyCfLUtvAErQa14EsJRx) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [WE \(Oui\)](https://open.spotify.com/album/5le3MghVX1VgqAyvyfcFuY) | 3:06 | 2022-08-02 | 2022-09-07 |
 | [We Disappear](https://open.spotify.com/track/07Jp78AgohesnVw8yG70Od) | [JEMMA](https://open.spotify.com/artist/3keZ1fbgJDFYLaY9rwxTW5) | [Behind you touch OST Part 4](https://open.spotify.com/album/5gspr3TUkkF0ZrNu4x47VV) | 3:32 | 2023-09-06 | 2023-10-05 |
-| [We Gonna Be](https://open.spotify.com/track/44GFBehF6jUxinClMCu3Ik) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [DAWN](https://open.spotify.com/album/3jUZjUDzOChOYl2akgVbp5) | 4:16 | 2023-10-04 |  |
+| [We Gonna Be](https://open.spotify.com/track/44GFBehF6jUxinClMCu3Ik) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [DAWN](https://open.spotify.com/album/3jUZjUDzOChOYl2akgVbp5) | 4:16 | 2023-10-04 | 2023-11-02 |
 | [We Gonna Be](https://open.spotify.com/track/6JXQSnoQx0ilxgS0wchW7k) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [We Gonna Be](https://open.spotify.com/album/6LqbUc9zsE7M6Zj5SRuq5k) | 4:16 | 2023-08-03 | 2023-09-06 |
 | [we have changed](https://open.spotify.com/track/6yN4a5vgEMayJWmlYnWx8T) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [we have changed](https://open.spotify.com/album/3gtbcrdH0MkiGGTpur0YUe) | 3:21 | 2022-09-06 | 2022-10-05 |
 | [We Rise](https://open.spotify.com/track/4rv92w93ROUPu0ljeiNMoj) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/3YXITGpeUXUpQwdy1u37z3) | 3:29 | 2021-12-08 | 2022-01-05 |
@@ -969,7 +970,7 @@
 | [YOU.F.O](https://open.spotify.com/track/31Z5ZRr01hQX4Wotr7zPCg) | [Nicole](https://open.spotify.com/artist/00rHhOjnxKfnwVyJAOSACS) | [YOU.F.O](https://open.spotify.com/album/707jMqC8Ekx4tOMaowRng0) | 3:04 | 2022-08-02 | 2022-09-07 |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-04-04 | 2023-05-03 |
 | [Your breeze](https://open.spotify.com/track/255ZXeSp4X5E3O8rpRgtSq) | [Oh So Yeon](https://open.spotify.com/artist/0myzJ6Vyf7To1kWoJTseat) | [Your breeze](https://open.spotify.com/album/6VfYXTbmrLwbhEjJIKj4Y8) | 3:26 | 2022-03-07 | 2022-04-06 |
-| [Your Day](https://open.spotify.com/track/3srUzD5pG2ldBDmRKglsTv) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [DAWN](https://open.spotify.com/album/3jUZjUDzOChOYl2akgVbp5) | 4:09 | 2023-10-04 |  |
+| [Your Day](https://open.spotify.com/track/3srUzD5pG2ldBDmRKglsTv) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [DAWN](https://open.spotify.com/album/3jUZjUDzOChOYl2akgVbp5) | 4:09 | 2023-10-04 | 2023-11-02 |
 | [Your name](https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB) | 3:45 | 2022-02-01 | 2022-03-08 |
 | [Your night in me](https://open.spotify.com/track/4jrJ8uVMv5XzWVh3UrCnLH) | [박은별](https://open.spotify.com/artist/6eND6gC0dTpsXrhY0If1Gp) | [Love Has Come](https://open.spotify.com/album/7pLEQP2V4TkCTCr2n2vhzV) | 4:28 | 2023-01-31 | 2023-03-01 |
 | [Your Scent \(Feat\. Twoet\)](https://open.spotify.com/track/6uQ6276B9ShLwsNr8yKl41) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [투엣 Twoat](https://open.spotify.com/artist/2cE4EpJce9UEh5XUbTbukS) | [Your Scent](https://open.spotify.com/album/6hSqEPKDh7HdoCo9bY6WKo) | 4:00 | 2023-02-28 | 2023-07-05 |
@@ -978,7 +979,7 @@
 | [Your World](https://open.spotify.com/track/2oLQfExGD3fam3lANWTCPE) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [Your World](https://open.spotify.com/album/57L760kQZK846gp23axhCY) | 3:07 | 2022-08-02 | 2022-09-07 |
 | [Youth \(Prod\. PARKMOONCHI\)](https://open.spotify.com/track/2xnxOKwOW7xslbM6RrFj69) | [Susan 수잔](https://open.spotify.com/artist/5sANAw6WVHJeOdUMJeAj3q) | [Youth](https://open.spotify.com/album/23RdCGWSBzuXlpJNrYwyad) | 4:10 | 2023-08-03 | 2023-09-03 |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-04-04 | 2023-05-03 |
-| [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-04 | 2022-08-03 |
+| [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-04 |  |
 | [zZ\(Tired\) \(With Yebit\)](https://open.spotify.com/track/18UZECrGyokO4pevw7dh4r) | [유성윤](https://open.spotify.com/artist/3IjLcqswR7fy61qEyvWssW), [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [zZ](https://open.spotify.com/album/0jbRf93DOc5iQEI4UY7pze) | 3:47 | 2022-10-04 | 2022-11-11 |
 | [Zzz](https://open.spotify.com/track/5nkZdkNASdmqLCYQX6pUcL) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [20](https://open.spotify.com/album/3bKG0PTv61QT1NxY65qmLM) | 4:03 | 2023-09-06 | 2023-10-05 |
 | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla) | 2:43 | 2023-08-03 | 2023-09-06 |

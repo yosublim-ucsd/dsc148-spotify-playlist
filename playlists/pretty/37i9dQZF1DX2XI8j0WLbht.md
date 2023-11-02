@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,010 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,069 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 56 | [El Diablo y la Bruja](https://open.spotify.com/track/2UQhZFHl6kRUd9E99wC4mR) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [El Diablo y la Bruja](https://open.spotify.com/album/1gD56P1cbXWLpCrFt0j4Ll) | 3:53 |
 | 57 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
 | 58 | [Con el Sol de la Mañana](https://open.spotify.com/track/0X8FKQkmmxoZFwgUajjn0s) | [Son de Aquí](https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ) | [De Aquí Son](https://open.spotify.com/album/260g05EqAq0W9HZZTDDD3K) | 4:22 |
-| 59 | [Sana Sana](https://open.spotify.com/track/6INLstv52hDkfJ5P8OhKqx) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre Padre Marte](https://open.spotify.com/album/63AhXYacnlHnitNe6qG334) | 5:02 |
+| 59 | [Sana sana](https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana sana](https://open.spotify.com/album/1piUtiyESANVRuWdVNSoZJ) | 5:02 |
 | 60 | [Agradecer](https://open.spotify.com/track/3xFVSTW8SdnST60rBsObdt) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Agradecer](https://open.spotify.com/album/5qVQLwmsMmBEKfQsPd3LXM) | 3:25 |
 | 61 | [Cada Vez Te Extraño Menos](https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Cada Vez Te Extraño Menos](https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is) | 2:42 |
 | 62 | [Se acaba el mundo \(The World is coming to an end\)](https://open.spotify.com/track/07dfnPckaeJCxs0t3q5FYK) | [Grupo Mono Blanco Y Stone Lips](https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu) | [Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar](https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz) | 6:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 99 | [Ni una Gota de Amor](https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Ni una Gota de Amor](https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y) | 2:31 |
 | 100 | [La Noche](https://open.spotify.com/track/5fLSZkTdsEIRLz5hSeKNUd) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Vivo](https://open.spotify.com/album/4XN5RkrMs49HPnvFww7KbJ) | 4:19 |
 
-Snapshot ID: `MCxhM2U2ZDNkMmExZTI2M2Q2NDY0ZjE2ZjdhNGM1Y2RmMTUxOTc4N2Nh`
+Snapshot ID: `MCxiMjhkNDRjY2FmNjk0NDFmMjI5OGNkZDM2NGM4ODYwNGVkM2YwMzAy`

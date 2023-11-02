@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:4BuHGiGgKtUUHqthu6Ze5x">Sam Rivera</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,777 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,867 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 52 | [The Debt \- Live](https://open.spotify.com/track/1nTK0XW7PCtLN4li9MqCYN) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [The Debt \(Live\)](https://open.spotify.com/album/7GBkmXSNKqgJucPu9TyEdt) | 4:08 |
 | 53 | [Room In A Heart](https://open.spotify.com/track/4umr41QbOFucCoXvraQXtY) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [Room In A Heart](https://open.spotify.com/album/3IcD28d0QsU35yokSVw8y2) | 3:42 |
 | 54 | [Hallelujah Feeling \- Alt Mix](https://open.spotify.com/track/0opFKe45bR79DYyPEEdjI9) | [Caleb & John](https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0) | [Hallelujah Feeling](https://open.spotify.com/album/04TITO4wkNYSZkGM0vwUe3) | 3:04 |
-| 55 | [Lost On Me](https://open.spotify.com/track/71eY5aHKb5zeetOe0hJNlr) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Lost On Me](https://open.spotify.com/album/3oWCHFFHearFgGwxa6vyIZ) | 3:26 |
+| 55 | [Lost On Me](https://open.spotify.com/track/4NhhOSsoijnkGOSZS7HALp) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Lost On Me](https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu) | 3:26 |
 | 56 | [NVR LOOK BACK \- Studio](https://open.spotify.com/track/3dBSffAZroHD7yxzgwgAx6) | [Life Church Music](https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2), [NEW YOUTH](https://open.spotify.com/artist/1DOPr6qOVG7X8Iughc8jxG), [Isreal Perez](https://open.spotify.com/artist/6IcSIZjDXrj05vHncw2BmO) | [NVR LOOK BACK \(Studio\)](https://open.spotify.com/album/6iq9rqb8SuMNT4beencFD7) | 3:10 |
 | 57 | [God Is For You](https://open.spotify.com/track/4qwdVi0MbRcG5VdvF2QEnb) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [God Is For You](https://open.spotify.com/album/2ZG6q0V7ahSUCYoeaIS9II) | 3:22 |
 | 58 | [burning roses](https://open.spotify.com/track/1ur0UApzybGEhxpHzdCy2S) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [burning roses](https://open.spotify.com/album/7yHSF0unveiLFVbH5LzRJT) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [All I Need](https://open.spotify.com/track/3POO6wDiNOISVDiPFsiY0l) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [All I Need](https://open.spotify.com/album/5nUlpUbBsbb2mhc71xLMWL) | 2:58 |
 | 100 | [Found \(feat\. Marty, Battz & Jes Norris\)](https://open.spotify.com/track/4w2uxW5PNSb1kFdyFPp7T0) | [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI), [Jes Norris](https://open.spotify.com/artist/1dkJq9g0LZE84RaN65lfQC) | [Found \(feat\. Marty, Battz & Jes Norris\)](https://open.spotify.com/album/2v0j43qR4RnaQqafzi08na) | 3:05 |
 
-Snapshot ID: `MCw5YjJkZDllZjQxYTgyN2FiMDA0MjZiMmVmYWI4NzY1YjNlMDQ1NmNj`
+Snapshot ID: `MCwwZDZjNjQ5ZDQ2MTQxNDM2M2NjOGY1NDI2OWIxMzE1YWI2Nzg2N2Uw`

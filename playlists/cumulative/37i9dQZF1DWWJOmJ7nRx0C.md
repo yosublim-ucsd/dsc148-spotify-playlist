@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Metallica
 
-1,000 songs - 2 day 11 hr 55 min
+1,001 songs - 2 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,7 +444,8 @@
 | [Imposter Syndrome \(feat\. Lzzy Hale\)](https://open.spotify.com/track/64wbg9tWc1hKSB4qokoq0e) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Imposter Syndrome \(feat\. Lzzy Hale\)](https://open.spotify.com/album/4HhYDRWtEOESsVY2K4ZEyo) | 3:50 | 2023-09-29 |  |
 | [IN THREES](https://open.spotify.com/track/1TIBjAmf6B2K0xfcb7ja7r) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [JordyPurp](https://open.spotify.com/artist/7uEPTaEXCsV396Tt2OalLy) | [IN THREES](https://open.spotify.com/album/7eCCtzR9Vx8Rupmlo1O8eA) | 3:05 | 2021-12-10 | 2022-10-29 |
 | [Indestructible](https://open.spotify.com/track/6BYZGyIwoHBy8i4zcS2ABM) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Indestructible](https://open.spotify.com/album/7Cs1UNk3IVQeCHjNXkSeJQ) | 3:21 | 2021-06-11 | 2022-06-25 |
-| [Invisible Hand](https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Invisible Hand](https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz) | 3:54 | 2023-08-04 |  |
+| [Invisible Hand](https://open.spotify.com/track/4r5bMIasNl5uYBnzf9TYXU) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Goodnight, God Bless, I Love U, Delete.](https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn) | 3:54 | 2023-10-27 |  |
+| [Invisible Hand](https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Invisible Hand](https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz) | 3:54 | 2023-08-04 | 2023-11-02 |
 | [Is It Really You?](https://open.spotify.com/track/4ndmsvcCgLZH2hZwVw8cuJ) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd), [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Is It Really You?](https://open.spotify.com/album/3ECdQKxcDWZGwN4dSBVdoH) | 4:42 | 2022-07-22 | 2022-09-24 |
 | [It Hurts](https://open.spotify.com/track/04Z1dVhKypUiZQdMJZsC2r) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:18 | 2023-04-21 | 2023-05-13 |
 | [It Hurts](https://open.spotify.com/track/4pQmwpx6EUeoBJRMUKooMs) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [It Hurts](https://open.spotify.com/album/0UztMLoY6Ebqv9rCmZwghR) | 3:18 | 2023-02-10 | 2023-04-25 |

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253386,
+      "name": "24.03",
+      "url": "https://open.spotify.com/track/5jgJT45Eeitvo5rrSsu0sv"
+    },
+    {
+      "album": {
         "name": "A Barely Lit Path",
         "url": "https://open.spotify.com/album/2PDvJr7NSgcBmIRUH5Ypxv"
       },
@@ -287,6 +305,46 @@
     },
     {
       "album": {
+        "name": "Dissolved Cycles EP",
+        "url": "https://open.spotify.com/album/67v6vjR3Glf8j8yBVPaYaC"
+      },
+      "artists": [
+        {
+          "name": "Binary Algorithms",
+          "url": "https://open.spotify.com/artist/39OsBQUqifnEpIcimTUYwX"
+        },
+        {
+          "name": "Zvrra",
+          "url": "https://open.spotify.com/artist/788kSd1MKhvXhmIyyTXqCZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320137,
+      "name": "Cycle A",
+      "url": "https://open.spotify.com/track/6Ouqcd1loTdOeViPsWGjAf"
+    },
+    {
+      "album": {
+        "name": "Lahai",
+        "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233640,
+      "name": "Dancing Circles",
+      "url": "https://open.spotify.com/track/6lNyT8TfnpMTRrmJRQKQC9"
+    },
+    {
+      "album": {
         "name": "Dancing In The Shadows",
         "url": "https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6"
       },
@@ -309,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Dang",
+        "url": "https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164514,
+      "name": "Dang",
+      "url": "https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8"
+    },
+    {
+      "album": {
         "name": "Scacco Matto",
         "url": "https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p"
       },
@@ -324,6 +400,24 @@
       "duration_ms": 277026,
       "name": "Discipline of Enthusiasm",
       "url": "https://open.spotify.com/track/0rQdh8QTvHfvx9SdO3FHhj"
+    },
+    {
+      "album": {
+        "name": "Master of My Make-Believe",
+        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284400,
+      "name": "Disparate Youth",
+      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
     },
     {
       "album": {
@@ -385,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Discreet Desires",
+        "url": "https://open.spotify.com/album/0bQyK8wR0FFKE0rJyQH9pQ"
+      },
+      "artists": [
+        {
+          "name": "Helena Hauff",
+          "url": "https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101046,
+      "name": "Dreams in Colour",
+      "url": "https://open.spotify.com/track/6lkzLlHLfUqnMpoWtPowGd"
+    },
+    {
+      "album": {
         "name": "Dreamy",
         "url": "https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze"
       },
@@ -396,10 +508,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 179800,
       "name": "Dreamy",
       "url": "https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn"
+    },
+    {
+      "album": {
+        "name": "On Giacometti",
+        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Dreamy",
+      "url": "https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J"
     },
     {
       "album": {
@@ -458,6 +588,24 @@
       "duration_ms": 182160,
       "name": "Esp\u00e9rame En El Cielo",
       "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
+    },
+    {
+      "album": {
+        "name": "trip9love...???",
+        "url": "https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7"
+      },
+      "artists": [
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218830,
+      "name": "F22",
+      "url": "https://open.spotify.com/track/4NM45sK65OBAqXeWjDyJ1d"
     },
     {
       "album": {
@@ -775,6 +923,32 @@
     },
     {
       "album": {
+        "name": "Just Off Wave / Open Mic Beat",
+        "url": "https://open.spotify.com/album/6TZBKEJW8DMFjbRhbERA8c"
+      },
+      "artists": [
+        {
+          "name": "CZ Wang",
+          "url": "https://open.spotify.com/artist/4FeNSvYRtMNdMbCSVJox16"
+        },
+        {
+          "name": "Neo Image",
+          "url": "https://open.spotify.com/artist/0ZVQmJLJs7TWVXFew0xp0z"
+        },
+        {
+          "name": "Separated At Birth",
+          "url": "https://open.spotify.com/artist/1AzQkEA2oUyhk2XDogLOOI"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323200,
+      "name": "Just Off Wave",
+      "url": "https://open.spotify.com/track/20bTVYNJ8KNoWmtD6CyIXs"
+    },
+    {
+      "album": {
         "name": "D Loops, Vol. 2",
         "url": "https://open.spotify.com/album/3Cp03m9tTDN9BE8okqmfaZ"
       },
@@ -851,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "King Bromeliad / Montparnasse",
+        "url": "https://open.spotify.com/album/268qxT9wKnanAK5cePUek7"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532499,
+      "name": "King Bromeliad",
+      "url": "https://open.spotify.com/track/6bN5bGdC7ze3JvWvPN67Op"
+    },
+    {
+      "album": {
         "name": "\u2661",
         "url": "https://open.spotify.com/album/2VyYH4z9IR5IBSc3To5cQ0"
       },
@@ -910,6 +1102,24 @@
       "duration_ms": 177640,
       "name": "Le Tremblement",
       "url": "https://open.spotify.com/track/2dYhKHWQCMHLGjM85gc2N5"
+    },
+    {
+      "album": {
+        "name": "LFO (Lupe Finds Oliveros)",
+        "url": "https://open.spotify.com/album/0DkVX02cJFDAvuovLNz16Y"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "LFO (Lupe Finds Oliveros)",
+      "url": "https://open.spotify.com/track/67D1DphJpan1hFNs7H5O8i"
     },
     {
       "album": {
@@ -1443,6 +1653,32 @@
     },
     {
       "album": {
+        "name": "Rhizomes",
+        "url": "https://open.spotify.com/album/0JuR1CFbJDfGLdbqF5yc1o"
+      },
+      "artists": [
+        {
+          "name": "Aho Ssan",
+          "url": "https://open.spotify.com/artist/6DP0aNDMupNmkyK4drCrvC"
+        },
+        {
+          "name": "clipping.",
+          "url": "https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I"
+        },
+        {
+          "name": "Resina",
+          "url": "https://open.spotify.com/artist/4YwqIO2idfCdo4ZRpihMQY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454500,
+      "name": "Till The Sun Down",
+      "url": "https://open.spotify.com/track/3CI0LUY4Fy3bbJdj0whArD"
+    },
+    {
+      "album": {
         "name": "Reverse Deception",
         "url": "https://open.spotify.com/album/4Kjl7b3JrUHXlPW4ivKGbS"
       },
@@ -1574,6 +1810,24 @@
       "duration_ms": 190000,
       "name": "TYRANID",
       "url": "https://open.spotify.com/track/1mIFTfEw4h8pqQuGlSPk8K"
+    },
+    {
+      "album": {
+        "name": "Unfaithful",
+        "url": "https://open.spotify.com/album/6G2N95ktK6lASJVSWvucIX"
+      },
+      "artists": [
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207949,
+      "name": "Unfaithful",
+      "url": "https://open.spotify.com/track/7IJozY3Zc4qPGvCg3Sfbs4"
     },
     {
       "album": {

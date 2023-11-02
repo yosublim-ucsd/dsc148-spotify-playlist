@@ -268,7 +268,7 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 229350,
       "name": "Caras en el Parque",
       "url": "https://open.spotify.com/track/3yvbu9332UXDudzznrTuGw"
@@ -1190,6 +1190,24 @@
       "duration_ms": 273260,
       "name": "Sucio y Desprolijo",
       "url": "https://open.spotify.com/track/3dHo3940xcnvQaci88jAgg"
+    },
+    {
+      "album": {
+        "name": "Pappo's Blues, Vol. 3",
+        "url": "https://open.spotify.com/album/1F3hULFzB7JebCft7dcdBq"
+      },
+      "artists": [
+        {
+          "name": "Pappo's Blues",
+          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
+        }
+      ],
+      "date_added": "2020-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275386,
+      "name": "Sucio y Desprolijo",
+      "url": "https://open.spotify.com/track/4gyVO49rTCm0JsSbKMqSxX"
     },
     {
       "album": {

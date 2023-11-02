@@ -5149,6 +5149,24 @@
     },
     {
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206961,
+      "name": "Esperar\u00e9",
+      "url": "https://open.spotify.com/track/7LY7rzKjEautSA2aigjyoH"
+    },
+    {
+      "album": {
         "name": "Espiral",
         "url": "https://open.spotify.com/album/495rUc24tM77ybcvdozycw"
       },
@@ -10454,7 +10472,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 208821,
       "name": "Lucero",
       "url": "https://open.spotify.com/track/2VT5GfzNkU69TCNxpTvwXs"
@@ -10780,10 +10798,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 243687,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq"
+    },
+    {
+      "album": {
+        "name": "Hackney Diamonds",
+        "url": "https://open.spotify.com/album/3j0kAPRr52jZmyIy4olRK9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243687,
+      "name": "Mess It Up",
+      "url": "https://open.spotify.com/track/6fVCPBFgs69jSSM114rGmy"
     },
     {
       "album": {
@@ -11492,7 +11528,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 176529,
       "name": "Naughty Girl",
       "url": "https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD"
@@ -11514,7 +11550,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 176529,
       "name": "Naughty Girl",
       "url": "https://open.spotify.com/track/6N1T8r7vpVoxUIwdMCihKr"

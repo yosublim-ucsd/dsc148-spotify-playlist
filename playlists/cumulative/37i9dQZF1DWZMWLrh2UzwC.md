@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Taylor Swift
 
-8,119 songs - 18 day 13 hr 8 min
+8,120 songs - 18 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1700,7 +1700,7 @@
 | [Different \(Demo\)](https://open.spotify.com/track/1xY16wZWhPXeH2xJi29enJ) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock \(Deluxe\)](https://open.spotify.com/album/3z2cnNE3r5qNjTQCeovM4W) | 3:31 | 2023-07-13 | 2023-07-21 |
 | [Different Breed \(feat\. Swae Lee & Latto\)](https://open.spotify.com/track/6GeNWEE6sxYf5hMO93gw42) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Different Breed \(feat\. Swae Lee & Latto\)](https://open.spotify.com/album/5eJ3QcbxAgOauF9yr9OlCT) | 2:55 | 2023-10-19 | 2023-10-27 |
 | [Different Directions](https://open.spotify.com/track/59YYx42Tyvuq5REmjJTWyh) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Different Directions](https://open.spotify.com/album/36Wq4A6zAo4GEON57bZxtp) | 2:31 | 2023-10-12 | 2023-10-20 |
-| [Different Kind Of Beautiful](https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Different Kind Of Beautiful](https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t) | 3:21 | 2023-10-26 |  |
+| [Different Kind Of Beautiful](https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Different Kind Of Beautiful](https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t) | 3:21 | 2023-10-26 | 2023-11-02 |
 | [different...](https://open.spotify.com/track/5UsidyX3Wocveuplfzz9AK) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [different...](https://open.spotify.com/album/46leWH1QOXzyOFgJWOD5Ws) | 3:00 | 2023-01-26 | 2023-02-03 |
 | [Difficult](https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Difficult](https://open.spotify.com/album/5ut6gnxZsNlq5ZjiW06Ht8) | 4:17 | 2022-10-06 | 2022-10-14 |
 | [Digging For Diamonds](https://open.spotify.com/track/5eMUxYy0XTxjwsbWkRneP9) | [Matilde G](https://open.spotify.com/artist/4kV6iM6LBNfZX4qRHJUoNH) | [Digging For Diamonds](https://open.spotify.com/album/5SlboR68la1BpMmqZQ9uEr) | 3:05 | 2022-03-24 | 2022-03-30 |
@@ -3753,6 +3753,7 @@
 | [Kita Semua Wira](https://open.spotify.com/track/2aOHrRacuYFRJuXrxxdJ2V) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Kita Semua Wira](https://open.spotify.com/album/6jiE1LzpmyK4dCeQ8ZUPEX) | 3:10 | 2023-03-09 | 2023-03-18 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-30 | 2023-04-07 |
 | [KNOCK](https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Over The Moon](https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3) | 2:53 | 2023-04-13 | 2023-04-21 |
+| [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 | 2023-10-26 |  |
 | [Koala](https://open.spotify.com/track/0qWInbxDZ6sKLcKLRZS60E) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Koala](https://open.spotify.com/album/6TZqWG1Kk5y32ZVdrJM8aK) | 2:35 | 2023-08-31 | 2023-09-08 |
 | [Kong 2.0](https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kong 2.0](https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi) | 3:22 | 2022-05-12 | 2022-05-20 |
 | [Kong Kali Kong](https://open.spotify.com/track/3ZSMdkjrxvB6fY3eBdS38i) | [Floor 88](https://open.spotify.com/artist/4QwvHvUlOSlPvxH7ldeEvD), [Namiey](https://open.spotify.com/artist/1o8u7FWcdL5S8upSWJNoNw) | [Kong Kali Kong](https://open.spotify.com/album/7cIbMGFQcsAaURdaNGyE0L) | 3:18 | 2022-10-27 | 2022-11-04 |

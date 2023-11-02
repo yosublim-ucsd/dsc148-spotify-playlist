@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Ray Laurél
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,112 likes - 81 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,139 likes - 81 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 80 | [Do You](https://open.spotify.com/track/4ZffJ6gXFwMzpzLrlRHSh0) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Do You](https://open.spotify.com/album/0RqhEB5mHX22h2FsHLF2m4) | 4:08 |
 | 81 | [Wait For You](https://open.spotify.com/track/6cMHlSJWkEClZS9kyhfzuz) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Wait For You](https://open.spotify.com/album/6JjR6OdfIJO58djrmYya2K) | 2:32 |
 
-Snapshot ID: `MCwzNmFhNjQwMmIwYTIyMDVmNzYwMWY3OTI3YjdkOWFkNTg1NTUxMGE0`
+Snapshot ID: `MCwwNTI0NzNmYmIzMmFjODdhYWNiYWIwYWFjYThjMTI5MTA1MmExNzQw`

@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,020 songs - 2 day 16 hr 19 min
+1,021 songs - 2 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Kanaeru](https://open.spotify.com/track/3v2ukwtudAPcAbK3aH3lcO) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [Kanaeru](https://open.spotify.com/album/5NToVrhF1pEWvV3BU3W1Yn) | 3:55 | 2023-01-12 | 2023-02-08 |
 | [KANATA HALUKA](https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [KANATA HALUKA](https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p) | 5:55 | 2022-10-27 | 2022-11-14 |
 | [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 5:55 | 2022-11-13 | 2023-01-18 |
+| [Kataomoi \- From CrosSing](https://open.spotify.com/track/5ZZrQwgtdm0pGC8YA3qO50) | [Hasegawa Ikumi](https://open.spotify.com/artist/2ry3SeF9037A5uPeb8FaYx) | [Kataomoi \- From CrosSing](https://open.spotify.com/album/42oVq6U7nskgpDQNdjCGga) | 3:25 | 2023-10-31 |  |
 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 | 2022-09-27 | 2023-01-06 |
 | [Key to My Heart](https://open.spotify.com/track/1NmvymljWwjFk64R6N24So) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [Key to My Heart](https://open.spotify.com/album/63H4TPHDzaIKYtcIGxTDzM) | 3:50 | 2023-01-17 | 2023-02-01 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-11 | 2023-07-05 |
@@ -681,7 +682,7 @@
 | [エメラルド](https://open.spotify.com/track/1YVMz0iftvnc4stAEMkhJr) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [エメラルド](https://open.spotify.com/album/09mACU8bjpR5TiX37AXTEp) | 3:40 | 2023-05-09 | 2023-05-24 |
 | [エンドロール](https://open.spotify.com/track/55H19piKezaPeqrTDbjHcO) | [Amber's](https://open.spotify.com/artist/02uHSOwZg81iN67YEBbc0O) | [エンドロール](https://open.spotify.com/album/6Sm5KfLUdSwElGh02mV51A) | 4:10 | 2023-07-11 | 2023-08-02 |
 | [カオスが極まる](https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [カオスが極まる](https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI) | 3:50 | 2022-10-18 | 2023-01-13 |
-| [カタオモイ \- from CrosSing](https://open.spotify.com/track/0479VLYXQef7QpQsbOffH9) | [長谷川育美](https://open.spotify.com/artist/1Lx0quf8SwnTM2Ucr9fEA6) | [カタオモイ \- from CrosSing](https://open.spotify.com/album/3xOhRNZiKMRuZZjyBACawZ) | 3:25 | 2023-10-31 |  |
+| [カタオモイ \- from CrosSing](https://open.spotify.com/track/0479VLYXQef7QpQsbOffH9) | [長谷川育美](https://open.spotify.com/artist/1Lx0quf8SwnTM2Ucr9fEA6) | [カタオモイ \- from CrosSing](https://open.spotify.com/album/3xOhRNZiKMRuZZjyBACawZ) | 3:25 | 2023-10-31 | 2023-11-02 |
 | [カラフルエンドエピローグ](https://open.spotify.com/track/6dEHgSbxLvgv6M7AKJldy4) | [日南葵\(CV:金元寿子\)](https://open.spotify.com/artist/3dRNtAFVXz4R8ktXX6PBqb), [七海みなみ\(CV:長谷川育美\)](https://open.spotify.com/artist/6c5RcHQCNxrXwbvgRNwyL7), [菊池風香\(CV:茅野愛衣\)](https://open.spotify.com/artist/7vuFzlerWfjt2oMZuloThF), [夏林花火\(CV:前川涼子\)](https://open.spotify.com/artist/5bdOjTlKATbUfCPzvc6F59), [泉優鈴\(CV:稗田寧々\)](https://open.spotify.com/artist/5SnGgtuQOezuYGuyKm8oKd) | [カラフルエンドエピローグ](https://open.spotify.com/album/6RRhHpQlo5httXeASMdNW6) | 4:23 | 2023-01-17 | 2023-01-19 |
 | [カラーリング バイ G\-レコ \- 劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ](https://open.spotify.com/track/5qIQj1hQA37xMINca0gDel) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [カラーリング バイ G\-レコ \(劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ\)](https://open.spotify.com/album/5JqvjrwI64lGv2nnN6JJ7s) | 3:54 | 2022-07-21 | 2022-07-29 |
 | [カラー・リリィの恋文](https://open.spotify.com/track/7Eojb2w0e8zV8r8M6z0geM) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [カラー・リリィの恋文](https://open.spotify.com/album/4cNFuAvGpB1Cp1E8FWL7Fh) | 3:47 | 2022-07-14 | 2022-10-09 |

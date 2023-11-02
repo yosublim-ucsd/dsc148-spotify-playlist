@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:1bdnGJxkbIIys5Jhk1T74v">Brandon Lake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,517 likes - 100 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,657 likes - 100 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [To Be Loved](https://open.spotify.com/track/4hCyhlDZteeEkLzllLq9ur) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [This Is My Local](https://open.spotify.com/album/6mwSaLjGyeZ8FQUXOpW590) | 4:39 |
 | 100 | [Light a Fire](https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Light a Fire](https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8) | 4:54 |
 
-Snapshot ID: `MCwxNDIwMjcyMzk2YzIzOGNmYTlkZjYyMDE1MTEwMzE5NjRmNDc5MmM2`
+Snapshot ID: `MCw1YWNhYTdhMWI2ZGNmMjBmODk4MzU4OGExZDQ2ZjMyYTVmOTBhNjNh`

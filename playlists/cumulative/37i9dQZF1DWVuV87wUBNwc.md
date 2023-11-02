@@ -2,7 +2,7 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> iñigo quintero au sommet de la première playlist de France.
+> Sia au sommet de la première playlist de France.
 
 93 songs - 4 hr 45 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,765 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,768 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 43 | [Family Meeting](https://open.spotify.com/track/55U6O6goagYMVzoF0oJ0JK) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:07 |
 | 44 | [Kusina Mai](https://open.spotify.com/track/6foGZFf5hdViyimMImFv6f) | [Wanitwa Mos](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Jah Prayzah](https://open.spotify.com/artist/13JLy7UFJgqRypeQGbucP3) | [Kusina Mai](https://open.spotify.com/album/5I4qnFcv2Crz5NVCWZ5PJW) | 5:46 |
 | 45 | [Original Composition](https://open.spotify.com/track/7mEbePr6OXjPqFBKpwe1Yj) | [Obi Original](https://open.spotify.com/artist/1S5rzgpwdSbYfimpcOkICu), [The Black Atlantics](https://open.spotify.com/artist/7rotoTBUL2rftPeIwomIxR) | [Original Composition + Vitamin "D"](https://open.spotify.com/album/5o2kpxVAjN2SFdb7hzwiIf) | 3:13 |
-| 46 | [Inside](https://open.spotify.com/track/2F5IXlnz0CcA5pbLPfkvNp) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [London Rhodes](https://open.spotify.com/artist/0xOc1dxgxm7uqzHoq0yS7l) | [Comma](https://open.spotify.com/album/2h2XSOe208XHaiaP4Ska3r) | 3:30 |
+| 46 | [Inside](https://open.spotify.com/track/2F5IXlnz0CcA5pbLPfkvNp) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Loud Haileer](https://open.spotify.com/artist/1Uo7fn4xuUc2jO5s1kZ6bR), [Christer](https://open.spotify.com/artist/2vemjAzrRomX77RflYLqbU) | [Comma](https://open.spotify.com/album/2h2XSOe208XHaiaP4Ska3r) | 3:30 |
 | 47 | [How Are You \(My Friend\)](https://open.spotify.com/track/2QdqML21AFaQPWxmhuv1KW) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [How Are You \(My Friend\)](https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq) | 3:16 |
 | 48 | [Free \(Sounds for Healing\)](https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Free \(Sounds for Healing\)](https://open.spotify.com/album/1qa2PJk618Xu942YIcnnkQ) | 4:22 |
 | 49 | [capture my soul \(feat\. Joeboy\)](https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 74 | [Love U Right Away](https://open.spotify.com/track/1izdaNNZ7agtWDjAZq2WXb) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Love U Right Away](https://open.spotify.com/album/3qzAMgBTHM590Q4TtDzqYu) | 2:34 |
 | 75 | [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 |
 
-Snapshot ID: `MCw3YjJiMjBmZWNlZDhiY2RlY2MyNGEwYmRmY2ViYzY0NjMwNjg5OWFh`
+Snapshot ID: `MCw0MjgwNGZlYzBjOTYxZWZlMWFlNDFjYzgxMmQzNzJjZjA4OTdhNzIy`

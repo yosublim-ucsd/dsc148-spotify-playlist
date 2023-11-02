@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 7420,
+  "num_followers": 7455,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWMwY2M1MGFlZjcxZTNmNGVjNmFlZDgxYTMyY2I2MWNlZTNlZjk5",
+  "snapshot_id": "MCwzZGRkYzE5MmU0YWI1ZDFhZDUxNjIxY2E0ODYwZWU3NjU5ZTFmMjA0",
   "tracks": [
     {
       "added_at": "2023-10-27 04:17:19",
@@ -127,6 +127,30 @@
     {
       "added_at": "2023-10-27 04:17:19",
       "album": {
+        "name": "Hotel Lounge in Havana",
+        "url": "https://open.spotify.com/album/7i9DSwLtAO2lcgOH2BAwBK"
+      },
+      "artists": [
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        },
+        {
+          "name": "93Alekk",
+          "url": "https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu"
+        },
+        {
+          "name": "Lipoov",
+          "url": "https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t"
+        }
+      ],
+      "duration_ms": 115016,
+      "name": "Hotel Lounge in Havana",
+      "url": "https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS"
+    },
+    {
+      "added_at": "2023-10-27 04:17:19",
+      "album": {
         "name": "Confete e serpentina",
         "url": "https://open.spotify.com/album/5SY6oIqvOTcjggKR4o13ZR"
       },
@@ -151,30 +175,6 @@
       "duration_ms": 138461,
       "name": "Confete e serpentina",
       "url": "https://open.spotify.com/track/7GloKOoI9fFgVdLyp5EDvh"
-    },
-    {
-      "added_at": "2023-10-27 04:17:19",
-      "album": {
-        "name": "Hotel Lounge in Havana",
-        "url": "https://open.spotify.com/album/7i9DSwLtAO2lcgOH2BAwBK"
-      },
-      "artists": [
-        {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
-        },
-        {
-          "name": "93Alekk",
-          "url": "https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu"
-        },
-        {
-          "name": "Lipoov",
-          "url": "https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t"
-        }
-      ],
-      "duration_ms": 115016,
-      "name": "Hotel Lounge in Havana",
-      "url": "https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS"
     },
     {
       "added_at": "2023-10-27 04:17:19",
@@ -351,22 +351,22 @@
     {
       "added_at": "2023-10-27 04:17:19",
       "album": {
-        "name": "Monte Nativo",
-        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
+        "name": "Barrio",
+        "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
       },
       "artists": [
         {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+          "name": "BRXWS",
+          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
         },
         {
-          "name": "Mindr",
-          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 127586,
-      "name": "Viento de Arrabal",
-      "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
+      "duration_ms": 125861,
+      "name": "Barrio",
+      "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
     },
     {
       "added_at": "2023-10-27 04:17:19",
@@ -407,26 +407,6 @@
     {
       "added_at": "2023-10-27 04:17:19",
       "album": {
-        "name": "Barrio",
-        "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
-      },
-      "artists": [
-        {
-          "name": "BRXWS",
-          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 125861,
-      "name": "Barrio",
-      "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
-    },
-    {
-      "added_at": "2023-10-27 04:17:19",
-      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 93000,
       "name": "Ukelele At Night",
       "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
+    },
+    {
+      "added_at": "2023-10-27 04:17:19",
+      "album": {
+        "name": "Monte Nativo",
+        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Mindr",
+          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
+        }
+      ],
+      "duration_ms": 127586,
+      "name": "Viento de Arrabal",
+      "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
     },
     {
       "added_at": "2023-10-27 04:17:19",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-10-27 04:17:19",
       "album": {
+        "name": "Lofi Latino, Vol. 2",
+        "url": "https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb"
+      },
+      "artists": [
+        {
+          "name": "Lofi Cult",
+          "url": "https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5"
+        }
+      ],
+      "duration_ms": 138709,
+      "name": "La Selva Nos Llama",
+      "url": "https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2"
+    },
+    {
+      "added_at": "2023-10-27 04:17:19",
+      "album": {
         "name": "Happy To Help",
         "url": "https://open.spotify.com/album/4EZ4dKI2uWAZgF7Gf21rfp"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 112065,
       "name": "Happy To Help",
       "url": "https://open.spotify.com/track/6daTLzt1uhoximZNMKoqlG"
-    },
-    {
-      "added_at": "2023-10-27 04:17:19",
-      "album": {
-        "name": "Lofi Latino, Vol. 2",
-        "url": "https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb"
-      },
-      "artists": [
-        {
-          "name": "Lofi Cult",
-          "url": "https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5"
-        }
-      ],
-      "duration_ms": 138709,
-      "name": "La Selva Nos Llama",
-      "url": "https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2"
     },
     {
       "added_at": "2023-10-27 04:17:19",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-10-27 04:17:19",
       "album": {
+        "name": "lucky monkey",
+        "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
+      },
+      "artists": [
+        {
+          "name": "archipelago beats",
+          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "lucky monkey",
+      "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
+    },
+    {
+      "added_at": "2023-10-27 04:17:19",
+      "album": {
         "name": "love in medell\u00edn",
         "url": "https://open.spotify.com/album/6IHUbJzZ2P4XMC9fq4O7TA"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2023-10-27 04:17:19",
       "album": {
-        "name": "lucky monkey",
-        "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
-      },
-      "artists": [
-        {
-          "name": "archipelago beats",
-          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "lucky monkey",
-      "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
-    },
-    {
-      "added_at": "2023-10-27 04:17:19",
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN"
       },
@@ -1147,6 +1147,42 @@
       "duration_ms": 236000,
       "name": "Estoy Ah\u00ed",
       "url": "https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz"
+    },
+    {
+      "added_at": "2023-10-27 04:17:19",
+      "album": {
+        "name": "Sample Saga: Brazil",
+        "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
+      },
+      "artists": [
+        {
+          "name": "Beagle Bonnie",
+          "url": "https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3"
+        },
+        {
+          "name": "DJ No\u00e9",
+          "url": "https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3"
+        }
+      ],
+      "duration_ms": 117446,
+      "name": "Devagar",
+      "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
+    },
+    {
+      "added_at": "2023-10-27 04:17:19",
+      "album": {
+        "name": "Dia de Muertos",
+        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+      },
+      "artists": [
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Cempasuchil",
+      "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
     },
     {
       "added_at": "2023-10-27 04:17:19",
@@ -1175,22 +1211,6 @@
     {
       "added_at": "2023-10-27 04:17:19",
       "album": {
-        "name": "Dia de Muertos",
-        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Cempasuchil",
-      "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
-    },
-    {
-      "added_at": "2023-10-27 04:17:19",
-      "album": {
         "name": "Ni\u00f1a",
         "url": "https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2"
       },
@@ -1211,22 +1231,18 @@
     {
       "added_at": "2023-10-27 04:17:19",
       "album": {
-        "name": "Sample Saga: Brazil",
-        "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
+        "name": "Metro Mexico",
+        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
       },
       "artists": [
         {
-          "name": "Beagle Bonnie",
-          "url": "https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3"
-        },
-        {
-          "name": "DJ No\u00e9",
-          "url": "https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3"
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
         }
       ],
-      "duration_ms": 117446,
-      "name": "Devagar",
-      "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
+      "duration_ms": 120000,
+      "name": "Metro Mexico",
+      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
     },
     {
       "added_at": "2023-10-27 04:17:19",
@@ -1243,22 +1259,6 @@
       "duration_ms": 146239,
       "name": "Cholomuco",
       "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
-    },
-    {
-      "added_at": "2023-10-27 04:17:19",
-      "album": {
-        "name": "Metro Mexico",
-        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
-      },
-      "artists": [
-        {
-          "name": "Jouta",
-          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Metro Mexico",
-      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
     },
     {
       "added_at": "2023-10-27 04:17:19",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2023-10-27 04:17:19",
       "album": {
-        "name": "soltarte (instrumental)",
-        "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
+        "name": "Callej\u00f3n de las Catrinas",
+        "url": "https://open.spotify.com/album/5Up7bwvarctNUb6TE70fDT"
       },
       "artists": [
         {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        },
-        {
-          "name": "BRXWS",
-          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 176202,
-      "name": "soltarte (instrumental)",
-      "url": "https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd"
+      "duration_ms": 75333,
+      "name": "Callej\u00f3n de las Catrinas",
+      "url": "https://open.spotify.com/track/1YFdN7uDnEGZWj1aRoOiLr"
     },
     {
       "added_at": "2023-10-27 04:17:19",
@@ -1335,6 +1331,26 @@
       "duration_ms": 98832,
       "name": "M\u00e9xico M\u00e1gico",
       "url": "https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp"
+    },
+    {
+      "added_at": "2023-10-27 04:17:19",
+      "album": {
+        "name": "soltarte (instrumental)",
+        "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        },
+        {
+          "name": "BRXWS",
+          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
+        }
+      ],
+      "duration_ms": 176202,
+      "name": "soltarte (instrumental)",
+      "url": "https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd"
     },
     {
       "added_at": "2023-10-27 04:17:19",
@@ -1427,22 +1443,6 @@
       "duration_ms": 122202,
       "name": "Ipanema Sunset",
       "url": "https://open.spotify.com/track/5ZShelOhRxEpV21NiTYQsK"
-    },
-    {
-      "added_at": "2023-10-27 04:17:19",
-      "album": {
-        "name": "Callej\u00f3n de las Catrinas",
-        "url": "https://open.spotify.com/album/5Up7bwvarctNUb6TE70fDT"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 75333,
-      "name": "Callej\u00f3n de las Catrinas",
-      "url": "https://open.spotify.com/track/1YFdN7uDnEGZWj1aRoOiLr"
     },
     {
       "added_at": "2023-10-27 04:17:19",

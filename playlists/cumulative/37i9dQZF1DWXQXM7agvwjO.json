@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: Kurosuke (Indonesia)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: \u6905\u5b50\u6a02\u5718 The Chairs (Taiwan)",
   "name": ".ORG",
   "tracks": [
     {
@@ -4640,7 +4640,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 303055,
       "name": "down down down",
       "url": "https://open.spotify.com/track/6RHzoxlfCgxZqaaNGSaOXa"
@@ -6812,7 +6812,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 219498,
       "name": "hold you close",
       "url": "https://open.spotify.com/track/0mK9h53uygjAiHVps0wu45"
@@ -7094,7 +7094,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 212067,
       "name": "Humble Pie Tattoo",
       "url": "https://open.spotify.com/track/3b4mQzg1rKjS9MOJEIcxMl"
@@ -8448,6 +8448,24 @@
       "duration_ms": 221374,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/3fYRIQXvG6Ge1ERfMgcRJE"
+    },
+    {
+      "album": {
+        "name": "JOHJI",
+        "url": "https://open.spotify.com/album/6Mv4qwCruIA7hkMAoCwPOt"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288184,
+      "name": "JOHJI",
+      "url": "https://open.spotify.com/track/1trPyHkA0NvuY8jfYLEruI"
     },
     {
       "album": {
@@ -10170,7 +10188,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 269205,
       "name": "Melody Of Your Heart",
       "url": "https://open.spotify.com/track/6vii1h2OYYopzYpwHOWMcT"
@@ -12624,7 +12642,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 267956,
       "name": "Psychic Girl",
       "url": "https://open.spotify.com/track/5XJxAmAfcsZCKo8SIWbCqM"
@@ -14096,7 +14114,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 255000,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY"
@@ -14443,6 +14461,24 @@
     },
     {
       "album": {
+        "name": "Stay Down",
+        "url": "https://open.spotify.com/album/4KjIXvJyUVVU9ZriV8Um46"
+      },
+      "artists": [
+        {
+          "name": "Common People Like You",
+          "url": "https://open.spotify.com/artist/485LFmKmOvxKT55DHC3Njm"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228169,
+      "name": "Stay Down",
+      "url": "https://open.spotify.com/track/79R9bqUjcNpxbVHussLqne"
+    },
+    {
+      "album": {
         "name": "Step in Step in",
         "url": "https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4"
       },
@@ -14552,6 +14588,24 @@
       "duration_ms": 164745,
       "name": "STRANGER",
       "url": "https://open.spotify.com/track/3RZWanTuiT7LaHSft9wCnv"
+    },
+    {
+      "album": {
+        "name": "Strangers In The Night",
+        "url": "https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235931,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr"
     },
     {
       "album": {
@@ -16032,7 +16086,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 178252,
       "name": "trippin",
       "url": "https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT"

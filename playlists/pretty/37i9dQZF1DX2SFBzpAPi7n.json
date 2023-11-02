@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: cotoba(\ucf54\ud1a0\ubc14)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 226527,
+  "num_followers": 226543,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmRkMWY2M2RlZmFhMzZlOGQ5MzRmMjBjMmViNGI1NjFiMmE5ZTcz",
+  "snapshot_id": "MCw4NmVmMjhlMWI0NWY2MWQwMzg1NGE0OGZjNjdhNjhhOTA1ZjE4NTA4",
   "tracks": [
     {
       "added_at": "2023-10-27 03:14:07",
@@ -279,8 +279,8 @@
     {
       "added_at": "2023-10-27 03:14:07",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
+      "duration_ms": 215476,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
     },
     {
       "added_at": "2023-10-27 03:14:07",
@@ -375,38 +375,6 @@
     {
       "added_at": "2023-10-27 03:14:07",
       "album": {
-        "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
-        "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 300786,
-      "name": "Event Horizon",
-      "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
-    },
-    {
-      "added_at": "2023-10-27 03:14:07",
-      "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
-    },
-    {
-      "added_at": "2023-10-27 03:14:07",
-      "album": {
         "name": "[Dystopia : Lose Myself]",
         "url": "https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz"
       },
@@ -419,6 +387,38 @@
       "duration_ms": 189546,
       "name": "BOCA",
       "url": "https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n"
+    },
+    {
+      "added_at": "2023-10-27 03:14:07",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
+    },
+    {
+      "added_at": "2023-10-27 03:14:07",
+      "album": {
+        "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
+        "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 300786,
+      "name": "Event Horizon",
+      "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
     },
     {
       "added_at": "2023-10-27 03:14:07",
@@ -487,22 +487,18 @@
     {
       "added_at": "2023-10-27 03:14:07",
       "album": {
-        "name": "UNSTABLE MINDSET",
-        "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
+        "name": "1st Album [Dystopia : The Tree of Language]",
+        "url": "https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr"
       },
       "artists": [
         {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        },
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 221133,
-      "name": "WINTER FLOWER(Feat.RM)",
-      "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
+      "duration_ms": 204293,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/7FxshQAsTWmogWU959hz3T"
     },
     {
       "added_at": "2023-10-27 03:14:07",
@@ -539,18 +535,22 @@
     {
       "added_at": "2023-10-27 03:14:07",
       "album": {
-        "name": "1st Album [Dystopia : The Tree of Language]",
-        "url": "https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr"
+        "name": "UNSTABLE MINDSET",
+        "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
       },
       "artists": [
         {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
         }
       ],
-      "duration_ms": 204293,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/7FxshQAsTWmogWU959hz3T"
+      "duration_ms": 221133,
+      "name": "WINTER FLOWER(Feat.RM)",
+      "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
     },
     {
       "added_at": "2023-10-27 03:14:07",

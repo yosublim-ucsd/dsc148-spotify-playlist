@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como El Último de la Fila.
 
-341 songs - 22 hr 11 min
+342 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Aunque el Infierno Se Congele](https://open.spotify.com/track/0H7HxKm2szWXhI3JBWATta) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Aunque el Infierno Se Congele](https://open.spotify.com/album/6vMDqzQYAO3cqbLRPTGGoC) | 3:10 | 2023-02-16 | 2023-03-03 |
 | [Aunque estemos muertos](https://open.spotify.com/track/3uO3mTwDGHrarie8K4tNMu) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Aunque estemos muertos](https://open.spotify.com/album/2dBTJbTVyoXU0SbJHbd9ZR) | 4:42 | 2023-09-14 | 2023-09-22 |
 | [Aviones Plateados \- En Directo](https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Historia de una Banda \(En Directo\)](https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu) | 3:50 | 2022-05-19 | 2023-10-27 |
-| [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 | 2022-05-26 |  |
+| [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 | 2022-05-26 | 2023-11-02 |
 | [Bailaré sobre tu tumba](https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw) | [Siniestro Total](https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv) | [Bailaré sobre tu tumba](https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw) | 3:05 | 2023-08-17 |  |
 | [Bailemos \- On The Road](https://open.spotify.com/track/0VuqnABiEQSLzVY1N3sm4v) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Entre las dudas y el azar](https://open.spotify.com/album/5expex0cGvBl9uKBs5ZFF3) | 4:12 | 2022-12-08 | 2023-02-03 |
 | [Balada para un violín \- Sin violín](https://open.spotify.com/track/1xv0RT8Ml0XE8EWnHAtSaK) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn) | [Cinco Miradas](https://open.spotify.com/album/0mT8VfC1lklBIHRwLM4hJI) | 2:48 | 2023-05-04 | 2023-05-12 |
@@ -201,6 +201,7 @@
 | [Lo difícil](https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Uno](https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl) | 3:08 | 2022-05-19 |  |
 | [Lo que nunca te dije](https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Lo que nunca te dije](https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID) | 2:40 | 2022-08-25 | 2022-10-28 |
 | [Lo Siento](https://open.spotify.com/track/2x61iZkbSjW76OX6PQleiX) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Lo Siento](https://open.spotify.com/album/1G76m2bawyWMl7Rg1shAF6) | 3:48 | 2022-09-01 | 2022-09-30 |
+| [Loco](https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Loco](https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9) | 3:29 | 2023-10-26 |  |
 | [Loco Loco Loco](https://open.spotify.com/track/4S4WcLXai3QeZW1cDmpgzu) | [Iguana Tango](https://open.spotify.com/artist/5P4gTu22GQje4EDwps9cht) | [Loco Loco Loco](https://open.spotify.com/album/6nA3Hr5Dip082fdm4KWGoe) | 3:45 | 2023-07-27 | 2023-08-04 |
 | [Los días contados \(feat\. Funambulista, Shinova\)](https://open.spotify.com/track/6VwFAPGWOfHirpRLMVj7Go) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Los días contados \(feat\. Funambulista, Shinova\)](https://open.spotify.com/album/4qByfq5tS7o8pQXyz3QzI0) | 3:47 | 2023-09-21 |  |
 | [Lucha de Gigantes](https://open.spotify.com/track/5afAcSipBblWpFBxU93khB) | [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA), [Sôber](https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN) | [Lucha de Gigantes](https://open.spotify.com/album/2oKzQjw4cKGz43E2URP5Sk) | 3:19 | 2023-06-15 | 2023-06-23 |

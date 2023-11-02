@@ -1,12 +1,12 @@
 {
   "description": "Melt into the Atmospheric Calm with these mellow beats and ambient tones.",
-  "num_followers": 749253,
+  "num_followers": 749284,
   "original_name": "Atmospheric Calm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjE4MWNlZTkxYzg0Yzc0MGQwZTgwYjgwN2IxMGM2MTYwMWIwZTM0",
+  "snapshot_id": "MCxiN2RlYTRkM2Q3NmZiYTkyMzhjOTg5ZDM4MTMzMzFlYjMxNWM4NWE1",
   "tracks": [
     {
       "added_at": "2023-10-20 00:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Opulence",
-        "url": "https://open.spotify.com/album/1T8mFwmRgnGXLCS6IZBst9"
-      },
-      "artists": [
-        {
-          "name": "Spherical Harmonics",
-          "url": "https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Opulence",
-      "url": "https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Pan Serenade",
         "url": "https://open.spotify.com/album/2YNQuawkFrWf9Fittz8cIq"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 154800,
       "name": "Futura Nova",
       "url": "https://open.spotify.com/track/0oEiyb6tSp2zXavLyUAAlF"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Opulence",
+        "url": "https://open.spotify.com/album/1T8mFwmRgnGXLCS6IZBst9"
+      },
+      "artists": [
+        {
+          "name": "Spherical Harmonics",
+          "url": "https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Opulence",
+      "url": "https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Stella",
-        "url": "https://open.spotify.com/album/1ai1jBFImpmxd6KkSPZtMX"
-      },
-      "artists": [
-        {
-          "name": "The Lost Astronaut",
-          "url": "https://open.spotify.com/artist/2th806MD01Yc7JKd06uJ14"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Stella",
-      "url": "https://open.spotify.com/track/1ZLsZGzB04p76fyrUcnxOf"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Resonatic",
         "url": "https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Lumineux",
-        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
+        "name": "Stella",
+        "url": "https://open.spotify.com/album/1ai1jBFImpmxd6KkSPZtMX"
       },
       "artists": [
         {
-          "name": "Alice Rolande",
-          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
+          "name": "The Lost Astronaut",
+          "url": "https://open.spotify.com/artist/2th806MD01Yc7JKd06uJ14"
         }
       ],
-      "duration_ms": 217893,
-      "name": "Lumineux",
-      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
+      "duration_ms": 180500,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/1ZLsZGzB04p76fyrUcnxOf"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -935,6 +919,22 @@
       "duration_ms": 196363,
       "name": "Shorelines",
       "url": "https://open.spotify.com/track/0cVi3D1VYxux7GlRH8nqKf"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Lumineux",
+        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
+      },
+      "artists": [
+        {
+          "name": "Alice Rolande",
+          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
+        }
+      ],
+      "duration_ms": 217893,
+      "name": "Lumineux",
+      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Glaciers",
-        "url": "https://open.spotify.com/album/5DAdHl1zMFWuxnpF72sqP7"
+        "name": "Who Tends a Garden",
+        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
       },
       "artists": [
         {
-          "name": "Night Sounds",
-          "url": "https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5"
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
         }
       ],
-      "duration_ms": 184186,
-      "name": "Glaciers",
-      "url": "https://open.spotify.com/track/5h2bCmH2gc7Zf6AFLpAaoD"
+      "duration_ms": 280625,
+      "name": "Who Tends a Garden",
+      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1179,34 +1179,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Who Tends a Garden",
-        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
+        "name": "Glaciers",
+        "url": "https://open.spotify.com/album/5DAdHl1zMFWuxnpF72sqP7"
       },
       "artists": [
         {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+          "name": "Night Sounds",
+          "url": "https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5"
         }
       ],
-      "duration_ms": 280625,
-      "name": "Who Tends a Garden",
-      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Drifting Away (Music for Sleeping)",
-        "url": "https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s"
-      },
-      "artists": [
-        {
-          "name": "chillchild",
-          "url": "https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Sleep Spirits",
-      "url": "https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM"
+      "duration_ms": 184186,
+      "name": "Glaciers",
+      "url": "https://open.spotify.com/track/5h2bCmH2gc7Zf6AFLpAaoD"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1223,6 +1207,22 @@
       "duration_ms": 192585,
       "name": "Lotus Blume",
       "url": "https://open.spotify.com/track/2XGO8m5DqJVMF80D4SxiXE"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Drifting Away (Music for Sleeping)",
+        "url": "https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s"
+      },
+      "artists": [
+        {
+          "name": "chillchild",
+          "url": "https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Sleep Spirits",
+      "url": "https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Dormio",
-        "url": "https://open.spotify.com/album/3yYe7uQZsi7NsACNFzItNh"
-      },
-      "artists": [
-        {
-          "name": "Estado De Calma",
-          "url": "https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV"
-        }
-      ],
-      "duration_ms": 159440,
-      "name": "Dormio",
-      "url": "https://open.spotify.com/track/5KrtsbUaDBPE0aFpxw4I0T"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Footsteps",
         "url": "https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Dormio",
+        "url": "https://open.spotify.com/album/3yYe7uQZsi7NsACNFzItNh"
+      },
+      "artists": [
+        {
+          "name": "Estado De Calma",
+          "url": "https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV"
+        }
+      ],
+      "duration_ms": 159440,
+      "name": "Dormio",
+      "url": "https://open.spotify.com/track/5KrtsbUaDBPE0aFpxw4I0T"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Dalam Masa Ini",
         "url": "https://open.spotify.com/album/0AMQ4QUXFOThLoI76UxKVA"
       },
@@ -1303,6 +1303,22 @@
       "duration_ms": 134784,
       "name": "Dalam Masa Ini",
       "url": "https://open.spotify.com/track/3MsXF2oAtKZnb859w0OjRs"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Far Fetched Sleep",
+        "url": "https://open.spotify.com/album/5UnOxSSbm5Ss1q5VHU2GnX"
+      },
+      "artists": [
+        {
+          "name": "Millie S",
+          "url": "https://open.spotify.com/artist/3WXETka20TU3p9HZZjQ0cj"
+        }
+      ],
+      "duration_ms": 189795,
+      "name": "Far Fetched Sleep",
+      "url": "https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Far Fetched Sleep",
-        "url": "https://open.spotify.com/album/5UnOxSSbm5Ss1q5VHU2GnX"
-      },
-      "artists": [
-        {
-          "name": "Millie S",
-          "url": "https://open.spotify.com/artist/3WXETka20TU3p9HZZjQ0cj"
-        }
-      ],
-      "duration_ms": 189795,
-      "name": "Far Fetched Sleep",
-      "url": "https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Zenith",
         "url": "https://open.spotify.com/album/5dLy8zTm6myjl5ZorBXw5D"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 219375,
       "name": "Passing By",
       "url": "https://open.spotify.com/track/2FlD1WyrE1iNdflUvXAQoj"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Beatless EP",
+        "url": "https://open.spotify.com/album/6ojWTPCROs4UBqmKKc9K7B"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        }
+      ],
+      "duration_ms": 241881,
+      "name": "The Beach - Beatless",
+      "url": "https://open.spotify.com/track/3vM7pu2T1rSdUyFM7qyULV"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Beatless EP",
-        "url": "https://open.spotify.com/album/6ojWTPCROs4UBqmKKc9K7B"
-      },
-      "artists": [
-        {
-          "name": "Blank & Jones",
-          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
-        }
-      ],
-      "duration_ms": 241881,
-      "name": "The Beach - Beatless",
-      "url": "https://open.spotify.com/track/3vM7pu2T1rSdUyFM7qyULV"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Deep Noni",
         "url": "https://open.spotify.com/album/3uzrsVs8I8PxMm4GGdokcP"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "R\u00eaves",
-        "url": "https://open.spotify.com/album/5eM0EWZ2ZqFxihXtzQQirS"
-      },
-      "artists": [
-        {
-          "name": "Ignace Lamar",
-          "url": "https://open.spotify.com/artist/1isXKlJdwhM1qWvvIMxZja"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "R\u00eaves",
-      "url": "https://open.spotify.com/track/415qfvQLevoRRug7NsTPxy"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Close To Sleep",
         "url": "https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 252000,
       "name": "Tired Eyes",
       "url": "https://open.spotify.com/track/41RcpktSrVWYmI8XaNZA07"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "R\u00eaves",
+        "url": "https://open.spotify.com/album/5eM0EWZ2ZqFxihXtzQQirS"
+      },
+      "artists": [
+        {
+          "name": "Ignace Lamar",
+          "url": "https://open.spotify.com/artist/1isXKlJdwhM1qWvvIMxZja"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "R\u00eaves",
+      "url": "https://open.spotify.com/track/415qfvQLevoRRug7NsTPxy"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/1MWyqip0t6nGrWIg1G1yyh"
-      },
-      "artists": [
-        {
-          "name": "Paulo May",
-          "url": "https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8"
-        }
-      ],
-      "duration_ms": 224481,
-      "name": "Clear moment",
-      "url": "https://open.spotify.com/track/5khfKdJXTPsqK6PviRofGE"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "We Belong To The Stars",
         "url": "https://open.spotify.com/album/2geyxNpK0n1rdkWJFAmajU"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 189458,
       "name": "We Belong To The Stars",
       "url": "https://open.spotify.com/track/2ud8DOtMIZABZJC0huKtFC"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/1MWyqip0t6nGrWIg1G1yyh"
+      },
+      "artists": [
+        {
+          "name": "Paulo May",
+          "url": "https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8"
+        }
+      ],
+      "duration_ms": 224481,
+      "name": "Clear moment",
+      "url": "https://open.spotify.com/track/5khfKdJXTPsqK6PviRofGE"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Komal",
+        "url": "https://open.spotify.com/album/6XfBKfj6M49k4j5fRh1uME"
+      },
+      "artists": [
+        {
+          "name": "Ka Wadhwa",
+          "url": "https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Komal",
+      "url": "https://open.spotify.com/track/1jMYGXV4IDZcB3M4Bi3W16"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Terra Firma",
         "url": "https://open.spotify.com/album/1p33sMa7scJrXZSetrhEb0"
       },
@@ -1851,34 +1867,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Komal",
-        "url": "https://open.spotify.com/album/6XfBKfj6M49k4j5fRh1uME"
+        "name": "Westerfall",
+        "url": "https://open.spotify.com/album/47VRzxnUBkgeF0wVc5wTLy"
       },
       "artists": [
         {
-          "name": "Ka Wadhwa",
-          "url": "https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv"
+          "name": "Auricz",
+          "url": "https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Komal",
-      "url": "https://open.spotify.com/track/1jMYGXV4IDZcB3M4Bi3W16"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Slowly Floating Through Space",
-        "url": "https://open.spotify.com/album/372wf1vVLL9okON5afmUxV"
-      },
-      "artists": [
-        {
-          "name": "Zilliondust",
-          "url": "https://open.spotify.com/artist/1p2sIdnqZZodZjG4nharRM"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Astrolabe",
-      "url": "https://open.spotify.com/track/3WoGNWSOstLosLTgT8NxdC"
+      "duration_ms": 199738,
+      "name": "Westerfall",
+      "url": "https://open.spotify.com/track/2pbp5D1W6KHMTHjVCopP1t"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Westerfall",
-        "url": "https://open.spotify.com/album/47VRzxnUBkgeF0wVc5wTLy"
+        "name": "Slowly Floating Through Space",
+        "url": "https://open.spotify.com/album/372wf1vVLL9okON5afmUxV"
       },
       "artists": [
         {
-          "name": "Auricz",
-          "url": "https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN"
+          "name": "Zilliondust",
+          "url": "https://open.spotify.com/artist/1p2sIdnqZZodZjG4nharRM"
         }
       ],
-      "duration_ms": 199738,
-      "name": "Westerfall",
-      "url": "https://open.spotify.com/track/2pbp5D1W6KHMTHjVCopP1t"
+      "duration_ms": 151500,
+      "name": "Astrolabe",
+      "url": "https://open.spotify.com/track/3WoGNWSOstLosLTgT8NxdC"
     },
     {
       "added_at": "2023-10-20 00:01:00",

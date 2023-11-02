@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: CMK, Jhony Mc, Choice, MAGR\u00c3O XRE, Spike mc, Terror da Cena",
-  "num_followers": 34321,
+  "num_followers": 34341,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTE0MDAyM2U1OTMwMjA4MzM0NzkxY2RmNDYyNDE2Y2E3Yzg3YmU3",
+  "snapshot_id": "MCxkYWM5Yjg5MjIyODYxYmIxZGYzNDkwMWE1MzAzZTA0MDY1NmE4Mzk0",
   "tracks": [
     {
       "added_at": "2023-10-27 03:01:00",
@@ -783,30 +783,18 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Favela Drill",
-        "url": "https://open.spotify.com/album/4Su4WRXP0u7XDsv8nZzADQ"
+        "name": "Hip Hop Rare",
+        "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
       },
       "artists": [
         {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         }
       ],
-      "duration_ms": 156083,
-      "name": "Chutei o Balde",
-      "url": "https://open.spotify.com/track/10bwZodG6Nd4WKsoKJo3Tg"
+      "duration_ms": 123802,
+      "name": "Hip Hop Rare",
+      "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -855,6 +843,26 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
+        "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "duration_ms": 125793,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Fura Bilion\u00e1rios",
         "url": "https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w"
       },
@@ -891,38 +899,30 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
-        "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
+        "name": "Favela Drill",
+        "url": "https://open.spotify.com/album/4Su4WRXP0u7XDsv8nZzADQ"
       },
       "artists": [
         {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
         },
         {
-          "name": "LP Beatzz",
-          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
-        }
-      ],
-      "duration_ms": 125793,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Hip Hop Rare",
-        "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
-      },
-      "artists": [
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
         }
       ],
-      "duration_ms": 123802,
-      "name": "Hip Hop Rare",
-      "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
+      "duration_ms": 156083,
+      "name": "Chutei o Balde",
+      "url": "https://open.spotify.com/track/10bwZodG6Nd4WKsoKJo3Tg"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1076,7 +1076,7 @@
           "url": "https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ"
         }
       ],
-      "duration_ms": 211620,
+      "duration_ms": 212745,
       "name": "Fresh Sesh #02 - Sinais de Sucessagem",
       "url": "https://open.spotify.com/track/03lg4qwy8ugN6TtZgcQwxh"
     },

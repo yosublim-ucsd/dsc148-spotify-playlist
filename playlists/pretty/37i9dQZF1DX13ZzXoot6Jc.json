@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Tenille Arts",
-  "num_followers": 454747,
+  "num_followers": 454792,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2I0MDgxODhmNDBhZmZhMzk1Y2Q5MjM3NGZmMzVjMDljZTZkY2Y2",
+  "snapshot_id": "MCwxYjA0NWQ4YzY0ZjlhYWI1YzQ1YjcwMGMxZTRhZWQ2ZTc1N2EwYTc3",
   "tracks": [
     {
       "added_at": "2023-10-27 11:41:08",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-27 11:41:08",
       "album": {
-        "name": "Water Under The Bridge",
-        "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Water Under The Bridge",
-      "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
-    },
-    {
-      "added_at": "2023-10-27 11:41:08",
-      "album": {
         "name": "Greenbroke",
         "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 187957,
       "name": "Don't Come Lookin'",
       "url": "https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt"
+    },
+    {
+      "added_at": "2023-10-27 11:41:08",
+      "album": {
+        "name": "Water Under The Bridge",
+        "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Water Under The Bridge",
+      "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
     },
     {
       "added_at": "2023-10-27 11:41:08",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-27 11:41:08",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/1xGyeyfEO4oEler6lHxF56"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 172861,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/2Dx0UA8OwEqrZbQIs0yKXv"
-    },
-    {
-      "added_at": "2023-10-27 11:41:08",
-      "album": {
         "name": "Whiskey Drink",
         "url": "https://open.spotify.com/album/4g06Vx2YKohoVR7FX33l9C"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 190400,
       "name": "Whiskey Drink",
       "url": "https://open.spotify.com/track/5uU4GKzz0x4ma1udXnLf6O"
+    },
+    {
+      "added_at": "2023-10-27 11:41:08",
+      "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/1xGyeyfEO4oEler6lHxF56"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 172861,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2Dx0UA8OwEqrZbQIs0yKXv"
     },
     {
       "added_at": "2023-10-27 11:41:08",

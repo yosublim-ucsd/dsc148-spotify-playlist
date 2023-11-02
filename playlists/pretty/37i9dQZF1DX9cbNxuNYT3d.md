@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,871 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,976 likes - 47 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 35 | [Smile \(Vocal Mix\)](https://open.spotify.com/track/7p72H4ZpKTjcMBRbdT6vYr) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw), [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Smile \(Vocal Mix\)](https://open.spotify.com/album/2O9bUYQmg5qFq3S92w3CNs) | 3:27 |
 | 36 | [A grand love theme](https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 4:02 |
 | 37 | [Look](https://open.spotify.com/track/0GVQb2UqgxEUrXidPgklFj) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Sexuality](https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA) | 4:34 |
-| 38 | [Adore](https://open.spotify.com/track/5z44PxNBSF4Bd50jE5K6Mb) | [I:Cube](https://open.spotify.com/artist/2HNNSjjaK20NZ9PDZ2EMwU) | [Adore](https://open.spotify.com/album/0Hmwqb6SRtliaK6XbhUAZx) | 7:02 |
-| 39 | [Peace and Tranquility to Earth](https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR) | [Roudoudou](https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL) | [Listener's Digest](https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB) | 4:13 |
-| 40 | [Edony \- Clap your Hands](https://open.spotify.com/track/6KB39k2DejOxaIxOp5qwji) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Africanism](https://open.spotify.com/album/1Ty46CHvm7P0XOks0hvG8d) | 8:11 |
-| 41 | [The Child \- Radio Edit](https://open.spotify.com/track/137Ve8N4t05BGoL1JiObsi) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [The Child](https://open.spotify.com/album/5xSSe8xbmsaTbcTbVul1Mq) | 3:40 |
-| 42 | [Am I Wrong](https://open.spotify.com/track/3JIrefSf1HEDk4dccWWHQ3) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Tempovision](https://open.spotify.com/album/39WwIm6bjNLXKdlYQYU1q5) | 3:51 |
-| 43 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Boy At Night](https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall) | 3:38 |
-| 44 | [Ultra Light](https://open.spotify.com/track/0Fi7MjMYYERiLiTeGMP6VV) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [USA](https://open.spotify.com/album/7B5AzWM75xsUHY0fQX6KkT) | 4:05 |
-| 45 | [La Mouche \(DJ Falcon Metal Mix\)](https://open.spotify.com/track/43yQiATsXbfGkY7kKj40iM) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [DJ Falcon](https://open.spotify.com/artist/4jYpX9diAOBUU0iictJYiF) | [1999 \(Deluxe Edition\)](https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43) | 8:58 |
-| 46 | [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/track/3ovilBTxhYtCNeH92D0uu8) | [Bel Amour](https://open.spotify.com/artist/7eFsGtN5h45mGFpi75IjKo) | [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/album/6TnjDo2gzEmY0KCMsyJWrA) | 5:24 |
-| 47 | [Venus \(Sunshine People\) \[DJ Gregory Remix\]](https://open.spotify.com/track/3xUHVU3Cfqfs5I7tECQt2g) | [Cheek](https://open.spotify.com/artist/5QIYgDc1bwHkXS00viPLyC) | [Venus \(sunshine people\)](https://open.spotify.com/album/415kVuJ4SOCGDaLrE73yuQ) | 4:56 |
-| 48 | [Jacques You Body \(Make Me Sweat\)](https://open.spotify.com/track/0s7uW5Dknk4liaRaqen50U) | [Les Rythmes Digitales](https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn) | [Darkdancer](https://open.spotify.com/album/3Y8JlFFkfiqXrUP8kcvFd2) | 4:12 |
-| 49 | [The Sound of Violence](https://open.spotify.com/track/0mJXMlZntHgMGKUyrPkMcp) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [Au Rêve \(Deluxe Edition\)](https://open.spotify.com/album/5At8zb3djitRXkrKQ8Wo97) | 7:13 |
-| 50 | [Cut Dick](https://open.spotify.com/track/4sqZAKBTC4a2x1Ivil7h36) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 2:51 |
+| 38 | [Edony \- Clap your Hands](https://open.spotify.com/track/6KB39k2DejOxaIxOp5qwji) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Africanism](https://open.spotify.com/album/1Ty46CHvm7P0XOks0hvG8d) | 8:11 |
+| 39 | [The Child \- Radio Edit](https://open.spotify.com/track/137Ve8N4t05BGoL1JiObsi) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [The Child](https://open.spotify.com/album/5xSSe8xbmsaTbcTbVul1Mq) | 3:40 |
+| 40 | [Am I Wrong](https://open.spotify.com/track/3JIrefSf1HEDk4dccWWHQ3) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Tempovision](https://open.spotify.com/album/39WwIm6bjNLXKdlYQYU1q5) | 3:51 |
+| 41 | [Ultra Light](https://open.spotify.com/track/0Fi7MjMYYERiLiTeGMP6VV) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [USA](https://open.spotify.com/album/7B5AzWM75xsUHY0fQX6KkT) | 4:05 |
+| 42 | [La Mouche \(DJ Falcon Metal Mix\)](https://open.spotify.com/track/43yQiATsXbfGkY7kKj40iM) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [DJ Falcon](https://open.spotify.com/artist/4jYpX9diAOBUU0iictJYiF) | [1999 \(Deluxe Edition\)](https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43) | 8:58 |
+| 43 | [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/track/3ovilBTxhYtCNeH92D0uu8) | [Bel Amour](https://open.spotify.com/artist/7eFsGtN5h45mGFpi75IjKo) | [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/album/6TnjDo2gzEmY0KCMsyJWrA) | 5:24 |
+| 44 | [Venus \(Sunshine People\) \[DJ Gregory Remix\]](https://open.spotify.com/track/3xUHVU3Cfqfs5I7tECQt2g) | [Cheek](https://open.spotify.com/artist/5QIYgDc1bwHkXS00viPLyC) | [Venus \(sunshine people\)](https://open.spotify.com/album/415kVuJ4SOCGDaLrE73yuQ) | 4:56 |
+| 45 | [Jacques You Body \(Make Me Sweat\)](https://open.spotify.com/track/0s7uW5Dknk4liaRaqen50U) | [Les Rythmes Digitales](https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn) | [Darkdancer](https://open.spotify.com/album/3Y8JlFFkfiqXrUP8kcvFd2) | 4:12 |
+| 46 | [The Sound of Violence](https://open.spotify.com/track/0mJXMlZntHgMGKUyrPkMcp) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [Au Rêve \(Deluxe Edition\)](https://open.spotify.com/album/5At8zb3djitRXkrKQ8Wo97) | 7:13 |
+| 47 | [Cut Dick](https://open.spotify.com/track/4sqZAKBTC4a2x1Ivil7h36) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 2:51 |
 
-Snapshot ID: `MCwzNTdiOTRkMjY4YjFjZGVkZDJjN2Q2OGY5OThjODEzYTFmOGMyOWIz`
+Snapshot ID: `MCwwZTA3ZTIwNjA1OTNjYmY2YmVhODM1NjkwZGMwNDA3M2MwNmNiYjRh`

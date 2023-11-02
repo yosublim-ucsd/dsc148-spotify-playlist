@@ -4,7 +4,7 @@
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Vesna
 
-338 songs - 18 hr 10 min
+339 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [Oči](https://open.spotify.com/track/3Mqmll2zjEj2vArurOtewp) | [Kateřina Göttlichová](https://open.spotify.com/artist/2nK6ZgrTbHqR0hvLeCaddq) | [Zimnice](https://open.spotify.com/album/4fSjQwZr5pHDDuWvoSgS7a) | 3:25 | 2021-12-07 | 2022-06-01 |
 | [Padám](https://open.spotify.com/track/7kWF1pdrmgUuuhwMHKvIbP) | [Slza](https://open.spotify.com/artist/0BeixPyuDxNBW6ZOo7YimX), [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [Padám](https://open.spotify.com/album/7E112majOAD25oIIfOtfNu) | 2:55 | 2022-05-03 | 2022-09-07 |
 | [Patience](https://open.spotify.com/track/4dRuSzS3c1bYWaqEnuiItC) | [TIMEA](https://open.spotify.com/artist/6r2KeAcGJeDDXmQoFdlcw1) | [Patience](https://open.spotify.com/album/3hxtaqMnSaHmYiuwVeL5eD) | 3:56 | 2022-02-01 | 2022-07-01 |
-| [Pedestal](https://open.spotify.com/track/3HlC2UxeXbkTQdFLta3F6N) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Pedestal](https://open.spotify.com/album/74j49vtdc0Kyvx93Br8wzG) | 2:28 | 2023-10-03 |  |
+| [Pedestal](https://open.spotify.com/track/3GNmo4ljOTnd8k6VKug1Ut) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Fortune's child](https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr) | 2:28 | 2023-10-03 |  |
+| [Pedestal](https://open.spotify.com/track/3HlC2UxeXbkTQdFLta3F6N) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Pedestal](https://open.spotify.com/album/74j49vtdc0Kyvx93Br8wzG) | 2:28 | 2023-10-03 | 2023-11-02 |
 | [People](https://open.spotify.com/track/5L0eYOxlLlXXWtHMk6IPyR) | [Elly](https://open.spotify.com/artist/58SiiPGMtAPMaQyNkn9Fbs) | [People](https://open.spotify.com/album/0bjJx4LVb3aTNZJ983FeeN) | 2:38 | 2022-05-31 | 2022-11-02 |
 | [Perly](https://open.spotify.com/track/0fXTo66r7FrhFcUR5ye9OB) | [Annie](https://open.spotify.com/artist/67IQhB57JST5EyO2UrLssN) | [Perly](https://open.spotify.com/album/6Zl7wPmMCfCRYqtAcTGCpi) | 3:39 | 2022-08-02 | 2023-01-04 |
 | [Personal Darkness](https://open.spotify.com/track/5GuX8sMyN1VvUJnkPQ21VP) | [Miris](https://open.spotify.com/artist/3Zd3dIpIlDzcDrBn1TrbMp) | [Personal Darkness](https://open.spotify.com/album/3LJVId1DQcgbYO3u2lMZws) | 2:34 | 2021-12-07 | 2022-02-02 |

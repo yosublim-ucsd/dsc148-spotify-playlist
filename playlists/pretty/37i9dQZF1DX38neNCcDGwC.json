@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 47199,
+  "num_followers": 47252,
   "original_name": "Legendary Labels: Tuff Gong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTE3NTU0NmYxOTI0NTZmYTI5NTY3ZGQyYjA3NWY0MDI3MWRiMTI0",
+  "snapshot_id": "MCw0MDQ1ZDVmNzI5ZDk0YTlhZTQ0ZDE0Y2JlMmJmMGMzOTJmOTU1ZGY3",
   "tracks": [
     {
       "added_at": "2022-03-03 13:49:40",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 327133,
-      "name": "Rastaman Live Up",
-      "url": "https://open.spotify.com/track/2wFw6mZzzABL9gktquq7I5"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
         "name": "Rastaman Vibration",
         "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 213893,
       "name": "Positive Vibration",
       "url": "https://open.spotify.com/track/5722IiSQ4ZqzpwhwFeCz2u"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 327133,
+      "name": "Rastaman Live Up",
+      "url": "https://open.spotify.com/track/2wFw6mZzzABL9gktquq7I5"
     },
     {
       "added_at": "2022-03-03 13:49:40",

@@ -2448,7 +2448,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 104013,
       "name": "BAIXO",
       "url": "https://open.spotify.com/track/0rb7HcBkdMPp04ybHBfX41"
@@ -6629,7 +6629,7 @@
         },
         {
           "name": "Kafuu",
-          "url": "https://open.spotify.com/artist/4miYu7vffhJzuiQbXufImt"
+          "url": "https://open.spotify.com/artist/7Hv1wjA12NeyV1sQQOxes0"
         }
       ],
       "date_added": "2023-10-31",
@@ -11322,7 +11322,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 176255,
       "name": "I can't do this",
       "url": "https://open.spotify.com/track/5ATQf5CDSo52OedbkiBmsf"
@@ -16536,7 +16536,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
@@ -16576,7 +16576,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
@@ -16742,6 +16742,24 @@
       "duration_ms": 145111,
       "name": "Montagem Coral",
       "url": "https://open.spotify.com/track/7i4blDvw6VTh2yOwa772E9"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM CORAL 1.0",
+        "url": "https://open.spotify.com/album/093w6cyYZzxscqV3CcrQzH"
+      },
+      "artists": [
+        {
+          "name": "SHADXWLXRD",
+          "url": "https://open.spotify.com/artist/6Og1sfx54MlHWWkxnSdxLL"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108961,
+      "name": "MONTAGEM CORAL 1.0",
+      "url": "https://open.spotify.com/track/7ouAHW8sb7bwHvTkvD3aT9"
     },
     {
       "album": {
@@ -19116,7 +19134,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
@@ -20020,7 +20038,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 148965,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
@@ -20742,7 +20760,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 142080,
       "name": "prayer1",
       "url": "https://open.spotify.com/track/2R4sIoCrJb4OV5qcsNDIQ6"
@@ -24529,6 +24547,28 @@
     },
     {
       "album": {
+        "name": "Spongebob",
+        "url": "https://open.spotify.com/album/4QSkRCqPfqo1sBeGT3yPBM"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        },
+        {
+          "name": "Pinotello",
+          "url": "https://open.spotify.com/artist/1WjmW8uqn4LwwsJxrDMM4d"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125878,
+      "name": "Spongebob",
+      "url": "https://open.spotify.com/track/6aj1Dab1QH9zwofkE4nDIY"
+    },
+    {
+      "album": {
         "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
       },
@@ -24540,7 +24580,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 125624,
       "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
       "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
@@ -24558,7 +24598,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 229199,
       "name": "Spooky, Scary Skeletons - Undead Tombstone Remix Extended",
       "url": "https://open.spotify.com/track/5kwuPm3p11TnirbMvcGrZZ"
@@ -26358,7 +26398,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 131388,
       "name": "This Is The Life",
       "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
@@ -30194,10 +30234,28 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 144000,
       "name": "\u0413\u0443\u043b\u044f\u044e",
       "url": "https://open.spotify.com/track/4lleps28xCklJLtTt5MoJt"
+    },
+    {
+      "album": {
+        "name": "\u0413\u0443\u043b\u044f\u044e",
+        "url": "https://open.spotify.com/album/2DHlAvcaBMX6giTnM0nLr6"
+      },
+      "artists": [
+        {
+          "name": "ARMXD",
+          "url": "https://open.spotify.com/artist/7CGQYW45GsTKE9L1yNZnZr"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "\u0413\u0443\u043b\u044f\u044e",
+      "url": "https://open.spotify.com/track/6TwA6yWHcmSImUqJGxxoxi"
     },
     {
       "album": {

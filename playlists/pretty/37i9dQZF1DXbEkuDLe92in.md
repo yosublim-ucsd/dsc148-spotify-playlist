@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 
 > Beautiful classical Indian Ragas to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,169 likes - 53 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,192 likes - 53 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 | 17 | [Raga Puriya Kalyan](https://open.spotify.com/track/0TiJTyfIode2Za7v7X22lZ) | [Dhruv Nath Mishra](https://open.spotify.com/artist/43NfZyGiqc3U9FS9ZArSGb), [Srdjan Beronja](https://open.spotify.com/artist/2pLXNcqOpzyUdGCx77eBzO) | [Sounds of the East](https://open.spotify.com/album/3jrsdnj1s12VncgRzooyIR) | 6:03 |
 | 18 | [Raga Madhuvanti: Alap, Jor \(Live\)](https://open.spotify.com/track/4IiKB0gBpsVUwmDtJCoLgo) | [Srdjan Beronja](https://open.spotify.com/artist/2pLXNcqOpzyUdGCx77eBzO) | [The Sounds of Varanasi](https://open.spotify.com/album/5W0z6aFHlUXGHPdlnPIMa8) | 4:02 |
 | 19 | [Raga Purya Kalyan \- Alap](https://open.spotify.com/track/4eKiGJ1AZae3uF17Rxf3CI) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Aradhana](https://open.spotify.com/album/2tGZD01y5HosmqD4Lssg9k) | 3:42 |
-| 20 | [Raga Madhuvanti: Gat I\. Rupak Taal, Tihai \(Live\)](https://open.spotify.com/track/3M8omxN9anhyubRI4CH5yP) | [Pandit Dhruv Nath Mishra](https://open.spotify.com/artist/62oZ169ulQWy1pcVdT32hu), [Ravi K\. Tripathi](https://open.spotify.com/artist/7D73VJBs9rJh9USThws70P) | [The Sounds of Varanasi](https://open.spotify.com/album/5KAww61S9UOggL61L4UIeP) | 3:40 |
+| 20 | [Raga Madhuvanti: Gat I\. Rupak Taal, Tihai \(Live\)](https://open.spotify.com/track/3M8omxN9anhyubRI4CH5yP) | [Pandit Dhruv Nath Mishra](https://open.spotify.com/artist/62oZ169ulQWy1pcVdT32hu), [Ravi Tripathi](https://open.spotify.com/artist/7D73VJBs9rJh9USThws70P) | [The Sounds of Varanasi](https://open.spotify.com/album/5KAww61S9UOggL61L4UIeP) | 3:40 |
 | 21 | [Bhupali](https://open.spotify.com/track/3hfh3VfPtFVtB9KnuNtJXo) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:34 |
 | 22 | [Flute Bhupal Todi](https://open.spotify.com/track/0tQCT4UbdmbOOAXGSYbOrI) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:06 |
 | 23 | [Raag Kedar](https://open.spotify.com/track/4T6cqFR1Kz0vHMHJNzXjXF) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [The Music Of YOG](https://open.spotify.com/album/0ak4eeLnwDMHIVUtXLWmAc) | 8:18 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 | 52 | [Raag Jan Sammohini](https://open.spotify.com/track/5sOR6MZkrHWHKmHqvmrQuS) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Baluji Shrivastav: Shadow of the Lotus \- Classical Indian Ragas](https://open.spotify.com/album/7sq7QZGY6o4mFaFnXns4DN) | 10:10 |
 | 53 | [Raga Shivaranjani \(Yearning\)](https://open.spotify.com/track/0KIsFToKwuGkPALbFxatlE) | [Ustad Usman Khan](https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq) | [Nada Yoga: Music of the Mystic](https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9) | 9:03 |
 
-Snapshot ID: `MCwzYjM0MjQ5YTRjOGE0NTgyYjI4MTNiMjY2ZTNkMDk3ZDlmMzgzNDI4`
+Snapshot ID: `MCw3OGYxYWU4MGU5ZTFmODI0NTY2NDJiZjcxZDRmZGU1YThhZjVhZjZi`

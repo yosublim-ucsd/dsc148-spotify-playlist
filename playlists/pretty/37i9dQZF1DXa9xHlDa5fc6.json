@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 450058,
+  "num_followers": 450137,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGQ3M2YzYWM2ZTVjODgxNGQ5MzY4OTZhMWVlOGYwYjIxMTQyM2M5",
+  "snapshot_id": "MCxjYjlmMjQyODRkYTYxMGE4ZDY1MWU0YzkyODM2MmQxZDY3ODlkMWQ5",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 244293,
+      "name": "Mountain at My Gates",
+      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "No More Lies",
         "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 244293,
-      "name": "Mountain at My Gates",
-      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Alone in the Mountains",
-        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 196707,
-      "name": "Alone in the Mountains",
-      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Alone in the Mountains",
+        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 196707,
+      "name": "Alone in the Mountains",
+      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE"
-      },
-      "artists": [
-        {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
-        }
-      ],
-      "duration_ms": 125830,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 125830,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 183852,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "I'll Keep You In Mind, From Time to Time",
         "url": "https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 159711,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 183852,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Blades",
-        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
         }
       ],
-      "duration_ms": 221092,
-      "name": "Blades",
-      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
+      "duration_ms": 213515,
+      "name": "Violet City",
+      "url": "https://open.spotify.com/track/3EMovq7Gu8VH9Z86wEVVHn"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
+        "name": "Blades",
+        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
       },
       "artists": [
         {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 213515,
-      "name": "Violet City",
-      "url": "https://open.spotify.com/track/3EMovq7Gu8VH9Z86wEVVHn"
+      "duration_ms": 221092,
+      "name": "Blades",
+      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Guitar Beat",
-        "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
-      },
-      "artists": [
-        {
-          "name": "Prelow",
-          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "Guitar Beat",
-      "url": "https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Love Gloom",
         "url": "https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 206976,
       "name": "Nothing Personal",
       "url": "https://open.spotify.com/track/4fzOCrzbRLppR4wkN8bFzz"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Guitar Beat",
+        "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
+      },
+      "artists": [
+        {
+          "name": "Prelow",
+          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
+        }
+      ],
+      "duration_ms": 205106,
+      "name": "Guitar Beat",
+      "url": "https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/3K8q99Bi8C6OYQbmUEaeR2"
-      },
-      "artists": [
-        {
-          "name": "The Palms",
-          "url": "https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X"
-        }
-      ],
-      "duration_ms": 230738,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/6nlA3j4n3KAY8AgEGmos2o"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "I Don't Think I Can Do This Anymore",
         "url": "https://open.spotify.com/album/2Kq0O56yHIBpLJ0Oc2FjGe"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 236560,
       "name": "It's Too Much",
       "url": "https://open.spotify.com/track/3kr9H1n5OHezIhj8oA9gOX"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/3K8q99Bi8C6OYQbmUEaeR2"
+      },
+      "artists": [
+        {
+          "name": "The Palms",
+          "url": "https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X"
+        }
+      ],
+      "duration_ms": 230738,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/6nlA3j4n3KAY8AgEGmos2o"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Dead Boys",
-        "url": "https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 205045,
-      "name": "Dead Boys",
-      "url": "https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 218760,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Dead Boys",
+        "url": "https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 205045,
+      "name": "Dead Boys",
+      "url": "https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Sun Leads Me On",
+        "url": "https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Turn Your Love",
+      "url": "https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Talking in Circles",
         "url": "https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx"
       },
@@ -1907,18 +1923,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sun Leads Me On",
-        "url": "https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK"
+        "name": "Come Follow Me Down",
+        "url": "https://open.spotify.com/album/45qH3mYvEOhFYrCVJC8QZn"
       },
       "artists": [
         {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+          "name": "George Taylor",
+          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
         }
       ],
-      "duration_ms": 241866,
-      "name": "Turn Your Love",
-      "url": "https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE"
+      "duration_ms": 192666,
+      "name": "Come Follow Me Down",
+      "url": "https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1951,22 +1967,6 @@
       "duration_ms": 233520,
       "name": "Fountain Of Youth",
       "url": "https://open.spotify.com/track/46exzPPGwXU9Xcoz5u618b"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Come Follow Me Down",
-        "url": "https://open.spotify.com/album/45qH3mYvEOhFYrCVJC8QZn"
-      },
-      "artists": [
-        {
-          "name": "George Taylor",
-          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "Come Follow Me Down",
-      "url": "https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D"
     },
     {
       "added_at": "2023-05-26 04:00:00",

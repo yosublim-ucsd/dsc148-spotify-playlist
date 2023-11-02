@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: フジタ カコ
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,787 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,808 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 11 | [ユートピア](https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BACK](https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd) | 2:39 |
 | 12 | [bathroom](https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bathroom](https://open.spotify.com/album/2fKpk83eEE5bozCQDk84z0) | 3:31 |
 | 13 | [最低 \- Acoustic ver.](https://open.spotify.com/track/6NF6saqKSFWWApvZIU0G2T) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [最低 \(Acoustic ver.\)](https://open.spotify.com/album/7GaZmJTQvZJ5yL9kbc1Mwu) | 3:34 |
-| 14 | [ホットレモン](https://open.spotify.com/track/4M1dqbgZzVtUfddPIDt4CJ) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [ホットレモン](https://open.spotify.com/album/5S1jzfiw00B4Uqm69TGZop) | 2:33 |
+| 14 | [hot lemon](https://open.spotify.com/track/1ZTpqhGR9UeBpBVyoBFEXf) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [hot lemon](https://open.spotify.com/album/5dtQd5fuVHnFs0Siny4eD6) | 2:33 |
 | 15 | [LIGHTER](https://open.spotify.com/track/0dxErmSFDXYJIurlXuXAQg) | [ISAFAT](https://open.spotify.com/artist/33wEh0YSqRNAP4PZrH0zkt) | [LIGHTER](https://open.spotify.com/album/1UW9YOhSoUO6bbNBtVhZFW) | 2:41 |
 | 16 | [Memai](https://open.spotify.com/track/028Amw4cqLmSZSRZoRVeKG) | [Mei Watanabe](https://open.spotify.com/artist/6zx7KMU7WEQLpi1gm6st2y) | [Memai](https://open.spotify.com/album/4WMQmRNXGth9D11JWNC1mz) | 3:41 |
 | 17 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 |
 | 18 | [あなたを愛するように](https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Who?](https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j) | 3:24 |
 | 19 | [しょうがない](https://open.spotify.com/track/6knXRV59KfhPg7o1FkbDfQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [しょうがない](https://open.spotify.com/album/30fwOEXpsdBOnLQz5D5jbB) | 3:19 |
 | 20 | [I like you](https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [I like you](https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF) | 3:50 |
-| 21 | [常時](https://open.spotify.com/track/4z6WOaHmQH6IB5MiU2ZTOh) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [常時](https://open.spotify.com/album/2Li3hHC5e8JaHC4qJvgmRH) | 4:48 |
+| 21 | [JOHJI](https://open.spotify.com/track/1trPyHkA0NvuY8jfYLEruI) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [JOHJI](https://open.spotify.com/album/6Mv4qwCruIA7hkMAoCwPOt) | 4:48 |
 | 22 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 |
 | 23 | [あなたの虜](https://open.spotify.com/track/0kIJE88GHrcAt0tnaV3ROG) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [あなたの虜](https://open.spotify.com/album/4R4Rdu7a4a56r7oYJzRZLr) | 3:08 |
 | 24 | [hands](https://open.spotify.com/track/05hdZsL1nQ8lbjq67gmniB) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [hands](https://open.spotify.com/album/2x5VgGNV9IWTPCrHy7ht7r) | 2:46 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 75 | [西日暮里の緑](https://open.spotify.com/track/0RtpYEDtccOkPrL7j1P3hz) | [松田今宵](https://open.spotify.com/artist/4hFuB8PPtCDza8ewzekmbf) | [西日暮里の緑](https://open.spotify.com/album/3F7PUM6MDPsT1OsOcAlnVm) | 4:03 |
 | 76 | [AI ga shitaino](https://open.spotify.com/track/0oym41sxK3OBzkbsTaSRfn) | [SARM](https://open.spotify.com/artist/53pyDdbX1I71Wcyr8ZPJAP) | [AI ga shitaino](https://open.spotify.com/album/3B5ZfYrLZidnOy5M9L8pxE) | 3:05 |
 | 77 | [Brother](https://open.spotify.com/track/08xTPwrXO0v8LhDmCsI0cC) | [Eminata](https://open.spotify.com/artist/3NhhOmhRHpzI0UvKqNSdn1) | [Brother](https://open.spotify.com/album/2WMOvKjD5NAMPNbGhxKkRD) | 4:13 |
-| 78 | [永遠の恋人](https://open.spotify.com/track/286zSr3sjCn9MhmgfSJwE8) | [とにもかくにも](https://open.spotify.com/artist/7eRFoVEguUGUZ5kYaOR8sL) | [永遠の恋人](https://open.spotify.com/album/0oTwqQ34fD65BfspOYa4kd) | 3:48 |
+| 78 | [eienno koibito](https://open.spotify.com/track/2x5ycWQvPTl4sOk5BSnGpS) | [とにもかくにも](https://open.spotify.com/artist/7eRFoVEguUGUZ5kYaOR8sL) | [eienno koibito](https://open.spotify.com/album/0WCgyIveEmwIVnkteT94Fp) | 3:48 |
 | 79 | [ニール・ヤング聴いてた](https://open.spotify.com/track/3DvRDt09s9NC4dA2s6967e) | [MANGA HOUSE](https://open.spotify.com/artist/43k6rOAIFQZlBfGARAnSIX) | [\#3](https://open.spotify.com/album/2cSaeWKy6bcM7MVuDTyxy9) | 4:50 |
-| 80 | [vanilla](https://open.spotify.com/track/08ukXT58LS2DISzsdYBA16) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [vanilla](https://open.spotify.com/album/5qDopHcvSDsJzxefVd5Ezk) | 2:41 |
+| 80 | [vanilla](https://open.spotify.com/track/54ogyAllu07li203RXAS1E) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [vanilla](https://open.spotify.com/album/7bKtCF6j2F2aQi9Tvsy99Q) | 2:41 |
 
-Snapshot ID: `MCw2NjNmMDhiNjY5YzcyNzNmZGMzMWU2NjRiNmU0MGNjMjM1ZjgyNzJk`
+Snapshot ID: `MCxiNTA5MWNiOTY0YTUwOGQ0OTgyNjcyMTRjZWI1Yzk5MzhkYWIyZGNh`

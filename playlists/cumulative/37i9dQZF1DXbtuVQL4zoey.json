@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 158500,
       "name": "Alabaster Statuette",
       "url": "https://open.spotify.com/track/2Pv9IaeQwZvwhHNMtYhMbv"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 144545,
       "name": "Amor na Praia",
       "url": "https://open.spotify.com/track/4DAkqKqpLl7KaFwQxxeHA0"
@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 122206,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/1wr8Q5WOf1VHvIW2XlJ6WS"
@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 170904,
       "name": "Endless Lights",
       "url": "https://open.spotify.com/track/7Bw4rl2uucA5QvPeGYzuXe"
@@ -3156,7 +3156,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 145500,
       "name": "First Impressions",
       "url": "https://open.spotify.com/track/6EsmgveEBmMecRo6ifHwnp"
@@ -3790,7 +3790,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 131734,
       "name": "Happy to See You",
       "url": "https://open.spotify.com/track/2c6Si68uNJOXbWA4gFOo6p"
@@ -5196,6 +5196,24 @@
       "duration_ms": 129000,
       "name": "lustig",
       "url": "https://open.spotify.com/track/4PqKF4AvWgQLDh7hUYdYtc"
+    },
+    {
+      "album": {
+        "name": "Luz Violeta",
+        "url": "https://open.spotify.com/album/2aBhPxifQezfrktET4K23P"
+      },
+      "artists": [
+        {
+          "name": "< b a r u b e a t >",
+          "url": "https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126689,
+      "name": "Luz Violeta",
+      "url": "https://open.spotify.com/track/7jhLMcE7hxsKVJRFMpuwTw"
     },
     {
       "album": {
@@ -7150,7 +7168,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 149333,
       "name": "samba lovers",
       "url": "https://open.spotify.com/track/3iXcZ9VgKllU9BKSEex06t"
@@ -7642,7 +7660,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 145144,
       "name": "Somewhere in Rio",
       "url": "https://open.spotify.com/track/4YdLAsEByw42cjUARHogL6"
@@ -8094,7 +8112,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 104680,
       "name": "Summer Haze",
       "url": "https://open.spotify.com/track/7sTB4R9y1hyAxxA2mixs3L"

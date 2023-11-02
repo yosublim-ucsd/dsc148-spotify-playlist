@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,825 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,836 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 23 | [5201314](https://open.spotify.com/track/58N59QptRCYvEee9KKTURD) | [Lanzhu Zhong \(CV: Akina Homoto\)](https://open.spotify.com/artist/71EQKxwB0ZJrPEhW0Sz6sf) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:57 |
 | 24 | [Lemonade](https://open.spotify.com/track/7sppMR5Ag87PFaGFdzgq1m) | [Mia Taylor \(CV: Shu Uchida\)](https://open.spotify.com/artist/1NhKUvJaDW9KlwxUomMal5) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:58 |
 | 25 | [Cherry Bomb](https://open.spotify.com/track/6Ut3eQN8VLwQXjRejHmNk3) | [Setsuna Yuki \(CV: Coco Hayashi\)](https://open.spotify.com/artist/4uhgRKs6zvKdexMFWGRxwT) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:39 |
-| 26 | [My Shadow](https://open.spotify.com/track/4rDIaHxvKcIO4PwNBmKArT) | [Karin Asaka \(CV: Miyu Kubota\)](https://open.spotify.com/artist/08EPtrK2UDeXNGdSD2emIE) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:45 |
-| 27 | [Walking Dream](https://open.spotify.com/track/42zJg09ge19Pv5l0epKj7B) | [Ayumu Uehara \(CV: Aguri Onishi\)](https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:36 |
+| 26 | [Walking Dream](https://open.spotify.com/track/42zJg09ge19Pv5l0epKj7B) | [Ayumu Uehara \(CV: Aguri Onishi\)](https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:36 |
+| 27 | [My Shadow](https://open.spotify.com/track/4rDIaHxvKcIO4PwNBmKArT) | [Karin Asaka \(CV: Miyu Kubota\)](https://open.spotify.com/artist/08EPtrK2UDeXNGdSD2emIE) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:45 |
 | 28 | [MELODY](https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:29 |
 | 29 | [Love Triangle](https://open.spotify.com/track/5xzlhflKSdWND9ebn7rBDw) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [SUPER NOVA](https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH) | 4:13 |
 | 30 | [VIVID WORLD](https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Butterfly / Solitude Rain / VIVID WORLD \(朝香果林盤\)](https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 49 | [夢への一歩](https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:47 |
 | 50 | [哀温ノ詩](https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:17 |
 
-Snapshot ID: `MCw0OWQ1MmRiNTliNmY5NGE4MWY2OGU0NTY2YTcyZTZiZjgyZDQzYTRm`
+Snapshot ID: `MCw1OTVmMWM3NmZjZDViYmZiMjE2YTVlOGQzZTRjYmQ4ZWE0ZTM0NThh`

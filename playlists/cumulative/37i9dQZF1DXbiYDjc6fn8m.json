@@ -184,10 +184,36 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 270000,
       "name": "Boneless",
       "url": "https://open.spotify.com/track/5PZI5xTcMq8FsCcEroth7S"
+    },
+    {
+      "album": {
+        "name": "Boneless",
+        "url": "https://open.spotify.com/album/3EGr7WaJM6g9UoD1S16jcg"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Boneless",
+      "url": "https://open.spotify.com/track/75f4fO9adbAYJqNBKJNrxs"
     },
     {
       "album": {
@@ -858,6 +884,10 @@
         {
           "name": "David Guetta",
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
         }
       ],
       "date_added": "2020-04-29",

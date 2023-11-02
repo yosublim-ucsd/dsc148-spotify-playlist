@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Chayanne
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,696 likes - 202 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,718 likes - 202 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 201 | [Adolescente](https://open.spotify.com/track/1dDacT8TuPd9vQ8Q3866sC) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 5:00 |
 | 202 | [Como Si](https://open.spotify.com/track/6pyP7RMJNTu4HHH4n3hXmT) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:28 |
 
-Snapshot ID: `MCw4ZmIxMTQxYzE0OTIzYWRjZjRhYjliMDU2ZWJhMDAwZWNhZjEzYTgw`
+Snapshot ID: `MCw0NzU2YmFmNTFkNTVjYjIzNWMwNDRjMTA2MDBmMWVhMjc2OGRiOTVl`

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Will Swinton
 
-433 songs - 22 hr 28 min
+434 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [King of Hearts](https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:51 | 2023-06-22 | 2023-07-21 |
 | [Kingdom Come](https://open.spotify.com/track/26Cl8twfEoP4sOKuI9InrK) | [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Kingdom Come](https://open.spotify.com/album/5AoL4qUp3V867ZazOWIOuN) | 3:19 | 2023-06-15 | 2023-07-07 |
 | [Kissing In Swimming Pools](https://open.spotify.com/track/6BIlXbxx0kRiUdnmX8L1I9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Kissing In Swimming Pools](https://open.spotify.com/album/1B1PGcHPdviJ6xkOtJiLgX) | 4:47 | 2023-10-05 |  |
+| [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 | 2023-10-26 |  |
 | [kryptonite.](https://open.spotify.com/track/5Xp8u7mFDHC3oYhSYK6JCU) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [kryptonite.](https://open.spotify.com/album/3J6k3IytUuiDHjYTyIeHST) | 3:19 | 2023-10-26 |  |
 | [Last Time I Saw You](https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Last Time I Saw You](https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1) | 3:36 | 2023-08-31 | 2023-10-13 |
 | [Leave In The Morning](https://open.spotify.com/track/2NV0xEWJNdaMzdP94pksrl) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Leave In The Morning](https://open.spotify.com/album/1gRQl5tQu5KTWyvs3zdd2p) | 2:48 | 2023-09-07 | 2023-10-13 |

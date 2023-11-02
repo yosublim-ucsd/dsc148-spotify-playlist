@@ -4,7 +4,7 @@
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-344 songs - 1 day 12 hr 6 min
+345 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,8 @@
 | [Pass The Peas](https://open.spotify.com/track/6H4RLsUbUcNsEnelTcCtVm) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [James Brown's Funky People](https://open.spotify.com/album/7IRjn4x7FRNkv5ezdFbr1Y) | 3:12 | 2018-02-27 | 2022-11-13 |
 | [Pass The Peas](https://open.spotify.com/track/7CjV22bm1Vx0guKm2HV3OD) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [James Brown's Funky People](https://open.spotify.com/album/5FNifXgW28BA8kHiujO3Iu) | 3:12 | 2018-02-27 | 2022-07-29 |
 | [Reasons To Be Cheerful, Part 3](https://open.spotify.com/track/7AhwKu6yKANG114QrMvwYu) | [Ian Dury & The Blockheads](https://open.spotify.com/artist/7r993rArgKraCkh8w4Wszl) | [Do It Yourself \(Deluxe Edition\)](https://open.spotify.com/album/5XjkUkyJENRWw1cpwEJeoN) | 4:43 | 2018-02-27 | 2022-07-29 |
-| [Reasons to Be Cheerful, Pt\. 3](https://open.spotify.com/track/5bfAtR5Lq43JM7brcXo3fp) | [Ian Dury](https://open.spotify.com/artist/5PFSmueeFLrjYXqn3agenn), [The Blockheads](https://open.spotify.com/artist/52jfQPouCIphLVi3FqGa7x) | [Sex & Drugs & Rock & Roll](https://open.spotify.com/album/24UJdk5DtKtLdr6TqOgceR) | 4:45 | 2018-02-27 |  |
+| [Reasons to Be Cheerful, Pt\. 3](https://open.spotify.com/track/38rOsCXM4hMF4hPrLYnDyL) | [Ian Dury](https://open.spotify.com/artist/5PFSmueeFLrjYXqn3agenn), [The Blockheads](https://open.spotify.com/artist/52jfQPouCIphLVi3FqGa7x) | [Sex & Drugs & Rock & Roll](https://open.spotify.com/album/5CUdhYYF3PIc6xBXGXPCpn) | 4:45 | 2018-02-27 |  |
+| [Reasons to Be Cheerful, Pt\. 3](https://open.spotify.com/track/5bfAtR5Lq43JM7brcXo3fp) | [Ian Dury](https://open.spotify.com/artist/5PFSmueeFLrjYXqn3agenn), [The Blockheads](https://open.spotify.com/artist/52jfQPouCIphLVi3FqGa7x) | [Sex & Drugs & Rock & Roll](https://open.spotify.com/album/24UJdk5DtKtLdr6TqOgceR) | 4:45 | 2018-02-27 | 2023-11-02 |
 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 | 2018-02-27 |  |
 | [Rock Creek Park](https://open.spotify.com/track/6XN8bM4WMBdzSM76gLoEGN) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Happy Music: The Best Of The Blackbyrds](https://open.spotify.com/album/12RQWFvVDEZg36eisATjmK) | 4:36 | 2018-02-27 |  |
 | [Rock Your Baby](https://open.spotify.com/track/0iYtGebtnGzemwehimWusQ) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [Rock Your Baby](https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM) | 6:24 | 2018-02-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Vesna
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,042 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,050 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 3 | [Zanzibar](https://open.spotify.com/track/5gqzqynz8rh6BpR5LQ9KBv) | [Dominika Mirgova](https://open.spotify.com/artist/5FxqSK3bTstp7wa05O01jt) | [Zanzibar](https://open.spotify.com/album/45UbZeDv9l0ceaQmhdGv2T) | 3:51 |
 | 4 | [Plamen](https://open.spotify.com/track/7tHJ6WzWqlIWvE3LbA11gw) | [Kateřina Marie Tichá](https://open.spotify.com/artist/0WGRcXFn2jyD7Jq6wIHv6O) | [Plamen](https://open.spotify.com/album/2qOy6HYIWwPCwoj2UnQHAm) | 3:06 |
 | 5 | [Mamacita](https://open.spotify.com/track/4WbmRXdOrnGAkORGsdfMZ5) | [Anita Soul](https://open.spotify.com/artist/5cU5Lr1p6OalQuRj6rWRDN), [Monika Bagarova](https://open.spotify.com/artist/0S3fK826BwWKNWHsomoocy), [Tina](https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf) | [BALANS](https://open.spotify.com/album/6Sr4JtqlCrTsp4XvXNic8V) | 3:02 |
-| 6 | [Pedestal](https://open.spotify.com/track/3HlC2UxeXbkTQdFLta3F6N) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Pedestal](https://open.spotify.com/album/74j49vtdc0Kyvx93Br8wzG) | 2:28 |
+| 6 | [Pedestal](https://open.spotify.com/track/3GNmo4ljOTnd8k6VKug1Ut) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Fortune's child](https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr) | 2:28 |
 | 7 | [Piesok](https://open.spotify.com/track/4N2AhohDL4vNi0Awo7y3Sf) | [Katarzia](https://open.spotify.com/artist/5EssQRYnIgCOcvPauVySR1) | [Piesok](https://open.spotify.com/album/4TMwYKhTwM7vMWzkJiZCVO) | 4:29 |
 | 8 | [Co bylo za nás \(feat\. Monika Bagárová\)](https://open.spotify.com/track/6ddwz70c7EGZDxQx4wWoAI) | [Martina Pártlová](https://open.spotify.com/artist/6uYRnxOGXH2rYJ0vDtVh8e), [Monika Bagarova](https://open.spotify.com/artist/0S3fK826BwWKNWHsomoocy) | [Co bylo za nás \(feat\. Monika Bagárová\)](https://open.spotify.com/album/5EGQsgubo8aWUFG3Q2kRuy) | 2:49 |
 | 9 | [Time in Space](https://open.spotify.com/track/4ZIhcYSGkvybh4tAJChLBK) | [Tolstoys](https://open.spotify.com/artist/19eCt7jL2g5BAktLU1KI2J) | [Time in Space](https://open.spotify.com/album/6Ke6we17vws9vgIOMBqo9a) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [By se ti líbilo](https://open.spotify.com/track/50A0EdWbMiLAyblyUtNT55) | [Naty Hrychová](https://open.spotify.com/artist/3IdBTyWXb31wzm0OYIZVP3) | [By se ti líbilo](https://open.spotify.com/album/1fsGNA21D6egr3sd4jRwwz) | 2:52 |
 | 50 | [Shoot You](https://open.spotify.com/track/0Y3RBVIYG9BrHnujM3Fdfa) | [&Tilly](https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N), [Timberly](https://open.spotify.com/artist/4jj1ZDlPoRYHazVI7GD7eG) | [Shoot You](https://open.spotify.com/album/4vreMd9m0nSnQ9cqjSageI) | 3:09 |
 
-Snapshot ID: `MCxmOWFkMjhjYTdjMTkwMzNkYjNlNzBiMzQzZDRjMmE2NGZlYmM1MTQy`
+Snapshot ID: `MCw4N2JhZTBhYmE4OThhODkwMDk1ZTRkNDQ1YTNlMzU2MzIyY2E0YmFi`

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Sky Rompiendo y Dei V.",
-  "num_followers": 520082,
+  "num_followers": 520119,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWIxZjAyZTQ5YzVmM2JkMThkOWQ4YjA0OGE4NWFmOGM4OGI1MjJk",
+  "snapshot_id": "MCwwZTQwMGJiN2JlN2E4NGZiNDg0NzM2MDhiOWQzNWZmMGZmZDQ5M2Jh",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Borracho y Loco",
+        "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Te Menti",
         "url": "https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 187129,
       "name": "Te Menti",
       "url": "https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Borracho y Loco",
-        "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "Borracho y Loco",
-      "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "TU$$I (with Dei V)",
+        "url": "https://open.spotify.com/album/6hcobkxdWIAXzj6OYfjlWo"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "TU$$I (with Dei V)",
+      "url": "https://open.spotify.com/track/5sRLuy3aeAq8MaiZwK92Dn"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "PLN",
         "url": "https://open.spotify.com/album/5gPi0LEcwWMCg6WJEYpLUg"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 181342,
       "name": "La Verde",
       "url": "https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "TU$$I (with Dei V)",
-        "url": "https://open.spotify.com/album/6hcobkxdWIAXzj6OYfjlWo"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "TU$$I (with Dei V)",
-      "url": "https://open.spotify.com/track/5sRLuy3aeAq8MaiZwK92Dn"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -927,6 +927,34 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "TU ME QUIERES? REMIXXX (feat. Lucky Brown)",
+        "url": "https://open.spotify.com/album/705CyZCCFXeFcybba6kvmv"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "duration_ms": 308252,
+      "name": "TU ME QUIERES? REMIXXX (feat. Lucky Brown)",
+      "url": "https://open.spotify.com/track/2EudY7VpHg91v5PDkinD37"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "CC (Remix)",
         "url": "https://open.spotify.com/album/3kHMc3S6pPS9gODoTwhDTH"
       },
@@ -955,34 +983,6 @@
       "duration_ms": 242870,
       "name": "CC - Remix",
       "url": "https://open.spotify.com/track/1sMMcQDlV626GPvzJaGSFx"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "TU ME QUIERES? REMIXXX (feat. Lucky Brown)",
-        "url": "https://open.spotify.com/album/705CyZCCFXeFcybba6kvmv"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        }
-      ],
-      "duration_ms": 308252,
-      "name": "TU ME QUIERES? REMIXXX (feat. Lucky Brown)",
-      "url": "https://open.spotify.com/track/2EudY7VpHg91v5PDkinD37"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "El Bloke Hills",
-        "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 162713,
-      "name": "Gafas Pal Sol",
-      "url": "https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Perreando Triste (feat. Uzielito Mix)",
         "url": "https://open.spotify.com/album/0Z0tJ5ucn0zI9Z1nuPruCs"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 231454,
       "name": "GANGSTA LUV",
       "url": "https://open.spotify.com/track/5DW8n9JygY7J4oMFV5M7ti"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "El Bloke Hills",
+        "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 162713,
+      "name": "Gafas Pal Sol",
+      "url": "https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Trap or Ween",
+        "url": "https://open.spotify.com/album/2LfYNX1oJszU5Ua1Trj2G2"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Nesi",
+          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Merlina",
+      "url": "https://open.spotify.com/track/6Ai42oZmF5kTfs8eGUpsmc"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Te Acuerdas",
         "url": "https://open.spotify.com/album/2PGYv66qvNvkj9bHwJPzfg"
       },
@@ -1483,42 +1503,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Trap or Ween",
-        "url": "https://open.spotify.com/album/2LfYNX1oJszU5Ua1Trj2G2"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Nesi",
-          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Merlina",
-      "url": "https://open.spotify.com/track/6Ai42oZmF5kTfs8eGUpsmc"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "No Me Jalan",
-        "url": "https://open.spotify.com/album/3inIqwqlpPUfBSQl1A5rvf"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 140979,
-      "name": "No Me Jalan",
-      "url": "https://open.spotify.com/track/2lBCB5xzH0vN3SCETlIXep"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Barbie",
         "url": "https://open.spotify.com/album/7bzkPUjkBq6BUGlxpAYgXU"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 196500,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/1rUdyuKqzUVzanfMEgfFaX"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "No Me Jalan",
+        "url": "https://open.spotify.com/album/3inIqwqlpPUfBSQl1A5rvf"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 140979,
+      "name": "No Me Jalan",
+      "url": "https://open.spotify.com/track/2lBCB5xzH0vN3SCETlIXep"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "No Te Veo",
-        "url": "https://open.spotify.com/album/2mvZ7NBq9CllcTzQB5d338"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 155240,
-      "name": "No Te Veo",
-      "url": "https://open.spotify.com/track/02wnMiBlKzoF3E3H5z7EeL"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Bella - Koso",
         "url": "https://open.spotify.com/album/6nbyFnHbOCVeDekmWthCMv"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 149021,
       "name": "Bella - Koso",
       "url": "https://open.spotify.com/track/1BtxrI8KXtyH61pdQAsv9U"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "No Te Veo",
+        "url": "https://open.spotify.com/album/2mvZ7NBq9CllcTzQB5d338"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 155240,
+      "name": "No Te Veo",
+      "url": "https://open.spotify.com/track/02wnMiBlKzoF3E3H5z7EeL"
     },
     {
       "added_at": "2023-10-27 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 59315,
+  "num_followers": 59441,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWNiYzg5YjNkY2VlMTMwZTZjNDJiNzY0MDdmNzMwZGE2ZWE2ZDFl",
+  "snapshot_id": "MCxiNThmZTg4OTA2OWUxYTA1ZWRiOTNjYzQ5NDNkMmQxNDQ2NWNlNDgx",
   "tracks": [
     {
       "added_at": "2023-10-05 11:28:23",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
-        "name": "It's Christmas Time",
-        "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
-      },
-      "artists": [
-        {
-          "name": "Luca Francis",
-          "url": "https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a"
-        }
-      ],
-      "duration_ms": 159622,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
-    },
-    {
-      "added_at": "2023-10-05 11:28:23",
-      "album": {
         "name": "The Christmas Feeling",
         "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 298813,
       "name": "Christmas Memories",
       "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
+    },
+    {
+      "added_at": "2023-10-05 11:28:23",
+      "album": {
+        "name": "It's Christmas Time",
+        "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
+      },
+      "artists": [
+        {
+          "name": "Luca Francis",
+          "url": "https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a"
+        }
+      ],
+      "duration_ms": 159622,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
     },
     {
       "added_at": "2023-10-05 11:28:23",

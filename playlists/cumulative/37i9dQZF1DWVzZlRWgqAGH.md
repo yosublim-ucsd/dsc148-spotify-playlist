@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: JON VINYL
 
-1,041 songs - 2 day 13 hr 11 min
+1,042 songs - 2 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,6 +898,7 @@
 | [Thank You](https://open.spotify.com/track/7hiOhyoRgB7ycVsiNz2ipM) | [Quincy Mumford](https://open.spotify.com/artist/5SuvllnauIOmQexrVDf3yZ) | [Thank You](https://open.spotify.com/album/6KOSeG4bi6XumFRVh2tHwi) | 3:26 | 2019-09-29\* | 2020-04-24 |
 | [Thank You For Waiting \(For Me\)](https://open.spotify.com/track/5Rrv0TThpkqB2U4UskRnt2) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 4:53 | 2021-03-20 | 2021-03-22 |
 | [That's All I Wanted From You](https://open.spotify.com/track/6KPPfdQTxqmpt4Mr1RU09o) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [That's All I Wanted From You](https://open.spotify.com/album/5YMTxJYMulSFqd6kHpn14U) | 2:36 | 2023-07-28 | 2023-09-09 |
+| [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:00 | 2023-10-27 |  |
 | [The Barrel](https://open.spotify.com/track/6kks4Gk5pVu6UzilA4QciA) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 4:59 | 2021-04-18 | 2022-04-20 |
 | [The Better Benediction \(pt.2\) \(feat\. Lisa Knowles\-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard\)](https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Lisa Knowles\-Smith](https://open.spotify.com/artist/000UmiuzgqlUjKHpvIWmAo), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Watch The Sun \(Deluxe\)](https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3) | 4:31 | 2022-10-14 | 2023-03-04 |
 | [The Calm](https://open.spotify.com/track/4IMOXK8UEUmOqLL82KdlLg) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Weather / The Calm](https://open.spotify.com/album/75N9mJYgZQJH4gxnkcuvsr) | 2:11 | 2020-04-10 | 2020-05-08 |

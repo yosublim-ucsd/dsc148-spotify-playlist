@@ -902,6 +902,24 @@
     {
       "album": {
         "name": "Live in S\u00e3o Paulo (2022 - Remaster)",
+        "url": "https://open.spotify.com/album/5CWd1H6Wzku5pBygRnjkV8"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274080,
+      "name": "Roots Bloody Roots (Live) (2022 - Remaster)",
+      "url": "https://open.spotify.com/track/4UGW0qtMaMHUM9YJGvL5IB"
+    },
+    {
+      "album": {
+        "name": "Live in S\u00e3o Paulo (2022 - Remaster)",
         "url": "https://open.spotify.com/album/5cEdx9cxvbEovNdTF0JK7i"
       },
       "artists": [
@@ -912,7 +930,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 274080,
       "name": "Roots Bloody Roots - Live; 2022 - Remaster",
       "url": "https://open.spotify.com/track/2ef6CT41GcKShloWcjzb95"

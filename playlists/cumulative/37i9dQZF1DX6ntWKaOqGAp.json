@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Anshin",
+        "url": "https://open.spotify.com/album/2YRdnx56DRkQl1qR8SdDI6"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204581,
+      "name": "Anshin",
+      "url": "https://open.spotify.com/track/3t6pKG8DLUbtlaLSSNr4z6"
+    },
+    {
+      "album": {
         "name": "AOTOHARU",
         "url": "https://open.spotify.com/album/1JFNHo7DcKh0mmcwHg4S4V"
       },
@@ -6905,6 +6923,24 @@
     },
     {
       "album": {
+        "name": "Rest in Punk",
+        "url": "https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152941,
+      "name": "Rest in Punk",
+      "url": "https://open.spotify.com/track/45fdY5d6sQWanxK8VH1LzA"
+    },
+    {
+      "album": {
         "name": "Rest In Punk",
         "url": "https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4"
       },
@@ -6916,7 +6952,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 152941,
       "name": "Rest In Punk",
       "url": "https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ"
@@ -8625,6 +8661,24 @@
     },
     {
       "album": {
+        "name": "Confession e.p.",
+        "url": "https://open.spotify.com/album/5FOTNyL4xFBXyq38UcREhy"
+      },
+      "artists": [
+        {
+          "name": "reGretGirl",
+          "url": "https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258200,
+      "name": "Tsuki No Iro",
+      "url": "https://open.spotify.com/track/3koTe4YqyBEQ17Zj7v5mUQ"
+    },
+    {
+      "album": {
         "name": "T\u30fbP\u30fbP",
         "url": "https://open.spotify.com/album/6za2iN5N0S2AFoIh4YMwrv"
       },
@@ -9584,7 +9638,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 204581,
       "name": "\u3042\u3093\u3057\u3093",
       "url": "https://open.spotify.com/track/02sTGST2qx3lMLkCmXWn6g"
@@ -15622,7 +15676,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 258200,
       "name": "\u6708\u306e\u8272",
       "url": "https://open.spotify.com/track/43Y1v6BiQ9hg7CHYMbbdKc"

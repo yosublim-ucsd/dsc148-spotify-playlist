@@ -2522,7 +2522,7 @@
     {
       "album": {
         "name": "El Exitoso",
-        "url": "https://open.spotify.com/album/1grxbCfqwBpV7WR9zwun0y"
+        "url": "https://open.spotify.com/album/4SQZsm1mpAPJuxKW7Nlauy"
       },
       "artists": [
         {
@@ -2533,6 +2533,24 @@
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 222270,
+      "name": "El Exitoso",
+      "url": "https://open.spotify.com/track/4E1QkNe7kxIzBAOvOWGgPH"
+    },
+    {
+      "album": {
+        "name": "El Exitoso",
+        "url": "https://open.spotify.com/album/1grxbCfqwBpV7WR9zwun0y"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
       "duration_ms": 222270,
       "name": "El Exitoso",
       "url": "https://open.spotify.com/track/5KsI0xjWupcPQTGxHDOQFW"
@@ -6608,7 +6626,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 156040,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"

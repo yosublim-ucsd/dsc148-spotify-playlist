@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 604506,
+  "num_followers": 604661,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjU3NTdiYzk0NmQyNjNlZDVhNzY4MTMyZjY3YzY1NjZkOTU2Nzhh",
+  "snapshot_id": "MCxkOTM5NzY2NDA0YTMwYTMzNTVmZmJjY2Q0NjBkZGVkZDNjNDFiNzFk",
   "tracks": [
     {
       "added_at": "2023-10-02 17:00:11",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Sign of the Times",
-        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 193403,
-      "name": "Sign of the Times",
-      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
         "name": "No One Like You - EP",
         "url": "https://open.spotify.com/album/3GSvcm4WssIPaJLilc5LCK"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 256721,
       "name": "No One Like You - Edit",
       "url": "https://open.spotify.com/track/262YCyt3bWO2U7sk3wHAhn"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
+        "name": "Sign of the Times",
+        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 193403,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO"
+      },
+      "artists": [
+        {
+          "name": "Mika Olson",
+          "url": "https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
         "name": "Don't Care Anymore",
         "url": "https://open.spotify.com/album/0mTspKDmWINKfM2gPqMmF1"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 234685,
       "name": "Far Behind",
       "url": "https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO"
-      },
-      "artists": [
-        {
-          "name": "Mika Olson",
-          "url": "https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
+        "name": "Aperol Spiritz",
+        "url": "https://open.spotify.com/album/2U4jv3hgtuYc95dCjjsTs2"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "duration_ms": 315200,
+      "name": "Aperol Spiritz",
+      "url": "https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
         "name": "Roads Of Gold",
         "url": "https://open.spotify.com/album/5j2ZsWodikhixJNHhUCGKq"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 310602,
       "name": "Roads Of Gold - Edit",
       "url": "https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
-        "name": "Aperol Spiritz",
-        "url": "https://open.spotify.com/album/2U4jv3hgtuYc95dCjjsTs2"
-      },
-      "artists": [
-        {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
-        }
-      ],
-      "duration_ms": 315200,
-      "name": "Aperol Spiritz",
-      "url": "https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
-      },
-      "artists": [
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 420115,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
         "name": "Orbits of Dust",
         "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 289156,
       "name": "Howl - Logic1000 Remix",
       "url": "https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
     },
     {
       "added_at": "2023-10-02 17:00:11",

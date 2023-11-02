@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain](/playlists/plain/2vpAyuy9HOTPjygPl63QuH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2vpAyuy9HOTPjygPl63QuH)
 
-### [House Shift](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
+### [Tech House Shift](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
 
-> The freshest house music, updated every friday\. Submit via Instagram: @subshiftmusic
+> The freshest tech house music, updated every friday\. Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,682 likes - 47 songs - 2 hr 37 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,693 likes - 47 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 46 | [Pop It Low](https://open.spotify.com/track/1Na1p38EwTGN4mRpOT0VbC) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M), [Trallez](https://open.spotify.com/artist/28eQwvrKWHqRACUQ9FQRfZ) | [Pop It Low EP](https://open.spotify.com/album/37Dz9yJnZwG0G6c0PcbYiT) | 2:51 |
 | 47 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 |
 
-Snapshot ID: `NzgwMSxjY2M2NzE5ZjMwMGFjNGE0ZGY5OGIxOTNjY2YwMjRmOGM0MjUyOTI4`
+Snapshot ID: `NzgwMyw3MDMxOTU5N2UzMGEyMTdhOTA0Y2NjMjBmZmQyZjcwZDE5MTU5OWUy`

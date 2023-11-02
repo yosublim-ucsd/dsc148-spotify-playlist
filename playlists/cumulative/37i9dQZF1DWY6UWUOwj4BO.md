@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-80 songs - 4 hr 15 min
+81 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Shivers \- Acoustic Version](https://open.spotify.com/track/7BiRw4sgXQMyNx8nPltnQr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers \(Acoustic Version\)](https://open.spotify.com/album/1CM3OBIxS9yzSiIAOW0gIF) | 3:26 | 2022-12-21 | 2023-06-03 |
 | [SNAP \- Acoustic](https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:28 | 2023-06-16 |  |
 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 | 2022-12-21 |  |
-| [Strangers \- sad acoustic version](https://open.spotify.com/track/3FdmZW1QbdYwV1Iqomtbrt) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5IbJJqixgNWbwpipRhOagt) | 3:04 | 2023-10-26 |  |
+| [Strangers \- sad acoustic version](https://open.spotify.com/track/2BRgLIB3KV9EYdUkOgDgWs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5r46y111iubU3MZRsC5ZPK) | 3:04 | 2023-10-26 |  |
+| [Strangers \- sad acoustic version](https://open.spotify.com/track/3FdmZW1QbdYwV1Iqomtbrt) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5IbJJqixgNWbwpipRhOagt) | 3:04 | 2023-10-26 | 2023-11-02 |
 | [Sweet but Psycho \- Acoustic](https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Sweet but Psycho \(Acoustic\)](https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon) | 2:59 | 2022-12-21 |  |
 | [Tattoo \- Acoustic](https://open.spotify.com/track/5V2wCtKTQEQlWr0igELU4x) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo \(Acoustic\)](https://open.spotify.com/album/6EtQsunaDhISsreHCSplVY) | 3:34 | 2023-05-14 |  |
 | [Te Amo \- DJ Youcef Remix – Version Acoustique](https://open.spotify.com/track/5DiKjTMmJfdIROpZXAzLwY) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Te Amo \(DJ Youcef Remix – Version Acoustique\)](https://open.spotify.com/album/4we58LKZyy9dtDRIJXeUJs) | 4:18 | 2022-12-21 | 2023-06-03 |

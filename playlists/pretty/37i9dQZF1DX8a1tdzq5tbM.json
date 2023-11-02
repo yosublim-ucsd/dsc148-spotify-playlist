@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1422630,
+  "num_followers": 1423012,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTI4NmZmOTM4ZjI2YTllMjY4MjJiOWJlMTNiZTBlNDA2NmQ0YjMx",
+  "snapshot_id": "MCxmNTBhNTNhZTg5MTFlOWMxZWMzNTY5Y2QzNThjM2RmNmNmN2VhN2Yz",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Blue (Da Ba Dee)",
-        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 219618,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
-      "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Poetica (feat. Nadia Ali)",
         "url": "https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 253586,
       "name": "Rapture (feat.Nadia Ali)",
       "url": "https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Blue (Da Ba Dee)",
+        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 219618,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
+      "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Ready For The Weekend",
-        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Destination Calabria",
         "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 181946,
       "name": "Destination Calabria - UK Radio Edit",
       "url": "https://open.spotify.com/track/7pGboneNRAZ5zwT7M3WayC"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Ready For The Weekend",
+        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 169426,
+      "name": "Call On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
         "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 229600,
       "name": "Caf\u00e9 Del Mar - Three 'n One Radio Edit",
       "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 169426,
-      "name": "Call On Me - Radio Edit",
-      "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Move For Me",
+      "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Carry Me Away , Pt. 1",
         "url": "https://open.spotify.com/album/5wUsPJbsSVgz9eORxhj3uf"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 205920,
       "name": "Carry Me Away (feat. Emma Hewitt) - Radio Edit",
       "url": "https://open.spotify.com/track/3vVdNuzFHL0hmT8Xq4vbhY"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Move For Me",
-      "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1511,22 +1511,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Girlfriend 2008",
-        "url": "https://open.spotify.com/album/6R2jrdecpeVZZLWShXj8SZ"
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
       },
       "artists": [
         {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         },
         {
-          "name": "Keylime",
-          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         }
       ],
-      "duration_ms": 437538,
-      "name": "Girlfriend - 2008 Remix",
-      "url": "https://open.spotify.com/track/71kHGcF4NcAqKUopKqdtm7"
+      "duration_ms": 283040,
+      "name": "I Remember (Strobelight Edit)",
+      "url": "https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1583,26 +1583,6 @@
       "duration_ms": 288053,
       "name": "Rocker",
       "url": "https://open.spotify.com/track/4oNm4AlbUo8XEDayfLxoup"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 283040,
-      "name": "I Remember (Strobelight Edit)",
-      "url": "https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1739,22 +1719,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Further",
-        "url": "https://open.spotify.com/album/755TkKLW2Pxab93RQ4RNlb"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Swoon",
-      "url": "https://open.spotify.com/track/2drOnGxH4NvagDjre7GXCd"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Strange Condition",
         "url": "https://open.spotify.com/album/0xAiJhllwbeJH9HGMR5FnI"
       },
@@ -1767,6 +1731,22 @@
       "duration_ms": 213546,
       "name": "Strange Condition - Inpetto Radio Edit",
       "url": "https://open.spotify.com/track/74rPAWzJdu1g43PtBpTGrf"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Further",
+        "url": "https://open.spotify.com/album/755TkKLW2Pxab93RQ4RNlb"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/2drOnGxH4NvagDjre7GXCd"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1903,6 +1883,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Just One Day",
+        "url": "https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A"
+      },
+      "artists": [
+        {
+          "name": "Kim Sozzi",
+          "url": "https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "Feel Your Love",
+      "url": "https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
       },
@@ -1931,22 +1927,6 @@
       "duration_ms": 171280,
       "name": "Make Your Move - Radio Edit",
       "url": "https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Just One Day",
-        "url": "https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A"
-      },
-      "artists": [
-        {
-          "name": "Kim Sozzi",
-          "url": "https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "Feel Your Love",
-      "url": "https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2087,22 +2067,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Sorry - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
       },
@@ -2135,26 +2099,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Everything (feat. Myah)",
-        "url": "https://open.spotify.com/album/3Bx89yMELMkVVtXMqJTaqT"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
       },
       "artists": [
         {
-          "name": "Ron Reeser",
-          "url": "https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY"
-        },
-        {
-          "name": "Dan Saenz",
-          "url": "https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8"
-        },
-        {
-          "name": "Myah",
-          "url": "https://open.spotify.com/artist/0zVkEWAv7FUL8YEBz3wlWt"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         }
       ],
-      "duration_ms": 228501,
-      "name": "Everything (feat. Myah) - Radio Edit",
-      "url": "https://open.spotify.com/track/6Ypg2IzQhNOpxQi2vIBvfz"
+      "duration_ms": 211266,
+      "name": "Sorry - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2219,6 +2175,38 @@
       "duration_ms": 225400,
       "name": "Imagination - Ti\u00ebsto Remix Radio Edit",
       "url": "https://open.spotify.com/track/1mNiQ0hVgB7xQZ938A8lIJ"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Back 2 House",
+        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
+      },
+      "artists": [
+        {
+          "name": "Modjo",
+          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Put Your Hands Up For Detroit",
+        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 393333,
+      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
+      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
     }
   ],
   "unique_name": "Dance Classics",

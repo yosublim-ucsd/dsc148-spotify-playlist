@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 585708,
+  "num_followers": 585806,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGZhODU3YzhjY2Q1Mzc1ZTM2YWZiNWIzYmVmNTBlMTg0ZjU2OTg2",
+  "snapshot_id": "MCwxNmM2MmU3MzY0OTI5NmRmZWM5MWVhYzQwOGMwZGUyNzNlNDExOTI0",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Black Is the Color",
-        "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
-      },
-      "artists": [
-        {
-          "name": "Lucette",
-          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "Bobby Reid",
-      "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Sad But True",
         "url": "https://open.spotify.com/album/2Io6ybkhshdFUJhBgWQETk"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 128893,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/0BCtG2fGjxoztlnetLoqBc"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Black Is the Color",
+        "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
+      },
+      "artists": [
+        {
+          "name": "Lucette",
+          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "Bobby Reid",
+      "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Nobody knows.",
-        "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
-      },
-      "artists": [
-        {
-          "name": "Willis Earl Beal",
-          "url": "https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC"
-        }
-      ],
-      "duration_ms": 279733,
-      "name": "Too Dry To Cry",
-      "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Micah P. Hinson and the Opera Circuit",
         "url": "https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 125493,
       "name": "Diggin A Grave",
       "url": "https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Nobody knows.",
+        "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
+      },
+      "artists": [
+        {
+          "name": "Willis Earl Beal",
+          "url": "https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC"
+        }
+      ],
+      "duration_ms": 279733,
+      "name": "Too Dry To Cry",
+      "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Out Of Hands We Go",
-        "url": "https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr"
-      },
-      "artists": [
-        {
-          "name": "O'Death",
-          "url": "https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O"
-        }
-      ],
-      "duration_ms": 233873,
-      "name": "Herd",
-      "url": "https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
+        "name": "Out Of Hands We Go",
+        "url": "https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr"
       },
       "artists": [
         {
-          "name": "Bellstop",
-          "url": "https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o"
+          "name": "O'Death",
+          "url": "https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O"
         }
       ],
-      "duration_ms": 223493,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
+      "duration_ms": 233873,
+      "name": "Herd",
+      "url": "https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1071,6 +1055,22 @@
       "duration_ms": 331908,
       "name": "Shake off Your Flesh",
       "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
+      },
+      "artists": [
+        {
+          "name": "Bellstop",
+          "url": "https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Heaven Help Me",
-        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "William Crighton",
         "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 194570,
       "name": "Chains",
       "url": "https://open.spotify.com/track/4uGtVXkE0VG4rNmSEaFnde"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Heaven Help Me",
+        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Look Homeward",
+        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
+      },
+      "artists": [
+        {
+          "name": "Look Homeward",
+          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Sister Death",
+      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Bastard Children",
         "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 88293,
       "name": "Long Time Travelin'",
       "url": "https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Look Homeward",
-        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
-      },
-      "artists": [
-        {
-          "name": "Look Homeward",
-          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Sister Death",
-      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Bless Your Soul",
-        "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 212504,
-      "name": "Bless Your Soul",
-      "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Longest Day",
         "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 270228,
       "name": "Highway 9",
       "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Bless Your Soul",
+        "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 212504,
+      "name": "Bless Your Soul",
+      "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Digging Up Birds: A Collection of Rarities & Others",
-        "url": "https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD"
+        "name": "Lay This Body Down",
+        "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
       },
       "artists": [
         {
-          "name": "Graham Lindsey",
-          "url": "https://open.spotify.com/artist/1hFvZy3pBf5pOSmJULL4sG"
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
         }
       ],
-      "duration_ms": 188660,
-      "name": "No Way Out but Down (Alternate Version)",
-      "url": "https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9"
+      "duration_ms": 287773,
+      "name": "Lay This Body Down",
+      "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
     }
   ],
   "unique_name": "Southern Gothic",

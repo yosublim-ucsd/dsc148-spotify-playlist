@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-172 songs - 10 hr 9 min
+173 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [I Run To You](https://open.spotify.com/track/2YVCkTYJpv5jelYrHYoEG8) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Lady Antebellum](https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh) | 4:16 | 2021-09-17 |  |
 | [I Swear](https://open.spotify.com/track/553tCwkqeLLa1uCPPNd6az) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Greatest Hits](https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW) | 4:24 | 2021-09-17 |  |
 | [I WILL, I SWEAR, I DO](https://open.spotify.com/track/5qkzYOVjOAcKE1zhmNBsL9) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [I WILL, I SWEAR, I DO](https://open.spotify.com/album/0tMuDCcWqJCwg09caTmgOh) | 3:13 | 2021-11-05 |  |
-| [I'll Never](https://open.spotify.com/track/2c9WCG3eAxbCUiEbvAVj2z) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [I'll Never](https://open.spotify.com/album/18EtwJgfmxArCatnS6w49T) | 2:43 | 2023-01-13 |  |
+| [I'll Never](https://open.spotify.com/track/2c9WCG3eAxbCUiEbvAVj2z) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [I'll Never](https://open.spotify.com/album/18EtwJgfmxArCatnS6w49T) | 2:43 | 2023-01-13 | 2023-11-02 |
+| [I'll Never](https://open.spotify.com/track/4HUkIgxCIEJzBddjfOcDyG) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [I'll Never](https://open.spotify.com/album/2nULXvvTEpg36QVnOdQBIZ) | 2:43 | 2023-10-27 |  |
 | [I'll Say I Do](https://open.spotify.com/track/4eSOx2FzrVXpKmtssY59LB) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [I'll Say I Do](https://open.spotify.com/album/6sDNyjuQ8lvAKoc6qf6K6A) | 3:55 | 2021-09-17 |  |
 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 | 2021-09-17 |  |
 | [It Takes A Woman](https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [It Takes A Woman](https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR) | 4:06 | 2023-10-13 |  |

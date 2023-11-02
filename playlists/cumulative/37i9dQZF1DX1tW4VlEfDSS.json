@@ -2422,6 +2422,28 @@
     {
       "album": {
         "name": "Lover 4 Now (feat. Todd Edwards) [Edit]",
+        "url": "https://open.spotify.com/album/2PfzLGZl1mSVk7gKdXUoNP"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        },
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202051,
+      "name": "Lover 4 Now (feat. Todd Edwards) (Edit)",
+      "url": "https://open.spotify.com/track/6Hq3uq5WuAThcnuDUNyzQO"
+    },
+    {
+      "album": {
+        "name": "Lover 4 Now (feat. Todd Edwards) [Edit]",
         "url": "https://open.spotify.com/album/0n6nUGLEa2MGv53Kqkm5sa"
       },
       "artists": [
@@ -2436,7 +2458,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 202051,
       "name": "Lover 4 Now (feat. Todd Edwards) - Edit",
       "url": "https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7"

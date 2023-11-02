@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=\_z2LDODzSQS0aTJTRTn8rQ">Sarkodie</a>  and <a href="https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H?si=r7fAFvPOQW6GORG5CG1ObQ">Ruger</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,354 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,412 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 59 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
 | 60 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 |
 
-Snapshot ID: `MCw5ODAxMTllOWI5NDVhYTQ4MDA3OWFlZGFiNjMxNmQ4OGRiODc3MzY3`
+Snapshot ID: `MCw2MTQ4Njc0YzI4YzFiZTEzMGIyOWVjODUyZmNkYTgxNmEwMzlkYmRl`

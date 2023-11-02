@@ -1,12 +1,12 @@
 {
   "description": "De la cuna pa'l mundo. Celebrando la cultura y m\u00fasica de Puerto Rico con los sonidos de la Casa.",
-  "num_followers": 5960,
+  "num_followers": 5977,
   "original_name": "Casa Spotify Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDE5M2FkZmZiNzkwMWE3YTYxYmY0YzM1ZWExMGUxMWI3NmI5ZmVm",
+  "snapshot_id": "MCw4NDQ3ZGM3NDc2N2FkNjhlOGRmZTQ2ZWJkOTcwY2FiMWNjYWI1N2Nk",
   "tracks": [
     {
       "added_at": "2023-06-27 18:03:27",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "En Su Nota",
+        "url": "https://open.spotify.com/album/48GYgcbW6eNW8us6VsWluS"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "En Su Nota",
+      "url": "https://open.spotify.com/track/7MBSL396aTUTolS3jeI6lC"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 213913,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/78uXMDNh2W2jZVrc4qBatZ"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "En Su Nota",
-        "url": "https://open.spotify.com/album/48GYgcbW6eNW8us6VsWluS"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "En Su Nota",
-      "url": "https://open.spotify.com/track/7MBSL396aTUTolS3jeI6lC"
     },
     {
       "added_at": "2023-06-27 18:03:27",

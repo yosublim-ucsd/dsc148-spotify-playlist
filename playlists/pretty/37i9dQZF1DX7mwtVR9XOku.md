@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mwtVR9XOku.md) - [plain]
 
 > Déjate arrullar por estas apacibles melodías clásicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,842 likes - 68 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,881 likes - 68 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mwtVR9XOku.md) - [plain]
 | 57 | [Not Alone](https://open.spotify.com/track/51zxgx075eEXbFvg6xA2YM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Love & Keep](https://open.spotify.com/album/0McAK4hAugkV6K9CfySKl7) | 2:36 |
 | 58 | [Lyric Pieces, Book 9, Op\. 68: Badnlat \(Cradle Song\)](https://open.spotify.com/track/5P5LGCJrCByuqgj9djXqa4) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Einar Steen\-Nøkleberg](https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ) | [Grieg: Lyric Pieces, Books 8 \- 10, Opp\. 65, 68, and 71](https://open.spotify.com/album/7AsuXIHGlGtFl3MoA2KCRr) | 2:11 |
 | 59 | [Near \(Piano Rework\)](https://open.spotify.com/track/4DjYi5buWGphomdB4BjJDd) | [Liam Phan](https://open.spotify.com/artist/4HIb6xhqfXDro0hkpwILwR) | [Near \(Piano Rework\)](https://open.spotify.com/album/4u37FT4IaZyWhzDNnnpzvn) | 2:50 |
-| 60 | [Infinity](https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Sonic Apothecary](https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb) | 7:28 |
+| 60 | [Infinity](https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR), [Sonic Apothecary](https://open.spotify.com/artist/1jHK7GApaC0DbeqhXIWUrr) | [Sonic Apothecary](https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb) | 7:28 |
 | 61 | [Lullaby for Nick](https://open.spotify.com/track/3sSGalPwfFt0XiNnYx7fBB) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Tamara Anna Cislowska](https://open.spotify.com/artist/6qq0PaNoOuhPsYtUtsxRQs) | [Butterflying: Piano Music of Elena Kats\-Chernin](https://open.spotify.com/album/1r7qNZsIrYhszVnFp92pv9) | 3:23 |
 | 62 | [the color of the sky \- sleep rework](https://open.spotify.com/track/2YfZhXTjnsNOXfSeVZdmqy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(sleep rework\)](https://open.spotify.com/album/1Lv022YCTEYHI7B3lqLJ60) | 2:56 |
 | 63 | [Nocturne in Tokyo](https://open.spotify.com/track/4imyXxsul98cYFhQyN4D6y) | [Remo Anzovino](https://open.spotify.com/artist/3eX54towHuwK80Za9BKZ8l) | [Nocturne](https://open.spotify.com/album/7k5UzofOULX7bkeCfgR5lK) | 3:41 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mwtVR9XOku.md) - [plain]
 | 67 | [Transition](https://open.spotify.com/track/00Jh6031MKpE5nunLJzvyM) | [Elora Bonilla](https://open.spotify.com/artist/5ytoulK1Bp6GLoU6VWs0Nr) | [Transition](https://open.spotify.com/album/0P61A45wt4xVVneycMqdyp) | 2:55 |
 | 68 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 |
 
-Snapshot ID: `MCxkMmUwMDc0YWM4NTU1YWZlYTg3ODcwNTdlMzE1YmI3YzEwMDkzYjkx`
+Snapshot ID: `MCw0M2JkOTU0NzVlZGI5NTk3ZjZkZTY5MzZjYzIyODk0YjI0MmVjZTI1`

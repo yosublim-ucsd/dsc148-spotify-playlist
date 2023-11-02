@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,652 likes - 50 songs - 14 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,763 likes - 50 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 15 | [Om Gam Ganapataye](https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Om Gam Ganapataye](https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67) | 10:30 |
 | 16 | [Shiva Chants](https://open.spotify.com/track/4HFFzYAPgabpJI9IiKNDxS) | [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Shiva Chants](https://open.spotify.com/album/6oVqipIJuVUOx6yUYcLvFh) | 5:03 |
 | 17 | [Gayatri Mantra \(108 Times\)](https://open.spotify.com/track/5PFiiReo58SGPeKfEnRuc8) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Gayatri Mantra](https://open.spotify.com/album/6yAEcjB0tVVFcrJB7i0FdB) | 36:50 |
-| 18 | [Mool Mantra](https://open.spotify.com/track/260CN7x19rK2PUlwXhRsZN) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra](https://open.spotify.com/album/68mN6PReyeJfWydMrMSOBl) | 7:45 |
+| 18 | [Mool Mantra](https://open.spotify.com/track/79n8AuJG3hP5DFCQTiB78h) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra \- Single](https://open.spotify.com/album/4Fdr2MRs9AJNLBittLnyYW) | 7:45 |
 | 19 | [Sarvesham Svastir Bhavtu](https://open.spotify.com/track/0ttVqRISNySDktBhdJsJZv) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:17 |
 | 20 | [Om Namah Shivay Mantra](https://open.spotify.com/track/7ac2jKXhOfnNPHQQ2BBGBx) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Om Namah Shivay Mantra](https://open.spotify.com/album/1q2387c87LOveOx3uBFIhJ) | 12:17 |
 | 21 | [Gayatri Mantra](https://open.spotify.com/track/6pgkNVyeOaCUXmzRbXFNSt) | [Chetna Bhardwaj](https://open.spotify.com/artist/4LTxsVoN6Rkd0l5vw8QTYx) | [Gayatri Mantra](https://open.spotify.com/album/06azPdWYhUcCLbgEyEeVdI) | 41:02 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 30 | [Resonance Meditation with Omkaar \- at 432 Hz](https://open.spotify.com/track/0MuPr9td6KGDdOSK660vcM) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p), [Rupa Tiwary](https://open.spotify.com/artist/6dwI4WlkGItwJ7bwDNeLzm) | [Chants of Moksha \- Omkaar \- at 432 Hz](https://open.spotify.com/album/1qp14fQUPcdOoadYpYZ27s) | 9:57 |
 | 31 | [Ganesha Gayatri: For Success in Anything](https://open.spotify.com/track/2fHWrCwPVLjpJb2ibPFDjr) | [Ananda Vdovic](https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN), [Davor Vdovic](https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ) | [Mantras for a Happy Life](https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k) | 3:44 |
 | 32 | [Tan Man Shaant](https://open.spotify.com/track/1YOx9HCFKTmyPgQGNtrioQ) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1jugrSJ5ZNJFaeZvki19Z4) | 44:53 |
-| 33 | [Mahamrutyunjay Mantra 108 Times](https://open.spotify.com/track/3yfuJG45CTPeFM8ASZt1cJ) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [Mahamrutyunjay Mantra 108 Times](https://open.spotify.com/album/3PQ7zZ8vT49Bjcnv88Qyxz) | 54:06 |
+| 33 | [Mahamrutyunjay Mantra 108 Times](https://open.spotify.com/track/0XQmuCw3Etp4fbK6Q30uSp) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [Mahamrutyunjay Mantra 108 Times \- Single](https://open.spotify.com/album/6ZFRGKKeD1Cva1MHBZ7RVw) | 54:06 |
 | 34 | [Om Namo Bhagavate Vasudevaya \(Liberation\)](https://open.spotify.com/track/1uzmVgbFP4UsMnTP1RXfQ5) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF) | [Mantras for Precarious Times](https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX) | 9:29 |
 | 35 | [Om Tryambakam: Mantra for Health](https://open.spotify.com/track/7xHqunPfTTNAsJvBjSzDsH) | [Ananda Vdovic](https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN), [Davor Vdovic](https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ) | [Mantras for a Happy Life](https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k) | 8:33 |
 | 36 | [Gayatri Mantra](https://open.spotify.com/track/1eFNVWquDgTQHAo2lBnztM) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 49 | [Om Kali Mahakali Mantra](https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ) | [Chant Central](https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI) | [Om Kali Mahakali Mantra](https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx) | 47:06 |
 | 50 | [Hari Om \- Edit](https://open.spotify.com/track/2f15VD8uiJDDEHbM17OmIv) | [Nisha Narsai](https://open.spotify.com/artist/1Ux83LKN1wlXdbKJhcpGEC) | [Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga](https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M) | 8:04 |
 
-Snapshot ID: `MCxkNjkzZTEyZWY3ZGIyM2E4N2RkZjVkYzIxOWYwNmM5YmFlYjRlMmNk`
+Snapshot ID: `MCxiZTRlNjUxNGYxOWVlZjhjYTExNDMyMzUyM2NjMTY3YTBmODE0Yzcy`

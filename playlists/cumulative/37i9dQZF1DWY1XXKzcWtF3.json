@@ -4490,7 +4490,7 @@
     {
       "album": {
         "name": "Sex & Drugs & Rock & Roll",
-        "url": "https://open.spotify.com/album/24UJdk5DtKtLdr6TqOgceR"
+        "url": "https://open.spotify.com/album/5CUdhYYF3PIc6xBXGXPCpn"
       },
       "artists": [
         {
@@ -4505,6 +4505,28 @@
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 285533,
+      "name": "Reasons to Be Cheerful, Pt. 3",
+      "url": "https://open.spotify.com/track/38rOsCXM4hMF4hPrLYnDyL"
+    },
+    {
+      "album": {
+        "name": "Sex & Drugs & Rock & Roll",
+        "url": "https://open.spotify.com/album/24UJdk5DtKtLdr6TqOgceR"
+      },
+      "artists": [
+        {
+          "name": "Ian Dury",
+          "url": "https://open.spotify.com/artist/5PFSmueeFLrjYXqn3agenn"
+        },
+        {
+          "name": "The Blockheads",
+          "url": "https://open.spotify.com/artist/52jfQPouCIphLVi3FqGa7x"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
       "duration_ms": 285586,
       "name": "Reasons to Be Cheerful, Pt. 3",
       "url": "https://open.spotify.com/track/5bfAtR5Lq43JM7brcXo3fp"

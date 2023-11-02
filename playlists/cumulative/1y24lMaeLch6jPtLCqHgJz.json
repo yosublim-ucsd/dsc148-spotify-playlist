@@ -4345,6 +4345,28 @@
     },
     {
       "album": {
+        "name": "Stuck In My Head",
+        "url": "https://open.spotify.com/album/6X92L4rhawm4vtB6i1tWa6"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Amanda Collis",
+          "url": "https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Stuck In My Head",
+      "url": "https://open.spotify.com/track/4VPQnCLWAshumFZc3iQWKS"
+    },
+    {
+      "album": {
         "name": "Stuck On You",
         "url": "https://open.spotify.com/album/4wwikw40hrgrQuUg02xs8R"
       },

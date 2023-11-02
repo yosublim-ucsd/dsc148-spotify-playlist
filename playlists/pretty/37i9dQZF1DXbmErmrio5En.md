@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > ft\. Riovaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,283 likes - 110 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,833 likes - 110 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Love, Pt\. 1](https://open.spotify.com/track/5BJDEyPcwQpunsTidFPfR8) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp) | [My Love, Pt\. 1](https://open.spotify.com/album/6IZsGlZ5lRiyR7NSp1xbJM) | 2:57 |
 | 2 | [checkpoint](https://open.spotify.com/track/1MRJdd1VnGWDeX1wtsN9f8) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i used to just cry about it](https://open.spotify.com/album/3TZ7OjH6U6LNDpRr8dM9MC) | 2:12 |
-| 3 | [A LA CARTE](https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:01 |
+| 3 | [A LA CARTE \(feat\. brakence\)](https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:01 |
 | 4 | [brown eyes](https://open.spotify.com/track/2pLieFj49thsxTBBquLEz9) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [brown eyes](https://open.spotify.com/album/2ZsjTlwVcwkYgcT0R7GA1X) | 2:06 |
 | 5 | [kickstand](https://open.spotify.com/track/2T6D4elLJtJs5V1DHhrDi1) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [kickstand](https://open.spotify.com/album/1zxNTb81sl4VthrXuolxNz) | 2:10 |
 | 6 | [spit](https://open.spotify.com/track/1ft9HRORvo0uMAoBwqkxgY) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [spit](https://open.spotify.com/album/7hjfEMayKwXCohSb8rVV1C) | 2:19 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 109 | [PSYCH MOB](https://open.spotify.com/track/1A67DAnXMZC3DIUibeRUnA) | [hammond preacher](https://open.spotify.com/artist/2dhU0be0WVmZJeKu0Yx3uo) | [PSYCH MOB](https://open.spotify.com/album/14riMJ5ianTJ0lv65hFejk) | 1:20 |
 | 110 | [‎mint ‎condition \(‎good ‎as ‎new\)](https://open.spotify.com/track/6MwqWsbeIZu4j2JNT4GjeN) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mint ‎condition](https://open.spotify.com/album/1jboFFMPdvWimrI3ndqofk) | 2:17 |
 
-Snapshot ID: `MCw3ODRkNzE2NmZjZTMxOGVjMzkzZGIxYjQxZGIzNjYxNWIwOGViZTdi`
+Snapshot ID: `MCxjYjIzMzRiM2EwNGJkZGUwZjQyM2IyMmQzZWJjNmI5NTk0NzM2Y2Nl`

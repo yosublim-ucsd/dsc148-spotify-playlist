@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Janelle Mon\u00e1e",
-  "num_followers": 76028,
+  "num_followers": 76024,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTczM2ExYzQ2YTFkYTJiY2NjNDI4YTQ5MGQxMDFjYjljYzQyMzcz",
+  "snapshot_id": "MCxmNTlhMTdiZDExMWYyNTgwY2RkMmQzODAyMjljMDE4ODYyN2Q3ZTYw",
   "tracks": [
     {
       "added_at": "2021-08-03 17:22:27",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-05-25 04:09:32",
       "album": {
-        "name": "Camille",
-        "url": "https://open.spotify.com/album/34IwZWZlJYs7D3cEiJdYLE"
-      },
-      "artists": [
-        {
-          "name": "chlothegod",
-          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Camille",
-      "url": "https://open.spotify.com/track/6OqDwiemWUNCb2yRzWNoza"
-    },
-    {
-      "added_at": "2023-05-25 04:09:32",
-      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 211875,
       "name": "Gimme A Chance",
       "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
+    },
+    {
+      "added_at": "2023-05-25 04:09:32",
+      "album": {
+        "name": "Camille",
+        "url": "https://open.spotify.com/album/34IwZWZlJYs7D3cEiJdYLE"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Camille",
+      "url": "https://open.spotify.com/track/6OqDwiemWUNCb2yRzWNoza"
     },
     {
       "added_at": "2023-10-05 17:45:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,065 likes - 148 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,097 likes - 148 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 83 | [Clouds](https://open.spotify.com/track/408bsdaoubEwBNge4SXKSa) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL) | [Clouds](https://open.spotify.com/album/48FqgHeNtZBXi5hgFmE0NM) | 2:27 |
 | 84 | [I'm For Real](https://open.spotify.com/track/7L1tW1wlZ3pqjA2GKXhMC6) | [Freejak](https://open.spotify.com/artist/3bhHEBJ3RJGTyOGp0KIB11) | [I'm For Real](https://open.spotify.com/album/0zasCtmr1pi8ATe2gYM1ji) | 2:40 |
 | 85 | [Let's Talk About It \- Friscia & Morel Radio Edit](https://open.spotify.com/track/0vDJ56mYYccvUO1PSWYycn) | [Darci](https://open.spotify.com/artist/2pv2BP3lz062km3ZCGubhe), [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy), [Glenn Friscia](https://open.spotify.com/artist/2ly9qGyXDBdgpWVvT3Fhrc) | [Let's Talk About It \(Mixes\)](https://open.spotify.com/album/083MwabOmFftpTP5OFGezy) | 4:00 |
-| 86 | [Lover 4 Now \(feat\. Todd Edwards\) \- Edit](https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Lover 4 Now \(feat\. Todd Edwards\) \[Edit\]](https://open.spotify.com/album/0n6nUGLEa2MGv53Kqkm5sa) | 3:22 |
+| 86 | [Lover 4 Now \(feat\. Todd Edwards\) \(Edit\)](https://open.spotify.com/track/6Hq3uq5WuAThcnuDUNyzQO) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Lover 4 Now \(feat\. Todd Edwards\) \[Edit\]](https://open.spotify.com/album/2PfzLGZl1mSVk7gKdXUoNP) | 3:22 |
 | 87 | [Why You \- Funkin Matt Remix](https://open.spotify.com/track/0fiLUTuGIXt733mRVK1evp) | [Kappekoff](https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ), [Jimmy Smash](https://open.spotify.com/artist/3ziswS6VSBGwPzIlvEV2zQ), [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Why You \(Funkin Matt Remix\)](https://open.spotify.com/album/56De2hpAP05AiZnkDFf24H) | 3:22 |
 | 88 | [Disco Hearts](https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Disco Hearts](https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg) | 3:01 |
 | 89 | [Empty Heart](https://open.spotify.com/track/7eDWOkSstRIObrzFGkcUE3) | [Sean Roman](https://open.spotify.com/artist/3v4eFdI9pxt9UdfwqDRe4c), [Jim Junior](https://open.spotify.com/artist/31Xf3cuuJ63CRNoxbW3rdu) | [Empty Heart](https://open.spotify.com/album/2gUh3PFl8GzwzreFmxoFqQ) | 5:52 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 147 | [How Do I Let Go](https://open.spotify.com/track/78F73J161TlcsWC7JckBZi) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [K.T\. Brooks](https://open.spotify.com/artist/0bDOIlJ0JD5pIKym4tvSNq) | [How Do I Let Go \(Remixes\)](https://open.spotify.com/album/2ktBDrGM9pKbxODAcWocIb) | 3:22 |
 | 148 | [Remedy \- JKriv Disco Dub](https://open.spotify.com/track/5llhpIgQ7QMPtzPQnKQhLG) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8), [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY), [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K) | [Remedy \(JKriv Disco Dub\)](https://open.spotify.com/album/0FjRPvYxx9h4jRVGh0LHYi) | 4:12 |
 
-Snapshot ID: `MCwzZWQ2NTVjMmM4ZTY5N2FlMzYxNzY1NGIwYWYyNjY3MmRiMTEwZTRm`
+Snapshot ID: `MCxmNjZkYWUzY2M5ZWI0OTEzZjcwYjQ0NGNmYThiY2Y5MzJlZDU5MDZk`

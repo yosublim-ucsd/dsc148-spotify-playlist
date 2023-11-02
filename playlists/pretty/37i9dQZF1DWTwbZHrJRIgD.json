@@ -1,12 +1,12 @@
 {
   "description": "Bright, sunny, catchy tunes put a smile on your face. Cover - Tu Jhoothi Main Makkaar",
-  "num_followers": 271680,
+  "num_followers": 272030,
   "original_name": "Happy Vibes ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWY1ZWJlYjQzY2Q1MDE2YWQ1N2JkOWEwMzgyNDY2NTMxODgwOTg2",
+  "snapshot_id": "MCxlZWY2ZTRmOTA5M2U1NDNhYTM5ODFhZGY2M2Q3MWJmZjQ5MTJkOWMx",
   "tracks": [
     {
       "added_at": "2023-10-27 04:29:41",
@@ -227,6 +227,26 @@
       "duration_ms": 282012,
       "name": "Tum Hi Ho Bandhu (From \"Cocktail\")",
       "url": "https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47"
+    },
+    {
+      "added_at": "2023-10-27 04:29:41",
+      "album": {
+        "name": "Karthik Calling Karthik",
+        "url": "https://open.spotify.com/album/13aLziSCr93ULLwPE2JURA"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Alyssa Mendonsa",
+          "url": "https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN"
+        }
+      ],
+      "duration_ms": 304088,
+      "name": "Uff Teri Adaa",
+      "url": "https://open.spotify.com/track/0og9wKFGgFFNQnrBe7eisG"
     },
     {
       "added_at": "2023-10-27 04:29:41",
@@ -519,30 +539,22 @@
     {
       "added_at": "2023-10-27 04:29:41",
       "album": {
-        "name": "Happy Ending (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2tkBjsDswNuXjfVertqYPV"
+        "name": "Mileya Mileya",
+        "url": "https://open.spotify.com/album/1KTLyL5b6JTcRb35uXg7fB"
       },
       "artists": [
         {
-          "name": "Rekha Bhardwaj",
-          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+          "name": "kadirsavage",
+          "url": "https://open.spotify.com/artist/2ubDsTqMMSqcPtSJoDz7qB"
         },
         {
-          "name": "Jigar Saraiya",
-          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
-        },
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Priya Saraiya",
-          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+          "name": "egethevac",
+          "url": "https://open.spotify.com/artist/0terBPKCAkmkh0u5QmFL7L"
         }
       ],
-      "duration_ms": 266279,
+      "duration_ms": 266344,
       "name": "Mileya Mileya",
-      "url": "https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb"
+      "url": "https://open.spotify.com/track/61nxeeWF6kGQkqKdDDm2nZ"
     },
     {
       "added_at": "2023-10-27 04:29:41",

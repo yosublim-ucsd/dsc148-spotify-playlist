@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 
 > Find your flow with a classical Indian soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,515 likes - 48 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,547 likes - 48 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 | 13 | [Raga \- Brindavani](https://open.spotify.com/track/3BMLk59gpyhKR6OVunPIeo) | [B\. Sivaramakrishna Rao](https://open.spotify.com/artist/4l1a546qA59Fq7Qse3wzgW) | [Healing Ragas](https://open.spotify.com/album/68Ly5LFDwAmtMdEDmG1LUr) | 9:13 |
 | 14 | [Raag Dhani\-Alap](https://open.spotify.com/track/6b9iKoO6mgaeUwjZGSqdn8) | [Raghunath Seth](https://open.spotify.com/artist/3R3kXhcudwAwi9WXL0nIjg) | [Pandit Raghunath Seth](https://open.spotify.com/album/7gA8iaSNVBHXMloszROyi8) | 5:34 |
 | 15 | [Raga Purya Kalyan \- Alap](https://open.spotify.com/track/4eKiGJ1AZae3uF17Rxf3CI) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Aradhana](https://open.spotify.com/album/2tGZD01y5HosmqD4Lssg9k) | 3:42 |
-| 16 | [Raga Madhuvanti: Gat I\. Rupak Taal, Tihai \(Live\)](https://open.spotify.com/track/3M8omxN9anhyubRI4CH5yP) | [Pandit Dhruv Nath Mishra](https://open.spotify.com/artist/62oZ169ulQWy1pcVdT32hu), [Ravi K\. Tripathi](https://open.spotify.com/artist/7D73VJBs9rJh9USThws70P) | [The Sounds of Varanasi](https://open.spotify.com/album/5KAww61S9UOggL61L4UIeP) | 3:40 |
+| 16 | [Raga Madhuvanti: Gat I\. Rupak Taal, Tihai \(Live\)](https://open.spotify.com/track/3M8omxN9anhyubRI4CH5yP) | [Pandit Dhruv Nath Mishra](https://open.spotify.com/artist/62oZ169ulQWy1pcVdT32hu), [Ravi Tripathi](https://open.spotify.com/artist/7D73VJBs9rJh9USThws70P) | [The Sounds of Varanasi](https://open.spotify.com/album/5KAww61S9UOggL61L4UIeP) | 3:40 |
 | 17 | [Meditating On The Ocean of Awareness \- Mohanam Raga](https://open.spotify.com/track/0NYnNPUscMRxffTjNRpaTc) | [Music for Deep Meditation](https://open.spotify.com/artist/7rZubTb0F8TCTUsNBgfy9I) | [Classical Indian Music for Healing and Relaxation \- The Ancient Beauty of the Veena With Young Virtuosa Gayatri Govindarajan](https://open.spotify.com/album/6dJxnAd9TI4qc4PeEoVqxr) | 6:27 |
 | 18 | [Raag Kedar](https://open.spotify.com/track/4T6cqFR1Kz0vHMHJNzXjXF) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [The Music Of YOG](https://open.spotify.com/album/0ak4eeLnwDMHIVUtXLWmAc) | 8:18 |
 | 19 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 | 47 | [Alap & Jor](https://open.spotify.com/track/5z2AySosw7Cokl8HLq1mPd) | [Ken Zuckerman](https://open.spotify.com/artist/0Qlqyvs4Clg3MhIRwxx5ku) | [Hemant \- an evening Raga](https://open.spotify.com/album/341RD2w3IhyPqjspyD1Ux4) | 19:06 |
 | 48 | [Chants\-Raag Bhatiyar, Pt\. 1](https://open.spotify.com/track/5aQTfzi7ph9kgOrN6d2WaX) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Sunil Das](https://open.spotify.com/artist/4a37LwWvVvqwiwdakKi6OB) | [Sacred Mantras of India](https://open.spotify.com/album/4qmDo5H84uQT50aCdPVPxE) | 2:48 |
 
-Snapshot ID: `MCw0YTMxYjhkZWUxMmFmMmJkMTI0YzdiNDg0ODVjNTUxOGRkMzRjY2Yx`
+Snapshot ID: `MCxlNThlNjU1Yjg5ZWRhN2M1ZmFjYzIzYmJkMWEzYTRmNTQ1MDY0MjUz`

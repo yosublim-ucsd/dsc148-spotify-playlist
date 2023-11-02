@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax\. Los Primos del Este en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,831 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,981 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 43 | [Bajo El Agua](https://open.spotify.com/track/6uic8zU4T1rftDwJKjGYdG) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Bajo El Agua](https://open.spotify.com/album/2yPSI4CvrLZuwTa4JcmQdg) | 3:12 |
 | 44 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 |
 | 45 | [Te Quiero Mucho](https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 3:23 |
-| 46 | [Pobre Corazón](https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8) | [Conjunto Rienda](https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Pobre Corazón](https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd) | 4:00 |
+| 46 | [Pobre Corazón](https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8) | [Conjunto Relincho](https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Pobre Corazón](https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd) | 4:00 |
 | 47 | [El Ahualulco](https://open.spotify.com/track/6xGEXisIqVlsFRBntx7Rve) | [Conjunto La Duracion](https://open.spotify.com/artist/047wqZpbKCmKxAcWHdykd5) | [El Ahualulco](https://open.spotify.com/album/3atkwzkHYo7FsneEKzgamW) | 2:49 |
 | 48 | [El Telescopio](https://open.spotify.com/track/69PqKuwBzdPN1MaSwp5FrT) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [El Telescopio](https://open.spotify.com/album/0rdyVMLgdhm5Jbjr11j1kp) | 3:26 |
 | 49 | [Y Me Da Vergüenza](https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Esperándote](https://open.spotify.com/album/1hRk2jBvzatrEbqFtZmUVo) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 74 | [Así Fue](https://open.spotify.com/track/2eKeAS4U48xRefq3qdje8d) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Así Fue](https://open.spotify.com/album/2naYrNU7L2PqTrXkE0lT9o) | 4:00 |
 | 75 | [Especial](https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Más Especial](https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug) | 3:06 |
 
-Snapshot ID: `MCxiMTE5MzcxMmUxNjAwOTlmY2VjNDcwMWFjMTc0MGNlMmFjZjU3NmE5`
+Snapshot ID: `MCxlMTQ5YzJiZTJhYWU5ZDBkNDI3ODc2MGFkNmNmZDAzMDFmZGQ3ZDg5`

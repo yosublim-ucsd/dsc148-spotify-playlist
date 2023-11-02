@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Chibi Ichigo, Sophie Straat
 
-105 songs - 5 hr 51 min
+106 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Child Of Sin](https://open.spotify.com/track/3ASAvmNlhz4VYt5iUApaHc) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF), [Till Lindemann](https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP) | [Child Of Sin](https://open.spotify.com/album/1GUJ68BpXPPp98eAMzLT6N) | 3:50 | 2023-02-23 |  |
 | [Click Work Drop \- Ineffekt Remix](https://open.spotify.com/track/2CAzwfDMr6Vxi7tOHa4j5X) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [Ineffekt](https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg) | [Click Work Drop \(Ineffekt Remix\)](https://open.spotify.com/album/5TrmHegiihRyXcd3i8O4ah) | 3:52 | 2023-02-23 |  |
 | [Closure](https://open.spotify.com/track/2FWpnZjDPW23wSRefDcVn9) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Eve Jones](https://open.spotify.com/artist/0HtGEZuGr7pnIgySImmPh2) | [Closure](https://open.spotify.com/album/5eRC43W4zUuunLZ4D3xZ2L) | 2:41 | 2023-02-23 | 2023-04-28 |
-| [De Ergste Dag](https://open.spotify.com/track/0xKKs27xVmFug8P9bHYyFy) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:21 | 2023-02-23 |  |
+| [De Ergste Dag](https://open.spotify.com/track/0xKKs27xVmFug8P9bHYyFy) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:21 | 2023-02-23 | 2023-11-02 |
 | [De Leven](https://open.spotify.com/track/1RA3cTcU9xGnT5GNi6y7dO) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Leven](https://open.spotify.com/album/2d0wssa9SabKowuZXc0gKn) | 4:04 | 2023-02-23 | 2023-09-01 |
 | [Dit Is Alles](https://open.spotify.com/track/5au9uaIhhA51N27U68JXve) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Dit Is Alles](https://open.spotify.com/album/2MwKnMone5os6yTkqCWxXG) | 3:35 | 2023-02-23 | 2023-05-06 |
 | [ENERGIE](https://open.spotify.com/track/3GeYpZcJMoSraXaiKG4yqq) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN), [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [ENERGIE](https://open.spotify.com/album/4DAAPsmrW61T7EuhrQHzpl) | 4:01 | 2023-09-29 |  |
@@ -44,6 +44,7 @@
 | [I Don't Know Why](https://open.spotify.com/track/2aAdRmDXH07MGLmyd37xIp) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/1Dqh45Fe2oprowuhSOFSmb) | 2:48 | 2023-06-23 |  |
 | [I Found](https://open.spotify.com/track/7BqGd98KWC3b5GGx1wEQ2V) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Subtle Static](https://open.spotify.com/artist/5YFASQmAPmWw2eMVnU84aL) | [I Found](https://open.spotify.com/album/450H51CyucEN9AHiIrTUHp) | 3:52 | 2023-02-23 | 2023-10-13 |
 | [I Wish I Knew](https://open.spotify.com/track/1JDWUdfpi7lEm39hTuEuh0) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Eve Jones](https://open.spotify.com/artist/0HtGEZuGr7pnIgySImmPh2) | [I Wish I Knew](https://open.spotify.com/album/1eKElfchc2K5pjz0JkH6b8) | 2:47 | 2023-05-30 |  |
+| [Ik Kijk Soms Naar Jou](https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Kijk Soms Naar Jou](https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx) | 3:02 | 2023-11-01 |  |
 | [Imaginary Friend](https://open.spotify.com/track/7f7GnNw5gENI7Rpq45Ft5R) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [First Boy In Space](https://open.spotify.com/album/3DhyZK51vn05p2kAfjzIDF) | 3:40 | 2023-02-23 | 2023-05-26 |
 | [In Between](https://open.spotify.com/track/4eckDYgci1yENJ2uQHce4k) | [Sheila and The Kit](https://open.spotify.com/artist/3EYBjavx2VfeoBhQjwMz74) | [In Between](https://open.spotify.com/album/7qB5fb3CM75F2SEtVNriYT) | 3:47 | 2023-02-23 | 2023-06-09 |
 | [IN THE HILLS//IN DE WEIDE](https://open.spotify.com/track/3JjcRAnlWFHCXR0zrV7gE5) | [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [IN THE HILLS//IN DE WEIDE](https://open.spotify.com/album/5pGOZmnzL3j5Y5cKoDk0u3) | 2:37 | 2023-08-31 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 27351,
+  "num_followers": 27368,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDE4NTE3ZTA5NTAyNzRlNTU2M2RhNzEzZmFiYTk0YWE2MDA5OGQx",
+  "snapshot_id": "MCxmMWE5OTI2Mjg5YzhjZmVkYzY5NzU0NjQzNTVmYzk0NzU4ZmE4NDAw",
   "tracks": [
     {
       "added_at": "2022-06-13 13:22:46",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "\ubc8c\uc368 \uc77c\ub144",
-      "url": "https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Stylish\u2026",
         "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 236147,
       "name": "10 Minutes",
       "url": "https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "\ubc8c\uc368 \uc77c\ub144",
+      "url": "https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "T-VIRUS",
-        "url": "https://open.spotify.com/album/0mb4NZoWTLUlkrMKmieekh"
-      },
-      "artists": [
-        {
-          "name": "Kim Tae Woo",
-          "url": "https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi"
-        }
-      ],
-      "duration_ms": 239673,
-      "name": "Love Rain",
-      "url": "https://open.spotify.com/track/2D7qr3pMwinXpACxiUBtNC"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "\uc601\ubbfc",
         "url": "https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 228946,
       "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4...",
       "url": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "T-VIRUS",
+        "url": "https://open.spotify.com/album/0mb4NZoWTLUlkrMKmieekh"
+      },
+      "artists": [
+        {
+          "name": "Kim Tae Woo",
+          "url": "https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi"
+        }
+      ],
+      "duration_ms": 239673,
+      "name": "Love Rain",
+      "url": "https://open.spotify.com/track/2D7qr3pMwinXpACxiUBtNC"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Buzz Effect",
-        "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
-      },
-      "artists": [
-        {
-          "name": "BUZZ",
-          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "\ub098\uc5d0\uac8c\ub85c \ub5a0\ub098\ub294 \uc5ec\ud589",
-      "url": "https://open.spotify.com/track/4K35mmvZKAq3ue2TyXisMW"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Back To The Soul Flight",
         "url": "https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 266506,
       "name": "\uadc0\ub85c",
       "url": "https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Buzz Effect",
+        "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "\ub098\uc5d0\uac8c\ub85c \ub5a0\ub098\ub294 \uc5ec\ud589",
+      "url": "https://open.spotify.com/track/4K35mmvZKAq3ue2TyXisMW"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Love, deep longing",
-        "url": "https://open.spotify.com/album/1hZ1wLaogDtyLFXAjZg2kX"
-      },
-      "artists": [
-        {
-          "name": "Mose",
-          "url": "https://open.spotify.com/artist/6h7ndBCXhabUn9QnqG3q1B"
-        }
-      ],
-      "duration_ms": 256066,
-      "name": "It's love",
-      "url": "https://open.spotify.com/track/4VZw0oTcsBxgdcbe1Pmntg"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Mc The Max - Solitude Love\u2026",
         "url": "https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 358870,
       "name": "\ud589\ubcf5\ud558\uc9c0\ub9d0\uc544\uc694",
       "url": "https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Love, deep longing",
+        "url": "https://open.spotify.com/album/1hZ1wLaogDtyLFXAjZg2kX"
+      },
+      "artists": [
+        {
+          "name": "Mose",
+          "url": "https://open.spotify.com/artist/6h7ndBCXhabUn9QnqG3q1B"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "It's love",
+      "url": "https://open.spotify.com/track/4VZw0oTcsBxgdcbe1Pmntg"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Change Yourself",
-        "url": "https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj"
-      },
-      "artists": [
-        {
-          "name": "The Jadu",
-          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "\ub300\ud654\uac00 \ud544\uc694\ud574",
-      "url": "https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "His Story",
         "url": "https://open.spotify.com/album/4cjEWNisOR1ZcaNNQgHTBQ"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 252933,
       "name": "I Love U? Oh Thank U (Feat. \uae40\ud0dc\uc6b0)",
       "url": "https://open.spotify.com/track/1KGiNVIzzD0vUZUIErKZTr"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Change Yourself",
+        "url": "https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj"
+      },
+      "artists": [
+        {
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "\ub300\ud654\uac00 \ud544\uc694\ud574",
+      "url": "https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
-      },
-      "artists": [
-        {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
-        }
-      ],
-      "duration_ms": 251194,
-      "name": "Love Me Once Again",
-      "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 243546,
       "name": "\uc911\ub3c5",
       "url": "https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        }
+      ],
+      "duration_ms": 251194,
+      "name": "Love Me Once Again",
+      "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+        "name": "Exhibition 2",
+        "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
       },
       "artists": [
         {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+          "name": "Exhibition",
+          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
         }
       ],
-      "duration_ms": 216373,
-      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
-      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+      "duration_ms": 320055,
+      "name": "Druken Truth",
+      "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Exhibition 2",
-        "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
       "artists": [
         {
-          "name": "Exhibition",
-          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
         }
       ],
-      "duration_ms": 320055,
-      "name": "Druken Truth",
-      "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "So Sniper",
+        "url": "https://open.spotify.com/album/6vLSUj4W57HW7H7TudcBFk"
+      },
+      "artists": [
+        {
+          "name": "MC Sniper",
+          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
+        }
+      ],
+      "duration_ms": 263485,
+      "name": "Bk Love",
+      "url": "https://open.spotify.com/track/12WJh701b8EPb7E1sG1U0t"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Challenge 4Da Change",
         "url": "https://open.spotify.com/album/6oNrmkWeMZZeRuMxjK4PMT"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 244386,
       "name": "Y (feat.BUMZU)",
       "url": "https://open.spotify.com/track/2LOglplo2xqm1IvyaKhzGm"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "So Sniper",
-        "url": "https://open.spotify.com/album/6vLSUj4W57HW7H7TudcBFk"
-      },
-      "artists": [
-        {
-          "name": "MC Sniper",
-          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
-        }
-      ],
-      "duration_ms": 263485,
-      "name": "Bk Love",
-      "url": "https://open.spotify.com/track/12WJh701b8EPb7E1sG1U0t"
     },
     {
       "added_at": "2022-06-13 13:22:46",

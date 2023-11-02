@@ -835,6 +835,28 @@
     },
     {
       "album": {
+        "name": "No.00",
+        "url": "https://open.spotify.com/album/1dKddiZrMlf945gDs5AlvO"
+      },
+      "artists": [
+        {
+          "name": "Olive Oil",
+          "url": "https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH"
+        },
+        {
+          "name": "Shuuto",
+          "url": "https://open.spotify.com/artist/513dL6L9R52xVYSJrJScv9"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222495,
+      "name": "anatagaiito",
+      "url": "https://open.spotify.com/track/71rDw7Lv6V1AMff91noPG0"
+    },
+    {
+      "album": {
         "name": "X\u00ecn",
         "url": "https://open.spotify.com/album/7tDwINWYTnSPo52LtiK2E3"
       },
@@ -894,6 +916,24 @@
       "duration_ms": 136866,
       "name": "ANGRY ANGRY",
       "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
+    },
+    {
+      "album": {
+        "name": "Anshin",
+        "url": "https://open.spotify.com/album/2YRdnx56DRkQl1qR8SdDI6"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204581,
+      "name": "Anshin",
+      "url": "https://open.spotify.com/track/3t6pKG8DLUbtlaLSSNr4z6"
     },
     {
       "album": {
@@ -1572,7 +1612,7 @@
     {
       "album": {
         "name": "BLESS",
-        "url": "https://open.spotify.com/album/1a94QVkGy554V6TaGemasq"
+        "url": "https://open.spotify.com/album/1xdhzuA7RZyNauCUu5dIN9"
       },
       "artists": [
         {
@@ -1583,6 +1623,24 @@
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 141750,
+      "name": "BLESS",
+      "url": "https://open.spotify.com/track/1n7KmMGSUJPpNrywGB2XK2"
+    },
+    {
+      "album": {
+        "name": "BLESS",
+        "url": "https://open.spotify.com/album/1a94QVkGy554V6TaGemasq"
+      },
+      "artists": [
+        {
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
       "duration_ms": 141750,
       "name": "BLESS",
       "url": "https://open.spotify.com/track/6Y3INf4lMK5vD7suGUQCYi"
@@ -1936,7 +1994,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "BREAKTHROUGH",
       "url": "https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M"
@@ -4944,7 +5002,7 @@
     {
       "album": {
         "name": "GRID",
-        "url": "https://open.spotify.com/album/7nxc6TpKNEJIRAqYFmJTpp"
+        "url": "https://open.spotify.com/album/1x7b842f1YSVOwz2SEE56Y"
       },
       "artists": [
         {
@@ -4959,6 +5017,28 @@
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 181005,
+      "name": "GRID",
+      "url": "https://open.spotify.com/track/5LSbE6Avzu5D7c3JELofP2"
+    },
+    {
+      "album": {
+        "name": "GRID",
+        "url": "https://open.spotify.com/album/7nxc6TpKNEJIRAqYFmJTpp"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA",
+          "url": "https://open.spotify.com/artist/2v4xE9iGRGIKGxxCku3HWy"
+        },
+        {
+          "name": "1Co.INR",
+          "url": "https://open.spotify.com/artist/13OKLLncWlV84TyMUEgq4m"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
       "duration_ms": 181005,
       "name": "GRID",
       "url": "https://open.spotify.com/track/70LeAfudzGENZhf3kgJSsx"
@@ -7848,10 +7928,36 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 268799,
       "name": "Luv Myself",
       "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
+    },
+    {
+      "album": {
+        "name": "Luv Myself",
+        "url": "https://open.spotify.com/album/4sJMZSWobdfCTgwICMGU6d"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        },
+        {
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        },
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268799,
+      "name": "Luv Myself",
+      "url": "https://open.spotify.com/track/4woDrq2rIKBbI6UNkzB48j"
     },
     {
       "album": {
@@ -8966,7 +9072,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 289720,
       "name": "more than words",
       "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
@@ -10220,10 +10326,44 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 181384,
       "name": "Osanpo - Remix",
       "url": "https://open.spotify.com/track/32xeuwMvGI5jugOe0sv8cq"
+    },
+    {
+      "album": {
+        "name": "Osanpo (Remix)",
+        "url": "https://open.spotify.com/album/6qSEgFsSbHoSi5LXJQp8z5"
+      },
+      "artists": [
+        {
+          "name": "SOCKS",
+          "url": "https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw"
+        },
+        {
+          "name": "DJ RYOW",
+          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
+        },
+        {
+          "name": "Hannya",
+          "url": "https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh"
+        },
+        {
+          "name": "R-shitei",
+          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
+        },
+        {
+          "name": "Space Dust Club",
+          "url": "https://open.spotify.com/artist/2gzAqApojzEcGpWzvrZjRy"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Osanpo - Remix",
+      "url": "https://open.spotify.com/track/5wWoGtwYK9xhPTgHBFJ4JK"
     },
     {
       "album": {
@@ -11931,6 +12071,24 @@
     },
     {
       "album": {
+        "name": "Rock Wa Gawaii",
+        "url": "https://open.spotify.com/album/3CVU86j1QXprlZbLXpsBgu"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127250,
+      "name": "Sake Wo Nondemo Kami Niwa Narenai",
+      "url": "https://open.spotify.com/track/5VJJUOxZXhYifWnr7oUSSs"
+    },
+    {
+      "album": {
         "name": "Saki e",
         "url": "https://open.spotify.com/album/5r5gnTGKTzOY6IwZnGAFFs"
       },
@@ -11960,10 +12118,28 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 221358,
       "name": "sanagi - Organic",
       "url": "https://open.spotify.com/track/0YXudnnclq6LulcCn24dVN"
+    },
+    {
+      "album": {
+        "name": "sanagi (Organic)",
+        "url": "https://open.spotify.com/album/5Qiqp6gxGwe7euvsi8JHsF"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221358,
+      "name": "sanagi - Organic",
+      "url": "https://open.spotify.com/track/4N9SLJHTrsjDlbJIGaooWP"
     },
     {
       "album": {
@@ -12520,7 +12696,7 @@
     {
       "album": {
         "name": "Silence",
-        "url": "https://open.spotify.com/album/4HscBfxdWkJ1HE1tEDliKr"
+        "url": "https://open.spotify.com/album/3zy0ddUoagfuv2qvJAhQLq"
       },
       "artists": [
         {
@@ -12531,6 +12707,24 @@
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/4RfDIlknnPcf9AHGML6EUT"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/4HscBfxdWkJ1HE1tEDliKr"
+      },
+      "artists": [
+        {
+          "name": "KOMONO LAKE",
+          "url": "https://open.spotify.com/artist/3wWaB9vMXkeUHD6RgH3lpG"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
       "duration_ms": 217200,
       "name": "Silence",
       "url": "https://open.spotify.com/track/7Jdp3DDmfO5JbfdRSRB8K8"
@@ -17104,7 +17298,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 222495,
       "name": "\u3042\u306a\u305f\u304c\u3044\u3044\u3068",
       "url": "https://open.spotify.com/track/10PvWckjcbRAre7meIkhHa"
@@ -17166,7 +17360,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 204581,
       "name": "\u3042\u3093\u3057\u3093",
       "url": "https://open.spotify.com/track/02sTGST2qx3lMLkCmXWn6g"
@@ -21304,7 +21498,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 127250,
       "name": "\u9152\u3092\u98f2\u3093\u3067\u3082\u795e\u306b\u306f\u6210\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/1xbEhoNkh3qcdMXVv0NDxe"

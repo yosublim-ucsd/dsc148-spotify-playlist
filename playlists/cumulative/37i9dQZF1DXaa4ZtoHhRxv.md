@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-162 songs - 8 hr 52 min
+163 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [That Don't Impress Me Much \- Dance Mix](https://open.spotify.com/track/4OzQg5IcAkBxQV6Awq2T0y) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits](https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk) | 4:27 | 2023-06-09 |  |
 | [The Bones \- Dave Audé Remix](https://open.spotify.com/track/3LJWl9hMaxvRU3TosbK1wh) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [The Bones \(Dave Audé Remix\)](https://open.spotify.com/album/0G2rV2elRi9BCBMr4gTT2c) | 4:48 | 2021-12-10 |  |
 | [The Champion](https://open.spotify.com/track/0stPNUkU1LZnvxIcfrKnEZ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Champion](https://open.spotify.com/album/46muKAiFbLEkonRNRpTuEH) | 3:43 | 2021-12-10 |  |
-| [The Git Up \(feat\. Ciara\) \- Remix](https://open.spotify.com/track/5PPk5WM8vpJ7VOR9gUrMFH) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Git Up \(feat\. Ciara\) \[Remix\]](https://open.spotify.com/album/3wRyrZCXZxuj45KThDqe4O) | 3:13 | 2021-12-10 |  |
+| [The Git Up \(feat\. Ciara\) \(Remix\)](https://open.spotify.com/track/3zhflexak3VmuY88axLRol) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Git Up \(feat\. Ciara\) \[Remix\]](https://open.spotify.com/album/1Dl92iIBUDfJkVRgFTD1IJ) | 3:13 | 2023-09-15 |  |
+| [The Git Up \(feat\. Ciara\) \- Remix](https://open.spotify.com/track/5PPk5WM8vpJ7VOR9gUrMFH) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Git Up \(feat\. Ciara\) \[Remix\]](https://open.spotify.com/album/3wRyrZCXZxuj45KThDqe4O) | 3:13 | 2021-12-10 | 2023-11-02 |
 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 | 2021-12-10 |  |
 | [The Night The Lights Went Out In Georgia \- Eric Kupper Remix](https://open.spotify.com/track/3CCx4xeyrZQTONz6MvURaX) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [The Night The Lights Went Out In Georgia \(Eric Kupper Remix\)](https://open.spotify.com/album/26KZhHTqgLBdOQ80UrCewv) | 5:04 | 2021-12-10 |  |
 | [These Days \(Remix\)](https://open.spotify.com/track/0heNuib4Sav7wTa7WgpQ49) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Drinkin' Songs: The Collection](https://open.spotify.com/album/1NrOk9xRbIjuo17XiPOIuq) | 3:16 | 2022-07-08 |  |

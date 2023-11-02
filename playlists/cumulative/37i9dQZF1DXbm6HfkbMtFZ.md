@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-532 songs - 1 day 8 hr 2 min
+533 songs - 1 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Evan Finds the Third Room](https://open.spotify.com/track/07wztBYwMThbAVW4ahWMuD) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/5u103bJ7EsNUAyL9eMACo5) | 4:00 | 2022-03-30 | 2022-04-15 |
 | [Evan Finds the Third Room](https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:00 | 2022-07-26 | 2022-10-04 |
 | [Ever Again](https://open.spotify.com/track/2DKhAFWadzNtGTb9ZM98zB) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/7rtmaF7HH7OeBI4iIJpMw3) | 4:24 | 2022-03-30 | 2022-04-16 |
-| [Everything Is Just a Mess](https://open.spotify.com/track/1RsKWNZJOBfOsVSeDIogpB) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o) | 4:43 | 2023-01-07 |  |
+| [Everything Is Just a Mess](https://open.spotify.com/track/1RsKWNZJOBfOsVSeDIogpB) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o) | 4:43 | 2023-01-07 | 2023-11-02 |
 | [Everything Is Just a Mess](https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH) | 4:43 | 2021-12-16 | 2023-01-03 |
 | [Fabulous](https://open.spotify.com/track/6dov3Ax5pz8B5YbBwWNhy4) | [NAMPA](https://open.spotify.com/artist/5bGBs7LJETZ8ekBWYaiXMl) | [Fabulous](https://open.spotify.com/album/6hzqI78MYznyy1ilLVWrHJ) | 2:37 | 2022-03-30 | 2022-04-21 |
 | [Falls on me](https://open.spotify.com/track/6XCPk5sf3HGD2oNQK0JY6n) | [Sylvie](https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ), [Marina Allen](https://open.spotify.com/artist/7DT89nkTjnPsXUijqIxgCu) | [Falls on me](https://open.spotify.com/album/6N1oaF48796YmM9S1gWn0o) | 4:58 | 2022-02-23 | 2022-07-29 |
@@ -180,7 +180,7 @@
 | [Handsome](https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX) | [Drug Cabin](https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk) | [Wiggle Room](https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW) | 2:27 | 2022-03-30 |  |
 | [Hanoï café](https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami](https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA) | 3:14 | 2022-07-26 | 2022-10-04 |
 | [Hanoï Café](https://open.spotify.com/track/7f0MMJGwQKtt4ZPu0Y6Vwu) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami \- EP](https://open.spotify.com/album/5AuC9w0bmEFtdgLkg7Jrz8) | 3:14 | 2022-03-30 | 2022-04-19 |
-| [Happy](https://open.spotify.com/track/6Xodd3wwjgU8FRqIX5fkgH) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Mark Foster](https://open.spotify.com/artist/6wZCINbQf3l403J5o7AxLV) | [Mecury Rising](https://open.spotify.com/album/4d2j7pkXqc2EmAVOqgPQWU) | 2:48 | 2022-03-30 |  |
+| [Happy](https://open.spotify.com/track/6Xodd3wwjgU8FRqIX5fkgH) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Mark Foster](https://open.spotify.com/artist/6wZCINbQf3l403J5o7AxLV) | [Mecury Rising](https://open.spotify.com/album/4d2j7pkXqc2EmAVOqgPQWU) | 2:48 | 2022-03-30 | 2023-11-02 |
 | [He Can Only Hold Her](https://open.spotify.com/track/3eVo0wD4kGwF3gshtecZso) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:46 | 2022-03-30 | 2022-10-04 |
 | [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 | 2022-01-21 | 2023-09-02 |
 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 | 2022-03-30 | 2023-03-25 |
@@ -241,6 +241,7 @@
 | [Just Go](https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:06 | 2021-12-16 | 2023-06-22 |
 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 | 2022-12-28 | 2023-04-30 |
 | [Just Like You Used To](https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg) | 3:08 | 2023-04-25 | 2023-09-12 |
+| [Just Like You Used To](https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:09 | 2023-09-19 |  |
 | [Keep Your Faith to the Sky](https://open.spotify.com/track/3EvsbWc8SXFKp03SS2B9Ok) | [Willie Scott & The Birmingham Spirituals](https://open.spotify.com/artist/2MLCA5LxOACoZRdTn8ThmI) | [Keep Your Faith to the Sky](https://open.spotify.com/album/49LpwpMHPPNni1Vi7IM6oV) | 5:09 | 2021-12-16 | 2022-07-29 |
 | [Keeping Me Under](https://open.spotify.com/track/1N5zNjjaie1MpYW4oTPqVZ) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/5GgzoCTpVmmxGoETRWBa4l) | 3:38 | 2022-03-30 | 2022-04-21 |
 | [Keeping Me Under](https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu) | 3:38 | 2022-07-26 | 2023-02-14 |
@@ -315,7 +316,7 @@
 | [My Stove's on Fire](https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music and Dreams](https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2) | 2:48 | 2022-08-19 | 2023-04-30 |
 | [My Stove's On Fire](https://open.spotify.com/track/7CqtU7m36JwR5rxyKKxgGN) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music And Dreams](https://open.spotify.com/album/780zhYt7wiroYXHLYPhPiJ) | 2:48 | 2021-12-16 | 2022-07-29 |
 | [Na Verdade Não Tá](https://open.spotify.com/track/665AwXHDziganl1HWvAxls) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Músicas Para Churrasco \(Vol\. 2\)](https://open.spotify.com/album/56JLHwd02Av3sKJC5qfuOZ) | 2:55 | 2022-03-30 | 2022-04-20 |
-| [Nantucket Island](https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB) | [Willie Wright](https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx) | [Telling The Truth](https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w) | 3:42 | 2022-06-21 | 2023-06-14 |
+| [Nantucket Island](https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB) | [Willie Wright](https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx) | [Telling The Truth](https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w) | 3:42 | 2022-06-21 |  |
 | [Need Your Love](https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 2:57 | 2022-03-30 | 2022-10-04 |
 | [New Light](https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [New Light](https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0) | 3:36 | 2022-03-30 | 2022-04-21 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-07-26 |  |

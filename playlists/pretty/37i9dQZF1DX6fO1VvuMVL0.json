@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 62725,
+  "num_followers": 62806,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGNjYmJmNTE3N2E0NzBhODY0NmIzNTFlNjRhNDQ3Y2RhYzI5ZDIw",
+  "snapshot_id": "MCwyOTEwOTIwNjg0ZTQ5NzBiYzEwMjFlMjJiNThmMjgxY2JlNDA4ODFm",
   "tracks": [
     {
       "added_at": "2023-09-13 10:58:25",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-09-13 10:58:25",
       "album": {
-        "name": "Lee Konitz with Warne Marsh",
-        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
-        }
-      ],
-      "duration_ms": 324773,
-      "name": "Topsy",
-      "url": "https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek"
-    },
-    {
-      "added_at": "2023-09-13 10:58:25",
-      "album": {
         "name": "Blowin' Country",
         "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 225160,
       "name": "Just In Time",
       "url": "https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF"
+    },
+    {
+      "added_at": "2023-09-13 10:58:25",
+      "album": {
+        "name": "Lee Konitz with Warne Marsh",
+        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+        }
+      ],
+      "duration_ms": 324773,
+      "name": "Topsy",
+      "url": "https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek"
     },
     {
       "added_at": "2023-09-13 10:58:25",

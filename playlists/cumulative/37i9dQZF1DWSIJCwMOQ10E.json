@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "\u00a1A mover el esqueleto hasta el amanecer!",
-  "name": "Rumba Colombiana en Halloween",
+  "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Goyo",
+  "name": "Rumba Colombiana",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 315862,
       "name": "10 Razones Para Amarte",
       "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
@@ -188,7 +188,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 225840,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr"
@@ -210,7 +210,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 289386,
       "name": "Amarte Mas No Pude",
       "url": "https://open.spotify.com/track/105sSrcdsoN7Pj5NhIDUXx"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 205813,
       "name": "Brujeria",
       "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 251866,
       "name": "Brujer\u00eda",
       "url": "https://open.spotify.com/track/0roQqhgJSByndu44bT3aGD"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 297386,
       "name": "Cachondea",
       "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 276826,
       "name": "Cali Aj\u00ed",
       "url": "https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 274733,
       "name": "Casi un Hechizo",
       "url": "https://open.spotify.com/track/4rHczyhBZ53pLWgn6edWfB"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 148320,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/263UaojVegiH2Hgp3D1dov"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 279080,
       "name": "El Amor de Mi Vida \"Se Fue\"",
       "url": "https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 295960,
       "name": "El Brujo",
       "url": "https://open.spotify.com/track/5BaHAZEha9DI0KaiIt8KSN"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 185240,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/1izKsvswPjXlWJSpyucL59"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 164893,
       "name": "El Vampiro",
       "url": "https://open.spotify.com/track/2JuIbTSFKbQ8Bc3y6lnNyU"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 203590,
       "name": "Espacio",
       "url": "https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 244760,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/4Rxy0TpRlxtvIHq3GJxnQD"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 414266,
       "name": "Gitana",
       "url": "https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt"
@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 304347,
       "name": "Hechicera",
       "url": "https://open.spotify.com/track/6blO4yfd1DRQr6kywhCmXr"
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 267311,
       "name": "Hechizo",
       "url": "https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 294026,
       "name": "Hechizo De Luna",
       "url": "https://open.spotify.com/track/5qjSPrKTBqYpgVJSTcgKTd"
@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 284200,
       "name": "La Magia De Tus Besos",
       "url": "https://open.spotify.com/track/3nBQUOFwVZumOzzSV3h2sw"
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 263306,
       "name": "La Muerte",
       "url": "https://open.spotify.com/track/7EWaOT6wRgUNsC3HKie4AA"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 265026,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 204986,
       "name": "La Pelea Con el Diablo",
       "url": "https://open.spotify.com/track/1QQetZqpR3B2RVgXVYRw7b"
@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 286173,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf"
@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 275146,
       "name": "Las Brujas",
       "url": "https://open.spotify.com/track/3mSj5SqZSfSWQl9be54QPM"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 284480,
       "name": "Las Calaveras",
       "url": "https://open.spotify.com/track/7kg7wCGBme0ESY3m8DTLcW"
@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 244800,
       "name": "Las Tumbas",
       "url": "https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw"
@@ -2286,7 +2286,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 191786,
       "name": "Materialista (feat. Nicky Jam)",
       "url": "https://open.spotify.com/track/3jqSBJ8I20iUN0Bw8NA5xQ"
@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 215849,
       "name": "Monstruo De La Cumbia",
       "url": "https://open.spotify.com/track/0NL0M6Lwnu6Kb6KgZCJbZp"
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 221146,
       "name": "Mujer Calavera",
       "url": "https://open.spotify.com/track/1RLqQslzpKDVaTHVbCMUeW"
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
@@ -3008,7 +3008,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 285546,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 106666,
       "name": "Stranger Things (Versi\u00f3n Cumbia)",
       "url": "https://open.spotify.com/track/2YoUCthmk1GQOEMJOj0UMH"
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 159590,
       "name": "Tumbao",
       "url": "https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu"
@@ -3598,7 +3598,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 376533,
       "name": "Vivo en el limbo",
       "url": "https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz"
@@ -3620,7 +3620,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 232306,
       "name": "Vivo Pensando En Ti (feat. Maluma)",
       "url": "https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774"
@@ -3664,7 +3664,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 169804,
       "name": "Volver a Verte (feat. Cali y El Dandee)",
       "url": "https://open.spotify.com/track/0LGhVLgkwlP2FIXSwrdRFg"
@@ -3700,7 +3700,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 212377,
       "name": "Voy a Beber",
       "url": "https://open.spotify.com/track/00MIYoxM5jrqZ9zzU1h4C2"
@@ -3744,7 +3744,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 193394,
       "name": "VUELA",
       "url": "https://open.spotify.com/track/3IFXsUoXRepHjX9sK4Svke"

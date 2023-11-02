@@ -2182,6 +2182,24 @@
     {
       "album": {
         "name": "The Other Day",
+        "url": "https://open.spotify.com/album/1m20IgKUICY4cmLMBFdtxX"
+      },
+      "artists": [
+        {
+          "name": "Pomo",
+          "url": "https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147976,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5RogUAvw4QbdvzrCWjO8NJ"
+    },
+    {
+      "album": {
+        "name": "The Other Day",
         "url": "https://open.spotify.com/album/578IDaArIjl31LaVFT3VpM"
       },
       "artists": [
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 147976,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/7H7Usg7m2APDrNrzOZXcPH"

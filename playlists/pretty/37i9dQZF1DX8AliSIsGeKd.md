@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Enrico Sangiuliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,521 likes - 90 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,592 likes - 90 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 16 | [Focus](https://open.spotify.com/track/6pxD4eQOzIA8G1MlcfQb11) | [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [Focus](https://open.spotify.com/album/7q56F7WptwXWHQCN1povDe) | 6:04 |
 | 17 | [Pria](https://open.spotify.com/track/5NLu9XiiF80Txfg2Pl8zE8) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Power Of Thought EP](https://open.spotify.com/album/1WjosIw46H2KJUb9W462FU) | 7:00 |
 | 18 | [Greater Purpose](https://open.spotify.com/track/0AebWDXqgiFwqczWRKt2kP) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [IZREAL](https://open.spotify.com/artist/2CEWXoABoT26HwBxv9Rfgl) | [Greater Purpose](https://open.spotify.com/album/01zbGemPEWafx6eQFV2i0S) | 6:34 |
-| 19 | [FILTY ACID](https://open.spotify.com/track/5pQE39FojbnW0fiXLswMdI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [ACID TRAXXX](https://open.spotify.com/album/0ZNaxa4WrvuHmyBwZY49UA) | 6:07 |
+| 19 | [FILTHY ACID](https://open.spotify.com/track/5pQE39FojbnW0fiXLswMdI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [ACID TRAXXX](https://open.spotify.com/album/0ZNaxa4WrvuHmyBwZY49UA) | 6:07 |
 | 20 | [While U Sleep](https://open.spotify.com/track/1DNvYQWmYVnKzXZUYssNhX) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Why Can't We Live Forever?](https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK) | 2:44 |
 | 21 | [The Dream](https://open.spotify.com/track/4rO5o8yuWuZr1GpRcpErYo) | [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU), [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [The Dream](https://open.spotify.com/album/3miDmuPYGKHLmT5AigptBN) | 3:14 |
 | 22 | [Lyra](https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Lyra](https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy) | 7:17 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Lazer Beams](https://open.spotify.com/track/6UeKd8PjbEHf4E3pdD3fh1) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Lazer Beams](https://open.spotify.com/album/2gN3totDrc88agXSCW6zQk) | 5:40 |
 | 90 | [Devotion](https://open.spotify.com/track/16auMK6Amhx6Uj62JzLpMA) | [Elisa Bee](https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX) | [Devotion EP](https://open.spotify.com/album/6JlxoikbK1kntRGQrTAMtP) | 5:14 |
 
-Snapshot ID: `MCw0MjFkZDFjNjA5MGZkMmZlNTEyYzg1MGJmYmViMjg5ZTgzNWQ0NTJk`
+Snapshot ID: `MCw0ZjY1YjIxNGJjZTc2MWZlOWIyN2UyYzRlYThjMjkwODdiMWRjOWJh`

@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Of The Muses on cover. Updates every Wednesday.",
-  "num_followers": 119880,
+  "num_followers": 120033,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTZhOTMwY2FkMzIwODkzMTk3YjkxOGMzNTQzY2U2YWJjMTk3YTNk",
+  "snapshot_id": "MCw5ZTUzOWExMWMwMDMwZTE1NmZiMzE3ZTZhYTAyYzZlY2JmMTEyZDBl",
   "tracks": [
     {
       "added_at": "2023-09-13 15:55:38",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Where The Bough Has Broken",
-        "url": "https://open.spotify.com/album/7HyRN7nsxJgyPBahLV5Qv7"
-      },
-      "artists": [
-        {
-          "name": "Hilary Woods",
-          "url": "https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749"
-        }
-      ],
-      "duration_ms": 303716,
-      "name": "Where The Bough Has Broken",
-      "url": "https://open.spotify.com/track/662hnQxH5qXWqMlwZnL0OA"
-    },
-    {
       "added_at": "2023-08-10 05:46:09",
       "album": {
         "name": "MY BLACK CAT",
@@ -571,6 +555,22 @@
       "duration_ms": 149433,
       "name": "MY BLACK CAT",
       "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Where The Bough Has Broken",
+        "url": "https://open.spotify.com/album/7HyRN7nsxJgyPBahLV5Qv7"
+      },
+      "artists": [
+        {
+          "name": "Hilary Woods",
+          "url": "https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749"
+        }
+      ],
+      "duration_ms": 303716,
+      "name": "Where The Bough Has Broken",
+      "url": "https://open.spotify.com/track/662hnQxH5qXWqMlwZnL0OA"
     },
     {
       "added_at": "2023-08-01 21:02:30",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/2Ijzl5nr2rFV5FDFW6Fitn"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "Couversets",
-        "url": "https://open.spotify.com/album/6pcASjKyhro68f8knhtocL"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 220819,
-      "name": "Couversets",
-      "url": "https://open.spotify.com/track/5EFssJc6Liga3EDx3ZKyt2"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Snapdragon",
@@ -639,18 +623,18 @@
     {
       "added_at": "2023-08-16 06:00:00",
       "album": {
-        "name": "Shoegaze 5G",
-        "url": "https://open.spotify.com/album/2dhQlDl7K30O6qoVXAaIlY"
+        "name": "Couversets",
+        "url": "https://open.spotify.com/album/6pcASjKyhro68f8knhtocL"
       },
       "artists": [
         {
-          "name": "alice does computer music",
-          "url": "https://open.spotify.com/artist/2rqLxilEsPgtee23MzJHPR"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 210908,
-      "name": "The Sandcastle",
-      "url": "https://open.spotify.com/track/6S1i81DSaMsjU6KwlxpvzC"
+      "duration_ms": 220819,
+      "name": "Couversets",
+      "url": "https://open.spotify.com/track/5EFssJc6Liga3EDx3ZKyt2"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -671,6 +655,22 @@
       "duration_ms": 160693,
       "name": "Ver a Trav\u00e9s de tus Ojos",
       "url": "https://open.spotify.com/track/2MGKlTC9Dw17dB3SztZOhU"
+    },
+    {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Shoegaze 5G",
+        "url": "https://open.spotify.com/album/2dhQlDl7K30O6qoVXAaIlY"
+      },
+      "artists": [
+        {
+          "name": "alice does computer music",
+          "url": "https://open.spotify.com/artist/2rqLxilEsPgtee23MzJHPR"
+        }
+      ],
+      "duration_ms": 210908,
+      "name": "The Sandcastle",
+      "url": "https://open.spotify.com/track/6S1i81DSaMsjU6KwlxpvzC"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "RIFT (Ambient Version)",
-        "url": "https://open.spotify.com/album/4t8epmIXuDQ6QXXBPjdajD"
-      },
-      "artists": [
-        {
-          "name": "Honeychurch",
-          "url": "https://open.spotify.com/artist/7t5JF3FCDzTM64OgEVtEY5"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "State of Grace - Ambient Version",
-      "url": "https://open.spotify.com/track/2B3AOSa351dCQytIBWYQV8"
-    },
-    {
       "added_at": "2023-08-01 21:02:30",
       "album": {
         "name": "Ulaan",
@@ -751,6 +735,22 @@
       "duration_ms": 321671,
       "name": "Picture / Three Shadows",
       "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "RIFT (Ambient Version)",
+        "url": "https://open.spotify.com/album/4t8epmIXuDQ6QXXBPjdajD"
+      },
+      "artists": [
+        {
+          "name": "Honeychurch",
+          "url": "https://open.spotify.com/artist/7t5JF3FCDzTM64OgEVtEY5"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "State of Grace - Ambient Version",
+      "url": "https://open.spotify.com/track/2B3AOSa351dCQytIBWYQV8"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/50w9wN70lWHaIe8atNxDtn"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "How The River Flows",
-        "url": "https://open.spotify.com/album/1i4Gs7Srglt8CsdPwlutVp"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3lstrauman",
-          "url": "https://open.spotify.com/artist/4RaiONmR8oJ3bxr2RlH1bO"
-        }
-      ],
-      "duration_ms": 263451,
-      "name": "How The River Flows",
-      "url": "https://open.spotify.com/track/4M4ote4L4R4Zs4JeOmHzo6"
-    },
-    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "Hint",
@@ -799,6 +783,22 @@
       "duration_ms": 303500,
       "name": "Hint",
       "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "How The River Flows",
+        "url": "https://open.spotify.com/album/1i4Gs7Srglt8CsdPwlutVp"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3lstrauman",
+          "url": "https://open.spotify.com/artist/4RaiONmR8oJ3bxr2RlH1bO"
+        }
+      ],
+      "duration_ms": 263451,
+      "name": "How The River Flows",
+      "url": "https://open.spotify.com/track/4M4ote4L4R4Zs4JeOmHzo6"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -921,20 +921,20 @@
       "url": "https://open.spotify.com/track/1lMkjU3ZlTXJR7HsblUglU"
     },
     {
-      "added_at": "2023-08-23 14:01:12",
+      "added_at": "2023-10-18 18:20:20",
       "album": {
-        "name": "Blue Angel Sparkling Silver",
-        "url": "https://open.spotify.com/album/5OQ0N0i26LsukbGcYeSa65"
+        "name": "OH YA MA HA (Music From Airports) ICN-HAN-LPQ",
+        "url": "https://open.spotify.com/album/5sAKqIzPYQHmTPkMQNE0TI"
       },
       "artists": [
         {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+          "name": "group O",
+          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
         }
       ],
-      "duration_ms": 70616,
-      "name": "Somerville",
-      "url": "https://open.spotify.com/track/2wLRsTZsKnJUjQlY0tZi9x"
+      "duration_ms": 75125,
+      "name": "The Welcome",
+      "url": "https://open.spotify.com/track/6avHgNCLusYdAqRomrH0p9"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -953,20 +953,20 @@
       "url": "https://open.spotify.com/track/2OPTGR15eGkXZQfBUBPtK7"
     },
     {
-      "added_at": "2023-10-18 18:20:20",
+      "added_at": "2023-08-23 14:01:12",
       "album": {
-        "name": "OH YA MA HA (Music From Airports) ICN-HAN-LPQ",
-        "url": "https://open.spotify.com/album/5sAKqIzPYQHmTPkMQNE0TI"
+        "name": "Blue Angel Sparkling Silver",
+        "url": "https://open.spotify.com/album/5OQ0N0i26LsukbGcYeSa65"
       },
       "artists": [
         {
-          "name": "group O",
-          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
         }
       ],
-      "duration_ms": 75125,
-      "name": "The Welcome",
-      "url": "https://open.spotify.com/track/6avHgNCLusYdAqRomrH0p9"
+      "duration_ms": 70616,
+      "name": "Somerville",
+      "url": "https://open.spotify.com/track/2wLRsTZsKnJUjQlY0tZi9x"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/2z0xkLDfg1BwlqKREicqpQ"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "Rikta EP",
-        "url": "https://open.spotify.com/album/0NOTU7KvG8KcYP4WZg79Me"
-      },
-      "artists": [
-        {
-          "name": "Subrix",
-          "url": "https://open.spotify.com/artist/6chgSzPruoQVCMpPrIrtQf"
-        }
-      ],
-      "duration_ms": 272098,
-      "name": "Rikta",
-      "url": "https://open.spotify.com/track/3e5jShw7ECoIaaReEr5OqP"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "D & E",
@@ -1167,6 +1151,38 @@
       "duration_ms": 174953,
       "name": "Snake Oil Salesman",
       "url": "https://open.spotify.com/track/0bMIJUMXalCoA9KC2NHxtH"
+    },
+    {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Rikta EP",
+        "url": "https://open.spotify.com/album/0NOTU7KvG8KcYP4WZg79Me"
+      },
+      "artists": [
+        {
+          "name": "Subrix",
+          "url": "https://open.spotify.com/artist/6chgSzPruoQVCMpPrIrtQf"
+        }
+      ],
+      "duration_ms": 272098,
+      "name": "Rikta",
+      "url": "https://open.spotify.com/track/3e5jShw7ECoIaaReEr5OqP"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "Introduction / C (Featuring the Voice of Fred Moten)",
+        "url": "https://open.spotify.com/album/0su3LyRPZ1IXvLvcOuS5TL"
+      },
+      "artists": [
+        {
+          "name": "Markus Floats",
+          "url": "https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z"
+        }
+      ],
+      "duration_ms": 263999,
+      "name": "C (Featuring the Voice of Fred Moten)",
+      "url": "https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1201,20 +1217,20 @@
       "url": "https://open.spotify.com/track/1ttEhhzFufoxZYJw2S4l69"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
+      "added_at": "2023-08-23 14:01:12",
       "album": {
-        "name": "Fascinating Rhythm",
-        "url": "https://open.spotify.com/album/2nYIMFqpAnCvLRdtZCjbBu"
+        "name": "drizzy drone",
+        "url": "https://open.spotify.com/album/69vCR7dCUrJmU6CUpmDmdE"
       },
       "artists": [
         {
-          "name": "Janon Panic Push",
-          "url": "https://open.spotify.com/artist/1E7n4DdLYdDatRJo7AlAVb"
+          "name": "Argo Nuff",
+          "url": "https://open.spotify.com/artist/15G1LspLruN9ZMpYgSGGLq"
         }
       ],
-      "duration_ms": 203500,
-      "name": "Fascinating Rhythm Remix",
-      "url": "https://open.spotify.com/track/2BIV4qwP2ATl31voaWEOv6"
+      "duration_ms": 384877,
+      "name": "with my woes",
+      "url": "https://open.spotify.com/track/3cZbVXCBhG9ZdbeNLhmQ1h"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1237,20 +1253,20 @@
       "url": "https://open.spotify.com/track/58jFqGaWoYufUkm8ZKlH05"
     },
     {
-      "added_at": "2023-08-23 14:01:12",
+      "added_at": "2023-08-16 06:00:00",
       "album": {
-        "name": "drizzy drone",
-        "url": "https://open.spotify.com/album/69vCR7dCUrJmU6CUpmDmdE"
+        "name": "Fascinating Rhythm",
+        "url": "https://open.spotify.com/album/2nYIMFqpAnCvLRdtZCjbBu"
       },
       "artists": [
         {
-          "name": "Argo Nuff",
-          "url": "https://open.spotify.com/artist/15G1LspLruN9ZMpYgSGGLq"
+          "name": "Janon Panic Push",
+          "url": "https://open.spotify.com/artist/1E7n4DdLYdDatRJo7AlAVb"
         }
       ],
-      "duration_ms": 384877,
-      "name": "with my woes",
-      "url": "https://open.spotify.com/track/3cZbVXCBhG9ZdbeNLhmQ1h"
+      "duration_ms": 203500,
+      "name": "Fascinating Rhythm Remix",
+      "url": "https://open.spotify.com/track/2BIV4qwP2ATl31voaWEOv6"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1317,22 +1333,6 @@
       "url": "https://open.spotify.com/track/3YY9jc0TCCJHJRzrNN9mly"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "Introduction / C (Featuring the Voice of Fred Moten)",
-        "url": "https://open.spotify.com/album/0su3LyRPZ1IXvLvcOuS5TL"
-      },
-      "artists": [
-        {
-          "name": "Markus Floats",
-          "url": "https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z"
-        }
-      ],
-      "duration_ms": 263999,
-      "name": "C (Featuring the Voice of Fred Moten)",
-      "url": "https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "\u0425\u043e\u0447\u0435\u0442\u0441\u044f \u0445\u043e\u0440\u043e\u0448\u0435\u0433\u043e",
@@ -1397,22 +1397,6 @@
       "url": "https://open.spotify.com/track/7a6GrnIsmcv0mqbNUMBLKe"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Opinions",
-        "url": "https://open.spotify.com/album/5mqDIJ2nEdeNjBOn1oUync"
-      },
-      "artists": [
-        {
-          "name": "Cut 989",
-          "url": "https://open.spotify.com/artist/6IajSdT5nmPTiMYdIMizWn"
-        }
-      ],
-      "duration_ms": 322440,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/0Xidhto8UQzz9zurCQf5vj"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Phases of This and Other Moons",
@@ -1427,6 +1411,22 @@
       "duration_ms": 224146,
       "name": "A Black Moon Tide",
       "url": "https://open.spotify.com/track/5UkLcM1yFjeFBLUhwuKbkV"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Opinions",
+        "url": "https://open.spotify.com/album/5mqDIJ2nEdeNjBOn1oUync"
+      },
+      "artists": [
+        {
+          "name": "Cut 989",
+          "url": "https://open.spotify.com/artist/6IajSdT5nmPTiMYdIMizWn"
+        }
+      ],
+      "duration_ms": 322440,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/0Xidhto8UQzz9zurCQf5vj"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1509,38 +1509,6 @@
       "url": "https://open.spotify.com/track/30tgD1QE4NU8wr0g81Q9BJ"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "Irukandji",
-        "url": "https://open.spotify.com/album/33dHUlzhFzq0l06T2nIANf"
-      },
-      "artists": [
-        {
-          "name": "The Breedling",
-          "url": "https://open.spotify.com/artist/0NldlxCOpbroIKLIAzfWG2"
-        }
-      ],
-      "duration_ms": 243713,
-      "name": "Betrayer",
-      "url": "https://open.spotify.com/track/1Ifm02tflyx53arFi8u5LU"
-    },
-    {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Ultra-Materials",
-        "url": "https://open.spotify.com/album/3WAbMZybs547PluyGB0pcX"
-      },
-      "artists": [
-        {
-          "name": "blackbody_radiation",
-          "url": "https://open.spotify.com/artist/1KWb17jGSlqzn8wByXHTsQ"
-        }
-      ],
-      "duration_ms": 916500,
-      "name": "Rhyolite",
-      "url": "https://open.spotify.com/track/25BuQvUTwj33xcJqbOfKsx"
-    },
-    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "W1 Sprokla",
@@ -1583,6 +1551,38 @@
       "duration_ms": 174849,
       "name": "Cremated Pets",
       "url": "https://open.spotify.com/track/7x5J1gHY3meL2fU1qwEHd2"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Ultra-Materials",
+        "url": "https://open.spotify.com/album/3WAbMZybs547PluyGB0pcX"
+      },
+      "artists": [
+        {
+          "name": "blackbody_radiation",
+          "url": "https://open.spotify.com/artist/1KWb17jGSlqzn8wByXHTsQ"
+        }
+      ],
+      "duration_ms": 916500,
+      "name": "Rhyolite",
+      "url": "https://open.spotify.com/track/25BuQvUTwj33xcJqbOfKsx"
+    },
+    {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Irukandji",
+        "url": "https://open.spotify.com/album/33dHUlzhFzq0l06T2nIANf"
+      },
+      "artists": [
+        {
+          "name": "The Breedling",
+          "url": "https://open.spotify.com/artist/0NldlxCOpbroIKLIAzfWG2"
+        }
+      ],
+      "duration_ms": 243713,
+      "name": "Betrayer",
+      "url": "https://open.spotify.com/track/1Ifm02tflyx53arFi8u5LU"
     },
     {
       "added_at": "2023-10-04 14:25:37",

@@ -4,7 +4,7 @@
 
 > Una mezcla sabrosa, picosita y refrescante.
 
-327 songs - 18 hr 29 min
+328 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,8 +169,9 @@
 | [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 | 2023-06-23 |  |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-08-22 |  |
 | [Las Locuras Mías](https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Las Locuras Mías](https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P) | 3:45 | 2022-01-07 | 2023-04-25 |
-| [Las Monjitas Electronica](https://open.spotify.com/track/3DrE18WV89hl5EtyDoOtMp) | [DJ VAQUEROZ](https://open.spotify.com/artist/5VRrNAyhe8qVk62gwkQGx4) | [Las Monjitas Electronica](https://open.spotify.com/album/3qOzKv1LHSl01vrN6DS6bA) | 3:34 | 2023-09-26 |  |
+| [Las Monjitas Electronica](https://open.spotify.com/track/3DrE18WV89hl5EtyDoOtMp) | [DJ VAQUEROZ](https://open.spotify.com/artist/5VRrNAyhe8qVk62gwkQGx4) | [Las Monjitas Electronica](https://open.spotify.com/album/3qOzKv1LHSl01vrN6DS6bA) | 3:34 | 2023-09-26 | 2023-11-02 |
 | [Las Montijas](https://open.spotify.com/track/6g1NMytc3WHFM5sImVGUs7) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Las Monjitas](https://open.spotify.com/album/53ZjaC1tqeSpG7HKrSSxNO) | 3:36 | 2023-09-26 | 2023-11-01 |
+| [Las Montijas](https://open.spotify.com/track/7bFVbauSFafZ9FFNcwMuKo) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Las Monjitas](https://open.spotify.com/album/181sUdrrF2cwpDgaSRDvcC) | 3:36 | 2023-09-26 |  |
 | [Las Morras](https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Morras](https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE) | 2:35 | 2023-04-11 | 2023-09-27 |
 | [Limón Con Sal](https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:54 | 2022-06-03 | 2022-08-13 |
 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 | 2022-06-03 |  |

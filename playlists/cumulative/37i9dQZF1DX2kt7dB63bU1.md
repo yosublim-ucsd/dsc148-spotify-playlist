@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-669 songs - 1 day 22 hr 52 min
+670 songs - 1 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,7 +655,8 @@
 | [Wild Is The Wind](https://open.spotify.com/track/4MKfsaaYbB78ibU0kNGxMu) | [Anna Kolchina](https://open.spotify.com/artist/2vP3HFkAxomZGmfq8NG390) | [Wild Is The Wind](https://open.spotify.com/album/6PWm7iGTcvrmI9Vx7lMisb) | 4:50 | 2020-10-09 | 2022-02-18 |
 | [Wild Is the Wind](https://open.spotify.com/track/2qqP3GDBBJLHSbxw0Qx06D) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn), [Pete Wallace](https://open.spotify.com/artist/0fD0IUtm9b5iaEW251JEMc), [Eric England](https://open.spotify.com/artist/7Igdhtngu7rA4AIr05QBJG), [David Chiverton](https://open.spotify.com/artist/14X6dOg4AfOJH8EMj163mF), [Aaron Lebos](https://open.spotify.com/artist/0k9gBCTToN8xp44rMR67Az), [Troy Roberts](https://open.spotify.com/artist/7J9YpX3eZIWlcRbDnbny88) | [Time to Love Again](https://open.spotify.com/album/5lFWqbLV5EG4qthImhlwV6) | 5:46 | 2021-10-15 | 2022-01-23 |
 | [Willow Weep For Me](https://open.spotify.com/track/4VO3tcKdrr7xiyu7bGZGyo) | [Olivia Van Goor](https://open.spotify.com/artist/2FWAbctEyBW7vxsl2UMvpy) | [Willow Weep For Me](https://open.spotify.com/album/46rIGsBH4cGh39xDCSD13x) | 4:43 | 2022-02-18 | 2022-12-22 |
-| [Without You](https://open.spotify.com/track/43lTZae0hP92dJUfaBlKQo) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Without You](https://open.spotify.com/album/2nwFdSEvJhqzXFYPgkkFHZ) | 4:20 | 2023-10-27 |  |
+| [Without You](https://open.spotify.com/track/43lTZae0hP92dJUfaBlKQo) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Without You](https://open.spotify.com/album/2nwFdSEvJhqzXFYPgkkFHZ) | 4:20 | 2023-10-27 | 2023-11-02 |
+| [Without You](https://open.spotify.com/track/09lKeklaxa3p5MXkYYTyH0) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2), [Romero Lubambo](https://open.spotify.com/artist/2tfVfgslNHoisjzLLgnRIV) | [Without You](https://open.spotify.com/album/2inxTSjVztLDsnumbpY9Bv) | 4:20 | 2023-10-27 |  |
 | [Woman's Reach](https://open.spotify.com/track/5b4LwXqmIpgYmwIMsXor45) | [KerenDun](https://open.spotify.com/artist/2TlOOJAaDba5S9tmsFyCWj), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN) | [Woman's Reach](https://open.spotify.com/album/62fZHDlJIDiFQbCFqgE13S) | 3:37 | 2021-02-05 | 2022-02-12 |
 | [Wonderful Words](https://open.spotify.com/track/53GtzwyXwm4ucKVJ5KZu4X) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Jesse Rivest](https://open.spotify.com/artist/1AaY7NYQidTReRR6t1l9OF), [Misael Barros](https://open.spotify.com/artist/1hJLJF3t74lnmceuXeCJsO), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [Wonderful Words](https://open.spotify.com/album/7ivBZYLmSa4YnlFJVElIWr) | 4:11 | 2022-04-04 | 2022-06-23 |
 | [Wuthering Heights](https://open.spotify.com/track/3YSyFPN4BpcKwE4Oy12vlD) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ) | 2:43 | 2022-03-04 | 2023-02-25 |

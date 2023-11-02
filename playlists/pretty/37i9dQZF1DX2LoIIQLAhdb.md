@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Lynda
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,437 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,514 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 19 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
 | 20 | [Molo \(feat\. Dadju\)](https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 2:56 |
 | 21 | [Comme avant \(feat\. Low Jay\)](https://open.spotify.com/track/11R3OU6DbqqqKPyXuPD9qM) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Drama \(Partie II\)](https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW) | 2:53 |
-| 22 | [Comme toi \- Acoustique](https://open.spotify.com/track/1Hc4GdYRgEZIPpdmopnAui) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Comme toi \(Acoustique\)](https://open.spotify.com/album/30Zdh9wOGIaWvotg9Cno5e) | 2:34 |
+| 22 | [Comme toi \(Acoustique\)](https://open.spotify.com/track/1acFKTNboEq5oBVI0BumWX) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Comme toi \(Acoustique\)](https://open.spotify.com/album/3jIvEB8gjgp40VnFJFBl9s) | 2:34 |
 | 23 | [London Fever](https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [London Fever](https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V) | 3:22 |
 | 24 | [Parler de nous](https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Parler de nous](https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds) | 3:13 |
 | 25 | [Oublie ton ex](https://open.spotify.com/track/1yphWz5bG21tINheF4Ud9R) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [Oublie ton ex](https://open.spotify.com/album/2u7GuKbKtA2Nf11DcCi7jl) | 2:32 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Encore](https://open.spotify.com/track/6VCJY8e0hyDFclsuWWN764) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Encore](https://open.spotify.com/album/2vN8NilAhMUK3hW508tdXq) | 2:20 |
 | 40 | [Non Stop](https://open.spotify.com/track/4jMzUThjgs1szjOYUZSzFi) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Non Stop](https://open.spotify.com/album/5MJA5T2zaFcFJwNRA6t6qq) | 3:09 |
 
-Snapshot ID: `MCwwYjM4NTZjYWZkNDBhY2M5ZWI2MzllYWMwNDRjZmY3N2Y2NjVjNmVj`
+Snapshot ID: `MCw0MzBhYzg2MTBkZWZjYjkwMjA4NTMxZmIwMDEwMDU3NWUxZmY0ZTZm`

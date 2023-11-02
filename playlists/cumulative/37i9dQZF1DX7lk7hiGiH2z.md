@@ -4,7 +4,7 @@
 
 > Süßes sonst gibt's Saures! 🎃
 
-134 songs - 6 hr 24 min
+135 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Wenn die Fledermäuse tanzen](https://open.spotify.com/track/4MeA9SGzhfPXmwYOJGolZo) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena Und Die Bambus Bären Bande](https://open.spotify.com/album/5zMipqCNwLqTYXMSo3qJpa) | 2:42 | 2023-10-16 |  |
 | [Wenn Monster tanzen](https://open.spotify.com/track/3VSmTFC8aXgHXaAHm8MBSE) | [Körperklaus](https://open.spotify.com/artist/3bNx1ltylwrKGmVI2I0zsg) | [Wackeldackel Hitparade](https://open.spotify.com/album/6E0XZUnRSEr8QjWvjGwtEs) | 3:31 | 2023-10-16 |  |
 | [Wir holen euch ab](https://open.spotify.com/track/76mevuKh4WonFC305wU9BD) | [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [ordentlich durcheinander](https://open.spotify.com/album/5goLpuhOuPvi646aejZHJa) | 2:58 | 2023-06-28 | 2023-09-01 |
-| [Wir machen buh \(Das Monsterlied\)](https://open.spotify.com/track/6IEAhuasBSawgiWh42Cuvp) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Lieder für Jungs](https://open.spotify.com/album/3HnGp4MVndf6sGgmbPwavT) | 3:05 | 2023-10-16 |  |
+| [Wir machen buh \(Das Monsterlied\)](https://open.spotify.com/track/34WYUP4R48NXtoxWHilAwp) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Halloween\-Hits für Kinder](https://open.spotify.com/album/0J0QUzF4wSz9fyMDVPOwp3) | 3:05 | 2023-10-30 |  |
+| [Wir machen buh \(Das Monsterlied\)](https://open.spotify.com/track/6IEAhuasBSawgiWh42Cuvp) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Lieder für Jungs](https://open.spotify.com/album/3HnGp4MVndf6sGgmbPwavT) | 3:05 | 2023-10-16 | 2023-11-02 |
 | [Wir wollen Sonne \(Verde e amarelo\)](https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 3:39 | 2023-06-28 | 2023-08-29 |
 | [Wunderbar, der Herbst ist da](https://open.spotify.com/track/4jLyTZ2sNyG3VTGE3CUBor) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Der Herbst ist cool!](https://open.spotify.com/album/5Z1pFR01dBUYVzHUymzF2Q) | 3:26 | 2023-08-31 | 2023-10-17 |
 | [Yammi Yammi](https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:23 | 2023-06-28 | 2023-09-01 |

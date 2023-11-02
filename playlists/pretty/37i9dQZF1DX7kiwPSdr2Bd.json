@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Ana N\u00f3brega",
-  "num_followers": 306903,
+  "num_followers": 307013,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjE3YTU2OTExZjRjNzczZDNmYjg3ODM3ZDMyNmEyNjhjNTYwODEy",
+  "snapshot_id": "MCxiMGMwZDU0YWE3YmFmMTIyZDNjMGViNjYwNTAyNDhmYTU0M2ZhY2Jj",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 293593,
-      "name": "N\u00e3o Pare",
-      "url": "https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Eu Sou Teu Pai (Ao Vivo)",
         "url": "https://open.spotify.com/album/2jAWSHULqC5TTIiPgf0QYV"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 376035,
       "name": "Eu Sou Teu Pai - Ao Vivo",
       "url": "https://open.spotify.com/track/6VpGzXV2kAxB59UOGGl4yP"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 293593,
+      "name": "N\u00e3o Pare",
+      "url": "https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -195,26 +195,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Eis-me Aqui (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0zSfnWkLUfBTTQOUb1h0SW"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 459230,
-      "name": "Eis-me Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Deus Faz Al\u00e9m (Ao Vivo)",
         "url": "https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 290080,
       "name": "Deus Faz Al\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Eis-me Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0zSfnWkLUfBTTQOUb1h0SW"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 459230,
+      "name": "Eis-me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Inflama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 411976,
-      "name": "Inflama - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Esse Vento Vai Passar (Studio Session)",
         "url": "https://open.spotify.com/album/2QACIXRqqL5NWMC6ws52y9"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 354173,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Inflama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 411976,
+      "name": "Inflama - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -655,22 +655,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Meu Amigo \u00c9 Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6YorWlOuBChcgJjZWnKktu"
+        "name": "A Tenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
       },
       "artists": [
         {
-          "name": "Soraya Moraes",
-          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 412695,
-      "name": "Meu Amigo \u00c9 Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/1gT5kwHXiHmDUbxg0E43ol"
+      "duration_ms": 470263,
+      "name": "A Tenda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -731,18 +727,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "A Tenda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
+        "name": "Meu Amigo \u00c9 Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6YorWlOuBChcgJjZWnKktu"
       },
       "artists": [
         {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 470263,
-      "name": "A Tenda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
+      "duration_ms": 412695,
+      "name": "Meu Amigo \u00c9 Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/1gT5kwHXiHmDUbxg0E43ol"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Rei do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 360085,
-      "name": "Rei do Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Meu Deus \u00c9 Grande",
         "url": "https://open.spotify.com/album/0MPV6iVIQRJwlXjCwi9UaK"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 338625,
       "name": "Meu Deus \u00c9 Grande",
       "url": "https://open.spotify.com/track/7mWGh9B9WzhhP0Xbaoukav"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Rei do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 360085,
+      "name": "Rei do Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1259,18 +1259,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Nada Vai Parar",
-        "url": "https://open.spotify.com/album/5v3OvZzQIegs7P7SwzYxNC"
+        "name": "Eu Mais Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1IudxS4wetQCAuugeZLLwX"
       },
       "artists": [
         {
-          "name": "Soraya Moraes",
-          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 345118,
-      "name": "Nada Vai Parar",
-      "url": "https://open.spotify.com/track/1WrN5ghnUz47cuRAaQoSYU"
+      "duration_ms": 419665,
+      "name": "Eu Mais Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Ivq3QTLrQwqP9WOzJkUB6"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1291,6 +1295,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Nada Vai Parar",
+        "url": "https://open.spotify.com/album/5v3OvZzQIegs7P7SwzYxNC"
+      },
+      "artists": [
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        }
+      ],
+      "duration_ms": 345118,
+      "name": "Nada Vai Parar",
+      "url": "https://open.spotify.com/track/1WrN5ghnUz47cuRAaQoSYU"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Acalmarei",
         "url": "https://open.spotify.com/album/0dNxHMdvrMgox8nfNuJFjM"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 311142,
       "name": "Acalmarei",
       "url": "https://open.spotify.com/track/6ddcJb42CdRBDRiSqED9xM"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Eu Mais Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1IudxS4wetQCAuugeZLLwX"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 419665,
-      "name": "Eu Mais Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/2Ivq3QTLrQwqP9WOzJkUB6"
     },
     {
       "added_at": "2023-10-20 03:00:00",

@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,130 songs - 2 day 9 hr 59 min
+1,131 songs - 2 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -942,7 +942,8 @@
 | [Sugar Cane](https://open.spotify.com/track/2sZmWnIzxhRgcRUYelB7uT) | [Nawms](https://open.spotify.com/artist/6efvYNQ3tDNE6Dn8IDzvEw), [Emilia Ali](https://open.spotify.com/artist/1mYkjTt1PWeSzxNoAsSd37) | [Sugar Cane](https://open.spotify.com/album/3dbX5k1YlERrrme5OG6aZy) | 3:17 | 2020-11-28 | 2021-01-21 |
 | [Sugar Water](https://open.spotify.com/track/3Iz4PDGaluy5xMzEKNlNTV) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Sugar Water](https://open.spotify.com/album/7KaeswQ7KASRrO7EkXEoV8) | 3:18 | 2022-01-21 | 2022-03-05 |
 | [SUGARCOATED](https://open.spotify.com/track/6RxWF6z8oH5qnzm7jjjxPf) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K), [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [SUGARCOATED](https://open.spotify.com/album/14h0eLQA22KapuwPXQ8ReX) | 3:11 | 2021-05-22 | 2021-07-10 |
-| [Summer Of 99](https://open.spotify.com/track/7pYNJTBcjZjiONdUdk4vUM) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Summer Of 99](https://open.spotify.com/album/7pvFYXl8isCnyHVWpSOhp5) | 3:12 | 2023-08-18 |  |
+| [Summer Of 99](https://open.spotify.com/track/5bHESPEBM1vvWeES2cVYSf) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Wish I Was Someone Else](https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz) | 3:12 | 2023-10-27 |  |
+| [Summer Of 99](https://open.spotify.com/track/7pYNJTBcjZjiONdUdk4vUM) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Summer Of 99](https://open.spotify.com/album/7pvFYXl8isCnyHVWpSOhp5) | 3:12 | 2023-08-18 | 2023-11-02 |
 | [Summerland](https://open.spotify.com/track/0dN3cttUifpkm1Oja79zJr) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Summerland](https://open.spotify.com/album/1A1dSoZMQPU0DcCfaSLvQ1) | 3:49 | 2021-07-24 | 2021-10-09 |
 | [Summertime](https://open.spotify.com/track/0WBBh6JTY5ckeZI2f6SIbz) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Summertime](https://open.spotify.com/album/6ybhLR9ftltyxSig8KsDXy) | 3:29 | 2022-07-22 | 2022-09-03 |
 | [Sunflower, Are You There?](https://open.spotify.com/track/4cExyYQMTbCgT163mKpq2O) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Sunflower, Are You There?](https://open.spotify.com/album/6obJI5H1qcVYz1wKioxSbN) | 3:32 | 2021-05-08 | 2021-06-19 |

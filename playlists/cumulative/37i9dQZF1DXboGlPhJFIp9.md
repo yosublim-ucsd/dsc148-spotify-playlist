@@ -4,7 +4,7 @@
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-175 songs - 8 hr 16 min
+176 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Letters From Yesterday](https://open.spotify.com/track/13mbyBqo9PcIwpkiwV7T7D) | [Broken Legacy](https://open.spotify.com/artist/3hG7itMdTJT8vc0JYh771M) | [Letters From Yesterday](https://open.spotify.com/album/2O4DozQSoCSBB9zWrrDf89) | 2:44 | 2023-04-28 |  |
 | [lone cowboy](https://open.spotify.com/track/5UZdpqf1F4fvDqvGYC2sRt) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [lone cowboy](https://open.spotify.com/album/3q7mTrEO8fhmbdh64N1km3) | 2:35 | 2023-01-06 |  |
 | [Lullaby for the Weary](https://open.spotify.com/track/2qRRt2Dpf6LhruOw4QHjtJ) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V), [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Fractions of Light](https://open.spotify.com/album/5x3TeQqcgNZlX9CRSLeurL) | 2:42 | 2023-05-19 | 2023-08-25 |
+| [Luminous](https://open.spotify.com/track/5mk199ZiDTwyreqimo6ste) | [Humasnó](https://open.spotify.com/artist/2Wz9qZXuCKpiz1XY33xXOp) | [Luminous](https://open.spotify.com/album/4ZcbxElnXYvFhWAyVCqlxn) | 2:22 | 2023-10-27 |  |
 | [Madrigal](https://open.spotify.com/track/7HacRe0qGc3KeVeCRVcIFN) | [Felipe Pérez Santiago](https://open.spotify.com/artist/4FfFH7PoQpP9wuDaUkrdrw) | [Humedal](https://open.spotify.com/album/3aZ7Q5otwzpaHcPXpKLiS2) | 2:27 | 2022-05-13 |  |
 | [Magic Touch](https://open.spotify.com/track/0Ies3sFZNS0SwbMq8sVAGj) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Magic Touch](https://open.spotify.com/album/46jVYKIPbjG0dukX9dFz38) | 2:20 | 2023-08-11 |  |
 | [Masterpiece](https://open.spotify.com/track/6Z4zjDo2ZhH3dF2ArneHlY) | [Boreal Monkey](https://open.spotify.com/artist/7hrUxPY5NyS5eTyuYCvhw1) | [BM](https://open.spotify.com/album/377VpIuyZnkPBNzNZds4EA) | 3:09 | 2022-05-13 |  |
@@ -131,7 +132,7 @@
 | [Right Here](https://open.spotify.com/track/1ufAZB9UFUiv3nB8JH3LoF) | [Lany Mokita](https://open.spotify.com/artist/5A9ZWS5PafMTvNvLdKC8zB) | [Right Here](https://open.spotify.com/album/6OKGvwCzFk7Cu5FFv4qwHq) | 2:01 | 2023-08-11 |  |
 | [Roll](https://open.spotify.com/track/45hrCYJ27wKJEDW8DKh2Ko) | [Bluetoon](https://open.spotify.com/artist/135WbQvbKp0SnPHy80df1X) | [The Skies Above](https://open.spotify.com/album/65BZVVODmw9gxRu13MHG49) | 2:50 | 2022-05-13 | 2023-01-20 |
 | [Satellit](https://open.spotify.com/track/1cMQgz4TXYfWT3aTDDNpR1) | [Åström](https://open.spotify.com/artist/6yRr5aXym7ilgJIX8wciFC) | [Satellit](https://open.spotify.com/album/2Nx5o71yeqes2Q722XOsjN) | 2:09 | 2022-05-13 | 2023-06-23 |
-| [Scattered](https://open.spotify.com/track/0LdmeJoh43rLqNsTmDg3Ed) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Siren](https://open.spotify.com/album/0tFARk2yFys7RawhwTPcM0) | 3:38 | 2022-05-13 |  |
+| [Scattered](https://open.spotify.com/track/0LdmeJoh43rLqNsTmDg3Ed) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Siren](https://open.spotify.com/album/0tFARk2yFys7RawhwTPcM0) | 3:38 | 2022-05-13 | 2023-11-02 |
 | [Scenery](https://open.spotify.com/track/6ooK9Qn7LunBSMVonSXNQS) | [My Siblings](https://open.spotify.com/artist/5g8x3UdnBDez1akawsenMi) | [Scenery](https://open.spotify.com/album/7JWdlzlSdJVMrdx0yNN5ov) | 2:45 | 2023-04-28 |  |
 | [Second Chances](https://open.spotify.com/track/7IbbjapJhOwteSxyMjWOLB) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [Second Chances](https://open.spotify.com/album/6jagxBtyd6IAKLIy9E0wwc) | 2:40 | 2022-12-23 | 2023-06-10 |
 | [Seeds](https://open.spotify.com/track/7DxsjZaR9m4Nx1wHRd2CSw) | [Blinkoat](https://open.spotify.com/artist/33euSsALBQFfAp6s5gp5U4) | [Flare](https://open.spotify.com/album/1LsixZKwwIbeeWyrHHT6cR) | 2:41 | 2022-05-13 |  |

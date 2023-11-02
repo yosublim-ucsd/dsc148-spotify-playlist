@@ -4262,6 +4262,24 @@
     {
       "album": {
         "name": "Circles",
+        "url": "https://open.spotify.com/album/67erSRNw4PL7t6kO0lODOH"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213647,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/2t3DvNLlf0gvprC5cMmpJM"
+    },
+    {
+      "album": {
+        "name": "Circles",
         "url": "https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7"
       },
       "artists": [
@@ -4290,7 +4308,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 213647,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5uISR8YsSSO7eEQgoaXrXV"

@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 456726,
+  "num_followers": 456941,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmI3YTZkNzM4NjU4NDc2YzBiNzE0YzI2YmNiY2IzYmY0ZDFlODcz",
+  "snapshot_id": "MCwxNjU3OGJmYmRlMmMxYTcyOGE4MDFhMWEwYzFhOGY4ZWRkMmJmNDc3",
   "tracks": [
     {
       "added_at": "2023-10-11 04:28:43",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
+        "name": "The 2000's Greatest",
+        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        }
+      ],
+      "duration_ms": 300512,
+      "name": "Kangen",
+      "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
         "name": "YURA",
         "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 262060,
       "name": "Cinta Dan Rahasia",
       "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
-        "name": "The 2000's Greatest",
-        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
-      },
-      "artists": [
-        {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
-        }
-      ],
-      "duration_ms": 300512,
-      "name": "Kangen",
-      "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
-      },
-      "artists": [
-        {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "Air & Api",
-      "url": "https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
         "name": "f\u00e1bula",
         "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 220000,
       "name": "Melawan Restu",
       "url": "https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+      },
+      "artists": [
+        {
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Air & Api",
+      "url": "https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP"
     },
     {
       "added_at": "2023-10-11 04:28:43",

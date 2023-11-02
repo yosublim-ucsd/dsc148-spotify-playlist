@@ -1,12 +1,12 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 247067,
+  "num_followers": 247201,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDBlN2M3YTBlMzljZDZkOWEzYzhjMjQzNGVjZTg0NDg5NmU2MmFk",
+  "snapshot_id": "MCw4MzhlMzQ4YjgwZGE0NmI2NDc0ZDQzNGNmMjYwYmMyY2QyZGY4ZDUz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Small Town Crazy",
+        "url": "https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Small Town Crazy",
+      "url": "https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Caught Up In The Country",
         "url": "https://open.spotify.com/album/0SeZnTLIuPbHvuuNTJDHLh"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/2BgunkkepMPFpArQj1Dx5s"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Small Town Crazy",
-        "url": "https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Small Town Crazy",
-      "url": "https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Grew Up On That (Quarantine Edition)",
-        "url": "https://open.spotify.com/album/6OaqgRfFDDPBbEdXvTmUxZ"
+        "name": "Girl Going Nowhere",
+        "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
       },
       "artists": [
         {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
         }
       ],
-      "duration_ms": 172066,
-      "name": "Grew Up On That",
-      "url": "https://open.spotify.com/track/1dwYdVvxMwMllDgwQuXMGs"
+      "duration_ms": 209080,
+      "name": "A Little Dive Bar in Dahlonega",
+      "url": "https://open.spotify.com/track/7qcRDEpmDWS0bLHaZRYE8c"
     }
   ],
   "unique_name": "Heartland Country",

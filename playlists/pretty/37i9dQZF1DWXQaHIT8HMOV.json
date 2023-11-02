@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTA2NzM0Yjk2NzE4MmY5OTlkMzIwMzNkNzc1OGYxNGFlOWY0MWM0",
+  "snapshot_id": "MCw2OGRkODY1YTc2OGU2ZjZiODE4ZWQ2YmM1MjQwZGM4NjY2MWY5YjEy",
   "tracks": [
     {
       "added_at": "2023-10-26 20:59:00",
@@ -571,18 +571,22 @@
     {
       "added_at": "2023-10-26 20:59:00",
       "album": {
-        "name": "Chai Mata",
-        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
+        "name": "Singa",
+        "url": "https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9"
       },
       "artists": [
         {
           "name": "John Blaq",
           "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        },
+        {
+          "name": "Lydia Jazmine",
+          "url": "https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Chai Mata",
-      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
+      "duration_ms": 197052,
+      "name": "Singa",
+      "url": "https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB"
     },
     {
       "added_at": "2023-10-26 20:59:00",
@@ -655,6 +659,22 @@
     {
       "added_at": "2023-10-26 20:59:00",
       "album": {
+        "name": "Pretty Young Thing",
+        "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Pretty Young Thing",
+      "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
+    },
+    {
+      "added_at": "2023-10-26 20:59:00",
+      "album": {
         "name": "Ekyama",
         "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
       },
@@ -671,22 +691,6 @@
       "duration_ms": 217021,
       "name": "Ekyama",
       "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
-    },
-    {
-      "added_at": "2023-10-26 20:59:00",
-      "album": {
-        "name": "Pretty Young Thing",
-        "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Pretty Young Thing",
-      "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
     },
     {
       "added_at": "2023-10-26 20:59:00",
@@ -743,22 +747,18 @@
     {
       "added_at": "2023-10-26 20:59:00",
       "album": {
-        "name": "Singa",
-        "url": "https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9"
+        "name": "Chai Mata",
+        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
       },
       "artists": [
         {
           "name": "John Blaq",
           "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        },
-        {
-          "name": "Lydia Jazmine",
-          "url": "https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM"
         }
       ],
-      "duration_ms": 197052,
-      "name": "Singa",
-      "url": "https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB"
+      "duration_ms": 175000,
+      "name": "Chai Mata",
+      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
     },
     {
       "added_at": "2023-10-26 20:59:00",
@@ -779,8 +779,8 @@
     {
       "added_at": "2023-10-26 20:59:00",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
       },
       "artists": [
         {
@@ -788,13 +788,13 @@
           "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         },
         {
-          "name": "BRYAN THE MENSAH",
-          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
         }
       ],
-      "duration_ms": 188444,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
+      "duration_ms": 137333,
+      "name": "Mama I Made It",
+      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
     },
     {
       "added_at": "2023-10-26 20:59:00",

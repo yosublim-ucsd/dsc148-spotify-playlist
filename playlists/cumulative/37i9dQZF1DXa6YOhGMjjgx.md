@@ -4,7 +4,7 @@
 
 > The very best of the alternative rock scene\. Cover: Teenage Wrist
 
-338 songs - 19 hr 26 min
+339 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 | 2023-03-01 |  |
 | [Change the Waters](https://open.spotify.com/track/7DFOK8SDu7hSaqDGxpZRY6) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Change the Waters](https://open.spotify.com/album/4Xp8qrp6IPU1obR7a8E6m0) | 3:48 | 2021-07-23 | 2022-07-25 |
 | [Cheer Up Baby](https://open.spotify.com/track/4jwrBNhvazRacmab5ArWSZ) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 3:53 | 2022-02-28 | 2023-01-28 |
-| [Chewing Glass](https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys) | [James and the Cold Gun](https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx) | [Chewing Glass](https://open.spotify.com/album/3X5tZI8clJZkaQFkR4ICsv) | 3:01 | 2023-01-27 |  |
+| [Chewing Glass](https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys) | [James and the Cold Gun](https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx) | [Chewing Glass](https://open.spotify.com/album/3X5tZI8clJZkaQFkR4ICsv) | 3:01 | 2023-01-27 | 2023-11-02 |
 | [Choking](https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:07 | 2022-01-14 |  |
 | [Cold Hands](https://open.spotify.com/track/7jLJ9769nvwETkjrUHzi2y) | [The Dose](https://open.spotify.com/artist/65WoSEy79EvncG0JqbU23R) | [The Dose](https://open.spotify.com/album/3qXqGE2TCCWZHDYRHTNbTi) | 4:18 | 2021-03-31 | 2022-04-27 |
 | [Come On](https://open.spotify.com/track/2YUTrl4xlX9jAlpxWEpOnU) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Come On](https://open.spotify.com/album/6F1GXCFUTG8bRPcRiFEZ3m) | 3:29 | 2021-03-31 | 2023-05-06 |
@@ -272,6 +272,7 @@
 | [Shoulders](https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Shoulders](https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO) | 3:25 | 2021-07-23 | 2022-11-17 |
 | [Sick of The Silence](https://open.spotify.com/track/2x9Hr7Fuf9E8Z7vONIHPyM) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Sick of The Silence](https://open.spotify.com/album/1Twv557qLgnS0hpVQLwDYD) | 3:08 | 2021-06-11 | 2022-03-01 |
 | [Simple Dude](https://open.spotify.com/track/3UYxSVaquXGHP1yIovi4g9) | [Tokyo Police Club](https://open.spotify.com/artist/3wyfo3svXNWnszGAEVey11) | [Simple Dude](https://open.spotify.com/album/4KGWHyGZdzH2ST89fUBuSu) | 3:41 | 2021-03-31 | 2022-04-29 |
+| [Siphon](https://open.spotify.com/track/3GkzwxTB7kP5sH9oGX5Jlr) | [Truth Club](https://open.spotify.com/artist/3GdOXWzNWcFrrUD9VentQC) | [Siphon](https://open.spotify.com/album/6l75QaQSO9TwwSKJS7E8VQ) | 2:18 | 2023-11-01 |  |
 | [Sleeping On The Ceiling](https://open.spotify.com/track/2vfGITBrVJaPYSgKaKJv9Z) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Sleeping On The Ceiling](https://open.spotify.com/album/55FNjy6hxbZm9hV0iphC98) | 1:58 | 2023-06-30 |  |
 | [Smile](https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ) | 3:16 | 2021-04-23 |  |
 | [So So Soon](https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP) | 3:48 | 2023-03-01 | 2023-05-06 |

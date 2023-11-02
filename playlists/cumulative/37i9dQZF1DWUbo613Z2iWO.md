@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover: Chxrry22
 
-706 songs - 1 day 12 hr 24 min
+707 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,7 +592,8 @@
 | [Streets](https://open.spotify.com/track/1TYByBVUgkH7lndO0YRmbl) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Streets](https://open.spotify.com/album/0JRGXtHtaXzYM4fEhtXJw3) | 2:24 | 2022-09-30 | 2023-01-21 |
 | [Stuck.](https://open.spotify.com/track/7JeCUUnOpoz4JoV84fliOc) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Dur&](https://open.spotify.com/album/6pW1am4w3SRnL7l6lpOHPR) | 4:19 | 2022-11-27 | 2022-12-03 |
 | [sub me in \(feat\. Maurice Moore\)](https://open.spotify.com/track/66m6XgZHQfVrrXVfdVOHKG) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy), [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [sub me in \(feat\. Maurice Moore\)](https://open.spotify.com/album/7KgCXOGLEYj6Hd8tDZSBoK) | 3:10 | 2022-10-14 | 2023-01-21 |
-| [Suite Life \(Familiar\) \- Bonus Track](https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 2:34 | 2023-07-07 |  |
+| [Suite Life \(Familiar\) \- Bonus Track](https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 2:34 | 2023-07-07 | 2023-11-02 |
+| [Suite Life \(Familiar\) \[Feat\. Bellah\] \- Bonus Track](https://open.spotify.com/track/2X5hOPvGUp800KM7GG6tXn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3K4ezkdiUh18fKYTLNF5at) | 2:34 | 2023-07-07 |  |
 | [Summer](https://open.spotify.com/track/6U3cbIHdUUXgASgQdMSqR3) | [Kenya Vaun](https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk) | [Summer \(Live\)](https://open.spotify.com/album/03hk1thD7Zof7vC8zDWKCD) | 2:49 | 2023-10-20 |  |
 | [Summer Break](https://open.spotify.com/track/6aUCmkTCcaGcYOQQEBeaPz) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Summer Break](https://open.spotify.com/album/4HRrCMzQ5EVttVf3GM0rbY) | 1:57 | 2022-02-18 | 2022-03-26 |
 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-09 |  |

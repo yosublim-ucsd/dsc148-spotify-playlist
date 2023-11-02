@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-84 songs - 3 hr 35 min
+85 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,12 +16,13 @@
 | [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-09-21 |  |
 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 | 2023-09-21 | 2023-10-27 |
 | [Banana](https://open.spotify.com/track/2EXIXFyWSnJAVzxy4kZQfA) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Banana](https://open.spotify.com/album/3qIFOSosWTxUJu0fSpdemE) | 2:10 | 2023-09-21 | 2023-09-24 |
+| [BIG BANDZ](https://open.spotify.com/track/5QYc0tl5ZAz8I7lMmlCuYJ) | [Rvzeli](https://open.spotify.com/artist/1ufmj2rsu21unXQ7C6naYy), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BIG BANDZ](https://open.spotify.com/album/38HjO1arCoX18hmmBSoR8c) | 2:31 | 2023-10-26 |  |
 | [BLANCO](https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BLANCO](https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2) | 2:15 | 2023-09-21 |  |
 | [BLIND](https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [BLIND](https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd) | 2:28 | 2023-09-28 |  |
 | [Blind](https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Blind](https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246) | 2:41 | 2023-09-21 |  |
 | [BODY](https://open.spotify.com/track/6jYyljzxnFohnVpHgrBpNp) | [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg), [ifrapluto](https://open.spotify.com/artist/6DDyKBj86C24FkwrjEPE0B) | [BODY](https://open.spotify.com/album/1GIESGxRLnPgv4D37y1qDN) | 2:23 | 2023-09-21 | 2023-10-13 |
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 |  |
-| [Brazil Flow](https://open.spotify.com/track/1rxFEfLu4vTQUJzvB5Hddr) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Brazil Flow](https://open.spotify.com/album/2qBDUq858Mc3HT33TcXzgl) | 1:31 | 2023-09-21 |  |
+| [Brazil Flow](https://open.spotify.com/track/1rxFEfLu4vTQUJzvB5Hddr) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Brazil Flow](https://open.spotify.com/album/2qBDUq858Mc3HT33TcXzgl) | 1:31 | 2023-09-21 | 2023-11-02 |
 | [Cuando Menos Lo Espera](https://open.spotify.com/track/0K64Z8f4jGT1jGmVEvgs20) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cuando Menos Lo Espera](https://open.spotify.com/album/5I4I0k75uiUnqyJvh7vxLC) | 3:00 | 2023-09-21 |  |
 | [Dans från dig](https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Dans från dig](https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g) | 2:16 | 2023-09-21 |  |
 | [DAY ONE](https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [DAY ONE](https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj) | 2:28 | 2023-09-21 | 2023-09-29 |
@@ -33,7 +34,7 @@
 | [En till dans](https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [En till dans](https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP) | 3:20 | 2023-09-21 |  |
 | [Eneste jeg vil](https://open.spotify.com/track/0psfsKyQhgh1ZoezmBNtNC) | [Larsiveli](https://open.spotify.com/artist/3xQ7Td9gKHIT3J7w7e2CeW) | [Bitterhetens Hotell](https://open.spotify.com/album/4TA1oZbrSZWKV1jmLVB02m) | 2:43 | 2023-10-19 |  |
 | [Fantasy](https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Fantasy](https://open.spotify.com/album/0Zpv2L3usXFp6RWzcGBKeI) | 2:18 | 2023-09-21 |  |
-| [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 | 2023-09-21 | 2023-10-27 |
+| [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 | 2023-09-21 |  |
 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 | 2023-09-21 | 2023-10-23 |
 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 | 2023-09-21 | 2023-09-30 |
 | [G63](https://open.spotify.com/track/3iGLZavFFEdLHOEWANcQiF) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/0pB9N7JNV5TLGse7UUVXA0) | 2:42 | 2023-09-28 |  |
@@ -72,7 +73,7 @@
 | [PANGPANG](https://open.spotify.com/track/4lxCRiUcm8k3fiWf0wDrUf) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [PANGPANG](https://open.spotify.com/album/7JgAD3sKtMTpbWqLivjE0H) | 2:29 | 2023-09-21 | 2023-10-23 |
 | [Pendejo](https://open.spotify.com/track/5jCm2CYGVougaTZo8g9uCW) | [Lille Pablo](https://open.spotify.com/artist/6Y4IHXCDwWvuNBmdqTIUTz) | [Pendejo](https://open.spotify.com/album/41ZSewcI8wnAyunssOkVAI) | 2:57 | 2023-09-21 | 2023-09-29 |
 | [PRAPAPA](https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [PRAPAPA](https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9) | 2:04 | 2023-09-21 |  |
-| [Psykopat](https://open.spotify.com/track/4ImKE5dAPoZoDxKKwIimhn) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Psykopat](https://open.spotify.com/album/04b3i3XY9YuRuP8dIKxh9d) | 2:09 | 2023-10-05 |  |
+| [Psykopat](https://open.spotify.com/track/4ImKE5dAPoZoDxKKwIimhn) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Psykopat](https://open.spotify.com/album/04b3i3XY9YuRuP8dIKxh9d) | 2:09 | 2023-10-05 | 2023-11-02 |
 | [ROCKARE](https://open.spotify.com/track/3vVdmgwmY5xbKQ3Oh074Lc) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [TRAPEN TILL RADION](https://open.spotify.com/album/7iAffbVeIbgvwwz04XOt5k) | 2:14 | 2023-09-21 | 2023-10-23 |
 | [Rädda mig](https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Rädda mig](https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu) | 2:23 | 2023-09-21 |  |
 | [Saint Laurent \(feat\. C.Gambino\)](https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Saint Laurent \(feat\. C.Gambino\)](https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC) | 2:48 | 2023-09-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTAq251RdAA.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/3EOfjHuLO7f2VbwNGu0Tqg">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,060 likes - 81 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,061 likes - 81 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTAq251RdAA.md) - [plain]
 | 80 | [Woodstock](https://open.spotify.com/track/36MxthZNeNmBEGZLC5TZYN) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:19 |
 | 81 | [Down to You \(My Confidante\)](https://open.spotify.com/track/71vOaA56rhZ4UxlCdVhHqn) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Down to You \(My Confidante\)](https://open.spotify.com/album/5kreh8RvjTaep5mnW4w6GJ) | 4:07 |
 
-Snapshot ID: `MCwyYzIyNDFhZjYwZTZmYzQyM2JkYzNmMWI3ZDQ4YTI4YzI4MDYyY2Ex`
+Snapshot ID: `MCwwNmU2YzVkOTY4NTRjYjE3Y2FkZGU0NTkzYWVlMzFhYmMyZGZmMWI0`

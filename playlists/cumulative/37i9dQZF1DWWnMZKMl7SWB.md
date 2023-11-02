@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,228 songs - 2 day 6 hr 33 min
+1,229 songs - 2 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -841,7 +841,7 @@
 | [Procrastinate](https://open.spotify.com/track/3hZu4Bh5tYDu1gaZC5MWMA) | [ᴄᴀᴍᴏᴍɪʟʟᴀ](https://open.spotify.com/artist/5HmJsQ6KlfdCz5mJxDOnwj) | [Procrastinate](https://open.spotify.com/album/5RjVitaqDZD6EMb9pB7vXN) | 1:54 | 2023-09-22 |  |
 | [projection](https://open.spotify.com/track/5ot2Nv3COru7DqNd8PaFy5) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [projection](https://open.spotify.com/album/64wr6u8ng4pFUfCvtLIbJ8) | 2:38 | 2023-09-22 |  |
 | [Proud](https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Proud](https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD) | 2:16 | 2023-09-22 |  |
-| [prpl rain](https://open.spotify.com/track/2W5wmuEdzrYMNmQDWfKDWQ) | [Kenzie](https://open.spotify.com/artist/0QYQjRbAV7qfoTpUW4Bmrh), [Paul Claypool](https://open.spotify.com/artist/6zsLzT78IZnCNC0qzgxo9c) | [prpl rain](https://open.spotify.com/album/2zSyInCYQdZbakgd0VIF83) | 2:44 | 2023-09-22 |  |
+| [prpl rain](https://open.spotify.com/track/2W5wmuEdzrYMNmQDWfKDWQ) | [Kenzie](https://open.spotify.com/artist/0QYQjRbAV7qfoTpUW4Bmrh), [Paul Claypool](https://open.spotify.com/artist/6zsLzT78IZnCNC0qzgxo9c) | [prpl rain](https://open.spotify.com/album/2zSyInCYQdZbakgd0VIF83) | 2:44 | 2023-09-22 | 2023-11-02 |
 | [Purified Soul](https://open.spotify.com/track/2JGKpdMtspPxONj1xJYwS1) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Purified Soul & Refreshing Air](https://open.spotify.com/album/0GIIExJeHSE5hR32lBLnVi) | 3:12 | 2023-09-22 |  |
 | [Purity Of Mountain](https://open.spotify.com/track/3suiDAiG53bMdlILyKc0DT) | [Starlies](https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips), [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Purity Of Mountain](https://open.spotify.com/album/7JG5zE2IwShFXGiJbFyYQ2) | 2:17 | 2023-09-22 |  |
 | [Purple Hue](https://open.spotify.com/track/0LiN7h1mBp9kCbbCpZs3Ii) | [Dreams On Vinyl](https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw) | [Purple Hue](https://open.spotify.com/album/69448mTpDDiJT3ix1zziay) | 2:31 | 2023-09-22 |  |
@@ -852,6 +852,7 @@
 | [QUEENS](https://open.spotify.com/track/6KN70ha6oNwHXl3LGiEb8O) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [QUEENS](https://open.spotify.com/album/5pJ6CAH1vVq6THyXLQ1mVm) | 3:54 | 2022-09-09 | 2022-11-13 |
 | [Quiet Storm](https://open.spotify.com/track/6P7n92qmU1JBcq74p0kW29) | [Pepper](https://open.spotify.com/artist/7wxv15AsqEJNoMmCzkZw9M), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Quiet Storm](https://open.spotify.com/album/7EZCndbnWFb8T1m52bCN5j) | 2:07 | 2023-09-08 |  |
 | [Rain Check](https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Rain Check](https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8) | 2:16 | 2022-04-12 | 2023-09-09 |
+| [Rain Is Coming](https://open.spotify.com/track/1CW0PI7ZckvnXHAeAypn5O) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [Rain Is Coming](https://open.spotify.com/album/68uy9QCsmh1NGn95lgGXKe) | 1:51 | 2023-10-27 |  |
 | [Rainclouds Still Remember](https://open.spotify.com/track/2RAYJawqivodlRe2C6emmK) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Rainclouds Still Remember](https://open.spotify.com/album/19d7nSFHyMulZzgTEwhlIH) | 2:55 | 2023-09-22 |  |
 | [rainy daze](https://open.spotify.com/track/7yqa0s4ZJdHWm4ofHjXwC7) | [Nazaha](https://open.spotify.com/artist/2sLHWzSi6dSE8C5GdHwNtD) | [rainy daze](https://open.spotify.com/album/6WVMFLJCLo8YDQ8Z7HPUrb) | 2:02 | 2023-09-22 |  |
 | [raised by a pear](https://open.spotify.com/track/0bf0Kr1Vkb4xkHrzmlKIp3) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [raised by a pear](https://open.spotify.com/album/0WdwUwKsClIiD8Cgk9Qa2k) | 2:21 | 2023-09-22 |  |

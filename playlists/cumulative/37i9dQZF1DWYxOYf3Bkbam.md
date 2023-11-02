@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-162 songs - 8 hr 31 min
+163 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Compañera](https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:19 | 2021-11-19 | 2022-07-23 |
 | [Conjunto Pena Y Olvido](https://open.spotify.com/track/3RT7zu5eneQhb16dY5cSUh) | [Mario Bofill](https://open.spotify.com/artist/0WZW3Jl8eZw8AWxBLrtfD7) | [Duendes Puebleros](https://open.spotify.com/album/5Y0XgeRdlZ4KxPXtikSKiI) | 3:19 | 2023-06-09 |  |
 | [Conjunto Pena Y Olvido](https://open.spotify.com/track/7tgJfvvzUi10I77BffnUHd) | [Mario Bofill](https://open.spotify.com/artist/0WZW3Jl8eZw8AWxBLrtfD7) | [Duendes Puebleros](https://open.spotify.com/album/1RJSfyaGC3cIw9vUs1r4FO) | 3:19 | 2021-11-19 | 2023-07-03 |
-| [Creciendo el Gualeguay](https://open.spotify.com/track/1LDKzitnl6PhE4QxQuKeVc) | [Los Tatas del Chamamé](https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw) | [A Puro Sapucay](https://open.spotify.com/album/1Oqq57n2IOOu7OOflkoZvJ) | 2:49 | 2021-11-19 |  |
+| [Creciendo el Gualeguay](https://open.spotify.com/track/1LDKzitnl6PhE4QxQuKeVc) | [Los Tatas del Chamamé](https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw) | [A Puro Sapucay](https://open.spotify.com/album/1Oqq57n2IOOu7OOflkoZvJ) | 2:49 | 2021-11-19 | 2023-11-02 |
 | [Cómo Marea / Besitos \- En Vivo, Teatro Provincial J.C.Saravia \- Salta](https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [En Vivo, Teatro Provincial J.C.Saravia \- Salta \(Pt\. 2\)](https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto) | 4:20 | 2022-02-11 |  |
 | [De Pájaros y Campanas](https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO) | [Juan Carlos Jensen](https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi) | [Su Poesía y Su Voz, Vol\. 2](https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu) | 2:47 | 2021-11-19 |  |
 | [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 | 2022-06-10 |  |
@@ -112,6 +112,7 @@
 | [Mi Caballo Bayo](https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg) | [Conjunto Ivoti](https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP), [J\. C\. Mansilla](https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b) | [30 Años Después](https://open.spotify.com/album/29qdVczira2f72fAfz51fB) | 2:57 | 2021-11-19 |  |
 | [Mi Estrella Perdida](https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Mi Estrella Perdida](https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu) | 4:08 | 2021-11-19 |  |
 | [Mi ponchillo colorado](https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP) | [Mario Millán Medina](https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:24 | 2021-11-19 |  |
+| [Mi pueblo, mi casa, la soledad](https://open.spotify.com/track/2Svc7x1VqoBLhWwY8guJ0p) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY), [Jacques Morelenbaum](https://open.spotify.com/artist/7L1GdQNvBnvKltqr3HQchx) | [Eiké! \- Entrar en el alma](https://open.spotify.com/album/1cNTV1xuWtGY0J6hWTimjP) | 5:02 | 2023-06-09 |  |
 | [Mi pueblo, mi casa, la soledad](https://open.spotify.com/track/3M1TkSTS4amqgMhRK70mu3) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d) | [Mi pueblo, mi casa, la soledad](https://open.spotify.com/album/1jZPXH4WVGKacnfL7Si41p) | 5:02 | 2023-04-21 | 2023-08-24 |
 | [Mi Triste Fantasia](https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:06 | 2021-11-19 | 2022-07-28 |
 | [Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos \- En Vivo](https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5) | [Los Majestuosos Del Chamamé](https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp) | [Enganchados en Vivo Desde San José Feliciano / Nacional, Vol\. 2](https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ) | 7:35 | 2021-11-19 |  |

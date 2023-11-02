@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,369 likes - 95 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,407 likes - 95 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 17 | [Dathin Allan](https://open.spotify.com/track/70lg79zjqjMZq1TrFPHt2n) | [Lashan Herath](https://open.spotify.com/artist/2GKt5532rbjOVlrGyvVHcC) | [Dathin Allan](https://open.spotify.com/album/0SSVG7pg9ojBWkYV0GzyC5) | 4:01 |
 | 18 | [Handa Allanna Aasa Gamana](https://open.spotify.com/track/1udodaXTGGnQjajZl8LBD1) | [WAYO](https://open.spotify.com/artist/4FxhFEHyjxhdm3C8vAq0wV) | [Handa Allanna Aasa Gamana](https://open.spotify.com/album/3BBXDK9dx0RMpee4wZWCix) | 4:25 |
 | 19 | [Mata Rawana](https://open.spotify.com/track/3iQ3tzIb85Z5Pi6emy8KeJ) | [La Signore](https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP) | [Mata Rawana](https://open.spotify.com/album/6bnr41pddsGgZIzlebcvDD) | 3:17 |
-| 20 | [Häma Heenema](https://open.spotify.com/track/5OM14r0sz2gYucEKq2BiRe) | [Induja](https://open.spotify.com/artist/0xOyyr7omyRhzzonikwtRD) | [Häma Heenema](https://open.spotify.com/album/0Ejcme3r4lRYzZJU3xArS5) | 3:31 |
+| 20 | [Häma Heenema](https://open.spotify.com/track/3QixlHwqZu6AKAg2DaBk5L) | [Induja](https://open.spotify.com/artist/0xOyyr7omyRhzzonikwtRD) | [Häma Heenema](https://open.spotify.com/album/1KBJjfCikESFjVLQkJI2QN) | 3:31 |
 | 21 | [Dase Durin](https://open.spotify.com/track/2RLLzsU7ijGYg0xTW42Q0G) | [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t) | [Dase Durin](https://open.spotify.com/album/1lx0sB4sQemiqjO2x5P13N) | 2:39 |
 | 22 | [Datha Dara](https://open.spotify.com/track/7Dl4H08P6ZsuQnN3rl3X5Q) | [NaadhaGama](https://open.spotify.com/artist/6OcxQ6JR8KBybmQOJNWvTU), [Ridma Weerawardena](https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT), [Supun Perera](https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN), [Dhanith Sri](https://open.spotify.com/artist/25JFNpUo9kGJwGwMPUDBRs), [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Methun SK](https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x), [Dinupa Kodagoda](https://open.spotify.com/artist/1hIhsR8RdSlX4IVlxybhFj) | [Datha Dara](https://open.spotify.com/album/5ACrismOfjk5EW5n9oz4t6) | 3:10 |
 | 23 | [Dawasak Ewi](https://open.spotify.com/track/4LbnwSS3UQ6syG4ZIUFFXD) | [Piyath Rajapakse](https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a) | [Dawasak Ewi](https://open.spotify.com/album/4TzVvOLGixhBhVC4vt05ks) | 3:15 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 94 | [Hith Ochcham](https://open.spotify.com/track/792WeaFnWJIIEed9JnnWLW) | [Lashan Herath](https://open.spotify.com/artist/2GKt5532rbjOVlrGyvVHcC) | [Hith Ochcham](https://open.spotify.com/album/46s4zoRLxIbIa3UfjOKwRH) | 3:30 |
 | 95 | [Paluwe Sathuta](https://open.spotify.com/track/16f1xUbj37jdrqkqLCEEkB) | [Senanga Dissanayake](https://open.spotify.com/artist/5r68YwgGItdBtZdTWQFQsJ), [Methun SK](https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x) | [Paluwe Sathuta](https://open.spotify.com/album/37jxBySqQ3CwWfFCsbH9wi) | 4:38 |
 
-Snapshot ID: `MCxhMzBjZTExMWQxYjk0NmQ4NzJmNTkwZjVkMTMxZjNjYThhMzRlMTIw`
+Snapshot ID: `MCwyMWM3MDMzNGI4MmU5ZmIzZmQwMWY1MTYyMTQ3ZjFhNjY5YzFmZmFi`

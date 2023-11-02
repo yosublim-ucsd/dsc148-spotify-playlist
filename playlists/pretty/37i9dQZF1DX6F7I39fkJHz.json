@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s bichotas de la escena featuring Aura BAE.",
-  "num_followers": 31874,
+  "num_followers": 31885,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjY2YjEyMTlkMjIxMTBiMGVkN2Q4Yzk4YWQyZGFhYWM5MTBhMzA0",
+  "snapshot_id": "MCw5YjBiYWNlM2JiNmFjYzNiMGRlYWNlN2E2YTQ1ZWUxMTBhNmUyMzM3",
   "tracks": [
     {
       "added_at": "2023-10-26 18:33:52",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-10-26 18:33:52",
       "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2023-10-26 18:33:52",
+      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2023-10-26 18:33:52",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-10-26 18:33:52",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-10-26 18:33:52",
       "album": {
+        "name": "Whos That B!Tch?",
+        "url": "https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "duration_ms": 153624,
+      "name": "Whos That B!Tch?",
+      "url": "https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK"
+    },
+    {
+      "added_at": "2023-10-26 18:33:52",
+      "album": {
         "name": "Estoy Soltera",
         "url": "https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 172653,
       "name": "Estoy Soltera",
       "url": "https://open.spotify.com/track/597HxeFN4prkOZml250ZhR"
-    },
-    {
-      "added_at": "2023-10-26 18:33:52",
-      "album": {
-        "name": "Whos That B!Tch?",
-        "url": "https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc"
-      },
-      "artists": [
-        {
-          "name": "Soui Uno",
-          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
-        }
-      ],
-      "duration_ms": 153624,
-      "name": "Whos That B!Tch?",
-      "url": "https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK"
     },
     {
       "added_at": "2023-10-26 18:33:52",

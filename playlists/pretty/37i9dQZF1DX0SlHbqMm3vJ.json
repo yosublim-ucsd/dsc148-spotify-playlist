@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: King Promise & Gabzy",
-  "num_followers": 216618,
+  "num_followers": 216654,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzc5YjUzNjcwMDhjZTJkMzhhNjBkOTRkZWQxNjg5ZGQ2YjU4NmUz",
+  "snapshot_id": "MCw3YmI5NWFmOGNiZWM4ZTAyOTNlNzBhZGE5YjMzNDc2Y2M5OGM3Yjll",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Khartoum",
+        "url": "https://open.spotify.com/album/5flPonJ0HI6M26uzBwNWvS"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 142719,
+      "name": "Khartoum (with Adekunle Gold)",
+      "url": "https://open.spotify.com/track/3dYbTnGgy0QoLyeNL7Rfw5"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5"
       },
@@ -815,26 +835,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Khartoum",
-        "url": "https://open.spotify.com/album/5flPonJ0HI6M26uzBwNWvS"
-      },
-      "artists": [
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 142719,
-      "name": "Khartoum (with Adekunle Gold)",
-      "url": "https://open.spotify.com/track/3dYbTnGgy0QoLyeNL7Rfw5"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "ASE - A COLORS SHOW",
         "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
       },
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Don't Tell Anyone",
+        "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 177300,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
       },
@@ -887,18 +903,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Don't Tell Anyone",
-        "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
+        "name": "Kiss 'N' Tell",
+        "url": "https://open.spotify.com/album/5ymb4OcOb0HkTHVaruOQ9B"
       },
       "artists": [
         {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Mamba Sounds",
+          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
         }
       ],
-      "duration_ms": 177300,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
+      "duration_ms": 141941,
+      "name": "Kiss 'N' Tell",
+      "url": "https://open.spotify.com/track/0I5l2lMLSLFUcTEKWwC1O5"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -935,26 +955,6 @@
       "duration_ms": 151724,
       "name": "Troubling",
       "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Kiss 'N' Tell",
-        "url": "https://open.spotify.com/album/5ymb4OcOb0HkTHVaruOQ9B"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Mamba Sounds",
-          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
-        }
-      ],
-      "duration_ms": 141941,
-      "name": "Kiss 'N' Tell",
-      "url": "https://open.spotify.com/track/0I5l2lMLSLFUcTEKWwC1O5"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Fire 4 Fire",
-        "url": "https://open.spotify.com/album/1Fg8NCAgPwr6HsZSVarUX9"
-      },
-      "artists": [
-        {
-          "name": "Remy Baggins",
-          "url": "https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX"
-        },
-        {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        }
-      ],
-      "duration_ms": 190532,
-      "name": "Fire 4 Fire",
-      "url": "https://open.spotify.com/track/6i2abtBneioUeBlLVg3ncx"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Love & Trust",
         "url": "https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 165217,
       "name": "Love and Trust",
       "url": "https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Fire 4 Fire",
+        "url": "https://open.spotify.com/album/1Fg8NCAgPwr6HsZSVarUX9"
+      },
+      "artists": [
+        {
+          "name": "Remy Baggins",
+          "url": "https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX"
+        },
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "duration_ms": 190532,
+      "name": "Fire 4 Fire",
+      "url": "https://open.spotify.com/track/6i2abtBneioUeBlLVg3ncx"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "I Know I Am",
-        "url": "https://open.spotify.com/album/0n8t233j9SxfeORXpC9msV"
-      },
-      "artists": [
-        {
-          "name": "Basiil",
-          "url": "https://open.spotify.com/artist/1KOeTyRjoGl0MPu4NRklMV"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        }
-      ],
-      "duration_ms": 156961,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/4nZrMIPiY3Ti2OdsQkOb8I"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 220894,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "I Know I Am",
+        "url": "https://open.spotify.com/album/0n8t233j9SxfeORXpC9msV"
+      },
+      "artists": [
+        {
+          "name": "Basiil",
+          "url": "https://open.spotify.com/artist/1KOeTyRjoGl0MPu4NRklMV"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 156961,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4nZrMIPiY3Ti2OdsQkOb8I"
     },
     {
       "added_at": "2023-10-27 00:01:00",

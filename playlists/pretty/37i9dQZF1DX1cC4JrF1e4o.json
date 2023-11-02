@@ -1,12 +1,12 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 375556,
+  "num_followers": 375767,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmM0ZTk5Y2EyODgxMTZmYWEwOWI1YzIxZDRmOTExNTQyOTdjZWU1",
+  "snapshot_id": "MCwxOTY2ZDdjYWY0ZmUxNWEzMGMzYjg5MzljNWQyYTBhMTliNzQwMGUy",
   "tracks": [
     {
       "added_at": "2023-10-24 04:44:54",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "My Cherie",
-        "url": "https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0"
-      },
-      "artists": [
-        {
-          "name": "Al Martino",
-          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "Spanish Eyes",
-      "url": "https://open.spotify.com/track/55Z0KHofKqhOMIOygAVXxm"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
         "name": "Blossom Dearie (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 133666,
       "name": "'Deed I Do",
       "url": "https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "My Cherie",
+        "url": "https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0"
+      },
+      "artists": [
+        {
+          "name": "Al Martino",
+          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "Spanish Eyes",
+      "url": "https://open.spotify.com/track/55Z0KHofKqhOMIOygAVXxm"
     },
     {
       "added_at": "2023-10-24 04:44:54",

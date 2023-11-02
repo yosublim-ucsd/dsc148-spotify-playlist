@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Yebba
 
-1,700 songs - 3 day 18 hr 30 min
+1,701 songs - 3 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -829,7 +829,7 @@
 | [Level Remix](https://open.spotify.com/track/4b8wvyeJqEEzuVkXmwkB8k) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Spotify Singles](https://open.spotify.com/album/0cG8Sv80ABlYVGf20D0AAf) | 4:15 | 2023-08-04 | 2023-09-30 |
 | [Leveled](https://open.spotify.com/track/5sgC12av64mTU25aZSL64J) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z) | 5:53 | 2022-09-23 | 2022-11-05 |
 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2022-04-29 | 2022-07-02 |
-| [LIE LIE LIE!](https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [LIE LIE LIE!](https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS) | 2:28 | 2023-10-23 |  |
+| [LIE LIE LIE!](https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [LIE LIE LIE!](https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS) | 2:28 | 2023-10-23 |  |
 | [Lie Like That](https://open.spotify.com/track/6NaMQFeEI19WkQET5hZE0y) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [Lie Like That](https://open.spotify.com/album/5hNZHSZQx91zgMtxYnVp7N) | 2:47 | 2023-02-10 | 2023-04-01 |
 | [Lie To Me](https://open.spotify.com/track/7tvheBdRDxyvGXdyZ1Vxwu) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Lie To Me](https://open.spotify.com/album/0FYGDIAjxej8QVilUlN5Aw) | 2:08 | 2023-10-13 |  |
 | [Lie To Me](https://open.spotify.com/track/2jnKTP2gpVFTSBEmJ9aCrj) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Lie To Me](https://open.spotify.com/album/09D2NiluDpc2HOWgppKiNV) | 2:48 | 2023-03-17 | 2023-05-20 |
@@ -1576,7 +1576,8 @@
 | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 | 2022-09-23 | 2022-11-05 |
 | [VICES](https://open.spotify.com/track/1CfVpNo9PPCdv8akjNVBWQ) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [VICES](https://open.spotify.com/album/1i2GJKmbbcSz8cMeSV7BPZ) | 3:03 | 2022-04-22 | 2022-05-21 |
 | [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 | 2023-06-16 | 2023-07-22 |
-| [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 | 2023-10-27 |  |
+| [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 | 2023-10-27 | 2023-11-02 |
+| [Violet](https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3DR4H81NkCmYBKgq1vOQ3n) | 7:18 | 2023-10-27 |  |
 | [Void](https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Ember](https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN) | 3:16 | 2023-03-24 | 2023-06-10 |
 | [W.I.A \(Where I’m At\)](https://open.spotify.com/track/2FSo1Jjt0MjdGMwgFxcrGs) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [W.I.A \(Where I’m At\)](https://open.spotify.com/album/3kkHpK3tLoh18gFzDfALPu) | 3:07 | 2023-06-30 | 2023-09-16 |
 | [W8](https://open.spotify.com/track/2Bpky4PIUsFM5RetNZk1w1) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf), [DrewTheRew](https://open.spotify.com/artist/6v88vKZue57e76Pes3aZkv) | [W8](https://open.spotify.com/album/570MYwKWpYzH9WDITiHcb7) | 3:40 | 2023-04-14 | 2023-05-21 |

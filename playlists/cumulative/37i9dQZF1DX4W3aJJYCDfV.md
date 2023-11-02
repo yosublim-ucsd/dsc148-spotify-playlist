@@ -4,7 +4,7 @@
 
 > Brand new music from Taylor Swift \(pictured\), Nathan Dawe, Rema and more!
 
-6,876 songs - 15 day 11 hr 43 min
+6,877 songs - 15 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3960,7 +3960,7 @@
 | [Mother](https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Mother](https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2) | 3:13 | 2022-10-28 | 2022-11-04 |
 | [Mother](https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:27 | 2023-03-10 | 2023-03-18 |
 | [Mother](https://open.spotify.com/track/7nMCozi8HsfejnRYCHkd3s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Mother](https://open.spotify.com/album/5z8bo60OgWVwpKlpfDVtxt) | 4:06 | 2023-09-07 | 2023-09-15 |
-| [Mother Nature](https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Mother Nature](https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s) | 4:05 | 2023-10-26 |  |
+| [Mother Nature](https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Mother Nature](https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s) | 3:55 | 2023-10-26 |  |
 | [Mother Tongue](https://open.spotify.com/track/26nbjJWqDmzzZyMetpzjOP) | [Maya Law](https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6) | [Mother Tongue](https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c) | 3:24 | 2023-02-10 | 2023-02-17 |
 | [Mother's Daughter](https://open.spotify.com/track/5X0aTXZgXfhh33gfmBylIX) | [Sophie Griffiths](https://open.spotify.com/artist/1ScQHshsghfh1H0r7VXEEe) | [Mother's Daughter](https://open.spotify.com/album/4pAOiBV0DyefPYR1WKzGZQ) | 3:30 | 2023-03-24 | 2023-03-31 |
 | [Mother's Eyes](https://open.spotify.com/track/0IgXsFjZztkRI0gXckCYZw) | [Charlotte Clark](https://open.spotify.com/artist/2mp1tlha2UQUPY00PZZhI2) | [Mother's Eyes](https://open.spotify.com/album/5kU1R0UJ6LkqdhyZ4bPuid) | 2:34 | 2022-11-18 | 2022-11-25 |
@@ -6367,7 +6367,8 @@
 | [Vintage 2 \(feat\. Sal\)](https://open.spotify.com/track/6YOLs3vHOUOAcRFxsU1ulf) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf), [Sal](https://open.spotify.com/artist/046gaJaq9yTKz6SGIQU6r8) | [Vintage 2 \(feat\. Sal\)](https://open.spotify.com/album/7DxttqqNFEuVzYxRmR7Bd9) | 2:58 | 2023-03-03 | 2023-03-10 |
 | [Violence Forever?](https://open.spotify.com/track/0bFOsNsyf7PozWCyRfuMpz) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorwhat? The Best Of Razorlight](https://open.spotify.com/album/5ukcsAk1XLdl0dRIKE6D8L) | 4:05 | 2022-12-09 | 2022-12-16 |
 | [violet](https://open.spotify.com/track/3ChrPssbVddcgfmH8X3qeV) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [violet](https://open.spotify.com/album/3UnbnPEYcvY0gwycGkbMH4) | 2:58 | 2023-01-20 | 2023-01-27 |
-| [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 | 2023-10-26 |  |
+| [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 | 2023-10-26 | 2023-11-02 |
+| [Violet](https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3DR4H81NkCmYBKgq1vOQ3n) | 7:18 | 2023-10-27 |  |
 | [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 | 2023-06-01 | 2023-06-09 |
 | [vitamin d \(feat\. Ber\)](https://open.spotify.com/track/2GbZrpsLozFxZIaEFIzbBK) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw), [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [vitamin d \(feat\. Ber\)](https://open.spotify.com/album/2P73pGpu8gG8D41JF5WamR) | 2:44 | 2022-12-02 | 2022-12-09 |
 | [Vogue](https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Vogue](https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz) | 3:12 | 2023-09-07 | 2023-09-15 |

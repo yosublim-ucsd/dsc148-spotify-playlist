@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring ERNEST, Lady A, Dylan Gossett and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,752 likes - 87 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,970 likes - 87 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 21 | [Night Owl](https://open.spotify.com/track/6C098IDVsliiflMe2zTvcM) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Night Owl](https://open.spotify.com/album/5TC8CwmghUxW53H2z1uZAC) | 4:01 |
 | 22 | [Life/Love](https://open.spotify.com/track/3yKNeATTSx2nwgk7ZKFE9b) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Life/Love](https://open.spotify.com/album/7tjL7JSeFnz3Qb05xpT7uU) | 3:23 |
 | 23 | [Rural Route Kid](https://open.spotify.com/track/48YSzgbZh99bcSQRsVWEqw) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Rural Route Kid](https://open.spotify.com/album/6BxBrBaiGMVUW5w9jLgRa3) | 3:14 |
-| 24 | [On My Own](https://open.spotify.com/track/5DuaoBECCFdC0yRBftdL2i) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez), [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [On My Own](https://open.spotify.com/album/7y2SiRLJTGs9njJar66ceB) | 3:23 |
+| 24 | [On My Own \(feat\. Sean Stemaly\)](https://open.spotify.com/track/5DuaoBECCFdC0yRBftdL2i) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez), [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [On My Own \(feat\. Sean Stemaly\)](https://open.spotify.com/album/7y2SiRLJTGs9njJar66ceB) | 3:23 |
 | 25 | [Loretta](https://open.spotify.com/track/4ozY4uistUcZAZYTHH5Zxf) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Loretta](https://open.spotify.com/album/1GeZ0iCMv3xLGj8IBHVT0B) | 3:20 |
 | 26 | [I Loved You](https://open.spotify.com/track/6IRku3mWr6JhhZbabLeNOD) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [MOOD: I'm Lost In A Daydream](https://open.spotify.com/album/4qpeoZvGxUwF0uLdhiLC5W) | 2:58 |
 | 27 | [End of The Night Song](https://open.spotify.com/track/2XujkiFQrMJOeVSoYhXO2R) | [Nappy Roots](https://open.spotify.com/artist/3tCxM1rTj2qUXsiQZxvt2I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [NAPPY4LIFE, Pt\. 1](https://open.spotify.com/album/5iw1yzsYrJsS8WJhz9Uip7) | 3:42 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 86 | [California Line](https://open.spotify.com/track/0OS7U2hR23djT3yxD6bXdj) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [California Line](https://open.spotify.com/album/7zKc7KZgx3trD0qmB1Z8xb) | 3:35 |
 | 87 | ['Til The Day One Does](https://open.spotify.com/track/7hOeEAhCGCOG6hzBWp54vO) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [Promiseland](https://open.spotify.com/album/44MP986oBgL08PtTWHgY2G) | 3:22 |
 
-Snapshot ID: `MCw2MjM2YzFiNjQxMWNjZDgyNTdmMjkyZTAyMGJmMmRjNGUzYWQ1NDJk`
+Snapshot ID: `MCxmNmI1NmY3NWJmODYxMGE1ZGM1ZWEzZDAzZWM2YzZkMDkwMjkyNDlm`

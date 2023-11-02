@@ -1,12 +1,12 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: reGretGirl",
-  "num_followers": 10088,
+  "num_followers": 10111,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2Y0YzJhZDU2ZjkyOTI0MGQzZDc3ZDM0OWFkOWRiMTBjZWQyZWZj",
+  "snapshot_id": "MCxjZmYzMDUwZGQ3ZWIzZmM5YjhmYTFjZjI1MWM0NDFkM2M5NzNmZjgy",
   "tracks": [
     {
       "added_at": "2023-10-31 15:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-10-31 15:00:00",
       "album": {
-        "name": "PRIDE",
-        "url": "https://open.spotify.com/album/2NJhxr7Tt12VB7urrMuZmt"
-      },
-      "artists": [
-        {
-          "name": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
-          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
-        }
-      ],
-      "duration_ms": 246876,
-      "name": "PRIDE",
-      "url": "https://open.spotify.com/track/6YSiCQPEEEimysown5ad19"
-    },
-    {
-      "added_at": "2023-10-31 15:00:00",
-      "album": {
         "name": "\u30ce\u30c3\u30af\u30d6\u30fc\u30c4",
         "url": "https://open.spotify.com/album/6adm4VVFTHqIF4qmKbcpOd"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 227633,
       "name": "\u304d\u3089\u3081\u304f\u304d\u3082\u3061",
       "url": "https://open.spotify.com/track/1il4JWtRPTqenADdwd1nxw"
+    },
+    {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "PRIDE",
+        "url": "https://open.spotify.com/album/2NJhxr7Tt12VB7urrMuZmt"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "duration_ms": 246876,
+      "name": "PRIDE",
+      "url": "https://open.spotify.com/track/6YSiCQPEEEimysown5ad19"
     },
     {
       "added_at": "2023-10-31 15:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-31 15:00:00",
       "album": {
-        "name": "\u30d0\u30c3\u30c9\u30ea\u30d4\u30fc\u30c8\u30a8\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/2PflW869EJaNYuPaHgK6gq"
-      },
-      "artists": [
-        {
-          "name": "35.7",
-          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
-        }
-      ],
-      "duration_ms": 197604,
-      "name": "\u30d0\u30c3\u30c9\u30ea\u30d4\u30fc\u30c8\u30a8\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/0647L6JfnQWufikSR6AabW"
-    },
-    {
-      "added_at": "2023-10-31 15:00:00",
-      "album": {
         "name": "\u7d14\u7570\u6027\u4ea4\u904a",
         "url": "https://open.spotify.com/album/5RRIY9T0OriPLPweISEIF3"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 238466,
       "name": "DAY DREAM BEAT",
       "url": "https://open.spotify.com/track/3RTwBdZ4AbiIwiUwcblBCs"
+    },
+    {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "\u30d0\u30c3\u30c9\u30ea\u30d4\u30fc\u30c8\u30a8\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/2PflW869EJaNYuPaHgK6gq"
+      },
+      "artists": [
+        {
+          "name": "35.7",
+          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
+        }
+      ],
+      "duration_ms": 197604,
+      "name": "\u30d0\u30c3\u30c9\u30ea\u30d4\u30fc\u30c8\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0647L6JfnQWufikSR6AabW"
     },
     {
       "added_at": "2023-10-31 15:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-10-31 15:00:00",
       "album": {
-        "name": "Re-monolith",
-        "url": "https://open.spotify.com/album/7AJtqR3thUCneHnGKgHAAa"
-      },
-      "artists": [
-        {
-          "name": "04 Limited Sazabys",
-          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Re-monolith",
-      "url": "https://open.spotify.com/track/2P406Mp2LZ8Iqai7WAUDs3"
-    },
-    {
-      "added_at": "2023-10-31 15:00:00",
-      "album": {
         "name": "\u6ce5\u3060\u3089\u3051\u306e\u7d14\u7c8b",
         "url": "https://open.spotify.com/album/3g4yqwEncWpu08qEGmzNG3"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 259956,
       "name": "WARUNORI",
       "url": "https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx"
+    },
+    {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "Re-monolith",
+        "url": "https://open.spotify.com/album/7AJtqR3thUCneHnGKgHAAa"
+      },
+      "artists": [
+        {
+          "name": "04 Limited Sazabys",
+          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Re-monolith",
+      "url": "https://open.spotify.com/track/2P406Mp2LZ8Iqai7WAUDs3"
     },
     {
       "added_at": "2023-10-31 15:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-10-31 15:00:00",
       "album": {
-        "name": "FANFARE (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6jeDa7srx82eoknJmpBkgT"
-      },
-      "artists": [
-        {
-          "name": "SIX LOUNGE",
-          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "\u30a8\u30cb\u30b0\u30de",
-      "url": "https://open.spotify.com/track/2Z2icDPK5zM0sHNjoKbJfv"
-    },
-    {
-      "added_at": "2023-10-31 15:00:00",
-      "album": {
         "name": "Banquet",
         "url": "https://open.spotify.com/album/1mLswaDUHOOUoxgevsNs9T"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-10-31 15:00:00",
       "album": {
-        "name": "Crop",
-        "url": "https://open.spotify.com/album/1TV3g1CcsSAQcqAtkLp7Dm"
+        "name": "FANFARE (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6jeDa7srx82eoknJmpBkgT"
       },
       "artists": [
         {
-          "name": "\u30aa\u30ec\u30f3\u30b8\u30b9\u30d1\u30a4\u30cb\u30af\u30e9\u30d6",
-          "url": "https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN"
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
         }
       ],
-      "duration_ms": 234077,
-      "name": "hug.",
-      "url": "https://open.spotify.com/track/7MhElI8fkwK5W4w5o8KMQw"
+      "duration_ms": 226453,
+      "name": "\u30a8\u30cb\u30b0\u30de",
+      "url": "https://open.spotify.com/track/2Z2icDPK5zM0sHNjoKbJfv"
     },
     {
       "added_at": "2023-10-31 15:00:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 207555,
       "name": "hanauranai",
       "url": "https://open.spotify.com/track/3MSqycwh9ypAp45GaqudLo"
+    },
+    {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "Crop",
+        "url": "https://open.spotify.com/album/1TV3g1CcsSAQcqAtkLp7Dm"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30ec\u30f3\u30b8\u30b9\u30d1\u30a4\u30cb\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN"
+        }
+      ],
+      "duration_ms": 234077,
+      "name": "hug.",
+      "url": "https://open.spotify.com/track/7MhElI8fkwK5W4w5o8KMQw"
     },
     {
       "added_at": "2023-10-31 15:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-10-31 15:00:00",
       "album": {
+        "name": "Sweet sweet candy time",
+        "url": "https://open.spotify.com/album/57YQjhQNWCkmpt0OTUG9d6"
+      },
+      "artists": [
+        {
+          "name": "Mr.FanTastiC",
+          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
+        }
+      ],
+      "duration_ms": 321103,
+      "name": "Sweet sweet candy time",
+      "url": "https://open.spotify.com/track/7KIYIwWDNssdv7tsw90Z8V"
+    },
+    {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
         "name": "\u30e9\u30f4\u30a3\u30f3\u30b0",
         "url": "https://open.spotify.com/album/2pwuHsLpBLEzyH0LutULfq"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 215581,
       "name": "\u30b7\u30c6\u30a3\u30fc\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/0EcMSUsUwqI8ni7HORv7zy"
-    },
-    {
-      "added_at": "2023-10-31 15:00:00",
-      "album": {
-        "name": "Sweet sweet candy time",
-        "url": "https://open.spotify.com/album/57YQjhQNWCkmpt0OTUG9d6"
-      },
-      "artists": [
-        {
-          "name": "Mr.FanTastiC",
-          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
-        }
-      ],
-      "duration_ms": 321103,
-      "name": "Sweet sweet candy time",
-      "url": "https://open.spotify.com/track/7KIYIwWDNssdv7tsw90Z8V"
     },
     {
       "added_at": "2023-10-31 15:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-10-31 15:00:00",
       "album": {
-        "name": "NEW BORN GHOST",
-        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 207101,
-      "name": "\u82b1\u74f6",
-      "url": "https://open.spotify.com/track/4cJRvfyxLWzJKlQtuBwafi"
-    },
-    {
-      "added_at": "2023-10-31 15:00:00",
-      "album": {
         "name": "\u6771\u4eac\u30a8\u30ec\u30ad\u30c6\u30eb",
         "url": "https://open.spotify.com/album/447bOiGQKFDtJSf9Q7rlpA"
       },
@@ -1527,22 +1511,6 @@
       "duration_ms": 193333,
       "name": "\u6771\u4eac\u30a8\u30ec\u30ad\u30c6\u30eb",
       "url": "https://open.spotify.com/track/4lOkhMm3c4QfXsHTVjJljr"
-    },
-    {
-      "added_at": "2023-10-31 15:00:00",
-      "album": {
-        "name": "recall",
-        "url": "https://open.spotify.com/album/5SYk8LvAZkkxmMVHpmkliD"
-      },
-      "artists": [
-        {
-          "name": "HATAKE",
-          "url": "https://open.spotify.com/artist/0ABSeIulfcc4Rk6WYUWjH0"
-        }
-      ],
-      "duration_ms": 286402,
-      "name": "recall",
-      "url": "https://open.spotify.com/track/04Wk3MtRXqnX7iNbcqszMQ"
     },
     {
       "added_at": "2023-10-31 15:00:00",
@@ -1563,6 +1531,38 @@
     {
       "added_at": "2023-10-31 15:00:00",
       "album": {
+        "name": "NEW BORN GHOST",
+        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 207101,
+      "name": "\u82b1\u74f6",
+      "url": "https://open.spotify.com/track/4cJRvfyxLWzJKlQtuBwafi"
+    },
+    {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
+        "name": "recall",
+        "url": "https://open.spotify.com/album/5SYk8LvAZkkxmMVHpmkliD"
+      },
+      "artists": [
+        {
+          "name": "HATAKE",
+          "url": "https://open.spotify.com/artist/0ABSeIulfcc4Rk6WYUWjH0"
+        }
+      ],
+      "duration_ms": 286402,
+      "name": "recall",
+      "url": "https://open.spotify.com/track/04Wk3MtRXqnX7iNbcqszMQ"
+    },
+    {
+      "added_at": "2023-10-31 15:00:00",
+      "album": {
         "name": "\u3055\u3088u\u306a\u3089",
         "url": "https://open.spotify.com/album/4Jh1hxtZ0WbjVTnsK1KoGz"
       },
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-10-31 15:00:00",
       "album": {
-        "name": "HEDONIST",
-        "url": "https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl"
+        "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/00MN41113f1Y9c04P87puW"
       },
       "artists": [
         {
-          "name": "CVLTE",
-          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+          "name": "the paddles",
+          "url": "https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO"
         }
       ],
-      "duration_ms": 175959,
-      "name": "hedonist.",
-      "url": "https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi"
+      "duration_ms": 161027,
+      "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/0tssvHEK5o69GJtv2zhLMc"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

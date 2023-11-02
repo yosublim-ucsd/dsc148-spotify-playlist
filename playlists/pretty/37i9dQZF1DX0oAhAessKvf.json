@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 109313,
+  "num_followers": 109370,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTU3NzdiMTlmNzY4MDlmZjA4N2I1MDY4YTgyNDFjMjUxOWZjODU1",
+  "snapshot_id": "MCw4ZDViZDk5NTFiMzVkNDRjNWY0MGM4ZThlMDUxZDBmZjg2NjE1Mzdh",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -715,18 +715,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Fatal Fantassy",
-        "url": "https://open.spotify.com/album/5KjlY2iLyL9qaexUbxTGeo"
+        "name": "Playero Dj Presenta Exitos '95 / 17Th Anniversary (Underground Reggaeton Edition)",
+        "url": "https://open.spotify.com/album/1Sd1MeGVmcy4OHZq1svbdm"
       },
       "artists": [
         {
-          "name": "Dj Joe",
-          "url": "https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Playero",
+          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
         }
       ],
-      "duration_ms": 172434,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/0rLJYPOKXUe2TfngVgH0eB"
+      "duration_ms": 124921,
+      "name": "Donde Mi No Vengas",
+      "url": "https://open.spotify.com/track/3dsbpGfTrORNIo1aVCyS1q"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -771,22 +775,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Playero Dj Presenta Exitos '95 / 17Th Anniversary (Underground Reggaeton Edition)",
-        "url": "https://open.spotify.com/album/1Sd1MeGVmcy4OHZq1svbdm"
+        "name": "Fatal Fantassy",
+        "url": "https://open.spotify.com/album/5KjlY2iLyL9qaexUbxTGeo"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Playero",
-          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
+          "name": "Dj Joe",
+          "url": "https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN"
         }
       ],
-      "duration_ms": 124921,
-      "name": "Donde Mi No Vengas",
-      "url": "https://open.spotify.com/track/3dsbpGfTrORNIo1aVCyS1q"
+      "duration_ms": 172434,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/0rLJYPOKXUe2TfngVgH0eB"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -844,22 +844,6 @@
       },
       "artists": [
         {
-          "name": "Ruben Sam",
-          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
-        }
-      ],
-      "duration_ms": 123621,
-      "name": "Brutalidad",
-      "url": "https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
-      },
-      "artists": [
-        {
           "name": "Daddy Yankee",
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
@@ -883,6 +867,22 @@
       "duration_ms": 279264,
       "name": "Playero Live Radio Version",
       "url": "https://open.spotify.com/track/2FUpJIirJxB2NLkmqDucCd"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+      },
+      "artists": [
+        {
+          "name": "Ruben Sam",
+          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
+        }
+      ],
+      "duration_ms": 123621,
+      "name": "Brutalidad",
+      "url": "https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -975,22 +975,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Dancehall Reggaespanol",
-        "url": "https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS"
-      },
-      "artists": [
-        {
-          "name": "Nando Boom",
-          "url": "https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "EL Desorden",
-      "url": "https://open.spotify.com/track/2byD4KjyL1FGzvldcPJUYL"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "A Mover el Culo Con el Chombo",
         "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 84192,
       "name": "Quieren Chorizo",
       "url": "https://open.spotify.com/track/25kTE35NF5YD9kR1J639Pd"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Dancehall Reggaespanol",
+        "url": "https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS"
+      },
+      "artists": [
+        {
+          "name": "Nando Boom",
+          "url": "https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "EL Desorden",
+      "url": "https://open.spotify.com/track/2byD4KjyL1FGzvldcPJUYL"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+        "name": "Dos Tiempos Bajo Un Mismo Tono",
+        "url": "https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj"
       },
       "artists": [
         {
-          "name": "Ruben Sam",
-          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        },
+        {
+          "name": "Jossie Esteban",
+          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
         }
       ],
-      "duration_ms": 161632,
-      "name": "Pers\u00edgueme",
-      "url": "https://open.spotify.com/track/2STcXIS8BHSiRsypyRA19r"
+      "duration_ms": 306373,
+      "name": "Viernes 13 - Parte 1",
+      "url": "https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1191,22 +1195,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Dos Tiempos Bajo Un Mismo Tono",
-        "url": "https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj"
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
       },
       "artists": [
         {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        },
-        {
-          "name": "Jossie Esteban",
-          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
+          "name": "Ruben Sam",
+          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
         }
       ],
-      "duration_ms": 306373,
-      "name": "Viernes 13 - Parte 1",
-      "url": "https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB"
+      "duration_ms": 161632,
+      "name": "Pers\u00edgueme",
+      "url": "https://open.spotify.com/track/2STcXIS8BHSiRsypyRA19r"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Golosa",
-        "url": "https://open.spotify.com/album/6T2JoTSWxQhqIzcauJivm3"
-      },
-      "artists": [
-        {
-          "name": "Impacto Mc",
-          "url": "https://open.spotify.com/artist/1KHgy3AlIpLFkeEyRwC6Qs"
-        }
-      ],
-      "duration_ms": 194676,
-      "name": "El Trenecito",
-      "url": "https://open.spotify.com/track/7IscZjDuApOs2gIFw9XaFp"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Sandunguero",
         "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 166440,
       "name": "Encendio",
       "url": "https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Golosa",
+        "url": "https://open.spotify.com/album/6T2JoTSWxQhqIzcauJivm3"
+      },
+      "artists": [
+        {
+          "name": "Impacto Mc",
+          "url": "https://open.spotify.com/artist/1KHgy3AlIpLFkeEyRwC6Qs"
+        }
+      ],
+      "duration_ms": 194676,
+      "name": "El Trenecito",
+      "url": "https://open.spotify.com/track/7IscZjDuApOs2gIFw9XaFp"
     },
     {
       "added_at": "2021-12-20 17:02:25",

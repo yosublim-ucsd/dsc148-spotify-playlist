@@ -956,7 +956,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 141334,
       "name": "ALL MY FELLAS",
       "url": "https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU"
@@ -11084,7 +11084,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 134853,
-      "name": "Le Monde",
+      "name": "Le Monde - From Talk to Me",
       "url": "https://open.spotify.com/track/424DkevE18QJazwlljiTD4"
     },
     {
@@ -12826,6 +12826,28 @@
       "duration_ms": 208853,
       "name": "Melting",
       "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
+    },
+    {
+      "album": {
+        "name": "Radical $uicide",
+        "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122253,
+      "name": "Memoirs of a Gorilla",
+      "url": "https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ"
     },
     {
       "album": {
@@ -16662,7 +16684,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 218880,
       "name": "Reminder",
       "url": "https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI"
@@ -17448,7 +17470,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
@@ -21882,7 +21904,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUvVRFYN2Rp.md) - [plain]
 
 > All songs from South Korean hip\-hop TV show 'Show Me The Money\(쇼미더머니\)', Cover: Gwangil Jo\(조광일\) \- SMTM10 Winner
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,626 likes - 248 songs - 16 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,701 likes - 248 songs - 16 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,7 +220,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUvVRFYN2Rp.md) - [plain]
 | 210 | [Forever \(Prod\. By GRAY\)](https://open.spotify.com/track/4wFAvJ6hmcjEJPUw3ap2CM) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Show Me the Money 5 Episode 3](https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA) | 4:21 |
 | 211 | [Horangnabi](https://open.spotify.com/track/4UpW2eRZ5EzCz8lxo0r4f1) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Gill](https://open.spotify.com/artist/4i553Iv5LVmL8kiiiwbcVo), [Rhythm Power](https://open.spotify.com/artist/5gak9sIzatz00aPsLdHVUW), [김흥국](https://open.spotify.com/artist/5nh6A7BiGqgz7o7LwzCbcU) | [Show Me the Money 5 Episode 3](https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA) | 3:50 |
 | 212 | [Going Home](https://open.spotify.com/track/4eZRWCGNDv0AJAIb5douAe) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Gun](https://open.spotify.com/artist/5X2qBbPoIF30jC9XZU2QU6), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Show Me the Money 5 Episode 2](https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t) | 3:58 |
-| 213 | [Comfortable \(feat\. GRAY, Simon Dominic\)](https://open.spotify.com/track/6ubjhLDYW0S5BetAasu8Ti) | [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [G2's Life](https://open.spotify.com/album/76bK1X3OsiDnXaZ4TkBO3W) | 4:12 |
+| 213 | [Comfortable](https://open.spotify.com/track/2lEzKOtt7q64jQZ5meZsY8) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [ONE](https://open.spotify.com/artist/36Hd8M3GV2FLpHUEDH6bCz) | [Show Me the Money 5 Episode 2](https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t) | 4:12 |
 | 214 | [Who You? \(Prod\. By GRAY\)](https://open.spotify.com/track/7bshkjyxLAk0mJLWzgwWey) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [ONE](https://open.spotify.com/artist/36Hd8M3GV2FLpHUEDH6bCz), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Show Me the Money 5 Episode 1](https://open.spotify.com/album/5UQev1u3NhjIYEmq4dvYMw) | 5:06 |
 | 215 | [Air DoTheQ](https://open.spotify.com/track/4upOsnQ7cX92RhM4WYj94b) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [myunDo](https://open.spotify.com/artist/7wqsGqGaU61FzNh62mbWXz), [Flowsik](https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Show Me the Money 5 Episode 1](https://open.spotify.com/album/5UQev1u3NhjIYEmq4dvYMw) | 4:42 |
 | 216 | [$insa](https://open.spotify.com/track/45FcCgAXX520fyh4SYEdHE) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR), [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Xitsuh](https://open.spotify.com/artist/3jnbXcq2sQ6k3iKiPbQmJv) | [Show Me the Money 5 Episode 1](https://open.spotify.com/album/5UQev1u3NhjIYEmq4dvYMw) | 4:58 |
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUvVRFYN2Rp.md) - [plain]
 | 247 | [OLL' Ready](https://open.spotify.com/track/6w9Rs8nzfooc6FgpRdzQir) | [Olltii](https://open.spotify.com/artist/1l1VfoWjli9N3MJH2tAWCA) | [Show Me the Money3 Olltii vs Yuk Jidam](https://open.spotify.com/album/2TLmsCkPmQkwVi7ZaSVPrP) | 2:57 |
 | 248 | [Ulleri](https://open.spotify.com/track/7lNrWqTb1PPOxnXDs9Ayoh) | [Yuk Jidam](https://open.spotify.com/artist/3oO2KBxuGdaUP5SikvEWWB) | [Show Me the Money3 Olltii vs Yuk Jidam](https://open.spotify.com/album/2TLmsCkPmQkwVi7ZaSVPrP) | 2:24 |
 
-Snapshot ID: `MCxhNjZmNGNjZjkzNzgwM2YwMzNjMGQzMTIyMmE4NTNkMTFmYWFhM2Nl`
+Snapshot ID: `MCxlNmY5ZDY2YmQ5MTMyNzg1ZDcwMjA5ZjYxNDU2NDM5OTk1ZTljZmI0`

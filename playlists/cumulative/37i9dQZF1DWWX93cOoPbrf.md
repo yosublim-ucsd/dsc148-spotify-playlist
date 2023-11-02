@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2023\. Virlán García & Grupo Los de la O en portada.
 
-824 songs - 1 day 18 hr 20 min
+825 songs - 1 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,8 @@
 | [El Equipo del Terror](https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Equipo del Terror](https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI) | 3:24 | 2023-06-30 | 2023-08-05 |
 | [El Escocés](https://open.spotify.com/track/5tQHOTHxGXxuQA8EI9CHML) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [El Escocés](https://open.spotify.com/album/0nFB0y3LnogYpF37iicmDB) | 3:12 | 2022-09-23 | 2022-11-05 |
 | [El Espejo De Mi Apá](https://open.spotify.com/track/4o1RD4q23QYZz8Gu34pv69) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [El Espejo De Mi Apá](https://open.spotify.com/album/7kjCUQKyYvcbqbo00DREsM) | 3:11 | 2022-10-28 | 2022-12-17 |
-| [El Exitoso](https://open.spotify.com/track/5KsI0xjWupcPQTGxHDOQFW) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1grxbCfqwBpV7WR9zwun0y) | 3:42 | 2023-10-27 |  |
+| [El Exitoso](https://open.spotify.com/track/4E1QkNe7kxIzBAOvOWGgPH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/4SQZsm1mpAPJuxKW7Nlauy) | 3:42 | 2023-10-27 |  |
+| [El Exitoso](https://open.spotify.com/track/5KsI0xjWupcPQTGxHDOQFW) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1grxbCfqwBpV7WR9zwun0y) | 3:42 | 2023-10-27 | 2023-11-02 |
 | [El Fieston](https://open.spotify.com/track/3dieJ76FVSIvpVssUlME5w) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Merca Xin Corte](https://open.spotify.com/artist/7jmtZgZygzmC35GMHpcM1z) | [El Fieston](https://open.spotify.com/album/3XHXxnzLAemR2oCIZhcQpd) | 3:19 | 2023-08-22 | 2023-10-28 |
 | [El Flaco](https://open.spotify.com/track/5sWS0FUxzQvYyEuzMuGIfV) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Flaco](https://open.spotify.com/album/38Oz9fC4isKyRTx9Hcjli1) | 3:20 | 2023-10-13 |  |
 | [El Flaco](https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [El Flaco](https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd) | 2:27 | 2022-12-23 | 2023-01-14 |

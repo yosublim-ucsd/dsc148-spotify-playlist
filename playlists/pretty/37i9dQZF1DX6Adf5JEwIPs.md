@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: El Fantasma
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,971 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,230 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [El Exitoso](https://open.spotify.com/track/5KsI0xjWupcPQTGxHDOQFW) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1grxbCfqwBpV7WR9zwun0y) | 3:42 |
+| 1 | [El Exitoso](https://open.spotify.com/track/4E1QkNe7kxIzBAOvOWGgPH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/4SQZsm1mpAPJuxKW7Nlauy) | 3:42 |
 | 2 | [Modo Insano](https://open.spotify.com/track/45vfToGB9uCeIJ0nceD8Xi) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Modo Insano](https://open.spotify.com/album/7lBfRdPNlcHz3aXk9FhY5I) | 3:16 |
 | 3 | [La Firma del Flaquito](https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Firma del Flaquito](https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3) | 3:51 |
 | 4 | [Llévate](https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Llévate](https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD) | 3:10 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 31 | [El Mejor](https://open.spotify.com/track/2SFVwGVdpUc0oUD2RgCTKO) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [El Mejor](https://open.spotify.com/album/64LeTmDvC0KppjhlbwJFDi) | 3:31 |
 | 32 | [Por Tu Amor](https://open.spotify.com/track/5ZOVD6PjQiP30GqJJJauea) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [Por Tu Amor](https://open.spotify.com/album/4ffdArzu9S3Rrtk1EIXVc6) | 3:18 |
 | 33 | [Que Valga Madre](https://open.spotify.com/track/1fuKkmQBUMHrWIs1ZfwfbE) | [Grupo Alfa](https://open.spotify.com/artist/078DGCbkOWtHamc21qE0Sy), [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Que Valga Madre](https://open.spotify.com/album/0MfeRwbhDOjNeYL2YS3cWV) | 2:54 |
-| 34 | [No Soy Como Tu \(Remix\)](https://open.spotify.com/track/0vvpgtDt8kckk9v8NZ7d6U) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Los Caliz](https://open.spotify.com/artist/3AwJzPuII3ZtANOpZSbCKJ) | [No Soy Como Tu \(Remix\)](https://open.spotify.com/album/621GOUcHAH1mlNtrH0BFbs) | 3:09 |
+| 34 | [No Soy Como Tu \(Remix\)](https://open.spotify.com/track/0vvpgtDt8kckk9v8NZ7d6U) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [No Soy Como Tu \(Remix\)](https://open.spotify.com/album/621GOUcHAH1mlNtrH0BFbs) | 3:09 |
 | 35 | [Contéstame Mi Amor \- En Vivo](https://open.spotify.com/track/1mVUxI2d9iMRSyiUrUyJ33) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Contéstame Mi Amor \(En Vivo\)](https://open.spotify.com/album/63m6Q9VSlZiLK5tHIAXsx4) | 3:23 |
 | 36 | [Lo Mío No Tiene Cura \- En Vivo](https://open.spotify.com/track/5EX2WBacRZxrfj8gQVxjJk) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Lo Mío No Tiene Cura \(En Vivo\)](https://open.spotify.com/album/72EyxEl2Lv84qd8gYUa7N7) | 3:55 |
 | 37 | [El De La Naranja](https://open.spotify.com/track/1mIZqizdGk2FjjGFwONKFo) | [Lumar Perez](https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El De La Naranja](https://open.spotify.com/album/4gA59FFpps1WCuwIRWwvY5) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Polvo Soy](https://open.spotify.com/track/32j8TGCQDBzKEmYmvCCNG2) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Polvo Soy](https://open.spotify.com/album/7D0Kkh6JDZkP2fF3JWJ7rI) | 2:53 |
 | 50 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 |
 
-Snapshot ID: `MCwwYTBiZmE3NDY5YzEyNjMxZTg3NzVlM2VkOGZkMzlmZTM4MzZlMjNi`
+Snapshot ID: `MCw2YmJkYjNmMTVkMWMzNWQ3MjRhYTM3YWNhM2E1NzI5YWFmNzNlY2M1`

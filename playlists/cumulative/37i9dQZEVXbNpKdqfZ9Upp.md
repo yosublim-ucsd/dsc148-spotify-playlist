@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Honduras.
 
-1,476 songs - 3 day 10 hr 20 min
+1,477 songs - 3 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,7 +540,7 @@
 | [GRACIAS POR NADA](https://open.spotify.com/track/1U3A66OHQyTu4N2QTMsP86) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 2:57 | 2023-10-31 |  |
 | [Gravity](https://open.spotify.com/track/44LVgFZvUcBYo98vy71tvd) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Talk](https://open.spotify.com/album/5PqZvEQFscV66LOl52oGBS) | 6:20 | 2022-03-31 | 2022-04-06 |
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
-| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-03 | 2023-11-01 |
+| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-03 |  |
 | [Guanguan](https://open.spotify.com/track/4qGfvoFPX3DmooDxvM9kTs) | [Crazy Design](https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV) | [Guanguan](https://open.spotify.com/album/0vPaYmSaXflyKSRqcOEwKc) | 2:49 | 2022-06-08 | 2022-07-26 |
 | [Guarda Tu Corazón](https://open.spotify.com/track/30QzcMG2SxcOCtMNgU9mXJ) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Guarda Tu Corazón](https://open.spotify.com/album/7q0FwU5uvkrNHYpiBrMf55) | 3:57 | 2023-05-22 | 2023-05-26 |
 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-05-16 | 2023-05-21 |
@@ -808,6 +808,7 @@
 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 | 2022-02-22 | 2022-02-26 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-09-06 | 2023-09-20 |
 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 | 2022-01-28 | 2022-04-19 |
+| [Mi Kryptonita](https://open.spotify.com/track/4mWiyglEmK9eRAwMdD9tQ6) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [Talento De Vida](https://open.spotify.com/album/2z6GzbRNcGdp0cGOoaRLuv) | 3:08 | 2023-11-01 |  |
 | [Mi Nena Remix](https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mi Nena Remix](https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW) | 3:40 | 2023-04-18 | 2023-04-26 |
 | [Mi Primera Chamba](https://open.spotify.com/track/5VdMiJiobLaK7zZkN7Virq) | [Eladio chambion](https://open.spotify.com/artist/0pu2rZxTGqnfz1GB6xKKyT) | [Mi Primera Chamba](https://open.spotify.com/album/00hHsVMPA8DuPZBYiLjjqb) | 3:51 | 2023-10-31 |  |
 | [Mi Primera Chamba](https://open.spotify.com/track/73cjLNf5yqifQ5kka5xPo6) | [Tandem](https://open.spotify.com/artist/5r4KrJXWxLsbym4vjcRv1i) | [Mi Primera Chamba](https://open.spotify.com/album/6fY6Ky5QyERJCVFe0hSKJl) | 3:41 | 2023-10-25 | 2023-10-29 |
@@ -848,7 +849,7 @@
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/38DlSDrx9tgc5Gfq6y3aBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/5RB4SBhMgWr2S48npenObP) | 3:00 | 2023-02-14 | 2023-02-27 |
 | [Mora \(ALOCATE REMAKE\)](https://open.spotify.com/track/5SWRohMTnae9mrts8TAMcO) | [44musicla](https://open.spotify.com/artist/4su6k5XKfq9OaLyuudTWza) | [Mora \(ALOCATE REMAKE\)](https://open.spotify.com/album/4tVjVT03N8IgSQH4vUnR0Z) | 3:08 | 2022-08-21 | 2022-09-26 |
 | [MORE](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 3:00 | 2022-07-26 | 2023-09-04 |
-| [MORFEO](https://open.spotify.com/track/44fsHeGMWo6WgucLYeyONa) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MORFEO](https://open.spotify.com/album/2EQEyysFgYJwR1H2XpJDr3) | 3:53 | 2023-10-24 |  |
+| [MORFEO](https://open.spotify.com/track/44fsHeGMWo6WgucLYeyONa) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MORFEO](https://open.spotify.com/album/2EQEyysFgYJwR1H2XpJDr3) | 3:53 | 2023-10-24 | 2023-11-02 |
 | [MORNING](https://open.spotify.com/track/1dJhW3HRdLnySFEUhf6VRh) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [MORNING](https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q) | 2:03 | 2023-03-25 | 2023-04-12 |
 | [Morocha](https://open.spotify.com/track/5nv4ffgl1eVW7MvnEuEf31) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Morocha](https://open.spotify.com/album/32iPicZA3H69P7btglWyKh) | 2:10 | 2023-01-16 | 2023-04-24 |
 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 | 2022-05-31 | 2022-12-06 |
@@ -1008,7 +1009,7 @@
 | [Please Don't Go](https://open.spotify.com/track/4zoZQvmST8gliv9S9L8lUw) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Do You Wanna Go Party](https://open.spotify.com/album/3veSKEBvveTdMZk35f6QBs) | 3:50 | 2022-10-01 | 2022-11-08 |
 | [PLEBADA](https://open.spotify.com/track/1foNLbvX6yP0tMs3eAXspd) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Dembow Worldwide Hits Teteo 42](https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL) | 3:41 | 2023-07-04 | 2023-07-19 |
 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 | 2022-08-16 | 2022-08-20 |
-| [Poco A Poco](https://open.spotify.com/track/4loIMejzvt11s97SGVEat8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Poco A Poco](https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl) | 2:36 | 2023-10-10 |  |
+| [Poco A Poco](https://open.spotify.com/track/4loIMejzvt11s97SGVEat8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Poco A Poco](https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl) | 2:36 | 2023-10-10 | 2023-11-02 |
 | [POLARIS \- Remix](https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [POLARIS \(Remix\)](https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv) | 4:48 | 2023-07-04 | 2023-09-05 |
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-02-01 | 2022-03-21 |
 | [Polvo Sano](https://open.spotify.com/track/7nJZcBCBHo9vZbL9rycfwR) | [Rik](https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Arez](https://open.spotify.com/artist/7lkOYikCqUXJmw9mvuzojx) | [Polvo Sano](https://open.spotify.com/album/6PglDLsz2x1oOmD9xNMPuS) | 3:32 | 2023-08-08 | 2023-08-28 |

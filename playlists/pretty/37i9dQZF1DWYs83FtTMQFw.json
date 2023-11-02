@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks of today ft. Doja Cat, Drake, Burna Boy and more.",
-  "num_followers": 2258979,
+  "num_followers": 2259123,
   "original_name": "Hot Rhythmic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTBlYWM1ODkxYzBlNDI0OTg3NTYxZjExOWQ5NzZiNDNmODUzNTA5",
+  "snapshot_id": "MCxjODc1NzJlMzMwNmM0NzZiOGMzZmQwOGE5YWUzNDhhZTVjNWMyYzlj",
   "tracks": [
     {
       "added_at": "2023-10-27 04:01:00",
@@ -415,26 +415,6 @@
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Rocket Power",
-        "url": "https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 230835,
-      "name": "Turn Yo Clic Up (feat. Future)",
-      "url": "https://open.spotify.com/track/2IHdMccpnU0PGHGltqM2Sq"
     },
     {
       "added_at": "2023-10-27 04:01:00",

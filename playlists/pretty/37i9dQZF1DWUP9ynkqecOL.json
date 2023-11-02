@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 19636,
+  "num_followers": 19668,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTJhMDAwMTE1M2E0ZjUxMTNhYjlhNWZhYWM0YmY4ZDk3Y2QzMWEz",
+  "snapshot_id": "MCwzOTNjN2FjYzc5N2Q4NzljNmVlOGE2Mjk4MGU2ODhjY2JlZjYyYjZm",
   "tracks": [
     {
       "added_at": "2023-08-11 13:45:33",
@@ -423,6 +423,26 @@
     {
       "added_at": "2023-08-11 13:45:33",
       "album": {
+        "name": "Ceremonia",
+        "url": "https://open.spotify.com/album/1pbBTqGMfMnXGHDbfJurP3"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "LUVI TORRES",
+          "url": "https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ"
+        }
+      ],
+      "duration_ms": 137104,
+      "name": "Amo",
+      "url": "https://open.spotify.com/track/0lTskhjbr24P0C9kPmylF6"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
         "name": "DUALQ",
         "url": "https://open.spotify.com/album/3mvBTWoQPoiQL9axmNaEfZ"
       },
@@ -439,22 +459,6 @@
       "duration_ms": 235142,
       "name": "DUALQ",
       "url": "https://open.spotify.com/track/3zNVQ2hDCiJ5QqUiS7vVxB"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Coplita",
-      "url": "https://open.spotify.com/track/1X7DuK2wnKRwijmxtF8mYj"
     },
     {
       "added_at": "2023-08-11 13:45:33",
@@ -547,6 +551,22 @@
     {
       "added_at": "2023-08-11 13:45:33",
       "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Coplita",
+      "url": "https://open.spotify.com/track/1X7DuK2wnKRwijmxtF8mYj"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 251106,
       "name": "La Colina de la Vida (feat. Chancha V\u00eda Circuito)",
       "url": "https://open.spotify.com/track/5DyGxCgbGoU5CrR2z2nPGv"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
-        "name": "Ceremonia",
-        "url": "https://open.spotify.com/album/1pbBTqGMfMnXGHDbfJurP3"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "LUVI TORRES",
-          "url": "https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ"
-        }
-      ],
-      "duration_ms": 137104,
-      "name": "Amo",
-      "url": "https://open.spotify.com/track/0lTskhjbr24P0C9kPmylF6"
     },
     {
       "added_at": "2023-08-11 13:45:33",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-08-11 13:45:33",
       "album": {
-        "name": "Arriba Quemando el Sol",
-        "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Maryta de Humahuaca",
-          "url": "https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc"
-        }
-      ],
-      "duration_ms": 208170,
-      "name": "Arriba Quemando el Sol",
-      "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
         "name": "La Estrella",
         "url": "https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 264546,
       "name": "Antiguos Due\u00f1os de las Flechas",
       "url": "https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
+        "name": "Arriba Quemando el Sol",
+        "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        },
+        {
+          "name": "Maryta de Humahuaca",
+          "url": "https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc"
+        }
+      ],
+      "duration_ms": 208170,
+      "name": "Arriba Quemando el Sol",
+      "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
     },
     {
       "added_at": "2023-08-11 13:45:33",
@@ -807,6 +807,38 @@
     {
       "added_at": "2023-08-11 13:45:33",
       "album": {
+        "name": "Juana Azurduy",
+        "url": "https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        },
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        },
+        {
+          "name": "Estela de Carlotto",
+          "url": "https://open.spotify.com/artist/3iRYSRX3m5TOt8wz26xx32"
+        }
+      ],
+      "duration_ms": 218461,
+      "name": "Juana Azurduy",
+      "url": "https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
         "name": "Ay Palomita",
         "url": "https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk"
       },
@@ -843,38 +875,6 @@
       "duration_ms": 312000,
       "name": "Almitai - Rodrigo Gallardo Remix",
       "url": "https://open.spotify.com/track/201dBxaZWUaDlczLtZI6fT"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
-        "name": "Juana Azurduy",
-        "url": "https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        },
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        },
-        {
-          "name": "Estela de Carlotto",
-          "url": "https://open.spotify.com/artist/3iRYSRX3m5TOt8wz26xx32"
-        }
-      ],
-      "duration_ms": 218461,
-      "name": "Juana Azurduy",
-      "url": "https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn"
     },
     {
       "added_at": "2023-08-11 13:45:33",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-08-11 13:45:33",
       "album": {
-        "name": "Tierra de King Coya",
-        "url": "https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j"
-      },
-      "artists": [
-        {
-          "name": "King Coya",
-          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
-        }
-      ],
-      "duration_ms": 276029,
-      "name": "Te digo Wayno",
-      "url": "https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
         "name": "Lupuna",
         "url": "https://open.spotify.com/album/19nZKevjR88xBmIl8qXv0F"
       },
@@ -1007,22 +991,6 @@
     {
       "added_at": "2023-08-11 13:45:33",
       "album": {
-        "name": "Madre de la Sierra",
-        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
-      },
-      "artists": [
-        {
-          "name": "Porangu\u00ed",
-          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
-        }
-      ],
-      "duration_ms": 275256,
-      "name": "Madre de la Sierra",
-      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
         "name": "Truenatruena",
         "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
       },
@@ -1035,6 +1003,38 @@
       "duration_ms": 272503,
       "name": "Truenatruena",
       "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
+        "name": "Tierra de King Coya",
+        "url": "https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j"
+      },
+      "artists": [
+        {
+          "name": "King Coya",
+          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
+        }
+      ],
+      "duration_ms": 276029,
+      "name": "Te digo Wayno",
+      "url": "https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
+        "name": "Madre de la Sierra",
+        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
+      },
+      "artists": [
+        {
+          "name": "Porangu\u00ed",
+          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
+        }
+      ],
+      "duration_ms": 275256,
+      "name": "Madre de la Sierra",
+      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
     },
     {
       "added_at": "2023-08-11 13:45:33",
@@ -1055,6 +1055,30 @@
     {
       "added_at": "2023-08-11 13:45:33",
       "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT"
+      },
+      "artists": [
+        {
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+        },
+        {
+          "name": "King Coya",
+          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
+        },
+        {
+          "name": "Nan Que",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
         "name": "SUELTA",
         "url": "https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP"
       },
@@ -1067,26 +1091,6 @@
       "duration_ms": 332024,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/1b9TpQFJK0WA6V0Aap0kZT"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
-        "name": "La Monta\u00f1a Sin Nombre II",
-        "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        },
-        {
-          "name": "Raag",
-          "url": "https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF"
-        }
-      ],
-      "duration_ms": 362653,
-      "name": "CUMBIA ORIENTAL",
-      "url": "https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8"
     },
     {
       "added_at": "2023-08-11 13:45:33",
@@ -1127,30 +1131,6 @@
     {
       "added_at": "2023-08-11 13:45:33",
       "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT"
-      },
-      "artists": [
-        {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
-        },
-        {
-          "name": "King Coya",
-          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
-        },
-        {
-          "name": "Nan Que",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
         "name": "Litoraleza",
         "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 192495,
       "name": "Gurisito Cosmico",
       "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
+        "name": "La Monta\u00f1a Sin Nombre II",
+        "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        },
+        {
+          "name": "Raag",
+          "url": "https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF"
+        }
+      ],
+      "duration_ms": 362653,
+      "name": "CUMBIA ORIENTAL",
+      "url": "https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8"
     },
     {
       "added_at": "2023-08-11 13:45:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Vv Pete
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,710 likes - 99 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,726 likes - 99 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 65 | [MBAPPÉ \(Restricted & Sunset Bros Remix\) \[feat\. JAY1 & KAHUKX\]](https://open.spotify.com/track/63VejDiw2j8qvNIHWcAVwN) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [MBAPPÉ \(Restricted & Sunset Bros Remix\) \[feat\. JAY1 & KAHUKX\]](https://open.spotify.com/album/4FHgGUbR5QZxu31GYYqS3V) | 2:12 |
 | 66 | [ARMY OF DEAD](https://open.spotify.com/track/0e5e7oCJbs5S7Muhm4AW1v) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [ARMY OF DEAD](https://open.spotify.com/album/7g1HHDYEQsx13Z3cCtkohN) | 2:24 |
 | 67 | [Flashback](https://open.spotify.com/track/3VeAelsMAZSm5q8fAR8cIm) | [Benjamin](https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE) | [Harder, Faster](https://open.spotify.com/album/3LMgotL0DzrXu4pdlG578P) | 4:27 |
-| 68 | [EASY](https://open.spotify.com/track/53LiivWOyjXF6qC79hmBLp) | [King Roman](https://open.spotify.com/artist/73WOqCWqhy3BhdMzu2rrxn) | [EASY](https://open.spotify.com/album/3kFEgT6Tijh2mJKWdom1pg) | 2:48 |
+| 68 | [EASY](https://open.spotify.com/track/53LiivWOyjXF6qC79hmBLp) | [King Roman](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [EASY](https://open.spotify.com/album/3kFEgT6Tijh2mJKWdom1pg) | 2:48 |
 | 69 | [Deserve It](https://open.spotify.com/track/0RF7g1wMkAeoWPN08ZLz39) | [Brazen Barbie](https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW) | [Brand New](https://open.spotify.com/album/1had6G93RK7fsOQrE9zF1h) | 2:05 |
 | 70 | [WEH!](https://open.spotify.com/track/2qiHk1ydm9zXtnIvY9rKXa) | [AP](https://open.spotify.com/artist/1RlUsc2blY82KdHokhpxOm), [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [WEH!](https://open.spotify.com/album/0a1zBKAXkTUovBxJQaj03u) | 2:55 |
 | 71 | [Everyone Dance](https://open.spotify.com/track/4Hoxzo01LKrtFtMeY5bSM9) | [C Chef](https://open.spotify.com/artist/47hbcRk1OJXhZMvViMRwF2), [Juiceboxx](https://open.spotify.com/artist/63ogWsfipDtWKUz9IaiI33) | [Everyone Dance](https://open.spotify.com/album/08Wm53or2g05J1sxTXog9T) | 2:12 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 98 | [Let It Go](https://open.spotify.com/track/1tKII756LdsDLEjDKkwT7H) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Let It Go](https://open.spotify.com/album/3ZwhtVi5KQG8y7c079jrRQ) | 2:43 |
 | 99 | [Blacked Out Tint](https://open.spotify.com/track/24rcytWl0Fq9CmC9QU2Hns) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej) | [Blacked Out Tint](https://open.spotify.com/album/4QPr1TkGC7FLVK03uyTzQG) | 2:35 |
 
-Snapshot ID: `MCw1ZTJhZTA3ZTg1NTIzZjIzYjY5ZjFiMGU4YTk2ZDUxNDM4MDQzNWI5`
+Snapshot ID: `MCwzMTRlN2VlZjRiMTMzODcxMDczMzNiOWYwMzQ3ZmE2MGY2N2ViN2Ex`

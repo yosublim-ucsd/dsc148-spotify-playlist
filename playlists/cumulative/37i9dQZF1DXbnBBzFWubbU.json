@@ -79,6 +79,24 @@
     },
     {
       "album": {
+        "name": "Baadshah",
+        "url": "https://open.spotify.com/album/1pAYwBIeWBKAmkycWMSb5n"
+      },
+      "artists": [
+        {
+          "name": "Fake Tattoos",
+          "url": "https://open.spotify.com/artist/6Gdx8MYQZE7RHueDcYWfqx"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374420,
+      "name": "Baadshah",
+      "url": "https://open.spotify.com/track/3rgzGNfzZW7psCOvA5pkXP"
+    },
+    {
+      "album": {
         "name": "Bad Karma",
         "url": "https://open.spotify.com/album/0ST1YWy4B7KqmbVpAcVhlx"
       },
@@ -248,7 +266,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 167323,
       "name": "Chayn",
       "url": "https://open.spotify.com/track/1XdeHskCYmIwqBiotoyUDo"
@@ -274,6 +292,28 @@
       "duration_ms": 368683,
       "name": "Chidiya",
       "url": "https://open.spotify.com/track/5YBz5gtNazOtbkQjUYWTjY"
+    },
+    {
+      "album": {
+        "name": "CHOLI",
+        "url": "https://open.spotify.com/album/6R2voNJW0jULdEQC9GIOGa"
+      },
+      "artists": [
+        {
+          "name": "ShiShi",
+          "url": "https://open.spotify.com/artist/3zLlUTuczHTGLHdMnYNYX9"
+        },
+        {
+          "name": "Ben Parag",
+          "url": "https://open.spotify.com/artist/62UT2WpXc0Ru255jslrGIe"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208826,
+      "name": "CHOLI",
+      "url": "https://open.spotify.com/track/78ur2d8T40bGTeEGCPBi4e"
     },
     {
       "album": {
@@ -340,6 +380,28 @@
       "duration_ms": 247000,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/0OsuHhPPArdFzJGuIAacnN"
+    },
+    {
+      "album": {
+        "name": "Dil Toro",
+        "url": "https://open.spotify.com/album/1TORhlWJHG8n56TNZ7rqGK"
+      },
+      "artists": [
+        {
+          "name": "ZOH",
+          "url": "https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU"
+        },
+        {
+          "name": "blal bloch",
+          "url": "https://open.spotify.com/artist/2PKXVvqPC7pNaLWnDbr1RF"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Dil Toro",
+      "url": "https://open.spotify.com/track/7GSubbXMS1qDpgREc0CTay"
     },
     {
       "album": {
@@ -453,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Annem",
+        "url": "https://open.spotify.com/album/4cCQiTtZbWocNmkqQWyXcI"
+      },
+      "artists": [
+        {
+          "name": "KHAIKHAN",
+          "url": "https://open.spotify.com/artist/0EhNqmWsXRucbAgAKfac75"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422000,
+      "name": "Fly to India",
+      "url": "https://open.spotify.com/track/6HTqqZKIFCashy9aoCi6qf"
+    },
+    {
+      "album": {
         "name": "Gangster Disco",
         "url": "https://open.spotify.com/album/6C0sEFSyuNWk03faNZZJ7J"
       },
@@ -541,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Mama India",
+        "url": "https://open.spotify.com/album/0Qb4ObiRkJ17EvkYXa10ak"
+      },
+      "artists": [
+        {
+          "name": "Y do I",
+          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405120,
+      "name": "India Style",
+      "url": "https://open.spotify.com/track/2Dr4gu3NnRA8vyikJMp1pw"
+    },
+    {
+      "album": {
         "name": "Inteha-e-Ishq (Stereo Munk Reinterpretation)",
         "url": "https://open.spotify.com/album/3YZ8rrcC76UkReoBpeG2N2"
       },
@@ -604,6 +702,28 @@
       "duration_ms": 245914,
       "name": "Jaipur - Paul Arcane Remix",
       "url": "https://open.spotify.com/track/5gAQFNZfsa2cZELFVIGdvb"
+    },
+    {
+      "album": {
+        "name": "Resurface",
+        "url": "https://open.spotify.com/album/0duF0mQpA1prb73d0BTUm5"
+      },
+      "artists": [
+        {
+          "name": "Blu Attic",
+          "url": "https://open.spotify.com/artist/4yIQ0g5IyRNgJBsWsgkjIe"
+        },
+        {
+          "name": "Gatha",
+          "url": "https://open.spotify.com/artist/010FK25JoVsN1fr5iudnjv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263520,
+      "name": "Jhanak Jhanak",
+      "url": "https://open.spotify.com/track/3IvL7aRZDOsL4kcZ7qq9GV"
     },
     {
       "album": {
@@ -680,7 +800,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 329039,
       "name": "Katha",
       "url": "https://open.spotify.com/track/37e0qpDfqBtWNMVgPUcG0i"
@@ -723,6 +843,24 @@
     },
     {
       "album": {
+        "name": "The Cornershop Carnival",
+        "url": "https://open.spotify.com/album/4W7FO6XF2gV6hghCFxya5p"
+      },
+      "artists": [
+        {
+          "name": "Outlandish",
+          "url": "https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148604,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/7AlnBnY5M8aTJgLIe89B6s"
+    },
+    {
+      "album": {
         "name": "Lovers' Eyes (Mohe Pi Ki Najariya)",
         "url": "https://open.spotify.com/album/2NCe5GUQ8q8zG66E3kqnBo"
       },
@@ -738,7 +876,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 444194,
       "name": "Lovers' Eyes (Mohe Pi Ki Najariya)",
       "url": "https://open.spotify.com/track/2qp8o5yorN2asDn5dzHrBA"
@@ -971,6 +1109,50 @@
     },
     {
       "album": {
+        "name": "Gaya EP",
+        "url": "https://open.spotify.com/album/5iRIzCy1oVuia0O7binb0O"
+      },
+      "artists": [
+        {
+          "name": "Anyasa",
+          "url": "https://open.spotify.com/artist/63zQTMtwPjkb5cFFMkL4xd"
+        },
+        {
+          "name": "Bawari Basanti",
+          "url": "https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389194,
+      "name": "Nacho - Extended Mix",
+      "url": "https://open.spotify.com/track/6pRR2YZd7YxHi2FtHU8M6w"
+    },
+    {
+      "album": {
+        "name": "Gaya EP",
+        "url": "https://open.spotify.com/album/5iRIzCy1oVuia0O7binb0O"
+      },
+      "artists": [
+        {
+          "name": "Anyasa",
+          "url": "https://open.spotify.com/artist/63zQTMtwPjkb5cFFMkL4xd"
+        },
+        {
+          "name": "Amira Gill",
+          "url": "https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405034,
+      "name": "Nadiyan - Extended Mix",
+      "url": "https://open.spotify.com/track/0eEx4uqVBsYvhywfko53Nd"
+    },
+    {
+      "album": {
         "name": "NAINA",
         "url": "https://open.spotify.com/album/5fnVszPPyVaUAA3bZIBC7c"
       },
@@ -1186,7 +1368,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 127058,
       "name": "Patha Patha Gugu - Drill Remix",
       "url": "https://open.spotify.com/track/5kHSMRbZKyGwaSwNSRrQXV"
@@ -1507,6 +1689,32 @@
     },
     {
       "album": {
+        "name": "Tere Baajo",
+        "url": "https://open.spotify.com/album/4GKHmod11S1lF33zJH5LIQ"
+      },
+      "artists": [
+        {
+          "name": "Turhan James",
+          "url": "https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP"
+        },
+        {
+          "name": "Izzchughtai",
+          "url": "https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S"
+        },
+        {
+          "name": "Abdullah Kasumbi",
+          "url": "https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Tere Baajo",
+      "url": "https://open.spotify.com/track/1Giy9XohjL9TZPGfm90jim"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/4aMDiMKobwM9Wl7VFLhlL8"
       },
@@ -1610,7 +1818,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 176951,
       "name": "Urike Urike - Future Bounce Mix",
       "url": "https://open.spotify.com/track/40qRxo1EjoXQ1t52D4Vot2"

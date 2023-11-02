@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: 2018
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,896 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,995 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 20 | [Ole Melody](https://open.spotify.com/track/1rMEccgwbKt3qmAXeBqOyZ) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Salim Kumar](https://open.spotify.com/artist/51eSy32QYrEMTI6IVDtDWt), [Vishnu Vijay](https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p) | [Ole Melody \(From "Thallumaala"\)](https://open.spotify.com/album/4clqjLZyp6cmtvb0KJwFkQ) | 4:02 |
 | 21 | [Thee Minnal](https://open.spotify.com/track/0MazZtniHdlLigR01rpKEI) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Minnal Murali](https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x) | 2:12 |
 | 22 | [Jil Jil Jil](https://open.spotify.com/track/3DTtRxqlIhnWKW9WjRQnGj) | [Varsha Renjith](https://open.spotify.com/artist/2CJl46UZja5lOhOegAkQRb), [Meera Prakash](https://open.spotify.com/artist/7j6IFEqEjhyCZ7orLZDP8Y) | [Sulaikha Manzil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KEn6h4Pr8FJ3vHyS3DfvH) | 5:36 |
-| 23 | [Thiruvaavaniraavu](https://open.spotify.com/track/5G3hYU6EYSFRX4JsXxR3aF) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Meera Scharma](https://open.spotify.com/artist/6KepfgxU9OD3UJ7g9t0rAP) | [Jacobinte Swargarajyam](https://open.spotify.com/album/6g51wIHKGOMCI58H6ATja1) | 4:01 |
+| 23 | [Thiruvaavaniraavu \- From "Jacobinte Swargarajyam"](https://open.spotify.com/track/459ybAhLo329txQy9NBIqF) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Meera Scharma](https://open.spotify.com/artist/6KepfgxU9OD3UJ7g9t0rAP) | [Jacobinte Swargarajyam](https://open.spotify.com/album/4XxfZW3PEKRIgeKhPqmPzX) | 4:01 |
 | 24 | [Mandharapoove \(From "Kumari"\)](https://open.spotify.com/track/0md9xaiSP9NADGM78p6byG) | [Aavani Malhar](https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG), [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Joe Paul](https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t) | [Mandharapoove \(From "Kumari"\) \- Single](https://open.spotify.com/album/0P8tywlgqtbcAB0BZFAGN7) | 4:00 |
 | 25 | [Sita Kalyanam](https://open.spotify.com/track/2ZppB7cqsWeEdJgU1TgXxK) | [Renuka Arun](https://open.spotify.com/artist/7vJRDw4tsuuQD9vqJZQRUv), [Sooraj S\. Kurup](https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p) | [Solo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/743hktib4oAhlPFEtAIDJ4) | 4:32 |
 | 26 | [Haalaake Marunne](https://open.spotify.com/track/4r25jJbIeF3pED2ilzAmOV) | [Pushpavathy](https://open.spotify.com/artist/1ZMVOLxIxsGjltIDUawg8Z), [Ahi Ajayan](https://open.spotify.com/artist/3CPdmmOFd8yq1zXHn28UsH) | [Sulaikha Manzil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KEn6h4Pr8FJ3vHyS3DfvH) | 3:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 74 | [Malare](https://open.spotify.com/track/4Hvf9xIeJWp5p9FkJerQhN) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Rajesh Murugesan](https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf) | [Premam](https://open.spotify.com/album/5gkkfFiedjuYeCM0v4IlZu) | 5:16 |
 | 75 | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/track/0rzKjfUCW6jl9u4jOJHWns) | [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/album/7vUWdGwewQzd5S1HpgkBSC) | 3:38 |
 
-Snapshot ID: `MCxkNGNjODVjODE3YjExMTlkZjRmOWY4ZDdjNjNjYjJhMmFmYzg0MTBi`
+Snapshot ID: `MCwwMmYzODJjOGNhNzU4MGQ0NmJmMmYwYzE5NzVjNTEwODQzZjQyZmQ5`

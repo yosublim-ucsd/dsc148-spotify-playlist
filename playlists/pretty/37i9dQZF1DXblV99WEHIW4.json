@@ -1,12 +1,12 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 217154,
+  "num_followers": 218905,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTE4NmQ0OGJjMzhkMzUzMTMwZTQzM2JmMGJmMGY4MDg4MjJkNmM5",
+  "snapshot_id": "MCw5YmU1YWQ4OWIxY2FlYWMzNjc4MTBmZjBjZTBlYzBkODJhYzY0YWMy",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-02-16 19:56:13",
       "album": {
-        "name": "Enema Of The State",
-        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Adam's Song",
-      "url": "https://open.spotify.com/track/6xpDh0dXrkVp0Po1qrHUd8"
-    },
-    {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 260026,
       "name": "My Hero",
       "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "Enema Of The State",
+        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Adam's Song",
+      "url": "https://open.spotify.com/track/6xpDh0dXrkVp0Po1qrHUd8"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "All Hope Is Gone",
-        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 276146,
-      "name": "Snuff",
-      "url": "https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "The Open Door",
         "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 214706,
       "name": "Call Me When You're Sober",
       "url": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 276146,
+      "name": "Snuff",
+      "url": "https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -587,38 +587,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "From Death To Destiny",
-        "url": "https://open.spotify.com/album/3xsYrjxckl6DZiyiPr5U3D"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 242593,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Dear Agony",
-        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 258253,
-      "name": "Dear Agony",
-      "url": "https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Californication",
         "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
       },
@@ -647,6 +615,38 @@
       "duration_ms": 181837,
       "name": "mars",
       "url": "https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "From Death To Destiny",
+        "url": "https://open.spotify.com/album/3xsYrjxckl6DZiyiPr5U3D"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 242593,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Dear Agony",
+        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 258253,
+      "name": "Dear Agony",
+      "url": "https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -703,34 +703,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Disclaimer",
-        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
         }
       ],
-      "duration_ms": 257600,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Dear Agony",
-        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 256746,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4"
+      "duration_ms": 233436,
+      "name": "How Does It Feel?",
+      "url": "https://open.spotify.com/track/2CT85N0Rwl2UtNOYZ4gepm"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -751,18 +735,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC"
+        "name": "Disclaimer",
+        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
       },
       "artists": [
         {
-          "name": "Citizen",
-          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 233436,
-      "name": "How Does It Feel?",
-      "url": "https://open.spotify.com/track/2CT85N0Rwl2UtNOYZ4gepm"
+      "duration_ms": 257600,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -799,22 +783,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Evolution (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 284293,
-      "name": "A Reason to Fight",
-      "url": "https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 255586,
       "name": "Hereafter",
       "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Dear Agony",
+        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 256746,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Evolution (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "A Reason to Fight",
+      "url": "https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u"
     },
     {
       "added_at": "2023-02-16 19:56:13",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Roses for the Dead",
-      "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "SO WHAT?",
         "url": "https://open.spotify.com/album/50CAhOJNUPC6zAThnQNzmG"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 254500,
       "name": "ANTI-SOCIAL",
       "url": "https://open.spotify.com/track/7f6X7zERAXAbIYVLizIZ3O"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Roses for the Dead",
+      "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
     },
     {
       "added_at": "2023-02-16 19:56:13",
@@ -891,22 +891,6 @@
       "duration_ms": 277093,
       "name": "Eiley",
       "url": "https://open.spotify.com/track/03bb6AxzMre5LjZzTiLb1r"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        }
-      ],
-      "duration_ms": 179756,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -939,6 +923,22 @@
       "duration_ms": 70383,
       "name": "Nobody, Not Even the Rain",
       "url": "https://open.spotify.com/track/7lLgr9yoa1vToPYyEfZ8Dp"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 179756,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa"
     },
     {
       "added_at": "2023-02-16 19:56:13",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/07heIznr3ziWFz4nnW9xaj"
     },
     {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
-        "name": "No Good Left To Give",
-        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 189560,
-      "name": "Seneca",
-      "url": "https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v"
-    },
-    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "Blush",
@@ -1163,6 +1147,22 @@
       "duration_ms": 224840,
       "name": "Knuckles",
       "url": "https://open.spotify.com/track/0ttKGGwdONPJuVZggxzAl1"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 189560,
+      "name": "Seneca",
+      "url": "https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v"
     },
     {
       "added_at": "2022-08-25 23:00:00",

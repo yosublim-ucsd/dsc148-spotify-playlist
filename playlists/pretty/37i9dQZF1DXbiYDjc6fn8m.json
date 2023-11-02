@@ -1,12 +1,12 @@
 {
   "description": "Hora de dan\u00e7ar com os grandes hits da m\u00fasica eletr\u00f4nica/dance! Foto: Calvin Harris",
-  "num_followers": 109936,
+  "num_followers": 110227,
   "original_name": "Gold BPM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGU2N2NhM2RiMzQzZThiZmViMTZiYTRmMDNmMDhmZTRhZGVlZDY4",
+  "snapshot_id": "MCw2NzExMDMzOTE4OWVmNmVhMmZkYzQyNGNmZmZmMmVlMjc4NjgxNzFi",
   "tracks": [
     {
       "added_at": "2020-04-29 23:57:38",
@@ -291,8 +291,8 @@
     {
       "added_at": "2020-04-29 23:57:38",
       "album": {
-        "name": "Boneless (Remixes)",
-        "url": "https://open.spotify.com/album/3EJZwYDh3zfdpjw1HX4MYA"
+        "name": "Boneless",
+        "url": "https://open.spotify.com/album/3EGr7WaJM6g9UoD1S16jcg"
       },
       "artists": [
         {
@@ -310,7 +310,7 @@
       ],
       "duration_ms": 270000,
       "name": "Boneless",
-      "url": "https://open.spotify.com/track/5PZI5xTcMq8FsCcEroth7S"
+      "url": "https://open.spotify.com/track/75f4fO9adbAYJqNBKJNrxs"
     },
     {
       "added_at": "2020-04-29 23:57:38",
@@ -1106,6 +1106,10 @@
         {
           "name": "David Guetta",
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
         }
       ],
       "duration_ms": 239053,

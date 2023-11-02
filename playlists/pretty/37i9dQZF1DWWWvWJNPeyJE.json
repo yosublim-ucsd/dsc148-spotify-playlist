@@ -1,12 +1,12 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 267098,
+  "num_followers": 267579,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2U0OWFjMjEwODJkNTYwZGRiN2UzN2FiMzVkMWVkYjk1NjJhYmFk",
+  "snapshot_id": "MCw3MDgxOGMzMjQzNmU3MjZmNjdlZDhhMmNhYjlmMDYyMzE3ODRhZDNl",
   "tracks": [
     {
       "added_at": "2023-03-03 13:37:54",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 277680,
-      "name": "Earned It (Fifty Shades Of Grey)",
-      "url": "https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "4275 (Bonus Version)",
         "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 236146,
       "name": "B.E.D.",
       "url": "https://open.spotify.com/track/1B6TmCvKjC4dopBohVW51x"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 277680,
+      "name": "Earned It (Fifty Shades Of Grey)",
+      "url": "https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP"
     },
     {
       "added_at": "2023-03-03 13:37:54",

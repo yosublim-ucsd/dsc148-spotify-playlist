@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with ISOxo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,018,885 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,018,891 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [Reasons To Love You](https://open.spotify.com/track/5Ixgpdh8J1V3yCkhCrgFTb) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Reasons To Love You](https://open.spotify.com/album/6Kp4NXzXvWqXaInV2WGCd3) | 3:14 |
 | 75 | [let me go\*](https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [let me go\*](https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK) | 2:19 |
 
-Snapshot ID: `MCw3NGQwODAxYmYzMTVkYTcxNzQ3YzczZTVmNjFiNDVkY2I4MDQ4NWUz`
+Snapshot ID: `MCwxNjdmZDc0NTNmYmE5YmE5MTE4NGI1N2NmZjdhYjc5MjkzZDM3MzA5`

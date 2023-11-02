@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-217 songs - 13 hr 16 min
+218 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Ask Me Out](https://open.spotify.com/track/12VxAgB6wsdwxWoTNumEGh) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Dear X Who Doesn't Love Me, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/4jdwECuw0825yQKD5CJCHm) | 4:18 | 2022-08-08 | 2022-08-14 |
 | [babyblue](https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4) | 3:48 | 2022-07-22 | 2023-08-13 |
 | [babyblue](https://open.spotify.com/track/3G11VWK4YHumpMmJhs11pY) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/5THYTuiOWFn46iwKVfJjO2) | 3:48 | 2022-06-20 | 2022-07-29 |
-| [babyblue](https://open.spotify.com/track/5ioe7m0R08brQejeajiGJN) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/23iaZgx8uWzU3Ue5Ont2dX) | 3:48 | 2023-09-20 |  |
+| [babyblue](https://open.spotify.com/track/5ioe7m0R08brQejeajiGJN) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/23iaZgx8uWzU3Ue5Ont2dX) | 3:48 | 2023-09-20 | 2023-11-02 |
 | [Back](https://open.spotify.com/track/7Fh5m2ZoYoRcs8aNvDetIi) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 4:25 | 2022-06-20 | 2022-07-06 |
 | [Because](https://open.spotify.com/track/6dc6iZ6Htwg0T1b2m9PO2L) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Because](https://open.spotify.com/album/2k5FNmZE4XTIf5h8W5sNsJ) | 3:28 | 2022-06-20 | 2022-06-28 |
 | [Because it's you](https://open.spotify.com/track/4R6vtch9Mb2a1xkZheaDZU) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [You Are My Spring OST Part 2](https://open.spotify.com/album/0hDpePbI4nFXfX5VAgBO3J) | 3:46 | 2022-06-20 | 2022-07-23 |
@@ -146,7 +146,7 @@
 | [Rain \(feat\. Aden, Kebee\)](https://open.spotify.com/track/3aoXrvOYq3QFOe4bHWUCz1) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [Kebee](https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt) | [Rain \(feat\. Aden, Kebee\)](https://open.spotify.com/album/1wYcAlWBTHaGjKPK7KUWJs) | 3:18 | 2022-06-20 | 2022-07-23 |
 | [Rain and You](https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [HOSPITAL PLAYLIST Season2 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) | 4:22 | 2022-08-13 |  |
 | [Rain Drop](https://open.spotify.com/track/3Xm3i2teDnfh3L99wAPqcb) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 2:25 | 2022-06-20 | 2022-07-29 |
-| [Rain Drop](https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg) | 2:25 | 2022-07-22 | 2023-07-18 |
+| [Rain Drop](https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg) | 2:25 | 2022-07-22 |  |
 | [RAIN DROP \(feat\. Lee Na Eun\)](https://open.spotify.com/track/2lCOSE6b5yYQPcMFU6QJUb) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Lee Na Eun](https://open.spotify.com/artist/4zTGygjPjB8OiETW8jnsGN) | [RAIN DROP \(feat\. Lee Na Eun\)](https://open.spotify.com/album/4WcaWGK3EVqLMZ8lHGXwNj) | 3:23 | 2022-06-20 | 2022-07-28 |
 | [Rain Song](https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Rain Song](https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi) | 4:01 | 2022-07-04 |  |
 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Rain Song](https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J) | 4:03 | 2022-06-20 |  |
@@ -191,7 +191,7 @@
 | [to me](https://open.spotify.com/track/7JfPMAIDeyTyJS2chxvE4c) | [withyou](https://open.spotify.com/artist/4bxCjd47PzaXgcv6hYNicy) | [No Matter What \(Original Television Soundtrack\) Pt\. 30](https://open.spotify.com/album/1y1cZ7pxqN0a55Y2fnqWfJ) | 3:10 | 2022-07-04 | 2022-07-12 |
 | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg), [WAVY](https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV) | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3) | 4:14 | 2022-06-20 | 2022-08-04 |
 | [To\. Rain](https://open.spotify.com/track/0C8nEmMnBuF1Ud3UKjNnAs) | [Susan 수잔](https://open.spotify.com/artist/5sANAw6WVHJeOdUMJeAj3q) | [To\. Rain](https://open.spotify.com/album/783OheKtlWgUsigCBBCdHN) | 3:42 | 2022-06-29 | 2022-07-04 |
-| [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 | 2023-02-14 |  |
+| [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 | 2023-02-14 | 2023-11-02 |
 | [Traveler](https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:14 | 2022-07-04 | 2022-08-14 |
 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 | 2022-07-13 | 2022-07-21 |
 | [Umbrella](https://open.spotify.com/track/4DbVMZMVDaPgbm3ODxtOO6) | [H&D](https://open.spotify.com/artist/7lHJGLY9oGWjH6j05BLnt7) | [Umbrella](https://open.spotify.com/album/6nj3I1yqzTLd8HB4AgRzqq) | 0:29 | 2022-06-20 | 2022-07-02 |
@@ -222,6 +222,7 @@
 | [부재](https://open.spotify.com/track/5FYlzhVc0DjOjBLmVDxHeY) | [새벽두시](https://open.spotify.com/artist/3amhjUtXBmRcWRP95ZqXxg) | [부재](https://open.spotify.com/album/2u6zEun4YhmDvkuWbm6Nmc) | 2:54 | 2022-07-08 | 2022-07-14 |
 | [비 오는 날](https://open.spotify.com/track/3way1Bx5wQvuMKuMKq0I5w) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [비 오는 날](https://open.spotify.com/album/6TCx3R4b6vUMkrbQqTNJJU) | 3:57 | 2022-07-08 | 2022-07-13 |
 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 | 2022-08-13 |  |
+| [슬퍼하지마 Don't be sad](https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [슬퍼하지마 Don't be sad](https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D) | 3:30 | 2023-10-16 |  |
 | [쏟아지는 비에](https://open.spotify.com/track/7hNmfopH2QKUSeCR6EhBss) | [Jeon Joo Hong 전주홍](https://open.spotify.com/artist/1bkeDrFoCknn3oyHstfBZr) | [쏟아지는 비에](https://open.spotify.com/album/5I8lsE4Vq1DTbQQUawT284) | 4:01 | 2022-06-20 | 2022-06-26 |
 | [우산 \(feat\. 윤하\)](https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Pieces, Part One](https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO) | 5:01 | 2022-08-13 |  |
 | [위로 \(드라마 \`커피프린스 1호점\` 삽입곡\)](https://open.spotify.com/track/3GhnqwtkPibkoNvR2RXR25) | [Misty Blue](https://open.spotify.com/artist/7LyaQJxH634U3S8Xu6DDrK) | [너의 별 이름은 시리우스 B](https://open.spotify.com/album/6gz1O9yXaYpHFQmbfcqBnT) | 5:21 | 2022-07-13 | 2022-07-29 |

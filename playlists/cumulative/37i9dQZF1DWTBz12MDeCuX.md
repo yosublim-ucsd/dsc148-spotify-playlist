@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Amaru
 
-1,362 songs - 2 day 16 hr 26 min
+1,363 songs - 2 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1105,7 +1105,8 @@
 | [Stolen Dance](https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 5:13 | 2023-03-20 | 2023-04-09 |
 | [Stories](https://open.spotify.com/track/5ojRucwd93evX3j6XzIid8) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L), [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Stories](https://open.spotify.com/album/3Jpv4tjQUyOiMFtEDfDTTl) | 2:16 | 2022-06-23 | 2022-07-15 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-04 |  |
-| [Strangers \- sad acoustic version](https://open.spotify.com/track/3FdmZW1QbdYwV1Iqomtbrt) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5IbJJqixgNWbwpipRhOagt) | 3:04 | 2023-10-26 |  |
+| [Strangers \- sad acoustic version](https://open.spotify.com/track/2BRgLIB3KV9EYdUkOgDgWs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5r46y111iubU3MZRsC5ZPK) | 3:04 | 2023-10-27 |  |
+| [Strangers \- sad acoustic version](https://open.spotify.com/track/3FdmZW1QbdYwV1Iqomtbrt) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5IbJJqixgNWbwpipRhOagt) | 3:04 | 2023-10-26 | 2023-11-02 |
 | [streetsmart](https://open.spotify.com/track/0Qe3c6avosY3zD6m6nmK24) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [streetsmart](https://open.spotify.com/album/6dHxhtdsS5j3GxXbOr7T46) | 2:32 | 2023-08-31 | 2023-09-27 |
 | [sucht](https://open.spotify.com/track/2CHiLa0obXZOzUd8BzUmhI) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [sucht](https://open.spotify.com/album/2FiytmCp7Ewv6FDcyGxzQf) | 2:33 | 2023-06-01 | 2023-06-23 |
 | [sugar mommy](https://open.spotify.com/track/7nsNcz4GrjN8jZElIpEi7w) | [Colm](https://open.spotify.com/artist/78l4EfrLQMmhAvNxoGQ2UW), [Hello Hannes](https://open.spotify.com/artist/0NUCZzalRW9dNTTBzP19pi) | [sugar mommy](https://open.spotify.com/album/5HgXIYMS30bkhmISIZ5EUS) | 2:09 | 2023-03-02 | 2023-03-10 |

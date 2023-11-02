@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ramengvrl, Basboi
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,367 likes - 107 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,384 likes - 108 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,22 +98,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 88 | [Time Will Tell](https://open.spotify.com/track/5Wc1eKzbECfRnCIwNmPr5y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Time Will Tell](https://open.spotify.com/album/4hjnguQ5l9tn9tY0syzBmB) | 2:58 |
 | 89 | [TALL GRASS](https://open.spotify.com/track/15gjWTwhMqWC5U2BXzYMPJ) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [TALL GRASS](https://open.spotify.com/album/7bdOwVxARtsy2LVwbpWwVE) | 2:48 |
 | 90 | [The Tower](https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Tower](https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD) | 3:36 |
-| 91 | [Borderline](https://open.spotify.com/track/14C1wNCWXW9KZgQHCPCbWe) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [The Hype](https://open.spotify.com/album/3NJJbO7tp4poBxC7x0eoOl) | 2:54 |
-| 92 | [Jaguar](https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Jaguar](https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc) | 2:55 |
-| 93 | [Prima](https://open.spotify.com/track/4KXohqi5uNQGjz14ML17T1) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Hold](https://open.spotify.com/album/2vfUDuZSNcgAaEFthdWJg5) | 4:27 |
-| 94 | [The Robin](https://open.spotify.com/track/4yOUkUxPIjElL5wS9XQl0T) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [The Robin](https://open.spotify.com/album/6U6ZXtVbuZfRRDFJ7itwI7) | 5:20 |
-| 95 | [Wasterpiece](https://open.spotify.com/track/0SxY0AzOnS96W8qAvD2dAc) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Wasterpiece](https://open.spotify.com/album/1OgkglNXgSMZsMzSlDjOAg) | 3:11 |
-| 96 | [Blazin \(feat\. Enisa\)](https://open.spotify.com/track/75xnT9ZmnvbjdyCX3pwizB) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blazin \(feat\. Enisa\)](https://open.spotify.com/album/69rtLq7JppAFO3by5g1mNJ) | 2:07 |
-| 97 | [Dreams](https://open.spotify.com/track/3ju6CTcNuNlr2VzyQkiOZ7) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Dreams](https://open.spotify.com/album/25osRktzaln9czfz3iEyNa) | 2:53 |
-| 98 | [IRL](https://open.spotify.com/track/1TWo3biVjxcOMoJpG1u7TG) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [IRL](https://open.spotify.com/album/26OLnXoPybuXQIqWXWBCbz) | 3:01 |
-| 99 | [Tip toe](https://open.spotify.com/track/0N0bRL7uucmz8EHrqukYLv) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Tiptoe](https://open.spotify.com/album/3ZaOGN3CcaDODlENMBJLIj) | 2:37 |
-| 100 | [procrastinating](https://open.spotify.com/track/15iHiRaaYkXvpN5b8iGqDE) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [homebody](https://open.spotify.com/album/5iUZfXOCka0QcPl5KEwdKp) | 2:20 |
-| 101 | [around in the](https://open.spotify.com/track/4IHT3mAaqw5vkA2TJ0PCwH) | [iluna](https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE) | [around in the](https://open.spotify.com/album/6aSAHI9k9BZMy7ApRQyLQv) | 3:24 |
-| 102 | [123](https://open.spotify.com/track/5aHkjX3rTWGxJ4XX995GhS) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [123](https://open.spotify.com/album/5T09OPQRuNukclZIfmvuvS) | 4:04 |
-| 103 | [GO TO HELL!!!](https://open.spotify.com/track/12c3eURzh9miwevJYZBbjX) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [GO TO HELL!!!](https://open.spotify.com/album/2emQssdGVDdZ0gsf9yyzP6) | 2:36 |
-| 104 | [break](https://open.spotify.com/track/70Ao7kHuPXDg94NfMAarJm) | [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [break](https://open.spotify.com/album/5ohXBBdn3W8bSsR0TwSjOe) | 2:57 |
-| 105 | [Fallin'](https://open.spotify.com/track/0ZvNnnHAXXCO2D4RxZkaQ1) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [Fallin'](https://open.spotify.com/album/7Hsj3b5huFUBiO400NWVFX) | 3:00 |
-| 106 | [Teenage Lullaby](https://open.spotify.com/track/7kpI3t3pqbIzZEZhb6PJw6) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [Teenage Lullaby](https://open.spotify.com/album/2Lv6ncBckktg4zAV6UI5CU) | 3:02 |
-| 107 | [Twice](https://open.spotify.com/track/5jTjsHzW6S6LTT3nAzYBBR) | [Katz](https://open.spotify.com/artist/3g9k2cNSlZn5zbRT2l671q), [Crusher](https://open.spotify.com/artist/61ZPwa0WqDxnYavX166Zp8) | [Twice](https://open.spotify.com/album/2VW0ufMhLLwERmwTFJZQim) | 3:06 |
+| 91 | [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 |
+| 92 | [Borderline](https://open.spotify.com/track/14C1wNCWXW9KZgQHCPCbWe) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [The Hype](https://open.spotify.com/album/3NJJbO7tp4poBxC7x0eoOl) | 2:54 |
+| 93 | [Jaguar](https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Jaguar](https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc) | 2:55 |
+| 94 | [Prima](https://open.spotify.com/track/4KXohqi5uNQGjz14ML17T1) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Hold](https://open.spotify.com/album/2vfUDuZSNcgAaEFthdWJg5) | 4:27 |
+| 95 | [The Robin](https://open.spotify.com/track/4yOUkUxPIjElL5wS9XQl0T) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [The Robin](https://open.spotify.com/album/6U6ZXtVbuZfRRDFJ7itwI7) | 5:20 |
+| 96 | [Wasterpiece](https://open.spotify.com/track/0SxY0AzOnS96W8qAvD2dAc) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Wasterpiece](https://open.spotify.com/album/1OgkglNXgSMZsMzSlDjOAg) | 3:11 |
+| 97 | [Blazin \(feat\. Enisa\)](https://open.spotify.com/track/75xnT9ZmnvbjdyCX3pwizB) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blazin \(feat\. Enisa\)](https://open.spotify.com/album/69rtLq7JppAFO3by5g1mNJ) | 2:07 |
+| 98 | [Dreams](https://open.spotify.com/track/3ju6CTcNuNlr2VzyQkiOZ7) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Dreams](https://open.spotify.com/album/25osRktzaln9czfz3iEyNa) | 2:53 |
+| 99 | [IRL](https://open.spotify.com/track/1TWo3biVjxcOMoJpG1u7TG) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [IRL](https://open.spotify.com/album/26OLnXoPybuXQIqWXWBCbz) | 3:01 |
+| 100 | [Tip toe](https://open.spotify.com/track/0N0bRL7uucmz8EHrqukYLv) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Tiptoe](https://open.spotify.com/album/3ZaOGN3CcaDODlENMBJLIj) | 2:37 |
+| 101 | [procrastinating](https://open.spotify.com/track/15iHiRaaYkXvpN5b8iGqDE) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [homebody](https://open.spotify.com/album/5iUZfXOCka0QcPl5KEwdKp) | 2:20 |
+| 102 | [around in the](https://open.spotify.com/track/4IHT3mAaqw5vkA2TJ0PCwH) | [iluna](https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE) | [around in the](https://open.spotify.com/album/6aSAHI9k9BZMy7ApRQyLQv) | 3:24 |
+| 103 | [123](https://open.spotify.com/track/5aHkjX3rTWGxJ4XX995GhS) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [123](https://open.spotify.com/album/5T09OPQRuNukclZIfmvuvS) | 4:04 |
+| 104 | [GO TO HELL!!!](https://open.spotify.com/track/12c3eURzh9miwevJYZBbjX) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [GO TO HELL!!!](https://open.spotify.com/album/2emQssdGVDdZ0gsf9yyzP6) | 2:36 |
+| 105 | [break](https://open.spotify.com/track/70Ao7kHuPXDg94NfMAarJm) | [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [break](https://open.spotify.com/album/5ohXBBdn3W8bSsR0TwSjOe) | 2:57 |
+| 106 | [Fallin'](https://open.spotify.com/track/0ZvNnnHAXXCO2D4RxZkaQ1) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [Fallin'](https://open.spotify.com/album/7Hsj3b5huFUBiO400NWVFX) | 3:00 |
+| 107 | [Teenage Lullaby](https://open.spotify.com/track/7kpI3t3pqbIzZEZhb6PJw6) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [Teenage Lullaby](https://open.spotify.com/album/2Lv6ncBckktg4zAV6UI5CU) | 3:02 |
+| 108 | [Twice](https://open.spotify.com/track/5jTjsHzW6S6LTT3nAzYBBR) | [Katz](https://open.spotify.com/artist/3g9k2cNSlZn5zbRT2l671q), [Crusher](https://open.spotify.com/artist/61ZPwa0WqDxnYavX166Zp8) | [Twice](https://open.spotify.com/album/2VW0ufMhLLwERmwTFJZQim) | 3:06 |
 
-Snapshot ID: `MCxiYzA0MWY5YzQyOTUzNzU4NTRjMWVlYTdiNTIxMmVlNDJkYWE5ODg4`
+Snapshot ID: `MCxhODkzNGUxYjk1ODZiNDY4NGI5MDI4M2JmYzNkMzgxODhlYmQxOGFj`

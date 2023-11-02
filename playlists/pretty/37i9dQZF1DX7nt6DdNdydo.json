@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 45372,
+  "num_followers": 45403,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzMzMDQwNmRmNzI2ZjBiYzYwMDQyZDhmN2I5NTE4ZjNlZDc2Y2Vi",
+  "snapshot_id": "MCxkZjA1ZWQ1ODRkNDk5ZGU2YmNiYjE3NDM0MWFmODdmYWQ4NzgyMDg0",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -279,18 +279,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Jimmy Liggins And His Drops Of Joy",
-        "url": "https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts"
+        "name": "Jump Blue: Rockin' The Jukes",
+        "url": "https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk"
       },
       "artists": [
         {
-          "name": "Jimmy Liggins and His Drops Of Joy",
-          "url": "https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S"
+          "name": "Big 'T' Tyler",
+          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
         }
       ],
-      "duration_ms": 156733,
-      "name": "Cadillac Boogie",
-      "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
+      "duration_ms": 124333,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -311,18 +311,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Jump Blue: Rockin' The Jukes",
-        "url": "https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk"
+        "name": "Jimmy Liggins And His Drops Of Joy",
+        "url": "https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts"
       },
       "artists": [
         {
-          "name": "Big 'T' Tyler",
-          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
+          "name": "Jimmy Liggins and His Drops Of Joy",
+          "url": "https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S"
         }
       ],
-      "duration_ms": 124333,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
+      "duration_ms": 156733,
+      "name": "Cadillac Boogie",
+      "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Sax Shack Boogie",
-      "url": "https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
         "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 116933,
       "name": "Mr. Five By Five",
       "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Sax Shack Boogie",
+      "url": "https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw"
     },
     {
       "added_at": "2022-03-28 19:44:25",

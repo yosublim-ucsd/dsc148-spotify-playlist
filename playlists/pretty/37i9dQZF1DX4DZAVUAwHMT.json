@@ -1,12 +1,12 @@
 {
   "description": "The UK's biggest rock playlist. Cover: YUNGBLUD ft. Bring Me The Horizon",
-  "num_followers": 584721,
+  "num_followers": 584754,
   "original_name": "The Rock List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTg3OTkxYmMyYzEzNGM1ZjBlNzk4NWNkOWM0ZDFkYWI2YjIxZmE3",
+  "snapshot_id": "MCw3NTZlNjk1ZDQyZDUzOGEzNTMzMzUyZDk1ZWI3ZGFjODNjYjYzMmY5",
   "tracks": [
     {
       "added_at": "2023-10-26 23:00:00",
@@ -763,22 +763,6 @@
       "duration_ms": 137926,
       "name": "under (feat. phem)",
       "url": "https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
-        "name": "Atomic City",
-        "url": "https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 210842,
-      "name": "Atomic City",
-      "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
     },
     {
       "added_at": "2023-10-26 23:00:00",

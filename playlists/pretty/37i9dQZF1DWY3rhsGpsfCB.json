@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 16443,
+  "num_followers": 16477,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWI2YmUzMmQ0MjA0MWRlMGQwOTk4ZjAyNTJiMzg1NTg3ZmJkYzI2",
+  "snapshot_id": "MCw1MzMwZWFmZTQ4ZWY1ZGM5YTdmZWQ2MzM1NmZhOTVmYzRlODBmZTQ4",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "5 Star",
-        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 150280,
-      "name": "5 Star",
-      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Last Name",
         "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 121544,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 150280,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "FACETS",
+        "url": "https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 192278,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Line Of Fire",
         "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "FACETS",
-        "url": "https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 192278,
-      "name": "HIGH",
-      "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -783,6 +783,22 @@
       "duration_ms": 156428,
       "name": "Say Salud",
       "url": "https://open.spotify.com/track/3LaMO5jj65HG15NqlJsI3I"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Ma Cherie",
+        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Ma Cherie",
+      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -831,26 +847,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Shakara",
-        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Shakara",
-      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Sundress",
         "url": "https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK"
       },
@@ -871,6 +867,26 @@
       "duration_ms": 132837,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Shakara",
+        "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Shakara",
+      "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -899,38 +915,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Ma Cherie",
-        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Ma Cherie",
-      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "TROUBLE - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "TROUBLE - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Hillary Remix (feat. Pabi Cooper)",
         "url": "https://open.spotify.com/album/53Cs8CxbqCXKA4fan2XSLH"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "TROUBLE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "TROUBLE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "All the Noise",
         "url": "https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf"
-      },
-      "artists": [
-        {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
-        }
-      ],
-      "duration_ms": 184166,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "For Keeps - A COLORS SHOW",
         "url": "https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 254726,
       "name": "For Keeps - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf"
+      },
+      "artists": [
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "duration_ms": 184166,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Sarafina",
+        "url": "https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Sarafina",
+      "url": "https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0yMD9zrKIky3GRSNn2VC25"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 130679,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4O4jWAcIvbEDF6lOoW1LT5"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Sarafina",
-        "url": "https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe"
-      },
-      "artists": [
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Sarafina",
-      "url": "https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "On Yah (Intro)",
-        "url": "https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk"
+        "name": "CHAMPAGNE GIRL",
+        "url": "https://open.spotify.com/album/5C7Txmzu3t6zVrpoEhLA4S"
       },
       "artists": [
         {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
         }
       ],
-      "duration_ms": 180278,
-      "name": "On Yah - Intro",
-      "url": "https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ"
+      "duration_ms": 140833,
+      "name": "CHAMPAGNE GIRL",
+      "url": "https://open.spotify.com/track/478cS3LW0O2VL1vW0kYMKd"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "CHAMPAGNE GIRL",
-        "url": "https://open.spotify.com/album/5C7Txmzu3t6zVrpoEhLA4S"
+        "name": "On Yah (Intro)",
+        "url": "https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk"
       },
       "artists": [
         {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
         }
       ],
-      "duration_ms": 140833,
-      "name": "CHAMPAGNE GIRL",
-      "url": "https://open.spotify.com/track/478cS3LW0O2VL1vW0kYMKd"
+      "duration_ms": 180278,
+      "name": "On Yah - Intro",
+      "url": "https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Little Things I want (Sync Version)",
+        "url": "https://open.spotify.com/album/5Q52c4OQE5Tv94HhAhygb2"
+      },
+      "artists": [
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        }
+      ],
+      "duration_ms": 80000,
+      "name": "Little Things I want - Sync Version",
+      "url": "https://open.spotify.com/track/2GmDuSpcIHuAi9OCye3ZMm"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Undercover Lover",
         "url": "https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 152072,
       "name": "Undercover Lover",
       "url": "https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Little Things I want (Sync Version)",
-        "url": "https://open.spotify.com/album/5Q52c4OQE5Tv94HhAhygb2"
-      },
-      "artists": [
-        {
-          "name": "Sam Opoku",
-          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
-        }
-      ],
-      "duration_ms": 80000,
-      "name": "Little Things I want - Sync Version",
-      "url": "https://open.spotify.com/track/2GmDuSpcIHuAi9OCye3ZMm"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1351,18 +1351,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
       "artists": [
         {
           "name": "Nonso Amadi",
           "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 156771,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
+      "duration_ms": 204608,
+      "name": "Pieces (with Tay Iwar)",
+      "url": "https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1383,6 +1387,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Asali (Sweeter)",
+        "url": "https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "duration_ms": 181903,
+      "name": "Wildin'",
+      "url": "https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho"
       },
@@ -1399,22 +1419,6 @@
       "duration_ms": 145892,
       "name": "21",
       "url": "https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Asali (Sweeter)",
-        "url": "https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R"
-      },
-      "artists": [
-        {
-          "name": "Maya Amolo",
-          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
-        }
-      ],
-      "duration_ms": 181903,
-      "name": "Wildin'",
-      "url": "https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1471,22 +1475,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
       },
       "artists": [
         {
           "name": "Nonso Amadi",
           "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 204608,
-      "name": "Pieces (with Tay Iwar)",
-      "url": "https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz"
+      "duration_ms": 156771,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
     },
     {
       "added_at": "2023-10-27 00:01:00",

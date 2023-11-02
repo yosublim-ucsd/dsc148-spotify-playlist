@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: G Jones",
-  "num_followers": 892166,
+  "num_followers": 892221,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjlmODU4MDIxZGJmZGFiNmZjYzJkMzIyOWQ2MGExZWRlY2JhNjg2",
+  "snapshot_id": "MCxjMzQ0NjdlNWUwMGZlNjAzZDJiMTY4Yjk2ZDdjYTEzYjcxNjRlNzYw",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Bap U",
+        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 168206,
+      "name": "Bap U",
+      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Pour Your Heart Out (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 223561,
       "name": "Pour Your Heart Out (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Bap U",
-        "url": "https://open.spotify.com/album/4MJYvwpi2vgctW2J9k054i"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 168206,
-      "name": "Bap U",
-      "url": "https://open.spotify.com/track/4Ijr3J0lnLCGZvpXBiqCjU"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Tanglewood",
-        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "Spanish Moss",
-      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Lone Wolf",
         "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 162375,
       "name": "Birdz",
       "url": "https://open.spotify.com/track/3LEztKH305u3WRpqKdG9Ch"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Tanglewood",
+        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "duration_ms": 158961,
+      "name": "Spanish Moss",
+      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Return of House Music",
-        "url": "https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS"
-      },
-      "artists": [
-        {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
-        },
-        {
-          "name": "Elayna Boynton",
-          "url": "https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv"
-        }
-      ],
-      "duration_ms": 244302,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Reaper (feat. JID)",
         "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 164800,
       "name": "Reaper (feat. JID)",
       "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Return of House Music",
+        "url": "https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Elayna Boynton",
+          "url": "https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv"
+        }
+      ],
+      "duration_ms": 244302,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "KARMA (With Jazz Cartier)",
-        "url": "https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        },
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "KARMA (With Jazz Cartier)",
-      "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/3f3XdsftL1mF8LBTduqECp"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 260087,
       "name": "Like That",
       "url": "https://open.spotify.com/track/7MFahU9vl5TWlei936k7n6"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "KARMA (With Jazz Cartier)",
+        "url": "https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "KARMA (With Jazz Cartier)",
+      "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Leisure Season Vol. 1",
-        "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "Got Me Like",
-      "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "REDloop",
         "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 225230,
       "name": "REDloop",
       "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Leisure Season Vol. 1",
+        "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "Got Me Like",
+      "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Back Again",
+        "url": "https://open.spotify.com/album/3FfIc2lpBZu8GfVwkDQZex"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Nessly",
+          "url": "https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Back Again",
+      "url": "https://open.spotify.com/track/2PzotD3c1kEvk1xxGrvPj4"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "High Like This",
         "url": "https://open.spotify.com/album/1AHQrn7hhAuNghkFtCXEnD"
       },
@@ -1711,26 +1731,6 @@
       "duration_ms": 192725,
       "name": "High Like This",
       "url": "https://open.spotify.com/track/3Ukb1tpAsQOdUSVKAW94Cj"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Back Again",
-        "url": "https://open.spotify.com/album/3FfIc2lpBZu8GfVwkDQZex"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Nessly",
-          "url": "https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Back Again",
-      "url": "https://open.spotify.com/track/2PzotD3c1kEvk1xxGrvPj4"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1867,6 +1867,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Cartel II",
+        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Reese LAFLARE",
+          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Fatal Attraction (feat. Reese LAFLARE)",
+      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "LOUD",
         "url": "https://open.spotify.com/album/20YsYld8q3KoVj8uT7kHGK"
       },
@@ -1887,46 +1907,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "In Motion",
-        "url": "https://open.spotify.com/album/71lqyPEsdWsJhqYhylY1vy"
+        "name": "Love Hotel",
+        "url": "https://open.spotify.com/album/70Bek9HrCmMAku4HmZd0Sl"
       },
       "artists": [
         {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        },
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+          "name": "barnacle boi",
+          "url": "https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu"
         }
       ],
-      "duration_ms": 181020,
-      "name": "In Motion (feat. Reo Cragun)",
-      "url": "https://open.spotify.com/track/53d5dxYPtRLPmqPe9VpZ67"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Cartel II",
-        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Reese LAFLARE",
-          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Fatal Attraction (feat. Reese LAFLARE)",
-      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
+      "duration_ms": 203809,
+      "name": "Love Hotel",
+      "url": "https://open.spotify.com/track/3D5T9c0O7IE2uM0pU4Q5SN"
     },
     {
       "added_at": "2023-10-27 04:00:00",

@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 281253,
       "name": "Back In Love",
       "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
@@ -222,6 +222,24 @@
       "duration_ms": 138652,
       "name": "Bad Influence",
       "url": "https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa"
+    },
+    {
+      "album": {
+        "name": "beach song (demo)",
+        "url": "https://open.spotify.com/album/6WY8KFYlebPMzje7HzPFzh"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195111,
+      "name": "beach song - demo",
+      "url": "https://open.spotify.com/track/2TQEizKBJTJNJ1mHYxG6j7"
     },
     {
       "album": {

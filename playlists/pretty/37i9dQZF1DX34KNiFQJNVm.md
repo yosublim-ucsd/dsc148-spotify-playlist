@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gloria Groove, Pedro Sampaio e MC Ryan SP, Israel & Rodolffo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,920,401 likes - 98 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,919,481 likes - 98 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [Questão de Segurança \- Ao Vivo](https://open.spotify.com/track/2wmUkYi1QB8uiw7KYU2HpZ) | [Roger & Gustavo](https://open.spotify.com/artist/4FTFlQC5nmDiOgU1hcMfaI) | [Questão de Segurança \(Ao Vivo\)](https://open.spotify.com/album/5qWBRzvQ8a4WQmdMOM6I2X) | 2:29 |
 | 98 | [Me Encantou](https://open.spotify.com/track/5yjBFCJ3Tzr5X6Vq6JGFke) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Me Encantou](https://open.spotify.com/album/0ZZBgETzkoGuJuchaW9Fqr) | 2:34 |
 
-Snapshot ID: `MCw4NzM1ODQxMzE0ZGMwMGQwNmE4MzhkM2E1N2RiOWUyNjJjMTBlZThi`
+Snapshot ID: `MCxlNGE2ZjNmZDMyMzAxNzYyOWRkMmNlNmI5OWM0NjkwOGE3OTM5ZDk5`

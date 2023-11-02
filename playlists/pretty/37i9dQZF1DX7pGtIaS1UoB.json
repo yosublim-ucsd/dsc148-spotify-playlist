@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 93392,
+  "num_followers": 93438,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTdkM2NmZWMzMmQzY2YwODk1OTBmNzAyYjIzMWM2YzdkYmE0ZDU2",
+  "snapshot_id": "MCxmZjQ3NGE2NTlmNTA4ZDNmNTk2NzMyODkzYTU2Yjk2OWRjY2E1ZTlk",
   "tracks": [
     {
       "added_at": "2023-10-30 03:44:50",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-10-30 03:44:50",
       "album": {
-        "name": "\u70ed\u7231105\u00b0C\u7684\u4f60",
-        "url": "https://open.spotify.com/album/2KSk7OlWpkp6oiKXJyq4kB"
+        "name": "123\u6211\u7231\u4f60",
+        "url": "https://open.spotify.com/album/2k5jM3yRT4kHDXpOglZjSo"
       },
       "artists": [
         {
-          "name": "A Si",
-          "url": "https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI"
+          "name": "\u65b0\u4e50\u5c18\u7b26",
+          "url": "https://open.spotify.com/artist/1nv7Ro0Pu7kM3ADyxvS1ZA"
         }
       ],
-      "duration_ms": 195328,
-      "name": "\u70ed\u7231105\u00b0C\u7684\u4f60",
-      "url": "https://open.spotify.com/track/5RKWxItZvYY9wtKJuy2Hb7"
+      "duration_ms": 199530,
+      "name": "123\u6211\u7231\u4f60",
+      "url": "https://open.spotify.com/track/0F6nAVTpdghoq4CJDtxI4u"
     },
     {
       "added_at": "2023-10-30 03:44:50",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-10-30 03:44:50",
       "album": {
-        "name": "123\u6211\u7231\u4f60",
-        "url": "https://open.spotify.com/album/2k5jM3yRT4kHDXpOglZjSo"
+        "name": "\u70ed\u7231105\u00b0C\u7684\u4f60",
+        "url": "https://open.spotify.com/album/2KSk7OlWpkp6oiKXJyq4kB"
       },
       "artists": [
         {
-          "name": "\u65b0\u4e50\u5c18\u7b26",
-          "url": "https://open.spotify.com/artist/1nv7Ro0Pu7kM3ADyxvS1ZA"
+          "name": "A Si",
+          "url": "https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI"
         }
       ],
-      "duration_ms": 199530,
-      "name": "123\u6211\u7231\u4f60",
-      "url": "https://open.spotify.com/track/0F6nAVTpdghoq4CJDtxI4u"
+      "duration_ms": 195328,
+      "name": "\u70ed\u7231105\u00b0C\u7684\u4f60",
+      "url": "https://open.spotify.com/track/5RKWxItZvYY9wtKJuy2Hb7"
     },
     {
       "added_at": "2023-10-30 03:44:50",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-10-30 03:44:50",
       "album": {
-        "name": "\u7f8e",
-        "url": "https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG"
-      },
-      "artists": [
-        {
-          "name": "KIRE",
-          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "\u7f8e",
-      "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"
-    },
-    {
-      "added_at": "2023-10-30 03:44:50",
-      "album": {
         "name": "\u4e07\u6709\u5f15\u529b",
         "url": "https://open.spotify.com/album/55cnNNhAHp5JQx3fV8XqnX"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 243783,
       "name": "\u4e07\u6709\u5f15\u529b",
       "url": "https://open.spotify.com/track/7qZzCq7IxhKKZA4tIrYxxy"
+    },
+    {
+      "added_at": "2023-10-30 03:44:50",
+      "album": {
+        "name": "\u7f8e",
+        "url": "https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG"
+      },
+      "artists": [
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "\u7f8e",
+      "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"
     },
     {
       "added_at": "2023-10-30 03:44:50",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-10-30 03:44:50",
       "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU"
+      },
+      "artists": [
+        {
+          "name": "\u4e94\u5805\u60c5WOLF(S) (\u90b1\u92d2\u6fa4\u3001\u9673\u96f6\u4e5d\u3001\u9ec3\u5049\u6649\u3001\u8cf4\u664f\u99d2\u3001\u5a41\u5cfb\u78a9)",
+          "url": "https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp"
+        }
+      ],
+      "duration_ms": 206669,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL"
+    },
+    {
+      "added_at": "2023-10-30 03:44:50",
+      "album": {
         "name": "\u7535\u89c6\u5267\u300a\u4f60\u5fae\u7b11\u65f6\u5f88\u7f8e\u300b\u5f71\u89c6\u539f\u58f0\u5e26",
         "url": "https://open.spotify.com/album/3chqJvgxqZfXOhISPnJCNs"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 239000,
       "name": "Only Have Feelings For You",
       "url": "https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT"
-    },
-    {
-      "added_at": "2023-10-30 03:44:50",
-      "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU"
-      },
-      "artists": [
-        {
-          "name": "\u4e94\u5805\u60c5WOLF(S) (\u90b1\u92d2\u6fa4\u3001\u9673\u96f6\u4e5d\u3001\u9ec3\u5049\u6649\u3001\u8cf4\u664f\u99d2\u3001\u5a41\u5cfb\u78a9)",
-          "url": "https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp"
-        }
-      ],
-      "duration_ms": 206669,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL"
     },
     {
       "added_at": "2023-10-30 03:44:50",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-10-30 03:44:50",
       "album": {
+        "name": "\u5fc3\u8df3\u7684\u8bc1\u660e",
+        "url": "https://open.spotify.com/album/6dejStq75Dg4p2u1LCQA7o"
+      },
+      "artists": [
+        {
+          "name": "\u4e0d\u662f\u82b1\u706b\u5440",
+          "url": "https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd"
+        }
+      ],
+      "duration_ms": 228965,
+      "name": "\u5fc3\u8df3\u7684\u8bc1\u660e",
+      "url": "https://open.spotify.com/track/6bw3pxp4Pb5LYdRhpVKp6g"
+    },
+    {
+      "added_at": "2023-10-30 03:44:50",
+      "album": {
         "name": "\u7f8e\u4e3d\u7684\u59b3",
         "url": "https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 189004,
       "name": "\u7f8e\u4e3d\u7684\u59b3",
       "url": "https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt"
-    },
-    {
-      "added_at": "2023-10-30 03:44:50",
-      "album": {
-        "name": "\u5fc3\u8df3\u7684\u8bc1\u660e",
-        "url": "https://open.spotify.com/album/6dejStq75Dg4p2u1LCQA7o"
-      },
-      "artists": [
-        {
-          "name": "\u4e0d\u662f\u82b1\u706b\u5440",
-          "url": "https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd"
-        }
-      ],
-      "duration_ms": 228965,
-      "name": "\u5fc3\u8df3\u7684\u8bc1\u660e",
-      "url": "https://open.spotify.com/track/6bw3pxp4Pb5LYdRhpVKp6g"
     },
     {
       "added_at": "2023-10-30 03:44:50",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-10-30 03:44:50",
       "album": {
-        "name": "\u53d6\u6696 (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u53ea\u6b64\u4e00\u5bb6\u300b\u4e3b\u9898\u66f2)",
-        "url": "https://open.spotify.com/album/7Ho01QKUccrusKrE4hXGLk"
-      },
-      "artists": [
-        {
-          "name": "Tay Kewei",
-          "url": "https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2"
-        },
-        {
-          "name": "Alfred Sim",
-          "url": "https://open.spotify.com/artist/3epKmTu8QPqArqY6gEVfyS"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "\u53d6\u6696 (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u53ea\u6b64\u4e00\u5bb6\u300b\u4e3b\u9898\u66f2)",
-      "url": "https://open.spotify.com/track/6uC4jSmhIlbfVoc0ximADq"
-    },
-    {
-      "added_at": "2023-10-30 03:44:50",
-      "album": {
         "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 273950,
       "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
+    },
+    {
+      "added_at": "2023-10-30 03:44:50",
+      "album": {
+        "name": "\u76f4\u7403\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO"
+      },
+      "artists": [
+        {
+          "name": "Evan Yo",
+          "url": "https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV"
+        },
+        {
+          "name": "K.A\u5494\u5494",
+          "url": "https://open.spotify.com/artist/6We6C4fsLVl4StYXnNeZJL"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "\u76f4\u7403\u6d6a\u6f2b",
+      "url": "https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

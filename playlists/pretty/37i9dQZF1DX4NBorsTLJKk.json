@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 32459,
+  "num_followers": 32476,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWZhYmFhZWM4NzYwMTljODBiMGFkYmQ4OWI5OTBjY2NjMDdjYzk5",
+  "snapshot_id": "MCxhZDljYmM1NzMwN2I4YWVlOGE4YWE0ZmFkMjI1YWMwYWVjYjExYjA4",
   "tracks": [
     {
       "added_at": "2023-09-20 01:51:29",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
+        "name": "\u4f60\u8d70\u4e4b\u540e\u7684\u96e8\u5b63",
+        "url": "https://open.spotify.com/album/0PxczszuVunBNY7ZM08xpf"
+      },
+      "artists": [
+        {
+          "name": "en",
+          "url": "https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW"
+        }
+      ],
+      "duration_ms": 191012,
+      "name": "\u4f60\u8d70\u4e4b\u540e\u7684\u96e8\u5b63",
+      "url": "https://open.spotify.com/track/4J8vr8PSp5NcGjs1K8sTT1"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
         "name": "\u65b0\u5730\u7403",
         "url": "https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 265935,
       "name": "\u96e8\u4e0d\u505c\u3002\u6d41 - \u96fb\u8996\u5287\u300a\u7121\u795e\u4e4b\u5730\u4e0d\u4e0b\u96e8\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
-        "name": "\u4f60\u8d70\u4e4b\u540e\u7684\u96e8\u5b63",
-        "url": "https://open.spotify.com/album/0PxczszuVunBNY7ZM08xpf"
-      },
-      "artists": [
-        {
-          "name": "en",
-          "url": "https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW"
-        }
-      ],
-      "duration_ms": 191012,
-      "name": "\u4f60\u8d70\u4e4b\u540e\u7684\u96e8\u5b63",
-      "url": "https://open.spotify.com/track/4J8vr8PSp5NcGjs1K8sTT1"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u53ca\u6642\u96e8",
-        "url": "https://open.spotify.com/album/0DuU7EnkbqIhnXe8CiJsup"
-      },
-      "artists": [
-        {
-          "name": "Control T",
-          "url": "https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge"
-        }
-      ],
-      "duration_ms": 219487,
-      "name": "\u53ca\u6642\u96e8",
-      "url": "https://open.spotify.com/track/4NWujfXKRiGLv3fPRr4YQo"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u56f0\u5728\u4f60\u7684\u96e8\u5b63",
         "url": "https://open.spotify.com/album/5rS5GxnBfGh0FvxFzhviRC"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 272216,
       "name": "\u56f0\u5728\u4f60\u7684\u96e8\u5b63",
       "url": "https://open.spotify.com/track/55FH2IppgtrkshTrP5nylB"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u53ca\u6642\u96e8",
+        "url": "https://open.spotify.com/album/0DuU7EnkbqIhnXe8CiJsup"
+      },
+      "artists": [
+        {
+          "name": "Control T",
+          "url": "https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge"
+        }
+      ],
+      "duration_ms": 219487,
+      "name": "\u53ca\u6642\u96e8",
+      "url": "https://open.spotify.com/track/4NWujfXKRiGLv3fPRr4YQo"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u514b\u535c\u52d2",
-        "url": "https://open.spotify.com/album/3P400E8OP7u4dWMyCSosUn"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 289927,
-      "name": "\u96e8\u8fd8\u662f\u4e0d\u505c\u5730\u843d\u4e0b",
-      "url": "https://open.spotify.com/track/4dk1UbPeJZEYEqZzKqy98O"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u54c8\u56c9",
         "url": "https://open.spotify.com/album/7BL07XyqJqNjv2HU3lK7zr"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 275863,
       "name": "\u4e0b\u96e8\u7684\u6642\u5019\u6703\u60f3\u4f60",
       "url": "https://open.spotify.com/track/2P5Uv7JoJSrSQLXpVsN8kP"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u514b\u535c\u52d2",
+        "url": "https://open.spotify.com/album/3P400E8OP7u4dWMyCSosUn"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 289927,
+      "name": "\u96e8\u8fd8\u662f\u4e0d\u505c\u5730\u843d\u4e0b",
+      "url": "https://open.spotify.com/track/4dk1UbPeJZEYEqZzKqy98O"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "SINGING IN THE RAIN",
-        "url": "https://open.spotify.com/album/74kYd0GlI6TQ9zurIWfN70"
-      },
-      "artists": [
-        {
-          "name": "Rainie Yang",
-          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
-        }
-      ],
-      "duration_ms": 228088,
-      "name": "SINGING IN THE RAIN",
-      "url": "https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
         "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 265760,
       "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
       "url": "https://open.spotify.com/track/4w1ios6mGj4BEadg1jSiCL"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "SINGING IN THE RAIN",
+        "url": "https://open.spotify.com/album/74kYd0GlI6TQ9zurIWfN70"
+      },
+      "artists": [
+        {
+          "name": "Rainie Yang",
+          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
+        }
+      ],
+      "duration_ms": 228088,
+      "name": "SINGING IN THE RAIN",
+      "url": "https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u91d1\u667a\u5a1f\u7d93\u5178\u91cd\u751f\u8f2f",
-        "url": "https://open.spotify.com/album/1HaU6ost9P8XkC9D6wXNBC"
-      },
-      "artists": [
-        {
-          "name": "\u5a03\u5a03",
-          "url": "https://open.spotify.com/artist/6S8MrxRafKB4y6qUz8xKCg"
-        }
-      ],
-      "duration_ms": 289226,
-      "name": "\u5927\u96e8",
-      "url": "https://open.spotify.com/track/2U2wahaZnYyExiJkpgHmU1"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "EmptyORio",
         "url": "https://open.spotify.com/album/0Jh3xk4JvrzI4KFSvzo9tx"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 172000,
       "name": "\u96e8",
       "url": "https://open.spotify.com/track/0Ou6DX7cbRYrofS4gLe88v"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u91d1\u667a\u5a1f\u7d93\u5178\u91cd\u751f\u8f2f",
+        "url": "https://open.spotify.com/album/1HaU6ost9P8XkC9D6wXNBC"
+      },
+      "artists": [
+        {
+          "name": "\u5a03\u5a03",
+          "url": "https://open.spotify.com/artist/6S8MrxRafKB4y6qUz8xKCg"
+        }
+      ],
+      "duration_ms": 289226,
+      "name": "\u5927\u96e8",
+      "url": "https://open.spotify.com/track/2U2wahaZnYyExiJkpgHmU1"
     },
     {
       "added_at": "2023-09-20 01:51:29",

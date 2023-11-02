@@ -3530,10 +3530,40 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 270847,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/0OelgOpyjbEyc1agABKR4P"
+    },
+    {
+      "album": {
+        "name": "4 Wheel Drive II",
+        "url": "https://open.spotify.com/album/6sPX5k3R9v6prRyG3HSttD"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Michael Wollny",
+          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
+        },
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Wolfgang Haffner",
+          "url": "https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270847,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/66IhdjAa4bWFnRh1Edo0HN"
     },
     {
       "album": {

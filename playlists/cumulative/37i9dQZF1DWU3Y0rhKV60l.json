@@ -700,7 +700,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 176000,
       "name": "Rolling Waves and Rockpools",
       "url": "https://open.spotify.com/track/1db2CHgoX19tKKu2p8Zbu2"
@@ -1352,6 +1352,24 @@
       "duration_ms": 158830,
       "name": "Windy Beach 3",
       "url": "https://open.spotify.com/track/7ge6TRJoEc97N5Aa3rS59U"
+    },
+    {
+      "album": {
+        "name": "Windy Beaches",
+        "url": "https://open.spotify.com/album/5D7fwCIheOaP2aBPha6I7U"
+      },
+      "artists": [
+        {
+          "name": "Nassa Studios",
+          "url": "https://open.spotify.com/artist/3eGvDj3BfP3VSPaZinrZWJ"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185434,
+      "name": "Windy Ocean Beach",
+      "url": "https://open.spotify.com/track/1tryCsGCA3oKoVOxR96SvE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU3Y0rhKV60l"

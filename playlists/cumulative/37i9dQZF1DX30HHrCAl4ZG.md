@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring new music by Mannequin Pussy
 
-1,243 songs - 2 day 19 hr 51 min
+1,244 songs - 2 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,8 +238,9 @@
 | [Chloe](https://open.spotify.com/track/4U8VEq1Eu4FdkgIp9xkgMl) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Chloe](https://open.spotify.com/album/3YYOxhWOHWlMXIgIUMMl0A) | 4:37 | 2022-05-26 | 2022-07-09 |
 | [CIGARETTES](https://open.spotify.com/track/1xJBz9XFCMZJiy6Mc4XrgC) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [CIGARETTES](https://open.spotify.com/album/6iBfLlPGfEmgjF8HG9OkJd) | 2:04 | 2023-07-21 | 2023-08-10 |
 | [CIGARETTES](https://open.spotify.com/track/3mU9L9qqhMxRbXgMXUncig) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 2:04 | 2023-07-21 |  |
+| [Circles](https://open.spotify.com/track/2t3DvNLlf0gvprC5cMmpJM) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/67erSRNw4PL7t6kO0lODOH) | 3:33 | 2023-10-27 |  |
 | [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 | 2023-07-28 | 2023-08-15 |
-| [Circles](https://open.spotify.com/track/5uISR8YsSSO7eEQgoaXrXV) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD) | 3:33 | 2023-07-28 |  |
+| [Circles](https://open.spotify.com/track/5uISR8YsSSO7eEQgoaXrXV) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD) | 3:33 | 2023-07-28 | 2023-11-02 |
 | [Clandestino](https://open.spotify.com/track/0aGZXenXxYlbNuJypCHLgT) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [\[redacted\]](https://open.spotify.com/album/25TYH4rc3INhrbHtmAxo9q) | 2:46 | 2022-10-14 | 2022-11-12 |
 | [Clear Bones](https://open.spotify.com/track/21NVIBYBZIp7oa0OONZBZo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 2:46 | 2021-08-10 | 2022-04-20 |
 | [Close Quarters](https://open.spotify.com/track/7eCpxZdpP7kz9j2OUJLbpd) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Close Quarters](https://open.spotify.com/album/4JEizeJf7M3cbLEzbtmxif) | 3:40 | 2023-10-20 |  |

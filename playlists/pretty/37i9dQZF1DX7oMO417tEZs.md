@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. Cover: Yaeger
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,920 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,963 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 68 | [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 |
 | 69 | [Estrogen](https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Estrogen](https://open.spotify.com/album/0qPh5Xy3MnB213BYGmKCwE) | 3:38 |
 | 70 | [Sirens](https://open.spotify.com/track/7q8SkgoaiLteTuzjblIvrQ) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Sirens](https://open.spotify.com/album/3AJLYY6SareaAq6U3APB5r) | 2:54 |
-| 71 | [Nostalgie](https://open.spotify.com/track/5Y6rAybIKWexRGx2DoLnmA) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Nostalgie](https://open.spotify.com/album/6VPoJ7iW330fKJ1mJsg2pt) | 3:16 |
+| 71 | [Nostalgie](https://open.spotify.com/track/59P7LifAtqA1rgmeztU6cU) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Souvenirs](https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi) | 3:16 |
 | 72 | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 |
 | 73 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 |
 | 74 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [the moves](https://open.spotify.com/track/121Kzji5Fa2d1qUx7c5aDn) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [the moves](https://open.spotify.com/album/3ofgvl8eypgF4s6MTZLQkg) | 2:45 |
 | 100 | [DOA](https://open.spotify.com/track/5O6OvEmhWKKt6Jpkq4B4g3) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [CURB](https://open.spotify.com/album/4R9JE7rZGzc2kBzUKgfT5x) | 3:12 |
 
-Snapshot ID: `MCw5MDAxYmQ4YTc5YzY5NDZmNmQ2NjQwMTljYWVhYjQ4OGI5Y2M1ZDg3`
+Snapshot ID: `MCxjN2M0MWVlOGU4YTU3Mjk1YTIwODE0YjA5ZmIzYzE3NjQ5MWQ3YzAy`

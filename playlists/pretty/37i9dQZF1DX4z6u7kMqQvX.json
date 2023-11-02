@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 104192,
+  "num_followers": 104205,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2FjMGQ3YjJlNjA0MzU4NDIxMjRhNDAwZjRkYTk3NTBmNjRhZjYz",
+  "snapshot_id": "MCw4ZTY1YmNjZTQwNmY3NTQ4NmQ0YmM2ZjI4NDgzZTc0MmE4ZmQxOGUw",
   "tracks": [
     {
       "added_at": "2023-10-26 19:55:24",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
+        "name": "D\u00e9jame Dejarte Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 204775,
+      "name": "D\u00e9jame Dejarte Atr\u00e1s",
+      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
         "name": "A D\u00f3nde Vamos?",
         "url": "https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 202230,
       "name": "A D\u00f3nde Vamos?",
       "url": "https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
-        "name": "D\u00e9jame Dejarte Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 204775,
-      "name": "D\u00e9jame Dejarte Atr\u00e1s",
-      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
+        "name": "AYER",
+        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 235909,
+      "name": "AYER",
+      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
         "name": "INFINITO",
         "url": "https://open.spotify.com/album/3PC4MT0segdFElRt70lMH8"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 185432,
       "name": "INFINITO",
       "url": "https://open.spotify.com/track/6R36OoRubqAoD81wSDx3YZ"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
-        "name": "AYER",
-        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 235909,
-      "name": "AYER",
-      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
+        "name": "Ciclo Lunar",
+        "url": "https://open.spotify.com/album/3raEoOmR4aimfqCMK1hvUl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 213310,
+      "name": "Ciclo Lunar",
+      "url": "https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
         "name": "El bosque del recuerdo",
         "url": "https://open.spotify.com/album/4sSVCsRnVyx0m5hkBzIy1Q"
       },
@@ -1087,38 +1103,6 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
-        "name": "Ciclo Lunar",
-        "url": "https://open.spotify.com/album/3raEoOmR4aimfqCMK1hvUl"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 213310,
-      "name": "Ciclo Lunar",
-      "url": "https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
         "name": "Cursi",
         "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 193517,
       "name": "Cursi",
       "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 133711,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
-        "name": "Amor de Instagramer",
-        "url": "https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Amor de Instagramer",
-      "url": "https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
         "name": "nu love",
         "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 209513,
       "name": "nu love",
       "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
+        "name": "Amor de Instagramer",
+        "url": "https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Amor de Instagramer",
+      "url": "https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
-        "name": "17 Canciones para Autopista",
-        "url": "https://open.spotify.com/album/3WFYSQRWwDzbJxs8HR3RhC"
-      },
-      "artists": [
-        {
-          "name": "Perez",
-          "url": "https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "Ahinoa",
-      "url": "https://open.spotify.com/track/7ezFSRjTh80pqJ4xYN59yr"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
         "name": "sin dormir",
         "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 180750,
       "name": "sin dormir",
       "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
+        "name": "17 Canciones para Autopista",
+        "url": "https://open.spotify.com/album/3WFYSQRWwDzbJxs8HR3RhC"
+      },
+      "artists": [
+        {
+          "name": "Perez",
+          "url": "https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "Ahinoa",
+      "url": "https://open.spotify.com/track/7ezFSRjTh80pqJ4xYN59yr"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD"
+      },
+      "artists": [
+        {
+          "name": "Cohetes",
+          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
+        }
+      ],
+      "duration_ms": 238222,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
         "name": "Perdoname amor",
         "url": "https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 202857,
       "name": "Perdoname amor",
       "url": "https://open.spotify.com/track/60lkCw09ehFMdRAjSZSi8o"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD"
-      },
-      "artists": [
-        {
-          "name": "Cohetes",
-          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
-        }
-      ],
-      "duration_ms": 238222,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
-        "name": "NI\u00d1A",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 200245,
-      "name": "NI\u00d1A",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
         "name": "Nosotros Dos",
         "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 246133,
       "name": "Nosotros Dos",
       "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
+        "name": "NI\u00d1A",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "NI\u00d1A",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
       "added_at": "2023-10-26 19:55:24",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-10-26 19:55:24",
       "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
-      },
-      "artists": [
-        {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
-        }
-      ],
-      "duration_ms": 135942,
-      "name": "C\u00f3mo olvidar",
-      "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
-    },
-    {
-      "added_at": "2023-10-26 19:55:24",
-      "album": {
         "name": "Romance Con la Luna",
         "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 228504,
       "name": "Tripulantes",
       "url": "https://open.spotify.com/track/0wX8N4xGeF5fZnq2yB8CGl"
+    },
+    {
+      "added_at": "2023-10-26 19:55:24",
+      "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
+      },
+      "artists": [
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        }
+      ],
+      "duration_ms": 135942,
+      "name": "C\u00f3mo olvidar",
+      "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
     }
   ],
   "unique_name": "Amor Indie",

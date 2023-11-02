@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,024 likes - 168 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,097 likes - 168 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 130 | [Don't Wait Blue](https://open.spotify.com/track/22lKedeOAiGBpMOPW60PwD) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Don't Wait Blue](https://open.spotify.com/album/6HgQpYP3a9omdYczFyTjdg) | 3:05 |
 | 131 | [Creamy Piano](https://open.spotify.com/track/1a1poiToGv0nljn3Ghyeb3) | [Quaaalude](https://open.spotify.com/artist/5xjuELwoci9zRv8NKXhEIl) | [Creamy Piano](https://open.spotify.com/album/4obeyRR6Fo1YKXx3sJRt5k) | 3:16 |
 | 132 | [Piano Park](https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Piano Park](https://open.spotify.com/album/6u0PJfhQLlBRArcd2T5iNr) | 2:08 |
-| 133 | [On My Mind](https://open.spotify.com/track/7H7Usg7m2APDrNrzOZXcPH) | [Pomo](https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3) | [The Other Day](https://open.spotify.com/album/578IDaArIjl31LaVFT3VpM) | 2:27 |
+| 133 | [On My Mind](https://open.spotify.com/track/5RogUAvw4QbdvzrCWjO8NJ) | [Pomo](https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3) | [The Other Day](https://open.spotify.com/album/1m20IgKUICY4cmLMBFdtxX) | 2:27 |
 | 134 | [Home.Finally](https://open.spotify.com/track/0nYfa6KoT3LXMc6eFNR8UP) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Home.Finally](https://open.spotify.com/album/5CwbB05IOwWzIisyPNVT8U) | 2:41 |
 | 135 | [Midsommar](https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Midsommar](https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w) | 2:36 |
 | 136 | [Cloud Number Five](https://open.spotify.com/track/4ulT6vEjfMzTAxbiNYhm7C) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Cloud Number Five](https://open.spotify.com/album/2LpnJdn48aBAPVJY8xJYeB) | 3:26 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 167 | [Natural High](https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 4:58 |
 | 168 | [Paloma](https://open.spotify.com/track/549JBVNjLZt5BN6qfphBbQ) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Paloma](https://open.spotify.com/album/04mofxzUHsD7zVCAKzbpWu) | 2:37 |
 
-Snapshot ID: `MCw0MTUyNjkwYjI5ZWQ5MTk2ODUzYWE1ZWYyNmNiZTgyODkyN2VjNzI0`
+Snapshot ID: `MCw4Yjk2MzE0M2Y3NzgyYTA4ZThiNTIyNTJkMDFmNjU2ZTJhNzRhZDRh`

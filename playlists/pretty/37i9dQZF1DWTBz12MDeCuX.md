@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Amaru
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,516 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,753 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 63 | [Schmutzfilm](https://open.spotify.com/track/5wxu5fRUH8lL4jUhMJiLUe) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Schmutzfilm](https://open.spotify.com/album/6nwAmzSakplPjzJx0EVKf5) | 2:27 |
 | 64 | [Tief im Wald](https://open.spotify.com/track/5Nzt7aMMPeIONAu9jhQ3gl) | [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9), [Maxlion](https://open.spotify.com/artist/6tLxBWzUwqy8DdZuiidbuo), [BroyS](https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO) | [Tief im Wald](https://open.spotify.com/album/2QYpD1JPvjmBg12JeArooU) | 3:19 |
 | 65 | [Prio](https://open.spotify.com/track/2Y4NLmk9YkoarzqN30apuc) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Prio](https://open.spotify.com/album/14tJ2zxWRUDuZMFMshihdh) | 2:54 |
-| 66 | [Strangers \- sad acoustic version](https://open.spotify.com/track/3FdmZW1QbdYwV1Iqomtbrt) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5IbJJqixgNWbwpipRhOagt) | 3:04 |
+| 66 | [Strangers \- sad acoustic version](https://open.spotify.com/track/2BRgLIB3KV9EYdUkOgDgWs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5r46y111iubU3MZRsC5ZPK) | 3:04 |
 | 67 | [HASS](https://open.spotify.com/track/4rDRIKNXQ7NkdEsShjyq7M) | [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs), [can't be bought](https://open.spotify.com/artist/6aGfkA2a7j43EmYPnn3UJv) | [HASS](https://open.spotify.com/album/1R9qQhjLKPyTwDpzZdgjZE) | 2:11 |
 | 68 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 |
 | 69 | [Trips](https://open.spotify.com/track/4AAy1fIO2cn8M7mCSzcyHw) | [VibeM](https://open.spotify.com/artist/5NR56DNAECf6yIARetflYe), [Ve$](https://open.spotify.com/artist/55s15f5WknnYtr8FCwc96q), [Panto537](https://open.spotify.com/artist/0ldthdty5Iip5of3chNmOG) | [Trips](https://open.spotify.com/album/1W3hQfKTEo6qjgBtLAvUQn) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Schmetterling](https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3) | 2:00 |
 | 100 | [Paris Paris](https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Paris Paris](https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD) | 2:56 |
 
-Snapshot ID: `MCxhMzQ4NTQ5NjZiMWU2ZDQ4ZmY2NTk1MmQ5MTM3MjE1N2E0MDI5YTQ3`
+Snapshot ID: `MCxkZjY5YzI0NmExNzAyOGI5OWUzOWEyOTU2OGI2MTAzZWIyZWE2NTZh`

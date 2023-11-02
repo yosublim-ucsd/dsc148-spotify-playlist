@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Majid Jordan
 
-311 songs - 17 hr 18 min
+312 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,8 @@
 | [Us Against the World](https://open.spotify.com/track/4kic2zBTI9CWmtEfYsyOf6) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Us Against the World](https://open.spotify.com/album/3HEULxDbM2NTlTKZwogrpP) | 3:41 | 2021-12-16 | 2022-11-20 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-11-19 | 2023-03-09 |
 | [Very Few Friends](https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21) | 2:12 | 2023-03-07 | 2023-06-03 |
-| [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 | 2023-10-27 |  |
+| [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 | 2023-10-27 | 2023-11-02 |
+| [Violet](https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3DR4H81NkCmYBKgq1vOQ3n) | 7:18 | 2023-10-27 |  |
 | [Wahran](https://open.spotify.com/track/7xlrdBdz8TGSo0COvLHymc) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran](https://open.spotify.com/album/5d9W3fFbSK65pXg9Bv7VXl) | 3:51 | 2022-06-06 | 2022-06-24 |
 | [wait for you](https://open.spotify.com/track/1akQuVQVB4rPIjL6rs9fGb) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2), [Elena Hinnawi](https://open.spotify.com/artist/1ePydjBu3VYrPFNsUtOdoM) | [wait for you](https://open.spotify.com/album/5g079RFaVNf5fN2kn4wh2X) | 3:24 | 2022-10-27 | 2022-12-08 |
 | [Want You Back](https://open.spotify.com/track/5EqLtvftHcTbsmoPW2EmX0) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Want You Back](https://open.spotify.com/album/3KbBdkPsUi15Sp9C929MdP) | 2:15 | 2022-05-26 | 2022-12-08 |

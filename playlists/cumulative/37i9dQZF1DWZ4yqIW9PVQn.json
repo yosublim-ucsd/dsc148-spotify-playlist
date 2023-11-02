@@ -1840,6 +1840,28 @@
     {
       "album": {
         "name": "Sunday Night",
+        "url": "https://open.spotify.com/album/7c3RhURbVqHtRrTvHwxLpK"
+      },
+      "artists": [
+        {
+          "name": "IGWI",
+          "url": "https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U"
+        },
+        {
+          "name": "Jurin",
+          "url": "https://open.spotify.com/artist/08nocpCapN94qptgBMDIUy"
+        }
+      ],
+      "date_added": "2023-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225290,
+      "name": "Sunday Night",
+      "url": "https://open.spotify.com/track/7y2knCRhPmiyv5lmLaNBhG"
+    },
+    {
+      "album": {
+        "name": "Sunday Night",
         "url": "https://open.spotify.com/album/6U9cqG0pcELOONAmqMTVsd"
       },
       "artists": [
@@ -1854,7 +1876,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 225361,
       "name": "Sunday Night",
       "url": "https://open.spotify.com/track/1XvZJO24bVGFcoTjUdwDyi"

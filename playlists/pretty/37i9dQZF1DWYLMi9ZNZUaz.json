@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y c\u1ee7a rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en",
-  "num_followers": 80275,
+  "num_followers": 80371,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzYyODBiOTM0NmI5NTk4NTg0YjQzZDg4ZGViYTE3ZTcxOGY1N2U4",
+  "snapshot_id": "MCw3ODAxNTdhOTg4YzNiZWIzNzIxNzE1ODU5Yzc3MjZmOTBhMzYyNzYw",
   "tracks": [
     {
       "added_at": "2023-10-19 04:21:35",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-10-19 04:21:35",
       "album": {
-        "name": "\u0110i V\u1ec1 Nh\u00e0",
-        "url": "https://open.spotify.com/album/7C3WHnNZ5zcUutPtsB7KjD"
-      },
-      "artists": [
-        {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
-        },
-        {
-          "name": "JustaTee",
-          "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "\u0110i V\u1ec1 Nh\u00e0",
-      "url": "https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt"
-    },
-    {
-      "added_at": "2023-10-19 04:21:35",
-      "album": {
         "name": "\u0110\u00e1nh \u0110\u1ed5i",
         "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
       },
@@ -555,18 +535,42 @@
     {
       "added_at": "2023-10-19 04:21:35",
       "album": {
-        "name": "10 Ng\u00e0n N\u0103m",
-        "url": "https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF"
+        "name": "\u0110i V\u1ec1 Nh\u00e0",
+        "url": "https://open.spotify.com/album/7C3WHnNZ5zcUutPtsB7KjD"
       },
       "artists": [
         {
-          "name": "PC",
-          "url": "https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0"
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        },
+        {
+          "name": "JustaTee",
+          "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
         }
       ],
-      "duration_ms": 240000,
-      "name": "10 Ng\u00e0n N\u0103m",
-      "url": "https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ"
+      "duration_ms": 200000,
+      "name": "\u0110i V\u1ec1 Nh\u00e0",
+      "url": "https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt"
+    },
+    {
+      "added_at": "2023-10-19 04:21:35",
+      "album": {
+        "name": "Ai C\u0169ng Ph\u1ea3i B\u1eaft \u0110\u1ea7u T\u1eeb \u0110\u00e2u \u0110\u00f3",
+        "url": "https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "marzuz",
+          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
+        }
+      ],
+      "duration_ms": 201589,
+      "name": "Exit Sign",
+      "url": "https://open.spotify.com/track/3UX7FjJDl6RodnWekzFwEB"
     },
     {
       "added_at": "2023-10-19 04:21:35",
@@ -595,22 +599,18 @@
     {
       "added_at": "2023-10-19 04:21:35",
       "album": {
-        "name": "Ai C\u0169ng Ph\u1ea3i B\u1eaft \u0110\u1ea7u T\u1eeb \u0110\u00e2u \u0110\u00f3",
-        "url": "https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u"
+        "name": "10 Ng\u00e0n N\u0103m",
+        "url": "https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF"
       },
       "artists": [
         {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        },
-        {
-          "name": "marzuz",
-          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
+          "name": "PC",
+          "url": "https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0"
         }
       ],
-      "duration_ms": 201589,
-      "name": "Exit Sign",
-      "url": "https://open.spotify.com/track/3UX7FjJDl6RodnWekzFwEB"
+      "duration_ms": 240000,
+      "name": "10 Ng\u00e0n N\u0103m",
+      "url": "https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ"
     },
     {
       "added_at": "2023-10-19 04:21:35",

@@ -1,12 +1,12 @@
 {
   "description": "Guitarra c\u00e1lida e instrumental para un agradable inicio de d\u00eda.",
-  "num_followers": 11904,
+  "num_followers": 11905,
   "original_name": "wuen dia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDlhM2NjZjZlMjA3ZmRkYTgyNDU5Mjg3MjllZGExNjhkMjBkYTky",
+  "snapshot_id": "MCw4NzVkNWRiNTJlMmQ4OWM1MmFlOWE3NGU4OTQ3MDU3ODgyMDgwZTc1",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "When You Came Along",
-        "url": "https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ"
-      },
-      "artists": [
-        {
-          "name": "Jonnie Snoilsky",
-          "url": "https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4"
-        }
-      ],
-      "duration_ms": 126575,
-      "name": "When You Came Along",
-      "url": "https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 176058,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "When You Came Along",
+        "url": "https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ"
+      },
+      "artists": [
+        {
+          "name": "Jonnie Snoilsky",
+          "url": "https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4"
+        }
+      ],
+      "duration_ms": 126575,
+      "name": "When You Came Along",
+      "url": "https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Dandelion wishes",
-        "url": "https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq"
-      },
-      "artists": [
-        {
-          "name": "Aveline Bisset",
-          "url": "https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ"
-        }
-      ],
-      "duration_ms": 149074,
-      "name": "Dandelion wishes",
-      "url": "https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "E perto do anoitecer",
         "url": "https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 161287,
       "name": "E perto do anoitecer",
       "url": "https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Dandelion wishes",
+        "url": "https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq"
+      },
+      "artists": [
+        {
+          "name": "Aveline Bisset",
+          "url": "https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ"
+        }
+      ],
+      "duration_ms": 149074,
+      "name": "Dandelion wishes",
+      "url": "https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Lovely Secrets",
-        "url": "https://open.spotify.com/album/7tKiOXcCi7lsyzrdsH56qi"
-      },
-      "artists": [
-        {
-          "name": "Aaron Flemming",
-          "url": "https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH"
-        }
-      ],
-      "duration_ms": 142735,
-      "name": "Lovely Secrets",
-      "url": "https://open.spotify.com/track/4I7btOSG6pDNBxptBTrKQG"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "I Found You",
         "url": "https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 143893,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/3QFAzAqPqhFmpodso3L3zX"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Lovely Secrets",
+        "url": "https://open.spotify.com/album/7tKiOXcCi7lsyzrdsH56qi"
+      },
+      "artists": [
+        {
+          "name": "Aaron Flemming",
+          "url": "https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH"
+        }
+      ],
+      "duration_ms": 142735,
+      "name": "Lovely Secrets",
+      "url": "https://open.spotify.com/track/4I7btOSG6pDNBxptBTrKQG"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf"
-      },
-      "artists": [
-        {
-          "name": "Andri Hart",
-          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
-        }
-      ],
-      "duration_ms": 172729,
-      "name": "Before You go",
-      "url": "https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "El Sabio",
         "url": "https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 126496,
       "name": "El Sabio",
       "url": "https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "duration_ms": 172729,
+      "name": "Before You go",
+      "url": "https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -859,38 +859,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Lonely Trip",
-        "url": "https://open.spotify.com/album/2ezeL6Yi22qbpZnPgjU9nf"
-      },
-      "artists": [
-        {
-          "name": "KORIBA",
-          "url": "https://open.spotify.com/artist/0ttPJjx1cSyAn4CNVPNpEJ"
-        }
-      ],
-      "duration_ms": 135626,
-      "name": "A place to go",
-      "url": "https://open.spotify.com/track/7oFm6C4wxkkVM1t1Via4mu"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "N\u00faria",
-        "url": "https://open.spotify.com/album/35xNbujDkw7WI2064N4L53"
-      },
-      "artists": [
-        {
-          "name": "Riley Howe",
-          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
-        }
-      ],
-      "duration_ms": 176207,
-      "name": "Bastiments",
-      "url": "https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "L'heure de l'harmonie",
         "url": "https://open.spotify.com/album/0P6Ka37RvhKX8a8AjrGdhc"
       },
@@ -907,6 +875,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Lonely Trip",
+        "url": "https://open.spotify.com/album/2ezeL6Yi22qbpZnPgjU9nf"
+      },
+      "artists": [
+        {
+          "name": "KORIBA",
+          "url": "https://open.spotify.com/artist/0ttPJjx1cSyAn4CNVPNpEJ"
+        }
+      ],
+      "duration_ms": 135626,
+      "name": "A place to go",
+      "url": "https://open.spotify.com/track/7oFm6C4wxkkVM1t1Via4mu"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Happy Faces",
         "url": "https://open.spotify.com/album/2kR5ZVraVvSPla3QndZ2fy"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 200609,
       "name": "Happy Faces",
       "url": "https://open.spotify.com/track/3mXIi5dQIW1xmVvW8UQJ9G"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "N\u00faria",
+        "url": "https://open.spotify.com/album/35xNbujDkw7WI2064N4L53"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "duration_ms": 176207,
+      "name": "Bastiments",
+      "url": "https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Laguna",
-        "url": "https://open.spotify.com/album/7lBsRkafxyp9aUhvuiD1hF"
-      },
-      "artists": [
-        {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Laguna",
-      "url": "https://open.spotify.com/track/6v7vnohTh1WrGJznocVGdg"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Great Moments",
         "url": "https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 183750,
       "name": "Great Moments",
       "url": "https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Laguna",
+        "url": "https://open.spotify.com/album/7lBsRkafxyp9aUhvuiD1hF"
+      },
+      "artists": [
+        {
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Laguna",
+      "url": "https://open.spotify.com/track/6v7vnohTh1WrGJznocVGdg"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e"
-      },
-      "artists": [
-        {
-          "name": "Amine Ortega",
-          "url": "https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "Archetype",
-      "url": "https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Meyehualco",
         "url": "https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 253297,
       "name": "Meyehualco",
       "url": "https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e"
+      },
+      "artists": [
+        {
+          "name": "Amine Ortega",
+          "url": "https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Archetype",
+      "url": "https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1771,34 +1771,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Coiseachd",
-        "url": "https://open.spotify.com/album/3w97nwtlxNTKWZBxhlocnw"
+        "name": "Across The Pond",
+        "url": "https://open.spotify.com/album/6EdjNwaGHT3ofgwahD8WlH"
       },
       "artists": [
         {
-          "name": "Maya Eden",
-          "url": "https://open.spotify.com/artist/6rBVac1sBnoJsn9PbezokS"
+          "name": "Olma",
+          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
         }
       ],
-      "duration_ms": 166793,
-      "name": "Coiseachd",
-      "url": "https://open.spotify.com/track/6wtYnLV9sHnK1lL0t7NCyd"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "The Hidden Valley",
-        "url": "https://open.spotify.com/album/3I5xEp9VFZkL52a0DbRKUs"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 157941,
-      "name": "The Hidden Valley",
-      "url": "https://open.spotify.com/track/4R7b5uuUvxvER6JksVLDWi"
+      "duration_ms": 136187,
+      "name": "Polmont",
+      "url": "https://open.spotify.com/track/28IOe7yxQZDSHJAnGjM8kO"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1819,6 +1803,38 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "The Hidden Valley",
+        "url": "https://open.spotify.com/album/3I5xEp9VFZkL52a0DbRKUs"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 157941,
+      "name": "The Hidden Valley",
+      "url": "https://open.spotify.com/track/4R7b5uuUvxvER6JksVLDWi"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Coiseachd",
+        "url": "https://open.spotify.com/album/3w97nwtlxNTKWZBxhlocnw"
+      },
+      "artists": [
+        {
+          "name": "Maya Eden",
+          "url": "https://open.spotify.com/artist/6rBVac1sBnoJsn9PbezokS"
+        }
+      ],
+      "duration_ms": 166793,
+      "name": "Coiseachd",
+      "url": "https://open.spotify.com/track/6wtYnLV9sHnK1lL0t7NCyd"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Reise um die Welt",
         "url": "https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 171853,
       "name": "Reise um die Welt",
       "url": "https://open.spotify.com/track/5U3Funw31Xlkv6dvsR4QBn"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Across The Pond",
-        "url": "https://open.spotify.com/album/6EdjNwaGHT3ofgwahD8WlH"
-      },
-      "artists": [
-        {
-          "name": "Olma",
-          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
-        }
-      ],
-      "duration_ms": 136187,
-      "name": "Polmont",
-      "url": "https://open.spotify.com/track/28IOe7yxQZDSHJAnGjM8kO"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4bzztnTdgknIshVzOuYiwa"
+      },
+      "artists": [
+        {
+          "name": "Oliver Calum",
+          "url": "https://open.spotify.com/artist/3AEgCo8UbL4AYIe40wUdeR"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/6ihtnlJdg1t4awXzbQtMBt"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Cradle Song",
         "url": "https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 227588,
       "name": "Cradle Song",
       "url": "https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/4bzztnTdgknIshVzOuYiwa"
-      },
-      "artists": [
-        {
-          "name": "Oliver Calum",
-          "url": "https://open.spotify.com/artist/3AEgCo8UbL4AYIe40wUdeR"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/6ihtnlJdg1t4awXzbQtMBt"
     },
     {
       "added_at": "2023-09-15 09:04:35",

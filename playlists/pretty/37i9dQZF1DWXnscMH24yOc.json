@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 443827,
+  "num_followers": 443867,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDhhNjFhN2MxN2UyNzM1ZGQ4OTMxYzJlZWQ0ZTMyMTE4YWQ5ZmZk",
+  "snapshot_id": "MCxlNWRiMGQyNzM3MTZmMDBlOTIxYzA5OWQ5MmMzYmQyMGFjMTMxMmVj",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Knocking On Heavens Door - EP",
+        "url": "https://open.spotify.com/album/2ymI9oU0t6DFuYOjFc4Kpa"
+      },
+      "artists": [
+        {
+          "name": "RAIGN",
+          "url": "https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4"
+        }
+      ],
+      "duration_ms": 264389,
+      "name": "Knocking on Heavens Door",
+      "url": "https://open.spotify.com/track/20jZ7lf5eqDUQQruuMSKVE"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Knocking On Heavens Door - EP",
-        "url": "https://open.spotify.com/album/2ymI9oU0t6DFuYOjFc4Kpa"
-      },
-      "artists": [
-        {
-          "name": "RAIGN",
-          "url": "https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4"
-        }
-      ],
-      "duration_ms": 264389,
-      "name": "Knocking on Heavens Door",
-      "url": "https://open.spotify.com/track/20jZ7lf5eqDUQQruuMSKVE"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "You Don't Own Me (feat. G-Eazy)",
         "url": "https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO"
       },
@@ -175,6 +175,22 @@
       "duration_ms": 199314,
       "name": "You Don't Own Me (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/2CpH1L4CUR47RARB3PgY1l"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "duration_ms": 223236,
+      "name": "Girls Just Wanna Have Some",
+      "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -211,22 +227,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Girls Just Wanna Have Fun",
-        "url": "https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB"
-      },
-      "artists": [
-        {
-          "name": "Chromatics",
-          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
-        }
-      ],
-      "duration_ms": 223236,
-      "name": "Girls Just Wanna Have Some",
-      "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "First Impressions",
         "url": "https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z"
       },
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Thinking In Textures",
-        "url": "https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 221533,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Deaf Heat EP",
         "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 166762,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Thinking In Textures",
+        "url": "https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 221533,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Kill For Love",
+        "url": "https://open.spotify.com/album/2Fp5KBgyC0ac2oitVlsJhY"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "duration_ms": 322994,
+      "name": "Into The Black",
+      "url": "https://open.spotify.com/track/7MXlRIl901aXfJ2oSGn0E2"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Sing Into My Mouth",
         "url": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 212486,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Kill For Love",
-        "url": "https://open.spotify.com/album/2Fp5KBgyC0ac2oitVlsJhY"
-      },
-      "artists": [
-        {
-          "name": "Chromatics",
-          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
-        }
-      ],
-      "duration_ms": 322994,
-      "name": "Into The Black",
-      "url": "https://open.spotify.com/track/7MXlRIl901aXfJ2oSGn0E2"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "Addicted To Love",
-      "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "In Your Prime - EP",
         "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 247200,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Addicted To Love",
+      "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "rose ave.",
-        "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
-      },
-      "artists": [
-        {
-          "name": "You+Me",
-          "url": "https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm"
-        }
-      ],
-      "duration_ms": 249440,
-      "name": "No Ordinary Love",
-      "url": "https://open.spotify.com/track/3Vp1ShzJnzjtMbGucz0c16"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Palace (Cover) / Diane",
         "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 229496,
       "name": "Palace - Cover",
       "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "rose ave.",
+        "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
+      },
+      "artists": [
+        {
+          "name": "You+Me",
+          "url": "https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm"
+        }
+      ],
+      "duration_ms": 249440,
+      "name": "No Ordinary Love",
+      "url": "https://open.spotify.com/track/3Vp1ShzJnzjtMbGucz0c16"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "All Too Well",
-        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 315475,
-      "name": "All Too Well",
-      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Robyn Sherwell",
         "url": "https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 170399,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "All Too Well",
+        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 315475,
+      "name": "All Too Well",
+      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Thank you for the happiest year of my life",
-        "url": "https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh"
-      },
-      "artists": [
-        {
-          "name": "if we were lakes",
-          "url": "https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z"
-        }
-      ],
-      "duration_ms": 229604,
-      "name": "Thank you for the happiest year of my life",
-      "url": "https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Feel Good Inc.",
         "url": "https://open.spotify.com/album/0UC9mGhLRmVHIvhWgOPLlH"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 236129,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/5qeL0fWg4IDLZNUjVu53f2"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Thank you for the happiest year of my life",
+        "url": "https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh"
+      },
+      "artists": [
+        {
+          "name": "if we were lakes",
+          "url": "https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z"
+        }
+      ],
+      "duration_ms": 229604,
+      "name": "Thank you for the happiest year of my life",
+      "url": "https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 290518,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "K.",
         "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 269000,
       "name": "K.",
       "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 290518,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "The City Holds My Heart",
-        "url": "https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu"
-      },
-      "artists": [
-        {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Nocturnes",
         "url": "https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 247426,
       "name": "It Must Have Been Love",
       "url": "https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "The City Holds My Heart",
+        "url": "https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Undercover Bros.",
-        "url": "https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT"
-      },
-      "artists": [
-        {
-          "name": "The Bros. Landreth",
-          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
-        }
-      ],
-      "duration_ms": 248590,
-      "name": "How Deep is Your Love",
-      "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Covers, Vol. 1",
         "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 206426,
       "name": "Private Eyes",
       "url": "https://open.spotify.com/track/1xhM41HO1R4okfIi4iKp8o"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Undercover Bros.",
+        "url": "https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT"
+      },
+      "artists": [
+        {
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
+        }
+      ],
+      "duration_ms": 248590,
+      "name": "How Deep is Your Love",
+      "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1647,18 +1647,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/0qpOhvO4u3yCRQbtrGiHMG"
+        "name": "Running up That Hill",
+        "url": "https://open.spotify.com/album/2gKHrg2lOloXI4aPpW2ajq"
       },
       "artists": [
         {
-          "name": "will hyde",
-          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
+          "name": "Hollow Hum",
+          "url": "https://open.spotify.com/artist/6NQ43mtSf2OvGJ02QZC8E6"
+        },
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
         }
       ],
-      "duration_ms": 195813,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/3NiHRFN1Wvx9c2IYRPD1Zf"
+      "duration_ms": 240111,
+      "name": "Running up That Hill",
+      "url": "https://open.spotify.com/track/2xL5yK2xJZ2ZkNwRkmOi1M"
     }
   ],
   "unique_name": "Chill Covers",

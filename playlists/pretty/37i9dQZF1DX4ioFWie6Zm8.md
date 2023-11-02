@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,056 likes - 107 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,106 likes - 107 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 106 | [Wanita](https://open.spotify.com/track/6cBLK1pC202FMxthSKg1NN) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Wanita](https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg) | 5:39 |
 | 107 | [Makambo](https://open.spotify.com/track/2F9aMslwYQurvgv7DGS7S5) | [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Exile \(Real World Gold\)](https://open.spotify.com/album/3wDdQn9tgxEIjjo1pnc7X7) | 5:00 |
 
-Snapshot ID: `MCxiNmFhM2YwNGUyODg4MDA2NTRjODU4MDBhZDUxZGI1NGE4OTQ2OWFk`
+Snapshot ID: `MCxkMGM1ZGQ3MThjNzkwNzc1ZWZmM2Y0ZmZmYzg3ZWE5ZDMyNmY1ODAw`

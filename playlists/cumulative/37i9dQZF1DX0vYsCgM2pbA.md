@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-151 songs - 9 hr 23 min
+152 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Going Home](https://open.spotify.com/track/2ww0OC7q3oYWbsgRoDdZp2) | [MorningMaxwell](https://open.spotify.com/artist/0kvwtYUiypCDaaKKhTD2Pp), [Jade Alice](https://open.spotify.com/artist/3RtGhwOeishzd1HIceHzrp) | [Going Home](https://open.spotify.com/album/6MzuyHiVXgtXnHzMeGsuqP) | 4:00 | 2023-03-31 | 2023-07-14 |
 | [Good Catch](https://open.spotify.com/track/7jBNPcLfFjZce1ORVtqB5s) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Good Catch](https://open.spotify.com/album/0yzk4au9oIVf4p2m0ICOli) | 3:40 | 2023-07-27 | 2023-08-25 |
 | [Good Life](https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z) | [Good Life](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life](https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ) | 2:47 | 2023-06-29 |  |
-| [Gravity](https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:29 | 2023-08-17 |  |
+| [Gravity](https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:29 | 2023-08-17 | 2023-11-02 |
 | [Gravity](https://open.spotify.com/track/5lDCOzLzBfCOj3y5w1NdOo) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Gravity](https://open.spotify.com/album/2kZN7G2OX9dEeQUIrPFxO8) | 4:29 | 2023-06-08 | 2023-08-12 |
 | [Great Southern Land](https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6) | 4:15 | 2023-05-11 | 2023-08-12 |
 | [Great Southern Land](https://open.spotify.com/track/3kvZ95Je92gWoXF1E9aFQM) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/0BysOODMvw4P7nfZgLoNde) | 4:15 | 2023-08-10 |  |
@@ -100,6 +100,7 @@
 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 | 2023-02-23 |  |
 | [Noise](https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Noise](https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF) | 4:42 | 2023-04-20 | 2023-06-26 |
 | [Noise](https://open.spotify.com/track/2fjYD3T5UWVTyz2bPKRXaz) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:42 | 2023-06-22 | 2023-06-30 |
+| [Now U Do \(Carlita Remix\) \- Edit](https://open.spotify.com/track/4npDRstA1cZPDshgtC3mvv) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Now U Do \(Carlita Remix\)](https://open.spotify.com/album/7t88wDCAJBUW98FDo1imXi) | 3:33 | 2023-11-01 |  |
 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 | 2022-12-01 |  |
 | [Oh My \(feat\. Moby\)](https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Oh My \(feat\. Moby\)](https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0) | 2:40 | 2023-01-13 |  |
 | [On Fire](https://open.spotify.com/track/5Uy4klMydEVKvWYqoCUpqn) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [On Fire](https://open.spotify.com/album/3WfaBo5m4OjYqkLq1wQ9KT) | 4:28 | 2022-12-01 | 2023-01-27 |

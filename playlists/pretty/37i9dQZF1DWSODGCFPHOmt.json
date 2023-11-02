@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas.\n",
-  "num_followers": 8775,
+  "num_followers": 8785,
   "original_name": "La Posada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2RjZmNiMWI5OWRlNjM1MWI4NTk5M2Y4NDM0MjEwZmQ2NWY5MTM3",
+  "snapshot_id": "MCxiN2M2NGQzNTIxMmIzNTkxYWQ4MTMyMTJiOGI5ZGRmN2NlNDAzMGZm",
   "tracks": [
     {
       "added_at": "2023-08-16 16:10:15",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-08-16 16:10:15",
       "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 250015,
-      "name": "En Esta Navidad",
-      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
-    },
-    {
-      "added_at": "2023-08-16 16:10:15",
-      "album": {
         "name": "Eterna Navidad Celebremos",
         "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
       },
@@ -935,34 +919,18 @@
     {
       "added_at": "2023-08-16 16:10:15",
       "album": {
-        "name": "La Diva en Vivo",
-        "url": "https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce"
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 253746,
-      "name": "Navidad Sin Ti - Live",
-      "url": "https://open.spotify.com/track/0IowQHym495GsLIVyuScWH"
-    },
-    {
-      "added_at": "2023-08-16 16:10:15",
-      "album": {
-        "name": "Navidad Con Angela (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 196524,
-      "name": "El Ni\u00f1o del Tambor - Edici\u00f3n Especial",
-      "url": "https://open.spotify.com/track/1C0Uip3Flj5zCvpUeKcLmF"
+      "duration_ms": 250015,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
     },
     {
       "added_at": "2023-08-16 16:10:15",
@@ -983,6 +951,38 @@
     {
       "added_at": "2023-08-16 16:10:15",
       "album": {
+        "name": "Navidad Con Angela (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 196524,
+      "name": "El Ni\u00f1o del Tambor - Edici\u00f3n Especial",
+      "url": "https://open.spotify.com/track/1C0Uip3Flj5zCvpUeKcLmF"
+    },
+    {
+      "added_at": "2023-08-16 16:10:15",
+      "album": {
+        "name": "La Diva en Vivo",
+        "url": "https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Navidad Sin Ti - Live",
+      "url": "https://open.spotify.com/track/0IowQHym495GsLIVyuScWH"
+    },
+    {
+      "added_at": "2023-08-16 16:10:15",
+      "album": {
         "name": "Voy A Pedirle A Santa Claus",
         "url": "https://open.spotify.com/album/7cA56I7kD0crUz40sGPqtW"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 157042,
       "name": "Voy A Pedirle A Santa Claus",
       "url": "https://open.spotify.com/track/1HKXIQ2GtrOPfSoUz0e0Jk"
+    },
+    {
+      "added_at": "2023-08-16 16:10:15",
+      "album": {
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Oye Santa Claus",
+      "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
     },
     {
       "added_at": "2023-08-16 16:10:15",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2023-08-16 16:10:15",
       "album": {
-        "name": "Mi Burrito Sabanero",
-        "url": "https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Mi Burrito Sabanero",
-      "url": "https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB"
-    },
-    {
-      "added_at": "2023-08-16 16:10:15",
-      "album": {
         "name": "Alrededor del \u00c1rbol de Navidad",
         "url": "https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m"
       },
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-08-16 16:10:15",
       "album": {
-        "name": "Tristes Navidades",
-        "url": "https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc"
+        "name": "Mi Burrito Sabanero",
+        "url": "https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 239547,
-      "name": "Tristes Navidades",
-      "url": "https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN"
+      "duration_ms": 178440,
+      "name": "Mi Burrito Sabanero",
+      "url": "https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB"
     },
     {
       "added_at": "2023-08-16 16:10:15",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-08-16 16:10:15",
       "album": {
+        "name": "Tristes Navidades",
+        "url": "https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 239547,
+      "name": "Tristes Navidades",
+      "url": "https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN"
+    },
+    {
+      "added_at": "2023-08-16 16:10:15",
+      "album": {
         "name": "La \u00faltima canci\u00f3n",
         "url": "https://open.spotify.com/album/1dn55Gp93D5VmsFCeEJ279"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2023-08-16 16:10:15",
       "album": {
-        "name": "Navidad Con Mariachi",
-        "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 128729,
-      "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
-    },
-    {
-      "added_at": "2023-08-16 16:10:15",
-      "album": {
         "name": "Contigo En Navidad",
         "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
       },
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-08-16 16:10:15",
       "album": {
+        "name": "Navidad Con Mariachi",
+        "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 128729,
+      "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
+    },
+    {
+      "added_at": "2023-08-16 16:10:15",
+      "album": {
         "name": "Ya Viene Nochebuena",
         "url": "https://open.spotify.com/album/7mQ9Rtxz3EdY7sghH66OR3"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 196527,
       "name": "Ya Viene Nochebuena",
       "url": "https://open.spotify.com/track/6VxuFIWWqa9Z2TGgFFgMB7"
-    },
-    {
-      "added_at": "2023-08-16 16:10:15",
-      "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Oye Santa Claus",
-      "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
     },
     {
       "added_at": "2023-08-16 16:10:15",

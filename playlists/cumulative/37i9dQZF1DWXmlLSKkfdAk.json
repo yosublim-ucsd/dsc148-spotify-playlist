@@ -4862,6 +4862,24 @@
     {
       "album": {
         "name": "Sway",
+        "url": "https://open.spotify.com/album/2wZKW8SsFWfxM4H9QYuHqq"
+      },
+      "artists": [
+        {
+          "name": "Jake & Shelby",
+          "url": "https://open.spotify.com/artist/0JdBmLuhVC8l8dE7f0rVjS"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147140,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6lds2JtXd2CT4STg8zgl1P"
+    },
+    {
+      "album": {
+        "name": "Sway",
         "url": "https://open.spotify.com/album/2UCnax1zWCQhUq28qmvabX"
       },
       "artists": [
@@ -4872,7 +4890,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 147140,
       "name": "Sway",
       "url": "https://open.spotify.com/track/6rh3gEWwIDcB9Mxm4d0Gxt"

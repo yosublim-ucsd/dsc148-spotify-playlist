@@ -4,7 +4,7 @@
 
 > La nueva ola del Afrobeats con un toque latino\. Feid y Rema en portada
 
-140 songs - 7 hr 12 min
+141 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [A la Carta](https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [A la Carta](https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH) | 2:53 | 2023-06-30 |  |
 | [Andando](https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:21 | 2023-06-30 |  |
 | [Anoche](https://open.spotify.com/track/0Un2vPAbLot3wOhbEERCxr) | [Choliare](https://open.spotify.com/artist/47qEXOIyxCL3yGsRaiiHiZ) | [Anoche](https://open.spotify.com/album/5ME3ux0jBRQoulHzjxPvnY) | 3:16 | 2023-06-30 |  |
-| [Antojo \(DELUXE\)](https://open.spotify.com/track/0FTOeXnyvHAa5RY3hGV8xM) | [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [El Gerard](https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P), [La Colectiva Élite](https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa) | [Antojo \(DELUXE\)](https://open.spotify.com/album/1Yx1AWSUOCfFJtUWc2JsM2) | 3:03 | 2023-07-07 |  |
+| [Antojo \(DELUXE\)](https://open.spotify.com/track/0FTOeXnyvHAa5RY3hGV8xM) | [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [El Gerard](https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P), [La Colectiva Élite](https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa) | [Antojo \(DELUXE\)](https://open.spotify.com/album/1Yx1AWSUOCfFJtUWc2JsM2) | 3:03 | 2023-07-07 | 2023-11-02 |
+| [Antojo \(DELUXE\)](https://open.spotify.com/track/3PDPm7FgXdz05yuKRby8A3) | [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq), [Hamilton](https://open.spotify.com/artist/56xde3bnvx5G7v6Grx4985), [El Gerard](https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P), [La Colectiva Élite](https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa) | [Antojo \(DELUXE\)](https://open.spotify.com/album/5OK6qhRZ8488geB2TdD9Vz) | 3:03 | 2023-10-27 |  |
 | [Anywhere Contigo \(feat\. King Los\)](https://open.spotify.com/track/5pc9qadiig2q84FABIGHsn) | [Breakfast n Vegas](https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX), [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl), [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC) | [Breakfast N Vegas: Reloaded](https://open.spotify.com/album/2ujJfVKzWRGTf55pqeaK0Z) | 3:13 | 2023-06-30 |  |
 | [Así Eres Tu](https://open.spotify.com/track/75jYie3v5Ex5QyJu8wJqka) | [Koffee el Kafetero](https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm), [Gaby](https://open.spotify.com/artist/596efbZC3Nfo2udfMKuZAd), [DJ Dever](https://open.spotify.com/artist/2KDK6LDA8DKphV0wwHb40D) | [Así Eres Tu](https://open.spotify.com/album/6kgJhW3RBbNMJm1mQMzHnN) | 3:00 | 2023-10-13 |  |
 | [attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2023-07-21 | 2023-08-05 |

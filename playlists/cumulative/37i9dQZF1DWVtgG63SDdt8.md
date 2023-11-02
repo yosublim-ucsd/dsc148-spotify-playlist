@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:4BuHGiGgKtUUHqthu6Ze5x">Sam Rivera</a>
 
-4,793 songs - 13 day 9 hr 17 min
+4,794 songs - 13 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2515,7 +2515,8 @@
 | [Lost And Found](https://open.spotify.com/track/6mFt6ImuHYSvdRNLc0M1m2) | [Southbound](https://open.spotify.com/artist/0JH9jwr6zumezEPcacQZo6) | [Lost and Found](https://open.spotify.com/album/1UlITTB3f5a9IVDCAsdoXs) | 4:15 | 2023-01-13 | 2023-01-21 |
 | [Lost Are Found \- Live](https://open.spotify.com/track/0MXhQSEwnvSxw2Yk6y6Ytn) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Bobby Walker](https://open.spotify.com/artist/1wOa9zqJNXhPTAKrSegafE) | [Lost Are Found \(Live\)](https://open.spotify.com/album/78AviZzQVWkUtGO14XS8ek) | 10:08 | 2023-08-04 | 2023-08-19 |
 | [Lost in the Hurt](https://open.spotify.com/track/0udBL16QEOcIDIPUPPS4iV) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq) | [All the Worlds We Built](https://open.spotify.com/album/3ygKOdIA0lcYYoTNTpezhp) | 3:00 | 2023-02-24 | 2023-03-11 |
-| [Lost On Me](https://open.spotify.com/track/71eY5aHKb5zeetOe0hJNlr) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Lost On Me](https://open.spotify.com/album/3oWCHFFHearFgGwxa6vyIZ) | 3:26 | 2023-10-27 |  |
+| [Lost On Me](https://open.spotify.com/track/4NhhOSsoijnkGOSZS7HALp) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Lost On Me](https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu) | 3:26 | 2023-10-27 |  |
+| [Lost On Me](https://open.spotify.com/track/71eY5aHKb5zeetOe0hJNlr) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Lost On Me](https://open.spotify.com/album/3oWCHFFHearFgGwxa6vyIZ) | 3:26 | 2023-10-27 | 2023-11-02 |
 | [Lost Without You](https://open.spotify.com/track/4fvdWE6alwT00YUAg39Joz) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Lost Without You](https://open.spotify.com/album/3cCdbheCzWJeDKU7J0t82W) | 2:59 | 2022-09-16 | 2022-10-01 |
 | [Lotta Things](https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Lotta Things](https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5) | 2:36 | 2022-07-29 | 2022-08-13 |
 | [Love 'Em Where They Are](https://open.spotify.com/track/10PsOee566VMO5kE5uYzT0) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Love 'Em Where They Are](https://open.spotify.com/album/59JWrxqeYQ5DYzJ91oM4WP) | 3:42 | 2023-07-14 | 2023-07-22 |

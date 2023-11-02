@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 141502,
+  "num_followers": 141610,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWYzYjNjZWM0OTFlMDlmNDg3ZjhkOGQzOWY1YzgxNTk5Y2M5ODhi",
+  "snapshot_id": "MCwzYjU2NGVlOWI4NWIxZWFmNzdlM2MzNjliNTQ3ZTIyODYxYjVjNDcw",
   "tracks": [
     {
       "added_at": "2023-10-20 09:26:23",
@@ -535,26 +535,22 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "Diamond Therapy",
-        "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
+        "name": "Stan Smith",
+        "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
         },
         {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
         }
       ],
-      "duration_ms": 199472,
-      "name": "Diamond Therapy",
-      "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
+      "duration_ms": 235000,
+      "name": "Stan Smith",
+      "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -583,22 +579,26 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "Stan Smith",
-        "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
+        "name": "Diamond Therapy",
+        "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
       },
       "artists": [
         {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Coco",
-          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Stan Smith",
-      "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
+      "duration_ms": 199472,
+      "name": "Diamond Therapy",
+      "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
     },
     {
       "added_at": "2023-10-20 09:26:23",
@@ -1162,6 +1162,10 @@
         {
           "name": "Darkzy",
           "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/4pqUHuQppkm95uNa2VDpMT"
         }
       ],
       "duration_ms": 266929,
@@ -1403,26 +1407,6 @@
     {
       "added_at": "2023-10-20 09:26:23",
       "album": {
-        "name": "Pictures In My Head",
-        "url": "https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm"
-      },
-      "artists": [
-        {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
-        },
-        {
-          "name": "High Contrast",
-          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
-        }
-      ],
-      "duration_ms": 258703,
-      "name": "Pictures In My Head - High Contrast Remix",
-      "url": "https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n"
-    },
-    {
-      "added_at": "2023-10-20 09:26:23",
-      "album": {
         "name": "Drops Remixes",
         "url": "https://open.spotify.com/album/6WkDq5hrKzwxDY4fdgjFEq"
       },
@@ -1443,6 +1427,26 @@
       "duration_ms": 262628,
       "name": "Drops - Kanine Remix",
       "url": "https://open.spotify.com/track/3okcBYUuR2VRbygL9kYb5k"
+    },
+    {
+      "added_at": "2023-10-20 09:26:23",
+      "album": {
+        "name": "Pictures In My Head",
+        "url": "https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        },
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "duration_ms": 258703,
+      "name": "Pictures In My Head - High Contrast Remix",
+      "url": "https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n"
     },
     {
       "added_at": "2023-10-20 09:26:23",

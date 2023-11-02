@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Angie McMahon
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,694 likes - 93 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,720 likes - 93 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 49 | [WE SEE YOU](https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [WE SEE YOU](https://open.spotify.com/album/1cjqc70Mk83ImBsBPQ7Qix) | 2:22 |
 | 50 | [exactly the same](https://open.spotify.com/track/7KAFWdeDgkekYrjFomiXkB) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [exactly the same](https://open.spotify.com/album/6QWdwdcEsYCXHmvp9GVzAx) | 2:31 |
 | 51 | [Silversun](https://open.spotify.com/track/1SmQp1FgwDVYh1GGlSUHEC) | [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Silversun](https://open.spotify.com/album/0uw6zYAkDM9UQ7uzDciSzq) | 5:37 |
-| 52 | [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 |
+| 52 | [Violet](https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3DR4H81NkCmYBKgq1vOQ3n) | 7:18 |
 | 53 | [Halloweenie V: The Moss King](https://open.spotify.com/track/0MWkCSW0W7rGLSvDR2xExC) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie V: The Moss King](https://open.spotify.com/album/76o6AaSFr2owQN4AEit99z) | 2:07 |
 | 54 | [Dreamteam](https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Dreamteam](https://open.spotify.com/album/15YushxelouREDwAN3cdV1) | 3:01 |
 | 55 | [Stranger](https://open.spotify.com/track/3Sda4D07uUlpyI0aa9WMWH) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 2:16 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 92 | [Weightless](https://open.spotify.com/track/0zWKEW4wxvNUW2z58HWJSr) | [Oshua](https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV) | [Everything Can Levitate](https://open.spotify.com/album/5VIr5VJPxXeMjlT7IAAwel) | 2:38 |
 | 93 | [The One](https://open.spotify.com/track/4tCzAMFUd31yxOA4Mc8cz4) | [Peter Bibby](https://open.spotify.com/artist/2hL4zRvjx5funfrhNUxUS2) | [The One](https://open.spotify.com/album/7hjGINTLUq7K82NK9brytF) | 2:24 |
 
-Snapshot ID: `MCxhOWU2NDc1MzY2OTU4ZjQxOWM5NjcwZjM4Y2ZmYTYxMmI4YzQxMGIz`
+Snapshot ID: `MCw1NDEzNGJiZGY1YzMxNDJjMTQ3ZTU4ZTVjYTk1YzE3ZjIwNGZiOWFj`

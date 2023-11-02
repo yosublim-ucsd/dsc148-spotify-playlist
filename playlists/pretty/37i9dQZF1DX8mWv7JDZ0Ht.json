@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Jota.p\u00ea",
-  "num_followers": 433626,
+  "num_followers": 433669,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWI5MzAxOWI4OWViNjE3ZmYxNTIwM2Y2YjgzOGUyNjVjMDM4Mzg0",
+  "snapshot_id": "MCw1MThmNzkyM2EyZjQ5YzhjYzQwYmM0Y2Y3OTNhZTUzYjI4OTZjNTZk",
   "tracks": [
     {
       "added_at": "2023-10-27 03:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "M\u00faltipla",
-        "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 161540,
-      "name": "Nem Eu Me Entendo",
-      "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 219306,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "M\u00faltipla",
+        "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 161540,
+      "name": "Nem Eu Me Entendo",
+      "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -655,58 +655,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "N\u00f3 de Marinheiro",
-        "url": "https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
-        }
-      ],
-      "duration_ms": 183503,
-      "name": "N\u00f3 de Marinheiro",
-      "url": "https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Se eu n\u00e3o te amasse tanto assim",
-        "url": "https://open.spotify.com/album/2julBYVtALWBQRawCHmIjH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Se eu n\u00e3o te amasse tanto assim",
-      "url": "https://open.spotify.com/track/3gKdUWrJRLRLQWpN95KXfU"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Me Sinto Com Sorte",
-        "url": "https://open.spotify.com/album/7xnXIInegkDGhIPDOKi8tT"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 178348,
-      "name": "Toda minha saudade",
-      "url": "https://open.spotify.com/track/6uPWvyCWxvF0y4O6XpJy1F"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Vida + leve",
         "url": "https://open.spotify.com/album/2yd1DMCQyulyfU8Z9Zehf1"
       },
@@ -731,6 +679,58 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "Se eu n\u00e3o te amasse tanto assim",
+        "url": "https://open.spotify.com/album/2julBYVtALWBQRawCHmIjH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Se eu n\u00e3o te amasse tanto assim",
+      "url": "https://open.spotify.com/track/3gKdUWrJRLRLQWpN95KXfU"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "N\u00f3 de Marinheiro",
+        "url": "https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        }
+      ],
+      "duration_ms": 183503,
+      "name": "N\u00f3 de Marinheiro",
+      "url": "https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Me Sinto Com Sorte",
+        "url": "https://open.spotify.com/album/7xnXIInegkDGhIPDOKi8tT"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 178348,
+      "name": "Toda minha saudade",
+      "url": "https://open.spotify.com/track/6uPWvyCWxvF0y4O6XpJy1F"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Coisas De Voc\u00ea",
         "url": "https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE"
       },
@@ -743,26 +743,6 @@
       "duration_ms": 197802,
       "name": "Coisas De Voc\u00ea",
       "url": "https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Sonhos & Ilus\u00f5es (acoustic)",
-        "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Sonhos & Ilus\u00f5es - acoustic",
-      "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -791,18 +771,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+        "name": "Sonhos & Ilus\u00f5es (acoustic)",
+        "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
       },
       "artists": [
         {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+      "duration_ms": 231250,
+      "name": "Sonhos & Ilus\u00f5es - acoustic",
+      "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -839,22 +823,18 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
-        "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
-      "duration_ms": 133806,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -875,6 +855,26 @@
       "duration_ms": 148330,
       "name": "N\u00e3o Me Chame Mais De Ex",
       "url": "https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
+        "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        }
+      ],
+      "duration_ms": 133806,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1083,6 +1083,30 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "Eu S\u00f3 Penso em N\u00f3s",
+        "url": "https://open.spotify.com/album/3ZblEbMh2FbTGClnIgx92h"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Eu S\u00f3 Penso em N\u00f3s",
+      "url": "https://open.spotify.com/track/3sQuO4jLsCnCSva4eXiPap"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Casa Comigo?",
         "url": "https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr"
       },
@@ -1131,22 +1155,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Flor Amarela",
-        "url": "https://open.spotify.com/album/50zdS8nWJJD0ebwieCj75H"
-      },
-      "artists": [
-        {
-          "name": "Hiosaki",
-          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
-        }
-      ],
-      "duration_ms": 168608,
-      "name": "Flor Amarela",
-      "url": "https://open.spotify.com/track/4FnrU3thkxYKlnF8TuFGXm"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "No Passo da Saudades",
         "url": "https://open.spotify.com/album/0729bsCZ4g6R5JeuVpoUsj"
       },
@@ -1167,22 +1175,18 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Lugares",
-        "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
+        "name": "Flor Amarela",
+        "url": "https://open.spotify.com/album/50zdS8nWJJD0ebwieCj75H"
       },
       "artists": [
         {
-          "name": "NIZZ",
-          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
-        },
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Hiosaki",
+          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
         }
       ],
-      "duration_ms": 175200,
-      "name": "Ana Rosa",
-      "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
+      "duration_ms": 168608,
+      "name": "Flor Amarela",
+      "url": "https://open.spotify.com/track/4FnrU3thkxYKlnF8TuFGXm"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1203,26 +1207,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Eu S\u00f3 Penso em N\u00f3s",
-        "url": "https://open.spotify.com/album/3ZblEbMh2FbTGClnIgx92h"
+        "name": "Lugares",
+        "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
       },
       "artists": [
         {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+          "name": "NIZZ",
+          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
         },
         {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Noemi Leal",
-          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Eu S\u00f3 Penso em N\u00f3s",
-      "url": "https://open.spotify.com/track/3sQuO4jLsCnCSva4eXiPap"
+      "duration_ms": 175200,
+      "name": "Ana Rosa",
+      "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
     },
     {
       "added_at": "2023-10-27 03:00:00",

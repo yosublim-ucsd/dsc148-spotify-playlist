@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 
 > Hora de dançar com os grandes hits da música eletrônica/dance! Foto: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,936 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,227 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 | 13 | [Sun Is Shining](https://open.spotify.com/track/4b2tcjrG1qUkSdsqEFP2dB) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:14 |
 | 14 | [Right Here, Right Now](https://open.spotify.com/track/3Pb9QabepyR9e9D8NqorPH) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/7G7cCHgQKbDD6zvwDQZyJu) | 6:27 |
 | 15 | [Love Don't Let Me Go](https://open.spotify.com/track/5lgS45xqkTk2HVm7Jph9ya) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Just a Little More Love](https://open.spotify.com/album/78M16AQffV0YUfvseg60MT) | 3:36 |
-| 16 | [Boneless](https://open.spotify.com/track/5PZI5xTcMq8FsCcEroth7S) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Boneless \(Remixes\)](https://open.spotify.com/album/3EJZwYDh3zfdpjw1HX4MYA) | 4:30 |
+| 16 | [Boneless](https://open.spotify.com/track/75f4fO9adbAYJqNBKJNrxs) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Boneless](https://open.spotify.com/album/3EGr7WaJM6g9UoD1S16jcg) | 4:30 |
 | 17 | [Destination Calabria \- Radio Edit](https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:43 |
 | 18 | [I Remember \- Vocal Mix](https://open.spotify.com/track/6R3bajI4ZCrUfrPUhLakO1) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Random Album Title \(Unmixed Extended Versions\)](https://open.spotify.com/album/4SQc1Al4ilF0vCqtnjXEDk) | 9:53 |
 | 19 | [Heroes \(we could be\)](https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:30 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 | 55 | [I Don't Know What to Do](https://open.spotify.com/track/1GAN6OItmSWve1e2LfZaW1) | [Tiko's Groove](https://open.spotify.com/artist/4o7EawHk705NgTWtLIQtxE), [Gosha](https://open.spotify.com/artist/4Jf1PKoGgtUPcqLgCc1k0O) | [Best of Dance 2013 \- The Rhythm of Life, Vol\. XII](https://open.spotify.com/album/4dc2qyt4udP4Zc1ITUoUZH) | 3:42 |
 | 56 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(Remixes\)](https://open.spotify.com/album/0qTVjeVP70YvQG4GctetOf) | 4:30 |
 | 57 | [Party Rock Anthem](https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq) | 4:22 |
-| 58 | [One Love \(feat\. Estelle\)](https://open.spotify.com/track/5uoNPeaYIKxOolXqVjzz0G) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One Love](https://open.spotify.com/album/3nhLswvAYWwg4wOXBltMbI) | 3:59 |
+| 58 | [One Love \(feat\. Estelle\)](https://open.spotify.com/track/5uoNPeaYIKxOolXqVjzz0G) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [One Love](https://open.spotify.com/album/3nhLswvAYWwg4wOXBltMbI) | 3:59 |
 | 59 | [The Sun Is Coming out \(Chanson Du Soleil\)](https://open.spotify.com/track/2MotSRq6KaVulLIZzxaF7H) | [DJ Meme](https://open.spotify.com/artist/4dXyuP5DZURgEyaBEas4H9), [Gavin Bradley](https://open.spotify.com/artist/32ZOdfgJaA3VI9YeQK5I5H) | [The Sun Is Coming out \(Chanson Du Soleil\)](https://open.spotify.com/album/011UzLpw33J2xUbAXpSLaW) | 3:44 |
 | 60 | [Call On Me \- Radio Edit](https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me](https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587) | 2:49 |
 | 61 | [The Man With the Red Face \- Video Edit](https://open.spotify.com/track/2TNAP0cq2IZkeSUx2Zbzrw) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [The Man With the Red Face](https://open.spotify.com/album/2z7OqIfgvL7xrOtYAj2Qzl) | 9:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 | 69 | [Play Hard \(feat\. Ne\-Yo & Akon\)](https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:21 |
 | 70 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/2cJz1loJp5EZM6shmQpLZN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Harder, Better, Faster, Stronger](https://open.spotify.com/album/0A88p2r8PWnWGvWjzAnUrV) | 3:46 |
 
-Snapshot ID: `MCw3NGU2N2NhM2RiMzQzZThiZmViMTZiYTRmMDNmMDhmZTRhZGVlZDY4`
+Snapshot ID: `MCw2NzExMDMzOTE4OWVmNmVhMmZkYzQyNGNmZmZmMmVlMjc4NjgxNzFi`

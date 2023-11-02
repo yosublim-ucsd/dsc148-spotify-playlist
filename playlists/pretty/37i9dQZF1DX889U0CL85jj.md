@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill, and potentially disassociate, in 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,465,282 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,465,472 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 67 | [Diamonds](https://open.spotify.com/track/4410U1LBFEbAXKdWpclkkD) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Diamonds](https://open.spotify.com/album/0yMzpSlb7U4emqlTclNLbM) | 3:52 |
 | 68 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 |
 | 69 | [20221102 The Truth](https://open.spotify.com/track/4ZhJuTXXGZrBYh96z32sQz) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 3:24 |
-| 70 | [Sunday Highs](https://open.spotify.com/track/3AxUOSGLgLOD0uPF7ieRCj) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R) | [Cultivar](https://open.spotify.com/album/5dcXXIc2xcLQShlZDXyiHa) | 2:32 |
+| 70 | [Sunday Highs](https://open.spotify.com/track/3QgOr4aQcudAyJvc3q5K0I) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R) | [Sunday Highs](https://open.spotify.com/album/5ROyrhnhDh2AE1ibOaf7mL) | 2:32 |
 | 71 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 |
 | 72 | [Rudimentary Science](https://open.spotify.com/track/4MAKdWgUGdUBFxguTvNLD7) | [Crash Richard](https://open.spotify.com/artist/4CeM6k6L6z36r0xhteyfXF) | [Rudimentary Science](https://open.spotify.com/album/6zjnBOtwRlAYeamA1KLhYf) | 2:44 |
 | 73 | [All The Things I Couldn't Say To You](https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [All The Things I Couldn't Say To You](https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK) | 4:24 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 149 | [No Men's Drive](https://open.spotify.com/track/4fNp0E73dcIDJCUeodd2Ar) | [Mihail](https://open.spotify.com/artist/6l5kIaZ51iCClkxrgr904F) | [To Whom We Return](https://open.spotify.com/album/7lFXTVyHJRfoAscycletMe) | 3:31 |
 | 150 | [In The Rear View](https://open.spotify.com/track/4kgXwktpr7IqnhPo84v6ul) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:04 |
 
-Snapshot ID: `MCw5Mjk0MzFiMjMyZjU1OTk5YTQ0MmUzZjFmNTZmMjY0MWNhYzRkZDQy`
+Snapshot ID: `MCwwY2E3YjE4OTIwOTE5Yjc0YmY2ODk5YmQ3ODZmODQzNGQ4Yjg2M2M2`

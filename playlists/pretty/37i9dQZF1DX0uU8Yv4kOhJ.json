@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 126289,
+  "num_followers": 126311,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDlmMjVmZDAxZjcxMzFiODk4ZjJlZjcxZTNlYzdmZWUyODQzZjg1",
+  "snapshot_id": "MCw2OTE4ZTJkNWVlMzNjMGMyOTNiNGZhZDljNzQ3Y2ZiNGEzYWYxMzA5",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Le top des Andes (Les plus grands th\u00e8mes \u00e0 la fl\u00fbte des Andes)",
-        "url": "https://open.spotify.com/album/5SKiECHgu0Zs1cqIR8HJls"
-      },
-      "artists": [
-        {
-          "name": "Los Koyas",
-          "url": "https://open.spotify.com/artist/24zoa2n32fPZwVJoGOr9xC"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "El Canto del Cuculi",
-      "url": "https://open.spotify.com/track/4bg6qNjRS1WaD1GrPV6zZm"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Viajante",
         "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 248941,
       "name": "Caracol",
       "url": "https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Le top des Andes (Les plus grands th\u00e8mes \u00e0 la fl\u00fbte des Andes)",
+        "url": "https://open.spotify.com/album/5SKiECHgu0Zs1cqIR8HJls"
+      },
+      "artists": [
+        {
+          "name": "Los Koyas",
+          "url": "https://open.spotify.com/artist/24zoa2n32fPZwVJoGOr9xC"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "El Canto del Cuculi",
+      "url": "https://open.spotify.com/track/4bg6qNjRS1WaD1GrPV6zZm"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Altamar",
-        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 289186,
-      "name": "Altamar",
-      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "No Vuelvo a Amar (feat. Yuri Ortu\u00f1o Le\u00f3n, Rafael Arias Paz, Orlando Jim\u00e9nez, Ra\u00fal Muriel) [Bolivia y Su Folklore]",
         "url": "https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 162168,
       "name": "Sajsahuaman",
       "url": "https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Altamar",
+        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
+      },
+      "artists": [
+        {
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+        }
+      ],
+      "duration_ms": 289186,
+      "name": "Altamar",
+      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
     },
     {
       "added_at": "2023-09-29 18:58:26",

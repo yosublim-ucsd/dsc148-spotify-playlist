@@ -1,12 +1,12 @@
 {
   "description": "El sonido experimental del Caribe \ud83c\udf34\ud83e\udd80\u269b\ufe0f",
-  "num_followers": 417,
+  "num_followers": 418,
   "original_name": "Caribe At\u00f3mico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi",
+  "snapshot_id": "MCwxNzlmN2EyYTExMjBiZjY3MGU0OGNiZjdjZGI1NTk1NThjY2FlMDNm",
   "tracks": [
     {
       "added_at": "2023-10-13 15:25:21",
@@ -398,15 +398,11 @@
         {
           "name": "iLe",
           "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 323916,
-      "name": "D\u00e9jame Decirte (feat. Eddie Palmieri)",
-      "url": "https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5"
+      "duration_ms": 187430,
+      "name": "\u00d1e \u00d1e \u00d1\u00e9",
+      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -511,6 +507,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Oigo voces",
+      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "Trending Tropics",
         "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
       },
@@ -531,22 +543,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "El Pozo",
-        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Oigo voces",
-      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "Almadura",
         "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
       },
@@ -554,11 +550,15 @@
         {
           "name": "iLe",
           "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 187430,
-      "name": "\u00d1e \u00d1e \u00d1\u00e9",
-      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
+      "duration_ms": 323916,
+      "name": "D\u00e9jame Decirte (feat. Eddie Palmieri)",
+      "url": "https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -591,6 +591,22 @@
       "duration_ms": 181874,
       "name": "Cr\u00f3nico",
       "url": "https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "El arca de Mima",
+        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 262318,
+      "name": "El arca de Mima",
+      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -631,22 +647,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "0000+0000",
-        "url": "https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp"
-      },
-      "artists": [
-        {
-          "name": "\u00ccF\u00c9",
-          "url": "https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF"
-        }
-      ],
-      "duration_ms": 250846,
-      "name": "Heart Full of Love",
-      "url": "https://open.spotify.com/track/0GKfAI5sNpbv1ALYiPgbU0"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "At 333 House",
         "url": "https://open.spotify.com/album/1ZoJQSxfZempYe5j2auBLh"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 186800,
       "name": "Babylon Will Fall",
       "url": "https://open.spotify.com/track/2t8F5RetPO9gKWAUKoQjcI"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "0000+0000",
+        "url": "https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp"
+      },
+      "artists": [
+        {
+          "name": "\u00ccF\u00c9",
+          "url": "https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF"
+        }
+      ],
+      "duration_ms": 250846,
+      "name": "Heart Full of Love",
+      "url": "https://open.spotify.com/track/0GKfAI5sNpbv1ALYiPgbU0"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -679,34 +695,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Prisma Tropical",
-        "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
+        "name": "No Es Importante",
+        "url": "https://open.spotify.com/album/3oKNrRZlkCeSqYaCjGNaLe"
       },
       "artists": [
         {
-          "name": "Bal\u00fan",
-          "url": "https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 293873,
-      "name": "La Nueva Ciudad",
-      "url": "https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "El arca de Mima",
-        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 262318,
-      "name": "El arca de Mima",
-      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
+      "duration_ms": 209498,
+      "name": "No Es Importante",
+      "url": "https://open.spotify.com/track/07H0vnntj9PXpuntUFjrMB"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -727,18 +727,54 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "No Es Importante",
-        "url": "https://open.spotify.com/album/3oKNrRZlkCeSqYaCjGNaLe"
+        "name": "Dos amores",
+        "url": "https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        },
+        {
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
         }
       ],
-      "duration_ms": 209498,
-      "name": "No Es Importante",
-      "url": "https://open.spotify.com/track/07H0vnntj9PXpuntUFjrMB"
+      "duration_ms": 202951,
+      "name": "Dos amores",
+      "url": "https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Prisma Tropical",
+        "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
+      },
+      "artists": [
+        {
+          "name": "Bal\u00fan",
+          "url": "https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU"
+        }
+      ],
+      "duration_ms": 293873,
+      "name": "La Nueva Ciudad",
+      "url": "https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Agua que Lleg\u00f3",
+        "url": "https://open.spotify.com/album/7A2qFodTELKiPiZjcxrMdV"
+      },
+      "artists": [
+        {
+          "name": "La Marimba",
+          "url": "https://open.spotify.com/artist/7MX1qcF0L9NKjXkXiLtbAx"
+        }
+      ],
+      "duration_ms": 241850,
+      "name": "Agua que Lleg\u00f3",
+      "url": "https://open.spotify.com/track/1WBC4Eg7S6448UzcZP7tYi"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -763,24 +799,8 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Agua que Lleg\u00f3",
-        "url": "https://open.spotify.com/album/7A2qFodTELKiPiZjcxrMdV"
-      },
-      "artists": [
-        {
-          "name": "La Marimba",
-          "url": "https://open.spotify.com/artist/7MX1qcF0L9NKjXkXiLtbAx"
-        }
-      ],
-      "duration_ms": 241850,
-      "name": "Agua que Lleg\u00f3",
-      "url": "https://open.spotify.com/track/1WBC4Eg7S6448UzcZP7tYi"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "La Nueva Esquina",
-        "url": "https://open.spotify.com/album/3PzZzZV9XyKNaRfF7oMEQM"
+        "name": "Turista",
+        "url": "https://open.spotify.com/album/5lps6A6YGtWDYgZ1X1SgbK"
       },
       "artists": [
         {
@@ -788,13 +808,13 @@
           "url": "https://open.spotify.com/artist/2OUkwuGIhpX2QlFzulGE6F"
         },
         {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+          "name": "Raquel Berr\u00edos",
+          "url": "https://open.spotify.com/artist/389m1TNMBlLANojDHI4qj9"
         }
       ],
-      "duration_ms": 227148,
-      "name": "Subo Subo",
-      "url": "https://open.spotify.com/track/4SulPJvtMSoxfj1uCuNzMz"
+      "duration_ms": 294192,
+      "name": "Naturaleza Humana (feat. Raquel Berr\u00edos)",
+      "url": "https://open.spotify.com/track/37WN9UzPLFYFpoP1AxXlmu"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -815,6 +835,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 365146,
+      "name": "La Princesa",
+      "url": "https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "Nice & Easy",
         "url": "https://open.spotify.com/album/5O9Q89o5XsnZB2wT7qO7Nk"
       },
@@ -831,42 +867,6 @@
       "duration_ms": 216590,
       "name": "Nice & Easy",
       "url": "https://open.spotify.com/track/7G01Y33GZ4IA2BJMoGtWTt"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "Dos amores",
-        "url": "https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        },
-        {
-          "name": "International Dub Ambassadors",
-          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
-        }
-      ],
-      "duration_ms": 202951,
-      "name": "Dos amores",
-      "url": "https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY"
-    },
-    {
-      "added_at": "2023-10-13 15:27:10",
-      "album": {
-        "name": "Conmigo",
-        "url": "https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 215708,
-      "name": "Conmigo",
-      "url": "https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20"
     }
   ],
   "unique_name": "Caribe At\u00f3mico",

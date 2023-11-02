@@ -22040,6 +22040,24 @@
     {
       "album": {
         "name": "Strangers (sad acoustic version)",
+        "url": "https://open.spotify.com/album/5r46y111iubU3MZRsC5ZPK"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184513,
+      "name": "Strangers - sad acoustic version",
+      "url": "https://open.spotify.com/track/2BRgLIB3KV9EYdUkOgDgWs"
+    },
+    {
+      "album": {
+        "name": "Strangers (sad acoustic version)",
         "url": "https://open.spotify.com/album/5IbJJqixgNWbwpipRhOagt"
       },
       "artists": [
@@ -22050,7 +22068,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 184513,
       "name": "Strangers - sad acoustic version",
       "url": "https://open.spotify.com/track/3FdmZW1QbdYwV1Iqomtbrt"

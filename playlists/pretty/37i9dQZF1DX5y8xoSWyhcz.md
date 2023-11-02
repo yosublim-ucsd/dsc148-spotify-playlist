@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,369 likes - 125 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,407 likes - 125 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 38 | [First Date](https://open.spotify.com/track/2NaNX3RHDNeOfJXX3ZPGRT) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [First Date](https://open.spotify.com/album/5IY5gfTnwVUs3m3xce9jYE) | 3:07 |
 | 39 | [Calling out Your Name](https://open.spotify.com/track/4pGIZh4h6fFqqfzCGq9CeO) | [Jay Feelbender](https://open.spotify.com/artist/0Ty4IlR2mjFlt3dBdvlHlI), [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Calling out Your Name](https://open.spotify.com/album/34iccKimpLFCsiMbOjP79t) | 2:39 |
 | 40 | [We Don't Need Malibu](https://open.spotify.com/track/523N1uxyBnVBJNEHG5sskY) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [We Don't Need Malibu](https://open.spotify.com/album/6HuhLBQbTGYmh95IOLIYMr) | 2:16 |
-| 41 | [Summer Of 99](https://open.spotify.com/track/7pYNJTBcjZjiONdUdk4vUM) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Summer Of 99](https://open.spotify.com/album/7pvFYXl8isCnyHVWpSOhp5) | 3:12 |
+| 41 | [Summer Of 99](https://open.spotify.com/track/5bHESPEBM1vvWeES2cVYSf) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Wish I Was Someone Else](https://open.spotify.com/album/2WDIji6iAg59CxqdOyEOyz) | 3:12 |
 | 42 | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/track/4jSctcEMRrrjbOo60pbfmj) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu), [Sahati](https://open.spotify.com/artist/3PGzj3O66abGPzQNmKELCf) | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/album/2Bom4X9Z5VZRH2tvWXRjx9) | 3:30 |
 | 43 | [Alonica](https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:58 |
 | 44 | [What's up](https://open.spotify.com/track/7Ho6dQkOqE0GB8Zb6fYf8h) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF) | 2:52 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Get With You](https://open.spotify.com/track/1cshIDD9PMf58mmOquIa9S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Get With You](https://open.spotify.com/album/7EeOH5oj2MgNjVFblGR6Ea) | 1:51 |
 | 125 | [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 |
 
-Snapshot ID: `MCw4YmZmYjIyNTg1ZmE2MThhM2YyMWVhMGFmMmVlY2RkOGZmNWE2OGUz`
+Snapshot ID: `MCxkMzVmZjYyODQ5NGJjOTYzY2Y5NzJjODI1YTRkOTdjZjUzY2Q4NDg5`

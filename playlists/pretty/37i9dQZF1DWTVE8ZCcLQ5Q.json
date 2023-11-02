@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 419369,
+  "num_followers": 419367,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj",
+  "snapshot_id": "MCwxMzVhYTUzMWU0NmU2NmZiZGI0MzNiZmU0NTI4NTI3MTJmZWE1NjI5",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "bonita e miser\u00e1vel",
+        "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 171601,
+      "name": "bonita e miser\u00e1vel",
+      "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Baby Hair",
         "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 153393,
       "name": "Baby Hair",
       "url": "https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "bonita e miser\u00e1vel",
-        "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 171601,
-      "name": "bonita e miser\u00e1vel",
-      "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Favelinha",
-        "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
-      },
-      "artists": [
-        {
-          "name": "Jovem MK",
-          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 102958,
-      "name": "Favelinha",
-      "url": "https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Ceder",
         "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 197617,
       "name": "Ceder",
       "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Favelinha",
+        "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
+      },
+      "artists": [
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 102958,
+      "name": "Favelinha",
+      "url": "https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
-        "url": "https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Su Madre Mandrake",
-          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
-        }
-      ],
-      "duration_ms": 121607,
-      "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
-      "url": "https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Face ID",
         "url": "https://open.spotify.com/album/0UjBaUcZ8Kn7rcc6KhFDzI"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 152062,
       "name": "Face ID",
       "url": "https://open.spotify.com/track/3ib4SClHlSQXqV8EwChkWZ"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
+        "url": "https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Su Madre Mandrake",
+          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
+        }
+      ],
+      "duration_ms": 121607,
+      "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
+      "url": "https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1"
     },
     {
       "added_at": "2023-10-05 08:00:00",

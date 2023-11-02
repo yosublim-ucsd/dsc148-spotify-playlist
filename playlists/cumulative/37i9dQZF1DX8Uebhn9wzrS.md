@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,651 songs - 2 day 14 hr 41 min
+1,652 songs - 2 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Aquarius](https://open.spotify.com/track/4AXG2evgy3smvD6OymqYys) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Aquarius](https://open.spotify.com/album/6V8QJQBvmgJRi8D5IpC3QZ) | 2:48 | 2022-11-11 | 2023-02-07 |
 | [Aquatic Crystals](https://open.spotify.com/track/4pUOWikHwi87jPXYtwwb3v) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Aquatic Crystals](https://open.spotify.com/album/2cUBsQeqRMJ3NqNVJsRW3U) | 2:05 | 2022-04-15 | 2023-02-14 |
 | [are you still awake?](https://open.spotify.com/track/0yhPGQumNYiw9VI2MRzrxK) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [are you still awake?](https://open.spotify.com/album/3zM77eNvVTifUQdcsxf6Bc) | 2:01 | 2023-02-13 |  |
-| [arrival](https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [arrival](https://open.spotify.com/album/4StEvC14w9UGdxD5SJqrhQ) | 2:49 | 2023-07-13 |  |
+| [arrival](https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [arrival](https://open.spotify.com/album/4StEvC14w9UGdxD5SJqrhQ) | 2:49 | 2023-07-13 | 2023-11-02 |
 | [Artful Haze](https://open.spotify.com/track/0Xlthct8SOi0gAdnn2GbRT) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Artful Haze](https://open.spotify.com/album/7etSid2yKrfknqNM8Tqs0Q) | 2:40 | 2022-04-15 | 2022-08-12 |
 | [Artifacts](https://open.spotify.com/track/0X3tR78eWkLh5yBDBXb1tF) | [Hi Hotel](https://open.spotify.com/artist/5XpDsM9N17TONXweroKN59) | [Cassette](https://open.spotify.com/album/2Q6LqD1dFcW7IuekRJ9C01) | 3:42 | 2022-04-15 | 2022-10-14 |
 | [Artificial](https://open.spotify.com/track/5a5TO5nHnrrCRtEGNpO8jV) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [Artificial](https://open.spotify.com/album/3v5ThC3GpRXSwxqjeBHlrQ) | 2:07 | 2023-03-08 |  |
@@ -234,7 +234,7 @@
 | [Calm Nights](https://open.spotify.com/track/1wlEdNaNaYrGzyyDvTiiPm) | [Culpeo](https://open.spotify.com/artist/6e16LN2fHwaIm2v5jQ541j) | [Calm Nights](https://open.spotify.com/album/4YmYvt1g6ARwbNFMMgQ1zv) | 2:50 | 2023-01-20 |  |
 | [Camden](https://open.spotify.com/track/0lqhcmKE55QRrNhiioofSU) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [Camden](https://open.spotify.com/album/3VzmyFeQ23wtK1hSM3Fdlq) | 2:53 | 2023-03-08 |  |
 | [Cameleon](https://open.spotify.com/track/2z9CyOsKP6VkZAh32ERYSz) | [JIMI O’HARA](https://open.spotify.com/artist/4ZjTiyXDnLJmJRmaxg5sFQ) | [CAMOUFLAGE](https://open.spotify.com/album/4QGUYHCw96ZtEKTWOlDj1i) | 1:55 | 2022-04-15 | 2022-06-25 |
-| [Campanuela](https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Campanuela](https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB) | 1:53 | 2023-10-27 | 2023-10-30 |
+| [Campanuela](https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Campanuela](https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB) | 1:53 | 2023-10-27 |  |
 | [Candor](https://open.spotify.com/track/1nTCeX3GsGLyh9TQtQpbOl) | [Sileon](https://open.spotify.com/artist/0wmKKwWn8zNrBnRpOkvcSH) | [Zone](https://open.spotify.com/album/2XiYnl7gqdERJbJcMR8bl9) | 1:58 | 2022-04-15 | 2022-05-13 |
 | [Candy Clouds](https://open.spotify.com/track/0Z4O3yTtmqdLXzCxSX9XPt) | [Airship River](https://open.spotify.com/artist/6v5wK0vEKyLP05vV9dvly6) | [Lemo](https://open.spotify.com/album/0rA6rd8ashXD1xaAQkbZRI) | 3:12 | 2022-04-15 | 2022-09-23 |
 | [Candy Shop](https://open.spotify.com/track/5qq7KECX28pBbnR1h938jV) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Candy Shop](https://open.spotify.com/album/4MLe2toeIB8t3RiYcTUJ1t) | 2:19 | 2022-04-22 |  |
@@ -432,6 +432,7 @@
 | [Earth](https://open.spotify.com/track/6NyXnrxqnsbJYqe64YUGt7) | [Little Green Dot](https://open.spotify.com/artist/0Tuzcf3XyorC725ZtcQRoK) | [Glo\-Fi](https://open.spotify.com/album/17vTmYvfvLzHGHEaAFsvkC) | 3:13 | 2022-04-15 | 2022-07-15 |
 | [Easy breath](https://open.spotify.com/track/2mqNw2TFosQlRp7QXplg4j) | [Faithvwl](https://open.spotify.com/artist/7bFyV2qQ7wkQLzAaHJli34), [SHEM](https://open.spotify.com/artist/5wL4hoQE1iJItzBTBUeUHi), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Easy breath](https://open.spotify.com/album/4jnq2DWiBX9rCw0Va42tWI) | 2:38 | 2022-10-07 | 2023-01-13 |
 | [eat your veggies](https://open.spotify.com/track/5yNvdmgmL6HkjkW8XHxYSW) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [eat your veggies](https://open.spotify.com/album/0fMC5s4VPFaNcs5s3jsYz6) | 2:29 | 2022-06-24 | 2022-12-09 |
+| [Edgy Stripes](https://open.spotify.com/track/1HfvXRyfR8DPm9KK0PCOue) | [sunnee](https://open.spotify.com/artist/6lT0N3TbFSVDDPMAVXk32X) | [Edgy Stripes](https://open.spotify.com/album/18EGmKo4d938htKFBJOZyB) | 2:10 | 2023-10-27 |  |
 | [Effortless](https://open.spotify.com/track/2uECuFneO3YfJjEv3kz68w) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Effortless](https://open.spotify.com/album/1ZK2ZibOj6CggnPP2arjLx) | 2:35 | 2022-05-13 | 2022-11-12 |
 | [Egg Rollz](https://open.spotify.com/track/5swljGcGse2QRMLWji89yv) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Egg Rollz](https://open.spotify.com/album/0g2qx277TrWnpNgQcXjvBp) | 2:11 | 2022-05-27 |  |
 | [Eggin](https://open.spotify.com/track/3X1ESRtZOrGiB5r3gobKZA) | [Masuyu](https://open.spotify.com/artist/6m6GTttiO1qLImlyNeXoz0) | [Eggin](https://open.spotify.com/album/7yHrYH37amcjPBuu2NxHwN) | 1:58 | 2022-04-15 | 2022-07-15 |
@@ -1570,7 +1571,7 @@
 | [Vitalization](https://open.spotify.com/track/3pp6vpEactYNh8gVMTt5Bk) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Frodas](https://open.spotify.com/album/6YywwAQYRqLBMuQTchAeZc) | 1:59 | 2022-05-27 |  |
 | [Voyager I](https://open.spotify.com/track/5jBUgazLXovmLGbaMaBXAz) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Voyager I](https://open.spotify.com/album/0xMT2wIw012AXByuwmumtx) | 2:08 | 2022-04-15 | 2022-08-12 |
 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2023-10-06 |  |
-| [waiting](https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [waiting](https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja) | 2:50 | 2022-12-02 |  |
+| [waiting](https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [waiting](https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja) | 2:50 | 2022-12-02 | 2023-11-02 |
 | [Waiting Room](https://open.spotify.com/track/5MAwrPj271eyVtlgNRrveQ) | [Brian Ward](https://open.spotify.com/artist/50cS50JU7y7f697pwo1qsw), [Shane Savala](https://open.spotify.com/artist/478Gr4jHvTgsWEYNUu1jJx) | [Waiting Room](https://open.spotify.com/album/5mdBUhiWj4IbsRYQt0Fv2W) | 2:52 | 2022-06-24 | 2022-11-26 |
 | [Waitress service](https://open.spotify.com/track/5ALbklP1iYE6UaPzO0tVlS) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Waitress service](https://open.spotify.com/album/6EYqvlu2EjsRqQ9VmKuDSR) | 1:50 | 2023-07-13 |  |
 | [Walk in the Park](https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Walk in the Park](https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT) | 2:08 | 2023-09-29 |  |

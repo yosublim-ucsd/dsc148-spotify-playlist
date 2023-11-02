@@ -3711,6 +3711,24 @@
     },
     {
       "album": {
+        "name": "Fortune's child",
+        "url": "https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr"
+      },
+      "artists": [
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148120,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/3GNmo4ljOTnd8k6VKug1Ut"
+    },
+    {
+      "album": {
         "name": "Pedestal",
         "url": "https://open.spotify.com/album/74j49vtdc0Kyvx93Br8wzG"
       },
@@ -3722,7 +3740,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 148120,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/3HlC2UxeXbkTQdFLta3F6N"

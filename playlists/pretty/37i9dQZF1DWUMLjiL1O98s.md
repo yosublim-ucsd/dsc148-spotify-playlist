@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMLjiL1O98s.md) - [plain]
 
 > La nueva ola del Afrobeats con un toque latino\. Feid y Rema en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,802 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,813 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMLjiL1O98s.md) - [plain]
 | 46 | [Bea](https://open.spotify.com/track/1SMBj0m4IL03ExtIbCHJMs) | [Malaka](https://open.spotify.com/artist/2IFT6Pp5gkM7cA6TO48VCD), [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf), [El Bandolero](https://open.spotify.com/artist/5bSI7DmMQFvDRkV8RMe2wB) | [Bea](https://open.spotify.com/album/7pqnjrENDHvgfxJbo392yL) | 2:48 |
 | 47 | [Despecho](https://open.spotify.com/track/4iqoaXqkaLvPOqagS3Gh7r) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Kendall Brown](https://open.spotify.com/artist/67YvgO6sQgQQPrFhPESewC), [Caleb Rs](https://open.spotify.com/artist/3HcmYyZ26lw8nyF4adbkcK) | [Despecho](https://open.spotify.com/album/5f0xkA2fkluMBJ7Z9mKDC1) | 4:44 |
 | 48 | [Tu](https://open.spotify.com/track/7yjKBCdDFM6mrwxsOK5iYM) | [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Tu](https://open.spotify.com/album/3OQ7OIIIWGjdHCBzZwDMbH) | 3:21 |
-| 49 | [Antojo \(DELUXE\)](https://open.spotify.com/track/0FTOeXnyvHAa5RY3hGV8xM) | [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [El Gerard](https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P), [La Colectiva Élite](https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa) | [Antojo \(DELUXE\)](https://open.spotify.com/album/1Yx1AWSUOCfFJtUWc2JsM2) | 3:03 |
+| 49 | [Antojo \(DELUXE\)](https://open.spotify.com/track/3PDPm7FgXdz05yuKRby8A3) | [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq), [Hamilton](https://open.spotify.com/artist/56xde3bnvx5G7v6Grx4985), [El Gerard](https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P), [La Colectiva Élite](https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa) | [Antojo \(DELUXE\)](https://open.spotify.com/album/5OK6qhRZ8488geB2TdD9Vz) | 3:03 |
 | 50 | [Temperatura](https://open.spotify.com/track/2UfpfV2WxigRmD18l9ZljV) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd) | [Temperatura](https://open.spotify.com/album/7abI9YMcXarbBeG7mSTsNt) | 2:17 |
 | 51 | [Rosalia](https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [Ladies First](https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU) | 3:01 |
 | 52 | [Quédate Cerquita](https://open.spotify.com/track/1Dxg9BakAeiYcQt31hKt8g) | [Dactah Chando](https://open.spotify.com/artist/4jQ9pB7Af52o4seNFwOeAG), [Guido Craveiro](https://open.spotify.com/artist/4vF2JLNnAVttxoX98PMaAi) | [Quédate Cerquita](https://open.spotify.com/album/1Ws1DDzB4aEwIFYu41RuDh) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMLjiL1O98s.md) - [plain]
 | 99 | [Síntomas](https://open.spotify.com/track/2QBpWDBpXFHMqGDpzloz5O) | [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl) | [Latidos](https://open.spotify.com/album/5YiqfVXsekY2Vxb4MGtSCG) | 3:00 |
 | 100 | [OMA](https://open.spotify.com/track/2tnb6KLgg0e3NCtvLkoer1) | [ZERO](https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew) | [OMA](https://open.spotify.com/album/2197Q17orIgTBhVYZ01PwU) | 2:24 |
 
-Snapshot ID: `MCw3NmUzYjA0NDU0M2M3Njc4YmE2Y2Y4NzY5NmM0NTlhZTU1YjU3YTlm`
+Snapshot ID: `MCxhNmU5NzBhYTM3MWY0ZWI1MWE3ZjQ3NzExN2ZlZTdkN2M2MTdmM2Zk`

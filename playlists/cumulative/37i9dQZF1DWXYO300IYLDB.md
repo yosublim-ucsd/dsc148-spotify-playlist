@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-313 songs - 18 hr 45 min
+314 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Fix'n To Break](https://open.spotify.com/track/47ckAjwHu73FP7DKZHyyRX) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fix'n To Break](https://open.spotify.com/album/4fCLfVVsxyY9TYvGIT9h6H) | 3:52 | 2023-02-09 | 2023-06-07 |
 | [Floating Sun](https://open.spotify.com/track/1Wn1Q5T9m7mdvZvY46YNsW) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [The Gaze](https://open.spotify.com/album/7Cd4KJlQfeCEATCK92SswJ) | 2:28 | 2022-10-20 | 2022-11-23 |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-10-20 |  |
-| [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 | 2022-10-20 |  |
+| [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 | 2022-10-20 | 2023-11-02 |
 | [Forever Young](https://open.spotify.com/track/3jDuXdGHAvCFOuCTbwYUhw) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Shadow Kingdom](https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE) | 3:15 | 2023-06-01 |  |
 | [Forget](https://open.spotify.com/track/3BPtB1Ov7UAjLGYgNwEm5c) | [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [Regrets of Love](https://open.spotify.com/album/1tiNC8uVsIZufZnfviA2xZ) | 3:56 | 2023-05-02 | 2023-07-07 |
 | [Foxglove Through The Clearcut \- Acoustic](https://open.spotify.com/track/4EfROdTKT8NTmJg8gxgXQi) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Foxglove Through The Clearcut \(Acoustic\)](https://open.spotify.com/album/1TUrfRrI0YybA6OKkZo6lB) | 5:05 | 2023-02-23 | 2023-04-14 |
@@ -299,6 +299,7 @@
 | [Ya Ya\(あの時代を忘れない\)](https://open.spotify.com/track/2mFs8J6jiK8ardI4NjhqqH) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [kiss](https://open.spotify.com/album/1ceWSCpDoeJNHCnsR2RJyB) | 4:32 | 2022-12-13 | 2023-02-17 |
 | [YD9000](https://open.spotify.com/track/3qDLobOOINoYaDocsMeIJR) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BUDDY CLUB](https://open.spotify.com/album/0nNF3J9mHGy8v07hWoBLiI) | 4:02 | 2023-04-25 | 2023-05-03 |
 | [you \- acoustic ver.](https://open.spotify.com/track/6PoqQYeVDo9Xomm8lsDcXA) | [MARQUEE BEACH CLUB](https://open.spotify.com/artist/10jq0g2cMQSPdO8pttjsFa) | [follow](https://open.spotify.com/album/7yhJp7Az2KHxFPkv0jGOvC) | 4:07 | 2022-12-13 | 2023-01-20 |
+| [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 | 2023-10-26 |  |
 | [Your Song \- Bonus Track](https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights \(Lights Re\-pack / Bonus Version\)](https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V) | 3:11 | 2023-03-14 |  |
 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 | 2022-11-10 |  |
 | [カタオモイ \- From THE FIRST TAKE](https://open.spotify.com/track/3u5nJX5PF2qXQe2vyolnme) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/1YSluMFx67PoAuWIMAEXEh) | 3:42 | 2022-12-13 | 2023-05-03 |

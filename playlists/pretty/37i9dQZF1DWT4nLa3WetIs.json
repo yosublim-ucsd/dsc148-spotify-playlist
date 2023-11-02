@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 129114,
+  "num_followers": 129325,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzU5YmY4NTAyOTk0M2ZjZjk2Y2Q1YWI2NmNkNDZiOWE4ZWQzYWEy",
+  "snapshot_id": "MCxhMmQ5Mzk4ZGI1YThjMDFkNTgwNDVmMDdkOWE3Y2U1OTk0Nzk3OWU2",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Kolom",
-        "url": "https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj"
-      },
-      "artists": [
-        {
-          "name": "BukBak",
-          "url": "https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV"
-        }
-      ],
-      "duration_ms": 280737,
-      "name": "Kolom",
-      "url": "https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Bundelele",
         "url": "https://open.spotify.com/album/6cwfMBhOiJaTsJGKk3x0X5"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 205970,
       "name": "Bundelele",
       "url": "https://open.spotify.com/track/6VtdRYA62JdfnYFlsAqjpT"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Kolom",
+        "url": "https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj"
+      },
+      "artists": [
+        {
+          "name": "BukBak",
+          "url": "https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV"
+        }
+      ],
+      "duration_ms": 280737,
+      "name": "Kolom",
+      "url": "https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "The Thing",
-        "url": "https://open.spotify.com/album/06nSQsDNTe1NNBeJvsC28n"
-      },
-      "artists": [
-        {
-          "name": "Drumz",
-          "url": "https://open.spotify.com/artist/4fGcqONONvUtBpp8G84u7s"
-        }
-      ],
-      "duration_ms": 292531,
-      "name": "The Thing",
-      "url": "https://open.spotify.com/track/405XbnXle3IZ5Aj2bZT3Nu"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Waist & Power",
         "url": "https://open.spotify.com/album/2yoVgfL21I1DRDSFuoqjMn"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 305669,
       "name": "Waist & Power",
       "url": "https://open.spotify.com/track/6mtHjfaPzBND2HS2c0UsU3"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "The Thing",
+        "url": "https://open.spotify.com/album/06nSQsDNTe1NNBeJvsC28n"
+      },
+      "artists": [
+        {
+          "name": "Drumz",
+          "url": "https://open.spotify.com/artist/4fGcqONONvUtBpp8G84u7s"
+        }
+      ],
+      "duration_ms": 292531,
+      "name": "The Thing",
+      "url": "https://open.spotify.com/track/405XbnXle3IZ5Aj2bZT3Nu"
     },
     {
       "added_at": "2020-11-06 13:21:21",

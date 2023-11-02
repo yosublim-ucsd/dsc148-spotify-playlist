@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Articolo 31, Artie 5ive, Villabanks, Néza e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,837 likes - 99 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,846 likes - 99 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 98 | [Naples](https://open.spotify.com/track/6hOndc2UrGv7jU12S6IvS0) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [Naples](https://open.spotify.com/album/2bpDU3tbbS3kvj17Ds34wC) | 3:16 |
 | 99 | [RIGHT NOW](https://open.spotify.com/track/297PW1HJOcvwUJ1MivA7IL) | [SixOneSix](https://open.spotify.com/artist/5QK6u3vdOJBt4hJjJoYCLd), [Young AM](https://open.spotify.com/artist/2upvuqOIxuRf1vq9KsojFJ) | [RIGHT NOW](https://open.spotify.com/album/6QFSqhW28t4XaQZ0KZ6zOp) | 2:19 |
 
-Snapshot ID: `MCwwZWFiODAwYWQyYjk3NjZiODVlZjc5MjQzNDA3YWVlNzAyNWFhOGNk`
+Snapshot ID: `MCxiN2UyZTYzY2U2Y2MyMDc4MzE0YTAzYTI5OGY5Mzc2NjMxNjg1Mzc1`

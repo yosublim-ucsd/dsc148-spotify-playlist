@@ -2,7 +2,7 @@
 
 ### [10s Love Songs](https://open.spotify.com/playlist/37i9dQZF1DWVTfbQdQ8l7H)
 
-> Unforgettable love songs from the 2010s.
+> Las canciones de amor inolvidables de la década de 2010.
 
 112 songs - 7 hr 5 min
 

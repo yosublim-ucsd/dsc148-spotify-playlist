@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 17940,
+  "num_followers": 17944,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2E3M2MyNzBiZjNmN2ZiY2ZkMGEyMTc1MjBmMWRkMTVjMjZjNzFl",
+  "snapshot_id": "MCwxNzkyOTFiYWRmNDM1ZGRmYWYwZTQ5MTY5NWQ5N2RmZmU0MzU4N2Nk",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -579,26 +579,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Spirit Of David",
-        "url": "https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        },
-        {
-          "name": "Radical For Christ",
-          "url": "https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "Oh Give Thanks (Psalm 136)",
-      "url": "https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "God of the Ages (Live At The Manor)",
         "url": "https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 256437,
       "name": "God of the Ages - Single Version - Live",
       "url": "https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Spirit Of David",
+        "url": "https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        {
+          "name": "Radical For Christ",
+          "url": "https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "Oh Give Thanks (Psalm 136)",
+      "url": "https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "At This Table",
+        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 239932,
+      "name": "At This Table",
+      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "All Sons & Daughters",
         "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 335652,
       "name": "We Give You Thanks",
       "url": "https://open.spotify.com/track/7ophliTSArPbWKiydO5TRl"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "At This Table",
-        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 239932,
-      "name": "At This Table",
-      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Faithful To Believe",
+        "url": "https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61"
+      },
+      "artists": [
+        {
+          "name": "Byron Cage",
+          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
+        }
+      ],
+      "duration_ms": 386466,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Thankful (Live)",
         "url": "https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 419000,
       "name": "Thankful - Live",
       "url": "https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Faithful To Believe",
-        "url": "https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61"
-      },
-      "artists": [
-        {
-          "name": "Byron Cage",
-          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
-        }
-      ],
-      "duration_ms": 386466,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm"
     },
     {
       "added_at": "2022-11-23 15:01:23",

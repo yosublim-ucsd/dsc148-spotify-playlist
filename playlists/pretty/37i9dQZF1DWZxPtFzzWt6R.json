@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 73105,
+  "num_followers": 73185,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTUwOWVmMjQyYWEzY2M3YzQ5Y2M5MmIzYTkzZjNjNGE5YjJhOTdk",
+  "snapshot_id": "MCxlYWRjMzQ2NWVhYWI0Yjk0YjcxZDVmYzJkOTU2YjZhNTQwNzNhOWZh",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -79,6 +79,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "O Melhor de Deus",
+        "url": "https://open.spotify.com/album/23PXhFtedksJjfqR2zKDf5"
+      },
+      "artists": [
+        {
+          "name": "Adriana Aguiar",
+          "url": "https://open.spotify.com/artist/7tWTmA4Jd9L4JKLSebzvv6"
+        }
+      ],
+      "duration_ms": 156343,
+      "name": "O Melhor de Deus",
+      "url": "https://open.spotify.com/track/1plQG6oEC5ms13F0q7f3Qi"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "T\u00f4 Preparado",
         "url": "https://open.spotify.com/album/05veWAkEESHkjO3mwiEqB2"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 189085,
       "name": "T\u00f4 Preparado",
       "url": "https://open.spotify.com/track/1nQ4jgCNZ6Vj6XUCLjK1Q1"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "O Melhor de Deus",
-        "url": "https://open.spotify.com/album/23PXhFtedksJjfqR2zKDf5"
-      },
-      "artists": [
-        {
-          "name": "Adriana Aguiar",
-          "url": "https://open.spotify.com/artist/7tWTmA4Jd9L4JKLSebzvv6"
-        }
-      ],
-      "duration_ms": 156343,
-      "name": "O Melhor de Deus",
-      "url": "https://open.spotify.com/track/1plQG6oEC5ms13F0q7f3Qi"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Louvor Ra\u00edz (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN"
       },
       "artists": [
         {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Oliveira Verdadeira - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
+      "duration_ms": 273531,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Deus Prover\u00e1",
-        "url": "https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN"
+        "name": "Louvor Ra\u00edz (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
       },
       "artists": [
         {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         }
       ],
-      "duration_ms": 273531,
-      "name": "Deus Prover\u00e1",
-      "url": "https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX"
+      "duration_ms": 254000,
+      "name": "Oliveira Verdadeira - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -691,38 +691,6 @@
       "duration_ms": 288012,
       "name": "De Volta \u00e0 Inoc\u00eancia",
       "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Eu Vou para o C\u00e9u",
-        "url": "https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf"
-      },
-      "artists": [
-        {
-          "name": "Suellen Lima",
-          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
-        }
-      ],
-      "duration_ms": 201090,
-      "name": "Eu Vou para o C\u00e9u",
-      "url": "https://open.spotify.com/track/0qacmh2FDALRfili16U6wk"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Deus \u00c9 Fiel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 269159,
-      "name": "Deus \u00c9 Fiel - Ao Vivo",
-      "url": "https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -747,18 +715,34 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "O Meu Clamor, Vol. 2",
-        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
+        "name": "Deus \u00c9 Fiel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48"
       },
       "artists": [
         {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
         }
       ],
-      "duration_ms": 194960,
-      "name": "Ovelha Rebelde",
-      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
+      "duration_ms": 269159,
+      "name": "Deus \u00c9 Fiel - Ao Vivo",
+      "url": "https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Eu Vou para o C\u00e9u",
+        "url": "https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf"
+      },
+      "artists": [
+        {
+          "name": "Suellen Lima",
+          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
+        }
+      ],
+      "duration_ms": 201090,
+      "name": "Eu Vou para o C\u00e9u",
+      "url": "https://open.spotify.com/track/0qacmh2FDALRfili16U6wk"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -799,6 +783,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "O Meu Clamor, Vol. 2",
+        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "Ovelha Rebelde",
+      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "A Terra e o Lavrador",
         "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
       },
@@ -831,38 +831,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Amar \u00c9 F\u00e1cil",
-        "url": "https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8"
-      },
-      "artists": [
-        {
-          "name": "Lenno Maia",
-          "url": "https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx"
-        }
-      ],
-      "duration_ms": 277514,
-      "name": "Amar \u00c9 F\u00e1cil",
-      "url": "https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Ref\u00e9m do Caminh\u00e3o",
-        "url": "https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        }
-      ],
-      "duration_ms": 276088,
-      "name": "Ref\u00e9m do Caminh\u00e3o",
-      "url": "https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Aquele Que Morreu na Cruz",
         "url": "https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV"
       },
@@ -879,6 +847,22 @@
       "duration_ms": 203769,
       "name": "Aquele Que Morreu na Cruz",
       "url": "https://open.spotify.com/track/1WQxnqVIpabXhfguWVML3e"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Amar \u00c9 F\u00e1cil",
+        "url": "https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8"
+      },
+      "artists": [
+        {
+          "name": "Lenno Maia",
+          "url": "https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx"
+        }
+      ],
+      "duration_ms": 277514,
+      "name": "Amar \u00c9 F\u00e1cil",
+      "url": "https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -915,22 +899,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Ra\u00edzes Vol. 1",
-        "url": "https://open.spotify.com/album/5BzNE7xEQeDlq0XhsCv8pM"
-      },
-      "artists": [
-        {
-          "name": "Vitor Quevedo",
-          "url": "https://open.spotify.com/artist/4CPKaeqLullSnylxXSgv9G"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "Achei um Bom Amigo",
-      "url": "https://open.spotify.com/track/4TZCYmMj0wSelrac8rUC03"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Minha Ilha",
         "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
       },
@@ -947,6 +915,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Ra\u00edzes Vol. 1",
+        "url": "https://open.spotify.com/album/5BzNE7xEQeDlq0XhsCv8pM"
+      },
+      "artists": [
+        {
+          "name": "Vitor Quevedo",
+          "url": "https://open.spotify.com/artist/4CPKaeqLullSnylxXSgv9G"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "Achei um Bom Amigo",
+      "url": "https://open.spotify.com/track/4TZCYmMj0wSelrac8rUC03"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
         "url": "https://open.spotify.com/album/65AR5SWnfULr33MQngy9at"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 270677,
       "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
       "url": "https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Ref\u00e9m do Caminh\u00e3o",
+        "url": "https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 276088,
+      "name": "Ref\u00e9m do Caminh\u00e3o",
+      "url": "https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc"
     },
     {
       "added_at": "2023-10-20 03:00:00",

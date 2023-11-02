@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Chxrry22.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,733 likes - 97 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,864 likes - 97 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 26 | [Someone Else](https://open.spotify.com/track/2Wotno3Bbbyb1d1pv2SuCm) | [Hunnah](https://open.spotify.com/artist/5ALJQTH4K9eghzib4UhiqV) | [That's All For Now](https://open.spotify.com/album/1VQK4sDYIDVAQ8xyT1zZsH) | 3:44 |
 | 27 | [Test What I Know](https://open.spotify.com/track/1bThsxS53qUOGqj7nj3tck) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:34 |
 | 28 | [Only 2](https://open.spotify.com/track/5FBZzQJuI1jSNcCpUhjl8f) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Only 2](https://open.spotify.com/album/05nAkuAyzlbph59Bqsmjfy) | 2:56 |
-| 29 | [LIE LIE LIE!](https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [LIE LIE LIE!](https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS) | 2:28 |
+| 29 | [LIE LIE LIE!](https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [LIE LIE LIE!](https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS) | 2:28 |
 | 30 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
 | 31 | [Make It Home Alive](https://open.spotify.com/track/58gTcNANKI0lxKMvZNsDCT) | [IAMTHELIVING](https://open.spotify.com/artist/4In8v2qeNt0xIzOFqm6mVb), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Make It Home Alive](https://open.spotify.com/album/1ZXWjVuB9CRFwVN7I5udac) | 2:57 |
 | 32 | [Bahamas Promises](https://open.spotify.com/track/3JZjcKImHcmOI9ylL4zrSc) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:04 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 96 | [Mad At Me](https://open.spotify.com/track/5rDlvQe5W9TjAPsCZJiC0v) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB) | [Mad At Me](https://open.spotify.com/album/19YZWqjzdB21eSPKmqdBVH) | 2:32 |
 | 97 | [NDZ](https://open.spotify.com/track/4AVaqcOFUH1JBtMTNKZEXd) | [Afta Hill](https://open.spotify.com/artist/2QyfQWgIraqOxY6uBmwP6f) | [NOTHING nothing](https://open.spotify.com/album/4sOJHnuwsLnFmgDehTLamo) | 3:35 |
 
-Snapshot ID: `MCwwNjQ4YWQxNzBhNGZlODlmMDM2NTE2MmMzZGYyYjM3MzhiYTQzY2Fk`
+Snapshot ID: `MCxlMGQzY2Y1MGJlNzYxYmUwMTEwMDMzMjc4ZWJmZjRhNjg4ODlhY2Vm`

@@ -4,7 +4,7 @@
 
 > Just chill, and potentially disassociate, in 2023.
 
-573 songs - 1 day 9 hr 9 min
+574 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,7 +476,8 @@
 | [Sundance Happy](https://open.spotify.com/track/7JNUIRdD1r0U4eeYScySl6) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Sundance Happy](https://open.spotify.com/album/4ZwXzrl5Zyg9srZFqGNuG3) | 2:50 | 2022-08-19 | 2023-04-22 |
 | [Sunday by the River](https://open.spotify.com/track/5SjdXpQqq54uRrlSXv12i4) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Sunday by the River](https://open.spotify.com/album/0Ukujcae2Ufeke5HuKzZQW) | 2:33 | 2023-04-21 |  |
 | [Sunday Highs](https://open.spotify.com/track/0nTPsunfxFFAV3xMSDtVT2) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R) | [Sunday Highs](https://open.spotify.com/album/1DRFFRPFexXzafY8nIO3SY) | 2:32 | 2023-05-22 | 2023-06-04 |
-| [Sunday Highs](https://open.spotify.com/track/3AxUOSGLgLOD0uPF7ieRCj) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R) | [Cultivar](https://open.spotify.com/album/5dcXXIc2xcLQShlZDXyiHa) | 2:32 | 2023-05-22 |  |
+| [Sunday Highs](https://open.spotify.com/track/3AxUOSGLgLOD0uPF7ieRCj) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R) | [Cultivar](https://open.spotify.com/album/5dcXXIc2xcLQShlZDXyiHa) | 2:32 | 2023-05-22 | 2023-11-02 |
+| [Sunday Highs](https://open.spotify.com/track/3QgOr4aQcudAyJvc3q5K0I) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R) | [Sunday Highs](https://open.spotify.com/album/5ROyrhnhDh2AE1ibOaf7mL) | 2:32 | 2023-09-29 |  |
 | [Sunday in the park + STUTS](https://open.spotify.com/track/5Dxg3FrfL7RYTLgbiI0hmZ) | [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [Sunday in the park + STUTS](https://open.spotify.com/album/4nL3Vhs27eX3LZFKr3C0s3) | 4:34 | 2020-05-08 | 2022-01-22 |
 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 | 2022-08-11 | 2023-07-22 |
 | [Sunflower](https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:23 | 2022-09-29 |  |

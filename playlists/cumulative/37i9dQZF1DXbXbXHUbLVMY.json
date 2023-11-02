@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "BIG BANDZ",
+        "url": "https://open.spotify.com/album/38HjO1arCoX18hmmBSoR8c"
+      },
+      "artists": [
+        {
+          "name": "Rvzeli",
+          "url": "https://open.spotify.com/artist/1ufmj2rsu21unXQ7C6naYy"
+        },
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "BIG BANDZ",
+      "url": "https://open.spotify.com/track/5QYc0tl5ZAz8I7lMmlCuYJ"
+    },
+    {
+      "album": {
         "name": "BLANCO",
         "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
       },
@@ -278,7 +300,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 91764,
       "name": "Brazil Flow",
       "url": "https://open.spotify.com/track/1rxFEfLu4vTQUJzvB5Hddr"
@@ -518,7 +540,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 182769,
       "name": "Feeling Myself",
       "url": "https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1"
@@ -1264,7 +1286,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 129714,
       "name": "Psykopat",
       "url": "https://open.spotify.com/track/4ImKE5dAPoZoDxKKwIimhn"

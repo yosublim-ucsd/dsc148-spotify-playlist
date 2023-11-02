@@ -1026,6 +1026,28 @@
     {
       "album": {
         "name": "Wolves of Africa (Part 1/2)",
+        "url": "https://open.spotify.com/album/1akHGNTcQLSYfW9absfZul"
+      },
+      "artists": [
+        {
+          "name": "James BKS",
+          "url": "https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV"
+        },
+        {
+          "name": "The Big Hash",
+          "url": "https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159324,
+      "name": "High Level",
+      "url": "https://open.spotify.com/track/0ukJe2qwhEseGHFB5DTM70"
+    },
+    {
+      "album": {
+        "name": "Wolves of Africa (Part 1/2)",
         "url": "https://open.spotify.com/album/221gN8YGCd9AvgolHsd2eC"
       },
       "artists": [
@@ -1094,7 +1116,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 167893,
       "name": "I'm Gon' Get You",
       "url": "https://open.spotify.com/track/3HcZq5T4OW6nSL0iUs4t9s"

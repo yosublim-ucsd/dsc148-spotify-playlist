@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Averagekidluke ja ibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,695 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,711 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Kylmä \(feat\. Etta\)](https://open.spotify.com/track/6DZb09dWZhI7dF4wLRRxfz) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Kylmä \(feat\. Etta\)](https://open.spotify.com/album/5M96DNh1ylelY2dbFutcZb) | 2:33 |
 | 60 | [Vampyyrit](https://open.spotify.com/track/00tdWbLkXLbQgUjPlASRUS) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Vampyyrit](https://open.spotify.com/album/3cthnJNmrkmSCSBG9cF15v) | 2:26 |
 
-Snapshot ID: `MCw1MDcwMzBiN2VmODE0ODkzOGNkYjBlNDhlNTQ2MzMwZDEwMWU3NWM1`
+Snapshot ID: `MCw2NTQ4MDBlNTU3NGMwNGZjM2VkZWI5NDFmYTY0NWJjZDI1ZWVkNmZi`

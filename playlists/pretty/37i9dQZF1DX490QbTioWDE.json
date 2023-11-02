@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno, Big One & Rusherking.",
-  "num_followers": 645774,
+  "num_followers": 646114,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjMyNGY3Zjg5NWY4NDAyYjI4MDJkZTJhNDgxMjEzMDU4ZmUyY2U4",
+  "snapshot_id": "MCxhZjc1YjhiOTlhYjQyZGY0ZjE5ZTljMmZjNTg2ZDNhNTA2ODIzODlj",
   "tracks": [
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Aguardiente",
-        "url": "https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 199445,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Fern\u00e9, Cola y Cuarteto: Los 24 Grandes del Cuarteto!!",
         "url": "https://open.spotify.com/album/4sXZ2L8IViN0Qrg9dxlewT"
       },
@@ -1619,6 +1599,26 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 199445,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Ni Lo Pienses",
         "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
       },
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Me Duele Tu Nombre",
-        "url": "https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY"
+        "name": "Eran dos locos de amor",
+        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
       },
       "artists": [
         {
-          "name": "Roc\u00edo Quiroz",
-          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
         }
       ],
-      "duration_ms": 296515,
-      "name": "Me Duele Tu Nombre",
-      "url": "https://open.spotify.com/track/49Q78abEP3Ou0RFXRcAo2h"
+      "duration_ms": 169496,
+      "name": "Eran dos locos de amor",
+      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1671,18 +1667,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Eran dos locos de amor",
-        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
+        "name": "Me Duele Tu Nombre",
+        "url": "https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY"
       },
       "artists": [
         {
-          "name": "Los Reyes del Cuarteto",
-          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         }
       ],
-      "duration_ms": 169496,
-      "name": "Eran dos locos de amor",
-      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
+      "duration_ms": 296515,
+      "name": "Me Duele Tu Nombre",
+      "url": "https://open.spotify.com/track/49Q78abEP3Ou0RFXRcAo2h"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Me Duele Tu Nombre (En Vivo)",
-        "url": "https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo Quiroz",
-          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        }
-      ],
-      "duration_ms": 192483,
-      "name": "Me Duele Tu Nombre (En Vivo)",
-      "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 152432,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Me Duele Tu Nombre (En Vivo)",
+        "url": "https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "duration_ms": 192483,
+      "name": "Me Duele Tu Nombre (En Vivo)",
+      "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
     }
   ],
   "unique_name": "100% Cuarteto",

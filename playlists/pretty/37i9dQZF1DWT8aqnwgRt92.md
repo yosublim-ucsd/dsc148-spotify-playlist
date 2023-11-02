@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,365,016 likes - 85 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,365,483 likes - 85 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 17 | [KUNOICHI](https://open.spotify.com/track/54oSb0hs2lyn13ZanbVUkW) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [KUNOICHI](https://open.spotify.com/album/1pVKX4UnCrRGGvwth0FyOI) | 3:39 |
 | 18 | [遥か](https://open.spotify.com/track/5DjOVg4mTlMHWsLREAHe7S) | [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [遥か](https://open.spotify.com/album/3YDS1skzsx5PZk0HspoEm9) | 3:01 |
 | 19 | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/track/3h05x3Bh7SOzINsxBMgFDS) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy), [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [想風（TVアニメ『薬屋のひとりごと』挿入歌）](https://open.spotify.com/album/3wh5pzFmCbKM93X2pgcdTj) | 2:28 |
-| 20 | [カタオモイ \- from CrosSing](https://open.spotify.com/track/0479VLYXQef7QpQsbOffH9) | [長谷川育美](https://open.spotify.com/artist/1Lx0quf8SwnTM2Ucr9fEA6) | [カタオモイ \- from CrosSing](https://open.spotify.com/album/3xOhRNZiKMRuZZjyBACawZ) | 3:25 |
+| 20 | [Kataomoi \- From CrosSing](https://open.spotify.com/track/5ZZrQwgtdm0pGC8YA3qO50) | [Hasegawa Ikumi](https://open.spotify.com/artist/2ry3SeF9037A5uPeb8FaYx) | [Kataomoi \- From CrosSing](https://open.spotify.com/album/42oVq6U7nskgpDQNdjCGga) | 3:25 |
 | 21 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 |
 | 22 | [ハロ](https://open.spotify.com/track/69cF34CNjzxX1ySIPJxtMf) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [ハロ](https://open.spotify.com/album/0mzoRF3WErpncvKCQqoHEu) | 3:18 |
 | 23 | [Suki ni Naccha Dame na Hito](https://open.spotify.com/track/4qnO8leJ0xIAvEkEnYB4nu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Suki ni Naccha Dame na Hito](https://open.spotify.com/album/2VnYRRWGs3kat0GeFjwzwl) | 3:37 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [FIRST GREETING](https://open.spotify.com/track/3A2N0YMWbk7mG0Hc748nur) | [花たん](https://open.spotify.com/artist/7gCg1p9hTSlp86FNnq5VJN) | [TV SERIES ”LET ME CHECK THE WALKTHROUGH FIRST”](https://open.spotify.com/album/2Dm9bs7CVC5PgyfIrjxfEz) | 4:16 |
 | 85 | [Hyper](https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N) | 4:17 |
 
-Snapshot ID: `MCxkOWEwZDc2OWIwNDYzYzlmNTExNGFiMjJiOWMzMmNhMDQxZjM2ZDFi`
+Snapshot ID: `MCxmNzY0OGYwMjJhOTU3MTRjZjk0ZDk2OTU5YmMzN2RkODUwYjU5ZWVk`

@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Edu Falaschi
 
-83 songs - 6 hr 13 min
+84 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Post Traumatic Blues](https://open.spotify.com/track/5CC5bb5rrxisi8Mmb3prcL) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Post Traumatic Blues](https://open.spotify.com/album/1SUWFyxji7bVsbRYYi2Dni) | 5:43 | 2023-09-15 |  |
 | [Repentless](https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 3:19 | 2023-07-14 |  |
 | [Rock Believer](https://open.spotify.com/track/0CsORbIcXLBUVVlntpO7Q3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer](https://open.spotify.com/album/1Wx6vTc4adeBbEJgQCbZV3) | 3:57 | 2023-07-14 |  |
-| [Roots Bloody Roots \- Live; 2022 \- Remaster](https://open.spotify.com/track/2ef6CT41GcKShloWcjzb95) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Live in São Paulo \(2022 \- Remaster\)](https://open.spotify.com/album/5cEdx9cxvbEovNdTF0JK7i) | 4:34 | 2023-07-14 |  |
+| [Roots Bloody Roots \(Live\) \(2022 \- Remaster\)](https://open.spotify.com/track/4UGW0qtMaMHUM9YJGvL5IB) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Live in São Paulo \(2022 \- Remaster\)](https://open.spotify.com/album/5CWd1H6Wzku5pBygRnjkV8) | 4:34 | 2023-10-13 |  |
+| [Roots Bloody Roots \- Live; 2022 \- Remaster](https://open.spotify.com/track/2ef6CT41GcKShloWcjzb95) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Live in São Paulo \(2022 \- Remaster\)](https://open.spotify.com/album/5cEdx9cxvbEovNdTF0JK7i) | 4:34 | 2023-07-14 | 2023-11-02 |
 | [Rédeas](https://open.spotify.com/track/3jtrDtWGJamKClDQ51e2OL) | [Project46](https://open.spotify.com/artist/4PdFQIzACemw18MfVS1LCF) | [Rédeas](https://open.spotify.com/album/5WOsd8FK2nsfcS48bRFnVc) | 3:44 | 2023-07-14 |  |
 | [Réquiem](https://open.spotify.com/track/2xqmXNuQilD1zqNu90P2Sh) | [Surr](https://open.spotify.com/artist/6ne9xIUEUyKEmhbhPbWFAZ) | [Réquiem](https://open.spotify.com/album/3jper4T41XyWSlPCJ6Lfw1) | 3:33 | 2023-07-14 |  |
 | [Sacrifice](https://open.spotify.com/track/2267yJzvFWpm6epuBaGKK2) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz) | [Eldorado](https://open.spotify.com/album/5jL9PVVgmVZhLJVNjO7SqO) | 6:16 | 2023-09-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  <a href="https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T?si=OM3vTCGWTP\-CdTqJ2D1Ing"> Reggie</a> and  <a href="https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac?si=oWJSpy8iSBmwCO8jeie\_tw"> Kofi Mole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,870 likes - 69 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,898 likes - 69 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 68 | [Enjoyment](https://open.spotify.com/track/7iZOXGM1m8KuUsGwmuVXGa) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 2:34 |
 | 69 | [Kai Me](https://open.spotify.com/track/0rJa955M9QtlA6tNOSBDzy) | [Paq](https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4) | [Kai Me](https://open.spotify.com/album/2ATGjmkksfDn9WY1VJ9MX5) | 2:28 |
 
-Snapshot ID: `MCxjMzIwZDQyM2ViNTZjN2JhOGI2NTk5OWU0OGNlZjE0OTE1MWNkMjY0`
+Snapshot ID: `MCxmYTdhNjMzNjE1YmEyODQ5NTVhNmEyOTUzYjY2Y2Y3NTFlOTVkNjNm`

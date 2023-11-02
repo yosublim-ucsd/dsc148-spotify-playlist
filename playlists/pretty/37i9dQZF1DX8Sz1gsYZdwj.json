@@ -1,12 +1,12 @@
 {
   "description": "Drift off to these peaceful classical melodies.",
-  "num_followers": 512373,
+  "num_followers": 512486,
   "original_name": "Classical Sleep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjQ3NTMzZDEwNDAyNTVlYTJkNmNhZGE2YzgwYjA2ZGYzNWY0NjU1",
+  "snapshot_id": "MCxlODkzMTVhZGMxMTE5YjdjM2JlMGM5MTBkYmZhYTM4OTkzNjdhYmZm",
   "tracks": [
     {
       "added_at": "2023-10-24 09:45:21",
@@ -1638,6 +1638,10 @@
         {
           "name": "Rosey Chan",
           "url": "https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR"
+        },
+        {
+          "name": "Sonic Apothecary",
+          "url": "https://open.spotify.com/artist/1jHK7GApaC0DbeqhXIWUrr"
         }
       ],
       "duration_ms": 448000,

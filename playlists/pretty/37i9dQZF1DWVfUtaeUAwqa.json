@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7500,
+  "num_followers": 7502,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjY0ODczNjI4ZjQzN2VlYTQxOTI1MjlmMTNlNmVkMmMyYjE2NDc4",
+  "snapshot_id": "MCwyMDdkNjhhZGRlOGMzYWVmOTlhYmI1YTE4ODA5NjA3YWNjZGVlNjYx",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -403,22 +403,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Dixieland Jubilee",
-        "url": "https://open.spotify.com/album/0jWy8Z5C5iAYDEMFS0Q6Z8"
-      },
-      "artists": [
-        {
-          "name": "The Dixieland All Stars",
-          "url": "https://open.spotify.com/artist/5F3AMgFU3r77TapncUH7Tb"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "There Is a Tavern in the Town",
-      "url": "https://open.spotify.com/track/2p5CwEAle0quZEownXxEu1"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "The Complete Set - 1923-1926",
         "url": "https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR"
       },
@@ -435,18 +419,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Essential Sidney Bechet",
-        "url": "https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA"
+        "name": "Dixieland Jubilee",
+        "url": "https://open.spotify.com/album/0jWy8Z5C5iAYDEMFS0Q6Z8"
       },
       "artists": [
         {
-          "name": "Sidney Bechet and his New Orleans Feetwarmers",
-          "url": "https://open.spotify.com/artist/4j5ECARHCq8ahpuWM97KS5"
+          "name": "The Dixieland All Stars",
+          "url": "https://open.spotify.com/artist/5F3AMgFU3r77TapncUH7Tb"
         }
       ],
-      "duration_ms": 173653,
-      "name": "Maple Leaf Rag",
-      "url": "https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf"
+      "duration_ms": 227520,
+      "name": "There Is a Tavern in the Town",
+      "url": "https://open.spotify.com/track/2p5CwEAle0quZEownXxEu1"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -463,6 +447,22 @@
       "duration_ms": 213906,
       "name": "South Rampart Street Parade",
       "url": "https://open.spotify.com/track/1iz1K5LJL5FpXAUGXNAIQE"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Essential Sidney Bechet",
+        "url": "https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet and his New Orleans Feetwarmers",
+          "url": "https://open.spotify.com/artist/4j5ECARHCq8ahpuWM97KS5"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "Maple Leaf Rag",
+      "url": "https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -619,22 +619,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Preservation Hall Hot 4 With Duke Dejan",
-        "url": "https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD"
-      },
-      "artists": [
-        {
-          "name": "Preservation Hall Hot 4 with Duke Dejan",
-          "url": "https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Ain't She Sweet",
-      "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "The Dukes At Disneyland",
         "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Kings Of Dixieland",
-        "url": "https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71"
+        "name": "Preservation Hall Hot 4 With Duke Dejan",
+        "url": "https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD"
       },
       "artists": [
         {
-          "name": "Dixieland Band",
-          "url": "https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E"
+          "name": "Preservation Hall Hot 4 with Duke Dejan",
+          "url": "https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x"
         }
       ],
-      "duration_ms": 139558,
-      "name": "Ring On Her Fingers",
-      "url": "https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI"
+      "duration_ms": 250986,
+      "name": "Ain't She Sweet",
+      "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -699,6 +683,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Kings Of Dixieland",
+        "url": "https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71"
+      },
+      "artists": [
+        {
+          "name": "Dixieland Band",
+          "url": "https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E"
+        }
+      ],
+      "duration_ms": 139558,
+      "name": "Ring On Her Fingers",
+      "url": "https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "1939-1944",
         "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 181133,
       "name": "Livery Stable Blues (Barnyard Blues)",
       "url": "https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "On Parade",
+        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 136714,
+      "name": "The Billboard",
+      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -835,22 +851,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "On Parade",
-        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 136714,
-      "name": "The Billboard",
-      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Jam Session in Connecticut, Vol. 1",
         "url": "https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd"
       },
@@ -891,6 +891,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "More Best of the Dukes of Dixieland, Vol. 2",
+        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 135274,
+      "name": "Thunder & Blazes",
+      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Roaring' 20's",
         "url": "https://open.spotify.com/album/6yGyFKhtYmeatToldl421e"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 182360,
       "name": "Dixie",
       "url": "https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Pete Fountain Presents The Best Of Dixieland: Al Hirt",
-        "url": "https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Jazz Me Blues",
-      "url": "https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -959,6 +959,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Pete Fountain Presents The Best Of Dixieland: Al Hirt",
+        "url": "https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Jazz Me Blues",
+      "url": "https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
         "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 170866,
       "name": "We're Gonna Have Smooth Sailing",
       "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "More Best of the Dukes of Dixieland, Vol. 2",
-        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 135274,
-      "name": "Thunder & Blazes",
-      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "30 Classics: Dixieland Jazz for Mardi Gras",
-        "url": "https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE"
+        "name": "30 Patriotic American Songs for Armed Forces Day",
+        "url": "https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu"
       },
       "artists": [
         {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+          "name": "The Muscrat Ramblers",
+          "url": "https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL"
         }
       ],
-      "duration_ms": 232489,
-      "name": "Carry Me Back to Old Virginia",
-      "url": "https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5"
+      "duration_ms": 199314,
+      "name": "The Band Played On",
+      "url": "https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8"
     }
   ],
   "unique_name": "Hot-Jazz Classics",

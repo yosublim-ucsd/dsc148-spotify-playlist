@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Taylor Swift \(pictured\), Nathan Dawe, Rema and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,169 likes - 152 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,212 likes - 152 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 35 | [Perfect Combi \(feat\. Gabzy\)](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 |
 | 36 | [Flip a Coin](https://open.spotify.com/track/3fNV0e9te9ZJeGEvSPR6N5) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [No Better Time](https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s) | 3:38 |
 | 37 | [Dream Job](https://open.spotify.com/track/5jZ0Q2yRYnI961sJbyWlK0) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dream Job](https://open.spotify.com/album/4xeMI1fcnZJ4ndXFkMqhzO) | 2:44 |
-| 38 | [Mother Nature](https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Mother Nature](https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s) | 4:05 |
+| 38 | [Mother Nature](https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Mother Nature](https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s) | 3:55 |
 | 39 | [Take U](https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Take U](https://open.spotify.com/album/1BsEalQCwpuAbqQloCDY9u) | 2:42 |
 | 40 | [Good Part](https://open.spotify.com/track/49IXZnVdU0BGCWmDWpzP7r) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Deeps](https://open.spotify.com/artist/2Z6S0daezacaUwUukXQUqJ) | [Good Part](https://open.spotify.com/album/2TgsqC8NRUoHvbIDWLxyfy) | 2:09 |
 | 41 | [unrequited](https://open.spotify.com/track/0eccQvia7Mk5up7VBLtwDz) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [unrequited](https://open.spotify.com/album/5uYRNMJ5oTbFr36HxVoEZ4) | 3:23 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 43 | [Life Line](https://open.spotify.com/track/2IrDeQpJy2iMx8GQURQNLp) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [TenBillion Dreams](https://open.spotify.com/artist/3K2T1jNZRc16SWTOo1umJJ), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Life Line](https://open.spotify.com/album/7jwl4wk9wGsegvKQrBJwjQ) | 3:17 |
 | 44 | [Habla Con Ella](https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:24 |
 | 45 | [it's been a while](https://open.spotify.com/track/2eqAwWgWKAdIHiMO0SulDY) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [it's been a while](https://open.spotify.com/album/5O7VFK1EVt4pkj9LxlQiyb) | 2:59 |
-| 46 | [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 |
+| 46 | [Violet](https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3DR4H81NkCmYBKgq1vOQ3n) | 7:18 |
 | 47 | [Mirrors](https://open.spotify.com/track/180pznJYi6h98JWkb3pqVi) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Dunja Botic](https://open.spotify.com/artist/7k0oYeMMIGfgM9MAKMqVj8), [Wonky Logic](https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Axel Kaner\-Lidstrom](https://open.spotify.com/artist/0R4jkE6q1364F71jgVku0B), [James Mollison](https://open.spotify.com/artist/5FHf0e5ya34Q4nDr1RbITm) | [Nrg 2](https://open.spotify.com/album/4lriDoS22qgwtVBMfq27jW) | 3:45 |
 | 48 | [Wish You Loved You](https://open.spotify.com/track/0yDDmW5M34iwPa2ifQ1zul) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Wish You Loved You](https://open.spotify.com/album/7xq93PnXerft7cpEREyca5) | 2:39 |
 | 49 | [Venom](https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Venom](https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP) | 3:35 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 151 | [Who Dunnit?](https://open.spotify.com/track/2rcKuc6LBiOQFSzYIa5CsW) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Who Dunnit?](https://open.spotify.com/album/65zcWNbHC9PzhkrBw3Mtcx) | 2:59 |
 | 152 | [Blazin \(feat\. Enisa\)](https://open.spotify.com/track/75xnT9ZmnvbjdyCX3pwizB) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blazin \(feat\. Enisa\)](https://open.spotify.com/album/69rtLq7JppAFO3by5g1mNJ) | 2:07 |
 
-Snapshot ID: `MCxkYTc5YTNkZDU3ZTgzMmU3MGJhYzIyNjZhYjgzZmIzZWEzZDg1NDQ1`
+Snapshot ID: `MCwwYWI1OWNiOWJiNmIyYmQzZWQxMmFkYTIxMWIwMmFmMmI3MWE4ZDAw`

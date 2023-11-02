@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-177 songs - 13 hr 58 min
+178 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,8 @@
 | [You've Got a Friend in Me](https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:52 | 2022-09-13 |  |
 | [Your Mother Should Know](https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know](https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO) | 2:18 | 2022-12-08 | 2023-02-27 |
 | [Your Mother Should Know](https://open.spotify.com/track/67ZAqk0egv33NmEW0OpGHt) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know: Brad Mehldau Plays The Beatles](https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT) | 2:18 | 2023-02-23 |  |
-| [Your Song](https://open.spotify.com/track/0OelgOpyjbEyc1agABKR4P) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh) | [Your Song](https://open.spotify.com/album/5wgdPiD77nrKUBiW7ptss4) | 4:30 | 2023-09-15 |  |
+| [Your Song](https://open.spotify.com/track/0OelgOpyjbEyc1agABKR4P) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh) | [Your Song](https://open.spotify.com/album/5wgdPiD77nrKUBiW7ptss4) | 4:30 | 2023-09-15 | 2023-11-02 |
+| [Your Song](https://open.spotify.com/track/66IhdjAa4bWFnRh1Edo0HN) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh) | [4 Wheel Drive II](https://open.spotify.com/album/6sPX5k3R9v6prRyG3HSttD) | 4:30 | 2023-10-27 |  |
 | [Ｗｏｎｄｅｒｗａｌｌ](https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl) | [tea](https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4) | [Songbird](https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO) | 4:41 | 2023-04-26 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

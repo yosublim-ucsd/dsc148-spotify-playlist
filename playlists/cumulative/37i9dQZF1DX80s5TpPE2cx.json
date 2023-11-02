@@ -576,6 +576,32 @@
     {
       "album": {
         "name": "Insert Project Name",
+        "url": "https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Chris Generalz",
+          "url": "https://open.spotify.com/artist/2TmybinMHO4xDZB2Tqxy1t"
+        },
+        {
+          "name": "Tau Benah",
+          "url": "https://open.spotify.com/artist/1W9sbfp1ANf5XUphdwh9tp"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217487,
+      "name": "Gardens",
+      "url": "https://open.spotify.com/track/3XlMp86m5fJzly6Wn9vQDP"
+    },
+    {
+      "album": {
+        "name": "Insert Project Name",
         "url": "https://open.spotify.com/album/6o3eb5765RiCOQ0kNYXR3Y"
       },
       "artists": [
@@ -594,7 +620,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 217487,
       "name": "Gardens",
       "url": "https://open.spotify.com/track/6miy2L5WK5bBVkCJVPpEc8"
@@ -818,10 +844,28 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 136216,
       "name": "Island Girl",
       "url": "https://open.spotify.com/track/2AKrYKKu9uRyuBj4vdvGmY"
+    },
+    {
+      "album": {
+        "name": "Honest Conversations",
+        "url": "https://open.spotify.com/album/5IYEpHAvZW2dRvyktoprZc"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136216,
+      "name": "Island Girl",
+      "url": "https://open.spotify.com/track/3O51zJvuEqPv7gXDLylqh4"
     },
     {
       "album": {
@@ -1848,6 +1892,28 @@
     {
       "album": {
         "name": "Insert Project Name",
+        "url": "https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Amaa Rae",
+          "url": "https://open.spotify.com/artist/1JLo8ij9BW3sHVRnPhEOsR"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205395,
+      "name": "Whoa!",
+      "url": "https://open.spotify.com/track/0Z5dUVtbpj84y3Bw59ks0P"
+    },
+    {
+      "album": {
+        "name": "Insert Project Name",
         "url": "https://open.spotify.com/album/6wcG6DtDwc6N7K0Vh5ZoMt"
       },
       "artists": [
@@ -1884,7 +1950,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 205395,
       "name": "Whoa!",
       "url": "https://open.spotify.com/track/2aD4svJPOUvmHtu9SQ1fdW"
@@ -1976,6 +2042,28 @@
     {
       "album": {
         "name": "Insert Project Name",
+        "url": "https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Santi",
+          "url": "https://open.spotify.com/artist/7AOker1ilg4KNXJE201pT1"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "wys?",
+      "url": "https://open.spotify.com/track/0PXu0fcklo07iGE597wEUw"
+    },
+    {
+      "album": {
+        "name": "Insert Project Name",
         "url": "https://open.spotify.com/album/6o3eb5765RiCOQ0kNYXR3Y"
       },
       "artists": [
@@ -1990,7 +2078,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 165333,
       "name": "wys?",
       "url": "https://open.spotify.com/track/4i910cFNsYV5s5bqaQ7cdY"

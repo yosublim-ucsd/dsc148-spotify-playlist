@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover: <a href="spotify:artist:3tlXnStJ1fFhdScmQeLpuG">Brent Faiyaz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,565 likes - 104 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,546 likes - 104 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 103 | [Loose](https://open.spotify.com/track/6NSUDjjx22ZobxJqRHynpL) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004), [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Loose](https://open.spotify.com/album/1ZzBNSEcqoxFqoedZoYXpG) | 4:07 |
 | 104 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 |
 
-Snapshot ID: `MCxlNTY0MjFlZDZmZGU3MWUxMjhmMTY1MGU4YmEwOWIwYTc0NzYxYWE1`
+Snapshot ID: `MCxlZWI4MmMzMmViYjRhNWI4ZTViYTk4ODRhNDQ1OThlNTg2NGFlNTdl`

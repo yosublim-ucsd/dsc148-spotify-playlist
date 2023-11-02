@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 58195,
+  "num_followers": 58217,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2Q4ZTU3NTkyYjQ5YmYzNmNjYjA4MWM2ZTgzM2FlZjM2NDBhOWE5",
+  "snapshot_id": "MCxhNTQyZGFkOGQyYzkyMzQ3MmY0ZmM2NDg5Zjg5ZjdmZjAzMGNkM2Vj",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -455,26 +455,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
-      },
-      "artists": [
-        {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
-        },
-        {
-          "name": "Fernando Zenaido Maldonado",
-          "url": "https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv"
-        }
-      ],
-      "duration_ms": 179511,
-      "name": "Caminos de Ayer",
-      "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Paisaje Gris",
         "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 259133,
       "name": "Paisaje Gris",
       "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
+      },
+      "artists": [
+        {
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+        },
+        {
+          "name": "Fernando Zenaido Maldonado",
+          "url": "https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv"
+        }
+      ],
+      "duration_ms": 179511,
+      "name": "Caminos de Ayer",
+      "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -631,22 +631,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
-      },
-      "artists": [
-        {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "\u00a1Oh! Mi Amor",
         "url": "https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 318122,
       "name": "Trato De Asimilar",
       "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+      },
+      "artists": [
+        {
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
-    },
-    {
       "added_at": "2022-08-16 16:23:25",
       "album": {
         "name": "Cronolog\u00edas",
@@ -727,6 +711,42 @@
       "duration_ms": 403365,
       "name": "Era La Luz De Abril",
       "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Voices from the Border",
+        "url": "https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Balderas Quartet",
+          "url": "https://open.spotify.com/artist/58qSHv8M0ELKIDSObDqEFH"
+        },
+        {
+          "name": "John Vince",
+          "url": "https://open.spotify.com/artist/5aPsi6G5Cs3dt1FnjkVYDF"
+        }
+      ],
+      "duration_ms": 443872,
+      "name": "Those People",
+      "url": "https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8"
     },
     {
       "added_at": "2023-04-13 19:45:15",
@@ -763,26 +783,6 @@
       "duration_ms": 257004,
       "name": "Dana (Cha-Cha-Shag)",
       "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Voices from the Border",
-        "url": "https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Balderas Quartet",
-          "url": "https://open.spotify.com/artist/58qSHv8M0ELKIDSObDqEFH"
-        },
-        {
-          "name": "John Vince",
-          "url": "https://open.spotify.com/artist/5aPsi6G5Cs3dt1FnjkVYDF"
-        }
-      ],
-      "duration_ms": 443872,
-      "name": "Those People",
-      "url": "https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8"
     },
     {
       "added_at": "2021-07-28 16:44:28",

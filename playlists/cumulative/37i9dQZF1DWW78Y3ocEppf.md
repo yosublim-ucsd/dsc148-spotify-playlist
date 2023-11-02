@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: VEDO
 
-577 songs - 1 day 6 hr 8 min
+578 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [MIA](https://open.spotify.com/track/5KXkEQx57UUspGxofsA8be) | [Abby Jasmine](https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf) | [I Hate You 2](https://open.spotify.com/album/1QqVbA9TLKTdsVcFn44NGa) | 2:40 | 2021-12-15 | 2022-07-28 |
 | [Mind Gone Mia](https://open.spotify.com/track/1izznWxkCLHrNxXfFFrY3d) | [Notsyd](https://open.spotify.com/artist/1fdV5Xo9WYWD5H6CjE1bCH) | [Mind Gone Mia](https://open.spotify.com/album/3fpnZ3l5Asasp8anlsHSt4) | 3:02 | 2022-04-04 | 2022-06-11 |
 | [Mine](https://open.spotify.com/track/5IYOgmZCZKcI2oU6HnFfjX) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Mine](https://open.spotify.com/album/0aR7RTihLA86FCVAoPZbRy) | 3:33 | 2021-12-15 | 2022-02-01 |
+| [Mine](https://open.spotify.com/track/4k3xMb6tDbhVa7RDD2dISb) | [Upstrz](https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi) | [Meet Me Upstrz](https://open.spotify.com/album/7z4HTLft71X47PyAgLMJZU) | 2:36 | 2022-12-16 |  |
 | [Mine](https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI) | [Upstrz](https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi) | [Meet Me Upstrz](https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY) | 2:36 | 2022-12-16 | 2023-10-25 |
 | [Mirage](https://open.spotify.com/track/5YDvCBMjwGYbWLyjsa2GoM) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Mirage](https://open.spotify.com/album/6Pnhk5XBg9Lr4ulGQXixbk) | 3:51 | 2022-02-18 | 2022-04-06 |
 | [Mistake](https://open.spotify.com/track/38bzNP9KHaTeaG4EwdOLf9) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/06NA82WXFGl8FONIcKRAGD) | 3:06 | 2021-12-15 | 2022-01-20 |
@@ -359,7 +360,7 @@
 | [Obsession](https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Obsession](https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6) | 3:21 | 2022-10-21 | 2023-01-28 |
 | [Obsession \(feat\. Muni Long\) \- Remix](https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Obsession \(feat\. Muni Long\) \[Remix\]](https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1) | 3:21 | 2022-11-18 | 2023-07-22 |
 | [Old Thing Back](https://open.spotify.com/track/4pyzN0WiFgEjlldseOhiA7) | [Dana Vaughns](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [Old Thing Back](https://open.spotify.com/album/0e2CyC0mTovHHEcdhJxT7g) | 1:38 | 2022-12-09 | 2023-01-06 |
-| [OMM \(ON MY MIND\)](https://open.spotify.com/track/2Z5hM3KQYNgupmC93TggBl) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [OMM \(ON MY MIND\)](https://open.spotify.com/album/4mymgTMpML68SYUEklclr4) | 3:12 | 2023-09-22 |  |
+| [OMM \(ON MY MIND\)](https://open.spotify.com/track/2Z5hM3KQYNgupmC93TggBl) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [OMM \(ON MY MIND\)](https://open.spotify.com/album/4mymgTMpML68SYUEklclr4) | 3:12 | 2023-09-22 | 2023-11-02 |
 | [On Mine](https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [On Mine](https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5) | 2:23 | 2023-09-22 |  |
 | [ON MY MIND feat\. James Fauntleroy](https://open.spotify.com/track/2KY5Yl10cqMdet5WevlYZy) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:42 | 2021-12-15 | 2022-10-22 |
 | [On One](https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [On One](https://open.spotify.com/album/3cxYmtH9abCdqR0XkkGW16) | 3:25 | 2021-12-15 | 2022-07-29 |

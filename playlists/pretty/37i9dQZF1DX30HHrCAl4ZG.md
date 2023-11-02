@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring new music by Mannequin Pussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,115 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,100 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 92 | [Roly Poly](https://open.spotify.com/track/7uqvt9TCztQgtyQZoQdjrF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 2:36 |
 | 93 | [Buttons \- Take 2](https://open.spotify.com/track/18wRejV2is4dNBoq1YDh7b) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1), [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Buttons \(Take 2\)](https://open.spotify.com/album/6Q3s8s0cYWf10PP7IOh6iT) | 3:49 |
 | 94 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
-| 95 | [Circles](https://open.spotify.com/track/5uISR8YsSSO7eEQgoaXrXV) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD) | 3:33 |
+| 95 | [Circles](https://open.spotify.com/track/2t3DvNLlf0gvprC5cMmpJM) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/67erSRNw4PL7t6kO0lODOH) | 3:33 |
 | 96 | [Games](https://open.spotify.com/track/7HA1olc168EV5By8K7kWq5) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Games](https://open.spotify.com/album/1MkvXneCkP1Aki2PsIQ0Fm) | 3:38 |
 | 97 | [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 |
 | 98 | [Melody Experiment](https://open.spotify.com/track/5k1c6yaWO1uTSY6wNTVUa6) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:10 |
 | 99 | [Hell Of A Ride](https://open.spotify.com/track/0t0gMxicWbc6n2NzxQ3iJ3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Hell Of A Ride](https://open.spotify.com/album/41DyNXpwpfDghWXGM6TMC3) | 2:59 |
 | 100 | [Alive!](https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Alive!](https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn) | 3:52 |
 
-Snapshot ID: `MCwxMzM5MGIxZGNkYjgxMDdkMThkYjQxNGYyYWYyYmJjYmJmNTk1ODY3`
+Snapshot ID: `MCwzZjE4OGE2NjY1ZDJhOTdhOGNhYzY5ZmFkZTM1NWFmZjBlMTFjNTEz`

@@ -4,7 +4,7 @@
 
 > The best tunes in Jazz history\. Cover: Wayne Shorter
 
-363 songs - 1 day 7 hr 42 min
+364 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,8 @@
 | [There's No Business Like Show Business](https://open.spotify.com/track/3AJSnSiVDz37q85LP2Rop0) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Worktime](https://open.spotify.com/album/3U4FgdQ4R2foLXHsPAltwL) | 6:18 | 2021-12-02 | 2023-08-05 |
 | [These Foolish Things \(Remastered\)](https://open.spotify.com/track/0ldmR2mJJNEoBIINfZWdv6) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Collection](https://open.spotify.com/album/2S7vHpbNXV2tnThghKRCEz) | 3:10 | 2021-12-02 | 2022-07-29 |
 | [These Foolish Things \- Remastered 1995](https://open.spotify.com/track/7AHF3V7qRPhZV7gzJLZ3CL) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Complete Aladdin Recordings Of Lester Young](https://open.spotify.com/album/5SV2xaecPee0ELXJILjDh3) | 3:10 | 2022-06-28 |  |
-| [They Can't Take That Away From Me](https://open.spotify.com/track/4WyWVpoXP9z0SczdZdfVI2) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé Sings Fred Astaire \(Original Recording Remastered 2013\)](https://open.spotify.com/album/6Aa9OqI2DWqeoAgKQpKpr2) | 3:01 | 2022-06-28 |  |
+| [They Can't Take That Away From Me](https://open.spotify.com/track/4WyWVpoXP9z0SczdZdfVI2) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé Sings Fred Astaire \(Original Recording Remastered 2013\)](https://open.spotify.com/album/6Aa9OqI2DWqeoAgKQpKpr2) | 3:01 | 2022-06-28 | 2023-11-02 |
+| [They Can't Take That Away from Me \(2012 \- Remaster\)](https://open.spotify.com/track/28z6KATfhamoyDgOtcm25F) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé Sings Fred Astaire \(2012 \- Remaster\)](https://open.spotify.com/album/01xKHe137Bs6g3HcBMjLD7) | 3:01 | 2023-10-24 |  |
 | [They Can't Take That Away from Me \- 2012 Remastered Version](https://open.spotify.com/track/2Ef24NcyyZAMngL4uQd3xC) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Sing for Your Supper](https://open.spotify.com/album/1WoseZW1CCYpKIv5AJYMvT) | 3:01 | 2021-12-02 | 2022-07-29 |
 | [They Say It's Wonderful](https://open.spotify.com/track/36rCZ6tC7PbfxfvcrcfsR3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane & Johnny Hartman](https://open.spotify.com/album/3nmLPoLaRsN7cj9XkkDq2r) | 5:18 | 2022-06-02 | 2022-07-29 |
 | [They Say It's Wonderful](https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:20 | 2022-06-28 |  |

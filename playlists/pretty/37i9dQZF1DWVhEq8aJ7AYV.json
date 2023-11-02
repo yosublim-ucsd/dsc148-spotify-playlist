@@ -1,12 +1,12 @@
 {
   "description": "Tengan a la mano las m\u00e1scaras de lucha libre y la tabla de surf.",
-  "num_followers": 69427,
+  "num_followers": 69460,
   "original_name": "Rockabilly Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWJmZTJiY2QxNGQyMzgxNzU2ZjdkY2VjMzc0YTcyMmI1MzhmYjRj",
+  "snapshot_id": "MCw1NDY0YmFkYjJmMzBjYTdjMmZlYzg5ZmIzY2IyNmRmNDNhMzViYjNh",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Agua Ardiente",
-        "url": "https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL"
+        "name": "Yo Fui una Adolescente Terrosat\u00e1nica",
+        "url": "https://open.spotify.com/album/3zMDMHmWNh5JvoMf9WEL1S"
       },
       "artists": [
         {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+          "name": "Ultrasonicas",
+          "url": "https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV"
         }
       ],
-      "duration_ms": 237686,
-      "name": "Jugo",
-      "url": "https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7"
+      "duration_ms": 133933,
+      "name": "Monstruo Verde",
+      "url": "https://open.spotify.com/track/0gcZCJrIY0biWG100VrLKq"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Yo Fui una Adolescente Terrosat\u00e1nica",
-        "url": "https://open.spotify.com/album/3zMDMHmWNh5JvoMf9WEL1S"
+        "name": "Agua Ardiente",
+        "url": "https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL"
       },
       "artists": [
         {
-          "name": "Ultrasonicas",
-          "url": "https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV"
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
         }
       ],
-      "duration_ms": 133933,
-      "name": "Monstruo Verde",
-      "url": "https://open.spotify.com/track/0gcZCJrIY0biWG100VrLKq"
+      "duration_ms": 237686,
+      "name": "Jugo",
+      "url": "https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Bestiario de Santa Lucia",
-        "url": "https://open.spotify.com/album/7hHBljFGjPZxIgOQ9MjK4a"
+        "name": "Wheeltappers and Shunters",
+        "url": "https://open.spotify.com/album/29dq0K1Y0GQDmBq40Q3nux"
       },
       "artists": [
         {
-          "name": "Los Vaguens",
-          "url": "https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2"
+          "name": "Clinic",
+          "url": "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
         }
       ],
-      "duration_ms": 209536,
-      "name": "Labios Carmin",
-      "url": "https://open.spotify.com/track/2zskzzvImqBBqWmPcIUeNa"
+      "duration_ms": 129186,
+      "name": "Ferryboat of the Mind",
+      "url": "https://open.spotify.com/track/7cTY2CP1WFNb6yKiXKeW0d"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Bestiario de Santa Lucia",
+        "url": "https://open.spotify.com/album/7hHBljFGjPZxIgOQ9MjK4a"
+      },
+      "artists": [
+        {
+          "name": "Los Vaguens",
+          "url": "https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2"
+        }
+      ],
+      "duration_ms": 209536,
+      "name": "Labios Carmin",
+      "url": "https://open.spotify.com/track/2zskzzvImqBBqWmPcIUeNa"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Solos, Sessions & Encores",
         "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 179826,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Wheeltappers and Shunters",
-        "url": "https://open.spotify.com/album/29dq0K1Y0GQDmBq40Q3nux"
-      },
-      "artists": [
-        {
-          "name": "Clinic",
-          "url": "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
-        }
-      ],
-      "duration_ms": 129186,
-      "name": "Ferryboat of the Mind",
-      "url": "https://open.spotify.com/track/7cTY2CP1WFNb6yKiXKeW0d"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "The Lost Album",
-        "url": "https://open.spotify.com/album/7zaDIege7cTVCOkGyto9Bw"
-      },
-      "artists": [
-        {
-          "name": "The Meteors",
-          "url": "https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9"
-        }
-      ],
-      "duration_ms": 173106,
-      "name": "Psycho for Your Love",
-      "url": "https://open.spotify.com/track/45XtqGyKhOkkYIeOND0KF7"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "A-Haunting We Will Go-Go",
         "url": "https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk"
       },
@@ -435,18 +419,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Surf Extremo",
-        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
+        "name": "The Lost Album",
+        "url": "https://open.spotify.com/album/7zaDIege7cTVCOkGyto9Bw"
       },
       "artists": [
         {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+          "name": "The Meteors",
+          "url": "https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9"
         }
       ],
-      "duration_ms": 139400,
-      "name": "Fuera Ropa",
-      "url": "https://open.spotify.com/track/0DeOs4UCe0TzOKMkheHMlU"
+      "duration_ms": 173106,
+      "name": "Psycho for Your Love",
+      "url": "https://open.spotify.com/track/45XtqGyKhOkkYIeOND0KF7"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -460,13 +444,29 @@
           "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
         },
         {
-          "name": "Luis Humberto Navejas",
-          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
+          "name": "Fr\u00e1ncisco Familiar",
+          "url": "https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ"
         }
       ],
-      "duration_ms": 220826,
-      "name": "Cuando No Estoy Contigo",
-      "url": "https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ"
+      "duration_ms": 162013,
+      "name": "Hombre Lobo Adolescente",
+      "url": "https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Surf Extremo",
+        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "duration_ms": 139400,
+      "name": "Fuera Ropa",
+      "url": "https://open.spotify.com/track/0DeOs4UCe0TzOKMkheHMlU"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Cera Perdida",
-        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 189892,
-      "name": "Jaley Jaley",
-      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Swingin' Singles",
         "url": "https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 115266,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Cera Perdida",
+        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 189892,
+      "name": "Jaley Jaley",
+      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
+      },
+      "artists": [
+        {
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "Luis Humberto Navejas",
+          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Cuando No Estoy Contigo",
+      "url": "https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Outta Here",
         "url": "https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 229213,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/0bPl0bTLYzpnkIZOtES29O"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Rebel Cats Y Sus Amigos",
-        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
-      },
-      "artists": [
-        {
-          "name": "Rebel Cats",
-          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
-        },
-        {
-          "name": "Fr\u00e1ncisco Familiar",
-          "url": "https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "Hombre Lobo Adolescente",
-      "url": "https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Mondo Zombie Boogaloo",
+        "url": "https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "It's Monster Surfing Time",
+      "url": "https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Los Esquizitos",
         "url": "https://open.spotify.com/album/72qcrTIMcqB0UxMnHDZ8R3"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Mondo Zombie Boogaloo",
-        "url": "https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2"
+        "name": "Surf Extremo",
+        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
       },
       "artists": [
         {
-          "name": "Los Straitjackets",
-          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
         }
       ],
-      "duration_ms": 131853,
-      "name": "It's Monster Surfing Time",
-      "url": "https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM"
+      "duration_ms": 116013,
+      "name": "Tiki Surf",
+      "url": "https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -767,22 +783,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Surf Extremo",
-        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
-      },
-      "artists": [
-        {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
-        }
-      ],
-      "duration_ms": 116013,
-      "name": "Tiki Surf",
-      "url": "https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Organ Grinder",
         "url": "https://open.spotify.com/album/3vLdrulP4lBz0hT6TyGmsR"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 120866,
       "name": "Return Of The Death Ray",
       "url": "https://open.spotify.com/track/1gGHDAJNzivn9ZJCTVULFe"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Aquellos Maravillosos 90",
+        "url": "https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5"
+      },
+      "artists": [
+        {
+          "name": "Doctor Explosion",
+          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
+        }
+      ],
+      "duration_ms": 142333,
+      "name": "Dra\u0301cula \u201dYe-ye\u201d",
+      "url": "https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Taste the Blood of Guitaracula",
-        "url": "https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB"
-      },
-      "artists": [
-        {
-          "name": "Messer Chups",
-          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Surf De L'amour",
-      "url": "https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Los Esquizitos",
         "url": "https://open.spotify.com/album/72qcrTIMcqB0UxMnHDZ8R3"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 230173,
       "name": "Santo Y Lunave",
       "url": "https://open.spotify.com/track/7LGPSSlvK98fMseE2I7Z83"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Aquellos Maravillosos 90",
-        "url": "https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5"
-      },
-      "artists": [
-        {
-          "name": "Doctor Explosion",
-          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
-        }
-      ],
-      "duration_ms": 142333,
-      "name": "Dra\u0301cula \u201dYe-ye\u201d",
-      "url": "https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -955,6 +939,38 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Savage Island!",
+        "url": "https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN"
+      },
+      "artists": [
+        {
+          "name": "The Bomboras",
+          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
+        }
+      ],
+      "duration_ms": 130479,
+      "name": "Lord Hunt Surf Party",
+      "url": "https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Guadalupe Plata 2015",
+        "url": "https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Plata",
+          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
+        }
+      ],
+      "duration_ms": 194367,
+      "name": "Calle 24",
+      "url": "https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Sonido Bestia",
         "url": "https://open.spotify.com/album/3X31PsiKoR8dBnc9wrQCIc"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 186280,
       "name": "La Viuda Negra",
       "url": "https://open.spotify.com/track/0vlcfidir85v3y6ths4HWZ"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Rock en Espanol, Vol. 1",
-        "url": "https://open.spotify.com/album/7izW2Pzyz1qLA2Z6Pc79xS"
-      },
-      "artists": [
-        {
-          "name": "Los Straitjackets",
-          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Hey Lupe",
-      "url": "https://open.spotify.com/track/1oyb4zsThmXB92wdKWcqXv"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1007,18 +1007,34 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Savage Island!",
-        "url": "https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN"
+        "name": "Taste the Blood of Guitaracula",
+        "url": "https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB"
       },
       "artists": [
         {
-          "name": "The Bomboras",
-          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
+          "name": "Messer Chups",
+          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
         }
       ],
-      "duration_ms": 130479,
-      "name": "Lord Hunt Surf Party",
-      "url": "https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD"
+      "duration_ms": 165720,
+      "name": "Surf De L'amour",
+      "url": "https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Rock en Espanol, Vol. 1",
+        "url": "https://open.spotify.com/album/7izW2Pzyz1qLA2Z6Pc79xS"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Hey Lupe",
+      "url": "https://open.spotify.com/track/1oyb4zsThmXB92wdKWcqXv"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Guadalupe Plata 2015",
-        "url": "https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Plata",
-          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
-        }
-      ],
-      "duration_ms": 194367,
-      "name": "Calle 24",
-      "url": "https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Surf Extremo",
         "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
       },
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Jet Set",
-        "url": "https://open.spotify.com/album/78GXYcIUJryEegdJksbQ2i"
+        "name": "Martinis & Bikinis",
+        "url": "https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz"
       },
       "artists": [
         {
-          "name": "Los Straitjackets",
-          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+          "name": "Fenomeno Fuzz",
+          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
         }
       ],
-      "duration_ms": 209453,
-      "name": "New Siberia",
-      "url": "https://open.spotify.com/track/6Pc50RJY1VmPT8AowAvQwE"
+      "duration_ms": 141825,
+      "name": "El Bikini de la Chica Popof",
+      "url": "https://open.spotify.com/track/6XMx1sjG5glE19x87YDew3"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Martinis & Bikinis",
-        "url": "https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz"
+        "name": "Jet Set",
+        "url": "https://open.spotify.com/album/78GXYcIUJryEegdJksbQ2i"
       },
       "artists": [
         {
-          "name": "Fenomeno Fuzz",
-          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
         }
       ],
-      "duration_ms": 141825,
-      "name": "El Bikini de la Chica Popof",
-      "url": "https://open.spotify.com/track/6XMx1sjG5glE19x87YDew3"
+      "duration_ms": 209453,
+      "name": "New Siberia",
+      "url": "https://open.spotify.com/track/6Pc50RJY1VmPT8AowAvQwE"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Garaje o Muerte",
-        "url": "https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6"
-      },
-      "artists": [
-        {
-          "name": "Los Peyotes",
-          "url": "https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp"
-        }
-      ],
-      "duration_ms": 186593,
-      "name": "Peyoteando Con Ayahuasca",
-      "url": "https://open.spotify.com/track/1dfR1vi6sYqngeVc75nFZW"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Guitars In Orbit",
         "url": "https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 123107,
       "name": "Swan's Lake",
       "url": "https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Garaje o Muerte",
+        "url": "https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6"
+      },
+      "artists": [
+        {
+          "name": "Los Peyotes",
+          "url": "https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp"
+        }
+      ],
+      "duration_ms": 186593,
+      "name": "Peyoteando Con Ayahuasca",
+      "url": "https://open.spotify.com/track/1dfR1vi6sYqngeVc75nFZW"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "1, 2, 3, 4 (Los Cogelones Remix)",
-        "url": "https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ"
+        "name": "Bomber Man",
+        "url": "https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe"
       },
       "artists": [
         {
-          "name": "Tit\u00e1n",
-          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
-        },
-        {
-          "name": "Los Cogelones",
-          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
         }
       ],
-      "duration_ms": 227346,
-      "name": "1,2,3,4 - Los Cogelones Remix",
-      "url": "https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ"
+      "duration_ms": 134443,
+      "name": "Bomber Man",
+      "url": "https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU"
     }
   ],
   "unique_name": "Rockabilly Surf",

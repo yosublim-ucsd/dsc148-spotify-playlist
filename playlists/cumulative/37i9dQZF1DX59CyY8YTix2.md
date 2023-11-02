@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ULTRA
 
-1,217 songs - 3 day 4 hr 39 min
+1,219 songs - 3 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [E\-R\-T\-H\-C\-Na\-H\-Q\-ka\-H\-K\-M\-B\-Ne\-Z\-Om](https://open.spotify.com/track/18mcIcXC3YMnF1akgaYGDR) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [E\-R\-T\-H\-C\-Na\-H\-Q\-ka\-H\-K\-M\-B\-Ne\-Z\-Om](https://open.spotify.com/album/5OWUfCVXL9QZHzMIdipGdR) | 3:53 | 2023-06-27 | 2023-07-05 |
 | [Early So](https://open.spotify.com/track/6iAT9mTKqFZKuSpGPZYDjD) | [cesco](https://open.spotify.com/artist/0d5y6aTfiTyAnTlzsI0Nh9) | [The Natural Diet](https://open.spotify.com/album/0FROvwBj7H0OOj0JPKFXtA) | 2:41 | 2022-05-26 | 2022-07-24 |
 | [Echoes](https://open.spotify.com/track/2LQDW2xIf0oc9etllp4IVS) | [micanythm](https://open.spotify.com/artist/6cdhUq2L2ThjOTK1dAE1Rg) | [Echoes](https://open.spotify.com/album/6jaqGA6f2hFO7D2QexBEVr) | 3:13 | 2022-07-07 | 2022-07-13 |
+| [eienno koibito](https://open.spotify.com/track/2x5ycWQvPTl4sOk5BSnGpS) | [とにもかくにも](https://open.spotify.com/artist/7eRFoVEguUGUZ5kYaOR8sL) | [eienno koibito](https://open.spotify.com/album/0WCgyIveEmwIVnkteT94Fp) | 3:48 | 2023-10-31 |  |
 | [embrace](https://open.spotify.com/track/6u3h9u66nxEKqtXCOsdYlS) | [Hammer Head Shark](https://open.spotify.com/artist/4ReYBtwk8GTvuIklAiCqHI) | [embrace](https://open.spotify.com/album/1RYmW4uvFxPF7DF7Wd8anS) | 5:33 | 2023-08-30 | 2023-09-06 |
 | [Emergence No.1](https://open.spotify.com/track/18RsGEb4NcRC6T0dqTq235) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [Emergence No.1](https://open.spotify.com/album/5fkgRBj5V38v5dF62PBJnS) | 3:21 | 2022-10-25 | 2022-11-02 |
 | [Enter, Enter](https://open.spotify.com/track/5PMyUxPsleC4vModENzE3c) | [THE ROMANTIC MOTEL](https://open.spotify.com/artist/05vTDhjOwhFqCTxAErSC4K) | [MAISON de ROMANTIC](https://open.spotify.com/album/1LvEJrGQu3aEIfq1GoYAkL) | 2:57 | 2022-06-21 | 2022-07-15 |
@@ -564,6 +565,7 @@
 | [Walking Song](https://open.spotify.com/track/374qlBRNACVJ9iNiqw2xGs) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [INNER JOURNEY](https://open.spotify.com/album/01dlkun9ZeuPK7jcTX9Y9v) | 2:00 | 2022-09-08 | 2022-10-26 |
 | [Wan!](https://open.spotify.com/track/0yRSL5aaF9xJfJxqNyOvhW) | [ニューヤナセ](https://open.spotify.com/artist/4JyYJ2F9QIGXEE0j8bWepn) | [ダークムーンサイド](https://open.spotify.com/album/3M61w8VggQrFathWSsp1Qh) | 3:27 | 2022-08-09 | 2022-08-17 |
 | [Wanna Be In A Sad Mood](https://open.spotify.com/track/61ZsLyi4omqZs3H72sm5sb) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/3jMkyqeHsfveTdu30JyGxn) | 4:14 | 2023-10-31 |  |
+| [Wasshoi Dancing](https://open.spotify.com/track/5Zi6s0YzshTSF4lGR9dLX9) | [Uchudan](https://open.spotify.com/artist/1WHpW3NlTIdo7P4we5jFKC) | [Wasshoi Dancing](https://open.spotify.com/album/2XAjBLbVjFQjpwSqODEEjG) | 2:42 | 2023-10-31 |  |
 | [WATASHIHA WATASHINARINO KOTOBADESIKA AISHITERUTO TUTAERUKOTOGADEKINAI](https://open.spotify.com/track/3sRnw37zxEhfl2zevR6npx) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/2OVSflRQ7zERLrLk3eAqmL) | 3:33 | 2023-01-10 | 2023-01-25 |
 | [Watashitachi no Journey](https://open.spotify.com/track/01b6Whwx7GswmnOOtKZC9c) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Watashitachi no Journey](https://open.spotify.com/album/5M5laQ3chroFtqUENoZaV8) | 4:07 | 2023-06-13 | 2023-08-16 |
 | [We The Female!](https://open.spotify.com/track/2yagcsYdqa14jDsGAFJ2BP) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [We The Female!](https://open.spotify.com/album/139E2UjytWfbFIkf9BOyQU) | 3:04 | 2023-04-04 | 2023-06-21 |
@@ -701,7 +703,7 @@
 | [わたしの宇宙](https://open.spotify.com/track/5xn9ggmbMNk93XV5ofQedP) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [わたしの宇宙](https://open.spotify.com/album/31466iOJPJaJ0ufRHpPkce) | 4:59 | 2023-09-07 |  |
 | [わたしの生きる物語](https://open.spotify.com/track/06kv0bfU931FtGMRs9x1Ev) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [わたしの生きる物語](https://open.spotify.com/album/5xE4L1XJgmNEiCcKLZn4cr) | 7:08 | 2022-06-07 | 2022-07-25 |
 | [わたし達のジャーニー](https://open.spotify.com/track/7jBZEvYiDd1P44XrHROHfq) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [わたし達のジャーニー](https://open.spotify.com/album/209qMKGCRlobYowrmvIRgo) | 4:07 | 2023-06-13 | 2023-06-15 |
-| [わっしょいダンシング](https://open.spotify.com/track/1h8qlRg7T9dEbXetMeWCYe) | [Uchudan](https://open.spotify.com/artist/1WHpW3NlTIdo7P4we5jFKC) | [わっしょいダンシング](https://open.spotify.com/album/4aAtNzomwKb4ntk63z3jnv) | 2:42 | 2023-10-31 |  |
+| [わっしょいダンシング](https://open.spotify.com/track/1h8qlRg7T9dEbXetMeWCYe) | [Uchudan](https://open.spotify.com/artist/1WHpW3NlTIdo7P4we5jFKC) | [わっしょいダンシング](https://open.spotify.com/album/4aAtNzomwKb4ntk63z3jnv) | 2:42 | 2023-10-31 | 2023-11-02 |
 | [アイボリー](https://open.spotify.com/track/4GMaIw82hDFLPIuqxsLv3A) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [アイボリー](https://open.spotify.com/album/7mBvVv2ZUmNzKp9q1jdTlb) | 4:22 | 2022-06-02 | 2022-06-04 |
 | [アイラブ](https://open.spotify.com/track/5x6cGmgNWIWyTqTPlF14EF) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [アイラブ](https://open.spotify.com/album/4WghwGoJvLYFqIjlbsu4mF) | 4:10 | 2023-03-23 | 2023-05-05 |
 | [アクアリウム](https://open.spotify.com/track/0tU3Q2nmXeRthdgMSa8W0U) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [アクアリウム](https://open.spotify.com/album/7yMYTapNfaKx4qmbR7QteL) | 3:41 | 2022-10-04 | 2022-12-24 |
@@ -1091,7 +1093,7 @@
 | [氷星](https://open.spotify.com/track/45KBVE1PcsdRjkvw7rpPnS) | [あるくとーーふ](https://open.spotify.com/artist/5MWrOG9C4xK1wPeH6Wk36W) | [UPSIDE DOWNTOWN](https://open.spotify.com/album/3IuPZzwf6xUkcMFcpwvirz) | 3:14 | 2023-01-17 | 2023-01-25 |
 | [永遠が続くのは](https://open.spotify.com/track/3nRht8eUysxlKZbGJ1uF9B) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ \- ep](https://open.spotify.com/album/3xYJlfLMWIPVlaa4We5XkB) | 5:00 | 2022-06-07 | 2022-06-15 |
 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 | 2023-02-28 |  |
-| [永遠の恋人](https://open.spotify.com/track/286zSr3sjCn9MhmgfSJwE8) | [とにもかくにも](https://open.spotify.com/artist/7eRFoVEguUGUZ5kYaOR8sL) | [永遠の恋人](https://open.spotify.com/album/0oTwqQ34fD65BfspOYa4kd) | 3:48 | 2023-10-31 |  |
+| [永遠の恋人](https://open.spotify.com/track/286zSr3sjCn9MhmgfSJwE8) | [とにもかくにも](https://open.spotify.com/artist/7eRFoVEguUGUZ5kYaOR8sL) | [永遠の恋人](https://open.spotify.com/album/0oTwqQ34fD65BfspOYa4kd) | 3:48 | 2023-10-31 | 2023-11-02 |
 | [永遠衝動](https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [永遠衝動](https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz) | 4:14 | 2023-08-29 | 2023-09-06 |
 | [油](https://open.spotify.com/track/1ldQWi4dvIiV8ostfEo8vS) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [油](https://open.spotify.com/album/04KuLUg49thH8DEsSkelsB) | 3:11 | 2023-01-17 | 2023-04-18 |
 | [油そば](https://open.spotify.com/track/3ZOFJgcE6oZ7MHoF1VsOzQ) | [ニューヤナセ](https://open.spotify.com/artist/4JyYJ2F9QIGXEE0j8bWepn) | [油そば](https://open.spotify.com/album/7uEnKSzsnqVlzD7Rm8NriL) | 2:18 | 2022-07-19 | 2022-07-27 |

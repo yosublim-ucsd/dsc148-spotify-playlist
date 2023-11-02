@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 337118,
+  "num_followers": 337473,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzU3YmFhY2UyMTkxNjMzOGJjNThmZGQ1ZDZlNDRkZjVlNDc2MWU4",
+  "snapshot_id": "MCxiYjBmZmNjOWE0OTYyNzdjZmFmNjM3OThkMjM2NDhkYzZiMWQ5NDE5",
   "tracks": [
     {
       "added_at": "2023-10-26 22:00:00",
@@ -543,22 +543,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Tell Me Why (Maddix Remix)",
-        "url": "https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe"
+        "name": "This Is The Life",
+        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
       },
       "artists": [
         {
-          "name": "Supermode",
-          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
         },
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
         }
       ],
-      "duration_ms": 191200,
-      "name": "Tell Me Why - Maddix Remix",
-      "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C"
+      "duration_ms": 131388,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -587,22 +587,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "This Is The Life",
-        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
+        "name": "Tell Me Why (Maddix Remix)",
+        "url": "https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe"
       },
       "artists": [
         {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+          "name": "Supermode",
+          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
         },
         {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         }
       ],
-      "duration_ms": 131388,
-      "name": "This Is The Life",
-      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
+      "duration_ms": 191200,
+      "name": "Tell Me Why - Maddix Remix",
+      "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 132700,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Love Is Free",
-        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Love Is Free",
-      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Donkers",
         "url": "https://open.spotify.com/album/06SEttic5htIY70LgIXuQR"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 304500,
       "name": "Donkers",
       "url": "https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1639,22 +1639,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Hyper Hyper",
-        "url": "https://open.spotify.com/album/01tSVhXAQ3kBCWzkGeBTqi"
+        "name": "It's That Time",
+        "url": "https://open.spotify.com/album/4YGSYJpKXUClPZoBDvRzyJ"
       },
       "artists": [
         {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
         },
         {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
         }
       ],
-      "duration_ms": 178153,
-      "name": "Hyper Hyper",
-      "url": "https://open.spotify.com/track/7yDqQyCeTV2xXQP7tccX2D"
+      "duration_ms": 153469,
+      "name": "It's That Time - Edit",
+      "url": "https://open.spotify.com/track/72qcP3hwdqa8NkVxSCpYjm"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1675,22 +1675,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "It's That Time",
-        "url": "https://open.spotify.com/album/4YGSYJpKXUClPZoBDvRzyJ"
+        "name": "Hyper Hyper",
+        "url": "https://open.spotify.com/album/01tSVhXAQ3kBCWzkGeBTqi"
       },
       "artists": [
         {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
         },
         {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
         }
       ],
-      "duration_ms": 153469,
-      "name": "It's That Time - Edit",
-      "url": "https://open.spotify.com/track/72qcP3hwdqa8NkVxSCpYjm"
+      "duration_ms": 178153,
+      "name": "Hyper Hyper",
+      "url": "https://open.spotify.com/track/7yDqQyCeTV2xXQP7tccX2D"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 248471,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Weekend Party",
         "url": "https://open.spotify.com/album/4iELrv5c4zQNNlzEZdLdo1"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 143600,
       "name": "Weekend Party",
       "url": "https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "duration_ms": 248471,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "CALL MY NAME",
-        "url": "https://open.spotify.com/album/4VYUHJuxMvr4tPQIk6ZJMv"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "CALL MY NAME",
-      "url": "https://open.spotify.com/track/1kfN7kA80uCKvZ2kQsXQHt"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "messy in heaven (Restricted Remix)",
         "url": "https://open.spotify.com/album/2RFZTIwVZJSjVNMF9BoNdb"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 161616,
       "name": "messy in heaven - Restricted Remix",
       "url": "https://open.spotify.com/track/5AkQzNdAI0zOUsXJuq1zta"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "CALL MY NAME",
+        "url": "https://open.spotify.com/album/4VYUHJuxMvr4tPQIk6ZJMv"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "CALL MY NAME",
+      "url": "https://open.spotify.com/track/1kfN7kA80uCKvZ2kQsXQHt"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1915,22 +1915,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/6nbQRswXW5OFHFZFw8y1YZ"
+        "name": "Universo",
+        "url": "https://open.spotify.com/album/6lTv8SLRs1naQuh7YvdMjM"
       },
       "artists": [
         {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
         },
         {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+          "name": "Rising Dust",
+          "url": "https://open.spotify.com/artist/5ljIs5Y5MfXRmhB97gQpq0"
         }
       ],
-      "duration_ms": 167294,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
+      "duration_ms": 607552,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/5DRGuHS0xJ3X3OZjCrglTI"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1955,6 +1955,26 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/6nbQRswXW5OFHFZFw8y1YZ"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 167294,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
@@ -1975,26 +1995,6 @@
       "duration_ms": 195537,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Universo",
-        "url": "https://open.spotify.com/album/6lTv8SLRs1naQuh7YvdMjM"
-      },
-      "artists": [
-        {
-          "name": "Astrix",
-          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
-        },
-        {
-          "name": "Rising Dust",
-          "url": "https://open.spotify.com/artist/5ljIs5Y5MfXRmhB97gQpq0"
-        }
-      ],
-      "duration_ms": 607552,
-      "name": "Universo",
-      "url": "https://open.spotify.com/track/5DRGuHS0xJ3X3OZjCrglTI"
     },
     {
       "added_at": "2023-10-26 22:00:00",

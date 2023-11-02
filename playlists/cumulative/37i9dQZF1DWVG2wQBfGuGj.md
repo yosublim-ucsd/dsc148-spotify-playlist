@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-196 songs - 10 hr 8 min
+197 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Northshire](https://open.spotify.com/track/3dLEbBPOPjZ7J9OOiOsgeA) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Northshire](https://open.spotify.com/album/5kQjccSno4yLJxCuVgH3FN) | 2:30 | 2023-07-07 |  |
 | [Old Prophecies](https://open.spotify.com/track/08cXfidFNX5g9cZPNcteWM) | [Red Leopard](https://open.spotify.com/artist/5h24ruFrsYkrOrEA6PXq47) | [Old Prophecies](https://open.spotify.com/album/1jo42bHLmo4IPXiPIHxpNP) | 3:14 | 2023-05-05 |  |
 | [On Call](https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [On Call](https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX) | 4:27 | 2023-05-05 | 2023-09-16 |
-| [On My Mind](https://open.spotify.com/track/7H7Usg7m2APDrNrzOZXcPH) | [Pomo](https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3) | [The Other Day](https://open.spotify.com/album/578IDaArIjl31LaVFT3VpM) | 2:27 | 2023-05-05 |  |
+| [On My Mind](https://open.spotify.com/track/5RogUAvw4QbdvzrCWjO8NJ) | [Pomo](https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3) | [The Other Day](https://open.spotify.com/album/1m20IgKUICY4cmLMBFdtxX) | 2:27 | 2023-10-20 |  |
+| [On My Mind](https://open.spotify.com/track/7H7Usg7m2APDrNrzOZXcPH) | [Pomo](https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3) | [The Other Day](https://open.spotify.com/album/578IDaArIjl31LaVFT3VpM) | 2:27 | 2023-05-05 | 2023-11-02 |
 | [On the Fly](https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:02 | 2023-05-05 | 2023-07-22 |
 | [On The Pull](https://open.spotify.com/track/6zKrDm8h18jJxPMbMSUGMs) | [Hoboken](https://open.spotify.com/artist/4HARu4hK9xDTdAIao8q8yH) | [On The Pull](https://open.spotify.com/album/5mHSvzcAKCPYR9Nm07SMMW) | 2:35 | 2023-05-26 |  |
 | [On You](https://open.spotify.com/track/3YPCgxtKB2O7A3hTi4BgnT) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [On You](https://open.spotify.com/album/4ueEYavC1Oasr5tRAPlYxj) | 4:24 | 2023-05-05 | 2023-06-20 |

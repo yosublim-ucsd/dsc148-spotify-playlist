@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,386 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,525 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 46 | [Stuck Today](https://open.spotify.com/track/5YIwS372wNtuT8cMjQPuVB) | [Navigate](https://open.spotify.com/artist/5fyf5Kv3KCEOH2dWsHVWqZ) | [Nothing Ever Happens Around Here](https://open.spotify.com/album/2A4WqOzAnC54g6gqn8RHce) | 3:29 |
 | 47 | [A Living Commodity](https://open.spotify.com/track/0ShcbtnTzSgH1tBTsAGnZL) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [A Living Commodity](https://open.spotify.com/album/72kbv07OZMFlWXwYpyeUIw) | 4:36 |
 | 48 | [Autodrama](https://open.spotify.com/track/3uvsiUdJ40LfqYQaok6aEI) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [THIRST](https://open.spotify.com/album/1ihsnvwQh0l61TnWVJN5No) | 4:09 |
-| 49 | [An Elegy Written on Porcelain Arms](https://open.spotify.com/track/4aY3jXrsltZ8J6L3XRRY6e) | [The Requiem](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [An Elegy Written on Porcelain Arms](https://open.spotify.com/album/1u1WmdaoOTSZBdj6mIUBjK) | 3:23 |
+| 49 | [An Elegy Written On Porcelain Arms](https://open.spotify.com/track/4aY3jXrsltZ8J6L3XRRY6e) | [The Requiem](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [An Elegy Written on Porcelain Arms](https://open.spotify.com/album/1u1WmdaoOTSZBdj6mIUBjK) | 3:23 |
 | 50 | [In My Head](https://open.spotify.com/track/53rpjI533RjaRNlL58gk4f) | [Ethereal](https://open.spotify.com/artist/0SolhJ6GwWLTkAFIfwWlfE) | [In My Head](https://open.spotify.com/album/3d8fAHGmxrWHa7jRdUpA2f) | 3:29 |
 
-Snapshot ID: `MCxjZTZiMjhkMTI4ODc3NDhmYzVhMGE5ZWU0ZDFiZTZiYjlkY2Q3YjJm`
+Snapshot ID: `MCw2Y2I3ZTYwMDNlNGVlMjFjMjVlNzI1NTJjZmNkMTFlOGIzZTlmMTgw`

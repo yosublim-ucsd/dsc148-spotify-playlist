@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Caroline Polachek
 
-1,368 songs - 3 day 9 hr 3 min
+1,369 songs - 3 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1272,7 +1272,8 @@
 | [Vickie](https://open.spotify.com/track/2Q18HgXzNB1jB85EuXFgNn) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 3:43 | 2022-03-04 | 2022-05-14 |
 | [Vickie](https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Vickie](https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml) | 3:43 | 2022-01-21 | 2022-03-05 |
 | [Videotape](https://open.spotify.com/track/0Pk0hNayBWxGrcrS93pvvc) | [Birds of Bellwoods](https://open.spotify.com/artist/3ZtRAJvBArlocyjPbm4Lvr) | [Videotape](https://open.spotify.com/album/5gQhgsJT4IFjVmEHVTDvkT) | 3:08 | 2022-10-07 | 2022-11-19 |
-| [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 | 2023-10-27 |  |
+| [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 | 2023-10-27 | 2023-11-02 |
+| [Violet](https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3DR4H81NkCmYBKgq1vOQ3n) | 7:18 | 2023-10-27 |  |
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2021-12-31 | 2022-01-29 |
 | [Waiting](https://open.spotify.com/track/049iZ0NQGdws8Hg0ZUCXY1) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Waiting](https://open.spotify.com/album/1OjhFoZotahdikWvfc4F2v) | 3:13 | 2021-12-31 | 2022-01-29 |
 | [Waiting For The Sunrise](https://open.spotify.com/track/2fVwrrimgW54kXfXoQvvXX) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Waiting For The Sunrise](https://open.spotify.com/album/755B3B6jLTBWoR1ELSnaIi) | 2:59 | 2022-02-18 | 2022-03-05 |

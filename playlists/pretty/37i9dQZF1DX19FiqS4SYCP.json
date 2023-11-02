@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 140459,
+  "num_followers": 140463,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWQyMWZkYzMxZGNkMDVlMDYzMDBjMTc0NWEwODliYWUyNTdlMWFi",
+  "snapshot_id": "MCw5NTcxYzQzYzk1Yzk2NjVhYTQ3M2ZmOWJjZWZiNWI0Y2JkZWYwYmI5",
   "tracks": [
     {
       "added_at": "2023-09-13 20:37:36",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Sin Fin",
-        "url": "https://open.spotify.com/album/011kZvqHZywq4DLzdngA47"
-      },
-      "artists": [
-        {
-          "name": "Gary Hobbs",
-          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
-        }
-      ],
-      "duration_ms": 237299,
-      "name": "Que Dar\u00eda",
-      "url": "https://open.spotify.com/track/1dVBQo1V3r6KGWIIsdm8jT"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "D\u00e9jame Sufrir",
         "url": "https://open.spotify.com/album/3X4lnddczeCRZVcS9qfvbk"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 233069,
       "name": "D\u00e9jame Sufrir",
       "url": "https://open.spotify.com/track/7ErdvZo7JE1dIYY1GFL0sm"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Sin Fin",
+        "url": "https://open.spotify.com/album/011kZvqHZywq4DLzdngA47"
+      },
+      "artists": [
+        {
+          "name": "Gary Hobbs",
+          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
+        }
+      ],
+      "duration_ms": 237299,
+      "name": "Que Dar\u00eda",
+      "url": "https://open.spotify.com/track/1dVBQo1V3r6KGWIIsdm8jT"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Rogando Por Tu Amor",
-        "url": "https://open.spotify.com/album/0hJfMeu3ayGQtUbMZ8KZiM"
-      },
-      "artists": [
-        {
-          "name": "EL GALLO DEZ",
-          "url": "https://open.spotify.com/artist/6HouSoogSl8M3OvLrdxij5"
-        }
-      ],
-      "duration_ms": 203879,
-      "name": "Rogando Por Tu Amor",
-      "url": "https://open.spotify.com/track/3konQZ2dxzZ9N83J0fC5qo"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Otra Vez Soltera",
         "url": "https://open.spotify.com/album/6YuNLasBSbj27kGKevK0dT"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 153896,
       "name": "Otra Vez Soltera",
       "url": "https://open.spotify.com/track/5KVoEPfr37AST35AsDcY7t"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Rogando Por Tu Amor",
+        "url": "https://open.spotify.com/album/0hJfMeu3ayGQtUbMZ8KZiM"
+      },
+      "artists": [
+        {
+          "name": "EL GALLO DEZ",
+          "url": "https://open.spotify.com/artist/6HouSoogSl8M3OvLrdxij5"
+        }
+      ],
+      "duration_ms": 203879,
+      "name": "Rogando Por Tu Amor",
+      "url": "https://open.spotify.com/track/3konQZ2dxzZ9N83J0fC5qo"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Solamente Tu",
-        "url": "https://open.spotify.com/album/1siVRqGXvQK3vQY1Ps3rD2"
+        "name": "Porque Te Amo",
+        "url": "https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe"
       },
       "artists": [
         {
-          "name": "David Lee Garza Y Los Musicales",
-          "url": "https://open.spotify.com/artist/6BeHKwIrRR7n4U3QDKpxvR"
+          "name": "Boyz of Kumbia",
+          "url": "https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA"
         }
       ],
-      "duration_ms": 206546,
-      "name": "Super Heroe",
-      "url": "https://open.spotify.com/track/1JG96INBN360PdDZnWztog"
+      "duration_ms": 187623,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Porque Te Amo",
-        "url": "https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe"
+        "name": "Solamente Tu",
+        "url": "https://open.spotify.com/album/1siVRqGXvQK3vQY1Ps3rD2"
       },
       "artists": [
         {
-          "name": "Boyz of Kumbia",
-          "url": "https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA"
+          "name": "David Lee Garza Y Los Musicales",
+          "url": "https://open.spotify.com/artist/6BeHKwIrRR7n4U3QDKpxvR"
         }
       ],
-      "duration_ms": 187623,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB"
+      "duration_ms": 206546,
+      "name": "Super Heroe",
+      "url": "https://open.spotify.com/track/1JG96INBN360PdDZnWztog"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "La Tequilera",
+        "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
+      },
+      "artists": [
+        {
+          "name": "Andrea Michelle",
+          "url": "https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA"
+        }
+      ],
+      "duration_ms": 204355,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Quebrando Cadenas",
         "url": "https://open.spotify.com/album/7qDDCuy8R1ak1va6myxUkm"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 240383,
       "name": "Quebrando Cadenas",
       "url": "https://open.spotify.com/track/6EftRXMyuDZaM4vtgJ6dQn"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "La Tequilera",
-        "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
-      },
-      "artists": [
-        {
-          "name": "Andrea Michelle",
-          "url": "https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA"
-        }
-      ],
-      "duration_ms": 204355,
-      "name": "La Tequilera",
-      "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "La Buena Vida",
-        "url": "https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk"
-      },
-      "artists": [
-        {
-          "name": "Rose Elva & the Crew",
-          "url": "https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn"
-        }
-      ],
-      "duration_ms": 222041,
-      "name": "La Buena Vida",
-      "url": "https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Toda Una Vida",
         "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 180410,
       "name": "Toda Una Vida",
       "url": "https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "La Buena Vida",
+        "url": "https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk"
+      },
+      "artists": [
+        {
+          "name": "Rose Elva & the Crew",
+          "url": "https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn"
+        }
+      ],
+      "duration_ms": 222041,
+      "name": "La Buena Vida",
+      "url": "https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz"
     },
     {
       "added_at": "2023-09-13 20:37:36",

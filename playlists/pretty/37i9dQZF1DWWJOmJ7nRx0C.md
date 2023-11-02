@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,985 likes - 125 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,137 likes - 125 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 93 | [Bound For Glory \(feat\. Markus Videsäter of Solence\)](https://open.spotify.com/track/5qPvBmcIscVajn1Fh3QXhO) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg), [Markus Videsäter](https://open.spotify.com/artist/0cADysfVZiggDl1JoWJarv) | [Bound For Glory](https://open.spotify.com/album/1jxZ7qtv7zCiNq66ISEyje) | 2:41 |
 | 94 | [Spotlight](https://open.spotify.com/track/3e9nuswzE0ZLoihvTGuXDk) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Spotlight](https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW) | 4:23 |
 | 95 | [Salt \(feat\. Dayseeker\)](https://open.spotify.com/track/4giP4hSHWfO7LfvlG50Z44) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Salt \(feat\. Dayseeker\)](https://open.spotify.com/album/3aniEhGPueequKj0nUJzfP) | 3:27 |
-| 96 | [Invisible Hand](https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Invisible Hand](https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz) | 3:54 |
+| 96 | [Invisible Hand](https://open.spotify.com/track/4r5bMIasNl5uYBnzf9TYXU) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Goodnight, God Bless, I Love U, Delete.](https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn) | 3:54 |
 | 97 | [Come Back Stronger](https://open.spotify.com/track/5PlNqAEj4tSnSC2RR6ja5Z) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Come Back Stronger](https://open.spotify.com/album/5UaFYlMCmEpHhXEL5dv2DT) | 3:35 |
 | 98 | [Too Late](https://open.spotify.com/track/1n110MY4nS0rX59wbpNoPS) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Too Late](https://open.spotify.com/album/5xTfpkXcdVjW5RjiWl4PkF) | 4:09 |
 | 99 | [Hyperactive](https://open.spotify.com/track/1er58pTJbvjLsBG0bWTo6K) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [Hyperactive](https://open.spotify.com/album/721XYQjwy2HJcLBVsDLOF8) | 2:58 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 124 | [Dead Weight](https://open.spotify.com/track/6zESIOIYKaxZQJP2hxgDlB) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Dead Weight](https://open.spotify.com/album/7HuFADTbWIytpxrDfpKTwc) | 3:22 |
 | 125 | [Breakout](https://open.spotify.com/track/3rWtfyhHQM7PmeXJjcK2D2) | [Amber Wild](https://open.spotify.com/artist/2j6qFsDbHa8AvJu9srRBrS) | [Breakout // Silver](https://open.spotify.com/album/0IYNo3hRLEUi2FMFrsN4Uy) | 3:43 |
 
-Snapshot ID: `MCw2ODM1YzY2NTAzZWQyOWVjYWZiOWQzMzcyMzBjOGVlMTQyN2EwMTkw`
+Snapshot ID: `MCw4N2JhNTk1MTdkOTRiMjU1M2NmODczOWE5ZTM5MzZmZDY4MDZmODEy`

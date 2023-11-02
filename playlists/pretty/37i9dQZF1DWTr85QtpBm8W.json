@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 15438,
+  "num_followers": 15487,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDc3ZWJjYzFmYjhiY2Y4MGZlYTMyYjNhMTY5OGUxM2RhOWI3NjQ5",
+  "snapshot_id": "MCxiZTljOWYxNjA4YTAzMzNmYTM5ZDY0NTkxZDMxODExZTEyMWJiODc5",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -303,22 +303,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Cendre",
-        "url": "https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe"
+        "name": "The Tired Sounds of Stars of the Lid",
+        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
       "artists": [
         {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
-        },
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
         }
       ],
-      "duration_ms": 229933,
-      "name": "Oto",
-      "url": "https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ"
+      "duration_ms": 656026,
+      "name": "Piano Aquieu",
+      "url": "https://open.spotify.com/track/3sLgMuBTIEp761Zi7bl5im"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -339,18 +335,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Tired Sounds of Stars of the Lid",
-        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
+        "name": "Cendre",
+        "url": "https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe"
       },
       "artists": [
         {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 656026,
-      "name": "Piano Aquieu",
-      "url": "https://open.spotify.com/track/3sLgMuBTIEp761Zi7bl5im"
+      "duration_ms": 229933,
+      "name": "Oto",
+      "url": "https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Copia",
-        "url": "https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Amreik",
-      "url": "https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Tired Sounds of Stars of the Lid",
         "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 457146,
       "name": "Requiem for Dying Mothers, Pt. 2",
       "url": "https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Copia",
+        "url": "https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Amreik",
+      "url": "https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Tired Sounds of Stars of the Lid",
-        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
+        "name": "Talk Amongst the Trees",
+        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
       },
       "artists": [
         {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
         }
       ],
-      "duration_ms": 397813,
-      "name": "Requiem for Dying Mothers, Pt. 1",
-      "url": "https://open.spotify.com/track/4iCjh6ybA5uiLSIAlcrFuV"
+      "duration_ms": 129800,
+      "name": "We Say Goodbye To Ourselves",
+      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Talk Amongst the Trees",
-        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+        "name": "The Tired Sounds of Stars of the Lid",
+        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
         }
       ],
-      "duration_ms": 129800,
-      "name": "We Say Goodbye To Ourselves",
-      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
+      "duration_ms": 397813,
+      "name": "Requiem for Dying Mothers, Pt. 1",
+      "url": "https://open.spotify.com/track/4iCjh6ybA5uiLSIAlcrFuV"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Black Earth",
-        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+        "name": "Sings Reign Rebuilder",
+        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
       },
       "artists": [
         {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
         }
       ],
-      "duration_ms": 403573,
-      "name": "Crimson Ways",
-      "url": "https://open.spotify.com/track/6DCucKDvfe2Hqc3PWMB9rF"
+      "duration_ms": 169439,
+      "name": "Fading Lights Are Fading... / Reign Rebuilder (Tail Out)",
+      "url": "https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Sings Reign Rebuilder",
-        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
       },
       "artists": [
         {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
         }
       ],
-      "duration_ms": 169439,
-      "name": "Fading Lights Are Fading... / Reign Rebuilder (Tail Out)",
-      "url": "https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE"
+      "duration_ms": 403573,
+      "name": "Crimson Ways",
+      "url": "https://open.spotify.com/track/6DCucKDvfe2Hqc3PWMB9rF"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Sings Reign Rebuilder",
-        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
-      },
-      "artists": [
-        {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
-        }
-      ],
-      "duration_ms": 102239,
-      "name": "Jesus / Pop",
-      "url": "https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Playthroughs",
         "url": "https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW"
       },
@@ -859,6 +843,38 @@
       "duration_ms": 481266,
       "name": "Fib01a",
       "url": "https://open.spotify.com/track/4IJCUAfJub0AmmN15YJwmQ"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Songs for the Broken Hearted",
+        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
+      },
+      "artists": [
+        {
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+        }
+      ],
+      "duration_ms": 140840,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Sings Reign Rebuilder",
+        "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
+      },
+      "artists": [
+        {
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+        }
+      ],
+      "duration_ms": 102239,
+      "name": "Jesus / Pop",
+      "url": "https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -879,22 +895,6 @@
       "duration_ms": 210706,
       "name": "And Then I Turned Away",
       "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Songs for the Broken Hearted",
-        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
-      },
-      "artists": [
-        {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
-        }
-      ],
-      "duration_ms": 140840,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "After The Night Falls",
-        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "How Distant Your Heart",
-      "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Equatorial Stars",
         "url": "https://open.spotify.com/album/2X1K3oGsTNpiHEFt71kfUU"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 410933,
       "name": "Warmed By the Drift",
       "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "How Distant Your Heart",
+      "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "L'Orange L'Orange",
-        "url": "https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5"
+        "name": "The Equatorial Stars",
+        "url": "https://open.spotify.com/album/2X1K3oGsTNpiHEFt71kfUU"
       },
       "artists": [
         {
-          "name": "Gregg Kowalsky",
-          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+          "name": "Robert Fripp",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 314676,
-      "name": "Blind Contour Drawing for Piano",
-      "url": "https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2"
+      "duration_ms": 303266,
+      "name": "Tarazed",
+      "url": "https://open.spotify.com/track/2EHHEsmOV84A9GwSBPvK21"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1167,22 +1171,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Equatorial Stars",
-        "url": "https://open.spotify.com/album/2X1K3oGsTNpiHEFt71kfUU"
+        "name": "L'Orange L'Orange",
+        "url": "https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5"
       },
       "artists": [
         {
-          "name": "Robert Fripp",
-          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Gregg Kowalsky",
+          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
         }
       ],
-      "duration_ms": 303266,
-      "name": "Tarazed",
-      "url": "https://open.spotify.com/track/2EHHEsmOV84A9GwSBPvK21"
+      "duration_ms": 314676,
+      "name": "Blind Contour Drawing for Piano",
+      "url": "https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Betrayed in the Octagon",
-        "url": "https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 524468,
-      "name": "Woe Is the Transgression I",
-      "url": "https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Variations: A Movement In Chrome Primitive",
         "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 357866,
       "name": "Further Away",
       "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Betrayed in the Octagon",
+        "url": "https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 524468,
+      "name": "Woe Is the Transgression I",
+      "url": "https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr"
     },
     {
       "added_at": "2023-08-04 12:53:28",

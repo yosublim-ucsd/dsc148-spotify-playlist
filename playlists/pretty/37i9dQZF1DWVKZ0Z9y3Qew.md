@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\.  Cover: <a href="spotify:artist:0y55D5fL0ywYdEpIQPbwJC">Livt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,125 likes - 55 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,141 likes - 55 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 49 | [The One](https://open.spotify.com/track/0Xt6FsYV7I3dhCnWAdiPDz) | [MikeJack3200](https://open.spotify.com/artist/1DsOlo169ovaAx19956vOb), [Almighty Suspect](https://open.spotify.com/artist/4y5IK8VBswkl40ltpHI5o9) | [The One](https://open.spotify.com/album/1y0W42Xu4l9TFl05yoVGnk) | 1:41 |
 | 50 | [AGAIN](https://open.spotify.com/track/6DPVR8pculIrwCEkjT7aQE) | [BIG Jone$](https://open.spotify.com/artist/6aoASPFrueu2e0EEWSO45X) | [AGAIN](https://open.spotify.com/album/17nEibDtQx7CkuSdft6ez0) | 2:58 |
 | 51 | [Domi](https://open.spotify.com/track/44V5PLecQJqgo6g7IUbTek) | [Connect Zero](https://open.spotify.com/artist/3k8lBDenIm90lWaSpAYQeH) | [Almost Home](https://open.spotify.com/album/44HzgPw26d2HatH5P43787) | 3:18 |
-| 52 | [Woke Up In A Dream](https://open.spotify.com/track/04ZUBBpthlK3h8Qynr5h4C) | [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Woke Up In A Dream \(feat\. Lil Tracy\)](https://open.spotify.com/album/3EIVA5J4dWukwzGDHkh4RX) | 4:29 |
+| 52 | [Woke Up In A Dream](https://open.spotify.com/track/437pPy21IrGM3QBuumzwpG) | [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Robed in Rareness](https://open.spotify.com/album/2ayrWnruBeS1vI4fPawoNk) | 4:29 |
 | 53 | [Falling](https://open.spotify.com/track/6N3up1z3MJlGgH229RJkCf) | [Hunnidkbaby](https://open.spotify.com/artist/6gj2nfDNUqOjbVGzYdzSFQ) | [Falling](https://open.spotify.com/album/4A2k1rsqxFjTCUpjSBiZWj) | 2:33 |
 | 54 | [DX FREESTYLE](https://open.spotify.com/track/74Ceds2DwoSB3PIZ3xA24B) | [Kid Cambo](https://open.spotify.com/artist/4n9wn5OJVBp96xO2cAqVDf), [SuburbanTrapstar](https://open.spotify.com/artist/467zkq3yEhxHqSaXi6aUfL) | [KC CHRONICLES](https://open.spotify.com/album/4DA0mreqoWOuz0Ma1i3TYs) | 2:38 |
 | 55 | [Nann](https://open.spotify.com/track/1LSR4qQRrDaHVeDHQNi31H) | [Dyrect](https://open.spotify.com/artist/1dhCuRGoNbR8a8bhdY3UUs), [Drae Slapz](https://open.spotify.com/artist/1RKGcbu15VTqYNYMjyisNM), [Scooter Rogers](https://open.spotify.com/artist/6KKQAa1W5yArQ6Q31UFFcG) | [Nann](https://open.spotify.com/album/3EHesZZ4ZqLuc6eyUwo9bR) | 2:42 |
 
-Snapshot ID: `MCw5ZjcyNjcyNjY1ZGUzMjU5NDNjNzkxN2U3NDhjODJiOWVjNDg1ODFm`
+Snapshot ID: `MCxhYmY2NzM2ODBlOTBlNTM2M2IyZjAxMWNiZTE0MWQ2OTYyOGY3M2Vm`

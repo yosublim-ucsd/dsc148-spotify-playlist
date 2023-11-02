@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico Buarque",
-  "num_followers": 345692,
+  "num_followers": 345750,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTc2NTBkOWI1NGFhNGU2MTMxMDNmNmJhYjA3YmEwNWMxZDRjYzFl",
+  "snapshot_id": "MCw2MzYwZDdmYzQxZWQ3ZjFjMGI5ZjgxMTQwMTYxZmJiOTk1YTA0ZjRj",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Lua e Estrela",
+        "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
+      },
+      "artists": [
+        {
+          "name": "Lucas Felix",
+          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
+        },
+        {
+          "name": "Lucy Alves",
+          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
+        }
+      ],
+      "duration_ms": 219098,
+      "name": "Lua e Estrela",
+      "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "ESTRELA",
         "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
       },
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Lua e Estrela",
-        "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
-      },
-      "artists": [
-        {
-          "name": "Lucas Felix",
-          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
-        },
-        {
-          "name": "Lucy Alves",
-          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
-        }
-      ],
-      "duration_ms": 219098,
-      "name": "Lua e Estrela",
-      "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "N\u00e3o Tem Lua",
         "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 179843,
       "name": "N\u00e3o Tem Lua",
       "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Oswaldo Montenegro e Orquestra",
+        "url": "https://open.spotify.com/album/1MtecGxFiRth68STj2JSHf"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+        }
+      ],
+      "duration_ms": 168162,
+      "name": "A Lista",
+      "url": "https://open.spotify.com/track/47Tc85pV7z2ivBetN14Y8t"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Oswaldo Montenegro e Orquestra",
-        "url": "https://open.spotify.com/album/1MtecGxFiRth68STj2JSHf"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
-        }
-      ],
-      "duration_ms": 168162,
-      "name": "A Lista",
-      "url": "https://open.spotify.com/track/47Tc85pV7z2ivBetN14Y8t"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Alceu Valen\u00e7a e Paulo Rafael",
         "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
       },
@@ -1267,6 +1267,26 @@
       "duration_ms": 204873,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "A M\u00fasica de Tom",
+        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Montarroyos",
+          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+        },
+        {
+          "name": "Cain\u00e3 Cavalcante",
+          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
+        }
+      ],
+      "duration_ms": 185691,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1299,22 +1319,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "A M\u00fasica de Tom",
-        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
+        "name": "desculpe o au\u00ea",
+        "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
       },
       "artists": [
         {
-          "name": "Ayrton Montarroyos",
-          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+          "name": "Belle Lune",
+          "url": "https://open.spotify.com/artist/37kiKpzwo3ERmon9VTN86h"
         },
         {
-          "name": "Cain\u00e3 Cavalcante",
-          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
+          "name": "Fl\u00e1via Felicio",
+          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
         }
       ],
-      "duration_ms": 185691,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
+      "duration_ms": 178867,
+      "name": "desculpe o au\u00ea",
+      "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1335,26 +1355,6 @@
       "duration_ms": 249411,
       "name": "Carnavil\u00e3",
       "url": "https://open.spotify.com/track/3ZwxCLm9NO4DHraGWleIpc"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "desculpe o au\u00ea",
-        "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
-      },
-      "artists": [
-        {
-          "name": "Belle Lune",
-          "url": "https://open.spotify.com/artist/37kiKpzwo3ERmon9VTN86h"
-        },
-        {
-          "name": "Fl\u00e1via Felicio",
-          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
-        }
-      ],
-      "duration_ms": 178867,
-      "name": "desculpe o au\u00ea",
-      "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Paci\u00eancia",
+        "url": "https://open.spotify.com/album/6cXORwSG04rxXhOJwYDNYK"
+      },
+      "artists": [
+        {
+          "name": "A Banda Mais Bonita da Cidade",
+          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
         "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 165815,
       "name": "Regra Tr\u00eas",
       "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Paci\u00eancia",
-        "url": "https://open.spotify.com/album/6cXORwSG04rxXhOJwYDNYK"
-      },
-      "artists": [
-        {
-          "name": "A Banda Mais Bonita da Cidade",
-          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
+      },
+      "artists": [
+        {
+          "name": "Tuca Oliveira",
+          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
+        }
+      ],
+      "duration_ms": 196319,
+      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "De: Terra; Para: Humanidade",
         "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
       },
@@ -1639,6 +1655,26 @@
       "duration_ms": 230441,
       "name": "De: Terra; Para: Humanidade",
       "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Marujo",
+        "url": "https://open.spotify.com/album/5uoYiANXjRDCKedZeuuPDO"
+      },
+      "artists": [
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Roberto Mendes",
+          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
+        }
+      ],
+      "duration_ms": 168512,
+      "name": "Marujo",
+      "url": "https://open.spotify.com/track/6MJHXSrRfSWESgjTalaSIU"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1667,42 +1703,6 @@
       "duration_ms": 264154,
       "name": "Tigresa - Ao Vivo no Coala Festival 2022",
       "url": "https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Marujo",
-        "url": "https://open.spotify.com/album/5uoYiANXjRDCKedZeuuPDO"
-      },
-      "artists": [
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Roberto Mendes",
-          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
-        }
-      ],
-      "duration_ms": 168512,
-      "name": "Marujo",
-      "url": "https://open.spotify.com/track/6MJHXSrRfSWESgjTalaSIU"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
-      },
-      "artists": [
-        {
-          "name": "Tuca Oliveira",
-          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
-        }
-      ],
-      "duration_ms": 196319,
-      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "PEDRO PASCUAL",
-        "url": "https://open.spotify.com/album/7ERxJxap9tA4xBAQhmiKs5"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pascual",
-          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
-        }
-      ],
-      "duration_ms": 191043,
-      "name": "Ontem, Hoje e Amanh\u00e3",
-      "url": "https://open.spotify.com/track/29Ecov9FcydQR4VDr6GYso"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Colombina",
         "url": "https://open.spotify.com/album/2poSuWn4v2n7CqXRJKr27h"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 124058,
       "name": "Colombina",
       "url": "https://open.spotify.com/track/0hIYS3mSzhMn1HlskG6Avd"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "PEDRO PASCUAL",
+        "url": "https://open.spotify.com/album/7ERxJxap9tA4xBAQhmiKs5"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+        }
+      ],
+      "duration_ms": 191043,
+      "name": "Ontem, Hoje e Amanh\u00e3",
+      "url": "https://open.spotify.com/track/29Ecov9FcydQR4VDr6GYso"
     },
     {
       "added_at": "2023-10-20 03:00:00",

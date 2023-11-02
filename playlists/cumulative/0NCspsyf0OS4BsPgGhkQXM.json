@@ -9831,6 +9831,24 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/34gKjA6hQbaYJ5sq7dUOW5"
+      },
+      "artists": [
+        {
+          "name": "RAZRWAV",
+          "url": "https://open.spotify.com/artist/6HGPVdgfqWFBHKn0izGWM2"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/23UJlvZozOXAA9ow6Ixv9o"
+    },
+    {
+      "album": {
         "name": "Lose Myself",
         "url": "https://open.spotify.com/album/6lRBw1gULXV5AGxHAJFJJh"
       },

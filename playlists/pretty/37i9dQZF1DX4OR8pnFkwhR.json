@@ -1,12 +1,12 @@
 {
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u30d5\u30b8\u30bf \u30ab\u30b3",
-  "num_followers": 62787,
+  "num_followers": 62808,
   "original_name": "RADAR: Early Noise ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjNmMDhiNjY5YzcyNzNmZGMzMWU2NjRiNmU0MGNjMjM1ZjgyNzJk",
+  "snapshot_id": "MCxiNTA5MWNiOTY0YTUwOGQ0OTgyNjcyMTRjZWI1Yzk5MzhkYWIyZGNh",
   "tracks": [
     {
       "added_at": "2023-10-31 15:00:00",
@@ -231,13 +231,13 @@
     {
       "added_at": "2023-10-31 15:00:00",
       "album": {
-        "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3",
-        "url": "https://open.spotify.com/album/5S1jzfiw00B4Uqm69TGZop"
+        "name": "hot lemon",
+        "url": "https://open.spotify.com/album/5dtQd5fuVHnFs0Siny4eD6"
       },
       "artists": [
         {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+          "name": "noa",
+          "url": "https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp"
         },
         {
           "name": "maeshima soshi",
@@ -245,8 +245,8 @@
         }
       ],
       "duration_ms": 153461,
-      "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3",
-      "url": "https://open.spotify.com/track/4M1dqbgZzVtUfddPIDt4CJ"
+      "name": "hot lemon",
+      "url": "https://open.spotify.com/track/1ZTpqhGR9UeBpBVyoBFEXf"
     },
     {
       "added_at": "2023-10-31 15:00:00",
@@ -355,8 +355,8 @@
     {
       "added_at": "2023-10-31 15:00:00",
       "album": {
-        "name": "\u5e38\u6642",
-        "url": "https://open.spotify.com/album/2Li3hHC5e8JaHC4qJvgmRH"
+        "name": "JOHJI",
+        "url": "https://open.spotify.com/album/6Mv4qwCruIA7hkMAoCwPOt"
       },
       "artists": [
         {
@@ -365,8 +365,8 @@
         }
       ],
       "duration_ms": 288184,
-      "name": "\u5e38\u6642",
-      "url": "https://open.spotify.com/track/4z6WOaHmQH6IB5MiU2ZTOh"
+      "name": "JOHJI",
+      "url": "https://open.spotify.com/track/1trPyHkA0NvuY8jfYLEruI"
     },
     {
       "added_at": "2023-10-31 15:00:00",
@@ -1291,8 +1291,8 @@
     {
       "added_at": "2023-10-31 15:00:00",
       "album": {
-        "name": "\u6c38\u9060\u306e\u604b\u4eba",
-        "url": "https://open.spotify.com/album/0oTwqQ34fD65BfspOYa4kd"
+        "name": "eienno koibito",
+        "url": "https://open.spotify.com/album/0WCgyIveEmwIVnkteT94Fp"
       },
       "artists": [
         {
@@ -1301,8 +1301,8 @@
         }
       ],
       "duration_ms": 228031,
-      "name": "\u6c38\u9060\u306e\u604b\u4eba",
-      "url": "https://open.spotify.com/track/286zSr3sjCn9MhmgfSJwE8"
+      "name": "eienno koibito",
+      "url": "https://open.spotify.com/track/2x5ycWQvPTl4sOk5BSnGpS"
     },
     {
       "added_at": "2023-10-31 15:00:00",
@@ -1324,7 +1324,7 @@
       "added_at": "2023-10-31 15:00:00",
       "album": {
         "name": "vanilla",
-        "url": "https://open.spotify.com/album/5qDopHcvSDsJzxefVd5Ezk"
+        "url": "https://open.spotify.com/album/7bKtCF6j2F2aQi9Tvsy99Q"
       },
       "artists": [
         {
@@ -1334,7 +1334,7 @@
       ],
       "duration_ms": 161133,
       "name": "vanilla",
-      "url": "https://open.spotify.com/track/08ukXT58LS2DISzsdYBA16"
+      "url": "https://open.spotify.com/track/54ogyAllu07li203RXAS1E"
     }
   ],
   "unique_name": "RADAR: Early Noise ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,472 likes - 403 songs - 11 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,598 likes - 403 songs - 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,7 +305,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 295 | [Napping Rabbit](https://open.spotify.com/track/67kuEnFkonVepzIAxrmuZ8) | [Tranter Norwood](https://open.spotify.com/artist/5GMyVZQE3EN49IHewe0Y9z) | [Napping Rabbit](https://open.spotify.com/album/3Kv3bNC9sFdCbyeG78uZ0v) | 1:15 |
 | 296 | [Blessed Moments](https://open.spotify.com/track/22SkVTI0VMOBmn7hYZ0lZW) | [Mrs Mayford](https://open.spotify.com/artist/1DnajjlzcHuEugVA6brKPr) | [Blessed Moments](https://open.spotify.com/album/6dzws1YlB8XQ7fRGxqu2hd) | 2:28 |
 | 297 | [If I Were an Astronaut](https://open.spotify.com/track/2Ygx4161pwI6xWkd3zu6HV) | [Dana McGowen](https://open.spotify.com/artist/4VsnumFuiW1YdUCHgENYUB) | [If I Were an Astronaut](https://open.spotify.com/album/2SyqxeyjjTR0k4j1riNTwA) | 1:21 |
-| 298 | [Lonley Planet](https://open.spotify.com/track/36GmBo5f3C9Nsp6nf11kk4) | [Val Hughes](https://open.spotify.com/artist/4tHxIe8AIsYzEYNAmoXQUv) | [Lonley Planet](https://open.spotify.com/album/1auEFb5yaUSANJhvwCwQ6E) | 1:56 |
+| 298 | [Lonley Planet](https://open.spotify.com/track/36GmBo5f3C9Nsp6nf11kk4) | [Val Hughes](https://open.spotify.com/artist/7oAE01yqQcnP9SB9ShdD1Q) | [Lonley Planet](https://open.spotify.com/album/1auEFb5yaUSANJhvwCwQ6E) | 1:56 |
 | 299 | [Closing Time](https://open.spotify.com/track/4qynpDjoyzLZjHNwroU3UN) | [Margret O'Neal](https://open.spotify.com/artist/0qWHfyGNKjHZyHCvIYwNdc) | [Closing Time](https://open.spotify.com/album/6u8mesUiCh9Ej8r3TbC8i0) | 1:53 |
 | 300 | [Kiro's Bedtime](https://open.spotify.com/track/3YVCitcIC16xvzxnvnToxf) | [Chiola](https://open.spotify.com/artist/5u6XN8l3ekVBP7c3PB0Jop) | [Kiro's Bedtime](https://open.spotify.com/album/1JaUDCJ1umbzBFpaNo4DN7) | 1:25 |
 | 301 | [When Evening Falls](https://open.spotify.com/track/62jUy4TaMLqNUxS4YXLZtF) | [Wunder Harp](https://open.spotify.com/artist/7Hki2k0mnobCrWYGthcAqO) | [When Evening Falls](https://open.spotify.com/album/2NI16n7T6A0XFUrbaPqsJn) | 1:14 |
@@ -412,4 +412,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 402 | [Juliette la rainette](https://open.spotify.com/track/4SEwRdM99oGODGD957dnFf) | [Alexandrie Giguère](https://open.spotify.com/artist/6v3qBiSqMtyHBXHB5kUYuU) | [Juliette la rainette](https://open.spotify.com/album/4BIX2mOOLCEq1sjZxKdkgy) | 1:24 |
 | 403 | [Song Of The Small Bear](https://open.spotify.com/track/3WpJQDeJBbDEoArODpX1aC) | [Roly Lucian](https://open.spotify.com/artist/6lEfvybWRACgFS0gXlZbUM) | [Song Of The Small Bear](https://open.spotify.com/album/0wxJtbDu0Hl4hWIIcZHQz1) | 1:44 |
 
-Snapshot ID: `MCwxODhkM2Y0ZmE0ZGJjMGVmNjc1YmFhY2Q1MTZkNmU5ODRkYmM1YTI0`
+Snapshot ID: `MCwyNjQ2ZDBjOTM5ZTg5MDJlNDUwYjNjY2M5MWIxOGViZTc1NmVlYWIw`

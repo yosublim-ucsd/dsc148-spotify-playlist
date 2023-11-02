@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-338 songs - 20 hr 3 min
+339 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Hithawanthi](https://open.spotify.com/track/0QivM7RF5E39h5SWQKAUX5) | [Dhyan Hewage](https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G), [Pasan Liyanage](https://open.spotify.com/artist/44fhZpV5IJzoRFiUswUhbi) | [Hithawanthi](https://open.spotify.com/album/2TOulTsHrzdoBKLKB60AKQ) | 4:08 | 2023-08-17 |  |
 | [Hithe Kathawe](https://open.spotify.com/track/2QfmbDmlzrszpUutnNLP81) | [Dimi3](https://open.spotify.com/artist/7uRcNDbRBROKZcU6r2ZPIE), [Gayan Gunawardana](https://open.spotify.com/artist/23JXDtvyHWUfT3nciKScG7), [Sajith Akmeemana](https://open.spotify.com/artist/2vrRv4kAPdCVDQvkRjFYrI) | [Hithe Kathawe](https://open.spotify.com/album/6CqZYN8Eib7MQDPnQzBj1m) | 3:40 | 2022-06-16 | 2022-12-01 |
 | [Hulan Banis](https://open.spotify.com/track/2EkTq3VZyGRkpfLjJDp85h) | [La Signore](https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP), [Randhir](https://open.spotify.com/artist/1YMDbJ09hbqy97l9YU4R08) | [Hulan Banis](https://open.spotify.com/album/5LuerMlqDZeTwEp3PniP22) | 4:11 | 2022-06-16 | 2022-08-30 |
-| [Häma Heenema](https://open.spotify.com/track/5OM14r0sz2gYucEKq2BiRe) | [Induja](https://open.spotify.com/artist/0xOyyr7omyRhzzonikwtRD) | [Häma Heenema](https://open.spotify.com/album/0Ejcme3r4lRYzZJU3xArS5) | 3:31 | 2022-06-16 |  |
+| [Häma Heenema](https://open.spotify.com/track/3QixlHwqZu6AKAg2DaBk5L) | [Induja](https://open.spotify.com/artist/0xOyyr7omyRhzzonikwtRD) | [Häma Heenema](https://open.spotify.com/album/1KBJjfCikESFjVLQkJI2QN) | 3:31 | 2023-10-17 |  |
+| [Häma Heenema](https://open.spotify.com/track/5OM14r0sz2gYucEKq2BiRe) | [Induja](https://open.spotify.com/artist/0xOyyr7omyRhzzonikwtRD) | [Häma Heenema](https://open.spotify.com/album/0Ejcme3r4lRYzZJU3xArS5) | 3:31 | 2022-06-16 | 2023-11-02 |
 | [Ice](https://open.spotify.com/track/520xJKhwIuwUoWBn0sbaTV) | [Costa](https://open.spotify.com/artist/0xQI3u4hVl2KnZf5tq38LR), [DKM](https://open.spotify.com/artist/24zd5PYOAMZVYGj8cnb7fh) | [Paavi Paavi 3](https://open.spotify.com/album/5ajuurZv6QUR6suLZ1XMQL) | 3:42 | 2022-08-12 | 2022-11-05 |
 | [Ice](https://open.spotify.com/track/7Couef9jj3sCL8TfrYxL5s) | [Costa](https://open.spotify.com/artist/0xQI3u4hVl2KnZf5tq38LR), [DKM](https://open.spotify.com/artist/24zd5PYOAMZVYGj8cnb7fh) | [Paavi Paavi 3](https://open.spotify.com/album/27ycfh55hituS67sDEjjks) | 3:42 | 2022-06-16 | 2022-08-28 |
 | [Ipadune Dinanna](https://open.spotify.com/track/2WAtFSVVadpRgvLpVRysyu) | [Lahiru Perera](https://open.spotify.com/artist/6JGAxjNleZjwfmRmFQvvXS), [Abhisheka Wimalaweera](https://open.spotify.com/artist/5NlOn9MIS2YNkNblNMGH8v), [Sanka Dineth](https://open.spotify.com/artist/1Uqk24JsikzOJO5gHx9AJG), [Stephanie Siriwardhana](https://open.spotify.com/artist/7nGHgCQX2HMJ0N5tDEFuqV), [Raini Charuka](https://open.spotify.com/artist/560riUcFnPmvtt6XYVLMa9) | [Ipadune Dinanna](https://open.spotify.com/album/6wciZav5zQ4E7xcPVOVG28) | 3:38 | 2022-06-16 | 2022-12-01 |

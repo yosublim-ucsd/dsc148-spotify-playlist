@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Taylor Swift, Majid Jordan, Rema, Tenille Arts and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,377 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,401 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 |
-| 2 | [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 |
+| 2 | [Violet](https://open.spotify.com/track/4i85oysQdNeP8M7pqUH9sr) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3DR4H81NkCmYBKgq1vOQ3n) | 7:18 |
 | 3 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 |
 | 4 | [Eaze Your Mind](https://open.spotify.com/track/3VOCdjPijYY314lUgl4EHL) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Eaze Your Mind](https://open.spotify.com/album/1Ts7dHjXutjCbZdb3OXLEd) | 3:11 |
 | 5 | [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Bloodsucker](https://open.spotify.com/track/3Vjz4qxSB8k2UGjJPR6JGd) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Bloodsucker](https://open.spotify.com/album/59boJCTqevkvToAoVm9c9y) | 2:37 |
 | 100 | [Theme From Trans\-Canada Highwaymen](https://open.spotify.com/track/25IwzanyJrr5guSjYWSGdT) | [Trans\-Canada Highwaymen](https://open.spotify.com/artist/5Aq588mj6kj9ua5OaYQrOT), [Steven Page](https://open.spotify.com/artist/160fRY4TZO7VQmKFQWNBV4), [Craig Northey](https://open.spotify.com/artist/32leSbSq6jJw5lBugt7m0m) | [Explosive Hits Vol\. 1](https://open.spotify.com/album/1wmyef6qrMMuve7um1dIer) | 3:33 |
 
-Snapshot ID: `MCwzZDYyZDk4OWNmY2IyZWY4YzEwOTU1YTlmN2JkYWFmMGY5YzIyN2U5`
+Snapshot ID: `MCw1MTUxYTAwODk5ZWMwNmM3MTE1ZWNmNzA0MGJjYzI1YTUxOTQ0MWNi`

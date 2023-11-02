@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: G Jones
 
-276 songs - 15 hr 13 min
+277 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [I'm So Sorry](https://open.spotify.com/track/3g0e37rA0DzgfJhDkK07iI) | [OAKK](https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y) | [UNCHAINED: The Year of the Ox](https://open.spotify.com/album/4waeibFUtD0gYgbfxX2mEt) | 2:46 | 2021-11-19 | 2022-02-01 |
 | [ili](https://open.spotify.com/track/59QmjU5K8XQTfj9JjFNb4Z) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Left Is Right](https://open.spotify.com/album/7nYaSlVUHMNvSRzc0guLYy) | 4:05 | 2022-02-01 |  |
 | [In Da Trap](https://open.spotify.com/track/2BvcDrHKfMCa7TmZwZ4wqf) | [Bailo](https://open.spotify.com/artist/3oLbNoZxAYO4KsXmx6PjTC) | [In Da Trap](https://open.spotify.com/album/4azEDdUz90VFhaut17Ag8f) | 4:10 | 2021-11-19 | 2022-02-02 |
-| [In Motion \(feat\. Reo Cragun\)](https://open.spotify.com/track/53d5dxYPtRLPmqPe9VpZ67) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [In Motion](https://open.spotify.com/album/71lqyPEsdWsJhqYhylY1vy) | 3:01 | 2021-11-19 |  |
+| [In Motion \(feat\. Reo Cragun\)](https://open.spotify.com/track/53d5dxYPtRLPmqPe9VpZ67) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [In Motion](https://open.spotify.com/album/71lqyPEsdWsJhqYhylY1vy) | 3:01 | 2021-11-19 | 2023-11-02 |
 | [In My Room \(feat\. Ty Dolla $ign & Tyga\)](https://open.spotify.com/track/4lqEFIB9YZl8BwR99L5H3b) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Blood For Mercy](https://open.spotify.com/album/7ACxS7rtYV8HyHgj0FD0cb) | 2:48 | 2022-02-01 | 2023-09-23 |
 | [In Your Head](https://open.spotify.com/track/1NhilkWAvuOHN3c0m88N98) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [The Ineffable Truth](https://open.spotify.com/album/4wcUbqKSiZv4kNoJ3KOmrS) | 3:09 | 2021-11-19 | 2022-02-02 |
 | [Insomniac](https://open.spotify.com/track/74leCkl7rVK7GcycRrc9wq) | [AJ Salvatore](https://open.spotify.com/artist/5gLMXPUMc0uh9TedkRlng9), [Atarii](https://open.spotify.com/artist/1qqf6zmMJwD0v7gKAvbZMJ) | [Insomniac](https://open.spotify.com/album/6hMnN2Q7GA0HXLnB7Lpa0l) | 2:32 | 2021-11-19 | 2022-01-27 |
@@ -153,6 +153,7 @@
 | [Look Back](https://open.spotify.com/track/6uU3is35QYYPXgK2NylZ3E) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Look Back](https://open.spotify.com/album/1T6Rrzc39d1MpdSP0lB9pt) | 3:18 | 2021-11-19 | 2022-01-23 |
 | [Losing Time](https://open.spotify.com/track/6gHG0T5lelj7EluTAnJ2ox) | [Drew Wilken](https://open.spotify.com/artist/37jtB0pLZhl1UfKUxhcyiQ) | [Losing Time](https://open.spotify.com/album/45mk91pbbutiDTW6J4JTb7) | 3:44 | 2021-11-19 | 2022-02-01 |
 | [LOUD](https://open.spotify.com/track/4gWvFjp9fFZ77mOW5FUaDh) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Runnit](https://open.spotify.com/artist/0kojSSqjZ9LAAHpNwYObKb) | [LOUD](https://open.spotify.com/album/20YsYld8q3KoVj8uT7kHGK) | 2:45 | 2023-09-08 |  |
+| [Love Hotel](https://open.spotify.com/track/3D5T9c0O7IE2uM0pU4Q5SN) | [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu) | [Love Hotel](https://open.spotify.com/album/70Bek9HrCmMAku4HmZd0Sl) | 3:23 | 2023-10-27 |  |
 | [Lowkey \(feat\. Lil Traffic\)](https://open.spotify.com/track/0PCCk7RBQUE7RsoUq66nuW) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU), [Lil Traffic](https://open.spotify.com/artist/3eT3DxADMFeVVzczjXOreQ) | [Lowkey \(feat\. Lil Traffic\)](https://open.spotify.com/album/1vpHK5Bjp7vFHXpmHYzQWD) | 3:12 | 2021-11-19 | 2022-01-20 |
 | [Magic](https://open.spotify.com/track/0UU98KhDayXXXaP7y9ud7M) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Magic](https://open.spotify.com/album/08pD8uL8UL0LrBD6ceqZ5w) | 3:38 | 2021-11-19 | 2022-02-02 |
 | [Major](https://open.spotify.com/track/55dObqJybLWm9O06FBDLCP) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X) | [Major](https://open.spotify.com/album/4WUW44ZbWTQoi5bsJD3kl6) | 3:53 | 2021-11-19 | 2022-01-17 |

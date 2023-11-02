@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gregory Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,137 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,228 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Jazz Hands \(feat\. CeeLo Green\)](https://open.spotify.com/track/5o0EnxQGxtzMH23QEiOsXL) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Jazz Hands \(feat\. CeeLo Green\)](https://open.spotify.com/album/3womuEXUOjSxKvWvdmFgNv) | 3:15 |
 | 50 | [Haunted](https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:20 |
 
-Snapshot ID: `MCwwMjdkMzRmZTBkNDRmYzg3MGZlMTg4NGYwM2U3MTRmNWM0ZjUzMDBl`
+Snapshot ID: `MCw4MTFlODg0YzNhYjRjZWMwZmUyY2U4OWJlZDg2MWIzMDQ1MDljNzJl`

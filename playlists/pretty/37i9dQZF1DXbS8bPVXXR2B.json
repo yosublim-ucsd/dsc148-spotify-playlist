@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 221147,
+  "num_followers": 221197,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWM3MDc3ZWFmOTJkMzIyN2M3ZmE4MTRjYjVjNmE4ZGVlZjEyNDYw",
+  "snapshot_id": "MCwyZDhkNmM1Y2Q4ZjNlZWEwMGFlMzJlYWZiYTI2M2QyNTg4ZDAxNWM1",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Give Me the Night",
-        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 301026,
-      "name": "Give Me the Night",
-      "url": "https://open.spotify.com/track/5gaUkg5JNk8c4mr2jnpX8H"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Bad Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 407053,
       "name": "Hot Stuff - 12\" Version",
       "url": "https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Give Me the Night",
+        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 301026,
+      "name": "Give Me the Night",
+      "url": "https://open.spotify.com/track/5gaUkg5JNk8c4mr2jnpX8H"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Straight from the Heart (Remastered)",
-        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 319893,
-      "name": "Remind Me - Remastered",
-      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Greatest Hits: Blondie",
         "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
@@ -251,6 +235,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 495186,
+      "name": "I Feel Love - 12\" Version",
+      "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Straight from the Heart (Remastered)",
+        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Remind Me - Remastered",
+      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -311,22 +327,6 @@
       "duration_ms": 217733,
       "name": "Don't Leave Me This Way",
       "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 495186,
-      "name": "I Feel Love - 12\" Version",
-      "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Love Conquers All (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0CqVEdJUYqyHp1rlI07Fab"
+      },
+      "artists": [
+        {
+          "name": "Michael Wycoff",
+          "url": "https://open.spotify.com/artist/03WrOkxi8Ktm2tBYI1Z7vV"
+        }
+      ],
+      "duration_ms": 320280,
+      "name": "Looking Up to You",
+      "url": "https://open.spotify.com/track/5YPIX0GlnaAxaJBFJydMT4"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Icare",
         "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 222631,
       "name": "Icare",
       "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Love Conquers All (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0CqVEdJUYqyHp1rlI07Fab"
-      },
-      "artists": [
-        {
-          "name": "Michael Wycoff",
-          "url": "https://open.spotify.com/artist/03WrOkxi8Ktm2tBYI1Z7vV"
-        }
-      ],
-      "duration_ms": 320280,
-      "name": "Looking Up to You",
-      "url": "https://open.spotify.com/track/5YPIX0GlnaAxaJBFJydMT4"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 376973,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Love Island",
         "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 272533,
       "name": "Whistle Bump",
       "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 376973,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6"
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
       "artists": [
         {
-          "name": "Taana Gardner",
-          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
         }
       ],
-      "duration_ms": 587050,
-      "name": "Heartbeat - Club Mix",
-      "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
+      "duration_ms": 268653,
+      "name": "Hold Tight - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1315,22 +1315,6 @@
       "duration_ms": 376986,
       "name": "Groovin' You - 12\" Version",
       "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "Hold Tight - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1399,22 +1383,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Brooklyn, Bronx & Queens Band",
-        "url": "https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy"
-      },
-      "artists": [
-        {
-          "name": "The B. B. & Q. Band",
-          "url": "https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb"
-        }
-      ],
-      "duration_ms": 357760,
-      "name": "On the Beat - Full Length Mix",
-      "url": "https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Agb'oju L'ogun",
         "url": "https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk"
       },
@@ -1427,6 +1395,22 @@
       "duration_ms": 702167,
       "name": "Agb'oju L'ogun - Original 12\" Version",
       "url": "https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Brooklyn, Bronx & Queens Band",
+        "url": "https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy"
+      },
+      "artists": [
+        {
+          "name": "The B. B. & Q. Band",
+          "url": "https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb"
+        }
+      ],
+      "duration_ms": 357760,
+      "name": "On the Beat - Full Length Mix",
+      "url": "https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Kiss Me Again",
-        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
+        "name": "Chicago Service",
+        "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
       },
       "artists": [
         {
-          "name": "Dinosaur",
-          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
+          "name": "Rahaan",
+          "url": "https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu"
         }
       ],
-      "duration_ms": 181698,
-      "name": "Kiss Me Again - Mix Edit",
-      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
+      "duration_ms": 328858,
+      "name": "Disco Fantasy",
+      "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1479,34 +1463,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Chicago Service",
-        "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
+        "name": "Kiss Me Again",
+        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
       },
       "artists": [
         {
-          "name": "Rahaan",
-          "url": "https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu"
+          "name": "Dinosaur",
+          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
         }
       ],
-      "duration_ms": 328858,
-      "name": "Disco Fantasy",
-      "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
-      },
-      "artists": [
-        {
-          "name": "Hubert Laws",
-          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
-        }
-      ],
-      "duration_ms": 453706,
-      "name": "Family - Stereo Version",
-      "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
+      "duration_ms": 181698,
+      "name": "Kiss Me Again - Mix Edit",
+      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1523,6 +1491,22 @@
       "duration_ms": 320851,
       "name": "Today Is the Day - Linkwood Chop",
       "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
+      },
+      "artists": [
+        {
+          "name": "Hubert Laws",
+          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
+        }
+      ],
+      "duration_ms": 453706,
+      "name": "Family - Stereo Version",
+      "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1651,6 +1635,22 @@
       "duration_ms": 284985,
       "name": "Lypso Illusion",
       "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Dancing in Outer Space",
+        "url": "https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r"
+      },
+      "artists": [
+        {
+          "name": "Atmosfear",
+          "url": "https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF"
+        }
+      ],
+      "duration_ms": 577093,
+      "name": "Dancing in Outer Space",
+      "url": "https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH"
     }
   ],
   "unique_name": "Disco Hi-Life",

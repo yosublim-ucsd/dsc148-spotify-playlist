@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: YUNGBLUD ft\. Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,721 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,754 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 44 | [How To Disappear](https://open.spotify.com/track/2q1uTb4UGj9T7nPiFR2Kwo) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/1EuVYwdFz5QnhJVzUEu81A) | 5:11 |
 | 45 | [Stuck In a Car With You](https://open.spotify.com/track/105tJEDg9Q5LF5aoZ96ckp) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Stuck In a Car With You](https://open.spotify.com/album/24Vd6jQWV2gf3MbIxAOc8t) | 3:59 |
 | 46 | [under \(feat\. phem\)](https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [under \(feat\. phem\)](https://open.spotify.com/album/2zt2K0CSSWvSRAwVod6nHM) | 2:17 |
-| 47 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 |
-| 48 | [Rejection Anthem](https://open.spotify.com/track/561O5Hj5GjQClcLqWYjvPb) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [GOD SAVE THE KING](https://open.spotify.com/album/2GHfz7mLE2T9KcZvMAhOE6) | 4:13 |
-| 49 | [USA](https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [USA](https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG) | 1:38 |
-| 50 | [BLACK HEARSE](https://open.spotify.com/track/2TcdALHDcTIeaKhqJDaej1) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Family Drama](https://open.spotify.com/album/2FlBZwnnKhHR2fYleJY3de) | 2:28 |
+| 47 | [Rejection Anthem](https://open.spotify.com/track/561O5Hj5GjQClcLqWYjvPb) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [GOD SAVE THE KING](https://open.spotify.com/album/2GHfz7mLE2T9KcZvMAhOE6) | 4:13 |
+| 48 | [USA](https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [USA](https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG) | 1:38 |
+| 49 | [BLACK HEARSE](https://open.spotify.com/track/2TcdALHDcTIeaKhqJDaej1) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Family Drama](https://open.spotify.com/album/2FlBZwnnKhHR2fYleJY3de) | 2:28 |
 
-Snapshot ID: `MCxkNTg3OTkxYmMyYzEzNGM1ZjBlNzk4NWNkOWM0ZDFkYWI2YjIxZmE3`
+Snapshot ID: `MCw3NTZlNjk1ZDQyZDUzOGEzNTMzMzUyZDk1ZWI3ZGFjODNjYjYzMmY5`

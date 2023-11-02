@@ -4,7 +4,7 @@
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-146 songs - 8 hr 11 min
+147 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Dog](https://open.spotify.com/track/7kHblZFLC4LZOF1lzMrR9I) | [Beachdog](https://open.spotify.com/artist/56or3ZOs3i4huOd0VwGEas) | [Dog](https://open.spotify.com/album/6Q4uKmTGuooDlVw6UZUG15) | 3:03 | 2023-04-04 | 2023-04-28 |
 | [Down](https://open.spotify.com/track/2O0SzeXQTcXFlGuFsY5JNH) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Down](https://open.spotify.com/album/2Ra7ZC8kZB8dWKveQYkaCt) | 3:52 | 2023-02-23 | 2023-04-21 |
 | [Earth Sick](https://open.spotify.com/track/5IeeVJ9rsxhhqNHGrkNbVE) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Earth Sick](https://open.spotify.com/album/4HDb2F4k940fPLqIl4OOei) | 3:05 | 2023-02-23 | 2023-09-15 |
-| [Easy Going](https://open.spotify.com/track/0m8VHcSNJmb7oVp6dsIVFu) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Easy Going](https://open.spotify.com/album/6qhJuNPYamcTTVZiIsrrIi) | 2:28 | 2023-02-23 |  |
+| [Easy Going](https://open.spotify.com/track/0m8VHcSNJmb7oVp6dsIVFu) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Easy Going](https://open.spotify.com/album/6qhJuNPYamcTTVZiIsrrIi) | 2:28 | 2023-02-23 | 2023-11-02 |
 | [Electric City](https://open.spotify.com/track/3Pvrhpbw9o6R5flxEb1juu) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:41 | 2023-04-13 |  |
 | [Electric Connect](https://open.spotify.com/track/72UFN3URrwusWbigHJd9zS) | [Milo Clare](https://open.spotify.com/artist/1m3q3h3I9cMdSEbREVwvJR) | [Electric Connect](https://open.spotify.com/album/3kenR9Bok0L3Oc53ZfIr1d) | 3:45 | 2023-02-23 | 2023-04-28 |
 | [Energy](https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 3:14 | 2023-10-30 |  |
@@ -69,6 +69,7 @@
 | [Hothead \- Shiraga Remix](https://open.spotify.com/track/5vI2XZQE6si7Q0r2rJaL5R) | [Banji](https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc), [Shiraga](https://open.spotify.com/artist/4kkpsGRH0jFKgJPgsfvxyP) | [Hothead \(Shiraga Remix\)](https://open.spotify.com/album/2Nb8DqGhUxsSHCW1xCe4ax) | 3:30 | 2023-09-14 |  |
 | [Howl With Me](https://open.spotify.com/track/2m9x2CsVhMXQZW0LtBKeZk) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/4r0E0bSoVfYWzizCgjtSX4) | 4:19 | 2023-02-23 | 2023-04-28 |
 | [Human Condition](https://open.spotify.com/track/6GifVz1gA0lKGDAlez5iyP) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:07 | 2023-02-23 | 2023-09-15 |
+| [I Can Be Your Man](https://open.spotify.com/track/7fyn3XMmB6uxFpMF1DuwoE) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr) | [Bobbie](https://open.spotify.com/album/4TIk4RTumnh1BkDboVbUAd) | 3:36 | 2023-11-01 |  |
 | [Ice V](https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice, Death, Planets, Lungs, Mushrooms And Lava](https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s) | 10:15 | 2023-02-23 | 2023-04-29 |
 | [Inside Out \- Kraak & Smaak Remix](https://open.spotify.com/track/5xuiK7v2JYO6aphlTMON3U) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Inside Out \(Kraak & Smaak Remix\)](https://open.spotify.com/album/5GxlIIFZGmY9T6WYjwi1sb) | 4:16 | 2023-02-23 | 2023-04-28 |
 | [Is This Love?](https://open.spotify.com/track/2qniUr523yjUKD8EJRe7LP) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr), [Alex Kapranos](https://open.spotify.com/artist/43tffeOxONSbTQ888To7bE) | [Is This Love?](https://open.spotify.com/album/3m83zmi7UMBf6uV6csCbyl) | 3:32 | 2023-06-01 |  |

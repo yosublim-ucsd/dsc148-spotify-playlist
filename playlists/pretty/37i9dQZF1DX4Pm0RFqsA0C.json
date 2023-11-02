@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 5006,
+  "num_followers": 5015,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODg0YjRmMTE5NjRmM2FhYjE1YWNlNWY4NmQxZjc1Nzk2YjdmNGQ3",
+  "snapshot_id": "MCw4OGM2NGVmN2Q4YjY3NDk5NTdlNGIyOGIyNjJkNTIxYWRjOGMyOTA1",
   "tracks": [
     {
       "added_at": "2021-02-01 12:18:54",
@@ -23,6 +23,22 @@
       "duration_ms": 205000,
       "name": "Perfect Man",
       "url": "https://open.spotify.com/track/115a4lQhDJGnu4QVSa8bUW"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Stylish\u2026",
+        "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "duration_ms": 236147,
+      "name": "10 Minutes",
+      "url": "https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -55,22 +71,6 @@
       "duration_ms": 210079,
       "name": "Coming of age ceremony",
       "url": "https://open.spotify.com/track/2adWXRegCboef5ZOjW3ffe"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "Stylish\u2026",
-        "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
-      },
-      "artists": [
-        {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
-        }
-      ],
-      "duration_ms": 236147,
-      "name": "10 Minutes",
-      "url": "https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -495,22 +495,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "SHOO. EUGENE. SEA - The 2nd Album",
-        "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 216133,
-      "name": "\ub108\ub97c \uc0ac\ub791\ud574",
-      "url": "https://open.spotify.com/track/5Qy3PCR9u6KeNAjRV405uv"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Virginalness Bloom",
         "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "All System Go",
-        "url": "https://open.spotify.com/album/7tyc2JJtnIBo4hKDmhCgjk"
+        "name": "SHOO. EUGENE. SEA - The 2nd Album",
+        "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
       },
       "artists": [
         {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
         }
       ],
-      "duration_ms": 249420,
-      "name": "3!4!",
-      "url": "https://open.spotify.com/track/5ZRS1jfampQ4mVfNidYZfk"
+      "duration_ms": 216133,
+      "name": "\ub108\ub97c \uc0ac\ub791\ud574",
+      "url": "https://open.spotify.com/track/5Qy3PCR9u6KeNAjRV405uv"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -555,6 +539,22 @@
       "duration_ms": 270240,
       "name": "\uc548\ub418\ub098\uc694",
       "url": "https://open.spotify.com/track/7JXQOKFhZ0h8VrYdWbwM8F"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "All System Go",
+        "url": "https://open.spotify.com/album/7tyc2JJtnIBo4hKDmhCgjk"
+      },
+      "artists": [
+        {
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+        }
+      ],
+      "duration_ms": 249420,
+      "name": "3!4!",
+      "url": "https://open.spotify.com/track/5ZRS1jfampQ4mVfNidYZfk"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "DJ. DOC 4th Album",
-        "url": "https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv"
-      },
-      "artists": [
-        {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
-        }
-      ],
-      "duration_ms": 192888,
-      "name": "Dance with DOC",
-      "url": "https://open.spotify.com/track/46tMl2itZomvKj9TR7wzVz"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
         "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 242341,
       "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
       "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "DJ. DOC 4th Album",
+        "url": "https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv"
+      },
+      "artists": [
+        {
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+        }
+      ],
+      "duration_ms": 192888,
+      "name": "Dance with DOC",
+      "url": "https://open.spotify.com/track/46tMl2itZomvKj9TR7wzVz"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -767,8 +767,8 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Fine Killing Liberty : Blue Rain",
-        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
+        "name": "Now",
+        "url": "https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
         }
       ],
-      "duration_ms": 251973,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
+      "duration_ms": 211426,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -927,8 +927,8 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO"
+        "name": "Fine Killing Liberty : Blue Rain",
+        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
         }
       ],
-      "duration_ms": 211426,
-      "name": "Now",
-      "url": "https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu"
+      "duration_ms": 251973,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "\ud64d\uacbd\ubbfc Vol. 3",
+        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
+      },
+      "artists": [
+        {
+          "name": "Hong Kyung-min",
+          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Shaky Friendship - Euru Remix Version",
+      "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
         "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 237029,
       "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
       "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "\ud64d\uacbd\ubbfc Vol. 3",
-        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
-      },
-      "artists": [
-        {
-          "name": "Hong Kyung-min",
-          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Shaky Friendship - Euru Remix Version",
-      "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\uae40\ud604\ucca0 1\uc9d1 \uc624\ub79c\ub9cc\uc5d0/\ub3d9\ub124",
-        "url": "https://open.spotify.com/album/1cdhF1Mi82sHEttpJiOkNh"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyun Chul",
-          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
-        }
-      ],
-      "duration_ms": 272848,
-      "name": "\ub3d9\ub124",
-      "url": "https://open.spotify.com/track/5YKTjm1NVqGAFsuuzKHNG8"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\ud64d\uacbd\ubbfc Vol. 3",
         "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 236066,
       "name": "Shaky Friendship",
       "url": "https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\uae40\ud604\ucca0 1\uc9d1 \uc624\ub79c\ub9cc\uc5d0/\ub3d9\ub124",
+        "url": "https://open.spotify.com/album/1cdhF1Mi82sHEttpJiOkNh"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+        }
+      ],
+      "duration_ms": 272848,
+      "name": "\ub3d9\ub124",
+      "url": "https://open.spotify.com/track/5YKTjm1NVqGAFsuuzKHNG8"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Com` Back",
-        "url": "https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq"
-      },
-      "artists": [
-        {
-          "name": "SECHSKIES",
-          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
-        }
-      ],
-      "duration_ms": 237706,
-      "name": "Hunch",
-      "url": "https://open.spotify.com/track/4LbF66hFr9e51PvFYcTLr1"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Suprise Party Collection",
         "url": "https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 265377,
       "name": "Baekjeonmupae",
       "url": "https://open.spotify.com/track/6nM6KfiC9q2vZbyRqVeHQ5"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Com` Back",
+        "url": "https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq"
+      },
+      "artists": [
+        {
+          "name": "SECHSKIES",
+          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
+        }
+      ],
+      "duration_ms": 237706,
+      "name": "Hunch",
+      "url": "https://open.spotify.com/track/4LbF66hFr9e51PvFYcTLr1"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Big 5",
-        "url": "https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN"
-      },
-      "artists": [
-        {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
-        }
-      ],
-      "duration_ms": 244509,
-      "name": "Sad Fate",
-      "url": "https://open.spotify.com/track/3cgyPqSOEKIjW63CeOyJb1"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "parkjiyoon 20th anniversary photo&live album",
         "url": "https://open.spotify.com/album/2th6tmq8mLVr3sUlcoOKru"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 229862,
       "name": "\uc18c\uc911\ud55c \uc0ac\ub791 Precious Love - Live",
       "url": "https://open.spotify.com/track/0KZ00Z3mrfCOVJzvnkNmSO"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Big 5",
+        "url": "https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        }
+      ],
+      "duration_ms": 244509,
+      "name": "Sad Fate",
+      "url": "https://open.spotify.com/track/3cgyPqSOEKIjW63CeOyJb1"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\uc090\uac71\uc090\uac71 Creak Creak",
-        "url": "https://open.spotify.com/album/0otiirwBgP7B4Yq7kOKcvy"
-      },
-      "artists": [
-        {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "\u1112\u1162\u1107\u1167\u11ab\u110b\u1173\u1105\u1169 \u1100\u1161\u110b\u116d Let's Go to the Beach Pt. 2",
-      "url": "https://open.spotify.com/track/02b8sHBlZleRRJhi37VPkP"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Coming of age ceremony",
         "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 245423,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/7GZQbO59yx42myT82PnMg1"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\uc090\uac71\uc090\uac71 Creak Creak",
+        "url": "https://open.spotify.com/album/0otiirwBgP7B4Yq7kOKcvy"
+      },
+      "artists": [
+        {
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "\u1112\u1162\u1107\u1167\u11ab\u110b\u1173\u1105\u1169 \u1100\u1161\u110b\u116d Let's Go to the Beach Pt. 2",
+      "url": "https://open.spotify.com/track/02b8sHBlZleRRJhi37VPkP"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Coming of age ceremony",
-        "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
-      },
-      "artists": [
-        {
-          "name": "parkjiyoon",
-          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
-        }
-      ],
-      "duration_ms": 235366,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/07jKgIoj1GYsXSagjuLWiT"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/6QjtDh6Q7wf3oF7wpUvZTr"
       },
@@ -1955,6 +1939,38 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "Chapter 3",
+        "url": "https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "\ucd1b\ubd88\ud558\ub098 One Candle",
+      "url": "https://open.spotify.com/track/6A1uiSNxlOU8sndZRh9oZB"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Coming of age ceremony",
+        "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
+      },
+      "artists": [
+        {
+          "name": "parkjiyoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+        }
+      ],
+      "duration_ms": 235366,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/07jKgIoj1GYsXSagjuLWiT"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "Roo`ra Best Album",
         "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 245524,
       "name": "\uc5f0\uc778",
       "url": "https://open.spotify.com/track/2pYq0mQ6IBGctst62BkRE0"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "Chapter 4",
-        "url": "https://open.spotify.com/album/0HxYruZGss8KfUWgZlisGp"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "\uae38 Road",
-      "url": "https://open.spotify.com/track/7yVjKxpZ0FtIr8shugrsv1"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2051,8 +2051,8 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Chapter 3",
-        "url": "https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY"
+        "name": "Chapter 4",
+        "url": "https://open.spotify.com/album/0HxYruZGss8KfUWgZlisGp"
       },
       "artists": [
         {
@@ -2060,9 +2060,9 @@
           "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
         }
       ],
-      "duration_ms": 211253,
-      "name": "\ucd1b\ubd88\ud558\ub098 One Candle",
-      "url": "https://open.spotify.com/track/6A1uiSNxlOU8sndZRh9oZB"
+      "duration_ms": 226040,
+      "name": "\uae38 Road",
+      "url": "https://open.spotify.com/track/7yVjKxpZ0FtIr8shugrsv1"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 225098,
-      "name": "\uc6b4\uba85",
-      "url": "https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Only One - The 3rd Album",
         "url": "https://open.spotify.com/album/431ofqzymjNOtNAMLRJ92j"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 260560,
       "name": "Blue Rain",
       "url": "https://open.spotify.com/track/6NZUXr27vdx8gyWxVRrkLS"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 225098,
+      "name": "\uc6b4\uba85",
+      "url": "https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 220761,
-      "name": "\uacb0\ud63c\uc744 \ud560\uac70\ub77c\uba74",
-      "url": "https://open.spotify.com/track/2MhOUadVpsBMkK3QfHOKfk"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\ud574\uacb0\uc0ac - The 1st Album",
         "url": "https://open.spotify.com/album/04Mokiv2E1mI9SIF1AMzob"
       },
@@ -2348,9 +2332,9 @@
           "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 251299,
-      "name": "\uc791\uc740 \uae30\ub2e4\ub9bc",
-      "url": "https://open.spotify.com/track/2pFFGCyKGPkoEWwBQEvFuI"
+      "duration_ms": 220761,
+      "name": "\uacb0\ud63c\uc744 \ud560\uac70\ub77c\uba74",
+      "url": "https://open.spotify.com/track/2MhOUadVpsBMkK3QfHOKfk"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2367,6 +2351,22 @@
       "duration_ms": 226266,
       "name": "Speed",
       "url": "https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 251299,
+      "name": "\uc791\uc740 \uae30\ub2e4\ub9bc",
+      "url": "https://open.spotify.com/track/2pFFGCyKGPkoEWwBQEvFuI"
     },
     {
       "added_at": "2021-02-01 12:18:54",

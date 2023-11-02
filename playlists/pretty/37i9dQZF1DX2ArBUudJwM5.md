@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Juliana Gattas
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,405 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,411 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 4 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
 | 5 | [TU SI K TA LOKO](https://open.spotify.com/track/147SiJnBgxPKsuEYY5kMZT) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 2:50 |
 | 6 | [Que poco saben de mí](https://open.spotify.com/track/7DJnS2omEQOjU1hbLCPUH7) | [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [Que poco saben de mí](https://open.spotify.com/album/1aqUCKeSXnMeAQnrAxq6SM) | 3:44 |
-| 7 | [Olvidarte nunca](https://open.spotify.com/track/7ctPbxkeGmXUqq85ZJ4kwD) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Olvidarte nunca](https://open.spotify.com/album/1joVpTnFL8za0eR9pGqHfk) | 2:53 |
-| 8 | [La Historia Sin Final](https://open.spotify.com/track/2vK2Q4Evlb7VYwZ3FCweSb) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [La Historia Sin Final](https://open.spotify.com/album/1de1EluzPrCYRh7BlEQPtv) | 2:52 |
+| 7 | [La Historia Sin Final](https://open.spotify.com/track/2vK2Q4Evlb7VYwZ3FCweSb) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [La Historia Sin Final](https://open.spotify.com/album/1de1EluzPrCYRh7BlEQPtv) | 2:52 |
+| 8 | [Olvidarte nunca](https://open.spotify.com/track/7ctPbxkeGmXUqq85ZJ4kwD) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Olvidarte nunca](https://open.spotify.com/album/1joVpTnFL8za0eR9pGqHfk) | 2:53 |
 | 9 | [Ya No](https://open.spotify.com/track/26qmCEncx9paaaIQro9K8A) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:29 |
 | 10 | [PINCHÓ](https://open.spotify.com/track/6Xvkvbjdk920JEBQfYUqAm) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [PINCHÓ](https://open.spotify.com/album/18Xynx3lXf0c3mNqEV4ngD) | 3:05 |
-| 11 | [Hay que venir al Sur](https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Hay que venir al Sur](https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC) | 3:48 |
-| 12 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 |
+| 11 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 |
+| 12 | [Hay que venir al Sur](https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Hay que venir al Sur](https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC) | 3:48 |
 | 13 | [Acaramelao / Endúlzame los Oídos \- Headphone Mix](https://open.spotify.com/track/4nbDc7f97uUIno916znqQM) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Endúlzame los Oídos / Acaramelao \(Headphone Mix\)](https://open.spotify.com/album/7C6WY8UbWT2ny3Oogkpu8E) | 2:47 |
 | 14 | [Reina](https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Cardo o Ceniza](https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl) | 3:03 |
 | 15 | [Fin del Mundo](https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 5:19 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 24 | [CONSTITUCIÓN](https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [CONSTITUCIÓN](https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ) | 2:41 |
 | 25 | [Nuestros Besos](https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestros Besos](https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J) | 4:07 |
 | 26 | [mejor me voy :\)](https://open.spotify.com/track/6gLruHcjm2ZS2JFMsLbBOY) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [mejor me voy: \)](https://open.spotify.com/album/0eCGqjEYwS7cAR0mUyi5cs) | 3:02 |
-| 27 | [La Cascada de Tu Pelo Enredado](https://open.spotify.com/track/3NsRU4E09BC9qlWS7Pn2wY) | [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [En vivo en El Xirgu](https://open.spotify.com/album/1e44sKDnluTHDRNuuDyVeJ) | 2:45 |
-| 28 | [sola otra vez](https://open.spotify.com/track/65tHJ2o2hFDyBPghXWLYtv) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [Llorar en un baño público](https://open.spotify.com/album/7z1h9TLRvhebaSIwuLIFFA) | 2:47 |
+| 27 | [sola otra vez](https://open.spotify.com/track/65tHJ2o2hFDyBPghXWLYtv) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [Llorar en un baño público](https://open.spotify.com/album/7z1h9TLRvhebaSIwuLIFFA) | 2:47 |
+| 28 | [La Cascada de Tu Pelo Enredado](https://open.spotify.com/track/3NsRU4E09BC9qlWS7Pn2wY) | [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [En vivo en El Xirgu](https://open.spotify.com/album/1e44sKDnluTHDRNuuDyVeJ) | 2:45 |
 | 29 | [Bolero](https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 4:03 |
 | 30 | [CARIÑO](https://open.spotify.com/track/2eCh5kiWU5HKTyIHJkGLHR) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [CARIÑO](https://open.spotify.com/album/48GiVnfJoDeVyBj7KhbXzK) | 2:09 |
 | 31 | [Cuando Sea Grande](https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Cuando Sea Grande](https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Invencible](https://open.spotify.com/track/57ZD0rQSin2Tg28Bx1jUxp) | [Jimena Lopez Chaplin](https://open.spotify.com/artist/08aspKTy15p0uOx8hOokKY) | [El Ruido de la Piara](https://open.spotify.com/album/1kDa9uU0TtQ8vjofZQpVeP) | 2:34 |
 | 50 | [El Estado de las Cosas Como Son](https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [El Estado de las Cosas Como Son](https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE) | 3:02 |
 
-Snapshot ID: `MCwyMGJmNzRhYjI5Mzc5MDI1ZTllYTVhN2Q1N2U3YjQzNWNmOWVlYTAy`
+Snapshot ID: `MCwzY2VhNzRiMjdmZTgyYjU0Yzk3ZmEyYTc0ODNhMjg4OTRmMjc5YjA4`

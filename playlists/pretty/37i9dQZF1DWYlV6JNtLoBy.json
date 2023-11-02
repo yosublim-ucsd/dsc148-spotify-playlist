@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 3399,
+  "num_followers": 3408,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmNjMDk2NmFiMWQ2OGRjZGY2N2ExMDJkNjk5YTI4NzZiMGY5Y2Fk",
+  "snapshot_id": "MCw1NzMzZWEzYzVmNjYyNzc4ZDcyZjQ2YjAyNTc5NmRlOTZlNjM4MDUx",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Ndio",
-        "url": "https://open.spotify.com/album/5CzUS1DY6pEqcYUxq9fiLm"
+        "name": "Umusirikare",
+        "url": "https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh"
       },
       "artists": [
         {
-          "name": "Rehema Simfukwe",
-          "url": "https://open.spotify.com/artist/6LL0XXSfIWHDxuDf9HmnjL"
+          "name": "Israel Mbonyi",
+          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
         }
       ],
-      "duration_ms": 563252,
-      "name": "Ndio",
-      "url": "https://open.spotify.com/track/3CnETTK4rc5A5XnTWpvjWZ"
+      "duration_ms": 670000,
+      "name": "Nina Siri",
+      "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Umusirikare",
-        "url": "https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh"
+        "name": "Ndio",
+        "url": "https://open.spotify.com/album/5CzUS1DY6pEqcYUxq9fiLm"
       },
       "artists": [
         {
-          "name": "Israel Mbonyi",
-          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
+          "name": "Rehema Simfukwe",
+          "url": "https://open.spotify.com/artist/6LL0XXSfIWHDxuDf9HmnjL"
         }
       ],
-      "duration_ms": 670000,
-      "name": "Nina Siri",
-      "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
+      "duration_ms": 563252,
+      "name": "Ndio",
+      "url": "https://open.spotify.com/track/3CnETTK4rc5A5XnTWpvjWZ"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Nimekutana Na Yesu",
-        "url": "https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2"
-      },
-      "artists": [
-        {
-          "name": "Angela Chibalonza",
-          "url": "https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR"
-        }
-      ],
-      "duration_ms": 295920,
-      "name": "Ebenezer",
-      "url": "https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "WINNING",
         "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 152622,
       "name": "WINNING",
       "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Nimekutana Na Yesu",
+        "url": "https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2"
+      },
+      "artists": [
+        {
+          "name": "Angela Chibalonza",
+          "url": "https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR"
+        }
+      ],
+      "duration_ms": 295920,
+      "name": "Ebenezer",
+      "url": "https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh"
     },
     {
       "added_at": "2023-10-20 00:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 65332,
+  "num_followers": 65387,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDNiMmM2MmY0MGRlZTE3MjMxM2M4YWE4OTBkNGZhYTdmOTFkMzA3",
+  "snapshot_id": "MCw0ZmY2NTk5NGUyMjc0NjJlYWI5YTMwZDljMzljNTlhOGE1N2U1YjIw",
   "tracks": [
     {
       "added_at": "2023-10-20 03:09:14",
@@ -799,30 +799,6 @@
     {
       "added_at": "2023-10-20 03:09:14",
       "album": {
-        "name": "Plano Perfeito",
-        "url": "https://open.spotify.com/album/3r50qLuSjGVwtSBCAmcRx2"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "Plano Perfeito",
-      "url": "https://open.spotify.com/track/0pihhHbzZ3EhrQj2brZpep"
-    },
-    {
-      "added_at": "2023-10-20 03:09:14",
-      "album": {
         "name": "Lance Criminoso (feat. BK)",
         "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
       },
@@ -847,6 +823,30 @@
       "duration_ms": 234098,
       "name": "Lance Criminoso (feat. BK)",
       "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
+    },
+    {
+      "added_at": "2023-10-20 03:09:14",
+      "album": {
+        "name": "Plano Perfeito",
+        "url": "https://open.spotify.com/album/3r50qLuSjGVwtSBCAmcRx2"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "Plano Perfeito",
+      "url": "https://open.spotify.com/track/0pihhHbzZ3EhrQj2brZpep"
     },
     {
       "added_at": "2023-10-20 03:09:14",

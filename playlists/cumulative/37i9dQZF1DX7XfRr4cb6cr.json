@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "A Shimmer in the Void",
+        "url": "https://open.spotify.com/album/573u28okxfMLC50wzehOWy"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "all i feel is an empty void",
+      "url": "https://open.spotify.com/track/7Fy7wF7CcszlAss8kUVq7D"
+    },
+    {
+      "album": {
         "name": "All We Can't See / An Image",
         "url": "https://open.spotify.com/album/7yAAi4irn34TeF2i7xUZk6"
       },
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 338075,
       "name": "Frozen Plains",
       "url": "https://open.spotify.com/track/3czI9Tjuim4boa9KwizjvQ"

@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 288188,
       "name": "Abhorrence Evangelium",
       "url": "https://open.spotify.com/track/0QiIMQ7u0BDw08z5htgmBt"
@@ -218,6 +218,24 @@
       "duration_ms": 273026,
       "name": "Agnus Dei",
       "url": "https://open.spotify.com/track/0fGhJvH67AJzNbdmDI0VDc"
+    },
+    {
+      "album": {
+        "name": "Akal Abaddon",
+        "url": "https://open.spotify.com/album/4KS3gGY3FlzsYuywBuftow"
+      },
+      "artists": [
+        {
+          "name": "Crimson Moonlight",
+          "url": "https://open.spotify.com/artist/3BK5u7xOPJU8ERq8w27hnk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308156,
+      "name": "Akal Abaddon",
+      "url": "https://open.spotify.com/track/3bOiWXhtCOGS5DEXL69OfN"
     },
     {
       "album": {
@@ -430,7 +448,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 245400,
       "name": "Arsenal of War",
       "url": "https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6"
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 265604,
       "name": "Flayed The Swine",
       "url": "https://open.spotify.com/track/6smHihNCui7rnPrOkq854A"
@@ -4807,6 +4825,24 @@
     },
     {
       "album": {
+        "name": "Kampf und Sturm",
+        "url": "https://open.spotify.com/album/2ZRq6iViNj2zZG5a2FiS9x"
+      },
+      "artists": [
+        {
+          "name": "Kanonenfieber",
+          "url": "https://open.spotify.com/artist/5VI8SBEX7uSvoHsdI5xNVJ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245566,
+      "name": "Kampf und Sturm",
+      "url": "https://open.spotify.com/track/01HZUfOMDa4hAj2OIIf0tS"
+    },
+    {
+      "album": {
         "name": "Kernos Crown",
         "url": "https://open.spotify.com/album/0Z8HBHHTiuLkKqxQteBDZx"
       },
@@ -5488,7 +5524,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 296680,
       "name": "My Darkest Years",
       "url": "https://open.spotify.com/track/2iyYwiQrbo6aYnGjzaf1J3"
@@ -5525,7 +5561,7 @@
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 278833,
+      "duration_ms": 273000,
       "name": "Mysterium Tremendum",
       "url": "https://open.spotify.com/track/6xBa9tqwNgEzq3ToJQ8SJX"
     },
@@ -6956,7 +6992,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 332092,
       "name": "Scorn Manifestation",
       "url": "https://open.spotify.com/track/65PJ4aaFouzyDtJbeX0ZdS"
@@ -8473,6 +8509,24 @@
     },
     {
       "album": {
+        "name": "American Gothic",
+        "url": "https://open.spotify.com/album/0MBfDOMNzzjXRNtnq3UGc1"
+      },
+      "artists": [
+        {
+          "name": "Wayfarer",
+          "url": "https://open.spotify.com/artist/4HcBIH7pVbrRRwHnEqxpka"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431360,
+      "name": "The Thousand Tombs Of Western Promise",
+      "url": "https://open.spotify.com/track/0cDdSTV0D2Ps4mGe9CYCtx"
+    },
+    {
+      "album": {
         "name": "Argent Moon - EP",
         "url": "https://open.spotify.com/album/1Sz8A4Jnbqf84G9gypTOpz"
       },
@@ -8992,7 +9046,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 178435,
       "name": "Vihan verhon takaa",
       "url": "https://open.spotify.com/track/4syBEWtEz0BHbbqL3lcwFU"
@@ -9490,6 +9544,24 @@
       "duration_ms": 509640,
       "name": "Withstand The Fall Of Time",
       "url": "https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91"
+    },
+    {
+      "album": {
+        "name": "Desolation's Flower",
+        "url": "https://open.spotify.com/album/7D1dzLAWZOTumnRTvGZGau"
+      },
+      "artists": [
+        {
+          "name": "Ragana",
+          "url": "https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395508,
+      "name": "Woe",
+      "url": "https://open.spotify.com/track/04rBvQ3NfSW7UsUvak2Hb2"
     },
     {
       "album": {

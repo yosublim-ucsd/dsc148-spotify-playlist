@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 218864,
       "name": "Angan",
       "url": "https://open.spotify.com/track/2A7TC8oKZ0ypchFutlXwnZ"
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 209394,
       "name": "Dilamun",
       "url": "https://open.spotify.com/track/7AB7DpmOpwIWaLAxCMxmY1"
@@ -4026,7 +4026,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 225205,
       "name": "Pejam",
       "url": "https://open.spotify.com/track/70ZVALP5Zdc5RwYmRqcCuJ"
@@ -4164,6 +4164,24 @@
       "duration_ms": 259877,
       "name": "Peri Cintaku",
       "url": "https://open.spotify.com/track/5cASSQjKWI5ox8LykUtJGL"
+    },
+    {
+      "album": {
+        "name": "Imaji",
+        "url": "https://open.spotify.com/album/4PiZk4HGz1dHhFfEshXYq4"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281011,
+      "name": "Puas Sudah",
+      "url": "https://open.spotify.com/track/4Smpf6t91GtnwgT1PwfJak"
     },
     {
       "album": {
@@ -5695,6 +5713,28 @@
     },
     {
       "album": {
+        "name": "Tango",
+        "url": "https://open.spotify.com/album/5ld61UwRepRdsPfmxeLydx"
+      },
+      "artists": [
+        {
+          "name": "Amir Hasan",
+          "url": "https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL"
+        },
+        {
+          "name": "Rebel Asia",
+          "url": "https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165110,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/2SH2Xx17dRLZWwASFb9bKx"
+    },
+    {
+      "album": {
         "name": "Tega",
         "url": "https://open.spotify.com/album/5LyzuRigW4b7bP0yaXma1q"
       },
@@ -5970,6 +6010,24 @@
       "duration_ms": 223717,
       "name": "Test Drive",
       "url": "https://open.spotify.com/track/6eqRalEQh4aR9KaKCnxSZu"
+    },
+    {
+      "album": {
+        "name": "Tetap Tak Ku Rasa",
+        "url": "https://open.spotify.com/album/2iKNsqZ7qIqgQE5e3aJmeM"
+      },
+      "artists": [
+        {
+          "name": "Andi Bernadee",
+          "url": "https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191406,
+      "name": "Tetap Tak Ku Rasa",
+      "url": "https://open.spotify.com/track/6iSZgYZaYX1hF9KMR3LWwY"
     },
     {
       "album": {

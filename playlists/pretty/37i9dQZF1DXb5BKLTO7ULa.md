@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Zoë Tauran
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,897 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,909 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Every Move](https://open.spotify.com/track/3Ar3v6I1xWbbVsjEoyQRDd) | [Tallulah Rose](https://open.spotify.com/artist/52K2wI1tA5kaRyQUKVhOaJ) | [Super\-Sonic Family Vol\. 2 \- Part 5](https://open.spotify.com/album/5GBoD0GuM3Gcyej52iCswO) | 7:01 |
 | 100 | [Inside](https://open.spotify.com/track/0iWjRyFpymVrA5uh7wuSvU) | [Cloudrider](https://open.spotify.com/artist/1IFpNmUKwzy9E3efjDmCBp), [Protocol Lab](https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr) | [Inside](https://open.spotify.com/album/3bvbx4i2JlrHSWs55TDg9j) | 2:19 |
 
-Snapshot ID: `MCwwYzUwNWFiOWVmZDFmZDAxMjU5MjA0MWRkNjMyMzA2MmRlY2ViYjg0`
+Snapshot ID: `MCwxZTZmM2Q2MDU4ZmVkNGJiZjA5MDlmZDgyZjljOTYyNTc5M2U5MmIw`

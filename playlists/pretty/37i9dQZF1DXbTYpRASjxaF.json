@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Abbot, VHOOR",
-  "num_followers": 125512,
+  "num_followers": 125546,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTViZWQ1Njc0ZDIyYzExZTQxZDY2ZTExMWJkMzcwNGEyOGFhNDUw",
+  "snapshot_id": "MCxmMzk5MjI5MjFjYWM0MDE0ZDQwMjdiM2ZjMTAyZTRkNGEyZjBkMGE2",
   "tracks": [
     {
       "added_at": "2023-10-27 23:10:33",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-10-27 23:10:33",
       "album": {
-        "name": "Prazeres da Vida Noturna",
-        "url": "https://open.spotify.com/album/7gMJfejAZor5ULBw2oaHcX"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "DJ Arana",
-          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
-        }
-      ],
-      "duration_ms": 203128,
-      "name": "Prazeres da Vida Noturna",
-      "url": "https://open.spotify.com/track/66FenlqXH5BFAGehrxovT0"
-    },
-    {
-      "added_at": "2023-10-27 23:10:33",
-      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 200039,
       "name": "Ela joga no 7",
       "url": "https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7"
+    },
+    {
+      "added_at": "2023-10-27 23:10:33",
+      "album": {
+        "name": "Prazeres da Vida Noturna",
+        "url": "https://open.spotify.com/album/7gMJfejAZor5ULBw2oaHcX"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "duration_ms": 203128,
+      "name": "Prazeres da Vida Noturna",
+      "url": "https://open.spotify.com/track/66FenlqXH5BFAGehrxovT0"
     },
     {
       "added_at": "2023-10-27 23:10:33",
@@ -723,6 +723,30 @@
     {
       "added_at": "2023-10-27 23:10:33",
       "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
+    },
+    {
+      "added_at": "2023-10-27 23:10:33",
+      "album": {
         "name": "Meu Nome N\u00e3o \u00e9 Igor %",
         "url": "https://open.spotify.com/album/3lyZheF7IyPnFduYqBJHMI"
       },
@@ -759,30 +783,6 @@
       "duration_ms": 121031,
       "name": "Atlanta - Spotify Singles",
       "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
-    },
-    {
-      "added_at": "2023-10-27 23:10:33",
-      "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "added_at": "2023-10-27 23:10:33",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2023-10-27 23:10:33",
       "album": {
+        "name": "A Moda Antiga",
+        "url": "https://open.spotify.com/album/5FEknIpgVG1BDUdR7oZwgA"
+      },
+      "artists": [
+        {
+          "name": "Mc Kelvinho",
+          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "J.O.B",
+      "url": "https://open.spotify.com/track/3rtiVqkInMU2EcezNyYKnE"
+    },
+    {
+      "added_at": "2023-10-27 23:10:33",
+      "album": {
         "name": "Paz Terr\u00edvel",
         "url": "https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 228207,
       "name": "Foda-Se Seu Ex",
       "url": "https://open.spotify.com/track/3gHTnqd9ePkOmOtqOOp4id"
-    },
-    {
-      "added_at": "2023-10-27 23:10:33",
-      "album": {
-        "name": "A Moda Antiga",
-        "url": "https://open.spotify.com/album/5FEknIpgVG1BDUdR7oZwgA"
-      },
-      "artists": [
-        {
-          "name": "Mc Kelvinho",
-          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
-        },
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "J.O.B",
-      "url": "https://open.spotify.com/track/3rtiVqkInMU2EcezNyYKnE"
     },
     {
       "added_at": "2023-10-27 23:10:33",

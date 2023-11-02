@@ -4,7 +4,7 @@
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-130 songs - 8 hr 41 min
+131 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Abuso De Autoridad](https://open.spotify.com/track/4IAZHVeZFwgqxDSJRlJSKA) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Medio Siglo Rocanroleando](https://open.spotify.com/album/4Oo1kMWKvF45R3JwB3RqeI) | 3:11 | 2023-03-30 |  |
 | [Adiós](https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:53 | 2023-03-30 |  |
 | [Agujetas de Color de Rosa \(Pink Shoe Laces\)](https://open.spotify.com/track/4ub7vWkgBWI7fv5DiKPMiA) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 2:14 | 2023-03-30 |  |
-| [Algo Ha Cambiado](https://open.spotify.com/track/0nu9iHsrTChwbGds4k08cz) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 1](https://open.spotify.com/album/6uWGYV8FdHIJD95GRqv3QH) | 4:22 | 2023-03-30 |  |
+| [Algo Ha Cambiado](https://open.spotify.com/track/0nu9iHsrTChwbGds4k08cz) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 1](https://open.spotify.com/album/6uWGYV8FdHIJD95GRqv3QH) | 4:22 | 2023-03-30 | 2023-11-02 |
+| [Algo Ha Cambiado](https://open.spotify.com/track/2Wn6N8oLetuS0ZncJ82Q1x) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 1](https://open.spotify.com/album/0pCYUpMnAkVNkCNtPluhSC) | 4:24 | 2023-03-30 |  |
 | [Amor de Primavera](https://open.spotify.com/track/3A4e2sOT8w4bprY4YwUJKb) | [Tanguito](https://open.spotify.com/artist/2xLZEPled3nP67FvLEbERH) | [Yo Soy Ramsés](https://open.spotify.com/album/3fdJJzUkscCaCOcibztGE5) | 3:15 | 2023-03-30 |  |
 | [Ana No Duerme](https://open.spotify.com/track/2P2tl8JT698TJJ55ScKyku) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [Almendra \(50 Años\)](https://open.spotify.com/album/23jZzJ9u5M9p03nf84zuO1) | 2:42 | 2023-03-30 |  |
 | [Apañón](https://open.spotify.com/track/2ioRemkuDFYdp0rwOsWiXc) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Maldita Vecindad y los Hijos del Quinto Patio](https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE) | 3:39 | 2023-03-30 |  |

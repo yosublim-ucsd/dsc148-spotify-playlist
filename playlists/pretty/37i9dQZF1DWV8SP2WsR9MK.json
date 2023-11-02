@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 77039,
+  "num_followers": 77109,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmNiMzZkODM0OWRiOGYxMzBiYmQ1NjQ2NjBmNWFjM2E4NTYyYTdi",
+  "snapshot_id": "MCwyYjZkNGJkZGE1NGVmM2Q2ODEwMDY1NzQxNjkwMzk3NTUzMDQ1Mzlh",
   "tracks": [
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
+        "name": "At the Garden Party",
+        "url": "https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q"
+      },
+      "artists": [
+        {
+          "name": "Don Thompson",
+          "url": "https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX"
+        },
+        {
+          "name": "Ed Bickert",
+          "url": "https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA"
+        }
+      ],
+      "duration_ms": 394560,
+      "name": "You Are Too Beautiful",
+      "url": "https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
         "name": "The Sound Of Johnny Smith",
         "url": "https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 354293,
       "name": "Minor Blues",
       "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
-        "name": "At the Garden Party",
-        "url": "https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q"
-      },
-      "artists": [
-        {
-          "name": "Don Thompson",
-          "url": "https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX"
-        },
-        {
-          "name": "Ed Bickert",
-          "url": "https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA"
-        }
-      ],
-      "duration_ms": 394560,
-      "name": "You Are Too Beautiful",
-      "url": "https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
-        "name": "The Shape Of Things To Come",
-        "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 347413,
-      "name": "Shape Of Things That Are And Were",
-      "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 492400,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
+        "name": "The Shape Of Things To Come",
+        "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 347413,
+      "name": "Shape Of Things That Are And Were",
+      "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
-        "name": "Free Flying",
-        "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
-      },
-      "artists": [
-        {
-          "name": "Fred Hersch",
-          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
-        },
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 384413,
-      "name": "Monk's Dream",
-      "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
         "name": "Early Stan",
         "url": "https://open.spotify.com/album/1V0xTNXZSiQEpkcM1vdc56"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 318226,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/2qaFycbq4YZ3ZspWbB57dr"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
+        "name": "Free Flying",
+        "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
+      },
+      "artists": [
+        {
+          "name": "Fred Hersch",
+          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 384413,
+      "name": "Monk's Dream",
+      "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1611,30 +1611,6 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
-        "name": "Three for Three",
-        "url": "https://open.spotify.com/album/6vnLFHgoaHsM0M1rkVv8O1"
-      },
-      "artists": [
-        {
-          "name": "Mike Moreno",
-          "url": "https://open.spotify.com/artist/5RGLzQ8KQBC9bQPQQlDrEf"
-        },
-        {
-          "name": "Doug Weiss",
-          "url": "https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq"
-        },
-        {
-          "name": "Kendrick Scott",
-          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
-        }
-      ],
-      "duration_ms": 414466,
-      "name": "The Big Push",
-      "url": "https://open.spotify.com/track/2mUNdaOnnxat38a7DlpV9l"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ"
       },
@@ -1655,6 +1631,30 @@
       "duration_ms": 432093,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
+        "name": "Three for Three",
+        "url": "https://open.spotify.com/album/6vnLFHgoaHsM0M1rkVv8O1"
+      },
+      "artists": [
+        {
+          "name": "Mike Moreno",
+          "url": "https://open.spotify.com/artist/5RGLzQ8KQBC9bQPQQlDrEf"
+        },
+        {
+          "name": "Doug Weiss",
+          "url": "https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq"
+        },
+        {
+          "name": "Kendrick Scott",
+          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
+        }
+      ],
+      "duration_ms": 414466,
+      "name": "The Big Push",
+      "url": "https://open.spotify.com/track/2mUNdaOnnxat38a7DlpV9l"
     },
     {
       "added_at": "2023-10-26 08:55:04",

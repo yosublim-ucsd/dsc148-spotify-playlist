@@ -664,7 +664,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-02",
       "duration_ms": 169506,
       "name": "Creciendo el Gualeguay",
       "url": "https://open.spotify.com/track/1LDKzitnl6PhE4QxQuKeVc"
@@ -1962,6 +1962,28 @@
       "duration_ms": 204746,
       "name": "Mi ponchillo colorado",
       "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
+    },
+    {
+      "album": {
+        "name": "Eik\u00e9! - Entrar en el alma",
+        "url": "https://open.spotify.com/album/1cNTV1xuWtGY0J6hWTimjP"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        },
+        {
+          "name": "Jacques Morelenbaum",
+          "url": "https://open.spotify.com/artist/7L1GdQNvBnvKltqr3HQchx"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302419,
+      "name": "Mi pueblo, mi casa, la soledad",
+      "url": "https://open.spotify.com/track/2Svc7x1VqoBLhWwY8guJ0p"
     },
     {
       "album": {

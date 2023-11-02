@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: Ferre Gola
 
-294 songs - 18 hr 33 min
+295 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [Niata](https://open.spotify.com/track/1mtlYmtelBzQWEbHm07q1o) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Niata](https://open.spotify.com/album/1JsCxj69403hiZzgNnKOYJ) | 3:02 | 2023-05-12 | 2023-07-01 |
 | [Nina](https://open.spotify.com/track/1W5DSRAV2v550mvABI4ALR) | [Stone Komo](https://open.spotify.com/artist/30ZQRYlnhYefXWcsiNUvye), [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [Nina](https://open.spotify.com/album/6gYE1CUrLLIVw0uMNoSB6b) | 2:52 | 2022-09-16 | 2023-07-22 |
 | [No No](https://open.spotify.com/track/1Frpb7u9lv3F12FoSlCoad) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [No No](https://open.spotify.com/album/7a0U6MdaIRecUdfwy749GX) | 3:54 | 2023-02-24 | 2023-09-16 |
-| [Nostalgie](https://open.spotify.com/track/5Y6rAybIKWexRGx2DoLnmA) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Nostalgie](https://open.spotify.com/album/6VPoJ7iW330fKJ1mJsg2pt) | 3:16 | 2023-08-04 |  |
+| [Nostalgie](https://open.spotify.com/track/59P7LifAtqA1rgmeztU6cU) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Souvenirs](https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi) | 3:16 | 2023-10-27 |  |
+| [Nostalgie](https://open.spotify.com/track/5Y6rAybIKWexRGx2DoLnmA) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Nostalgie](https://open.spotify.com/album/6VPoJ7iW330fKJ1mJsg2pt) | 3:16 | 2023-08-04 | 2023-11-02 |
 | [Nous deux](https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Nous deux](https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK) | 3:41 | 2023-04-07 |  |
 | [Nous2](https://open.spotify.com/track/2oswXAs7dpgNyJbjqUOZKB) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/4wIVgSLd2xKHdp3Bs6iVsf) | 7:00 | 2023-06-30 |  |
 | [Nzinzi](https://open.spotify.com/track/2M7sghd8d1oYp9c2EJx73a) | [Emeneya](https://open.spotify.com/artist/0aXhvt1i5dqdRjRDcpok9F) | [Nzinzi](https://open.spotify.com/album/0iJBsklN13ARWLxZKMYUud) | 8:12 | 2023-01-27 | 2023-03-11 |

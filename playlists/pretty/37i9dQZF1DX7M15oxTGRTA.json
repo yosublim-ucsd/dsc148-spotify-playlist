@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 86066,
+  "num_followers": 86138,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2JlMWRjMzg3YjM5MjJkN2NhNzZiNTY4MGZlN2VkOTFlOThhNzJj",
+  "snapshot_id": "MCxiYWM4Y2M0YmNmYjJhZTQyYjU3ZWVkOTg3OGU4OWVjZGM2NjM2ZTVi",
   "tracks": [
     {
       "added_at": "2023-09-14 19:15:58",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "After 7",
         "url": "https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 347453,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Very Special",
-        "url": "https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4"
-      },
-      "artists": [
-        {
-          "name": "Debra Laws",
-          "url": "https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34"
-        }
-      ],
-      "duration_ms": 268173,
-      "name": "Very Special",
-      "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "A Bit Of Soul",
         "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 153600,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Very Special",
+        "url": "https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4"
+      },
+      "artists": [
+        {
+          "name": "Debra Laws",
+          "url": "https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34"
+        }
+      ],
+      "duration_ms": 268173,
+      "name": "Very Special",
+      "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
     },
     {
       "added_at": "2023-09-14 19:15:58",

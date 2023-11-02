@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: VillaBanks
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,893 likes - 55 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,889 likes - 55 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 12 | [Innamorato](https://open.spotify.com/track/1k3CKhRz8iK3GNfTQu32eH) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:36 |
 | 13 | [Pensando a lei](https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Pensando a lei](https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn) | 2:56 |
 | 14 | [bellissimissima <3](https://open.spotify.com/track/2qrCResILkL1JFeRBrv3qA) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [bellissimissima <3](https://open.spotify.com/album/2uKdFaQMLtLkOHthm855ns) | 2:37 |
-| 15 | [Un po' di te](https://open.spotify.com/track/7l20UfYfWQDfElcp1rvkjd) | [Alex W](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Un po' di te](https://open.spotify.com/album/1ayaxYovLmlTBMLMZjSA9M) | 2:07 |
+| 15 | [Un po' di te](https://open.spotify.com/track/7l20UfYfWQDfElcp1rvkjd) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Un po' di te](https://open.spotify.com/album/1ayaxYovLmlTBMLMZjSA9M) | 2:07 |
 | 16 | [ROMA](https://open.spotify.com/track/1RTrSZow3zzUQ1Q2B95d3z) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [ROMA](https://open.spotify.com/album/4dW1fBOZW6iy5ndUTX5hOI) | 2:30 |
 | 17 | [Polvere](https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Polvere](https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM) | 2:46 |
 | 18 | [Piango In Discoteca](https://open.spotify.com/track/3Pc1M4PKxL8LhZ6nDMLAWJ) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Piango In Discoteca](https://open.spotify.com/album/1anbRiJBO8gwQigkTZrtQD) | 3:19 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [Sogni più grandi](https://open.spotify.com/track/66iaIDwL6Ud7g30xcdjGcY) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Sitcom triste](https://open.spotify.com/album/4s536NBIBRn8q829pTkzn6) | 2:43 |
 | 55 | [Strappami](https://open.spotify.com/track/2hwhhzr8w5BDJVYYLWINTV) | [FirkLøver](https://open.spotify.com/artist/4565nNjbVvjOjpZjtJnH3R) | [Strappami](https://open.spotify.com/album/1g68iPAK1qMQaC0uRHj98w) | 2:29 |
 
-Snapshot ID: `MCw2ZjIxY2Y2NjM3NTNiMDJlODg1ZGRhNDU3M2MzMGM1ODUxMjJhZWUy`
+Snapshot ID: `MCxjNDc3ZDA0NWE3ZTg5NDBkNGE5NjZlMWRmZjRiNTY3NmJmNmUyN2Nh`
