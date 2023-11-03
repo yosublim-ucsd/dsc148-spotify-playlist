@@ -4,7 +4,7 @@
 
 > Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
-339 songs - 19 hr 7 min
+340 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [I'll Be Around](https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:08 | 2021-04-29 |  |
 | [I'll Say Forever My Love](https://open.spotify.com/track/00U45bMLJ8QM1kwT9i6cIL) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Ruff 'N Ready](https://open.spotify.com/album/772VPi7sBf5yhUD1tAwNp9) | 3:01 | 2021-04-29 | 2022-04-21 |
 | [I'm in the Mood for Dancing](https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q) | [The Nolans](https://open.spotify.com/artist/2H32fphWQj9hhVuCOKkchM) | [Altogether](https://open.spotify.com/album/4ht5RbpnT3PA1rk2M8P0OS) | 3:18 | 2021-04-29 | 2023-01-13 |
-| [In the Summertime](https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY) | 3:35 | 2021-04-29 |  |
+| [In the Summertime](https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY) | 3:35 | 2021-04-29 | 2023-11-03 |
+| [In the Summertime](https://open.spotify.com/track/7jhKkbM3KZvnuqzMX5fADH) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [Electronically Tested](https://open.spotify.com/album/3Yg1sU4RPNSHRoDlRcdejo) | 3:35 | 2023-01-03 |  |
 | [Instant Replay](https://open.spotify.com/track/3WimzuWXQt4bnd4jcv0Gov) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Keep The Fire Burnin'](https://open.spotify.com/album/3Sv1qO5IxLep7mOBuQ8fi7) | 5:20 | 2021-04-29 | 2022-04-21 |
 | [Isn't She Lovely](https://open.spotify.com/track/1FZZUVHYkswEHdxLYe1hMZ) | [David Parton](https://open.spotify.com/artist/6lWrKEw8N4a7Lr86FPnqWI) | [Isn't She Lovely](https://open.spotify.com/album/3NiqelW1Xr5h1w8zf6MaLY) | 4:07 | 2021-04-29 | 2022-05-12 |
 | [Isn't She Lovely](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 6:34 | 2021-04-29 |  |

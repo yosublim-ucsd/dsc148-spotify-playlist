@@ -4,7 +4,7 @@
 
 > The best and finest 70s Funk\. Cover: Kool & The Gang.
 
-110 songs - 8 hr 38 min
+111 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Funkin' for Jamaica](https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Love Approach \(Bonus Track\)](https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP) | 4:42 | 2020-12-01 |  |
 | [Galaxy](https://open.spotify.com/track/1SbA3jg6wqrUcmvSk4Fw7x) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Galaxy](https://open.spotify.com/album/2xdXcf10v4Y9mZfoHpOOsz) | 8:14 | 2020-12-01 |  |
 | [Games](https://open.spotify.com/track/2sdPpBbWeKAayilBiM7nOe) | [94 East](https://open.spotify.com/artist/0Vl8HhdQAUi6sJfNQuZHQL) | [If You See Me / Games](https://open.spotify.com/album/7IZ6KKSUHdzBAii2YRkwh7) | 3:36 | 2020-12-01 |  |
-| [Get Down](https://open.spotify.com/track/7suCnrqUrqtPq5mUdai9bj) | [The Kay Gees](https://open.spotify.com/artist/2kBAQC51ydY25zaSQBICTi) | [Keep On Bumpin' & Masterplan \(Expanded Version\)](https://open.spotify.com/album/63wfq17mg08V7ZHtziwvEs) | 4:14 | 2020-12-01 |  |
+| [Get Down](https://open.spotify.com/track/4HG1Oyh9jdYfE43noqarN1) | [The Kay Gees](https://open.spotify.com/artist/2kBAQC51ydY25zaSQBICTi) | [Keep On Bumpin' & Masterplan \(Expanded Version\)](https://open.spotify.com/album/5uyNTDGT6nijdghnMskKEv) | 4:14 | 2020-12-01 |  |
+| [Get Down](https://open.spotify.com/track/7suCnrqUrqtPq5mUdai9bj) | [The Kay Gees](https://open.spotify.com/artist/2kBAQC51ydY25zaSQBICTi) | [Keep On Bumpin' & Masterplan \(Expanded Version\)](https://open.spotify.com/album/63wfq17mg08V7ZHtziwvEs) | 4:14 | 2020-12-01 | 2023-11-03 |
 | [Get on the Floor](https://open.spotify.com/track/78XG7U0UueeC86XpzF9O7f) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:37 | 2020-12-01 |  |
 | [Get Up I Feel Like Being A Sex Machine \- Pt\. 1 / Single Version](https://open.spotify.com/track/3udSPEU7YavOTRlYqOTvEz) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Singles Vol\. 7: 1970\-1972](https://open.spotify.com/album/4BbrCN77JWFYdtx0OYKAcJ) | 2:49 | 2020-12-01 |  |
 | [Get Up Offa That Thing](https://open.spotify.com/track/5vUuUhCaWE9v8BJNKd9rwK) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Singles Vol\. 10 1975\-1979](https://open.spotify.com/album/4QDFEWZwtNO50dcVctW2L0) | 4:10 | 2020-12-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,330 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,335 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 20 | [Nunk \- New Wave Funk](https://open.spotify.com/track/5BVXwRFMuybkl3X1hRWZ53) | [Warp 9](https://open.spotify.com/artist/5V22HAzz3d8zQCbWdpJiJh) | [It's a Beat Wave](https://open.spotify.com/album/45lhligWbNdW3zGcgUm3Yl) | 7:13 |
 | 21 | [Do It \(Let Me See You Shake\)](https://open.spotify.com/track/5QIPJPkYq0QwhDSD0hA4of) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [The Best Of The Bar\-Kays \(Vol\. 2\)](https://open.spotify.com/album/59ZStF17nEWBFrbfGH2gOI) | 4:11 |
 | 22 | [Erotic City \- Make Love Not War Erotic City Come Alive; Extended Version; 2017 Remaster](https://open.spotify.com/track/14TRnDQpggU8mpAzQ4Y3GL) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 7:23 |
-| 23 | [Renegades of Funk \- 12" Vocal Version](https://open.spotify.com/track/7iPXWodYIIDwXcbDTbLup5) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Looking for the Perfect Beat 1980 \-1985](https://open.spotify.com/album/2UrZ3obnsIpILX1x86hCfu) | 6:43 |
-| 24 | [Walking on Sunshine '82](https://open.spotify.com/track/6VmVHkHZuM5JYXZQyeZoki) | [Rocker's Revenge](https://open.spotify.com/artist/4HQUFZUKjXhvh9rS23DYzG), [Donnie Calvin](https://open.spotify.com/artist/6vb6yJIgcrCFlpWKnspCS6) | [The Streetwise Sessions](https://open.spotify.com/album/2Aelx6YvpowzbEL9OdTsYq) | 9:32 |
+| 23 | [Walking on Sunshine '82](https://open.spotify.com/track/6VmVHkHZuM5JYXZQyeZoki) | [Rocker's Revenge](https://open.spotify.com/artist/4HQUFZUKjXhvh9rS23DYzG), [Donnie Calvin](https://open.spotify.com/artist/6vb6yJIgcrCFlpWKnspCS6) | [The Streetwise Sessions](https://open.spotify.com/album/2Aelx6YvpowzbEL9OdTsYq) | 9:32 |
+| 24 | [Renegades of Funk \- 12" Vocal Version](https://open.spotify.com/track/7iPXWodYIIDwXcbDTbLup5) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Looking for the Perfect Beat 1980 \-1985](https://open.spotify.com/album/2UrZ3obnsIpILX1x86hCfu) | 6:43 |
 | 25 | [Computer Age \(Push the Button\)](https://open.spotify.com/track/4GoIiZIrZ4t2IzfAYFSHSC) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 7:40 |
 | 26 | [Beat the Street](https://open.spotify.com/track/41F97acqBc7aMzwD224kRR) | [Sharon Redd](https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY) | [Beat the Street: The Very Best of Sharon Redd](https://open.spotify.com/album/3EOCA2DlYoeTIYjQauWDXM) | 6:15 |
 | 27 | [Hydraulic Pump](https://open.spotify.com/track/1yehjrHYpbn3V2mmFqlSCJ) | [P\-Funk All Stars](https://open.spotify.com/artist/4jbdFVscwgzbzxNFmCHjGY) | [Urban Dancefloor Guerillas \(Expanded Edition\)](https://open.spotify.com/album/6fHGGxVizWx4zsW8yR7aAU) | 6:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 49 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCw2ZTg2YWFiNzc1MzFiYTQxNmIwMTE3OTVlZjg5Y2I3MmQwMDVhMTky`
+Snapshot ID: `MCw3YzVlODExNzI5NzljNzBhMjk4NDJiNDljNDcxZTc2NmFkMzExYjZi`

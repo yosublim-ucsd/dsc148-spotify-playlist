@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Dj Black Spygo, Djodje and Chelsea Dinorath.
 
-328 songs - 19 hr 42 min
+329 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Beijam](https://open.spotify.com/track/7CIWnLmuWHKIc3f5IoR8wD) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Beijam](https://open.spotify.com/album/0FqokGojULcFWTeeE1fVuU) | 3:50 | 2022-01-14 | 2022-07-02 |
 | [Beijei](https://open.spotify.com/track/2vZmLR6tlYvTv8UJOtLijZ) | [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Itary](https://open.spotify.com/artist/73JleuMWIuH1oUwF1bpd3w) | [Conexões Angola & Brasil](https://open.spotify.com/album/3DdYxPf8B8tsWQTDWuzrr2) | 3:41 | 2021-12-10 | 2022-06-01 |
 | [Bela](https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Bela](https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA) | 3:58 | 2021-12-10 |  |
-| [Belissima](https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP) | [Charbel](https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B) | [Apaxonado](https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb) | 4:51 | 2021-12-10 |  |
+| [Belissima](https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP) | [Charbel](https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B) | [Apaxonado](https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb) | 4:51 | 2021-12-10 | 2023-11-03 |
 | [Benka Benka](https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Benka Benka](https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy) | 3:00 | 2023-04-06 |  |
 | [Bet on yourself](https://open.spotify.com/track/0Olq5WLGSxtYR6nGiIjOaU) | [Kasno](https://open.spotify.com/artist/1ukTxtURiUr8T0MhVJAxeB) | [Bet on yourself](https://open.spotify.com/album/4KIUJShFpdopaMTgIxMbuI) | 2:56 | 2022-04-22 | 2022-04-25 |
 | [Bet on yourself \- Remix](https://open.spotify.com/track/3ABmOg3mNqEysRnkfibTOL) | [Kasno](https://open.spotify.com/artist/1ukTxtURiUr8T0MhVJAxeB) | [Bet on yourself \(Remix\)](https://open.spotify.com/album/4vBuMB8H9Uzw1ZJIKMTwrv) | 2:55 | 2022-05-13 | 2022-05-26 |
@@ -119,6 +119,7 @@
 | [Filha de General](https://open.spotify.com/track/04B8MMpJTrHzlvVVX30F5J) | [Weynner Lucas](https://open.spotify.com/artist/1H0PVaIF0j0RA72rApTvEq) | [Filha de General](https://open.spotify.com/album/6Bwwmpzq6m8RBDTXAiHhEx) | 3:10 | 2022-03-25 | 2022-04-15 |
 | [Fininho](https://open.spotify.com/track/5AGEa2l0h9fEQSbqQdjh2q) | [Filomena Maricoa](https://open.spotify.com/artist/779KPNdHtr7BoEKEAcHxjG) | [Resiliência](https://open.spotify.com/album/5QHssDn672a9cJOsdw1HQ7) | 2:59 | 2021-12-10 | 2022-01-25 |
 | [Focadu na mi](https://open.spotify.com/track/2F8UmE4VDyq01qTdTqVp8V) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [DIAS \(Tome 1\)](https://open.spotify.com/album/3mcuhcsPFPF10MFEn43hn1) | 3:38 | 2022-03-25 | 2022-04-20 |
+| [FORTI SO DA DI](https://open.spotify.com/track/26PYN8A18eUNXJw0BSWHJT) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [COCKTAIL](https://open.spotify.com/album/0kWei4i3wj1HEVAggyE9fN) | 2:54 | 2023-10-26 |  |
 | [Gostu Sabi](https://open.spotify.com/track/6cosp1xrAB2ibru87qvvqB) | [Gil Semedo](https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Mito Kaskas](https://open.spotify.com/artist/61B4g2tzV2iOPCxFVXfC7F) | [Gostu Sabi](https://open.spotify.com/album/2Xi1UFTDSzhxS5bOn0uI3t) | 4:24 | 2022-06-16 | 2022-07-01 |
 | [Heartbeats](https://open.spotify.com/track/1lTCCK1d6IZLCbDPBaWhC7) | [Jazzy Rhodes](https://open.spotify.com/artist/4Jmpc3XWrGfzMXKYlQOrFG), [Arándano](https://open.spotify.com/artist/4vFS1RK96haxCYFEOEtv69), [Kitoko Sound](https://open.spotify.com/artist/7DqZ1E3qLhl3dXPc7jiVOb), [Kanda Beats](https://open.spotify.com/artist/62L2fBEJD1elMOdm0UAlj3), [D.i.n BEATS](https://open.spotify.com/artist/01jkpVYZa78YgI61h3gZbO) | [Heartbeats](https://open.spotify.com/album/6IQaqSnnAd72EaYm37TvPE) | 3:25 | 2021-12-10 | 2022-07-27 |
 | [Hoje a Noite É Nossa](https://open.spotify.com/track/09aLSoFasuxNVnGzgrBxc6) | [Edivaldo Prince](https://open.spotify.com/artist/1gqTY48L61CaY4ZNUpc8wL), [Uami Ndongadas](https://open.spotify.com/artist/5Zk9sDo6b2WArX9zr7I4BC), [Lil Drizzy](https://open.spotify.com/artist/6J7bOfaTg7OVG7b2uP0cqO) | [Hoje a Noite É Nossa](https://open.spotify.com/album/7zMtgdb8TzDx0ZjssmjaT5) | 3:49 | 2022-01-14 | 2022-01-29 |

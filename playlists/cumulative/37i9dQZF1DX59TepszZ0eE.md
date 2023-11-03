@@ -4,7 +4,7 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=mJ2HCpbYRBmFG\_qFtWvyeQ">Omega Khunou</a>
 
-169 songs - 16 hr 49 min
+170 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Thina Simzwile Ubatshazwayo](https://open.spotify.com/track/3j24qyc0nqldEpUbvx5LEU) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Thina Simzwile Ubatshazwayo](https://open.spotify.com/album/0aVD6cMb0YSIS2yjDxsFaR) | 2:46 | 2023-10-20 |  |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2020-12-10 |  |
 | [Udumo \- Live at Pont De Val](https://open.spotify.com/track/1sZAiagVPE4eQwaw056YaM) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Udumo \(Live at Pont De Val\)](https://open.spotify.com/album/6YSvp90Kw08mG6Wcaz162p) | 6:46 | 2020-10-09 | 2023-06-16 |
+| [Uhlaleleni Kusizani](https://open.spotify.com/track/06xNSNCV9X5fRm0n5wqVAE) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Uhlaleleni Kusizani](https://open.spotify.com/album/1sDS2OlxaG5j2zrYoA7ODt) | 7:25 | 2023-11-03 |  |
 | [Ukholo](https://open.spotify.com/track/6XXwIEbcmh6IKl1qGd3J5i) | [Asanda Mqiki](https://open.spotify.com/artist/0778udtHEQ5T3HZQEDelAf), [StussyV](https://open.spotify.com/artist/3CAwqYTdNKxX52nrkSf52s), [Tee Jay](https://open.spotify.com/artist/2FgJA67LUo0uQ6WXafNTKQ), [Nonka](https://open.spotify.com/artist/7owh85VxGfhYd41wHZ9nZA), [DJ GHETTO HD](https://open.spotify.com/artist/21B7fICxbXLlcfr3Es8jiS) | [Ukholo](https://open.spotify.com/album/2Io8Y6e1kUIcn4mYL1dfLq) | 5:53 | 2023-10-27 |  |
 | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy) | [Intimate Worshippers](https://open.spotify.com/artist/6cyrALoaNZdARL3FtcT1TG) | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf) | 4:12 | 2023-07-14 |  |
 | [Ukuhlala Kuye](https://open.spotify.com/track/2l8fI1B2jMjFr4iWAaMLRI) | [Kea Studios](https://open.spotify.com/artist/3Kfq2pa1z7SDX7nLOkNXkU) | [Ukuhlala Kuye](https://open.spotify.com/album/5lPRiJ1iPpWyguZPZwYzLE) | 4:01 | 2023-07-21 | 2023-09-15 |

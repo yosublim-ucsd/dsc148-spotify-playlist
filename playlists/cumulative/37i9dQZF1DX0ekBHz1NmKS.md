@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-849 songs - 1 day 20 hr 55 min
+850 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,7 +625,7 @@
 | [SE MIG](https://open.spotify.com/track/0djNuMqEv8KCVE0tUQyyrJ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [SE MIG](https://open.spotify.com/album/1hH4uUsYGsiZBFi9XlzoX9) | 3:18 | 2021-12-16 | 2022-03-11 |
 | [Se mig, bara se mig](https://open.spotify.com/track/7qZRHmZgslebCewAQPR3Vz) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Se mig, bara se mig](https://open.spotify.com/album/2JyEteYRpXeV2OddjXnxgt) | 3:00 | 2021-12-16 | 2022-07-28 |
 | [SECONDS 2 SUNRISE](https://open.spotify.com/track/3EZ2wPfs5QpjQejdd6KXVX) | [Nadja Kasanesh](https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa), [SALTI](https://open.spotify.com/artist/7Ky7z39i1sO85ZQCRBz16e) | [SECONDS 2 SUNRISE](https://open.spotify.com/album/4T7BbFDYDSFMx8TKdsO8Lq) | 2:53 | 2022-06-23 | 2022-07-21 |
-| [Selfish Lies \(Laudanum\)](https://open.spotify.com/track/7JgtzJ7LfrqejT438nZ5tx) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Pink Cloud EP](https://open.spotify.com/album/5OGKTqF0cpjVK70i0hjibj) | 3:16 | 2023-10-05 |  |
+| [Selfish Lies \(Laudanum\)](https://open.spotify.com/track/7JgtzJ7LfrqejT438nZ5tx) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Pink Cloud EP](https://open.spotify.com/album/5OGKTqF0cpjVK70i0hjibj) | 3:16 | 2023-10-05 | 2023-11-03 |
 | [Seriously, Let's Ride or Die](https://open.spotify.com/track/2MBs6ryr1ZxW4EpPUwYP9L) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Seriously, Let's Ride or Die](https://open.spotify.com/album/03FPGcycU0XI6DEgGMB8SM) | 3:18 | 2022-02-20 | 2022-05-13 |
 | [Shadowman](https://open.spotify.com/track/0J92uIMvex4Fzpy6YI43vf) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:57 | 2023-07-06 | 2023-09-09 |
 | [Shameless](https://open.spotify.com/track/1xca56AOpe6oNTAl9Ih239) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Shameless](https://open.spotify.com/album/5QcquR8hsv60H86QASguCE) | 3:41 | 2021-12-16 | 2022-03-08 |
@@ -734,6 +734,7 @@
 | [Tell Me](https://open.spotify.com/track/02688X3Oo6uDQptLZDiqqp) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Tell Me](https://open.spotify.com/album/35ysKlLuG8CpXGCQbNFgKo) | 3:10 | 2022-03-17 | 2022-07-29 |
 | [Tempo](https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Tempo](https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT) | 2:31 | 2022-07-28 | 2022-12-08 |
 | [Tenerife Sea](https://open.spotify.com/track/5bimLyQiJGIphZSs1e0HPB) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [living room sessions](https://open.spotify.com/album/7nyjhmJfuB4xyfx0lVx3A0) | 4:31 | 2021-12-16 | 2022-03-09 |
+| [Tennis](https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05) | 2:19 | 2023-11-02 |  |
 | [Tesla](https://open.spotify.com/track/7MYNQvmkh1tbXKKoZ20XG7) | [MIMI](https://open.spotify.com/artist/4GCwfakdZdo3KkBNtzU5vn) | [Tesla](https://open.spotify.com/album/52ZvAIoqN8UrStekZ19BCW) | 3:05 | 2022-04-28 | 2022-07-20 |
 | [Thank God These Walls Can’t Talk](https://open.spotify.com/track/2MwXBLVcSS4HqG2pAxpOOi) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Thank God These Walls Can’t Talk](https://open.spotify.com/album/4jKI3dZzuwtp3yqt7iyAk7) | 2:35 | 2023-06-01 | 2023-08-01 |
 | [Thanks a lot now I can’t smile](https://open.spotify.com/track/03b4yd2Efg2bi8KvFNpMyz) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/57phmd4OriulBsRSCOWSrX) | 2:44 | 2021-12-16 | 2022-01-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Clio",
+  "description": "The best French indie tracks right now. Cover : Alice et Moi",
   "name": "Made in France",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 241661,
       "name": "A day in the water",
       "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "C'est OK",
+        "url": "https://open.spotify.com/album/5KknyKEbHqlAEfkB64HGHe"
+      },
+      "artists": [
+        {
+          "name": "Clea Vincent",
+          "url": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184986,
+      "name": "C'est OK",
+      "url": "https://open.spotify.com/track/1YRLb0tT7RyTkicGKsUnfY"
+    },
+    {
+      "album": {
         "name": "call it a night",
         "url": "https://open.spotify.com/album/5ghiXxNIxCM24yk7uAvWC6"
       },
@@ -960,6 +978,24 @@
       "duration_ms": 218946,
       "name": "CAMISOLE",
       "url": "https://open.spotify.com/track/16RpNkwx8gaDyXD6duTt1l"
+    },
+    {
+      "album": {
+        "name": "Photographie",
+        "url": "https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2"
+      },
+      "artists": [
+        {
+          "name": "Alice et Moi",
+          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Carabine",
+      "url": "https://open.spotify.com/track/2z1EwCtvjaqa0AK5hQqvD0"
     },
     {
       "album": {
@@ -2970,7 +3006,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 172400,
       "name": "J'aime pas sortir",
       "url": "https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m"
@@ -3982,7 +4018,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 182177,
       "name": "Let her go",
       "url": "https://open.spotify.com/track/3lorZ6d6wi7xwzjP0tT1q2"
@@ -5582,6 +5618,24 @@
       "duration_ms": 181600,
       "name": "Premier Incendie - Edit",
       "url": "https://open.spotify.com/track/3zXBE7N9uJxxOq5zJDwIbh"
+    },
+    {
+      "album": {
+        "name": "Premonitions",
+        "url": "https://open.spotify.com/album/6aeZHE4ppb4tCzNlDTH91i"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221986,
+      "name": "Premonitions",
+      "url": "https://open.spotify.com/track/7hNRsJNe5XSRm8TI4QuZi8"
     },
     {
       "album": {

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 
 > From joyful jubillance to hushed harmonies\. Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,418 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,517 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pure Imagination / Christmas Time Is Here](https://open.spotify.com/track/18QnV6B8oCorqVYkz0Nljp) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Greatest Christmas Hits](https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT) | 3:20 |
 | 2 | [Do You Hear What I Hear?](https://open.spotify.com/track/4ALkaFHbQZtJ5h1FigF2Ps) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Do You Hear What I Hear?](https://open.spotify.com/album/2FJVY528PwIOfqDkAn25a4) | 3:05 |
-| 3 | [Winter Wonderland](https://open.spotify.com/track/4ewNAc5D5Lm92YWbP0zI7R) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 1:40 |
+| 3 | [Winter Wonderland](https://open.spotify.com/track/7ecfZxGVN2PphzwOLd4GSQ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/0DmM20iJ1NjdQSxGs6kCGt) | 1:40 |
 | 4 | [Jingle Bell Rock](https://open.spotify.com/track/7h0jTze9vNvp7Kpid2i2dB) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [A Rockapella Holiday](https://open.spotify.com/album/1WCdcmjKznIqlpGrSzMKWO) | 1:55 |
 | 5 | [Christmas Night With You](https://open.spotify.com/track/2JS7lS8Ydlnd4p6NnXMdNQ) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Christmas Night With You](https://open.spotify.com/album/6Sq3zZIxUkBgHTQS8YooAQ) | 2:39 |
 | 6 | [We Need a Little Christmas](https://open.spotify.com/track/75ho68NuOvqytkUAVxYuW5) | [Voctave](https://open.spotify.com/artist/6qCQcw3ZKdmAFv0v4u5ey2) | [It Feels Like Christmas](https://open.spotify.com/album/1e49L78osVK0BiJK1pngDS) | 2:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 | 49 | [Winter Wonderland / Don't Worry Be Happy \(feat\. Tori Kelly\)](https://open.spotify.com/track/2kPpxNSgXRvu5yqkRLKJIu) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:27 |
 | 50 | [Nativity Medley](https://open.spotify.com/track/6Zb2qnkAXLIDFsOSayqu7h) | [Committed](https://open.spotify.com/artist/0zXJ4RC28rSgZ7tR5XgXdH) | [Home For Christmas](https://open.spotify.com/album/4NP170fPWbNHS2eVQ7TvCS) | 3:25 |
 
-Snapshot ID: `MCw2NWY5MDBkNmJhYjcyMWVjYTZkNWEyZjkzNmMwNDgwMzIxYWQzMjcz`
+Snapshot ID: `MCw4YTBhZjJjMzY1MmFjYTNhZmE5ZTNjZWI0NjdiMzg4ODhlMjhhYTE0`

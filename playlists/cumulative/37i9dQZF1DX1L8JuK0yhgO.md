@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-2,092 songs - 4 day 19 hr 51 min
+2,093 songs - 4 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,7 +725,8 @@
 | [Home Is Where The Food Is](https://open.spotify.com/track/6w2Vnrk7qRul3m5XBx9pLs) | [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft), [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [Home Is Where The Food Is](https://open.spotify.com/album/7dhC5EnQhwXKGNNMLzyuJg) | 3:04 | 2023-03-26 | 2023-04-04 |
 | [Honestly, Just Wanna Have a Good Time \(feat\. King Chip\)](https://open.spotify.com/track/77lJbVpRgqf4OwYfM8d1z0) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [King Chip](https://open.spotify.com/artist/5NjUjtjtkzZqRuWFdspT1K) | [Red Corolla](https://open.spotify.com/album/1itymckvdfBSADSU1JvBE4) | 3:58 | 2023-07-02 | 2023-07-10 |
 | [Honey](https://open.spotify.com/track/1vHQxfqa4ePKMcNIhy8GiZ) | [Mami.](https://open.spotify.com/artist/5dVvNFDCcdSBV9krfrksOc) | [Honey](https://open.spotify.com/album/2DLa1pgGI26jVOz0Ay7eJe) | 3:46 | 2023-04-16 | 2023-04-24 |
-| [Honey](https://open.spotify.com/track/2ajmHgoufeps8ymCR627yV) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw) | 3:19 | 2023-10-30 |  |
+| [Honey](https://open.spotify.com/track/17qHPyrnf0KJyT3EI9PM1m) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 3:19 | 2023-10-30 |  |
+| [Honey](https://open.spotify.com/track/2ajmHgoufeps8ymCR627yV) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw) | 3:19 | 2023-10-30 | 2023-11-03 |
 | [HONEY DARLIN \(feat\. Aile The Shota\)](https://open.spotify.com/track/3MvyeAc8ueBaRSrmZWHFco) | [NARROWORLD](https://open.spotify.com/artist/1lDEJxLjWAXtKDr7nFCJxW), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [HONEY DARLIN \(feat\. Aile The Shota\)](https://open.spotify.com/album/7IfOFWG5ewWQ2c2EN9RIB7) | 2:51 | 2023-04-16 | 2023-04-24 |
 | [HoneyBeeBaby](https://open.spotify.com/track/2sm8qQCaGN7QRKRhrNRGPc) | [YOU IRIE](https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA) | [HoneyBeeBaby](https://open.spotify.com/album/4ErcvEEbwN2Wk8Cia8ksug) | 3:37 | 2023-03-20 | 2023-03-27 |
 | [honomekashi](https://open.spotify.com/track/1Wp60mE3AQ29bRzUZay9Wq) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [honomekashi](https://open.spotify.com/album/0LT45PJYPGmjqTvUZQHMSV) | 3:41 | 2023-07-31 | 2023-08-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,106 likes - 107 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,156 likes - 107 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 52 | [Uzoma](https://open.spotify.com/track/2CAqtVOt19JLoSvcx66kZL) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [Uzoma](https://open.spotify.com/album/5uKp2O0nl9TwCxfe1iCsxv) | 4:13 |
 | 53 | [Kana\-Sila](https://open.spotify.com/track/7DAPYAB6wRjInP47kQTf3D) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Seckou Keita: 22 Strings](https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve) | 3:50 |
 | 54 | [People Talk Too Much](https://open.spotify.com/track/4MBgbO0F3qKav5MuxNpxzm) | [King Ayisoba](https://open.spotify.com/artist/6TQgRLQia206d3QvleDxen) | [People Talk Too Much](https://open.spotify.com/album/2wO8hF43Nb42TrlaDGgSHE) | 3:32 |
-| 55 | [Bansang](https://open.spotify.com/track/4yIpAl5friYNemdRdwpRs2) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [Toumani & Sidiki](https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV) | 2:47 |
+| 55 | [Bansang](https://open.spotify.com/track/4mUmru6Wf8XQU6ZyzcOhKd) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [Toumani & Sidiki](https://open.spotify.com/album/7fjwxXIWIVFRco4JEjJZl2) | 2:48 |
 | 56 | [Sohlangana khona \(We Will Meet There\)](https://open.spotify.com/track/5R53of9PqwA6RyDwht0Sun) | [Vusa Mkhaya](https://open.spotify.com/artist/1Zcfa6xRf2ZShaD9lcVR8E), [Brian Bangura](https://open.spotify.com/artist/1DzpwojcAYW8Pu3e90sJls), [Ramadu](https://open.spotify.com/artist/1xChafGbiQpAoWuyxFLWkY), [Handsome Mabhiza](https://open.spotify.com/artist/6AZhQmpoUMvqdA8b4r3q9b), [Othnell Mangoma Moyo](https://open.spotify.com/artist/2BTkglCPvt9QTqWZUWFxTn) | [Vusa Mkhaya: Vocalism](https://open.spotify.com/album/6YkNFMEvza2qgoyLKKYvfY) | 5:09 |
 | 57 | [Mbog](https://open.spotify.com/track/52UFQ6EwxdzFacdiclDNjG) | [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [Mbog](https://open.spotify.com/album/0itXEXsfQKZnEjNzW1Yptz) | 2:16 |
 | 58 | [Winter Trees Stand Sleeping](https://open.spotify.com/track/18PMUMZqCeKiZ5sV5fn1kz) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [Transitional Times](https://open.spotify.com/album/10yK1rIl0mevzccNi8nlie) | 2:20 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 106 | [Wanita](https://open.spotify.com/track/6cBLK1pC202FMxthSKg1NN) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Wanita](https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg) | 5:39 |
 | 107 | [Makambo](https://open.spotify.com/track/2F9aMslwYQurvgv7DGS7S5) | [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Exile \(Real World Gold\)](https://open.spotify.com/album/3wDdQn9tgxEIjjo1pnc7X7) | 5:00 |
 
-Snapshot ID: `MCxkMGM1ZGQ3MThjNzkwNzc1ZWZmM2Y0ZmZmYzg3ZWE5ZDMyNmY1ODAw`
+Snapshot ID: `MCxiNmFhM2YwNGUyODg4MDA2NTRjODU4MDBhZDUxZGI1NGE4OTQ2OWFk`

@@ -4,7 +4,7 @@
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-89 songs - 7 hr 13 min
+90 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [That's the Way I Like It](https://open.spotify.com/track/6q4WNR2hLjy57WkJ6kdUci) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Shake Your Booty](https://open.spotify.com/album/2BJL2ppNKnjuuYYzyrKVMT) | 3:05 | 2019-06-28 | 2022-07-29 |
 | [The Glow of Love](https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Glow of Love \(Original Album and Rare Tracks\)](https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye) | 6:13 | 2019-06-28 |  |
 | [The Hustle \- Original Mix](https://open.spotify.com/track/75PHqzep3Lf11sIYP5ps5q) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [The Hustle & The Best of Van McCoy](https://open.spotify.com/album/0QdIm38ml7jHplmYOqazbF) | 4:10 | 2019-06-28 |  |
-| [The Warrior](https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 3:44 | 2019-06-28 |  |
+| [The Warrior](https://open.spotify.com/track/1wuo1nwM6jqJcGtu4MzAOW) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Sunshine Day \- The Pye/Bronze Anthology](https://open.spotify.com/album/2VpVtGGkOyYPgqbI2i9y9u) | 3:44 | 2022-09-26 |  |
+| [The Warrior](https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 3:44 | 2019-06-28 | 2023-11-03 |
 | [The Warrior](https://open.spotify.com/track/1yRixw5ysrrgR8a2ZeU806) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4LK4xmWEuNYYEn5oPrQUpD) | 3:47 | 2019-06-28 | 2022-08-09 |
 | [Theme From "Shaft"](https://open.spotify.com/track/05p7iaHeIZIkMU05xkwe1Z) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Disco Funky Para Bailar](https://open.spotify.com/album/46GEPH5eSaiGrhefPmPMdh) | 4:36 | 2022-09-26 | 2022-11-13 |
 | [Theme From Shaft](https://open.spotify.com/track/1VLLADzAWGr1IoeMPDLNDL) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [It's All In The Game](https://open.spotify.com/album/5ZMT0oGy8gXbBIxMY9q4ZW) | 4:40 | 2019-06-28 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-309 songs - 21 hr 40 min
+310 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Cumbia Espacial](https://open.spotify.com/track/7eVJeKvIDJxypSLzzzcBdz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/22Q8xEKl3NoUnT8EdJBMb2) | 4:05 | 2022-01-04 | 2022-07-08 |
 | [Cumbia Espacial](https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica \(Deluxe Version\)](https://open.spotify.com/album/2clte0oolrkkXFTJy72us2) | 4:05 | 2022-06-15 | 2023-05-01 |
 | [Cumbia Espectro](https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Cumbia Espectro](https://open.spotify.com/album/7LeyN0a8dAmdWedch0MYVv) | 3:36 | 2023-02-14 | 2023-03-18 |
+| [Cumbia Espectro \- DUSU Remix](https://open.spotify.com/track/1NRhtJ7VQy55WJC9R6J2sb) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [DUSU](https://open.spotify.com/artist/2C6vqUrtXufvoUk5iwJ2KX) | [Cumbia Espectro \(DUSU Remix\)](https://open.spotify.com/album/3VRV4d2vD0hgiMIhlA9GGw) | 5:06 | 2023-09-25 |  |
 | [Cumbia Sobre el Mar \- El Búho Remix](https://open.spotify.com/track/0HdHd5mJlqFqv8PqAGDsEw) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/05SkQ3cqcaIaP4Oo5N9r4i) | 5:12 | 2022-01-04 | 2022-10-13 |
 | [Cumbia Sobre el Mar \- El Búho Remix](https://open.spotify.com/track/0p8LlXT1FG9vnrCH70dbuo) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbia Sobre el Mar / Inmortales \(El Búho Remixes\)](https://open.spotify.com/album/1iHJ1yT7T5juouGV7IkeRN) | 5:12 | 2022-06-15 |  |
 | [Cumbia Sobre el Mar \- El Búho Remix](https://open.spotify.com/track/5OyoVt6IEIqAXUFbCJ6TnV) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm) | 5:12 | 2022-06-15 | 2023-03-23 |

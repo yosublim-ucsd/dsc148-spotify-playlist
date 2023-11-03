@@ -1595,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Dog Days",
+        "url": "https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223631,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q"
+    },
+    {
+      "album": {
         "name": "Doin Ya Thang",
         "url": "https://open.spotify.com/album/7tM2lyWub7zkimIWzX6Ui2"
       },
@@ -2354,6 +2372,28 @@
       "duration_ms": 269711,
       "name": "GOOD TIMES - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF"
+    },
+    {
+      "album": {
+        "name": "Gorah",
+        "url": "https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Gorah",
+      "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
     },
     {
       "album": {
@@ -3142,6 +3182,42 @@
       "duration_ms": 222439,
       "name": "JOY (In Me All The Time)",
       "url": "https://open.spotify.com/track/0cKYdxOPGO60h2c4DHbp7d"
+    },
+    {
+      "album": {
+        "name": "Cult Classics",
+        "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238898,
+      "name": "JOY (Now That It's Over)",
+      "url": "https://open.spotify.com/track/5S9f2bOCsnexTnIkXgGwPI"
+    },
+    {
+      "album": {
+        "name": "JOY (Up The Street)",
+        "url": "https://open.spotify.com/album/757FRJv2zPA021rfTPK7hr"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237979,
+      "name": "JOY (Up The Street)",
+      "url": "https://open.spotify.com/track/5PFSQQxlsdUrR63J31spMv"
     },
     {
       "album": {
@@ -5482,6 +5558,24 @@
       "duration_ms": 244984,
       "name": "Subaru Dreams",
       "url": "https://open.spotify.com/track/3CdERnE1LHQuFHngbLtxjH"
+    },
+    {
+      "album": {
+        "name": "Subject Study",
+        "url": "https://open.spotify.com/album/2wz9kI2ozsay6rrECF49aR"
+      },
+      "artists": [
+        {
+          "name": "KinAhau",
+          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210232,
+      "name": "Subject Study",
+      "url": "https://open.spotify.com/track/21ZOkp2EWJw7whsBhds5U5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Reba McEntire
 
-169 songs - 8 hr 48 min
+170 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,10 +79,11 @@
 | [If We Make It Through December](https://open.spotify.com/track/44RXimHSA8TP58WXOMdKMy) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Honky Tonk Christmas](https://open.spotify.com/album/5kIfAEfAWBYRKHnhLS6ise) | 2:44 | 2021-12-16 |  |
 | [If We Make It Through December](https://open.spotify.com/track/4sTlOOWxFx5dR7SZmi7S79) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Hag's Christmas](https://open.spotify.com/album/1zV3LT0oE6DW2BWnrNOXf8) | 2:43 | 2021-12-16 |  |
 | [It Must Have Been The Mistletoe \(Our First Christmas\)](https://open.spotify.com/track/76dd0L4Bk6rRlEjt5oB47S) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Christmas At Our House](https://open.spotify.com/album/5rM65xh4QGfosymiKhjADf) | 3:13 | 2022-12-02 |  |
-| [It's Beginning to Look A Lot Like Christmas](https://open.spotify.com/track/69Xw4dg0nQuJn2gkQRquRw) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 2:39 | 2021-12-16 |  |
+| [It's Beginning to Look A Lot Like Christmas](https://open.spotify.com/track/69Xw4dg0nQuJn2gkQRquRw) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 2:39 | 2021-12-16 | 2023-11-03 |
 | [It's Christmas](https://open.spotify.com/track/12MYE3GKzluh6aVgQiLUH6) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Christmas With Ronnie Milsap](https://open.spotify.com/album/330S3o1ilBUbpVT11njbvs) | 2:58 | 2021-12-16 | 2022-07-29 |
 | [It's Christmas](https://open.spotify.com/track/0v83SA7DCwVYv7soRcltWl) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Christmas With Ronnie Milsap](https://open.spotify.com/album/1YjVRUPO0QKOO6mNZbcQj8) | 3:00 | 2021-12-16 |  |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/7vbsmCFfNtHU0gEkBkxyRM) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Christmas](https://open.spotify.com/album/2w9sNZmlN6hcEsRo0xS8RX) | 2:47 | 2021-12-16 |  |
+| [It’s Beginning to Look A Lot Like Christmas](https://open.spotify.com/track/7vi7a3Ra5h2H8rLqNOU3ux) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Happy Holiday/It's The Holiday Season](https://open.spotify.com/album/5sR657t0qQVtcqfg9srqHS) | 2:39 | 2022-12-09 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/3hBXvHLlTHvnbwrPbeoyAj) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [The Classic Years: 1956\-1962](https://open.spotify.com/album/7yeVUGG3xvGjKwhM2FBItZ) | 2:10 | 2021-12-16 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/5r1RRIizK2WACdbjQTDSss) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Rockin' Around The Christmas Tree/The Decca Christmas Recordings](https://open.spotify.com/album/1gAceSZFd4irbzRRHLof8U) | 2:10 | 2021-12-16 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/6O0r0XAu8i4C9MZKTP7Eat) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Christmas With Chet Atkins](https://open.spotify.com/album/1gBNqRTkKueSXnU7FJwezN) | 1:51 | 2021-12-16 | 2022-12-10 |

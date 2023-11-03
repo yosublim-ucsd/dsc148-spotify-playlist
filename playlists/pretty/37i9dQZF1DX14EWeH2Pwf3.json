@@ -1,15 +1,35 @@
 {
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Yung Snapp",
-  "num_followers": 896992,
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Medy",
+  "num_followers": 897255,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjhjMGNkNDIzMDVlZDg0OWFhNTk0MzA4ODI0YmNjYmVkZTU2YzA2",
+  "snapshot_id": "MCwyZjMzODQ5YjQ3NmUyMWE1MGZkYmFkOWNmYmJiOTU2NjgyMDcxZDBm",
   "tracks": [
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
+      "album": {
+        "name": "Soraya",
+        "url": "https://open.spotify.com/album/2y65ScAlc5MUfUa72fQcdo"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "Soraya",
+      "url": "https://open.spotify.com/track/0xDhwzzCx7eamMB11VBgOo"
+    },
+    {
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
         "url": "https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs"
@@ -37,7 +57,7 @@
       "url": "https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "Santeria",
         "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
@@ -57,27 +77,7 @@
       "url": "https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
-      "album": {
-        "name": "HOTEL MONTANA",
-        "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
-      },
-      "artists": [
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Kiss You (F**k You) [feat. Geolier]",
-      "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
-    },
-    {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "TRAPHOUSE",
         "url": "https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "REALLY HER (INTL DELUXE)",
         "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "Papaya",
         "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "Cadillac (feat. Artie 5ive)",
         "url": "https://open.spotify.com/album/3mG2cIIIftDcBHTtfQrMMz"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "ABC (feat. Bello Figo)",
         "url": "https://open.spotify.com/album/5N2chCw2KvN4O0CNZTkXzR"
@@ -189,27 +189,7 @@
       "url": "https://open.spotify.com/track/50qPOMP2Kw8qOD1dsExaKQ"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
-      "album": {
-        "name": "Soraya",
-        "url": "https://open.spotify.com/album/2y65ScAlc5MUfUa72fQcdo"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "Andry The Hitmaker",
-          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "Soraya",
-      "url": "https://open.spotify.com/track/0xDhwzzCx7eamMB11VBgOo"
-    },
-    {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
@@ -229,7 +209,27 @@
       "url": "https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
+      "album": {
+        "name": "CVLT",
+        "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 162893,
+      "name": "INCUBI",
+      "url": "https://open.spotify.com/track/04Jt7tpjw9z0OugNDAZxnk"
+    },
+    {
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "Nato Per Questo",
         "url": "https://open.spotify.com/album/3nrUsKXZlLAEKE5HUeoc0v"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/2YQx1HsasbXKv8nVvXKidO"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "INNOCENTE",
         "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
@@ -265,23 +265,7 @@
       "url": "https://open.spotify.com/track/7wj8OXiqdAfNsnWm2zRV9e"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
-      "album": {
-        "name": "Syrup",
-        "url": "https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 188654,
-      "name": "Syrup",
-      "url": "https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff"
-    },
-    {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
@@ -301,7 +285,47 @@
       "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
+      "album": {
+        "name": "CVLT",
+        "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 223413,
+      "name": "RESPIRA (feat. Marracash)",
+      "url": "https://open.spotify.com/track/2zuRZkoWxoNtKaA4Q44f44"
+    },
+    {
+      "added_at": "2023-11-02 22:01:00",
+      "album": {
+        "name": "Syrup",
+        "url": "https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 188654,
+      "name": "Syrup",
+      "url": "https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff"
+    },
+    {
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "VILLABANKS",
         "url": "https://open.spotify.com/album/1v4ennAZieVxb71tEgpjnZ"
@@ -329,7 +353,27 @@
       "url": "https://open.spotify.com/track/5qPSSvlfpcdX8YQnYNvnZ1"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
+      "album": {
+        "name": "HOTEL MONTANA",
+        "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Kiss You (F**k You) [feat. Geolier]",
+      "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
+    },
+    {
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "FEDE",
         "url": "https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK"
@@ -349,7 +393,7 @@
       "url": "https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "LEVANTE (feat. Paky)",
         "url": "https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg"
@@ -369,7 +413,7 @@
       "url": "https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "Umile",
         "url": "https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9"
@@ -389,7 +433,7 @@
       "url": "https://open.spotify.com/track/1r5WCFulDtvAdCNmJfH1wA"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "ALBV",
         "url": "https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF"
@@ -405,7 +449,7 @@
       "url": "https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "OFFLINE",
         "url": "https://open.spotify.com/album/4QjJhfVACjKRN34TYYSDAE"
@@ -425,7 +469,7 @@
       "url": "https://open.spotify.com/track/1845mbE4B3oG3WtAMZCapo"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
@@ -449,7 +493,7 @@
       "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "DOV'ERI? (feat. Baby Gang)",
         "url": "https://open.spotify.com/album/1pITHFIU30Kt38axjWvvwY"
@@ -469,7 +513,35 @@
       "url": "https://open.spotify.com/track/1ayxvCxpk0oFaL8lbx88on"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
+      "album": {
+        "name": "CVLT",
+        "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        }
+      ],
+      "duration_ms": 174287,
+      "name": "MY LOVE SONG 2 (feat. Coez & Frah Quintale)",
+      "url": "https://open.spotify.com/track/3ySS2RpQNWsN5T88sfilZb"
+    },
+    {
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "Baby Mama",
         "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
@@ -485,7 +557,7 @@
       "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/3hxUAd6Nbyz4hGOOq3iwfk"
@@ -509,7 +581,7 @@
       "url": "https://open.spotify.com/track/12DTLo6iqsIhzLZ53CPMf4"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "NO REGULAR MUSIC",
         "url": "https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2"
@@ -545,7 +617,7 @@
       "url": "https://open.spotify.com/track/0bB8hmswtN9WvOQXV159CC"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "TAF TAF",
         "url": "https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u"
@@ -561,7 +633,7 @@
       "url": "https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "INNOCENTE",
         "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
@@ -581,27 +653,7 @@
       "url": "https://open.spotify.com/track/4Vguuo2E1onl5knqW1X3fH"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
-      "album": {
-        "name": "BELLA",
-        "url": "https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "Dystopic",
-          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
-        }
-      ],
-      "duration_ms": 181386,
-      "name": "BELLA",
-      "url": "https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM"
-    },
-    {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "VETRI NERI",
         "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
@@ -625,7 +677,7 @@
       "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "1 MESSAGGIO",
         "url": "https://open.spotify.com/album/4ckePFG01HSFnIDOtG9ZjS"
@@ -641,7 +693,7 @@
       "url": "https://open.spotify.com/track/3GsSmGgMELKhaYSj3QTShu"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
@@ -661,7 +713,7 @@
       "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "Shawty (feat. ANNA)",
         "url": "https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy"
@@ -681,7 +733,55 @@
       "url": "https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
+      "album": {
+        "name": "Brutto Sogno",
+        "url": "https://open.spotify.com/album/5Hs2qAbyTo605RNTgYbdUh"
+      },
+      "artists": [
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Brutto Sogno",
+      "url": "https://open.spotify.com/track/4poLmuelQUDfAPPB4G94Z7"
+    },
+    {
+      "added_at": "2023-11-02 22:01:00",
+      "album": {
+        "name": "Ancora",
+        "url": "https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 171775,
+      "name": "Ancora",
+      "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
+    },
+    {
+      "added_at": "2023-11-02 22:01:00",
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "COME VUOI",
+      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
+    },
+    {
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "VIDA LOCA (feat. Medy)",
         "url": "https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP"
@@ -701,59 +801,7 @@
       "url": "https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
-      "album": {
-        "name": "Ancora",
-        "url": "https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 171775,
-      "name": "Ancora",
-      "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
-    },
-    {
-      "added_at": "2023-10-27 12:27:56",
-      "album": {
-        "name": "Brutto Sogno",
-        "url": "https://open.spotify.com/album/5Hs2qAbyTo605RNTgYbdUh"
-      },
-      "artists": [
-        {
-          "name": "Mecna",
-          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Brutto Sogno",
-      "url": "https://open.spotify.com/track/4poLmuelQUDfAPPB4G94Z7"
-    },
-    {
-      "added_at": "2023-10-27 12:27:56",
-      "album": {
-        "name": "Per Un Fra (feat. Ernia)",
-        "url": "https://open.spotify.com/album/5y2jaYIjhAdIbftphOEZ9V"
-      },
-      "artists": [
-        {
-          "name": "Cancun",
-          "url": "https://open.spotify.com/artist/2CFSNUGQpQF9w7UhYIpKVY"
-        },
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 154382,
-      "name": "Per Un Fra (feat. Ernia)",
-      "url": "https://open.spotify.com/track/0HDzbi541smhqa0MmgXP27"
-    },
-    {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "Vegeta (feat. N\u00e9za)",
         "url": "https://open.spotify.com/album/0kqfgJpLsbN2pysxJoNIfg"
@@ -773,10 +821,10 @@
       "url": "https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
-        "name": "Santana Season",
-        "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
       },
       "artists": [
         {
@@ -784,16 +832,16 @@
           "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Un milione di volte (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
+      "duration_ms": 171702,
+      "name": "Un Altro Show (feat. Geolier)",
+      "url": "https://open.spotify.com/track/0AbDjrdgKTXzGzvQ1drgQl"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "Lovebars",
         "url": "https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN"
@@ -813,7 +861,27 @@
       "url": "https://open.spotify.com/track/6O7pAOsUm3d9R37vYdQnG5"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
+      "album": {
+        "name": "Per Un Fra (feat. Ernia)",
+        "url": "https://open.spotify.com/album/5y2jaYIjhAdIbftphOEZ9V"
+      },
+      "artists": [
+        {
+          "name": "Cancun",
+          "url": "https://open.spotify.com/artist/2CFSNUGQpQF9w7UhYIpKVY"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 154382,
+      "name": "Per Un Fra (feat. Ernia)",
+      "url": "https://open.spotify.com/track/0HDzbi541smhqa0MmgXP27"
+    },
+    {
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "Freddy Krueger Freestyle",
         "url": "https://open.spotify.com/album/6h801PlffuLHaO7tcmvz3y"
@@ -829,7 +897,7 @@
       "url": "https://open.spotify.com/track/6TbFOSCtOicAETFf0DxHFt"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "INNOCENTE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3"
@@ -853,7 +921,7 @@
       "url": "https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "Too late",
         "url": "https://open.spotify.com/album/2wI2mYdlA9BmjRWATm1fjD"
@@ -873,23 +941,43 @@
       "url": "https://open.spotify.com/track/2UKH7wJBVt2tF5JINtOPmZ"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+        "name": "Umile (Deluxe)",
+        "url": "https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 172615,
-      "name": "COME VUOI",
-      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
+      "duration_ms": 161454,
+      "name": "Dentro la mia testa",
+      "url": "https://open.spotify.com/track/0A5Z02uM5JoFh8IxRUjyCX"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
+      "album": {
+        "name": "Santana Season",
+        "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Un milione di volte (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
+    },
+    {
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a"
@@ -921,83 +1009,7 @@
       "url": "https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
-      "album": {
-        "name": "Umile (Deluxe)",
-        "url": "https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Dentro la mia testa",
-      "url": "https://open.spotify.com/track/0A5Z02uM5JoFh8IxRUjyCX"
-    },
-    {
-      "added_at": "2023-10-27 12:27:56",
-      "album": {
-        "name": "Milano Demons",
-        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 171702,
-      "name": "Un Altro Show (feat. Geolier)",
-      "url": "https://open.spotify.com/track/0AbDjrdgKTXzGzvQ1drgQl"
-    },
-    {
-      "added_at": "2023-10-27 12:27:56",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
-        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 167339,
-      "name": "IL MALE CHE MI FAI (feat. Marracash)",
-      "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
-    },
-    {
-      "added_at": "2023-10-27 12:27:56",
-      "album": {
-        "name": "Stylist (feat. Gu\u00e8)",
-        "url": "https://open.spotify.com/album/51AjDPkrqMcW3WnXUiWJX5"
-      },
-      "artists": [
-        {
-          "name": "Slings",
-          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 139571,
-      "name": "Stylist (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/7IGBoOaXAd5IbNZLv5rZFT"
-    },
-    {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "INNOCENTE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3"
@@ -1017,7 +1029,7 @@
       "url": "https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5"
     },
     {
-      "added_at": "2023-10-27 12:27:56",
+      "added_at": "2023-11-02 22:01:00",
       "album": {
         "name": "The Globe",
         "url": "https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv"

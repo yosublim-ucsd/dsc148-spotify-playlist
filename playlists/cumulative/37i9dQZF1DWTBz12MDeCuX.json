@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Amaru",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: badchieff",
   "name": "me right now",
   "tracks": [
     {
@@ -818,7 +818,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 134874,
       "name": "A.M.D. (Allein Mit Dir)",
       "url": "https://open.spotify.com/track/5pPGerLQuJJPz5Cwxqq7Rc"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 178108,
       "name": "All Good Things",
       "url": "https://open.spotify.com/track/5Dc2buMJO2gcCrc7v4sqIr"
@@ -2592,7 +2592,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 208000,
       "name": "Bathroom",
       "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
@@ -3241,6 +3241,24 @@
     },
     {
       "album": {
+        "name": "BLa*_*",
+        "url": "https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK"
+      },
+      "artists": [
+        {
+          "name": "futurebae",
+          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "BLa*_*",
+      "url": "https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb"
+    },
+    {
+      "album": {
         "name": "blame's on me",
         "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
       },
@@ -3322,6 +3340,24 @@
       "duration_ms": 109957,
       "name": "Blau",
       "url": "https://open.spotify.com/track/6BcgFkMhsE8ybTgQZXCj5h"
+    },
+    {
+      "album": {
+        "name": "BLEED",
+        "url": "https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171566,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P"
     },
     {
       "album": {
@@ -4695,6 +4731,24 @@
     },
     {
       "album": {
+        "name": "Von Wind und Anonymit\u00e4t",
+        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151878,
+      "name": "Clown zum Freak",
+      "url": "https://open.spotify.com/track/2Xam1sL5Mkib0UPCHX75KM"
+    },
+    {
+      "album": {
         "name": "Co-Star",
         "url": "https://open.spotify.com/album/55NZPIZWOlYDGZyual8BVk"
       },
@@ -4772,6 +4826,24 @@
       "duration_ms": 129850,
       "name": "Coca Cola",
       "url": "https://open.spotify.com/track/3WEQSNxCim8X6dPXswjTK2"
+    },
+    {
+      "album": {
+        "name": "Coco Taxi",
+        "url": "https://open.spotify.com/album/5m3Hgq8sW2kO8Y1wHp8Uk6"
+      },
+      "artists": [
+        {
+          "name": "Abor & Tynna",
+          "url": "https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140313,
+      "name": "Coco Taxi",
+      "url": "https://open.spotify.com/track/5yAMIItSFVKOFEwkPjqFlf"
     },
     {
       "album": {
@@ -4986,6 +5058,32 @@
       "duration_ms": 209829,
       "name": "Cradles",
       "url": "https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU"
+    },
+    {
+      "album": {
+        "name": "Crash Dummy",
+        "url": "https://open.spotify.com/album/1ob5JbhZ4KhzKdq0HZZwDG"
+      },
+      "artists": [
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        },
+        {
+          "name": "Monk",
+          "url": "https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE"
+        },
+        {
+          "name": "Ion Miles",
+          "url": "https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172136,
+      "name": "Crash Dummy",
+      "url": "https://open.spotify.com/track/3wlFVKpDLDADlWXTNl9gGN"
     },
     {
       "album": {
@@ -6035,6 +6133,28 @@
     },
     {
       "album": {
+        "name": "du bist mein type (maria 24) (feat. Miss Platnum)",
+        "url": "https://open.spotify.com/album/2xRX75FB4ixTaqKmbHnYpP"
+      },
+      "artists": [
+        {
+          "name": "Maria Kalashnikow",
+          "url": "https://open.spotify.com/artist/59nbqokb4bfEWoVaSsUndj"
+        },
+        {
+          "name": "Miss Platnum",
+          "url": "https://open.spotify.com/artist/30SUIQhGDLj1pP0yg4fSMu"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "du bist mein type (maria 24) (feat. Miss Platnum)",
+      "url": "https://open.spotify.com/track/5TKyo47hZby9FAGUt9OOiM"
+    },
+    {
+      "album": {
         "name": "Du Fehlst",
         "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
@@ -6050,6 +6170,28 @@
       "duration_ms": 155597,
       "name": "Du Fehlst",
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
+    },
+    {
+      "album": {
+        "name": "DU FEHLST!!!",
+        "url": "https://open.spotify.com/album/5dPJfPpVpJTeTYfwgaXq3j"
+      },
+      "artists": [
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        },
+        {
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184362,
+      "name": "DU FEHLST!!!",
+      "url": "https://open.spotify.com/track/3k6nkN9tg5Wu0cQdNvyZBU"
     },
     {
       "album": {
@@ -7160,7 +7302,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 126400,
       "name": "f0rbiidden l0ve$tory",
       "url": "https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo"
@@ -7483,6 +7625,36 @@
     },
     {
       "album": {
+        "name": "feelings im bauch (feat. treason434) [techno remix]",
+        "url": "https://open.spotify.com/album/7DoEX9uPlyhR4mL1hZ0fi4"
+      },
+      "artists": [
+        {
+          "name": "lil eyes",
+          "url": "https://open.spotify.com/artist/4h1QS0cMRf3VrYHyKUJYUv"
+        },
+        {
+          "name": "1800yassine",
+          "url": "https://open.spotify.com/artist/2u550Yhcuewwu7oJVC64xc"
+        },
+        {
+          "name": "Asterio",
+          "url": "https://open.spotify.com/artist/3xK2PuwaZkeXlAjDtK6ght"
+        },
+        {
+          "name": "treason434",
+          "url": "https://open.spotify.com/artist/0RriK0rVWI9tagJyIux3wF"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "feelings im bauch (feat. treason434) - techno remix",
+      "url": "https://open.spotify.com/track/5QgKONdH9msywalIrm2mi7"
+    },
+    {
+      "album": {
         "name": "feelings im bauch (techno remix)",
         "url": "https://open.spotify.com/album/36WZiNFSSts7Ui397XZsO1"
       },
@@ -7506,7 +7678,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 123750,
       "name": "feelings im bauch - techno remix",
       "url": "https://open.spotify.com/track/1ZkZHrkK4VgHLrABj067bN"
@@ -8552,7 +8724,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 139933,
       "name": "Gestern",
       "url": "https://open.spotify.com/track/5Vk6QMQGbsjkF3Ouqvfrjy"
@@ -9154,7 +9326,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -9970,6 +10142,36 @@
       "duration_ms": 143347,
       "name": "Herz an Herz",
       "url": "https://open.spotify.com/track/3JfKaDVt5I1egdhm2V5GRG"
+    },
+    {
+      "album": {
+        "name": "Blaue Stunden",
+        "url": "https://open.spotify.com/album/1DndcvOnocioZ39IRv5xp3"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127258,
+      "name": "Herz ist kalt",
+      "url": "https://open.spotify.com/track/46CRoA0u4EhClL9oK9Sy2P"
     },
     {
       "album": {
@@ -11479,6 +11681,36 @@
     },
     {
       "album": {
+        "name": "In der Nacht",
+        "url": "https://open.spotify.com/album/4ZcG1yUBWWUDlb4IJE9jGS"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Trettmann",
+          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179335,
+      "name": "In der Nacht",
+      "url": "https://open.spotify.com/track/7caux0meUWXshPqnB44got"
+    },
+    {
+      "album": {
         "name": "In Ha Mood",
         "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
       },
@@ -12114,7 +12346,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 95440,
       "name": "justin bieber\u2122",
       "url": "https://open.spotify.com/track/6EDZ4yXd4Kh9mBZpBavsjT"
@@ -12512,7 +12744,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 125492,
       "name": "KETA UND KRAWALL",
       "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
@@ -12762,6 +12994,36 @@
       "duration_ms": 194002,
       "name": "Komm in meine Arme",
       "url": "https://open.spotify.com/track/2cJsBA3fbleMmnlveGVBlo"
+    },
+    {
+      "album": {
+        "name": "Komm in meine Arme (Remix)",
+        "url": "https://open.spotify.com/album/7ETtvcUamU4NqCe6Rw6nxY"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        },
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "Phil The Beat",
+          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
+        },
+        {
+          "name": "Beatgees",
+          "url": "https://open.spotify.com/artist/6TmHCol5w2iwL18tI45zo7"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158173,
+      "name": "Komm in meine Arme - Remix",
+      "url": "https://open.spotify.com/track/23SubncezpLXwkL22Kf3Nb"
     },
     {
       "album": {
@@ -13442,6 +13704,24 @@
       "duration_ms": 136988,
       "name": "Liebe Gr\u00fcsse",
       "url": "https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv"
+    },
+    {
+      "album": {
+        "name": "Liebe Gr\u00fc\u00dfe",
+        "url": "https://open.spotify.com/album/6L16lSz9FFaDxv1wm3SQPL"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135050,
+      "name": "Liebe Gr\u00fc\u00dfe",
+      "url": "https://open.spotify.com/track/2490ZIWKhabJ0or3Dor2xC"
     },
     {
       "album": {
@@ -14258,7 +14538,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 202931,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/4cQAhjxynTUlhVUJN5yhUb"
@@ -15050,6 +15330,28 @@
       "duration_ms": 133209,
       "name": "Minikleine",
       "url": "https://open.spotify.com/track/25AEor2jaGrHrtKLslas68"
+    },
+    {
+      "album": {
+        "name": "neue Ufer",
+        "url": "https://open.spotify.com/album/3N8crEw8JtGzowNGxs1MMg"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143786,
+      "name": "mir geht es gut",
+      "url": "https://open.spotify.com/track/08RtIVSkaKZWvFaGJqKb9o"
     },
     {
       "album": {
@@ -17305,6 +17607,28 @@
     },
     {
       "album": {
+        "name": "On ira",
+        "url": "https://open.spotify.com/album/5OId2gN3v8HsMBBmVLQTJ2"
+      },
+      "artists": [
+        {
+          "name": "Dante YN",
+          "url": "https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp"
+        },
+        {
+          "name": "Squidji",
+          "url": "https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156395,
+      "name": "On ira",
+      "url": "https://open.spotify.com/track/565OBXlZlMmtddb3I2yxBn"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL"
       },
@@ -19104,7 +19428,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 319191,
       "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
@@ -19148,6 +19472,28 @@
       "duration_ms": 174546,
       "name": "Rimini",
       "url": "https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5"
+    },
+    {
+      "album": {
+        "name": "Ringe im Stripclub",
+        "url": "https://open.spotify.com/album/2HNDn040M7STmkrmU1kAzd"
+      },
+      "artists": [
+        {
+          "name": "Pbb Yea",
+          "url": "https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9"
+        },
+        {
+          "name": "BroyS",
+          "url": "https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143732,
+      "name": "Ringe im Stripclub",
+      "url": "https://open.spotify.com/track/3adQZ8bbU4We77XddyCV0v"
     },
     {
       "album": {
@@ -19326,7 +19672,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 176086,
       "name": "Roule un autre - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich"
@@ -19892,7 +20238,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 120840,
       "name": "Schmetterling",
       "url": "https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9"
@@ -20506,6 +20852,28 @@
       "duration_ms": 159869,
       "name": "SHOOT",
       "url": "https://open.spotify.com/track/1rDfZwXzeotPuDtBJotaK1"
+    },
+    {
+      "album": {
+        "name": "SHOOT (DJ JEEZY REMIX)",
+        "url": "https://open.spotify.com/album/3gCZs2xQkWSTnNfWCdydgR"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "DJ JEEZY",
+          "url": "https://open.spotify.com/artist/6Ql5ZUhTCAn62skkbRJWCq"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152719,
+      "name": "SHOOT - DJ JEEZY REMIX",
+      "url": "https://open.spotify.com/track/44zP9jNhUg3KlKhjlGUQV8"
     },
     {
       "album": {
@@ -23080,7 +23448,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -23484,7 +23852,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
@@ -25196,7 +25564,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 152594,
       "name": "was du brauchst (st.pauli)",
       "url": "https://open.spotify.com/track/0evN6KOmUZVaZue7ca0ce1"
@@ -25940,7 +26308,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 239992,
       "name": "Weit weg",
       "url": "https://open.spotify.com/track/2JYnTXHtHyjn2vE0FIxnGC"

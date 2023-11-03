@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 23706,
+  "num_followers": 23717,
   "original_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGE1NjBkNDQ3YjcwNjcxOWVjY2E1MzZiM2VkODkwMmM1NzFlNWJk",
+  "snapshot_id": "MCxiM2U4OTM1OTI2Y2FjZmMwMjFjYTAxOTcyMWU2NmFjNmM4YTBjNjlh",
   "tracks": [
     {
       "added_at": "2023-10-04 09:05:27",
@@ -495,18 +495,22 @@
     {
       "added_at": "2023-10-04 09:05:27",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 04 \u5922\u54b2\u304dAfter school",
-        "url": "https://open.spotify.com/album/7nbtHmpCxyd61CvO3DstSu"
+        "name": "THE IDOLM@STER SHINY COLORS Synthe-Side 02",
+        "url": "https://open.spotify.com/album/7rg9RfJGUbH8aLeqHLGBst"
       },
       "artists": [
         {
           "name": "\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba",
           "url": "https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5"
+        },
+        {
+          "name": "\u30ce\u30af\u30c1\u30eb",
+          "url": "https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc"
         }
       ],
-      "duration_ms": 291520,
-      "name": "\u592a\u967d\u30ad\u30c3\u30b9",
-      "url": "https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M"
+      "duration_ms": 265173,
+      "name": "\u76f8\u5408\u5b66\u820e",
+      "url": "https://open.spotify.com/track/5HvlTedUOfCe0vW7gk1SjL"
     },
     {
       "added_at": "2023-10-04 09:05:27",
@@ -639,22 +643,18 @@
     {
       "added_at": "2023-10-04 09:05:27",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS Synthe-Side 02",
-        "url": "https://open.spotify.com/album/7rg9RfJGUbH8aLeqHLGBst"
+        "name": "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 04 \u5922\u54b2\u304dAfter school",
+        "url": "https://open.spotify.com/album/7nbtHmpCxyd61CvO3DstSu"
       },
       "artists": [
         {
           "name": "\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba",
           "url": "https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5"
-        },
-        {
-          "name": "\u30ce\u30af\u30c1\u30eb",
-          "url": "https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc"
         }
       ],
-      "duration_ms": 265173,
-      "name": "\u76f8\u5408\u5b66\u820e",
-      "url": "https://open.spotify.com/track/5HvlTedUOfCe0vW7gk1SjL"
+      "duration_ms": 291520,
+      "name": "\u592a\u967d\u30ad\u30c3\u30b9",
+      "url": "https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M"
     },
     {
       "added_at": "2023-10-04 09:05:27",

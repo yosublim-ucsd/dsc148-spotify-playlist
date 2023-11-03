@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4gqLJRpBq2Z.md) - [plain]
 
 > All the music from Barracuda Queens..\. now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,567 likes - 22 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,572 likes - 22 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4gqLJRpBq2Z.md) - [plain]
 | 9 | [Saturday Night](https://open.spotify.com/track/2zedBY48WiPY8WV8uCdtRz) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Whigfield](https://open.spotify.com/album/5VkDIwr3T1bnrRTe2dW4yD) | 3:43 |
 | 10 | [Easy](https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 3:06 |
 | 11 | [Meline](https://open.spotify.com/track/3CWkiDryDZX02hInXM3wR6) | [Cornelio](https://open.spotify.com/artist/1EUft5NnJtsIAcx2vfBtXs) | [New Wave](https://open.spotify.com/album/3az2IwVHeHKMvFKIP3Pd1v) | 3:40 |
-| 12 | [99 Luftballons](https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF) | 3:52 |
+| 12 | [99 Luftballons](https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:51 |
 | 13 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
 | 14 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 | 15 | [Check the Dan](https://open.spotify.com/track/1x33azoMw7Uo6BdgHDINbw) | [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Carousel](https://open.spotify.com/album/2Lb5mIrqMfoTYcxxUVthrA) | 5:25 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4gqLJRpBq2Z.md) - [plain]
 | 21 | [Block Rockin' Beats](https://open.spotify.com/track/6nGUM3Z0FNJZW9wbNj97Ig) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Brotherhood](https://open.spotify.com/album/7uqmBZKWSQY20q1EMrV8dt) | 4:54 |
 | 22 | [Panis Angelicus](https://open.spotify.com/track/4DCVBVcybvzYhSBI7Uyb8q) | [Adolf Fredrik Girls Choir](https://open.spotify.com/artist/2WLxI4rvr5ErulviUpsPp1) | [Lady Bird \- Soundtrack from the Motion Picture](https://open.spotify.com/album/6uFGiNNxdkOm03Nd3cEHxG) | 3:33 |
 
-Snapshot ID: `MCw5Njc3ZWYwZWJkYTI5YzA3NGU1MzRlOTg5YzAzNzFhYzYyN2U5MDhk`
+Snapshot ID: `MCw5OTNkY2IzZWQ2ZmFhMjIwNjg4MTlhYjZiYWU0NjVkZmVkZjFjOGJi`

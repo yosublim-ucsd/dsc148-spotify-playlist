@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 49 | [Dracula Swing \- Swahn Remix](https://open.spotify.com/track/0I3Ey3ZetTub1C4wVQmeml) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc), [Swahn](https://open.spotify.com/artist/2pkSQjanu8QgmGBLFvqEri) | [Electro Speakeasy Club V1 \(Mixed by Dr Cat\)](https://open.spotify.com/album/6fsetaWYjGBphbPZe7k8aR) | 7:19 |
 | 50 | [Ghoul's Groove](https://open.spotify.com/track/20WrO2vWskNfrmaGxdhUyE) | [Emma Clair](https://open.spotify.com/artist/5sYdOPPYws574wALE9TOFx) | [Ghoul's Groove](https://open.spotify.com/album/5eLTbDLzj4aho99OYDidso) | 3:39 |
 
-Snapshot ID: `MCw1MmI4OTYxNmFhOWE5YzdmNmM3Y2Q0NmNkN2M3NDBiZThlYWExZjJh`
+Snapshot ID: `MCxjNTVmYzE0OWY3MzI4MTkzOThmMTg4YWY3Yzg0ODNiMzIyY2JiYjc5`

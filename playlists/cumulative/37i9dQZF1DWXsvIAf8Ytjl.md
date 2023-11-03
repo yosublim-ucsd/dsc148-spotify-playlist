@@ -4,7 +4,7 @@
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-122 songs - 11 hr 5 min
+123 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Take The Money And Run](https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 2:50 | 2018-12-10 | 2023-03-25 |
 | [Take the Money and Run](https://open.spotify.com/track/6xTmUziCWS4Nwh2hzqLbCS) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/3iqReiy2IaPI2N9sdLywER) | 2:50 | 2018-12-10 | 2022-07-29 |
 | [Take The Money And Run \- Remastered 2017](https://open.spotify.com/track/5vp5Zk837LesO7PsFkCRcF) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Ultimate Hits](https://open.spotify.com/album/0BrWPR65e6OpUPdsMOqTSP) | 2:47 | 2018-12-10 | 2022-11-14 |
-| [Tarkus \- i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus; 2012 Remaster](https://open.spotify.com/track/21lhHDRMO5e7SWCJ0rza0M) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus](https://open.spotify.com/album/3OtFsLLaUZWN6AyeBIzNCj) | 20:43 | 2023-03-23 |  |
+| [Tarkus \- i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus; 2012 Remaster](https://open.spotify.com/track/62d0aGpYF2p8fpvJ1qa32V) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus \(Deluxe\)](https://open.spotify.com/album/6mqJylLfGnLCXhdyMPBCRo) | 20:37 | 2023-03-23 |  |
+| [Tarkus \- i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus; 2012 Remaster](https://open.spotify.com/track/21lhHDRMO5e7SWCJ0rza0M) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus](https://open.spotify.com/album/3OtFsLLaUZWN6AyeBIzNCj) | 20:43 | 2023-03-23 | 2023-11-03 |
 | [Tetragrammaton](https://open.spotify.com/track/28XN8ncs0OBodA23W4ysZg) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Amputechture](https://open.spotify.com/album/5OISte8J6DV61Vad0W0Cv9) | 16:41 | 2023-03-23 |  |
 | [The Life Divine](https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Love Devotion Surrender](https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g) | 9:28 | 2018-12-10 | 2023-03-25 |
 | [The Oh Kee Pa Ceremony \- Live in Brooklyn](https://open.spotify.com/track/174K2TV5eQ2pxtr83emEVL) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Live in Brooklyn](https://open.spotify.com/album/6s1HK0rSOZc4LHMu4JBC0r) | 1:47 | 2018-12-10 | 2023-03-25 |

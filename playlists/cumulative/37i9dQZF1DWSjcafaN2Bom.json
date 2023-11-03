@@ -970,10 +970,28 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 165986,
       "name": "Colours",
       "url": "https://open.spotify.com/track/4Q6jlf64hZpS0fnrl1b10J"
+    },
+    {
+      "album": {
+        "name": "What's Bin Did and What's Bin Hid",
+        "url": "https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "Colours (Single Version)",
+      "url": "https://open.spotify.com/track/5JP6wL89ZQf17N8FxVap9N"
     },
     {
       "album": {

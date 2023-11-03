@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-212 songs - 12 hr 59 min
+213 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Little Right Now](https://open.spotify.com/track/2TB7xUdGMgQb4vdP3TAAyq) | [Charles Esten](https://open.spotify.com/artist/5DOQ7jQ2pnXaiJiIoiEQjz) | [A Little Right Now](https://open.spotify.com/album/76hO8PwW6PSb87RIHRVfpJ) | 3:31 | 2023-04-28 |  |
 | [Ain’t Mad At Jesus](https://open.spotify.com/track/1ZWRFnItc6LzdMrzDg46JV) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Earned It \(Sampler\)](https://open.spotify.com/album/4QdR5tUzrT7SBquAJAJHAb) | 2:43 | 2023-07-28 |  |
 | [All I See](https://open.spotify.com/track/1OIhubEHsc9JJskFkqa1h3) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 2:58 | 2021-12-10 |  |
-| [Almost Home](https://open.spotify.com/track/6FW9MTGMjR5A6q2o7PLuuz) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [I Love It](https://open.spotify.com/album/5cPoNiy9Cwu5Dxd2CUQwVO) | 4:49 | 2021-12-10 |  |
+| [Almost Home](https://open.spotify.com/track/6FW9MTGMjR5A6q2o7PLuuz) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [I Love It](https://open.spotify.com/album/5cPoNiy9Cwu5Dxd2CUQwVO) | 4:49 | 2021-12-10 | 2023-11-03 |
+| [Almost Home \- 2020 \- Remaster](https://open.spotify.com/track/3pMHSCFtuGXDMriewk7xfZ) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [God, Family, Country \(Deluxe Edition\)](https://open.spotify.com/album/1nGxSALyfv0Wq8CWZpIVnZ) | 4:50 | 2023-10-20 |  |
 | [Amazing Grace / My Chains Are Gone](https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Chains Are Gone](https://open.spotify.com/album/3ohEFNgpDUA4xmIfdSCkTN) | 4:26 | 2022-03-25 |  |
 | [Angels Among Us](https://open.spotify.com/track/5AlAhGxcaynbZwjhokML5R) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Angels Among Us: Hymns & Gospel Favorites](https://open.spotify.com/album/0j1LQDaUnYrE1yWP6od783) | 4:51 | 2021-12-10 |  |
 | [Are You Washed in the Blood?](https://open.spotify.com/track/0QB8S1OlJhA8fIWkiiBXsM) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [And Now, Let's Turn to Page…](https://open.spotify.com/album/6F4P5ZIpxK35FkaGe1d1sA) | 3:03 | 2022-01-28 |  |

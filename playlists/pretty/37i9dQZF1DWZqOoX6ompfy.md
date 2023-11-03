@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 
 > Your crush begins here, with the Malaysian pop artist's intimate vocals and the lush production of her most memorable tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,523 likes - 91 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,535 likes - 91 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 | 61 | [Best Love](https://open.spotify.com/track/42ZTvtzDTTwq5J74RaZKUJ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 4:51 |
 | 62 | [Come As You Are](https://open.spotify.com/track/48Egr6zPIlUDMflxQzg4uM) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Come As You Are](https://open.spotify.com/album/111V69LdYDmj8FVteHKMUo) | 4:25 |
 | 63 | [Live Your Life](https://open.spotify.com/track/298GtxeVHZbbotHS1e3vxO) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Yuna](https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg) | 3:13 |
-| 64 | [Gold \(feat\. Yuna\)](https://open.spotify.com/track/3wjen23Xb9H1kU4V50QyiZ) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Calling All Heroes](https://open.spotify.com/album/1gLPm1bWZFHv6ORBbEmQPM) | 4:17 |
+| 64 | [Gold \(feat\. Yuna\)](https://open.spotify.com/track/31cX56mMJcLXaTJljNxsu7) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Calling All Heroes](https://open.spotify.com/album/3Wi7Mwc31hrN7WZCxKM9Ke) | 4:17 |
 | 65 | [Bicara](https://open.spotify.com/track/7twGTbiq9QAlXwrqQR8aHE) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Bicara](https://open.spotify.com/album/6ufoegReK29yTjs90kUycb) | 3:39 |
 | 66 | [Castaway](https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Rouge](https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ) | 4:29 |
 | 67 | [Too Close](https://open.spotify.com/track/6M1VZfBisoKZDCzBIoGpFk) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 4:13 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 | 90 | [Lovely Intermission](https://open.spotify.com/track/22x0bKTXXitdbfuZUdhAAc) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Nocturnal \(Deluxe Edition\)](https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt) | 3:55 |
 | 91 | [Fears And Frustrations](https://open.spotify.com/track/6w9QevT88poB77qNzwy4LN) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Decorate](https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8) | 4:34 |
 
-Snapshot ID: `MCw4NDM3NGRjZTNmMzVmMGQ1OTkyYTBlY2FkM2FlNWU4NzFhOTllZWMz`
+Snapshot ID: `MCwzNjQ1ZTYxMTU1ZjY0MTgyZDlhYWNjODY0ODM5ZWNiMDY2MzZmYmFh`

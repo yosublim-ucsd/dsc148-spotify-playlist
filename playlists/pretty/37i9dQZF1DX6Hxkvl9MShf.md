@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 
 > Melodic house and techno to concentrate the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,265 likes - 91 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,366 likes - 91 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 49 | [Hymn](https://open.spotify.com/track/1v2jFLpXe18CqSMhoCTwzN) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg) | [Hymn EP](https://open.spotify.com/album/7zm4nHUqUFvw1ELqgzUKIc) | 4:01 |
 | 50 | [The Night Drive](https://open.spotify.com/track/5hb2q1B9k3GbH5S5G7St8V) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [The Night Drive](https://open.spotify.com/album/3E5OpinsSZ2ZftAEfNjr7E) | 3:41 |
 | 51 | [Kyoto](https://open.spotify.com/track/0tPk6OPi760BD6C5WtqcqG) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3) | [Rwanda](https://open.spotify.com/album/2EJha1iSDvG06t7tUrkrnV) | 3:15 |
-| 52 | [Home](https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Home](https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR) | 3:41 |
+| 52 | [Home](https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nobody Is Not Loved](https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk) | 3:41 |
 | 53 | [The Two of Us \(We Only Need\)](https://open.spotify.com/track/7mKOhewqU0whbsRHw2vD3t) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [The Two of Us \(We Only Need\)](https://open.spotify.com/album/7hA8pFcuyGgljiYegOCr3b) | 3:57 |
 | 54 | [Yonder](https://open.spotify.com/track/5MIMRwC9I4SP48zoMhAbwh) | [Siebensachen](https://open.spotify.com/artist/1LysQsO6Eq11YuvI300Imv) | [Yonder](https://open.spotify.com/album/7yHZPzZKRtYgTBxNP71Eg1) | 3:34 |
 | 55 | [Melodic Mind](https://open.spotify.com/track/4vRHOvD3C0sESg8srdkunk) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Melodic Mind](https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS) | 5:09 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 90 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
 | 91 | [Discovery](https://open.spotify.com/track/5npj4pyFmLxaV7sl59tZVB) | [Can Yıldızay](https://open.spotify.com/artist/5z9s8EUJoZ0HcoRqNrlFNg) | [Discovery](https://open.spotify.com/album/5jxCiCAEmvRsXosoyQXjok) | 3:46 |
 
-Snapshot ID: `MCwzNzBjNDExNGQ1ZDkyOTQ4MDVjMjJlNzhkNWZmOThkNjIzNWI5MGRm`
+Snapshot ID: `MCw3YmU3OWQ0NThlMTUyMDNhNmVlNjQ0YTMzMzkzY2QzMDFmMTIzZDdm`

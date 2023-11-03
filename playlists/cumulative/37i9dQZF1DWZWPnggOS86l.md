@@ -4,7 +4,7 @@
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-64 songs - 3 hr 42 min
+65 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Olha minha cara](https://open.spotify.com/track/6y1ssXWGsye4VJsSOP50Kt) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/artist/0zpgOZi5pnXnFxanyxowaI) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/album/2O5Q1X14xnEt4AbS2QkbLp) | 3:31 | 2023-03-02 |  |
 | [Piloto Automático](https://open.spotify.com/track/6EmC6JFwF0Aq92ajBPKYiO) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Amianto](https://open.spotify.com/album/1WgexL6crC80Q39HwvkyXK) | 3:17 | 2023-03-02 |  |
 | [Porto Alegre](https://open.spotify.com/track/33Y1jukFR76pj7TXFTHQBJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Revanche](https://open.spotify.com/album/6SH5RNO347OXTrPndPUj52) | 3:47 | 2023-03-02 |  |
-| [Quebre As Correntes](https://open.spotify.com/track/0tu6BHa46Jb0Hah7QzRMBk) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/1nCMa3kC0kbnabvqKdH0aR) | 3:46 | 2023-03-02 |  |
+| [Quebre As Correntes](https://open.spotify.com/track/0tu6BHa46Jb0Hah7QzRMBk) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/1nCMa3kC0kbnabvqKdH0aR) | 3:46 | 2023-03-02 | 2023-11-03 |
+| [Quebre As Correntes](https://open.spotify.com/track/26VzA1ncohB7RMsxpXWaZx) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/3LfBdvxxInsz67JEFGsZnO) | 3:46 | 2023-10-29 |  |
 | [Quente](https://open.spotify.com/track/7ps1PDz7k02LnPNFsyprTo) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Saúde](https://open.spotify.com/album/18qL4P3zNK4SsXE237lFGO) | 2:29 | 2023-03-02 | 2023-10-30 |
 | [Razões E Emoções](https://open.spotify.com/track/3VPWRmLJaUtj8WPFo4LXtg) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Daqui Pra Frente \- NX Zero](https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4) | 3:42 | 2023-03-02 |  |
 | [Razões E Emoções](https://open.spotify.com/track/4w0UUctedmEbrpUtlrHuaN) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Rock Nacional Anos 2000](https://open.spotify.com/album/4f4NWxgVjCP6qkDvUR2BUy) | 3:42 | 2023-03-02 | 2023-09-04 |

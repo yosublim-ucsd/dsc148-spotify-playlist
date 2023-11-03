@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Cruel Santino ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Tim Lyre and Tay Iwar ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -228,6 +228,24 @@
       "duration_ms": 160000,
       "name": "5STAR",
       "url": "https://open.spotify.com/track/2SbUl2NjInfY4DyeEzZS7d"
+    },
+    {
+      "album": {
+        "name": "69",
+        "url": "https://open.spotify.com/album/7bq257wujPnahSmUbeXtVo"
+      },
+      "artists": [
+        {
+          "name": "Bigshyrobot",
+          "url": "https://open.spotify.com/artist/5Gp3ND1rG12SLKytLutUvf"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164634,
+      "name": "69",
+      "url": "https://open.spotify.com/track/3820MsWdZPJqY4BmufkDhF"
     },
     {
       "album": {
@@ -1723,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Calling You Back",
+        "url": "https://open.spotify.com/album/5dGgLwE63kVP2rRtDFAY19"
+      },
+      "artists": [
+        {
+          "name": "Oshunda",
+          "url": "https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136837,
+      "name": "Calling You Back",
+      "url": "https://open.spotify.com/track/0izzhhgkKWFo19OIDPBXdG"
+    },
+    {
+      "album": {
         "name": "Cameras",
         "url": "https://open.spotify.com/album/76Ya6sQaWcLLcrEHNnUNhL"
       },
@@ -2926,7 +2962,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 165000,
       "name": "duct tape",
       "url": "https://open.spotify.com/track/1Dv1UfnB60vW6LahqDQhZW"
@@ -3832,7 +3868,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 174000,
       "name": "Hermione Granger",
       "url": "https://open.spotify.com/track/5BNrXOM7QfIfqzaKCoGpxl"
@@ -4492,7 +4528,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 227555,
       "name": "In The Middle (feat. Odunsi (The Engine) & DEELA)",
       "url": "https://open.spotify.com/track/2nZTc1Exw2mkJuwy8KXqU9"
@@ -7716,7 +7752,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 192008,
       "name": "Running",
       "url": "https://open.spotify.com/track/21MSFhrfJzZOYUnKqNdkQr"
@@ -8895,6 +8931,32 @@
     },
     {
       "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186401,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
+    },
+    {
+      "album": {
         "name": "Symbiosis",
         "url": "https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN"
       },
@@ -9978,6 +10040,28 @@
       "duration_ms": 186000,
       "name": "Who Let Him In",
       "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
+    },
+    {
+      "album": {
+        "name": "Why Evils",
+        "url": "https://open.spotify.com/album/2fVShUxmaAvcMC4sCA1PyV"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240261,
+      "name": "Why Evils",
+      "url": "https://open.spotify.com/track/7poPPZ1XEZfgjYSqjnzi9r"
     },
     {
       "album": {

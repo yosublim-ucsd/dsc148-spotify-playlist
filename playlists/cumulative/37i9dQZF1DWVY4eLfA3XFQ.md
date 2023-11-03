@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Dave Winnel
 
-1,321 songs - 3 day 3 hr 44 min
+1,322 songs - 3 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 | 2022-02-25 | 2022-06-04 |
 | [Don’t Rush](https://open.spotify.com/track/6Jtg27WTAob2oCVsbhhXWx) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [Don’t Rush](https://open.spotify.com/album/0MwJZ4K7Umr8Fcy0SwsI9a) | 4:00 | 2021-11-26 | 2022-01-14 |
 | [Dopamine \(feat\. Eyelar\) \[John Summit Remix\]](https://open.spotify.com/track/0np5Q0HCkLlUU9NVUCbqHv) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Dopamine \(feat\. Eyelar\) \[John Summit Remix\]](https://open.spotify.com/album/6AITsfnOPby1JiJwUD7TBI) | 2:54 | 2021-11-26 | 2022-04-09 |
-| [Dope Eyes](https://open.spotify.com/track/7zfOOd6OJU7CB3PPPBvQIZ) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [TRFN](https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp), [Natassa Tsonis](https://open.spotify.com/artist/6CUwCpmWhoaBWcL1WS647J) | [Dope Eyes](https://open.spotify.com/album/5TqdiAFhhQEQE2ryPmIDDz) | 2:36 | 2023-08-04 |  |
+| [Dope Eyes](https://open.spotify.com/track/7zfOOd6OJU7CB3PPPBvQIZ) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [TRFN](https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp), [Natassa Tsonis](https://open.spotify.com/artist/6CUwCpmWhoaBWcL1WS647J) | [Dope Eyes](https://open.spotify.com/album/5TqdiAFhhQEQE2ryPmIDDz) | 2:36 | 2023-08-04 | 2023-11-03 |
 | [Dream Of You](https://open.spotify.com/track/4Xicxvhcw2yx5wEDjeS1CE) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Maximo](https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG) | [Dream Of You](https://open.spotify.com/album/0nd6FSymivA5n9UCbWK8fO) | 2:50 | 2023-03-31 | 2023-05-11 |
 | [DRENCH](https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [DRENCH](https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H) | 3:17 | 2023-06-02 |  |
 | [Dress Code](https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Dress Code](https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1) | 3:23 | 2023-10-06 |  |
@@ -501,6 +501,7 @@
 | [Hit The Road Jack](https://open.spotify.com/track/7EMvpXEixa7Avso3MWKE33) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Wayne Hernandez](https://open.spotify.com/artist/5k5zlq1nmw9sf4SgJlbpIj) | [Hit The Road Jack](https://open.spotify.com/album/6fC2DcryzcURdUMPUwUsai) | 2:36 | 2021-11-26 | 2022-01-06 |
 | [Hold Me](https://open.spotify.com/track/1vUZJ35SGzEtmlgb0ts81v) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [Hold Me](https://open.spotify.com/album/6qhNsO8v6k0ZYyf1BkbCCj) | 2:48 | 2023-08-11 |  |
 | [Hold Me Close](https://open.spotify.com/track/7u71gydKlcIvWpvmNsfRIP) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Hold Me Close](https://open.spotify.com/album/4z7scWiAsJN335Cttn2AaU) | 3:19 | 2022-11-28 | 2023-03-04 |
+| [Homework](https://open.spotify.com/track/42llopuPT07jtnXsuTuV7u) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [Homework](https://open.spotify.com/album/1i7ZG1ax4aMbJqCjqEAd5N) | 3:34 | 2023-10-27 |  |
 | [Honey](https://open.spotify.com/track/6xMb0wjwc0jaW4jUEBFCJp) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Honey](https://open.spotify.com/album/4GY8ZAs5XRfTkjvcGTkBBH) | 3:39 | 2021-11-26 | 2022-01-06 |
 | [Honey](https://open.spotify.com/track/0Yh8sreGZzPkzshRpWrGTS) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Honey](https://open.spotify.com/album/1rbSmPyDTWkpTdLmEPkkd3) | 3:08 | 2022-07-15 | 2022-09-17 |
 | [Hooked](https://open.spotify.com/track/6Ajg8A72jxTJqzYRkHbpjy) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Josh Hunter](https://open.spotify.com/artist/3DWpDqNBdUvlSfzRk27N4z) | [Hooked](https://open.spotify.com/album/5Sr0z18RfuZuOPwiNC9473) | 2:43 | 2022-09-09 | 2022-10-15 |

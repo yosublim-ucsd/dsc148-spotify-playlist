@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 713744,
+  "num_followers": 713956,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTA0ODc5MzAzNzg3ZDkxZjEzM2JlNTFiZWIyNWNkMWM3N2Q1ZWI2",
+  "snapshot_id": "MCxkZWI3ODM2NmVmZjEwYzc5YWU1OWY2MTkyZGI2NzhmYWZkMTI2ZGIw",
   "tracks": [
     {
       "added_at": "2023-09-24 19:18:19",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "Night People",
-        "url": "https://open.spotify.com/album/48weSvWTs8IQAaUUl3Db8r"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 271306,
-      "name": "Take on the World",
-      "url": "https://open.spotify.com/track/6J0xeqjdpsUH0W1YBCmD1L"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
         "name": "One Hot Minute (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
       },
@@ -735,22 +719,6 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "The Getaway",
-        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "The Longest Wave",
-      "url": "https://open.spotify.com/track/0pjCkLjbgSLn5c0Ilwuv8z"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
         "name": "As You Were (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
       },
@@ -795,6 +763,22 @@
       "duration_ms": 290493,
       "name": "Make It Wit Chu",
       "url": "https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "The Longest Wave",
+      "url": "https://open.spotify.com/track/0pjCkLjbgSLn5c0Ilwuv8z"
     },
     {
       "added_at": "2023-09-24 19:18:19",
@@ -971,6 +955,22 @@
       "duration_ms": 276840,
       "name": "Zoe Jane",
       "url": "https://open.spotify.com/track/6WrOZ59ScdQXE24zcYNyyA"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 299253,
+      "name": "Conversation Piece",
+      "url": "https://open.spotify.com/track/6qV3OEpN6uFCZnzNSslbn1"
     }
   ],
   "unique_name": "Chill Rock",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL?si=LkAQV1CgTF2b0D2-M9hkbg\">Kingdmusic</a> and <a href=\"https://open.spotify.com/artist/7yauy0FdzPmCzc6rbSN0W1?si=Ltv-eIvmQ_u6LWDHliq-ew\">Tondi Rams</a> ",
+  "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh?si=wYKEahwYTTGDCmhxDyByOw\">Benji Kasule</a> ",
   "name": "Testify",
   "tracks": [
     {
@@ -116,6 +116,24 @@
       "duration_ms": 212869,
       "name": "Another Miracle",
       "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
+    },
+    {
+      "album": {
+        "name": "ATTENTION",
+        "url": "https://open.spotify.com/album/6IWyzrY0BPHRyBryHiibgG"
+      },
+      "artists": [
+        {
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/6eW4bViVkUEJtFiLykrOrE"
     },
     {
       "album": {
@@ -439,6 +457,28 @@
     },
     {
       "album": {
+        "name": "Doh Doh Doh",
+        "url": "https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Ife",
+          "url": "https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153780,
+      "name": "Doh Doh Doh",
+      "url": "https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw"
+    },
+    {
+      "album": {
         "name": "Kingdom Come (Live)",
         "url": "https://open.spotify.com/album/0nmXZ2QOghK12EEQv8NNnD"
       },
@@ -450,7 +490,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 431445,
       "name": "Ebenezer - Live",
       "url": "https://open.spotify.com/track/0ssKyRqsf6GmSXtBHObYAP"
@@ -694,7 +734,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 188540,
       "name": "Greatest",
       "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
@@ -1314,7 +1354,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 215876,
       "name": "My Trust Is in You",
       "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
@@ -1870,7 +1910,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 195882,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/1jSHuG8UuSHITdKR8EqtrE"

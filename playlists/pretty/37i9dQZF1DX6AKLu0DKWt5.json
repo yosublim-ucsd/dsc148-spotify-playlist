@@ -1,12 +1,12 @@
 {
   "description": "Music from TV shows and films nominated for the 80th Golden Globe Awards. Watch Jan 10, 2023 on NBC.",
-  "num_followers": 5742,
+  "num_followers": 5741,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTYwMjlkNDNmZGQ1OWQ3MGUyNzViM2Y1MTRjZGU4ZTlhM2M0NzA4",
+  "snapshot_id": "MCw2N2I1YzU5OTkxM2FiMGQxZWQ4Njg1OWNkYzVlODQzOWExODVhNTI2",
   "tracks": [
     {
       "added_at": "2022-12-21 17:45:34",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
-        "name": "ELVIS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Vegas",
-      "url": "https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
         "name": "Wednesday (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 69893,
       "name": "Wednesday Main Titles",
       "url": "https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
+        "name": "ELVIS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ"
     },
     {
       "added_at": "2022-12-21 17:45:34",

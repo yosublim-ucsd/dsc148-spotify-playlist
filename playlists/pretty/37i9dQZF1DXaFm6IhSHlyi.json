@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 142481,
+  "num_followers": 142487,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWRhMDYzNjQ5YjNmNmRkMjk5NTc2ZDRiNTY2Y2ZkZTU3YzFjMWQ5",
+  "snapshot_id": "MCxjMjU3MzVmNjU2ODhhZTU5OTg0YTkzNjYzOTUyNGNjYTc2ZTY3OGIx",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Maula",
+        "url": "https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Maula",
+      "url": "https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 6",
         "url": "https://open.spotify.com/album/7DDssx4nZHYShZUSGEoMom"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/1U0bhf79qQt8ozR25aXMtH"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Maula",
-        "url": "https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Maula",
-      "url": "https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "1000 REASONS",
-        "url": "https://open.spotify.com/album/0tTfIrm3XUuUt7YshqNALo"
-      },
-      "artists": [
-        {
-          "name": "Ril\u00e8s",
-          "url": "https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI"
-        }
-      ],
-      "duration_ms": 218639,
-      "name": "1000 REASONS",
-      "url": "https://open.spotify.com/track/3KHoQ9Cty04ZcRTlQM1YVF"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Hacia Adentro",
         "url": "https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 243680,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "1000 REASONS",
+        "url": "https://open.spotify.com/album/0tTfIrm3XUuUt7YshqNALo"
+      },
+      "artists": [
+        {
+          "name": "Ril\u00e8s",
+          "url": "https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI"
+        }
+      ],
+      "duration_ms": 218639,
+      "name": "1000 REASONS",
+      "url": "https://open.spotify.com/track/3KHoQ9Cty04ZcRTlQM1YVF"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sushi Season (The First)",
-        "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
-      },
-      "artists": [
-        {
-          "name": "Garry Mapanzure",
-          "url": "https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm"
-        }
-      ],
-      "duration_ms": 243504,
-      "name": "Pindirai",
-      "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "From Midnight To Sunrise",
         "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 264666,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sushi Season (The First)",
+        "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
+      },
+      "artists": [
+        {
+          "name": "Garry Mapanzure",
+          "url": "https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm"
+        }
+      ],
+      "duration_ms": 243504,
+      "name": "Pindirai",
+      "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Media Tinta",
-        "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ellar",
-          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Media Tinta",
-      "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
@@ -1855,18 +1839,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Bitter Pill",
-        "url": "https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0"
+        "name": "Media Tinta",
+        "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
         }
       ],
-      "duration_ms": 176653,
-      "name": "The Book Of Love",
-      "url": "https://open.spotify.com/track/40gxMiWbTEZUa6c2bGlBJz"
+      "duration_ms": 234340,
+      "name": "Media Tinta",
+      "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1883,6 +1867,22 @@
       "duration_ms": 212476,
       "name": "Ll Abad",
       "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Bitter Pill",
+        "url": "https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "The Book Of Love",
+      "url": "https://open.spotify.com/track/40gxMiWbTEZUa6c2bGlBJz"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ohebbou Yadayka",
-        "url": "https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly"
-      },
-      "artists": [
-        {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
-        }
-      ],
-      "duration_ms": 226575,
-      "name": "Ohebbou Yadayka",
-      "url": "https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Love song",
         "url": "https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 230213,
       "name": "Tender love",
       "url": "https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Ohebbou Yadayka",
+        "url": "https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly"
+      },
+      "artists": [
+        {
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
+        }
+      ],
+      "duration_ms": 226575,
+      "name": "Ohebbou Yadayka",
+      "url": "https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sorry (Live)",
-        "url": "https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 204052,
-      "name": "Sorry - Live",
-      "url": "https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Vanha (feat. BEHM)",
         "url": "https://open.spotify.com/album/6cjvE8s8S7B11IvfjQNZhA"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 239946,
       "name": "Right There",
       "url": "https://open.spotify.com/track/1LJlfMCNcVuIRTUJY3BmTX"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sorry (Live)",
+        "url": "https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 204052,
+      "name": "Sorry - Live",
+      "url": "https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2167,18 +2167,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.11",
-        "url": "https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB"
+        "name": "DOCUMENTARY",
+        "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
       },
       "artists": [
         {
-          "name": "\uc801\uc7ac",
-          "url": "https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd"
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
         }
       ],
-      "duration_ms": 307500,
-      "name": "\uc0ac\ub791\uc758\uc778\uc0ac",
-      "url": "https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy"
+      "duration_ms": 249545,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2203,34 +2203,34 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "DOCUMENTARY",
-        "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.11",
+        "url": "https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB"
       },
       "artists": [
         {
-          "name": "RUNG HYANG",
-          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
+          "name": "\uc801\uc7ac",
+          "url": "https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd"
         }
       ],
-      "duration_ms": 249545,
-      "name": "Trapped",
-      "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
+      "duration_ms": 307500,
+      "name": "\uc0ac\ub791\uc758\uc778\uc0ac",
+      "url": "https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
+        "name": "I mecht nur wissn wo du bist (I.U.E.)",
+        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
       },
       "artists": [
         {
-          "name": "Bigman",
-          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
+          "name": "Popwal",
+          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
         }
       ],
-      "duration_ms": 218501,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
+      "duration_ms": 207920,
+      "name": "I mecht nur wissn wo du bist - I.U.E.",
+      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2259,18 +2259,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "I mecht nur wissn wo du bist (I.U.E.)",
-        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
       },
       "artists": [
         {
-          "name": "Popwal",
-          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
+          "name": "Bigman",
+          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
         }
       ],
-      "duration_ms": 207920,
-      "name": "I mecht nur wissn wo du bist - I.U.E.",
-      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
+      "duration_ms": 218501,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3"
-      },
-      "artists": [
-        {
-          "name": "Adam Hender",
-          "url": "https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB"
-        }
-      ],
-      "duration_ms": 239803,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Tum Jaisi Ho",
         "url": "https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 145301,
       "name": "Tum Jaisi Ho",
       "url": "https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3"
+      },
+      "artists": [
+        {
+          "name": "Adam Hender",
+          "url": "https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB"
+        }
+      ],
+      "duration_ms": 239803,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR"
     },
     {
       "added_at": "2022-10-17 15:00:00",

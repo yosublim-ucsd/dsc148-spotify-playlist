@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 159773,
       "name": "It's Beginning to Look A Lot Like Christmas",
       "url": "https://open.spotify.com/track/69Xw4dg0nQuJn2gkQRquRw"
@@ -1396,6 +1396,24 @@
       "duration_ms": 167613,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/7vbsmCFfNtHU0gEkBkxyRM"
+    },
+    {
+      "album": {
+        "name": "Happy Holiday/It's The Holiday Season",
+        "url": "https://open.spotify.com/album/5sR657t0qQVtcqfg9srqHS"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159773,
+      "name": "It\u2019s Beginning to Look A Lot Like Christmas",
+      "url": "https://open.spotify.com/track/7vi7a3Ra5h2H8rLqNOU3ux"
     },
     {
       "album": {

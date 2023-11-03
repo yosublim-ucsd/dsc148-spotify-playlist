@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,470 likes - 55 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,490 likes - 55 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 |
 | 2 | [Sabato Italiano](https://open.spotify.com/track/6yOSX613mf0t3b6kTiYSIO) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR) | [Sabato italiano](https://open.spotify.com/album/7jgBsFqhHEmuDumoqcOZiD) | 4:33 |
-| 3 | [Love the Way You Love Me](https://open.spotify.com/track/4pZQtqA3P3e1gjgwPOHDUC) | [Marti Caine](https://open.spotify.com/artist/2Asz2q8VeIAWDPvntbntpH) | [Point of View](https://open.spotify.com/album/2sd11k9VyIGNlHiTK2f9nD) | 5:38 |
+| 3 | [Love the Way You Love Me](https://open.spotify.com/track/20pLtbIDmrm5W4bBTLGM7V) | [Marti Caine](https://open.spotify.com/artist/2Asz2q8VeIAWDPvntbntpH) | [Point of View](https://open.spotify.com/album/5GATr8v7oA1JKjBQTG7iy9) | 5:38 |
 | 4 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 |
 | 5 | [Lay me down](https://open.spotify.com/track/6eg9DYfZBvIC7mFFG8bFWm) | [Renee](https://open.spotify.com/artist/340HmOr2JbZmH0a385jG52) | [Reaching for the sky](https://open.spotify.com/album/2581zQajuI7xJaQlRZO18y) | 3:53 |
 | 6 | [Rebelde Silueta](https://open.spotify.com/track/5apFmj9frwrTV1BvclAfZM) | [Nsue](https://open.spotify.com/artist/3mP60wj7zbSsAnI26egtol) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/6hF1xbglHjBHYkv2FMtyiq) | 4:30 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 54 | [Il vecchiaccio](https://open.spotify.com/track/539NGs2uOS6xu8JMuemKO1) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le mie canzoni](https://open.spotify.com/album/5JJca3CzOPDWOamyhtH1At) | 3:44 |
 | 55 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
 
-Snapshot ID: `MCw4YjkwMDYxOGE3OTA2ZjViOTc2ZTdkY2VlOTBiM2U1ODU4YTUzOTcy`
+Snapshot ID: `MCwxZDJiZTlkYjg1OGM3ODc5YzllMzkyM2U2MjI1MWQ3ZDNmYzlmMmI5`

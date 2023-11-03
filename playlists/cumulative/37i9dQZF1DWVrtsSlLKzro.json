@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 192160,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/3MhzrKptQyWZCIQC4yZNu3"
@@ -1286,6 +1286,24 @@
       "duration_ms": 192160,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/4pQcd3hi4TLoebQ4BeFBWa"
+    },
+    {
+      "album": {
+        "name": "Chemicals (Benson Remix)",
+        "url": "https://open.spotify.com/album/6zU0WjdigeQDnZ6PNwRDFf"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192160,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/6bq3ttgzPWNxAQvvOFGbtK"
     },
     {
       "album": {

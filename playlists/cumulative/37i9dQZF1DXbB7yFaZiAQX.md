@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-436 songs - 1 day 6 hr 51 min
+437 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Birth, School, Work, Death](https://open.spotify.com/track/4WEPWs9LmYPEaUCQlSzZC3) | [The Godfathers](https://open.spotify.com/artist/3Gf6z7kuVRjZ2e3W2cxoXN) | [The Best Of The Godfathers: Birth, School, Work, Death](https://open.spotify.com/album/4hNZUy62L127UHNk2lTuy5) | 4:08 | 2018-12-12 | 2022-07-29 |
 | [Birth, School, Work, Death](https://open.spotify.com/track/7lWvECULXPh7RoAT1fmgo3) | [The Godfathers](https://open.spotify.com/artist/3Gf6z7kuVRjZ2e3W2cxoXN) | [Birth, School, Work, Death \(Expanded Edition\)](https://open.spotify.com/album/5kFedIxAmxXyX0CNxjw8wl) | 4:08 | 2018-12-12 | 2022-11-13 |
 | [Birthday](https://open.spotify.com/track/5zpRUKG7MSRZvNjr25vJsl) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/1at2GIPfbUeGwewAUQr4lw) | 3:58 | 2018-12-12 | 2022-07-29 |
-| [Birthday](https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp) | 3:59 | 2018-12-12 | 2023-10-23 |
+| [Birthday](https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp) | 3:59 | 2018-12-12 |  |
 | [Blasphemous Rumours](https://open.spotify.com/track/7oQX82XgUBDhSbpMSksG12) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(Deluxe\)](https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A) | 6:21 | 2022-05-27 | 2022-07-29 |
 | [Blasphemous Rumours \- 2006 Remaster](https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 6:21 | 2022-05-27 |  |
 | [Blister In The Sun](https://open.spotify.com/track/4PXH3g9qGgMqDlC52dJw07) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes: Deluxe Edition](https://open.spotify.com/album/645pkwf8FAE9eYY2vx7TiO) | 2:24 | 2018-12-12 | 2022-07-29 |
@@ -319,13 +319,14 @@
 | [Seven Seas](https://open.spotify.com/track/2L7FTi2Fopo0ZJX0MkUXKS) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 3:19 | 2018-12-12 | 2022-07-29 |
 | [Sex Beat](https://open.spotify.com/track/41Z86N3KhVdJWLa3qkNTH6) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 2:47 | 2018-12-12 | 2022-04-21 |
 | [Sex Beat \- Remastered 2020](https://open.spotify.com/track/4dQAbNxIxeySyXcNCMRsnS) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love \(Remastered 2020\)](https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu) | 2:48 | 2018-12-12 | 2022-11-13 |
-| [She Blinded Me With Science](https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age Of Wireless](https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4) | 3:41 | 2018-12-12 |  |
+| [She Blinded Me With Science](https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age Of Wireless](https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4) | 3:41 | 2018-12-12 | 2023-11-03 |
+| [She Blinded Me With Science \- 2009 Remastered Version](https://open.spotify.com/track/6y9VZNRczyKeQihebHSMJ8) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age Of Wireless](https://open.spotify.com/album/6B0ZeHngr24VJ1MABDW2Yz) | 3:42 | 2023-05-03 |  |
 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 | 2018-12-12 |  |
 | [She Sells Sanctuary](https://open.spotify.com/track/4vnLdmUdkOworoveEzpEST) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Pure Cult](https://open.spotify.com/album/279o49AIcWuS6kIqVozTGL) | 4:12 | 2018-12-12 | 2022-07-29 |
 | [She's In Parties](https://open.spotify.com/track/1JhORTF6h6N2lpb3lLWeqv) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Bauhaus \- 1979\-1983 Volume Two](https://open.spotify.com/album/12U3k2UeDnmqE4id0G7uOb) | 3:51 | 2018-12-12 | 2022-04-16 |
 | [Shine on](https://open.spotify.com/track/3vcDExbvA3Nw3exPXdRyHv) | [The House of Love](https://open.spotify.com/artist/4tfyTbsNNN5xfxKDwG4VfP) | [The House Of Love](https://open.spotify.com/album/4O57vEvJFzblkuOn6HyQm7) | 3:20 | 2020-12-30 | 2022-04-21 |
 | [Ship Of Fools](https://open.spotify.com/track/0Erj1PZkxzuxNVzm0Xd7w3) | [World Party](https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE) | [Private Revolution](https://open.spotify.com/album/1gxrc03VusPmMDar7sdZ6N) | 4:29 | 2019-08-02 | 2022-07-29 |
-| [Ship of Fools](https://open.spotify.com/track/3ndKgw7LvKO7zIk1rgOQJ2) | [World Party](https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE), [Anthony Thistlethwaite](https://open.spotify.com/artist/1Dg0yaGc5vawe984BMXIIh) | [Private Revolution](https://open.spotify.com/album/6NbdjT5mdw0oTZDiEZOgey) | 4:28 | 2019-08-02 |  |
+| [Ship of Fools](https://open.spotify.com/track/3ndKgw7LvKO7zIk1rgOQJ2) | [World Party](https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE), [Anthony Thistlethwaite](https://open.spotify.com/artist/1Dg0yaGc5vawe984BMXIIh) | [Private Revolution](https://open.spotify.com/album/6NbdjT5mdw0oTZDiEZOgey) | 4:28 | 2019-08-02 | 2023-11-03 |
 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 | 2018-12-12 |  |
 | [Situation \- 2008 Remastered Version](https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [In Your Room](https://open.spotify.com/album/5YlCHiZn44igfoWNFjP48v) | 2:24 | 2018-12-12 |  |
 | [Skin Deep](https://open.spotify.com/track/1QeEpsDDPWTu3pKOLro0La) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Aural Sculpture](https://open.spotify.com/album/1MruYes9jkQuAoX4NezhUt) | 3:53 | 2019-08-02 |  |

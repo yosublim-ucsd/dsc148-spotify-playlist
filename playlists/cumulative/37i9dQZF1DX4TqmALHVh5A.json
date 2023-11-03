@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Magenta Club",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : MDNS",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 160905,
       "name": "200 km/h",
       "url": "https://open.spotify.com/track/17UYpnAQnpJLBJCeg8YFUX"
+    },
+    {
+      "album": {
+        "name": "Allo docteur",
+        "url": "https://open.spotify.com/album/3vGD4O0bt9YgtLZQ1R6JBk"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164534,
+      "name": "Allo docteur",
+      "url": "https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn"
     },
     {
       "album": {
@@ -326,7 +344,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 154322,
       "name": "Du Faux",
       "url": "https://open.spotify.com/track/5YA0jwcbbjL0bS4upsd5Kq"
@@ -344,7 +362,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 131574,
       "name": "d\u00e9nud\u00e9e",
       "url": "https://open.spotify.com/track/4dJo55UsW4gWpKkkRvRTy1"
@@ -366,6 +384,42 @@
       "duration_ms": 181840,
       "name": "D\u00e9sol\u00e9, mon c\u0153ur",
       "url": "https://open.spotify.com/track/2E2sgLXYIFUAEtBtgv0KMT"
+    },
+    {
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/2vVTXNxUtGmHacca457lb7"
+      },
+      "artists": [
+        {
+          "name": "Shaga",
+          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182996,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/4unYRu63NeZhNtGo58BCCU"
+    },
+    {
+      "album": {
+        "name": "Fl\u00e8che Argent\u00e9e",
+        "url": "https://open.spotify.com/album/5RpOAd4JdkkG0cLP5DTJcz"
+      },
+      "artists": [
+        {
+          "name": "Order89",
+          "url": "https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "Fl\u00e8che Argent\u00e9e",
+      "url": "https://open.spotify.com/track/56F782Sp56OhuQT9yREuvz"
     },
     {
       "album": {
@@ -402,6 +456,24 @@
       "duration_ms": 201346,
       "name": "Idiot du quartier de lune",
       "url": "https://open.spotify.com/track/2rD3JBQh4lkVj0qvSbZzw0"
+    },
+    {
+      "album": {
+        "name": "Ikea Boy",
+        "url": "https://open.spotify.com/album/5L2BWyQDdBO1GPERRBjqrU"
+      },
+      "artists": [
+        {
+          "name": "Hoorsees",
+          "url": "https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209440,
+      "name": "Ikea Boy",
+      "url": "https://open.spotify.com/track/64NFlmUuFlT9HPhshsvQk3"
     },
     {
       "album": {
@@ -474,7 +546,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 177146,
       "name": "Je cours",
       "url": "https://open.spotify.com/track/51Gt7yGGiV4wEH9C8YgwBd"
@@ -690,7 +762,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 162630,
       "name": "madame",
       "url": "https://open.spotify.com/track/11mG8zAlXntqPSo3um9kZX"
@@ -733,6 +805,24 @@
     },
     {
       "album": {
+        "name": "M\u00c9TA DEUIL",
+        "url": "https://open.spotify.com/album/56HYXJHwbjFKk62U9CIZCv"
+      },
+      "artists": [
+        {
+          "name": "Joanna",
+          "url": "https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174040,
+      "name": "M\u00c9TA DEUIL",
+      "url": "https://open.spotify.com/track/0NyCKpKgai5U3iU5MazIld"
+    },
+    {
+      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/6MTwKUXoJ0zWO8H8bshzqy"
       },
@@ -744,7 +834,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 194626,
       "name": "New World",
       "url": "https://open.spotify.com/track/4j9XjA7cYOeX9KFKNk3WUz"
@@ -784,6 +874,24 @@
       "duration_ms": 253333,
       "name": "On Fait du Rock",
       "url": "https://open.spotify.com/track/3Y6MKj7jBrXqPve2DyoWqO"
+    },
+    {
+      "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/03BSJyijRZPzlCiPbTcHFC"
+      },
+      "artists": [
+        {
+          "name": "Talisco",
+          "url": "https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124840,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/6JlZNJP7EKJIxXPaeDQcrz"
     },
     {
       "album": {
@@ -996,7 +1104,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 161375,
       "name": "Serie A",
       "url": "https://open.spotify.com/track/0D3MTS7Ea2EgXy6O9Horqc"
@@ -1108,7 +1216,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 181400,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/4yeQykjmOJeVxxfEoyPfiA"
@@ -1130,6 +1238,24 @@
       "duration_ms": 158160,
       "name": "Tes mains sales",
       "url": "https://open.spotify.com/track/0SlqPsiEli9P0SolyyaeIu"
+    },
+    {
+      "album": {
+        "name": "The 360 Holes Bird",
+        "url": "https://open.spotify.com/album/3AKYrcj3lRLL5B6EUuJAkL"
+      },
+      "artists": [
+        {
+          "name": "BLVL",
+          "url": "https://open.spotify.com/artist/35ky25MGfnUDQehlu1hzdS"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "The 360 Holes Bird",
+      "url": "https://open.spotify.com/track/1HXda7QPN7Ku4HgHfSc1Qp"
     },
     {
       "album": {

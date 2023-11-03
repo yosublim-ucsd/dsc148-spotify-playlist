@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Taylor Swift, Majid Jordan, Rema, Tenille Arts and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,401 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,448 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Bloodsucker](https://open.spotify.com/track/3Vjz4qxSB8k2UGjJPR6JGd) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Bloodsucker](https://open.spotify.com/album/59boJCTqevkvToAoVm9c9y) | 2:37 |
 | 100 | [Theme From Trans\-Canada Highwaymen](https://open.spotify.com/track/25IwzanyJrr5guSjYWSGdT) | [Trans\-Canada Highwaymen](https://open.spotify.com/artist/5Aq588mj6kj9ua5OaYQrOT), [Steven Page](https://open.spotify.com/artist/160fRY4TZO7VQmKFQWNBV4), [Craig Northey](https://open.spotify.com/artist/32leSbSq6jJw5lBugt7m0m) | [Explosive Hits Vol\. 1](https://open.spotify.com/album/1wmyef6qrMMuve7um1dIer) | 3:33 |
 
-Snapshot ID: `MCw1MTUxYTAwODk5ZWMwNmM3MTE1ZWNmNzA0MGJjYzI1YTUxOTQ0MWNi`
+Snapshot ID: `MCwzZDYyZDk4OWNmY2IyZWY4YzEwOTU1YTlmN2JkYWFmMGY5YzIyN2U5`

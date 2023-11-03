@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative
 
-113 songs - 5 hr 40 min
+114 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Levels](https://open.spotify.com/track/0TalH2EQxBFEOJGNMk8Edm) | [Jimmy Nevis](https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3), [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE), [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [Things We Don't Talk About](https://open.spotify.com/album/6b10CoMCksM7uJYa4zOykU) | 3:49 | 2023-03-30 | 2023-04-22 |
 | [Lie/Idle](https://open.spotify.com/track/3RkdAeulXA3SWvX4yXwMrg) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Lie/Idle](https://open.spotify.com/album/691wG47mH7bj6zFtNe9qjS) | 2:00 | 2023-03-30 | 2023-04-28 |
 | [Like I Care](https://open.spotify.com/track/4fUA7JD3WhESXoX5XxIbz0) | [April Maey](https://open.spotify.com/artist/0CyVkXQydhAi8gPILbXb99) | [Like I Care](https://open.spotify.com/album/5z4KzauUZ5zVQzOV0KsiZO) | 3:09 | 2023-07-31 | 2023-09-22 |
-| [Like the Clouds](https://open.spotify.com/track/4LUQ2UIIxSgq9tTcqu7q9e) | [Tai Murape](https://open.spotify.com/artist/0qCwWQGWUw3YyYPjaFCltG) | [Like the Clouds](https://open.spotify.com/album/17kpu9XPvVthKOTH8eunCt) | 5:52 | 2023-06-08 |  |
+| [Like the Clouds](https://open.spotify.com/track/4LUQ2UIIxSgq9tTcqu7q9e) | [Tai Murape](https://open.spotify.com/artist/0qCwWQGWUw3YyYPjaFCltG) | [Like the Clouds](https://open.spotify.com/album/17kpu9XPvVthKOTH8eunCt) | 5:52 | 2023-06-08 | 2023-11-03 |
 | [Local Celebrity Freestyle](https://open.spotify.com/track/0I2LREO8Z4vGRyrwDKUqNA) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Local Celebrity Freestyle](https://open.spotify.com/album/53QY4bP99xuye3uEJpzVoc) | 1:15 | 2023-07-07 |  |
 | [Long Live Anna](https://open.spotify.com/track/18Dtevm8jUe1VWfT5FmmJa) | [Gabila](https://open.spotify.com/artist/6N55yMrcfCYw8d7D4f86EE) | [XXXPRESSIONS](https://open.spotify.com/album/2C2bgq7t8LGIBvodQxRGC0) | 1:37 | 2023-03-30 | 2023-07-08 |
 | [Love Me or Die](https://open.spotify.com/track/2cBHL4166AAaVN57hXlOkc) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Love Me or Die](https://open.spotify.com/album/1qfrOp11Qy09gcyBDS1o5w) | 3:39 | 2023-06-22 |  |
@@ -71,6 +71,7 @@
 | [Mixed Feelings\(Sped Up\)](https://open.spotify.com/track/5n9rG2h1q6jTRPVNlbDP4j) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Mixed Feelings\(Sped Up\)](https://open.spotify.com/album/7H2ysjNHkcYNC8qcM06IIO) | 2:22 | 2023-06-08 | 2023-07-08 |
 | [MOVE ALONG](https://open.spotify.com/track/61VXr1QvI8NeETilAJst3O) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [SKTLLZ](https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5) | [MOVE ALONG](https://open.spotify.com/album/4ylBPHCeJ9aOCqe0cc2tqx) | 2:59 | 2023-06-26 |  |
 | [my intentions](https://open.spotify.com/track/6xLC342gJAbWQYG3Td23cn) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [my Intentions](https://open.spotify.com/album/3HKtKW3F060uEkTCxWnU8E) | 3:06 | 2023-03-30 | 2023-06-09 |
+| [no more love](https://open.spotify.com/track/00bjwboO8r7vRXULyP2Eni) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [no more love](https://open.spotify.com/album/3AyyNEwDeL3yEcvWFdPtOV) | 2:53 | 2023-11-03 |  |
 | [No Place Like Home](https://open.spotify.com/track/1HDAvSg4nARVkl5inW779y) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [No Place Like Home](https://open.spotify.com/album/7xH7wIl5e2rsPGgDP1Nio9) | 2:43 | 2023-05-11 | 2023-07-08 |
 | [Not My Own](https://open.spotify.com/track/4LJCnfBCGR7k1cWMbZ6OxQ) | [ro](https://open.spotify.com/artist/1m4s5VPSqT6GcF5fm9qKXB), [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Not My Own](https://open.spotify.com/album/2MnS88RNdCYeYP12wnxp2D) | 2:16 | 2023-03-30 |  |
 | [Nu Riddim](https://open.spotify.com/track/3KW6KJKinwAszaajAHOSQF) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Love Drunk](https://open.spotify.com/album/5d0oU10qoxpnSpa4PCaKXo) | 3:09 | 2023-03-30 | 2023-05-12 |

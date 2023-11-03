@@ -2176,6 +2176,32 @@
     {
       "album": {
         "name": "Let's Talk About It (Mixes)",
+        "url": "https://open.spotify.com/album/3V3cc7BR3WOGRF1OrCV5sa"
+      },
+      "artists": [
+        {
+          "name": "Darci",
+          "url": "https://open.spotify.com/artist/2pv2BP3lz062km3ZCGubhe"
+        },
+        {
+          "name": "Glenn Friscia",
+          "url": "https://open.spotify.com/artist/2ly9qGyXDBdgpWVvT3Fhrc"
+        },
+        {
+          "name": "George Morel",
+          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240288,
+      "name": "Let's Talk About It (Friscia & Morel Radio Edit)",
+      "url": "https://open.spotify.com/track/3bVB5KSrrO37wOV0pfdO2b"
+    },
+    {
+      "album": {
+        "name": "Let's Talk About It (Mixes)",
         "url": "https://open.spotify.com/album/083MwabOmFftpTP5OFGezy"
       },
       "artists": [
@@ -2194,7 +2220,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 240288,
       "name": "Let's Talk About It - Friscia & Morel Radio Edit",
       "url": "https://open.spotify.com/track/0vDJ56mYYccvUO1PSWYycn"
@@ -2764,10 +2790,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 237360,
       "name": "Never",
       "url": "https://open.spotify.com/track/5ei2k7wVWl9mC4m868DGpg"
+    },
+    {
+      "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/6HTxM9f12e8sUCZy5fBivj"
+      },
+      "artists": [
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237360,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/73nTogU6ZaETCgRFTuTx0c"
     },
     {
       "album": {

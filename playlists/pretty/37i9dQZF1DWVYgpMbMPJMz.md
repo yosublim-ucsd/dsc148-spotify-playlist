@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:1bdnGJxkbIIys5Jhk1T74v">Brandon Lake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,657 likes - 100 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,784 likes - 100 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 20 | [No Turning Back](https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [The Narrow Way](https://open.spotify.com/album/5dnEn1RrHFx1tjG6ARSdw0) | 6:30 |
 | 21 | [Surrounded By Holy \- Live](https://open.spotify.com/track/0PmGvuvTmEw4mkL6URYfDc) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Surrounded By Holy](https://open.spotify.com/album/1PPHCkGg32qpdCB8UryA2p) | 7:35 |
 | 22 | [Scandal Of Grace \- Live At Red Rocks](https://open.spotify.com/track/2Xa7XYHeb62XLMRJShKr2L) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Zion \(X\)](https://open.spotify.com/album/5cuXbASACaEmO4TmrKn5yV) | 4:16 |
-| 23 | [Your Love Will Never Change \- Live](https://open.spotify.com/track/6jbqxumh7V2O5AoT0Qd0ny) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Your Love Will Never Change \(Live\)](https://open.spotify.com/album/1ClXRS95oKTIZU2EuuFk7M) | 5:04 |
+| 23 | [Your Love Will Never Change \- Live at Mosaic, Los Angeles, 2023](https://open.spotify.com/track/6jbqxumh7V2O5AoT0Qd0ny) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Your Love Will Never Change \(Live at Mosaic, Los Angeles, 2023\)](https://open.spotify.com/album/1ClXRS95oKTIZU2EuuFk7M) | 5:04 |
 | 24 | [Thunder In The Desert](https://open.spotify.com/track/0PF8skP2y14i17rJSMn2Um) | [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed) | [TIME](https://open.spotify.com/album/5TxwC6fgOVmp5oce0KoUT5) | 5:10 |
 | 25 | [Christ Be In My Heart](https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH) | [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Christ Be In My Heart](https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L) | 4:48 |
 | 26 | [Wind and Waves \- Live](https://open.spotify.com/track/55eZmwsHhxdBiv9Z8CVRY5) | [VIVE Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [Here For It](https://open.spotify.com/album/09RjBOAUSdKzernJEEqxGy) | 8:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [To Be Loved](https://open.spotify.com/track/4hCyhlDZteeEkLzllLq9ur) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [This Is My Local](https://open.spotify.com/album/6mwSaLjGyeZ8FQUXOpW590) | 4:39 |
 | 100 | [Light a Fire](https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Light a Fire](https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8) | 4:54 |
 
-Snapshot ID: `MCw1YWNhYTdhMWI2ZGNmMjBmODk4MzU4OGExZDQ2ZjMyYTVmOTBhNjNh`
+Snapshot ID: `MCwxNDIwMjcyMzk2YzIzOGNmYTlkZjYyMDE1MTEwMzE5NjRmNDc5MmM2`

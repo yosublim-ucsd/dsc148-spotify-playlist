@@ -1,12 +1,12 @@
 {
   "description": "This week's essential new pop tracks. Cover: Alec Benjamin",
-  "num_followers": 68859,
+  "num_followers": 68911,
   "original_name": "New Pop Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTQ3YWU0YzI2OGJlMzY5NTMxNmRmYmMxZGU4NDFlZmNlYzE2ZGY4",
+  "snapshot_id": "MCw5MzIyNjQ5N2MwNjk0MjU2YjhiYjI3YjhiZTA3YjY3NzNmOGJjODg2",
   "tracks": [
     {
       "added_at": "2023-10-27 19:47:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-10-27 19:47:00",
       "album": {
+        "name": "grown up and lonely",
+        "url": "https://open.spotify.com/album/2xVOOfw2CwcLIhE06LqyIA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Bickett",
+          "url": "https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "you're not a bad person",
+      "url": "https://open.spotify.com/track/4ebE2i0CeVuKlOFtiCoKMA"
+    },
+    {
+      "added_at": "2023-10-27 19:47:00",
+      "album": {
         "name": "BUMMED",
         "url": "https://open.spotify.com/album/77VTU9eeqsPWRoAFVvnt8y"
       },
@@ -1195,6 +1211,22 @@
       "duration_ms": 190119,
       "name": "Cleveland",
       "url": "https://open.spotify.com/track/6ulsl4FHrnizQRUi4ra6yY"
+    },
+    {
+      "added_at": "2023-10-27 19:47:00",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/3iF8qGkmv3GeukyG2Gp23k"
+      },
+      "artists": [
+        {
+          "name": "Metteson",
+          "url": "https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD"
+        }
+      ],
+      "duration_ms": 216477,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6WBaB2VtZME06Wy2DmRpSa"
     },
     {
       "added_at": "2023-10-27 19:47:00",

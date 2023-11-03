@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-95 songs - 1 day 3 hr 18 min
+95 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,8 @@
 | [Mool Mantra](https://open.spotify.com/track/79n8AuJG3hP5DFCQTiB78h) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra \- Single](https://open.spotify.com/album/4Fdr2MRs9AJNLBittLnyYW) | 7:45 | 2022-01-24 |  |
 | [Nam Myoho Renge Kyo](https://open.spotify.com/track/4fnEEnBiPcGCthLPKx88d4) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Nam Myoho Renge Kyo](https://open.spotify.com/album/4GMcOTrXp9q7HlE0BRJ6oP) | 15:24 | 2023-05-23 |  |
 | [Nam Myoho Renge Kyo Mantra \(Devotion to the Mystic Law\)](https://open.spotify.com/track/4exQWqZNQ4aQzasBj3Dir9) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF), [Miten](https://open.spotify.com/artist/4jrXM6oLQfV9L458Luwc3P), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Mantras for Life](https://open.spotify.com/album/74COwDRGbAiTH04LbYsYUP) | 4:11 | 2022-01-24 | 2023-09-15 |
-| [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/track/2UozhIAXupkXrfpnOSG8zT) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/album/04ncbuy6fvxvXV3TByqsbg) | 17:38 | 2023-10-26 | 2023-10-31 |
-| [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb) | 34:22 | 2023-10-26 |  |
+| [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/track/2UozhIAXupkXrfpnOSG8zT) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/album/04ncbuy6fvxvXV3TByqsbg) | 34:22 | 2023-10-26 |  |
+| [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb) | 34:22 | 2023-10-26 | 2023-11-03 |
 | [Navkar Mantra](https://open.spotify.com/track/07AfFQCy6XRavj2i9JLijB) | [Geetu Unplugged](https://open.spotify.com/artist/1YlyMSSdwqA3t3goVRqoHK) | [Navkar Mantra](https://open.spotify.com/album/5SxS1qHZUBNPN2rVVAeErq) | 3:30 | 2022-01-24 | 2023-10-24 |
 | [OM \- 108 Times](https://open.spotify.com/track/1t5yedcqt2kacFRM8uXMwP) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/13IRm41CPRStJifiLLyIw1) | 31:12 | 2022-01-24 |  |
 | [OM \- 108 Times](https://open.spotify.com/track/2KHcNmJUnVFXSX63rrD4st) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/5nQV0wq77XlLeRHXCregdk) | 31:12 | 2022-01-24 | 2022-07-29 |

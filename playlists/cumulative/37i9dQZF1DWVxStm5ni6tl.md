@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Canada](https://open.spotify.com/playlist/37i9dQZF1DWVxStm5ni6tl)
 
-> Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: BEBEBOY, Artwork by: Isu Kim
+> Fresh Finds will return next Wednesday! Cover: BEBEBOY, Artwork by: Isu Kim
 
 436 songs - 22 hr 15 min
 

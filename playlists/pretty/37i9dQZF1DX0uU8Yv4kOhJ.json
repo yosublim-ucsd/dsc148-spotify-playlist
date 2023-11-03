@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 126311,
+  "num_followers": 126335,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTE4ZTJkNWVlMzNjMGMyOTNiNGZhZDljNzQ3Y2ZiNGEzYWYxMzA5",
+  "snapshot_id": "MCw4ZDlmMjVmZDAxZjcxMzFiODk4ZjJlZjcxZTNlYzdmZWUyODQzZjg1",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Charango Peruano",
+        "url": "https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx"
+      },
+      "artists": [
+        {
+          "name": "Jaime Guardia",
+          "url": "https://open.spotify.com/artist/3AxPEg0Jy5U5GvgEHsI43X"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Munaspaqa Suyaykuway",
+      "url": "https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "T\u00fa Me Llevas",
         "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
       },
@@ -391,22 +407,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc"
       },
@@ -419,6 +419,22 @@
       "duration_ms": 313240,
       "name": "La Cazadora",
       "url": "https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -475,22 +491,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Charango Peruano",
-        "url": "https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx"
-      },
-      "artists": [
-        {
-          "name": "Jaime Guardia",
-          "url": "https://open.spotify.com/artist/3AxPEg0Jy5U5GvgEHsI43X"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Munaspaqa Suyaykuway",
-      "url": "https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Quena De Los Andes",
         "url": "https://open.spotify.com/album/5uzYC0tdg1kxzzbNzNq7t1"
       },
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Monta\u00f1as",
-        "url": "https://open.spotify.com/album/1IeFuOpz4yMp2zE8e0IWqp"
+        "name": "Isqun",
+        "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
       },
       "artists": [
         {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
         }
       ],
-      "duration_ms": 288091,
-      "name": "Monta\u00f1as",
-      "url": "https://open.spotify.com/track/2x0jS1pcwWxzWOd3eRSrzu"
+      "duration_ms": 202008,
+      "name": "Francisca Pizarro",
+      "url": "https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Isqun",
-        "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
+        "name": "Monta\u00f1as",
+        "url": "https://open.spotify.com/album/1IeFuOpz4yMp2zE8e0IWqp"
       },
       "artists": [
         {
-          "name": "Renata Flores",
-          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
         }
       ],
-      "duration_ms": 202008,
-      "name": "Francisca Pizarro",
-      "url": "https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w"
+      "duration_ms": 288091,
+      "name": "Monta\u00f1as",
+      "url": "https://open.spotify.com/track/2x0jS1pcwWxzWOd3eRSrzu"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Altamar",
+        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
+      },
+      "artists": [
+        {
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+        }
+      ],
+      "duration_ms": 289186,
+      "name": "Altamar",
+      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "Encuentros (Meetings)",
         "url": "https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 162168,
       "name": "Sajsahuaman",
       "url": "https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Altamar",
-        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 289186,
-      "name": "Altamar",
-      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Viento en los Andes",
-        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
-      },
-      "artists": [
-        {
-          "name": "Inkaquenas",
-          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "V\u00edrgenes del Sol",
-      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Quena de los Andes",
         "url": "https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 227252,
       "name": "Cometa de Luz",
       "url": "https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Viento en los Andes",
+        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
+      },
+      "artists": [
+        {
+          "name": "Inkaquenas",
+          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "V\u00edrgenes del Sol",
+      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Mezcla",
-        "url": "https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa"
-      },
-      "artists": [
-        {
-          "name": "M.A.K.U SoundSystem",
-          "url": "https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh"
-        }
-      ],
-      "duration_ms": 351173,
-      "name": "De Barrio",
-      "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "\u00d3diame",
         "url": "https://open.spotify.com/album/3SwFT7Pq0A98vQypiY6vde"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 223047,
       "name": "\u00d3diame",
       "url": "https://open.spotify.com/track/4EoDDuA7b9V2lVlmdkEkPA"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Mezcla",
+        "url": "https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa"
+      },
+      "artists": [
+        {
+          "name": "M.A.K.U SoundSystem",
+          "url": "https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh"
+        }
+      ],
+      "duration_ms": 351173,
+      "name": "De Barrio",
+      "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
     },
     {
       "added_at": "2023-09-29 18:58:26",

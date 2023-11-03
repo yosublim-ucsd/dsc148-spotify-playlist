@@ -2208,10 +2208,28 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 199800,
       "name": "Little Thing Gone Wild",
       "url": "https://open.spotify.com/track/0KSkqC5o5e3birYoEY9bkk"
+    },
+    {
+      "album": {
+        "name": "Wrong Creatures",
+        "url": "https://open.spotify.com/album/0rqC0UZ8kTGxIEI654LWhj"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Little Thing Gone Wild",
+      "url": "https://open.spotify.com/track/3XGCZQTIl2AXccefEuJfeh"
     },
     {
       "album": {
@@ -3452,10 +3470,36 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 269326,
       "name": "Solar Fire",
       "url": "https://open.spotify.com/track/65gFWCRdKZD19F32AHhtmK"
+    },
+    {
+      "album": {
+        "name": "Smith/Kotzen",
+        "url": "https://open.spotify.com/album/3QUuz9b7pVHz0viLR3hnfr"
+      },
+      "artists": [
+        {
+          "name": "Smith/Kotzen",
+          "url": "https://open.spotify.com/artist/5DE14yhJCkOYGtBVFnrtK5"
+        },
+        {
+          "name": "Adrian Smith",
+          "url": "https://open.spotify.com/artist/6PdIfS6g7piReOMxEsdiiK"
+        },
+        {
+          "name": "Richie Kotzen",
+          "url": "https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269326,
+      "name": "Solar Fire",
+      "url": "https://open.spotify.com/track/733EFKmEIutt7NJ5LBN3Kk"
     },
     {
       "album": {

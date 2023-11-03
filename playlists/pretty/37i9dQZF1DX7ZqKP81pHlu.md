@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > Les hits algériens du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,282 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,368 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 5 | [A Night In Oran](https://open.spotify.com/track/6lgo2gxbeO7aFdJIOcxESk) | [Anis](https://open.spotify.com/artist/1ReBY4xAFemmAQDNVXsteI) | [A Night In Oran](https://open.spotify.com/album/66hRtpCD7SQJhDxizws50D) | 3:06 |
 | 6 | [Ghir Enti](https://open.spotify.com/track/1ZboOiAPI8yQ3wYOnOzxg7) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Yasmine Ammari](https://open.spotify.com/artist/5XoRKOk0xPtJKh38ECeW0f) | [Ghir Enti](https://open.spotify.com/album/2Z2BC5qzu48N2roU7SC8Wc) | 3:25 |
 | 7 | [Hay aliya](https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Hay aliya](https://open.spotify.com/album/0kke5oKlPdP0oSqlKaXsjR) | 2:57 |
-| 8 | [Demain](https://open.spotify.com/track/1Msk9wZdpAWCTtMy6OSbTj) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Femme forte](https://open.spotify.com/album/1yvh0jrG804Om3izynaGKa) | 3:12 |
+| 8 | [Demain](https://open.spotify.com/track/6eJ04i64i90cgfsQpHXZpK) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Femme forte](https://open.spotify.com/album/1CbvtjDKMJDU7jSxXFHfhM) | 3:12 |
 | 9 | [Nari Nar \- ناري نار](https://open.spotify.com/track/3AdpMQpQXpSdrVgJUGDkPP) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nari Nar \(ناري نار\)](https://open.spotify.com/album/1lSC2sRGtEZOJO9mi1vrGJ) | 3:48 |
 | 10 | [Normal](https://open.spotify.com/track/0j8vEVsQkarCTSRdzMC5Ps) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [La vie de Many](https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc) | 2:41 |
 | 11 | [Koulech Faux](https://open.spotify.com/track/5BsCr1Y8hys2MHUUb2E9FH) | [DAK](https://open.spotify.com/artist/0ijMujujEFjjkBPJcCtI9u), [Hamouda](https://open.spotify.com/artist/74LoSGpqwV0ek9WBKl7VF7) | [Tassili](https://open.spotify.com/album/6dDpPWE0us93eLPW67Wq6h) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 49 | [Ça dépend](https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Ça dépend](https://open.spotify.com/album/0nowTxq2NVPtVxJBLeDdwp) | 2:50 |
 | 50 | [Toi & moi \(feat\. Mok Saib\) \- version acoustique](https://open.spotify.com/track/0W4h9LlrLvqE6B9u7KWdBz) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:19 |
 
-Snapshot ID: `MCw5NjhmZmVmNjQyZTA5MzYyMDIwODNhMzM4YmQxMzNiNzQ1MjU1NDJi`
+Snapshot ID: `MCxiOGNmYWI2OTAzYjNkMmZiODU5NjlhOTA2Mjg3YjliY2ZlZjRiOTI5`

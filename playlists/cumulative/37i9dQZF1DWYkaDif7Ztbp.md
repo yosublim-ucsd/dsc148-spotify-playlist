@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=necrzNZuSm6OKjR54UV\-cA"> Mr Eazi </a>
+> The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=T\-MZqm3bQZm0yVzp5hrprA"> Rema </a>
 
 334 songs - 19 hr 58 min
 

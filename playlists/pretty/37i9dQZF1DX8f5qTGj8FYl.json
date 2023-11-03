@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 353691,
+  "num_followers": 353755,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODJjNmIyYjU3NTk2YjhmNTRiMDZiNjU1MTc3ZTJkOTdhMjU4ODc0",
+  "snapshot_id": "MCw4ZWYyOTcyMzQ2ODhiNWQyNmEwYzRiODVkNDc1NjdmN2RkNTI2YmQ3",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2019,13 +2019,17 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Watchu Want",
-        "url": "https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh"
+        "name": "The Deplar Effect",
+        "url": "https://open.spotify.com/album/0X6LMZFfnQ2uU8mi0LHN6A"
       },
       "artists": [
         {
           "name": "The New Mastersounds",
           "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Floki Sessions",
+          "url": "https://open.spotify.com/artist/601FZXyKDoyE6gWYNNWOWj"
         },
         {
           "name": "Eddie Roberts",
@@ -2034,7 +2038,7 @@
       ],
       "duration_ms": 160866,
       "name": "Watchu Want",
-      "url": "https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ"
+      "url": "https://open.spotify.com/track/3OO8V09XFmwKTLIi6kr6mp"
     },
     {
       "added_at": "2023-08-04 04:01:00",

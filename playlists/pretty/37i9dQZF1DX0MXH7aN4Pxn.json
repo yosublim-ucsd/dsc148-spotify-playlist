@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 685829,
+  "num_followers": 685841,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGQ3ODFhNmQ3MDYxNDU2YzQ4MDdjYTY0NzNjOGNkNjk2NmU5NDEx",
+  "snapshot_id": "MCwyODZiMzRjMGY0YTNlZWQyYzNjYWViMmJhZTVhMmQ2MDg0YzQ5M2U2",
   "tracks": [
     {
       "added_at": "2023-10-18 13:22:07",
@@ -33,7 +33,7 @@
         },
         {
           "name": "Trigga",
-          "url": "https://open.spotify.com/artist/117Ngy9A9prluWeHKheHwz"
+          "url": "https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb"
         },
         {
           "name": "Takura",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
+        "name": "They Don't Know (Radio Edit)",
+        "url": "https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV"
+      },
+      "artists": [
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        }
+      ],
+      "duration_ms": 161726,
+      "name": "They Don't Know - Radio Edit",
+      "url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
         "name": "God Made Me Phunky (Jess Bays Remix)",
         "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 220270,
       "name": "God Made Me Phunky - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
-        "name": "They Don't Know (Radio Edit)",
-        "url": "https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV"
-      },
-      "artists": [
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        }
-      ],
-      "duration_ms": 161726,
-      "name": "They Don't Know - Radio Edit",
-      "url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Pleasure Peak",
-        "url": "https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Pleasure Peak",
-      "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
         "name": "Love Tonight (Vintage Culture & Kiko Franco Remix)",
         "url": "https://open.spotify.com/album/1X71912aX0L37dW0eW3QgE"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 208536,
       "name": "Love Tonight (Vintage Culture & Kiko Franco Remix Edit)",
       "url": "https://open.spotify.com/track/53ICqRSyTfhrrvNwVSP6am"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "Pleasure Peak",
+        "url": "https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Pleasure Peak",
+      "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Enter The Dragon (Are You Up?)",
-        "url": "https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A"
-      },
-      "artists": [
-        {
-          "name": "blk.",
-          "url": "https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0"
-        },
-        {
-          "name": "Bklava",
-          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
-        }
-      ],
-      "duration_ms": 180774,
-      "name": "Enter The Dragon (Are You Up?)",
-      "url": "https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/55kAr1O53DgjDiEdM0E8fc"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 216000,
       "name": "Foolish (feat. Tom Zanetti)",
       "url": "https://open.spotify.com/track/2CXSRpNHd9zVSWKSFp1wQ3"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "Enter The Dragon (Are You Up?)",
+        "url": "https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A"
+      },
+      "artists": [
+        {
+          "name": "blk.",
+          "url": "https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0"
+        },
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        }
+      ],
+      "duration_ms": 180774,
+      "name": "Enter The Dragon (Are You Up?)",
+      "url": "https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF"
+      },
+      "artists": [
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "duration_ms": 169009,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
         "name": "So Sick",
         "url": "https://open.spotify.com/album/4ohKilHhD2WUbLkIXcuhMB"
       },
@@ -1583,26 +1603,6 @@
       "duration_ms": 208217,
       "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
       "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF"
-      },
-      "artists": [
-        {
-          "name": "Danny Byrd",
-          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        }
-      ],
-      "duration_ms": 169009,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Au Seve",
-        "url": "https://open.spotify.com/album/2khQnnhKRdljReqsaYuk3N"
-      },
-      "artists": [
-        {
-          "name": "Julio Bashmore",
-          "url": "https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG"
-        }
-      ],
-      "duration_ms": 393387,
-      "name": "Au Seve",
-      "url": "https://open.spotify.com/track/7w0W6W9dz5lVH3M3IWgwIT"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/2hvJIyjOG3bn3hNRS2za58"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 196188,
       "name": "Lies",
       "url": "https://open.spotify.com/track/0WWSJNzZ3GUXNMHkWj0Kno"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "Au Seve",
+        "url": "https://open.spotify.com/album/2khQnnhKRdljReqsaYuk3N"
+      },
+      "artists": [
+        {
+          "name": "Julio Bashmore",
+          "url": "https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG"
+        }
+      ],
+      "duration_ms": 393387,
+      "name": "Au Seve",
+      "url": "https://open.spotify.com/track/7w0W6W9dz5lVH3M3IWgwIT"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
-      },
-      "artists": [
-        {
-          "name": "Ben Kim",
-          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/27y8dcpjACvddY2gnoi1J3"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 174649,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
+      },
+      "artists": [
+        {
+          "name": "Ben Kim",
+          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1923,22 +1923,22 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "I Just Wanna Dance",
-        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U"
       },
       "artists": [
         {
-          "name": "Coldabank",
-          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
         },
         {
-          "name": "Freedo",
-          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
         }
       ],
-      "duration_ms": 154904,
-      "name": "I Just Wanna Dance",
-      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
+      "duration_ms": 235000,
+      "name": "Louder Than Words",
+      "url": "https://open.spotify.com/track/6UreohhsD15kzzKURwLZ07"
     }
   ],
   "unique_name": "PARTY MODE",

@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Watson
 
-214 songs - 11 hr 4 min
+215 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Block](https://open.spotify.com/track/4XBnguB4Xpg3flMEt4ZTTq) | [NEXT WAY](https://open.spotify.com/artist/36W7LDbrcAsG2zAfKwOf7J), [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [Block](https://open.spotify.com/album/4svngyOnzZMBcesWwAbLuL) | 1:58 | 2023-10-05 | 2023-10-20 |
 | [BRING BACK](https://open.spotify.com/track/5wYEZfRbGtRDEHyMTdz1Rj) | [Loopaddict](https://open.spotify.com/artist/25CDhUA4M2FNNzRXzDmRFt), [Mista O.K.I](https://open.spotify.com/artist/77wVBD5olPpEhP8kTfu88I), [SHIGECHIYO](https://open.spotify.com/artist/7Kc5YXO9DFuvXPgDMhfEdy) | [BRING BACK](https://open.spotify.com/album/3cVJAoVJk98LZBEYgaPn5v) | 4:19 | 2023-09-21 | 2023-09-27 |
 | [Cali Jap](https://open.spotify.com/track/1cMopmyRcj9qopJ4IXA2d9) | [Japanese Magenese](https://open.spotify.com/artist/0YbxnfnDyzHtDBPOvIMqEq), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4), [VOCA Luciano](https://open.spotify.com/artist/4yEFQ7h6u4bXePezff5pvI) | [Cali Jap](https://open.spotify.com/album/6XLsxnfd4omvEx9vrZQSYW) | 5:38 | 2023-09-21 | 2023-10-20 |
-| [Canvas](https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Canvas](https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0) | 3:05 | 2023-09-21 |  |
+| [Canvas](https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Canvas](https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0) | 3:05 | 2023-09-21 | 2023-11-03 |
 | [CHAMPION SOUND \- Scratch by DJ MATTO](https://open.spotify.com/track/2RNOM5GBxH9pcVdCy4iCst) | [FREEZ](https://open.spotify.com/artist/1SgsdAxtT2jPv6pWihNLGp) | [CHAMPION SOUND](https://open.spotify.com/album/1qCCGcljL92WPGuQxmdCV7) | 3:42 | 2023-10-31 |  |
 | [CHAMPION SOUND \- Scratch by DJ MATTO](https://open.spotify.com/track/5VJqOw7zvmf0KSwKpRYkBZ) | [FREEZ](https://open.spotify.com/artist/1SgsdAxtT2jPv6pWihNLGp) | [CHAMPION SOUND](https://open.spotify.com/album/1fFbxBMQFBuNNk9Q6k45xl) | 3:42 | 2023-10-31 | 2023-11-02 |
 | [Change Up](https://open.spotify.com/track/1u7rOKJDVmppE1qo7FmAxm) | [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [ISSUGI](https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp), [BACHLOGIC](https://open.spotify.com/artist/2ywZEDFSCGI0zuycGdCwQ9) | [Try & Error](https://open.spotify.com/album/3OSf3kzTRC1CNC1fZLKVVU) | 3:29 | 2023-09-26 |  |
@@ -85,6 +85,7 @@
 | [Greedy](https://open.spotify.com/track/7ADojJAmNMr7ESb9v2OBrm) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [MANIA](https://open.spotify.com/album/1Yl0UPm8taUyYrdYcMTgGd) | 3:36 | 2023-09-21 | 2023-09-27 |
 | [GRID](https://open.spotify.com/track/5LSbE6Avzu5D7c3JELofP2) | [MIDICRONICA](https://open.spotify.com/artist/2v4xE9iGRGIKGxxCku3HWy), [1Co.INR](https://open.spotify.com/artist/13OKLLncWlV84TyMUEgq4m) | [GRID](https://open.spotify.com/album/1x7b842f1YSVOwz2SEE56Y) | 3:01 | 2023-10-31 |  |
 | [GRID](https://open.spotify.com/track/70LeAfudzGENZhf3kgJSsx) | [MIDICRONICA](https://open.spotify.com/artist/2v4xE9iGRGIKGxxCku3HWy), [1Co.INR](https://open.spotify.com/artist/13OKLLncWlV84TyMUEgq4m) | [GRID](https://open.spotify.com/album/7nxc6TpKNEJIRAqYFmJTpp) | 3:01 | 2023-10-31 | 2023-11-02 |
+| [ha?](https://open.spotify.com/track/1AHAFgBaotPhp2PLonXRPW) | [nana](https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [ha?](https://open.spotify.com/album/3vhn0dgPQFECXynziQmkUa) | 2:43 | 2023-11-02 |  |
 | [HAHAHA](https://open.spotify.com/track/2g2RTLYybr4euVKkinEFrR) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [HAHAHA](https://open.spotify.com/album/7neXYQbGZraV3HIrKKP7jg) | 1:57 | 2023-10-24 |  |
 | [HANEDA](https://open.spotify.com/track/4z6SmTNvgLtOudHcs6Zvkl) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [HANEDA](https://open.spotify.com/album/0Msh8zd3ZgeOf7XIyFXRR9) | 2:19 | 2023-09-26 | 2023-10-11 |
 | [HANEDA \- remix](https://open.spotify.com/track/374RryLOtbOtmZcLn54kIQ) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3), [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [HANEDA](https://open.spotify.com/album/6NI4hfNavdSk8mWDOJNgsm) | 2:19 | 2023-09-26 | 2023-09-28 |

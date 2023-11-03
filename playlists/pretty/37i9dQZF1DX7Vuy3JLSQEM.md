@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 
 > Nuevos lanzamientos electrónicos de Latinoamérica\. / Novos lançamentos eletrônicos da América Latina\. Foto: Mr\. Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,008 likes - 84 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,016 likes - 84 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 | 19 | [Get Your Body Movin'](https://open.spotify.com/track/4HtpR1xSJ0nHixdXMiWRv9) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [Timeless](https://open.spotify.com/album/1c26lmfgKYkHTqYHXodLSm) | 5:48 |
 | 20 | [Choir Roads](https://open.spotify.com/track/6VOLVcWyy5Rf0vSPYYN4JT) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Tálita](https://open.spotify.com/artist/18OPt8obRRChUWsZjRVqUx) | [Choir Roads](https://open.spotify.com/album/6R2CCusiNwKkFUj8HoHOYi) | 3:17 |
 | 21 | [O Xote Das Meninas \- Pontifexx Remix](https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [O Xote Das Meninas \(Pontifexx Remix\)](https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT) | 3:09 |
-| 22 | [Me Flipa](https://open.spotify.com/track/7cqbnpYkWFmt4nfMg1Lkbs) | [wrs](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Me Flipa](https://open.spotify.com/album/09pMAnCIlizKgiADiyctvY) | 3:09 |
+| 22 | [Me Flipa](https://open.spotify.com/track/7cqbnpYkWFmt4nfMg1Lkbs) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Me Flipa](https://open.spotify.com/album/09pMAnCIlizKgiADiyctvY) | 3:09 |
 | 23 | [Go Bananas](https://open.spotify.com/track/7sMTAnbe0GyC8SquQFyJuA) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx) | [Go Bananas](https://open.spotify.com/album/07LK91iHSOUy7U6Y0MASAe) | 2:01 |
 | 24 | [everything i wanted](https://open.spotify.com/track/7AcPWrp2mXYkoMl4I3W57e) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [SXTYSIX](https://open.spotify.com/artist/7BtgWJbGvd1WE3mMxT5z7i), [Matrino](https://open.spotify.com/artist/0jw0ZstZ0up9QaLPhOZsRi) | [everything i wanted](https://open.spotify.com/album/55VYu1LEqTq5Zh1ZWUVuHQ) | 3:46 |
 | 25 | [Tamos de Fiesta \- Remix](https://open.spotify.com/track/6OQHg2To0EDiaj4XyfJuBz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Tamos de Fiesta \(Remix\)](https://open.spotify.com/album/2qQ3Xr5jANxRww4AFN1ga2) | 2:22 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 | 83 | [Enviada](https://open.spotify.com/track/7a6Wi2bVkphjCOfLfQeaTr) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 4:03 |
 | 84 | [Despertar](https://open.spotify.com/track/5zVRJaJBPPtOuc6ku1tln2) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Sketches, Vol\. 1 \(2004\-2007\)](https://open.spotify.com/album/2hCHId2M6SQ48hFEfIOtfh) | 3:37 |
 
-Snapshot ID: `MCxjYjFhOGU3YjI2ZjdjYzQzNWExYzRkODc5Nzk1NjhkNTc3YzFiYWI4`
+Snapshot ID: `MCwwMWJkMjE2M2MwMGQ5MzczMGE0MWNmZmQzNTE0OTRkNDdiMGY3NmUw`

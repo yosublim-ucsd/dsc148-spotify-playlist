@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-116 songs - 4 hr 1 min
+117 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [ABC Animals](https://open.spotify.com/track/0uEfAB3x11vRbkzXnPfheA) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [ABC Kids Favourites](https://open.spotify.com/album/6oJlfg27ZPNomsw3bYKTQ0) | 3:02 | 2022-07-25 | 2022-11-13 |
 | [ABC Animals](https://open.spotify.com/track/3kjsci8HHMLnxb9tE4UYes) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [ABC Animals](https://open.spotify.com/album/2qqBNP16TbPUym2VTjJeop) | 3:06 | 2022-02-01 | 2022-07-29 |
 | [ABC Animals](https://open.spotify.com/track/45qqH36Ghr1SvKbT7wxrBn) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [ABC Animals](https://open.spotify.com/album/0dTmSifdnozjzJwjJoTeVL) | 3:06 | 2022-07-25 |  |
-| [Alice the Camel](https://open.spotify.com/track/16fID3FglbDNkn425bPgJe) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [30 Favorite Animal Songs for Kids](https://open.spotify.com/album/7tAxYAW3his1LuF2sFFvI7) | 1:13 | 2022-02-01 |  |
+| [Alice the Camel](https://open.spotify.com/track/16fID3FglbDNkn425bPgJe) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [30 Favorite Animal Songs for Kids](https://open.spotify.com/album/7tAxYAW3his1LuF2sFFvI7) | 1:13 | 2022-02-01 | 2023-11-03 |
+| [Alice the Camel](https://open.spotify.com/track/2dk2vm31RI9Z8VB2xfZagV) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [150 All Time Children's Favorites](https://open.spotify.com/album/2LNPciMcwVbgqHsP4FRj6v) | 1:13 | 2022-07-25 |  |
 | [All My Friends Are Insects](https://open.spotify.com/track/7wMfeQ28fxxrliSXnzJhiy) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Yo Gabba Gabba! Hey!](https://open.spotify.com/album/1KkCmh4A9k1U4znzSvqAEB) | 1:23 | 2022-02-01 |  |
 | [Alligator](https://open.spotify.com/track/0vKXwaI4VRcpdz6CGYMFEv) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Bug Out!](https://open.spotify.com/album/52ZI4mxoOizsmloKZfvesC) | 1:54 | 2022-02-01 |  |
 | [Animal Bop](https://open.spotify.com/track/1Y7maeiqIvifJbs5iP0NB2) | [YolanDa](https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq), [YolanDa Brown](https://open.spotify.com/artist/4VGGxAkrs07Y4vyCdiaxq0) | [YolanDa's Band Jam](https://open.spotify.com/album/5ao41Lw4krw6XAn8KI0jbc) | 2:56 | 2022-07-25 |  |

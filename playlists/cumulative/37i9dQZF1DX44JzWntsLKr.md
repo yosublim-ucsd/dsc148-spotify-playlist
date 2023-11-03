@@ -4,7 +4,7 @@
 
 > Every Monbebe's HERO.
 
-137 songs - 7 hr 29 min
+139 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [BESIDE U \(feat\. Pitbull\)](https://open.spotify.com/track/0sr5kxI49ITycq3NDelwjn) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 3:08 | 2021-12-09 |  |
 | [BESIDE U \(I.M RAP VER\) \(feat\. Pitbull\)](https://open.spotify.com/track/5SJQSRZ7HhG7J2Jf7ezGIE) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 3:32 | 2021-12-09 |  |
 | [Better](https://open.spotify.com/track/5l7PVb1ZWJ9hRxVjNGafzB) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 2:19 | 2021-12-09 |  |
-| [Blame Me](https://open.spotify.com/track/7z1MZoiPunukB3kCkKRBKh) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 3:08 | 2021-12-09 |  |
+| [Blame Me](https://open.spotify.com/track/6bBcSQU3T9GZ76TKIBgpdB) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs) | 3:08 | 2023-06-21 |  |
+| [Blame Me](https://open.spotify.com/track/7z1MZoiPunukB3kCkKRBKh) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 3:08 | 2021-12-09 | 2023-11-03 |
 | [Blind](https://open.spotify.com/track/26AqSoEgtHfqpWIwj7uuVk) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2 <GUILTY>](https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl) | 3:31 | 2021-12-09 |  |
 | [Blow Your Mind](https://open.spotify.com/track/0av3641PFyw7SS5rWbzYff) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 2:10 | 2021-12-09 |  |
 | [Breathe](https://open.spotify.com/track/0ovdVUlmpwFABG7D7xsUb8) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 2:22 | 2022-04-28 |  |
@@ -107,7 +108,8 @@
 | [Rotate](https://open.spotify.com/track/1QSjtZowSRAe2PTrhuqNBc) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One of a Kind](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) | 3:23 | 2021-12-09 |  |
 | [RUSH](https://open.spotify.com/track/3dKx1EvSEaceoN5Qnhe5iS) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [RUSH](https://open.spotify.com/album/0ESTAnvX2zjMBxzesNAiR7) | 3:42 | 2021-12-09 |  |
 | [Rush Hour](https://open.spotify.com/track/1Goejji6m1d0s0cv4OnL7f) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:22 | 2021-12-09 |  |
-| [Secrets](https://open.spotify.com/track/25c0iiE0EMtiVMWWQ3JYFZ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 3:00 | 2021-12-09 |  |
+| [Secrets](https://open.spotify.com/track/25c0iiE0EMtiVMWWQ3JYFZ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 3:00 | 2021-12-09 | 2023-11-03 |
+| [Secrets](https://open.spotify.com/track/3Dg57X2VDfE9Yg9FOe5bcc) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs) | 3:00 | 2023-06-21 |  |
 | [Secrets](https://open.spotify.com/track/6E9VBOX4VOf0z6HSam491R) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One of a Kind](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) | 3:21 | 2021-12-09 |  |
 | [SHE'S THE ONE](https://open.spotify.com/track/1PE7hpCDgcg5GMY3SCwstp) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 3:19 | 2021-12-09 |  |
 | [SHINE FOREVER](https://open.spotify.com/track/63SRW26EEF9RF6GgeUgJqx) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHINE FOREVER](https://open.spotify.com/album/3rrZlvTQ6Bxvz7Kzxjkagj) | 3:28 | 2021-12-09 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Chanel",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -366,6 +366,24 @@
       "duration_ms": 193059,
       "name": "AVENTURA",
       "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
+    },
+    {
+      "album": {
+        "name": "b.o.b.o.",
+        "url": "https://open.spotify.com/album/2FdIPbrSPyPEL9jKup9KQC"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142406,
+      "name": "b.o.b.o.",
+      "url": "https://open.spotify.com/track/0aHqflgjBiuNWvFJw2MhoQ"
     },
     {
       "album": {
@@ -2901,6 +2919,28 @@
     },
     {
       "album": {
+        "name": "La_Original.mp3",
+        "url": "https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140625,
+      "name": "La_Original.mp3",
+      "url": "https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY"
+    },
+    {
+      "album": {
         "name": "lady madrizZz",
         "url": "https://open.spotify.com/album/3RtVlBAyuXHZ66TNukWRMS"
       },
@@ -3028,6 +3068,28 @@
       "duration_ms": 179259,
       "name": "ll\u00e1mame dentro de 5 a\u00f1os",
       "url": "https://open.spotify.com/track/4iqKBpvChifJ6FeUF6OzQM"
+    },
+    {
+      "album": {
+        "name": "Loka",
+        "url": "https://open.spotify.com/album/3JXHAfYFUBuIANrq1CE5Cp"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        },
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181997,
+      "name": "Loka",
+      "url": "https://open.spotify.com/track/5avBTSSq8umEAj7q6ONACv"
     },
     {
       "album": {
@@ -5242,6 +5304,24 @@
       "duration_ms": 155789,
       "name": "Solita y SueltAAA",
       "url": "https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf"
+    },
+    {
+      "album": {
+        "name": "solo se que no se que",
+        "url": "https://open.spotify.com/album/4kh07rMIH3pxKkFNYvnCgI"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "solo se que no se que",
+      "url": "https://open.spotify.com/track/1pOjXaeX3mQDIDqTx2lGWL"
     },
     {
       "album": {

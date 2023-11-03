@@ -1230,10 +1230,28 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 253240,
       "name": "\uc0ac\ub791\uc774 \uc9c0\ub098\uac00\uba74",
       "url": "https://open.spotify.com/track/4XwtIHrmFuMNwu3c35kh5B"
+    },
+    {
+      "album": {
+        "name": "\uc774\ubb38\uc138, \uc591\ud76c\uc740 \uace8\ub4e0",
+        "url": "https://open.spotify.com/album/0gPxhylyjY1oWRKW0gh4Zx"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253306,
+      "name": "\uc0ac\ub791\uc774 \uc9c0\ub098\uac00\uba74",
+      "url": "https://open.spotify.com/track/65qlfeIbQfPBivU0UjhZtA"
     },
     {
       "album": {

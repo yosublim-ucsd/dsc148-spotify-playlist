@@ -4,7 +4,7 @@
 
 > The best in recent hits from your favorite  Contemporary Christian artists all in one list\.  Sit back and let it play!  Cover: Matt Maher
 
-75 songs - 5 hr 9 min
+76 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Rescuer \(Good News\)](https://open.spotify.com/track/32f24TdkpHx8L0EZX2HbP4) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Rescuer \(Good News\)](https://open.spotify.com/album/5mati4th5xS4GWys74MiR2) | 3:28 | 2018-04-30 |  |
 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:51 | 2018-04-30 |  |
 | [Spirit Of The Living God \(Radio Edit\)](https://open.spotify.com/track/0ZyahJmVL6LinKWKpczdXB) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Spirit Of The Living God \(Radio Edit\)](https://open.spotify.com/album/1LXaJOiWPLNMk5jfh9xAUr) | 4:06 | 2018-04-30 |  |
-| [The Comeback](https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:11 | 2018-04-30 |  |
+| [The Comeback](https://open.spotify.com/track/3QiF0PF9ciUoyHFrr6DBme) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:11 | 2018-04-30 |  |
+| [The Comeback](https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:11 | 2018-04-30 | 2023-11-03 |
 | [The Cross Has the Final Word](https://open.spotify.com/track/0LPiTwaf28kZyrDTQPjuV3) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [Michael Tait](https://open.spotify.com/artist/6DcdhH46Toay7xuWck4jQW), [Peter Furler](https://open.spotify.com/artist/6xShY4pstJdzVCrWyeqbCL) | [The Cross Has the Final Word](https://open.spotify.com/album/4uhp1XazR7Ri0JmW1d0L00) | 3:41 | 2018-04-30 |  |
 | [The Cross Has the Final Word](https://open.spotify.com/track/4y3p79cjP9po2t8kjudQ8B) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [Michael Tait](https://open.spotify.com/artist/6DcdhH46Toay7xuWck4jQW), [Peter Furler](https://open.spotify.com/artist/6xShY4pstJdzVCrWyeqbCL) | [The Cross Has the Final Word](https://open.spotify.com/album/4PgSt6SIFRa5ZlI0Gecupc) | 3:41 | 2018-04-30 | 2022-07-29 |
 | [The Gospel](https://open.spotify.com/track/04sHEjOqkVXL0XjEoGXzhV) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [No Matter What](https://open.spotify.com/album/3LtLDNvbhbUcwAsGZ6KK1O) | 4:14 | 2018-04-30 |  |

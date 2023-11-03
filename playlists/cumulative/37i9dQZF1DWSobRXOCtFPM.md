@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-203 songs - 19 hr 57 min
+204 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Frame](https://open.spotify.com/track/03owGeQybSsnpreChFqoSq) | [Uncertain](https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm) | [Funk EP](https://open.spotify.com/album/363sAyWoJxfOLgrlmuesiM) | 6:01 | 2023-08-03 |  |
 | [Friction](https://open.spotify.com/track/1zpsyx9HYDqYv99kc6wez0) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1), [Gaston Zani](https://open.spotify.com/artist/2uU0gIFQJd8zSyAaxhhoL1) | [Momentum EP](https://open.spotify.com/album/6SWmGg9QPqD9t4j4x6N4E2) | 6:39 | 2023-08-03 |  |
 | [Gangwon](https://open.spotify.com/track/1XdOmwUJMLTM4PLfDdGlCF) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [ASW is Live EP1](https://open.spotify.com/album/6IWB9OJFWVNbwwPWWFqBcJ) | 6:30 | 2022-11-30 | 2023-02-14 |
-| [Get After It](https://open.spotify.com/track/2X4XzzpdI1eMMFPMsScPov) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 6:02 | 2023-02-13 |  |
+| [Get After It](https://open.spotify.com/track/1vzBrVx1KAUMfz0Zuf5E3I) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs) | 6:02 | 2023-10-06 |  |
+| [Get After It](https://open.spotify.com/track/2X4XzzpdI1eMMFPMsScPov) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 6:02 | 2023-02-13 | 2023-11-03 |
 | [Glide](https://open.spotify.com/track/0LwFDv8lo6CTYX8PJTkPTg) | [Dave Angel](https://open.spotify.com/artist/2Fd3lWDA61b5dcoEwNvWuT) | [Glide](https://open.spotify.com/album/7AgKj8XxTUILo8K6eyM91j) | 6:51 | 2023-04-18 |  |
 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 | 2023-02-13 | 2023-06-27 |
 | [Gnawa \(feat\. Radouan Naim\) \[TEYMORI Remix\]](https://open.spotify.com/track/1nvVaUIefzQh1LEUcbGd0V) | [Digital Afrika](https://open.spotify.com/artist/2FtoiNNAAX9Xd2UJwQ9Esw), [TEYMORI](https://open.spotify.com/artist/5rS3QIZCVJiqURLRhc0KW5), [Radouan Naim](https://open.spotify.com/artist/5qzDfZYHOwEOPNkPtp16SI) | [Gnawa \(feat\. Radouan Naim\) \[TEYMORI Remix\]](https://open.spotify.com/album/64QLD7wyX463YrBAoWuPyP) | 5:33 | 2022-08-15 | 2022-12-01 |

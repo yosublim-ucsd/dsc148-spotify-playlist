@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE?si=OFuCTSgFTWKQJZwmSAiNNg">Kaien Cruz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,024 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,061 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 14 | [Back 2 U](https://open.spotify.com/track/45GqiF1tr66MeXBeJztwdX) | [Adrienne Foo](https://open.spotify.com/artist/5lsaKDXCs0VHVJ5UxMFqSA), [Phiwo](https://open.spotify.com/artist/1aMVkMfK9Wo0rd7TfBymHY) | [Back 2 U](https://open.spotify.com/album/2pvijmArToNkuu9VWUASxo) | 5:10 |
 | 15 | [MICELLAR WATER](https://open.spotify.com/track/1bGO5aoFzejQLjjAs2A02D) | [Roho](https://open.spotify.com/artist/2los7qqYBBSB6dlJ8PQ9hd), [Tyson Sybateli](https://open.spotify.com/artist/7Ea3plMenK7eJQjjTXTfDC) | [VESPER](https://open.spotify.com/album/2oxqAqodD8LNvRdowCYDLN) | 3:09 |
 | 16 | [All Night](https://open.spotify.com/track/3y8MHPIIdUbbp5QozCbJ9G) | [Lastee](https://open.spotify.com/artist/02fHk4FBRa87bllGfMAf15), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [All Night](https://open.spotify.com/album/2XpBUiJMArDm0DdU5k2h6d) | 2:30 |
-| 17 | [Paradise](https://open.spotify.com/track/6xb06ZbAIf45F9Vwiy44FY) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw) | 3:38 |
+| 17 | [Paradise](https://open.spotify.com/track/5pBSxjuMqmm9CVPz8RIIPy) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 3:38 |
 | 18 | [For Keeps \- A COLORS SHOW](https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [For Keeps \- A COLORS SHOW](https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3) | 4:14 |
 | 19 | [What Is Love?](https://open.spotify.com/track/2BSIFZLVJ8QIUWvIToGQzb) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820) | [What Is Love?](https://open.spotify.com/album/5uaX4Bh833hXKXRldxi1uD) | 2:33 |
 | 20 | [Frontline](https://open.spotify.com/track/5UWNkFcMRrwjoLioVmr1Y7) | [Reba Red](https://open.spotify.com/artist/1zvBiIeuzPhBHYm0USZrAk) | [Awake](https://open.spotify.com/album/7rwoXMg0mjwc4nXNfsMRyK) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 49 | [On it](https://open.spotify.com/track/0tx9XxpGK0tPusehiixbMd) | [Cindii Masina](https://open.spotify.com/artist/4mh4cMpsxH7elAqheOtTf5) | [Love Fictioned](https://open.spotify.com/album/0pETiaM7mnLFyDbQKJXyoN) | 2:51 |
 | 50 | [Friends](https://open.spotify.com/track/2nhyCoUnpb9hea8f95iK4K) | [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Friends](https://open.spotify.com/album/6LGd6l4RhmR8hh99nPdLbK) | 3:18 |
 
-Snapshot ID: `MCw2YjJlMzVjYmIwMDBjYTFlYTY3NGZhNWJmMzg2ZjIzODk1NGZlMTlh`
+Snapshot ID: `MCxiYjM2NmRlNmU0N2JhOTljYjQ5OTA3NWFhZWUyOWIwYzc0NTI5ZDY3`

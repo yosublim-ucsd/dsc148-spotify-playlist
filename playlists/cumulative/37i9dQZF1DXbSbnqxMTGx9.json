@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Double Dekker (Expanded Version)",
+        "url": "https://open.spotify.com/album/7tt21btxenzyLsiI17qivz"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        },
+        {
+          "name": "ACES",
+          "url": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154986,
+      "name": "(Poor Mi) Israelites",
+      "url": "https://open.spotify.com/track/2jt5g9DDcSVaKh790EoxVr"
+    },
+    {
+      "album": {
         "name": "This Is Crucial Reggae - Desmond Dekker",
         "url": "https://open.spotify.com/album/3GgZQFcYrGnJJb8MEV0qt9"
       },
@@ -849,6 +871,28 @@
     },
     {
       "album": {
+        "name": "Carry Go Bring Come: Anthology '64-'74",
+        "url": "https://open.spotify.com/album/4KuPYLGk6zACKi6QQIyprp"
+      },
+      "artists": [
+        {
+          "name": "Justin Hinds",
+          "url": "https://open.spotify.com/artist/485PbpVEwbo7jAYs8Z3v9J"
+        },
+        {
+          "name": "The Dominoes",
+          "url": "https://open.spotify.com/artist/3zdYjbgCIa2XJWb6Yc325v"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131640,
+      "name": "Botheration - Reggae Version",
+      "url": "https://open.spotify.com/track/29CVpm68esqFY15xyHqetR"
+    },
+    {
+      "album": {
         "name": "The Treasure Isle Story",
         "url": "https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI"
       },
@@ -864,7 +908,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 131640,
       "name": "Botheration - Reggae Version",
       "url": "https://open.spotify.com/track/5E8rGBEtO1erEnOjpmaT39"
@@ -2041,6 +2085,28 @@
     },
     {
       "album": {
+        "name": "Action! (Expanded Version)",
+        "url": "https://open.spotify.com/album/3oO3vMnlszzOvFyxClgawh"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        },
+        {
+          "name": "ACES",
+          "url": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193614,
+      "name": "Fu Man Chu",
+      "url": "https://open.spotify.com/track/0Zi3RnDhpNzcEnw6MLaU15"
+    },
+    {
+      "album": {
         "name": "The Definitive Collection: You Can Get It If You Really Want",
         "url": "https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3"
       },
@@ -2056,7 +2122,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 199746,
       "name": "Fu Man Chu",
       "url": "https://open.spotify.com/track/4mSa4FTQnnlrSMkbHUdo7B"
@@ -3472,10 +3538,32 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 165066,
       "name": "Intensified '68",
       "url": "https://open.spotify.com/track/4v6iaARbqmHtyaiP7wazRr"
+    },
+    {
+      "album": {
+        "name": "Rudy Got Soul: The Early Beverley's Sessions 1963-1968",
+        "url": "https://open.spotify.com/album/14a6SZQ8uwvC1bvGGPmlDp"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        },
+        {
+          "name": "ACES",
+          "url": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163440,
+      "name": "Intensified (aka Music Like Dirt)",
+      "url": "https://open.spotify.com/track/6wwhI9Q76clWwizgY6bFFE"
     },
     {
       "album": {
@@ -3544,10 +3632,28 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 155986,
       "name": "Israelites",
       "url": "https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8"
+    },
+    {
+      "album": {
+        "name": "Rivers of Babylon: The Best of The Melodians 1967-1973",
+        "url": "https://open.spotify.com/album/1h0eFzcWJaFoX5V9FulxoZ"
+      },
+      "artists": [
+        {
+          "name": "The Melodians",
+          "url": "https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158760,
+      "name": "It Comes and Goes",
+      "url": "https://open.spotify.com/track/04E58fFqiy1MQZIt1jQMTs"
     },
     {
       "album": {
@@ -3562,7 +3668,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 158760,
       "name": "It Comes and Goes",
       "url": "https://open.spotify.com/track/50wl4ceK1FASG2rGkkp2fT"
@@ -3898,10 +4004,32 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 146672,
       "name": "Just Like a River",
       "url": "https://open.spotify.com/track/44Sqr0Wf8UIY4F4bHxRkmN"
+    },
+    {
+      "album": {
+        "name": "First Class Rock Steady",
+        "url": "https://open.spotify.com/album/3rYMAaYm6gRaCoSzoCJEji"
+      },
+      "artists": [
+        {
+          "name": "Stranger Cole",
+          "url": "https://open.spotify.com/artist/0O3mV0IW4pJRQStTUo2y3z"
+        },
+        {
+          "name": "Gladdy Anderson",
+          "url": "https://open.spotify.com/artist/3k682ladVJCyESrQsDmQP5"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158453,
+      "name": "Just Like A River",
+      "url": "https://open.spotify.com/track/0zi4gaAq1WIUItbAipqm51"
     },
     {
       "album": {
@@ -5593,6 +5721,24 @@
     },
     {
       "album": {
+        "name": "One Life to Live (Expanded Version)",
+        "url": "https://open.spotify.com/album/6qOih5SFSPbmMSkYrf8Ztu"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Dillon",
+          "url": "https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153360,
+      "name": "One Life to Live, One Life to Give (Livin' in Love)",
+      "url": "https://open.spotify.com/track/1kPL2LLnYXiFLTlAb86gz8"
+    },
+    {
+      "album": {
         "name": "The Treasure Isle Story",
         "url": "https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI"
       },
@@ -5604,7 +5750,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 153360,
       "name": "One Life to Live, One Life to Give (Livin' in Love)",
       "url": "https://open.spotify.com/track/4lEMaKJGOLL1f0QdJMTUza"
@@ -6902,7 +7048,7 @@
     {
       "album": {
         "name": "This Is Trojan Roots",
-        "url": "https://open.spotify.com/album/4hJWhgA6ZfwGmXyzQi62rM"
+        "url": "https://open.spotify.com/album/1DPqoGxMAKwBGgIhSqour7"
       },
       "artists": [
         {
@@ -6913,6 +7059,24 @@
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 180453,
+      "name": "Skylarking",
+      "url": "https://open.spotify.com/track/56a6UncDB39DimqludMUvn"
+    },
+    {
+      "album": {
+        "name": "This Is Trojan Roots",
+        "url": "https://open.spotify.com/album/4hJWhgA6ZfwGmXyzQi62rM"
+      },
+      "artists": [
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
       "duration_ms": 181773,
       "name": "Skylarking",
       "url": "https://open.spotify.com/track/4O0iJu6jndkKx49sRf26uW"
@@ -7755,6 +7919,24 @@
     },
     {
       "album": {
+        "name": "Original Paragons At Treasure Isle",
+        "url": "https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1"
+      },
+      "artists": [
+        {
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "The Tide Is High",
+      "url": "https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM"
+    },
+    {
+      "album": {
         "name": "On the Beach: The Anthology",
         "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
       },
@@ -7766,7 +7948,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 161973,
       "name": "The Tide Is High - Stereo Version",
       "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
@@ -8141,6 +8323,24 @@
     },
     {
       "album": {
+        "name": "Engine 54 (Expanded Version)",
+        "url": "https://open.spotify.com/album/0D2dFwUR9y8xPaQIJENhLz"
+      },
+      "artists": [
+        {
+          "name": "The Ethiopians",
+          "url": "https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176386,
+      "name": "Train to Skaville",
+      "url": "https://open.spotify.com/track/1tYJEB13Cn2B9PBSqiZhfH"
+    },
+    {
+      "album": {
         "name": "Engine 54",
         "url": "https://open.spotify.com/album/5au1BqNBpQFx0TCmIE3KZz"
       },
@@ -8152,7 +8352,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 177000,
       "name": "Train to Skaville",
       "url": "https://open.spotify.com/track/44L7aDHaRzb9pMWEZjSH8u"
@@ -8578,10 +8778,28 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 197986,
       "name": "What Does It Take (To Win Your Love)",
       "url": "https://open.spotify.com/track/3CCm37PRX6o0SAzgzR2WiD"
+    },
+    {
+      "album": {
+        "name": "Mr Soul of Jamaica",
+        "url": "https://open.spotify.com/album/5MhTOmbSVidfCmVydvjRC1"
+      },
+      "artists": [
+        {
+          "name": "Alton Ellis",
+          "url": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197986,
+      "name": "What Does It Take (To Win Your Love)",
+      "url": "https://open.spotify.com/track/6J8U61GzxAtarXWU0xlaEF"
     },
     {
       "album": {
@@ -8596,10 +8814,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 198720,
       "name": "What Will Your Mama Say",
       "url": "https://open.spotify.com/track/443VQIhCLNhVnQlQqHgIOM"
+    },
+    {
+      "album": {
+        "name": "Freedom (Expanded Version)",
+        "url": "https://open.spotify.com/album/16mJyrrGGTZwu3q08ypE35"
+      },
+      "artists": [
+        {
+          "name": "Clancy Eccles",
+          "url": "https://open.spotify.com/artist/0YVtA75CDCz5FYqis7Kf8v"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198720,
+      "name": "What Will Your Mama Say",
+      "url": "https://open.spotify.com/track/4vmASTAm65xYp9CvcEpeG8"
     },
     {
       "album": {

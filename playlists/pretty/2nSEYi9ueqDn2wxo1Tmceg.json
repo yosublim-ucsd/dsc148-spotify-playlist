@@ -1,13 +1,33 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 75922,
+  "num_followers": 75923,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzgwNCxjZWEzYTM0MTE1NWJhMzZlZGRmMTk4MmVjNTVjMzIxN2YzYjZlOTU5",
+  "snapshot_id": "MzgwNSwzZTcxNGY1N2M5YWJlMTNiMjYzMTc1NmEyZjM1ZWRmZGEwYzRhMzE4",
   "tracks": [
+    {
+      "added_at": "2023-11-02 11:09:52",
+      "album": {
+        "name": "Moss Side Fish Fry",
+        "url": "https://open.spotify.com/album/0SFpq0bSpEMX0xg0MLPMM0"
+      },
+      "artists": [
+        {
+          "name": "Steve Mason",
+          "url": "https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU"
+        },
+        {
+          "name": "OneDa",
+          "url": "https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr"
+        }
+      ],
+      "duration_ms": 252661,
+      "name": "Moss Side Fish Fry",
+      "url": "https://open.spotify.com/track/28HJJDTHudlwGXeurKzXrW"
+    },
     {
       "added_at": "2023-11-01 10:50:08",
       "album": {

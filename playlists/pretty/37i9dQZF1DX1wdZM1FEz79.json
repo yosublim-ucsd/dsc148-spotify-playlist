@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Won Tae Rim(\uc6d0\ud0dc\ub9bc)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 280216,
+  "num_followers": 280299,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjExMDYwOGZhZTkxOGVhM2U1Y2U0N2MwYWYzY2M2NTZmZDkwNjVj",
+  "snapshot_id": "MCwzMjU0OTNlMmRkNDdiNzI3NGYxODhiY2QzY2E4NGQ5M2M0ZjMyZDgz",
   "tracks": [
     {
       "added_at": "2023-10-27 04:56:54",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-10-27 04:56:54",
       "album": {
+        "name": "So life goes on",
+        "url": "https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "duration_ms": 194633,
+      "name": "So life goes on",
+      "url": "https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E"
+    },
+    {
+      "added_at": "2023-10-27 04:56:54",
+      "album": {
         "name": "Autumn breeze",
         "url": "https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2023-10-27 04:56:54",
       "album": {
-        "name": "So life goes on",
-        "url": "https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36"
-      },
-      "artists": [
-        {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
-        }
-      ],
-      "duration_ms": 194633,
-      "name": "So life goes on",
-      "url": "https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E"
-    },
-    {
-      "added_at": "2023-10-27 04:56:54",
-      "album": {
         "name": "Dear my X",
         "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
       },
@@ -487,26 +487,6 @@
       "duration_ms": 187733,
       "name": "Dear my X",
       "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
-    },
-    {
-      "added_at": "2023-10-27 04:56:54",
-      "album": {
-        "name": "Just 10 centimeters",
-        "url": "https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Just 10 centimeters",
-      "url": "https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY"
     },
     {
       "added_at": "2023-10-27 04:56:54",
@@ -527,6 +507,26 @@
       "duration_ms": 281658,
       "name": "DREAM LIKE ME",
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
+    },
+    {
+      "added_at": "2023-10-27 04:56:54",
+      "album": {
+        "name": "Just 10 centimeters",
+        "url": "https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Just 10 centimeters",
+      "url": "https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY"
     },
     {
       "added_at": "2023-10-27 04:56:54",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-27 04:56:54",
       "album": {
-        "name": "Paint",
-        "url": "https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A"
-      },
-      "artists": [
-        {
-          "name": "MoonMoon",
-          "url": "https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV"
-        }
-      ],
-      "duration_ms": 188196,
-      "name": "Paint",
-      "url": "https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4"
-    },
-    {
-      "added_at": "2023-10-27 04:56:54",
-      "album": {
         "name": "Sun And Moon",
         "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 249771,
       "name": "Sunny Days, Summer Nights",
       "url": "https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q"
+    },
+    {
+      "added_at": "2023-10-27 04:56:54",
+      "album": {
+        "name": "Paint",
+        "url": "https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A"
+      },
+      "artists": [
+        {
+          "name": "MoonMoon",
+          "url": "https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV"
+        }
+      ],
+      "duration_ms": 188196,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4"
     },
     {
       "added_at": "2023-10-27 04:56:54",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-10-27 04:56:54",
       "album": {
-        "name": "O_ne",
-        "url": "https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C"
+        "name": "Destined with You (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/14gtejc7d8d85MVpb8mL2E"
       },
       "artists": [
         {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+          "name": "\ud6c8\uc815\uc591",
+          "url": "https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp"
         }
       ],
-      "duration_ms": 263453,
-      "name": "How's your night",
-      "url": "https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8"
+      "duration_ms": 206253,
+      "name": "Can I Be Me",
+      "url": "https://open.spotify.com/track/6EUtGHQUEvqH1LzaitgSXw"
     },
     {
       "added_at": "2023-10-27 04:56:54",
@@ -779,34 +779,18 @@
     {
       "added_at": "2023-10-27 04:56:54",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/14gtejc7d8d85MVpb8mL2E"
+        "name": "O_ne",
+        "url": "https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C"
       },
       "artists": [
         {
-          "name": "\ud6c8\uc815\uc591",
-          "url": "https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp"
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
         }
       ],
-      "duration_ms": 206253,
-      "name": "Can I Be Me",
-      "url": "https://open.spotify.com/track/6EUtGHQUEvqH1LzaitgSXw"
-    },
-    {
-      "added_at": "2023-10-27 04:56:54",
-      "album": {
-        "name": "Uncontrollably Fond OST Part.14",
-        "url": "https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh"
-      },
-      "artists": [
-        {
-          "name": "New Empire",
-          "url": "https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ"
-        }
-      ],
-      "duration_ms": 206854,
-      "name": "A Little Braver",
-      "url": "https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH"
+      "duration_ms": 263453,
+      "name": "How's your night",
+      "url": "https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8"
     },
     {
       "added_at": "2023-10-27 04:56:54",
@@ -823,6 +807,22 @@
       "duration_ms": 273333,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/6gxVNoinjJVVpGryxillDN"
+    },
+    {
+      "added_at": "2023-10-27 04:56:54",
+      "album": {
+        "name": "Uncontrollably Fond OST Part.14",
+        "url": "https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh"
+      },
+      "artists": [
+        {
+          "name": "New Empire",
+          "url": "https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ"
+        }
+      ],
+      "duration_ms": 206854,
+      "name": "A Little Braver",
+      "url": "https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH"
     },
     {
       "added_at": "2023-10-27 04:56:54",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-10-27 04:56:54",
       "album": {
-        "name": "H_ello?",
-        "url": "https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "I want to be a pillow",
-      "url": "https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk"
-    },
-    {
-      "added_at": "2023-10-27 04:56:54",
-      "album": {
         "name": "I AM SAM",
         "url": "https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 258961,
       "name": "YOUR SONG (With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah)",
       "url": "https://open.spotify.com/track/610IckJdwTyY8nez5v64DH"
+    },
+    {
+      "added_at": "2023-10-27 04:56:54",
+      "album": {
+        "name": "H_ello?",
+        "url": "https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "I want to be a pillow",
+      "url": "https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk"
     }
   ],
   "unique_name": "K-Folk/Acoustic",

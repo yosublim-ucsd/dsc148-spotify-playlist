@@ -1203,6 +1203,28 @@
     },
     {
       "album": {
+        "name": "Gorah",
+        "url": "https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Gorah",
+      "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
+    },
+    {
+      "album": {
         "name": "Goumi (R3HAB MDLBEAST Remix)",
         "url": "https://open.spotify.com/album/0UQKnfwY5K0f4yE6aJG8lN"
       },
@@ -1408,7 +1430,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO & Issam Alnajjar) - Radio Edit",
       "url": "https://open.spotify.com/track/2gqnO3cvjvBNTYr9dMNZIn"
@@ -2219,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/5AxqSoZnhNy5Na65UZTTIz"
+      },
+      "artists": [
+        {
+          "name": "Omar Basaad",
+          "url": "https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/4KbfDwkYomFfWCnN80rBcL"
+    },
+    {
+      "album": {
         "name": "Moulayiten",
         "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
       },
@@ -2892,7 +2932,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 151304,
       "name": "Tangerines",
       "url": "https://open.spotify.com/track/5OqAt7yFGoyAV9PEOAmfa1"
@@ -3018,6 +3058,24 @@
       "duration_ms": 267946,
       "name": "Turn On The Lights again.. (feat. Future)",
       "url": "https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ"
+    },
+    {
+      "album": {
+        "name": "Unutmam",
+        "url": "https://open.spotify.com/album/7KNZEBv3ZufECaxejSzeWr"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "Unutmam",
+      "url": "https://open.spotify.com/track/4xHsMJIOcpmcGHsiCo4arP"
     },
     {
       "album": {
@@ -3452,7 +3510,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 292340,
       "name": "Yena'al Li",
       "url": "https://open.spotify.com/track/5HhdXBRK4cI9mVO6Y9G4WT"

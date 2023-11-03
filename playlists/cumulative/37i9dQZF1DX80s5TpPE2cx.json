@@ -1582,10 +1582,28 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 129955,
       "name": "Still II",
       "url": "https://open.spotify.com/track/3n93IQsYtjrig79670GI4i"
+    },
+    {
+      "album": {
+        "name": "Still II",
+        "url": "https://open.spotify.com/album/4suYeq2z1bGkU9AftrlMU7"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129955,
+      "name": "Still II",
+      "url": "https://open.spotify.com/track/7fVEkRuAjRlEWd6GPSdSuP"
     },
     {
       "album": {

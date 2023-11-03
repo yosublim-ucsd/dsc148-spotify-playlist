@@ -4,7 +4,7 @@
 
 > Dreaming of a white Christmas ✨❄️
 
-323 songs - 17 hr 41 min
+324 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Christmas Time Is Here](https://open.spotify.com/track/6w7Gyt2FzAGeacHgTi6rvi) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Fa la la la la](https://open.spotify.com/album/0JsfOlNgjBrDUSs1FJx70P) | 3:02 | 2021-12-24 | 2022-07-29 |
 | [Christmas Time's A Comin'](https://open.spotify.com/track/4DfkKEmirSH505jdSR2m2i) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Christmas Time's A Comin'](https://open.spotify.com/album/3MKhVxsFUt1XYgMCZ4UkPN) | 2:43 | 2021-12-24 | 2023-04-07 |
 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 | 2023-10-13 |  |
-| [christmas vacation](https://open.spotify.com/track/5il893TZOiFSpukoeuHoVc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [christmas vacation](https://open.spotify.com/album/3wQIx8fylcIeKYMmfzVDkp) | 2:13 | 2021-12-24 |  |
+| [christmas vacation](https://open.spotify.com/track/5il893TZOiFSpukoeuHoVc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [christmas vacation](https://open.spotify.com/album/3wQIx8fylcIeKYMmfzVDkp) | 2:13 | 2021-12-24 | 2023-11-03 |
 | [Christmas Wish](https://open.spotify.com/track/7KjfBz0hlLmft93hXT4aof) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb), [Lucas Gienow](https://open.spotify.com/artist/5EQ90aD2D9ar2KvT8P5laN) | [Christmas Wish](https://open.spotify.com/album/6z284o61vNmsgZT29q0agY) | 2:45 | 2022-11-18 | 2022-12-19 |
 | [Christmas Without You](https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Christmas Without You](https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7) | 2:49 | 2023-10-13 |  |
 | [Christmas Wrapping](https://open.spotify.com/track/1O2ymfIOPUz7RLzjDCnCWv) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/1ANKUQ8iU1mnN3jpGXFiT1) | 4:17 | 2023-10-13 |  |
@@ -164,6 +164,7 @@
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/1SNWQrpsdeCcm9k5OYnIPV) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs Of December \(International Version\)](https://open.spotify.com/album/3119F0UcdVJ8ZME3WDF8MY) | 4:49 | 2021-12-24 | 2022-07-28 |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs of December \(Anniversary Edition\)](https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk) | 4:49 | 2021-12-24 | 2023-10-14 |
 | [It’s Me & You \(This Christmas\)](https://open.spotify.com/track/77uAudKrrHMGMEOKLY24Zs) | [Elijah Woods x Jamie Fine](https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1) | [It's Me & You \(This Christmas\)](https://open.spotify.com/album/6RzwwQCGUvDObqgEW2pnBp) | 2:28 | 2021-12-24 | 2023-10-14 |
+| [It’s the Most Wonderful Time of the Year](https://open.spotify.com/track/0WLIbB8fuPqd8vStuFMPkn) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [It’s the Most Wonderful Time of the Year](https://open.spotify.com/album/1p5EbImNkZo1tONY68jMBG) | 2:35 | 2023-10-27 |  |
 | [Jingle All The Way / Jingle Bells / Hark The Herald Angels Sing \- Medley / Alternate Version](https://open.spotify.com/track/3c96DLRFxEpEmXBRSh2n3L) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Jingle All The Way \(Alternate Version\)](https://open.spotify.com/album/04IO52eF1aSGDjk6H375SY) | 2:52 | 2021-12-24 | 2022-11-13 |
 | [Jingle Bell Rock](https://open.spotify.com/track/1D7hNc5MALLU7RyjJ1j7NH) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Jingle Bell Rock](https://open.spotify.com/album/6aopXHhakGmlAGxMB5lmXw) | 2:04 | 2021-12-24 | 2022-07-29 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2023-10-13 |  |

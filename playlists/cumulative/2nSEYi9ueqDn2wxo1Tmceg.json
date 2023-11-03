@@ -7477,6 +7477,28 @@
     },
     {
       "album": {
+        "name": "Moss Side Fish Fry",
+        "url": "https://open.spotify.com/album/0SFpq0bSpEMX0xg0MLPMM0"
+      },
+      "artists": [
+        {
+          "name": "Steve Mason",
+          "url": "https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU"
+        },
+        {
+          "name": "OneDa",
+          "url": "https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252661,
+      "name": "Moss Side Fish Fry",
+      "url": "https://open.spotify.com/track/28HJJDTHudlwGXeurKzXrW"
+    },
+    {
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/038nzTPTer7dDaM9Z5K4M6"
       },

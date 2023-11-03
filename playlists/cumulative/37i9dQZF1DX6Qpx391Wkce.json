@@ -430,6 +430,28 @@
     {
       "album": {
         "name": "Generalisation (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0QCZSXbN2coY3JdASBfKj9"
+      },
+      "artists": [
+        {
+          "name": "Midfield General",
+          "url": "https://open.spotify.com/artist/7pFRZzpdFnoC3XnilFWEOr"
+        },
+        {
+          "name": "Dave Clarke",
+          "url": "https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322594,
+      "name": "Coatnoise (Dave Clarke Remix)",
+      "url": "https://open.spotify.com/track/4UwbPg04eO9eNpW0XGCYbS"
+    },
+    {
+      "album": {
+        "name": "Generalisation (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53LV50a3r9n6MLvFUHr1TY"
       },
       "artists": [
@@ -440,7 +462,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 322594,
       "name": "Coatnoise - Dave Clarke Remix",
       "url": "https://open.spotify.com/track/2sJlMjGUzMr58tkV1tdOyx"

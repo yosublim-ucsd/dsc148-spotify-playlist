@@ -1,12 +1,12 @@
 {
   "description": "The hottest songs you need to listen to right now. Cover: Taylor Swift",
-  "num_followers": 2341332,
+  "num_followers": 2341507,
   "original_name": "It's a Hit!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGY4MGQ4OTg3MTRjMTlkNDYzNThkNDQ0NjgyMzNhN2EzNzgxZTg5",
+  "snapshot_id": "MCw0NWVhNDk2NzM2MmFlNjVhNjdhNzU1YTA1MDgwMDllNDk0M2Y2ODlm",
   "tracks": [
     {
       "added_at": "2023-10-30 00:16:21",
@@ -275,26 +275,6 @@
       "duration_ms": 154360,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
-    },
-    {
-      "added_at": "2023-10-30 00:16:21",
-      "album": {
-        "name": "A Night To Remember",
-        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 233388,
-      "name": "A Night To Remember",
-      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
     },
     {
       "added_at": "2023-10-30 00:16:21",

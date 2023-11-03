@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzQ3NDAwOWViYTJjYWI4NmM0OTdkMGJkYWU3ODU0YzU5ZjA3N2Ex",
+  "snapshot_id": "MCw4ZDlkZTQ1NWE4YzgyMjY4NmVjYmZmNjM1Y2JjZTM1NmNjMDQzOWU0",
   "tracks": [
     {
       "added_at": "2018-12-11 21:48:39",
@@ -807,22 +807,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Hello Starling",
-        "url": "https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 248453,
-      "name": "Kathleen",
-      "url": "https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Sprained Ankle",
         "url": "https://open.spotify.com/album/3DvUGOMZgAr6PaToI7Vwwl"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 232550,
       "name": "Something",
       "url": "https://open.spotify.com/track/0BhM0Kr7Gc4uOIdVE3lXvt"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Hello Starling",
+        "url": "https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 248453,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -903,22 +903,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Blake Mills",
-        "url": "https://open.spotify.com/album/5DGnrJSx7nuDC8WrD2EOyu"
-      },
-      "artists": [
-        {
-          "name": "Blake Mills",
-          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
-        }
-      ],
-      "duration_ms": 256442,
-      "name": "Wintersong",
-      "url": "https://open.spotify.com/track/4yXl4ddCMdM7TTDcylRzLP"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Big Wheel and Others",
         "url": "https://open.spotify.com/album/4VzHqZqj7qvWcTeic9pB77"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 257453,
       "name": "There Can Be Only One",
       "url": "https://open.spotify.com/track/4YNGgPmj7nkrCKQpaGRxav"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Blake Mills",
+        "url": "https://open.spotify.com/album/5DGnrJSx7nuDC8WrD2EOyu"
+      },
+      "artists": [
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "duration_ms": 256442,
+      "name": "Wintersong",
+      "url": "https://open.spotify.com/track/4yXl4ddCMdM7TTDcylRzLP"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Life Is People",
-        "url": "https://open.spotify.com/album/4OPjodaA5Uo5DReCKIp1rb"
-      },
-      "artists": [
-        {
-          "name": "Bill Fay",
-          "url": "https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1"
-        }
-      ],
-      "duration_ms": 314200,
-      "name": "The Healing Day",
-      "url": "https://open.spotify.com/track/4oObNo6gbtVdFmC9SVPGHF"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 261560,
       "name": "On the Attack",
       "url": "https://open.spotify.com/track/1wOR1yWj7PlnQRbL5QneuJ"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Life Is People",
+        "url": "https://open.spotify.com/album/4OPjodaA5Uo5DReCKIp1rb"
+      },
+      "artists": [
+        {
+          "name": "Bill Fay",
+          "url": "https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1"
+        }
+      ],
+      "duration_ms": 314200,
+      "name": "The Healing Day",
+      "url": "https://open.spotify.com/track/4oObNo6gbtVdFmC9SVPGHF"
     },
     {
       "added_at": "2018-12-11 21:48:39",

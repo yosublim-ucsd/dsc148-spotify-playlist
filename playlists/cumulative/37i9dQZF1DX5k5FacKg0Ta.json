@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 430533,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/5l3ZxOyIznDtRYxTLFjJcl"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 876680,
       "name": "G.G.'s Last Dance",
       "url": "https://open.spotify.com/track/5bfUURRfjsXDhicXAXMGUG"
@@ -2191,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "Pilkun paikka",
+        "url": "https://open.spotify.com/album/0iGEN3CCuIRI3G5aosO1YO"
+      },
+      "artists": [
+        {
+          "name": "Kalavale",
+          "url": "https://open.spotify.com/artist/4cR91DMJ36lHmppNRyTUyZ"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171253,
+      "name": "Pilkun paikka",
+      "url": "https://open.spotify.com/track/0rlKeYldBS2IqO3oulrcdK"
+    },
+    {
+      "album": {
         "name": "Juniper",
         "url": "https://open.spotify.com/album/1EeacK8xt3mauU0iuuqWgN"
       },
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 329426,
       "name": "Pinetree Song",
       "url": "https://open.spotify.com/track/1CUYeDX079nUIF7HYOSEjS"
@@ -2428,6 +2446,24 @@
       "duration_ms": 268000,
       "name": "Sauna Island",
       "url": "https://open.spotify.com/track/1f4elItJX2wwG1AmeVzV3O"
+    },
+    {
+      "album": {
+        "name": "Monkey Mind",
+        "url": "https://open.spotify.com/album/3rwh0JR9Y8UYoEJi8U7ulO"
+      },
+      "artists": [
+        {
+          "name": "Verneri Pohjola",
+          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308773,
+      "name": "Save This One for When You Need It",
+      "url": "https://open.spotify.com/track/0U8dPLAIsUIWK5Aty2jByw"
     },
     {
       "album": {
@@ -2660,7 +2696,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 201369,
       "name": "Somewhere - Live",
       "url": "https://open.spotify.com/track/4xKzPEenA1MQHpbwG7xCy7"
@@ -3078,6 +3114,24 @@
       "duration_ms": 288219,
       "name": "Trial by Fire",
       "url": "https://open.spotify.com/track/37aSF6UCYfvPEXdCjHLvKY"
+    },
+    {
+      "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/7Js6Q1TX5YB7PTvhgnPtKC"
+      },
+      "artists": [
+        {
+          "name": "Peela",
+          "url": "https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399785,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/3mRP9loGOgziATfqC21ipN"
     },
     {
       "album": {

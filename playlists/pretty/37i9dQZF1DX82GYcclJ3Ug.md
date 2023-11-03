@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Black Pumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,108 likes - 119 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,124 likes - 119 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 118 | [Shame](https://open.spotify.com/track/13swfFYhwoWSLEapqzKuOu) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Shame](https://open.spotify.com/album/3eRKQENql7BXinKBXp5HMU) | 2:34 |
 | 119 | [Impressively Average](https://open.spotify.com/track/1sL6n9kMtrlAvPokQKlZGP) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Impressively Average](https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv) | 3:18 |
 
-Snapshot ID: `MCw4NjhjNWI1MjgxNzFkYzEyZjY2ZGUwZTVhNGM3YTg3YTNlMDcwODgx`
+Snapshot ID: `MCw4ZDNkY2YxYmUyYWI4OGU4OGNlYmQwNDcxNjkyNjI1N2FjMzFhNzE1`

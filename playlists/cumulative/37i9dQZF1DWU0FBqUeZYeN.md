@@ -4,7 +4,7 @@
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-260 songs - 14 hr 16 min
+261 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,8 +55,9 @@
 | [Complication](https://open.spotify.com/track/4Sb3TdqgOi35RoL78Y1LtC) | [The Monks](https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy) | [Black Monk Time](https://open.spotify.com/album/0YEmNXaNDq03tfgFmG4MOj) | 2:22 | 2015-07-23 |  |
 | [Crash Street Kids](https://open.spotify.com/track/65lVNwkJ1cbfGbeLFhj7Os) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [Original Album Classics](https://open.spotify.com/album/2W6CYtke7aesUBR8D8gWt6) | 4:29 | 2015-07-23 | 2022-07-29 |
 | [Crash Street Kids](https://open.spotify.com/track/6Zyrh0uqZohncpzrqizRCn) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [The Hoople](https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am) | 4:29 | 2015-07-23 |  |
+| [Creature Feature](https://open.spotify.com/track/3TsUKtevxYIKCg1oAO1Fl8) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [The Second Album + The First Rehearsal Tapes](https://open.spotify.com/album/4VwDw0pfCmEmKaHNnto5mj) | 3:37 | 2015-07-23 |  |
 | [Creature Feature](https://open.spotify.com/track/5Olq7KLWS7dNBDa43rgQmt) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [The Second Album + the First Rehearsal Tapes](https://open.spotify.com/album/2oR4YRVmnxVTiRGbR8k5G7) | 3:37 | 2015-07-23 | 2022-07-29 |
-| [Creature Feature](https://open.spotify.com/track/7cDsnWV6zw2iUYFPXZe7Yo) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [The Second Album + The First Rehearsal Tapes](https://open.spotify.com/album/6X3IumYsTS91vfxDVxRd04) | 3:37 | 2015-07-23 |  |
+| [Creature Feature](https://open.spotify.com/track/7cDsnWV6zw2iUYFPXZe7Yo) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [The Second Album + The First Rehearsal Tapes](https://open.spotify.com/album/6X3IumYsTS91vfxDVxRd04) | 3:37 | 2015-07-23 | 2023-11-03 |
 | [Crosstown Traffic](https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:26 | 2019-06-19 |  |
 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 | 2019-06-19 |  |
 | [Dirty Water](https://open.spotify.com/track/3NINDFPIYnyT26cWWRomOQ) | [The Standells](https://open.spotify.com/artist/4BM6qze88exQPVILQpcYpj) | [Dirty Water \(Expanded Edition\)](https://open.spotify.com/album/621zErvBJeovty6dAx4PDn) | 2:47 | 2015-07-23 |  |

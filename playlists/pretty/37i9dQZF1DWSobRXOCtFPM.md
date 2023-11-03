@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,632 likes - 64 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,672 likes - 64 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 6 | [Rhythm Of Future](https://open.spotify.com/track/5ByyD34KLxs9ERAQ1Khcfv) | [Kreso](https://open.spotify.com/artist/6L2QcHmLKEJTB2XhODBAyT), [Just Frank](https://open.spotify.com/artist/6tMD9uX2BaPLnKloVrjiuV) | [Rhythm Of Future](https://open.spotify.com/album/0NTbb6gFlEvf9R8s7Wh6Zk) | 6:31 |
 | 7 | [She Hates That Chord](https://open.spotify.com/track/6KG3nib4DciCHi9L4QVfH7) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Elderberry](https://open.spotify.com/album/6lwKzII8SY9xBrzVGhpmPX) | 5:58 |
 | 8 | [Music Is Life \- Deep Mix](https://open.spotify.com/track/5nCFYGPlcrlpuPGMkEwjgm) | [Bushwacka!](https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [Music Is Life](https://open.spotify.com/album/7ryXbYGT910BTiS6yLAiSn) | 6:54 |
-| 9 | [Get After It](https://open.spotify.com/track/2X4XzzpdI1eMMFPMsScPov) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 6:02 |
+| 9 | [Get After It](https://open.spotify.com/track/1vzBrVx1KAUMfz0Zuf5E3I) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs) | 6:02 |
 | 10 | [Music Is Life \- Main Mix](https://open.spotify.com/track/1Wy9vsNoymAlUsr4NpV5C9) | [Bushwacka!](https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [Music Is Life](https://open.spotify.com/album/7ryXbYGT910BTiS6yLAiSn) | 6:05 |
 | 11 | [Tasty Nozoid](https://open.spotify.com/track/6eKX3bxCD8TROFZJbjNo2Q) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Elderberry](https://open.spotify.com/album/6lwKzII8SY9xBrzVGhpmPX) | 1:58 |
 | 12 | [This Is](https://open.spotify.com/track/29POmyLzrgJDQZLhNJNZd0) | [Kreso](https://open.spotify.com/artist/6L2QcHmLKEJTB2XhODBAyT), [Just Frank](https://open.spotify.com/artist/6tMD9uX2BaPLnKloVrjiuV) | [Rhythm Of Future](https://open.spotify.com/album/0NTbb6gFlEvf9R8s7Wh6Zk) | 5:51 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 63 | [Intentionally \- Carl Cox Remix](https://open.spotify.com/track/2CnbcGoBNtbSjgF8pYJ71Y) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Intentionally](https://open.spotify.com/album/6BZvZr6rHBJEOFABiAjqxz) | 6:10 |
 | 64 | [Cluster](https://open.spotify.com/track/2Bjbr5y63hEVubSpfPFbik) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \- EP](https://open.spotify.com/album/13n18iOU6x7D1gmEupfDF4) | 7:37 |
 
-Snapshot ID: `MCw3ODFjZDMxOWNkYTY2ZGJmZWQ4MzU1M2FmOTRjOTBiNDNlMGQxM2Fj`
+Snapshot ID: `MCw5MjQ0M2UzM2RmZmEzNjBjYjE2NWVkOGJjMzQ0ZWI1ODg2YjkxZmI4`

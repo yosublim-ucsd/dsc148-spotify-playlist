@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
-  "num_followers": 96855,
+  "num_followers": 96921,
   "original_name": "Top 50 - Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUyMjAzMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUyMjg5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "NA PAS",
         "url": "https://open.spotify.com/album/5RV5eU4vDbYOy9RYb9vGDa"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/6LDOMYlK4NGHVwZYhpmkJB"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "OAED",
         "url": "https://open.spotify.com/album/7svRvwnZElMgZmurQv8ROb"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/465fe0UfQPTxl1xK3judQQ"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/5jiohoUO0HwpQ8l6VmeRvu"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/4ZMb2KrcIvgVIxqFRti1Fl"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "G63",
         "url": "https://open.spotify.com/album/3KGGiWYENInpJNNaTdSqPT"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/0WvuEJoLBHWUiDg2lsvYH8"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "ANASAINO KAI ZALIZOMAI",
         "url": "https://open.spotify.com/album/2UgIdLydL04XUygE4rqF6j"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/0Wl2xRQZH2c5GdYLJIGCaN"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "MONROE",
         "url": "https://open.spotify.com/album/6GZPBQUrndHeqKvnCsctNV"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/092cosCIwDmGcBJuWfClwz"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "Euro Gangsta",
         "url": "https://open.spotify.com/album/7DOnQ7kpPMbytOLzLvXynp"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/0ifihkLHfnm6Ym3jekzZQv"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "ME N U",
         "url": "https://open.spotify.com/album/2TXNynYdn4d6XXeYlGPQbZ"
@@ -177,23 +177,7 @@
       "url": "https://open.spotify.com/track/2ouWSRC1YsQX6JAwosfTFJ"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
-      "album": {
-        "name": "IBRA",
-        "url": "https://open.spotify.com/album/2rECNULAoj208MVJNRh2yt"
-      },
-      "artists": [
-        {
-          "name": "SNIK",
-          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
-        }
-      ],
-      "duration_ms": 139353,
-      "name": "IBRA",
-      "url": "https://open.spotify.com/track/0loJREraQLLtQxO6oq1R5X"
-    },
-    {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "No Sleep",
         "url": "https://open.spotify.com/album/2peljNrepnuuVPc8PKSCpE"
@@ -213,43 +197,23 @@
       "url": "https://open.spotify.com/track/5nM5TStrOQt5HQAt4VzyHz"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
-        "name": "Ola Kala",
-        "url": "https://open.spotify.com/album/25vFcAwCSIZzVID0k8sdXP"
+        "name": "IBRA",
+        "url": "https://open.spotify.com/album/2rECNULAoj208MVJNRh2yt"
       },
       "artists": [
         {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
         }
       ],
-      "duration_ms": 186428,
-      "name": "Ola Kala",
-      "url": "https://open.spotify.com/track/0pqkfIGOaW41isgsnzdGpQ"
+      "duration_ms": 139353,
+      "name": "IBRA",
+      "url": "https://open.spotify.com/track/0loJREraQLLtQxO6oq1R5X"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
-      "album": {
-        "name": "SPITI",
-        "url": "https://open.spotify.com/album/3obNPGpOdBlzMTpIoNnYIH"
-      },
-      "artists": [
-        {
-          "name": "SIDARTA",
-          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
-        },
-        {
-          "name": "Yll Limani",
-          "url": "https://open.spotify.com/artist/2qI59HaiEtvev8vnUkmRpT"
-        }
-      ],
-      "duration_ms": 242696,
-      "name": "SPITI",
-      "url": "https://open.spotify.com/track/5cOMNVN6kTWvOdcLd7SWej"
-    },
-    {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "ATOUTALER",
         "url": "https://open.spotify.com/album/3sxEzMEqCbsQdlNmnATn5b"
@@ -273,7 +237,43 @@
       "url": "https://open.spotify.com/track/2ZTxf5fvD1tXEEyjUcYxN1"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
+      "album": {
+        "name": "Ola Kala",
+        "url": "https://open.spotify.com/album/25vFcAwCSIZzVID0k8sdXP"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "Ola Kala",
+      "url": "https://open.spotify.com/track/0pqkfIGOaW41isgsnzdGpQ"
+    },
+    {
+      "added_at": "2023-11-02 08:35:21",
+      "album": {
+        "name": "SPITI",
+        "url": "https://open.spotify.com/album/3obNPGpOdBlzMTpIoNnYIH"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Yll Limani",
+          "url": "https://open.spotify.com/artist/2qI59HaiEtvev8vnUkmRpT"
+        }
+      ],
+      "duration_ms": 242696,
+      "name": "SPITI",
+      "url": "https://open.spotify.com/track/5cOMNVN6kTWvOdcLd7SWej"
+    },
+    {
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "KOITA ME",
         "url": "https://open.spotify.com/album/28Fclov99SuAnq1kEgxtVk"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/0ZXqymmpvFMwb2FmR48C6F"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "MADONNA",
         "url": "https://open.spotify.com/album/32R1ZOZSwON3OTq8vzu9bp"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/7tm2QxjUmrjkZZMdHrgFhf"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "DEJA VU",
         "url": "https://open.spotify.com/album/0ULK0fLsbe6FNPatNU84n8"
@@ -333,7 +333,27 @@
       "url": "https://open.spotify.com/track/3q6ayHzfLJIx22oQXoYlyi"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
+      "album": {
+        "name": "MI TESORO",
+        "url": "https://open.spotify.com/album/7ohX8NXS3jsHTP6OiFV2HD"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        }
+      ],
+      "duration_ms": 112211,
+      "name": "MI TESORO",
+      "url": "https://open.spotify.com/track/3qbFPHgr08BxwBKVNQOWjJ"
+    },
+    {
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "90s",
         "url": "https://open.spotify.com/album/3SyFvXfA4Kbiua74nj1voL"
@@ -357,27 +377,7 @@
       "url": "https://open.spotify.com/track/61a8gUhQhA4bBCIiRxvk4J"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
-      "album": {
-        "name": "MI TESORO",
-        "url": "https://open.spotify.com/album/7ohX8NXS3jsHTP6OiFV2HD"
-      },
-      "artists": [
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
-        },
-        {
-          "name": "Ramoon",
-          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
-        }
-      ],
-      "duration_ms": 112211,
-      "name": "MI TESORO",
-      "url": "https://open.spotify.com/track/3qbFPHgr08BxwBKVNQOWjJ"
-    },
-    {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "STILL ARISE",
         "url": "https://open.spotify.com/album/0ZXSRUcYYjYy3wOxYPczwX"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/36t254os2gXg53f7728E2F"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "AGAPI (Remix)",
         "url": "https://open.spotify.com/album/4ztpSrV0s93JCRmizu6tlW"
@@ -421,7 +421,23 @@
       "url": "https://open.spotify.com/track/7pQJFF9uu0GpVbHoDtW3sl"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
+      "album": {
+        "name": "Big Moves (Vol. 4)",
+        "url": "https://open.spotify.com/album/2Mk4Aq6YjkWnpunDdHLCPP"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        }
+      ],
+      "duration_ms": 158793,
+      "name": "Big Moves - Vol. 4",
+      "url": "https://open.spotify.com/track/0lERxH3jbcidjxfTrarujg"
+    },
+    {
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "WKEANOUS",
         "url": "https://open.spotify.com/album/3ozfHeYk4S4aV11Czfc4Ul"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/4R2e2aZ1oHB2kZkJTKJtCY"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "Stripclub - Jimmy Choo",
         "url": "https://open.spotify.com/album/2IsryOQ53jlJXySKSghYXW"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/1ETfPljlgGcoHzpAcagBAA"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "Barbie",
         "url": "https://open.spotify.com/album/5ljOcnoiccIAFXtAsorfAc"
@@ -481,7 +497,31 @@
       "url": "https://open.spotify.com/track/1Mo0mUoAJ15QaYRYjlcI2Y"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
+      "album": {
+        "name": "KAPOTE",
+        "url": "https://open.spotify.com/album/5v05Um8jf5EAg4zyWgIZkN"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "MUNEYLXRD",
+          "url": "https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB"
+        },
+        {
+          "name": "Fullife",
+          "url": "https://open.spotify.com/artist/6M0cPjKNRCTRgH0A4HKoeK"
+        }
+      ],
+      "duration_ms": 155166,
+      "name": "KAPOTE",
+      "url": "https://open.spotify.com/track/4HrtkH6VWOqrstEi1psSux"
+    },
+    {
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "MONOS",
         "url": "https://open.spotify.com/album/3dOVV0NFY12IASzngB411y"
@@ -509,7 +549,7 @@
       "url": "https://open.spotify.com/track/6104vmH44puCfW9cDqh0ET"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "FEMINISTIS",
         "url": "https://open.spotify.com/album/1YlmZWvyLHLJucCvxuVkPc"
@@ -525,7 +565,7 @@
       "url": "https://open.spotify.com/track/3CBZxjDHQpgvHsnqF06CSu"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "5D",
         "url": "https://open.spotify.com/album/7jODSwwcloG6ToBWAegBho"
@@ -545,31 +585,23 @@
       "url": "https://open.spotify.com/track/3cGYbsm5YpNMSSyUjTvlzw"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
-        "name": "KAPOTE",
-        "url": "https://open.spotify.com/album/5v05Um8jf5EAg4zyWgIZkN"
+        "name": "Efhi",
+        "url": "https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB"
       },
       "artists": [
         {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
-        },
-        {
-          "name": "MUNEYLXRD",
-          "url": "https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB"
-        },
-        {
-          "name": "Fullife",
-          "url": "https://open.spotify.com/artist/6M0cPjKNRCTRgH0A4HKoeK"
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
         }
       ],
-      "duration_ms": 155166,
-      "name": "KAPOTE",
-      "url": "https://open.spotify.com/track/4HrtkH6VWOqrstEi1psSux"
+      "duration_ms": 177150,
+      "name": "Simadi",
+      "url": "https://open.spotify.com/track/2ILpP6nlR7QndbxtzLbZ7K"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -585,7 +617,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "9MM",
         "url": "https://open.spotify.com/album/2Vy0cXlJ5FHhVb1S69o4TN"
@@ -605,7 +637,7 @@
       "url": "https://open.spotify.com/track/3EYVgA1fsZ3ZrcE5vpIzYf"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "Ton Kosmo Girizo",
         "url": "https://open.spotify.com/album/6y49FBmAs42SXNX1MazPjD"
@@ -621,23 +653,23 @@
       "url": "https://open.spotify.com/track/6xPJAhprbkceB2j3klCum1"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
-        "name": "Efhi",
-        "url": "https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB"
+        "name": "19",
+        "url": "https://open.spotify.com/album/6Y81Bn6h6O6E7imBJrKX9b"
       },
       "artists": [
         {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
         }
       ],
-      "duration_ms": 177150,
-      "name": "Simadi",
-      "url": "https://open.spotify.com/track/2ILpP6nlR7QndbxtzLbZ7K"
+      "duration_ms": 160879,
+      "name": "19",
+      "url": "https://open.spotify.com/track/2C9a4LSUxxeAbHYDLFYB3K"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "Katse Kala",
         "url": "https://open.spotify.com/album/0fM3XH7TtpaYMZrqyB9fvn"
@@ -657,55 +689,23 @@
       "url": "https://open.spotify.com/track/4kvSOLAx3cG7GQstq6x3hI"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/6Y81Bn6h6O6E7imBJrKX9b"
+        "name": "BELLA",
+        "url": "https://open.spotify.com/album/1Jk52Ht40NWLuU3pNroFGz"
       },
       "artists": [
         {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
         }
       ],
-      "duration_ms": 160879,
-      "name": "19",
-      "url": "https://open.spotify.com/track/2C9a4LSUxxeAbHYDLFYB3K"
+      "duration_ms": 191431,
+      "name": "BELLA",
+      "url": "https://open.spotify.com/track/4zGbkBCVObxKqYXOmV46oB"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
-      "album": {
-        "name": "MAYBACH",
-        "url": "https://open.spotify.com/album/6K27p4CKSIFIjXN7DrpYVf"
-      },
-      "artists": [
-        {
-          "name": "Strat",
-          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
-        }
-      ],
-      "duration_ms": 134693,
-      "name": "MAYBACH",
-      "url": "https://open.spotify.com/track/4lIGBgedeQIS1tfAtW3bLh"
-    },
-    {
-      "added_at": "2023-11-01 08:48:02",
-      "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 184061,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
-    },
-    {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "De Me Ksereis Kala",
         "url": "https://open.spotify.com/album/7EOQnBeMJxShuPloWNgI4h"
@@ -729,39 +729,39 @@
       "url": "https://open.spotify.com/track/7etssWv7DrxlUkrVQhWslJ"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
-        "name": "Big Moves (Vol. 4)",
-        "url": "https://open.spotify.com/album/2Mk4Aq6YjkWnpunDdHLCPP"
+        "name": "MAYBACH",
+        "url": "https://open.spotify.com/album/6K27p4CKSIFIjXN7DrpYVf"
       },
       "artists": [
         {
-          "name": "VLOSPA",
-          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
         }
       ],
-      "duration_ms": 158793,
-      "name": "Big Moves - Vol. 4",
-      "url": "https://open.spotify.com/track/0lERxH3jbcidjxfTrarujg"
+      "duration_ms": 134693,
+      "name": "MAYBACH",
+      "url": "https://open.spotify.com/track/4lIGBgedeQIS1tfAtW3bLh"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
-        "name": "BELLA",
-        "url": "https://open.spotify.com/album/1Jk52Ht40NWLuU3pNroFGz"
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
       },
       "artists": [
         {
-          "name": "SIDARTA",
-          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
         }
       ],
-      "duration_ms": 191431,
-      "name": "BELLA",
-      "url": "https://open.spotify.com/track/4zGbkBCVObxKqYXOmV46oB"
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "Efhi",
         "url": "https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "Mavromalla",
         "url": "https://open.spotify.com/album/3adcAE4ZwIWb6HXllqQsjd"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/4ybJLyfjA4JIJE05VdDVyy"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "Sagapw",
         "url": "https://open.spotify.com/album/2Zr3Tl9BTNa1ii2C7BaNVt"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/2iKjK6sz9UxWDKtRWEJTfd"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "Esy",
         "url": "https://open.spotify.com/album/0mg9yK52pDk0ESRgSe9dz8"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/3bgNoBwhxYYQXWnGJc40V1"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "Mina \u00d6gon /Ta Matia Moy",
         "url": "https://open.spotify.com/album/4pHDbLGWSwbcVCxhFtLoih"
@@ -849,23 +849,7 @@
       "url": "https://open.spotify.com/track/6ZEcwUfqgQ22Ole6Vs2WyB"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "Oulala",
         "url": "https://open.spotify.com/album/72rduWyncTlj80qOdaXEqU"
@@ -889,7 +873,7 @@
       "url": "https://open.spotify.com/track/1bPzfHjRXPvoyWaL5ZOmZE"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "Holidays",
         "url": "https://open.spotify.com/album/7Fe4rxUqhvaMfOaN9ICKst"
@@ -917,7 +901,43 @@
       "url": "https://open.spotify.com/track/0Hn5RO8hSKSJZYihW6qL1Q"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
+      "album": {
+        "name": "Pes",
+        "url": "https://open.spotify.com/album/6pbmcMoQkOtO9si2gD4bOj"
+      },
+      "artists": [
+        {
+          "name": "ZAF",
+          "url": "https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO"
+        },
+        {
+          "name": "Christos Mastoras",
+          "url": "https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Pes",
+      "url": "https://open.spotify.com/track/4sltRhFlzu0BwXq9OUnwSG"
+    },
+    {
+      "added_at": "2023-11-02 08:35:21",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2023-11-02 08:35:21",
       "album": {
         "name": "AXARISTI",
         "url": "https://open.spotify.com/album/7k1xG5RHOl5ybnCcYOkSEb"
@@ -941,56 +961,40 @@
       "url": "https://open.spotify.com/track/6NddoCdcG3lrzL4q30Wo5F"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
-        "name": "Pes",
-        "url": "https://open.spotify.com/album/6pbmcMoQkOtO9si2gD4bOj"
+        "name": "7/7",
+        "url": "https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv"
       },
       "artists": [
         {
-          "name": "ZAF",
-          "url": "https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO"
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
         },
         {
-          "name": "Christos Mastoras",
-          "url": "https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu"
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Pes",
-      "url": "https://open.spotify.com/track/4sltRhFlzu0BwXq9OUnwSG"
+      "duration_ms": 171704,
+      "name": "7/7",
+      "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
     },
     {
-      "added_at": "2023-11-01 08:48:02",
+      "added_at": "2023-11-02 08:35:21",
       "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp"
+        "name": "Idrogeios",
+        "url": "https://open.spotify.com/album/0CZ66Y3fWW3kptJQyM5kDC"
       },
       "artists": [
         {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
         }
       ],
-      "duration_ms": 211998,
-      "name": "I Gineka Tis Zois Sou",
-      "url": "https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt"
-    },
-    {
-      "added_at": "2023-11-01 08:48:02",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+      "duration_ms": 170909,
+      "name": "Idrogeios",
+      "url": "https://open.spotify.com/track/77S1MD14JNFGwTVlr1NLTh"
     }
   ],
   "unique_name": "Top 50 - Greece",

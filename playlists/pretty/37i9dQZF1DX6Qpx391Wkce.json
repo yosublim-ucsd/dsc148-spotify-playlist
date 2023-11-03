@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:2xeHjPrS4EnEUIXHV9pkeg\">Monika Kruse</a>'s favorite tracks. Updated regularly. Curated by Monika Kruse. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 48823,
+  "num_followers": 48847,
   "original_name": "Monika Kruse's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODc3ODBlYWVkYzJkYzEyZmE4NWZkYzU2N2RkNTMxODU0OGFjNTUy",
+  "snapshot_id": "MCw4ODc0ZGQ0YjhlMjljMmEyOWNhNDgwOTY4MjE2NTcxNTk0NzdkZjRl",
   "tracks": [
     {
       "added_at": "2023-10-13 11:08:48",
@@ -1088,17 +1088,21 @@
       "added_at": "2023-10-13 11:08:48",
       "album": {
         "name": "Generalisation (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53LV50a3r9n6MLvFUHr1TY"
+        "url": "https://open.spotify.com/album/0QCZSXbN2coY3JdASBfKj9"
       },
       "artists": [
         {
           "name": "Midfield General",
           "url": "https://open.spotify.com/artist/7pFRZzpdFnoC3XnilFWEOr"
+        },
+        {
+          "name": "Dave Clarke",
+          "url": "https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ"
         }
       ],
       "duration_ms": 322594,
-      "name": "Coatnoise - Dave Clarke Remix",
-      "url": "https://open.spotify.com/track/2sJlMjGUzMr58tkV1tdOyx"
+      "name": "Coatnoise (Dave Clarke Remix)",
+      "url": "https://open.spotify.com/track/4UwbPg04eO9eNpW0XGCYbS"
     },
     {
       "added_at": "2023-10-13 11:08:48",

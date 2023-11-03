@@ -2,9 +2,9 @@
 
 ### [VOLUME FRANCE](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : Mad Foxes
+> Les meilleures nouveautés de la scène rock française\. Photo : Lysistrata
 
-72 songs - 4 hr 14 min
+74 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Born to Win](https://open.spotify.com/track/4fsVCgzknleqGFmV7WihCF) | [La Rosa](https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB) | [Born to Win](https://open.spotify.com/album/5DVy8NKNSeRGYIjH7rCftk) | 2:31 | 2023-10-12 |  |
 | [Break Even](https://open.spotify.com/track/3hwf03RXLPEmAr4BqpOW40) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Break Even](https://open.spotify.com/album/5xXeXLLrzZG9WxcbXdV6se) | 6:10 | 2023-10-05 |  |
 | [Break The Rules](https://open.spotify.com/track/65uA9t4W1khgUaCYg7Y018) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [What A Time To Be Alive](https://open.spotify.com/album/2z8GnZChsFh5azAx1Rpbpl) | 3:19 | 2023-09-28 |  |
-| [Bring the Fun Back to Me](https://open.spotify.com/track/0vXBJJ1cW9Gc3h13Z4NvTp) | [Ponta Preta](https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e) | [Bring the Fun Back to Me](https://open.spotify.com/album/6YXlAgunvz0RKjNXJidPkh) | 3:33 | 2023-09-28 |  |
+| [Bring the Fun Back to Me](https://open.spotify.com/track/0vXBJJ1cW9Gc3h13Z4NvTp) | [Ponta Preta](https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e) | [Bring the Fun Back to Me](https://open.spotify.com/album/6YXlAgunvz0RKjNXJidPkh) | 3:33 | 2023-09-28 | 2023-11-03 |
 | [Broken Bones](https://open.spotify.com/track/2ZTXDpAna2oX7SmxctOjmi) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Broken Bones](https://open.spotify.com/album/7Bo93WOR189AwOAt6RUvAD) | 3:25 | 2023-09-28 | 2023-10-13 |
 | [Bruised And Battered](https://open.spotify.com/track/6EnpuWBCsYGh9Eeq4E3rKR) | [Bad Situation](https://open.spotify.com/artist/6jwj8yMIb86kjEuGVoHKqG) | [Bruised And Battered](https://open.spotify.com/album/7GKpuslNh1hguCV8aJuy3d) | 3:33 | 2023-10-26 |  |
 | [Call Me](https://open.spotify.com/track/11KdG302ZtlT6LUC0NpaAW) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB), [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Call Me](https://open.spotify.com/album/7rD6S3nfNwM3PoVUUAsKsW) | 3:21 | 2023-09-28 |  |
@@ -32,12 +32,14 @@
 | [De l'aventure \- Single Version](https://open.spotify.com/track/7Gf7bWdlp2RE79kJAlSszu) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [De l'aventure](https://open.spotify.com/album/56oB6biFyDY1Xwoelcsoab) | 2:53 | 2023-09-28 | 2023-10-06 |
 | [Eyes Don't Lie](https://open.spotify.com/track/2cbb8P8Hk9wcWCvI26GRAw) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [Blind](https://open.spotify.com/album/07zIyAVuxE0K6Kxc4b2DYe) | 4:58 | 2023-09-28 |  |
 | [Fantasize](https://open.spotify.com/track/0U4fmzqtFTbtrwX7QQooT3) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Fantasize](https://open.spotify.com/album/0QMUUYbfJ1Tu6fuilNyhor) | 2:42 | 2023-09-28 |  |
+| [Far and Fast](https://open.spotify.com/track/3GmMda5bpuV1TVFTzpstdQ) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Far and Fast](https://open.spotify.com/album/5rwU8EHI6JedYqTxL6brZo) | 3:52 | 2023-11-02 |  |
 | [Feeling Fine](https://open.spotify.com/track/5ME9PbpmM05EobMN3sHqIh) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Feeling Fine](https://open.spotify.com/album/0Y2w2sOj4Ob7JZmmD5ZX0r) | 3:36 | 2023-09-28 | 2023-10-20 |
 | [From Zero](https://open.spotify.com/track/2rBxyjJZPPSz7HHVBExEAW) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [From Zero](https://open.spotify.com/album/7nt2Z2wjPtE4Iu6X2lsjK9) | 2:50 | 2023-09-28 | 2023-10-06 |
 | [Full Speed Ahead](https://open.spotify.com/track/47Ze9JFgxEc0a9OS46D8X7) | [Dirty Fonzy](https://open.spotify.com/artist/2o8W6N7UkMBsAeVmyRYW4Y) | [Full Speed Ahead](https://open.spotify.com/album/5pDqns1lE2Lax57DaLqrpX) | 3:07 | 2023-10-13 |  |
 | [Gelled Water](https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Gelled Water](https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW) | 3:46 | 2023-10-12 |  |
-| [Get Away \(I Wanna Get Get Get Get Get Get Get Get\)](https://open.spotify.com/track/2QVrkOeN5bz8H96exrcgvi) | [Basement Gary](https://open.spotify.com/artist/7zse5STLZ5qD4mJEUU4tX5) | [Get Away \(I Wanna Get Get Get Get Get Get Get Get\)](https://open.spotify.com/album/5lirOHxhUeUdbgvFRK46D5) | 2:12 | 2023-09-28 |  |
+| [Get Away \(I Wanna Get Get Get Get Get Get Get Get\)](https://open.spotify.com/track/2QVrkOeN5bz8H96exrcgvi) | [Basement Gary](https://open.spotify.com/artist/7zse5STLZ5qD4mJEUU4tX5) | [Get Away \(I Wanna Get Get Get Get Get Get Get Get\)](https://open.spotify.com/album/5lirOHxhUeUdbgvFRK46D5) | 2:12 | 2023-09-28 | 2023-11-03 |
 | [Homesick](https://open.spotify.com/track/3plpIWQeDa8ptI5u0YOmDF) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Homesick](https://open.spotify.com/album/0OBVZGrQNG9jrea52NK2dZ) | 3:27 | 2023-09-28 |  |
+| [Horns](https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Horns](https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf) | 3:26 | 2023-11-02 |  |
 | [Hypnotized](https://open.spotify.com/track/17Ig0GeL1BPTh2K9SwwIKZ) | [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc) | [Hypnotized](https://open.spotify.com/album/1X7RILlUXKDyOD1NZBEhwO) | 3:46 | 2023-10-12 |  |
 | [Ilion](https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Ilion](https://open.spotify.com/album/759EtlXJpbASpseS57pVyL) | 11:08 | 2023-10-05 |  |
 | [In Stone](https://open.spotify.com/track/5d17zQEKvgoXlCtszxL7it) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Human](https://open.spotify.com/album/07SPetFV41UfQXMpsHj4CO) | 3:34 | 2023-09-28 |  |

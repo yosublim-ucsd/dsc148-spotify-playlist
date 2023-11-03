@@ -4,7 +4,7 @@
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-114 songs - 8 hr 15 min
+115 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [비처럼 음악처럼](https://open.spotify.com/track/6DVq2uRrYyQfChAlsTJ11g) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/2kdSTc3C8HDnhRYu2U2B1x) | 4:37 | 2021-08-12 | 2022-07-29 |
 | [비처럼 음악처럼](https://open.spotify.com/track/6zMH0UAFuLt4JXVuEUIygG) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/3Eggr8LCQGMCitwZzzaSbY) | 4:37 | 2021-08-12 |  |
 | [사랑이 지나가면](https://open.spotify.com/track/1XwAV7ty94aIJgRXP7CETn) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/0otsHhxK7ZdzjsL2roT3VY) | 4:13 | 2021-08-12 | 2022-07-29 |
-| [사랑이 지나가면](https://open.spotify.com/track/4XwtIHrmFuMNwu3c35kh5B) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX) | 4:13 | 2021-08-12 |  |
+| [사랑이 지나가면](https://open.spotify.com/track/4XwtIHrmFuMNwu3c35kh5B) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX) | 4:13 | 2021-08-12 | 2023-11-03 |
+| [사랑이 지나가면](https://open.spotify.com/track/65qlfeIbQfPBivU0UjhZtA) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세, 양희은 골든](https://open.spotify.com/album/0gPxhylyjY1oWRKW0gh4Zx) | 4:13 | 2021-08-12 |  |
 | [사랑이 지나가면](https://open.spotify.com/track/3qSDRmurviaPC86bzoAkit) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [골든 15](https://open.spotify.com/album/578HBEVIW0fGO7jmOGS3RM) | 4:14 | 2021-08-12 | 2022-11-13 |
 | [사랑일기](https://open.spotify.com/track/5NA0wgvnUinGTFdT3p5tnD) | [Towner & Town Chief](https://open.spotify.com/artist/3Qm5uwdUYz6Bz64XOqsiYD) | [푸른 돛](https://open.spotify.com/album/5ka1jbuOzofnAJUs5p02SQ) | 4:30 | 2021-08-12 |  |
 | [사랑하기 때문에](https://open.spotify.com/track/0I9vXVUpijjek2ULH4UUJw) | [Yoo Jae\-Ha](https://open.spotify.com/artist/2Qrs21XiQMxkddRognIjGC) | [사랑하기 때문에](https://open.spotify.com/album/2Kb78rmvg0suvhVPcjBtlm) | 6:20 | 2021-08-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 47950,
+  "num_followers": 47990,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWIwMjcxMDY0NjQ0YjgzZTYxOGFhMTk2ZGEyMGI1NjQ1OTk2Yzdl",
+  "snapshot_id": "MCwyZTRiNzY1YzMxZjc0NDgwMzBhZjhkN2VmMGI4NGIwYzRjOTczN2Q0",
   "tracks": [
     {
       "added_at": "2023-10-02 12:57:01",
@@ -163,22 +163,18 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "True To Yourself",
-        "url": "https://open.spotify.com/album/6djxMkLPDJdk3N1bIExPNV"
+        "name": "In the Skies",
+        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
       },
       "artists": [
         {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        },
-        {
-          "name": "Tommy Shannon",
-          "url": "https://open.spotify.com/artist/4L81vlq3wCkssFBK1UpPDN"
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
         }
       ],
-      "duration_ms": 456946,
-      "name": "Lonely Bed",
-      "url": "https://open.spotify.com/track/2glwN5raCeEn0EdjKrNw6i"
+      "duration_ms": 464666,
+      "name": "A Fool No More",
+      "url": "https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -195,6 +191,26 @@
       "duration_ms": 180666,
       "name": "My Dearest Darling",
       "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "True To Yourself",
+        "url": "https://open.spotify.com/album/6djxMkLPDJdk3N1bIExPNV"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        },
+        {
+          "name": "Tommy Shannon",
+          "url": "https://open.spotify.com/artist/4L81vlq3wCkssFBK1UpPDN"
+        }
+      ],
+      "duration_ms": 456946,
+      "name": "Lonely Bed",
+      "url": "https://open.spotify.com/track/2glwN5raCeEn0EdjKrNw6i"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -279,22 +295,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Give In Kind",
-        "url": "https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW"
-      },
-      "artists": [
-        {
-          "name": "Guy Davis",
-          "url": "https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Loneliest Road That I Know",
-      "url": "https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "The Blues",
         "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
       },
@@ -307,6 +307,22 @@
       "duration_ms": 502973,
       "name": "Lonely World",
       "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Give In Kind",
+        "url": "https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW"
+      },
+      "artists": [
+        {
+          "name": "Guy Davis",
+          "url": "https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Loneliest Road That I Know",
+      "url": "https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -687,22 +703,6 @@
       "duration_ms": 350520,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/5zi2iVnuW5PEpALVgCypi3"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
-        "name": "Man of the World: The Anthology 1968-1988",
-        "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 464666,
-      "name": "A Fool No More",
-      "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/6uco735wn69n3ODYvdrd21"
-      },
-      "artists": [
-        {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
-        }
-      ],
-      "duration_ms": 455967,
-      "name": "Abandoned Child",
-      "url": "https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "What do You Feel?",
         "url": "https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 334000,
       "name": "What do You Feel?",
       "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/6uco735wn69n3ODYvdrd21"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "duration_ms": 455967,
+      "name": "Abandoned Child",
+      "url": "https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Pickin' the Blues",
-        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 205870,
-      "name": "Mistreated so Bad",
-      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "The Best of the 5th Annual Brooklyn Folk Festival",
         "url": "https://open.spotify.com/album/2yTbT5DQqjSn3ly5oypYhw"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 252788,
       "name": "Blues Stay Away From Me",
       "url": "https://open.spotify.com/track/0gKGDH5XsrWGH7pojMcXSY"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Pickin' the Blues",
+        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 205870,
+      "name": "Mistreated so Bad",
+      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
     },
     {
       "added_at": "2023-10-02 12:57:01",

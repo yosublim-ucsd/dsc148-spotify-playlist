@@ -1,12 +1,12 @@
 {
   "description": "Alcione e mais mulheres ic\u00f4nicas para serem ouvidas no volume m\u00e1ximo! Foto: Alcione",
-  "num_followers": 153272,
+  "num_followers": 153284,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDAwMzI5YjI3ZjBjMTQ4ZmVhMjUzNzU3YzUwY2ExZjMyOWFjYTlm",
+  "snapshot_id": "MCwxZjRiMzllODU2OGIxOTk1MjAzMTY0MTcxZjZmM2IzMTZkYTFlMmNl",
   "tracks": [
     {
       "added_at": "2023-10-27 03:00:00",
@@ -427,42 +427,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Nosso Xote",
-        "url": "https://open.spotify.com/album/0H5IYRMUhYZ3htTLaFUtSB"
-      },
-      "artists": [
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        },
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        }
-      ],
-      "duration_ms": 255157,
-      "name": "Nosso Xote",
-      "url": "https://open.spotify.com/track/3mY1ul8bd8qxcIbjLFNCSY"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "A Mulher do Fim do Mundo",
-        "url": "https://open.spotify.com/album/0I316eFTjobTdyH5xtniYe"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 277677,
-      "name": "Mulher do Fim do Mundo",
-      "url": "https://open.spotify.com/track/6JyyilCXZPb8fm0tQPqjUZ"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Faz Parte Do Meu Show",
         "url": "https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1"
       },
@@ -483,18 +447,38 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Sorriso negro",
-        "url": "https://open.spotify.com/album/6Mpu9KUGFNTYJw6lQ5RcS8"
+        "name": "A Mulher do Fim do Mundo",
+        "url": "https://open.spotify.com/album/0I316eFTjobTdyH5xtniYe"
       },
       "artists": [
         {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
         }
       ],
-      "duration_ms": 154093,
-      "name": "Algu\u00e9m me avisou",
-      "url": "https://open.spotify.com/track/6usciGiDOoFfmvnrC7Tyv5"
+      "duration_ms": 277677,
+      "name": "Mulher do Fim do Mundo",
+      "url": "https://open.spotify.com/track/6JyyilCXZPb8fm0tQPqjUZ"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Nosso Xote",
+        "url": "https://open.spotify.com/album/0H5IYRMUhYZ3htTLaFUtSB"
+      },
+      "artists": [
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 255157,
+      "name": "Nosso Xote",
+      "url": "https://open.spotify.com/track/3mY1ul8bd8qxcIbjLFNCSY"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -511,6 +495,22 @@
       "duration_ms": 145531,
       "name": "Pena Que Acabou",
       "url": "https://open.spotify.com/track/57DTGthLG6wQGuJV1QDJCA"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Sorriso negro",
+        "url": "https://open.spotify.com/album/6Mpu9KUGFNTYJw6lQ5RcS8"
+      },
+      "artists": [
+        {
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+        }
+      ],
+      "duration_ms": 154093,
+      "name": "Algu\u00e9m me avisou",
+      "url": "https://open.spotify.com/track/6usciGiDOoFfmvnrC7Tyv5"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Piraj\u00e1 Esquina Carioca - uma Noite com a Ra\u00edz do Samba",
-        "url": "https://open.spotify.com/album/7HW7vlBfeUVauC7TwiJpvl"
-      },
-      "artists": [
-        {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Acreditar",
-      "url": "https://open.spotify.com/track/3pmYp7wfaDfr5OwHoxAR9K"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Terezinha",
         "url": "https://open.spotify.com/album/6tk8iJGsL0xKCJ8zXbm20Z"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 142000,
       "name": "Terezinha",
       "url": "https://open.spotify.com/track/6jZq2kwbo4pLsoREwTveq3"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Piraj\u00e1 Esquina Carioca - uma Noite com a Ra\u00edz do Samba",
+        "url": "https://open.spotify.com/album/7HW7vlBfeUVauC7TwiJpvl"
+      },
+      "artists": [
+        {
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Acreditar",
+      "url": "https://open.spotify.com/track/3pmYp7wfaDfr5OwHoxAR9K"
     },
     {
       "added_at": "2023-10-27 03:00:00",

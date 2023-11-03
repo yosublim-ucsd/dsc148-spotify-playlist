@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-1,110 songs - 2 day 19 hr 43 min
+1,111 songs - 2 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,7 +589,8 @@
 | [Lizard \(Alternate Universe\) \- Spotify Singles](https://open.spotify.com/track/1CGKhnXxoyXZa2PLQdYW1X) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 2:51 | 2022-01-19 |  |
 | [Loading Zones \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/29g4GrixF3dLKhiBiyDXS5) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Spotify Singles](https://open.spotify.com/album/682eaYOi2FDTTnDxnhcelE) | 2:44 | 2022-01-19 | 2022-07-29 |
 | [Loading Zones \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6DFRmyB4extuKOIbIw0ATq) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Spotify Singles](https://open.spotify.com/album/2WYaBZWo157sNWHyKpXai8) | 2:44 | 2022-07-05 |  |
-| [Location \- Live from Spotify](https://open.spotify.com/track/1xpv74iYg4ZSKHX1WcnTQF) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Spotify Singles](https://open.spotify.com/album/4ofNmOMGoL3sp1e2Ey8vBe) | 2:58 | 2022-07-05 |  |
+| [Location \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2mKvT6ktC8tQbaKOHUKU6X) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Spotify Singles](https://open.spotify.com/album/67heSgreFffe8zNCXhTAII) | 2:58 | 2023-10-02 |  |
+| [Location \- Live from Spotify](https://open.spotify.com/track/1xpv74iYg4ZSKHX1WcnTQF) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Spotify Singles](https://open.spotify.com/album/4ofNmOMGoL3sp1e2Ey8vBe) | 2:58 | 2022-07-05 | 2023-11-03 |
 | [Location \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7jwZYPS8reDirsT4Mvqpui) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Spotify Singles](https://open.spotify.com/album/3wTu31uEBJ7CFl0HstePX0) | 2:58 | 2022-01-19 | 2022-07-29 |
 | [Long Live Love \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/3vVhMYRIZmeuPyhIsd1up8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Spotify Singles](https://open.spotify.com/album/6d9KkEhEx8QsRmJ1zlOHMn) | 3:17 | 2022-07-05 |  |
 | [Long Live Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7LILyHS0z6PXDt34ZrCD0h) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Spotify Singles](https://open.spotify.com/album/1aKSRHzPIuoTP2sbcT7iRi) | 3:17 | 2022-01-19 | 2022-07-29 |

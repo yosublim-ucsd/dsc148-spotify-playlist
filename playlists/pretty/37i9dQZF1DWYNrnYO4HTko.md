@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 852 likes - 92 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 855 likes - 92 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 68 | [My Lover's Prayer](https://open.spotify.com/track/0MkwvWJVAuFGx87BkGz51w) | [Patti Drew](https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c) | [Workin' On A Groovy Thing....The Best Of](https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb) | 3:15 |
 | 69 | [The Happy Song](https://open.spotify.com/track/1qUayp9EJqpSTT24PWdl0q) | [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Rita Coolidge](https://open.spotify.com/album/4pjxcFzk2FchRsjaGQlhpl) | 3:55 |
 | 70 | [Chained And Bound](https://open.spotify.com/track/2Ee52TNolrVb2FlzbUyEqA) | [Bettye Swann](https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W) | [Bettye Swann](https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs) | 2:38 |
-| 71 | [Just One More Day](https://open.spotify.com/track/4NCHYfqP6WPxoKLwPlH8JK) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Soulsville](https://open.spotify.com/album/1sc3o9ZoXb61FVrQBkr2pC) | 3:25 |
+| 71 | [Just One More Day](https://open.spotify.com/track/5QrrXBQEZ3bFVqgdFzKVmH) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Soulsville](https://open.spotify.com/album/5tJDjcO21Be339ALeTbxP8) | 3:25 |
 | 72 | [Security](https://open.spotify.com/track/74cVzlQDQojkAOed15wC6I) | [The Young Veins](https://open.spotify.com/artist/6vjgLoIHeoblpnAKNPeF8Q) | [Take a Vacation! \(Deluxe Edition / Remastered\)](https://open.spotify.com/album/0aVQtk9RS7xTuKcHym1ZsY) | 2:31 |
 | 73 | [Security](https://open.spotify.com/track/6e71wkIE5RnT57h8k2TdAi) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Mavis Staples](https://open.spotify.com/album/69UCRo9HJBUEZDPFMgR30r) | 2:52 |
 | 74 | [Champagne and Wine](https://open.spotify.com/track/7zZqjIBuXPGg3OwxQMvgcc) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Bring It On Home](https://open.spotify.com/album/0bd80N1WfN5qTjEpE3CAQy) | 3:41 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 91 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 |
 | 92 | [Where You Lead Me](https://open.spotify.com/track/7CQfHbaz8di8UFbayDCRCl) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/6K1TG5C0rzi1tfNEmUI4CY) | 2:29 |
 
-Snapshot ID: `MCxhZTdlNWM1ZDE1OTRlNWU1ODhlYjkzZjA0MzU3ODQ2NWVmM2M4Yjkw`
+Snapshot ID: `MCw4ODVkNGUyZGU4MTQ0OTkxNDZkYzZmYmVlMjcxYTlhNWYyNWUwMzQ3`

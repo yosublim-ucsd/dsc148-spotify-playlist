@@ -1,12 +1,12 @@
 {
   "description": "Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song. \u6700\u65b0\u4f5c\u300eFFXVI\u300f\u3092\u306f\u3058\u3081\u3068\u3059\u308b\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u306e\u73e0\u7389\u306e\u540d\u66f2\u96c6\u3002\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u306e\u8ffd\u52a0\u3092\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002\u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 181435,
+  "num_followers": 181457,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDA2ZGQ2OTk4ZTdmMzU5NTFiYjhlZTcxZmU4ODZiOTQ2M2Q2MGM4",
+  "snapshot_id": "MCxjMzVhZTBhNGM1NGNkYTBlN2Q0Nzg2NGNjOWU5NDA0ZjI1MDg2MDg3",
   "tracks": [
     {
       "added_at": "2023-07-06 04:37:32",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
-        "name": "\u30bc\u30ed",
-        "url": "https://open.spotify.com/album/7ybuAuPzYxmrKloxVt7NgU"
-      },
-      "artists": [
-        {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
-        }
-      ],
-      "duration_ms": 415360,
-      "name": "\u30bc\u30ed",
-      "url": "https://open.spotify.com/track/6O1P8CN7tzPix5jv5HxscJ"
-    },
-    {
-      "added_at": "2023-07-06 04:37:32",
-      "album": {
         "name": "FINAL FANTASY TACTICS Original Soundtrack",
         "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 60106,
       "name": "Hall of Worship",
       "url": "https://open.spotify.com/track/4L1xu3jLDdbBntaMqbfVmz"
+    },
+    {
+      "added_at": "2023-07-06 04:37:32",
+      "album": {
+        "name": "\u30bc\u30ed",
+        "url": "https://open.spotify.com/album/7ybuAuPzYxmrKloxVt7NgU"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 415360,
+      "name": "\u30bc\u30ed",
+      "url": "https://open.spotify.com/track/6O1P8CN7tzPix5jv5HxscJ"
     },
     {
       "added_at": "2023-07-06 04:37:32",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
-        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+        "name": "FINAL FANTASY TACTICS Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
       },
       "artists": [
         {
-          "name": "\u4e2d\u6751\u4f73\u7d00",
-          "url": "https://open.spotify.com/artist/1wbsKYjdDOirrBJAHdZlJU"
+          "name": "Masaharu Iwata",
+          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
         }
       ],
-      "duration_ms": 87773,
-      "name": "FFVII REMAKE: \u9b54\u6644\u4e2d\u6bd2 (Mako Poisoning)",
-      "url": "https://open.spotify.com/track/56wHjCR8US6aASzRhIRlJU"
+      "duration_ms": 53666,
+      "name": "World Map",
+      "url": "https://open.spotify.com/track/63oTkgAeAr2FxrKBtIzkL0"
     }
   ],
   "unique_name": "FINAL FANTASY",

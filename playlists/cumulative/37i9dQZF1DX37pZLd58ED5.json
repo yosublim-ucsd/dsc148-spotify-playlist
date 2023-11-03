@@ -829,6 +829,32 @@
     },
     {
       "album": {
+        "name": "CVLT",
+        "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226557,
+      "name": "CVLT (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/6hANXZUS2wryG1zSocof7J"
+    },
+    {
+      "album": {
         "name": "Dammi Un Motivo",
         "url": "https://open.spotify.com/album/0HflwxpqIV1kISwqYaBPEH"
       },
@@ -1646,7 +1672,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 164178,
       "name": "Maltempo",
       "url": "https://open.spotify.com/track/7FZicMWhkxtQxIsV6Y9SZk"
@@ -1998,7 +2024,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 272003,
       "name": "NOI",
       "url": "https://open.spotify.com/track/6g4ZDGB7jj7T1X8sWB5GFQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,463 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,467 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 4 | [Before The Next Teardrop Falls](https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:42 |
 | 5 | [Se Me Antoja](https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b) | 3:07 |
 | 6 | [Que Voy A Hacer](https://open.spotify.com/track/0HD0RNHrLyM1yKJaWkR56R) | [Elida Reyna Y Avante](https://open.spotify.com/artist/6FgcIpZBpVNOXHniQX9Oml), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Que Voy A Hacer](https://open.spotify.com/album/2ZRarP86dR9OrYDNjiflEL) | 3:21 |
-| 7 | [Y Quisiera](https://open.spotify.com/track/6pT4VPoECJckbe99rstLMu) | [Joe Lopez Y Grupo Mazz](https://open.spotify.com/artist/1xcx85w0ByWnWlf5GKf8iQ) | [Love From The Heart](https://open.spotify.com/album/2wletR8HeqrrJVs9BVetqd) | 3:43 |
-| 8 | [Necesito Odiarte](https://open.spotify.com/track/78tcL0l8FArWXckn4vKlpw) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [Necesito Odiarte](https://open.spotify.com/album/0uOxC2cwv3qXrTbhKYhAuX) | 3:37 |
+| 7 | [Necesito Odiarte](https://open.spotify.com/track/78tcL0l8FArWXckn4vKlpw) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [Necesito Odiarte](https://open.spotify.com/album/0uOxC2cwv3qXrTbhKYhAuX) | 3:37 |
+| 8 | [Y Quisiera](https://open.spotify.com/track/6pT4VPoECJckbe99rstLMu) | [Joe Lopez Y Grupo Mazz](https://open.spotify.com/artist/1xcx85w0ByWnWlf5GKf8iQ) | [Love From The Heart](https://open.spotify.com/album/2wletR8HeqrrJVs9BVetqd) | 3:43 |
 | 9 | [Por Qué Me Fui A Enamorar De Ti](https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi) | [Karla Christina](https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP) | [Por Qué Me Fui A Enamorar De Ti](https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU) | 4:05 |
 | 10 | [Vivir Sin Ti](https://open.spotify.com/track/5Wyaap4fsKtDr8FPQO7Z6m) | [Proyekto Kumbia](https://open.spotify.com/artist/3v9C8V5rYmya5EI96pku4W) | [Vivir Sin Ti](https://open.spotify.com/album/5jszXkhQthDS7qYvVLLsOU) | 3:09 |
 | 11 | [Parí](https://open.spotify.com/track/1bBl6hOdOK4VDg7TO2BpkD) | [AJ Castillo](https://open.spotify.com/artist/1KpWrB0KqGwEPdomvoTREW) | [Parí](https://open.spotify.com/album/7FXTMmof7mvI7VhTBAyCrD) | 3:40 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 40 | [El Error Más Bello](https://open.spotify.com/track/53gfKh57VZYYkQtoxHmxUt) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [El Error Más Bello](https://open.spotify.com/album/7o7d17PLyFmjGB0an0yovJ) | 3:25 |
 | 41 | [Entiende Corazon](https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas) | [Zereno](https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5) | [Entiende Corazon](https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6) | 3:09 |
 | 42 | [No Olvides Nuestro Amor](https://open.spotify.com/track/1Ta3yiAmE3pwV0PTHh7aQi) | [Savannah V.](https://open.spotify.com/artist/4tIM2vdL2VzMLAG4HjvcCo) | [No Olvides Nuestro Amor](https://open.spotify.com/album/3n0v17UcuyufwjmzRz4jFg) | 3:05 |
-| 43 | [Anda Vuela Y Vete](https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq) | [Kamryn Ramirez](https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md) | [Anda Vuela Y Vete](https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw) | 2:45 |
-| 44 | [Mas Tequila Por Favor](https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU) | [Cristelo](https://open.spotify.com/artist/1DCvzR9znRe6tL9TEp6jW9) | [Mas Tequila Por Favor](https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03) | 3:20 |
+| 43 | [Mas Tequila Por Favor](https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU) | [Cristelo](https://open.spotify.com/artist/1DCvzR9znRe6tL9TEp6jW9) | [Mas Tequila Por Favor](https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03) | 3:20 |
+| 44 | [Anda Vuela Y Vete](https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq) | [Kamryn Ramirez](https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md) | [Anda Vuela Y Vete](https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw) | 2:45 |
 | 45 | [Infraganti](https://open.spotify.com/track/5nXpvGtAZJfVtkeJgxhwbN) | [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [Soy Mas Fuerte \(Deluxe\)](https://open.spotify.com/album/2BwD5INs8kHprriWKDmbP6) | 3:49 |
 | 46 | [Porque Te Amo](https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB) | [Boyz of Kumbia](https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA) | [Porque Te Amo](https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe) | 3:07 |
 | 47 | [Sedúceme](https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [Sedúceme](https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4) | 3:29 |
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 51 | [Herida](https://open.spotify.com/track/3KTAfNLPmnt5CTBc3bfqeG) | [Miguel Hernandez](https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF), [Karla Christina](https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP) | [Herida](https://open.spotify.com/album/39sTwUCraohQZVkBTQaoTj) | 4:17 |
 | 52 | [Celebremos El Amor](https://open.spotify.com/track/4V1gJ3UoBwVCPln8hFHnhJ) | [Sarah Monique](https://open.spotify.com/artist/5rtASTAiQ2169qFwr5KjlG), [Jerry Alvarez](https://open.spotify.com/artist/2fKANIxAQfJlDuxShRUmRZ) | [Celebremos El Amor](https://open.spotify.com/album/3cVF8fhGFBiSs5ggsFpcwy) | 3:26 |
 | 53 | [Me Estoy Enamorando](https://open.spotify.com/track/6C1ln19uu7v3KJ5e13bfCS) | [Cindy Ramos Y Su Conjunto](https://open.spotify.com/artist/6pYtLpxBEZxQJOUd4utwlR) | [Me Estoy Enamorando](https://open.spotify.com/album/3u7xBy3IFkxHA0zumuZR4L) | 3:11 |
-| 54 | [No Te Voy A Perder](https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW) | [Rebecca Valadez](https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet) | [No Te Voy A Perder](https://open.spotify.com/album/0kBhiiQahCqllcbv1vbqRA) | 4:02 |
-| 55 | [Tiempo Sin Mi](https://open.spotify.com/track/4gzfAQNMy1EKirLO0IYT9M) | [Cynthia Bustamante](https://open.spotify.com/artist/4C0ijQRQrde6ooUiUzvs4g) | [Renacer](https://open.spotify.com/album/6rs8fUKzkJMW9xkEUCK5iX) | 3:12 |
+| 54 | [Tiempo Sin Mi](https://open.spotify.com/track/4gzfAQNMy1EKirLO0IYT9M) | [Cynthia Bustamante](https://open.spotify.com/artist/4C0ijQRQrde6ooUiUzvs4g) | [Renacer](https://open.spotify.com/album/6rs8fUKzkJMW9xkEUCK5iX) | 3:12 |
+| 55 | [No Te Voy A Perder](https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW) | [Rebecca Valadez](https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet) | [No Te Voy A Perder](https://open.spotify.com/album/0kBhiiQahCqllcbv1vbqRA) | 4:02 |
 | 56 | [Tengo Ganas De Ti](https://open.spotify.com/track/1FQi3kvUFUx6dQk3PBAa6L) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Simplemente](https://open.spotify.com/album/5eIDua0uFxreLZCNTJPuP4) | 3:30 |
 | 57 | [Soy Ella](https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H) | [Joanna Rae](https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR) | [Soy Ella](https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN) | 2:59 |
 | 58 | [Amor Eterno](https://open.spotify.com/track/2eqC236uwgGhieuk0ZeK9B) | [ANGELICA](https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50), [Grupo Moneda](https://open.spotify.com/artist/6MZ41CkqrTJO9ypkLlEGx4) | [Amor Eterno](https://open.spotify.com/album/5fNv9Q7DujaEYk7DxauhKl) | 3:43 |
-| 59 | [Que Dolor](https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR) | [George Salazar](https://open.spotify.com/artist/3M5SDIlfm3AZkshJqEkJEY) | [Que Dolor](https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO) | 3:22 |
-| 60 | [Por Que Te Fuistes \(En Memoria De Ernestine Romero\)](https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0) | [Pablo Urbina](https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv) | [Por Que Te Fuistes \(En Memoria De Ernestine Romero\)](https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO) | 3:05 |
+| 59 | [Por Que Te Fuistes \(En Memoria De Ernestine Romero\)](https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0) | [Pablo Urbina](https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv) | [Por Que Te Fuistes \(En Memoria De Ernestine Romero\)](https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO) | 3:05 |
+| 60 | [Que Dolor](https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR) | [George Salazar](https://open.spotify.com/artist/3M5SDIlfm3AZkshJqEkJEY) | [Que Dolor](https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO) | 3:22 |
 | 61 | [Necesito Borrarte](https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4) | [G5](https://open.spotify.com/artist/2H8HtciXlTYidtcVuh7jpA) | [Necesito Borrarte](https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe) | 4:14 |
 | 62 | [Ven](https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x) | [ALICIA C](https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X) | [Ven](https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV) | 2:57 |
 | 63 | [¿Como Puede Ser Así?](https://open.spotify.com/track/3dl1BnbuZitazqKqjCjp5d) | [Destiny Navaira](https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e) | [¿Cómo Puede Ser Así?](https://open.spotify.com/album/0ZNklUBNTfrn5OeFPWYJci) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 79 | [Amor Condicional](https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd) | [Hilda Lamas](https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG) | [Amor Condicional](https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK) | 4:17 |
 | 80 | [Los Laureles](https://open.spotify.com/track/4X934GVbVTB738dLh2fsDG) | [Grupo Rumores](https://open.spotify.com/artist/7yTayx79xvmK2D61aPGprO) | [La Faldita](https://open.spotify.com/album/3PloZ7lDWnocn5J8b8qIYd) | 3:12 |
 
-Snapshot ID: `MCw5NTcxYzQzYzk1Yzk2NjVhYTQ3M2ZmOWJjZWZiNWI0Y2JkZWYwYmI5`
+Snapshot ID: `MCw0YWQyMWZkYzMxZGNkMDVlMDYzMDBjMTc0NWEwODliYWUyNTdlMWFi`

@@ -5280,10 +5280,32 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 195521,
       "name": "Iceberg",
       "url": "https://open.spotify.com/track/1nIQXwHaYPSwHWhefjnQqA"
+    },
+    {
+      "album": {
+        "name": "Iceberg",
+        "url": "https://open.spotify.com/album/0fPmsSX8eS1ZCOqpoopZsT"
+      },
+      "artists": [
+        {
+          "name": "Lil Whind",
+          "url": "https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr"
+        },
+        {
+          "name": "Tchaira",
+          "url": "https://open.spotify.com/artist/33KPEtpT2llZQ7GDwjI9mr"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195521,
+      "name": "Iceberg",
+      "url": "https://open.spotify.com/track/4JdNhfgPhvtW2xXoycPqYA"
     },
     {
       "album": {

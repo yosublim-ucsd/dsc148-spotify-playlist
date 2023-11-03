@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-131 songs - 12 hr 30 min
+132 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Chrysalide](https://open.spotify.com/track/1173KOXcgnmyx6u3zAiQjN) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [Chrysalide](https://open.spotify.com/album/3fF6yuSKTrQeMZLZsje22b) | 3:40 | 2023-08-25 |  |
 | [Circular](https://open.spotify.com/track/5wki473M05c257DxpTwfYm) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Circular EP](https://open.spotify.com/album/3S2FQUjjtMXY5Lw1U9EN0a) | 6:10 | 2023-09-15 |  |
 | [Clarity](https://open.spotify.com/track/1sx2rzsTFeqqHRYugGZVIB) | [Atroxx](https://open.spotify.com/artist/5xUFaih4LPL1He9jDdvqTw), [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Clarity](https://open.spotify.com/album/0ve5omxRE21tbmQMb8cA33) | 6:15 | 2023-07-14 | 2023-08-26 |
-| [Coatnoise \- Dave Clarke Remix](https://open.spotify.com/track/2sJlMjGUzMr58tkV1tdOyx) | [Midfield General](https://open.spotify.com/artist/7pFRZzpdFnoC3XnilFWEOr) | [Generalisation \(Deluxe Edition\)](https://open.spotify.com/album/53LV50a3r9n6MLvFUHr1TY) | 5:22 | 2023-07-14 |  |
+| [Coatnoise \(Dave Clarke Remix\)](https://open.spotify.com/track/4UwbPg04eO9eNpW0XGCYbS) | [Midfield General](https://open.spotify.com/artist/7pFRZzpdFnoC3XnilFWEOr), [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ) | [Generalisation \(Deluxe Edition\)](https://open.spotify.com/album/0QCZSXbN2coY3JdASBfKj9) | 5:22 | 2023-10-13 |  |
+| [Coatnoise \- Dave Clarke Remix](https://open.spotify.com/track/2sJlMjGUzMr58tkV1tdOyx) | [Midfield General](https://open.spotify.com/artist/7pFRZzpdFnoC3XnilFWEOr) | [Generalisation \(Deluxe Edition\)](https://open.spotify.com/album/53LV50a3r9n6MLvFUHr1TY) | 5:22 | 2023-07-14 | 2023-11-03 |
 | [Colours](https://open.spotify.com/track/2rPORah5HuBMmSklwbFMoi) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Colours](https://open.spotify.com/album/5EnuzoFxD2QjtG2VFfZVpF) | 7:02 | 2023-10-13 |  |
 | [Come Closer](https://open.spotify.com/track/6WK7TJ53QPNZnpQBjToHBi) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Come Closer](https://open.spotify.com/album/1BMEA1hy55rRBIjRZ4TokC) | 4:07 | 2023-07-14 | 2023-10-14 |
 | [Contrast](https://open.spotify.com/track/6ND5LGkeitafW7tM7I4oND) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Bloom](https://open.spotify.com/album/55g3kFOFsp00P2cHNJWvwD) | 4:28 | 2023-10-13 |  |

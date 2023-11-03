@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 391293,
       "name": "Kung-Fu",
       "url": "https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU"
@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Strictly George Morel",
+        "url": "https://open.spotify.com/album/3lG38OKSc0AHVmbY3V685C"
+      },
+      "artists": [
+        {
+          "name": "George Morel",
+          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417466,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/09YDYNdzjCbKI3lF8Sr2UO"
+    },
+    {
+      "album": {
         "name": "Morel's Grooves (Pt. 4)",
         "url": "https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A"
       },
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 417466,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq"
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 389600,
       "name": "Masquerade - MJ Cole Vocal",
       "url": "https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ"

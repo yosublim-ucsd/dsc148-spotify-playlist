@@ -4,7 +4,7 @@
 
 > The songs that defined Nigeria's Alté era
 
-99 songs - 5 hr 22 min
+100 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Squad](https://open.spotify.com/track/48KxNEn76nPC6Tq08tRGFW) | [Idris King](https://open.spotify.com/artist/72RaYOqPyRGRgaXP5XNXR1) | [Squad](https://open.spotify.com/album/6iCd662RxmzQtMdEvInl88) | 3:12 | 2022-07-27 |  |
 | [star signs](https://open.spotify.com/track/26AI33STXsKwtuV9hmzDPG) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Runtown](https://open.spotify.com/artist/4hg9bMurq8TvayGHYk9Mid) | [rare.](https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48) | 2:59 | 2022-07-27 |  |
 | [Steal A Dime](https://open.spotify.com/track/3Znf3C6S38qnVfFKvmNQBP) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Suzie's Funeral](https://open.spotify.com/album/22WXPfyPwdYZKOa59009Cc) | 3:20 | 2022-07-27 |  |
-| [Still II](https://open.spotify.com/track/3n93IQsYtjrig79670GI4i) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Still II](https://open.spotify.com/album/6isatQNDbd269qTvYArPpy) | 2:09 | 2023-02-16 |  |
+| [Still II](https://open.spotify.com/track/3n93IQsYtjrig79670GI4i) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Still II](https://open.spotify.com/album/6isatQNDbd269qTvYArPpy) | 2:09 | 2023-02-16 | 2023-11-03 |
+| [Still II](https://open.spotify.com/track/7fVEkRuAjRlEWd6GPSdSuP) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Still II](https://open.spotify.com/album/4suYeq2z1bGkU9AftrlMU7) | 2:09 | 2023-10-25 |  |
 | [Still II](https://open.spotify.com/track/6p3Ze7kZRPSAX8moYolJil) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Still II](https://open.spotify.com/album/6c9KUWjLyQ8yxB9wGnbxfX) | 2:09 | 2022-07-27 | 2023-03-03 |
 | [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 | 2022-07-27 |  |
 | [Supa Sigh](https://open.spotify.com/track/6mESvUo6c4KILTSt0tv7Em) | [BrisB](https://open.spotify.com/artist/5hsqUG0HzeF5qurzzanUWa), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Supa Sigh](https://open.spotify.com/album/0Ozr5RbURs53qS2LPBq3eS) | 3:32 | 2022-07-27 |  |

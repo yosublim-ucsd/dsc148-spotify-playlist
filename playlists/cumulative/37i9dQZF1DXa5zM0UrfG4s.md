@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-330 songs - 15 hr 16 min
+331 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Legevakta](https://open.spotify.com/track/5IczZgxpuYLHkQiEdGchNR) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Legevakta](https://open.spotify.com/album/2ZW7Zk1r1rK1V9ZNlsl1gb) | 2:34 | 2022-05-19 | 2022-06-01 |
 | [Leve 1000 ganger](https://open.spotify.com/track/5ihRXKlKNectm7d93ja6n7) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Leve 1000 ganger](https://open.spotify.com/album/1XTxuZ06vAFTuD7S6s4Dt3) | 3:09 | 2023-08-24 | 2023-09-22 |
 | [LEVE LAVISH \(Ace Of Spades\)](https://open.spotify.com/track/0xj1IHKOaoLv39QhPZnprR) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [10 LAPPER](https://open.spotify.com/artist/1rfSDoxOf0PEPe3yuYuPz8) | [LEVE LAVISH \(Ace Of Spades\)](https://open.spotify.com/album/7gwvJWzd7xJ12WRelYerxD) | 2:19 | 2022-03-03 | 2022-07-24 |
-| [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 | 2022-07-28 |  |
+| [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 | 2022-07-28 | 2023-11-03 |
 | [Levva Livet](https://open.spotify.com/track/61mTvagExZvija6RD4IfiC) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/3r18UsS2QfsHlrpOZFuTyn) | 4:34 | 2022-03-24 | 2022-04-19 |
 | [LIGGA \(HazyDays\)](https://open.spotify.com/track/0dkrp4JRUuCAw4JtRSxJPo) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [LIGGA \(HazyDays\)](https://open.spotify.com/album/31dXdQuqs7m0449DYzvpY8) | 2:25 | 2022-02-17 | 2022-05-15 |
 | [Ligga low](https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Ligga low](https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d) | 2:31 | 2021-12-16 |  |
@@ -221,6 +221,7 @@
 | [Monster](https://open.spotify.com/track/3jky5ngzze3qNFigQCaP8L) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Danspunk](https://open.spotify.com/album/6A1xmfg6FIEavYK0mmEswK) | 2:39 | 2021-12-16 | 2022-06-25 |
 | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK) | [DJ Anton](https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq) | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw) | 2:52 | 2021-12-16 |  |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-03-24 | 2022-04-12 |
+| [Naboen har operert kona si](https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [Naboen har operert kona si](https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE) | 2:30 | 2023-11-02 |  |
 | [NATT TILL DAG](https://open.spotify.com/track/3OGIM1caVXkaAElEhGkLMB) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [NATT TILL DAG](https://open.spotify.com/album/7DrEhHhsCtyMT3HVKk8vKv) | 2:48 | 2023-07-27 |  |
 | [NAV](https://open.spotify.com/track/5JNvUPe41iwViAzA2kc8tp) | [Gjengen](https://open.spotify.com/artist/6PmPCSFetykMhy1JSkPV34) | [NAV](https://open.spotify.com/album/0bo7i5Ssj02vXMKYn5Da94) | 2:51 | 2022-05-26 | 2022-06-01 |
 | [Neste Sommer](https://open.spotify.com/track/7Crq1N5Rf9M6dxlTQZyjI6) | [Chester](https://open.spotify.com/artist/3xegnQbXOPhxZbYZVdD3f5), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Neste Sommer](https://open.spotify.com/album/3rHifJvNraG9kv4ITZJKjU) | 2:05 | 2022-10-13 | 2022-10-16 |

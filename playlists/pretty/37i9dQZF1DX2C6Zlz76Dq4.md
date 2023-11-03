@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Reba McEntire
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,703 likes - 112 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,897 likes - 112 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 28 | [The Christmas Song](https://open.spotify.com/track/4QsTgn6gRKeVddBAqf8rTA) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [East Tennessee Christmas](https://open.spotify.com/album/0vCHP6FWLlgf2HqNfdVsZZ) | 3:07 |
 | 29 | [Hard Candy Christmas](https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:37 |
 | 30 | [Old Time Christmas](https://open.spotify.com/track/6YgGdmhCcdIGaBNBKgerjn) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Merry Christmas Wherever You Are](https://open.spotify.com/album/7bVZzd18CRxQQQRqNU0zJh) | 3:18 |
-| 31 | [It's Beginning to Look A Lot Like Christmas](https://open.spotify.com/track/69Xw4dg0nQuJn2gkQRquRw) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 2:39 |
+| 31 | [It’s Beginning to Look A Lot Like Christmas](https://open.spotify.com/track/7vi7a3Ra5h2H8rLqNOU3ux) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Happy Holiday/It's The Holiday Season](https://open.spotify.com/album/5sR657t0qQVtcqfg9srqHS) | 2:39 |
 | 32 | [Do You Hear What I Hear?](https://open.spotify.com/track/2v94C40orSbaitYQMRzdrB) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Jimmy Murphy](https://open.spotify.com/artist/7g1izbn8iAcoFzdDztqYZd), [Aliyah Good](https://open.spotify.com/artist/77mE2eFDQGBngt9hpFQFIm), [Melissa Murphy](https://open.spotify.com/artist/1xWWfiQkCpAplI3UKBJZqY) | [Spirit & Joy](https://open.spotify.com/album/384XmHwLaPIgg1KePxcaoV) | 4:13 |
 | 33 | [Jingle Bell Rock](https://open.spotify.com/track/3hBXvHLlTHvnbwrPbeoyAj) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [The Classic Years: 1956\-1962](https://open.spotify.com/album/7yeVUGG3xvGjKwhM2FBItZ) | 2:10 |
 | 34 | [Merry Christmas from the Family](https://open.spotify.com/track/0s3adyxfliQerve4qTr8Iq) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Something To Be Proud Of: Best Of 1999\-2005](https://open.spotify.com/album/5xPDOWC4cy0sS9FrF7HiHZ) | 4:03 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 111 | [Shimmy Down The Chimney \(Fill Up My Stocking\)](https://open.spotify.com/track/5OL7UVR4hAxpeWQ5M8eB2T) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Christmas Angels](https://open.spotify.com/album/4yjYRxRStBvBTUog8drzlM) | 4:21 |
 | 112 | [Winter Wonderland / Sleigh Ride](https://open.spotify.com/track/183egccUAzP1fEFSy2TSZQ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:41 |
 
-Snapshot ID: `MCxiOGEyNDc5MmM2MjE5Y2JkYjJlOTBlZGExMDI1Yzc1ZWQwOTI0MmIx`
+Snapshot ID: `MCw3ZTQwNDZmNDBjMmUwYmU2MzYxMmNkOGM5YWY3MWE5NjcwMWM4YWVm`

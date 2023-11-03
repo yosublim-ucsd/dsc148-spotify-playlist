@@ -8072,7 +8072,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 227586,
       "name": "Streets",
       "url": "https://open.spotify.com/track/73SLjEpuUqy13FS7HyewkM"
@@ -8430,6 +8430,24 @@
       "duration_ms": 247266,
       "name": "The Depths",
       "url": "https://open.spotify.com/track/7nyEoRvsBodEvuGTSZpbcx"
+    },
+    {
+      "album": {
+        "name": "The Epic",
+        "url": "https://open.spotify.com/album/23nPvYzq1gTMnGgw8alTdS"
+      },
+      "artists": [
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "The Epic",
+      "url": "https://open.spotify.com/track/0AhFGeVzLGn3VaPplKhSKZ"
     },
     {
       "album": {

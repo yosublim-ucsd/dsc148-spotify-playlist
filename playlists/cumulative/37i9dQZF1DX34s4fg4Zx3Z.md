@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: NGHI; thiết kế: Isu Kim
 
-1,360 songs - 3 day 7 hr 38 min
+1,362 songs - 3 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,6 +710,7 @@
 | [Muốn Sao Nữa Thằng Tồi?](https://open.spotify.com/track/2cBqsgX10iLSZXbs7cbs8u) | [Shayda](https://open.spotify.com/artist/4WF9GdetrQiLeWDWAISRGa) | [Muốn Sao Nữa Thằng Tồi?](https://open.spotify.com/album/5z0lexfD7gNONqDJuc7w2m) | 3:44 | 2023-09-14 |  |
 | [Muốn Thấy Em Cười](https://open.spotify.com/track/7sU7HDtvnCuEttngXf6rUR) | [A.K](https://open.spotify.com/artist/0zj62uJifZjfTQiyDRODjc), [Duy](https://open.spotify.com/artist/0LRSwHcjMyb7p8wob4lUnz) | [Muốn Thấy Em Cười](https://open.spotify.com/album/63KwHbke58wYWQSeXSRjsJ) | 3:39 | 2022-01-20 | 2022-02-11 |
 | [Muốn xa thật không ?](https://open.spotify.com/track/6MRfppkvizNO8cPT6V4WSK) | [Nguyễn An An](https://open.spotify.com/artist/2puIKOUCxCPzoesLuPBy1f) | [Muốn xa thật không ?](https://open.spotify.com/album/19smrMl8Zssn6GZ9Y1TiEO) | 4:55 | 2023-03-24 | 2023-05-23 |
+| [MY BLUE](https://open.spotify.com/track/1Gb85GMryDJ6FA5Jtp3f9m) | [Khờ Band](https://open.spotify.com/artist/1wIxLY0SfHN4TAHWLuBsj8) | [MY BLUE](https://open.spotify.com/album/2G9cl9yda9Z1A7jATH5GcJ) | 4:48 | 2023-11-02 |  |
 | [My full\-time You \(Mộc\)](https://open.spotify.com/track/0KFOvNZbVysXRaXnDCiWjf) | [Mlee](https://open.spotify.com/artist/5amt5wnRc8EmPoBouDo0UG) | [My full\-time You \(Mộc\)](https://open.spotify.com/album/5s3qz5kHog5DEFSqWW4ekY) | 3:31 | 2023-04-17 | 2023-06-16 |
 | [My G\(irl\)](https://open.spotify.com/track/128Jc2dLKszbRDUmLMWEgU) | [Koo](https://open.spotify.com/artist/19JOXyTbKnSp1QxnKEeXtq) | [My G\(irl\)](https://open.spotify.com/album/1bifyxuMnvs2OOC2HxnCdG) | 2:20 | 2023-02-15 | 2023-03-16 |
 | [My Life My Style](https://open.spotify.com/track/5gSk8DFl0cCRn3J3CGknXy) | [IIMV](https://open.spotify.com/artist/1DUxbWXOGypH1hre0rNtLa) | [My Life My Style](https://open.spotify.com/album/1HZQr1QTc7Ql2d0MX9xx9O) | 2:49 | 2022-04-27 | 2022-06-17 |
@@ -1083,6 +1084,7 @@
 | [Tiếp Hay Dừng Lại](https://open.spotify.com/track/5dL0AVDohyTNpOcWKfGoK5) | [Tee](https://open.spotify.com/artist/0SIXDZNCL2rbHe6CN4my9b), [TVk](https://open.spotify.com/artist/3my3hZk9u3cSTB1jfRm1Oz) | [Tiếp Hay Dừng Lại](https://open.spotify.com/album/3lYVQCmQniqJhtkLmJwZ1U) | 6:00 | 2023-01-18 | 2023-03-02 |
 | [To The Moon](https://open.spotify.com/track/1bl38O1jQPEWKsLEUISWZg) | [FreshlyRC](https://open.spotify.com/artist/6WMNTpBmbvK4a7yikMwZDn) | [To The Moon](https://open.spotify.com/album/52WoQmTKRro3xBcPUeERQj) | 3:06 | 2023-07-06 | 2023-08-01 |
 | [To Xác](https://open.spotify.com/track/7gFPaknWxvimeh5aYEqSnz) | [An Ric](https://open.spotify.com/artist/39MEOQAMmqrwnwhL5rnYSn) | [To Xác](https://open.spotify.com/album/60dRxbToYIOWvxz2M9AFCN) | 2:21 | 2023-10-05 |  |
+| [Top List](https://open.spotify.com/track/1pJDNrUdD2RUel6Errx3Wz) | [7bizz](https://open.spotify.com/artist/5g95n51OydueKR940xXqhG), [Nosiah](https://open.spotify.com/artist/5VEpMspmRc0eGPemWUqPJc) | [Top List](https://open.spotify.com/album/3kPFj4kpQp01MjvdHHEvyt) | 2:30 | 2023-11-02 |  |
 | [TOURIST](https://open.spotify.com/track/3wdK1Ldkj6ju4JIvg94G24) | [B\-Wine](https://open.spotify.com/artist/68Vj5ArAHBx2K0osGDXK4K), [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om) | [TOURIST](https://open.spotify.com/album/2x7cvo4mgRnx8ZVxyGcRNy) | 3:30 | 2022-01-06 | 2023-01-06 |
 | [Trao Em Tình Yêu](https://open.spotify.com/track/0vgMjbZgwpcrkQXjRqSQwA) | [Vang](https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW), [Darki](https://open.spotify.com/artist/5Oe02XQcUF74wOofnIl9b2) | [Trao Em Tình Yêu](https://open.spotify.com/album/1E8YpWgwRWDXZDrkgTvm0M) | 3:07 | 2022-07-31 | 2023-04-09 |
 | [Trapstar](https://open.spotify.com/track/6RWov91Kfe7fpiIRNdtfIF) | [WoogieBoi](https://open.spotify.com/artist/6e96L3MFFvaPscjxZeyHVP), [Woodee](https://open.spotify.com/artist/26qzkcko4ciQhzBR0Ofmge) | [Trapstar](https://open.spotify.com/album/2349VuDc9A0LhMZWlweNOE) | 3:11 | 2022-08-23 | 2022-09-01 |

@@ -4,7 +4,7 @@
 
 > One of the finest <a href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">voices</a> we've ever known\. Now hear her greatest songs.
 
-86 songs - 5 hr 4 min
+87 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/6zYfEsNOhv5hd6CfwPXjIY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 4:49 | 2021-04-07 |  |
 | [I Loves You Porgy](https://open.spotify.com/track/6qUiRA9dQqSfPF8jqTiOeg) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [1950s R&B Hits](https://open.spotify.com/album/2RtvgJlLcj1RqzeR9JlA0n) | 4:07 | 2022-10-27 | 2022-11-13 |
 | [I Loves You Porgy](https://open.spotify.com/track/4mGzm5ahHxMX5IhVWbU7cl) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(Remastered 2013\)](https://open.spotify.com/album/0jIbJ6WxiAoOb3kpHmU6QD) | 4:09 | 2021-04-07 | 2022-07-29 |
-| [I Loves You Porgy \- 2013 Remastered Version](https://open.spotify.com/track/0kDpFPQgQYeZ7t04Quiwkn) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 4:09 | 2022-04-27 |  |
+| [I Loves You Porgy \- 2013 Remastered Version](https://open.spotify.com/track/0kDpFPQgQYeZ7t04Quiwkn) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 4:09 | 2022-04-27 | 2023-11-03 |
+| [I Loves You, Porgy \- 2014 \- Remaster](https://open.spotify.com/track/75aVGfaOnMhaWS7ogwBGcP) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone And Her Friends \(2014 \- Remaster\)](https://open.spotify.com/album/4R0PXsu2iOe9TGlq2wnINx) | 4:13 | 2023-10-05 |  |
 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 | 2021-04-07 |  |
 | [I Shall Be Released](https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [To Love Somebody \(Expanded Edition\)](https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi) | 3:53 | 2021-04-07 |  |
 | [I Think It's Going to Rain Today](https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 3:20 | 2021-04-07 |  |

@@ -2159,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "Frank Ray",
+        "url": "https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ"
+      },
+      "artists": [
+        {
+          "name": "Frank Ray",
+          "url": "https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189760,
+      "name": "Streetlights",
+      "url": "https://open.spotify.com/track/1jt3qpuuzQaO1XrUzuV1QW"
+    },
+    {
+      "album": {
         "name": "Streetlights",
         "url": "https://open.spotify.com/album/6NwL9TmFyXn82jzcgvdLOL"
       },
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 190200,
       "name": "Streetlights",
       "url": "https://open.spotify.com/track/4j0z2wrQdQBmgXjXE4PpoK"

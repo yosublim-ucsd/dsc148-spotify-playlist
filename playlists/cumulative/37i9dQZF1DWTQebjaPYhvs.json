@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Bomber",
+        "url": "https://open.spotify.com/album/5F2OkugZPCbjYKQvjUh5yM"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2020-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183533,
+      "name": "Dead Men Tell No Tales",
+      "url": "https://open.spotify.com/track/3n1SVpFljd2w59JwWc3vAU"
+    },
+    {
+      "album": {
         "name": "Bomber (Expanded Edition)",
         "url": "https://open.spotify.com/album/1OVYzABapDJ7aZGfBLY22F"
       },
@@ -818,7 +836,7 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 183533,
       "name": "Dead Men Tell No Tales",
       "url": "https://open.spotify.com/track/6SuvhFoNuEGc9eEVWCoMSE"
@@ -2831,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2020-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "Small Town, Girl",
+      "url": "https://open.spotify.com/track/0rj70dcy5czyOg3uTSk4d8"
+    },
+    {
+      "album": {
         "name": "Sayin' What I'm Thinkin'",
         "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
       },
@@ -2842,7 +2878,7 @@
       ],
       "date_added": "2020-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 182346,
       "name": "Small Town, Girl",
       "url": "https://open.spotify.com/track/4E6DaSnV1KTJsJ6JW0ae8h"
@@ -3448,7 +3484,7 @@
     {
       "album": {
         "name": "Conditions Of My Parole",
-        "url": "https://open.spotify.com/album/2gUufHW7CcgULEywXTQHk4"
+        "url": "https://open.spotify.com/album/1ZIPAkFJ9oY4zJnvVljD58"
       },
       "artists": [
         {
@@ -3459,6 +3495,24 @@
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 255892,
+      "name": "Tumbleweed",
+      "url": "https://open.spotify.com/track/0eNayEygFlK7N3rH12RD43"
+    },
+    {
+      "album": {
+        "name": "Conditions Of My Parole",
+        "url": "https://open.spotify.com/album/2gUufHW7CcgULEywXTQHk4"
+      },
+      "artists": [
+        {
+          "name": "Puscifer",
+          "url": "https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
       "duration_ms": 255892,
       "name": "Tumbleweed",
       "url": "https://open.spotify.com/track/6tsJ7h5Q1w2L3X8EkfCixU"

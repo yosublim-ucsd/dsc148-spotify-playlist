@@ -74321,6 +74321,24 @@
     },
     {
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/3iF8qGkmv3GeukyG2Gp23k"
+      },
+      "artists": [
+        {
+          "name": "Metteson",
+          "url": "https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216477,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6WBaB2VtZME06Wy2DmRpSa"
+    },
+    {
+      "album": {
         "name": "way after forever",
         "url": "https://open.spotify.com/album/2IHqIp7JN9bbL5sV4qdgx4"
       },
@@ -78494,6 +78512,24 @@
       "duration_ms": 230652,
       "name": "you're just a guy",
       "url": "https://open.spotify.com/track/5few7Mi55PFf2E3o1lqiXI"
+    },
+    {
+      "album": {
+        "name": "grown up and lonely",
+        "url": "https://open.spotify.com/album/2xVOOfw2CwcLIhE06LqyIA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Bickett",
+          "url": "https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152432,
+      "name": "you're not a bad person",
+      "url": "https://open.spotify.com/track/4ebE2i0CeVuKlOFtiCoKMA"
     },
     {
       "album": {

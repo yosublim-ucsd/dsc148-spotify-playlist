@@ -4,7 +4,7 @@
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-170 songs - 10 hr 13 min
+171 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Cancion del Mariachi](https://open.spotify.com/track/2WAHi5ZJwDZqGjnhZgZYmU) | [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ), [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Mexico and Mariachis](https://open.spotify.com/album/4XPadpKr3aUdP3uFBZSsm9) | 2:07 | 2022-09-09 |  |
 | [Christmas Wrapping](https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl) | [The Waitresses](https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8) | [The Best Of The Waitresses](https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU) | 5:20 | 2022-01-07 |  |
 | [Cinderelly](https://open.spotify.com/track/1tj53uXJoc0uvWSF74KSx7) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Cinderelly](https://open.spotify.com/album/39zIVvbgkZLTQMqBiUChgW) | 2:08 | 2022-01-06 | 2023-04-09 |
-| [Cinderelly](https://open.spotify.com/track/5rZXfiBWXMHiXnNJLMezsx) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Cinderelly](https://open.spotify.com/album/0l8Ensxv2GazTB0qT41773) | 2:08 | 2022-01-06 |  |
+| [Cinderelly](https://open.spotify.com/track/5KqcscxC2cHoq72DSypqIN) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Cinderelly](https://open.spotify.com/album/37UlnQ04FICxVBYaZ2uIWP) | 2:08 | 2022-01-06 |  |
+| [Cinderelly](https://open.spotify.com/track/5rZXfiBWXMHiXnNJLMezsx) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Cinderelly](https://open.spotify.com/album/0l8Ensxv2GazTB0qT41773) | 2:08 | 2022-01-06 | 2023-11-03 |
 | [Closer to Habit](https://open.spotify.com/track/5BOPRGJqsckBRz17qzxqdL) | [Allele](https://open.spotify.com/artist/3UmfLYwk2TowLt9YPvekT1) | [Allele](https://open.spotify.com/album/4VvfEgqTrePNoVTNQpjFwE) | 3:24 | 2022-01-06 |  |
 | [Come Back to Us](https://open.spotify.com/track/0sqh5vCr8U8XNt8Xd0IPms) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC) | 1:39 | 2022-01-07 |  |
 | [Consolation No\. 3 in D\-Flat Major, S\. 172](https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 4:19 | 2022-01-06 |  |

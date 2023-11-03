@@ -542,7 +542,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 190586,
       "name": "Bright Star",
       "url": "https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 190586,
       "name": "Bright Star",
       "url": "https://open.spotify.com/track/3eMWAyf54iRQhCQVt8h2ny"
@@ -3420,6 +3420,24 @@
     {
       "album": {
         "name": "Resolution",
+        "url": "https://open.spotify.com/album/4yftX7ZqXZ6a6e1IXZlThq"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218760,
+      "name": "Resolution",
+      "url": "https://open.spotify.com/track/6WDUEu8kkQVYAucW4dFWzk"
+    },
+    {
+      "album": {
+        "name": "Resolution",
         "url": "https://open.spotify.com/album/3Cf3lwnldvtL5s9iqJMoh5"
       },
       "artists": [
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2020-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 218760,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/6ro2Oa7i6jfMMTETNla1Ha"

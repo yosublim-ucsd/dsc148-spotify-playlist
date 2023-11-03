@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023, curated by Ras Kwame.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,673 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,718 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 24 | [It's A Pity](https://open.spotify.com/track/46oKpr00CmuPJGvPZ3y9uk) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Tanya...Collection Of Hits](https://open.spotify.com/album/0jeZIxOER2j9RbJqokIwja) | 4:13 |
 | 25 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 |
 | 26 | [Silly Games](https://open.spotify.com/track/06mNAN5wsrhr14NJ6a7kua) | [Janet Kay](https://open.spotify.com/artist/4D6CqTx48E5t6aL411Gl3F) | [The DuBMASTER: The Essential Anthology](https://open.spotify.com/album/1rTGkgzDInt8ONKDZtCG6h) | 3:57 |
-| 27 | [Silly Dub](https://open.spotify.com/track/4hQbTNdDPblTvpGcwGJBPz) | [Dennis Bovell](https://open.spotify.com/artist/0xJuAKhVgEfuiEXjyLEuC6) | [The DuBMASTER: The Essential Anthology](https://open.spotify.com/album/1rTGkgzDInt8ONKDZtCG6h) | 4:37 |
+| 27 | [Silly Dub](https://open.spotify.com/track/0us5v91yXciDoDjqjzrEm0) | [Dennis Bovell](https://open.spotify.com/artist/0xJuAKhVgEfuiEXjyLEuC6) | [Dub Dem Silly](https://open.spotify.com/album/1MZHzAvuldU8vAyy4ODJoB) | 4:37 |
 | 28 | [I'm Still in Love With You](https://open.spotify.com/track/3scsKPy4dLwvWjF8MgIXPQ) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Sings Rock and Soul](https://open.spotify.com/album/6hNofbmzriqtQQF5MlzeIt) | 3:21 |
 | 29 | [Feel Like Jumping](https://open.spotify.com/track/4R8rtLIPQcrjnYvKOlqUON) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Reggae Anthology: Melody Life](https://open.spotify.com/album/6Np3SiLHAR9QuHTChsEcDd) | 3:33 |
 | 30 | [Leave the Door Open](https://open.spotify.com/track/0wv2A9lGkNIUYvy6ON51cS) | [Anthony Cruz](https://open.spotify.com/artist/6DRTwmXCP0ztNsVvPLEGPI) | [Under the Covers](https://open.spotify.com/album/7qDUAaFVLPSThcAkbw5OfA) | 3:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 59 | [\(To Be\) Young Gifted and Black](https://open.spotify.com/track/21YtaaAivXcpcFaYbTjgKP) | [Bob & Marcia](https://open.spotify.com/artist/2AaKscnKxoLM7W3KT9yjtQ) | [Young, Gifted & Black](https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG) | 3:08 |
 | 60 | [Run Things \- Dub](https://open.spotify.com/track/64RGLg1LhhP0E1sznWg6LJ) | [Micah Shemaiah](https://open.spotify.com/artist/3eZZJk4Ik5kBSK2dsdxX6X) | [Jamaica Jamaica](https://open.spotify.com/album/1SvU6PNsPanhwTBghmBUVR) | 3:12 |
 
-Snapshot ID: `MCwzNmE5ZmYzOWJkOTczM2QyOGZlMjQzMjVmZDhjMWUxNTU0YWMxNDNj`
+Snapshot ID: `MCxlOTE3OGI0NmUwZmEwZDUwNTljMTFmOGNjMzIxOWQwNWE0ODQ3MTVi`

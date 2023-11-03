@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: COBRAH
 
-146 songs - 9 hr 46 min
+147 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Good Time](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Good Time](https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy) | 2:41 | 2022-06-03 | 2023-04-01 |
 | [Hands \- Edit](https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Hands \(DJ\-Kicks\)](https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38) | 4:01 | 2023-03-31 |  |
 | [HARD 2.0](https://open.spotify.com/track/4pVeNLmkjJ4CHLyU54IPEL) | [River Moon](https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2), [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [HARD 2.0](https://open.spotify.com/album/1JLjGf7hGIXBLGiOWLoW5S) | 2:42 | 2023-06-20 | 2023-06-24 |
-| [Harder Now](https://open.spotify.com/track/2X8XhkI3gPI710ah4KDqKs) | [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW), [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3) | [Harder Now](https://open.spotify.com/album/3yRPPTNgf1UHUwzdzskF7R) | 4:29 | 2021-10-15 |  |
+| [Harder Now](https://open.spotify.com/track/2X8XhkI3gPI710ah4KDqKs) | [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW), [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3) | [Harder Now](https://open.spotify.com/album/3yRPPTNgf1UHUwzdzskF7R) | 4:29 | 2021-10-15 | 2023-11-03 |
+| [Harder Now](https://open.spotify.com/track/59lCoeBMdMdzbjO0a7bVue) | [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW), [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3) | [The Practice of Freedom \(Deluxe\)](https://open.spotify.com/album/5nltettmPaF51GfE1Km3YU) | 4:29 | 2023-10-13 |  |
 | [Harmonic Frequencies](https://open.spotify.com/track/2U2dlU4ELCrmUOnojBsMcT) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/4KI8PM8G8iT5tc2yAz3PBl) | 4:10 | 2021-10-15 | 2023-04-01 |
 | [He Is the Voice I Hear](https://open.spotify.com/track/0bC0IHtRUfM82mozT9cjCh) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [He Is the Voice I Hear](https://open.spotify.com/album/76LFRQ0iWwIJLvdyxL6CzK) | 10:29 | 2021-10-15 |  |
 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 | 2023-03-31 |  |

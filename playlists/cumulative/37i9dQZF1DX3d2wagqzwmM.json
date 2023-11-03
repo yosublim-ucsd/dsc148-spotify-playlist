@@ -531,6 +531,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Life (Faustix RMX)",
+        "url": "https://open.spotify.com/album/621d4r3IhIOtDRJZLEtKWh"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        },
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179888,
+      "name": "Beautiful Life - Faustix RMX",
+      "url": "https://open.spotify.com/track/27r1J3SrSwVoRHIcb5FdIh"
+    },
+    {
+      "album": {
         "name": "BED (David Guetta Festival Mix)",
         "url": "https://open.spotify.com/album/2g7TH4pjOmA7jcfPi24m2H"
       },
@@ -1525,6 +1547,28 @@
     },
     {
       "album": {
+        "name": "Destination Infinity (feat. Datura)",
+        "url": "https://open.spotify.com/album/4Xi1JKepaggNsh32FvPNId"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Datura",
+          "url": "https://open.spotify.com/artist/7Gd5WhhkYzzlMgtkT46oPN"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142451,
+      "name": "Destination Infinity (feat. Datura)",
+      "url": "https://open.spotify.com/track/6Y9HjkMSYwxZWVKd12QeTi"
+    },
+    {
+      "album": {
         "name": "Diamonds On My Mind",
         "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
       },
@@ -1722,7 +1766,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 146250,
       "name": "Drum Machine",
       "url": "https://open.spotify.com/track/2vuMD95467vEtEUja63LxH"
@@ -1868,7 +1912,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 185600,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/4ywSs3wQa6U85OYS6qzX9A"
@@ -3024,7 +3068,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 245413,
       "name": "Human",
       "url": "https://open.spotify.com/track/5i9khhoOkeogB49q54KOIz"
@@ -4072,7 +4116,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 172444,
       "name": "Minerva",
       "url": "https://open.spotify.com/track/7D9NidXOJwb3ZAPJ7LOkoD"
@@ -5615,6 +5659,32 @@
     },
     {
       "album": {
+        "name": "RIDE OR DIE",
+        "url": "https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189855,
+      "name": "RIDE OR DIE",
+      "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
+    },
+    {
+      "album": {
         "name": "Ride With Me (feat. Kid Ink) [Blasterjaxx & Tungevaag Remix]",
         "url": "https://open.spotify.com/album/4aelIqUCHvwZEigEXvL6SI"
       },
@@ -6070,7 +6140,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 192916,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/0OuQY7KJpP1QCLqJnKLpy9"
@@ -6272,6 +6342,32 @@
       "duration_ms": 163124,
       "name": "Something",
       "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
+    },
+    {
+      "album": {
+        "name": "Song 2",
+        "url": "https://open.spotify.com/album/4azfA0LZ09hbdlsH3BYwKF"
+      },
+      "artists": [
+        {
+          "name": "D-Devils",
+          "url": "https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao"
+        },
+        {
+          "name": "Rumix",
+          "url": "https://open.spotify.com/artist/7eqieEH36QOT0ce6SPKSs2"
+        },
+        {
+          "name": "Highbreeze",
+          "url": "https://open.spotify.com/artist/5KmY1ByYczn6OKCurEyO3O"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144857,
+      "name": "Song 2",
+      "url": "https://open.spotify.com/track/6IXr50xGiGbcRFEMlKW9yB"
     },
     {
       "album": {
@@ -6586,7 +6682,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 205217,
       "name": "Take Me Away Again",
       "url": "https://open.spotify.com/track/2meQ2wSIBU8OQDKlJcJk5j"
@@ -6626,7 +6722,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 264374,
       "name": "TARAKA - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d"

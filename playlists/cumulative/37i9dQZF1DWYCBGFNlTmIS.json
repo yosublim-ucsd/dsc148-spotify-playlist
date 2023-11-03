@@ -160,10 +160,28 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 202493,
       "name": "Lost In L.A.",
       "url": "https://open.spotify.com/track/2DZcCzTbShcVqkP8jz94r8"
+    },
+    {
+      "album": {
+        "name": "Kiss Kiss Kiss",
+        "url": "https://open.spotify.com/album/6R6b3p1Y5S3dt9QxBWvzjE"
+      },
+      "artists": [
+        {
+          "name": "At17",
+          "url": "https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202493,
+      "name": "Lost In L.A.",
+      "url": "https://open.spotify.com/track/7x0pRjtwBgXo29c159apaE"
     },
     {
       "album": {
@@ -369,6 +387,24 @@
     },
     {
       "album": {
+        "name": "TM+M DECADE(NCE)",
+        "url": "https://open.spotify.com/album/0XFfeDYvkSgtfXbNCojXQU"
+      },
+      "artists": [
+        {
+          "name": "Tat Ming Pair",
+          "url": "https://open.spotify.com/artist/2cvtzIo0OSIAkyr7LisIT6"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "\u4eca\u5929\u4e16\u4e0a\u6240\u6709\u5730\u65b9",
+      "url": "https://open.spotify.com/track/5xRBxxrSMnQ2U57dk4WJEK"
+    },
+    {
+      "album": {
         "name": "\u4eca\u5929\u4e16\u4e0a\u6240\u6709\u5730\u65b9",
         "url": "https://open.spotify.com/album/0K33WSkWgl3rtCMLCoceCw"
       },
@@ -380,7 +416,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 266684,
       "name": "\u4eca\u5929\u4e16\u4e0a\u6240\u6709\u5730\u65b9",
       "url": "https://open.spotify.com/track/24LhEqEKlBIGEHd4hZcX3L"
@@ -1104,10 +1140,40 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 264552,
       "name": "\u6b61\u8fce\u569f\u5230\u5462\u5ea7\u57ce\u5e02 (\u96fb\u5f71\u300a\u72c2\u821e\u6d3e3\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/0dYhfbl6DhtaaYUhcnEk5T"
+    },
+    {
+      "album": {
+        "name": "\u6b61\u8fce\u569f\u5230\u5462\u5ea7\u57ce\u5e02 (\u96fb\u5f71\u300a\u72c2\u821e\u6d3e3\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/6xqbTj8yj515OoBWzV3Pf2"
+      },
+      "artists": [
+        {
+          "name": "Heyo",
+          "url": "https://open.spotify.com/artist/1ezK75lItwHkPdbIq7Z3Xn"
+        },
+        {
+          "name": "\u963f\u5f17",
+          "url": "https://open.spotify.com/artist/0yesFAyj7EpWGqrnDjoxQx"
+        },
+        {
+          "name": "Lydia",
+          "url": "https://open.spotify.com/artist/3CXZCvIZ9YjprJWs5qJbNK"
+        },
+        {
+          "name": "Jan Curious",
+          "url": "https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264552,
+      "name": "\u6b61\u8fce\u569f\u5230\u5462\u5ea7\u57ce\u5e02 (\u96fb\u5f71\u300a\u72c2\u821e\u6d3e3\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/77C2EjCqNso0FOyuDcSQSt"
     },
     {
       "album": {

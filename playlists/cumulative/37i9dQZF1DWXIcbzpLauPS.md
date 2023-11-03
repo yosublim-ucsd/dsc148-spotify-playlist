@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Hollow Front
 
-761 songs - 1 day 23 hr 45 min
+763 songs - 1 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,8 @@
 | [Miscreation](https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z) | [The Anchor](https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW) | [Miscreation](https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2) | 3:33 | 2022-04-29 | 2022-12-17 |
 | [Miserable Summer](https://open.spotify.com/track/1TqxaBXzqepHJHcI2QAoRu) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Miserable Summer](https://open.spotify.com/album/7cdW7W8dJBUoUoHuarLsb2) | 4:54 | 2022-07-13 | 2022-07-23 |
 | [Misery](https://open.spotify.com/track/104ZHaGgZBoI1flo5OLnZL) | [This Is Turin](https://open.spotify.com/artist/23skq5iXNl7VoLgyWFAJRB), [Cj Mcmahon](https://open.spotify.com/artist/29eyErawu3CCYTTUPqwrQw) | [Misery](https://open.spotify.com/album/3fJo3KyyaekctIrIursZqE) | 4:48 | 2022-07-13 | 2022-07-19 |
-| [Misery \(feat\. Atreyu\)](https://open.spotify.com/track/3PcbdPfxHNUo8LeWPEBnQT) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Misery \(feat\. Atreyu\)](https://open.spotify.com/album/0oIW9gCsZ1g3IXZcEZEPCm) | 3:12 | 2023-09-15 |  |
+| [Misery \(feat\. Atreyu\)](https://open.spotify.com/track/3PcbdPfxHNUo8LeWPEBnQT) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Misery \(feat\. Atreyu\)](https://open.spotify.com/album/0oIW9gCsZ1g3IXZcEZEPCm) | 3:12 | 2023-09-15 | 2023-11-03 |
+| [Misery \(feat\. Atreyu\)](https://open.spotify.com/track/6fkc33TnVtVRGEgGBWRY09) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Misery \(feat\. Atreyu\)](https://open.spotify.com/album/6cB7t1q4PrgmDmAyuJFW4j) | 3:12 | 2023-10-27 |  |
 | [Misguided](https://open.spotify.com/track/3XzHz4DaqxbsjDEoEyW0RX) | [AVIIRA](https://open.spotify.com/artist/5jrO7JLjq5hKKKENDwrun4) | [Avalanche](https://open.spotify.com/album/2Z0dWUt45um1flzsxi6Nd3) | 3:48 | 2022-01-07 | 2022-04-09 |
 | [Mojave Repressions](https://open.spotify.com/track/5wnV8Xgk0EZvpObhpY4ukb) | [Merrow](https://open.spotify.com/artist/6lMwUV4nVScxzSAQYX4JNF) | [Mojave Repressions](https://open.spotify.com/album/0Lnn1lxdvapbmEEOHbCBan) | 6:13 | 2022-07-13 | 2022-07-22 |
 | [Monster](https://open.spotify.com/track/3s14tMRyXZ9p9vpWfjAf3Q) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Alternate Realities](https://open.spotify.com/album/71Lcm9f08c9QDz7beKpp43) | 3:18 | 2022-03-18 | 2022-05-21 |
@@ -731,7 +732,8 @@
 | [Void](https://open.spotify.com/track/4M6ZBhuQAcuh6EdB1CUR7a) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Happier?](https://open.spotify.com/album/2A8YKx8YDBY5uCgVZJg6Oo) | 2:43 | 2021-12-17 | 2022-02-18 |
 | [W.A.R](https://open.spotify.com/track/51VVGIHZga7D1iMTRJoeAa) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [W.A.R](https://open.spotify.com/album/0L6syCHWE7I6A34WyGWpU9) | 3:27 | 2023-02-03 | 2023-02-08 |
 | [W.a.R](https://open.spotify.com/track/75ipV1ycKTZuy6CYb6wa0j) | [Main\-De\-Gloire](https://open.spotify.com/artist/1YcOnsBEycC9X5OY6kUzmV) | [W.A.R](https://open.spotify.com/album/5K1VQBpd6392NncfwKl6kG) | 3:27 | 2023-02-03 | 2023-05-06 |
-| [Wake The Dead](https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu) | 3:07 | 2023-05-26 |  |
+| [Wake The Dead](https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/7JfMevv73honn9mW7ZenHs) | 3:07 | 2023-10-27 |  |
+| [Wake The Dead](https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu) | 3:07 | 2023-05-26 | 2023-11-03 |
 | [Walk With Me In Hell](https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Walk With Me In Hell](https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh) | 5:16 | 2022-09-02 | 2022-09-10 |
 | [Walking Blind](https://open.spotify.com/track/7HFpMpwPVsaifUGZIRfD8f) | [No Bragging Rights](https://open.spotify.com/artist/6b0TUydvuFHiCMET4SZ0L2) | [Walking Blind](https://open.spotify.com/album/46cPXcE6C6aquvvABKjLfU) | 3:17 | 2021-12-17 | 2022-02-11 |
 | [Warpaint](https://open.spotify.com/track/0GzWj8bo5qMuBplDjOdLxH) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Warpaint](https://open.spotify.com/album/2MTwOiCBBadJ9gqhw5dyie) | 3:28 | 2023-07-28 | 2023-09-16 |

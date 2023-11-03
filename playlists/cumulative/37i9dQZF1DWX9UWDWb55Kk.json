@@ -6884,28 +6884,6 @@
     {
       "album": {
         "name": "Swipe It Off",
-        "url": "https://open.spotify.com/album/4ZIqYLcgit6njZ4RjHMZck"
-      },
-      "artists": [
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "Brazzabelle",
-          "url": "https://open.spotify.com/artist/0Vqd4JxqpC1sfl2n0Cn0Zr"
-        }
-      ],
-      "date_added": "2021-09-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 145297,
-      "name": "Swipe It Off",
-      "url": "https://open.spotify.com/track/5EkkonCZXg6dRf9wSBqEtT"
-    },
-    {
-      "album": {
-        "name": "Swipe It Off",
         "url": "https://open.spotify.com/album/58U88uG7iregTvZAFKIQsZ"
       },
       "artists": [
@@ -6924,6 +6902,32 @@
       "duration_ms": 149062,
       "name": "Swipe It Off",
       "url": "https://open.spotify.com/track/6oBm0LyHOSPAHUyaCWkGVQ"
+    },
+    {
+      "album": {
+        "name": "Swipe It Off",
+        "url": "https://open.spotify.com/album/4ZIqYLcgit6njZ4RjHMZck"
+      },
+      "artists": [
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Brazzabelle",
+          "url": "https://open.spotify.com/artist/0Vqd4JxqpC1sfl2n0Cn0Zr"
+        },
+        {
+          "name": "Zanillya Farrell",
+          "url": "https://open.spotify.com/artist/3ky48Nd3PX3w6xJXVSFsrM"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145297,
+      "name": "Swipe It Off",
+      "url": "https://open.spotify.com/track/5EkkonCZXg6dRf9wSBqEtT"
     },
     {
       "album": {

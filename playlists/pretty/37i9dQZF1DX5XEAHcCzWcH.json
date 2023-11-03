@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 29920,
+  "num_followers": 29945,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTE0NzBiNmZiZWNiMTlmZTc2YTM3ODRmYWIzNDhiN2QwODdhNTE5",
+  "snapshot_id": "MCwyMjUxNTc1M2QzMjgwZGExYTJiNTlmM2QwYTZkOWQzMjllZWY1ZTVh",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Blues On The Prowl",
-        "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 217720,
-      "name": "Booker's Boogie",
-      "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Presenting Blind Blake",
         "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 190400,
       "name": "Hastings Street",
       "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Blues On The Prowl",
+        "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 217720,
+      "name": "Booker's Boogie",
+      "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The Honeydripper",
-        "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt Sykes",
-          "url": "https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Pocketful Of Money",
-      "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music",
         "url": "https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb"
       },
@@ -903,22 +887,6 @@
       "duration_ms": 185600,
       "name": "Early in the Morning",
       "url": "https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Good Candy",
-        "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
-      },
-      "artists": [
-        {
-          "name": "Lovie Lee",
-          "url": "https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM"
-        }
-      ],
-      "duration_ms": 392600,
-      "name": "West Side Woman",
-      "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -939,18 +907,34 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "From North Dallas to the East Side",
-        "url": "https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9"
+        "name": "The Honeydripper",
+        "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
       },
       "artists": [
         {
-          "name": "Alex Moore",
-          "url": "https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1"
+          "name": "Roosevelt Sykes",
+          "url": "https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5"
         }
       ],
-      "duration_ms": 187160,
-      "name": "Whistling Alex Moore's Blues",
-      "url": "https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte"
+      "duration_ms": 152000,
+      "name": "Pocketful Of Money",
+      "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Good Candy",
+        "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
+      },
+      "artists": [
+        {
+          "name": "Lovie Lee",
+          "url": "https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM"
+        }
+      ],
+      "duration_ms": 392600,
+      "name": "West Side Woman",
+      "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -967,6 +951,22 @@
       "duration_ms": 185933,
       "name": "Some Nerve",
       "url": "https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "From North Dallas to the East Side",
+        "url": "https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9"
+      },
+      "artists": [
+        {
+          "name": "Alex Moore",
+          "url": "https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1"
+        }
+      ],
+      "duration_ms": 187160,
+      "name": "Whistling Alex Moore's Blues",
+      "url": "https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "SUN STUDIO STORY",
+        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Early In The Morning",
+      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
         "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 298600,
       "name": "Dices Blues",
       "url": "https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "SUN STUDIO STORY",
-        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Early In The Morning",
-      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
     },
     {
       "added_at": "2023-09-15 11:43:10",

@@ -1,12 +1,12 @@
 {
   "description": "The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh",
-  "num_followers": 171782,
+  "num_followers": 171836,
   "original_name": "Latino Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjhiNjQ5OWIzMjg3MmMxNTFlODU1NjZkYzIwM2I2YzdjOTQ5ODBj",
+  "snapshot_id": "MCxmNGE0ZDI1NjZmZjYyYTQ0NTJkY2ZkNjE4ZTJmM2M3YTNkZWU4M2Y4",
   "tracks": [
     {
       "added_at": "2023-09-22 07:16:39",
@@ -975,26 +975,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Cuando Salga La Luna",
-        "url": "https://open.spotify.com/album/13YZTzEcNhAtKRmb5sb2yL"
-      },
-      "artists": [
-        {
-          "name": "Cano",
-          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Cuando Salga La Luna",
-      "url": "https://open.spotify.com/track/5eCEYfCUQ9JJOIhyUVEmyq"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "LFG",
         "url": "https://open.spotify.com/album/0Wjc11cdyOt2mvMCBrTTvU"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 158837,
       "name": "DROP TOP (feat. Eddie Zuko)",
       "url": "https://open.spotify.com/track/4iVlQcJQfbp9CZVLZsfIoS"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "Cuando Salga La Luna",
+        "url": "https://open.spotify.com/album/13YZTzEcNhAtKRmb5sb2yL"
+      },
+      "artists": [
+        {
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Cuando Salga La Luna",
+      "url": "https://open.spotify.com/track/5eCEYfCUQ9JJOIhyUVEmyq"
     },
     {
       "added_at": "2023-09-22 07:16:39",

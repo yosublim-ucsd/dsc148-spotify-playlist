@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Mac Júlia
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,667 likes - 74 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,670 likes - 74 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 7 | [Prazo De Validade](https://open.spotify.com/track/6tQVvcmfUvtxxg4FmQTpv9) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Prazo De Validade](https://open.spotify.com/album/79X2Zz8FuvzjIHzKTfSxcA) | 5:42 |
 | 8 | [Preso](https://open.spotify.com/track/465Bb7qa8hMMBq2ekj8LUW) | [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [NVV](https://open.spotify.com/album/6TpHI1VJgqkrLq87qZZox2) | 3:27 |
 | 9 | [X6](https://open.spotify.com/track/7mBvm8Btuuki2jsh6y1d6L) | [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [X6](https://open.spotify.com/album/0udOR3FWCWME2YWiQE3etx) | 2:12 |
-| 10 | [Iceberg](https://open.spotify.com/track/1nIQXwHaYPSwHWhefjnQqA) | [Lil Whind](https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr), [Tchaira](https://open.spotify.com/artist/33KPEtpT2llZQ7GDwjI9mr) | [Iceberg](https://open.spotify.com/album/7tJD6MhpzSBhdby3SdMOBS) | 3:15 |
+| 10 | [Iceberg](https://open.spotify.com/track/4JdNhfgPhvtW2xXoycPqYA) | [Lil Whind](https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr), [Tchaira](https://open.spotify.com/artist/33KPEtpT2llZQ7GDwjI9mr) | [Iceberg](https://open.spotify.com/album/0fPmsSX8eS1ZCOqpoopZsT) | 3:15 |
 | 11 | [Tipo the Sims](https://open.spotify.com/track/4yua47Ap25zlpENDvmBwdK) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Tipo the Sims](https://open.spotify.com/album/1FPcnN490IZmjEjXbUpr9D) | 3:02 |
 | 12 | [Eu Sou Favela 2](https://open.spotify.com/track/0ebaJB0I2jZ5yajtbGcxgG) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Vk Mac](https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs), [THXLIS](https://open.spotify.com/artist/2PE39uGtlGUQ1LgZnfGJFS), [Vitinho Olimpo](https://open.spotify.com/artist/0StjexbxySAdLjte5fuhxU) | [Ligações Estranhas](https://open.spotify.com/album/0M2JvghtMOUmJ9dV7IVALt) | 3:37 |
 | 13 | [Glamourosa](https://open.spotify.com/track/61J7CbEFiX6ziu4SijfwFO) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Glamourosa](https://open.spotify.com/album/51r6acz5Y24A4J5JkKK6KA) | 2:46 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 73 | [TE ENCONTREI](https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:24 |
 | 74 | [Invisto](https://open.spotify.com/track/4BQT37CbzTDHPm6yRAdp5z) | [Júlia Castro](https://open.spotify.com/artist/0erBEEMgeNCyNWxbV462iH), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Invisto](https://open.spotify.com/album/2tlcSnDzE0JKPSzQoFdiVy) | 2:04 |
 
-Snapshot ID: `MCwxMzIzMTJlYTFlMDcwZDk5MGI0Y2UzYmUxZTJlNTUwYmJmZDFiZWJm`
+Snapshot ID: `MCxlNjY2Mzg3ZjFiOGRjZjJiOTI2YTlmMmE3OGUyMjI4ZjUzZjVjMzQ2`

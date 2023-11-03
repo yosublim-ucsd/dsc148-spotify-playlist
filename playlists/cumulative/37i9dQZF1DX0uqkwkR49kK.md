@@ -4,7 +4,7 @@
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-208 songs - 1 day 5 hr 19 min
+209 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Birds of Fire](https://open.spotify.com/track/0dCbhZ6jVeSLJ0of5wf2hm) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [Birds Of Fire](https://open.spotify.com/album/6SLknspfGod3v3TyWawl8J) | 5:42 | 2018-09-28 | 2023-03-23 |
 | [Bloody Well Right](https://open.spotify.com/track/2SmlWvdYG6FsagxN3FkHMI) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Crime Of The Century \(Remastered\)](https://open.spotify.com/album/2wrHaulTgqqkVKx0k7Kq4r) | 4:32 | 2023-03-22 |  |
 | [Breakdown](https://open.spotify.com/track/1X8GfZOs2GR2tru3QTO9MI) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [I Robot \(Legacy Edition\)](https://open.spotify.com/album/1zhQKiQIOlYYbPmx1eHDD7) | 3:53 | 2018-09-28 | 2023-03-23 |
-| [Breakthrough](https://open.spotify.com/track/4LwrmHM4m9oGbpMoaS7N1W) | [Atomic Rooster](https://open.spotify.com/artist/6Ix7Hx8Af0jg9X4OfD9sYR) | [In Hearing of Atomic Rooster](https://open.spotify.com/album/4ThQKimTEuqYTCkJMMhWP8) | 6:16 | 2023-03-22 |  |
+| [Breakthrough](https://open.spotify.com/track/38G1KmUX2J3k8665gSeBm2) | [Atomic Rooster](https://open.spotify.com/artist/6Ix7Hx8Af0jg9X4OfD9sYR) | [In Hearing of Atomic Rooster](https://open.spotify.com/album/0yZa2umxC7LDBZul3GGxIL) | 6:16 | 2023-03-22 |  |
+| [Breakthrough](https://open.spotify.com/track/4LwrmHM4m9oGbpMoaS7N1W) | [Atomic Rooster](https://open.spotify.com/artist/6Ix7Hx8Af0jg9X4OfD9sYR) | [In Hearing of Atomic Rooster](https://open.spotify.com/album/4ThQKimTEuqYTCkJMMhWP8) | 6:16 | 2023-03-22 | 2023-11-03 |
 | [Bulerias](https://open.spotify.com/track/0yFfbeRi9w1ri0iJU2W4IE) | [Carmen](https://open.spotify.com/artist/6YeSd89uAp6HfQaZH2rhKZ) | [Fandangos In Space/Dancing On A Cold Wind](https://open.spotify.com/album/3JLMBtY06VYMx8vMIe9sgB) | 5:23 | 2018-09-28 | 2022-07-29 |
 | [BULERIAS](https://open.spotify.com/track/7vftJlB4w8WlZXMGECTk2a) | [Carmen](https://open.spotify.com/artist/6YeSd89uAp6HfQaZH2rhKZ) | [Fandangos In Space / Dancing On A Cold Wind](https://open.spotify.com/album/7r0yYd0tsnU9dfplpefYeK) | 5:23 | 2018-09-28 | 2023-03-23 |
 | [Bulerias](https://open.spotify.com/track/66DB3L8Jieu5Q0GwFfEG7g) | [Carmen](https://open.spotify.com/artist/6YeSd89uAp6HfQaZH2rhKZ) | [Ventis Secundis, Tene Cursum \(This Is Progressive Rock!\)](https://open.spotify.com/album/220Wr0y2v4G4g73vU8J27j) | 5:23 | 2018-09-28 | 2022-11-13 |

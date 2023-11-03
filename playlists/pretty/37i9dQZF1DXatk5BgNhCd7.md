@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: La Joaqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,983 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,052 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 4 | [La Traición](https://open.spotify.com/track/4w1sf9Rwpnl6pwTtfrbOpA) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [De Norte a Sur](https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm) | 2:50 |
 | 5 | [Una Ráfaga de Amor](https://open.spotify.com/track/33ulNKHKBVADxu5UptOxt9) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Una Ráfaga de Amor](https://open.spotify.com/album/0jPImx8tiYAH6rpF5QNGYf) | 2:48 |
 | 6 | [Mujer yo te amo \- remix](https://open.spotify.com/track/6lZVRLyjzx6SbBMbyMv5I4) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Mujer yo te amo \(Remix\)](https://open.spotify.com/album/5plCO9O4DlTBlmkxqY2aOp) | 3:59 |
-| 7 | [ADICTO](https://open.spotify.com/track/5gx39tUko6htjixWpIMqzM) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [ADICTO](https://open.spotify.com/album/7m9VVSSHC7u07Oy8a7H8XZ) | 3:15 |
+| 7 | [ADICTO](https://open.spotify.com/track/5gx39tUko6htjixWpIMqzM) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [ADICTO](https://open.spotify.com/album/7m9VVSSHC7u07Oy8a7H8XZ) | 3:14 |
 | 8 | [Me Gana el Sentimiento](https://open.spotify.com/track/0NcONqc4jhioyKur5pvPc3) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [De Norte a Sur](https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm) | 2:47 |
 | 9 | [Yo Te Voy A Amar \- Salsa](https://open.spotify.com/track/56MZ62xA2ysOOVGv3rwAkq) | [Jay Lugo](https://open.spotify.com/artist/5Px36z1ZGSG8U7rPpulrF3), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Yo Te Voy A Amar \(Salsa\)](https://open.spotify.com/album/1HIfLiJnx3BvYEXVUjiPDT) | 3:32 |
 | 10 | [Corazón Guerrero \(Vivo en Buenos Aires\)](https://open.spotify.com/track/0lRZUkHlPqXjDsyapmPbsX) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Corazón Guerrero / Universo Paralelo \(Vivo en Buenos Aires\)](https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559) | 5:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [MAMBO 23](https://open.spotify.com/track/0lWCaNootIluiysUga5SjO) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [MAMBO 23](https://open.spotify.com/album/3SOAiZvQz3nBPuOkdRKUhG) | 3:39 |
 | 50 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 |
 
-Snapshot ID: `MCxhZDg2ZWJhYTNiYzc4ZGFhMDNhYjIxNDY1ODlhZTI2ZDFkYjhkYjQx`
+Snapshot ID: `MCw5ZWNiMzExOTE4ODViZjg5OWEyNDYzNjA3MDNiZDQxNTFhN2NiYmNm`

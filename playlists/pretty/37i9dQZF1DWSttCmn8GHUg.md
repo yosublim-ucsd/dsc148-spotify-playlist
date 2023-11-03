@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,736 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,922 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 32 | [American Soldier](https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:23 |
 | 33 | [The Weight Of The Badge](https://open.spotify.com/track/0sfbpQvVZ3Omt5M8dtONwH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Honky Tonk Time Machine](https://open.spotify.com/album/1IwWcySO6hKQ8dsFVtJfz4) | 3:46 |
 | 34 | [Home](https://open.spotify.com/track/6q5nAr2JniAHj1gKheejE0) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:58 |
-| 35 | [Rednecks Like Me](https://open.spotify.com/track/6HSKX8PqQ7ccRQHITXOwzQ) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Rednecks Like Me](https://open.spotify.com/album/5Qzuws0qqVEQU6ZaDYl2DK) | 3:40 |
+| 35 | [Rednecks Like Me](https://open.spotify.com/track/5ZY6d4lfrRxavrwZ9JxzTM) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Rednecks Like Me](https://open.spotify.com/album/4D2XKM5stLxnEX3unOBPhf) | 3:40 |
 | 36 | [Only In America](https://open.spotify.com/track/696bIwMu6g6BfrJ1BYkRA8) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [The Essential Brooks & Dunn](https://open.spotify.com/album/2X3fLHcJN2Quyzaf4Hm3hz) | 4:28 |
 | 37 | [Country Again](https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 3:41 |
 | 38 | [Undivided](https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Undivided](https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw) | 2:55 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 76 | [Two Soldiers Coming Home](https://open.spotify.com/track/1izEIegmClpoKR5fYvjWJL) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Act Of Valor](https://open.spotify.com/album/4DYnaZCZ0vvnBG67E8zTJn) | 3:26 |
 | 77 | [Courtesy Of The Red, White And Blue \(The Angry American\)](https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:15 |
 | 78 | [Boots On](https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Anything Goes](https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ) | 2:50 |
-| 79 | [God, Family and Country](https://open.spotify.com/track/23hqpwQMJC75TVEO9Mo9rM) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [I Love It](https://open.spotify.com/album/5cPoNiy9Cwu5Dxd2CUQwVO) | 3:26 |
+| 79 | [God, Family and Country \- 2020 \- Remaster](https://open.spotify.com/track/7JJrfmgk4H3rEphFpWqoVB) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [God, Family, Country \(Deluxe Edition\)](https://open.spotify.com/album/1nGxSALyfv0Wq8CWZpIVnZ) | 3:26 |
 | 80 | [God Bless America](https://open.spotify.com/track/63Od9t6xI8CiIkr7T3XZfr) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [God Bless America](https://open.spotify.com/album/0MFRDEEOBK2OW0Ij5mN5XY) | 3:05 |
-| 81 | [Still a Soldier](https://open.spotify.com/track/0twloQAnQbMRwCy9uDW8Q8) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Something's Going On](https://open.spotify.com/album/350yWsEhzbD2TOhZZAXglP) | 3:17 |
+| 81 | [Still a Soldier](https://open.spotify.com/track/1Pan52YU6LDMSwG57sEgdK) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Something’s Going On](https://open.spotify.com/album/2Mf76MzlpN307uTCbqFcXB) | 3:17 |
 | 82 | [Cross Country \(feat\. Mickey Guyton\)](https://open.spotify.com/track/3yf1lOT3aAaVzkyDYkxQLF) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Cross Country \(feat\. Mickey Guyton\)](https://open.spotify.com/album/1Z5vIsFPproLKSFGPx77ly) | 3:24 |
 | 83 | [Riding With Private Malone](https://open.spotify.com/track/4yym5ZJXwvg03d4kyhLVZO) | [David Ball](https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE) | [Amigo](https://open.spotify.com/album/475OBKjviIi9rmLKWHEHBa) | 4:35 |
 | 84 | [Blessed](https://open.spotify.com/track/0nGzwlShUTBEQePuzMoUjN) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Greatest Hits](https://open.spotify.com/album/467Cag6qid9mjW2hpnIcFi) | 4:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 99 | [Gone But Not Forgotten](https://open.spotify.com/track/1lJuY06cD1aBtPJ4Xh9LFK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Gone But Not Forgotten](https://open.spotify.com/album/37snSBOMCp6s8pvK6gb8dL) | 2:53 |
 | 100 | [Some Gave All](https://open.spotify.com/track/3wKfQaOgFxZ0qhXjo4iqlI) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 4:05 |
 
-Snapshot ID: `MCwyOGE5NGNjMTIzODcwNjNlNTdhNDdhNGNhNTc0ZTQzYTBmOWZjZTRm`
+Snapshot ID: `MCw1NjlkNDU1OGYxYzc4MDIwNTY3MzlmNDZhNWFjNWQ3NGY5NDcwMjhi`

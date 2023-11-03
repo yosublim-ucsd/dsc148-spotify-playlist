@@ -1439,6 +1439,32 @@
     },
     {
       "album": {
+        "name": "Cumbia Espectro (DUSU Remix)",
+        "url": "https://open.spotify.com/album/3VRV4d2vD0hgiMIhlA9GGw"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        },
+        {
+          "name": "DUSU",
+          "url": "https://open.spotify.com/artist/2C6vqUrtXufvoUk5iwJ2KX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306198,
+      "name": "Cumbia Espectro - DUSU Remix",
+      "url": "https://open.spotify.com/track/1NRhtJ7VQy55WJC9R6J2sb"
+    },
+    {
+      "album": {
         "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
         "url": "https://open.spotify.com/album/05SkQ3cqcaIaP4Oo5N9r4i"
       },

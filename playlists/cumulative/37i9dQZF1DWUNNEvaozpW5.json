@@ -896,7 +896,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 226539,
       "name": "Cada vez duele menos",
       "url": "https://open.spotify.com/track/5lSYmIvz1g7hUtEqLdnQrK"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 169773,
       "name": "Cien gaviotas",
       "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
@@ -1474,6 +1474,24 @@
       "duration_ms": 164470,
       "name": "Cuesta Arriba",
       "url": "https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O"
+    },
+    {
+      "album": {
+        "name": "Cuesti\u00f3n de fe",
+        "url": "https://open.spotify.com/album/1Il7ZyEVCn6Pvj3FUUACIz"
+      },
+      "artists": [
+        {
+          "name": "Rulo y la contrabanda",
+          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230235,
+      "name": "Cuesti\u00f3n de fe",
+      "url": "https://open.spotify.com/track/0jucalHZ13EYdydqa0YnYz"
     },
     {
       "album": {
@@ -4012,7 +4030,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
@@ -4623,6 +4641,28 @@
     },
     {
       "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/1o2O6dZPkhr0Fflqo0T80E"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257637,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/1MYQcK8lIZXO1oXIc6vT4U"
+    },
+    {
+      "album": {
         "name": "P*#% Cantautor",
         "url": "https://open.spotify.com/album/27OhREemhxU6SiqOPON0mP"
       },
@@ -5134,7 +5174,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 247401,
       "name": "Que Hace una Chica Como Tu en un Sitio Como Este",
       "url": "https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr"
@@ -5941,6 +5981,28 @@
     },
     {
       "album": {
+        "name": "Su\u00e9ltate el pelo",
+        "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171904,
+      "name": "Su\u00e9ltate el pelo",
+      "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
+    },
+    {
+      "album": {
         "name": "Tan Tranquilamente",
         "url": "https://open.spotify.com/album/6tDMKKhuNOHXn5LJHMEHqR"
       },
@@ -6216,6 +6278,24 @@
       "duration_ms": 192573,
       "name": "Tu mejor versi\u00f3n",
       "url": "https://open.spotify.com/track/4jcJAVg8tLaAI6bGZkQHCW"
+    },
+    {
+      "album": {
+        "name": "Copas de yate (Vol. I)",
+        "url": "https://open.spotify.com/album/4VFEo61lbWFBHwLFlywEdK"
+      },
+      "artists": [
+        {
+          "name": "Quique Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229493,
+      "name": "T\u00f3cala, Uli",
+      "url": "https://open.spotify.com/track/6jx48RULYhPrgwmox309ll"
     },
     {
       "album": {

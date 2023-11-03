@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound.
 
-133 songs - 9 hr 45 min
+134 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Azawade](https://open.spotify.com/track/7dHowm9WlK1gOuEuM0bd7m) | [The Touré\-Raichel Collective](https://open.spotify.com/artist/4NXdiYnTn0W2hblJ1WphGh), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1), [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [The Tel Aviv Session](https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH) | 8:12 | 2022-08-05 |  |
 | [Baara](https://open.spotify.com/track/64Sg9NoG09CiIAOxpGhb8l) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sou Ni Tile](https://open.spotify.com/album/3YkgbENywpHkRQlzT2y3aR) | 4:33 | 2022-12-08 |  |
 | [Bahouche](https://open.spotify.com/track/6V2Xy61BwHpfPozlnv51ik) | [Amaria Hamadalher](https://open.spotify.com/artist/7tEjTXOcxGi1LSgDagCZsy) | [Agrim Agadez \- Musique Guitare de la Republique du Niger](https://open.spotify.com/album/5zmFPo6FvLVZITImjBNvGz) | 3:04 | 2022-08-05 |  |
-| [Bansang](https://open.spotify.com/track/4yIpAl5friYNemdRdwpRs2) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [Toumani & Sidiki](https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV) | 2:47 | 2022-08-05 |  |
+| [Bansang](https://open.spotify.com/track/4yIpAl5friYNemdRdwpRs2) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [Toumani & Sidiki](https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV) | 2:47 | 2022-08-05 | 2023-11-03 |
+| [Bansang](https://open.spotify.com/track/4mUmru6Wf8XQU6ZyzcOhKd) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [Toumani & Sidiki](https://open.spotify.com/album/7fjwxXIWIVFRco4JEjJZl2) | 2:48 | 2023-10-27 |  |
 | [Banzelo](https://open.spotify.com/track/1lMzpS330YpyxmeCeAdA68) | [Throes + The Shine](https://open.spotify.com/artist/25z4NCDwHppxyMeHxDWEVV) | [Aqui](https://open.spotify.com/album/6vp3jgygwYeCGiqWZRzNUm) | 3:31 | 2022-08-05 |  |
 | [Biwamiel](https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er) | [Udulele](https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY), [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Biwamiel](https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa) | 2:35 | 2022-12-08 |  |
 | [Blossom](https://open.spotify.com/track/56FQB1uAsuBVrURqDRw24v) | [Joss Jaffe](https://open.spotify.com/artist/2Nj9Ni0ML57eyiursEE5xx), [Jim "Kimo" West](https://open.spotify.com/artist/51aljngqSf5fmjeQEOXp0k) | [Aum Akua](https://open.spotify.com/album/4PiA2thaZ9HOw2XoE3scTU) | 5:22 | 2022-08-05 |  |

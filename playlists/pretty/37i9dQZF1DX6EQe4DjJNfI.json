@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: YO\u00daN",
-  "num_followers": 164379,
+  "num_followers": 164404,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTI3NDRmOWM4OWU2YWJjYmQyMTI2NWIzM2ZjMzY2YjhjZDU1ODA1",
+  "snapshot_id": "MCwwZTlhMmEzOGNkNjI1OWE5YTY3YWNiNmZmMmYzNjU1OTdjZTQ2NDA0",
   "tracks": [
     {
       "added_at": "2023-10-27 03:01:00",
@@ -423,6 +423,30 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "GUAPA",
+        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
+      },
+      "artists": [
+        {
+          "name": "Matheus Queiroz",
+          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Douglas Moda",
+          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+        }
+      ],
+      "duration_ms": 139270,
+      "name": "GUAPA",
+      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Vestido Vermelho",
         "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
       },
@@ -503,30 +527,6 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "GUAPA",
-        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
-      },
-      "artists": [
-        {
-          "name": "Matheus Queiroz",
-          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Douglas Moda",
-          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
-        }
-      ],
-      "duration_ms": 139270,
-      "name": "GUAPA",
-      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
         "name": "Sem T\u00e9dio",
         "url": "https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc"
       },
@@ -543,8 +543,8 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+        "name": "Ch\u00e1zinho",
+        "url": "https://open.spotify.com/album/79mcJaBbFTsuDkOhOmFca6"
       },
       "artists": [
         {
@@ -552,13 +552,17 @@
           "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         },
         {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        },
+        {
+          "name": "Fresh Mind Co.",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
         }
       ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+      "duration_ms": 195291,
+      "name": "Ch\u00e1zinho",
+      "url": "https://open.spotify.com/track/65NHHBrdCc5PuZkSFyICC2"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -603,22 +607,6 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "S\u00f3 Vem",
-        "url": "https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC"
-      },
-      "artists": [
-        {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
-        }
-      ],
-      "duration_ms": 177715,
-      "name": "Depois da Briga",
-      "url": "https://open.spotify.com/track/3Oec1XgUMdF58bIRlK40Qt"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
         "name": "Liga\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
       },
@@ -639,6 +627,22 @@
       "duration_ms": 209389,
       "name": "Liga\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "S\u00f3 Vem",
+        "url": "https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC"
+      },
+      "artists": [
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        }
+      ],
+      "duration_ms": 177715,
+      "name": "Depois da Briga",
+      "url": "https://open.spotify.com/track/3Oec1XgUMdF58bIRlK40Qt"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -687,8 +691,8 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Ch\u00e1zinho",
-        "url": "https://open.spotify.com/album/79mcJaBbFTsuDkOhOmFca6"
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
       },
       "artists": [
         {
@@ -696,17 +700,13 @@
           "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         },
         {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        },
-        {
-          "name": "Fresh Mind Co.",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
         }
       ],
-      "duration_ms": 195291,
-      "name": "Ch\u00e1zinho",
-      "url": "https://open.spotify.com/track/65NHHBrdCc5PuZkSFyICC2"
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Eterno Esquema",
+        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Eterno Esquema",
+      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "O Que Eu Soul (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 199625,
       "name": "O Que Eu Soul - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Eterno Esquema",
-        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Eterno Esquema",
-      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Uma Chance Pra Ficar Tudo bem",
-        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
-      },
-      "artists": [
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
         "name": "Tudo Que Restou",
         "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
       },
@@ -1231,22 +1215,18 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Universo Suspenso",
-        "url": "https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR"
+        "name": "Uma Chance Pra Ficar Tudo bem",
+        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
       },
       "artists": [
         {
-          "name": "Flavia K",
-          "url": "https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/6MAebUQUc54IEPRoaIv5My"
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
         }
       ],
-      "duration_ms": 222368,
-      "name": "Muito Sou(L)",
-      "url": "https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26"
+      "duration_ms": 154290,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1267,6 +1247,26 @@
       "duration_ms": 129427,
       "name": "Distante",
       "url": "https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Universo Suspenso",
+        "url": "https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR"
+      },
+      "artists": [
+        {
+          "name": "Flavia K",
+          "url": "https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/6MAebUQUc54IEPRoaIv5My"
+        }
+      ],
+      "duration_ms": 222368,
+      "name": "Muito Sou(L)",
+      "url": "https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1470,10 +1470,6 @@
         {
           "name": "Binho Salles",
           "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
         }
       ],
       "duration_ms": 141714,

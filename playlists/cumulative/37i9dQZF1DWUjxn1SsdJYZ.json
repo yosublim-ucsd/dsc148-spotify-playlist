@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "17X's",
+        "url": "https://open.spotify.com/album/0LJHGRVZ0tzoMmhFaZsAYA"
+      },
+      "artists": [
+        {
+          "name": "SkuX",
+          "url": "https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113307,
+      "name": "17X's",
+      "url": "https://open.spotify.com/track/4pRT6SZF29tZaO79CULoVT"
+    },
+    {
+      "album": {
         "name": "2 MANY MEN (feat. Shely210)",
         "url": "https://open.spotify.com/album/1bWqSzbMajcWTUR39AHBrE"
       },
@@ -3858,7 +3876,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 190000,
       "name": "G-WAGON (feat. Wombat)",
       "url": "https://open.spotify.com/track/56A51DVwMTzuzdqDpiXx8O"
@@ -9317,6 +9335,24 @@
     },
     {
       "album": {
+        "name": "SRIRACHI SAFARI",
+        "url": "https://open.spotify.com/album/4pIZcdXXxe130ZzrcnS4kw"
+      },
+      "artists": [
+        {
+          "name": "Srirachi",
+          "url": "https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193551,
+      "name": "SAFARI",
+      "url": "https://open.spotify.com/track/6z5Sfw01Sevy7rlMXLjWLz"
+    },
+    {
+      "album": {
         "name": "SALAMANCA",
         "url": "https://open.spotify.com/album/2X3HjtmWvvR9ufD0ICy0NR"
       },
@@ -10039,6 +10075,24 @@
     },
     {
       "album": {
+        "name": "Street Life",
+        "url": "https://open.spotify.com/album/5mH0XeSvBW3CWgQWaqdnaq"
+      },
+      "artists": [
+        {
+          "name": "TrexDaMenace",
+          "url": "https://open.spotify.com/artist/5XEX0rmhg8vdEXiLohy10f"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131134,
+      "name": "Street Life",
+      "url": "https://open.spotify.com/track/7uoFdtzsyyPCKlNcaHqI6E"
+    },
+    {
+      "album": {
         "name": "Stuck In My Ways",
         "url": "https://open.spotify.com/album/102RiVASUdzi7goE5yclR7"
       },
@@ -10220,7 +10274,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 208455,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0smjjXdyFwV9P2Qu53zkUn"

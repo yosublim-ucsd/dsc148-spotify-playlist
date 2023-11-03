@@ -1,12 +1,12 @@
 {
   "description": "Mejor seguimos cantando, como cantaba el abuelo. \u00a1Garganta pa' que te quiero, si no pa' cantarle al pueblo!",
-  "num_followers": 77139,
+  "num_followers": 77146,
   "original_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDMyNDQ5NjkwNjVjZWE4YWVjMDI2YTBjNmEyMWMwMzU0OGIxOWIz",
+  "snapshot_id": "MCw0ODQ0ZWI3MGI4YWQ3MWNiOTNlNDMzN2JhZTUzMDVjMzAyZTI2MzNi",
   "tracks": [
     {
       "added_at": "2023-10-13 15:16:21",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Dos Mundos",
-        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Estuve",
-      "url": "https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
         "name": "Un Mexicano en la M\u00e9xico",
         "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 154733,
       "name": "Ella",
       "url": "https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
+        "name": "Dos Mundos",
+        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Estuve",
+      "url": "https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Vicente Fern\u00e1ndez Le Canta a los Grandes Compositores de M\u00e9xico",
-        "url": "https://open.spotify.com/album/56sdl31mYCqHyb9lUwRvNM"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 197322,
-      "name": "T\u00fa Solo T\u00fa",
-      "url": "https://open.spotify.com/track/6rPMLKgRvCFKc5o1nYCtvu"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 222360,
       "name": "Cuando Yo Quer\u00eda Ser Grande",
       "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez Le Canta a los Grandes Compositores de M\u00e9xico",
+        "url": "https://open.spotify.com/album/56sdl31mYCqHyb9lUwRvNM"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 197322,
+      "name": "T\u00fa Solo T\u00fa",
+      "url": "https://open.spotify.com/track/6rPMLKgRvCFKc5o1nYCtvu"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
+        "name": "Muriendo de Amor",
+        "url": "https://open.spotify.com/album/5Jf4pcpIxqZLzcSkXbr6q3"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Prenda del Alma",
+      "url": "https://open.spotify.com/track/70r0u0KuBKSkn3ahnNVbcw"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
         "name": "Para Sacarte De Mi Vida",
         "url": "https://open.spotify.com/album/5Z19fEDWinrVN1AtzXjx45"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 263426,
       "name": "C\u00f3ncavo Y Convexo",
       "url": "https://open.spotify.com/track/0HYdtyMwBcGzw0tfwrXlg0"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
-        "name": "Muriendo de Amor",
-        "url": "https://open.spotify.com/album/5Jf4pcpIxqZLzcSkXbr6q3"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Prenda del Alma",
-      "url": "https://open.spotify.com/track/70r0u0KuBKSkn3ahnNVbcw"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 143826,
-      "name": "Nuestro Gran Secreto",
-      "url": "https://open.spotify.com/track/6UnKIvdbaPzCpHnceW372Y"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
         "name": "Un Azteca en el Azteca (En Vivo)",
         "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 146280,
       "name": "El Rey - En Vivo [Un Azteca en el Azteca]",
       "url": "https://open.spotify.com/track/0bf0zZj6XCvNgAt7pIM7y6"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 143826,
+      "name": "Nuestro Gran Secreto",
+      "url": "https://open.spotify.com/track/6UnKIvdbaPzCpHnceW372Y"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -1692,9 +1692,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 236426,
-      "name": "Ac\u00e1 Entre Nos - En Vivo [Un Azteca en el Azteca]",
-      "url": "https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR"
+      "duration_ms": 189706,
+      "name": "Estos Celos - En Vivo [Un Azteca en el Azteca]",
+      "url": "https://open.spotify.com/track/0w2gzREUayU0MUNSMFrqnf"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -1708,9 +1708,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 189706,
-      "name": "Estos Celos - En Vivo [Un Azteca en el Azteca]",
-      "url": "https://open.spotify.com/track/0w2gzREUayU0MUNSMFrqnf"
+      "duration_ms": 236426,
+      "name": "Ac\u00e1 Entre Nos - En Vivo [Un Azteca en el Azteca]",
+      "url": "https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 244880,
-      "name": "Hasta En Mis Huesos",
-      "url": "https://open.spotify.com/track/1Mg9TGZPjLc9CCV2PonaO8"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
         "name": "La Historia De Un Idolo",
         "url": "https://open.spotify.com/album/7HgnENwYD1XHwIMdZLIkhU"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 174306,
       "name": "Las Llaves de Mi Alma",
       "url": "https://open.spotify.com/track/4MJsKXrA6U3NDR81Icvqzn"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 244880,
+      "name": "Hasta En Mis Huesos",
+      "url": "https://open.spotify.com/track/1Mg9TGZPjLc9CCV2PonaO8"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Vicente Fernandez La Leyenda Viviente (Digi-Pack)",
-        "url": "https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Se Vende Un Caballo (Remasterizado)",
-      "url": "https://open.spotify.com/track/4cgVJry6RX8rkxjR56Rkw2"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
         "name": "Rompiendo Fronteras",
         "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 207533,
       "name": "Cuando M\u00e1s Te Amaba",
       "url": "https://open.spotify.com/track/0znMUux7ItGZNjOwEVzXYu"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
+        "name": "Vicente Fernandez La Leyenda Viviente (Digi-Pack)",
+        "url": "https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Se Vende Un Caballo (Remasterizado)",
+      "url": "https://open.spotify.com/track/4cgVJry6RX8rkxjR56Rkw2"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 232853,
-      "name": "Agridulce",
-      "url": "https://open.spotify.com/track/3du0NJZHBkvb2XVjnI2U4Q"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/4m0gGYxARQYFGbAuXn4AAF"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 185360,
       "name": "Mata El Recuerdo",
       "url": "https://open.spotify.com/track/4gDTjvWcEVIJNrmutfpFTu"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Agridulce",
+      "url": "https://open.spotify.com/track/3du0NJZHBkvb2XVjnI2U4Q"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "Un Beso A Medias",
-      "url": "https://open.spotify.com/track/4VAoK0jOH7uLShGgJhZ5RR"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
         "name": "M\u00e1s Rom\u00e1ntico Que Nunca",
         "url": "https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 247080,
       "name": "En la C\u00e1rcel de Tu Adi\u00f3s",
       "url": "https://open.spotify.com/track/1UuRO7NvUcB2bGYsukgebQ"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 235480,
+      "name": "Un Beso A Medias",
+      "url": "https://open.spotify.com/track/4VAoK0jOH7uLShGgJhZ5RR"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "No Pude",
-      "url": "https://open.spotify.com/track/6QDzpxH89oCFzb5IgFmaJf"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
         "name": "Pude (Live)",
         "url": "https://open.spotify.com/album/1mUqOexJKeMSeVjkJviwI8"
       },
@@ -2299,18 +2283,18 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "M\u00edo",
-        "url": "https://open.spotify.com/album/47P4pfzxCuOjNEy0aCeS7q"
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 190253,
-      "name": "M\u00edo",
-      "url": "https://open.spotify.com/track/05W7sXbjnSnwRiPbzHQMMD"
+      "duration_ms": 200200,
+      "name": "No Pude",
+      "url": "https://open.spotify.com/track/6QDzpxH89oCFzb5IgFmaJf"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -2327,6 +2311,22 @@
       "duration_ms": 192506,
       "name": "Como Queriendo y No",
       "url": "https://open.spotify.com/track/2wYa8fKaw4oBkBtjdFEvRE"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
+        "name": "M\u00edo",
+        "url": "https://open.spotify.com/album/47P4pfzxCuOjNEy0aCeS7q"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "M\u00edo",
+      "url": "https://open.spotify.com/track/05W7sXbjnSnwRiPbzHQMMD"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
+        "name": "M\u00e1s Rom\u00e1ntico Que Nunca",
+        "url": "https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 192093,
+      "name": "Mi \u00daltimo Fracaso",
+      "url": "https://open.spotify.com/track/3hD65xSEGpWsGHs9XRmsB3"
+    },
+    {
+      "added_at": "2023-10-13 15:16:21",
+      "album": {
         "name": "A Mis 80's",
         "url": "https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh"
       },
@@ -2411,18 +2427,30 @@
     {
       "added_at": "2023-10-13 15:16:21",
       "album": {
-        "name": "M\u00e1s Rom\u00e1ntico Que Nunca",
-        "url": "https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud"
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/3YOMXqqIaBYk3W4WecVqCg"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Am\u00e9rica Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/1t2pG2SILJIeGtJbLsKluI"
+        },
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        },
+        {
+          "name": "Valentina Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6ZmC7bjmEwzBvBM8j3Q6ND"
         }
       ],
-      "duration_ms": 192093,
-      "name": "Mi \u00daltimo Fracaso",
-      "url": "https://open.spotify.com/track/3hD65xSEGpWsGHs9XRmsB3"
+      "duration_ms": 175013,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/116BKjZNni7q1859acbI8M"
     },
     {
       "added_at": "2023-10-13 15:16:21",
@@ -2455,34 +2483,6 @@
       "duration_ms": 291106,
       "name": "Amor de Mi Alma",
       "url": "https://open.spotify.com/track/5EqCOJ1eCdTXU7S2ouz0dg"
-    },
-    {
-      "added_at": "2023-10-13 15:16:21",
-      "album": {
-        "name": "Blanca Navidad",
-        "url": "https://open.spotify.com/album/3YOMXqqIaBYk3W4WecVqCg"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Am\u00e9rica Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/1t2pG2SILJIeGtJbLsKluI"
-        },
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        },
-        {
-          "name": "Valentina Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6ZmC7bjmEwzBvBM8j3Q6ND"
-        }
-      ],
-      "duration_ms": 175013,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/116BKjZNni7q1859acbI8M"
     },
     {
       "added_at": "2023-10-13 15:16:21",

@@ -1,12 +1,12 @@
 {
   "description": "Listen to the women of Au & NZ at full volume! Cover: The Veronicas",
-  "num_followers": 44234,
+  "num_followers": 44243,
   "original_name": "EQUAL AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmU3NWRjZmM2MWRkNDZjZDE2OTA4NTY0YzIzZWMxN2RlYTVlNjNm",
+  "snapshot_id": "MCxhZGI2ZDExMDI5NDNhN2MzMmRmMTdkOTFjZmZmNjgxZWNlNjRiNTBk",
   "tracks": [
     {
       "added_at": "2023-10-31 13:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 153642,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/5Vfl6AYr1PyG4BcEMIr8oT"
+    },
+    {
+      "added_at": "2023-10-31 13:00:00",
+      "album": {
+        "name": "Best You Ever Had",
+        "url": "https://open.spotify.com/album/0vL34mO5klplb791wYYGbK"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 167313,
+      "name": "Best You Ever Had",
+      "url": "https://open.spotify.com/track/2NwttTTC9PXdnIOXggpzEk"
     },
     {
       "added_at": "2023-10-31 13:00:00",
@@ -55,6 +71,38 @@
       "duration_ms": 192600,
       "name": "Tell Her",
       "url": "https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5"
+    },
+    {
+      "added_at": "2023-10-31 13:00:00",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/5I0MDswOJzuRHkLy98b30O"
+      },
+      "artists": [
+        {
+          "name": "Heleina Zara",
+          "url": "https://open.spotify.com/artist/4o5FaQ8rUj73klMevMPTEF"
+        }
+      ],
+      "duration_ms": 191929,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/6u4DSrgxLXATEgwZSaaQHI"
+    },
+    {
+      "added_at": "2023-10-31 13:00:00",
+      "album": {
+        "name": "Baby Don't Fight It",
+        "url": "https://open.spotify.com/album/5sgqCZRIWkjKAvo8qiZvkd"
+      },
+      "artists": [
+        {
+          "name": "Asha Jefferies",
+          "url": "https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg"
+        }
+      ],
+      "duration_ms": 227825,
+      "name": "Baby Don't Fight It",
+      "url": "https://open.spotify.com/track/6KgVaUmyv6CFjb9ZjXVQkV"
     },
     {
       "added_at": "2023-10-31 13:00:00",

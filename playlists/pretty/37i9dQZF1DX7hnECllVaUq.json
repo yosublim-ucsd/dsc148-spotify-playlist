@@ -1,12 +1,12 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Jade Eagleson",
-  "num_followers": 40787,
+  "num_followers": 40962,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTQxMDhlZmM2MGIxNzZmMDg4ZjA2NjIzYzZhYTUzZjAxYWY5YmYy",
+  "snapshot_id": "MCw5ODU1MGM4MTAwMTc5YTA5NTg1ODk3Y2RiNjc1YTBlNjgzOTFhOTU2",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -255,8 +255,8 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 178520,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
+      "duration_ms": 177387,
+      "name": "Thinkin\u2019 Bout Me",
+      "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -304,7 +304,7 @@
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "heart theory",
-        "url": "https://open.spotify.com/album/4pTPkB7BSDqZboqQYbx7iF"
+        "url": "https://open.spotify.com/album/4aWrYo1HHAwk367y7PJzIm"
       },
       "artists": [
         {
@@ -314,7 +314,7 @@
       ],
       "duration_ms": 193040,
       "name": "wAnt me back",
-      "url": "https://open.spotify.com/track/04FTCJKkMcFkTdGR7qC1Tm"
+      "url": "https://open.spotify.com/track/2eVDPSxBwwu5DBDRdlXhCM"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -419,8 +419,8 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 177387,
-      "name": "Thinkin\u2019 Bout Me",
-      "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
+      "duration_ms": 178520,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
     },
     {
       "added_at": "2023-09-29 04:00:00",

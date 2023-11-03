@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,652 songs - 2 day 14 hr 44 min
+1,653 songs - 2 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [Flow On](https://open.spotify.com/track/0HCgSsv4uPDON69renISFA) | [Flingu](https://open.spotify.com/artist/0fpxSOtcY0UGK16Vl8RCjt), [Bionsen](https://open.spotify.com/artist/5aQc4YLN2WrUtQpa6rjXVT) | [Flow On](https://open.spotify.com/album/55TqAbCpls2FHuXJjGlN6x) | 1:42 | 2022-07-15 | 2022-10-29 |
 | [Flower Kingdom](https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Flower Kingdom](https://open.spotify.com/album/0ZyDmjkemTFFIGrlenJiiV) | 2:08 | 2023-10-13 |  |
 | [Flowers Arise](https://open.spotify.com/track/1EqwgXpW3lcC4yCVF4fULx) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Novvel](https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q) | [Flowers Arise](https://open.spotify.com/album/3ZgCNLvHIH21TYYYOaZ5xm) | 2:14 | 2022-05-27 | 2022-11-12 |
+| [Fluffity](https://open.spotify.com/track/22iHU9AESPMxf6aaI2OKd3) | [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl), [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Fluffity](https://open.spotify.com/album/7syd7u5StZKwBgcaFw7JUB) | 2:39 | 2023-10-27 |  |
 | [Fluorescent Nights](https://open.spotify.com/track/74KBmmkchWEsbq1dJBPIat) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [Fluorescent Nights](https://open.spotify.com/album/3DSCE0Sxe3f85PASMudE6S) | 2:18 | 2023-03-08 |  |
 | [Fly With Me](https://open.spotify.com/track/0utlMloUqhPm1sHdRbRX0d) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Fly With Me](https://open.spotify.com/album/4Yg9AcZjDJvg7UbhebX2vY) | 1:44 | 2023-06-06 | 2023-10-13 |
 | [Flying](https://open.spotify.com/track/6wm9hYs3yKMUmlKEQS6t7Z) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [Flying](https://open.spotify.com/album/0QZqNu6wlgnLCLqGEkXZQ4) | 2:13 | 2023-01-13 |  |
@@ -1615,7 +1616,7 @@
 | [When Our Eyes Meet](https://open.spotify.com/track/4A416X9ErbzPCkyuHl8lVZ) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [When Our Eyes Meet](https://open.spotify.com/album/7l7LGXNNY3M65UX5SgS9PV) | 1:27 | 2023-06-06 | 2023-10-06 |
 | [When We Last Spoke](https://open.spotify.com/track/5wAD3nLgZYfx9rq2nwj7ij) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [When We Last Spoke](https://open.spotify.com/album/729l7CLfvcWNkVX1Cm0ZyK) | 1:51 | 2022-04-22 | 2022-11-12 |
 | [Where Is My Coffee](https://open.spotify.com/track/4rXf8PFJS58qtHpqo3BMZD) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Where Is My Coffee](https://open.spotify.com/album/0sNbkS3kL6ustJVGnEs8ss) | 3:10 | 2023-01-06 | 2023-04-04 |
-| [Where Were You](https://open.spotify.com/track/1vGQOxqFAlGJdyGRhcN8y9) | [Jonny Where How](https://open.spotify.com/artist/1ZpSXCUCMP3E5GPFmI1VMc) | [Where Were You](https://open.spotify.com/album/2DcEZpW2pWgy2T5EaHMIg4) | 2:37 | 2022-10-28 |  |
+| [Where Were You](https://open.spotify.com/track/1vGQOxqFAlGJdyGRhcN8y9) | [Jonny Where How](https://open.spotify.com/artist/1ZpSXCUCMP3E5GPFmI1VMc) | [Where Were You](https://open.spotify.com/album/2DcEZpW2pWgy2T5EaHMIg4) | 2:37 | 2022-10-28 | 2023-11-03 |
 | [Whiskey Ginger](https://open.spotify.com/track/01odH3pfNq6NeksGK1iwbi) | [Tedette](https://open.spotify.com/artist/789CEG7mUkpeQyWvzq8dX8) | [Taz](https://open.spotify.com/album/4I5oLwvVJ8PZMULjDkLvGZ) | 3:51 | 2022-04-15 | 2022-07-22 |
 | [Whistling Vibe](https://open.spotify.com/track/7cyFTgbWmruA5q4Rd2zjQ6) | [L O F I L U V](https://open.spotify.com/artist/4yhcsS8fEAHnMszuWUU37O), [Distant.face](https://open.spotify.com/artist/0VhJq7JgGP0BkswNCZqZHB) | [Whistling Vibe](https://open.spotify.com/album/11JEEFFJwrA2nwYb1qKKHo) | 2:04 | 2022-10-01 | 2023-01-07 |
 | [Who Are We](https://open.spotify.com/track/20pxIVsAEvIxbKwh3rjIju) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Who Are We](https://open.spotify.com/album/0GsrMWjwpZOn14T7My0r0i) | 1:56 | 2023-03-08 | 2023-10-06 |

@@ -4,7 +4,7 @@
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요.
 
-134 songs - 8 hr 8 min
+138 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Butterfly](https://open.spotify.com/track/1wMWUyEEPNqKW5sVOZKUOk) | [Joshua](https://open.spotify.com/artist/3WEyV00BslpJ11cnVmJaJx) | [Your Questions, My Answers](https://open.spotify.com/album/0EhxVCLBEpfhTPEL7GbZYk) | 3:01 | 2022-07-04 |  |
 | [Can't Hold You](https://open.spotify.com/track/1w5EcRVPlydRogxrmrQpvY) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [From the day we loved to the day we said goodbye](https://open.spotify.com/album/06NnMNvwMAgpuznCmaKHzC) | 3:42 | 2022-11-01 |  |
 | [Daydreaming](https://open.spotify.com/track/6xHK3zWW1AwpRQbsOuc4f0) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ryXl7IIN877fqTwfalFwT) | 3:22 | 2022-07-04 |  |
+| [Dear Fall](https://open.spotify.com/track/1zmaOkXV1s5G5r5Rqkvy2n) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [Dear Fall](https://open.spotify.com/album/0yylG3rQTi5BAlX26WK8F2) | 4:12 | 2023-11-02 |  |
 | [Do you want to hear](https://open.spotify.com/track/68QnW4ShMGTk9vvE3Tihng) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [Do you want to hear](https://open.spotify.com/album/1tFJR4bNSvL6UpCNWEC8K5) | 2:47 | 2022-07-04 |  |
 | [Don't Know \(Prod\. CLAZZI\)](https://open.spotify.com/track/7i2G1Vhqgzb7P0qbYkgy7j) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:31 | 2022-07-04 |  |
 | [Dreamed a dream](https://open.spotify.com/track/0tumsfaXAjtZKqF5Vi2QFH) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [C](https://open.spotify.com/album/4wvtBBEkkjPHfyWXPkwmF6) | 3:20 | 2022-11-01 |  |
@@ -47,6 +48,7 @@
 | [Evoked](https://open.spotify.com/track/5bkstH3fzFHvDnvVPs7KRZ) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Poom](https://open.spotify.com/album/7pbDDSvoSkldVRyLZ27gGH) | 3:58 | 2022-07-04 | 2023-05-02 |
 | [Fade Away](https://open.spotify.com/track/6D24uCuTJOhirnmRDtyB0m) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Fade Away](https://open.spotify.com/album/0ukJ3I2mxiZVacGtaOIXo5) | 2:51 | 2022-07-04 |  |
 | [Fall in Fall](https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Fall in Fall](https://open.spotify.com/album/41JYmSk66c8HtX3boieMWe) | 3:51 | 2022-07-04 |  |
+| [Fallen Leaves](https://open.spotify.com/track/7zHMQIQM7BpmDrPyag3xsF) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Fallen Leaves](https://open.spotify.com/album/3UtMGPxll9rzsY7h9eeMj5) | 3:08 | 2023-11-02 |  |
 | [Falling](https://open.spotify.com/track/6qk7gfVgnuiKPaJ5b9SYvn) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Falling](https://open.spotify.com/album/1uZqQnLLnJ0w9KCHPM7XuZ) | 4:25 | 2022-07-04 |  |
 | [falling flowers \(With Yebit\)](https://open.spotify.com/track/0sJnL9WUIl5BmuRPYDuELE) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6iHKlPIButEGe8ckLpjgbM) | 3:14 | 2022-07-04 |  |
 | [Falling Leaves are Beautiful](https://open.spotify.com/track/7sNPQxJLeBNOQY1pEDZl1K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Late Autumn](https://open.spotify.com/album/72657rD0E5qtjgwNi0R5Nm) | 3:22 | 2022-11-01 |  |
@@ -66,10 +68,12 @@
 | [I Like It](https://open.spotify.com/track/5a4o5ARfYHze8y7O7R5PDJ) | [Panini Brunch](https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij) | [I Like It](https://open.spotify.com/album/3ZHTXCdbf8pfChmWNSXnHy) | 3:38 | 2022-11-01 |  |
 | [I Wanna Be With You](https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp) | 3:24 | 2022-07-04 | 2023-07-02 |
 | [I Wanna Be With You](https://open.spotify.com/track/5MePbEuuuTGWDJi6UbNFgb) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/0WBqQSi54g3khAPyVTGHhv) | 3:24 | 2022-11-03 |  |
+| [I Wanted To Say](https://open.spotify.com/track/0S1Dp45I35i17I9BvrTJBW) | [Able](https://open.spotify.com/artist/5QLTdB5zd44gkuqSjUVIWl) | [I Wanted To Say](https://open.spotify.com/album/3NhbBEQP5aPmmua8eqVB8V) | 3:22 | 2023-11-02 |  |
 | [I'm Not Okay](https://open.spotify.com/track/4HTwHAJvDUy9HkGle66RsB) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I'm Not Okay](https://open.spotify.com/album/65ppWmFsBo0BnuIlHN5XIr) | 3:43 | 2022-11-01 |  |
 | [In your heart](https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 3:41 | 2022-11-01 |  |
 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 | 2022-11-01 |  |
 | [I’ve Got A Thing For You](https://open.spotify.com/track/4B2xBFnyZsYwMYdpZqiwLL) | [YEN](https://open.spotify.com/artist/2IhtAFwyLFcLh6MXMK1o2x) | [I’ve Got A Thing For You](https://open.spotify.com/album/4eHs30w2JsgW6DfcMI2OoL) | 3:08 | 2023-07-07 |  |
+| [Lasting Scent](https://open.spotify.com/track/2AvcRjTfg4ZrwdDj0xoUtf) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON 4th EP Album 'Untitled'](https://open.spotify.com/album/3dt51zaMmRSBrH5Wky5HrC) | 4:24 | 2023-11-02 |  |
 | [Late Night](https://open.spotify.com/track/3QRUPaizh0X42xNQMr8aPg) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Late Night](https://open.spotify.com/album/4LGqCVppg8PsAPqfVjDPsx) | 3:36 | 2022-11-01 |  |
 | [Leaf \(feat\. 10CM\)](https://open.spotify.com/track/012syLYaTalPGsorWvJJSJ) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Leaf \(feat\. 10CM\)](https://open.spotify.com/album/7e8DEKMXqSQ8SkQS8nWyis) | 3:19 | 2022-07-04 |  |
 | [Let you be you](https://open.spotify.com/track/3e8zXmTtU55QH1dr5DBBe2) | [Ryu Jisu](https://open.spotify.com/artist/04jWY9JwIHZRT3HugwfHtb) | [Let you be you](https://open.spotify.com/album/71Z3eY671mt4dN3vsImj2o) | 3:33 | 2022-07-04 |  |
@@ -78,7 +82,7 @@
 | [Looking Back](https://open.spotify.com/track/5taHEqSavn4BmdAPRjFGP3) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Signal \(Original Television Soundtrack\)](https://open.spotify.com/album/3XWPudsfSroRADDvNdWFei) | 4:28 | 2022-11-01 |  |
 | [LOVE STORY](https://open.spotify.com/track/1hV2SwB1pcFXZgYG9Sq2J7) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [WE'VE DONE SOMETHING WONDERFUL](https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu) | 3:56 | 2022-11-01 |  |
 | [love talk](https://open.spotify.com/track/5WS5YCbjqhjRAJKdaExiEC) | [KODI GREEN](https://open.spotify.com/artist/54yQw1nXF53pvMLL0MpTxs), [Kaution](https://open.spotify.com/artist/1mXj07DVCv5GprCk5Adca0) | [love talk](https://open.spotify.com/album/11nXCEJxH1lgp1rA9Uanyk) | 3:32 | 2022-07-04 |  |
-| [Manboy](https://open.spotify.com/track/4o9p0KV76QIbeTKPhcGWmA) | [4BOUT](https://open.spotify.com/artist/7KrgKa6NylGrkmWKm9ZlRC) | [Manboy](https://open.spotify.com/album/61tT8FEfOgMQ2vzl5abEYM) | 3:39 | 2023-10-16 |  |
+| [Manboy](https://open.spotify.com/track/4o9p0KV76QIbeTKPhcGWmA) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Manboy](https://open.spotify.com/album/61tT8FEfOgMQ2vzl5abEYM) | 3:39 | 2023-10-16 |  |
 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 | 2022-11-01 |  |
 | [Moments Make Memories](https://open.spotify.com/track/0ZfedXecbZhyHEQbO9Xlnr) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again Special \(Original Television Soundtrack\)](https://open.spotify.com/album/5T3saGcqKRNtLGMP8MqjnM) | 4:07 | 2022-11-03 | 2022-11-13 |
 | [Moments Make Memories](https://open.spotify.com/track/3aWHovl6h2c1RyCAJP56gd) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2dKTxeYl2l4LldeOAbphMF) | 4:07 | 2022-07-04 |  |

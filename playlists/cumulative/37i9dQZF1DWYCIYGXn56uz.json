@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "A Squarciagola",
+        "url": "https://open.spotify.com/album/2r8ADr19yoR2gsgshFH1SV"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184022,
+      "name": "A Squarciagola",
+      "url": "https://open.spotify.com/track/1broDLBCr9ZXrMW3RjLa5J"
+    },
+    {
+      "album": {
         "name": "a Testa in gi\u00f9",
         "url": "https://open.spotify.com/album/33YeUJsVqvrqjp0h4YfO2J"
       },
@@ -1188,7 +1210,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 176190,
       "name": "Del + e del -",
       "url": "https://open.spotify.com/track/3XLiJfgPLGbOhemWzuNpHO"
@@ -2646,7 +2668,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 164485,
       "name": "Mi Pensi Ancora",
       "url": "https://open.spotify.com/track/7GqoXNz3AIKj48FbUcCABR"
@@ -3652,6 +3674,24 @@
       "duration_ms": 203170,
       "name": "PROFUMO",
       "url": "https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz"
+    },
+    {
+      "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/6DT9PVf7rJdfv91IO4n6cJ"
+      },
+      "artists": [
+        {
+          "name": "maxwell da costa",
+          "url": "https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/3EdDWXSjgqazIp9G1VzK3S"
     },
     {
       "album": {

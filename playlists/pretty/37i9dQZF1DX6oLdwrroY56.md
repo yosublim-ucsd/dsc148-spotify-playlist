@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > The leaders in the lively Pinoy indie scene\. Cover: Sansette
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,513 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,558 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 | 49 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 |
 | 50 | [Please Don't Stay](https://open.spotify.com/track/5F0Srwhpjpqt1KxyI1cDy1) | [Three Legged Men PH](https://open.spotify.com/artist/6Ef0AJQePmfx2cB3vo5vEe) | [Please Don't Stay](https://open.spotify.com/album/43zGzmF8jcqYpZTgru1Nh1) | 4:38 |
 
-Snapshot ID: `MCw2OWNlYzY2MjAzNDFiM2Q3Y2YxMWNkN2QxYjY1ZGY2MjJlZTVlNDU5`
+Snapshot ID: `MCw5MWE0MDdlNWI2NjBjNTIxMzhjMjg2ZWU3YjEzOWUxMGQ0MTczNzEy`

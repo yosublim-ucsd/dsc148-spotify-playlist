@@ -4,7 +4,7 @@
 
 > The best and finest 10s Funk\. Cover: Pharrell Williams.
 
-83 songs - 5 hr 48 min
+84 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [The Real](https://open.spotify.com/track/4zKYvJ7otMr3j9GtfLPm4c) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [GLAM](https://open.spotify.com/album/20O85bLFb2c1B6EEoEiWlG) | 4:51 | 2021-05-05 |  |
 | [The Wilhelm Scream \(feat\. Meg Washington\)](https://open.spotify.com/track/0x4zqBZSjYvVLuttqcfu9W) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ) | [Medicine Man](https://open.spotify.com/album/3HpBC2ECGBxWOviA8CyLhb) | 4:28 | 2021-05-05 | 2023-04-29 |
 | [The Wilhelm Scream \(feat\. Meg Washington\)](https://open.spotify.com/track/1GShu7jYDAFp1YqZgD5xtC) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ) | [Medicine Man](https://open.spotify.com/album/4lWBwTzsdHz0fZqAl369FL) | 4:28 | 2021-05-05 |  |
-| [Time For Love](https://open.spotify.com/track/7EzkFnIt0pJ420BqhcyZ6W) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj) | 3:34 | 2021-05-05 |  |
+| [Time For Love](https://open.spotify.com/track/3DiAic0gBfi0kCdrSvgU2H) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/3bgCu5Lk4saMzZrtDMX118) | 3:34 | 2021-05-05 |  |
+| [Time For Love](https://open.spotify.com/track/7EzkFnIt0pJ420BqhcyZ6W) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj) | 3:34 | 2021-05-05 | 2023-11-03 |
 | [Troubled Land \(feat\. James Junior\)](https://open.spotify.com/track/3WKaXpha1oA7aeTQ3YAoDQ) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44), [James Junior](https://open.spotify.com/artist/3V4lVinkwdxxhWtT58RUkr) | [No Turning Back](https://open.spotify.com/album/5p1fhgKxJDSXZQy4u0r26a) | 5:29 | 2021-05-05 |  |
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 | 2021-05-05 |  |
 | [White Knuckle Ride](https://open.spotify.com/track/1DujLrZJUvLdOCNAUTLJ7Y) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star](https://open.spotify.com/album/2gIExZUaGpUz21crdjAMnd) | 3:35 | 2021-05-05 |  |

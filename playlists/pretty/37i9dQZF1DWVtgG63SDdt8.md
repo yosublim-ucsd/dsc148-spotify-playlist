@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:4BuHGiGgKtUUHqthu6Ze5x">Sam Rivera</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,867 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,953 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [All I Need](https://open.spotify.com/track/3POO6wDiNOISVDiPFsiY0l) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [All I Need](https://open.spotify.com/album/5nUlpUbBsbb2mhc71xLMWL) | 2:58 |
 | 100 | [Found \(feat\. Marty, Battz & Jes Norris\)](https://open.spotify.com/track/4w2uxW5PNSb1kFdyFPp7T0) | [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI), [Jes Norris](https://open.spotify.com/artist/1dkJq9g0LZE84RaN65lfQC) | [Found \(feat\. Marty, Battz & Jes Norris\)](https://open.spotify.com/album/2v0j43qR4RnaQqafzi08na) | 3:05 |
 
-Snapshot ID: `MCwwZDZjNjQ5ZDQ2MTQxNDM2M2NjOGY1NDI2OWIxMzE1YWI2Nzg2N2Uw`
+Snapshot ID: `MCw5YjJkZDllZjQxYTgyN2FiMDA0MjZiMmVmYWI4NzY1YjNlMDQ1NmNj`

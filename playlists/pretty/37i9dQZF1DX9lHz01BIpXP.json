@@ -1,13 +1,29 @@
 {
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL?si=gX9Ki4eNRh-Ok0etAYYfFA\">Mr Heinz</a> & <a href=\"https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=qnCa5ScGSdu0Hn1d7GAZ4g\">Maglera Doe Boy</a> ",
-  "num_followers": 1257,
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I?si=cGzkKRKHRFCwOlBcTV3c_w\">Biggy</a> ",
+  "num_followers": 1256,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTYwZDdiYTQ5MWRlYmU3OTEwM2QxMTMwOWJkNjI0YTI3YTI5NmVi",
+  "snapshot_id": "MCw3ODVkYTMyMGExOGU1MmFjMzA4Mzc1ZDViZmYxNGU4NTQ3N2YzN2Jh",
   "tracks": [
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
+        "name": "Janneman",
+        "url": "https://open.spotify.com/album/1R2hS2DTI0QrpzkUbbZXgk"
+      },
+      "artists": [
+        {
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        }
+      ],
+      "duration_ms": 195361,
+      "name": "Janneman",
+      "url": "https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA"
+    },
     {
       "added_at": "2023-10-27 11:18:27",
       "album": {
@@ -863,30 +879,6 @@
       "duration_ms": 210573,
       "name": "T. D. K. S",
       "url": "https://open.spotify.com/track/7qbLm0IBfu31Tpq6W45XfH"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "Jong Grotes",
-        "url": "https://open.spotify.com/album/6fkDB86zPbNpiJ0JnyPhlb"
-      },
-      "artists": [
-        {
-          "name": "Biggy",
-          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
-        },
-        {
-          "name": "YoungstaCPT",
-          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
-        },
-        {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Playa",
-      "url": "https://open.spotify.com/track/1rNz535f5FjsnATLQQbSvN"
     },
     {
       "added_at": "2022-09-08 21:59:00",

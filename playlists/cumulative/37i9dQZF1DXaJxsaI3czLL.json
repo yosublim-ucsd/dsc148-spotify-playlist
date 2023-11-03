@@ -620,7 +620,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 199113,
       "name": "CAREFREE",
       "url": "https://open.spotify.com/track/6RyqEix17XNNzdvhU8FrFK"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "eureka",
       "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
@@ -960,6 +960,24 @@
       "duration_ms": 344280,
       "name": "Fire (feat. Sam Gendel)",
       "url": "https://open.spotify.com/track/1zTowLItLwjFXiqAso4Fuw"
+    },
+    {
+      "album": {
+        "name": "Flavor Of Life",
+        "url": "https://open.spotify.com/album/539IJjkQjkvYazzzCA9gPX"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417803,
+      "name": "Flavor Of Life",
+      "url": "https://open.spotify.com/track/2Ss4fzhZw5TMgdoZzRbQOk"
     },
     {
       "album": {
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
@@ -1144,6 +1162,24 @@
       "duration_ms": 225720,
       "name": "Hadaka no Yume",
       "url": "https://open.spotify.com/track/4hpkSK1MZyzFUlNxN6FN1I"
+    },
+    {
+      "album": {
+        "name": "Hana",
+        "url": "https://open.spotify.com/album/3IGw7uRv2y5lTMlIe8PLeT"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247554,
+      "name": "Hana - Ballad",
+      "url": "https://open.spotify.com/track/08ldhcNuoqot1mavblvKfc"
     },
     {
       "album": {
@@ -1459,6 +1495,28 @@
     },
     {
       "album": {
+        "name": "TITY",
+        "url": "https://open.spotify.com/album/0VOCIszImulRCdf8lz89aP"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        },
+        {
+          "name": "AAAMYYY",
+          "url": "https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232946,
+      "name": "IDEN",
+      "url": "https://open.spotify.com/track/5nXb09reEw4Iat5wLkSgaU"
+    },
+    {
+      "album": {
         "name": "Long Voyage",
         "url": "https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi"
       },
@@ -1514,7 +1572,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 287000,
       "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
       "url": "https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w"
@@ -1648,7 +1706,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 356973,
       "name": "Lady - 2020",
       "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
@@ -1666,7 +1724,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 272436,
       "name": "Lamp",
       "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
@@ -1778,7 +1836,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 187666,
       "name": "Lighthouse (Live Session)",
       "url": "https://open.spotify.com/track/2kXbQ8jhtZqwXs9rnrWrE4"
@@ -2064,7 +2122,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 118253,
       "name": "Moon Flower",
       "url": "https://open.spotify.com/track/1zNdql4RAENgsKUM6W0muM"
@@ -2758,7 +2816,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 328584,
       "name": "shattered me - feat.Shamyah",
       "url": "https://open.spotify.com/track/52FmhxikYFZLC7E8g9X7G2"
@@ -3185,6 +3243,24 @@
     },
     {
       "album": {
+        "name": "Acoustic Versions",
+        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
+      },
+      "artists": [
+        {
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126517,
+      "name": "There is Nothing More to Say",
+      "url": "https://open.spotify.com/track/7zg26Jo05UY1kYtTnRZvyW"
+    },
+    {
+      "album": {
         "name": "Through The Deep - EP",
         "url": "https://open.spotify.com/album/3mBVZsyITr12QIAg9n0jlV"
       },
@@ -3356,7 +3432,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-21",
+      "date_removed": null,
       "duration_ms": 244748,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/73F0eYAZnToLIKZ9UmD2zj"
@@ -4135,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "FOLK 3",
+        "url": "https://open.spotify.com/album/6F8kYlow42WYPCTqDCgWRE"
+      },
+      "artists": [
+        {
+          "name": "Humbert Humbert",
+          "url": "https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231640,
+      "name": "\u307e\u306a\u3056\u3057",
+      "url": "https://open.spotify.com/track/3r4cXJvkEStMje809wYpyf"
+    },
+    {
+      "album": {
         "name": "\u3082\u3057\u3082\u661f\u304c\u964d\u308b\u306e\u306a\u3089",
         "url": "https://open.spotify.com/album/4gKZhjEqcVqzwAYF23BsJr"
       },
@@ -4528,7 +4622,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 228038,
       "name": "\u30d1\u30ec\u30fc\u30c9",
       "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
@@ -4912,6 +5006,24 @@
       "duration_ms": 194146,
       "name": "\u5922\u5b99",
       "url": "https://open.spotify.com/track/19Abz8fdF55MlJlo52B59M"
+    },
+    {
+      "album": {
+        "name": "\u97f3\u697d\u3068\u79c1",
+        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
+      },
+      "artists": [
+        {
+          "name": "Tomoyo Harada",
+          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392173,
+      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+      "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
     },
     {
       "album": {
@@ -5848,7 +5960,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 233946,
       "name": "\u7720\u308c\u306c\u7f8a - with TENDRE",
       "url": "https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj"
@@ -5884,7 +5996,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 176542,
       "name": "\u77e5\u3089\u306a\u3044\u4e16\u754c\u3082\u898b\u98fd\u304d\u305f",
       "url": "https://open.spotify.com/track/1lY1S9iNCw3zj9mBO7lYkt"
@@ -5986,7 +6098,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 457613,
       "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"

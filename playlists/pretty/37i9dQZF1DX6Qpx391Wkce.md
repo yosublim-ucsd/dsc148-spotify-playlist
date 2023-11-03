@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,823 likes - 69 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,847 likes - 69 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 58 | [Switch \- Alex Stein Remix](https://open.spotify.com/track/6gNDuHiTw1wVJvYsId2PXb) | [Beckers](https://open.spotify.com/artist/0VWBw0F5CvBFM9xEqbfhDg), [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Switch \(Alex Stein Remix\)](https://open.spotify.com/album/3zuD6J3tJHwg7Ed7b55y9F) | 3:11 |
 | 59 | [Hemera](https://open.spotify.com/track/5tOYSYhbf8pEcMLpx93qrG) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [In Memoro](https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm) | 5:39 |
 | 60 | [Stay \- Josh Wink Remix](https://open.spotify.com/track/5M5GqUm5F6rSo2zJ6Ibhcf) | [Oniris](https://open.spotify.com/artist/3wMm8AmRf08qGlo4hp72Sp), [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Stay](https://open.spotify.com/album/6qm78dcqzX6yffzyf2FTFS) | 4:47 |
-| 61 | [Coatnoise \- Dave Clarke Remix](https://open.spotify.com/track/2sJlMjGUzMr58tkV1tdOyx) | [Midfield General](https://open.spotify.com/artist/7pFRZzpdFnoC3XnilFWEOr) | [Generalisation \(Deluxe Edition\)](https://open.spotify.com/album/53LV50a3r9n6MLvFUHr1TY) | 5:22 |
+| 61 | [Coatnoise \(Dave Clarke Remix\)](https://open.spotify.com/track/4UwbPg04eO9eNpW0XGCYbS) | [Midfield General](https://open.spotify.com/artist/7pFRZzpdFnoC3XnilFWEOr), [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ) | [Generalisation \(Deluxe Edition\)](https://open.spotify.com/album/0QCZSXbN2coY3JdASBfKj9) | 5:22 |
 | 62 | [Unparalleled \- Alan Fitzpatrick Remix](https://open.spotify.com/track/3SkAU4S5dSGXadZXrBWvR0) | [The Reason Y](https://open.spotify.com/artist/1UJj77uMxQ75QrhQSU8W1I), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Unparalleled](https://open.spotify.com/album/3tAcMtEyp0ir61tvLhBM5K) | 6:11 |
 | 63 | [Something More](https://open.spotify.com/track/4YMxL3YsA943fie0W7viZO) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Something More](https://open.spotify.com/album/0SHhPYk0boerswxE4eYy3s) | 4:00 |
 | 64 | [Temple](https://open.spotify.com/track/2CHiHSmPP9EB0HJBHFwQN2) | [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4) | [Temple](https://open.spotify.com/album/76NljCWu0BMxSL4it9FPNm) | 5:43 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 68 | [Hick \- Pan\-Pot Remix](https://open.spotify.com/track/5sGtHaUKoaGlp68uEp7oz6) | [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ), [Rainer Weichhold](https://open.spotify.com/artist/5ZZEDlsQsxJqj2svh4GqZD), [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [Hick \(Pan\-Pot Remix\)](https://open.spotify.com/album/6fthnKNuVFdWZOhFFlRJEK) | 6:40 |
 | 69 | [The Beat Just Goes Straight on and On](https://open.spotify.com/track/0UOdOG9XKi7gpAD72fZo1q) | [Perry & Rhodan](https://open.spotify.com/artist/7eyhmCn1XGDpFbrWkQMXhK) | [The Beat Just Goes Straight on and On](https://open.spotify.com/album/43e0TVbRqCaVKIBnA6xqPE) | 9:53 |
 
-Snapshot ID: `MCxjODc3ODBlYWVkYzJkYzEyZmE4NWZkYzU2N2RkNTMxODU0OGFjNTUy`
+Snapshot ID: `MCw4ODc0ZGQ0YjhlMjljMmEyOWNhNDgwOTY4MjE2NTcxNTk0NzdkZjRl`

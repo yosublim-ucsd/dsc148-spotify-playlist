@@ -470,7 +470,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 425204,
       "name": "Cellular",
       "url": "https://open.spotify.com/track/5ECHzZITsgWdKtx9mXZy8s"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 360902,
       "name": "Final Checkpoint",
       "url": "https://open.spotify.com/track/6YOaYCo6uLg3LK01Rn4YAz"
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 319090,
       "name": "Heavn",
       "url": "https://open.spotify.com/track/569G6Qa1BCoDYAsIIEKe80"
@@ -2472,6 +2472,24 @@
       "duration_ms": 455370,
       "name": "Mr Umbawa",
       "url": "https://open.spotify.com/track/54zanEkA6SBFcl1xJVGrXz"
+    },
+    {
+      "album": {
+        "name": "My Buddy",
+        "url": "https://open.spotify.com/album/0OX4imBNw7NMoenB3csJtj"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383216,
+      "name": "My Buddy",
+      "url": "https://open.spotify.com/track/5v8eYFpW8QvAHvelT7GkPM"
     },
     {
       "album": {

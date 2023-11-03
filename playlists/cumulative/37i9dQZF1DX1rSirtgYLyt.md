@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-129 songs - 9 hr 30 min
+130 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Look on Yonder Wall](https://open.spotify.com/track/773LlUafLOEk5AKr1DIGag) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Strange Angels: In Flight with Elmore James](https://open.spotify.com/album/3qeVFVdY4jf4fD3nkZ4ZdN) | 3:43 | 2023-01-12 |  |
 | [Lost Cause](https://open.spotify.com/track/0nZ4lF8FhUPo94DLLluXIO) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj) | [Lost Cause](https://open.spotify.com/album/5BX6vHqeZHBpEHykTlKwEc) | 3:51 | 2023-02-03 |  |
 | [Love In Vain Blues \- Studio](https://open.spotify.com/track/2uzGLzv8DPmXrlBfdR9dU8) | [Peter Green Splinter Group](https://open.spotify.com/artist/77aUDqXRIvkDNxARfYwoHC) | [The Robert Johnson Songbook](https://open.spotify.com/album/4RZdbilpZLCecJHtEkdJgX) | 4:48 | 2022-06-24 |  |
-| [Love That Burns \(with Rick Vito\) \- Live from The London Palladium](https://open.spotify.com/track/7avlGe2Kmp0yagByGRT9x0) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Rick Vito](https://open.spotify.com/artist/0yC7EvUceCEZm3ZeawauQA) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac \(Live from The London Palladium\)](https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA) | 5:54 | 2022-06-24 |  |
+| [Love That Burns \(with Rick Vito\) \(Live from The London Palladium\)](https://open.spotify.com/track/2IvVEPd1M58XvJ7zP9AMrl) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac](https://open.spotify.com/album/4mRWbr6PnIIo3ealvjT60y) | 5:54 | 2023-10-13 |  |
+| [Love That Burns \(with Rick Vito\) \- Live from The London Palladium](https://open.spotify.com/track/7avlGe2Kmp0yagByGRT9x0) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Rick Vito](https://open.spotify.com/artist/0yC7EvUceCEZm3ZeawauQA) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac \(Live from The London Palladium\)](https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA) | 5:54 | 2022-06-24 | 2023-11-03 |
 | [Me and My Chauffeur](https://open.spotify.com/track/2yoC8afBO2nOnRu4kf7VoU) | [Candice Ivory](https://open.spotify.com/artist/3LvvxwFohFRBZ3iS3ocKmp), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Me and My Chauffeur](https://open.spotify.com/album/55YWEj0r4ZHaxf4ukmzMkq) | 3:32 | 2023-08-11 |  |
 | [Mean Mistreatin' Mama](https://open.spotify.com/track/2kGpMbIIaK82aYl1N4xoHC) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Strange Angels: In Flight with Elmore James](https://open.spotify.com/album/3qeVFVdY4jf4fD3nkZ4ZdN) | 5:58 | 2023-01-12 |  |
 | [Messing With The Blues](https://open.spotify.com/track/09tD5JvaiCrdlmKdmjDATX) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 2:12 | 2022-06-24 |  |

@@ -1,63 +1,31 @@
 {
-  "description": "De nieuwste Nederlandse liedjes! Cover: Hannah Mae",
-  "num_followers": 159106,
+  "description": "De nieuwste Nederlandse liedjes! Cover: Snelle",
+  "num_followers": 159139,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTYxODgzZjhjMGU5ZjBhZTRlZmUyMjczNWEyNGI4NWQyOTU0ODBk",
+  "snapshot_id": "MCw3Zjk2YTg1ZTljNGFkMzY3NjU3MWVmZWQ4NzFkZTQwMDYzZjIyNjhk",
   "tracks": [
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Waterdicht",
-        "url": "https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo"
+        "name": "Hoodiedate",
+        "url": "https://open.spotify.com/album/2GE8j7V7VOaFbrlT1SyssS"
       },
       "artists": [
         {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
         }
       ],
-      "duration_ms": 171932,
-      "name": "Waterdicht",
-      "url": "https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng"
+      "duration_ms": 183968,
+      "name": "Hoodiedate",
+      "url": "https://open.spotify.com/track/0rWktREtOKwpyAxwbh9aIh"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Adem In",
-        "url": "https://open.spotify.com/album/0wNvqstrp3YwZQUIKFivVf"
-      },
-      "artists": [
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        }
-      ],
-      "duration_ms": 144109,
-      "name": "Adem In",
-      "url": "https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "AEDM",
-        "url": "https://open.spotify.com/album/3ua3jJ5hreBT7dp0D8TJya"
-      },
-      "artists": [
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 193531,
-      "name": "Stoel In De Hemel",
-      "url": "https://open.spotify.com/track/6bNfLrjVk5xFZSOQOhroYt"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC"
@@ -73,23 +41,47 @@
       "url": "https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Houden Van Mij",
-        "url": "https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty"
+        "name": "Waterdicht",
+        "url": "https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo"
       },
       "artists": [
         {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
         }
       ],
-      "duration_ms": 138053,
-      "name": "Houden Van Mij",
-      "url": "https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc"
+      "duration_ms": 171932,
+      "name": "Waterdicht",
+      "url": "https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Wacht Op Mij",
+        "url": "https://open.spotify.com/album/2WSQUoSEGPgHz5dcZGahpg"
+      },
+      "artists": [
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "duration_ms": 137277,
+      "name": "Wacht Op Mij",
+      "url": "https://open.spotify.com/track/4YmbvryKSbLnsN1IqAI3eK"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Eigen Schuld",
         "url": "https://open.spotify.com/album/06lZcDwBLxPbT326eAxqS7"
@@ -105,39 +97,87 @@
       "url": "https://open.spotify.com/track/5pf1eSfMJE4efPzwpqB5jK"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Opfok",
-        "url": "https://open.spotify.com/album/2vrh59pa7DoAilw5DyAwju"
+        "name": "Door De Regen",
+        "url": "https://open.spotify.com/album/5uY8iQGj3xTG9ZeSviU9gI"
       },
       "artists": [
         {
-          "name": "Bilal Wahib",
-          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+          "name": "LAUF",
+          "url": "https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD"
         }
       ],
-      "duration_ms": 146501,
-      "name": "Opfok",
-      "url": "https://open.spotify.com/track/0a7B1hi1BaLLkgXyZak3n7"
+      "duration_ms": 156461,
+      "name": "Door De Regen",
+      "url": "https://open.spotify.com/track/5t5TOLejRhyJ5Pe0VQTgXK"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "FARIA",
-        "url": "https://open.spotify.com/album/11ImjaOmbpe4qcKRwrHxGw"
+        "name": "AEDM",
+        "url": "https://open.spotify.com/album/3ua3jJ5hreBT7dp0D8TJya"
       },
       "artists": [
         {
-          "name": "Glen Faria",
-          "url": "https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC"
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
         }
       ],
-      "duration_ms": 160800,
-      "name": "Stel Dat",
-      "url": "https://open.spotify.com/track/2Yyv8SThjKpwURXlw2wO1G"
+      "duration_ms": 193531,
+      "name": "Stoel In De Hemel",
+      "url": "https://open.spotify.com/track/6bNfLrjVk5xFZSOQOhroYt"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Adem In",
+        "url": "https://open.spotify.com/album/0wNvqstrp3YwZQUIKFivVf"
+      },
+      "artists": [
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "duration_ms": 144109,
+      "name": "Adem In",
+      "url": "https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Houden Van Mij",
+        "url": "https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "duration_ms": 138053,
+      "name": "Houden Van Mij",
+      "url": "https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Twintig (Deluxe)",
+        "url": "https://open.spotify.com/album/3XMS2yUTeOaTGaqovGhAci"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "duration_ms": 177690,
+      "name": "Blijf Zo",
+      "url": "https://open.spotify.com/track/3bHhbGAnKXlD3SIoRZr8oj"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Hartslag Van De Stad",
         "url": "https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo"
@@ -157,7 +197,59 @@
       "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Opfok",
+        "url": "https://open.spotify.com/album/2vrh59pa7DoAilw5DyAwju"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "duration_ms": 146501,
+      "name": "Opfok",
+      "url": "https://open.spotify.com/track/0a7B1hi1BaLLkgXyZak3n7"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "2 Glazen Wijn",
+        "url": "https://open.spotify.com/album/4aIhJYYd20CqCfWeihADXg"
+      },
+      "artists": [
+        {
+          "name": "Juwls",
+          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/1lMqPztKuO3DBB64uGJGr0"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "2 Glazen Wijn",
+      "url": "https://open.spotify.com/track/5qf38xrJmEv83TXan3UCul"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "FARIA",
+        "url": "https://open.spotify.com/album/11ImjaOmbpe4qcKRwrHxGw"
+      },
+      "artists": [
+        {
+          "name": "Glen Faria",
+          "url": "https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Stel Dat",
+      "url": "https://open.spotify.com/track/2Yyv8SThjKpwURXlw2wO1G"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Zie jij het ook",
         "url": "https://open.spotify.com/album/4C2NAdpmvnaobYuIYWPG3s"
@@ -173,74 +265,10 @@
       "url": "https://open.spotify.com/track/5bMPwUAC4VdX3c3ChuIogI"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "PROBLEEM",
-        "url": "https://open.spotify.com/album/2US0jASNyZgkL0NYQo8MHs"
-      },
-      "artists": [
-        {
-          "name": "Dirikteur",
-          "url": "https://open.spotify.com/artist/2RvGx3eWrv0Yiq6nJQNXwA"
-        }
-      ],
-      "duration_ms": 157950,
-      "name": "PROBLEEM",
-      "url": "https://open.spotify.com/track/22UbNMNZsFftv6nwNv6Bmm"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Vaders Zoon",
-        "url": "https://open.spotify.com/album/0KHAWF4hTfJgRg0TaLNSOE"
-      },
-      "artists": [
-        {
-          "name": "Diggy Dex",
-          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
-        }
-      ],
-      "duration_ms": 245980,
-      "name": "Vaders Zoon",
-      "url": "https://open.spotify.com/track/5TGv7eOHSbsxktJJVFc21Q"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Achtbaan",
-        "url": "https://open.spotify.com/album/7uMaP4UxEn8MkA1pf6I74s"
-      },
-      "artists": [
-        {
-          "name": "Irene Hin",
-          "url": "https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej"
-        }
-      ],
-      "duration_ms": 200149,
-      "name": "Achtbaan",
-      "url": "https://open.spotify.com/track/5x8PzeaVxkN8XFgJGlhXvG"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/4K5Zge9nkEolGmF0S3OOV9"
-      },
-      "artists": [
-        {
-          "name": "Guusje",
-          "url": "https://open.spotify.com/artist/3JrsxoRQjMCK7UjatNPTGx"
-        }
-      ],
-      "duration_ms": 174440,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4rKgglMTWD9srdmmFd3iwS"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Arcade",
-        "url": "https://open.spotify.com/album/5p4dNjuAzVPPM61pt4KQhK"
+        "name": "Beste Zangers 2023 (Numidia)",
+        "url": "https://open.spotify.com/album/0aQ1Po7gpFjMVWbBieimnH"
       },
       "artists": [
         {
@@ -248,12 +276,28 @@
           "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
         }
       ],
-      "duration_ms": 196010,
-      "name": "Arcade",
-      "url": "https://open.spotify.com/track/06q5OfzaRccXcFU6L7PrWd"
+      "duration_ms": 217983,
+      "name": "Dat Heb Jij Gedaan",
+      "url": "https://open.spotify.com/track/2oQBdzjJXIcO2t2kYbwmVc"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Missen",
+        "url": "https://open.spotify.com/album/1TJ4nEX5ePlLKhTyAK1CL8"
+      },
+      "artists": [
+        {
+          "name": "Sterre Koning",
+          "url": "https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB"
+        }
+      ],
+      "duration_ms": 215670,
+      "name": "Missen",
+      "url": "https://open.spotify.com/track/7pUUC2DcPUbB9eSqOaT4Ji"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Niet Breken",
         "url": "https://open.spotify.com/album/0uXGmsQzYBGfNPpsfP3vos"
@@ -269,7 +313,75 @@
       "url": "https://open.spotify.com/track/4iv7QWrytOLIRIECHBJkqP"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Vaders Zoon",
+        "url": "https://open.spotify.com/album/0KHAWF4hTfJgRg0TaLNSOE"
+      },
+      "artists": [
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        }
+      ],
+      "duration_ms": 245980,
+      "name": "Vaders Zoon",
+      "url": "https://open.spotify.com/track/5TGv7eOHSbsxktJJVFc21Q"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Dans Op Het Mes",
+        "url": "https://open.spotify.com/album/4HlJBGJa7nEs3GOhsD4B9w"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "duration_ms": 177166,
+      "name": "Dans Op Het Mes",
+      "url": "https://open.spotify.com/track/2Mog5P8QZ9tnFq5uDm3T8w"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Achtbaan",
+        "url": "https://open.spotify.com/album/7uMaP4UxEn8MkA1pf6I74s"
+      },
+      "artists": [
+        {
+          "name": "Irene Hin",
+          "url": "https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej"
+        }
+      ],
+      "duration_ms": 200149,
+      "name": "Achtbaan",
+      "url": "https://open.spotify.com/track/5x8PzeaVxkN8XFgJGlhXvG"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Heuvels",
+        "url": "https://open.spotify.com/album/58xNXd1NUbyBJpkN3i0mgr"
+      },
+      "artists": [
+        {
+          "name": "Pjotr",
+          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
+        },
+        {
+          "name": "Fresku",
+          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
+        }
+      ],
+      "duration_ms": 165006,
+      "name": "Heuvels",
+      "url": "https://open.spotify.com/track/44xpsWlXIZaLC9ezuALEyE"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "De Hele Nacht",
         "url": "https://open.spotify.com/album/3FJVjlwiacUhh69HjeyGoB"
@@ -289,23 +401,7 @@
       "url": "https://open.spotify.com/track/5piOsIWpDiaK8BUmPYCIVF"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Grote Dromen, Klein Dorp",
-        "url": "https://open.spotify.com/album/4nbh9yi0MfNZfRgLTR66F4"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00ebl Domingos",
-          "url": "https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Grote Dromen, Klein Dorp",
-      "url": "https://open.spotify.com/track/0uqEpwCl4BHilst3RZmGTV"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Een Beetje Meer",
         "url": "https://open.spotify.com/album/0LjN6nmQuz6bQEHTlFIKfz"
@@ -321,7 +417,23 @@
       "url": "https://open.spotify.com/track/77UIVVbNb6GW3h0gwwiUeK"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Nooit Alleen (Dit Is Wat Mijn Mama Zei) [Radio Edit]",
+        "url": "https://open.spotify.com/album/7BMPGjcpUSCZQyeEiGPoEo"
+      },
+      "artists": [
+        {
+          "name": "Eva Simons",
+          "url": "https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA"
+        }
+      ],
+      "duration_ms": 175397,
+      "name": "Nooit Alleen (Dit Is Wat Mijn Mama Zei) - Radio Edit",
+      "url": "https://open.spotify.com/track/42TrRURvbB6SD5fjSR71PB"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "De Tijd Gaat Mooie Dingen Doen",
         "url": "https://open.spotify.com/album/6myczO3dCuLnjSoUS6yOfY"
@@ -341,39 +453,7 @@
       "url": "https://open.spotify.com/track/0ZcTWDFmCidCFw4pPr7ekO"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Kleine Versie Van Mezelf",
-        "url": "https://open.spotify.com/album/1ThUqYsEZVmnRVHbppBVlD"
-      },
-      "artists": [
-        {
-          "name": "Matz Voskamp",
-          "url": "https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd"
-        }
-      ],
-      "duration_ms": 177374,
-      "name": "Kleine Versie Van Mezelf",
-      "url": "https://open.spotify.com/track/7rlXVJqu0f1H7YNbda8HfW"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Leef je in mij",
-        "url": "https://open.spotify.com/album/68FlA484c2cYvA00BtpSKV"
-      },
-      "artists": [
-        {
-          "name": "Do",
-          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
-        }
-      ],
-      "duration_ms": 196744,
-      "name": "Leef je in mij",
-      "url": "https://open.spotify.com/track/2pweZge5JYaJZWNEVbxrtK"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "100K Tranen",
         "url": "https://open.spotify.com/album/4b5tmW8Nbt5yzYORGdjpTm"
@@ -389,7 +469,55 @@
       "url": "https://open.spotify.com/track/6obwm23hKEtFLHMefCg33l"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Denkstof",
+        "url": "https://open.spotify.com/album/69X13zUWzRnKlrh9ggAUOW"
+      },
+      "artists": [
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "duration_ms": 147220,
+      "name": "Denkstof",
+      "url": "https://open.spotify.com/track/70KH3HDtaNoCu8KJTCJmSt"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Kleine Versie Van Mezelf",
+        "url": "https://open.spotify.com/album/1ThUqYsEZVmnRVHbppBVlD"
+      },
+      "artists": [
+        {
+          "name": "Matz Voskamp",
+          "url": "https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd"
+        }
+      ],
+      "duration_ms": 177374,
+      "name": "Kleine Versie Van Mezelf",
+      "url": "https://open.spotify.com/track/7rlXVJqu0f1H7YNbda8HfW"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Leef je in mij",
+        "url": "https://open.spotify.com/album/68FlA484c2cYvA00BtpSKV"
+      },
+      "artists": [
+        {
+          "name": "Do",
+          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
+        }
+      ],
+      "duration_ms": 196744,
+      "name": "Leef je in mij",
+      "url": "https://open.spotify.com/track/2pweZge5JYaJZWNEVbxrtK"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Vas-y (Ga Maar)",
         "url": "https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV"
@@ -409,7 +537,23 @@
       "url": "https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/16H5lY5PLYapy2BXLRQae2"
+      },
+      "artists": [
+        {
+          "name": "Mick Spek",
+          "url": "https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi"
+        }
+      ],
+      "duration_ms": 170630,
+      "name": "23",
+      "url": "https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Dat Hadden Wij Moeten Zijn",
         "url": "https://open.spotify.com/album/5WxgeokG4RNocDTb4uQ1cE"
@@ -429,7 +573,7 @@
       "url": "https://open.spotify.com/track/1YdavvpHweXYPkKuxg40Ha"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Brak Zijn",
         "url": "https://open.spotify.com/album/7HohBFxEurOJSiBsGMo0J4"
@@ -445,7 +589,23 @@
       "url": "https://open.spotify.com/track/6U7KAEmS3hSQrHqnqCYycn"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Sorry dat ik stoor",
+        "url": "https://open.spotify.com/album/4d19JlNDJ2OwrGBWETU3rP"
+      },
+      "artists": [
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "duration_ms": 204635,
+      "name": "Sorry dat ik stoor",
+      "url": "https://open.spotify.com/track/1otdNSbercygfjKDmtSNTZ"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Thuis Thuis",
         "url": "https://open.spotify.com/album/33rVHZAjT2mWHpJBdVBwyb"
@@ -461,7 +621,7 @@
       "url": "https://open.spotify.com/track/6WHIHaHkbYUCuik1j9KnFP"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Op Mijn Lijf Geschreven",
         "url": "https://open.spotify.com/album/7df3CFydeyJeyw2K09Igjd"
@@ -477,7 +637,7 @@
       "url": "https://open.spotify.com/track/5m7dZjtgshqh2pKZKir7SG"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Voicemail",
         "url": "https://open.spotify.com/album/37x0oNIyroVzO6YWXbfJto"
@@ -493,39 +653,7 @@
       "url": "https://open.spotify.com/track/5I8IKmeOT9L7yB0D41483W"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Beste Zangers 2023 (Numidia)",
-        "url": "https://open.spotify.com/album/0aQ1Po7gpFjMVWbBieimnH"
-      },
-      "artists": [
-        {
-          "name": "Numidia",
-          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
-        }
-      ],
-      "duration_ms": 217983,
-      "name": "Dat Heb Jij Gedaan",
-      "url": "https://open.spotify.com/track/2oQBdzjJXIcO2t2kYbwmVc"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Eenzaam Samen",
-        "url": "https://open.spotify.com/album/4WTBwa2BmjQFdFzuPHL2OY"
-      },
-      "artists": [
-        {
-          "name": "DAVE",
-          "url": "https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk"
-        }
-      ],
-      "duration_ms": 174936,
-      "name": "Eenzaam Samen",
-      "url": "https://open.spotify.com/track/5gAwwq5heHnzLpLIIFc4NF"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Van Huis Uit",
         "url": "https://open.spotify.com/album/3c5HcU9hSV8SjM51ZO31aY"
@@ -541,7 +669,7 @@
       "url": "https://open.spotify.com/track/20Il3468yznPyLB8fjZEBX"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Vanavond Komt Ze Naar Mij",
         "url": "https://open.spotify.com/album/1kTXTth3kzIUg2mtiUxyOt"
@@ -557,27 +685,7 @@
       "url": "https://open.spotify.com/track/1XlUhojwsf89SFoxuwvXW8"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Ik Heb Jou",
-        "url": "https://open.spotify.com/album/0hvRDtidoBVzLAj0d7RfEh"
-      },
-      "artists": [
-        {
-          "name": "Dicecream",
-          "url": "https://open.spotify.com/artist/5Y35hxCbhuDsV4hjRpAa20"
-        },
-        {
-          "name": "Jaap Goud",
-          "url": "https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR"
-        }
-      ],
-      "duration_ms": 238087,
-      "name": "Ik Heb Jou",
-      "url": "https://open.spotify.com/track/4WdlPFMILpzOGx4LFLVkkC"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Vrouw Van De Wereld",
         "url": "https://open.spotify.com/album/303su5NnOpJDJzlO9YNrGT"
@@ -593,7 +701,7 @@
       "url": "https://open.spotify.com/track/3ssFHRmjHtu6ZwSd8mCjCj"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Levensdraden",
         "url": "https://open.spotify.com/album/6arLkm6MoS93r5rE50uNQJ"
@@ -609,7 +717,23 @@
       "url": "https://open.spotify.com/track/6NtORS6kdQnmBrAnbNPHTl"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "PROBLEEM",
+        "url": "https://open.spotify.com/album/2US0jASNyZgkL0NYQo8MHs"
+      },
+      "artists": [
+        {
+          "name": "Dirikteur",
+          "url": "https://open.spotify.com/artist/2RvGx3eWrv0Yiq6nJQNXwA"
+        }
+      ],
+      "duration_ms": 157950,
+      "name": "PROBLEEM",
+      "url": "https://open.spotify.com/track/22UbNMNZsFftv6nwNv6Bmm"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Iemand Van Vroeger",
         "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
@@ -625,7 +749,7 @@
       "url": "https://open.spotify.com/track/1b4EY1iGSNPRIW2fulM8Lj"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Datediner",
         "url": "https://open.spotify.com/album/7sEuys399UPSZiYX88MPXk"
@@ -641,27 +765,7 @@
       "url": "https://open.spotify.com/track/4IDU19J711XA1ls4M9QWsL"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Dit Is Het Levenslied",
-        "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        },
-        {
-          "name": "Trijntje Oosterhuis",
-          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
-        }
-      ],
-      "duration_ms": 241435,
-      "name": "Door Weer En Wind",
-      "url": "https://open.spotify.com/track/1kAPdyoWB9Mw5CA6zuRVyD"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Beste Zangers 2023 (MEAU)",
         "url": "https://open.spotify.com/album/63FODmXDW9eScFLFN5dPVs"
@@ -677,23 +781,7 @@
       "url": "https://open.spotify.com/track/26k14Cfgd7XC3j6FeZ9SrW"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Luchtkasteel",
-        "url": "https://open.spotify.com/album/2YZgPFSB0qkZNUmhPMPh98"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi"
-        }
-      ],
-      "duration_ms": 153634,
-      "name": "Luchtkasteel",
-      "url": "https://open.spotify.com/track/6jYvHA6LvFcTe9lCiuIc5f"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "De Tijd Gaat Mooie Dingen Doen",
         "url": "https://open.spotify.com/album/4qwPLM18gSBRtb9twSnOGU"
@@ -709,7 +797,7 @@
       "url": "https://open.spotify.com/track/3uMtq20Rh0Bb2rodXPNhzQ"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Morgen Gaan We Praten",
         "url": "https://open.spotify.com/album/4LGsHcf4ciNkjFNwWe03Nx"
@@ -729,7 +817,7 @@
       "url": "https://open.spotify.com/track/1hq1XJPTjakVHRjntJxGG9"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Grootste Nachtmerrie",
         "url": "https://open.spotify.com/album/1oN4gY30vybE4aeYfcsPPL"
@@ -745,7 +833,7 @@
       "url": "https://open.spotify.com/track/024n8ZBMNDs0lPWXVbiPhE"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Opzij",
         "url": "https://open.spotify.com/album/1PTTVXcXVkjmFovny2Is4C"
@@ -765,7 +853,7 @@
       "url": "https://open.spotify.com/track/73O00q0bRA60M6LoVfrIpd"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Boeie",
         "url": "https://open.spotify.com/album/5Tl0c5B3lHjw0v5IQsDlBw"
@@ -781,7 +869,7 @@
       "url": "https://open.spotify.com/track/2w5QvIqfDjg09RAe56WbiO"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Tussendoor",
         "url": "https://open.spotify.com/album/1uiD722Lty54S0hMv6DAXS"
@@ -797,7 +885,7 @@
       "url": "https://open.spotify.com/track/5ejOlSH4f8M5Tqrisvjpsz"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Draaien",
         "url": "https://open.spotify.com/album/6hobNqHnmmBbX3R8dsCxwp"
@@ -817,7 +905,7 @@
       "url": "https://open.spotify.com/track/4gD4oxamFPz4TJNxuozDL5"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Altijd Onderweg",
         "url": "https://open.spotify.com/album/7K7CynIwvLxVkzLCmjxDbJ"
@@ -833,7 +921,7 @@
       "url": "https://open.spotify.com/track/2510MF3xvG8LgOC1RVxF5U"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Verlaten",
         "url": "https://open.spotify.com/album/5enwsEosuR83tZqUFuTlam"
@@ -849,7 +937,7 @@
       "url": "https://open.spotify.com/track/4zlL8HgU3x8o8gDHcbMX2g"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Verblind Door De Liefde",
         "url": "https://open.spotify.com/album/4nibfUi3NOq37haZTqiMkI"
@@ -865,7 +953,7 @@
       "url": "https://open.spotify.com/track/6hNBsoqPGscZ7n3AkylGUA"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Treintje Later",
         "url": "https://open.spotify.com/album/1OSE4trfYFvnV2HPsJl4D4"
@@ -881,7 +969,23 @@
       "url": "https://open.spotify.com/track/1TJ7XbsAzUpJ3evpxbrAhx"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Grote Dromen, Klein Dorp",
+        "url": "https://open.spotify.com/album/4nbh9yi0MfNZfRgLTR66F4"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Domingos",
+          "url": "https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Grote Dromen, Klein Dorp",
+      "url": "https://open.spotify.com/track/0uqEpwCl4BHilst3RZmGTV"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Ik Denk Aan Jou",
         "url": "https://open.spotify.com/album/6zlSdwdzvjhV2jFo2vMeSb"
@@ -897,7 +1001,7 @@
       "url": "https://open.spotify.com/track/0WEVWA0uwMVFLFsYUvLsin"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Als Ik Mezelf Verdelen Kon",
         "url": "https://open.spotify.com/album/3UeJGVaVCk0YocAVPybptk"
@@ -913,39 +1017,7 @@
       "url": "https://open.spotify.com/track/3bTMN5CKwJm18Kx5nnq2wU"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Mijn Stad",
-        "url": "https://open.spotify.com/album/0dpAll3S247sdlkRXBGtrL"
-      },
-      "artists": [
-        {
-          "name": "Diggy Dex",
-          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
-        }
-      ],
-      "duration_ms": 182193,
-      "name": "Mijn Stad",
-      "url": "https://open.spotify.com/track/38BGAS5sGF07IDiQBe9TpO"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "NIELS",
-        "url": "https://open.spotify.com/album/55kSSo7UN20j1iM7uW80yO"
-      },
-      "artists": [
-        {
-          "name": "Nielson",
-          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Onderweg",
-      "url": "https://open.spotify.com/track/2q0ZsFK74e4eZskq758hE8"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Dansplaat",
         "url": "https://open.spotify.com/album/2nw1l5iN2YxAGmRwLhoJhE"
@@ -961,7 +1033,7 @@
       "url": "https://open.spotify.com/track/57EktM9Ekh0zIeVkRsWuou"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Samen Niets Doen",
         "url": "https://open.spotify.com/album/0RXtdtgH5L4SE5H6FVcA27"
@@ -977,7 +1049,7 @@
       "url": "https://open.spotify.com/track/2JdAWHy81J3bfqhpVSBpqE"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Eigen Weg",
         "url": "https://open.spotify.com/album/73AN0JXVr2eGgLp6rbVaL3"
@@ -993,7 +1065,7 @@
       "url": "https://open.spotify.com/track/2KPnl58uwUlx0wCRVOpZfj"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Wijze Woorden",
         "url": "https://open.spotify.com/album/0pOEH0NO9fj05LMjBAzEwG"
@@ -1009,7 +1081,7 @@
       "url": "https://open.spotify.com/track/1bWzMQ61eGySrjcQEX9TeS"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Aandacht",
         "url": "https://open.spotify.com/album/5cZlcZr3YI6t1IPD3dNfXM"
@@ -1025,7 +1097,7 @@
       "url": "https://open.spotify.com/track/2Ekj3qPq6UsiWbuhFZ0Ybu"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L"
@@ -1041,7 +1113,7 @@
       "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Hollywood",
         "url": "https://open.spotify.com/album/1lZ8TqetUhk5c2wrokdVNH"
@@ -1057,7 +1129,23 @@
       "url": "https://open.spotify.com/track/4qIYQGmFLOdifdUKRcz5sy"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Eenzaam Samen",
+        "url": "https://open.spotify.com/album/4WTBwa2BmjQFdFzuPHL2OY"
+      },
+      "artists": [
+        {
+          "name": "DAVE",
+          "url": "https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk"
+        }
+      ],
+      "duration_ms": 174936,
+      "name": "Eenzaam Samen",
+      "url": "https://open.spotify.com/track/5gAwwq5heHnzLpLIIFc4NF"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Dansen In Het Donker",
         "url": "https://open.spotify.com/album/6qXcyBnTbcX78WcGny0ZUI"
@@ -1073,39 +1161,7 @@
       "url": "https://open.spotify.com/track/0m0Q9ty4ISWgeYDuWqk3Ne"
     },
     {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Echte Meisjes Huilen Niet",
-        "url": "https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx"
-      },
-      "artists": [
-        {
-          "name": "Sigourney K",
-          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
-        }
-      ],
-      "duration_ms": 165855,
-      "name": "Als Ik Haar Was",
-      "url": "https://open.spotify.com/track/0mOdv3w3W9ZkAsTmlJ3rUs"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Dronken Van De Liefde",
-        "url": "https://open.spotify.com/album/1aN9aD9PDloTXKDFs33v1f"
-      },
-      "artists": [
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
-        }
-      ],
-      "duration_ms": 194654,
-      "name": "Dronken Van De Liefde",
-      "url": "https://open.spotify.com/track/0ArPL2xKFhG4oC2Pc4D4OQ"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
+      "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Wakker",
         "url": "https://open.spotify.com/album/1bEM1VmjCucrV6SRcN8PRL"
@@ -1119,22 +1175,6 @@
       "duration_ms": 139913,
       "name": "Wakker",
       "url": "https://open.spotify.com/track/3qD6YcX8EYahVoqfZyIzYC"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Elke Avond Feest",
-        "url": "https://open.spotify.com/album/4LjBa0yk1oYtaOlwrbSVcZ"
-      },
-      "artists": [
-        {
-          "name": "Pjotr",
-          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Elke Avond Feest",
-      "url": "https://open.spotify.com/track/2w1tIkkgJWKfSensaU0vXd"
     }
   ],
   "unique_name": "Je Moerstaal",

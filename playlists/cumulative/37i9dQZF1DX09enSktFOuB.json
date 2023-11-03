@@ -1418,10 +1418,32 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 281440,
       "name": "Rowdy Baby",
       "url": "https://open.spotify.com/track/2DIZaYKZQgykijd9g4SVd2"
+    },
+    {
+      "album": {
+        "name": "Maari 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5mly2tG8K6NL6KKSLSxgXC"
+      },
+      "artists": [
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281440,
+      "name": "Rowdy Baby",
+      "url": "https://open.spotify.com/track/3c6Y3iJr3bm6utsdRcm30J"
     },
     {
       "album": {

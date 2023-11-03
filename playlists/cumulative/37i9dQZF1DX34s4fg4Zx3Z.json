@@ -14405,6 +14405,24 @@
     },
     {
       "album": {
+        "name": "MY BLUE",
+        "url": "https://open.spotify.com/album/2G9cl9yda9Z1A7jATH5GcJ"
+      },
+      "artists": [
+        {
+          "name": "Kh\u1edd Band",
+          "url": "https://open.spotify.com/artist/1wIxLY0SfHN4TAHWLuBsj8"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "MY BLUE",
+      "url": "https://open.spotify.com/track/1Gb85GMryDJ6FA5Jtp3f9m"
+    },
+    {
+      "album": {
         "name": "My full-time You (M\u1ed9c)",
         "url": "https://open.spotify.com/album/5s3qz5kHog5DEFSqWW4ekY"
       },
@@ -22128,6 +22146,28 @@
       "duration_ms": 141041,
       "name": "To X\u00e1c",
       "url": "https://open.spotify.com/track/7gFPaknWxvimeh5aYEqSnz"
+    },
+    {
+      "album": {
+        "name": "Top List",
+        "url": "https://open.spotify.com/album/3kPFj4kpQp01MjvdHHEvyt"
+      },
+      "artists": [
+        {
+          "name": "7bizz",
+          "url": "https://open.spotify.com/artist/5g95n51OydueKR940xXqhG"
+        },
+        {
+          "name": "Nosiah",
+          "url": "https://open.spotify.com/artist/5VEpMspmRc0eGPemWUqPJc"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Top List",
+      "url": "https://open.spotify.com/track/1pJDNrUdD2RUel6Errx3Wz"
     },
     {
       "album": {

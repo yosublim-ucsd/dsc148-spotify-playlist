@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 
 > Chill, beachy tunes to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,516 likes - 86 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,510 likes - 86 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 46 | [One Day](https://open.spotify.com/track/3Vzj3XBPoC4wHvuOR39jD0) | [Josh Melton](https://open.spotify.com/artist/5l5SDQs2xyEidWQOw3ro6T) | [One Day](https://open.spotify.com/album/71dZ9LHhvH06KuSYoeRgJP) | 2:45 |
 | 47 | [Heartbreak Vacay](https://open.spotify.com/track/2atjfWN1RvUP7sIs93ARlu) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Tumbleweed](https://open.spotify.com/album/6WbrWfNoOk5Yc1cbAQiYwr) | 3:07 |
 | 48 | [Six\-Pack Summer](https://open.spotify.com/track/23qDMWnwf8p0pr5slljB6i) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Phil Vassar](https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC) | 3:39 |
-| 49 | [Sippin Sunsets](https://open.spotify.com/track/7x53fz8OrckHWplZdhEq5Z) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Woods & Water \- EP](https://open.spotify.com/album/6L1RBNcPOCMzd1ci4T0R5F) | 3:07 |
+| 49 | [Sippin Sunsets](https://open.spotify.com/track/32JbAcZc1xBalgHjThlFkA) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Woods & Water \- EP](https://open.spotify.com/album/3okoqJq5cGyGVooAOENhiO) | 3:07 |
 | 50 | [Classic](https://open.spotify.com/track/4Lme7Xwvc2y0cnP6sCb4HB) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 2:55 |
 | 51 | [Somewhere South Of Somehwere](https://open.spotify.com/track/6f2ggSagETMssioAvxFkH8) | [Eric Stone](https://open.spotify.com/artist/09w2nmrWDRCL0wtRqoNLdM) | [Long Boards & Short Stories](https://open.spotify.com/album/7aMN0Tg14y8OegdxlgROpZ) | 3:56 |
 | 52 | [Knew You](https://open.spotify.com/track/69j25FQbWRDxH8zOHP9jy0) | [Gone West](https://open.spotify.com/artist/1dIS2M2CNnqd2ks8Okqi7A) | [Canyons](https://open.spotify.com/album/4Zp5ixgdG9INHVGuuZfBZS) | 3:37 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 60 | [Settle Me Down](https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 2:57 |
 | 61 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 |
 | 62 | [Whiskey River \- Live in Las Vegas \- 1978](https://open.spotify.com/track/0yljBqwQl6U2fD4E8CIX87) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Greatest Hits \(& Some That Will Be\)](https://open.spotify.com/album/7oRkZF4ysrOnGThgSiUtUC) | 3:31 |
-| 63 | [Beach Boys](https://open.spotify.com/track/2ZuWXOOVsHFQodtdDo4WJq) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Woods & Water \- EP](https://open.spotify.com/album/6L1RBNcPOCMzd1ci4T0R5F) | 3:00 |
+| 63 | [Beach Boys](https://open.spotify.com/track/7qzEjStbreUSDwqW5Ggw4C) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Woods & Water \- EP](https://open.spotify.com/album/3okoqJq5cGyGVooAOENhiO) | 3:00 |
 | 64 | [Nowhere Fast](https://open.spotify.com/track/6arLnfArtdWKOcCYzDd4rS) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:08 |
 | 65 | [Down In Mexico](https://open.spotify.com/track/6cVqgJjPs02jyrCaEXBIHJ) | [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7) | [Judge Jerrod & The Hung Jury](https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9) | 3:12 |
 | 66 | [Flip\-Flop](https://open.spotify.com/track/4qR9r8NuaxvQvHf2AQ2jy8) | [Corey Smith](https://open.spotify.com/artist/2Da6v0shOpKrOG07ZxonXo) | [While The Gettin' Is Good](https://open.spotify.com/album/1GYdmYeRu7YWfBjM4rc5qD) | 3:18 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 85 | [Waves](https://open.spotify.com/track/1q3bxSdQF660hnNnNVtYwP) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [American Soul Summer \(Deluxe Edition\)](https://open.spotify.com/album/06PwRq6kGK8gE8mbu7yb6O) | 3:26 |
 | 86 | [Gettin' Down in a Pirate Town](https://open.spotify.com/track/0HbInFeaBStCiH4BJc6o1q) | [Jesse Rice](https://open.spotify.com/artist/053e8lWzA8BFhruid11TKQ) | [The Pirate Sessions](https://open.spotify.com/album/3AD64aLvBqR67GUefFM9Wj) | 4:16 |
 
-Snapshot ID: `MCwwMGZlY2UyODc4OTcwY2Y0MDFiYjFiMmFkMWIxYjRlYTQ2YWE5ZGI5`
+Snapshot ID: `MCxlYmM0MzI1YjgzNjI2YWRlYmYyOTkxMzFkNTcxMjE2YzVhNGY0Zjcy`

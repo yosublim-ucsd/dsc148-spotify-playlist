@@ -4,7 +4,7 @@
 
 > Your crush begins here, with the Malaysian pop artist's intimate vocals and the lush production of her most memorable tunes.
 
-91 songs - 5 hr 29 min
+92 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Gelora Jiwa](https://open.spotify.com/track/5L6GF1QgRVb7Ox1aTFdQ7B) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [P\. Ramlee : Satu Indiepretasi](https://open.spotify.com/album/3n3dlojrdjl8clhx3dT5lH) | 2:40 | 2023-04-27 |  |
 | [Girl U Used 2 Know](https://open.spotify.com/track/20CL5Ad8EQ5uIHLYZI6aZa) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y2](https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX) | 3:17 | 2023-04-27 |  |
 | [Glory](https://open.spotify.com/track/3Ku8Zc9cnCkKwvXs7qErVQ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Glory](https://open.spotify.com/album/51VWvFuTcJuqfvms0SLXQr) | 2:45 | 2023-10-19 |  |
-| [Gold \(feat\. Yuna\)](https://open.spotify.com/track/3wjen23Xb9H1kU4V50QyiZ) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Calling All Heroes](https://open.spotify.com/album/1gLPm1bWZFHv6ORBbEmQPM) | 4:17 | 2023-04-27 |  |
+| [Gold \(feat\. Yuna\)](https://open.spotify.com/track/31cX56mMJcLXaTJljNxsu7) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Calling All Heroes](https://open.spotify.com/album/3Wi7Mwc31hrN7WZCxKM9Ke) | 4:17 | 2023-10-19 |  |
+| [Gold \(feat\. Yuna\)](https://open.spotify.com/track/3wjen23Xb9H1kU4V50QyiZ) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Calling All Heroes](https://open.spotify.com/album/1gLPm1bWZFHv6ORBbEmQPM) | 4:17 | 2023-04-27 | 2023-11-03 |
 | [Hello](https://open.spotify.com/track/1Kob3GjOFd7jvgf3CV97i4) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 2:26 | 2023-04-27 |  |
 | [Hold On, We're Going Home](https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Spotify Sessions](https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv) | 4:26 | 2023-04-27 |  |
 | [I Wanna Go](https://open.spotify.com/track/0Ss4J4QHCkl0btHF5j9xvI) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Nocturnal \(Deluxe Edition\)](https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt) | 3:42 | 2023-04-27 |  |

@@ -4,7 +4,7 @@
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-179 songs - 11 hr 35 min
+180 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [The Time Is Now](https://open.spotify.com/track/2sUyLVp9ICIMSeDkVcjkr4) | [Asha Ali](https://open.spotify.com/artist/5sy9u3A2zgs5DjuQ6F46nl) | [Hurricane](https://open.spotify.com/album/4eqAzyhFABzlc7T7SiDbzy) | 2:29 | 2021-06-15 |  |
 | [The walker](https://open.spotify.com/track/5nTGyhsQmk8NHlg71ZEmmo) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chris](https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh) | 4:16 | 2021-06-15 |  |
 | [The Wheel](https://open.spotify.com/track/3yRrMtIXL3EIBqeSvP1wKy) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Wheel](https://open.spotify.com/album/5dGbZPmkAvG67JVwP5BNrg) | 5:38 | 2021-06-15 | 2022-07-29 |
-| [The Wheel](https://open.spotify.com/track/64klVekHE2PDDTHwUJlkyO) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/5nlzjzwM3elIoWvwbanrqL) | 5:38 | 2021-06-15 |  |
+| [The Wheel](https://open.spotify.com/track/64WR9GLtXe0YyRTLd2gGp2) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/22CKb3NPdYFF8TyIl6GodA) | 5:38 | 2021-06-15 |  |
+| [The Wheel](https://open.spotify.com/track/64klVekHE2PDDTHwUJlkyO) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/5nlzjzwM3elIoWvwbanrqL) | 5:38 | 2021-06-15 | 2023-11-03 |
 | [Till slutet av augusti](https://open.spotify.com/track/5m737LmWodZgXqJak2rJEy) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Till slutet av augusti](https://open.spotify.com/album/3vfpDINRI65m9b9EiiindO) | 3:51 | 2021-06-15 | 2022-07-29 |
 | [Till slutet av augusti](https://open.spotify.com/track/6SjgPcWa6UF2BzlVb26aRE) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Stark & Sårbar](https://open.spotify.com/album/3PovIEpFChoXvoR3AYFmkL) | 3:51 | 2021-06-15 |  |
 | [TKO](https://open.spotify.com/track/7KCvbMfHeYrBzK1HrZQt0N) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [This Island](https://open.spotify.com/album/2FEvlkKxysgljyanzduLFe) | 3:24 | 2021-06-15 |  |

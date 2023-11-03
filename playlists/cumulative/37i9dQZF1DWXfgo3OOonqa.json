@@ -2452,7 +2452,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 148000,
       "name": "BAD GIRL",
       "url": "https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54"
@@ -6530,7 +6530,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 134875,
       "name": "DUBAII",
       "url": "https://open.spotify.com/track/7dGv7x86XhEmsfY10C3B7R"
@@ -7304,6 +7304,24 @@
       "duration_ms": 121000,
       "name": "EXPLODERA",
       "url": "https://open.spotify.com/track/6DfI4m4RCt0i8rICQozCC0"
+    },
+    {
+      "album": {
+        "name": "SILENT HILLS",
+        "url": "https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149243,
+      "name": "EXTEND",
+      "url": "https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh"
     },
     {
       "album": {
@@ -8545,6 +8563,24 @@
     },
     {
       "album": {
+        "name": "Gangster V\u00e4rld",
+        "url": "https://open.spotify.com/album/3LIrW41gcm8QK5NQgEMk3e"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152932,
+      "name": "Gangster V\u00e4rld",
+      "url": "https://open.spotify.com/track/5tSRpvyQVqT3Ck97yNCVv8"
+    },
+    {
+      "album": {
         "name": "GANNI",
         "url": "https://open.spotify.com/album/3kcDXluFgXOsERNo46OYha"
       },
@@ -9448,6 +9484,24 @@
       "duration_ms": 156062,
       "name": "GUNS & ROSES",
       "url": "https://open.spotify.com/track/69ves9zWFHFQAmvHmWe4mS"
+    },
+    {
+      "album": {
+        "name": "Gunshot",
+        "url": "https://open.spotify.com/album/7rzjgy3pSkRs14krELHP8q"
+      },
+      "artists": [
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151840,
+      "name": "Gunshot",
+      "url": "https://open.spotify.com/track/7sdMVS0bIh2nk4uMonMDGp"
     },
     {
       "album": {
@@ -11046,6 +11100,28 @@
       "duration_ms": 180500,
       "name": "INGEN ID\u00c9",
       "url": "https://open.spotify.com/track/6cl1cSwehprTTZZu8TVBBK"
+    },
+    {
+      "album": {
+        "name": "Ingen K\u00e4rlek (feat. AKI)",
+        "url": "https://open.spotify.com/album/2lLUIK6APMajG3BiibmcyB"
+      },
+      "artists": [
+        {
+          "name": "Ivory",
+          "url": "https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD"
+        },
+        {
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236678,
+      "name": "Ingen K\u00e4rlek (feat. AKI)",
+      "url": "https://open.spotify.com/track/2TMv7Ty2fXZkRul61HYzZP"
     },
     {
       "album": {
@@ -12928,7 +13004,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 146861,
       "name": "Landa (feat. Youzie)",
       "url": "https://open.spotify.com/track/4QoeXPLir8Sf7lhlHgy9nn"
@@ -15122,7 +15198,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 124811,
       "name": "MELANIE",
       "url": "https://open.spotify.com/track/58MEIUCpABGpE7dsRyMG8R"
@@ -19198,7 +19274,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 142921,
       "name": "SAFARI",
       "url": "https://open.spotify.com/track/3TJm53n5DqltPYnn8UYquo"
@@ -21945,6 +22021,28 @@
     },
     {
       "album": {
+        "name": "Tankel\u00e4sare",
+        "url": "https://open.spotify.com/album/4j9YYgeFwMvqqJu2aqD4cE"
+      },
+      "artists": [
+        {
+          "name": "Mohel\u00e1",
+          "url": "https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ"
+        },
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152520,
+      "name": "Tankel\u00e4sare",
+      "url": "https://open.spotify.com/track/3nXO1cHKMqN5ZquWUehUNn"
+    },
+    {
+      "album": {
         "name": "Tappat - Spotify Singles",
         "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
       },
@@ -24002,7 +24100,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 192586,
       "name": "Vibe Check",
       "url": "https://open.spotify.com/track/3b7YMGle84C9SLNmJC6dz0"
@@ -25080,7 +25178,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 116500,
       "name": "Zinah",
       "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
@@ -25376,6 +25474,24 @@
       "duration_ms": 199213,
       "name": "\u00d6ppet Hav (feat. Sandra Isabel)",
       "url": "https://open.spotify.com/track/5UJmZgbI0jAEbNj6TzEiPk"
+    },
+    {
+      "album": {
+        "name": "\u00d6verallt",
+        "url": "https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125092,
+      "name": "\u00d6verallt",
+      "url": "https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa"

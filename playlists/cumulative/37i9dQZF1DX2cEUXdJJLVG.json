@@ -4049,6 +4049,24 @@
     },
     {
       "album": {
+        "name": "Muted Chaos.",
+        "url": "https://open.spotify.com/album/4y17DEPHYBNF1zBqRVOnHn"
+      },
+      "artists": [
+        {
+          "name": "Lyna",
+          "url": "https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156346,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/3ynvh5EnUmMKDXQ98qcynE"
+    },
+    {
+      "album": {
         "name": "Quick (KMB Remix)",
         "url": "https://open.spotify.com/album/2HtN4tqKu45q1cey2qEZVs"
       },

@@ -4,7 +4,7 @@
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-162 songs - 8 hr 50 min
+163 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2021-12-17 | 2023-10-28 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 2:01 | 2023-10-27 |  |
 | [How Christmas Is Supposed To Be \(feat\. Sheridan Smith\)](https://open.spotify.com/track/3zw1izLVNY4kWcIyrRULeM) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB), [Sheridan Smith](https://open.spotify.com/artist/2x1Bwuwa2yM1Tnxb8Lj6BE) | [The Dream of Christmas](https://open.spotify.com/album/1JcDlQRrS0E3EgnxLs27SD) | 2:39 | 2021-12-17 | 2023-10-28 |
-| [I Believe in Father Christmas \- 2017 \- Remaster](https://open.spotify.com/track/3S912b5gdxMeZyGeNEgS0H) | [Greg Lake](https://open.spotify.com/artist/6Uw88LgaxdanDItfR0JyJ8) | [The Anthology: A Musical Journey](https://open.spotify.com/album/43VmZUbMrvwyENjNIDtsnr) | 3:33 | 2023-10-27 |  |
+| [I Believe in Father Christmas](https://open.spotify.com/track/096SOCaNvutZ2JZoyS2zEu) | [Greg Lake](https://open.spotify.com/artist/6Uw88LgaxdanDItfR0JyJ8) | [I Believe in Father Christmas](https://open.spotify.com/album/0KgHRky9j8HbAUcKqBQ9bC) | 3:32 | 2023-10-27 |  |
+| [I Believe in Father Christmas \- 2017 \- Remaster](https://open.spotify.com/track/3S912b5gdxMeZyGeNEgS0H) | [Greg Lake](https://open.spotify.com/artist/6Uw88LgaxdanDItfR0JyJ8) | [The Anthology: A Musical Journey](https://open.spotify.com/album/43VmZUbMrvwyENjNIDtsnr) | 3:33 | 2023-10-27 | 2023-11-03 |
 | [I Need You Christmas](https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Need You Christmas](https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR) | 3:26 | 2021-12-17 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/15sxLiiChE5dCW3Y756oas) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 3:01 | 2021-12-17 | 2023-10-28 |
 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw) | [Wizzard](https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9) | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/album/1xYecZKOZdxIuTQN4AuAwB) | 4:38 | 2023-10-27 |  |

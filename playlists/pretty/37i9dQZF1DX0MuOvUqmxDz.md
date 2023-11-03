@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Jon Pardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,243 likes - 145 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,578 likes - 145 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 12 | [Up on the House Top](https://open.spotify.com/track/5p3UXnTGlYfXVZZxydTDBE) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Cheers, It's Christmas \(Super Deluxe\)](https://open.spotify.com/album/7BKMLhbGps9SDjUh8FEv8o) | 2:16 |
 | 13 | [Snow Day](https://open.spotify.com/track/0L3gQfMRW4TzEQzfln36bi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Snow Day](https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH) | 3:54 |
 | 14 | [Holiday Party](https://open.spotify.com/track/2ZiKXOsDvx9TfXIJT5cZGN) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Holiday Party](https://open.spotify.com/album/6KqZkIWf9uZAPTgH46kYx1) | 3:01 |
-| 15 | [Let It Snow](https://open.spotify.com/track/2jPq4RYw0mBadzf7j3RbGD) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [When I Think About Christmas \- EP](https://open.spotify.com/album/3gQH1Pi2337CdgM0PTbRMU) | 2:30 |
+| 15 | [Let It Snow](https://open.spotify.com/track/1vJ2OwQnaNWQGetZLelR4W) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [When I Think About Christmas \- EP](https://open.spotify.com/album/1E3LaJGrYDcOq8lJPMdfQL) | 2:30 |
 | 16 | [Silent Night](https://open.spotify.com/track/7HBmrReofkxO9KDO6sbSm5) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Silent Night](https://open.spotify.com/album/4lheGEwVpC3xndThCo8WAw) | 3:28 |
 | 17 | [Wonderful Christmastime](https://open.spotify.com/track/4hgiStykWNbJeVElAMW4EB) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 3:20 |
 | 18 | [Jingle Bell Rock](https://open.spotify.com/track/3o5IChTvWMLHXkmnlSYI5z) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Merry Christmas](https://open.spotify.com/album/3KsQbPCs61bAcBIOxfkF5Z) | 2:13 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 84 | [White Christmas](https://open.spotify.com/track/0uPBihPWZPl0XiADiOcBQP) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [White Christmas](https://open.spotify.com/album/5dxVKXSgN5yL67wrJblFaU) | 2:53 |
 | 85 | [Please Come Home for Christmas](https://open.spotify.com/track/2PjMTWirUB90kmUHvN1gBH) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Rodney Good](https://open.spotify.com/artist/7cgtMzLMFaAQETR9PAL4ct) | [Please Come Home for Christmas \(feat\. Rodney Good\)](https://open.spotify.com/album/6q72QzOdroMd0CXaO7Bdl4) | 3:08 |
 | 86 | [Christmas Is Callin'](https://open.spotify.com/track/1qa6RHKpSVgbPoGza7jamE) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [Christmas Is Callin'](https://open.spotify.com/album/0bI7skSjXwOH5BAsfR9sgF) | 3:04 |
-| 87 | [Christmas Cookies](https://open.spotify.com/track/6dbIeqnVh8nlccrQYdpbGE) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Christmas Cookies](https://open.spotify.com/album/39lVCJJRvz4FQ3ASPL1MiF) | 3:18 |
+| 87 | [Christmas Cookies](https://open.spotify.com/track/5NixsLdtwMfknbheXQVxim) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Christmas Cookies](https://open.spotify.com/album/0dnoi9VVLLN22DtSffkRFH) | 3:18 |
 | 88 | [Don't Hang The Mistletoe](https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Don't Hang The Mistletoe](https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l) | 3:17 |
 | 89 | [Lit This Year](https://open.spotify.com/track/2xXCYeiWBTy1h829foY6i1) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lit This Year](https://open.spotify.com/album/1MB1B1dk8AVBi9zTEipTpY) | 2:46 |
 | 90 | [Last Christmas](https://open.spotify.com/track/1rjkF4o8AgUCGU4Ld2qoQO) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [Last Christmas](https://open.spotify.com/album/0OoWfSfWhsEscpmHvrCx3b) | 3:11 |
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 129 | [Holly Jolly Christmas](https://open.spotify.com/track/3RToWSH2mkKq8QfI8bgMH3) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Cheers, It's Christmas \(Super Deluxe\)](https://open.spotify.com/album/7BKMLhbGps9SDjUh8FEv8o) | 2:11 |
 | 130 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/56s8ABk1WrAOHqkCjHpOlK) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4tb0hEqZZIGZjlqXT5UtAT) | 3:31 |
 | 131 | [Christmas All Over The World](https://open.spotify.com/track/2B2SBcM4e3Uzaav5GVhQY9) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Christmas All Over The World](https://open.spotify.com/album/7FSO75sI5gwkJGZyXK0aVM) | 2:46 |
-| 132 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/3hrl7X2gSOJtTrK8qFpPHF) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/2GaVIPbClrBg756B7NZret) | 3:06 |
+| 132 | [It’s Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/23LgVlL6cmRcyVG1xYELpG) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [It’s Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/5gHnrmivfRUXu9F81lFfcs) | 3:06 |
 | 133 | [Please Come Home for Christmas](https://open.spotify.com/track/3erD4D2cnLEYBONELTB67b) | [Matt Jordan](https://open.spotify.com/artist/42o4AcPbHwxBYJm1MK7OqC) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4NYMQcKmbNuaEkNlh7CAyy) | 3:08 |
 | 134 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [A Classic Christmas](https://open.spotify.com/album/5zPiyi6NAqHkuETPjhBHW1) | 2:33 |
 | 135 | [Wrapped](https://open.spotify.com/track/7mlkzuYpPC87TIpm3sLONF) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Jill Martin](https://open.spotify.com/artist/00TkpFjKsYMMdOUorf4L0E) | [Wrapped](https://open.spotify.com/album/1GzJpu40IWrcHNMt6lgHIu) | 3:08 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 144 | [Mary, Did You Know?](https://open.spotify.com/track/7ymcpXgVeTPd9W2desgjdZ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Mary, Did You Know?](https://open.spotify.com/album/2jtvfB4GlsYu2TjyoSmEzs) | 4:04 |
 | 145 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 |
 
-Snapshot ID: `MCwyYWJkYzU0ZmI0MDY2NGFiYTA2NmI5MmQ3Yzc4ZmZjMTcyYzU2M2M5`
+Snapshot ID: `MCw0YTJlMjYwMjJlMDk3NmQxMzA1NDdlMzcwYWQ2Y2U1ODNmNzZjNmQz`

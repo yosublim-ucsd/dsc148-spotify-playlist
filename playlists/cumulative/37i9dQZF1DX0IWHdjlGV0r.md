@@ -4,7 +4,7 @@
 
 > Certi amori bruciano di più\. Cover: Tedua
 
-142 songs - 7 hr 21 min
+143 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [MONDAY \(feat\. Shiva & Michelangelo\)](https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:45 | 2023-01-05 |  |
 | [MUJER](https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV) | 2:41 | 2022-08-22 |  |
 | [MUJER](https://open.spotify.com/track/6LHw9ZjMZ2VGW2AbSABBO4) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:41 | 2022-11-07 | 2022-11-19 |
+| [MY LOVE SONG 2 \(feat\. Coez & Frah Quintale\)](https://open.spotify.com/track/3ySS2RpQNWsN5T88sfilZb) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 2:54 | 2023-11-02 |  |
 | [Nessuno](https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Nessuno](https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt) | 3:07 | 2023-02-01 | 2023-07-01 |
 | [Niente Canzoni D'Amore \- Inedito](https://open.spotify.com/track/71Fyq3SgH24mrUAKrLECD4) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Status \(Vendetta Edition\)](https://open.spotify.com/album/4xzpCepiaf3oQaywSGqcGV) | 3:46 | 2022-07-28 |  |
 | [Niente Canzoni D'Amore \- Inedito](https://open.spotify.com/track/7hU472c8I9LjnQ6Ixf9RFE) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Tik Tock Summer Hits](https://open.spotify.com/album/70mmj1dywKdD7yoJ75MwOf) | 3:46 | 2022-11-07 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: The Veronicas
 
-502 songs - 1 day 3 hr 5 min
+505 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Arizona](https://open.spotify.com/track/1mY2tkkszwkFccupfkOXe5) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Arizona](https://open.spotify.com/album/0t7Jb4Pk8yl7811JG5Khgg) | 2:57 | 2022-02-03 | 2022-04-06 |
 | [Arrived](https://open.spotify.com/track/0kT06I5dLlP64u7kloklLS) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Arrived](https://open.spotify.com/album/48MYOEQZ33MT69BNB3DuBY) | 3:42 | 2023-05-31 | 2023-09-01 |
 | [Astral Projection](https://open.spotify.com/track/4Pg6eqgANtv5uZiUYkH9NX) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Astral Projection](https://open.spotify.com/album/1eDcD5cHvzCPcSuB9GdB06) | 3:52 | 2022-04-05 | 2022-05-28 |
+| [Baby Don't Fight It](https://open.spotify.com/track/6KgVaUmyv6CFjb9ZjXVQkV) | [Asha Jefferies](https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg) | [Baby Don't Fight It](https://open.spotify.com/album/5sgqCZRIWkjKAvo8qiZvkd) | 3:47 | 2023-10-31 |  |
 | [Baby Mama](https://open.spotify.com/track/273vdzfgPWUOKEzgcZb0tt) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO) | [Baby Mama](https://open.spotify.com/album/0pT6T1yjiHVl9JG41Br9n0) | 3:34 | 2023-05-12 |  |
 | [Back To Your Heart](https://open.spotify.com/track/6t0HlyysZGmCCj1yNgZT7W) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Back To Your Heart](https://open.spotify.com/album/4melEKaCbMfBiFl22B2elc) | 3:15 | 2023-08-15 |  |
 | [Backbone](https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Backbone](https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa) | 3:00 | 2023-06-30 |  |
@@ -43,6 +44,7 @@
 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 | 2022-02-03 | 2022-07-29 |
 | [bedrooms](https://open.spotify.com/track/1BwdbkKjJbpl0Abl1pWmkW) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [bye my bed](https://open.spotify.com/album/3HZ3weZFMBLxZoiokjgSlv) | 3:16 | 2023-03-31 | 2023-10-01 |
 | [Before I Met You](https://open.spotify.com/track/4Mq47WHb5jawIRZR1v3nFz) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Before I Met You](https://open.spotify.com/album/5Ey3VOt56tiLcuBptMkvP1) | 3:08 | 2022-02-03 | 2022-03-07 |
+| [Best You Ever Had](https://open.spotify.com/track/2NwttTTC9PXdnIOXggpzEk) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Best You Ever Had](https://open.spotify.com/album/0vL34mO5klplb791wYYGbK) | 2:47 | 2023-10-31 |  |
 | [Better By Myself](https://open.spotify.com/track/1dKMFUiwghUpGsUqAxUgFJ) | [LARA D](https://open.spotify.com/artist/1QyZxZlQBACv0338oNgmjC) | [Better By Myself](https://open.spotify.com/album/4V0RDhDvoucji5Xi6dTH73) | 3:11 | 2022-05-27 | 2023-03-01 |
 | [Bigger](https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Bigger](https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl) | 3:18 | 2023-09-19 |  |
 | [Black Cloud](https://open.spotify.com/track/4tBehUVhRGqIUb3rTI9x8h) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Black Cloud](https://open.spotify.com/album/48ukfFIb3SBlV0RHTMohSr) | 3:14 | 2022-07-03 | 2022-07-29 |
@@ -481,6 +483,7 @@
 | [UP!](https://open.spotify.com/track/6pxSZ1zNjsrAQRBvVk5H5f) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [NEVER AGAIN!](https://open.spotify.com/album/1faeXEYCz0R4mExwxspGy6) | 3:01 | 2023-07-03 |  |
 | [Ur So Annoying](https://open.spotify.com/track/0qwsNyrQFx5hXt9mxmOHzw) | [Jupita](https://open.spotify.com/artist/20dEUQqgrMGEybe0K79QpF) | [Ur So Annoying](https://open.spotify.com/album/3ameCWDwidBX4sVAmbahMc) | 2:38 | 2022-07-31 | 2023-05-01 |
 | [vivienne](https://open.spotify.com/track/3oJ60hM1u2rJLMz7s6fUwS) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [growing pains](https://open.spotify.com/album/4ydL1OENIYGUlgTWDpUcs5) | 3:12 | 2022-02-03 | 2022-08-01 |
+| [Wait](https://open.spotify.com/track/6u4DSrgxLXATEgwZSaaQHI) | [Heleina Zara](https://open.spotify.com/artist/4o5FaQ8rUj73klMevMPTEF) | [Wait](https://open.spotify.com/album/5I0MDswOJzuRHkLy98b30O) | 3:11 | 2023-10-31 |  |
 | [Waiting Game](https://open.spotify.com/track/0wwoNSM5DmYtlm2d3SFsv4) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Morning Sun EP](https://open.spotify.com/album/36SkaBEql9AE8tof9cD8bC) | 4:00 | 2023-01-31 | 2023-09-01 |
 | [Wasting Away](https://open.spotify.com/track/0rJ0SYEc5UGjgQuDFozKer) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Wasting Away](https://open.spotify.com/album/0fpzU9fJOvKBQkMm6TAU7g) | 2:44 | 2023-08-15 |  |
 | [Way I Go](https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq) | 4:07 | 2022-07-03 | 2023-03-01 |

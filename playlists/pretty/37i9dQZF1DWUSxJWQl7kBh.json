@@ -1,12 +1,12 @@
 {
   "description": "C\u00e1lmese, pa, ac\u00e1 est\u00e1n los corridos m\u00e1s placosos del 2022. Luis R Conriquez en portada.",
-  "num_followers": 61733,
+  "num_followers": 61775,
   "original_name": "Lo Mejor de Corridos Perrones 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTI2ZWMwNDM2NmJkNmY0YjE0Y2U2NjZjYTE0YjA1OWUwNDU5ZDg4",
+  "snapshot_id": "MCxkNjQ0MmU0ZGU1YzRkYmEyZmY3MGFmOTI3NmY5YTZhYzNjYzk3N2M4",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -595,6 +595,26 @@
       "duration_ms": 154760,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Vamos Para Arriba",
+        "url": "https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 172227,
+      "name": "Vamos Para Arriba",
+      "url": "https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH"
     },
     {
       "added_at": "2022-11-30 13:45:00",

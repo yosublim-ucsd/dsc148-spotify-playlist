@@ -1664,7 +1664,7 @@
     {
       "album": {
         "name": "Remember That You Will Die",
-        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
+        "url": "https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw"
       },
       "artists": [
         {
@@ -1675,6 +1675,24 @@
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 242693,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/07QlP7twNI81IsqhKLFiER"
+    },
+    {
+      "album": {
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
       "duration_ms": 242693,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/1W5zSvAeIXlw6odInPE4m5"

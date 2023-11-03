@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: MilleniumKid, JBS",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Levin Liam, Miksu / Macloud",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 115467,
       "name": "Alle Farben",
       "url": "https://open.spotify.com/track/3YGE4ji9cuQOpnPtCoNUYl"
@@ -970,6 +970,24 @@
       "duration_ms": 172081,
       "name": "Bitterlemon",
       "url": "https://open.spotify.com/track/3MQXzVtLzCaLaScZpq9c6O"
+    },
+    {
+      "album": {
+        "name": "BLa*_*",
+        "url": "https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK"
+      },
+      "artists": [
+        {
+          "name": "futurebae",
+          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "BLa*_*",
+      "url": "https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb"
     },
     {
       "album": {
@@ -2163,6 +2181,28 @@
     },
     {
       "album": {
+        "name": "Es regnet Hirn (feat. Paula Carolina)",
+        "url": "https://open.spotify.com/album/0ip66XV3S8XeOHlqymdX0M"
+      },
+      "artists": [
+        {
+          "name": "OK KID",
+          "url": "https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK"
+        },
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194746,
+      "name": "Es regnet Hirn (feat. Paula Carolina)",
+      "url": "https://open.spotify.com/track/02Y7L1qY9Z771QO2w3ubgk"
+    },
+    {
+      "album": {
         "name": "Etwas Neues Beginnt",
         "url": "https://open.spotify.com/album/6ccUBn5gB1wqIS5KfRqaSG"
       },
@@ -3340,7 +3380,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 146347,
       "name": "Immer Noch Wach",
       "url": "https://open.spotify.com/track/4fhxUNlBCZIr3dw0nU366l"
@@ -4157,6 +4197,24 @@
     },
     {
       "album": {
+        "name": "Liebe Gr\u00fc\u00dfe",
+        "url": "https://open.spotify.com/album/6L16lSz9FFaDxv1wm3SQPL"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135050,
+      "name": "Liebe Gr\u00fc\u00dfe",
+      "url": "https://open.spotify.com/track/2490ZIWKhabJ0or3Dor2xC"
+    },
+    {
+      "album": {
         "name": "Liebe zu dritt",
         "url": "https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F"
       },
@@ -4574,6 +4632,28 @@
       "duration_ms": 108111,
       "name": "mir gef\u00e4llt",
       "url": "https://open.spotify.com/track/1j6LYk5ABAgTTswEKDnhn6"
+    },
+    {
+      "album": {
+        "name": "neue Ufer",
+        "url": "https://open.spotify.com/album/3N8crEw8JtGzowNGxs1MMg"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143786,
+      "name": "mir geht es gut",
+      "url": "https://open.spotify.com/track/08RtIVSkaKZWvFaGJqKb9o"
     },
     {
       "album": {
@@ -5004,7 +5084,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 185680,
       "name": "Nur ein Wort",
       "url": "https://open.spotify.com/track/3Hj12TRBTOBkbBnNpAKe6S"
@@ -6800,7 +6880,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"

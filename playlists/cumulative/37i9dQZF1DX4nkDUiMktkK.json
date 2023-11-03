@@ -1175,6 +1175,42 @@
     },
     {
       "album": {
+        "name": "If U Need It",
+        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "If U Need It",
+      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
+    },
+    {
+      "album": {
+        "name": "In The Dark (Radio Edit)",
+        "url": "https://open.spotify.com/album/6ysAW4tBFasQqJaT7fcZdy"
+      },
+      "artists": [
+        {
+          "name": "UNREFINED",
+          "url": "https://open.spotify.com/artist/0WLgZ6t9LyYpHU8Rpnf6av"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157504,
+      "name": "In The Dark - Radio Edit",
+      "url": "https://open.spotify.com/track/4Gb2ic3lEMSnp5GLZXK8uC"
+    },
+    {
+      "album": {
         "name": "IN2 THE SUCC / 30TH CENTURY STUNTMAN",
         "url": "https://open.spotify.com/album/59QiCCjSDmHpO6HRYegjfg"
       },
@@ -1248,6 +1284,24 @@
       "duration_ms": 147401,
       "name": "Jam Inside Your Love (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
+    },
+    {
+      "album": {
+        "name": "Cult Classics",
+        "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317022,
+      "name": "JOY (Breathe Into Me)",
+      "url": "https://open.spotify.com/track/56YsW4QgEEvoUGZPw4ypr6"
     },
     {
       "album": {

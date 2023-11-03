@@ -4,7 +4,7 @@
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-76 songs - 5 hr 35 min
+77 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [The Dawning Of The Day](https://open.spotify.com/track/6oPtLViyL7vkziMsRdB4XA) | [Tommy Makem & Liam Clancy](https://open.spotify.com/artist/4IJmCHcG1RFC3DubtKa7Df) | [Two For The Early Dew](https://open.spotify.com/album/4iAYVCqABXnXtWmtkXQP12) | 4:03 | 2021-10-12 | 2022-07-29 |
 | [The Drunken Piper](https://open.spotify.com/track/6mzc23YAqeS8mICSUPeSL1) | [Natalie MacMaster](https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t) | [No Boundaries](https://open.spotify.com/album/6wHE2gbW5WOqbP8z9EOk50) | 4:13 | 2021-10-12 | 2022-03-08 |
 | [The Foggy Dew \(with Sinéad O'Connor\)](https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Essential Chieftains](https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G) | 5:20 | 2021-10-12 |  |
-| [The Galway Shawl](https://open.spotify.com/track/7k2sBfuyCLSUJbh54ZJc0x) | [Finbar Furey](https://open.spotify.com/artist/72qs8dHxUfn7lB9cYxQvIF) | [Don't Stop This Now](https://open.spotify.com/album/7rm9I9D4c2wtu9UXNDt7uu) | 4:30 | 2021-10-12 |  |
+| [The Galway Shawl](https://open.spotify.com/track/70mDnCxtlUnSmU1vV0mBIG) | [Finbar Furey](https://open.spotify.com/artist/72qs8dHxUfn7lB9cYxQvIF) | [Paddy Dear](https://open.spotify.com/album/3nf6RA6rCSk0pwxN0hLTX0) | 4:29 | 2023-08-31 |  |
+| [The Galway Shawl](https://open.spotify.com/track/7k2sBfuyCLSUJbh54ZJc0x) | [Finbar Furey](https://open.spotify.com/artist/72qs8dHxUfn7lB9cYxQvIF) | [Don't Stop This Now](https://open.spotify.com/album/7rm9I9D4c2wtu9UXNDt7uu) | 4:30 | 2021-10-12 | 2023-11-03 |
 | [The Green Fields Of France](https://open.spotify.com/track/6VQMWNYjOxkMgjUF7gXYuv) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz) | [Live! With Robbie O'Connell](https://open.spotify.com/album/1HoOhtavRMJLh55InkUoFp) | 6:25 | 2021-10-12 |  |
 | [The Hare's Lament](https://open.spotify.com/track/3tMmflxTcp1ZqCjPeKacm7) | [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [The Hare's Lament](https://open.spotify.com/album/1I5bxEzJcGz5kSbMtt1J8M) | 5:01 | 2021-10-12 | 2022-07-29 |
 | [The Hare's Lament](https://open.spotify.com/track/769ARx8o2suNcwb2ZSdrTx) | [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [The Hare's Lament](https://open.spotify.com/album/7tqkCaZGNYuuwal605OU4W) | 5:01 | 2022-03-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Fue durante los '70 que el Rock se manifest\u00f3 como un gigante a nivel mundial. Argentina no fue la excepci\u00f3n.  Foto: <a href=\"spotify:artist:10vtHOCA3qPLmrGylgO2F1\">Manal</a>",
-  "num_followers": 37672,
+  "num_followers": 37694,
   "original_name": "Esp\u00edritu Setentista",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTIxZDU5MWJjODY4N2MxNzEyMjBjZGI4MDYyYzc1ZWU5YjU5YjNk",
+  "snapshot_id": "MCxlMzNhZTRjZTA0NjgxZDllMDM5ODZjNDM5MTRmZDhjZWIwNWNkMTRj",
   "tracks": [
     {
       "added_at": "2020-02-26 16:25:22",
@@ -603,18 +603,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Alma y Vida, Vol. 2",
-        "url": "https://open.spotify.com/album/7MHEzCpcFrBeVBaqzM6cSl"
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
       },
       "artists": [
         {
-          "name": "Alma Y Vida",
-          "url": "https://open.spotify.com/artist/6Qv7PzO62iPNtE9jNTPGDG"
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
         }
       ],
-      "duration_ms": 165826,
-      "name": "Hoy Te Queremos Cantar",
-      "url": "https://open.spotify.com/track/6O036ngVof8dIfCILsJkVv"
+      "duration_ms": 287602,
+      "name": "Apocalipsis",
+      "url": "https://open.spotify.com/track/1BOrWWE3wANOCYFn6p2Z9Y"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -635,18 +635,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "La Biblia",
-        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
+        "name": "Alma y Vida, Vol. 2",
+        "url": "https://open.spotify.com/album/7MHEzCpcFrBeVBaqzM6cSl"
       },
       "artists": [
         {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+          "name": "Alma Y Vida",
+          "url": "https://open.spotify.com/artist/6Qv7PzO62iPNtE9jNTPGDG"
         }
       ],
-      "duration_ms": 287602,
-      "name": "Apocalipsis",
-      "url": "https://open.spotify.com/track/1BOrWWE3wANOCYFn6p2Z9Y"
+      "duration_ms": 165826,
+      "name": "Hoy Te Queremos Cantar",
+      "url": "https://open.spotify.com/track/6O036ngVof8dIfCILsJkVv"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -695,6 +695,22 @@
       "duration_ms": 333680,
       "name": "Avellaneda Blues",
       "url": "https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Pappo's Blues, Vol. 3",
+        "url": "https://open.spotify.com/album/1F3hULFzB7JebCft7dcdBq"
+      },
+      "artists": [
+        {
+          "name": "Pappo's Blues",
+          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
+        }
+      ],
+      "duration_ms": 275386,
+      "name": "Sucio y Desprolijo",
+      "url": "https://open.spotify.com/track/4gyVO49rTCm0JsSbKMqSxX"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -763,22 +779,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Pappo's Blues, Vol. 3",
-        "url": "https://open.spotify.com/album/1F3hULFzB7JebCft7dcdBq"
-      },
-      "artists": [
-        {
-          "name": "Pappo's Blues",
-          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
-        }
-      ],
-      "duration_ms": 275386,
-      "name": "Sucio y Desprolijo",
-      "url": "https://open.spotify.com/track/4gyVO49rTCm0JsSbKMqSxX"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "David Lebon",
         "url": "https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC"
       },
@@ -811,6 +811,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "La Cofrad\u00eda De La Flor Solar",
+        "url": "https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR"
+      },
+      "artists": [
+        {
+          "name": "La Cofradia De La Flor Solar",
+          "url": "https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL"
+        }
+      ],
+      "duration_ms": 266373,
+      "name": "Se Ama O No Se Ama",
+      "url": "https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "El Reloj",
         "url": "https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 603400,
       "name": "Los Delirios del Mariscal",
       "url": "https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "La Cofrad\u00eda De La Flor Solar",
-        "url": "https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR"
-      },
-      "artists": [
-        {
-          "name": "La Cofradia De La Flor Solar",
-          "url": "https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL"
-        }
-      ],
-      "duration_ms": 266373,
-      "name": "Se Ama O No Se Ama",
-      "url": "https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp"
     },
     {
       "added_at": "2020-02-26 16:25:22",

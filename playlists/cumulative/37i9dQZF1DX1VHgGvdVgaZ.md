@@ -4,7 +4,7 @@
 
 > Instrumental selections from the South Indian school of music.
 
-93 songs - 13 hr 7 min
+94 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Vatapi](https://open.spotify.com/track/3ueUcNFfUdJ4XOxj37kMPF) | [V\. Suresh](https://open.spotify.com/artist/5dcj5w7ahDaUiWowdmWgz3), [Thiruvarur Bhakthavatsalam](https://open.spotify.com/artist/7Lta3ZmXgUdhk7xDt8u7Fo), [Kadri Gopalnath](https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7) | [Chidanandam \- Kadri Gopalnath Live At Chidambaram](https://open.spotify.com/album/1JHSxQFXD7be6oUDHYkN1b) | 16:01 | 2021-06-28 | 2022-07-29 |
 | [Vatapi \- Hamsadwani \- Adi \- Live](https://open.spotify.com/track/5JIjifK1fZKvP4BOn1z0ne) | [Kadri Gopalnath](https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7) | [Chidanandam \(Live at Chidambaram Shri Sabapathy Sangeetha Gana Sabha\)](https://open.spotify.com/album/7wdgbeOHDPqQkftzkzphp2) | 16:01 | 2022-07-07 |  |
 | [Vatapi Ganapatim](https://open.spotify.com/track/3GSHnnCFu28vxM0U6Qlo58) | [Seeta Doraiswamy](https://open.spotify.com/artist/2YK2xknkAWg9Rcvj2BOxfl) | [Rough Guide: India](https://open.spotify.com/album/1Z01ea8INj9J3Sm2gNqzSc) | 5:35 | 2021-06-28 | 2022-07-29 |
-| [Vatapiganapatim](https://open.spotify.com/track/05c2F9UMy7TbfZc6Ws47ee) | [Raghunath Manet](https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq) | [Yal Isai](https://open.spotify.com/album/5oJkt1OCl9ko0nEpY7jjW1) | 11:19 | 2022-07-07 |  |
+| [Vatapiganapatim](https://open.spotify.com/track/05c2F9UMy7TbfZc6Ws47ee) | [Raghunath Manet](https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq) | [Yal Isai](https://open.spotify.com/album/5oJkt1OCl9ko0nEpY7jjW1) | 11:19 | 2022-07-07 | 2023-11-03 |
+| [Vatapiganapatim](https://open.spotify.com/track/5DdOYylQU9Y9ErAExTlTYo) | [Raghunath Manet](https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq) | [Yal Isai](https://open.spotify.com/album/1feLE8ZNVHpIXb3ZYTOiNK) | 11:19 | 2022-07-07 |  |
 | [Vatapiganapatim \- Hamsadhwani \- Adi](https://open.spotify.com/track/1LlblRoa8Tq4WEuG5O2nVG) | [Raghunath Manet](https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq), [Umayalpuram K\. Sivaraman](https://open.spotify.com/artist/6DeWClYw2sFmW2UMltys8Q), [Subba Lakshmi](https://open.spotify.com/artist/1IP82ozdzN3GO1RIWWAHFG) | [Yal Isai](https://open.spotify.com/album/3ESl4FTRUz4g5aBltmp768) | 11:19 | 2021-06-28 | 2022-07-29 |
 | [Vathapi \- Hamsadwani \- Adi](https://open.spotify.com/track/64LBObUGInjuCrGp0BdJUa) | [Trichy L\. Saravanan](https://open.spotify.com/artist/12mWZaSpnV5tGqrdARybD2) | [Classical Flute Collections](https://open.spotify.com/album/2DFUYQeIfWSYgNGIzYeim2) | 9:22 | 2021-06-28 |  |
 | [Vathapi Ganapathim Bhajeham](https://open.spotify.com/track/4w6p6n3uIVfRa6QGznDNQw) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Mood Music \- Cool Carnatic Instrumentals](https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD) | 6:49 | 2021-06-28 |  |

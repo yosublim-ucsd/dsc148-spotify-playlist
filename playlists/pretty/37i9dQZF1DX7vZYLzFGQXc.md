@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Kim Marie\(김마리\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,804 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,828 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Maybach \(feat\. dsel\)](https://open.spotify.com/track/5IJGBKNpzfHjUnMkzRtGxr) | [Lil Poet](https://open.spotify.com/artist/7qpuzcCwGOgZ2PZdJEwTvM), [dsel \(디젤\)](https://open.spotify.com/artist/4pZyeQ1tEBFits5sYmcTQm) | [In My HYUNDAI](https://open.spotify.com/album/0Sor7aWsoZ1eWjZ7OkpjE1) | 3:10 |
 | 100 | [Out the Mud](https://open.spotify.com/track/6V1V7I3MTepUpaRAazUD4z) | [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [Out the Mud](https://open.spotify.com/album/7fX1wbSxdV5GCPYUlboVlg) | 2:17 |
 
-Snapshot ID: `MCwxNTIzNjRjNThkMGFkMWNjNzAwNjJjNDcxNTQ4NmE2MGQxOTc0ZmIx`
+Snapshot ID: `MCw1YjcyNjU4OTVmMTM5MTczZDVhN2E0MGQ1ZTYxMzEzZGMzMWVkMDEy`

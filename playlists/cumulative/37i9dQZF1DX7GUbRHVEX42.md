@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023, curated by Ras Kwame.
 
-242 songs - 15 hr 7 min
+243 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 | 2023-08-07 |  |
 | [Should I \(Put My Trust In You\)](https://open.spotify.com/track/3j1IjNvNs8irwXzZcFwquC) | [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [The Best Of Me](https://open.spotify.com/album/2RAWDSK3Hfjh5ZprV1rkfs) | 3:33 | 2023-08-07 |  |
 | [Show Me The Way](https://open.spotify.com/track/0ZkmdE9BtTcdP4vme8svaS) | [Kim Davis](https://open.spotify.com/artist/0lR9PoH2KAqso7wAip3PJc) | [Show Me The Way](https://open.spotify.com/album/6o2nTFGbUspdG1ltJL8hdj) | 3:33 | 2023-07-10 | 2023-08-08 |
-| [Silly Dub](https://open.spotify.com/track/4hQbTNdDPblTvpGcwGJBPz) | [Dennis Bovell](https://open.spotify.com/artist/0xJuAKhVgEfuiEXjyLEuC6) | [The DuBMASTER: The Essential Anthology](https://open.spotify.com/album/1rTGkgzDInt8ONKDZtCG6h) | 4:37 | 2023-08-07 |  |
+| [Silly Dub](https://open.spotify.com/track/0us5v91yXciDoDjqjzrEm0) | [Dennis Bovell](https://open.spotify.com/artist/0xJuAKhVgEfuiEXjyLEuC6) | [Dub Dem Silly](https://open.spotify.com/album/1MZHzAvuldU8vAyy4ODJoB) | 4:37 | 2023-08-07 |  |
+| [Silly Dub](https://open.spotify.com/track/4hQbTNdDPblTvpGcwGJBPz) | [Dennis Bovell](https://open.spotify.com/artist/0xJuAKhVgEfuiEXjyLEuC6) | [The DuBMASTER: The Essential Anthology](https://open.spotify.com/album/1rTGkgzDInt8ONKDZtCG6h) | 4:37 | 2023-08-07 | 2023-11-03 |
 | [Silly Games](https://open.spotify.com/track/06mNAN5wsrhr14NJ6a7kua) | [Janet Kay](https://open.spotify.com/artist/4D6CqTx48E5t6aL411Gl3F) | [The DuBMASTER: The Essential Anthology](https://open.spotify.com/album/1rTGkgzDInt8ONKDZtCG6h) | 3:57 | 2023-08-07 |  |
 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 | 2023-07-10 |  |
 | [Sky Way](https://open.spotify.com/track/0VpJsmh0WGBthUjVinfS3k) | [Ras\-I](https://open.spotify.com/artist/1AiPTeSRCKWwP2o7OXtoY9), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Koastal Kings](https://open.spotify.com/artist/7LupR1EmUqcWYvc5X7o4Ws) | [Sky Way](https://open.spotify.com/album/6BMPftU5MJAu7mM2Z5DCrh) | 3:43 | 2023-05-15 | 2023-07-11 |

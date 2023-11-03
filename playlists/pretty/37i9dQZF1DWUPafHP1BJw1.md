@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,541 likes - 111 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,781 likes - 111 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 72 | [No Time to Die](https://open.spotify.com/track/4eznjoE1rjSyKgdJ9DxFCT) | [Queenz of Piano](https://open.spotify.com/artist/17L2cs2P9cHQy3hB7cYLkz) | [No Time to Die](https://open.spotify.com/album/75sRoVAu1jkQUHxGD448pr) | 2:21 |
 | 73 | [Demons](https://open.spotify.com/track/6yeK9rzYyy66WsqlyQq4VX) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Demons](https://open.spotify.com/album/1jl0lRJT9NgzMQlI7qIWmh) | 3:46 |
 | 74 | [Retrograde \(Arr\. Rimmer / Maydew\)](https://open.spotify.com/track/2Qzs78maIl8RzAbzGCHuOc) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Jess Gillam Ensemble](https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c) | [TIME](https://open.spotify.com/album/0JI3Z1yxCT2j9ZXw4hXriA) | 3:41 |
-| 75 | [Titanium \- David Guetta](https://open.spotify.com/track/4X54FzF8cMJVMdMTpg79zE) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [Electric Air](https://open.spotify.com/album/6G1BNEaFS6wJ1dPB5qMY4h) | 3:46 |
+| 75 | [Titanium](https://open.spotify.com/track/0upg8RVqoy93lgnKweJIgL) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [Electric Air](https://open.spotify.com/album/1NclbYhtOpfC89I4tGhme2) | 3:46 |
 | 76 | [Higher Love \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/1v2ZoMBeTmUaoDKrFkpdfR) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Higher Love \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/3g8ZOcsJebfAwwcxoGreRk) | 3:23 |
 | 77 | [Thinking Out Loud](https://open.spotify.com/track/55Kunp4OMnygqTnW7jgua4) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [10](https://open.spotify.com/album/1Zky97zfugw0DZQzKPkWFB) | 3:52 |
 | 78 | [Basket Case](https://open.spotify.com/track/4mfmAY5dBCLi5eFNz55HGM) | [Thomas Bryan Parker](https://open.spotify.com/artist/1Vx6UkHtcpcqVTg0pGY9fn) | [Basket Case](https://open.spotify.com/album/3phKXRZBfYzJjv3hglhVr4) | 2:49 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 110 | [Such Great Heights](https://open.spotify.com/track/7A4dZr5uXjb8qggBoAJttJ) | [The Section Quartet](https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr) | [Fuzzbox](https://open.spotify.com/album/6obah2tloYKurr25coxtTm) | 4:38 |
 | 111 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 |
 
-Snapshot ID: `MCw0YzY2MmVmZjhhNjMyMzNkYmQ2OWQ0YzJkNzY0ZDk1YTViYTYwZTg5`
+Snapshot ID: `MCxjNGZmOGUwMTUwMjZiOGU0MjgxYmZiOGQ3NTY2ODc4N2Q2YmZjNmMx`

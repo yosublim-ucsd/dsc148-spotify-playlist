@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,041 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,378 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 65 | [Seabird](https://open.spotify.com/track/7qw4F9ebIh2z1dSBpJMfdt) | [Alessi Brothers](https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1) | [The Best Of The Alessi Brothers](https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY) | 3:06 |
 | 66 | [That's a Bet](https://open.spotify.com/track/4mMuWadpf8GACLOH6g0Hym) | [Arnold Albury](https://open.spotify.com/artist/2013V6iVLwDKDK986F24AI), [The Casuals](https://open.spotify.com/artist/0ZuFWCnwkLTK7Yf8k7VkkZ) | [Funk for the People](https://open.spotify.com/album/4OLyRYkkFy83NMBlp8O5Ij) | 3:44 |
 | 67 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 |
-| 68 | [Colours](https://open.spotify.com/track/4Q6jlf64hZpS0fnrl1b10J) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Catch the Wind](https://open.spotify.com/album/54SKivSZGPzkNUcEaHANtV) | 2:45 |
+| 68 | [Colours \(Single Version\)](https://open.spotify.com/track/5JP6wL89ZQf17N8FxVap9N) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y) | 2:45 |
 | 69 | [Let It Be](https://open.spotify.com/track/3lv9TUA15PFRHtMaPhjKKj) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 3:30 |
 | 70 | [Leaving School](https://open.spotify.com/track/6oCrFowcxTZaN1x0G8PYrN) | [Oli Julian](https://open.spotify.com/artist/0qv1thknD9ItYc1pzAnA2X) | [Sex Education \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1VcAvVYL9zcbObcqx8fQXj) | 1:22 |
 | 71 | [Planet Zorg](https://open.spotify.com/track/4cTT6xZGgvkjdJBfCh2ocO) | [Oli Julian](https://open.spotify.com/artist/0qv1thknD9ItYc1pzAnA2X) | [Sex Education \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1VcAvVYL9zcbObcqx8fQXj) | 1:24 |
@@ -340,4 +340,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 330 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 331 | [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 |
 
-Snapshot ID: `MCw5YTE4ZjA3YjQzZGI0ZTYxZWU2OGRhNjhmODVmYjkwYzQyYjQ0MGU5`
+Snapshot ID: `MCxkODgwZjNmMjc3ZDllZDY3NmRjN2Y0YzdhMTA1MmM4ODhjY2U1YWJk`

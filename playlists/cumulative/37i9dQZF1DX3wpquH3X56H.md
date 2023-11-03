@@ -4,7 +4,7 @@
 
 > The Most Popular Ambient Tracks in 2022\. Kaitlyn Aurelia Smith on cover.
 
-107 songs - 9 hr 34 min
+108 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Orbit](https://open.spotify.com/track/5UjMb1mO2VQ3Kv1KB2G4oI) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Starburst](https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j) | 4:07 | 2023-01-01 |  |
 | [Orphangene \- Soundtrack from the motion picture "Mondocane"](https://open.spotify.com/track/7B5qaGsOU0b4CktM6oK5NN) | [Federico Bisozzi](https://open.spotify.com/artist/16a53ClNidSSeOXww0IQcU), [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Mondocane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Rcce6AQnDXcSe0jTZDO6e) | 3:11 | 2023-01-01 |  |
 | [Owls](https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO) | [Samuel Powell](https://open.spotify.com/artist/1qb9AWGLwoHz2r3eQYPmIG) | [Owls](https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI) | 4:02 | 2023-01-01 |  |
-| [Post String Theory \- Foam and Sand Rework](https://open.spotify.com/track/2UMYEU7Stut50T9S9fel4r) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [The Next Billion Years \(Foam and Sand Reworks\)](https://open.spotify.com/album/4KZmOzxvjx1pwCaLrdgvqm) | 4:50 | 2023-01-01 |  |
+| [Post String Theory \(Foam and Sand Rework\)](https://open.spotify.com/track/6NfDQfVHBZu6UffLl1M6sv) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [The Next Billion Years \(Foam and Sand Reworks\)](https://open.spotify.com/album/1TcDdmdTiRzaYsEfvqj4r2) | 4:50 | 2023-01-01 |  |
+| [Post String Theory \- Foam and Sand Rework](https://open.spotify.com/track/2UMYEU7Stut50T9S9fel4r) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [The Next Billion Years \(Foam and Sand Reworks\)](https://open.spotify.com/album/4KZmOzxvjx1pwCaLrdgvqm) | 4:50 | 2023-01-01 | 2023-11-03 |
 | [Purples \- Live](https://open.spotify.com/track/0bNg765s4JOqt3QpaLtbLu) | [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr) | [Purples \(Live\)](https://open.spotify.com/album/76DiyrxUsjI52JBcFq1TgY) | 7:30 | 2023-01-01 |  |
 | [Raddir \- Halo Infinite Version](https://open.spotify.com/track/6OPuu0XHbNOhGIkeiRbVKC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Raddir \(Halo Infinite Version\)](https://open.spotify.com/album/7gz5AeJBeJ77wjdyLXXc9s) | 2:14 | 2023-01-01 |  |
 | [Remember This Time](https://open.spotify.com/track/5GB1TCF6ZMbcYMmGoKQtf3) | [E J R M](https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ), [Drifting in Silence](https://open.spotify.com/artist/2D4I5qQCLM6szpo1273QNc) | [Pathways](https://open.spotify.com/album/2YHvyVDyxTrPcaQyqclG7L) | 5:20 | 2023-01-01 |  |

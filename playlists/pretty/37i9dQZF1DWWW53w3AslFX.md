@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,774 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,784 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 4 | [Ruin](https://open.spotify.com/track/1n0iHqATRnMzoxsIGmzIoR) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Sun](https://open.spotify.com/album/1IoiJGsAHdL0OL9IOjTflm) | 4:32 |
 | 5 | [Falcons](https://open.spotify.com/track/7dL2Lsa6b6wfX5IzkdWGlY) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Docks](https://open.spotify.com/album/7tIJdci876Nai32nnhU5Nu) | 3:54 |
 | 6 | [The walker](https://open.spotify.com/track/5nTGyhsQmk8NHlg71ZEmmo) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chris](https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh) | 4:16 |
-| 7 | [The Wheel](https://open.spotify.com/track/64klVekHE2PDDTHwUJlkyO) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/5nlzjzwM3elIoWvwbanrqL) | 5:38 |
+| 7 | [The Wheel](https://open.spotify.com/track/64WR9GLtXe0YyRTLd2gGp2) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/22CKb3NPdYFF8TyIl6GodA) | 5:38 |
 | 8 | [So Long](https://open.spotify.com/track/6l1ZT5WqVoK1YltrBpGJQ6) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [So Long](https://open.spotify.com/album/51xf4UGzqJfASaZZvbYk7C) | 3:21 |
 | 9 | [Freedom Is A State Of Mind](https://open.spotify.com/track/1WufMy5OU6l8I6O6BPcg0a) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0) | [We Are History](https://open.spotify.com/album/7mY67V7aDraUgOlSH9GaUs) | 4:03 |
 | 10 | [Knock Me Off My Feet](https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:07 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 89 | [Du kan nu dö](https://open.spotify.com/track/4eP1Q5ushSiXAoUsffB2aj) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing From the Grave](https://open.spotify.com/album/4rn3FV2buJHdwnUSJlGefa) | 6:22 |
 | 90 | [play](https://open.spotify.com/track/3RHN3asE9XLDwRNGbFFqYM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/2CZP23w1EQKmz69Vte3OrL) | 5:14 |
 
-Snapshot ID: `MCw2Yjg0MmNmMWVjYzYzMGUyZTY3YTA0MDM1MTM4ZGIxNDhkZTA4NGIz`
+Snapshot ID: `MCxiMDM3MjllNmM3NWU3NzcwMTQ4MWYxNTJhMzVlZmZmNDYwNTM2MTBk`

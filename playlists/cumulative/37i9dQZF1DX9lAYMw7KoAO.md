@@ -2,9 +2,9 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=a49yelkASmCcWbDQR6YAnA">Ebuka Songs</a>
+> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=0Pxu\_ylsSCihEYDYu3081A">Mercy Chinwo</a>
 
-363 songs - 1 day 7 hr 58 min
+364 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [God When](https://open.spotify.com/track/5plbdAu9sPMVDJQLN59mTZ) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [God When](https://open.spotify.com/album/5tDdD8wGPklTCABqdZMMrZ) | 3:05 | 2023-08-25 | 2023-09-01 |
 | [Gods Love](https://open.spotify.com/track/4CKeG9hcOwkqcWGDo104xI) | [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Gods Love](https://open.spotify.com/album/4Sh9MI3Q4ihCssCvd25e1o) | 3:16 | 2023-05-26 | 2023-06-23 |
 | [Good Thing](https://open.spotify.com/track/0bKzerzZVCgaS2Bx0WDabA) | [Mün The Shinobi](https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Good Thing](https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77) | 2:54 | 2023-04-21 | 2023-06-09 |
-| [Grateful](https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT) | [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew), [Prifix](https://open.spotify.com/artist/1p9ME7SCoyUhTchumQvPNm) | [Grateful](https://open.spotify.com/album/6DMGM2y7j46To04if4jIam) | 5:04 | 2023-06-23 |  |
+| [Grateful](https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT) | [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew), [Prifix](https://open.spotify.com/artist/1p9ME7SCoyUhTchumQvPNm) | [Grateful](https://open.spotify.com/album/6DMGM2y7j46To04if4jIam) | 5:04 | 2023-06-23 | 2023-11-03 |
 | [Great Jehovah](https://open.spotify.com/track/1kw7kPLQAXCSmtEUOmD3aA) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Kadosh \(Live\)](https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY) | 5:58 | 2023-03-31 | 2023-06-23 |
 | [Greater](https://open.spotify.com/track/4ga4GTOzcYUyRB51aRsX6J) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Greater](https://open.spotify.com/album/3uq6TjozBhH2dDBbkK88fU) | 6:42 | 2023-03-14 | 2023-04-01 |
 | [Greenlight \(Official Audio\)](https://open.spotify.com/track/1Hl69y48VaTv2GbIJe1tFO) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Greenlight \(Official Audio\)](https://open.spotify.com/album/4Ssk3NrtkLvR2KCAHCOnp1) | 2:40 | 2023-08-25 | 2023-09-01 |
@@ -362,6 +362,7 @@
 | [You Are Worthy](https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/2FEhibjz3n9PCtrwNiC1fH) | 6:45 | 2018-10-01 | 2023-04-01 |
 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 | 2023-06-23 |  |
 | [You Deserve It](https://open.spotify.com/track/3O3kBJYcEiK1LqpReeOLQ4) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Give Thanks](https://open.spotify.com/album/4UmNz5luJyOPEa7twLwoXY) | 9:56 | 2023-03-31 | 2023-05-19 |
+| [You Do This One](https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [You Do This One](https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o) | 3:46 | 2023-11-03 |  |
 | [You love me](https://open.spotify.com/track/4AJFre4XBXr8VxLVNtKIvB) | [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [You love me](https://open.spotify.com/album/580YbKDKOnMFXYjLn6RSrU) | 4:06 | 2023-04-14 | 2023-06-23 |
 | [You Make Us Whole \- The Gathering Of Worshippers / Live At Loftus Stadium](https://open.spotify.com/track/3xeFcJt2THRyLTsk5uJLeH) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [You Make Us Whole \(The Gathering Of Worshippers / Live At Loftus Stadium\)](https://open.spotify.com/album/6oy0EXRb3vpMDfonoCY2yz) | 8:20 | 2020-01-31 | 2023-04-14 |
 | [You Won't Let Go](https://open.spotify.com/track/24xD6bOm52s91STHDkoaPU) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [ISRAEL MBONYI Deluxe](https://open.spotify.com/album/0uzd2og0hgUlrpa79gaaIk) | 13:13 | 2023-03-31 | 2023-05-26 |

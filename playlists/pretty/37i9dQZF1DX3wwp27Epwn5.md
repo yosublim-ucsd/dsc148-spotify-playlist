@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,852 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,901 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [Makhna](https://open.spotify.com/track/7A9zMoPZw4fN7zSVXINeEF) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Singhsta](https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G), [Pinaki](https://open.spotify.com/artist/4HaSmpjHgMGtwS8HRkewJM), [Sean](https://open.spotify.com/artist/6EWOMj5R4Ipyv0AgMjmL4T), [Allistair](https://open.spotify.com/artist/6WoyKYy6jUSlTtwQj3nNCn) | [Makhna](https://open.spotify.com/album/05TSwmxg7wMt4yIMx7dnIc) | 3:11 |
 | 50 | [Dus Bahane 2.0 \(From "Baaghi 3"\) \(feat\. K.K., Shaan, Tulsi Kumar\)](https://open.spotify.com/track/0z9lOAVgQT5bysEKZ6Wwbk) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Dus Bahane 2.0 \(From "Baaghi 3"\) \(feat\. K.K., Shaan, Tulsi Kumar\)](https://open.spotify.com/album/6apDnjHHb93tIEiPyNxhba) | 3:21 |
 
-Snapshot ID: `MCwxM2QzYTM2Yjg2Mjg2ZDI4ODIyMzU3YTA0ZDY1M2RhNmQwMTJhM2U5`
+Snapshot ID: `MCwwOGNiMzkxZmEzYTEzZjYyYWMyNTY4ZjY1ZjBmYmZhZTNiNjA2MmFm`

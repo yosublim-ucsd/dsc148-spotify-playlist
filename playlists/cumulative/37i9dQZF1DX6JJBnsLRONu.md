@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-94 songs - 6 hr 26 min
+95 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Ursa Major](https://open.spotify.com/track/3BJnhpM9ItAefdMZGdGf1d) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [High Line](https://open.spotify.com/album/5htTq0mezBLjTr0pja5jGK) | 4:10 | 2023-04-14 |  |
 | [Ursa Major](https://open.spotify.com/track/7jMmgzKA33wNfqwW99it4P) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [High Line](https://open.spotify.com/album/4p5LlAKeW83lehTf5sUCUo) | 4:10 | 2022-02-10 | 2023-04-30 |
 | [What Does It Matter Now?](https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [What Does It Matter Now?](https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR) | 4:35 | 2022-11-18 |  |
-| [What Must Be Done](https://open.spotify.com/track/3buV0hT4g8GOIa8l2OJIJN) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs) | 1:57 | 2022-02-10 |  |
+| [What Must Be Done](https://open.spotify.com/track/3buV0hT4g8GOIa8l2OJIJN) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs) | 1:57 | 2022-02-10 | 2023-11-03 |
+| [What Must Be Done](https://open.spotify.com/track/5AKymjcoEsBxrlJqH1nu4I) | [Nick Cave & Warren Ellis](https://open.spotify.com/artist/5cQYq4eJmOwUGCAjhajFg7) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/5tHgLycauca1M9DF9YqsbJ) | 1:57 | 2023-09-15 |  |
 | [With News About Heaven](https://open.spotify.com/track/5AlvG6En5wNwVQRzxkgXyF) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [New Vanitas](https://open.spotify.com/album/6Y9i01k1rGe69qVjWsGWNM) | 4:31 | 2022-02-10 | 2022-07-29 |
 | [With News About Heaven](https://open.spotify.com/track/74QHxzRk23oaNMsMtOw5GE) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [New Vanitas](https://open.spotify.com/album/5EZWB44UxQvTllmmOvarXw) | 4:31 | 2022-04-22 |  |
 | [You'd Be So Nice to Come Home To](https://open.spotify.com/track/37RJq9ytdQqVltw1aOYIZj) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [Tara Jane O'Neil](https://open.spotify.com/artist/67S18PLepUFPvHhMgCJPZk) | [You'd Be So Nice to Come Home To](https://open.spotify.com/album/0jUyjOeULoz1T3QXbgIk6k) | 5:10 | 2022-02-10 | 2023-04-30 |

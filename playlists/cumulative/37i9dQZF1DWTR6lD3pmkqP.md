@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-519 songs - 1 day 19 hr 49 min
+520 songs - 1 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [My Favorite Things](https://open.spotify.com/track/7BhHAftdMM9EtmxkOQflHO) | [Onyx Collective](https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf) | [Manhattan Special](https://open.spotify.com/album/5WAIQrdBswl6U8nFlAw6US) | 5:01 | 2021-12-16 |  |
 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 | 2022-04-01 |  |
 | [Nago](https://open.spotify.com/track/0CNCF7iSfTXGBro6idURk4) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Plex](https://open.spotify.com/album/1YY9UnSkfBwVaO3cS85zrY) | 3:56 | 2022-01-13 |  |
+| [Nana – Tepalle](https://open.spotify.com/track/0baSsNzqRY71wGqgODFL45) | [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL) | [Juniper](https://open.spotify.com/album/1EeacK8xt3mauU0iuuqWgN) | 7:04 | 2022-02-10 |  |
 | [Nana – Tepalle](https://open.spotify.com/track/5QjAjEcrPeiZCQ3IPmJCpp) | [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL) | [Nana – Tepalle](https://open.spotify.com/album/7uq1glk7n7gmP1sq8vtWh5) | 7:04 | 2021-12-16 | 2023-05-05 |
 | [Nemesis](https://open.spotify.com/track/3pHi49H2DjfnpqX6iOaLC8) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Invisible Cinema](https://open.spotify.com/album/3xfueIrMUw57owAiYVKt8S) | 6:14 | 2022-04-01 |  |
 | [Neo\-Lurie](https://open.spotify.com/track/76HjuYAF8Br8kymYvwjrwc) | [George Kano](https://open.spotify.com/artist/61JGbYJB0nxcUcdy0nex6U) | [Neo\-Lurie](https://open.spotify.com/album/6NPn2M1KcfEUxfgF6KX5bA) | 4:28 | 2021-12-21 | 2022-07-29 |
@@ -353,7 +354,7 @@
 | [Radio](https://open.spotify.com/track/2WjRKzqp8bIB4yPXC9ECXa) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Swallow Tales](https://open.spotify.com/album/4wtKmtN8Qx805HHmjpSDbL) | 4:21 | 2022-04-01 |  |
 | [Reckoning](https://open.spotify.com/track/1buW5npL9yzCtw3fvamsoW) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Reckoning](https://open.spotify.com/album/177OdXL4rE3lvChBEEgnLb) | 3:14 | 2021-12-16 | 2022-11-03 |
 | [Reckoning](https://open.spotify.com/track/5e0pRiSDnhdsJebJCoQAbH) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Reckoning](https://open.spotify.com/album/0JPEpzWA24I3nxgIGFX6uZ) | 3:14 | 2022-02-10 |  |
-| [Redención \(feat\. Angá Díaz, Amadito Valdés, Carlos González & Manuel Galbán\)](https://open.spotify.com/track/7zJ4CxDxMHaO6fIHey0iMG) | [Orlando "Cachaíto" López](https://open.spotify.com/artist/46NzAs7obt30YFHdDt0O2m), [Angá Diaz](https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz), [Amadito Valdés](https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D), [Carlos Gonzalez](https://open.spotify.com/artist/4yBGwLykrZ7TsKLIepDxYJ), [Manuel Galbán](https://open.spotify.com/artist/5uG50qso5XAfxs6BeXdnld) | [Cachaito](https://open.spotify.com/album/6ZJvZAcBuJjkuq2KZHJYCS) | 4:50 | 2022-04-01 |  |
+| [Redención \(feat\. Angá Díaz, Amadito Valdés, Carlos González & Manuel Galbán\)](https://open.spotify.com/track/7zJ4CxDxMHaO6fIHey0iMG) | [Orlando "Cachaíto" López](https://open.spotify.com/artist/46NzAs7obt30YFHdDt0O2m), [Angá Diaz](https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz), [Amadito Valdés](https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D), [Carlos Gonzalez](https://open.spotify.com/artist/4yBGwLykrZ7TsKLIepDxYJ), [Manuel Galbán](https://open.spotify.com/artist/5uG50qso5XAfxs6BeXdnld) | [Cachaito](https://open.spotify.com/album/6ZJvZAcBuJjkuq2KZHJYCS) | 4:50 | 2022-04-01 | 2023-11-03 |
 | [Refractions](https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Refractions](https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe) | 3:37 | 2021-12-16 |  |
 | [Relationships](https://open.spotify.com/track/4yIXHZyba42VV7gCpec6h4) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Meditations](https://open.spotify.com/album/19SzhIssFZJ5pPHmZuJOWK) | 5:13 | 2021-12-16 |  |
 | [Repurposing 1 D L W](https://open.spotify.com/track/2z6MdFZ4GGK2WinGqvtCG4) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Christopher Dell](https://open.spotify.com/artist/2Q5s4iYdCXKILxmqPjBfer), [Christian Lillinger](https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26), [Jonas Westergaard](https://open.spotify.com/artist/367P7Sb8eJw6mRwH9wBG9P) | [Repurposing 1 D L W](https://open.spotify.com/album/5qXbFbCDxQqEIZBe8OWLrl) | 3:16 | 2021-12-16 | 2022-07-29 |

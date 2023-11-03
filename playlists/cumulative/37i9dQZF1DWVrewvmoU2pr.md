@@ -4,7 +4,7 @@
 
 > 愛本來就係自由嘅事！想愛就愛吧！
 
-126 songs - 8 hr 0 min
+127 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [吟鈴](https://open.spotify.com/track/27ytVYZJ0OWpMz3DxnOj2h) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [吟鈴](https://open.spotify.com/album/54iUsAIGzduKUSMwCMKYpF) | 2:58 | 2023-06-01 |  |
 | [命硬](https://open.spotify.com/track/47RgWWTJno746wCInL4gQz) | [Justin Lo](https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC) | [From Justin Collection Of His First 3 Years](https://open.spotify.com/album/6pXr9g9r0p4Q32xJoBGKp1) | 3:37 | 2023-01-27 |  |
 | [因愛之罪名](https://open.spotify.com/track/4O8ZHulJzX2Xsbnk13Cf5Z) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [LIFE / LINE](https://open.spotify.com/album/5COhcdEYRQm7wFjsfB8NxA) | 5:02 | 2022-04-07 | 2022-06-24 |
-| [女扮男生](https://open.spotify.com/track/7d9ZAKEgMVblPNtpLo3FVM) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/5HvlYZNXVsXYkFQZHgrBI1) | 3:19 | 2023-01-27 |  |
+| [女扮男生](https://open.spotify.com/track/7d9ZAKEgMVblPNtpLo3FVM) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/5HvlYZNXVsXYkFQZHgrBI1) | 3:19 | 2023-01-27 | 2023-11-03 |
+| [女扮男生](https://open.spotify.com/track/0pujceqmx9uhErQDU7Zo50) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Threesome](https://open.spotify.com/album/4Bn7uXDjOqkHZ1atMprNF0) | 3:21 | 2023-06-01 |  |
 | [女神](https://open.spotify.com/track/47MN8iVKji2TUL2DOnXpgJ) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [JOYCE](https://open.spotify.com/album/02Brb1tEIxIPc7t5DwX4xv) | 4:16 | 2022-06-23 | 2022-07-29 |
 | [好朋友](https://open.spotify.com/track/0b110tCRwwA7Z7BD1qGM6f) | [Edmond Leung](https://open.spotify.com/artist/1THfyLd3iyJYJ6X2U36K0y) | [好朋友 \(華星40系列\)](https://open.spotify.com/album/5wYJgrAPKb6xreuSMyYVpO) | 3:15 | 2023-01-27 |  |
 | [守口如瓶](https://open.spotify.com/track/3rZVW1QkoFmrEeZvV5qhzp) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [仲間](https://open.spotify.com/album/6YVD5g8jj29N54Rx4WdgEY) | 3:23 | 2022-06-23 |  |

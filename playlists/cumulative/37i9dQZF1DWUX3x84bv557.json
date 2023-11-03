@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse liedjes! Cover: Hannah Mae",
+  "description": "De nieuwste Nederlandse liedjes! Cover: Snelle",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "2 Glazen Wijn",
+        "url": "https://open.spotify.com/album/4aIhJYYd20CqCfWeihADXg"
+      },
+      "artists": [
+        {
+          "name": "Juwls",
+          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/1lMqPztKuO3DBB64uGJGr0"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "2 Glazen Wijn",
+      "url": "https://open.spotify.com/track/5qf38xrJmEv83TXan3UCul"
+    },
+    {
+      "album": {
         "name": "2022",
         "url": "https://open.spotify.com/album/7rbIRHZi9B5qBDYnlbBXFA"
       },
@@ -100,6 +122,24 @@
       "duration_ms": 173760,
       "name": "22",
       "url": "https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a"
+    },
+    {
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/16H5lY5PLYapy2BXLRQae2"
+      },
+      "artists": [
+        {
+          "name": "Mick Spek",
+          "url": "https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170630,
+      "name": "23",
+      "url": "https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0"
     },
     {
       "album": {
@@ -494,7 +534,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 165855,
       "name": "Als Ik Haar Was",
       "url": "https://open.spotify.com/track/0mOdv3w3W9ZkAsTmlJ3rUs"
@@ -794,7 +834,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 196010,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/06q5OfzaRccXcFU6L7PrWd"
@@ -1123,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Twintig (Deluxe)",
+        "url": "https://open.spotify.com/album/3XMS2yUTeOaTGaqovGhAci"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177690,
+      "name": "Blijf Zo",
+      "url": "https://open.spotify.com/track/3bHhbGAnKXlD3SIoRZr8oj"
+    },
+    {
+      "album": {
         "name": "Bliksem & Donder",
         "url": "https://open.spotify.com/album/5QhJLfKlFbZHjtQSXKNUb4"
       },
@@ -1344,6 +1402,24 @@
       "duration_ms": 211188,
       "name": "Dans Alleen",
       "url": "https://open.spotify.com/track/0KRhxFEfJP8R4Q8dmVsjaV"
+    },
+    {
+      "album": {
+        "name": "Dans Op Het Mes",
+        "url": "https://open.spotify.com/album/4HlJBGJa7nEs3GOhsD4B9w"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177166,
+      "name": "Dans Op Het Mes",
+      "url": "https://open.spotify.com/track/2Mog5P8QZ9tnFq5uDm3T8w"
     },
     {
       "album": {
@@ -1885,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Denkstof",
+        "url": "https://open.spotify.com/album/69X13zUWzRnKlrh9ggAUOW"
+      },
+      "artists": [
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147220,
+      "name": "Denkstof",
+      "url": "https://open.spotify.com/track/70KH3HDtaNoCu8KJTCJmSt"
+    },
+    {
+      "album": {
         "name": "Der Af (Oya L\u00e9l\u00e9)",
         "url": "https://open.spotify.com/album/6AAEje0hsC6HnJy5SsMiYD"
       },
@@ -2023,6 +2117,24 @@
     },
     {
       "album": {
+        "name": "Door De Regen",
+        "url": "https://open.spotify.com/album/5uY8iQGj3xTG9ZeSviU9gI"
+      },
+      "artists": [
+        {
+          "name": "LAUF",
+          "url": "https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156461,
+      "name": "Door De Regen",
+      "url": "https://open.spotify.com/track/5t5TOLejRhyJ5Pe0VQTgXK"
+    },
+    {
+      "album": {
         "name": "Dit Is Het Levenslied",
         "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
       },
@@ -2038,7 +2150,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 241435,
       "name": "Door Weer En Wind",
       "url": "https://open.spotify.com/track/1kAPdyoWB9Mw5CA6zuRVyD"
@@ -2056,7 +2168,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 174440,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4rKgglMTWD9srdmmFd3iwS"
@@ -2154,7 +2266,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 194654,
       "name": "Dronken Van De Liefde",
       "url": "https://open.spotify.com/track/0ArPL2xKFhG4oC2Pc4D4OQ"
@@ -2320,7 +2432,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 154000,
       "name": "Elke Avond Feest",
       "url": "https://open.spotify.com/track/2w1tIkkgJWKfSensaU0vXd"
@@ -2997,6 +3109,28 @@
     },
     {
       "album": {
+        "name": "Heuvels",
+        "url": "https://open.spotify.com/album/58xNXd1NUbyBJpkN3i0mgr"
+      },
+      "artists": [
+        {
+          "name": "Pjotr",
+          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
+        },
+        {
+          "name": "Fresku",
+          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165006,
+      "name": "Heuvels",
+      "url": "https://open.spotify.com/track/44xpsWlXIZaLC9ezuALEyE"
+    },
+    {
+      "album": {
         "name": "Hier Blijft Het Bij",
         "url": "https://open.spotify.com/album/6MhXMY5K9atA8V7lobWbxd"
       },
@@ -3088,6 +3222,24 @@
       "duration_ms": 154195,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/4qIYQGmFLOdifdUKRcz5sy"
+    },
+    {
+      "album": {
+        "name": "Hoodiedate",
+        "url": "https://open.spotify.com/album/2GE8j7V7VOaFbrlT1SyssS"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183968,
+      "name": "Hoodiedate",
+      "url": "https://open.spotify.com/track/0rWktREtOKwpyAxwbh9aIh"
     },
     {
       "album": {
@@ -3396,7 +3548,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 238087,
       "name": "Ik Heb Jou",
       "url": "https://open.spotify.com/track/4WdlPFMILpzOGx4LFLVkkC"
@@ -4188,7 +4340,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 153634,
       "name": "Luchtkasteel",
       "url": "https://open.spotify.com/track/6jYvHA6LvFcTe9lCiuIc5f"
@@ -4428,7 +4580,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 182193,
       "name": "Mijn Stad",
       "url": "https://open.spotify.com/track/38BGAS5sGF07IDiQBe9TpO"
@@ -4454,6 +4606,24 @@
       "duration_ms": 172746,
       "name": "Misdragen",
       "url": "https://open.spotify.com/track/4KgwolhjJUzbldSGZv01mD"
+    },
+    {
+      "album": {
+        "name": "Missen",
+        "url": "https://open.spotify.com/album/1TJ4nEX5ePlLKhTyAK1CL8"
+      },
+      "artists": [
+        {
+          "name": "Sterre Koning",
+          "url": "https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215670,
+      "name": "Missen",
+      "url": "https://open.spotify.com/track/7pUUC2DcPUbB9eSqOaT4Ji"
     },
     {
       "album": {
@@ -4863,6 +5033,24 @@
     },
     {
       "album": {
+        "name": "Nooit Alleen (Dit Is Wat Mijn Mama Zei) [Radio Edit]",
+        "url": "https://open.spotify.com/album/7BMPGjcpUSCZQyeEiGPoEo"
+      },
+      "artists": [
+        {
+          "name": "Eva Simons",
+          "url": "https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175397,
+      "name": "Nooit Alleen (Dit Is Wat Mijn Mama Zei) - Radio Edit",
+      "url": "https://open.spotify.com/track/42TrRURvbB6SD5fjSR71PB"
+    },
+    {
+      "album": {
         "name": "Donkerblauw",
         "url": "https://open.spotify.com/album/6bK5UIQOHzcBlwUMZbBopk"
       },
@@ -5030,7 +5218,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 175400,
       "name": "Onderweg",
       "url": "https://open.spotify.com/track/2q0ZsFK74e4eZskq758hE8"
@@ -5706,6 +5894,24 @@
       "duration_ms": 172091,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/2M6sp60mWuRoGHapvKDapT"
+    },
+    {
+      "album": {
+        "name": "Sorry dat ik stoor",
+        "url": "https://open.spotify.com/album/4d19JlNDJ2OwrGBWETU3rP"
+      },
+      "artists": [
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204635,
+      "name": "Sorry dat ik stoor",
+      "url": "https://open.spotify.com/track/1otdNSbercygfjKDmtSNTZ"
     },
     {
       "album": {
@@ -6732,6 +6938,32 @@
       "duration_ms": 194285,
       "name": "Waarom",
       "url": "https://open.spotify.com/track/3rg3zR2N2KWWyvpGUo78f6"
+    },
+    {
+      "album": {
+        "name": "Wacht Op Mij",
+        "url": "https://open.spotify.com/album/2WSQUoSEGPgHz5dcZGahpg"
+      },
+      "artists": [
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137277,
+      "name": "Wacht Op Mij",
+      "url": "https://open.spotify.com/track/4YmbvryKSbLnsN1IqAI3eK"
     },
     {
       "album": {

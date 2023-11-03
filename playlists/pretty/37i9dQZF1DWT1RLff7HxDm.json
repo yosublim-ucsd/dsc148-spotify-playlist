@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 164085,
+  "num_followers": 164146,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmIyNjkzNWYxMDE3NGE4Y2E0ZmIzYWQ1NWYyMzM1ZDA5MGNkMjVh",
+  "snapshot_id": "MCw1MTYyY2I2NzJlMDRkM2U1ZGQ5N2UyZGUwYTBiYTlhOWZkNjYxNDQ0",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -423,26 +423,18 @@
     {
       "added_at": "2021-04-09 04:00:00",
       "album": {
-        "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
-        "url": "https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA"
+        "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac",
+        "url": "https://open.spotify.com/album/4mRWbr6PnIIo3ealvjT60y"
       },
       "artists": [
         {
           "name": "Mick Fleetwood and Friends",
           "url": "https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk"
-        },
-        {
-          "name": "Billy F Gibbons",
-          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
-        },
-        {
-          "name": "Steven Tyler",
-          "url": "https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o"
         }
       ],
       "duration_ms": 289800,
-      "name": "Rattlesnake Shake (with Steven Tyler & Billy Gibbons) - Live from The London Palladium",
-      "url": "https://open.spotify.com/track/2QyLRyrciztL0CQ7CeXK2p"
+      "name": "Rattlesnake Shake (with Steven Tyler, Billy Gibbons) (Live from The London Palladium)",
+      "url": "https://open.spotify.com/track/2cw1cZG9T3goqZOOqjkrqI"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -512,7 +504,7 @@
       "added_at": "2021-11-09 18:22:13",
       "album": {
         "name": "Mr. Luck - A Tribute to Jimmy Reed: Live at the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW"
+        "url": "https://open.spotify.com/album/0NgnBeCrUMtJWBIqlORulQ"
       },
       "artists": [
         {
@@ -529,8 +521,8 @@
         }
       ],
       "duration_ms": 426835,
-      "name": "Mr Luck (feat. Mick Taylor) - Live",
-      "url": "https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK"
+      "name": "Mr Luck (feat. Mick Taylor) (Live)",
+      "url": "https://open.spotify.com/track/447HYxWqQYLaezoibi274B"
     },
     {
       "added_at": "2021-04-09 04:00:00",

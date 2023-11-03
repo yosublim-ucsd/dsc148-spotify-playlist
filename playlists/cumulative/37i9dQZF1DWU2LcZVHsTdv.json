@@ -96,10 +96,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 289000,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/6FW9MTGMjR5A6q2o7PLuuz"
+    },
+    {
+      "album": {
+        "name": "God, Family, Country (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nGxSALyfv0Wq8CWZpIVnZ"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290240,
+      "name": "Almost Home - 2020 - Remaster",
+      "url": "https://open.spotify.com/track/3pMHSCFtuGXDMriewk7xfZ"
     },
     {
       "album": {

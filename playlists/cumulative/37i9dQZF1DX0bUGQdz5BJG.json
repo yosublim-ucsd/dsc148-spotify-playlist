@@ -12820,6 +12820,24 @@
     {
       "album": {
         "name": "I Got A Problem",
+        "url": "https://open.spotify.com/album/1B8rgYiOXCaPAzZKVQprXK"
+      },
+      "artists": [
+        {
+          "name": "Drake Milligan",
+          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147356,
+      "name": "I Got A Problem",
+      "url": "https://open.spotify.com/track/46ELlro4wExQxafmUT6JQA"
+    },
+    {
+      "album": {
+        "name": "I Got A Problem",
         "url": "https://open.spotify.com/album/4kBEIGrzwLM9J4hQnmjynt"
       },
       "artists": [
@@ -12830,7 +12848,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 147356,
       "name": "I Got A Problem",
       "url": "https://open.spotify.com/track/5d9Sr7MXI5wSo6I53oW8Hx"
@@ -14361,6 +14379,24 @@
     },
     {
       "album": {
+        "name": "Pill",
+        "url": "https://open.spotify.com/album/6FTgNHJaDjNDcTyNEuTGn4"
+      },
+      "artists": [
+        {
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188641,
+      "name": "Jonesin'",
+      "url": "https://open.spotify.com/track/2mzF8IS0EGMbISqOsXrQen"
+    },
+    {
+      "album": {
         "name": "Jonesin'",
         "url": "https://open.spotify.com/album/2UoOn9wHxdZ83THATI9hvB"
       },
@@ -14372,7 +14408,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 188641,
       "name": "Jonesin'",
       "url": "https://open.spotify.com/track/3EY4kYa8rZp2b2pXzdhl0r"

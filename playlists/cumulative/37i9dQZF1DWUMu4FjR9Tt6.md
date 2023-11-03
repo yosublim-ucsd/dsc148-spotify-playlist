@@ -4,7 +4,7 @@
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-114 songs - 7 hr 13 min
+115 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Be Thankful You're You](https://open.spotify.com/track/2FUCIb2sFCJ6ODJh4knB5Y) | [Fern Jones](https://open.spotify.com/artist/4lCa0KPb4ZCqrVtrfSGAdu) | [The Glory Road](https://open.spotify.com/album/5ekSwa7f9Oaft4iMjs1P4J) | 2:26 | 2022-06-17 | 2022-07-29 |
 | [Beyond the Sea](https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 2:52 | 2022-06-17 |  |
 | [Bibbidi\-Bobbidi\-Boo \(The Magic Song\) \- As heard in the Netflix series The Umbrella Academy](https://open.spotify.com/track/2ghZP9SEs9NrvcOk0VgQJn) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Essential Perry Como](https://open.spotify.com/album/6guLNpxip1tU3OYWNkPksw) | 2:19 | 2022-06-17 |  |
-| [Bitter Taste](https://open.spotify.com/track/4gS0C89Jlx8Zx4853NYRLY) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Bitter Taste](https://open.spotify.com/album/5FW8hrEzkgu2MXf1Dy6yjF) | 4:26 | 2022-06-22 |  |
+| [Bitter Taste](https://open.spotify.com/track/4gS0C89Jlx8Zx4853NYRLY) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Bitter Taste](https://open.spotify.com/album/5FW8hrEzkgu2MXf1Dy6yjF) | 4:26 | 2022-06-22 | 2023-11-03 |
+| [Bitter Taste](https://open.spotify.com/track/6AyWHf259DGuxOnwdsz1Lf) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Bitter Taste](https://open.spotify.com/album/3pJvA2HMStNO5I4W6uUKRh) | 4:26 | 2022-06-22 |  |
 | [Bruttosozialprodukt](https://open.spotify.com/track/6Z0k1oFdDR5zwAr59InV2q) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/28Uw8SirDAGkAOYAKrWsz3) | 3:01 | 2022-06-22 |  |
 | [Bruttosozialprodukt](https://open.spotify.com/track/2jWCLuhLinumCeHiCGONu3) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/55KUCRFnvEUxWyogeidPex) | 3:02 | 2022-06-22 | 2023-05-11 |
 | [Cats In The Cradle](https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [America's Least Wanted](https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR) | 4:01 | 2022-06-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,617 likes - 117 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,015 likes - 117 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 71 | [Split](https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Split](https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk) | 2:16 |
 | 72 | [Wicked](https://open.spotify.com/track/6AYJKBH8ndAzqcT2IBJ15o) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Eddy Baker](https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6) | [Jones Peak](https://open.spotify.com/album/1b3DpLcZpNhj4soopPeojE) | 1:48 |
 | 73 | [scrimmage](https://open.spotify.com/track/472PEAJ7z7KNXo1EqFDF9S) | [eyesore](https://open.spotify.com/artist/6n0I3DaAWLcc0mZsfMBxth) | [scrimmage](https://open.spotify.com/album/5LptlREgOlZXHXi5wdCnzA) | 2:00 |
-| 74 | [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 |
+| 74 | [Diamonds](https://open.spotify.com/track/1lAUOryDWVSCKSUdB3yvpM) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/4AARGSDwdwxsWj0M1hiMU9) | 3:26 |
 | 75 | [flowers by her grave](https://open.spotify.com/track/45YnYNao28Y4CT2X2z0BVQ) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [in my restless dreams, i see you](https://open.spotify.com/album/5YlMDbNU9agz8VY656cNii) | 2:35 |
 | 76 | [TOXIC](https://open.spotify.com/track/1VDMwC7FdXCbeVCpeKUYjg) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [MENACE TO SOCIETY](https://open.spotify.com/album/1d6zYSMdMycQgpdwNUsORs) | 1:24 |
 | 77 | [1 BILLION STREAMS \(GOD IN THE MOSHPIT\)](https://open.spotify.com/track/0n3hr6cCiaPAdoEVdvZWIp) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [1 BILLION STREAMS \(GOD IN THE MOSHPIT\)](https://open.spotify.com/album/0YgWCLDiKIATF0izHt06wy) | 2:43 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 116 | [MONEY POWER FAME](https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [MONEY POWER FAME](https://open.spotify.com/album/3X3p3ZZ7VnV5JYwtfHUVQy) | 3:04 |
 | 117 | [GOD MODE!](https://open.spotify.com/track/21yw08HRAH2A7XAse3huYT) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [GOD MODE!](https://open.spotify.com/album/2zHlG0i6QwyFox9mhxynMO) | 2:43 |
 
-Snapshot ID: `MCxjZTZhYzZkYmM0MjgyNmJmNDc0MDhhMWRjYTUwMTBjOTAxYTI3M2Yz`
+Snapshot ID: `MCwyNzdhYWYwMzU2ODQwNTg0OTQ1MTNjN2UyOWFkNWJmNmM2Nzg2M2Yz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,097 likes - 148 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,135 likes - 148 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 64 | [Going Strong](https://open.spotify.com/track/2BUQdrNqOq1XwnArNzSSPC) | [Glen Horsborough](https://open.spotify.com/artist/1J46gHqs7zPa7Lciz41abR), [Karmina Dai](https://open.spotify.com/artist/05RLuucyiLswN7bNiV6Ma3) | [Going Strong](https://open.spotify.com/album/4nYb6g2RCh9GHmcLWPkKQV) | 3:28 |
 | 65 | [My Love](https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Charles J](https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS) | [My Love](https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF) | 2:45 |
 | 66 | [Forty Deuce](https://open.spotify.com/track/2N7zP7S8KVhS45lGwBTUXi) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Forty Deuce](https://open.spotify.com/album/6KvwtWrCaYwbOLJfLmxiAD) | 2:47 |
-| 67 | [Never](https://open.spotify.com/track/5ei2k7wVWl9mC4m868DGpg) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Never](https://open.spotify.com/album/30W1iOGLG0ow2OB2hKdzUy) | 3:57 |
+| 67 | [Never](https://open.spotify.com/track/73nTogU6ZaETCgRFTuTx0c) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Never](https://open.spotify.com/album/6HTxM9f12e8sUCZy5fBivj) | 3:57 |
 | 68 | [Sadcited](https://open.spotify.com/track/4G8ZQfRPoSrnlp69UY2WE6) | [Andrew Meller](https://open.spotify.com/artist/0kDJVZD3Kwg7YbFXqDI1Gm) | [Sadcited](https://open.spotify.com/album/0Wk8zixvkvPq6XZgIA7Wi0) | 3:31 |
 | 69 | [Good For Me](https://open.spotify.com/track/2wxdmzjFaMfNgbPjCJQRo7) | [Morixo](https://open.spotify.com/artist/5h8i76jHsKRSZGINg6NZGA), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Good For Me](https://open.spotify.com/album/43AlCqozg4WfDPBonV9SLK) | 2:42 |
 | 70 | [Someday \- Harris & Hurr Remix](https://open.spotify.com/track/0ad5utq7FrurJIMujXWBwy) | [Just Us](https://open.spotify.com/artist/6gZBuGRyiyGkAVFCJAWdMk), [Eddy](https://open.spotify.com/artist/0sbQ1fc2ccUXTTHCAhAo8I), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa), [Harris & Hurr](https://open.spotify.com/artist/2aNn60ycgLbQIyhyxMQrNb) | [Someday \(Harris & Hurr Remix\)](https://open.spotify.com/album/0WIYfupY0GUkK0fdoDw89S) | 3:40 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 82 | [Incapable](https://open.spotify.com/track/02CkWazM7YqypIxYKy3iSy) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Róisín Machine](https://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6) | 3:45 |
 | 83 | [Clouds](https://open.spotify.com/track/408bsdaoubEwBNge4SXKSa) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL) | [Clouds](https://open.spotify.com/album/48FqgHeNtZBXi5hgFmE0NM) | 2:27 |
 | 84 | [I'm For Real](https://open.spotify.com/track/7L1tW1wlZ3pqjA2GKXhMC6) | [Freejak](https://open.spotify.com/artist/3bhHEBJ3RJGTyOGp0KIB11) | [I'm For Real](https://open.spotify.com/album/0zasCtmr1pi8ATe2gYM1ji) | 2:40 |
-| 85 | [Let's Talk About It \- Friscia & Morel Radio Edit](https://open.spotify.com/track/0vDJ56mYYccvUO1PSWYycn) | [Darci](https://open.spotify.com/artist/2pv2BP3lz062km3ZCGubhe), [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy), [Glenn Friscia](https://open.spotify.com/artist/2ly9qGyXDBdgpWVvT3Fhrc) | [Let's Talk About It \(Mixes\)](https://open.spotify.com/album/083MwabOmFftpTP5OFGezy) | 4:00 |
+| 85 | [Let's Talk About It \(Friscia & Morel Radio Edit\)](https://open.spotify.com/track/3bVB5KSrrO37wOV0pfdO2b) | [Darci](https://open.spotify.com/artist/2pv2BP3lz062km3ZCGubhe), [Glenn Friscia](https://open.spotify.com/artist/2ly9qGyXDBdgpWVvT3Fhrc), [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Let's Talk About It \(Mixes\)](https://open.spotify.com/album/3V3cc7BR3WOGRF1OrCV5sa) | 4:00 |
 | 86 | [Lover 4 Now \(feat\. Todd Edwards\) \(Edit\)](https://open.spotify.com/track/6Hq3uq5WuAThcnuDUNyzQO) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Lover 4 Now \(feat\. Todd Edwards\) \[Edit\]](https://open.spotify.com/album/2PfzLGZl1mSVk7gKdXUoNP) | 3:22 |
 | 87 | [Why You \- Funkin Matt Remix](https://open.spotify.com/track/0fiLUTuGIXt733mRVK1evp) | [Kappekoff](https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ), [Jimmy Smash](https://open.spotify.com/artist/3ziswS6VSBGwPzIlvEV2zQ), [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Why You \(Funkin Matt Remix\)](https://open.spotify.com/album/56De2hpAP05AiZnkDFf24H) | 3:22 |
 | 88 | [Disco Hearts](https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Disco Hearts](https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg) | 3:01 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 147 | [How Do I Let Go](https://open.spotify.com/track/78F73J161TlcsWC7JckBZi) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [K.T\. Brooks](https://open.spotify.com/artist/0bDOIlJ0JD5pIKym4tvSNq) | [How Do I Let Go \(Remixes\)](https://open.spotify.com/album/2ktBDrGM9pKbxODAcWocIb) | 3:22 |
 | 148 | [Remedy \- JKriv Disco Dub](https://open.spotify.com/track/5llhpIgQ7QMPtzPQnKQhLG) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8), [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY), [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K) | [Remedy \(JKriv Disco Dub\)](https://open.spotify.com/album/0FjRPvYxx9h4jRVGh0LHYi) | 4:12 |
 
-Snapshot ID: `MCxmNjZkYWUzY2M5ZWI0OTEzZjcwYjQ0NGNmYThiY2Y5MzJlZDU5MDZk`
+Snapshot ID: `MCwzZWQ2NTVjMmM4ZTY5N2FlMzYxNzY1NGIwYWYyNjY3MmRiMTEwZTRm`

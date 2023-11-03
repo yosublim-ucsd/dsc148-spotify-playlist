@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Kodak Black, NLE Choppa and more\. Cover: 42 Dugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,487 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,619 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Bum Chick](https://open.spotify.com/track/1GYJs4h3xC7kYtPxk1nrWu) | [Terria Jai](https://open.spotify.com/artist/4S8zyeIJF0JZxYSQwkRQ5O) | [Bum Chick](https://open.spotify.com/album/6BkxAlUwMowAj56vfYdeIx) | 2:37 |
 | 49 | [Dunsin Wright](https://open.spotify.com/track/1yEUMs6qm47uQcnTWdc1BK) | [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj) | [Dunsin Wright](https://open.spotify.com/album/1Cnl2eE34Pkxa6WvhwSPbI) | 2:08 |
 
-Snapshot ID: `MCxiNTI3MTg1NjFjNDdiYmU0MzM4ZDg4MDM4YjUwZjBhNDRmMTI5NGZh`
+Snapshot ID: `MCxiZDJlZmRhMThjNmM4OWI1ZDIzYTVmNDcwYzFjMTM3NzQ0OWU3OGFm`

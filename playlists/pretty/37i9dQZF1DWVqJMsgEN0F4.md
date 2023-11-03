@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Noah Kahan along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,105 likes - 63 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,150 likes - 63 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 62 | [I'll Wait](https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [I'll Wait](https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1) | 2:52 |
 | 63 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 |
 
-Snapshot ID: `MCxiNmJhNjQ5NjExMGEyYzc4ZWZjODU1YjkxYjE0MGI2NmYxNDdjOWY1`
+Snapshot ID: `MCxiMjNmMWMyMDFiNTg0NTk3MzgzNDZjZWEzMDljZGQwMmI3NzM3OWU0`

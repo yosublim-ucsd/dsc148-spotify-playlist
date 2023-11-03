@@ -1730,10 +1730,28 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 679292,
       "name": "Vatapiganapatim",
       "url": "https://open.spotify.com/track/05c2F9UMy7TbfZc6Ws47ee"
+    },
+    {
+      "album": {
+        "name": "Yal Isai",
+        "url": "https://open.spotify.com/album/1feLE8ZNVHpIXb3ZYTOiNK"
+      },
+      "artists": [
+        {
+          "name": "Raghunath Manet",
+          "url": "https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 679292,
+      "name": "Vatapiganapatim",
+      "url": "https://open.spotify.com/track/5DdOYylQU9Y9ErAExTlTYo"
     },
     {
       "album": {

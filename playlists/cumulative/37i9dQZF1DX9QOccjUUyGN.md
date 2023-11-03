@@ -4,7 +4,7 @@
 
 > tranquilo e calmo, no flow\. Foto: Mac Júlia
 
-510 songs - 1 day 0 hr 28 min
+511 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,8 @@
 | [Hotwheels](https://open.spotify.com/track/69AqySpuWkazInvg0UN1Ii) | [2T](https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m) | [Hotwheels](https://open.spotify.com/album/7llrWWsS9AyromqsydpFU5) | 2:58 | 2023-07-14 | 2023-10-14 |
 | [HUGO BOSS](https://open.spotify.com/track/5G5P4zHSij8d744Rd8OYSG) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I), [HBe](https://open.spotify.com/artist/15rnS5CZKmu5FJ3fkM8C1y), [Dree](https://open.spotify.com/artist/0eHBdjeBg7lZqD4ntywa8H) | [HUGO BOSS](https://open.spotify.com/album/7mW0TZiMqIwviIVjSjcPPk) | 2:57 | 2022-04-29 | 2022-05-14 |
 | [Humildade e Disciplina](https://open.spotify.com/track/3DmjVHqWqPHbgsCYjcOOdM) | [Mr\. Catra](https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE), [WF Família Sagrada Família](https://open.spotify.com/artist/4cub4WLzDhmA2a9tH0MGzv) | [Humildade e Disciplina](https://open.spotify.com/album/3WdKg6Hf6rocYkdsZRpvru) | 4:50 | 2023-08-18 | 2023-09-02 |
-| [Iceberg](https://open.spotify.com/track/1nIQXwHaYPSwHWhefjnQqA) | [Lil Whind](https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr), [Tchaira](https://open.spotify.com/artist/33KPEtpT2llZQ7GDwjI9mr) | [Iceberg](https://open.spotify.com/album/7tJD6MhpzSBhdby3SdMOBS) | 3:15 | 2023-10-20 |  |
+| [Iceberg](https://open.spotify.com/track/1nIQXwHaYPSwHWhefjnQqA) | [Lil Whind](https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr), [Tchaira](https://open.spotify.com/artist/33KPEtpT2llZQ7GDwjI9mr) | [Iceberg](https://open.spotify.com/album/7tJD6MhpzSBhdby3SdMOBS) | 3:15 | 2023-10-20 | 2023-11-03 |
+| [Iceberg](https://open.spotify.com/track/4JdNhfgPhvtW2xXoycPqYA) | [Lil Whind](https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr), [Tchaira](https://open.spotify.com/artist/33KPEtpT2llZQ7GDwjI9mr) | [Iceberg](https://open.spotify.com/album/0fPmsSX8eS1ZCOqpoopZsT) | 3:15 | 2023-10-27 |  |
 | [Iluminado](https://open.spotify.com/track/4FQFum9XG0yqELcgZl4xf4) | [Mc Piedro](https://open.spotify.com/artist/4fBAsjJmj6lwaOuWS15stg), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Iluminado](https://open.spotify.com/album/5HJWlVN9RMFdUMfqwjIK4d) | 3:31 | 2022-10-14 | 2022-10-22 |
 | [Imperfeito](https://open.spotify.com/track/5H41OCQAoCMOWsfQDu9qER) | [KT Gomez](https://open.spotify.com/artist/703CEqKg3mMmHrGvzQhoBY), [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Imperfeito](https://open.spotify.com/album/1G0h6iNeBYcrf5Mm0nJL9x) | 2:15 | 2022-07-01 | 2023-02-11 |
 | [Indefesa](https://open.spotify.com/track/5PmOX2XieBfivisAAQ4SRo) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Pezão](https://open.spotify.com/artist/2UiLeUnwb6HIGBjyp6BK8J), [Dj Micão](https://open.spotify.com/artist/1Vry17r6SOWjvFmZ4yimk3) | [Indefesa](https://open.spotify.com/album/21RjS1VtMxE81irgVzdcuQ) | 2:11 | 2023-09-15 | 2023-10-14 |

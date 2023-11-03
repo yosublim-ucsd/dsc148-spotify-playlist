@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1970s.",
-  "num_followers": 28894,
+  "num_followers": 28897,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGFkZWEzYzU0M2FlNzRiYTc0NGYyMTgwMWYyYzNmNzY5ODg0NzY5",
+  "snapshot_id": "MCxmMTg5MzBmOWVhN2YxZjUzYWYxZmNkYmUyYWQ2YWQ0MDA5MjE3Zjdk",
   "tracks": [
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Candy-O",
-        "url": "https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/43G3McVkRa8V7oGQzfQuRr"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Bachman-Turner Overdrive II",
         "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 267066,
       "name": "Let It Ride",
       "url": "https://open.spotify.com/track/3UQA4UTVqcI0VtSQ38nlq1"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Candy-O",
+        "url": "https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/43G3McVkRa8V7oGQzfQuRr"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of The Who",
-        "url": "https://open.spotify.com/album/1SCBhdgoRZDnGNyUafyNJC"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 264440,
-      "name": "Join Together",
-      "url": "https://open.spotify.com/track/6JNVCUi0TUeNFVLvyXFJfN"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Approved By The Motors",
         "url": "https://open.spotify.com/album/6i97ms05bUtfv2sWTsvzYg"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 278933,
       "name": "Airport",
       "url": "https://open.spotify.com/track/6F0CQMioZrqgkp3oHx4hpY"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Who",
+        "url": "https://open.spotify.com/album/1SCBhdgoRZDnGNyUafyNJC"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 264440,
+      "name": "Join Together",
+      "url": "https://open.spotify.com/track/6JNVCUi0TUeNFVLvyXFJfN"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Suzi Quatro",
-        "url": "https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4"
-      },
-      "artists": [
-        {
-          "name": "Suzi Quatro",
-          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "48 Crash",
-      "url": "https://open.spotify.com/track/5mgZHaDo0dyTByF8pWu8Sj"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "When The Chips Are Down",
         "url": "https://open.spotify.com/album/4wJOL40iSM4TkmCfkkdkii"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 236373,
       "name": "The Wall Street Shuffle",
       "url": "https://open.spotify.com/track/3kXYV44ZUG4ajq89Cr6dK1"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Suzi Quatro",
+        "url": "https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "48 Crash",
+      "url": "https://open.spotify.com/track/5mgZHaDo0dyTByF8pWu8Sj"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Down the Dustpipe",
-        "url": "https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L"
-      },
-      "artists": [
-        {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
-        }
-      ],
-      "duration_ms": 122453,
-      "name": "Down the Dustpipe",
-      "url": "https://open.spotify.com/track/4ey3t8jCoQ7Q7M8BR09Zy0"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Sladest (Expanded)",
         "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 230173,
       "name": "Get Down and Get With It",
       "url": "https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Best Of Sweet",
+        "url": "https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG"
+      },
+      "artists": [
+        {
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Little Willy",
+      "url": "https://open.spotify.com/track/5l7WMtIUfX4D2XsHYOp4zV"
     },
     {
       "added_at": "2022-11-17 16:14:04",

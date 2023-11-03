@@ -4,7 +4,7 @@
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-167 songs - 14 hr 28 min
+168 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Rasool Al\-Hubb](https://open.spotify.com/track/0JEYlqvyWyRSRhNUuo5sQc) | [Ali Magrebi](https://open.spotify.com/artist/4GSR6lcJZdCOlptrvPtLSN) | [Rasool Al\-Hubb](https://open.spotify.com/album/5NlasRkSicVsI3RoZ7GmJX) | 4:21 | 2022-03-31 | 2022-04-18 |
 | [Rasool' Allah](https://open.spotify.com/track/1af0vooL60gYJQJlamSG5Q) | [Harris J.](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [The Best Of Islamic Music, Vol\. 5](https://open.spotify.com/album/6kHnBoNvgregQGeWLXw3PI) | 3:40 | 2022-03-31 | 2022-04-18 |
 | [Salaam](https://open.spotify.com/track/0ekuaPp7dcww2tlJsa3imW) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Ayisha Abdul Basith](https://open.spotify.com/artist/5CK0g8yxcuauorabPxsA5K), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Salaam](https://open.spotify.com/album/2URs3EtQlWwRCg7y4VEBgU) | 5:06 | 2022-10-06 |  |
-| [Sante Yalla](https://open.spotify.com/track/1fyJioPh0qZQUHY9mBwnHY) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Lamp Fall](https://open.spotify.com/album/2bO5zAnAVOkBwiEngpFHmn) | 4:37 | 2021-10-21 |  |
+| [Sante Yalla](https://open.spotify.com/track/1fyJioPh0qZQUHY9mBwnHY) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Lamp Fall](https://open.spotify.com/album/2bO5zAnAVOkBwiEngpFHmn) | 4:37 | 2021-10-21 | 2023-11-03 |
+| [Sante Yalla](https://open.spotify.com/track/0cJISh3v5VEvPFzzfIpHXB) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Lamp Fall](https://open.spotify.com/album/2MmpzIn90aQM3s26FVgPSW) | 4:41 | 2023-04-17 |  |
 | [Save Me from Myself](https://open.spotify.com/track/2ONvwZbeBicoCwgmnZyHfD) | [Harris J.](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [Save Me from Myself](https://open.spotify.com/album/4L0CRCmpM8pVm8H8dsKwOE) | 3:33 | 2022-03-31 | 2022-04-18 |
 | [Say Hi To My Demons \(feat\. Dounia\)](https://open.spotify.com/track/4wTuadp71TVNA0ylGRr3Zx) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [The Love Serum](https://open.spotify.com/album/1R4vMVfVsHGXew87eDsZ4c) | 3:18 | 2023-03-06 | 2023-03-14 |
 | [Searching \(feat\. Wafia & BEAM\)](https://open.spotify.com/track/1mJHsScnVxG4XghRhQf3C7) | [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Searching \(feat\. Wafia & BEAM\)](https://open.spotify.com/album/1dRWtSvF8V7PqfC5kFu81e) | 3:12 | 2023-03-06 | 2023-03-14 |

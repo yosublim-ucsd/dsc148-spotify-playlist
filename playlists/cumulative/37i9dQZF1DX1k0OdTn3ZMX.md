@@ -4,7 +4,7 @@
 
 > nü\-metal revival is happening here and now with WARGASM \(UK\).
 
-68 songs - 4 hr 2 min
+69 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [EMPTY](https://open.spotify.com/track/1lU1D4ay1tarkjkyEhxiSN) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [EMPTY](https://open.spotify.com/album/539efTuyDDvj6njVfILi0G) | 3:12 | 2023-09-13 | 2023-10-14 |
 | [Everything](https://open.spotify.com/track/0aBFPOcQfWPQZvdLx2jWmq) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Truth Killer](https://open.spotify.com/album/6YKRSUJ7jo99IYvHeOx5aT) | 4:18 | 2023-09-13 |  |
 | [Everything She Wants](https://open.spotify.com/track/01pR1krOFbSYfTbSaxYHq0) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Everything She Wants](https://open.spotify.com/album/5fCJH4JORE9qWixhlniKem) | 3:41 | 2023-09-13 |  |
-| [Evil](https://open.spotify.com/track/5mJ7uYK3uqOOoinTsVPBLT) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia \(Deluxe Version\)](https://open.spotify.com/album/08mukWlu8RaDICE3GvqO3l) | 2:43 | 2023-09-13 |  |
+| [Evil](https://open.spotify.com/track/1Ju0Y709MsCBs0c8XPu3Wk) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia \(Deluxe Version\)](https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi) | 2:43 | 2023-10-27 |  |
+| [Evil](https://open.spotify.com/track/5mJ7uYK3uqOOoinTsVPBLT) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia \(Deluxe Version\)](https://open.spotify.com/album/08mukWlu8RaDICE3GvqO3l) | 2:43 | 2023-09-13 | 2023-11-03 |
 | [Fallout](https://open.spotify.com/track/2RrDkTF6bgjgYsYN5HaaFB) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Paper Hearts](https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb) | 3:17 | 2023-09-29 |  |
 | [FAVOURITE SONG](https://open.spotify.com/track/2LoB1NRjAo8EPqwEn6fjDm) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA), [Elias Soriano](https://open.spotify.com/artist/2KBA0T3p9wkQ7nAHCVHavd) | [FAVOURITE SONG](https://open.spotify.com/album/2rbpMLrrlCMxAuGetCxq7K) | 3:34 | 2023-09-13 | 2023-10-07 |
 | [Feeling Fine](https://open.spotify.com/track/4dfaO9NHF8bqZKftENZssf) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [The DREGGmusic Mixtape](https://open.spotify.com/album/6Bdic8kP9fHguB8nEpeEpm) | 3:32 | 2023-09-13 | 2023-09-23 |

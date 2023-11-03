@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Direction of the Heart",
+        "url": "https://open.spotify.com/album/063hza1hher89jalSnmgd6"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242760,
+      "name": "Act of Love",
+      "url": "https://open.spotify.com/track/1IFqpCC51wa8vgXCoYhEFQ"
+    },
+    {
+      "album": {
         "name": "Act of Love",
         "url": "https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 242760,
       "name": "Act of Love",
       "url": "https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto"
@@ -834,7 +852,7 @@
     {
       "album": {
         "name": "I Am Not a Dog on a Chain",
-        "url": "https://open.spotify.com/album/40ujnXEoJYbg0AaI9iDaVN"
+        "url": "https://open.spotify.com/album/3KefOuS57gTHRoA4C1yagu"
       },
       "artists": [
         {
@@ -845,6 +863,24 @@
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205040,
+      "name": "Knockabout World",
+      "url": "https://open.spotify.com/track/0UvVaQkRZZ5czIzkRM6quL"
+    },
+    {
+      "album": {
+        "name": "I Am Not a Dog on a Chain",
+        "url": "https://open.spotify.com/album/40ujnXEoJYbg0AaI9iDaVN"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
       "duration_ms": 205040,
       "name": "Knockabout World",
       "url": "https://open.spotify.com/track/5Ru1T8rme8tDQWjADHrMSQ"
@@ -1452,7 +1488,7 @@
     {
       "album": {
         "name": "Diane Warren: The Cave Sessions, Vol. 1",
-        "url": "https://open.spotify.com/album/0ltGYHMBZivXbYkjbxyeVV"
+        "url": "https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re"
       },
       "artists": [
         {
@@ -1467,6 +1503,28 @@
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 221426,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/0gi4tWDQihbUabJVqWxmfU"
+    },
+    {
+      "album": {
+        "name": "Diane Warren: The Cave Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/0ltGYHMBZivXbYkjbxyeVV"
+      },
+      "artists": [
+        {
+          "name": "Diane Warren",
+          "url": "https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
       "duration_ms": 221426,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/6moeh7teMhi1ykOZNFDzP7"
@@ -1524,10 +1582,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 230893,
       "name": "The Buzz",
       "url": "https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc"
+    },
+    {
+      "album": {
+        "name": "Hate for Sale",
+        "url": "https://open.spotify.com/album/2joKvA9yLGNbbNZSUjr5l8"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230893,
+      "name": "The Buzz",
+      "url": "https://open.spotify.com/track/4ajcywJzXoL0S5x4LNQF74"
     },
     {
       "album": {

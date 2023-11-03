@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 12540,
+  "num_followers": 12566,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTM5MTRiN2E3N2IxYjU2Y2NlYjRkODk2MWVmZDMzNzUxZTE5Zjk1",
+  "snapshot_id": "MCw4MzBlNmRiMjQyMDI1OTQ4MDVhOGMyZTgzZWRjOGJiMDI1NjBiOTcw",
   "tracks": [
     {
       "added_at": "2023-10-27 03:01:00",
@@ -307,6 +307,34 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Unic\u00f3rnio",
+        "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        },
+        {
+          "name": "Pivet Panda",
+          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
+        }
+      ],
+      "duration_ms": 175543,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/6q0eaSM4WDEHavJ9BSbIfq"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Hipnose",
         "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
       },
@@ -323,22 +351,6 @@
       "duration_ms": 209471,
       "name": "Hipnose",
       "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Xona",
-        "url": "https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p"
-      },
-      "artists": [
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        }
-      ],
-      "duration_ms": 205431,
-      "name": "Xona",
-      "url": "https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -367,30 +379,18 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Unic\u00f3rnio",
-        "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
+        "name": "Xona",
+        "url": "https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p"
       },
       "artists": [
         {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        },
-        {
-          "name": "Pivet Panda",
-          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
         }
       ],
-      "duration_ms": 175543,
-      "name": "Online",
-      "url": "https://open.spotify.com/track/6q0eaSM4WDEHavJ9BSbIfq"
+      "duration_ms": 205431,
+      "name": "Xona",
+      "url": "https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -523,6 +523,30 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "A\u00ed \u00e9 Bom Demais",
+        "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
+      },
+      "artists": [
+        {
+          "name": "Garius",
+          "url": "https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Deagaene",
+          "url": "https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq"
+        }
+      ],
+      "duration_ms": 197667,
+      "name": "A\u00ed \u00e9 Bom Demais",
+      "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Quando c\u00ea vem",
         "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
       },
@@ -539,6 +563,46 @@
       "duration_ms": 216666,
       "name": "Quando c\u00ea vem",
       "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Encruzilhada",
+        "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
+      },
+      "artists": [
+        {
+          "name": "Young Piva",
+          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
+        },
+        {
+          "name": "Dactes",
+          "url": "https://open.spotify.com/artist/2zYKxqey1SNN4lFLjMw0FS"
+        }
+      ],
+      "duration_ms": 162774,
+      "name": "Oceano",
+      "url": "https://open.spotify.com/track/2c4suE33LALjs5wGWAnD4F"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Promessas",
+        "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Promessas",
+      "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -571,70 +635,6 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "A\u00ed \u00e9 Bom Demais",
-        "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
-      },
-      "artists": [
-        {
-          "name": "Garius",
-          "url": "https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA"
-        },
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Deagaene",
-          "url": "https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq"
-        }
-      ],
-      "duration_ms": 197667,
-      "name": "A\u00ed \u00e9 Bom Demais",
-      "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Promessas",
-        "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Promessas",
-      "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Encruzilhada",
-        "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
-      },
-      "artists": [
-        {
-          "name": "Young Piva",
-          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
-        },
-        {
-          "name": "Dactes",
-          "url": "https://open.spotify.com/artist/2zYKxqey1SNN4lFLjMw0FS"
-        }
-      ],
-      "duration_ms": 162774,
-      "name": "Oceano",
-      "url": "https://open.spotify.com/track/2c4suE33LALjs5wGWAnD4F"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
         "name": "Do Nada",
         "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
       },
@@ -655,6 +655,34 @@
       "duration_ms": 205531,
       "name": "Do Nada",
       "url": "https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Vit\u00f3ria Brindar",
+        "url": "https://open.spotify.com/album/0dgw83NEUgjL7oXjFFk75O"
+      },
+      "artists": [
+        {
+          "name": "BADZILLA",
+          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        },
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        },
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        }
+      ],
+      "duration_ms": 197558,
+      "name": "Vit\u00f3ria Brindar",
+      "url": "https://open.spotify.com/track/2udyF4SetdTT2OLhc9oO57"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -699,50 +727,18 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Vit\u00f3ria Brindar",
-        "url": "https://open.spotify.com/album/0dgw83NEUgjL7oXjFFk75O"
+        "name": "Ressaca",
+        "url": "https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG"
       },
       "artists": [
         {
-          "name": "BADZILLA",
-          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
-        },
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        },
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        },
-        {
-          "name": "Carlos do Complexo",
-          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
         }
       ],
-      "duration_ms": 197558,
-      "name": "Vit\u00f3ria Brindar",
-      "url": "https://open.spotify.com/track/2udyF4SetdTT2OLhc9oO57"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Lembra?",
-        "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
-      },
-      "artists": [
-        {
-          "name": "D'Castelo",
-          "url": "https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR"
-        },
-        {
-          "name": "BRUNNOASH",
-          "url": "https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd"
-        }
-      ],
-      "duration_ms": 220389,
-      "name": "Lembra?",
-      "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
+      "duration_ms": 238500,
+      "name": "Ressaca",
+      "url": "https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -771,18 +767,22 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Ressaca",
-        "url": "https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG"
+        "name": "Lembra?",
+        "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
       },
       "artists": [
         {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+          "name": "D'Castelo",
+          "url": "https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR"
+        },
+        {
+          "name": "BRUNNOASH",
+          "url": "https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd"
         }
       ],
-      "duration_ms": 238500,
-      "name": "Ressaca",
-      "url": "https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ"
+      "duration_ms": 220389,
+      "name": "Lembra?",
+      "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -799,46 +799,6 @@
       "duration_ms": 138145,
       "name": "Deixa Eu Mostrar",
       "url": "https://open.spotify.com/track/28dzpx9Sn1jmAvCNLoKqd8"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Yo Quiero Te Namorar",
-        "url": "https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq"
-      },
-      "artists": [
-        {
-          "name": "Negr\u00e3oDoC\u00e9u",
-          "url": "https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx"
-        },
-        {
-          "name": "DJFILLSP",
-          "url": "https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7"
-        }
-      ],
-      "duration_ms": 198070,
-      "name": "Yo Quiero Te Namorar",
-      "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Em Mim",
-        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
-      },
-      "artists": [
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        },
-        {
-          "name": "Guetta FInelly",
-          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
-        }
-      ],
-      "duration_ms": 126143,
-      "name": "Em Mim",
-      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -863,6 +823,26 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Em Mim",
+        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
+      },
+      "artists": [
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Guetta FInelly",
+          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
+        }
+      ],
+      "duration_ms": 126143,
+      "name": "Em Mim",
+      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Anel da Pandora",
         "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 199012,
       "name": "Anel da Pandora",
       "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Yo Quiero Te Namorar",
+        "url": "https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq"
+      },
+      "artists": [
+        {
+          "name": "Negr\u00e3oDoC\u00e9u",
+          "url": "https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx"
+        },
+        {
+          "name": "DJFILLSP",
+          "url": "https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7"
+        }
+      ],
+      "duration_ms": 198070,
+      "name": "Yo Quiero Te Namorar",
+      "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
     },
     {
       "added_at": "2023-10-27 03:01:00",

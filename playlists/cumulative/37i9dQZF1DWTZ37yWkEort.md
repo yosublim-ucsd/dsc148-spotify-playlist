@@ -4,7 +4,7 @@
 
 > From joyful jubillance to hushed harmonies\. Cover: Pentatonix
 
-75 songs - 3 hr 44 min
+76 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [We Need a Little Christmas](https://open.spotify.com/track/75ho68NuOvqytkUAVxYuW5) | [Voctave](https://open.spotify.com/artist/6qCQcw3ZKdmAFv0v4u5ey2) | [It Feels Like Christmas](https://open.spotify.com/album/1e49L78osVK0BiJK1pngDS) | 2:04 | 2023-10-20 |  |
 | [What Child Is This](https://open.spotify.com/track/0OjbIsZ9ttxQGBMO6d14LA) | [The Ball Brothers](https://open.spotify.com/artist/5XeW4GrOw5InOknCsAo1Js) | [What Child Is This](https://open.spotify.com/album/0CgbCARQPYaxnCeoVa71bH) | 3:33 | 2022-11-15 |  |
 | [White Christmas](https://open.spotify.com/track/7xAUdTrEWs1vyuXOn1VedQ) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Full Of \(Even More\) Cheer](https://open.spotify.com/album/5SbcA8VdE1sbaruTPZuhvm) | 2:55 | 2017-11-08 |  |
-| [Winter Wonderland](https://open.spotify.com/track/4ewNAc5D5Lm92YWbP0zI7R) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 1:40 | 2022-12-07 |  |
+| [Winter Wonderland](https://open.spotify.com/track/4ewNAc5D5Lm92YWbP0zI7R) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 1:40 | 2022-12-07 | 2023-11-03 |
+| [Winter Wonderland](https://open.spotify.com/track/7ecfZxGVN2PphzwOLd4GSQ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/0DmM20iJ1NjdQSxGs6kCGt) | 1:40 | 2022-12-07 |  |
 | [Winter Wonderland / Don't Worry Be Happy \(feat\. Tori Kelly\)](https://open.spotify.com/track/2kPpxNSgXRvu5yqkRLKJIu) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:27 | 2017-11-08 |  |
 | [Wonderful Christmastime \(feat\. Paul McCartney\)](https://open.spotify.com/track/3rv1v8eZSc7yZpjeZPpkUe) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Under the Influence: Holiday Edition](https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX) | 3:30 | 2017-11-08 |  |
 

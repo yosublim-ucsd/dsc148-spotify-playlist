@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Reba McEntire
 
-240 songs - 14 hr 9 min
+242 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Getting Good](https://open.spotify.com/track/0fyqiDJ5mBW00MO1HEAK52) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Getting Good](https://open.spotify.com/album/5dWadf8VCafr7fXtBFYcbd) | 3:21 | 2021-10-15 |  |
 | [Girls Night Out](https://open.spotify.com/track/7zvN3oGpyQIeLyjEI5DS3S) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [A Tribute To The Judds](https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy) | 3:04 | 2023-10-27 |  |
 | [God And Country Music](https://open.spotify.com/track/4RldvvNaEdteK2I0y6NWTR) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Honky Tonk Time Machine](https://open.spotify.com/album/1IwWcySO6hKQ8dsFVtJfz4) | 4:04 | 2021-10-15 |  |
-| [Going Out Like This](https://open.spotify.com/track/2La9vfJPqpxxKgOxCqlJT3) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Sippin' On The Simple Life](https://open.spotify.com/album/5vKquArL0GIKYNrNXpS3Mo) | 3:29 | 2021-10-15 |  |
+| [Going Out Like This](https://open.spotify.com/track/1HyY2kBqyd7uHtX0oitoJ0) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [God, Family, Country \(Deluxe Edition\)](https://open.spotify.com/album/1nGxSALyfv0Wq8CWZpIVnZ) | 3:29 | 2023-10-27 |  |
+| [Going Out Like This](https://open.spotify.com/track/2La9vfJPqpxxKgOxCqlJT3) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Sippin' On The Simple Life](https://open.spotify.com/album/5vKquArL0GIKYNrNXpS3Mo) | 3:29 | 2021-10-15 | 2023-11-03 |
 | [Gonna Be Alright](https://open.spotify.com/track/3wQWy9KSrcMviSoFRNGeDI) | [The Kentucky Headhunters](https://open.spotify.com/artist/2sgj794K3UaW1ApX28ZUhY) | [....That's a Fact Jack!](https://open.spotify.com/album/6B0g54q8KeALKIM1rARwmw) | 3:59 | 2021-11-19 | 2022-09-21 |
 | [Good Brown Gravy](https://open.spotify.com/track/4r73MgEVjf5xMkGui5tNeD) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794), [Wink Martindale](https://open.spotify.com/artist/1X5ZSwlYraWjWqjkkhJjdg) | [Good Brown Gravy](https://open.spotify.com/album/04FuVoV7pMjU94jTcUfRly) | 2:38 | 2021-10-15 | 2023-04-01 |
 | [Grass Is Green Enough Right Here](https://open.spotify.com/track/2tQFUEceD3I2SHKzT6u9Z4) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Grass Is Green Enough Right Here](https://open.spotify.com/album/2eNC9W2afhPJOYIp6qgFTm) | 2:26 | 2023-01-06 |  |
@@ -172,7 +173,8 @@
 | [Prisoner of the Highway \(feat\. Jason Aldean\)](https://open.spotify.com/track/2RRE3hNrMaEu2DQPff2N1s) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [The Duets](https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb) | 4:02 | 2021-10-15 |  |
 | [Racing The Dark](https://open.spotify.com/track/6LF3H7uTWWSuvfPEMPwlht) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Racing The Dark](https://open.spotify.com/album/7KD78g9ijzy7lwT8wCb1MT) | 3:56 | 2021-11-19 |  |
 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 | 2021-10-15 |  |
-| [Raise The Bar](https://open.spotify.com/track/7yVL4aBAimYa28PToT2tEF) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Enlisted](https://open.spotify.com/album/3vIkNPu2pu3EejaNlm0bBb) | 2:44 | 2023-10-20 |  |
+| [Raise The Bar](https://open.spotify.com/track/1YUgWK7N91H4tcjDdZivms) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 2:44 | 2023-10-27 |  |
+| [Raise The Bar](https://open.spotify.com/track/7yVL4aBAimYa28PToT2tEF) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Enlisted](https://open.spotify.com/album/3vIkNPu2pu3EejaNlm0bBb) | 2:44 | 2023-10-20 | 2023-11-03 |
 | [Ready As I'll Never Be](https://open.spotify.com/track/3ClP57EQSyJyWLpYgGD131) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Ready As I'll Never Be](https://open.spotify.com/album/5H0SF6b6zNFQ5GF6ixsZV1) | 4:01 | 2022-10-21 |  |
 | [Real Life \(I Never Was The Same Again\)](https://open.spotify.com/track/5mZ01tQEFBstAGa423rJdz) | [Jeff Carson](https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE), [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [448](https://open.spotify.com/album/72w05PERbBG9DsIxVe17Mi) | 4:22 | 2023-05-12 |  |
 | [Redhead](https://open.spotify.com/track/3zAnuUCPKbRBsOsllYCmFC) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Redhead](https://open.spotify.com/album/7hCl3yuH8JK5vRR0iSQpwF) | 2:43 | 2021-10-15 |  |

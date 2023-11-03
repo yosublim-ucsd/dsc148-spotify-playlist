@@ -1771,6 +1771,36 @@
     },
     {
       "album": {
+        "name": "CVLT",
+        "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174287,
+      "name": "MY LOVE SONG 2 (feat. Coez & Frah Quintale)",
+      "url": "https://open.spotify.com/track/3ySS2RpQNWsN5T88sfilZb"
+    },
+    {
+      "album": {
         "name": "Nessuno",
         "url": "https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt"
       },

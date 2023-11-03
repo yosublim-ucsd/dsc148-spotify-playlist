@@ -7202,6 +7202,24 @@
     {
       "album": {
         "name": "Confessions Of The Fallen",
+        "url": "https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237859,
+      "name": "Here And Now",
+      "url": "https://open.spotify.com/track/2yjbj0zHhk21ljCeMPs79g"
+    },
+    {
+      "album": {
+        "name": "Confessions Of The Fallen",
         "url": "https://open.spotify.com/album/7DOyUfUOWH3myPk79r8Js9"
       },
       "artists": [
@@ -7212,7 +7230,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 237859,
       "name": "Here And Now",
       "url": "https://open.spotify.com/track/5ESe8kptK06lCUzaCQUOzz"
@@ -7502,10 +7520,32 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 205779,
       "name": "House Of Mirrors (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/25LxbyfZpZW6P58X2MYO4A"
+    },
+    {
+      "album": {
+        "name": "Hotel Kalifornia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205779,
+      "name": "House Of Mirrors (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/7iANbpnadfUepWAYDrBqDb"
     },
     {
       "album": {

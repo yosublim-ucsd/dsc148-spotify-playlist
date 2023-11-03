@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-136 songs - 8 hr 52 min
+137 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Dope Dick Dealer](https://open.spotify.com/track/1qXfYFkZ6nfBml7WWJqCwq) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 4:20 | 2021-11-19 |  |
 | [Elements of Vogue \(David Depino 1989 Original Mix\)](https://open.spotify.com/track/5jruQE2mhCGgFHQKYvunzr) | [David Ian Xtravaganza](https://open.spotify.com/artist/6gbWKnQAgYskO6K73DfpZj), [Johnny Dynell](https://open.spotify.com/artist/0XymYIHmLsD5hqPChqR39b), [David Depino](https://open.spotify.com/artist/0JXWTnBz77ZovPqVzv9Q8o) | [Elements of Vogue](https://open.spotify.com/album/0n0xRDZi1aevgwwziZDEZU) | 7:35 | 2023-06-01 |  |
 | [Face / Look at That](https://open.spotify.com/track/1TNXEYH0QnKribMnTSKXwu) | [BE3K](https://open.spotify.com/artist/5CTU3qCfIjCOYMfzaPogFk) | [3](https://open.spotify.com/album/6AECp5wDwQilg07tmltSQd) | 3:07 | 2021-11-19 |  |
-| [Feel This \- Robbie Rivera's Mix](https://open.spotify.com/track/5eI7ZFkAD53lSERufsLF79) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Feel This](https://open.spotify.com/album/1pyIbjcsybRyXMBIXAt0sH) | 6:57 | 2021-11-19 |  |
+| [Feel This \(Robbie Rivera's Mix\)](https://open.spotify.com/track/2oL2XzBC6li9URWZlHX5Xu) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Feel This](https://open.spotify.com/album/6R9w3Ce7uh4nTs1IxquPyu) | 6:57 | 2023-07-14 |  |
+| [Feel This \- Robbie Rivera's Mix](https://open.spotify.com/track/5eI7ZFkAD53lSERufsLF79) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Feel This](https://open.spotify.com/album/1pyIbjcsybRyXMBIXAt0sH) | 6:57 | 2021-11-19 | 2023-11-03 |
 | [Feeling Good \(What Needs to Be Done\)](https://open.spotify.com/track/4NGWMqSa4Jq4NZZC8BkPfA) | [Tony Pops](https://open.spotify.com/artist/5mj4luWTTdAJNziIEQadc0) | [Feeling Good \(What Needs to Be Done\)](https://open.spotify.com/album/10R2UYAVywMSAScmmFN32Z) | 3:32 | 2021-11-19 | 2022-10-23 |
 | [Feeling Good \(What Needs to Be Done\)](https://open.spotify.com/track/6axRY6UyCCBa7zwbLCyDFB) | [Tony Pops](https://open.spotify.com/artist/5mj4luWTTdAJNziIEQadc0) | [Feeling Good \(What Needs to Be Done\)](https://open.spotify.com/album/1WKZw3XMQEhfSoimpKbGku) | 3:32 | 2022-08-05 |  |
 | [Feels Like](https://open.spotify.com/track/0F9v0lpBD93UIOh4g0BcPm) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o), [Kevin Jz Prodigy](https://open.spotify.com/artist/6f7VuR9EQ1JqkWXqGwvVH5) | [Let It All Out EP](https://open.spotify.com/album/1EjGCyMdcQlJM5aW4wpyaV) | 2:23 | 2021-11-19 | 2023-02-02 |

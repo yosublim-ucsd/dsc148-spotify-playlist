@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,494,505 likes - 130 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494,785 likes - 130 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 90 | [Let Me Go, Love](https://open.spotify.com/track/4Gkn68RCQMsPpBU1nCWikJ) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [In The Nick Of Time](https://open.spotify.com/album/2zVCb4GhgcJegyhF6DAmtC) | 3:49 |
 | 91 | [Bi\-Coastal](https://open.spotify.com/track/1JFt7RvlIgRrTs4dXYbw0o) | [Peter Allen](https://open.spotify.com/artist/6748v9yNrbb4PPJuvfoMRa) | [Bi\-Coastal](https://open.spotify.com/album/18q7pXVYXXcuDPkstx2yxC) | 4:21 |
 | 92 | [That Girl Is Gone](https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Anywhere You Go](https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo) | 4:44 |
-| 93 | [My Baby](https://open.spotify.com/track/70vrTJVm1XEcFklf5GskbE) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Absolute Yacht Rock](https://open.spotify.com/album/0BA1D14tvtZXOAgYdlGMvM) | 4:19 |
+| 93 | [My Baby](https://open.spotify.com/track/7xbpkpqhnksMOptxX6mPQG) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Anywhere You Go](https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo) | 4:15 |
 | 94 | [Got to Be Lovin' You](https://open.spotify.com/track/5JIobM5qcmVROZLIAJz4gD) | [Erik Tagg](https://open.spotify.com/artist/5zcCnWi56qN3EgcQZUg2gR) | [Rendez\-Vous](https://open.spotify.com/album/7hoTV10wiY6EFY9885V0p2) | 3:28 |
 | 95 | [Trouble in Paradise](https://open.spotify.com/track/3b9SxtCRgPFPtIGpv1qQ1t) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Jarreau](https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb) | 3:49 |
 | 96 | [Follow My Heart](https://open.spotify.com/track/55Os4TtuYgcPv4hsZFnazO) | [Faragher Brothers](https://open.spotify.com/artist/4zUTx3tB4IQyx7CorqZBHK) | [Family Ties](https://open.spotify.com/album/4KoLUDhdrouHCdIJvtR1un) | 4:18 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 129 | [Can't Be Seen](https://open.spotify.com/track/1l4laa9Q0HgJ4a4yTd08f5) | [Dane Donohue](https://open.spotify.com/artist/4kTI0EhldC81wN7PSBki3A) | [Dane Donohue](https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx) | 3:01 |
 | 130 | [Gotta Get Back to Love](https://open.spotify.com/track/2QQYco5UET8Ur8DMNcyfSE) | [Bill Champlin](https://open.spotify.com/artist/5pLqzTJecAKKbWw0MrDASt) | [Runaway](https://open.spotify.com/album/3GHUVmq8M8L0qoj65DOtTK) | 3:30 |
 
-Snapshot ID: `MCw0NTM1NmQ3OTAwOWVkYWE3ODkzM2Y0OWIxOTA1N2ZjN2UyODdjOTUz`
+Snapshot ID: `MCw2ZTlkMTQzYjNhNGRmMzVjNTFmNjY5YTIyMDc3YTUyYzQ2OWI2ODIz`

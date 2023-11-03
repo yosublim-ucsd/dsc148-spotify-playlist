@@ -662,6 +662,24 @@
     {
       "album": {
         "name": "Christmas Cookies",
+        "url": "https://open.spotify.com/album/0dnoi9VVLLN22DtSffkRFH"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198369,
+      "name": "Christmas Cookies",
+      "url": "https://open.spotify.com/track/5NixsLdtwMfknbheXQVxim"
+    },
+    {
+      "album": {
+        "name": "Christmas Cookies",
         "url": "https://open.spotify.com/album/39lVCJJRvz4FQ3ASPL1MiF"
       },
       "artists": [
@@ -672,7 +690,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 198369,
       "name": "Christmas Cookies",
       "url": "https://open.spotify.com/track/6dbIeqnVh8nlccrQYdpbGE"
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 186820,
       "name": "It's Beginning To Look A Lot Like Christmas",
       "url": "https://open.spotify.com/track/3hrl7X2gSOJtTrK8qFpPHF"
@@ -2532,6 +2550,24 @@
       "duration_ms": 176893,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/2AYgvrtpFIbF6Fkb02WVZ6"
+    },
+    {
+      "album": {
+        "name": "It\u2019s Beginning To Look A Lot Like Christmas",
+        "url": "https://open.spotify.com/album/5gHnrmivfRUXu9F81lFfcs"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186820,
+      "name": "It\u2019s Beginning To Look A Lot Like Christmas",
+      "url": "https://open.spotify.com/track/23LgVlL6cmRcyVG1xYELpG"
     },
     {
       "album": {
@@ -2916,6 +2952,24 @@
     {
       "album": {
         "name": "When I Think About Christmas - EP",
+        "url": "https://open.spotify.com/album/1E3LaJGrYDcOq8lJPMdfQL"
+      },
+      "artists": [
+        {
+          "name": "Runaway June",
+          "url": "https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150689,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/1vJ2OwQnaNWQGetZLelR4W"
+    },
+    {
+      "album": {
+        "name": "When I Think About Christmas - EP",
         "url": "https://open.spotify.com/album/3gQH1Pi2337CdgM0PTbRMU"
       },
       "artists": [
@@ -2926,7 +2980,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 150689,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/2jPq4RYw0mBadzf7j3RbGD"

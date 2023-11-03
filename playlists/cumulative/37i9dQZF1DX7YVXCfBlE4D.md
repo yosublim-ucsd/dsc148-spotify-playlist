@@ -4,7 +4,7 @@
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-376 songs - 18 hr 27 min
+377 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [La Novia Blanca](https://open.spotify.com/track/2uzsKG7DmFeI5PsAVXdAqJ) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [RCA 100 Años de Música](https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1) | 2:46 | 2022-01-21 |  |
 | [La Novia Blanca](https://open.spotify.com/track/0FIKnDUNJPcNNpcYAHu3Fj) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [Mar y Cielo de Mexico](https://open.spotify.com/album/7BnjqkvbioeD60fvZUYcmn) | 2:46 | 2022-01-21 | 2022-11-13 |
 | [La Novia Blanca \- Remasterizado](https://open.spotify.com/track/7nx2TU6UYwVauWmjTUw02A) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [Personalidad \- Los Grandes Trios](https://open.spotify.com/album/4QLJLbSp9Km75yfKVCO3aB) | 2:45 | 2021-05-15 | 2022-07-29 |
-| [La sitiera](https://open.spotify.com/track/4LuPdTen7rjDe7MghbLBZU) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 3:55 | 2022-01-21 |  |
+| [La sitiera](https://open.spotify.com/track/4LuPdTen7rjDe7MghbLBZU) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 3:55 | 2022-01-21 | 2023-11-03 |
+| [La Sitiera](https://open.spotify.com/track/0RNoltWT0pfyfjAWgLgUa9) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw) | 3:57 | 2022-12-30 |  |
 | [La Sitiera](https://open.spotify.com/track/4rMAQCWxtsNbPII2ias4wk) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O) | 3:57 | 2021-05-15 | 2022-07-29 |
 | [La Última Noche](https://open.spotify.com/track/0zP0gaAzc5IuSJ0ylSFY6d) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Las Estrellas De La Hora Azul](https://open.spotify.com/album/5SRBhKJUSKGNUnVFfdIzwU) | 2:52 | 2021-05-15 | 2022-01-22 |
 | [La Última Noche](https://open.spotify.com/track/5kvSTBAACXEz0RSWUBTTac) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Tesoros de Colección \- Las Estrellas de la Hora Azul, Vol\. 2](https://open.spotify.com/album/0hGvU70O1EgmXXyB1bhZjK) | 2:31 | 2021-05-15 | 2022-01-22 |

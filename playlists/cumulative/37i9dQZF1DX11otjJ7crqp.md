@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Alec Benjamin
 
-4,215 songs - 8 day 17 hr 25 min
+4,217 songs - 8 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3980,6 +3980,7 @@
 | [Watercolor Flowers](https://open.spotify.com/track/6l9MmERiCcHyTIU3fZI9Gt) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 4: The End](https://open.spotify.com/album/1I3cIvKGqoFQKnlLFhT9Lx) | 2:48 | 2023-09-22 | 2023-10-07 |
 | [Waterfall](https://open.spotify.com/track/18dLNiaYuTkTJv75oE9RQc) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Waterfall](https://open.spotify.com/album/4M3EW2YEjaUKwDUyCXOWC6) | 2:59 | 2023-06-30 | 2023-07-15 |
 | [Waves](https://open.spotify.com/track/3VAKlkSSrbEasm9WDDD9Jd) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Another Life](https://open.spotify.com/album/6TNSl6N3tdvWQ6hBm81Dz7) | 3:14 | 2023-05-05 | 2023-05-20 |
+| [Waves](https://open.spotify.com/track/6WBaB2VtZME06Wy2DmRpSa) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Waves](https://open.spotify.com/album/3iF8qGkmv3GeukyG2Gp23k) | 3:36 | 2023-10-27 |  |
 | [way after forever](https://open.spotify.com/track/0uhGgihlgkmAGZvp93rUwm) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [way after forever](https://open.spotify.com/album/2IHqIp7JN9bbL5sV4qdgx4) | 2:53 | 2023-03-10 | 2023-04-01 |
 | [Way Back](https://open.spotify.com/track/2mobDDzkskezluhIzhM7Sg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Way Back](https://open.spotify.com/album/01VCnhIMf2hE6FePTapW54) | 1:59 | 2023-01-06 | 2023-01-21 |
 | [WAY TOO YOUNG](https://open.spotify.com/track/75HTKKDdb3CMCt5xfd81fX) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [WAY TOO YOUNG](https://open.spotify.com/album/2JSgaCRTMXTrMqqQ23EAP8) | 2:58 | 2023-02-17 | 2023-03-04 |
@@ -4202,6 +4203,7 @@
 | [You're Free](https://open.spotify.com/track/0KF938333oCvIXDxe72K44) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [You're Free](https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM) | 2:47 | 2022-06-17 | 2022-07-02 |
 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 | 2023-09-29 | 2023-10-21 |
 | [you're just a guy](https://open.spotify.com/track/5few7Mi55PFf2E3o1lqiXI) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [you're just a guy](https://open.spotify.com/album/2vCgwGhSVhb2P0xna96RvN) | 3:50 | 2023-09-29 | 2023-10-21 |
+| [you're not a bad person](https://open.spotify.com/track/4ebE2i0CeVuKlOFtiCoKMA) | [Taylor Bickett](https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk) | [grown up and lonely](https://open.spotify.com/album/2xVOOfw2CwcLIhE06LqyIA) | 2:32 | 2023-10-27 |  |
 | [You're Not A God](https://open.spotify.com/track/6Ljsg7wOFnxT5YevmHxJUT) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [You're Not A God](https://open.spotify.com/album/5mSw3KJaIvvfnmLy2AOgys) | 3:03 | 2023-10-27 |  |
 | [You're Not Alone](https://open.spotify.com/track/63f61B8JBXiBE3O10tONIj) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [You're Not Alone](https://open.spotify.com/album/64DjedL9UoVQ23FnlqFZLl) | 3:19 | 2022-12-09 | 2022-12-31 |
 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 | 2022-07-15 | 2022-08-06 |

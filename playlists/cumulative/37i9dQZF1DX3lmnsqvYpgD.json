@@ -232,10 +232,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 244306,
       "name": "Never Been Kissed (Acoustic)",
       "url": "https://open.spotify.com/track/6Peafc0Wzi087a0aiCdll7"
+    },
+    {
+      "album": {
+        "name": "Kiss Kiss Kiss",
+        "url": "https://open.spotify.com/album/6R6b3p1Y5S3dt9QxBWvzjE"
+      },
+      "artists": [
+        {
+          "name": "At17",
+          "url": "https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244306,
+      "name": "Never Been Kissed - Acoustic Version",
+      "url": "https://open.spotify.com/track/1li3XwMukTvumthbu6SuQb"
     },
     {
       "album": {
@@ -542,10 +560,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 183746,
       "name": "\u4ed6\u548c\u5979\u7684\u4e8b\u60c5",
       "url": "https://open.spotify.com/track/1aMZI7tr6wygYe5kW3SzIX"
+    },
+    {
+      "album": {
+        "name": "Meow Meow Meow",
+        "url": "https://open.spotify.com/album/4tf3g3ybXnrKTqSRlbnOes"
+      },
+      "artists": [
+        {
+          "name": "At17",
+          "url": "https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183746,
+      "name": "\u4ed6\u548c\u5979\u7684\u4e8b\u60c5",
+      "url": "https://open.spotify.com/track/3ob29UHOkVjYTNNw8DMPTy"
     },
     {
       "album": {
@@ -806,6 +842,24 @@
     {
       "album": {
         "name": "Pillow talk",
+        "url": "https://open.spotify.com/album/6m0z8u7j9ljWBljjUJ3Wuz"
+      },
+      "artists": [
+        {
+          "name": "Ellen Loo",
+          "url": "https://open.spotify.com/artist/3fzkQF4hAwDkHQhzp5G2uC"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "\u5929\u8272\u5f88\u6697",
+      "url": "https://open.spotify.com/track/4BvISORbACwgXkE0Vl7Px0"
+    },
+    {
+      "album": {
+        "name": "Pillow talk",
         "url": "https://open.spotify.com/album/4nmZcy90HQtURY0QBIREQt"
       },
       "artists": [
@@ -816,7 +870,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 301000,
       "name": "\u5929\u8272\u5f88\u6697",
       "url": "https://open.spotify.com/track/6ZBumWehPjZ2ImcjUoFoso"

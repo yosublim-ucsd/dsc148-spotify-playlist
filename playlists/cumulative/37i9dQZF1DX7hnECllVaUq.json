@@ -2208,10 +2208,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 193040,
       "name": "wAnt me back",
       "url": "https://open.spotify.com/track/04FTCJKkMcFkTdGR7qC1Tm"
+    },
+    {
+      "album": {
+        "name": "heart theory",
+        "url": "https://open.spotify.com/album/4aWrYo1HHAwk367y7PJzIm"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "wAnt me back",
+      "url": "https://open.spotify.com/track/2eVDPSxBwwu5DBDRdlXhCM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,587 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,583 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 26 | [Se For pra Tudo Dar Errado](https://open.spotify.com/track/179NUF6b8tzp3Ni2aMGxgU) | [Tópaz](https://open.spotify.com/artist/2iiIiebCQqwrwCqARl4Q3A) | [Onze Nós](https://open.spotify.com/album/0FGNiPVp4mz4Az7EJdfWQ5) | 3:51 |
 | 27 | [O Mito Do Insubstituível](https://open.spotify.com/track/4ZwkThefEvGhFtUGDsb7Ut) | [R.Sigma](https://open.spotify.com/artist/3TNHibACw2s9PnGFgp4KSG) | [Reflita\-Se](https://open.spotify.com/album/3QEOelWGO0n3R9WwZ4TQ0y) | 3:08 |
 | 28 | [Aline](https://open.spotify.com/track/3GQKKCHtuRkS7RstsgWNJU) | [Skore](https://open.spotify.com/artist/5SMpPc5vINO0XkZFRkRxfw) | [Colisão](https://open.spotify.com/album/28HVFzRC5Qx8ul4pk8Z0cW) | 2:56 |
-| 29 | [Quebre As Correntes](https://open.spotify.com/track/0tu6BHa46Jb0Hah7QzRMBk) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/1nCMa3kC0kbnabvqKdH0aR) | 3:46 |
+| 29 | [Quebre As Correntes](https://open.spotify.com/track/26VzA1ncohB7RMsxpXWaZx) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/3LfBdvxxInsz67JEFGsZnO) | 3:46 |
 | 30 | [Deixar Partir](https://open.spotify.com/track/1KO2sIVY67lHRc0jpFOkUK) | [Emoponto](https://open.spotify.com/artist/5wybIAmMmNUQ4zmwRMODRb) | [Melhores Dias](https://open.spotify.com/album/07q5ehLPieuHrOoX3GO9KF) | 3:33 |
 | 31 | [Dúvida](https://open.spotify.com/track/2MDwOOsDyBdyLUDvE1oUJw) | [IUPI](https://open.spotify.com/artist/6oVKPGpUEElMF5ianQSNUZ) | [As Viagens da Vida](https://open.spotify.com/album/2SYgoE9bAOnW9aexP0DY66) | 3:10 |
 | 32 | [Aquela Música](https://open.spotify.com/track/1WxGfAHm6Fr8OH5yxaIzAJ) | [Fake Number](https://open.spotify.com/artist/20k5SIjfwIVAbfgXAhUZgg) | [Nostalgia Emo](https://open.spotify.com/album/7JQFn6CfVDe8iwmylzOtbi) | 4:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 59 | [Voltar a Ser Canção](https://open.spotify.com/track/4As0FVE0RhNu5nKYgHa3dN) | [Dom Pedro](https://open.spotify.com/artist/2dn4iIwTZDvX8suARVjwBs) | [Primeiro](https://open.spotify.com/album/0Q6r6sOigwWud4pXvg8BTH) | 4:04 |
 | 60 | [Olha minha cara](https://open.spotify.com/track/6y1ssXWGsye4VJsSOP50Kt) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/artist/0zpgOZi5pnXnFxanyxowaI) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/album/2O5Q1X14xnEt4AbS2QkbLp) | 3:31 |
 
-Snapshot ID: `MCw5NzFkNDhhYjM1ZDZiYjY2MTUyMTVkODJmY2NiMjMzYWM3ZjQ0YWM4`
+Snapshot ID: `MCwxNjQxMTRhYjdiOWM4MzczM2NiNDZjNjhmM2E0ZGI4MjczNzg5MmJm`

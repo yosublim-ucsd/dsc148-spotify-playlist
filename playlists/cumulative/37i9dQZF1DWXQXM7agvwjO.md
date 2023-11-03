@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: 椅子樂團 The Chairs \(Taiwan\)
 
-1,050 songs - 2 day 15 hr 0 min
+1,051 songs - 2 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -828,6 +828,7 @@
 | [The Chorus Superstar](https://open.spotify.com/track/66pXN7akoC2e9RrPOSjBWc) | [Space Cubs](https://open.spotify.com/artist/3JOcvznPQ58nkKmyZ31ex0) | [The Chorus Superstar](https://open.spotify.com/album/2BnDqpwaFMaO1wOl5I7pv0) | 3:32 | 2023-09-29 | 2023-10-20 |
 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 | 2023-08-17 |  |
 | [The Forgotten Honeymoon](https://open.spotify.com/track/0tFc5y2jQXoPdkQ3AyxvXM) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [The Forgotten Honeymoon](https://open.spotify.com/album/6gM2GBC8CCzZa6TDcgo3xe) | 3:34 | 2023-05-11 | 2023-06-02 |
+| [The Great Escape Of Our Time](https://open.spotify.com/track/3mrheKW3UCynKimx0O7rEd) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [The Great Escape Of Our Time](https://open.spotify.com/album/74K79LQUF1axz9ZXbBTojZ) | 3:12 | 2023-11-02 |  |
 | [The Man In The Mirror](https://open.spotify.com/track/4I63wEhh30DCcgKZjvvNjP) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [The Man In The Mirror](https://open.spotify.com/album/7IqiUPXlA1shnkGEx6ZZRj) | 4:26 | 2023-08-24 | 2023-10-18 |
 | [The Ones We Once Loved](https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Ones We Once Loved](https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX) | 4:33 | 2022-08-25 | 2022-11-18 |
 | [The Only Word I Know](https://open.spotify.com/track/4ywjl52RZkFVCAcgXTD4dg) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [The Only Word I Know](https://open.spotify.com/album/1LuGjHM03Id63XXJUOrW4V) | 3:03 | 2023-10-27 |  |

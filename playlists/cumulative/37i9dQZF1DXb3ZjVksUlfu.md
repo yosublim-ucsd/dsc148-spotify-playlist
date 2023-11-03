@@ -4,7 +4,7 @@
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-153 songs - 9 hr 7 min
+155 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Is She Really Going Out With Him?](https://open.spotify.com/track/17GEcOhfo7rRr3wKumLHV2) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Look Sharp! \(Remastered\)](https://open.spotify.com/album/7D82cIGmk9tZQusSVoRJfy) | 3:35 | 2021-11-17 | 2022-07-29 |
 | [Is She Really Going Out With Him?](https://open.spotify.com/track/29SRvYOKbMLOZeOubNGtLb) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Look Sharp!](https://open.spotify.com/album/6Bt6KjNfoCp6UbYVFGH4FH) | 3:35 | 2021-11-17 |  |
 | [Is She Really Going Out With Him?](https://open.spotify.com/track/6uOHaYLbcwmsAUplAHOPkL) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Classic Joe Jackson \(The Universal Masters Collection\)](https://open.spotify.com/album/6lf34vWTt3XlTUc7sDvJIQ) | 3:38 | 2022-09-29 | 2022-11-13 |
-| [Jilted John \- Single Version](https://open.spotify.com/track/6FxD82u5P8yKohcYYDxyqw) | [Jilted John](https://open.spotify.com/artist/7cvpTbz1cBUwRjLrcgobwm) | [True Love Stories](https://open.spotify.com/album/2dGQIwqXukGqWHHEqXLHWr) | 2:55 | 2021-11-17 |  |
+| [Jilted John \(Single Version\)](https://open.spotify.com/track/3e8KDtLBBlKur66SANv7Em) | [Jilted John](https://open.spotify.com/artist/7cvpTbz1cBUwRjLrcgobwm) | [True Love Stories](https://open.spotify.com/album/2odTi4imi7mihZjD74oM7L) | 2:55 | 2022-09-29 |  |
+| [Jilted John \- Single Version](https://open.spotify.com/track/6FxD82u5P8yKohcYYDxyqw) | [Jilted John](https://open.spotify.com/artist/7cvpTbz1cBUwRjLrcgobwm) | [True Love Stories](https://open.spotify.com/album/2dGQIwqXukGqWHHEqXLHWr) | 2:55 | 2021-11-17 | 2023-11-03 |
 | [Kick out the Jams](https://open.spotify.com/track/4l1Yx4GK7GU55Xtwl9we9U) | [MC5](https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf) | [Babes In Arms](https://open.spotify.com/album/38n0N0c03dT13TjJ5ppMCL) | 3:01 | 2021-11-17 |  |
 | [Let's Stick Together](https://open.spotify.com/track/6y4FVJwf09ssxuRnlEgXkp) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Let's Stick Together](https://open.spotify.com/album/7q7RBiiadKQR4DCbs7OMbd) | 2:59 | 2021-11-17 |  |
 | [Lola](https://open.spotify.com/track/0UAJH0k4k3slcE83a9UGCe) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. One](https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi) | 4:01 | 2021-11-17 | 2022-09-04 |
@@ -140,7 +141,8 @@
 | [Sound and Vision \- 2017 Remaster](https://open.spotify.com/track/1vP2JEXRsGrFbwOZ0foOQ5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 3:04 | 2021-11-17 |  |
 | [Starman \- 2012 Remaster](https://open.spotify.com/track/43R4zUjfnrz0rjlcdzir3D) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [ChangesTwoBowie](https://open.spotify.com/album/7xPIMxW4eWRTehFphCiDbH) | 4:14 | 2021-11-17 |  |
 | [Teenage Kicks](https://open.spotify.com/track/16jUJ4RsmyQG8z3clJuUaz) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones \(30th Anniversary Edition\)](https://open.spotify.com/album/1alUMzp8loodnpZkPdsP81) | 2:28 | 2021-11-17 | 2022-07-29 |
-| [Teenage Kicks](https://open.spotify.com/track/7ATyLePQnHxFk5kzxWCcsh) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/2CGEIN4OnLWDewCT7C4JLh) | 2:28 | 2021-11-17 |  |
+| [Teenage Kicks](https://open.spotify.com/track/7ATyLePQnHxFk5kzxWCcsh) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/2CGEIN4OnLWDewCT7C4JLh) | 2:28 | 2021-11-17 | 2023-11-03 |
+| [Teenage Kicks](https://open.spotify.com/track/7eQAIggvlFRVHMiMVw3OaS) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [Teenage Kicks EP](https://open.spotify.com/album/7Lu5TupvwrTTuleoR88Pd9) | 2:28 | 2022-09-29 |  |
 | [The Eton Rifles \- Demo Version](https://open.spotify.com/track/1wDMfayPCR7v55oGf5qgL3) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Setting Sons \(Super Deluxe\)](https://open.spotify.com/album/4GQmfMtt1JhIQLK3L6p5lo) | 3:30 | 2022-09-29 | 2022-11-13 |
 | [The Eton Rifles \- Single Edit](https://open.spotify.com/track/1Qb2f8cDXorwKTbY0nQ0IH) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Setting Sons \(Deluxe\)](https://open.spotify.com/album/3tKtB5gTaPvjOCfgF8UTo2) | 3:28 | 2021-11-17 | 2022-07-29 |
 | [The Eton Rifles \- Single Edit](https://open.spotify.com/track/72zLGWrF2jxT6qs9sjFMPz) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Setting Sons \(Deluxe\)](https://open.spotify.com/album/5UqCww4PYFMPWBMVfK0n8f) | 3:28 | 2021-11-17 |  |

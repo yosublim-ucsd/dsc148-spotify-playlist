@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 83286,
+  "num_followers": 83373,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmJjZjRiNmQ1NjRkOTNiMjczYTg0YzUyYWYxZjY1Y2YwYjEyNDc3",
+  "snapshot_id": "MCw0MmJkOWQ1NTQ1Zjk0ZTZmYzQzZjJjYTVlOTg2OGU5NjY5NzYzMTY0",
   "tracks": [
     {
       "added_at": "2023-09-29 15:52:17",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "The American Dollar",
-        "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
-      },
-      "artists": [
-        {
-          "name": "The American Dollar",
-          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "Peterson",
-      "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 355506,
       "name": "White Stork",
       "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "The American Dollar",
+        "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
+      },
+      "artists": [
+        {
+          "name": "The American Dollar",
+          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
+        }
+      ],
+      "duration_ms": 199813,
+      "name": "Peterson",
+      "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Drifting Ever Shifting",
-        "url": "https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb"
-      },
-      "artists": [
-        {
-          "name": "Seas of Years",
-          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Stairwell",
-      "url": "https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "This Patch of Sky",
         "url": "https://open.spotify.com/album/1SADIGwbbHfTihT6DryNQM"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 282981,
       "name": "Love Is in Beauty and Chaos",
       "url": "https://open.spotify.com/track/1vztv9K1JVzRzTT1d98aPN"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Drifting Ever Shifting",
+        "url": "https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb"
+      },
+      "artists": [
+        {
+          "name": "Seas of Years",
+          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Stairwell",
+      "url": "https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "In Gardens",
-        "url": "https://open.spotify.com/album/354ugiF6zocDzbvq5jgSGm"
+        "name": "Mockingbird Love",
+        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
       },
       "artists": [
         {
-          "name": "HOLM",
-          "url": "https://open.spotify.com/artist/1V45eg22S9YuA3rdgVPXKt"
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
         }
       ],
-      "duration_ms": 323395,
-      "name": "In Gardens",
-      "url": "https://open.spotify.com/track/104iLe9xEka0rgjZYrvZsa"
+      "duration_ms": 173853,
+      "name": "My Courtesan",
+      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Mockingbird Love",
-        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "My Courtesan",
-      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 332293,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "In Gardens",
+        "url": "https://open.spotify.com/album/354ugiF6zocDzbvq5jgSGm"
+      },
+      "artists": [
+        {
+          "name": "HOLM",
+          "url": "https://open.spotify.com/artist/1V45eg22S9YuA3rdgVPXKt"
+        }
+      ],
+      "duration_ms": 323395,
+      "name": "In Gardens",
+      "url": "https://open.spotify.com/track/104iLe9xEka0rgjZYrvZsa"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
-      },
-      "artists": [
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Astronomer",
-      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Pearldiving",
         "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
       },
@@ -1299,34 +1283,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "(not) alone",
-        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
       },
       "artists": [
         {
-          "name": "Johannes Baumer",
-          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
         }
       ],
-      "duration_ms": 279197,
-      "name": "(not) alone",
-      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/48zXekl1P8gRk1QQNa88MP"
-      },
-      "artists": [
-        {
-          "name": "Sleepsleeprepeat",
-          "url": "https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR"
-        }
-      ],
-      "duration_ms": 171958,
-      "name": "10",
-      "url": "https://open.spotify.com/track/5URbMHeFpOmRGUDZHs01po"
+      "duration_ms": 230000,
+      "name": "Astronomer",
+      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1347,6 +1315,38 @@
       "duration_ms": 360006,
       "name": "Love is a Shelter",
       "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/48zXekl1P8gRk1QQNa88MP"
+      },
+      "artists": [
+        {
+          "name": "Sleepsleeprepeat",
+          "url": "https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR"
+        }
+      ],
+      "duration_ms": 171958,
+      "name": "10",
+      "url": "https://open.spotify.com/track/5URbMHeFpOmRGUDZHs01po"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "(not) alone",
+        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+      },
+      "artists": [
+        {
+          "name": "Johannes Baumer",
+          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+        }
+      ],
+      "duration_ms": 279197,
+      "name": "(not) alone",
+      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Samadhi",
-        "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
+        "name": "Bloodsport",
+        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
       },
       "artists": [
         {
-          "name": "Ben Reneer",
-          "url": "https://open.spotify.com/artist/7asvd9rr7RZ56r10uKWd73"
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Samadhi",
-      "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
+      "duration_ms": 221775,
+      "name": "An Absolute Living Hell, Pt. 1",
+      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Bloodsport",
-        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
+        "name": "Samadhi",
+        "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
       },
       "artists": [
         {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+          "name": "Ben Reneer",
+          "url": "https://open.spotify.com/artist/7asvd9rr7RZ56r10uKWd73"
         }
       ],
-      "duration_ms": 221775,
-      "name": "An Absolute Living Hell, Pt. 1",
-      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
+      "duration_ms": 265000,
+      "name": "Samadhi",
+      "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
+        "name": "Offworld",
+        "url": "https://open.spotify.com/album/6tpZaw2NgfCBdGNHVaflwe"
+      },
+      "artists": [
+        {
+          "name": "Cahill Costello",
+          "url": "https://open.spotify.com/artist/2Hx8lclV6wl5gP4ronSGWm"
+        }
+      ],
+      "duration_ms": 481560,
+      "name": "Pavan II",
+      "url": "https://open.spotify.com/track/0RpvzpYNOegtn3k6MxiXav"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
         "name": "In a Sad Red Dusk, We Were Finally Leaving",
         "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 318240,
       "name": "Secret Colours",
       "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "Offworld",
-        "url": "https://open.spotify.com/album/6tpZaw2NgfCBdGNHVaflwe"
-      },
-      "artists": [
-        {
-          "name": "Cahill Costello",
-          "url": "https://open.spotify.com/artist/2Hx8lclV6wl5gP4ronSGWm"
-        }
-      ],
-      "duration_ms": 481560,
-      "name": "Pavan II",
-      "url": "https://open.spotify.com/track/0RpvzpYNOegtn3k6MxiXav"
     },
     {
       "added_at": "2023-09-29 15:52:17",

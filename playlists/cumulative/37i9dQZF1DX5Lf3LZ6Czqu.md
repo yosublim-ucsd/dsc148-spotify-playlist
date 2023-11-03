@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-125 songs - 9 hr 25 min
+126 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Reflective](https://open.spotify.com/track/28iQulj2Omv4SI3N5G3RWd) | [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [Sounds of Innocence](https://open.spotify.com/album/4NvAMdVVeCkqIW6oV4KEkk) | 3:45 | 2021-05-04 |  |
 | [Reflective](https://open.spotify.com/track/5B6lWsQXoKghgupCA5yNRY) | [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [Sounds of Innocence](https://open.spotify.com/album/0rtwwQetfvL67PGfCQcngs) | 3:45 | 2021-05-04 | 2022-07-29 |
 | [Revenge Of The Nerd](https://open.spotify.com/track/2oPdW4tRE5sc7xJYdhz6XM) | [Pete Thorn](https://open.spotify.com/artist/2fGIc4JSHwzCB7HIzATFtV) | [Guitar Nerd](https://open.spotify.com/album/3t4ggDv6r3gLGuIyK25Yet) | 4:34 | 2022-07-29 |  |
-| [Reverie](https://open.spotify.com/track/1W5zSvAeIXlw6odInPE4m5) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 4:02 | 2022-10-28 |  |
+| [Reverie](https://open.spotify.com/track/07QlP7twNI81IsqhKLFiER) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Remember That You Will Die](https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw) | 4:02 | 2022-10-28 |  |
+| [Reverie](https://open.spotify.com/track/1W5zSvAeIXlw6odInPE4m5) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 4:02 | 2022-10-28 | 2023-11-03 |
 | [Riverside Cake](https://open.spotify.com/track/2srAO5RpA2itSztEfbhRsR) | [Keanu Ienco](https://open.spotify.com/artist/13kGFdMMZXBatYiqXx2Wuw) | [Celestial Desire](https://open.spotify.com/album/6yHsXLT981Lxq675nClwrJ) | 5:05 | 2022-03-18 |  |
 | [Sahara](https://open.spotify.com/track/1IyZMP5uZjbk8sbGOC98CG) | [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [The Elephants of Mars](https://open.spotify.com/album/5H7fMVvjyesjzHqRM5GujF) | 4:36 | 2022-10-11 |  |
 | [Samba Party](https://open.spotify.com/track/0eUyzOmDqoRNS65SQ3arbn) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [Samba Party](https://open.spotify.com/album/16VbSzKOdKqSwT1uwFAMPz) | 3:38 | 2023-06-23 |  |

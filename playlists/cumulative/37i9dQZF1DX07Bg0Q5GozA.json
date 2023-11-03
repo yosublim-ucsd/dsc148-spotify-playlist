@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: The Voidz",
+  "description": "New music off the beaten track. Cover: Johannes Albert",
   "name": "OFF POP",
   "tracks": [
     {
@@ -1037,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/5NL9Y6NmINk1M2RcgEZMdO"
+      },
+      "artists": [
+        {
+          "name": "Zoot Woman",
+          "url": "https://open.spotify.com/artist/25w2vpqq7dYleBAqMx7Ijx"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167695,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/4A2dPNaGmJxLdi3t0prhda"
+    },
+    {
+      "album": {
         "name": "Blue Lights",
         "url": "https://open.spotify.com/album/1ZsDpgACrpIQ2w4qctiPF7"
       },
@@ -1350,10 +1368,32 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 240013,
       "name": "Chamallow",
       "url": "https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q"
+    },
+    {
+      "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/2UvQHB82C2ubSiIpLVbGEC"
+      },
+      "artists": [
+        {
+          "name": "Deorbiting",
+          "url": "https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr"
+        },
+        {
+          "name": "Ira Atari",
+          "url": "https://open.spotify.com/artist/6xh4CCUrcNmMuODz3OKduD"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318790,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/26cZVpJOFxTweuxazYLorj"
     },
     {
       "album": {
@@ -1648,6 +1688,24 @@
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
+    },
+    {
+      "album": {
+        "name": "Create-A-Dance",
+        "url": "https://open.spotify.com/album/02L5fOvPVQcqe59P0vvXz2"
+      },
+      "artists": [
+        {
+          "name": "Johannes Albert",
+          "url": "https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360734,
+      "name": "Create-A-Dance",
+      "url": "https://open.spotify.com/track/5UDaXmAjlI7d3DpYeDA4Gf"
     },
     {
       "album": {
@@ -2702,7 +2760,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 190019,
       "name": "Ether",
       "url": "https://open.spotify.com/track/5IyOYclKa9w9sjEeewNDmu"
@@ -2840,7 +2898,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 267842,
       "name": "Fading",
       "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
@@ -3488,7 +3546,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 269249,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
@@ -4118,7 +4176,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 215966,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/5SOmkWOL2ODA3ZY2Y5B4SM"
@@ -4162,6 +4220,28 @@
       "duration_ms": 190000,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo"
+    },
+    {
+      "album": {
+        "name": "House of Love",
+        "url": "https://open.spotify.com/album/3Jt6tt1pUmASvChPYGdEeq"
+      },
+      "artists": [
+        {
+          "name": "Enda Gallery",
+          "url": "https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET"
+        },
+        {
+          "name": "Nicon\u00e9",
+          "url": "https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309421,
+      "name": "House of Love",
+      "url": "https://open.spotify.com/track/6ElurfirOqT72TO31NQtCp"
     },
     {
       "album": {
@@ -4660,6 +4740,28 @@
       "duration_ms": 165978,
       "name": "Into You - Vienna Nights Mix",
       "url": "https://open.spotify.com/track/461hznkAq17ywDHFzqA34b"
+    },
+    {
+      "album": {
+        "name": "Trip to Sanity",
+        "url": "https://open.spotify.com/album/7yHFXNvk1C4XzbNUOTYa3u"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186815,
+      "name": "Is It Real",
+      "url": "https://open.spotify.com/track/6kVCl8UmYJnLqgP0xIRpaX"
     },
     {
       "album": {
@@ -6134,7 +6236,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 205026,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/3dyI5XL7jMz905RsJiGDjf"
@@ -6681,6 +6783,32 @@
     },
     {
       "album": {
+        "name": "One Last Call",
+        "url": "https://open.spotify.com/album/6QSHLUdOOiWVjjt3KI30ei"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Lola Melita",
+          "url": "https://open.spotify.com/artist/3tEXliVP7fJ9B0e1cJCsxI"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "One Last Call",
+      "url": "https://open.spotify.com/track/4JNzccE5ZScrztydSzruE1"
+    },
+    {
+      "album": {
         "name": "Daft Club",
         "url": "https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG"
       },
@@ -6732,7 +6860,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 141760,
       "name": "Only One - Edit",
       "url": "https://open.spotify.com/track/2cwc7ivNywSOzZS0N2mq9o"
@@ -6990,7 +7118,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 239946,
       "name": "Personal Effects",
       "url": "https://open.spotify.com/track/03BQfMy5WubpVtroojnaxA"
@@ -7340,6 +7468,28 @@
       "duration_ms": 236820,
       "name": "Rum 'n' Kola",
       "url": "https://open.spotify.com/track/1Crjjx5PvMKTanY2qT7kIZ"
+    },
+    {
+      "album": {
+        "name": "Rum 'n' Kola (Sam Ruffillo Remix)",
+        "url": "https://open.spotify.com/album/48NzH9Bl9Nt66W4wR9Rn9T"
+      },
+      "artists": [
+        {
+          "name": "Baby's Berserk",
+          "url": "https://open.spotify.com/artist/7qoypmsmoFKt8lXJcTcM8w"
+        },
+        {
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334121,
+      "name": "Rum 'n' Kola - Sam Ruffillo Remix",
+      "url": "https://open.spotify.com/track/4viD8wKTDGo1DijwbwS0g1"
     },
     {
       "album": {
@@ -9330,6 +9480,24 @@
       "duration_ms": 345643,
       "name": "Tru Dancing",
       "url": "https://open.spotify.com/track/0M5nj7eG7QcDrdlzOv86c3"
+    },
+    {
+      "album": {
+        "name": "Trust Again",
+        "url": "https://open.spotify.com/album/2wLRd0zrL5bjo1gpDQ8VHP"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230655,
+      "name": "Trust Again",
+      "url": "https://open.spotify.com/track/6UtNK0tycnvtCAPtCHxZ5b"
     },
     {
       "album": {

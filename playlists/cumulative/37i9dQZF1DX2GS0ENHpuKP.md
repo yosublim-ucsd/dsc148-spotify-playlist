@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-69 songs - 5 hr 51 min
+70 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Lady Bug \- Disco Mix](https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 9:49 | 2022-07-19 |  |
 | [Lay me down](https://open.spotify.com/track/6eg9DYfZBvIC7mFFG8bFWm) | [Renee](https://open.spotify.com/artist/340HmOr2JbZmH0a385jG52) | [Reaching for the sky](https://open.spotify.com/album/2581zQajuI7xJaQlRZO18y) | 3:53 | 2023-05-24 |  |
 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 | 2022-07-19 |  |
-| [Love the Way You Love Me](https://open.spotify.com/track/4pZQtqA3P3e1gjgwPOHDUC) | [Marti Caine](https://open.spotify.com/artist/2Asz2q8VeIAWDPvntbntpH) | [Point of View](https://open.spotify.com/album/2sd11k9VyIGNlHiTK2f9nD) | 5:38 | 2023-05-24 |  |
+| [Love the Way You Love Me](https://open.spotify.com/track/20pLtbIDmrm5W4bBTLGM7V) | [Marti Caine](https://open.spotify.com/artist/2Asz2q8VeIAWDPvntbntpH) | [Point of View](https://open.spotify.com/album/5GATr8v7oA1JKjBQTG7iy9) | 5:38 | 2023-05-24 |  |
+| [Love the Way You Love Me](https://open.spotify.com/track/4pZQtqA3P3e1gjgwPOHDUC) | [Marti Caine](https://open.spotify.com/artist/2Asz2q8VeIAWDPvntbntpH) | [Point of View](https://open.spotify.com/album/2sd11k9VyIGNlHiTK2f9nD) | 5:38 | 2023-05-24 | 2023-11-03 |
 | [Luna Lù](https://open.spotify.com/track/0vOSUXD0HooDmX1lZdc4xL) | [Antonio Sorrentino](https://open.spotify.com/artist/3bcYSJSQYuSKp5LoYD4VkM) | [Napoli Segreta Vol.2](https://open.spotify.com/album/4OFycCEd9tvzBSXGc3tVaG) | 4:33 | 2022-07-19 |  |
 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 | 2022-07-19 |  |
 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 | 2022-07-19 |  |

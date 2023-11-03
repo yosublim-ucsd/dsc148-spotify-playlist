@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: XG\n",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: JO1\n",
   "name": "Gacha Pop",
   "tracks": [
+    {
+      "album": {
+        "name": "01",
+        "url": "https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz"
+      },
+      "artists": [
+        {
+          "name": "QUEEN BEE",
+          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186706,
+      "name": "01",
+      "url": "https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T"
+    },
     {
       "album": {
         "name": "abon",
@@ -336,7 +354,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 235637,
       "name": "Burn The Fire",
       "url": "https://open.spotify.com/track/6FqxaTZhLuGWc89hc9ZOMe"
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 223600,
       "name": "Hanaarashi",
       "url": "https://open.spotify.com/track/7appEyBT2D7skgWyyb5klH"
@@ -1205,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "gokigen",
+        "url": "https://open.spotify.com/album/4vNzwzawCSP3840t0wVEdE"
+      },
+      "artists": [
+        {
+          "name": "chelmico",
+          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173288,
+      "name": "ISOGA\u2661PEACH",
+      "url": "https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs"
+    },
+    {
+      "album": {
         "name": "JUST DANCE!",
         "url": "https://open.spotify.com/album/5pNQWKfMgZXtN6rCXoFgLT"
       },
@@ -1220,6 +1256,24 @@
       "duration_ms": 177407,
       "name": "JUST DANCE!",
       "url": "https://open.spotify.com/track/337dZo6Fo3hIq0iMANoZmS"
+    },
+    {
+      "album": {
+        "name": "Kaikai Kitan / Ao No Waltz",
+        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "Kaikai Kitan",
+      "url": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
     },
     {
       "album": {
@@ -3088,7 +3142,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 208981,
       "name": "Zurukunai?",
       "url": "https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH"
@@ -3384,7 +3438,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 290293,
       "name": "\u30a4\u30f3\u30d2\u30e5\u30fc\u30de\u30f3\u30a8\u30f3\u30d1\u30b7\u30fc",
       "url": "https://open.spotify.com/track/6ite4gtP02Vfb8NvXxlI1Q"
@@ -4212,6 +4266,28 @@
       "duration_ms": 202858,
       "name": "\u7518\u565b\u307f\u3067\u304a\u306d\u304c\u3044",
       "url": "https://open.spotify.com/track/6kR2jpVbk0e7uBVjWkGuTC"
+    },
+    {
+      "album": {
+        "name": "\u7720\u308c\u306a\u3044",
+        "url": "https://open.spotify.com/album/70pTLXqIjxiRFycmU3VRB4"
+      },
+      "artists": [
+        {
+          "name": "MIMiNARI",
+          "url": "https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv"
+        },
+        {
+          "name": "\u6960\u6728 \u3068\u3082\u308a",
+          "url": "https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227845,
+      "name": "\u7720\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/12al9sDYshsCcdF4HMuIpZ"
     },
     {
       "album": {

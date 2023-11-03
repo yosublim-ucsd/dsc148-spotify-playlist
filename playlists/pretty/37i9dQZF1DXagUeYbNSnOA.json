@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Baby City Club. Updates every Wednesday.",
-  "num_followers": 172630,
+  "num_followers": 172649,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWMwNGU5ZTNlMzZkMmEyZTNkMjZhNWNkMjE5MjM1Y2ZhMTA3ZmE1",
+  "snapshot_id": "MCwzMDVjYjY3ZDRiYmU1MjUyZDI4MzU5NTQ4MzllMzJiNzVlNzUzYzBh",
   "tracks": [
     {
       "added_at": "2023-10-25 04:00:00",
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-10-25 04:00:00",
       "album": {
-        "name": "Qui\u00e9n me va a Cuidar",
-        "url": "https://open.spotify.com/album/6JJUxUcY7NDbfjgWuvSZLU"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        },
-        {
-          "name": "El Mulu",
-          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
-        }
-      ],
-      "duration_ms": 202814,
-      "name": "Qui\u00e9n me va a Cuidar",
-      "url": "https://open.spotify.com/track/7E7IomTA0czZ9RfuHDCpce"
-    },
-    {
-      "added_at": "2023-10-25 04:00:00",
-      "album": {
         "name": "hola bb",
         "url": "https://open.spotify.com/album/1fkR4uAUXPeTpiZ2lECvNc"
       },
@@ -515,6 +495,22 @@
       "duration_ms": 114626,
       "name": "hola bb",
       "url": "https://open.spotify.com/track/5x33Y41pVO5zJT8eAgS35u"
+    },
+    {
+      "added_at": "2023-10-25 04:00:00",
+      "album": {
+        "name": "Japon",
+        "url": "https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv"
+      },
+      "artists": [
+        {
+          "name": "Barbara Doza",
+          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
+        }
+      ],
+      "duration_ms": 170920,
+      "name": "Japon",
+      "url": "https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9"
     },
     {
       "added_at": "2023-10-25 04:00:00",
@@ -535,22 +531,22 @@
     {
       "added_at": "2023-10-25 04:00:00",
       "album": {
-        "name": "COREO # 2",
-        "url": "https://open.spotify.com/album/70wQiLgM2vrSvrOQhSmVFe"
+        "name": "Qui\u00e9n me va a Cuidar",
+        "url": "https://open.spotify.com/album/6JJUxUcY7NDbfjgWuvSZLU"
       },
       "artists": [
         {
-          "name": "Valeria Sandoval",
-          "url": "https://open.spotify.com/artist/51fdZdVcBwjviXCMKgbklL"
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
         },
         {
-          "name": "La Gabi",
-          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
         }
       ],
-      "duration_ms": 111890,
-      "name": "COREO # 2",
-      "url": "https://open.spotify.com/track/1V9IPUC0M3KvCE8woMsAQr"
+      "duration_ms": 202814,
+      "name": "Qui\u00e9n me va a Cuidar",
+      "url": "https://open.spotify.com/track/7E7IomTA0czZ9RfuHDCpce"
     },
     {
       "added_at": "2023-10-25 04:00:00",
@@ -575,18 +571,38 @@
     {
       "added_at": "2023-10-25 04:00:00",
       "album": {
-        "name": "Japon",
-        "url": "https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv"
+        "name": "COREO # 2",
+        "url": "https://open.spotify.com/album/70wQiLgM2vrSvrOQhSmVFe"
       },
       "artists": [
         {
-          "name": "Barbara Doza",
-          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
+          "name": "Valeria Sandoval",
+          "url": "https://open.spotify.com/artist/51fdZdVcBwjviXCMKgbklL"
+        },
+        {
+          "name": "La Gabi",
+          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
         }
       ],
-      "duration_ms": 170920,
-      "name": "Japon",
-      "url": "https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9"
+      "duration_ms": 111890,
+      "name": "COREO # 2",
+      "url": "https://open.spotify.com/track/1V9IPUC0M3KvCE8woMsAQr"
+    },
+    {
+      "added_at": "2023-10-25 04:00:00",
+      "album": {
+        "name": "Una Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1viiLY7oeUX6GkIdJ9XxnZ"
+      },
+      "artists": [
+        {
+          "name": "Caramelo Haze",
+          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
+        }
+      ],
+      "duration_ms": 221831,
+      "name": "Una Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4svWyFxwaXJYfLlUNqw0uv"
     },
     {
       "added_at": "2023-10-25 04:00:00",
@@ -611,22 +627,6 @@
       "duration_ms": 220708,
       "name": "Verito de la Perla",
       "url": "https://open.spotify.com/track/1TPyTg3Hws6vnF7I5zfJtA"
-    },
-    {
-      "added_at": "2023-10-25 04:00:00",
-      "album": {
-        "name": "Una Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1viiLY7oeUX6GkIdJ9XxnZ"
-      },
-      "artists": [
-        {
-          "name": "Caramelo Haze",
-          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Una Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4svWyFxwaXJYfLlUNqw0uv"
     },
     {
       "added_at": "2023-10-25 04:00:00",

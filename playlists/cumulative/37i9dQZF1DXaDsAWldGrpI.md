@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-134 songs - 9 hr 29 min
+135 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Good as You \- Live](https://open.spotify.com/track/1zX4O1ezEkxMoEQsVw2eMA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Good as You \(Live\)](https://open.spotify.com/album/4NW8NWLP5yMRXE5NjUMAn9) | 3:22 | 2021-07-22 |  |
 | [Good Day \- Live From Europe](https://open.spotify.com/track/4AQUPrWg2NKDJbLpHXBhol) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Live From Europe EP](https://open.spotify.com/album/16Ev85nNlG1LWDCiAsx75M) | 4:03 | 2022-07-22 |  |
 | [Good Day \- Live From Europe](https://open.spotify.com/track/7d0qq889i0z5coOE9cA0Np) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Good Day \(Live From Europe\)](https://open.spotify.com/album/5vs9YwpFEVlLfxf47rFX7Z) | 4:03 | 2021-07-22 | 2022-07-29 |
-| [Good Time To Me \(feat\. Lainey Wilson\) \- Live From Nashville's Big Bash](https://open.spotify.com/track/0aHmuFZ34nExkvbmjDv7ek) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Good Time To Me \(feat\. Lainey Wilson\) \[Live From Nashville's Big Bash\]](https://open.spotify.com/album/4nDvHGMIneRWxLaAhZX9Iv) | 3:02 | 2022-01-07 |  |
+| [Good Time To Me \(feat\. Lainey Wilson\) \(Live From Nashville's Big Bash\)](https://open.spotify.com/track/4skqcqegMq41BXYpJp0C9Z) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Good Time To Me \(feat\. Lainey Wilson\) \[Live From Nashville's Big Bash\]](https://open.spotify.com/album/1vsE3mQE0OdmBv2VfMhjs1) | 3:02 | 2023-10-27 |  |
+| [Good Time To Me \(feat\. Lainey Wilson\) \- Live From Nashville's Big Bash](https://open.spotify.com/track/0aHmuFZ34nExkvbmjDv7ek) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Good Time To Me \(feat\. Lainey Wilson\) \[Live From Nashville's Big Bash\]](https://open.spotify.com/album/4nDvHGMIneRWxLaAhZX9Iv) | 3:02 | 2022-01-07 | 2023-11-03 |
 | [Heading South \- Live](https://open.spotify.com/track/1oahhuBQ0lDwfFj92D1k7V) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [All My Homies Hate Ticketmaster \(Live from Red Rocks\)](https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH) | 3:28 | 2022-12-25 |  |
 | [Heavens To Betsy \- Live at the Ryman](https://open.spotify.com/track/7Barn6lupetMnaVO13eSA1) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Live at the Ryman](https://open.spotify.com/album/2EXHkWVZwZyGJOISXsEnX4) | 3:43 | 2023-04-14 |  |
 | [Highway 20 Ride \(Live\) \[Pass the Jar \- Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta\]](https://open.spotify.com/track/7cLBnEsJgrnMQaaaCcaczx) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Pass the Jar \- Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)](https://open.spotify.com/album/0nrT2YzJC2dDiBajEb84Pb) | 4:15 | 2021-07-22 | 2022-07-29 |

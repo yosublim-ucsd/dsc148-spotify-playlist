@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-429 songs - 1 day 1 hr 45 min
+430 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Hold Me Close](https://open.spotify.com/track/0rTNfHq56NzUNnIwk6zgru) | [Jimmy McNeal](https://open.spotify.com/artist/6qAVuHCboewGWzHF0JwYx5) | [Roots](https://open.spotify.com/album/4nYioApK4PisBkfRaXzO36) | 6:08 | 2022-06-25 | 2023-01-21 |
 | [Hold On Me](https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Hold On Me](https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6) | 2:52 | 2022-06-25 | 2023-11-01 |
 | [Hold Us Together \- Hope Mix](https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hold Us Together \(Hope Mix\)](https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU) | 4:38 | 2022-02-19 | 2022-06-26 |
+| [Holy](https://open.spotify.com/track/3brUbKvNipUN7T6Nl8Wbbj) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1), [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2) | [Holy](https://open.spotify.com/album/6TJwvt9HrcnOLQXx8OOq7X) | 3:00 | 2023-10-31 |  |
 | [Holy Essence](https://open.spotify.com/track/2Qb7PUm6cBszW414ri6MGA) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Amen](https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE) | 4:30 | 2023-01-20 |  |
 | [Holy Hands](https://open.spotify.com/track/0fBm16QCdtqEvrcT3b9H7E) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Holy Hands](https://open.spotify.com/album/6BIfrz3Im2b1U1DgDPfI1x) | 3:24 | 2023-10-31 |  |
 | [Home Called Heaven](https://open.spotify.com/track/1RUgjAvt8majG62li8evpf) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Home Called Heaven](https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV) | 3:47 | 2022-04-01 | 2023-11-01 |
@@ -369,7 +370,7 @@
 | [The Dream](https://open.spotify.com/track/6owRPnezJsGhlbKfbRAfqi) | [Ciara Leah](https://open.spotify.com/artist/7FNnF6wVawmhhqUbwLGeo2) | [Love Money](https://open.spotify.com/album/6Orz1ukWtOi9u2OW6lvE0K) | 4:30 | 2023-01-20 | 2023-03-08 |
 | [The Lord Ain't Let Me Down Lately](https://open.spotify.com/track/5Z9lSh0fbNsNpgMvg2y2Hc) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [The Lord Ain't Let Me Down Lately](https://open.spotify.com/album/62V2XMSZ2xjaBMbk3clYoZ) | 3:32 | 2022-02-27 | 2022-06-26 |
 | [The Ride](https://open.spotify.com/track/2JKSjhXTmCgsG2JiTQKTGd) | [Bryan Andrew Wilson](https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i) | [The Ride](https://open.spotify.com/album/1PFIAOe1CjAUk13KehncSR) | 3:13 | 2022-02-19 | 2022-02-28 |
-| [The Vow](https://open.spotify.com/track/19UDuT4NcAOEeBtG3ZPgYk) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [The Vow](https://open.spotify.com/album/2OPCQY600rzqGexiKDBMdE) | 4:10 | 2022-06-25 |  |
+| [The Vow](https://open.spotify.com/track/19UDuT4NcAOEeBtG3ZPgYk) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [The Vow](https://open.spotify.com/album/2OPCQY600rzqGexiKDBMdE) | 4:10 | 2022-06-25 | 2023-11-03 |
 | [This I Know](https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [This I Know](https://open.spotify.com/album/1KT8xnJzurscLm5UpElift) | 2:48 | 2023-01-20 |  |
 | [This Is How I Thank The Lord](https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [This Is How I Thank The Lord](https://open.spotify.com/album/2vbbNQNBVcUAO2X9H7aeU9) | 3:10 | 2022-02-27 | 2023-07-22 |
 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 | 2022-02-19 |  |

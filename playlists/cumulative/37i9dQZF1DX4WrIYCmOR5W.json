@@ -52,10 +52,28 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 182800,
       "name": "Cho ka ka o",
       "url": "https://open.spotify.com/track/1LBV869yOrnIB1IGMOXptG"
+    },
+    {
+      "album": {
+        "name": "Inoubliable",
+        "url": "https://open.spotify.com/album/2fU7jjJBncwQhSIwlnYLSm"
+      },
+      "artists": [
+        {
+          "name": "Annie Cordy",
+          "url": "https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "Cho ka ka o",
+      "url": "https://open.spotify.com/track/1RFaaBBHa67DqN4z6JvyJW"
     },
     {
       "album": {

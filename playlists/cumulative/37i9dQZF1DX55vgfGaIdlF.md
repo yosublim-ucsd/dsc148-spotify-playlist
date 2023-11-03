@@ -4,7 +4,7 @@
 
 > Slow down with these late night jams.
 
-94 songs - 6 hr 29 min
+95 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2015-02-23 |  |
 | [Second Heartbeat](https://open.spotify.com/track/6iHZhajiVDNtVy4v359h8r) | [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [Timeshare](https://open.spotify.com/album/7kEvefLtuLZF166t1Dmnd7) | 3:23 | 2015-02-23 | 2022-07-29 |
 | [Second Heartbeat](https://open.spotify.com/track/6jaPKumSw8PgxZVeR7Q9Hm) | [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [Timeshare](https://open.spotify.com/album/19jxHIdlNZMQsH75bdmfrx) | 3:23 | 2022-07-29 |  |
-| [Silhouette \(feat\. Ellie Goulding\)](https://open.spotify.com/track/0Yp73Qo0CoR2P9kceNC46y) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Rapor \- EP](https://open.spotify.com/album/6tkk2qyztgTxXaW4GBS4SA) | 4:08 | 2022-07-29 |  |
+| [Silhouette \(feat\. Ellie Goulding\)](https://open.spotify.com/track/0Yp73Qo0CoR2P9kceNC46y) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Rapor \- EP](https://open.spotify.com/album/6tkk2qyztgTxXaW4GBS4SA) | 4:08 | 2022-07-29 | 2023-11-03 |
+| [Silhouette \(feat\. Ellie Goulding\)](https://open.spotify.com/track/6AvlKEshOOsJ5Me7FNU5sn) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Rapor \- EP](https://open.spotify.com/album/64XNIRzXRlEjbj8jfoabRZ) | 4:08 | 2023-11-03 |  |
 | [Silhouette \(feat\. Ellie Goulding\)](https://open.spotify.com/track/6cqfP4ADnaZJuwvIHEBc7W) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Rapor \- EP](https://open.spotify.com/album/3Ej74qcfKlLgpQKwjwlMwT) | 4:08 | 2015-02-23 | 2022-07-29 |
 | [Sleep Sound](https://open.spotify.com/track/4aNm6woQfV9XRkCmk51GSX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB) | 6:23 | 2022-07-29 |  |
 | [Sleep Sound](https://open.spotify.com/track/6YPQGcqfMXZbQaz6l30uBJ) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/1AQE19wKZonTmYjOFOJKTJ) | 6:23 | 2015-02-23 | 2022-07-29 |

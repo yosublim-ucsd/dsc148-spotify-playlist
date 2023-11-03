@@ -1332,10 +1332,28 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 116000,
       "name": "Joyful, Joyful We Adore Thee",
       "url": "https://open.spotify.com/track/09ZBhEhoOzItFFdudh77SD"
+    },
+    {
+      "album": {
+        "name": "80 Bible Songs for Kids",
+        "url": "https://open.spotify.com/album/2rqMWucFteHin9aXPGRPEC"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2021-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Joyful, Joyful We Adore Thee",
+      "url": "https://open.spotify.com/track/3V5YkUwHqcA31lNy1J4imj"
     },
     {
       "album": {

@@ -1509,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 03",
+        "url": "https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Parade",
+          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280706,
+      "name": "Present For You!!!!! \uff5eA day in the caf\u00e9\uff5e",
+      "url": "https://open.spotify.com/track/7aQQAxzHdVekvg7LHm2JLH"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 01 PRIDE STAR",
         "url": "https://open.spotify.com/album/1isS51QfmONRHsnfdjpWwz"
       },
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 295506,
       "name": "PRIDE STAR",
       "url": "https://open.spotify.com/track/6foQ7TwClarh7orzRNKMa9"
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 305400,
       "name": "Reason!!",
       "url": "https://open.spotify.com/track/3CLQ12T4Ff4vGX0T98r2mP"
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 320733,
       "name": "Reversed Masquerade",
       "url": "https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC"

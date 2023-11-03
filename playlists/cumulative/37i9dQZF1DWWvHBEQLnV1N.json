@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "I Believe in Father Christmas",
+        "url": "https://open.spotify.com/album/0KgHRky9j8HbAUcKqBQ9bC"
+      },
+      "artists": [
+        {
+          "name": "Greg Lake",
+          "url": "https://open.spotify.com/artist/6Uw88LgaxdanDItfR0JyJ8"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212106,
+      "name": "I Believe in Father Christmas",
+      "url": "https://open.spotify.com/track/096SOCaNvutZ2JZoyS2zEu"
+    },
+    {
+      "album": {
         "name": "The Anthology: A Musical Journey",
         "url": "https://open.spotify.com/album/43VmZUbMrvwyENjNIDtsnr"
       },
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 213666,
       "name": "I Believe in Father Christmas - 2017 - Remaster",
       "url": "https://open.spotify.com/track/3S912b5gdxMeZyGeNEgS0H"

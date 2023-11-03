@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: SEVENTEEN) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: Golden Child(\uace8\ub4e0 \ucc28\uc77c\ub4dc)) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -802,7 +802,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 188373,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY"
@@ -2817,6 +2817,24 @@
     },
     {
       "album": {
+        "name": "Feel me",
+        "url": "https://open.spotify.com/album/0IXRPBAOj5deei4Sux5sor"
+      },
+      "artists": [
+        {
+          "name": "Golden Child",
+          "url": "https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Feel me",
+      "url": "https://open.spotify.com/track/3hUmntqwqsjG9PJjih9OIT"
+    },
+    {
+      "album": {
         "name": "IN:VITE U",
         "url": "https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek"
       },
@@ -4288,7 +4306,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-31",
+      "date_removed": null,
       "duration_ms": 184117,
       "name": "JIKJIN",
       "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
@@ -6112,7 +6130,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 178893,
       "name": "ONLY FUN",
       "url": "https://open.spotify.com/track/4R1jgnxwFfRykfmTtUn2SX"

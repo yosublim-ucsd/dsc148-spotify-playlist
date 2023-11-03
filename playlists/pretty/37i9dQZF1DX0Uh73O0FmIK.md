@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 
 > 01101110 01100101 01110010 01100100
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,337 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,398 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 99 | [Eternal Loneliness](https://open.spotify.com/track/3CyJNVETICgG6wsx2MNEYB) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Totsuka No Tsurugi](https://open.spotify.com/album/6DEJErUUiixATMvkg9XtHN) | 10:09 |
 | 100 | [Electric](https://open.spotify.com/track/1oUpE2W9kXdpYYMof5nnQA) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Country Girl Uncut](https://open.spotify.com/album/73lHzvuzmDsRscdaCQoj9B) | 3:25 |
 
-Snapshot ID: `MCwyM2ZlNWJhZjk4MTAyZmM2YzhmNGVkNjA5YWZhNGUwMzUyY2YwOWZi`
+Snapshot ID: `MCxjMTIwYzdkZTBlMWUxY2U1MzE5OGVkNmVhOWEwOTE5ODVkOGVhNTBm`

@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-216 songs - 13 hr 29 min
+219 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Daddy Doesn't Pray Anymore](https://open.spotify.com/track/21aD24K6JOf0F0qx6HJ0dy) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:09 | 2019-08-29 |  |
 | [Dance the Night Away](https://open.spotify.com/track/4Ez6kcErbQw2IBjm62i3Fg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Coast](https://open.spotify.com/album/3Q6idrlnc5UQwg1RKKIglL) | 4:22 | 2022-11-14 |  |
 | [Dark Thoughts Ride](https://open.spotify.com/track/3lJgfrGHujVhRmU28KwQNa) | [Kevin Costner & Modern West](https://open.spotify.com/artist/3UKhW4CbRv9wZvfT5oodNH) | [Tales from Yellowstone](https://open.spotify.com/album/5vnnXCMIdQFJ2818PxJAt5) | 1:47 | 2020-06-22 |  |
-| [Dead Men Tell No Tales](https://open.spotify.com/track/6SuvhFoNuEGc9eEVWCoMSE) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber \(Expanded Edition\)](https://open.spotify.com/album/1OVYzABapDJ7aZGfBLY22F) | 3:03 | 2020-07-13 |  |
+| [Dead Men Tell No Tales](https://open.spotify.com/track/3n1SVpFljd2w59JwWc3vAU) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber](https://open.spotify.com/album/5F2OkugZPCbjYKQvjUh5yM) | 3:03 | 2020-07-13 |  |
+| [Dead Men Tell No Tales](https://open.spotify.com/track/6SuvhFoNuEGc9eEVWCoMSE) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber \(Expanded Edition\)](https://open.spotify.com/album/1OVYzABapDJ7aZGfBLY22F) | 3:03 | 2020-07-13 | 2023-11-03 |
 | [Dear Rodeo](https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:14 | 2021-12-28 |  |
 | [Deep Down in the South](https://open.spotify.com/track/4HYlElAQFyeVZxLTtB32o1) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 3:21 | 2019-08-01 |  |
 | [Deeper in the Woods](https://open.spotify.com/track/7EMqdoCkHT757xYVUF4E0M) | [Ross Shifflett](https://open.spotify.com/artist/2suY4tiIX70Hx8WqjpUM4p) | [Forever Wild](https://open.spotify.com/album/6oqxycnvaf8V9TasNZWwgd) | 4:31 | 2021-11-08 |  |
@@ -161,7 +162,8 @@
 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 | 2021-11-15 | 2023-09-01 |
 | [Sleeping on the Blacktop](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:12 | 2021-11-15 |  |
 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 | 2019-08-08 |  |
-| [Small Town, Girl](https://open.spotify.com/track/4E6DaSnV1KTJsJ6JW0ae8h) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:02 | 2020-08-24 |  |
+| [Small Town, Girl](https://open.spotify.com/track/0rj70dcy5czyOg3uTSk4d8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:02 | 2020-08-24 |  |
+| [Small Town, Girl](https://open.spotify.com/track/4E6DaSnV1KTJsJ6JW0ae8h) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:02 | 2020-08-24 | 2023-11-03 |
 | [Smell Like Smoke](https://open.spotify.com/track/3FQL51eEwEDRw8YQj9Vlwc) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 2:48 | 2022-11-21 |  |
 | [Smell Like Smoke](https://open.spotify.com/track/4KxfeI9XB1BdKn4zlomB3R) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/0ZCiHJtfke9bvbl9U62lrf) | 2:48 | 2022-11-21 | 2022-12-03 |
 | [Snake Eyes](https://open.spotify.com/track/0LZ2JLzpdeNTGCYJoQF9Oe) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Roadhouse Sun](https://open.spotify.com/album/2oLZMqHgX8H047wkXl23yC) | 4:36 | 2020-08-17 |  |
@@ -195,7 +197,8 @@
 | [To Keep From Being Found](https://open.spotify.com/track/3mVi1J3WmWahOC5IHjP267) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [You Get It All](https://open.spotify.com/album/6OjJdNN6yUYwFhYXWV6TMT) | 3:15 | 2022-01-03 |  |
 | [Train Rollin'](https://open.spotify.com/track/3pQLrlyggdGfV9jQPCU0Zb) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Bad Luck Ain't No Crime](https://open.spotify.com/album/47E4mWqRTqSTgxX49hkGbb) | 4:08 | 2019-07-11 |  |
 | [Trouble About My Soul](https://open.spotify.com/track/1fWovgVlN08wWILfV41dMC) | [The Trishas](https://open.spotify.com/artist/4QM4r0qNvLsHzP5VbDKjfp) | [They Call Us The Trishas](https://open.spotify.com/album/2rFhGGBoUxpPUpmZ3Xg4HJ) | 3:35 | 2019-06-27 |  |
-| [Tumbleweed](https://open.spotify.com/track/6tsJ7h5Q1w2L3X8EkfCixU) | [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [Conditions Of My Parole](https://open.spotify.com/album/2gUufHW7CcgULEywXTQHk4) | 4:15 | 2019-06-27 |  |
+| [Tumbleweed](https://open.spotify.com/track/0eNayEygFlK7N3rH12RD43) | [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [Conditions Of My Parole](https://open.spotify.com/album/1ZIPAkFJ9oY4zJnvVljD58) | 4:15 | 2019-06-27 |  |
+| [Tumbleweed](https://open.spotify.com/track/6tsJ7h5Q1w2L3X8EkfCixU) | [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [Conditions Of My Parole](https://open.spotify.com/album/2gUufHW7CcgULEywXTQHk4) | 4:15 | 2019-06-27 | 2023-11-03 |
 | [Turtles All the Way Down](https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 3:08 | 2020-08-03 |  |
 | [Under Your Influence](https://open.spotify.com/track/7LLpt1hGZHIrSKt9zoDogD) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Under Your Influence](https://open.spotify.com/album/4B6hfEUdXTkCfK9vLHegXi) | 3:35 | 2019-08-23 |  |
 | [Up To No Good Livin'](https://open.spotify.com/track/5v9e0mJg74D7cFfYxKDJH0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 4:05 | 2019-07-11 |  |

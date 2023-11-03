@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,111 likes - 75 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,249 likes - 75 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 4 | [Way Maker \- Live](https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word \(Live\)](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 8:23 |
 | 5 | [Calm the Storm \(Live\)](https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [Calm the Storm \(Live\)](https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p) | 5:11 |
 | 6 | [See A Victory](https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [See A Victory](https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq) | 6:03 |
-| 7 | [Lost in Your Love](https://open.spotify.com/track/4pCSJ4WJTl6kr9OQ5HCx7v) | [Reach City Worship](https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5), [Billy Honaker](https://open.spotify.com/artist/5q0uNmItWUg41nvx9CHHjs), [JohnWesley](https://open.spotify.com/artist/6zT3zWTbrSQsEIlM2rZLNo) | [Lost in Your Love](https://open.spotify.com/album/1m6Lu9nY5rlCogxC5Tk1Yd) | 5:33 |
+| 7 | [Lost in Your Love](https://open.spotify.com/track/4pCSJ4WJTl6kr9OQ5HCx7v) | [Reach City Worship](https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5), [Billy Honaker](https://open.spotify.com/artist/5q0uNmItWUg41nvx9CHHjs), [John Wesley](https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq) | [Lost in Your Love](https://open.spotify.com/album/1m6Lu9nY5rlCogxC5Tk1Yd) | 5:33 |
 | 8 | [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/1nmspIOQLdmBhGfT747dEJ) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 4:01 |
 | 9 | [Rejoice](https://open.spotify.com/track/2lJnLe5B0RSr8H5DpSktER) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Life Again](https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u) | 4:02 |
 | 10 | [Heaven Is Where You Are](https://open.spotify.com/track/4OtfBQ2sHDdcag87TN1bb7) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Heaven Is Where You Are](https://open.spotify.com/album/2HwC7uEfppbjefeQByqkhl) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 74 | [A Thousand More](https://open.spotify.com/track/7tIrrmVZNRypgrP7FQZmLR) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [A Thousand More](https://open.spotify.com/album/71Wbn8i6LWE44Fgpb2D8aB) | 4:27 |
 | 75 | [While I Wait](https://open.spotify.com/track/1R9UC41siojWolyYYEohqN) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [While I Wait](https://open.spotify.com/album/0UDYVuIKNGT6hfvrsjrNBV) | 4:58 |
 
-Snapshot ID: `MCxmOWFmZWEwNzUxYTcwOTZkZmE1YmJhNWEyOGRjMWY2NmQwYWYwMjIx`
+Snapshot ID: `MCxjZDQyYzQzZGMwNDk1MDE4Y2QzM2Q5NGM5ZTVlMWQwZTkxMmNjNTc5`

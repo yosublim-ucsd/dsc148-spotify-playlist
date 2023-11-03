@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: YOVNGCHIMI & Dei V",
-  "num_followers": 229941,
+  "num_followers": 229961,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDZiMmJlNDMxMWYxNTY5NGExMTU5ZTIwYWY2Njk1NGQzZTlkYTU0",
+  "snapshot_id": "MCw5OWU5YmM3NjI3OGZhMjU1OWIwZWJiNDAzZWZlNTVjN2YwOTViMDNk",
   "tracks": [
     {
       "added_at": "2023-10-24 20:37:41",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
+        "name": "Bonnie and Clyde",
+        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 209192,
+      "name": "Bonnie and Clyde",
+      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
+    },
+    {
+      "added_at": "2023-10-24 20:37:41",
+      "album": {
         "name": "Santurcinos",
         "url": "https://open.spotify.com/album/0kwhdyfH85kj8FxQM0K0ux"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
-        "name": "Bonnie and Clyde",
-        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 209192,
-      "name": "Bonnie and Clyde",
-      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
-    },
-    {
-      "added_at": "2023-10-24 20:37:41",
-      "album": {
         "name": "WYA",
         "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
       },
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
-        "name": "Delirando",
-        "url": "https://open.spotify.com/album/1XfwYTtr8YYbY4DZp1Dgvf"
-      },
-      "artists": [
-        {
-          "name": "Lemuell",
-          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
-        },
-        {
-          "name": "JS Beatz",
-          "url": "https://open.spotify.com/artist/5fuJxgduTyRWQzpX2ANfsK"
-        }
-      ],
-      "duration_ms": 156116,
-      "name": "Delirando",
-      "url": "https://open.spotify.com/track/1BrsRp6scfbwfV9U6cg3wr"
-    },
-    {
-      "added_at": "2023-10-24 20:37:41",
-      "album": {
         "name": "Blancos & Rojos",
         "url": "https://open.spotify.com/album/6dLcpS5nJkKsDy78PQakRP"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 162000,
       "name": "Blancos & Rojos",
       "url": "https://open.spotify.com/track/4FRMNJTazpo6vhHnfnG2qy"
+    },
+    {
+      "added_at": "2023-10-24 20:37:41",
+      "album": {
+        "name": "Delirando",
+        "url": "https://open.spotify.com/album/1XfwYTtr8YYbY4DZp1Dgvf"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        },
+        {
+          "name": "JS Beatz",
+          "url": "https://open.spotify.com/artist/5fuJxgduTyRWQzpX2ANfsK"
+        }
+      ],
+      "duration_ms": 156116,
+      "name": "Delirando",
+      "url": "https://open.spotify.com/track/1BrsRp6scfbwfV9U6cg3wr"
     },
     {
       "added_at": "2023-10-24 20:37:41",

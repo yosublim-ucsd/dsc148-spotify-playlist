@@ -4,7 +4,7 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-193 songs - 10 hr 8 min
+194 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Before Sunrise](https://open.spotify.com/track/2cYp7CBDKMhyEwUgFzXUw5) | [Jacob Nieminen](https://open.spotify.com/artist/6NNzUhgjyPoZBtFy3VtqK7) | [Before Sunrise](https://open.spotify.com/album/7s07QhYbfveHtORoHGGnr0) | 4:27 | 2023-02-17 | 2023-08-17 |
 | [Beyond Thought](https://open.spotify.com/track/7InybwB0mEGdaWyWHxqRQq) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Beyond Thought](https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b) | 2:48 | 2023-10-26 |  |
 | [Birth](https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy) | [Nomadias](https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0) | [Birth](https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM) | 2:55 | 2023-02-17 |  |
-| [Blissful Pulses](https://open.spotify.com/track/05lZVhGjLi84vuGB4pa4QF) | [astral rhythms](https://open.spotify.com/artist/41e1gVX7wXCRGUGmFcajEu) | [Blissful Pulses](https://open.spotify.com/album/6ix5Or8Zc4ins5o7AYcAkY) | 3:20 | 2023-10-26 |  |
+| [Blissful Pulses](https://open.spotify.com/track/05lZVhGjLi84vuGB4pa4QF) | [astral rhythms](https://open.spotify.com/artist/41e1gVX7wXCRGUGmFcajEu) | [Blissful Pulses](https://open.spotify.com/album/6ix5Or8Zc4ins5o7AYcAkY) | 3:20 | 2023-10-26 | 2023-11-03 |
 | [Blue Reef](https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Beneath The Waves](https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17) | 3:06 | 2023-02-17 |  |
 | [Breakthrough \(EMDR\)](https://open.spotify.com/track/2vG8CbryztUUT7jRLlcdQ2) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Healing Clarity EMDR](https://open.spotify.com/album/1EBY9nOYFoSKFbYpdyyhzo) | 3:30 | 2023-02-17 |  |
 | [Breathe](https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Breathe](https://open.spotify.com/album/2gyvkLTdR9Vo0mFwNJTuNQ) | 3:10 | 2023-02-17 |  |
@@ -194,6 +194,7 @@
 | [Ușā Dhyāna / Dawn Meditation](https://open.spotify.com/track/2bj4ffMQkjXAvXJbcbDsBH) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Ușā Dhyāna](https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt) | 2:38 | 2023-09-25 |  |
 | [Vents Calmes](https://open.spotify.com/track/3EncJvevg44zzvocmBI6kg) | [Ellis Atkins](https://open.spotify.com/artist/7yLAqQCxad1jK9tcwxgNzL) | [Vents Calmes](https://open.spotify.com/album/5EreJDjpJ2xyQgbuBLdc22) | 2:27 | 2023-08-16 |  |
 | [Vinyasa](https://open.spotify.com/track/5ZUdgJ8uUo7LMoMNezC999) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Vinyasa](https://open.spotify.com/album/0LrU2qxwUpZ9KuKJVL0UA1) | 3:58 | 2023-02-17 |  |
+| [Voices of Ether](https://open.spotify.com/track/33w3Oi4WMbz8f03kOIfLbJ) | [La Moción](https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU) | [Voices of Ether](https://open.spotify.com/album/1c39z8X6g0z3dZmaf1AZKE) | 2:27 | 2023-10-26 |  |
 | [Wander](https://open.spotify.com/track/5S2QBHpK9SrxeuOHHTpHqd) | [Nima Noi](https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy) | [Wander](https://open.spotify.com/album/4NjEMm80IvOoNIqJYk4CrY) | 3:20 | 2023-03-03 |  |
 | [Waves](https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 3:02 | 2023-07-27 |  |
 | [When The Night Comes Falling](https://open.spotify.com/track/0pGqzYTy2GqJj1FJ8IO6QH) | [Buddha's Sleep](https://open.spotify.com/artist/32JsxZpT1TFmRtCJzr7lg2) | [When The Night Comes Falling](https://open.spotify.com/album/0AuGuxo0WS2AK2NZC2ViQq) | 2:18 | 2023-02-17 |  |

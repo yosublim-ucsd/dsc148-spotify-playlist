@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 11302,
+  "num_followers": 11300,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmIyYjMyMGJkYzljZDIxMmJjOGU2ZDJiNTcxNmQzYjlmMjk4Yzk4",
+  "snapshot_id": "MCw4NjVmZmI0ZjE2YTc4NGY4Yjc5ZTRkMTg3MDkxYjE0N2MzYWRhZGYx",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Working On My Karma",
-        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 145813,
-      "name": "Daniel's Interlude",
-      "url": "https://open.spotify.com/track/6hLR1DWGfMfaYERzHRzBTX"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 67573,
       "name": "You Are My Joy (Interlude)",
       "url": "https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 145813,
+      "name": "Daniel's Interlude",
+      "url": "https://open.spotify.com/track/6hLR1DWGfMfaYERzHRzBTX"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Forever My Lady",
-        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 107733,
-      "name": "Interlude (553-Nasty)",
-      "url": "https://open.spotify.com/track/3ogLRGMQpt0VcsOrgItCSb"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/7N31OoKCsEtlP7dkJ4SlvN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 117226,
       "name": "Makin' Love - Interlude",
       "url": "https://open.spotify.com/track/6prnOcWWbA61hfoFzWFe6i"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Forever My Lady",
+        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 107733,
+      "name": "Interlude (553-Nasty)",
+      "url": "https://open.spotify.com/track/3ogLRGMQpt0VcsOrgItCSb"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -971,18 +971,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr"
       },
       "artists": [
         {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+          "name": "Theophilus London",
+          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
+        },
+        {
+          "name": "Soko",
+          "url": "https://open.spotify.com/artist/7jY8kqH6TphQsiT0wjlsqZ"
         }
       ],
-      "duration_ms": 130692,
-      "name": "Room 454: De Vante's \" Inhermission\"",
-      "url": "https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT"
+      "duration_ms": 162866,
+      "name": "Smoke (Interlude) (feat. Soko)",
+      "url": "https://open.spotify.com/track/5XrSD5qp2cTeSz7zDsNskG"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr"
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
       },
       "artists": [
         {
-          "name": "Theophilus London",
-          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
-        },
-        {
-          "name": "Soko",
-          "url": "https://open.spotify.com/artist/7jY8kqH6TphQsiT0wjlsqZ"
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
         }
       ],
-      "duration_ms": 162866,
-      "name": "Smoke (Interlude) (feat. Soko)",
-      "url": "https://open.spotify.com/track/5XrSD5qp2cTeSz7zDsNskG"
+      "duration_ms": 130692,
+      "name": "Room 454: De Vante's \" Inhermission\"",
+      "url": "https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT"
     },
     {
       "added_at": "2022-12-03 05:29:16",

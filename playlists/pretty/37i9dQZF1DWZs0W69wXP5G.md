@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover: Ryan Gosling in Barbie
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,941 likes - 85 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,966 likes - 85 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 71 | [Wicked Medley](https://open.spotify.com/track/2HKBDRRBt8NPX5wjrV5q64) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Wicked Medley](https://open.spotify.com/album/3RUeqc8x6uzYsEsLOxlf2B) | 3:11 |
 | 72 | [You’re Not Here](https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 5:14 |
 | 73 | [The Least](https://open.spotify.com/track/1yuHXM3jAS4Te3o1qrXAY2) | [Shaina Taub](https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA) | [Songs of the Great Hill](https://open.spotify.com/album/0sxZZDmsx0ih796gVVrA19) | 2:20 |
-| 74 | [Nose to Nose](https://open.spotify.com/track/7vczAHzfnUqcsRcUbHKZKW) | [Laura Dreyfuss](https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK) | [Nose to Nose](https://open.spotify.com/album/3dSzXQev0iDG85clMukCok) | 3:31 |
+| 74 | [Nose to Nose](https://open.spotify.com/track/3GfHzv9j2Gaa9N0olpTYmd) | [Laura Dreyfuss](https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK) | [Nose to Nose](https://open.spotify.com/album/1NlWnhiSyLgNZrllnr3F8y) | 3:31 |
 | 75 | [One Thing](https://open.spotify.com/track/6mfOySZI3Bw3g3pKw2itvo) | [36 Questions](https://open.spotify.com/artist/1lZ55BBi0fylEBR9qOFk2x), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Jessie Shelton](https://open.spotify.com/artist/2fpFaqhr6d1JZ47hlYuIcs) | [36 Questions: The Deluxe Album](https://open.spotify.com/album/7aIu3t8kD1qCud2uMO2wd7) | 4:38 |
 | 76 | [Here I Am \(Singing My Way Home\)](https://open.spotify.com/track/6wLJiRkrSbqPzbNnrKSYNX) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [RESPECT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EzytFSc1iJY6DjHR6fUMm) | 5:14 |
 | 77 | [In The Heights](https://open.spotify.com/track/7oMr1IBlYwnb1jZh6of8kN) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Olga Merediz](https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX), [Jimmy Smits](https://open.spotify.com/artist/5hv9BKVlMmFIIzmwdCZO5m), [Daphne Rubin\-Vega](https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Dascha Polanco](https://open.spotify.com/artist/4nyZZkQQM7rXIuGpDDamgB), [Corey Hawkins](https://open.spotify.com/artist/2BFxmZrsXPazaWFVR53Wpi), [Gregory Diaz IV](https://open.spotify.com/artist/7jcRcSKFpP4o0P02lDADVN), [Melissa Barrera](https://open.spotify.com/artist/0yac03Stzfyoukz2361kU7), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [In The Heights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0F3HOT0E0Jj2MSnPm6tq4n) | 7:41 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 84 | [Let's Generalize About Men \(feat\. Rachel Bloom, Donna Lynne Champlin, Vella Lovell & Gabrielle Ruiz\)](https://open.spotify.com/track/73hr344AmxNViy6IgFw6QL) | [Crazy Ex\-Girlfriend Cast](https://open.spotify.com/artist/2Dzk9smBaIfEFjF7T2Gygz), [Donna Lynne Champlin](https://open.spotify.com/artist/4W6kSTuYNVuHw97QMvb2TB), [Gabrielle Ruiz](https://open.spotify.com/artist/5MVEzr4FAatsTTkPhDXkHj), [Rachel Bloom](https://open.spotify.com/artist/2tCT4ybLKzhFYsDF6ZOKAY), [Vella Lovell](https://open.spotify.com/artist/4QLs1KUSQaafoB2dGnxvmR) | [Crazy Ex\-Girlfriend: Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/61qQpAsfOVhFo5iDnKth4o) | 2:38 |
 | 85 | [Only Us \(with Dan + Shay\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Only Us \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF) | 3:45 |
 
-Snapshot ID: `MCwxMDljYjgyYzQ0MGI1NTczNjE2MmViZWI4M2RlM2IzOTQxMTliZjY5`
+Snapshot ID: `MCw1NWRhNTMwZGIyZWEwMDE4YWIyOTNlYTk1NDZlYjA2ZmI5YzFmMmMx`

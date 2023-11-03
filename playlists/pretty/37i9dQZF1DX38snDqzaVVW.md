@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,918 likes - 56 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,925 likes - 56 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 6 | [O Mohammad](https://open.spotify.com/track/1a84hW3AL3EGzPyJfEj74g) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Ayisha Abdul Basith](https://open.spotify.com/artist/5CK0g8yxcuauorabPxsA5K) | [O Mohammad](https://open.spotify.com/album/76E8vJSZzB8dsC9Q0umrzR) | 3:46 |
 | 7 | [Oualahila Ar Tesninam](https://open.spotify.com/track/1jncnTEAwosbxyLVe0sxnt) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Amassakoul](https://open.spotify.com/album/0HtXxCOzxI722dtwJ7ukyv) | 3:47 |
 | 8 | [Argos Farfish](https://open.spotify.com/track/7fbZ2g3WSY3a5N0503u0f5) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King Of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG) | 4:38 |
-| 9 | [Sante Yalla](https://open.spotify.com/track/1fyJioPh0qZQUHY9mBwnHY) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Lamp Fall](https://open.spotify.com/album/2bO5zAnAVOkBwiEngpFHmn) | 4:37 |
+| 9 | [Sante Yalla](https://open.spotify.com/track/0cJISh3v5VEvPFzzfIpHXB) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Lamp Fall](https://open.spotify.com/album/2MmpzIn90aQM3s26FVgPSW) | 4:41 |
 | 10 | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/track/0Us6QgjBhIKXeGU43kiJfT) | [Abu Obaida Hassan](https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj) | [Abu Obaida Hassan & His Tambour: The Shaigiya Sound of Sudan](https://open.spotify.com/album/6nX1I3VbQKyt8AoCGofZYO) | 8:15 |
 | 11 | [Khair AlAhilla \(Ramadan\)](https://open.spotify.com/track/0ZDaoSIv3UViwpWHmuSUkM) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S) | [Khair AlAhilla \(Ramadan\)](https://open.spotify.com/album/10eFFOwl2qU2AhiTaGNQdT) | 1:27 |
 | 12 | [Tala'a Al\-Badru 'Alayna](https://open.spotify.com/track/56mquX7ESE8e0TPVpnyd2V) | [Yusuf Islam](https://open.spotify.com/artist/5OC5mCMdUlT4F8H9knv2AD) | [The Life of the Last Prophet](https://open.spotify.com/album/0l8CT0Zhi8ZqFYqhgPLXuB) | 5:23 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 55 | [Dimming of the Day](https://open.spotify.com/track/4SWme0PjIFPTwXLyVWGgOI) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Acoustic Classics](https://open.spotify.com/album/0jCVyzxYUUOyKYYlBUjGV0) | 3:18 |
 | 56 | [Hum Allah Hum Allah Hum Allah](https://open.spotify.com/track/71DfiueMJMIs8D0djEgiyz) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Jewels Of Thought](https://open.spotify.com/album/4eqjbUVRGuA1iM9Gt1UhaV) | 15:10 |
 
-Snapshot ID: `MCwwZDE5NjFhMmY5NWFhNzBmZDYxNjM4NWM2YjdlZDZiNzNiMzE5Y2Vk`
+Snapshot ID: `MCxkMzAwZjRmMDgzODdmMjE4NDU4ZjY2YTYzZjEwMGVhZmFiYThhNDMw`

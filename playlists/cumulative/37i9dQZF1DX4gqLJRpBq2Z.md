@@ -4,11 +4,12 @@
 
 > All the music from Barracuda Queens..\. now on Netflix.
 
-22 songs - 1 hr 28 min
+23 songs - 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [99 Luftballons](https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF) | 3:52 | 2023-06-05 |  |
+| [99 Luftballons](https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:51 | 2023-06-05 |  |
+| [99 Luftballons](https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF) | 3:52 | 2023-06-05 | 2023-11-03 |
 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2023-06-05 |  |
 | [Bizet: Carmen, WD 31, Act 1: Habanera\. "L'amour est un oiseau rebelle" \(Carmen, Chœur\)](https://open.spotify.com/track/3pzBD8BVdrv7VJ7glRYshl) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Michel Plasson](https://open.spotify.com/artist/2fzmIYnCPAZ9LeJFpYcHob), [Angela Gheorghiu](https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44), [Les Éléments](https://open.spotify.com/artist/3M6UtjNuBdRuHaxcWH3EM3), [Orchestre National Du Capitole De Toulouse](https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa) | [Bizet: Carmen](https://open.spotify.com/album/249X9ZjhWATM2KlkcCh9pt) | 4:35 | 2023-06-05 |  |
 | [Block Rockin' Beats](https://open.spotify.com/track/6nGUM3Z0FNJZW9wbNj97Ig) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Brotherhood](https://open.spotify.com/album/7uqmBZKWSQY20q1EMrV8dt) | 4:54 | 2023-06-05 |  |

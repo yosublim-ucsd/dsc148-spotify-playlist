@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Federico di Napoli
+> Il meglio dell'R&B italiano\. Cover: JeBel
 
-404 songs - 19 hr 57 min
+407 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Alice](https://open.spotify.com/track/5zQZLyhTWu7sOWni4HrFrJ) | [Alisdipity](https://open.spotify.com/artist/6X0tGU82DndjmjzFFlATCI) | [Alice](https://open.spotify.com/album/5yBXRbEwojENjfqDonTFGK) | 3:46 | 2022-06-16 | 2022-07-29 |
 | [Alla Follia](https://open.spotify.com/track/0jmjKNlnTWOo0VV2Pws3BY) | [Raçhelle](https://open.spotify.com/artist/2r7IipknIr6LbCIxoXBkuw), [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Alla Follia](https://open.spotify.com/album/14po1TeMD3PoErpWdl5Jcj) | 3:09 | 2022-12-01 | 2023-02-03 |
 | [AlzoilVolume](https://open.spotify.com/track/5IQj8IZkF2QbRStHCQwKl3) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [AlzoilVolume](https://open.spotify.com/album/3OEiDswBTeQ5eRw5At341y) | 2:56 | 2023-06-29 |  |
-| [Amore](https://open.spotify.com/track/36KNw1NcM0o8rlGgocILm2) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | [Amore](https://open.spotify.com/album/4ve2w495Yz5uqcu4rtImJ8) | 3:48 | 2023-09-28 |  |
+| [Amore](https://open.spotify.com/track/36KNw1NcM0o8rlGgocILm2) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | [Amore](https://open.spotify.com/album/4ve2w495Yz5uqcu4rtImJ8) | 3:48 | 2023-09-28 | 2023-11-03 |
 | [Anima mundi](https://open.spotify.com/track/4MWXNcxdX4PR7Xm5zBLrVa) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Anima mundi](https://open.spotify.com/album/7pSPAplcwIKW6HxUUNhIRu) | 2:42 | 2022-10-13 | 2022-12-02 |
 | [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 | 2022-05-05 | 2022-12-16 |
 | [Appassire](https://open.spotify.com/track/1ADuVuz7CXlewLNi5BDLjS) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Appassire](https://open.spotify.com/album/3up0NGmcBingnKLAq9w1JX) | 2:46 | 2023-08-31 |  |
@@ -37,7 +37,7 @@
 | [balliamo](https://open.spotify.com/track/2QXUDeLfGYGm13vx6GUpBr) | [claro](https://open.spotify.com/artist/0APvLMkrmJV6BSKJWoy3Jz) | [balliamo](https://open.spotify.com/album/5tHit6JjQnNOctneZJoukH) | 2:49 | 2022-05-05 | 2022-09-09 |
 | [Birthday](https://open.spotify.com/track/32lSBUAwseG81GL0VjeXEz) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Birthday](https://open.spotify.com/album/2L11I1HBuWIlrTBBRjXuFi) | 2:13 | 2022-05-05 | 2022-11-11 |
 | [Bitter](https://open.spotify.com/track/2V8r2YxPjZTCpfkDvSGcjQ) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2) | [Bitter](https://open.spotify.com/album/1o3kKZNiluPkE0UIDkpWvn) | 2:52 | 2022-05-05 | 2022-11-11 |
-| [BLACK](https://open.spotify.com/track/0MpDXFKJoAYha6BpLlt9jI) | [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO) | [BLACK](https://open.spotify.com/album/2gvy2XxnC1sl0MtIFkHP0Y) | 2:26 | 2023-10-05 |  |
+| [BLACK](https://open.spotify.com/track/0MpDXFKJoAYha6BpLlt9jI) | [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO) | [BLACK](https://open.spotify.com/album/2gvy2XxnC1sl0MtIFkHP0Y) | 2:26 | 2023-10-05 | 2023-11-03 |
 | [Black Eagle](https://open.spotify.com/track/1RgTtE3B08KoJXq5brKcuW) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Black Eagle](https://open.spotify.com/album/3SDlaTsiUiEX0h7QeE5vV0) | 3:17 | 2023-04-20 | 2023-06-09 |
 | [BLU](https://open.spotify.com/track/6w4QgM7NJgyIxAOVdvMR32) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj), [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [BLU](https://open.spotify.com/album/4sMPCLZ2dW95sOp9pOCfTm) | 3:35 | 2023-02-23 |  |
 | [BOLLA](https://open.spotify.com/track/59hITQBriwhFRILx6xJBra) | [Bonsai](https://open.spotify.com/artist/4EKEOzsltTuwD2kKuDKd6t) | [REWIND EP](https://open.spotify.com/album/6tudu1HtN2VinixmMMOXYZ) | 3:48 | 2022-10-13 | 2023-01-13 |
@@ -165,6 +165,7 @@
 | [IL MIO NOME REMIX \(con Mara Sattei\)](https://open.spotify.com/track/72G9NI5LnHlbvFHZxWfmNv) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [IO NON HO PAURA](https://open.spotify.com/album/2AaqxCs7aRTt4MqK8Q3LuO) | 2:37 | 2023-04-06 | 2023-05-31 |
 | [Il Re Cambia Sempre](https://open.spotify.com/track/4olowS6fzAA36724bAjfEq) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Il Re Cambia Sempre](https://open.spotify.com/album/5zlyG2KfBjooG7ohi69ZLn) | 2:56 | 2023-02-02 | 2023-03-10 |
 | [IL TEMPO DELLE MELE](https://open.spotify.com/track/0fyXzFs8JwlCQeg5SKIksT) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [IL TEMPO DELLE MELE](https://open.spotify.com/album/53LDnyr7TtRNLu6dMIEN8w) | 2:16 | 2022-05-05 | 2022-09-09 |
+| [Iliade](https://open.spotify.com/track/4pmK8N7r8tajDezvfo3wj6) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | [Iliade](https://open.spotify.com/album/6vrx3mVYnoQ7jNoTN3mb3c) | 3:56 | 2023-11-02 |  |
 | [In My Way \(chi sei\)](https://open.spotify.com/track/296gP31laYpSz5V1dqxwgW) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Lita](https://open.spotify.com/artist/0G7LPCHP4W90pTLwPAbXHU) | [Girls In Purgatory \(Full Moon Edition\)](https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia) | 2:14 | 2022-05-05 | 2022-11-11 |
 | [INFERNO](https://open.spotify.com/track/2GOqPgex034ZvAisHzNWmZ) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [INFERNO](https://open.spotify.com/album/00Vd4Gdptal8powyOLfN22) | 3:54 | 2022-10-14 | 2023-02-03 |
 | [Interno N.6](https://open.spotify.com/track/57SBANqHenDufs98cl35Vl) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Interno N.6](https://open.spotify.com/album/3TBGbh3LTDNsCUMHWX766z) | 3:24 | 2022-06-30 | 2022-09-30 |
@@ -232,8 +233,9 @@
 | [MILANO](https://open.spotify.com/track/33mBz8kHUd3j9Sf2fnL0S1) | [AISHA](https://open.spotify.com/artist/78S0OMZxZhxSE5WxSzJoCf) | [MILANO](https://open.spotify.com/album/7Av7omyGt9WMtZhln5aAP4) | 2:41 | 2023-04-20 |  |
 | [Moment](https://open.spotify.com/track/5HDTDiCbhdH91dqtvfgexa) | [bluāstro](https://open.spotify.com/artist/4u0dzk3uwHVSzmPr92CueC) | [Moment](https://open.spotify.com/album/71rtcVmZhPgHZK3lGXCP8y) | 3:09 | 2023-02-23 | 2023-03-18 |
 | [Monodose](https://open.spotify.com/track/4Doceb3PbB1O4Rdijrn2Qp) | [Chiara Ranieri](https://open.spotify.com/artist/3I0mGLOlyKCXxPSUD26Eu6) | [Monodose](https://open.spotify.com/album/2RrqdXnY3YzsJAQif4JcW7) | 2:47 | 2022-06-30 | 2022-07-15 |
-| [Morire così](https://open.spotify.com/track/5jQTtIoySA3wz57mny0dqV) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Aurora Boreale](https://open.spotify.com/album/3nNoz14HXFxQk26LZit46f) | 2:16 | 2023-09-14 |  |
+| [Morire così](https://open.spotify.com/track/5jQTtIoySA3wz57mny0dqV) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Aurora Boreale](https://open.spotify.com/album/3nNoz14HXFxQk26LZit46f) | 2:16 | 2023-09-14 | 2023-11-03 |
 | [Morsi](https://open.spotify.com/track/5k0bWnsm97QQQHuMs0wIvG) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6) | [Morsi](https://open.spotify.com/album/2rZEMo1uGjBPEOnMCCL1GP) | 3:29 | 2022-08-11 | 2022-08-26 |
+| [Mostro](https://open.spotify.com/track/7iR0VBMG8q5yQBAKyrHxzI) | [Calmo](https://open.spotify.com/artist/4Wx3ZL6d6p1gVMtwQ2YWsz) | [Mostro](https://open.spotify.com/album/1lCLtg7sx2uGudBKIOXR3k) | 2:51 | 2023-11-02 |  |
 | [N'Anima](https://open.spotify.com/track/5lELyaYDICf3gj0xjXleOs) | [Naomi](https://open.spotify.com/artist/3dbuSqzwPQGqucy4evhJUB) | [N'Anima](https://open.spotify.com/album/13ECmY0qa7soTUErZ1IElY) | 2:54 | 2023-10-26 |  |
 | [NAMASTE](https://open.spotify.com/track/1WQoZPJuSkENMK0ddTUbtw) | [Sir](https://open.spotify.com/artist/7IPFl9kGGBOSG9uQw5tQIg) | [NAMASTE](https://open.spotify.com/album/0qdR71s2AaRSxFnmIcCXM8) | 1:57 | 2022-09-22 | 2023-01-27 |
 | [Napoli \(feat\. Ezeeo\)](https://open.spotify.com/track/6Cdp3MuLOe4dBPGfREz97i) | [Subconscio](https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh), [Ezeeo](https://open.spotify.com/artist/0sYZ6OSyY2qGLVGQurc4nU) | [Napoli \(feat\. Ezeeo\)](https://open.spotify.com/album/5Y0vNaNfAA4AtT3HHLcGS5) | 3:12 | 2023-10-12 |  |
@@ -327,6 +329,7 @@
 | [Semafori arancioni](https://open.spotify.com/track/2Y4vL02kpV1CyBz25JZxrB) | [Luca Notaro](https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p), [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [Semafori arancioni](https://open.spotify.com/album/2NsuCCAAJEVjEeSOqtoE6R) | 2:34 | 2023-06-08 | 2023-07-21 |
 | [SEMIMENTI](https://open.spotify.com/track/4K6aRIb9AnPWGyvZeGAY1E) | [Francesco Savini](https://open.spotify.com/artist/2gJTQtqoLBEtaCZhbdPI63) | [SEMIMENTI](https://open.spotify.com/album/0qLLBJDZK03y0W4RvlAuix) | 3:02 | 2023-07-13 | 2023-08-04 |
 | [Sempre Indietro](https://open.spotify.com/track/4zEmCO5vajFjB3UxcS72F9) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Sempre Indietro](https://open.spotify.com/album/06zmjnqSxJbJN3wvSb9v0m) | 2:43 | 2022-09-22 | 2022-11-11 |
+| [Sentieri](https://open.spotify.com/track/0mB4YXtu8J8Y3P8eDJ0kg3) | [Subconscio](https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Sentieri](https://open.spotify.com/album/6GRqPfx9GnZcJYrvzBpOyl) | 3:50 | 2023-11-02 |  |
 | [Senza di me](https://open.spotify.com/track/7mBnEZdrqckJ6wQJtPm6hk) | [Gyuse](https://open.spotify.com/artist/6hj6eKlYId3xev1piRmEqr) | [Senza di me](https://open.spotify.com/album/2XoPsN6vqdB9Z8q1fijGEp) | 3:05 | 2023-09-14 | 2023-10-06 |
 | [Senza Te](https://open.spotify.com/track/1WBOwvRPgq6UqPTvXBHF4i) | [Auua](https://open.spotify.com/artist/2tnzSiqtkZbBZMshF406i9) | [Senza Te](https://open.spotify.com/album/3GmzaEJniZOLhoQCKoJYdP) | 2:51 | 2023-02-23 | 2023-05-12 |
 | [Senza te](https://open.spotify.com/track/0xaEoFkggmekGfQaTwuwk0) | [Claudiemme](https://open.spotify.com/artist/0rsPkjYrNx37GnqkIOeMPW) | [Senza te](https://open.spotify.com/album/3sRLsdqgQ2ewYQxlPI48nu) | 3:24 | 2022-05-05 | 2022-05-27 |

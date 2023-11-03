@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/4BiiOopVTUJhsAP54UyiXk"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/5l2a0rOc4A8fuy4TEDH3Ex"
+    },
+    {
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/0tgjVqsRs4lXQ4sgJ1EFIg"
       },
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 183536,
       "name": "Earth Song",
       "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
@@ -4263,6 +4281,24 @@
     },
     {
       "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203889,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar"
+    },
+    {
+      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/1EUh0evo2sfC0Y8T0cnPAd"
       },
@@ -4478,6 +4514,32 @@
       "duration_ms": 160615,
       "name": "Money Chop",
       "url": "https://open.spotify.com/track/2ddctHqfc2lA2QSIdDUUxh"
+    },
+    {
+      "album": {
+        "name": "Money is A Must",
+        "url": "https://open.spotify.com/album/4256OlluZzbCNTEngtqnZJ"
+      },
+      "artists": [
+        {
+          "name": "Vibez Inc",
+          "url": "https://open.spotify.com/artist/6Pq8bOPyCrqbKg02JE1jlu"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "Money is A Must",
+      "url": "https://open.spotify.com/track/6XBjoQyHpxdNxkLKZb4j9u"
     },
     {
       "album": {
@@ -4885,6 +4947,28 @@
     },
     {
       "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "NYEM EGO (feat. Jeriq)",
+      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
+    },
+    {
+      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -4966,7 +5050,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 178347,
       "name": "Oganigwe",
       "url": "https://open.spotify.com/track/7DRGQ7JVWzXxHbPXOU172t"
@@ -5002,7 +5086,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 175809,
       "name": "Ogaranya",
       "url": "https://open.spotify.com/track/3e7N1Gyzl6cz52UJl1P5Jp"
@@ -6004,6 +6088,28 @@
       "duration_ms": 180715,
       "name": "Rise",
       "url": "https://open.spotify.com/track/3AGlt0hLQ2pDASrcjk0MsB"
+    },
+    {
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "ROAD RUNNERS (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
     },
     {
       "album": {
@@ -7192,7 +7298,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 144065,
       "name": "Wire",
       "url": "https://open.spotify.com/track/2XNaMlHROxvkKGohcQHQZV"

@@ -1014,6 +1014,24 @@
     {
       "album": {
         "name": "Eyes On You (Remix)",
+        "url": "https://open.spotify.com/album/34KVKNBx5bQT0T9hcG1EL3"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181787,
+      "name": "Eyes On You (Remix)",
+      "url": "https://open.spotify.com/track/7umUymxcMnkPetOIc6qwFS"
+    },
+    {
+      "album": {
+        "name": "Eyes On You (Remix)",
         "url": "https://open.spotify.com/album/2BR7Zn9jvF7ebVPeGvTz25"
       },
       "artists": [
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 181787,
       "name": "Eyes on You - Remix",
       "url": "https://open.spotify.com/track/3vLDkbqnlSwZNF4qka5lik"
@@ -2334,6 +2352,28 @@
     {
       "album": {
         "name": "One Big Country Song (RoadHouse Remix)",
+        "url": "https://open.spotify.com/album/2Y4PXiKHTeHe5N4joku2KM"
+      },
+      "artists": [
+        {
+          "name": "LOCASH",
+          "url": "https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ"
+        },
+        {
+          "name": "Roadhouse",
+          "url": "https://open.spotify.com/artist/3I8ZwvgzfDF1OtQNXay4EC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "One Big Country Song (RoadHouse Remix)",
+      "url": "https://open.spotify.com/track/1k4BwPpJfaqmfuOJseyPvM"
+    },
+    {
+      "album": {
+        "name": "One Big Country Song (RoadHouse Remix)",
         "url": "https://open.spotify.com/album/7mmzLcJUhdzQfJs1z0FxG1"
       },
       "artists": [
@@ -2348,7 +2388,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 190588,
       "name": "One Big Country Song - RoadHouse Remix",
       "url": "https://open.spotify.com/track/7LQ3fdrgP5ZlkpSFIYFSYq"

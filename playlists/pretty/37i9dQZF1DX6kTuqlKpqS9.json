@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 73446,
+  "num_followers": 73539,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDE1N2RjODRlNjYzNTExZWQ1YzMyYjVkMDMxYjZhNjk0YWNlNTYz",
+  "snapshot_id": "MCxkZDA0OTIyOTdhMWExMmNlMmRhNTZmMjExNzc5Yzk2M2ZjNTJjMzEy",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -399,18 +399,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Enamorada En Vivo",
-        "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
+        "name": "Desde El Lunario, Ciudad De M\u00e9xico (En Vivo Desde El Lunario/Mariachi/Banda)",
+        "url": "https://open.spotify.com/album/0OciUfz9VZIm5N4ZHIHlg5"
       },
       "artists": [
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 189853,
-      "name": "Llorar - En Vivo",
-      "url": "https://open.spotify.com/track/41cqLjW5gEtYy28Y13KABP"
+      "duration_ms": 187640,
+      "name": "Seremos - En Vivo Desde El Lunario/Mariachi/Banda",
+      "url": "https://open.spotify.com/track/0Kguq4LDvq2YrUU4QDVBW3"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -463,18 +463,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Desde El Lunario, Ciudad De M\u00e9xico (En Vivo Desde El Lunario/Mariachi/Banda)",
-        "url": "https://open.spotify.com/album/0OciUfz9VZIm5N4ZHIHlg5"
+        "name": "Enamorada En Vivo",
+        "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
       },
       "artists": [
         {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 187640,
-      "name": "Seremos - En Vivo Desde El Lunario/Mariachi/Banda",
-      "url": "https://open.spotify.com/track/0Kguq4LDvq2YrUU4QDVBW3"
+      "duration_ms": 189853,
+      "name": "Llorar - En Vivo",
+      "url": "https://open.spotify.com/track/41cqLjW5gEtYy28Y13KABP"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Enamorada En Vivo",
-        "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 195253,
-      "name": "Ac\u00e1 Entre Nos - En Vivo",
-      "url": "https://open.spotify.com/track/5Bi3rrdkYjLlUIl37G3WEx"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "1 Vida \u2013 3 Historias Despedida De Culiacan (En Vivo Desde Culiacan, Mexico 2012)",
         "url": "https://open.spotify.com/album/504V91nbehQse2zsrqNzHs"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 181613,
       "name": "Porqu\u00e9 No Le Calas - Live",
       "url": "https://open.spotify.com/track/0Dft414yW63Hh7t5xlb8El"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Enamorada En Vivo",
+        "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 195253,
+      "name": "Ac\u00e1 Entre Nos - En Vivo",
+      "url": "https://open.spotify.com/track/5Bi3rrdkYjLlUIl37G3WEx"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Lucero En Vivo Auditorio Nacional",
-        "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 187177,
-      "name": "Que Te Ruegue Quien Te Quiera - En Vivo Auditorio Nacional",
-      "url": "https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Paloma Negra Desde Monterrey (En Vivo)",
         "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 230190,
       "name": "La Gran Se\u00f1ora - En Vivo",
       "url": "https://open.spotify.com/track/0jMxJQ41Gbq4YYkXaljtJA"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Lucero En Vivo Auditorio Nacional",
+        "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 187177,
+      "name": "Que Te Ruegue Quien Te Quiera - En Vivo Auditorio Nacional",
+      "url": "https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "1 Vida \u2013 3 Historias Despedida De Culiacan (En Vivo Desde Culiacan, Mexico 2012)",
-        "url": "https://open.spotify.com/album/504V91nbehQse2zsrqNzHs"
+        "name": "Enamorada En Vivo",
+        "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 298506,
-      "name": "Inocente Pobre Amiga - Live",
-      "url": "https://open.spotify.com/track/0ZUsFHwJXaG7tz1KayJGkX"
+      "duration_ms": 290413,
+      "name": "Tristes Recuerdos - En Vivo",
+      "url": "https://open.spotify.com/track/4pILiOmw8YQpcxH7XCVJO9"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -847,18 +847,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Enamorada En Vivo",
-        "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
+        "name": "1 Vida \u2013 3 Historias Despedida De Culiacan (En Vivo Desde Culiacan, Mexico 2012)",
+        "url": "https://open.spotify.com/album/504V91nbehQse2zsrqNzHs"
       },
       "artists": [
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 290413,
-      "name": "Tristes Recuerdos - En Vivo",
-      "url": "https://open.spotify.com/track/4pILiOmw8YQpcxH7XCVJO9"
+      "duration_ms": 298506,
+      "name": "Inocente Pobre Amiga - Live",
+      "url": "https://open.spotify.com/track/0ZUsFHwJXaG7tz1KayJGkX"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -895,18 +895,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "En Vivo Desde La Plaza El Progreso De Guadalajara",
-        "url": "https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j"
+        "name": "Lucero En Vivo Auditorio Nacional",
+        "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 236186,
-      "name": "Tatuajes - En Vivo",
-      "url": "https://open.spotify.com/track/0TchGuutCU00E8sw8E6XWX"
+      "duration_ms": 266821,
+      "name": "Cielo Rojo - En Vivo Auditorio Nacional",
+      "url": "https://open.spotify.com/track/6MXu4vPjcCVKJdPsU0vhyc"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -927,18 +927,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Lucero En Vivo Auditorio Nacional",
-        "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
+        "name": "En Vivo Desde La Plaza El Progreso De Guadalajara",
+        "url": "https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j"
       },
       "artists": [
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 266821,
-      "name": "Cielo Rojo - En Vivo Auditorio Nacional",
-      "url": "https://open.spotify.com/track/6MXu4vPjcCVKJdPsU0vhyc"
+      "duration_ms": 236186,
+      "name": "Tatuajes - En Vivo",
+      "url": "https://open.spotify.com/track/0TchGuutCU00E8sw8E6XWX"
     },
     {
       "added_at": "2021-12-29 23:15:19",

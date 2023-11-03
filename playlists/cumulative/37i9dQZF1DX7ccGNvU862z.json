@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e23\u0e27\u0e21\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e44\u0e17\u0e22\u0e44\u0e27\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Tobii",
+  "description": "\u0e23\u0e27\u0e21\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e44\u0e17\u0e22\u0e44\u0e27\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: NICECNX",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b \u0e02\u0e2d\u0e07\u0e21\u0e31\u0e19\u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 197256,
       "name": "Dance with me",
       "url": "https://open.spotify.com/track/3NlCNC2PT32uwnFZdL84ib"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 237000,
       "name": "Designer",
       "url": "https://open.spotify.com/track/1gvVMxPKjNVnUQ4Oc9uKOU"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 250500,
       "name": "Different Way",
       "url": "https://open.spotify.com/track/4EDfa23I50eIlGTq0uEVch"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 102485,
       "name": "DREAMIN",
       "url": "https://open.spotify.com/track/6tGkPkZ9O3lrcXuXIk8evj"
@@ -605,6 +605,28 @@
     },
     {
       "album": {
+        "name": "IN VONG WE TRUST",
+        "url": "https://open.spotify.com/album/0N9a6JMZAQPAGym8tKG7qH"
+      },
+      "artists": [
+        {
+          "name": "VKL",
+          "url": "https://open.spotify.com/artist/32vpj3OfAguCApf3kgX6Hi"
+        },
+        {
+          "name": "Trip J",
+          "url": "https://open.spotify.com/artist/632yqxur9KHVHHzmfyWGP3"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "IN VONG WE TRUST",
+      "url": "https://open.spotify.com/track/774LrOuucjM5ilIglGWtpc"
+    },
+    {
+      "album": {
         "name": "UNDERDOG",
         "url": "https://open.spotify.com/album/59dUrZn6tENKO2Lg30QfLI"
       },
@@ -624,7 +646,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 219359,
       "name": "K.U.A.Y",
       "url": "https://open.spotify.com/track/24z1AbC9gwYfN3oJgY7tnh"
@@ -664,7 +686,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 208817,
       "name": "Krungthep kreeta midnight flow ( intro )",
       "url": "https://open.spotify.com/track/0ZZZ5SZDo4X16g5l1Duk3f"
@@ -704,7 +726,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 215040,
       "name": "Life So Hard",
       "url": "https://open.spotify.com/track/4q062hMf6GXqiITpV0VBX9"
@@ -2834,7 +2856,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 224000,
       "name": "\u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e1e\u0e31\u0e01 (Soon)",
       "url": "https://open.spotify.com/track/5hbvt8TmmQqco2DoZwBYRH"
@@ -2984,7 +3006,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 338507,
       "name": "\u0e40\u0e18\u0e2d\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19\u0e22\u0e31\u0e07\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/5bIpvK76ecqRdjYJjFgSXo"
@@ -3332,6 +3354,24 @@
       "duration_ms": 234820,
       "name": "\u0e44\u0e01\u0e25\u0e2b\u0e48\u0e32\u0e07 (Miss you)",
       "url": "https://open.spotify.com/track/4zjmYyNmxh5CIkdByF7lxx"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e14\u0e49\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [ Would you love me ]",
+        "url": "https://open.spotify.com/album/3zhs7nUM2M1ai1Y3W4sfSb"
+      },
+      "artists": [
+        {
+          "name": "NICECNX",
+          "url": "https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "\u0e44\u0e14\u0e49\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [ Would you love me ]",
+      "url": "https://open.spotify.com/track/3SEMdmeaQvZSaGN58Q3hSl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,697 likes - 85 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,814 likes - 85 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 46 | [\(Christmas\) Stay With Me](https://open.spotify.com/track/5r74NPQSY8to7C0RdsUIS4) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [\(Christmas\) Stay With Me](https://open.spotify.com/album/5fB1YuQPu279DL3Fc2iKrb) | 4:05 |
 | 47 | [Christmas Isn't Christmas](https://open.spotify.com/track/2CcKj9jycmP3i4ommID7wL) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Officially Christmas](https://open.spotify.com/album/1ntmy0iqSY14aEeNZ7kXXa) | 3:15 |
 | 48 | [Christmas Come Early](https://open.spotify.com/track/2nQbAHSkFjirC0qPgWWelZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 2:59 |
-| 49 | [I Believe in Father Christmas \- 2017 \- Remaster](https://open.spotify.com/track/3S912b5gdxMeZyGeNEgS0H) | [Greg Lake](https://open.spotify.com/artist/6Uw88LgaxdanDItfR0JyJ8) | [The Anthology: A Musical Journey](https://open.spotify.com/album/43VmZUbMrvwyENjNIDtsnr) | 3:33 |
+| 49 | [I Believe in Father Christmas](https://open.spotify.com/track/096SOCaNvutZ2JZoyS2zEu) | [Greg Lake](https://open.spotify.com/artist/6Uw88LgaxdanDItfR0JyJ8) | [I Believe in Father Christmas](https://open.spotify.com/album/0KgHRky9j8HbAUcKqBQ9bC) | 3:32 |
 | 50 | [Silent Night](https://open.spotify.com/track/7k0QLj3c1sTVak4yEt3VWc) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [A Very Cozy Christmas](https://open.spotify.com/album/6C4mRN0DaAqdrrZDktAfxJ) | 2:58 |
 | 51 | [Sing Along With Me](https://open.spotify.com/track/7yXdRNtDfc2At6yItKIuMR) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Sing Along With Me](https://open.spotify.com/album/46roHdAH2qp7LdZAo0STIz) | 3:02 |
 | 52 | [Little Things](https://open.spotify.com/track/6MRaDK8dO2LEQZhIaNie2o) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Little Things](https://open.spotify.com/album/4SUnf7sfV1oTTMwhWiW547) | 3:08 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 84 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
 | 85 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 
-Snapshot ID: `MCw5YjhiMjkyOGE2OWFjOWUxMDMyMDJhN2NkYjQwNmZjZWVjZDYwYzY0`
+Snapshot ID: `MCw3MmNmZjVjMTQ5NDVmNWJiZWI2OWZiMzI5YmY1ZTc2OTczYzdhZmVj`

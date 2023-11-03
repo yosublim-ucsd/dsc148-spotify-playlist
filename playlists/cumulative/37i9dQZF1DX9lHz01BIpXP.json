@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL?si=gX9Ki4eNRh-Ok0etAYYfFA\">Mr Heinz</a> & <a href=\"https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=qnCa5ScGSdu0Hn1d7GAZ4g\">Maglera Doe Boy</a> ",
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I?si=cGzkKRKHRFCwOlBcTV3c_w\">Biggy</a> ",
   "name": "Afrikaanse Hip Hop",
   "tracks": [
     {
@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Janneman",
+        "url": "https://open.spotify.com/album/1R2hS2DTI0QrpzkUbbZXgk"
+      },
+      "artists": [
+        {
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195361,
+      "name": "Janneman",
+      "url": "https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA"
+    },
+    {
+      "album": {
         "name": "JMHWB",
         "url": "https://open.spotify.com/album/1T6tnYZ1l4htYjHyQ8aNWO"
       },
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 206746,
       "name": "Playa",
       "url": "https://open.spotify.com/track/1rNz535f5FjsnATLQQbSvN"

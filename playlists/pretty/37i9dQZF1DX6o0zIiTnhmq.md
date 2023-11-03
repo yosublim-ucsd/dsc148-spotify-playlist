@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,763 likes - 50 songs - 14 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,849 likes - 50 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb) | 34:22 |
+| 1 | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/track/2UozhIAXupkXrfpnOSG8zT) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/album/04ncbuy6fvxvXV3TByqsbg) | 34:22 |
 | 2 | [Surya Namaskar Mantra](https://open.spotify.com/track/7g3Y6bCXY8fLl0rw2XXkmX) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Surya Namaskar Mantra](https://open.spotify.com/album/0l5SkGFIFwUo01cwaRik4d) | 6:33 |
 | 3 | [Gayatri Mantra Without Rhythm](https://open.spotify.com/track/7DF6xE3PU2agEw7pEheTWt) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Gayatri Mantra\-\-\-\-\-Jagjit Singh](https://open.spotify.com/album/7yd4gPISELyKBRsdGDoCTg) | 7:51 |
 | 4 | [Ram Naam Dhun](https://open.spotify.com/track/2wxvn5ytbAFgc4aEJdixDs) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Dhun](https://open.spotify.com/album/0FRE9Itrx229lhTOZjrc3V) | 13:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 49 | [Om Kali Mahakali Mantra](https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ) | [Chant Central](https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI) | [Om Kali Mahakali Mantra](https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx) | 47:06 |
 | 50 | [Hari Om \- Edit](https://open.spotify.com/track/2f15VD8uiJDDEHbM17OmIv) | [Nisha Narsai](https://open.spotify.com/artist/1Ux83LKN1wlXdbKJhcpGEC) | [Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga](https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M) | 8:04 |
 
-Snapshot ID: `MCxiZTRlNjUxNGYxOWVlZjhjYTExNDMyMzUyM2NjMTY3YTBmODE0Yzcy`
+Snapshot ID: `MCxkNjkzZTEyZWY3ZGIyM2E4N2RkZjVkYzIxOWYwNmM5YmFlYjRlMmNk`

@@ -2,7 +2,7 @@
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits ! Photo : Olivia Rodrigo
+> Le meilleur des hits ! Photo : P!nk
 
 107 songs - 5 hr 38 min
 

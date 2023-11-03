@@ -4,7 +4,7 @@
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-98 songs - 6 hr 5 min
+101 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 | 2022-04-13 |  |
 | [I Will Be Alright](https://open.spotify.com/track/2EBZ815zoE0He8Bae7ygyy) | [黎曉陽](https://open.spotify.com/artist/4iB0GWec0wyODZvOatQMM9) | [I Will Be Alright](https://open.spotify.com/album/0sD2ptJBBX6aoivZWu3m03) | 3:28 | 2022-04-11 |  |
 | [I'm Sorry](https://open.spotify.com/track/1cpt31js3vq0cCXTLf3oYa) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [On Wings Of Time](https://open.spotify.com/album/4uiCnolZv9pf1BREEozzZ3) | 3:50 | 2022-04-11 |  |
-| [Never Been Kissed \(Acoustic\)](https://open.spotify.com/track/6Peafc0Wzi087a0aiCdll7) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/5HvlYZNXVsXYkFQZHgrBI1) | 4:04 | 2022-04-11 |  |
+| [Never Been Kissed \(Acoustic\)](https://open.spotify.com/track/6Peafc0Wzi087a0aiCdll7) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/5HvlYZNXVsXYkFQZHgrBI1) | 4:04 | 2022-04-11 | 2023-11-03 |
+| [Never Been Kissed \- Acoustic Version](https://open.spotify.com/track/1li3XwMukTvumthbu6SuQb) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/6R6b3p1Y5S3dt9QxBWvzjE) | 4:04 | 2022-11-03 |  |
 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 | 2022-04-11 |  |
 | [Night Ride](https://open.spotify.com/track/6NVzSfKT7uyHP9uAIZtpqz) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Night Ride](https://open.spotify.com/album/06GigS9fa2Q9ZbbFjtrIkB) | 5:44 | 2022-06-20 |  |
 | [Sam歌 \(feat\. 咖啡因公園@Coffee&Tea\)](https://open.spotify.com/track/1adMsTSdkrzVWog4x7QiEm) | [Fama](https://open.spotify.com/artist/7BcyMcADGhD6WB6XFAJFEa) | [你而家無,但係將來會有 \(上\)](https://open.spotify.com/album/6MhbcBShiQos6kbcPMDRVm) | 3:25 | 2022-04-11 |  |
@@ -37,7 +38,8 @@
 | [人類不宜飛行](https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [人類不宜飛行](https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT) | 3:57 | 2022-04-11 |  |
 | [今天只做一件事](https://open.spotify.com/track/7cUrqt1Uqb9OEWvog8xIrB) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [H3M \(Remastered 2019\)](https://open.spotify.com/album/4tPgavx8TzhK03utfMCgHL) | 3:49 | 2022-04-11 |  |
 | [今天我不想做嘢](https://open.spotify.com/track/1D1yUvHaleWGiwGODww5Bt) | [mansonvibes](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX) | [今天我不想做嘢](https://open.spotify.com/album/0Bcu0LjXgHT5LONotBjIke) | 3:54 | 2022-04-11 |  |
-| [他和她的事情](https://open.spotify.com/track/1aMZI7tr6wygYe5kW3SzIX) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Meow Meow Meow](https://open.spotify.com/album/4z4we28hj4pkFZYWCbOjDY) | 3:03 | 2022-04-11 |  |
+| [他和她的事情](https://open.spotify.com/track/1aMZI7tr6wygYe5kW3SzIX) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Meow Meow Meow](https://open.spotify.com/album/4z4we28hj4pkFZYWCbOjDY) | 3:03 | 2022-04-11 | 2023-11-03 |
+| [他和她的事情](https://open.spotify.com/track/3ob29UHOkVjYTNNw8DMPTy) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Meow Meow Meow](https://open.spotify.com/album/4tf3g3ybXnrKTqSRlbnOes) | 3:03 | 2022-11-03 |  |
 | [你可能未必不喜歡我](https://open.spotify.com/track/2d31lGHYH404EKp4NIsR91) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [拾](https://open.spotify.com/album/7JyOHAvl2oB2UJXTv2eN5o) | 4:45 | 2022-04-11 |  |
 | [兜圈](https://open.spotify.com/track/73KXQMlVcoMASo3U6kXpyA) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [EARTHQUAKE MIXTAPE](https://open.spotify.com/album/4n2uv69cSINmVZl019A3uV) | 2:44 | 2022-09-20 |  |
 | [出走](https://open.spotify.com/track/30ZDOmEwAfijYVCHiNXhxU) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [出走](https://open.spotify.com/album/3zrNfBfkmLxrOgNktr70em) | 5:18 | 2022-04-11 |  |
@@ -52,7 +54,8 @@
 | [在動物園散步才是正經事](https://open.spotify.com/track/0OkRkljXXhTLfh76cum9Fs) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [在動物園散步才是正經事](https://open.spotify.com/album/3R06MVz2i8ynBUfar35Ixk) | 2:15 | 2022-04-11 |  |
 | [在空中的這一秒](https://open.spotify.com/track/5st8nBxaC9GX6Dl3VMXTbM) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:46 | 2022-09-20 |  |
 | [大半生愛人 \(feat\. K&H\)](https://open.spotify.com/track/3iJYQNrMshaXV3nteeeEyY) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [大半生愛人 \(feat\. K&H\)](https://open.spotify.com/album/3Ke9WHCmMs9QVSxjT2c90g) | 3:41 | 2022-04-11 |  |
-| [天色很暗](https://open.spotify.com/track/6ZBumWehPjZ2ImcjUoFoso) | [Ellen Loo](https://open.spotify.com/artist/3fzkQF4hAwDkHQhzp5G2uC) | [Pillow talk](https://open.spotify.com/album/4nmZcy90HQtURY0QBIREQt) | 5:01 | 2022-04-11 |  |
+| [天色很暗](https://open.spotify.com/track/4BvISORbACwgXkE0Vl7Px0) | [Ellen Loo](https://open.spotify.com/artist/3fzkQF4hAwDkHQhzp5G2uC) | [Pillow talk](https://open.spotify.com/album/6m0z8u7j9ljWBljjUJ3Wuz) | 5:01 | 2022-11-03 |  |
+| [天色很暗](https://open.spotify.com/track/6ZBumWehPjZ2ImcjUoFoso) | [Ellen Loo](https://open.spotify.com/artist/3fzkQF4hAwDkHQhzp5G2uC) | [Pillow talk](https://open.spotify.com/album/4nmZcy90HQtURY0QBIREQt) | 5:01 | 2022-04-11 | 2023-11-03 |
 | [她結他 \(feat\. Sim C\)](https://open.spotify.com/track/7tbyJDW4764U1bjhQWx8g9) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D), [Sim C](https://open.spotify.com/artist/43mINwNeqvKw1ehYmXbZPP) | [她結他 \(feat\. Sim C\)](https://open.spotify.com/album/7GVRmWqZCbRksO8U1chyHa) | 4:20 | 2022-04-11 |  |
 | [如何從夏天活過來](https://open.spotify.com/track/53eahOq9YNDuppsBiH2BZf) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [如何從夏天活過來](https://open.spotify.com/album/7KRr78j2FrTDyR21fsz7f3) | 2:36 | 2022-04-11 |  |
 | [寂寞的星期五](https://open.spotify.com/track/6BNIr9tmuut9nP895ByjOB) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [寂寞的星期五](https://open.spotify.com/album/49MdV5EejhiQ1B4jygA17g) | 2:16 | 2022-04-11 |  |

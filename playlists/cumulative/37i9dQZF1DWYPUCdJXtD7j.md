@@ -4,7 +4,7 @@
 
 > Pour vos enfants, rien n'est plus beau qu'une petite voiture..\. à part peut\-être un camion pompier.
 
-27 songs - 59 min 23 sec
+28 songs - 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Mon Vélo Est Blanc](https://open.spotify.com/track/7zvVKYo5APEmQPeqbsqfaX) | [Anne Sylvestre](https://open.spotify.com/artist/5yR9X7FUjIAk2gQiymdLBn) | [Fabulettes](https://open.spotify.com/album/62FbtqQyaWepIkAwTnkp19) | 0:32 | 2021-04-14 |  |
 | [Roulez roulez](https://open.spotify.com/track/3sFL8DLRfQEArVDfeblQE5) | [Rémi Guichard](https://open.spotify.com/artist/2fJR6skAOWHwNlYPCd5Spe) | [Comptines et jeux de doigts, vol\. 4](https://open.spotify.com/album/16g6uQ0U5MEJJJdcjE1bZd) | 1:16 | 2021-04-14 |  |
 | [Tchou\-Tchou, le petit train](https://open.spotify.com/track/5jXpeoQ3rYB6RtXsEtqVX0) | [Dorothée](https://open.spotify.com/artist/7kZrDJdqo62iZD6B2UEu7D) | [Hou ! La menteuse](https://open.spotify.com/album/3SsdURdTYCx7vZF8HhGrCi) | 2:45 | 2021-04-14 |  |
-| [Tout le monde se presse](https://open.spotify.com/track/0GaawFROCUNGrRPovzxR0F) | [Sanseverino](https://open.spotify.com/artist/1jKouRXGXSjxHAx2ayWolz) | [Le Soldat Rose](https://open.spotify.com/album/2Be5cuDZXjcCX8fQqk6Doz) | 2:47 | 2021-04-14 |  |
+| [Tout le monde se presse](https://open.spotify.com/track/0GaawFROCUNGrRPovzxR0F) | [Sanseverino](https://open.spotify.com/artist/1jKouRXGXSjxHAx2ayWolz) | [Le Soldat Rose](https://open.spotify.com/album/2Be5cuDZXjcCX8fQqk6Doz) | 2:47 | 2021-04-14 | 2023-11-03 |
+| [Tout le monde se presse](https://open.spotify.com/track/3Rq5aUgenRwBqIXJAIdLDn) | [Sanseverino](https://open.spotify.com/artist/1jKouRXGXSjxHAx2ayWolz) | [Le Soldat Rose](https://open.spotify.com/album/7xQg02F6RsiXzdYYSfcXjq) | 2:47 | 2021-04-14 |  |
 | [Un petit vélo sur le bout du nez](https://open.spotify.com/track/0aIKvpvi6x0HRcBSvffkah) | [Anne Sylvestre](https://open.spotify.com/artist/5yR9X7FUjIAk2gQiymdLBn) | [Les Fabulettes, vol\. 17 : Fabulettes à lunettes](https://open.spotify.com/album/4pKvISiPiH3oa7jH2lhxWJ) | 2:20 | 2021-04-14 |  |
 | [Véli Vélo](https://open.spotify.com/track/4l5neNZUL6axj994UQQeiY) | [Les Tralalaploufplouf](https://open.spotify.com/artist/3GKhOWRGNwi5aAuDx8ui4i) | [Plouf Plouf 48 Comptines Pour Jouer](https://open.spotify.com/album/1vM1ERI6JU9b1KwdDbF5kJ) | 0:54 | 2021-04-14 |  |
 | [Vélo](https://open.spotify.com/track/1NvpRCr4LnEInI2UDcLMw2) | [Bénabar](https://open.spotify.com/artist/6xoAWsIOZxJVPpo7Qvqaqv) | [Bénabar](https://open.spotify.com/album/6ggQNps98xaXMY0OZWevEH) | 2:41 | 2021-04-14 |  |

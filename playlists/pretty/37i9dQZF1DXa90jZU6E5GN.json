@@ -1,12 +1,12 @@
 {
   "description": "make the whole place shimmer \u2728",
-  "num_followers": 183178,
+  "num_followers": 183482,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTQyYTdlODM5NTYyODNlOTkwM2Q0YTBmYzI1OTI0MTAzNWI5YTBh",
+  "snapshot_id": "MCxlYjRlZjM5NWQ2MzQ0ZjAzZjI4YTdmMGFiMGU4N2E0ODYzMTczOTZk",
   "tracks": [
     {
       "added_at": "2023-07-24 19:45:41",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "That Don't Impress Me Much",
-      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 196360,
       "name": "Woman (feat. The Dap-Kings Horns)",
       "url": "https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Baytown",
-        "url": "https://open.spotify.com/album/3Ij6h1an3zzaFqY7PnW0JX"
+        "name": "Pioneer",
+        "url": "https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1"
       },
       "artists": [
         {
-          "name": "RaeLynn",
-          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
         }
       ],
-      "duration_ms": 184623,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/7G5Zby8vFCPoT5xjZpnmdx"
+      "duration_ms": 194680,
+      "name": "Better Dig Two",
+      "url": "https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Pioneer",
-        "url": "https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1"
+        "name": "Baytown",
+        "url": "https://open.spotify.com/album/3Ij6h1an3zzaFqY7PnW0JX"
       },
       "artists": [
         {
-          "name": "The Band Perry",
-          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+          "name": "RaeLynn",
+          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
         }
       ],
-      "duration_ms": 194680,
-      "name": "Better Dig Two",
-      "url": "https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP"
+      "duration_ms": 184623,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/7G5Zby8vFCPoT5xjZpnmdx"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
+        "name": "Pioneer",
+        "url": "https://open.spotify.com/album/6SWKUE4kbjbsNjaY112Chp"
+      },
+      "artists": [
+        {
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "DONE.",
+      "url": "https://open.spotify.com/track/3CClN6lWM5m2dfpaFug3VP"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
         "name": "It Didn't",
         "url": "https://open.spotify.com/album/1w7fYtjzCp5c04VqpQclVd"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 178597,
       "name": "It Didn't",
       "url": "https://open.spotify.com/track/6ITA2Sf9ksBL8uCDPBaRcM"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
-        "name": "Off The Deep End",
-        "url": "https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
-        }
-      ],
-      "duration_ms": 196499,
-      "name": "Off The Deep End",
-      "url": "https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Pioneer",
-        "url": "https://open.spotify.com/album/6SWKUE4kbjbsNjaY112Chp"
+        "name": "Off The Deep End",
+        "url": "https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f"
       },
       "artists": [
         {
-          "name": "The Band Perry",
-          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
         }
       ],
-      "duration_ms": 205266,
-      "name": "DONE.",
-      "url": "https://open.spotify.com/track/3CClN6lWM5m2dfpaFug3VP"
+      "duration_ms": 196499,
+      "name": "Off The Deep End",
+      "url": "https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek"
     },
     {
       "added_at": "2023-07-24 19:45:41",

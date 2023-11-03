@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Jay Wheeler
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,097 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,199 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 |
 | 51 | [DVD](https://open.spotify.com/track/3dEJNqPiZOS34BhrzZQzI7) | [Bernier](https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK) | [DVD](https://open.spotify.com/album/1u0puOWCRI3Jgf3IIiGI32) | 2:44 |
 
-Snapshot ID: `MCwwMmRhYzY2Y2RkYzkwNTIwOTA3MjE0NDk3Nzg0YTU4MDNiNDE1ZDQz`
+Snapshot ID: `MCxmNjFhZjBiYmQyMDM1OGQyNmJhNDM4ODZlNmE4Njk0NTZlMTM1MGQw`

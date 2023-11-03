@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,074 likes - 110 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,098 likes - 110 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 99 | [Qweendom](https://open.spotify.com/track/58dK6i9NAMEs0HguHnwChP) | [Qween Beat](https://open.spotify.com/artist/0VF9ULRE5eBuX7bkwLu9wB) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 3:33 |
 | 100 | [The En\-Na\-Er\-Gi Bounce \(Rebounce\)](https://open.spotify.com/track/6QCz2NtIQPLseWXcOKWDb3) | [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ) | [Jeffree's, Vol\. 8](https://open.spotify.com/album/5qE2aOPfLshaK0qvZrkZ6B) | 4:41 |
 | 101 | [I Chant, You Vogue](https://open.spotify.com/track/1DrQopISwKABpnS9qnK9lY) | [Leggoh](https://open.spotify.com/artist/3QOXHCj0WrJNsTcR2FucQ0) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 5:02 |
-| 102 | [Feel This \- Robbie Rivera's Mix](https://open.spotify.com/track/5eI7ZFkAD53lSERufsLF79) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Feel This](https://open.spotify.com/album/1pyIbjcsybRyXMBIXAt0sH) | 6:57 |
+| 102 | [Feel This \(Robbie Rivera's Mix\)](https://open.spotify.com/track/2oL2XzBC6li9URWZlHX5Xu) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Feel This](https://open.spotify.com/album/6R9w3Ce7uh4nTs1IxquPyu) | 6:57 |
 | 103 | [Slap My B\*tt](https://open.spotify.com/track/3ScUXRzJN51KS5BLYcYf28) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [One Trick Pony](https://open.spotify.com/album/3DsBrHTjrvPVLDK05kqy93) | 6:10 |
 | 104 | [Step Ya Pussy Up](https://open.spotify.com/track/4UtQrsyUkuVCxWvSeRQGcA) | [Ts Madison](https://open.spotify.com/artist/4t8qRr48RwXk9mlzuiriy8) | [The New Supreme](https://open.spotify.com/album/6rzwAD74MGX9adNWuZj4tr) | 3:18 |
 | 105 | [Walk \(feat\. Dashaun Wesley\)](https://open.spotify.com/track/16FZL2HEkJzvZTVnOvNXUa) | [Skyshaker](https://open.spotify.com/artist/0AkvLNa5ONu9VWoREfOwqo), [Dashaun Wesley](https://open.spotify.com/artist/6ZlsfHbSCDBAisAlLqRF1G) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 3:52 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 109 | [Realness](https://open.spotify.com/track/1Fh6UKeOozklnE9a24GSSh) | [Ash B.](https://open.spotify.com/artist/73C4in0N0LZovDdQBtCoez) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:03 |
 | 110 | [Witch Doktor](https://open.spotify.com/track/3ntelFceNINxt3xhEXhRc8) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Greatest Hits](https://open.spotify.com/album/4t09XQnmG7HufzESXNdWn4) | 6:46 |
 
-Snapshot ID: `MCw2OGE0NjcxMjY5N2RjZmYxZDBhMzM0YzI5YTcxNGE1NjYzNTE3YmMz`
+Snapshot ID: `MCw1ZmYzZjE0NTlkZmZhYTA5MDhhOWJmZTMwMTQ3NTY5ZmJhMzA1YzVl`

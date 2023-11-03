@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Marka Akme, DJ Tao, Lauty Gram, Migrantes & Peipper.
 
-167 songs - 9 hr 9 min
+168 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Corazón de Madre / Cosas Del Amor](https://open.spotify.com/track/6R2UbyXsPIpBlKBiqy4nHg) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Corazón de Madre / Cosas Del Amor](https://open.spotify.com/album/1p2Ds7qSk9Qo7D9f61Eljy) | 3:49 | 2023-10-20 |  |
 | [Cual Fue? \- Remix](https://open.spotify.com/track/7ESW1EAnlel9tDIeR0BJE7) | [Danilo Montana](https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Cual Fue? \(Remix\)](https://open.spotify.com/album/2mROokrsjxuPcDemjcqvJ6) | 3:24 | 2023-05-26 |  |
 | [Cucumelo](https://open.spotify.com/track/29aYatLGWbMVcC3snkyFVD) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Cucumelo](https://open.spotify.com/album/3MLajrzEOSWDQgkIzluqaf) | 2:59 | 2023-11-01 |  |
+| [Culito Pa' Tras](https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY) | 2:05 | 2023-11-01 |  |
 | [Culo Pa 2 Tangas](https://open.spotify.com/track/7G8ui29Y8betGzDM2d2Xvk) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Culo Pa 2 Tangas](https://open.spotify.com/album/6vA3jeLGv8Zixm640gPZVL) | 3:02 | 2023-05-26 | 2023-09-15 |
 | [Cumbia del Recuerdo](https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Cumbia del Recuerdo](https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA) | 2:57 | 2023-05-26 |  |
 | [DALE DALE](https://open.spotify.com/track/5RYg5SW0iqIGAmHDmoU2vb) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [DALE DALE](https://open.spotify.com/album/55GZVprq5iYoWZOBu4Xwj9) | 3:03 | 2023-05-26 |  |
@@ -68,7 +69,7 @@
 | [Fua Mi Amor](https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Four Plack](https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW) | [Fua Mi Amor](https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT) | 2:45 | 2023-05-26 |  |
 | [FUMAN TWO](https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [FUMAN TWO](https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy) | 1:54 | 2023-08-25 |  |
 | [Gancia y Limon](https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o) | [Smk\-2](https://open.spotify.com/artist/6gxMv3Vj5PBdDbWfycfVxt), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Gancia y Limon](https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa) | 3:53 | 2023-09-22 |  |
-| [Gobernada](https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5) | [El Guachoon](https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr) | [25 Horas de Gira](https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL) | 3:13 | 2023-05-26 |  |
+| [Gobernada](https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5) | [El Guachoon](https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr) | [25 Horas de Gira](https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL) | 3:13 | 2023-05-26 | 2023-11-03 |
 | [Gordo Rata \- En Vivo](https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Gordo Rata \(En Vivo\)](https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO) | 3:40 | 2023-05-26 |  |
 | [Guerra](https://open.spotify.com/track/2SS3YF05rm1adWFAGXAZFh) | [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB) | [Guerra](https://open.spotify.com/album/3nAcVpBeZ5MEaZmtNt1Uhf) | 2:57 | 2023-09-29 | 2023-10-14 |
 | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT) | 2:45 | 2023-05-26 |  |

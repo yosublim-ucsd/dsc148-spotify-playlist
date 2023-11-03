@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,764 likes - 101 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,823 likes - 101 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 18 | [Alive and Living](https://open.spotify.com/track/3cgbytw3M9Lse9wwdPiuBu) | [Lari Basilio](https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0) | [Alive and Living](https://open.spotify.com/album/0G9yeCMh4JauJK82odWRq9) | 3:36 |
 | 19 | [Playing God](https://open.spotify.com/track/3nBGFgfRQ8ujSmu5cGlZIU) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Playing God](https://open.spotify.com/album/3rHwz3EQwsQXdsXvSWE1N4) | 3:25 |
 | 20 | [When Words Fail...](https://open.spotify.com/track/3mQ06QA9KD996YAAjb8TBe) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Electric Truth](https://open.spotify.com/album/3jL5Ne8atGXQfBlabEibHE) | 5:09 |
-| 21 | [Reverie](https://open.spotify.com/track/1W5zSvAeIXlw6odInPE4m5) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 4:02 |
+| 21 | [Reverie](https://open.spotify.com/track/07QlP7twNI81IsqhKLFiER) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Remember That You Will Die](https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw) | 4:02 |
 | 22 | [Soundtrack Life](https://open.spotify.com/track/7E6VxeL3kzU330AA11FhqE) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Soundtrack Life / Yesterday Meets Today](https://open.spotify.com/album/2kipIDLTDxSHWM7MC6MqUx) | 4:19 |
 | 23 | [Illuminate, Pt\. II](https://open.spotify.com/track/2CGdWIMOBsgUmgiwS5rMvN) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Rock Candy](https://open.spotify.com/album/1PTQRv4S9laI9rIt99d1RV) | 2:04 |
 | 24 | [When I Met You](https://open.spotify.com/track/0qLSej5O1b7IviLseDChHk) | [Martin Gonzalez](https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg), [Lechuga](https://open.spotify.com/artist/2SDcND6iKTDeQtHYV7OmoB) | [Blossoms](https://open.spotify.com/album/2JeTEgwVR74F3OUd1QPhCE) | 3:33 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 100 | [Tumescent](https://open.spotify.com/track/47XVn2ciuhWqHorHdWn89D) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/37Ge505lCbErq9PAjkKEyd) | 4:02 |
 | 101 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 |
 
-Snapshot ID: `MCxjZDkxMDcxZjVjNjJhODAwYzFlNWMyMDAzZWQzMWQ1N2I2Mjg5Mzlh`
+Snapshot ID: `MCw4ZWJiYTljMzI5N2EzNjM1N2E1NmU1YWQ4YjFmMjUxZGJmMWU1ZmJi`

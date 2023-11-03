@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 63658,
+  "num_followers": 63714,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDM0ZGEyMjgwZGU3OTUwMGQ2NDYzMzU1MTY0YTg5ZDU3MDczNmQ2",
+  "snapshot_id": "MCwwMTFlOGY3OTg2ZjJiNjk1MTEyOTM3NzY2ZTQ3N2FmNDQwMjQ4ZDUy",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Joli Mai",
-        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 138371,
-      "name": "Poly",
-      "url": "https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Interloper",
         "url": "https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 389325,
       "name": "Interloper",
       "url": "https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Joli Mai",
+        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 138371,
+      "name": "Poly",
+      "url": "https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Ichika",
-        "url": "https://open.spotify.com/album/4lrJKMimi4yC5uGgUVNdgZ"
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/0tllI5pQGWDzlIBGvmUnlm"
       },
       "artists": [
         {
-          "name": "Jozef K",
-          "url": "https://open.spotify.com/artist/30qZ701I6hThXcmPPkcrF0"
+          "name": "Third Son",
+          "url": "https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc"
         }
       ],
-      "duration_ms": 485810,
-      "name": "Ichika",
-      "url": "https://open.spotify.com/track/1MRBa5AnDvmIoiT2NyyBoL"
+      "duration_ms": 92017,
+      "name": "Truman Sleeps",
+      "url": "https://open.spotify.com/track/3gNbDI069mCAClIz13MBgI"
     }
   ],
   "unique_name": "Deep Study",

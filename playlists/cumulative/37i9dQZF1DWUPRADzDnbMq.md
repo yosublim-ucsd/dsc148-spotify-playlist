@@ -4,7 +4,7 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-132 songs - 7 hr 43 min
+134 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 | 2022-08-20 |  |
 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 | 2022-04-24 | 2022-06-21 |
 | [Bama Breeze](https://open.spotify.com/track/2Ql3AOQedeK5gFq8tM1tIY) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Take the Weather with You](https://open.spotify.com/album/5ysuQGWbJTDZZHULZIs1F0) | 3:11 | 2022-08-20 |  |
-| [Beach Boys](https://open.spotify.com/track/2ZuWXOOVsHFQodtdDo4WJq) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Woods & Water \- EP](https://open.spotify.com/album/6L1RBNcPOCMzd1ci4T0R5F) | 3:00 | 2022-01-01 |  |
+| [Beach Boys](https://open.spotify.com/track/2ZuWXOOVsHFQodtdDo4WJq) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Woods & Water \- EP](https://open.spotify.com/album/6L1RBNcPOCMzd1ci4T0R5F) | 3:00 | 2022-01-01 | 2023-11-03 |
+| [Beach Boys](https://open.spotify.com/track/7qzEjStbreUSDwqW5Ggw4C) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Woods & Water \- EP](https://open.spotify.com/album/3okoqJq5cGyGVooAOENhiO) | 3:00 | 2023-08-18 |  |
 | [Beach Bummin'](https://open.spotify.com/track/5CeskUEn82sq3fWn263IXC) | [Ryan Robinette](https://open.spotify.com/artist/0TyoYqD4NUQuF4Rv76MCdu) | [Hello Summer, Vol\. 4](https://open.spotify.com/album/6D2sVC5DxxXITqLHoFvzjs) | 2:52 | 2021-11-19 | 2022-06-21 |
 | [Beach Vibes](https://open.spotify.com/track/4MNeSjEyuJUstjClMavXvo) | [Aubrey Wollett](https://open.spotify.com/artist/30qNEd7C8jQLeGswnxDrhu) | [Beach Vibes](https://open.spotify.com/album/4Sb6DHiVjsH7EbrZmDJIjM) | 3:12 | 2020-09-08 | 2022-04-25 |
 | [Better Boat \(feat\. Mindy Smith\)](https://open.spotify.com/track/357oRj2nlGc9QLjMGifVtS) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Mindy Smith](https://open.spotify.com/artist/4QGC11o7gQR7MBEJ5cUMSv) | [Songs for the Saints](https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY) | 3:44 | 2021-11-19 | 2022-04-25 |
@@ -97,7 +98,8 @@
 | [Señorita](https://open.spotify.com/track/2eQYv5UJAjtXraIVzy2ZH7) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:00 | 2020-09-08 |  |
 | [Shiftwork \(with George Strait\) \- Duet With George Strait](https://open.spotify.com/track/1JtYfT7sJF3jojvLo1Vl7c) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Just Who I Am: Poets & Pirates](https://open.spotify.com/album/7E1BiscM3O6aifwtcLdUG7) | 4:29 | 2020-09-08 |  |
 | [Singing Me Home](https://open.spotify.com/track/4STrDx8vMkfhiatyjBOi5O) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Own The Night](https://open.spotify.com/album/2OecGqWoNWvW2VH4HUixjo) | 3:52 | 2020-09-08 |  |
-| [Sippin Sunsets](https://open.spotify.com/track/7x53fz8OrckHWplZdhEq5Z) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Woods & Water \- EP](https://open.spotify.com/album/6L1RBNcPOCMzd1ci4T0R5F) | 3:07 | 2021-11-19 |  |
+| [Sippin Sunsets](https://open.spotify.com/track/32JbAcZc1xBalgHjThlFkA) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Woods & Water \- EP](https://open.spotify.com/album/3okoqJq5cGyGVooAOENhiO) | 3:07 | 2023-08-18 |  |
+| [Sippin Sunsets](https://open.spotify.com/track/7x53fz8OrckHWplZdhEq5Z) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Woods & Water \- EP](https://open.spotify.com/album/6L1RBNcPOCMzd1ci4T0R5F) | 3:07 | 2021-11-19 | 2023-11-03 |
 | [Six\-Pack Summer](https://open.spotify.com/track/23qDMWnwf8p0pr5slljB6i) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Phil Vassar](https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC) | 3:39 | 2020-09-08 |  |
 | [Slow Down Summer](https://open.spotify.com/track/6c9mvipi1OooFPcU2dbwxq) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:37 | 2022-04-24 |  |
 | [Some Beach](https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton's Barn & Grill](https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA) | 3:24 | 2020-09-08 |  |

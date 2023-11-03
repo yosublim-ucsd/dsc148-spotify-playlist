@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 
 > The best and finest 10s Funk\. Cover: Pharrell Williams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,713 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,753 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flow with It \(You Got Me Feeling Like\)](https://open.spotify.com/track/2eM4Ew20VXdjBhm6a6Cs9l) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea of Noise](https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2) | 3:16 |
 | 2 | [Work It Out](https://open.spotify.com/track/62cr4T5CnlHhRVPLQQ3Var) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Cory Wong and the Green Screen Band](https://open.spotify.com/album/4GMMDXVjbUwzospZCb8Uy9) | 5:39 |
 | 3 | [Funky Duck](https://open.spotify.com/track/2KRQR1VK6OoJxpwVzwDv72) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 2:10 |
-| 4 | [Time For Love](https://open.spotify.com/track/7EzkFnIt0pJ420BqhcyZ6W) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj) | 3:34 |
+| 4 | [Time For Love](https://open.spotify.com/track/3DiAic0gBfi0kCdrSvgU2H) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/3bgCu5Lk4saMzZrtDMX118) | 3:34 |
 | 5 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
 | 6 | [Holding On \- Gus Pirelli VIP 7" Disco Mix](https://open.spotify.com/track/5R4Z0iKvKJ70ab2Y1dmgRT) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Gus Pirelli](https://open.spotify.com/artist/3sKGlKlAS9uj2yVVCzT3KO) | [Holding On \(The Remixes\)](https://open.spotify.com/album/0KqeLeHGEvhviC19w8vIEC) | 3:12 |
 | 7 | [Colorful Midst](https://open.spotify.com/track/6PbY8O3q4hKwTZcsqmo5ba) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [The Main Squeeze](https://open.spotify.com/album/01rFrRHFCxVOpb4SympYlU) | 4:10 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 72 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
 | 73 | [It's Gonna Rain](https://open.spotify.com/track/58gPIRzKQteZDwUQKQAj0q) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Resistance](https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D) | 5:07 |
 
-Snapshot ID: `MCw4MDY0MDhlYjc1N2E3OTA2NmE4M2M2OWMwNTI4NjZkYjVkMGRkYWZi`
+Snapshot ID: `MCxkMWQ5YWMxNjBiOWJhOGQ1OGI4NTVmMGFjM2ZiYjEwMjY4NDMzYjk5`

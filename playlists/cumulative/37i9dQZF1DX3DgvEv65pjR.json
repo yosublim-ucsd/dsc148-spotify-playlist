@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/6l77h0TCCEIOl49SS3hwT6"
+      },
+      "artists": [
+        {
+          "name": "Brooke Eden",
+          "url": "https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168646,
+      "name": "No Shade",
+      "url": "https://open.spotify.com/track/0QZdish4jOTLbnMQNICsIr"
+    },
+    {
+      "album": {
         "name": "No Shade",
         "url": "https://open.spotify.com/album/5kBWzi2RMeS03PDNuF7dRR"
       },
@@ -654,7 +672,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 168646,
       "name": "No Shade",
       "url": "https://open.spotify.com/track/6xCud6wZFurFX88A0BWFrh"

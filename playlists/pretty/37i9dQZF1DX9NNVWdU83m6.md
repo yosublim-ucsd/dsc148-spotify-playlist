@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,483 likes - 121 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,546 likes - 121 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 84 | [Hits!](https://open.spotify.com/track/5Lgl6FQNRkAmbkIQuNcjS5) | [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Dennis Hamm](https://open.spotify.com/artist/63Cyh6CQMpPPni4d9af30g) | [Hits!](https://open.spotify.com/album/4ZkhTuOJtL59EKqOAayBIb) | 5:30 |
 | 85 | [Making The Circle](https://open.spotify.com/track/2IZSJBp2pkdDIdArKUD4uD) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Bring Us The Bright](https://open.spotify.com/album/3TsyAhKh3iEruzauyaKkmg) | 6:47 |
 | 86 | [The Kipper and the Pork Pie](https://open.spotify.com/track/6pkkUNpoDPhI0dGV72caDx) | [WorldService Project](https://open.spotify.com/artist/1yYpduIG9QUEIh3w2ibm9D) | [Hiding in Plain Sight](https://open.spotify.com/album/2NHruqgKmRD6Jwewz7eU0Y) | 3:42 |
-| 87 | [Captain Señor Mouse](https://open.spotify.com/track/6z71qHoHjMRU3EbulmmNVq) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Return To The Seventh Galaxy](https://open.spotify.com/album/6C6zPgI6qcNZfGTWDeiHly) | 9:00 |
+| 87 | [Captain Señor Mouse](https://open.spotify.com/track/1HSHOe07A4gtxBwSFhK5Pb) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Hymn Of The Seventh Galaxy](https://open.spotify.com/album/0ddNu3IWO5iEHoBe9qOr5L) | 9:01 |
 | 88 | [Inner Babylon \- 10th Anniversary Remaster](https://open.spotify.com/track/4v9nCwprto0WudPm7Sugaz) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn \(10th Anniversary Remaster\)](https://open.spotify.com/album/6KPAS8bKufxqev7XFgg8ss) | 5:22 |
 | 89 | [Hazard Profile, Pt\. 5 \- 2022 Remaster](https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 5:23 |
 | 90 | [Willie The Pimp](https://open.spotify.com/track/3toxxSU3TcvzgmeR8LLUiX) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 9:23 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 120 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 |
 | 121 | [Earthrise \- Remastered 2023](https://open.spotify.com/track/4ZuilI3GqubKxMFMyuWGWH) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage \(2023 Remastered & Expanded Edition\)](https://open.spotify.com/album/2dfny28poOXsb8HxYGbRYf) | 6:41 |
 
-Snapshot ID: `MCxkM2YxNzBmYzdkNTJjZDE1ZjY1ZDg0MGVlYmExNmQzMzk2NmQyOGEz`
+Snapshot ID: `MCw0YjNhZGVjMmY3NWE0ODZkZjI4MzYyY2M5NWIxN2IxZTllM2NkMDQw`

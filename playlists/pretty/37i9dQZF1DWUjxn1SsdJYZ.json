@@ -1,12 +1,12 @@
 {
   "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Vv Pete",
-  "num_followers": 139726,
+  "num_followers": 139742,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTRlN2VlZjRiMTMzODcxMDczMzNiOWYwMzQ3ZmE2MGY2N2ViN2Ex",
+  "snapshot_id": "MCw2MGZkMzZiNDNkOTIyNzllMWYyNDM5ZDgxOWQxYWUxNmYyM2JkZDdk",
   "tracks": [
     {
       "added_at": "2023-10-26 12:30:06",
@@ -25,26 +25,10 @@
       "url": "https://open.spotify.com/track/3fdVYPuolN7ReRZPwXhfi1"
     },
     {
-      "added_at": "2023-10-26 12:30:06",
+      "added_at": "2023-11-02 13:00:00",
       "album": {
-        "name": "Please Explain",
-        "url": "https://open.spotify.com/album/2B3x1q4E17aIDbATRywkLu"
-      },
-      "artists": [
-        {
-          "name": "Brothers",
-          "url": "https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I"
-        }
-      ],
-      "duration_ms": 327887,
-      "name": "Please Explain",
-      "url": "https://open.spotify.com/track/5w9lYiAZOOG2y1EfMHOXb3"
-    },
-    {
-      "added_at": "2023-10-26 12:30:06",
-      "album": {
-        "name": "THROW AWAY BARS",
-        "url": "https://open.spotify.com/album/2NFOlKJaGoL3mFMmGL9jnL"
+        "name": "17X's",
+        "url": "https://open.spotify.com/album/0LJHGRVZ0tzoMmhFaZsAYA"
       },
       "artists": [
         {
@@ -52,9 +36,9 @@
           "url": "https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv"
         }
       ],
-      "duration_ms": 132408,
-      "name": "THROW AWAY BARS",
-      "url": "https://open.spotify.com/track/5dZgSlWGLKyf5LnCyyvU6x"
+      "duration_ms": 113307,
+      "name": "17X's",
+      "url": "https://open.spotify.com/track/4pRT6SZF29tZaO79CULoVT"
     },
     {
       "added_at": "2023-10-26 12:30:06",
@@ -79,6 +63,22 @@
     {
       "added_at": "2023-10-26 12:30:06",
       "album": {
+        "name": "Please Explain",
+        "url": "https://open.spotify.com/album/2B3x1q4E17aIDbATRywkLu"
+      },
+      "artists": [
+        {
+          "name": "Brothers",
+          "url": "https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I"
+        }
+      ],
+      "duration_ms": 327887,
+      "name": "Please Explain",
+      "url": "https://open.spotify.com/track/5w9lYiAZOOG2y1EfMHOXb3"
+    },
+    {
+      "added_at": "2023-10-26 12:30:06",
+      "album": {
         "name": "We Ride",
         "url": "https://open.spotify.com/album/54BeNq6d1lkoLM8foqjx9k"
       },
@@ -91,6 +91,22 @@
       "duration_ms": 187038,
       "name": "We Ride",
       "url": "https://open.spotify.com/track/0ZndP0d6W6ICRmSlKgMiS4"
+    },
+    {
+      "added_at": "2023-11-02 13:00:00",
+      "album": {
+        "name": "Street Life",
+        "url": "https://open.spotify.com/album/5mH0XeSvBW3CWgQWaqdnaq"
+      },
+      "artists": [
+        {
+          "name": "TrexDaMenace",
+          "url": "https://open.spotify.com/artist/5XEX0rmhg8vdEXiLohy10f"
+        }
+      ],
+      "duration_ms": 131134,
+      "name": "Street Life",
+      "url": "https://open.spotify.com/track/7uoFdtzsyyPCKlNcaHqI6E"
     },
     {
       "added_at": "2023-10-26 12:30:06",
@@ -179,6 +195,22 @@
     {
       "added_at": "2023-10-26 12:30:06",
       "album": {
+        "name": "THROW AWAY BARS",
+        "url": "https://open.spotify.com/album/2NFOlKJaGoL3mFMmGL9jnL"
+      },
+      "artists": [
+        {
+          "name": "SkuX",
+          "url": "https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv"
+        }
+      ],
+      "duration_ms": 132408,
+      "name": "THROW AWAY BARS",
+      "url": "https://open.spotify.com/track/5dZgSlWGLKyf5LnCyyvU6x"
+    },
+    {
+      "added_at": "2023-10-26 12:30:06",
+      "album": {
         "name": "OUR PEOPLE (feat. The Presets)",
         "url": "https://open.spotify.com/album/4zVoQrcFwZgHVQPXJe9pKY"
       },
@@ -191,6 +223,22 @@
       "duration_ms": 234846,
       "name": "OUR PEOPLE (feat. The Presets)",
       "url": "https://open.spotify.com/track/0mmLOdN3lD9zfvW91SNsrG"
+    },
+    {
+      "added_at": "2023-11-02 13:00:00",
+      "album": {
+        "name": "SRIRACHI SAFARI",
+        "url": "https://open.spotify.com/album/4pIZcdXXxe130ZzrcnS4kw"
+      },
+      "artists": [
+        {
+          "name": "Srirachi",
+          "url": "https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF"
+        }
+      ],
+      "duration_ms": 193551,
+      "name": "SAFARI",
+      "url": "https://open.spotify.com/track/6z5Sfw01Sevy7rlMXLjWLz"
     },
     {
       "added_at": "2023-10-26 12:30:06",
@@ -1623,26 +1671,6 @@
     {
       "added_at": "2023-10-26 12:30:06",
       "album": {
-        "name": "G-WAGON (feat. Wombat)",
-        "url": "https://open.spotify.com/album/2ZocmqDOfpR1i9ZK27hpm3"
-      },
-      "artists": [
-        {
-          "name": "Tbi$h",
-          "url": "https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U"
-        },
-        {
-          "name": "Wombat",
-          "url": "https://open.spotify.com/artist/001o475CIcdKHkvgKc9t8H"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "G-WAGON (feat. Wombat)",
-      "url": "https://open.spotify.com/track/56A51DVwMTzuzdqDpiXx8O"
-    },
-    {
-      "added_at": "2023-10-26 12:30:06",
-      "album": {
         "name": "Turn Me Up",
         "url": "https://open.spotify.com/album/2K62QWxt9PRLH5unXFeGXb"
       },
@@ -1655,22 +1683,6 @@
       "duration_ms": 126073,
       "name": "Turn Me Up",
       "url": "https://open.spotify.com/track/5l9OQXFhZaaA80JCz0fPwr"
-    },
-    {
-      "added_at": "2023-10-26 12:30:06",
-      "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/6tCRa1aV7mO9t1sLbgn1Qu"
-      },
-      "artists": [
-        {
-          "name": "The Boy Of Many Colors",
-          "url": "https://open.spotify.com/artist/6TH3slGLeQpUTS5Ng01bWx"
-        }
-      ],
-      "duration_ms": 208455,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/0smjjXdyFwV9P2Qu53zkUn"
     },
     {
       "added_at": "2023-10-26 12:30:06",

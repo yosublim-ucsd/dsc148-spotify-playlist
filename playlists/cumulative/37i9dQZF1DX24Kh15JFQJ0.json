@@ -1617,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "God, Family, Country (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nGxSALyfv0Wq8CWZpIVnZ"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209440,
+      "name": "Going Out Like This",
+      "url": "https://open.spotify.com/track/1HyY2kBqyd7uHtX0oitoJ0"
+    },
+    {
+      "album": {
         "name": "Sippin' On The Simple Life",
         "url": "https://open.spotify.com/album/5vKquArL0GIKYNrNXpS3Mo"
       },
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 209440,
       "name": "Going Out Like This",
       "url": "https://open.spotify.com/track/2La9vfJPqpxxKgOxCqlJT3"
@@ -3270,6 +3288,28 @@
     {
       "album": {
         "name": "Enlisted",
+        "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164837,
+      "name": "Raise The Bar",
+      "url": "https://open.spotify.com/track/1YUgWK7N91H4tcjDdZivms"
+    },
+    {
+      "album": {
+        "name": "Enlisted",
         "url": "https://open.spotify.com/album/3vIkNPu2pu3EejaNlm0bBb"
       },
       "artists": [
@@ -3284,7 +3324,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 164837,
       "name": "Raise The Bar",
       "url": "https://open.spotify.com/track/7yVL4aBAimYa28PToT2tEF"

@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Beat Goes On",
+        "url": "https://open.spotify.com/album/4B3NlVoVF0mXqJ6TJkHgaT"
+      },
+      "artists": [
+        {
+          "name": "Jay Reeve",
+          "url": "https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181548,
+      "name": "Beat Goes On",
+      "url": "https://open.spotify.com/track/2pBbLV84KbF2AaHAnOnArp"
+    },
+    {
+      "album": {
         "name": "Beatbox Rocker",
         "url": "https://open.spotify.com/album/4a8PMWyKo7HUIEWqwQihgK"
       },
@@ -2128,7 +2146,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 165003,
       "name": "Das Ist Kein Techno",
       "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
@@ -2186,6 +2204,24 @@
       "duration_ms": 221781,
       "name": "Death Or Glory",
       "url": "https://open.spotify.com/track/4PQ0ckfbPTkcxzFiIXAzG3"
+    },
+    {
+      "album": {
+        "name": "Demise 2.0",
+        "url": "https://open.spotify.com/album/7yJ2K6AzmDyFyOwgqGYL1z"
+      },
+      "artists": [
+        {
+          "name": "Vasto",
+          "url": "https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145679,
+      "name": "Demise 2.0",
+      "url": "https://open.spotify.com/track/03HCR8nivdjZD7UxzAJfsm"
     },
     {
       "album": {
@@ -2700,7 +2736,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 171000,
       "name": "Drilla Killa",
       "url": "https://open.spotify.com/track/5c5q9FQNfTJiuS3EuVG5xu"
@@ -2924,6 +2960,28 @@
       "duration_ms": 176000,
       "name": "Enchant\u00e9 - Tungevaag Remix",
       "url": "https://open.spotify.com/track/2g2ImCRTlsi6SsQiIuZWpO"
+    },
+    {
+      "album": {
+        "name": "End Of Time",
+        "url": "https://open.spotify.com/album/56x9tz0pCNH3YjFUMuhp7P"
+      },
+      "artists": [
+        {
+          "name": "Break of Dawn",
+          "url": "https://open.spotify.com/artist/6BcNg67AxzaaVnin8tqG6d"
+        },
+        {
+          "name": "Mark Eva",
+          "url": "https://open.spotify.com/artist/4WdmBpeOI8EKByo2X3R9IO"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204387,
+      "name": "End Of Time",
+      "url": "https://open.spotify.com/track/0Zae2NHJb4SqqqnaFyFkmP"
     },
     {
       "album": {
@@ -3294,7 +3352,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 241500,
       "name": "Feed Your Soul",
       "url": "https://open.spotify.com/track/6pMSQuswOIzpjrUlhxHgYs"
@@ -3698,6 +3756,32 @@
       "duration_ms": 185806,
       "name": "Forget You Pt. 2",
       "url": "https://open.spotify.com/track/1dblMQ3nClfC0r8HvWUvgA"
+    },
+    {
+      "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/2pJh2rIopxEeJZjBwrT3Sn"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Max P",
+          "url": "https://open.spotify.com/artist/7D76Zt5h5OIV4zHi1AtCqw"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/0ONdVHP8eoGupKl1KzM3xv"
     },
     {
       "album": {
@@ -4812,7 +4896,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 212838,
       "name": "Hyena",
       "url": "https://open.spotify.com/track/7BAjDuGkdlx4U0QkMApNZ1"
@@ -5486,6 +5570,28 @@
       "duration_ms": 235294,
       "name": "It's All About The Music",
       "url": "https://open.spotify.com/track/0w9Ycu6AN8kuN5LyIskWJD"
+    },
+    {
+      "album": {
+        "name": "Jack (One More Round)",
+        "url": "https://open.spotify.com/album/3HooEXc4g2o0ZEvGnBU0b6"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162374,
+      "name": "Jack (One More Round)",
+      "url": "https://open.spotify.com/track/4rTA5hrkv233BWoASSKt3T"
     },
     {
       "album": {
@@ -7893,6 +7999,32 @@
     },
     {
       "album": {
+        "name": "Now Or Never (Toneshifterz Remix)",
+        "url": "https://open.spotify.com/album/2KwzYmQzK3dLFJDxBb2moh"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "Sara Phillips",
+          "url": "https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL"
+        },
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241600,
+      "name": "Now Or Never (Toneshifterz Remix)",
+      "url": "https://open.spotify.com/track/39Xd2miEi3vR7sHl55O9Un"
+    },
+    {
+      "album": {
         "name": "NRG OVERLOAD",
         "url": "https://open.spotify.com/album/4xzs97Rgelf8TAec8xvoz5"
       },
@@ -8955,6 +9087,28 @@
     },
     {
       "album": {
+        "name": "Ready For War",
+        "url": "https://open.spotify.com/album/0AL1DcsoCtIozNCQd1zpJV"
+      },
+      "artists": [
+        {
+          "name": "Spectre",
+          "url": "https://open.spotify.com/artist/4Xrfj658V9oL5xwi7oM70C"
+        },
+        {
+          "name": "KAMI",
+          "url": "https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Ready For War",
+      "url": "https://open.spotify.com/track/2YimCTUF3UEyFCgEXTkvqv"
+    },
+    {
+      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/5c1miQshKBEz9MGtviYMHU"
       },
@@ -9830,7 +9984,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 206524,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/5lfwREI237PpvLjIKvN34u"
@@ -11100,6 +11254,32 @@
       "duration_ms": 187200,
       "name": "The Chop Game",
       "url": "https://open.spotify.com/track/4jp0Z4REkbEeGmSgTlf18C"
+    },
+    {
+      "album": {
+        "name": "The Eclipse (Official REBELLiON 2023 Anthem)",
+        "url": "https://open.spotify.com/album/6Dbs32dy2I3urfkl2NfjB6"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "Cryex",
+          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
+        },
+        {
+          "name": "MC Livid",
+          "url": "https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218734,
+      "name": "The Eclipse - (Official REBELLiON 2023 Anthem)",
+      "url": "https://open.spotify.com/track/4uyhAHhxckqLHuRXyiyZFb"
     },
     {
       "album": {
@@ -13210,10 +13390,36 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 230707,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3H6LR9VTflkGxkyrSM5xLW"
+    },
+    {
+      "album": {
+        "name": "WINTER BLUES",
+        "url": "https://open.spotify.com/album/5OnwilNbCAP11k8AkiPgRX"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
+        },
+        {
+          "name": "RXBY",
+          "url": "https://open.spotify.com/artist/1XpF2jsRjXNS7PXMfbOn0z"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196290,
+      "name": "WINTER BLUES",
+      "url": "https://open.spotify.com/track/1fyB9Aba2htvtwQUXurj2P"
     },
     {
       "album": {
@@ -13346,7 +13552,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 168919,
       "name": "WOLFGANG",
       "url": "https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3"
@@ -13368,6 +13574,50 @@
       "duration_ms": 233806,
       "name": "Work My Body",
       "url": "https://open.spotify.com/track/7qo3ijgvEpDGZgGaqPID0X"
+    },
+    {
+      "album": {
+        "name": "Wrong or Right (The Riddle) [Revelation Remix]",
+        "url": "https://open.spotify.com/album/1nkvxZnYm7VzhmJGS7OqL9"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "Revelation",
+          "url": "https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188253,
+      "name": "Wrong or Right (The Riddle) [Revelation Remix]",
+      "url": "https://open.spotify.com/track/4xUjGco1qY0RW3B7DYstgA"
+    },
+    {
+      "album": {
+        "name": "X (A DECADE)",
+        "url": "https://open.spotify.com/album/0g915bxfWtbv7YbTRnt826"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "X (A DECADE)",
+      "url": "https://open.spotify.com/track/5hQVCrL0yKJw5Jf7lWnjPY"
     },
     {
       "album": {

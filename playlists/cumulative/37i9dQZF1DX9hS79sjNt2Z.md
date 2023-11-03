@@ -4,7 +4,7 @@
 
 > Easter songs for the whole family.
 
-108 songs - 5 hr 41 min
+109 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Jesus Saves](https://open.spotify.com/track/3rjxn2TY1oCoAO4RswOgoq) | [Lifeway Kids Worship](https://open.spotify.com/artist/6FIaadxhvDeZI4RAd06Dnx) | [The Gospel Project for Kids Vol\. 12: All Things New](https://open.spotify.com/album/2bOFfbvqjfIyLxyBv8H12J) | 2:44 | 2021-04-01 |  |
 | [John 3:16](https://open.spotify.com/track/5kjp2A5T4KacnzeoxykROp) | [The Rizers](https://open.spotify.com/artist/44Jojk3HGoi3Rwg4iA049d) | [Meet The Rizers](https://open.spotify.com/album/4W2YtLiJtZVTL3Eey3ah03) | 2:45 | 2021-04-01 |  |
 | [John 3:16](https://open.spotify.com/track/7lgQuSvyzn9GuwPUvw7R6M) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [Songs Of The Bible Vol\. 1](https://open.spotify.com/album/0O5taoj9lmi9AO7TddqHl0) | 2:15 | 2021-04-01 |  |
-| [Joyful, Joyful We Adore Thee](https://open.spotify.com/track/09ZBhEhoOzItFFdudh77SD) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Easter Songs & Hymns for Kids](https://open.spotify.com/album/5cCs99eMsdLYsDlyuH9FxF) | 1:56 | 2021-03-24 |  |
+| [Joyful, Joyful We Adore Thee](https://open.spotify.com/track/09ZBhEhoOzItFFdudh77SD) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Easter Songs & Hymns for Kids](https://open.spotify.com/album/5cCs99eMsdLYsDlyuH9FxF) | 1:56 | 2021-03-24 | 2023-11-03 |
+| [Joyful, Joyful We Adore Thee](https://open.spotify.com/track/3V5YkUwHqcA31lNy1J4imj) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [80 Bible Songs for Kids](https://open.spotify.com/album/2rqMWucFteHin9aXPGRPEC) | 1:56 | 2021-03-24 |  |
 | [King Of Kings](https://open.spotify.com/track/0EK9p0MwzkfjJPlJOQn514) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [No Reason To Wait](https://open.spotify.com/album/44Mu2Ro9HziVZsRh86n1dG) | 3:58 | 2021-04-01 |  |
 | [King Of Majesty \- Live](https://open.spotify.com/track/25kvPBLbgkvHwpX9XGHOGs) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Jesus Is My Super Hero \(Live\)](https://open.spotify.com/album/1K0Zez4ioepzv2iBbljsNN) | 4:15 | 2021-04-01 |  |
 | [Lead Me To The Cross](https://open.spotify.com/track/6OJZWfDfxubWxWYWhHI0Og) | [Kids Praise! Company](https://open.spotify.com/artist/13EBQsdgR822icqaSKAGwT) | [Good Good Father](https://open.spotify.com/album/79hijgvISuI86XQD7Q9By2) | 4:21 | 2021-04-01 |  |

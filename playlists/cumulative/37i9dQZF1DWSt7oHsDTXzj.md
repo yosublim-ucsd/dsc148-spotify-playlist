@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-215 songs - 11 hr 52 min
+216 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Here We Come A\-Caroling](https://open.spotify.com/track/3iaFIr7VSe1bp0M2wVFdE6) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Here We Come A\-Caroling](https://open.spotify.com/album/4nnBzX1vhCQpHqw1AbFU27) | 2:47 | 2022-12-23 | 2023-04-20 |
 | [Here We Come A\-Caroling](https://open.spotify.com/track/7qCP7q2x6LgxFM9bTUDQT2) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Here We Come A\-Caroling](https://open.spotify.com/album/5IAQ5BCCMopi0xZ7vbnCkL) | 2:47 | 2021-11-12 | 2022-07-25 |
 | [Holiday](https://open.spotify.com/track/1mrjKX3NVAtq1FGg7CzFbZ) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/4dPnPke5bEw0O12dgO7VkB) | 4:08 | 2021-11-12 | 2022-07-29 |
-| [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 | 2021-11-12 |  |
+| [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 | 2021-11-12 | 2023-11-03 |
 | [Holiday Dreaming](https://open.spotify.com/track/659yAq4DwQRjuHkP0K9Pz8) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [The Molly Burch Christmas Album](https://open.spotify.com/album/1aigDgjQuiFg77aCRnyTTq) | 3:30 | 2022-12-23 | 2022-12-26 |
 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 | 2021-11-12 |  |
 | [Home To You \(This Christmas\)](https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You \(This Christmas\)](https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV) | 3:45 | 2021-11-12 |  |
@@ -110,7 +110,7 @@
 | [In The Bleak Midwinter](https://open.spotify.com/track/59vU9HvjJx09uWeAC7wai5) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [In The Bleak Midwinter](https://open.spotify.com/album/7wVUdg2hmTl1GBYq6xSHT3) | 3:51 | 2021-11-12 | 2022-07-23 |
 | [In the Bleak Midwinter](https://open.spotify.com/track/2Q7EmuVCLEY72iw7klTdPA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [In the Bleak Midwinter](https://open.spotify.com/album/43u0uu5HLQ0nXJqIxlWwiW) | 4:20 | 2022-12-23 | 2023-07-06 |
 | [It's All Gunna Go Wrong This Christmas](https://open.spotify.com/track/3nhFfJ2uGkKPW5AzU8YgNs) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [It's All Gunna Go Wrong This Christmas](https://open.spotify.com/album/2KAc30ScQ8fSAXzAvNSR4H) | 3:13 | 2021-11-12 | 2022-07-29 |
-| [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/2DMNyQvAMAr9yqDkCdTIBn) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 2:29 | 2022-10-14 | 2023-03-16 |
+| [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/2DMNyQvAMAr9yqDkCdTIBn) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 2:29 | 2022-10-14 |  |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/7GBuc4Sh26BLDLCsLWuCde) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/55qxgy5RW3lwMxPlpOdlAC) | 2:29 | 2021-11-12 | 2022-07-27 |
 | [It's Christmas](https://open.spotify.com/track/3IDTHSXjwV2ngdJXGcoOuc) | [Cody](https://open.spotify.com/artist/4HGUydh9BtymmiwT62K7wT) | [It's Christmas](https://open.spotify.com/album/1spQ9drDNBcMtJBVTcxzZ8) | 3:47 | 2021-11-12 | 2022-07-20 |
 | [It's Christmas \(Snow is Falling\)](https://open.spotify.com/track/1lXkOnvzw4o6dncgSc9kwU) | [Jessicka](https://open.spotify.com/artist/69LuZP8tLC8m268w9sHj2i) | [It's Christmas \(Snow is Falling\)](https://open.spotify.com/album/4URQ2nU0Yy86AJ17phLBap) | 3:37 | 2021-11-12 | 2022-07-08 |
@@ -121,7 +121,8 @@
 | [Just Like Christmas](https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Christmas](https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC) | 3:08 | 2021-11-12 |  |
 | [Lady December](https://open.spotify.com/track/7IvPrUDA77UQBuRAHWU4bT) | [The Concretes](https://open.spotify.com/artist/4uFpoTqyXb2tfvetAjmJQT) | [Layourbattleaxedown](https://open.spotify.com/album/3aDhJEf15WeeLQAwIyYIi2) | 4:39 | 2021-11-12 | 2022-07-21 |
 | [Last Christmas](https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Last Christmas](https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R) | 4:40 | 2022-11-08 |  |
-| [Last Christmas](https://open.spotify.com/track/08qJ93wbDYK6kWCRh4eTCj) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [2019](https://open.spotify.com/album/27tiEUoVBcG4VlFGoZd0IC) | 2:41 | 2021-12-08 |  |
+| [Last Christmas](https://open.spotify.com/track/08qJ93wbDYK6kWCRh4eTCj) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [2019](https://open.spotify.com/album/27tiEUoVBcG4VlFGoZd0IC) | 2:41 | 2021-12-08 | 2023-11-03 |
+| [Last Christmas](https://open.spotify.com/track/4mOjvafN3FbHFmXH5QaXv5) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Last Christmas](https://open.spotify.com/album/3acMUF1baafzo6Zi61F1rS) | 2:41 | 2023-10-16 |  |
 | [Last Christmas](https://open.spotify.com/track/3OGXz9VQn9T26tZc6fJZAy) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Last Christmas](https://open.spotify.com/album/2TJLCU0xYZ57ZjoyL2rgHz) | 4:06 | 2021-12-15 | 2022-07-26 |
 | [Last Christmas](https://open.spotify.com/track/4uR2dgTCiFQUfL9iIM4YQa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Last Christmas / Winter Wonderland](https://open.spotify.com/album/4UvWqFOHO52TlLLEANkeqr) | 4:05 | 2022-11-21 |  |
 | [Last Christmas \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0meX0Nl3ZjxecRS5oBvlU2) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles – Christmas](https://open.spotify.com/album/4l4xgIIOkf91wfzoEjQbkj) | 3:36 | 2021-11-12 | 2022-07-24 |

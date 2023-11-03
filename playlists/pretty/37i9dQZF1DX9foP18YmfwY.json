@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Colo de Deus",
-  "num_followers": 319187,
+  "num_followers": 319426,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODczZjIzNjZiZDZhNjZmNDliZTdhNmE0NDM2NmUzNGRhOGYyYWIy",
+  "snapshot_id": "MCw1ODk5ZDlhNzEwNzg5NGIyMjEwMTM4NjIzYTFiZTNjYjNlNzA3Njcw",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -399,22 +399,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Yeshua (feat. Eliana Ribeiro)",
-        "url": "https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j"
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
       "artists": [
         {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
         },
         {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+          "name": "Gil Monteiro",
+          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
         }
       ],
-      "duration_ms": 287562,
-      "name": "Yeshua (feat. Eliana Ribeiro)",
-      "url": "https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL"
+      "duration_ms": 173272,
+      "name": "Como \u00c9s Lindo",
+      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -435,22 +435,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
+        "name": "Yeshua (feat. Eliana Ribeiro)",
+        "url": "https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j"
       },
       "artists": [
         {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
         },
         {
-          "name": "Gil Monteiro",
-          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
         }
       ],
-      "duration_ms": 173272,
-      "name": "Como \u00c9s Lindo",
-      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
+      "duration_ms": 287562,
+      "name": "Yeshua (feat. Eliana Ribeiro)",
+      "url": "https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Deus V\u00ea",
-        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
-      },
-      "artists": [
-        {
-          "name": "Evandro Jos\u00e9",
-          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
-        }
-      ],
-      "duration_ms": 249940,
-      "name": "Deus V\u00ea",
-      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Esp\u00edrito da Verdade",
         "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 287303,
       "name": "Se Eu Tocar",
       "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Deus V\u00ea",
+        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+      },
+      "artists": [
+        {
+          "name": "Evandro Jos\u00e9",
+          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "Deus V\u00ea",
+      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Acalma Minha Tempestade",
+        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
+      },
+      "artists": [
+        {
+          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
+          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
+        }
+      ],
+      "duration_ms": 322512,
+      "name": "Acalma Minha Tempestade",
+      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "J\u00e1 Deu Certo",
         "url": "https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 276885,
       "name": "J\u00e1 Deu Certo",
       "url": "https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Acalma Minha Tempestade",
-        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
-      },
-      "artists": [
-        {
-          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
-          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
-        }
-      ],
-      "duration_ms": 322512,
-      "name": "Acalma Minha Tempestade",
-      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1099,26 +1099,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Minha Voca\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
+        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+        "url": "https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi"
       },
       "artists": [
         {
-          "name": "Juliana de Paula",
-          "url": "https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481"
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
         },
         {
-          "name": "Pitter",
-          "url": "https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2"
-        },
-        {
-          "name": "Ana L\u00facia",
-          "url": "https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi"
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
         }
       ],
-      "duration_ms": 254964,
-      "name": "Minha Voca\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO"
+      "duration_ms": 285030,
+      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+      "url": "https://open.spotify.com/track/4kwoJY1r3HEz1J6k9Oqwcn"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1139,22 +1135,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
-        "url": "https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi"
+        "name": "Minha Voca\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
       },
       "artists": [
         {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+          "name": "Juliana de Paula",
+          "url": "https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481"
         },
         {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+          "name": "Pitter",
+          "url": "https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2"
+        },
+        {
+          "name": "Ana L\u00facia",
+          "url": "https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi"
         }
       ],
-      "duration_ms": 285030,
-      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
-      "url": "https://open.spotify.com/track/4kwoJY1r3HEz1J6k9Oqwcn"
+      "duration_ms": 254964,
+      "name": "Minha Voca\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO"
     },
     {
       "added_at": "2023-10-20 03:00:00",

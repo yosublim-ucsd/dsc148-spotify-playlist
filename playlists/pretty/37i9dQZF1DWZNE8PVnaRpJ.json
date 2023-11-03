@@ -1,12 +1,12 @@
 {
   "description": "Voici la playlist ultime de votre r\u00e9veillon.",
-  "num_followers": 65141,
+  "num_followers": 65135,
   "original_name": "Bonne Ann\u00e9e !",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmY2OTNmZGNkNTgyZjAyYzE2NjlhY2Q1ZGQwNTVkZWY1NzgyNTM3",
+  "snapshot_id": "MCwzOTNkZGVhNDRmYTA5YTY0ZWZlNjNlY2NkZDM4MzhiYzAyYmFhNjQ4",
   "tracks": [
     {
       "added_at": "2022-12-07 09:10:00",
@@ -1795,6 +1795,26 @@
       "duration_ms": 267066,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
+    },
+    {
+      "added_at": "2022-12-07 09:10:00",
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 270586,
+      "name": "Still D.R.E.",
+      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
     },
     {
       "added_at": "2022-12-07 09:10:00",

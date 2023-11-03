@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 220480,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/1x08tCfliyTTmluswi73mU"
@@ -3952,7 +3952,7 @@
     {
       "album": {
         "name": "George Harrison",
-        "url": "https://open.spotify.com/album/3keCJAndMw5QhUmJ6QmTUg"
+        "url": "https://open.spotify.com/album/49ZkNYNNscP7wzn5iFsfKV"
       },
       "artists": [
         {
@@ -3963,6 +3963,24 @@
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 276213,
+      "name": "Love Comes to Everyone (2004 Remaster)",
+      "url": "https://open.spotify.com/track/5ZYXmLKf2GPYcCHCIYpxg4"
+    },
+    {
+      "album": {
+        "name": "George Harrison",
+        "url": "https://open.spotify.com/album/3keCJAndMw5QhUmJ6QmTUg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
       "duration_ms": 276213,
       "name": "Love Comes To Everyone - 2004 Remaster",
       "url": "https://open.spotify.com/track/4ocIOYjSD4DzePZsiDWJXD"
@@ -4632,6 +4650,24 @@
       "duration_ms": 536066,
       "name": "November Rain",
       "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+    },
+    {
+      "album": {
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248333,
+      "name": "Now And Then",
+      "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
     },
     {
       "album": {

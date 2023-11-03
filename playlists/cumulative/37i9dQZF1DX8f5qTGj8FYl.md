@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-250 songs - 17 hr 14 min
+251 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,8 @@
 | [Village Life](https://open.spotify.com/track/0QWgR4xiWCzEWE2pXMdXEd) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [2017](https://open.spotify.com/album/69SrXrzMk4yilsHSUp0qqI) | 4:39 | 2020-11-13 |  |
 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 | 2021-04-16 |  |
 | [War Room](https://open.spotify.com/track/2BiCZnAgLZ70mQvSCDReH3) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [War Room](https://open.spotify.com/album/0ou3fGmWHOUMMomjdGeucP) | 4:31 | 2020-11-13 | 2022-07-25 |
-| [Watchu Want](https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Watchu Want](https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh) | 2:40 | 2022-08-26 |  |
+| [Watchu Want](https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Watchu Want](https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh) | 2:40 | 2022-08-26 | 2023-11-03 |
+| [Watchu Want](https://open.spotify.com/track/3OO8V09XFmwKTLIi6kr6mp) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Floki Sessions](https://open.spotify.com/artist/601FZXyKDoyE6gWYNNWOWj), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [The Deplar Effect](https://open.spotify.com/album/0X6LMZFfnQ2uU8mi0LHN6A) | 2:40 | 2023-08-04 |  |
 | [Way Of The Haggis](https://open.spotify.com/track/2UCnlNredMUv69xZ6kVs1D) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [Keep On Movin'](https://open.spotify.com/album/0YIl9Rl3emtKP2qnjjmM72) | 4:28 | 2020-11-13 | 2022-04-21 |
 | [We Need Love](https://open.spotify.com/track/6bEZVAjmga92R5uTPPxAGz) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [We Need Love](https://open.spotify.com/album/3XbT6tlyYKnWYbNLAG6kYp) | 3:00 | 2021-06-25 | 2022-05-19 |
 | [West Coast Jam](https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 3:58 | 2020-11-13 |  |

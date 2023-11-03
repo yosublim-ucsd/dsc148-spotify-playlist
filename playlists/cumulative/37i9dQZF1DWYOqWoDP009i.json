@@ -674,7 +674,7 @@
     {
       "album": {
         "name": "Keep On Bumpin' & Masterplan (Expanded Version)",
-        "url": "https://open.spotify.com/album/63wfq17mg08V7ZHtziwvEs"
+        "url": "https://open.spotify.com/album/5uyNTDGT6nijdghnMskKEv"
       },
       "artists": [
         {
@@ -685,6 +685,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 254454,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/4HG1Oyh9jdYfE43noqarN1"
+    },
+    {
+      "album": {
+        "name": "Keep On Bumpin' & Masterplan (Expanded Version)",
+        "url": "https://open.spotify.com/album/63wfq17mg08V7ZHtziwvEs"
+      },
+      "artists": [
+        {
+          "name": "The Kay Gees",
+          "url": "https://open.spotify.com/artist/2kBAQC51ydY25zaSQBICTi"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
       "duration_ms": 254773,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/7suCnrqUrqtPq5mUdai9bj"

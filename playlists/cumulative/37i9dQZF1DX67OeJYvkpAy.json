@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 168182,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/4HplaTgdvvlJYEBWkqvkf7"
@@ -620,6 +620,32 @@
       "duration_ms": 168182,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/7d9H7S7eXhGq6idubYpbto"
+    },
+    {
+      "album": {
+        "name": "Broken Hearted Crook (Remix)",
+        "url": "https://open.spotify.com/album/370miFBEeYgA9nF3zpP3R1"
+      },
+      "artists": [
+        {
+          "name": "Equation Billionz",
+          "url": "https://open.spotify.com/artist/2VIodUBANwxtofvbxmZ0PL"
+        },
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        },
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168881,
+      "name": "Broken Hearted Crook - Remix",
+      "url": "https://open.spotify.com/track/128D1Yu36FcQa1kYs8KwRH"
     },
     {
       "album": {

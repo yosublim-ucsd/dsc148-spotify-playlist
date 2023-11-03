@@ -4,7 +4,7 @@
 
 > Lose yourself in the summer daze...
 
-143 songs - 7 hr 58 min
+144 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Mr Pants](https://open.spotify.com/track/4qnFaOxVsjo1wbc2UX3KtN) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Mr Pants](https://open.spotify.com/album/3iNXhdZUasqIbP9PTZuZhY) | 2:50 | 2022-02-10 |  |
 | [Mr Pants](https://open.spotify.com/track/4rNjVrfVpfnA0Snbi17Kyh) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Mr Pants](https://open.spotify.com/album/6Jyz1DKSKTUid7yitT8fHX) | 2:50 | 2022-02-10 | 2023-10-01 |
 | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 | 2022-02-10 |  |
-| [My Love](https://open.spotify.com/track/1e5qdP89kr2sMDF4G3hIv3) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Time Flies](https://open.spotify.com/album/4xZ5W6EMfV20gngUDviDb6) | 3:29 | 2022-02-10 |  |
+| [My Love](https://open.spotify.com/track/0wGOFhyvrrxXcz4OBqzrq6) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Time Flies](https://open.spotify.com/album/0BjLwfQvfZUN9E4vmgFD7w) | 3:29 | 2022-02-10 |  |
+| [My Love](https://open.spotify.com/track/1e5qdP89kr2sMDF4G3hIv3) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Time Flies](https://open.spotify.com/album/4xZ5W6EMfV20gngUDviDb6) | 3:29 | 2022-02-10 | 2023-11-03 |
 | [NEO](https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:03 | 2022-02-10 |  |
 | [Never Been More Sure](https://open.spotify.com/track/2SR4wh5i4o2XnKXeCvZ3Tz) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Campus](https://open.spotify.com/album/4JQblfPa9FvrUF18GFFNbh) | 4:55 | 2022-02-10 |  |
 | [No Choice](https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:41 | 2022-02-10 |  |

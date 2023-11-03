@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 70299,
+  "num_followers": 70379,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODZmNzg1YzM4NGQ4MDBkNzY1MzRlOWUxNGVlNzJhMDlkZGQ4MDU3",
+  "snapshot_id": "MCwwOGVhNjFiMDUxNTQwZmZmYzc0NjdlZjMyMDRiOWVjN2Y2ZDVlYTRm",
   "tracks": [
     {
       "added_at": "2023-10-20 09:22:01",
@@ -795,26 +795,18 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
-        "name": "REPLAY",
-        "url": "https://open.spotify.com/album/4rNLK6g8hfpXK5wkpHAZ6n"
+        "name": "Lost City Archives, Vol. 7",
+        "url": "https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp"
       },
       "artists": [
         {
-          "name": "\u015aWI\u0118TY BASS",
-          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
-        },
-        {
-          "name": "Rosalie.",
-          "url": "https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ"
-        },
-        {
-          "name": "MoreNight",
-          "url": "https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N"
+          "name": "Deadly Habitz",
+          "url": "https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy"
         }
       ],
-      "duration_ms": 174222,
-      "name": "REPLAY",
-      "url": "https://open.spotify.com/track/78bKo5cD6JUPHfsY7sxSKj"
+      "duration_ms": 245714,
+      "name": "Henney & Coke",
+      "url": "https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi"
     },
     {
       "added_at": "2023-10-20 09:22:01",
@@ -839,18 +831,26 @@
     {
       "added_at": "2023-10-20 09:22:01",
       "album": {
-        "name": "Lost City Archives, Vol. 7",
-        "url": "https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp"
+        "name": "REPLAY",
+        "url": "https://open.spotify.com/album/4rNLK6g8hfpXK5wkpHAZ6n"
       },
       "artists": [
         {
-          "name": "Deadly Habitz",
-          "url": "https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy"
+          "name": "\u015aWI\u0118TY BASS",
+          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
+        },
+        {
+          "name": "Rosalie.",
+          "url": "https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ"
+        },
+        {
+          "name": "MoreNight",
+          "url": "https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N"
         }
       ],
-      "duration_ms": 245714,
-      "name": "Henney & Coke",
-      "url": "https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi"
+      "duration_ms": 174222,
+      "name": "REPLAY",
+      "url": "https://open.spotify.com/track/78bKo5cD6JUPHfsY7sxSKj"
     },
     {
       "added_at": "2023-10-20 09:22:01",

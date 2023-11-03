@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY?si=FwdivXrBQw6pLoy3l3WtHQ\"> Kwesi Arthur </a>",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6?si=E0dIznQwRSuQRzQwCowtIQ\"> Efya</a>",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -82,6 +82,28 @@
       "duration_ms": 172972,
       "name": "A B C D",
       "url": "https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H"
+    },
+    {
+      "album": {
+        "name": "Abena",
+        "url": "https://open.spotify.com/album/5KZGcpVTuXFTzedSE0gCe4"
+      },
+      "artists": [
+        {
+          "name": "Yaw Dyro",
+          "url": "https://open.spotify.com/artist/0KCWVye8eFEyOu2fpwfMHr"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161551,
+      "name": "Abena",
+      "url": "https://open.spotify.com/track/416lJBohBXn07iQe3lf0JI"
     },
     {
       "album": {
@@ -310,7 +332,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 170295,
       "name": "Anadwo",
       "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
@@ -1284,7 +1306,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 172747,
       "name": "Down Flat",
       "url": "https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB"
@@ -2943,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "No More Tears",
+        "url": "https://open.spotify.com/album/6A62r1F4Sn29IBUI9zHjM7"
+      },
+      "artists": [
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160809,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/7eClgSPyjnbANZYbogtZNE"
+    },
+    {
+      "album": {
         "name": "Without A Map",
         "url": "https://open.spotify.com/album/16kGxp8kthCYyV5PbnYHe1"
       },
@@ -3464,7 +3504,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 233240,
       "name": "Over",
       "url": "https://open.spotify.com/track/1537dWgnx4cqNxMYQbVa6C"

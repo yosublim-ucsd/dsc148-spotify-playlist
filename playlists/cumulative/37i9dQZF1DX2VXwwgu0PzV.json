@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be?si=6CcYgZxjRbK_erao2CAlyA\">Drakare</a> ",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ?si=PFFIe7I2RSWQfzn29t12Tw\">Paul Tomisin</a> ",
   "name": "Youth Service",
   "tracks": [
     {
@@ -28,6 +28,28 @@
       "duration_ms": 183823,
       "name": "1 Am in Lagos",
       "url": "https://open.spotify.com/track/6gM0MRc4d2sQq7HN5uBsiB"
+    },
+    {
+      "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/5m5P4guRcfMwtSfSSgN93p"
+      },
+      "artists": [
+        {
+          "name": "JyroGvo",
+          "url": "https://open.spotify.com/artist/75NziVeibeBcHBboy8wpdk"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "123",
+      "url": "https://open.spotify.com/track/0ptBqpX6cwm1U0zjwjzg3i"
     },
     {
       "album": {
@@ -1537,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "CORRECT",
+        "url": "https://open.spotify.com/album/4KfMojNZjUJVJnq5eqXvf6"
+      },
+      "artists": [
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "CORRECT",
+      "url": "https://open.spotify.com/track/0akvZghvgczbBpV09jxu08"
+    },
+    {
+      "album": {
         "name": "Crazy Things",
         "url": "https://open.spotify.com/album/3gC6bvOAT5EJVAWEeinLU6"
       },
@@ -1969,6 +2009,28 @@
     },
     {
       "album": {
+        "name": "Doh Doh Doh",
+        "url": "https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Ife",
+          "url": "https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153780,
+      "name": "Doh Doh Doh",
+      "url": "https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw"
+    },
+    {
+      "album": {
         "name": "Don't Be Afraid",
         "url": "https://open.spotify.com/album/7fBloET51NLD6axYcG2BRl"
       },
@@ -2128,6 +2190,32 @@
       "duration_ms": 229760,
       "name": "Dwelling in Your Presence",
       "url": "https://open.spotify.com/track/2c4E6R4mcCKQdjrELBpdVO"
+    },
+    {
+      "album": {
+        "name": "E Get Why",
+        "url": "https://open.spotify.com/album/1scM0Qjyb8XM6DWNmkGQYt"
+      },
+      "artists": [
+        {
+          "name": "Winter Amadin",
+          "url": "https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        },
+        {
+          "name": "Kelly Lyon",
+          "url": "https://open.spotify.com/artist/4ifitpTpp7bzrEyxkHuFmj"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222566,
+      "name": "E Get Why",
+      "url": "https://open.spotify.com/track/03WOBTOsKgiyebmNTHXX1w"
     },
     {
       "album": {
@@ -3377,6 +3465,28 @@
     },
     {
       "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/7foKRWx8Bfg6TwKoQ0g8Tz"
+      },
+      "artists": [
+        {
+          "name": "Ealle",
+          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192166,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/3KC5eGrdYOhTqjVgcA3g0h"
+    },
+    {
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/1Vkwq1DmsTdpHKlL73bSwQ"
       },
@@ -4543,6 +4653,28 @@
     },
     {
       "album": {
+        "name": "I'm The One",
+        "url": "https://open.spotify.com/album/1WxOhT8xP4A5RudD04x8SH"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        },
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265683,
+      "name": "I'm The One",
+      "url": "https://open.spotify.com/track/0ZwA4ty0mTu4qC1zsm6s5Z"
+    },
+    {
+      "album": {
         "name": "If No Be God",
         "url": "https://open.spotify.com/album/0UYemHmRL11SwYT1tfa5Tw"
       },
@@ -5533,6 +5665,24 @@
     },
     {
       "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203889,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar"
+    },
+    {
+      "album": {
         "name": "Masoyina (Speed up version)",
         "url": "https://open.spotify.com/album/0a5kRrFR2JTMP1rL8QxFeO"
       },
@@ -5666,6 +5816,28 @@
       "duration_ms": 168000,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/0DW4H9Xdxds3zZ4qSQnl1x"
+    },
+    {
+      "album": {
+        "name": "Mercy (All My Days)",
+        "url": "https://open.spotify.com/album/7CVqDwQ7kujshFySgeyw3W"
+      },
+      "artists": [
+        {
+          "name": "Daniel Mylez",
+          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Mercy (All My Days)",
+      "url": "https://open.spotify.com/track/2oigCnQtcssHbowb4I0yqA"
     },
     {
       "album": {
@@ -6907,6 +7079,24 @@
     },
     {
       "album": {
+        "name": "Only God Can Save Me",
+        "url": "https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Only God Can Save Me",
+      "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
+    },
+    {
+      "album": {
         "name": "OPEN UP YOUR BIBLE",
         "url": "https://open.spotify.com/album/1F0lo78MSrihv4M48GBfWY"
       },
@@ -7218,6 +7408,28 @@
       "duration_ms": 212687,
       "name": "Provider",
       "url": "https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL"
+    },
+    {
+      "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/08ypCfpeQ2fC2Ej3KL1yLX"
+      },
+      "artists": [
+        {
+          "name": "Oyije",
+          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143999,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/2l0MtMrRIvBIwRHfFTJ388"
     },
     {
       "album": {
@@ -7894,6 +8106,24 @@
       "duration_ms": 211120,
       "name": "SOT\u00c9",
       "url": "https://open.spotify.com/track/3FL6MjpcEuMY3Dpn3IcI2F"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Many Waters",
+        "url": "https://open.spotify.com/album/2hoD5ioNgzA7YJUR1hRF1P"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263165,
+      "name": "Sounds Of Many Waters",
+      "url": "https://open.spotify.com/track/17KHqvA0xhvnbBqJ0l3kBB"
     },
     {
       "album": {
@@ -9166,7 +9396,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 363329,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/1a6okwcH8w76oBWro6DCTQ"

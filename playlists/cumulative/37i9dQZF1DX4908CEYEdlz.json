@@ -930,10 +930,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 173931,
       "name": "City Of The Dead",
       "url": "https://open.spotify.com/track/4CPlagY81Aa98saLVpwj2O"
+    },
+    {
+      "album": {
+        "name": "Hotel Kalifornia",
+        "url": "https://open.spotify.com/album/7dbiEbvBNNt9S4tjV3hIgj"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173931,
+      "name": "City of the Dead",
+      "url": "https://open.spotify.com/track/5bqnhwnHxcisxM8x7GLl3B"
     },
     {
       "album": {
@@ -2366,6 +2384,24 @@
     {
       "album": {
         "name": "Hotel Kalifornia",
+        "url": "https://open.spotify.com/album/7dbiEbvBNNt9S4tjV3hIgj"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163752,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/0FIfPxra2V11mDnQmzXtPD"
+    },
+    {
+      "album": {
+        "name": "Hotel Kalifornia",
         "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
       },
       "artists": [
@@ -2376,7 +2412,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 163752,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"

@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-931 songs - 1 day 16 hr 22 min
+932 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Glänta](https://open.spotify.com/track/3VF1j2dGIyKpymo10lG2G5) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Glänta](https://open.spotify.com/album/6vDY52DtIonyQ4O52463we) | 2:54 | 2021-06-18 | 2021-08-18 |
 | [Gouttes](https://open.spotify.com/track/6FEpVWSgpAadjPVuKNwCcx) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Gouttes](https://open.spotify.com/album/5Fws3ZQPPNC8m9vcR3H2Yx) | 3:14 | 2020-12-03 | 2022-07-20 |
 | [Gouttes de pluie](https://open.spotify.com/track/2aWlN3NzJxxY8AXlYYDj8S) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Gouttes de pluie](https://open.spotify.com/album/2ZBtySzL3lB1Kk06oBQX4x) | 2:15 | 2021-10-06 |  |
-| [Gran Paradiso](https://open.spotify.com/track/4Yzal0YrY55V7aQeXIeCvL) | [Sabrina Liszt](https://open.spotify.com/artist/6n135dZybVFYAp3fyK5RgU) | [Tiger Mountain](https://open.spotify.com/album/1rphq17hTPA0uYSToevcdY) | 3:29 | 2022-03-16 |  |
+| [Gran Paradiso](https://open.spotify.com/track/4Yzal0YrY55V7aQeXIeCvL) | [Sabrina Liszt](https://open.spotify.com/artist/6n135dZybVFYAp3fyK5RgU) | [Tiger Mountain](https://open.spotify.com/album/1rphq17hTPA0uYSToevcdY) | 3:29 | 2022-03-16 | 2023-11-03 |
 | [Grandma's Place](https://open.spotify.com/track/75ZDycp7yczZ6AP5FuKb6M) | [Alexandra Zvereca](https://open.spotify.com/artist/3QqdShmpvga08ONuf6PHQZ) | [Grandma's Place](https://open.spotify.com/album/36G7CKOJqo55ZwOfT35CDR) | 1:56 | 2020-08-14\* | 2020-08-20 |
 | [Grateful](https://open.spotify.com/track/3fqABKTqjT4HzR1bDVIOoL) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Grateful](https://open.spotify.com/album/0Nz0cUggrtur0xVOW9iLBw) | 2:25 | 2020-08-14\* | 2021-02-06 |
 | [Gratitude](https://open.spotify.com/track/05RikarvGDzw4HktIAxxKR) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Gratitude](https://open.spotify.com/album/2gZdEJzgzP0PYSso7gILsX) | 2:13 | 2021-09-17 | 2022-06-08 |
@@ -578,6 +578,7 @@
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-05-03 |  |
 | [Partnach Gorge](https://open.spotify.com/track/1Wm6UxrfAXfgUMNy8yURHf) | [Maik Kuefer](https://open.spotify.com/artist/7dDWo6Yh2ZWKRrvnZ87rEe) | [Partnach Gorge](https://open.spotify.com/album/28HMMoDEmDEwxiM47GgEQX) | 2:18 | 2020-09-02 | 2021-02-18 |
 | [Passage sombre](https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Passage sombre](https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9) | 2:14 | 2022-01-18 | 2023-10-26 |
+| [Passage sombre](https://open.spotify.com/track/4w4Q3SAYzhKrHgfht808pu) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 2:14 | 2023-10-17 |  |
 | [Passing Robes](https://open.spotify.com/track/1pFfGRhwqs1SHblhJcvR8d) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Passing Robes](https://open.spotify.com/album/005XUz22uopTJZFzq4KvJD) | 2:43 | 2021-02-11 | 2022-04-22 |
 | [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 | 2023-10-17 |  |
 | [patience and fortitude](https://open.spotify.com/track/3EVyJJ54XT7cCJOdAoO5MC) | [lady piano](https://open.spotify.com/artist/1PSFYJJ2psCIar4J01bpy0) | [big sky](https://open.spotify.com/album/4Fsxc3VBsEYAUAuig3h4fU) | 2:26 | 2020-11-27 | 2021-03-14 |

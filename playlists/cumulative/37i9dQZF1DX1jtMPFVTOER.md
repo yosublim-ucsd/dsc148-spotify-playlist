@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-505 songs - 1 day 5 hr 59 min
+506 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Get By](https://open.spotify.com/track/1zmU3zbuD2sLne01XUvhYy) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Starfruit](https://open.spotify.com/album/6BX8c95i5dRgynP9sIzy6K) | 3:42 | 2022-02-11 | 2022-04-29 |
 | [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/track/5CBEzaNEuv3OO32kZoXgOX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 5:37 | 2021-11-12 | 2022-02-19 |
 | [Give Me the High \- Moods Remix](https://open.spotify.com/track/6t1bCWuoqHgGiokgOZBd2t) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Give Me the High \(Moods Remix\)](https://open.spotify.com/album/2KOzCOjBtnssMr0bYPgwgt) | 3:48 | 2023-05-26 |  |
-| [Glad I Found You](https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw) | 2:15 | 2023-10-20 |  |
+| [Glad I Found You](https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw) | 2:15 | 2023-10-20 | 2023-11-03 |
+| [Glad I Found You](https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 2:15 | 2023-10-20 |  |
 | [Going Up](https://open.spotify.com/track/2Lvs7JeQfuvLH0cPy6cOrV) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5), [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Going Up](https://open.spotify.com/album/2kivzwBTUYqNdR5l6WVbQk) | 6:13 | 2023-05-26 |  |
 | [Gold](https://open.spotify.com/track/3avw3O8G45eTqHTDKQatR4) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Gold](https://open.spotify.com/album/52Jp1V0NwXiboE6gW3rF1E) | 3:05 | 2021-11-12 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/77iN3Uq6zU5kEjh2G0YfhB) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Gold](https://open.spotify.com/album/0P4qvH6MQuwagaXkPqoHST) | 3:05 | 2021-11-12 | 2022-08-20 |

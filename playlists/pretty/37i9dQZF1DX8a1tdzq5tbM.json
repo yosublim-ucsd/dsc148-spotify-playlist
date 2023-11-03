@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1423012,
+  "num_followers": 1423422,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTBhNTNhZTg5MTFlOWMxZWMzNTY5Y2QzNThjM2RmNmNmN2VhN2Yz",
+  "snapshot_id": "MCwyMTI4NmZmOTM4ZjI2YTllMjY4MjJiOWJlMTNiZTBlNDA2NmQ0YjMx",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "It's Too Late",
-        "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
-      },
-      "artists": [
-        {
-          "name": "Dirty South",
-          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
-        },
-        {
-          "name": "Evermore",
-          "url": "https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ"
-        }
-      ],
-      "duration_ms": 181230,
-      "name": "It's Too Late - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Show Me Love (feat. Robin S)",
         "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 185613,
       "name": "Show Me Love (feat. Robin S) - Radio Edit",
       "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "It's Too Late",
+        "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        },
+        {
+          "name": "Evermore",
+          "url": "https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ"
+        }
+      ],
+      "duration_ms": 181230,
+      "name": "It's Too Late - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1323,26 +1323,6 @@
       "duration_ms": 205920,
       "name": "Carry Me Away (feat. Emma Hewitt) - Radio Edit",
       "url": "https://open.spotify.com/track/3vVdNuzFHL0hmT8Xq4vbhY"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
-        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
-      },
-      "artists": [
-        {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
-        },
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 189388,
-      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
-      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1587,26 +1567,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Worldwide Dance Hits",
-        "url": "https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup"
-      },
-      "artists": [
-        {
-          "name": "Mischa Daniels",
-          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
-        },
-        {
-          "name": "Crown",
-          "url": "https://open.spotify.com/artist/3hd8HRM16g6gi6RMUzuQhz"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Another Place",
-      "url": "https://open.spotify.com/track/6FrchQ8NDHUI8ucAvz5zha"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/2ox4UcntoWsFQL5RDPKFUF"
       },
@@ -1631,6 +1591,26 @@
       "duration_ms": 220640,
       "name": "Everytime We Touch (with Steve Angello & Sebastian Ingrosso)",
       "url": "https://open.spotify.com/track/7nuPjNAEL3qcEUcZre7rJF"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Worldwide Dance Hits",
+        "url": "https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup"
+      },
+      "artists": [
+        {
+          "name": "Mischa Daniels",
+          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
+        },
+        {
+          "name": "Crown",
+          "url": "https://open.spotify.com/artist/3hd8HRM16g6gi6RMUzuQhz"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Another Place",
+      "url": "https://open.spotify.com/track/6FrchQ8NDHUI8ucAvz5zha"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1931,22 +1911,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "The Cube Guys",
-          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
-        }
-      ],
-      "duration_ms": 251706,
-      "name": "Baba O'Riley (Radio Edit)",
-      "url": "https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Strobelite Seduction",
         "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
       },
@@ -1959,6 +1923,22 @@
       "duration_ms": 200280,
       "name": "Step One Two",
       "url": "https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "The Cube Guys",
+          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
+        }
+      ],
+      "duration_ms": 251706,
+      "name": "Baba O'Riley (Radio Edit)",
+      "url": "https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2051,6 +2031,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Sorry - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Nervous Nitelife: Vegas",
         "url": "https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62"
       },
@@ -2095,22 +2091,6 @@
       "duration_ms": 175880,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/0S0oLaNHFt9XlwAVaGokCX"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6h8Hvfkd68XFk4wT1XO63p"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Sorry - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/1ZUWw5uRJEjjzTiP3Q4RJX"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2179,34 +2159,66 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Back 2 House",
-        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
+        "name": "Girlfriend (2008 Remix)",
+        "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
       },
       "artists": [
         {
-          "name": "Modjo",
-          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "Keylime",
+          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
         }
       ],
-      "duration_ms": 211853,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
+      "duration_ms": 435986,
+      "name": "Girlfriend - 2008 Remix",
+      "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
     },
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Put Your Hands Up For Detroit",
-        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
+        "name": "Everything (feat. Myah)",
+        "url": "https://open.spotify.com/album/4UQ7RwcGBPWvZQL2WzJGI2"
       },
       "artists": [
         {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+          "name": "Ron Reeser",
+          "url": "https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY"
+        },
+        {
+          "name": "Dan Saenz",
+          "url": "https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8"
+        },
+        {
+          "name": "Myah",
+          "url": "https://open.spotify.com/artist/0zVkEWAv7FUL8YEBz3wlWt"
         }
       ],
-      "duration_ms": 393333,
-      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
-      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
+      "duration_ms": 228986,
+      "name": "Everything (feat. Myah) - Radio Edit",
+      "url": "https://open.spotify.com/track/0l9xKcujIQJ4mDUgWb7852"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Believer (feat. Wynter Gordon)",
+        "url": "https://open.spotify.com/album/0sd07wZssqlLugldAokk6K"
+      },
+      "artists": [
+        {
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+        },
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+        }
+      ],
+      "duration_ms": 189388,
+      "name": "Believer (feat. Wynter Gordon) (Radio Edit)",
+      "url": "https://open.spotify.com/track/2tjCwTjbuEc6bXyp9iS08B"
     }
   ],
   "unique_name": "Dance Classics",

@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-191 songs - 10 hr 27 min
+193 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Christmas Eve](https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:21 | 2021-12-12 |  |
 | [Christmas Eve](https://open.spotify.com/track/6Zztw1ERHqXAngHE8PfO6N) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:43 | 2021-12-12 | 2023-10-18 |
 | [Christmas Got Colder](https://open.spotify.com/track/5OOavrga0WgJlOei52P9h1) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [a heartfelt holiday](https://open.spotify.com/album/39RsW9bJUFYT8ena41A4P1) | 2:09 | 2021-12-12 | 2022-12-03 |
-| [Christmas in New York](https://open.spotify.com/track/56oYlOg8iTHa99Oo6LikDx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 4:33 | 2022-11-10 |  |
+| [Christmas in New York](https://open.spotify.com/track/3axLCXlw1dxiQQHeU6VlqO) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/0DmM20iJ1NjdQSxGs6kCGt) | 4:33 | 2022-12-09 |  |
+| [Christmas in New York](https://open.spotify.com/track/56oYlOg8iTHa99Oo6LikDx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 4:33 | 2022-11-10 | 2023-11-03 |
 | [Christmas in Your Eyes \(feat\. Everly Shaw\)](https://open.spotify.com/track/7mjrzLFZg2RKUuxOIq1O49) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Everly Shaw](https://open.spotify.com/artist/0wmPK8Bsy69g1tUk94RXBk) | [A Tyler Shaw Christmas](https://open.spotify.com/album/3ehYajj7zAyk3YdAWoL7CW) | 3:17 | 2021-12-12 | 2022-11-11 |
 | [Christmas Isn't Christmas](https://open.spotify.com/track/6DeGFcrDiYDuyV7e7KnqPd) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Christmas Isn't Christmas](https://open.spotify.com/album/2Gc07PitsdDbsHxFcyX4mG) | 3:15 | 2021-12-12 |  |
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-12-12 |  |
@@ -87,7 +88,8 @@
 | [Grown\-Up Christmas List](https://open.spotify.com/track/1h9QQ7e222OSr93MRiMqGZ) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | ['Tis The Season](https://open.spotify.com/album/15q3oOSeIVFQeAtwKWiWcn) | 3:31 | 2021-12-12 |  |
 | [Grown\-Up Christmas List](https://open.spotify.com/track/59C6gsSHjMgecOfuBlXbch) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Christmas Morning](https://open.spotify.com/album/1qCOiqv13DWgQwJQ5fIUL4) | 3:31 | 2022-11-10 | 2022-11-13 |
 | [Grown\-Up Christmas List](https://open.spotify.com/track/7g79SswJha9rzR0or3VOcQ) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | ['Tis The Season](https://open.spotify.com/album/2nzdzvxSAgnzYAvYaYcsI9) | 3:31 | 2021-12-12 | 2022-07-29 |
-| [Happy New Year Old Friend](https://open.spotify.com/track/5btSSQZTfzuZKdh0dv1Uvp) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Happy New Year Old Friend](https://open.spotify.com/album/2oHpxcuSeaGNmDcknKfclv) | 4:05 | 2021-12-12 |  |
+| [Happy New Year Old Friend](https://open.spotify.com/track/5btSSQZTfzuZKdh0dv1Uvp) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Happy New Year Old Friend](https://open.spotify.com/album/2oHpxcuSeaGNmDcknKfclv) | 4:05 | 2021-12-12 | 2023-11-03 |
+| [Happy New Year Old Friend](https://open.spotify.com/track/7xpZogHooZompECEX7NzJh) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Happy New Year Old Friend](https://open.spotify.com/album/1vyw30hIBU77pOojuVMY2R) | 4:05 | 2022-12-09 |  |
 | [Happy Xmas](https://open.spotify.com/track/1mp6u70l0qHqRWQN6bJLoX) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Happy Xmas](https://open.spotify.com/album/2EOoAok8LUm3QDd2Jq0NUW) | 3:11 | 2022-11-18 |  |
 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/2WdSm4cUNfqmEE9D98ysg5) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Happy Xmas \(War is Over\) / 2000 Miles](https://open.spotify.com/album/0NynGyWb77NwT39qmUHogq) | 3:27 | 2021-12-12 |  |
 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/7faG1XjcABFEEHc1HNnoJs) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Happy Xmas \(War is Over\) / 2000 Miles](https://open.spotify.com/album/5EBioioxvDUDwr7hR4uxZM) | 3:27 | 2021-12-12 | 2022-07-29 |

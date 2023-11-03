@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyp9AUgvDAD.md) - [plain]
 
 > À deux, c'est mieux ! Photo : Amel Bent & Hatik
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,088 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,133 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyp9AUgvDAD.md) - [plain]
 | 49 | [Petit jeu](https://open.spotify.com/track/0e8egATGvJTvGLteAKqDcN) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Mitsouko](https://open.spotify.com/album/0t7wzTgJrobMB7rXPubrMT) | 3:17 |
 | 50 | [Chez les Corses](https://open.spotify.com/track/7t3zk802mroiRvRlLNIKTx) | [Bénabar](https://open.spotify.com/artist/6xoAWsIOZxJVPpo7Qvqaqv), [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [On lâche pas l'affaire](https://open.spotify.com/album/1Y2BRcUSH8IPCJJBRoOGO3) | 3:33 |
 
-Snapshot ID: `MCw1NjRiN2RkZTgzYWU0MDAxM2YzNDdlNmUwNmU0OTcwYzdlY2VlNjM1`
+Snapshot ID: `MCxmMDc1NDZkZDE2MDZhMmExMGM0OGZlYzk4ZjRjZGY1Mjc4MGE0NmM3`

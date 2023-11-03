@@ -4820,6 +4820,24 @@
     {
       "album": {
         "name": "Honey Bones",
+        "url": "https://open.spotify.com/album/6Eskc9vh8wniq95JXGFZ1V"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288013,
+      "name": "Uptown Folks",
+      "url": "https://open.spotify.com/track/13ZpvzL10nw52uCDY13SkF"
+    },
+    {
+      "album": {
+        "name": "Honey Bones",
         "url": "https://open.spotify.com/album/6SjKSLwExh3083Q0pdYpla"
       },
       "artists": [
@@ -4830,7 +4848,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 288013,
       "name": "Uptown Folks",
       "url": "https://open.spotify.com/track/5RxiYD50AlzGAINxxFoBN2"

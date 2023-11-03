@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,024 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,025 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 38 | [Hello Love \- Edit](https://open.spotify.com/track/1tpcELwRo7bxRfCr0xspqy) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Hello Love \(Edit\)](https://open.spotify.com/album/0OAyBoFCVvjg4s4UPLZOip) | 3:07 |
 | 39 | [DUGUN DUGUN](https://open.spotify.com/track/6YSAMFuWuE9Bb9BepCgawd) | [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [DUGUN DUGUN](https://open.spotify.com/album/3lWoDVf6g4LFmfTFi7yZxV) | 3:21 |
 | 40 | [Holiday Sniping](https://open.spotify.com/track/1fZS5QzwiwU3BvE9FJHo6d) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Holiday Sniping](https://open.spotify.com/album/2bByla9AqUB3Rqgz2nFd0F) | 2:22 |
-| 41 | [Honey](https://open.spotify.com/track/2ajmHgoufeps8ymCR627yV) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw) | 3:19 |
+| 41 | [Honey](https://open.spotify.com/track/17qHPyrnf0KJyT3EI9PM1m) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 3:19 |
 | 42 | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/album/5768qKkadOnArtFfrupjLe) | 4:24 |
 | 43 | [What Should I do](https://open.spotify.com/track/4BZuHDcmgmRaAwPd6IO7MY) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Novel](https://open.spotify.com/album/6O08w4c7AzjXzfhQbG8zz9) | 3:42 |
 | 44 | [Havin My Way](https://open.spotify.com/track/7AMd24OnQX9yWG0OgTgoJY) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [Havin My Way](https://open.spotify.com/album/08pXDNQtDgs6VXTW8ukKrm) | 2:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Willing](https://open.spotify.com/track/61pHXEIpSW2NUpoO3bBezx) | [Wring Out Laura](https://open.spotify.com/artist/18vTML8rDnFF1JODSnWbKR), [Kalabebe](https://open.spotify.com/artist/1MUaWt8Y92WoQfhLnjumVZ), [周穆](https://open.spotify.com/artist/202yRHeornG5Evg1WxWCFd) | [Willing](https://open.spotify.com/album/45xeEKk01l6vtVKIvbBbGK) | 2:35 |
 | 60 | [I Give You Love](https://open.spotify.com/track/0jEA9mizUpc2Rv2n4jurZB) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [OOHYO Returns](https://open.spotify.com/album/5iPXqgnaZVmXwIv9acle9Q) | 6:43 |
 
-Snapshot ID: `MCwxZDM1YTI2OGE5MWU2M2EzOGFmM2MzZjRmYTBmNDAxZjcxZjYxZTY1`
+Snapshot ID: `MCxiYTVjYzRhNmZhMGMzMDc5ZTFhMTY1NWZmOGI4NTZhM2YwOWY3MTkz`

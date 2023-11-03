@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: John Morgan
 
-1,718 songs - 3 day 20 hr 10 min
+1,720 songs - 3 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -703,7 +703,8 @@
 | [I Don't Dance](https://open.spotify.com/track/1Z9lRAZIY6ulT7mBWLEHLo) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [I Don't Dance](https://open.spotify.com/album/2xOjOGOR8Y6npKRBZOKunK) | 2:56 | 2023-09-01 | 2023-10-07 |
 | [I Don't Wanna Be That Guy](https://open.spotify.com/track/5CKBR4Z3wlvJgRDVZ8JaNI) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [I Don't Wanna Be That Guy](https://open.spotify.com/album/3UmNrIjz2hCheqQOQK2n0K) | 3:09 | 2023-03-10 | 2023-05-13 |
 | [I Feel Fine](https://open.spotify.com/track/7nacC4F63OTGDt5weUvB7D) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [I Feel Fine](https://open.spotify.com/album/54tBEt7oZJJidCayrWiECX) | 3:07 | 2022-05-27 | 2022-07-23 |
-| [I Got A Problem](https://open.spotify.com/track/5d9Sr7MXI5wSo6I53oW8Hx) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [I Got A Problem](https://open.spotify.com/album/4kBEIGrzwLM9J4hQnmjynt) | 2:27 | 2023-09-08 |  |
+| [I Got A Problem](https://open.spotify.com/track/46ELlro4wExQxafmUT6JQA) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [I Got A Problem](https://open.spotify.com/album/1B8rgYiOXCaPAzZKVQprXK) | 2:27 | 2023-10-27 |  |
+| [I Got A Problem](https://open.spotify.com/track/5d9Sr7MXI5wSo6I53oW8Hx) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [I Got A Problem](https://open.spotify.com/album/4kBEIGrzwLM9J4hQnmjynt) | 2:27 | 2023-09-08 | 2023-11-03 |
 | [I Got Friends That Do \(feat\. Blake Shelton\)](https://open.spotify.com/track/1s2Vi3OgIbUJMUogVPx61p) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Good Day for Living](https://open.spotify.com/album/4lAQ4LkRAI0sFFEO3YGN6e) | 3:15 | 2022-02-11 | 2022-04-09 |
 | [I Got Paid](https://open.spotify.com/track/3PAFw6bQ0CF0xHVgPbx3wH) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Keep It Real](https://open.spotify.com/album/3ZNDsZ3qv7TMeGwBlvZxuO) | 2:51 | 2023-09-15 |  |
 | [I Got You](https://open.spotify.com/track/0pScsiLLSdwWVOIzCHJW0M) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [40 East](https://open.spotify.com/album/301nj6ofxdFt37H33Nd9k5) | 2:57 | 2022-03-25 | 2022-07-23 |
@@ -784,7 +785,8 @@
 | [Jesus, I'm Jealous](https://open.spotify.com/track/1e7KFDSUv6kE7rGkK8jvcw) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Jesus, I'm Jealous](https://open.spotify.com/album/6uNPYxIfCkMtBXtGVDrVuU) | 3:31 | 2023-01-06 | 2023-02-11 |
 | [John Wayne](https://open.spotify.com/track/3ZOlkxeXqpVem2gqiO2O6R) | [Ray Fulcher](https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp) | [Spray Painted Line](https://open.spotify.com/album/7hrp7eYQWeY7FSSa4625WF) | 3:04 | 2022-06-10 | 2022-09-24 |
 | [Johnny Got A Girl](https://open.spotify.com/track/3i25WGFJifBVmY10bxGcFk) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Johnny Got A Girl](https://open.spotify.com/album/0AMHeo5YnTQDvlBgF4toUg) | 3:21 | 2022-03-04 | 2022-04-16 |
-| [Jonesin'](https://open.spotify.com/track/3EY4kYa8rZp2b2pXzdhl0r) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Jonesin'](https://open.spotify.com/album/2UoOn9wHxdZ83THATI9hvB) | 3:08 | 2023-07-28 |  |
+| [Jonesin'](https://open.spotify.com/track/2mzF8IS0EGMbISqOsXrQen) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Pill](https://open.spotify.com/album/6FTgNHJaDjNDcTyNEuTGn4) | 3:08 | 2023-10-27 |  |
+| [Jonesin'](https://open.spotify.com/track/3EY4kYa8rZp2b2pXzdhl0r) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Jonesin'](https://open.spotify.com/album/2UoOn9wHxdZ83THATI9hvB) | 3:08 | 2023-07-28 | 2023-11-03 |
 | [Jump Right In](https://open.spotify.com/track/0AToIsDCEXXs2GqjGUoQsk) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Jump Right In](https://open.spotify.com/album/5CfMbOsqhphHWbbxFHrYMq) | 3:07 | 2022-04-15 | 2022-07-02 |
 | [Just 4 July](https://open.spotify.com/track/68pMoYD0qI20cSuakhGYSe) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [Just 4 July](https://open.spotify.com/album/3pQUs4KGJ81EkWfM57TZ1m) | 3:10 | 2022-08-05 | 2022-09-17 |
 | [Just a Little](https://open.spotify.com/track/0nzHKY3jsCbAWSqj9dGFZD) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [So Much / Just a Little](https://open.spotify.com/album/3bJp0DUTNajsYbeNhlkjOH) | 2:42 | 2021-12-31 | 2022-03-12 |

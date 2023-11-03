@@ -1336,10 +1336,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 199906,
       "name": "\u5973\u626e\u7537\u751f",
       "url": "https://open.spotify.com/track/7d9ZAKEgMVblPNtpLo3FVM"
+    },
+    {
+      "album": {
+        "name": "Threesome",
+        "url": "https://open.spotify.com/album/4Bn7uXDjOqkHZ1atMprNF0"
+      },
+      "artists": [
+        {
+          "name": "At17",
+          "url": "https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201506,
+      "name": "\u5973\u626e\u7537\u751f",
+      "url": "https://open.spotify.com/track/0pujceqmx9uhErQDU7Zo50"
     },
     {
       "album": {

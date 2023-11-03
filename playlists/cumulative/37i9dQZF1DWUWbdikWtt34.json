@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Lesti",
+  "description": "Dendang Dangdut teratas. Cover: Faul Gayo, Selfi Yamma",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -1588,6 +1588,28 @@
       "duration_ms": 341574,
       "name": "Pangeran Dunia",
       "url": "https://open.spotify.com/track/6FKqTPo7Bpeptacrs6jNxJ"
+    },
+    {
+      "album": {
+        "name": "Panggilan Cinta",
+        "url": "https://open.spotify.com/album/0MoekWbrDch9yRDW1VrY83"
+      },
+      "artists": [
+        {
+          "name": "Faul Gayo",
+          "url": "https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz"
+        },
+        {
+          "name": "Selfi Yamma",
+          "url": "https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257614,
+      "name": "Panggilan Cinta",
+      "url": "https://open.spotify.com/track/30WQdHhleyaLNE8ZSsK7AO"
     },
     {
       "album": {

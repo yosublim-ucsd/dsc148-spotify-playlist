@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Of The Muses on cover. Updates every Wednesday.",
-  "num_followers": 120033,
+  "num_followers": 120191,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTUzOWExMWMwMDMwZTE1NmZiMzE3ZTZhYTAyYzZlY2JmMTEyZDBl",
+  "snapshot_id": "MCw2NTZhOTMwY2FkMzIwODkzMTk3YjkxOGMzNTQzY2U2YWJjMTk3YTNk",
   "tracks": [
     {
       "added_at": "2023-09-13 15:55:38",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "Step Outside This Area",
-        "url": "https://open.spotify.com/album/1r5MgVZWwQBnCMqABXtAyh"
-      },
-      "artists": [
-        {
-          "name": "Myles O'Reilly",
-          "url": "https://open.spotify.com/artist/7BHdwnkL0tV0SpfhTVRTjU"
-        }
-      ],
-      "duration_ms": 600000,
-      "name": "Fractus",
-      "url": "https://open.spotify.com/track/0ovXw0MenWBT4fn8LBWqCG"
-    },
-    {
       "added_at": "2023-06-07 04:04:27",
       "album": {
         "name": "Crispy Moon",
@@ -539,6 +523,22 @@
       "duration_ms": 300866,
       "name": "Dividual Individual",
       "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "Step Outside This Area",
+        "url": "https://open.spotify.com/album/1r5MgVZWwQBnCMqABXtAyh"
+      },
+      "artists": [
+        {
+          "name": "Myles O'Reilly",
+          "url": "https://open.spotify.com/artist/7BHdwnkL0tV0SpfhTVRTjU"
+        }
+      ],
+      "duration_ms": 600000,
+      "name": "Fractus",
+      "url": "https://open.spotify.com/track/0ovXw0MenWBT4fn8LBWqCG"
     },
     {
       "added_at": "2023-08-10 05:46:09",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/6S1i81DSaMsjU6KwlxpvzC"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Slowing Everything Down",
-        "url": "https://open.spotify.com/album/7I9HdlRfhn236XbMP6mCMk"
-      },
-      "artists": [
-        {
-          "name": "Nico Less",
-          "url": "https://open.spotify.com/artist/5AoXgqcYEvfXsp9WP2chqu"
-        }
-      ],
-      "duration_ms": 373163,
-      "name": "Slowing Everything Down",
-      "url": "https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Firefly",
@@ -705,20 +689,20 @@
       "url": "https://open.spotify.com/track/1fwqhGIRtQeSNr21eSkhKF"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "The Shuttle Bus",
-        "url": "https://open.spotify.com/album/1sZls3SUwE3dE7aLrRRHLe"
+        "name": "Slowing Everything Down",
+        "url": "https://open.spotify.com/album/7I9HdlRfhn236XbMP6mCMk"
       },
       "artists": [
         {
-          "name": "group O",
-          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
+          "name": "Nico Less",
+          "url": "https://open.spotify.com/artist/5AoXgqcYEvfXsp9WP2chqu"
         }
       ],
-      "duration_ms": 215974,
-      "name": "The Shuttle Bus",
-      "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
+      "duration_ms": 373163,
+      "name": "Slowing Everything Down",
+      "url": "https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ"
     },
     {
       "added_at": "2023-08-01 21:02:30",
@@ -735,6 +719,22 @@
       "duration_ms": 321671,
       "name": "Picture / Three Shadows",
       "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
+    },
+    {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "The Shuttle Bus",
+        "url": "https://open.spotify.com/album/1sZls3SUwE3dE7aLrRRHLe"
+      },
+      "artists": [
+        {
+          "name": "group O",
+          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
+        }
+      ],
+      "duration_ms": 215974,
+      "name": "The Shuttle Bus",
+      "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/50w9wN70lWHaIe8atNxDtn"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Hint",
-        "url": "https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc"
-      },
-      "artists": [
-        {
-          "name": "SPIME.IM",
-          "url": "https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ"
-        }
-      ],
-      "duration_ms": 303500,
-      "name": "Hint",
-      "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
-    },
-    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "How The River Flows",
@@ -799,6 +783,22 @@
       "duration_ms": 263451,
       "name": "How The River Flows",
       "url": "https://open.spotify.com/track/4M4ote4L4R4Zs4JeOmHzo6"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Hint",
+        "url": "https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc"
+      },
+      "artists": [
+        {
+          "name": "SPIME.IM",
+          "url": "https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ"
+        }
+      ],
+      "duration_ms": 303500,
+      "name": "Hint",
+      "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -901,26 +901,6 @@
       "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Cascara",
-        "url": "https://open.spotify.com/album/1HLNBta8hCnoIsiMH91q53"
-      },
-      "artists": [
-        {
-          "name": "Kaan Bulak",
-          "url": "https://open.spotify.com/artist/0xiMOLrizt1YVsgHGYkJRU"
-        },
-        {
-          "name": "Simon H\u00f6fele",
-          "url": "https://open.spotify.com/artist/4sO1rsoceaDQC0TpjLn4JY"
-        }
-      ],
-      "duration_ms": 343666,
-      "name": "Cascara",
-      "url": "https://open.spotify.com/track/1lMkjU3ZlTXJR7HsblUglU"
-    },
-    {
       "added_at": "2023-10-18 18:20:20",
       "album": {
         "name": "OH YA MA HA (Music From Airports) ICN-HAN-LPQ",
@@ -951,6 +931,26 @@
       "duration_ms": 354694,
       "name": "Baiji Returns",
       "url": "https://open.spotify.com/track/2OPTGR15eGkXZQfBUBPtK7"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Cascara",
+        "url": "https://open.spotify.com/album/1HLNBta8hCnoIsiMH91q53"
+      },
+      "artists": [
+        {
+          "name": "Kaan Bulak",
+          "url": "https://open.spotify.com/artist/0xiMOLrizt1YVsgHGYkJRU"
+        },
+        {
+          "name": "Simon H\u00f6fele",
+          "url": "https://open.spotify.com/artist/4sO1rsoceaDQC0TpjLn4JY"
+        }
+      ],
+      "duration_ms": 343666,
+      "name": "Cascara",
+      "url": "https://open.spotify.com/track/1lMkjU3ZlTXJR7HsblUglU"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/7KhXuPNmQxJuxuKXz4UY1V"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Gatherings",
-        "url": "https://open.spotify.com/album/5YGYciOp33ctilmWlgV0h0"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Neighbourhood",
-          "url": "https://open.spotify.com/artist/20jBFovpOUwDnYWNqdnTp4"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/3b0AuqT3ghwDbUXXExwgoe"
-    },
-    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "Reflections 06",
@@ -1017,20 +1001,20 @@
       "url": "https://open.spotify.com/track/77HgouqzfPVG8yFiAON5ff"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
+      "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Follow Your Heartbeat",
-        "url": "https://open.spotify.com/album/5UHqAEAoEJJr1G1uBvFNea"
+        "name": "Gatherings",
+        "url": "https://open.spotify.com/album/5YGYciOp33ctilmWlgV0h0"
       },
       "artists": [
         {
-          "name": "Hidden Tapes",
-          "url": "https://open.spotify.com/artist/3xtRzawKtWqe3zKUdrek8b"
+          "name": "Cosmic Neighbourhood",
+          "url": "https://open.spotify.com/artist/20jBFovpOUwDnYWNqdnTp4"
         }
       ],
-      "duration_ms": 171440,
-      "name": "Follow Your Heartbeat",
-      "url": "https://open.spotify.com/track/3V9MoPnm3V6NyqrhbHsbqd"
+      "duration_ms": 163320,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/3b0AuqT3ghwDbUXXExwgoe"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1047,6 +1031,22 @@
       "duration_ms": 171962,
       "name": "Synth Spirit",
       "url": "https://open.spotify.com/track/1NGSf4OOcZaorLoH0DVcMp"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "Follow Your Heartbeat",
+        "url": "https://open.spotify.com/album/5UHqAEAoEJJr1G1uBvFNea"
+      },
+      "artists": [
+        {
+          "name": "Hidden Tapes",
+          "url": "https://open.spotify.com/artist/3xtRzawKtWqe3zKUdrek8b"
+        }
+      ],
+      "duration_ms": 171440,
+      "name": "Follow Your Heartbeat",
+      "url": "https://open.spotify.com/track/3V9MoPnm3V6NyqrhbHsbqd"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/3e5jShw7ECoIaaReEr5OqP"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "Introduction / C (Featuring the Voice of Fred Moten)",
-        "url": "https://open.spotify.com/album/0su3LyRPZ1IXvLvcOuS5TL"
-      },
-      "artists": [
-        {
-          "name": "Markus Floats",
-          "url": "https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z"
-        }
-      ],
-      "duration_ms": 263999,
-      "name": "C (Featuring the Voice of Fred Moten)",
-      "url": "https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Boundless",
@@ -1201,20 +1185,20 @@
       "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
+      "added_at": "2023-09-13 15:55:38",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/7ijzRbx3rClwBIBcJLVe0t"
+        "name": "Introduction / C (Featuring the Voice of Fred Moten)",
+        "url": "https://open.spotify.com/album/0su3LyRPZ1IXvLvcOuS5TL"
       },
       "artists": [
         {
-          "name": "Color Plus",
-          "url": "https://open.spotify.com/artist/7pkOGM2vlSsmTeVh4HTdYH"
+          "name": "Markus Floats",
+          "url": "https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z"
         }
       ],
-      "duration_ms": 122331,
-      "name": "Wired",
-      "url": "https://open.spotify.com/track/1ttEhhzFufoxZYJw2S4l69"
+      "duration_ms": 263999,
+      "name": "C (Featuring the Voice of Fred Moten)",
+      "url": "https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1231,6 +1215,22 @@
       "duration_ms": 384877,
       "name": "with my woes",
       "url": "https://open.spotify.com/track/3cZbVXCBhG9ZdbeNLhmQ1h"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/7ijzRbx3rClwBIBcJLVe0t"
+      },
+      "artists": [
+        {
+          "name": "Color Plus",
+          "url": "https://open.spotify.com/artist/7pkOGM2vlSsmTeVh4HTdYH"
+        }
+      ],
+      "duration_ms": 122331,
+      "name": "Wired",
+      "url": "https://open.spotify.com/track/1ttEhhzFufoxZYJw2S4l69"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/3YY9jc0TCCJHJRzrNN9mly"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "\u0425\u043e\u0447\u0435\u0442\u0441\u044f \u0445\u043e\u0440\u043e\u0448\u0435\u0433\u043e",
-        "url": "https://open.spotify.com/album/0XBBSuKcTuoHw0t63PqvJk"
-      },
-      "artists": [
-        {
-          "name": "\u0422\u043b\u0430\u043c",
-          "url": "https://open.spotify.com/artist/7a170v5bOCKGY5tAZm41MQ"
-        }
-      ],
-      "duration_ms": 297527,
-      "name": "\u041f\u0440\u043e\u0440\u043e\u0447\u0435\u0441\u0442\u0432\u043e / \u041f-\u041f",
-      "url": "https://open.spotify.com/track/5tpvGcFAp8rF3MGy0laB7D"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Vol. II",
@@ -1363,6 +1347,22 @@
       "duration_ms": 88756,
       "name": "Willkommen",
       "url": "https://open.spotify.com/track/2hlNKxlqObtksthAmbidXA"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "\u0425\u043e\u0447\u0435\u0442\u0441\u044f \u0445\u043e\u0440\u043e\u0448\u0435\u0433\u043e",
+        "url": "https://open.spotify.com/album/0XBBSuKcTuoHw0t63PqvJk"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u043b\u0430\u043c",
+          "url": "https://open.spotify.com/artist/7a170v5bOCKGY5tAZm41MQ"
+        }
+      ],
+      "duration_ms": 297527,
+      "name": "\u041f\u0440\u043e\u0440\u043e\u0447\u0435\u0441\u0442\u0432\u043e / \u041f-\u041f",
+      "url": "https://open.spotify.com/track/5tpvGcFAp8rF3MGy0laB7D"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/3tNzbH4X3O5KxgFcPJANPt"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "MSCTY x V&A Dundee",
-        "url": "https://open.spotify.com/album/52KQDPfQuzUT5BD3j7mfno"
-      },
-      "artists": [
-        {
-          "name": "SHHE",
-          "url": "https://open.spotify.com/artist/6ZGz2mPPtMaFVKxMzjd8Pd"
-        }
-      ],
-      "duration_ms": 2699773,
-      "name": "~",
-      "url": "https://open.spotify.com/track/7a6GrnIsmcv0mqbNUMBLKe"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Phases of This and Other Moons",
@@ -1411,6 +1395,22 @@
       "duration_ms": 224146,
       "name": "A Black Moon Tide",
       "url": "https://open.spotify.com/track/5UkLcM1yFjeFBLUhwuKbkV"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "MSCTY x V&A Dundee",
+        "url": "https://open.spotify.com/album/52KQDPfQuzUT5BD3j7mfno"
+      },
+      "artists": [
+        {
+          "name": "SHHE",
+          "url": "https://open.spotify.com/artist/6ZGz2mPPtMaFVKxMzjd8Pd"
+        }
+      ],
+      "duration_ms": 2699773,
+      "name": "~",
+      "url": "https://open.spotify.com/track/7a6GrnIsmcv0mqbNUMBLKe"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Miracle-Tech",
-        "url": "https://open.spotify.com/album/0KfFMK9V0890u9O5qAsV3v"
-      },
-      "artists": [
-        {
-          "name": "SEES00000",
-          "url": "https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45"
-        }
-      ],
-      "duration_ms": 186185,
-      "name": "Reno",
-      "url": "https://open.spotify.com/track/65i8qMn7gtqUu1cfKhCL6j"
-    },
-    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "For The Upper Mantle",
@@ -1509,20 +1493,20 @@
       "url": "https://open.spotify.com/track/30tgD1QE4NU8wr0g81Q9BJ"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
+      "added_at": "2023-10-04 14:25:37",
       "album": {
-        "name": "W1 Sprokla",
-        "url": "https://open.spotify.com/album/28dZkYCyUdUlNXrZEZdxp4"
+        "name": "Miracle-Tech",
+        "url": "https://open.spotify.com/album/0KfFMK9V0890u9O5qAsV3v"
       },
       "artists": [
         {
-          "name": "Index For Working Musik",
-          "url": "https://open.spotify.com/artist/30pElb7BpcpII86h5dRpYK"
+          "name": "SEES00000",
+          "url": "https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45"
         }
       ],
-      "duration_ms": 734064,
-      "name": "W1 Sprokla",
-      "url": "https://open.spotify.com/track/2D4zZ1OwJP2WjVbAj926bT"
+      "duration_ms": 186185,
+      "name": "Reno",
+      "url": "https://open.spotify.com/track/65i8qMn7gtqUu1cfKhCL6j"
     },
     {
       "added_at": "2023-10-11 18:36:09",
@@ -1583,6 +1567,22 @@
       "duration_ms": 243713,
       "name": "Betrayer",
       "url": "https://open.spotify.com/track/1Ifm02tflyx53arFi8u5LU"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "W1 Sprokla",
+        "url": "https://open.spotify.com/album/28dZkYCyUdUlNXrZEZdxp4"
+      },
+      "artists": [
+        {
+          "name": "Index For Working Musik",
+          "url": "https://open.spotify.com/artist/30pElb7BpcpII86h5dRpYK"
+        }
+      ],
+      "duration_ms": 734064,
+      "name": "W1 Sprokla",
+      "url": "https://open.spotify.com/track/2D4zZ1OwJP2WjVbAj926bT"
     },
     {
       "added_at": "2023-10-04 14:25:37",

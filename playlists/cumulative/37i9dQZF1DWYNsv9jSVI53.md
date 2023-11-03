@@ -4,12 +4,13 @@
 
 > The official playlist for Russian Doll on Netflix.
 
-30 songs - 2 hr 18 min
+31 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [21 Hungarian Dances, WoO 1: Hungarian Dance No\. 2 in D Minor](https://open.spotify.com/track/1SXmebxfqeJpb8LY4btqGH) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Trio Artemis](https://open.spotify.com/artist/3663dB3Dg9xe5AvNnkdmnh) | [Voyage Nostalgique: Bizet: Carmen, Habanera "L'amour est un oiseau rebelle" \- Fauré: Dolly Suite, Op\. 56 \- Offenbach: Can Can \- Grieg: Anitra's Dance \- Adler: Hernandos Hideaway \- Mancini: Moon River \- Londonderry Air](https://open.spotify.com/album/746svkf81wYR28APmoq7Ej) | 3:05 | 2022-04-28 |  |
-| [99 Luftballons](https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF) | 3:52 | 2022-04-28 |  |
+| [99 Luftballons](https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:51 | 2022-04-28 |  |
+| [99 Luftballons](https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF) | 3:52 | 2022-04-28 | 2023-11-03 |
 | [Alan's Elevator](https://open.spotify.com/track/3aSIYlOsdQvGiP9f7t4Uyn) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32), [Judy Kang](https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 0:34 | 2022-04-28 |  |
 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 | 2022-04-28 |  |
 | [Black Night](https://open.spotify.com/track/1pJqA8DK4KR0UeQR1GKCrR) | [Cheryl Thompson](https://open.spotify.com/artist/0WA1uYD5c1dn1Oxt9OtN6V) | [You're Not from Around Here](https://open.spotify.com/album/01de6Zye614CkKr2dcLzrF) | 2:00 | 2022-04-28 | 2023-10-21 |

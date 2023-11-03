@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: VillaBanks
 
-255 songs - 11 hr 44 min
+257 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [4ever](https://open.spotify.com/track/3AFk1sRGNVSMQRlGGjKFWH) | [Blake el Diablo](https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL) | [4ever](https://open.spotify.com/album/3E2Zx1fkrNW15jOFv3xav2) | 2:43 | 2023-06-08 | 2023-07-07 |
 | [5 MINUTI](https://open.spotify.com/track/35KwZkxsrcJiDJlloj4oHZ) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [5 MINUTI](https://open.spotify.com/album/4KGPs5mBpd4p3b2hGYLH9V) | 2:47 | 2023-03-23 | 2023-05-19 |
 | [a Nessuno](https://open.spotify.com/track/5fU20jhQlPyoxuFwHEjA0a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:13 | 2023-05-04 | 2023-05-26 |
+| [A Squarciagola](https://open.spotify.com/track/1broDLBCr9ZXrMW3RjLa5J) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [A Squarciagola](https://open.spotify.com/album/2r8ADr19yoR2gsgshFH1SV) | 3:04 | 2023-11-02 |  |
 | [a Testa in giù](https://open.spotify.com/track/7CSPoq67OZ1HSyM6UGzvhI) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [a Testa in giù](https://open.spotify.com/album/33YeUJsVqvrqjp0h4YfO2J) | 2:46 | 2023-04-05 | 2023-06-16 |
 | [A VOLTE](https://open.spotify.com/track/1XhRxRUsnqbnWUGwTEDtJC) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 2:42 | 2023-09-14 |  |
 | [ABISSALE](https://open.spotify.com/track/3U8TFdchz8dK1nYYgZgd9f) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I) | 3:22 | 2023-03-23 | 2023-07-14 |
@@ -68,7 +69,7 @@
 | [Cuori di ghiaccio](https://open.spotify.com/track/33D5qp6MGqApwcSja17gE1) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY), [Nasty](https://open.spotify.com/artist/6qVd6sJa9iGbakgovgExKC), [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Cuori di ghiaccio](https://open.spotify.com/album/3CmNrgMOnTXUfLQY7TDRtd) | 2:59 | 2023-03-23 | 2023-03-31 |
 | [DA PAURA](https://open.spotify.com/track/5RtW8gQnmnf2tI6XOaxVlb) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [DA PAURA](https://open.spotify.com/album/2Q4126DBdA4sZV5X5xdoiW) | 2:16 | 2023-07-20 | 2023-09-13 |
 | [DAI FIDATI DI ME](https://open.spotify.com/track/4MxoqD2NAjBzKUAwAQGLOE) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [DAI FIDATI DI ME](https://open.spotify.com/album/6JDD4qmvye81KLj25CU2Yt) | 2:06 | 2023-10-05 | 2023-10-27 |
-| [Del + e del \-](https://open.spotify.com/track/3XLiJfgPLGbOhemWzuNpHO) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Del + e del \-](https://open.spotify.com/album/6biAzgZtwwShblArNSSzPs) | 2:56 | 2023-10-19 |  |
+| [Del + e del \-](https://open.spotify.com/track/3XLiJfgPLGbOhemWzuNpHO) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Del + e del \-](https://open.spotify.com/album/6biAzgZtwwShblArNSSzPs) | 2:56 | 2023-10-19 | 2023-11-03 |
 | [die young](https://open.spotify.com/track/0PB5FBrdJJYJb306JHZazg) | [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [die young](https://open.spotify.com/album/7wAwsRkIHJYFJ9OM4r8rn8) | 2:26 | 2023-10-26 |  |
 | [DIECIMILAVOCI \(con ARIETE\)](https://open.spotify.com/track/4XULNbLgh1OiOuYMbPOmyN) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:50 | 2023-03-23 | 2023-07-28 |
 | [DIRTY LOVE](https://open.spotify.com/track/4BEeA6vmhoslMtRqePZMny) | [Wayne](https://open.spotify.com/artist/4FiPwqm4GHYuJyldqILugY) | [DIRTY LOVE](https://open.spotify.com/album/1X1EiUOZEtp2ELLUBF0RMz) | 2:44 | 2023-04-20 | 2023-05-26 |
@@ -143,7 +144,7 @@
 | [mi manca la vecchia te](https://open.spotify.com/track/1ngm13kPGndthBqF8AxTAb) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [mi manca la vecchia te](https://open.spotify.com/album/6CAfsx8D5duYwvMfxkardm) | 2:02 | 2023-03-23 | 2023-04-21 |
 | [Mi Manchi Però](https://open.spotify.com/track/2k8MzzRiYNbjEvqFRJ666l) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3), [Pi Greco](https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b) | [Mi Manchi Però](https://open.spotify.com/album/3M2iePQuG093okA4aSb4Fg) | 2:24 | 2023-06-29 | 2023-07-21 |
 | [MI ODIAVO](https://open.spotify.com/track/0nuek47aUtoaF65sNqKhD5) | [TETI](https://open.spotify.com/artist/61obQpNdnmE9dia8LmBah8) | [MI ODIAVO](https://open.spotify.com/album/7unERA8tM6z0Uob0it4eZI) | 3:02 | 2023-04-20 | 2023-04-28 |
-| [Mi Pensi Ancora](https://open.spotify.com/track/7GqoXNz3AIKj48FbUcCABR) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Mi Pensi Ancora](https://open.spotify.com/album/3WVYb9E0xwiAK6ouuXEw9g) | 2:44 | 2023-06-08 |  |
+| [Mi Pensi Ancora](https://open.spotify.com/track/7GqoXNz3AIKj48FbUcCABR) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Mi Pensi Ancora](https://open.spotify.com/album/3WVYb9E0xwiAK6ouuXEw9g) | 2:44 | 2023-06-08 | 2023-11-03 |
 | [Mi prenderò cura di te](https://open.spotify.com/track/3ILLcjoGf6Yb43Zegavf8u) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Mi prenderò cura di te](https://open.spotify.com/album/65ln0kOw6FDR63nVEmwBeQ) | 2:54 | 2023-03-23 | 2023-05-20 |
 | [Mi prenderò cura di te](https://open.spotify.com/track/69lNcHEZlBjYEZ2N4kI3QU) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Mi prenderò cura di te](https://open.spotify.com/album/6xuSbljTKxMckE902CiYdO) | 2:54 | 2023-05-18 | 2023-06-16 |
 | [Milano dannata](https://open.spotify.com/track/2cXh3ehVTlvWjcAb7aLELE) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Milano dannata](https://open.spotify.com/album/0FRJd1v1XYjnxqLD8CPjAL) | 3:15 | 2023-03-23 | 2023-04-28 |
@@ -195,6 +196,7 @@
 | [POV](https://open.spotify.com/track/5mQFiACRHdBVugZX0QXwfS) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U), [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [POV](https://open.spotify.com/album/6QUuzX73hnDFPNXtsmoAAh) | 2:40 | 2023-09-21 | 2023-10-20 |
 | [Privé](https://open.spotify.com/track/6Y9rfuFyLJDz4kj2aysvhs) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Privé](https://open.spotify.com/album/0qMfK0pn4oDONHjKDJEAFD) | 3:00 | 2023-10-12 |  |
 | [PROFUMO](https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PROFUMO](https://open.spotify.com/album/1lD5U7HWtabfmkSxx7vH6X) | 3:23 | 2023-04-20 | 2023-05-19 |
+| [Radar](https://open.spotify.com/track/3EdDWXSjgqazIp9G1VzK3S) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [Radar](https://open.spotify.com/album/6DT9PVf7rJdfv91IO4n6cJ) | 2:21 | 2023-11-02 |  |
 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 | 2023-07-06 | 2023-09-22 |
 | [Ricordarmi di scordarti](https://open.spotify.com/track/7HfIA6XWVZWsLC7SSBdavy) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [LAX](https://open.spotify.com/artist/2qkqwL9GSe6o26rxzUfsd0) | [Ricordarmi di scordarti](https://open.spotify.com/album/7sPORpkE6mfvYJm6XBdiJ5) | 2:24 | 2023-03-23 | 2023-04-14 |
 | [Rivoluzione!](https://open.spotify.com/track/4OYZLVdGFBHJ8UQcRbU3Ny) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Rivoluzione!](https://open.spotify.com/album/5jFiLe8UahShhjZyUhmnkM) | 2:41 | 2023-07-20 | 2023-08-11 |

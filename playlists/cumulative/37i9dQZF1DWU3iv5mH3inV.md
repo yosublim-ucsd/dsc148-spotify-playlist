@@ -4,7 +4,7 @@
 
 > Dembow dominicano to el día\. Foto: Tokischa
 
-412 songs - 22 hr 25 min
+413 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Los Pomposo](https://open.spotify.com/track/6VrOzFtjAylmaRV5OsCFeo) | [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Los Pomposo](https://open.spotify.com/album/58Oiy0qpUaoeOjS24jUbYQ) | 2:44 | 2021-12-10 | 2022-07-29 |
 | [Los Pomposos \(feat\. Yomel El Meloso\)](https://open.spotify.com/track/1RgNUug3wnBqPNGKLHTnxG) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Cambiando el Juego](https://open.spotify.com/album/1JLwZcj57nk69vrlbCLym5) | 2:44 | 2022-11-21 |  |
 | [Lulili](https://open.spotify.com/track/3sd6QegaIxdt4c6ezhx47W) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8) | [Lulili](https://open.spotify.com/album/5nkXPtFbJPZjaVSPIebITc) | 2:12 | 2023-02-18 | 2023-02-25 |
-| [Ma Me Mi Mo Mu](https://open.spotify.com/track/037ybKYibufTvNlUvf1Ut1) | [Verbo Flow](https://open.spotify.com/artist/0dxkgaBNqak7UBqLB1sZrQ), [Kamil Nicole](https://open.spotify.com/artist/1vRflnO0vGZJYByD348tTK), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3) | [Ma Me Mi Mo Mu](https://open.spotify.com/album/3RS3rgFdBFjsOzxWhezRU3) | 2:05 | 2022-11-21 |  |
+| [Ma Me Mi Mo Mu](https://open.spotify.com/track/037ybKYibufTvNlUvf1Ut1) | [Verbo Flow](https://open.spotify.com/artist/0dxkgaBNqak7UBqLB1sZrQ), [Kamil Nicole](https://open.spotify.com/artist/1vRflnO0vGZJYByD348tTK), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3) | [Ma Me Mi Mo Mu](https://open.spotify.com/album/3RS3rgFdBFjsOzxWhezRU3) | 2:05 | 2022-11-21 | 2023-11-03 |
 | [Malabu](https://open.spotify.com/track/6cIDPdoQ9RaKT9raNW6TsJ) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Malabu](https://open.spotify.com/album/6lZyKKjwxqciNXhikIj75A) | 2:48 | 2023-03-10 | 2023-05-27 |
 | [MANDA LA UBI](https://open.spotify.com/track/2S87nHmmhCD3qsKLwcCU74) | [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Carlitos Junior](https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo), [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt) | [MANDA LA UBI](https://open.spotify.com/album/4xBxE3eoLkI5n4gH5Jni8P) | 3:54 | 2022-09-23 |  |
 | [Maniqui](https://open.spotify.com/track/0yrvDuVVhnk51mlPVoxxcY) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Maniqui](https://open.spotify.com/album/65FE1YTHJFK4GwNihWyUlC) | 2:56 | 2021-12-10 | 2022-07-28 |
@@ -379,6 +379,7 @@
 | [Telacuti](https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [Sin "S"](https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu) | 3:07 | 2021-12-10 |  |
 | [Tembeleke](https://open.spotify.com/track/3xULsKQSIkr16oORbAnKxu) | [Crazy Design](https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV), [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk) | [Tembeleke](https://open.spotify.com/album/2im1MJ93yLX0OTE7LKBczH) | 3:16 | 2021-12-10 |  |
 | [Teteo \- Remix](https://open.spotify.com/track/2HUfQvg3qXcaXyjvTpStXJ) | [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e), [You R](https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe) | [Teteo \(remix\)](https://open.spotify.com/album/2ydFlxeWI7OZdNgbEMJDWE) | 3:23 | 2023-05-26 | 2023-11-02 |
+| [Teteo \- Remix](https://open.spotify.com/track/3RtkSIb1hkLriZhzPerQHJ) | [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e), [You R](https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe) | [Teteo \(Remix\)](https://open.spotify.com/album/3yD356NolKdgzI3sToykwN) | 3:23 | 2023-10-19 |  |
 | [Teteo \- Remix](https://open.spotify.com/track/6wB8FE4JA5UTaKEwZzY7It) | [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e), [You R](https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe) | [Teteo \(Remix\)](https://open.spotify.com/album/4YC5fSphrnUQPkROV7phry) | 3:23 | 2023-05-26 | 2023-08-05 |
 | [Teto](https://open.spotify.com/track/7AUXNWnHbSTUFR1PvV2xtm) | [Mago Music](https://open.spotify.com/artist/27EohGwYb4NJtGAJFL7gRu), [Lcda](https://open.spotify.com/artist/0S3mW9SwKS69ObgzEynMvB) | [Teto](https://open.spotify.com/album/6mjKy4uoyKROF0m34H0ZPu) | 2:49 | 2022-01-04 | 2022-07-05 |
 | [Tiempo](https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Tiempo](https://open.spotify.com/album/6Q600rdy08nCJuabWw7qeR) | 3:15 | 2021-12-10 | 2023-07-20 |

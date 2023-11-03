@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Verses, Vol. 1",
+        "url": "https://open.spotify.com/album/0lVg5lgO6lof4QoqzZ8jRk"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293059,
+      "name": "Accepted",
+      "url": "https://open.spotify.com/track/4EJpqoRuDTU7m2gweSlKl2"
+    },
+    {
+      "album": {
         "name": "Aka Ngozi (The Hand of God)",
         "url": "https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE"
       },
@@ -100,6 +118,24 @@
       "duration_ms": 163266,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1aJb5rl14uELMauKzgjW0v"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/4QUTMlNqo2cpZ5hjmMhmHe"
+      },
+      "artists": [
+        {
+          "name": "Churemi",
+          "url": "https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159451,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/6XSuvFmMdybVHhiE8DdzM1"
     },
     {
       "album": {
@@ -210,7 +246,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 169468,
       "name": "Big Stepper Pt. 2",
       "url": "https://open.spotify.com/track/4HQxYIQangC0upgJ9psYgO"
@@ -351,6 +387,24 @@
     },
     {
       "album": {
+        "name": "CORRECT",
+        "url": "https://open.spotify.com/album/4KfMojNZjUJVJnq5eqXvf6"
+      },
+      "artists": [
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "CORRECT",
+      "url": "https://open.spotify.com/track/0akvZghvgczbBpV09jxu08"
+    },
+    {
+      "album": {
         "name": "Count on You",
         "url": "https://open.spotify.com/album/4mBkalkSQAjI0CI6U0l3ac"
       },
@@ -402,7 +456,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 324572,
       "name": "Dansaki",
       "url": "https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP"
@@ -468,6 +522,28 @@
       "duration_ms": 204521,
       "name": "Desire",
       "url": "https://open.spotify.com/track/38hOrmc7D0YqWZ2QYdxgK2"
+    },
+    {
+      "album": {
+        "name": "Doh Doh Doh",
+        "url": "https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Ife",
+          "url": "https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153780,
+      "name": "Doh Doh Doh",
+      "url": "https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw"
     },
     {
       "album": {
@@ -566,6 +642,28 @@
       "duration_ms": 121730,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/7rvky1xs7Ewil4rUjtxcSk"
+    },
+    {
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/7foKRWx8Bfg6TwKoQ0g8Tz"
+      },
+      "artists": [
+        {
+          "name": "Ealle",
+          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192166,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/3KC5eGrdYOhTqjVgcA3g0h"
     },
     {
       "album": {
@@ -694,6 +792,32 @@
       "duration_ms": 178666,
       "name": "I'm in Love",
       "url": "https://open.spotify.com/track/26Cd5eyE4jyLFhKgcZULsy"
+    },
+    {
+      "album": {
+        "name": "In Your Presence",
+        "url": "https://open.spotify.com/album/4mj0RquFfkMuwLQ8RJezpM"
+      },
+      "artists": [
+        {
+          "name": "Anthony Kani",
+          "url": "https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO"
+        },
+        {
+          "name": "Asebe",
+          "url": "https://open.spotify.com/artist/2SC1adgBdk5UQhX7rCAYUb"
+        },
+        {
+          "name": "Elijah Chilaka",
+          "url": "https://open.spotify.com/artist/77YR2TyYC46ifo1NPj9IX4"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 916000,
+      "name": "In Your Presence",
+      "url": "https://open.spotify.com/track/103mpS18abp23kxOPtnnnK"
     },
     {
       "album": {
@@ -843,6 +967,24 @@
     },
     {
       "album": {
+        "name": "My Lord (Isaiah 2:11)",
+        "url": "https://open.spotify.com/album/26lCJiZGnBkRU4c0OybPXW"
+      },
+      "artists": [
+        {
+          "name": "Israel the creator",
+          "url": "https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155350,
+      "name": "My Lord (Isaiah 2:11)",
+      "url": "https://open.spotify.com/track/7vjSZuqvoGd9KJ7XazdkHu"
+    },
+    {
+      "album": {
         "name": "My Story",
         "url": "https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD"
       },
@@ -926,7 +1068,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 171129,
       "name": "Nazarene",
       "url": "https://open.spotify.com/track/5DAi3gOoRMUU2Jn6QkyU1e"
@@ -966,6 +1108,28 @@
       "duration_ms": 552855,
       "name": "Obinigwe",
       "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
+    },
+    {
+      "album": {
+        "name": "Oil for my head",
+        "url": "https://open.spotify.com/album/0polHS9KAgh09ILA2GzJb3"
+      },
+      "artists": [
+        {
+          "name": "Imancee",
+          "url": "https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6"
+        },
+        {
+          "name": "Dj Penny",
+          "url": "https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158171,
+      "name": "Oil for my head",
+      "url": "https://open.spotify.com/track/0Pm3mfKN8nrtf5WbeNl9sB"
     },
     {
       "album": {
@@ -1265,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/0wZPEf4vSQSSWxPLrkEvvO"
+      },
+      "artists": [
+        {
+          "name": "ELI-J",
+          "url": "https://open.spotify.com/artist/6iwUw4yXwoW4ULEb2izFqV"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187887,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/0N6IfamxoAVLnqKGzTG97D"
+    },
+    {
+      "album": {
         "name": "The way You love me",
         "url": "https://open.spotify.com/album/1uLxrxJXViOM2XMsj6PqPJ"
       },
@@ -1316,7 +1498,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"

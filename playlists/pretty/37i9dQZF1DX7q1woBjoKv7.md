@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="spotify:artist:7MNEVabc4cs19CbzAFZmXz">Terrace Martin</a> and <a href="spotify:artist:7E2ioKxoxI2J94tUkIx6As">Alex Isley</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,411 likes - 63 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,428 likes - 63 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 25 | [Suddenly](https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Suddenly](https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX) | 2:01 |
 | 26 | [On My Mama](https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:04 |
 | 27 | [Hey, Love!](https://open.spotify.com/track/5HR4E0PlY8bIyF1aVukVCj) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Hey, Love!](https://open.spotify.com/album/2M3rb1vhyQmiiPFZKMSoJM) | 2:29 |
-| 28 | [Paradise](https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Paradise](https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B) | 3:38 |
+| 28 | [Paradise](https://open.spotify.com/track/5pBSxjuMqmm9CVPz8RIIPy) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 3:38 |
 | 29 | [Emotions](https://open.spotify.com/track/7E7bqMHnWNqtDvZQVosCcS) | [Tony Black](https://open.spotify.com/artist/3Il3MeTFidluIrgnVD4XUF), [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Emotions](https://open.spotify.com/album/6rmdDAe6ABCDBT2bgt8V5r) | 4:18 |
 | 30 | [Soak City \(Do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Soak City \(Do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 2:03 |
 | 31 | [Allat \- Remix](https://open.spotify.com/track/4gKQRw0fjYBnSazaaXzCL1) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5), [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [Allat \(Remix\)](https://open.spotify.com/album/483oWxoE4zHjmeJESZf9no) | 2:52 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 39 | [Reposao](https://open.spotify.com/track/7lffSqnAermtWrjfrCuYNx) | [Chris O'Bannon](https://open.spotify.com/artist/0x3uLrfIo751mWzFlyVEn9) | [Reposao](https://open.spotify.com/album/6M9zBxfti0zyb3G4GLtcv6) | 2:58 |
 | 40 | [Backslide](https://open.spotify.com/track/3fpF1wbhka6wD52euq4UaU) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [Backslide](https://open.spotify.com/album/7ActXZISNRFX3jBRPcE7XW) | 2:43 |
 | 41 | [Pipe Down](https://open.spotify.com/track/6JUTY8btUg0HS0tXwLKgpK) | [East5ide](https://open.spotify.com/artist/0CBHBqeV90ktKLEprJptJN), [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [Pipe Down](https://open.spotify.com/album/6tSVzAegGWd8Fnz6uIYJmS) | 2:59 |
-| 42 | [Online Shopping](https://open.spotify.com/track/4zLpNVPiZ1Gpr9T0MqKbZx) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Nova](https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79) | 3:56 |
+| 42 | [Online Shopping](https://open.spotify.com/track/3oUJKsH1Ao82HIMJCkn4Kd) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Nova](https://open.spotify.com/album/4mAaeqc5N8tso7xNVbQjHF) | 3:56 |
 | 43 | [Monsta](https://open.spotify.com/track/6uy0ck5pEjJavIqkfh5iCM) | [Allyn](https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3) | [Lover Girl](https://open.spotify.com/album/5jCuQK89wKW59l2XWIb6VD) | 2:50 |
 | 44 | [Oasis](https://open.spotify.com/track/4sBXBfLLlDC1NR99JAjVFm) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Oasis](https://open.spotify.com/album/2fgwCq2iDn5dM1ZYaDQ1du) | 2:44 |
 | 45 | [Breakfast in Bed](https://open.spotify.com/track/0iI2cOHpX6xmwKD15Q5ynd) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Love Me Like](https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf) | 1:56 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 62 | [Gifted Creatures](https://open.spotify.com/track/01j6ga5rGndEldo5EY2llN) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Graymatter](https://open.spotify.com/artist/79sVZ1pbm24IZ9GbbCWlLv) | [What You Don’t Get?!](https://open.spotify.com/album/21nWEdfRl0qTZOpaqy2GuK) | 3:07 |
 | 63 | [OKAY!](https://open.spotify.com/track/0VTBZdSjY7aG3T8i5bmitt) | [Joe Maynor](https://open.spotify.com/artist/1PCPY2XwqDjKWiPEUJuQYf), [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [Party Pack Vol 1.](https://open.spotify.com/album/0UhOnOrEKvl9vvmtJ2Xoq4) | 3:08 |
 
-Snapshot ID: `MCw5MGNmZjk0MTdhN2YzYTc4NWM4NDkyZTVkNzU3YWQyODY2YjFkNmUy`
+Snapshot ID: `MCxmYTcwZmY1NjViZmM5NDRkZGVjMjQyOTdjMjg1ZTI3M2ZiMGU1MjEy`

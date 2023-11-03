@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 
 > The official playlist for Russian Doll on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,118 likes - 26 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,151 likes - 26 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 | 12 | [Morgen](https://open.spotify.com/track/4Gy2ccb1lUzc5sNmwKtTFt) | [Ivo Robic](https://open.spotify.com/artist/6ouLM9uXt774BmPfmTzgX8) | [Izvorne Snimke 1949\. \- 1959.](https://open.spotify.com/album/3zZ53e51GTH3G3e36U7KnV) | 2:35 |
 | 13 | [MindKilla](https://open.spotify.com/track/6b1ja7rkQz9FUM7x79UH1i) | [Gang Gang Dance](https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb) | [Eye Contact](https://open.spotify.com/album/4bq7GESFNztOvUBKpWeh6N) | 5:16 |
 | 14 | [Piano Concerto No\. 4 in G Major, Op\. 58: I\. Allegro moderato](https://open.spotify.com/track/626IyHboCqGtygvuS9ceyW) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Stefan Vladar](https://open.spotify.com/artist/3cYlHOewTtDhkVIaEKZsOl), [Capella Istropolitana](https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) | [Beethoven: Piano Concertos Nos\. 3 and 4](https://open.spotify.com/album/3N7JVK7eA99XraybwRR8iW) | 19:07 |
-| 15 | [99 Luftballons](https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF) | 3:52 |
+| 15 | [99 Luftballons](https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:51 |
 | 16 | [Alan's Elevator](https://open.spotify.com/track/3aSIYlOsdQvGiP9f7t4Uyn) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32), [Judy Kang](https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 0:34 |
 | 17 | [Hungarian Rhapsody No\. 2 in D minor, S.359 No\. 2 \(Corresponds with piano versionNo\. 2 in C sharp minor\) \- Orch\. Doppler \- Excerpt](https://open.spotify.com/track/53hzDAws6V4cRsEU0OAEAX) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Gewandhausorchester](https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa), [Kurt Masur](https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn) | [50 Classical Music Favorites](https://open.spotify.com/album/3ahByf8mq73nZP5fINhDPc) | 4:54 |
 | 18 | [21 Hungarian Dances, WoO 1: Hungarian Dance No\. 2 in D Minor](https://open.spotify.com/track/1SXmebxfqeJpb8LY4btqGH) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Trio Artemis](https://open.spotify.com/artist/3663dB3Dg9xe5AvNnkdmnh) | [Voyage Nostalgique: Bizet: Carmen, Habanera "L'amour est un oiseau rebelle" \- Fauré: Dolly Suite, Op\. 56 \- Offenbach: Can Can \- Grieg: Anitra's Dance \- Adler: Hernandos Hideaway \- Mancini: Moon River \- Londonderry Air](https://open.spotify.com/album/746svkf81wYR28APmoq7Ej) | 3:05 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 | 25 | [Showtime](https://open.spotify.com/track/7ld59FzTeRSyR58BSOilTs) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 1:31 |
 | 26 | [Dream Mother](https://open.spotify.com/track/5SLfUZcKNs3Ab2F1BOjQXr) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 1:46 |
 
-Snapshot ID: `MCxhMWM4NzBiYmY2MzQ2YWJlZDg0MjkzZGUxYWZlMDdkYWQzNDU0ZGUz`
+Snapshot ID: `MCw5NTlkZDMzN2QyOTliZDk4YzU3YTRiMzZkM2ZmM2ZlN2NlZjg5MWU2`

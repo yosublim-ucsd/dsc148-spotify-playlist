@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP)
 
-> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL?si=gX9Ki4eNRh\-Ok0etAYYfFA">Mr Heinz</a> & <a href="https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=qnCa5ScGSdu0Hn1d7GAZ4g">Maglera Doe Boy</a>
+> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I?si=cGzkKRKHRFCwOlBcTV3c\_w">Biggy</a>
 
-114 songs - 6 hr 2 min
+115 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Innie Boland](https://open.spotify.com/track/41BvgzRpKygcNw4WPveCk7) | [Middelvinger](https://open.spotify.com/artist/76vCMjsvbkeG5cUXMU1jBG), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Innie Boland](https://open.spotify.com/album/10sJICqQGgC9KQPie2It2w) | 4:15 | 2022-09-08 | 2023-09-01 |
 | [Is Dope](https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL) | [Hemelbesem](https://open.spotify.com/artist/2rf163QPv7JZFRGuxjplds), [Stuwi W](https://open.spotify.com/artist/2eOVM21p4NdKeJrO3G5cdJ) | [Evil Is Nogsteeds Maklik](https://open.spotify.com/album/7HqfIL6on2kOWZLTHAuFtX) | 5:09 | 2022-09-08 |  |
 | [Is Duidelik](https://open.spotify.com/track/0XsFvyPoCtoLsZ9oZ2JQsa) | [Klein Fortuin](https://open.spotify.com/artist/7i6gIaTRv7iECLBF89Mdw5), [G Tha Rapper](https://open.spotify.com/artist/2cIvQUkcdnw2vbChJjPYmM) | [Is Duidelik](https://open.spotify.com/album/7sLCM6pQ5S1p967HFWVsfx) | 2:38 | 2022-09-22 | 2023-10-30 |
+| [Janneman](https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Janneman](https://open.spotify.com/album/1R2hS2DTI0QrpzkUbbZXgk) | 3:15 | 2023-11-02 |  |
 | [JMHWB](https://open.spotify.com/track/2iVtx13izbsfNMdDjmK7Th) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx), [Stuwi W](https://open.spotify.com/artist/1I6vji9IXigkijAeej9pQO) | [JMHWB](https://open.spotify.com/album/1T6tnYZ1l4htYjHyQ8aNWO) | 3:47 | 2023-08-04 |  |
 | [Jou Mase](https://open.spotify.com/track/1p3zRIVy5cuJmwCHLCEHdm) | [Die Twaalf](https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW), [Bailomusiq](https://open.spotify.com/artist/2ZSqXSAkJWBP9i95OW6jAm) | [Jou Mase](https://open.spotify.com/album/4scKcqaWvc2circ9KE6cS8) | 3:04 | 2022-12-01 |  |
 | [Kaapstad is Myne](https://open.spotify.com/track/7I0Qxy0l32WLTLAZHIf0eT) | [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO) | [Kaapstad is Myne](https://open.spotify.com/album/2CyG7LKG8En8K89wPskp95) | 3:29 | 2022-09-08 | 2023-08-18 |
@@ -86,7 +87,7 @@
 | [Ongerep](https://open.spotify.com/track/3eXMAAp2vmVQYzau6Tr2Zy) | [Jaak](https://open.spotify.com/artist/7xPfiz8ANL69EeDuLNS8hm) | [Ongerep](https://open.spotify.com/album/5Q9qa3yXeuPfgDBBKrD7W5) | 3:32 | 2022-09-08 | 2022-11-18 |
 | [Op Dai](https://open.spotify.com/track/4bBjjBekKBVWGT2gJAggt9) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Op Dai](https://open.spotify.com/album/2wIXzbUBqaSiLYIepgLlKY) | 3:26 | 2023-07-27 |  |
 | [Passion Vir Die Game](https://open.spotify.com/track/5Bn47hs1QD5eByG6g11cKS) | [Ktog](https://open.spotify.com/artist/0rqXLEx5cewNCwWuuUTrfT), [King B Hf](https://open.spotify.com/artist/4Z9gJNJkCxN3xhjrEITDLt) | [Passion Vir Die Game](https://open.spotify.com/album/5IaeLYlC58bvW4tSpuAgF6) | 5:30 | 2023-01-13 |  |
-| [Playa](https://open.spotify.com/track/1rNz535f5FjsnATLQQbSvN) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [Jong Grotes](https://open.spotify.com/album/6fkDB86zPbNpiJ0JnyPhlb) | 3:26 | 2022-09-08 |  |
+| [Playa](https://open.spotify.com/track/1rNz535f5FjsnATLQQbSvN) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [Jong Grotes](https://open.spotify.com/album/6fkDB86zPbNpiJ0JnyPhlb) | 3:26 | 2022-09-08 | 2023-11-03 |
 | [Pot Jie Kos](https://open.spotify.com/track/4q26B1ucwbE6DgGytVBXpV) | [Brasse Vannie Kaap](https://open.spotify.com/artist/6nkhSnCQetHUVMEaZNpuvj) | [Super Power](https://open.spotify.com/album/0WS0M32uGuEKQL1KilDYFQ) | 3:32 | 2022-09-08 | 2022-12-02 |
 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 | 2022-09-08 |  |
 | [Rare Steak](https://open.spotify.com/track/29kYp8MB3eq1RQIXLWWQCX) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Rare Steak](https://open.spotify.com/album/5fyfK8q6TANWOXxrL7i7Fe) | 3:05 | 2022-09-08 | 2023-10-30 |

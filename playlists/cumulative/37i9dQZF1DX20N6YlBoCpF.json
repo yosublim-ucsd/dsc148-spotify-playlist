@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/2IATFOSnfbxrL3bL0cxCOu?si=V-INLW0zRN-JAv5SQGYvog\">Mionette</a> ",
+  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349?si=S0J_MwpgSl2WWyBF9s6lFg\">Posduif</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 196750,
       "name": "Bring My Terug (H2-A)",
       "url": "https://open.spotify.com/track/0Gg8yGXg7vXguO6mykHT99"
@@ -1720,6 +1720,24 @@
       "duration_ms": 195117,
       "name": "Damwal",
       "url": "https://open.spotify.com/track/2JMDWqOSByeWD9f2SpyXtK"
+    },
+    {
+      "album": {
+        "name": "Dans Alleen",
+        "url": "https://open.spotify.com/album/29ZBNwOhAzvGrqDhRV2OjO"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204692,
+      "name": "Dans Alleen",
+      "url": "https://open.spotify.com/track/7jkyGrQRYZxI2lIUJZw2tQ"
     },
     {
       "album": {
@@ -2208,7 +2226,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 185670,
       "name": "Die Sonskyn en Die Re\u00ebn",
       "url": "https://open.spotify.com/track/16msFCHm7rvxMKgVQnHRaX"
@@ -4218,6 +4236,24 @@
       "duration_ms": 173893,
       "name": "Jan Ek Kan Nie Dans Nie",
       "url": "https://open.spotify.com/track/2rOiYASLcLXCX8HDhiQa0F"
+    },
+    {
+      "album": {
+        "name": "Janneman",
+        "url": "https://open.spotify.com/album/1R2hS2DTI0QrpzkUbbZXgk"
+      },
+      "artists": [
+        {
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195361,
+      "name": "Janneman",
+      "url": "https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA"
     },
     {
       "album": {
@@ -6832,7 +6868,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 127325,
       "name": "Nog Plek Aan My Tafel",
       "url": "https://open.spotify.com/track/5PeUZb8YUHd7Wq4gsxmALD"
@@ -7078,7 +7114,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 176920,
       "name": "Om die Tafel",
       "url": "https://open.spotify.com/track/2wdxOVcUSTqDe3p9imHCMj"
@@ -7096,7 +7132,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 225875,
       "name": "om myself te vind",
       "url": "https://open.spotify.com/track/7wed89RwNWNeJTdIQcYLNx"
@@ -7852,7 +7888,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 170900,
       "name": "Remissie (Homeopaties)",
       "url": "https://open.spotify.com/track/7CTLsUcL3OVROwQR6xujI7"
@@ -8739,6 +8775,24 @@
     },
     {
       "album": {
+        "name": "Soos 'n Brander",
+        "url": "https://open.spotify.com/album/26CbhEPhAAZWr3aXOP57iB"
+      },
+      "artists": [
+        {
+          "name": "Kontras",
+          "url": "https://open.spotify.com/artist/13mo5g6PR09u3Rq8bEstY2"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Soos 'n Brander",
+      "url": "https://open.spotify.com/track/26OhBbnbYB8K3Qj0nyP4JN"
+    },
+    {
+      "album": {
         "name": "Soos Die Re\u00ebn",
         "url": "https://open.spotify.com/album/00PSQBBvSucHGg8H4KdgpF"
       },
@@ -9048,6 +9102,24 @@
       "duration_ms": 190796,
       "name": "Stoutgat",
       "url": "https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL"
+    },
+    {
+      "album": {
+        "name": "Stroom",
+        "url": "https://open.spotify.com/album/1ERqJVhoDjyyRNvmeXJZmW"
+      },
+      "artists": [
+        {
+          "name": "Elsje",
+          "url": "https://open.spotify.com/artist/5OfnNhDROP4vScolqo7Szq"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212312,
+      "name": "Stroom",
+      "url": "https://open.spotify.com/track/3lm6wnGuMreZBAXD9r5W4Z"
     },
     {
       "album": {
@@ -9836,7 +9908,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 247083,
       "name": "Vanoggend In My Kop",
       "url": "https://open.spotify.com/track/3w8X44AryrZlXsiPAPIUjS"
@@ -10493,6 +10565,24 @@
     },
     {
       "album": {
+        "name": "Waar Ek My Lippe Neerl\u00ea",
+        "url": "https://open.spotify.com/album/6ZmvaEeeptTonmEKbPBfuP"
+      },
+      "artists": [
+        {
+          "name": "Posduif",
+          "url": "https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209850,
+      "name": "Waar Ek My Lippe Neerl\u00ea",
+      "url": "https://open.spotify.com/track/7LxuMfDZjOK8194vrzKWSM"
+    },
+    {
+      "album": {
         "name": "Waar Is My Maniere?",
         "url": "https://open.spotify.com/album/5PlBa6fwSoqG0qfPNE1TD9"
       },
@@ -10695,6 +10785,24 @@
     },
     {
       "album": {
+        "name": "Vier",
+        "url": "https://open.spotify.com/album/4UqC1AOHb9CRtdCRABPLWr"
+      },
+      "artists": [
+        {
+          "name": "Jacques Du Plessis",
+          "url": "https://open.spotify.com/artist/1JACnZftdau4Kpt0I8kvTA"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183640,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4oqpUT136KXHKtGeyL7UWz"
+    },
+    {
+      "album": {
         "name": "Waterdig",
         "url": "https://open.spotify.com/album/5hSmNuiAhNgWpx7jHAKzOZ"
       },
@@ -10826,6 +10934,24 @@
       "duration_ms": 187391,
       "name": "Wil Jy Bly",
       "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
+    },
+    {
+      "album": {
+        "name": "Wildman",
+        "url": "https://open.spotify.com/album/7ccUdm2objah0c8b16C9z2"
+      },
+      "artists": [
+        {
+          "name": "Jan Rhaap",
+          "url": "https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169194,
+      "name": "Wildman",
+      "url": "https://open.spotify.com/track/4KIhzNAh0lgHblwDnmeymd"
     },
     {
       "album": {

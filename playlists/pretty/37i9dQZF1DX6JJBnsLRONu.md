@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,682 likes - 61 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,692 likes - 61 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 30 | [Magic On Television](https://open.spotify.com/track/3iGrVu4WWxgVXeDA9DzpvK) | [Rob Noyes](https://open.spotify.com/artist/7fZ7su6bgTRy96bAUZJVaT) | [Arc Minutes](https://open.spotify.com/album/70ueiLONdgQZhlfDEeu377) | 3:05 |
 | 31 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 |
 | 32 | [34 Ghosts IV](https://open.spotify.com/track/2vXOjiwfjobOqrezcuSBok) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Ghosts I\-IV](https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp) | 5:52 |
-| 33 | [What Must Be Done](https://open.spotify.com/track/3buV0hT4g8GOIa8l2OJIJN) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs) | 1:57 |
+| 33 | [What Must Be Done](https://open.spotify.com/track/5AKymjcoEsBxrlJqH1nu4I) | [Nick Cave & Warren Ellis](https://open.spotify.com/artist/5cQYq4eJmOwUGCAjhajFg7) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/5tHgLycauca1M9DF9YqsbJ) | 1:57 |
 | 34 | [With News About Heaven](https://open.spotify.com/track/74QHxzRk23oaNMsMtOw5GE) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [New Vanitas](https://open.spotify.com/album/5EZWB44UxQvTllmmOvarXw) | 4:31 |
 | 35 | [Oceanic Feeling](https://open.spotify.com/track/6pkXXWpMwdZZTXoaCDZ6Ci) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Oceanic Feeling](https://open.spotify.com/album/3XNiuRi67PCCF4SradXcqH) | 2:23 |
 | 36 | [The Good, The Bad And The Ugly \- 2004 Remaster](https://open.spotify.com/track/1JSIWsJfxOji0FrxFcxdCK) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [The Good, The Bad And The Ugly \[Original Motion Picture Soundtrack / \(Remastered & Expanded\)\]](https://open.spotify.com/album/1oLT2HO5MVNS8U4kEuBvdJ) | 2:42 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 60 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 |
 | 61 | [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 |
 
-Snapshot ID: `MCwyOWY1YjU4MWRjOTZkN2MwMzYzNTI0MTc2ZDllZjc3Y2FiYzFmYmQy`
+Snapshot ID: `MCw1MjY4YTgxODRhYjJmNTQ0ZTNlMWExNzdiYTRhYTA5Njg2ODE0ZmZi`

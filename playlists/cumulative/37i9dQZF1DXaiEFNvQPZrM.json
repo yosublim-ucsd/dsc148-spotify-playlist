@@ -1106,7 +1106,7 @@
     {
       "album": {
         "name": "I Got A Problem",
-        "url": "https://open.spotify.com/album/4kBEIGrzwLM9J4hQnmjynt"
+        "url": "https://open.spotify.com/album/1B8rgYiOXCaPAzZKVQprXK"
       },
       "artists": [
         {
@@ -1117,6 +1117,24 @@
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 147356,
+      "name": "I Got A Problem",
+      "url": "https://open.spotify.com/track/46ELlro4wExQxafmUT6JQA"
+    },
+    {
+      "album": {
+        "name": "I Got A Problem",
+        "url": "https://open.spotify.com/album/4kBEIGrzwLM9J4hQnmjynt"
+      },
+      "artists": [
+        {
+          "name": "Drake Milligan",
+          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
       "duration_ms": 147356,
       "name": "I Got A Problem",
       "url": "https://open.spotify.com/track/5d9Sr7MXI5wSo6I53oW8Hx"

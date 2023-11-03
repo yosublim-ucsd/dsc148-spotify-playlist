@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,899 likes - 197 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,244 likes - 197 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 66 | [The Other Side](https://open.spotify.com/track/6gDOaDZ1gIckCpjh8LdN7Q) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Mescalito](https://open.spotify.com/album/3R4SU0GLULP0QxIal7Fcr1) | 2:08 |
 | 67 | [Wishing Well](https://open.spotify.com/track/7m7xeu7IMHPFbSJxNII3G6) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Roadhouse Sun](https://open.spotify.com/album/2oLZMqHgX8H047wkXl23yC) | 3:58 |
 | 68 | [Ain't Gonna Drown](https://open.spotify.com/track/2bKazIbV8uwFTyMdUS0vct) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:20 |
-| 69 | [Small Town, Girl](https://open.spotify.com/track/4E6DaSnV1KTJsJ6JW0ae8h) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:02 |
+| 69 | [Small Town, Girl](https://open.spotify.com/track/0rj70dcy5czyOg3uTSk4d8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:02 |
 | 70 | [Snake Eyes](https://open.spotify.com/track/0LZ2JLzpdeNTGCYJoQF9Oe) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Roadhouse Sun](https://open.spotify.com/album/2oLZMqHgX8H047wkXl23yC) | 4:36 |
 | 71 | [This Way of Life](https://open.spotify.com/track/3eO7vKn7E9tDmS6gnw02U2) | [Garrett Bradford](https://open.spotify.com/artist/2Ld4BO9aCvmYXbO9wvxQ0Q) | [This Way of Life](https://open.spotify.com/album/1wQZFCm006bf9KipuifNPN) | 3:28 |
 | 72 | [You Won't See It Coming](https://open.spotify.com/track/7DoajXB9TKPLE7J2DFxtwm) | [Kevin Costner & Modern West](https://open.spotify.com/artist/3UKhW4CbRv9wZvfT5oodNH) | [Tales from Yellowstone](https://open.spotify.com/album/5vnnXCMIdQFJ2818PxJAt5) | 1:25 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 81 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 |
 | 82 | [Life of Sin](https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 2:26 |
 | 83 | [Butter](https://open.spotify.com/track/2HffKiqwE9cMKcRLwO03km) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Butter](https://open.spotify.com/album/6Rgrxb2rmHgJJE3RfDBQt9) | 3:27 |
-| 84 | [Dead Men Tell No Tales](https://open.spotify.com/track/6SuvhFoNuEGc9eEVWCoMSE) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber \(Expanded Edition\)](https://open.spotify.com/album/1OVYzABapDJ7aZGfBLY22F) | 3:03 |
+| 84 | [Dead Men Tell No Tales](https://open.spotify.com/track/3n1SVpFljd2w59JwWc3vAU) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber](https://open.spotify.com/album/5F2OkugZPCbjYKQvjUh5yM) | 3:03 |
 | 85 | [What Cowboys Do](https://open.spotify.com/track/7Hle5ryHW10GCpkE8pxlpx) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [All Night Party](https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR) | 3:50 |
 | 86 | [Revolution](https://open.spotify.com/track/5hSpfqVboiNEo4MCiy2VDG) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Revolution](https://open.spotify.com/album/4XVPDM5zdjNY6ovteechd6) | 3:10 |
 | 87 | [The Mercury](https://open.spotify.com/track/0vNTlunI1KuAEM9N1bqH13) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Turnpike Troubadours](https://open.spotify.com/album/46EPywakNshyqPm3KFUYpQ) | 3:43 |
@@ -166,7 +166,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 156 | [My Diamond Is Too Rough](https://open.spotify.com/track/5wblL7xwegkfOsyJscWrU8) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Fear and Saturday Night](https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1) | 5:36 |
 | 157 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 |
 | 158 | [Judith](https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 4:07 |
-| 159 | [Tumbleweed](https://open.spotify.com/track/6tsJ7h5Q1w2L3X8EkfCixU) | [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [Conditions Of My Parole](https://open.spotify.com/album/2gUufHW7CcgULEywXTQHk4) | 4:15 |
+| 159 | [Tumbleweed](https://open.spotify.com/track/0eNayEygFlK7N3rH12RD43) | [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [Conditions Of My Parole](https://open.spotify.com/album/1ZIPAkFJ9oY4zJnvVljD58) | 4:15 |
 | 160 | [Reunion](https://open.spotify.com/track/1SpbHheOp8hCzuG6vnRqFy) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 3:13 |
 | 161 | [Ashokan Farewell](https://open.spotify.com/track/2VjV3PRfThNjqmQg2Y8g4j) | [Jay Ungar](https://open.spotify.com/artist/54jNT6jMGDoxMSBzUDEYSB), [Evan Stover](https://open.spotify.com/artist/1v1YI1e2nv1MFe19mzaafR), [Matt Glaser](https://open.spotify.com/artist/4WYC1ZsXyTC8Jl6ovNMTju), [Molly Mason](https://open.spotify.com/artist/0fJwKh1jYgT5Fz6PzplBsv), [Russ Barenberg](https://open.spotify.com/artist/1Stj7mbbJFkKGqasheXUVF) | [The Civil War \(Original Soundtrack Recording\)](https://open.spotify.com/album/4gPnnu4X6iNApPtW9J9kQe) | 4:04 |
 | 162 | [Mourning](https://open.spotify.com/track/6Jlydua9VXGjxXEr3cZVha) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:55 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 196 | [Yellowstone Main Titles](https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 1:09 |
 | 197 | [Yellowstone Theme](https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:28 |
 
-Snapshot ID: `MCxlNGVhMmE2ZDhiY2E4YWEwNzMzMmUzNmNiNGZkMmYyYTQwNjU3OTI5`
+Snapshot ID: `MCw0NmE3MDZhZGEyMmU2NTMxNGZjYzNhMWViNTU0MzBkZmM2OWIzOTU4`

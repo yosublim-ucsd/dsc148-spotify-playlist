@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 
 > The best and finest 70s Funk\. Cover: Kool & The Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,226 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,231 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 35 | [The Jam](https://open.spotify.com/track/1xXNrpcZ7UyKVWiI6GEc75) | [Graham Central Station](https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F) | [Ain't No 'Bout\-A\-Doubt It](https://open.spotify.com/album/5UcoqwPZQ0HBi4WgmDgEHs) | 8:12 |
 | 36 | [Shifting Gears](https://open.spotify.com/track/03jYH3Pr8K0z2oNwfMA2DC) | [Johnny "Hammond" Smith](https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq) | [Gears](https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH) | 5:10 |
 | 37 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 |
-| 38 | [Get Down](https://open.spotify.com/track/7suCnrqUrqtPq5mUdai9bj) | [The Kay Gees](https://open.spotify.com/artist/2kBAQC51ydY25zaSQBICTi) | [Keep On Bumpin' & Masterplan \(Expanded Version\)](https://open.spotify.com/album/63wfq17mg08V7ZHtziwvEs) | 4:14 |
+| 38 | [Get Down](https://open.spotify.com/track/4HG1Oyh9jdYfE43noqarN1) | [The Kay Gees](https://open.spotify.com/artist/2kBAQC51ydY25zaSQBICTi) | [Keep On Bumpin' & Masterplan \(Expanded Version\)](https://open.spotify.com/album/5uyNTDGT6nijdghnMskKEv) | 4:14 |
 | 39 | [Let's Dance](https://open.spotify.com/track/2QTljXsDGXbdjHfxXfLYun) | [Pleasure](https://open.spotify.com/artist/4XeVhjTp485r7duDSL3PmU) | [The Greatest Of Pleasure](https://open.spotify.com/album/6n3TTv12yYErhIaMiL7Fwn) | 5:00 |
 | 40 | [Boogie Nights](https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 5:03 |
 | 41 | [Get Up Offa That Thing](https://open.spotify.com/track/5vUuUhCaWE9v8BJNKd9rwK) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Singles Vol\. 10 1975\-1979](https://open.spotify.com/album/4QDFEWZwtNO50dcVctW2L0) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 99 | [Patience](https://open.spotify.com/track/4pMG2a3r1AeVbV4FOJwuRn) | [Rokk](https://open.spotify.com/artist/7bLOOtxBWLOpBmhGX3cp0S) | [Eccentric Soul: Omnibus](https://open.spotify.com/album/35IxeM8FWncBSFRH9soSTa) | 4:39 |
 | 100 | [Music Has the Power](https://open.spotify.com/track/2xcxqTg21JxE6zPjT6xswd) | [Ingram](https://open.spotify.com/artist/4wKxcGIfyMyTAucXYUHzGw) | [That's All!](https://open.spotify.com/album/5MRu2NKaMYjIvi7K2RMRGF) | 3:57 |
 
-Snapshot ID: `MCxhNWU0NzNiYjIyMjliOGQ5NGY1ZTYzMmQ1NWRmZTdhYzU4ZTNjYzZi`
+Snapshot ID: `MCw5ODgxMzJkOWMxZjNiNDA2ZDUzZGI0YThkYTE2OTM2YWM5M2U4OTc1`

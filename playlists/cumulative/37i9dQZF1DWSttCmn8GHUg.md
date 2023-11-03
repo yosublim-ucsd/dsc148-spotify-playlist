@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-138 songs - 8 hr 20 min
+141 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [God Bless America](https://open.spotify.com/track/63Od9t6xI8CiIkr7T3XZfr) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [God Bless America](https://open.spotify.com/album/0MFRDEEOBK2OW0Ij5mN5XY) | 3:05 | 2021-11-12 |  |
 | [God Bless The U.S.A.](https://open.spotify.com/track/623lYBOJ7bLwh1bu3yeN5V) | [Lee Greenwood](https://open.spotify.com/artist/3g229vTyhsdwm9SO2p1FPL) | [American Patriot](https://open.spotify.com/album/5YeR8Om8eLONq8C8pluHn7) | 3:11 | 2021-11-12 |  |
 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 | 2021-11-12 |  |
-| [God, Family and Country](https://open.spotify.com/track/23hqpwQMJC75TVEO9Mo9rM) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [I Love It](https://open.spotify.com/album/5cPoNiy9Cwu5Dxd2CUQwVO) | 3:26 | 2021-11-12 |  |
+| [God, Family and Country](https://open.spotify.com/track/23hqpwQMJC75TVEO9Mo9rM) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [I Love It](https://open.spotify.com/album/5cPoNiy9Cwu5Dxd2CUQwVO) | 3:26 | 2021-11-12 | 2023-11-03 |
+| [God, Family and Country \- 2020 \- Remaster](https://open.spotify.com/track/7JJrfmgk4H3rEphFpWqoVB) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [God, Family, Country \(Deluxe Edition\)](https://open.spotify.com/album/1nGxSALyfv0Wq8CWZpIVnZ) | 3:26 | 2023-08-21 |  |
 | [Gone But Not Forgotten](https://open.spotify.com/track/1lJuY06cD1aBtPJ4Xh9LFK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Gone But Not Forgotten](https://open.spotify.com/album/37snSBOMCp6s8pvK6gb8dL) | 2:53 | 2021-11-12 |  |
 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/59xdsxc0QGW6TDA3ZuQ9tS) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [half of my hometown](https://open.spotify.com/album/1wvacL4ghUHvi6PODfvbGN) | 3:51 | 2021-11-12 |  |
 | [Have You Forgotten?](https://open.spotify.com/track/5JWuz7zukN8z9JLNm29U5K) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Have You Forgotten?](https://open.spotify.com/album/0prhHOpBsrLRtf1fvv5dEg) | 4:02 | 2021-11-12 |  |
@@ -93,7 +94,8 @@
 | [Ragged Old Flag](https://open.spotify.com/track/3lUizfXlBYvhDTYXk2X96w) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Ragged Old Flag](https://open.spotify.com/album/58GuOKcc0ieyCwfPdoxBqQ) | 3:06 | 2021-11-12 |  |
 | [Raise 'Em Up](https://open.spotify.com/track/3YimpODfNhxj3rN81v4WvE) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:04 | 2021-11-12 |  |
 | [Red Dirt Road](https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Red Dirt Road](https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf) | 4:20 | 2021-11-12 |  |
-| [Rednecks Like Me](https://open.spotify.com/track/6HSKX8PqQ7ccRQHITXOwzQ) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Rednecks Like Me](https://open.spotify.com/album/5Qzuws0qqVEQU6ZaDYl2DK) | 3:40 | 2023-05-26 |  |
+| [Rednecks Like Me](https://open.spotify.com/track/5ZY6d4lfrRxavrwZ9JxzTM) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Rednecks Like Me](https://open.spotify.com/album/4D2XKM5stLxnEX3unOBPhf) | 3:40 | 2023-08-21 |  |
+| [Rednecks Like Me](https://open.spotify.com/track/6HSKX8PqQ7ccRQHITXOwzQ) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Rednecks Like Me](https://open.spotify.com/album/5Qzuws0qqVEQU6ZaDYl2DK) | 3:40 | 2023-05-26 | 2023-11-03 |
 | [Riding With Private Malone](https://open.spotify.com/track/4yym5ZJXwvg03d4kyhLVZO) | [David Ball](https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE) | [Amigo](https://open.spotify.com/album/475OBKjviIi9rmLKWHEHBa) | 4:35 | 2021-11-12 |  |
 | [See You Again](https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:06 | 2021-11-12 |  |
 | [Send Me](https://open.spotify.com/track/0Qx26shaWKuHbSqSCtgHrd) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Send Me](https://open.spotify.com/album/3LdFkofh38rBZRBZO7aRw9) | 3:14 | 2021-11-12 | 2023-02-04 |
@@ -106,7 +108,8 @@
 | [Song of the South](https://open.spotify.com/track/2uX5f3x2cObov0iDAPln4o) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection](https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T) | 3:10 | 2023-06-30 |  |
 | [Southern Style](https://open.spotify.com/track/17ofcyKTlwRgnUEEzIv2KV) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Southern Style \(Deluxe\)](https://open.spotify.com/album/5nuImXpJSlog6zLF17S43d) | 3:58 | 2021-11-12 |  |
 | [Springsteen](https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 4:23 | 2023-06-30 |  |
-| [Still a Soldier](https://open.spotify.com/track/0twloQAnQbMRwCy9uDW8Q8) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Something's Going On](https://open.spotify.com/album/350yWsEhzbD2TOhZZAXglP) | 3:17 | 2021-11-12 |  |
+| [Still a Soldier](https://open.spotify.com/track/0twloQAnQbMRwCy9uDW8Q8) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Something's Going On](https://open.spotify.com/album/350yWsEhzbD2TOhZZAXglP) | 3:17 | 2021-11-12 | 2023-11-03 |
+| [Still a Soldier](https://open.spotify.com/track/1Pan52YU6LDMSwG57sEgdK) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Something’s Going On](https://open.spotify.com/album/2Mf76MzlpN307uTCbqFcXB) | 3:17 | 2023-08-21 |  |
 | [Summertime](https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Road And The Radio](https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec) | 3:26 | 2023-06-30 | 2023-08-21 |
 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 | 2021-11-12 |  |
 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 | 2021-11-12 |  |

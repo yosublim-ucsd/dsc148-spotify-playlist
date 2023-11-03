@@ -1,12 +1,12 @@
 {
   "description": "The hottest out the south. Cover: Offset",
-  "num_followers": 1194408,
+  "num_followers": 1194520,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDY0ZTQzNTZmOGRiZGFlMzViOGUxOWQzYmFmMTY3ODZkZTMzZmM2",
+  "snapshot_id": "MCwxNjY2ODA0MjRlN2M4NjIzNGM2MTdlNzAzOWVjYzFmZGYzMzUzOTUy",
   "tracks": [
     {
       "added_at": "2023-10-27 16:44:43",
@@ -47,6 +47,26 @@
       "duration_ms": 185453,
       "name": "Presha (with Lil Wayne)",
       "url": "https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G"
+    },
+    {
+      "added_at": "2023-10-27 16:44:43",
+      "album": {
+        "name": "Glizock & Wizop (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 192508,
+      "name": "Glizock & Wizop (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0"
     },
     {
       "added_at": "2023-10-27 16:44:43",

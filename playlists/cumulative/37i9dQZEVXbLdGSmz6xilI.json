@@ -7123,6 +7123,28 @@
     },
     {
       "album": {
+        "name": "id T41104 (feat. 267)",
+        "url": "https://open.spotify.com/album/0La3zbQBwaHHKruwY8ylfd"
+      },
+      "artists": [
+        {
+          "name": "W/N",
+          "url": "https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD"
+        },
+        {
+          "name": "267",
+          "url": "https://open.spotify.com/artist/1jLM6ulW6ldwRWX9smNYmt"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "id T41104 (feat. 267)",
+      "url": "https://open.spotify.com/track/07tiPBhMqiKqHowwqDBtfK"
+    },
+    {
+      "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },
@@ -12484,7 +12506,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 278732,
       "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
       "url": "https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU"

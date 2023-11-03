@@ -1972,10 +1972,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 252053,
       "name": "Mano",
       "url": "https://open.spotify.com/track/2Z2CLhQwH001Wr1Zea44hu"
+    },
+    {
+      "album": {
+        "name": "Four",
+        "url": "https://open.spotify.com/album/4ykiA59HEv4gwYiDWW4UF0"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252053,
+      "name": "Mano",
+      "url": "https://open.spotify.com/track/5IE9m0dNaRoVbdYUeRTkSl"
     },
     {
       "album": {

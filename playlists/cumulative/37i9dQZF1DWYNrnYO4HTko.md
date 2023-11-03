@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-104 songs - 5 hr 43 min
+105 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [I’ve Been Loving You Too Long \(To Stop Now\)](https://open.spotify.com/track/0S3rt4zrKV29h0TUkAYmeh) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [MEmphis Rock And Soul](https://open.spotify.com/album/5JMqUlAUeSP9RFinIKjFiq) | 4:02 | 2021-10-01 |  |
 | [I’ve Been Loving You Too Long \- Remastered 2015](https://open.spotify.com/track/3mQIxdBrMkodx4ebTq7i1e) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Roy Orbison: The MGM Years 1965 \- 1973 \(Remastered\)](https://open.spotify.com/album/5l6AFjM8OaWnshRe0Pu4qj) | 3:38 | 2021-10-01 |  |
 | [I’ve Got Dreams To Remember](https://open.spotify.com/track/1Obbbw3MDPysvDxQziFcxZ) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [MEmphis Rock And Soul](https://open.spotify.com/album/5JMqUlAUeSP9RFinIKjFiq) | 4:29 | 2021-10-01 |  |
-| [Just One More Day](https://open.spotify.com/track/4NCHYfqP6WPxoKLwPlH8JK) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Soulsville](https://open.spotify.com/album/1sc3o9ZoXb61FVrQBkr2pC) | 3:25 | 2021-10-01 |  |
+| [Just One More Day](https://open.spotify.com/track/4NCHYfqP6WPxoKLwPlH8JK) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Soulsville](https://open.spotify.com/album/1sc3o9ZoXb61FVrQBkr2pC) | 3:25 | 2021-10-01 | 2023-11-03 |
+| [Just One More Day](https://open.spotify.com/track/5QrrXBQEZ3bFVqgdFzKVmH) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Soulsville](https://open.spotify.com/album/5tJDjcO21Be339ALeTbxP8) | 3:25 | 2021-10-01 |  |
 | [Love Man](https://open.spotify.com/track/0ZZOxkcfaZtoDQRuE6v5xO) | [J\. Quinton Johnson](https://open.spotify.com/artist/3bijFH9sTMuMYHFoayvx1j) | [Dirty Dancing \(Original Television Soundtrack\)](https://open.spotify.com/album/7sp4Kksb5AJVI6rRWMNDM0) | 2:17 | 2021-10-01 |  |
 | [Mr\. Pitiful](https://open.spotify.com/track/3uPT2j8oo7S103UEsloUft) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Señor Blues](https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA) | 2:55 | 2021-10-01 |  |
 | [My Lover's Prayer](https://open.spotify.com/track/0MkwvWJVAuFGx87BkGz51w) | [Patti Drew](https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c) | [Workin' On A Groovy Thing....The Best Of](https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb) | 3:15 | 2021-10-01 |  |

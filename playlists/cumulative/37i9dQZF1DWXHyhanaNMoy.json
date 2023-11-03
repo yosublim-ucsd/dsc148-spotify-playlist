@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes met Jayh op de cover!",
+  "description": "Motion, fissa & good vibes! Cover: Rich2Gether",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 142128,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/6CasF7OaFADJG3VwvzQ2CG"
@@ -1315,6 +1315,24 @@
     },
     {
       "album": {
+        "name": "Badman Love",
+        "url": "https://open.spotify.com/album/4IWeBBTpKqsnjdoccWmpbL"
+      },
+      "artists": [
+        {
+          "name": "Jayboogz",
+          "url": "https://open.spotify.com/artist/5tTHX8CPiN6VMR8YEWecSS"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175789,
+      "name": "Badman Love",
+      "url": "https://open.spotify.com/track/1fDTVpr032sozi3eJl3PKt"
+    },
+    {
+      "album": {
         "name": "Sans visa",
         "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
       },
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 156055,
       "name": "Bando",
       "url": "https://open.spotify.com/track/6Rs6PtU7hgAH7c6uCeXPik"
@@ -2304,6 +2322,24 @@
       "duration_ms": 142857,
       "name": "Blind Op Zoek (Trapagas)",
       "url": "https://open.spotify.com/track/0jm8p2ErwB4u3uvxc7vxGy"
+    },
+    {
+      "album": {
+        "name": "Blow It All",
+        "url": "https://open.spotify.com/album/75s5xM1KQ4oSc0L1YTnHbC"
+      },
+      "artists": [
+        {
+          "name": "Brackos",
+          "url": "https://open.spotify.com/artist/2tgqUyyINzNSEX0cHwzUMq"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Blow It All",
+      "url": "https://open.spotify.com/track/4ctRvN6xv0tokJj6YXW0ms"
     },
     {
       "album": {
@@ -3904,7 +3940,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 160879,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/02LoJOfuwCA35gjSrevhMX"
@@ -7599,6 +7635,32 @@
     },
     {
       "album": {
+        "name": "Road2Riches",
+        "url": "https://open.spotify.com/album/2TJcLWiQ3PLKMgriUsGcxy"
+      },
+      "artists": [
+        {
+          "name": "Rich2Gether",
+          "url": "https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb"
+        },
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "Jhorrmountain",
+          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144645,
+      "name": "Kom Ko (feat. BKO, Jhorrmountain)",
+      "url": "https://open.spotify.com/track/3IZ4JJSjobzFl0f1utW7eC"
+    },
+    {
+      "album": {
         "name": "Kom Mee",
         "url": "https://open.spotify.com/album/7oYZq57spAJqZkbYU2CNmA"
       },
@@ -7850,6 +7912,36 @@
       "duration_ms": 141500,
       "name": "Laat Dat",
       "url": "https://open.spotify.com/track/5TfEEbuUmYKpDWgb5he6RD"
+    },
+    {
+      "album": {
+        "name": "Pum Pum Power",
+        "url": "https://open.spotify.com/album/3qSa5rF02TVsGzSqql9tyt"
+      },
+      "artists": [
+        {
+          "name": "Rotjoch",
+          "url": "https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "Laat Niet Los",
+      "url": "https://open.spotify.com/track/0fSv9ttNPjT6syAff9NvhQ"
     },
     {
       "album": {
@@ -9656,7 +9748,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 195017,
       "name": "Money",
       "url": "https://open.spotify.com/track/3C4cmCXcvNqOsagL5LFOuj"
@@ -10904,7 +10996,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 156000,
       "name": "On You",
       "url": "https://open.spotify.com/track/2PqkhlBreytuG6r6si0QG3"
@@ -12030,6 +12122,32 @@
       "duration_ms": 156500,
       "name": "Posa na bina",
       "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
+    },
+    {
+      "album": {
+        "name": "Road2Riches",
+        "url": "https://open.spotify.com/album/2TJcLWiQ3PLKMgriUsGcxy"
+      },
+      "artists": [
+        {
+          "name": "Rich2Gether",
+          "url": "https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb"
+        },
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215002,
+      "name": "Post Nut Clarity",
+      "url": "https://open.spotify.com/track/1ho8juF70CmO6vvq2IB9TR"
     },
     {
       "album": {
@@ -14619,6 +14737,40 @@
     },
     {
       "album": {
+        "name": "Tongparty (feat. GuyDo, Young Ellens, Kempi & Penchi)",
+        "url": "https://open.spotify.com/album/3M1RNLNrsQsSM4LAnAIX50"
+      },
+      "artists": [
+        {
+          "name": "ChildsPlay",
+          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
+        },
+        {
+          "name": "Guydo",
+          "url": "https://open.spotify.com/artist/0FxNyLAP2TbgtZWATbTBLe"
+        },
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        },
+        {
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        },
+        {
+          "name": "Penchi",
+          "url": "https://open.spotify.com/artist/0yJPeAkv1s5RJLJuh2UnWt"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172029,
+      "name": "Tongparty (feat. GuyDo, Young Ellens, Kempi & Penchi)",
+      "url": "https://open.spotify.com/track/0hlBEsdThTS8oucxjr8sfO"
+    },
+    {
+      "album": {
         "name": "Blessed For Life",
         "url": "https://open.spotify.com/album/6HovnkV5kdKMmjLwfDglRg"
       },
@@ -16836,7 +16988,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 152990,
       "name": "Zoals Jij",
       "url": "https://open.spotify.com/track/3NjCVq7Mi6RsrG2yzY74Hl"

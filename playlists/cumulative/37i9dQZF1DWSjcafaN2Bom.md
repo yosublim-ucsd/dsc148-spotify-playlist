@@ -4,7 +4,7 @@
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-357 songs - 22 hr 11 min
+358 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Christian](https://open.spotify.com/track/4YycfOjf69dXYs4hy4Qeqr) | [China Crisis](https://open.spotify.com/artist/0WUphJOGHE5i95IeR87hsO) | [Singing The Praises Of Finer Things](https://open.spotify.com/album/79stlPh6R05UMR98gZ1Le1) | 4:53 | 2023-08-22 |  |
 | [Cleo](https://open.spotify.com/track/329bGHOHCK2HFuTkrVvJKQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:49 | 2023-09-21 |  |
 | [Close to Me](https://open.spotify.com/track/7vAMAehFLHCvb5juuQWIz4) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX) | 3:40 | 2023-09-21 |  |
-| [Colours](https://open.spotify.com/track/4Q6jlf64hZpS0fnrl1b10J) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Catch the Wind](https://open.spotify.com/album/54SKivSZGPzkNUcEaHANtV) | 2:45 | 2023-09-21 |  |
+| [Colours](https://open.spotify.com/track/4Q6jlf64hZpS0fnrl1b10J) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Catch the Wind](https://open.spotify.com/album/54SKivSZGPzkNUcEaHANtV) | 2:45 | 2023-09-21 | 2023-11-03 |
+| [Colours \(Single Version\)](https://open.spotify.com/track/5JP6wL89ZQf17N8FxVap9N) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y) | 2:45 | 2023-09-25 |  |
 | [Come Clean](https://open.spotify.com/track/2TZ1apxMDlubCGMsOxcTbT) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Metamorphosis](https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs) | 3:34 | 2021-10-26 |  |
 | [Cool Jerk](https://open.spotify.com/track/1CQHMHRCDs1qioeseVTbaR) | [The Capitols](https://open.spotify.com/artist/2AYmrUFn1ATSfFSx3B4tvb) | [Dance The Cool Jerk](https://open.spotify.com/album/4tunfFO1SffujlRfanDyZI) | 2:46 | 2023-08-22 |  |
 | [Cosmic Dancer \- 2003 Remaster](https://open.spotify.com/track/5N4vVbNotNwWGG8KcCdstR) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:30 | 2023-08-22 |  |

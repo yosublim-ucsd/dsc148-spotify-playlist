@@ -430,10 +430,28 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 167253,
       "name": "Tout le monde se presse",
       "url": "https://open.spotify.com/track/0GaawFROCUNGrRPovzxR0F"
+    },
+    {
+      "album": {
+        "name": "Le Soldat Rose",
+        "url": "https://open.spotify.com/album/7xQg02F6RsiXzdYYSfcXjq"
+      },
+      "artists": [
+        {
+          "name": "Sanseverino",
+          "url": "https://open.spotify.com/artist/1jKouRXGXSjxHAx2ayWolz"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167253,
+      "name": "Tout le monde se presse",
+      "url": "https://open.spotify.com/track/3Rq5aUgenRwBqIXJAIdLDn"
     },
     {
       "album": {

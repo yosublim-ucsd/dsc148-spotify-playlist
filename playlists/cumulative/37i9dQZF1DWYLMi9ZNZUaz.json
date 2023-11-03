@@ -76,7 +76,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 302000,
       "name": "A Veil of Mist",
       "url": "https://open.spotify.com/track/37PyxXH5vlbNcYwxOHbfFn"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 202624,
       "name": "Blue Tequila",
       "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 230263,
       "name": "Ch\u1ec9 l\u00e0 ng\u01b0\u1eddi quan s\u00e1t",
       "url": "https://open.spotify.com/track/6QG190ZbY2HLw3zgqA0Av4"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 281333,
       "name": "Hai l\u1ea7n m\u1ea5t em",
       "url": "https://open.spotify.com/track/3Crx5BdxpqzkMfBmNLyZ4v"
@@ -655,6 +655,50 @@
     },
     {
       "album": {
+        "name": "\u0110an Xinh In Love",
+        "url": "https://open.spotify.com/album/3e5xMNYYXwVCpLwxUJDud5"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "$A Milo",
+          "url": "https://open.spotify.com/artist/55YrB6LSt3ZShzAiBXTEcA"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "Lift (feat. $A Milo)",
+      "url": "https://open.spotify.com/track/048dxNqgKzQGMcyojw7zyp"
+    },
+    {
+      "album": {
+        "name": "Li\u1ec7u Gi\u1edd",
+        "url": "https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG"
+      },
+      "artists": [
+        {
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH"
+        },
+        {
+          "name": "V\u0103n",
+          "url": "https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258668,
+      "name": "Li\u1ec7u Gi\u1edd",
+      "url": "https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm"
+    },
+    {
+      "album": {
         "name": "L\u1ec7 L\u01b0u Ly",
         "url": "https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34"
       },
@@ -722,6 +766,32 @@
       "duration_ms": 217846,
       "name": "magick - feat. T\u00e1o",
       "url": "https://open.spotify.com/track/1RqTiIkl4dTitoanZYEx9u"
+    },
+    {
+      "album": {
+        "name": "\u0110an Xinh In Love",
+        "url": "https://open.spotify.com/album/3e5xMNYYXwVCpLwxUJDud5"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "Gonzo",
+          "url": "https://open.spotify.com/artist/3Ib80uqrBka6P4ncx6vJRF"
+        },
+        {
+          "name": "Nomovodka",
+          "url": "https://open.spotify.com/artist/79BbybQeUyNyFB8ghq4neb"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251034,
+      "name": "Men Cry (feat. Gonzo & Nomovodka)",
+      "url": "https://open.spotify.com/track/7Jz4a41gsJnaEH7FxgaEGR"
     },
     {
       "album": {
@@ -1050,7 +1120,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 185727,
       "name": "Th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/0sMc56aynx4DJwJtElVOSf"
@@ -1218,7 +1288,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 243750,
       "name": "XTC (X\u00edch Th\u00eam Ch\u00fat) (Remix)",
       "url": "https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB"
@@ -1276,7 +1346,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 157537,
       "name": "Zai Ph\u1ed1 (\u0110\u1ed1ng \u0110a)",
       "url": "https://open.spotify.com/track/43fvkrizvocHYASUbUXfVo"

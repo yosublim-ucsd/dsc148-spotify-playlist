@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,425 likes - 121 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,455 likes - 121 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 35 | [Sparks Fly \- Live/2011](https://open.spotify.com/track/1aBJNc2thaKyh5THWzIqHX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now World Tour Live](https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh) | 5:36 |
 | 36 | [Brand New Man \(with Luke Combs\) \- Live from CMT Crossroads](https://open.spotify.com/track/2u2TK3JmzoBXlMQJ1s7Skq) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Brooks & Dunn and Friends \- Live from CMT Crossroads](https://open.spotify.com/album/7kgTfRyCCwAIMFpGRktONm) | 4:14 |
 | 37 | [Life In A Northern Town \- Live](https://open.spotify.com/track/0TwCdMeFjEltHiNjtii8Jk) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD), [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Love On The Inside](https://open.spotify.com/album/4JcEVEfuqjJhPxmi1Ji3Fl) | 4:14 |
-| 38 | [Good Time To Me \(feat\. Lainey Wilson\) \- Live From Nashville's Big Bash](https://open.spotify.com/track/0aHmuFZ34nExkvbmjDv7ek) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Good Time To Me \(feat\. Lainey Wilson\) \[Live From Nashville's Big Bash\]](https://open.spotify.com/album/4nDvHGMIneRWxLaAhZX9Iv) | 3:02 |
+| 38 | [Good Time To Me \(feat\. Lainey Wilson\) \(Live From Nashville's Big Bash\)](https://open.spotify.com/track/4skqcqegMq41BXYpJp0C9Z) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Good Time To Me \(feat\. Lainey Wilson\) \[Live From Nashville's Big Bash\]](https://open.spotify.com/album/1vsE3mQE0OdmBv2VfMhjs1) | 3:02 |
 | 39 | [Wish for the World \- Live from Nashville](https://open.spotify.com/track/1DjHk2vOAppja7eA95orn0) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:39 |
 | 40 | [Woman, Amen \- Live](https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 4:52 |
 | 41 | [Baba O'Riley \- Live at Fenway Park, Boston, MA, 08.20.2016](https://open.spotify.com/track/4tjyZXvKsvKrAPxqQTbeSl) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Baba O'Riley \(Live at Fenway Park, Boston, MA, 08.20.2016\)](https://open.spotify.com/album/2X3TXhcSi7Op3v3Co7q8xY) | 7:51 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 120 | [Once In A Lifetime \- Live At The Arena At Gwinnett, GA/2008](https://open.spotify.com/track/384QzCWUyXbF4U2afrLYcT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 7:10 |
 | 121 | [Real Good Man \- Live From Spotify NYC](https://open.spotify.com/track/0MNezJUzb1fx2gqQ8cPeLT) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Spotify Sessions](https://open.spotify.com/album/3citk3NfGLpdph8cGMiKQz) | 3:51 |
 
-Snapshot ID: `MCxiNDA2ZDdhMTlmZjcwOWU0OGVjNjEyNTFmN2U4NDcxYTJhMmYxMTJi`
+Snapshot ID: `MCwzNzIyM2QxZGMyNzNkNzA4MDdmNWFjNDI3MjMzZmMzMjVmNmFkZjFi`

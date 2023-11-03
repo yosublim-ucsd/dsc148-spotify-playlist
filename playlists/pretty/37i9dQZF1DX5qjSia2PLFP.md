@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:   <a href="spotify:artist:4jwROPSUkTkohLCRiyjiZZ">DESTIN CONRAD</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,180 likes - 101 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,208 likes - 101 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 100 | [Don't Sit Right](https://open.spotify.com/track/1QfmAWoMdCxEKDINcoo39m) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Don't Sit Right](https://open.spotify.com/album/3jc2NUdhVwDlMIb8kfiTlG) | 3:21 |
 | 101 | [Glow On You](https://open.spotify.com/track/3P7OYztpK2xfSRKkGARXgg) | [Street Symphony](https://open.spotify.com/artist/3VqgsVyCuUFy3qEDvn0HXP), [Soda Supreme](https://open.spotify.com/artist/5rM4XqyUmGzH9h5MHqj2o4), [YOURSNDTRK](https://open.spotify.com/artist/3mK9cYGDMSXkuP8wcvYKYF) | [Glow On You](https://open.spotify.com/album/65Xi21sXH49fkVEs4a74z9) | 2:53 |
 
-Snapshot ID: `MCxmZmIzYjNkZGRmMjYxM2Y4OTVkZDJlODhkNmIyOGUxYThlMjdjYzc5`
+Snapshot ID: `MCxiNTg1ZmVlNGIyZWNmZTg0YmEwYjdkNWExMWJkNDJkOWY2YzQ1OTI4`

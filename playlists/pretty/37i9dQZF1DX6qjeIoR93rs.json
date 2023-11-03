@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 50977,
+  "num_followers": 51106,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWZiZGZkMjYxYWY0MzNhZjg3NTI2YjA0ZThmOGU5YTQ3MzY5MmJi",
+  "snapshot_id": "MCw5ZTE2MTdiOWQ2YTNjYzBkOWNlYWIxMDE1NThmNWQ0MzVjZGRhNmI0",
   "tracks": [
     {
       "added_at": "2023-10-19 21:43:44",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-10-19 21:43:44",
       "album": {
-        "name": "\u062f\u0628\u0631\u0647\u0627",
-        "url": "https://open.spotify.com/album/56RwJOvWAxa6afeJYoWBwx"
-      },
-      "artists": [
-        {
-          "name": "Walla'at",
-          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "\u062f\u0628\u0631\u0647\u0627",
-      "url": "https://open.spotify.com/track/1aFTIheXpBAbSf6ag1AfDl"
-    },
-    {
-      "added_at": "2023-10-19 21:43:44",
-      "album": {
         "name": "\u0628\u0637\u0644\u062a\u064a \u0627\u0644\u064a",
         "url": "https://open.spotify.com/album/2lMxE2fPExV9BSb4JEGsqZ"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 228813,
       "name": "\u0645\u064a\u062f\u0644\u064a \u0641\u0644\u0633\u0637\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/5hwLq1B81lk9vV1wpu7Orw"
+    },
+    {
+      "added_at": "2023-10-19 21:43:44",
+      "album": {
+        "name": "\u062f\u0628\u0631\u0647\u0627",
+        "url": "https://open.spotify.com/album/56RwJOvWAxa6afeJYoWBwx"
+      },
+      "artists": [
+        {
+          "name": "Walla'at",
+          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
+        }
+      ],
+      "duration_ms": 289320,
+      "name": "\u062f\u0628\u0631\u0647\u0627",
+      "url": "https://open.spotify.com/track/1aFTIheXpBAbSf6ag1AfDl"
     },
     {
       "added_at": "2023-10-19 21:43:44",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-19 21:43:44",
       "album": {
-        "name": "Killing The Game",
-        "url": "https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1"
-      },
-      "artists": [
-        {
-          "name": "MC Abdul",
-          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
-        }
-      ],
-      "duration_ms": 141055,
-      "name": "Killing The Game",
-      "url": "https://open.spotify.com/track/4ly0Ru87w8fphGaHiL4LIv"
-    },
-    {
-      "added_at": "2023-10-19 21:43:44",
-      "album": {
         "name": "The Come Up",
         "url": "https://open.spotify.com/album/4h5ZJZkVZX5u8D2aNwj4Kr"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 181968,
       "name": "Touchdown Palestine",
       "url": "https://open.spotify.com/track/1r9z2zRrmqjPMuPGRTINlN"
+    },
+    {
+      "added_at": "2023-10-19 21:43:44",
+      "album": {
+        "name": "Killing The Game",
+        "url": "https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "duration_ms": 141055,
+      "name": "Killing The Game",
+      "url": "https://open.spotify.com/track/4ly0Ru87w8fphGaHiL4LIv"
     },
     {
       "added_at": "2023-10-19 21:43:44",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-19 21:43:44",
       "album": {
-        "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
-        "url": "https://open.spotify.com/album/6vTqJnEkKVQCKDfegzJHFx"
-      },
-      "artists": [
-        {
-          "name": "Tamer Nafar",
-          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
-        }
-      ],
-      "duration_ms": 188814,
-      "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
-      "url": "https://open.spotify.com/track/72CB0MAagJAXpqS6bRVUxu"
-    },
-    {
-      "added_at": "2023-10-19 21:43:44",
-      "album": {
         "name": "Seasons of Violet - Lovesongs from Palestine",
         "url": "https://open.spotify.com/album/2EU211lSUnCFszTWpUvU2Y"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 306106,
       "name": "The Night Has Fallen Down",
       "url": "https://open.spotify.com/track/4K4QRaxWC7MBuzRzRgNj3U"
+    },
+    {
+      "added_at": "2023-10-19 21:43:44",
+      "album": {
+        "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
+        "url": "https://open.spotify.com/album/6vTqJnEkKVQCKDfegzJHFx"
+      },
+      "artists": [
+        {
+          "name": "Tamer Nafar",
+          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
+        }
+      ],
+      "duration_ms": 188814,
+      "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
+      "url": "https://open.spotify.com/track/72CB0MAagJAXpqS6bRVUxu"
     },
     {
       "added_at": "2023-10-19 21:43:44",

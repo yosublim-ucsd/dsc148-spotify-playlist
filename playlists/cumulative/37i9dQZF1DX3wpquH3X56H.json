@@ -1382,7 +1382,7 @@
     {
       "album": {
         "name": "The Next Billion Years (Foam and Sand Reworks)",
-        "url": "https://open.spotify.com/album/4KZmOzxvjx1pwCaLrdgvqm"
+        "url": "https://open.spotify.com/album/1TcDdmdTiRzaYsEfvqj4r2"
       },
       "artists": [
         {
@@ -1397,6 +1397,28 @@
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 290847,
+      "name": "Post String Theory (Foam and Sand Rework)",
+      "url": "https://open.spotify.com/track/6NfDQfVHBZu6UffLl1M6sv"
+    },
+    {
+      "album": {
+        "name": "The Next Billion Years (Foam and Sand Reworks)",
+        "url": "https://open.spotify.com/album/4KZmOzxvjx1pwCaLrdgvqm"
+      },
+      "artists": [
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
       "duration_ms": 290847,
       "name": "Post String Theory - Foam and Sand Rework",
       "url": "https://open.spotify.com/track/2UMYEU7Stut50T9S9fel4r"

@@ -4,7 +4,7 @@
 
 > Deep beats to study to.
 
-172 songs - 16 hr 34 min
+173 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Holding You](https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Stay](https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb) | 5:08 | 2023-06-09 |  |
 | [Home](https://open.spotify.com/track/01mTrac137TL0EgIktc4fo) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nobody Is Not Loved](https://open.spotify.com/album/2NarmNFabeJTZpjO4VL1eF) | 3:41 | 2022-03-22 |  |
 | [Hydra](https://open.spotify.com/track/7FfcZjLw8j8wJ3eBteDNiP) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Hydra](https://open.spotify.com/album/1zzNgVXcHUu1hw1iHEWtpn) | 7:31 | 2022-03-22 | 2022-07-29 |
-| [Ichika](https://open.spotify.com/track/1MRBa5AnDvmIoiT2NyyBoL) | [Jozef K](https://open.spotify.com/artist/30qZ701I6hThXcmPPkcrF0) | [Ichika](https://open.spotify.com/album/4lrJKMimi4yC5uGgUVNdgZ) | 8:05 | 2023-06-09 |  |
+| [Ichika](https://open.spotify.com/track/1MRBa5AnDvmIoiT2NyyBoL) | [Jozef K](https://open.spotify.com/artist/30qZ701I6hThXcmPPkcrF0) | [Ichika](https://open.spotify.com/album/4lrJKMimi4yC5uGgUVNdgZ) | 8:05 | 2023-06-09 | 2023-11-03 |
 | [Immortal](https://open.spotify.com/track/3Y7kUkLjiY70JafNJnC31R) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX), [Carlos Pérez](https://open.spotify.com/artist/6L9nhBLgFJjNsV6BJDhqRr) | [Thunderstorm EP](https://open.spotify.com/album/6R30YrcG8zrQwb5IpPsmWS) | 6:57 | 2022-03-22 | 2023-02-22 |
 | [Imperal](https://open.spotify.com/track/40xiWanqJVhIu4ZF3UMAdq) | [Technopeuten](https://open.spotify.com/artist/6wbH1j8fd9d0OqJWyBfAiY) | [Imperal](https://open.spotify.com/album/1rligguDD9DJxh9UluyQ4p) | 6:30 | 2022-03-22 | 2023-04-22 |
 | [Interloper](https://open.spotify.com/track/5dZu9qegz7rPiSWcMpygT6) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Interloper](https://open.spotify.com/album/5anF4io0pNKe7CowKWYfJk) | 6:26 | 2022-03-22 | 2022-07-28 |
@@ -166,6 +166,7 @@
 | [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity](https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN) | 7:23 | 2023-06-09 |  |
 | [Trivia](https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [The Two of Us](https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29) | 5:44 | 2022-07-15 | 2023-06-10 |
 | [Trivia](https://open.spotify.com/track/6bBOqKo9sNWLYo3Npi2Rgx) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [The Two of Us](https://open.spotify.com/album/5vVxRQ41pVMgMHIMUm80vh) | 5:44 | 2022-03-22 | 2022-07-29 |
+| [Truman Sleeps](https://open.spotify.com/track/3gNbDI069mCAClIz13MBgI) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Retrograde](https://open.spotify.com/album/0tllI5pQGWDzlIBGvmUnlm) | 1:32 | 2023-06-09 |  |
 | [unbank](https://open.spotify.com/track/190GSTVWclTF80ksnXoxfy) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [scintilli](https://open.spotify.com/album/6u0491tdcL0GcQpNDWDiX5) | 3:55 | 2022-03-22 | 2022-04-21 |
 | [Vanilla](https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Vanilla](https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj) | 6:47 | 2022-03-22 | 2023-06-10 |
 | [Vasudeva](https://open.spotify.com/track/32V1RHcDM6UHQ864VCLIfK) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Vasudeva](https://open.spotify.com/album/0ZEDJKw8dd2q1IKjZCwIye) | 6:16 | 2022-03-22 | 2022-07-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:4GUR4UKtbNQiAV2h5qV2df">Kamil Kempiński</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,702 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,705 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 79 | [Duel 35 Chamber Orchestra](https://open.spotify.com/track/3CMYL3nRaIIPN7kInmRZy5) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [Patryk Piłasiewicz](https://open.spotify.com/artist/2j4TBbXIHH6qGqx9G7bYJO), [Chamber Orchestra](https://open.spotify.com/artist/1aMgsRyMOjklxOf80Ley9F), [Jan Cieszyński](https://open.spotify.com/artist/56SBcXfudvYb4rTdsXZKAo), [Agata Doszczak](https://open.spotify.com/artist/6rEMWX1OnDhseavIt6HuvC), [Dominik Drewniak](https://open.spotify.com/artist/59oImb1kKYMwjjexZxsFeJ), [Katarzyna Hejnowicz](https://open.spotify.com/artist/1txje25nHpf9q0hLb0PCyj), [Filip Mikulski](https://open.spotify.com/artist/0jcYHj9RFoNwx3in1eCeA5), [Kosma Müller](https://open.spotify.com/artist/6pNH9U1BwU274C8fJCFsZN), [Julia Polowczyk](https://open.spotify.com/artist/71MPlsVNg2hSRaNaKasfkT), [Beata Prus](https://open.spotify.com/artist/5xjLU3UmwaigK4LeWeKzRI), [Barbara Słomian](https://open.spotify.com/artist/77URrQS0BIpNIcZO2Sgb81), [Weronika Stabrawa](https://open.spotify.com/artist/7ekzgARFTMaUc7RKHKphFP), [Anna Zaryczna](https://open.spotify.com/artist/7K1crcEXeirFg8HE7ab341), [Jakub Zoń](https://open.spotify.com/artist/36yxLwof16SmVab7auYzrx), [Weronika Bagniewska](https://open.spotify.com/artist/6JfrZAtC5qgiX9DgYRYtb9) | [DUEL 35 Chamber Orchestra](https://open.spotify.com/album/2BH8azU0tqyYsxhTLt1sPd) | 7:11 |
 | 80 | [Parlez Vous Francais](https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [Parlez Vous Francais](https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA) | 3:22 |
 
-Snapshot ID: `MCw5M2E1NzE3ZjU4YjliNjlkN2Q4NzU4MjA3ZThkNjAzMDljYWZjZTk4`
+Snapshot ID: `MCw2NzhlNzM4MTUxNjQ2MDVmNDhmYTQwYjUxYThjZjMwMThhOTljZGFl`

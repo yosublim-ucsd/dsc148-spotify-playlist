@@ -1121,6 +1121,32 @@
     },
     {
       "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/3c8QZL2igzmAcM8IfupjTC"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "IVOXYGEN",
+          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
+        },
+        {
+          "name": "zaichkou888",
+          "url": "https://open.spotify.com/artist/7yzEddrxGDljtj9TmeCfte"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144138,
+      "name": "ASTRO",
+      "url": "https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh"
+    },
+    {
+      "album": {
         "name": "Astronaut In The Ocean (International Remixes)",
         "url": "https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw"
       },
@@ -1364,7 +1390,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 104013,
       "name": "BAIXO",
       "url": "https://open.spotify.com/track/0rb7HcBkdMPp04ybHBfX41"
@@ -1824,7 +1850,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 173461,
       "name": "BRITNEY",
       "url": "https://open.spotify.com/track/0FKFSFEZTxZSgBPz1y9sCI"
@@ -18584,7 +18610,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 110322,
       "name": "\u041c\u0435\u0447\u0442\u044b",
       "url": "https://open.spotify.com/track/48Mtf0Vuc3H7yI56Iz1OhU"

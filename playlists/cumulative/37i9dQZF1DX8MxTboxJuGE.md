@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Edu Falaschi
 
-84 songs - 6 hr 17 min
+85 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [The Gang's All Here](https://open.spotify.com/track/4fvyexikP6xn7wHdsg1sGc) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 3:38 | 2023-07-14 |  |
 | [The Hour of the Wolf](https://open.spotify.com/track/67vVGpe4YboSOFxQf5EA2q) | [Midnight Guest](https://open.spotify.com/artist/6RRkpb9ozPwOjXpsolUqGx) | [The Hour of the Wolf](https://open.spotify.com/album/0TqcCofh2UkHlrhHISeJn4) | 3:54 | 2023-07-14 | 2023-08-12 |
 | [The Other Side of Anger](https://open.spotify.com/track/3FVHPQg9dllT74BWHQoClE) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [Shades of Sorrow](https://open.spotify.com/album/0wT5vnIDu5sHz3zlIfvtQc) | 4:23 | 2023-08-11 |  |
-| [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/0owvkjZL6aB48Uir4tUVQq) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [4 \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ) | 3:42 | 2023-07-14 |  |
+| [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/0owvkjZL6aB48Uir4tUVQq) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [4 \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ) | 3:42 | 2023-07-14 | 2023-11-03 |
+| [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/3LqWKbOdMK4jB3NPcMIvJt) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [4 \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/078ZH1xDl03nocG21ouCgV) | 3:42 | 2023-10-13 |  |
 | [The Rover](https://open.spotify.com/track/3jUFOx8ZRQUuXHfiVeTscu) | [Vandroya](https://open.spotify.com/artist/0ksiPgsqQQqpNLyS8qGx8N) | [The Rover](https://open.spotify.com/album/5lwYrm10PIrGfuIOoJRuyh) | 5:43 | 2023-07-14 |  |
 | [The Spreading Soul Forever](https://open.spotify.com/track/5ktvPDSpNjOr05wT7mUz8G) | [Viper](https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7), [Andre Matos](https://open.spotify.com/artist/4FhjNTlKUnMbaeS21fouvd) | [The Spreading Soul Forever](https://open.spotify.com/album/7KQR3SIUAir2OkvPq8upOa) | 4:57 | 2023-07-14 |  |
 | [The Trooper \- Live at Estadio Jorge Magico Gonzalez, San Salvador, El Salvador \- 6th March 2016](https://open.spotify.com/track/0CfsFGFh9omOH8qNkxwjUc) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls: The Live Chapter](https://open.spotify.com/album/0h63qX1zO0DAJLacVY3I7x) | 4:05 | 2023-07-14 |  |

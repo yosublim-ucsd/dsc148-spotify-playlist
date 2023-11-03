@@ -994,7 +994,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 330000,
       "name": "Fi Hawmtk Tayh",
       "url": "https://open.spotify.com/track/58qcHWC6FE7hUw1MXW9Qlw"
@@ -1654,6 +1654,24 @@
       "duration_ms": 262368,
       "name": "La Faute Machi Fik",
       "url": "https://open.spotify.com/track/0ojwGiICDOIGEU9BJEpRFW"
+    },
+    {
+      "album": {
+        "name": "La Nti Mrida",
+        "url": "https://open.spotify.com/album/11HL5lFB24mx4ORbibsFXj"
+      },
+      "artists": [
+        {
+          "name": "Faycel chol\u00e9",
+          "url": "https://open.spotify.com/artist/55b0Nu2e9Qoq0rMl6A51As"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501816,
+      "name": "La Nti Mrida",
+      "url": "https://open.spotify.com/track/0uDM6l1BBitqbTVTkidtKz"
     },
     {
       "album": {

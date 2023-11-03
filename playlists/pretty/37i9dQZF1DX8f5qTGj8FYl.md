@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,691 likes - 150 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,755 likes - 150 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 113 | [Curse of the Haggis](https://open.spotify.com/track/4OYjYFuyf71Sy7XCI0feR2) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [One of These Days](https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8) | 5:56 |
 | 114 | [Strawberry Mansion](https://open.spotify.com/track/3y5oXd6uDIHl1mb72EYwTg) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:19 |
 | 115 | [Do Yourself a Favor](https://open.spotify.com/track/1efJcsv7o0rXQbZJBB0B9a) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Daniel Casares](https://open.spotify.com/artist/3LRzrB7J8bLTpTP7Ukf4DD), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Max Daniel](https://open.spotify.com/artist/7xlVDT2vGpYHyEZb08jHLl) | [Do Yourself a Favor](https://open.spotify.com/album/6L427YlOf3HbZ2KkhblvhS) | 2:54 |
-| 116 | [Watchu Want](https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Watchu Want](https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh) | 2:40 |
+| 116 | [Watchu Want](https://open.spotify.com/track/3OO8V09XFmwKTLIi6kr6mp) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Floki Sessions](https://open.spotify.com/artist/601FZXyKDoyE6gWYNNWOWj), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [The Deplar Effect](https://open.spotify.com/album/0X6LMZFfnQ2uU8mi0LHN6A) | 2:40 |
 | 117 | [Don’t Mind](https://open.spotify.com/track/0zu754002s0GvX6DkgF7O9) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Sho Is Funky Down Here](https://open.spotify.com/album/0U4H8i5foFCpjuxSMi6HJc) | 3:31 |
 | 118 | [The Birdwatcher](https://open.spotify.com/track/2sqZfX3pEda59tqZNPJMaS) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:47 |
 | 119 | [Broasted Or Fried](https://open.spotify.com/track/0OdjZKTMbT5MyP1xrwAsHI) | [Funkallisto](https://open.spotify.com/artist/596zIbd1W04tLPLkFT3q41) | [Live A Ponte Sisto](https://open.spotify.com/album/6f3eNyHGDyc94yn5wStBYV) | 5:43 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 149 | [Look\-A Py Py](https://open.spotify.com/track/18Z1Tro6FApXmBeP4EICsn) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Undercover Mixtape](https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY) | 2:33 |
 | 150 | [Goliath](https://open.spotify.com/track/3xGsGKZtO9igxUGjC6SFcv) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Into The Infrasounds](https://open.spotify.com/album/73HHKGxaTm3f0GognR7hBv) | 5:03 |
 
-Snapshot ID: `MCxmODJjNmIyYjU3NTk2YjhmNTRiMDZiNjU1MTc3ZTJkOTdhMjU4ODc0`
+Snapshot ID: `MCw4ZWYyOTcyMzQ2ODhiNWQyNmEwYzRiODVkNDc1NjdmN2RkNTI2YmQ3`

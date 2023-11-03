@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Myele Manzanza
 
-1,144 songs - 3 day 20 hr 11 min
+1,145 songs - 3 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,8 @@
 | [Gifted](https://open.spotify.com/track/1RYsyvFPZuEsAQ3a2u4z9D) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC), [Luis Sigüenza](https://open.spotify.com/artist/3xDs547f3Xg4cNGt1eT1ql), [The Woodsiders Collective](https://open.spotify.com/artist/3GWsbX6rA41kjhrhCP0Wqx), [Justus Heher](https://open.spotify.com/artist/0yMJoO3Z1jIxZdk6nZd0P8), [Andrew McGowan](https://open.spotify.com/artist/0pf9I7PKAv7OZzNYcF300Y), [Leonardo Catricala](https://open.spotify.com/artist/0uiuA9l78oEUdbda2Debls), [Ilya Dynov](https://open.spotify.com/artist/5kyy6jzDQlqyCmSHCEO3gj) | [Gifted](https://open.spotify.com/album/2Ktn41AqdeTJdZCYSXeBy7) | 4:52 | 2022-06-17 | 2022-09-03 |
 | [Giorgio knows](https://open.spotify.com/track/4c5KThPFzOVrxQuRrLj79s) | [the intern](https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2), [BNMO](https://open.spotify.com/artist/0K93FFKHhvSVG654YlexpR) | [Giorgio knows](https://open.spotify.com/album/5J8z4j1nlYXNgvbtjdwGrA) | 2:13 | 2022-04-15 | 2022-06-25 |
 | [Give Me A Reason](https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Give Me A Reason](https://open.spotify.com/album/78pQHAt8HWRK8WVAUdmR2h) | 4:13 | 2023-09-22 |  |
-| [Glad I Found You](https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw) | 2:15 | 2023-10-20 |  |
+| [Glad I Found You](https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw) | 2:15 | 2023-10-20 | 2023-11-03 |
+| [Glad I Found You](https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 2:15 | 2023-10-20 |  |
 | [Glass Moon](https://open.spotify.com/track/1MUGRzYFUpQ5vclnDzjAKs) | [Leland Whitty](https://open.spotify.com/artist/2QobOeybSvyibNUGIobnlP) | [Glass Moon](https://open.spotify.com/album/2e63mVSLrs5l94f0TVURTz) | 3:49 | 2022-11-18 | 2023-02-18 |
 | [Glimmerings](https://open.spotify.com/track/5m0UzW27BFvU7DT9pzyr7v) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Glimmerings](https://open.spotify.com/album/6BpAQHz5Bzx5mPNZAThv5m) | 4:01 | 2023-01-20 | 2023-02-11 |
 | [Go! Sokudo\-kun \(Inst.Ver.\)](https://open.spotify.com/track/7doRvmkjNk51JQS9whzJ2K) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Kazemachizuki](https://open.spotify.com/album/0QZ2QvJqINt39NE5Kt7Zbx) | 2:23 | 2022-05-27 | 2022-06-04 |

@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 194746,
+  "num_followers": 195124,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDMyMzUwOWZkOTcyYjhlOTNjODYyOGYwMzI2ZGQyZmFmNDdhMDZk",
+  "snapshot_id": "MCwxZjQ3MzJlZDVjOTEwMzBjNzMzZTlhNDFlNmU0MzkzYjk1ODNlZDY2",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Computer Afterlife",
-        "url": "https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 86428,
-      "name": "Implanted Memories",
-      "url": "https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "nastasia",
         "url": "https://open.spotify.com/album/6J1jrUGceVNx72VzemcGe0"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 72289,
       "name": "nastasia",
       "url": "https://open.spotify.com/track/5gXpckUFPU8cG04Nl7WzJ9"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Computer Afterlife",
+        "url": "https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 86428,
+      "name": "Implanted Memories",
+      "url": "https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": ")\u2727\u20db*",
-        "url": "https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz"
-      },
-      "artists": [
-        {
-          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
-          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "\u01aa. \u25d6\u01aa\u274d\u227b\u0338\u25de.|\u25d7\u0449 (*\u110b\u25b3+\u204e\u275d\u1dc0\u0ebb\u0f7d*\u0cc3:(\ua4a1\u0361 \u275d\u1dc0\u0ebb\u0f7d \ua27a \u0308.\u00b7*:\u30fb\u2727\u20db(\u0f7d\u0e51",
-      "url": "https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Aether",
         "url": "https://open.spotify.com/album/2FeYIfCmI3kGAJt1SAdTpV"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 89640,
       "name": "The descent",
       "url": "https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": ")\u2727\u20db*",
+        "url": "https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "\u01aa. \u25d6\u01aa\u274d\u227b\u0338\u25de.|\u25d7\u0449 (*\u110b\u25b3+\u204e\u275d\u1dc0\u0ebb\u0f7d*\u0cc3:(\ua4a1\u0361 \u275d\u1dc0\u0ebb\u0f7d \ua27a \u0308.\u00b7*:\u30fb\u2727\u20db(\u0f7d\u0e51",
+      "url": "https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
+        "name": "804",
+        "url": "https://open.spotify.com/album/6ZzVFa0F3KuUHVqf8bse0h"
+      },
+      "artists": [
+        {
+          "name": "Mayo.",
+          "url": "https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX"
+        }
+      ],
+      "duration_ms": 89236,
+      "name": "804",
+      "url": "https://open.spotify.com/track/6jLaIaYXWkneF8qp99t3z4"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
         "name": "Somoku Hodo",
         "url": "https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Laptop !!",
-        "url": "https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx"
-      },
-      "artists": [
-        {
-          "name": "dreamcache",
-          "url": "https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN"
-        }
-      ],
-      "duration_ms": 111900,
-      "name": "Laptop !!",
-      "url": "https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Rose Gold (Deluxe)",
         "url": "https://open.spotify.com/album/06IUvNGmc633oFRZpdKXCr"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 180960,
       "name": "Counting All The Starfish",
       "url": "https://open.spotify.com/track/1jpeaMkkBI62OYH0z5nAhb"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Laptop !!",
+        "url": "https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx"
+      },
+      "artists": [
+        {
+          "name": "dreamcache",
+          "url": "https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN"
+        }
+      ],
+      "duration_ms": 111900,
+      "name": "Laptop !!",
+      "url": "https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -719,22 +735,6 @@
       "duration_ms": 96883,
       "name": "Eternal.Temp",
       "url": "https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
-        "name": "804",
-        "url": "https://open.spotify.com/album/6ZzVFa0F3KuUHVqf8bse0h"
-      },
-      "artists": [
-        {
-          "name": "Mayo.",
-          "url": "https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX"
-        }
-      ],
-      "duration_ms": 89236,
-      "name": "804",
-      "url": "https://open.spotify.com/track/6jLaIaYXWkneF8qp99t3z4"
     },
     {
       "added_at": "2023-07-18 20:06:10",

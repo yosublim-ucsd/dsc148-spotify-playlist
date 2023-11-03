@@ -4,7 +4,7 @@
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-185 songs - 11 hr 47 min
+186 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [Catch the Wind](https://open.spotify.com/track/4RsvHWZpSoCHRwS0SFpECF) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [1965](https://open.spotify.com/album/5Xix2kY4ojYBOotAx3QuiY) | 2:53 | 2022-03-11 | 2022-11-13 |
 | [Catch the Wind](https://open.spotify.com/track/6aXKbU2QGsOms8UT3eUOg1) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/3lpCSdIUmTWkb3BrAxDZSR) | 2:53 | 2022-03-11 |  |
 | [Catch the Wind](https://open.spotify.com/track/3uJhF1XGOJ27hweKEeBOtk) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Catch the Wind](https://open.spotify.com/album/006j4f1nSU6G9mqolViKSd) | 2:55 | 2021-08-18 | 2022-07-29 |
+| [Catch the Wind \(Single Version with Strings\)](https://open.spotify.com/track/1mv2q2PziMZusZoF2N7BSP) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y) | 2:15 | 2023-08-09 |  |
 | [Catch The Wind \- Original Single Version With Strings](https://open.spotify.com/track/4GAizlU5mkaYNjNgy23bjs) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [The Essential Donovan](https://open.spotify.com/album/26orZ1DZ1S7StZbpkv9SZ7) | 2:16 | 2021-08-18 | 2022-07-29 |
-| [Catch the Wind \- Single Version with Strings](https://open.spotify.com/track/62hD86PZld8yndmECtFlGO) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/3lpCSdIUmTWkb3BrAxDZSR) | 2:15 | 2022-03-11 |  |
+| [Catch the Wind \- Single Version with Strings](https://open.spotify.com/track/62hD86PZld8yndmECtFlGO) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/3lpCSdIUmTWkb3BrAxDZSR) | 2:15 | 2022-03-11 | 2023-11-03 |
 | [Cause](https://open.spotify.com/track/1Qyt1vzKvsNlZhMepIxpbo) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 5:30 | 2023-08-09 |  |
 | [Chilly Winds \- Live](https://open.spotify.com/track/17vXaFnZxB8GD9IWiqjXYE) | [The Kingston Trio](https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ) | [The Capitol Years](https://open.spotify.com/album/7JLbOcsGsFxEsWV65vGcA8) | 2:38 | 2021-08-18 |  |
 | [City of New Orleans](https://open.spotify.com/track/6sQv6XMvSp0PB0cuuS6Dfz) | [Steve Goodman](https://open.spotify.com/artist/0n5eyZr2XjOLUODPGZrlLB) | [Steve Goodman](https://open.spotify.com/album/61MUZCoQITIcWwghwrgYHM) | 3:50 | 2021-08-18 |  |

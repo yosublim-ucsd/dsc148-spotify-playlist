@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WrIYCmOR5W.md) - [plain]
 
 > Des chansons qui vous feront rire, vous et vos enfants
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,201 likes - 26 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,202 likes - 26 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WrIYCmOR5W.md) - [plain]
 | 21 | [J'fais pipi sur le gazon](https://open.spotify.com/track/6ocupudex5NL03MUX1vjxZ) | [Chanteurs Pour Enfants](https://open.spotify.com/artist/5gDybhUIXySMdGz4YOhYRY) | [Mes Plus Belles Chanson D'Enfant 2](https://open.spotify.com/album/5VBI8P7zYkPWzgBAfde6rw) | 0:51 |
 | 22 | [La chanson des pipiolits](https://open.spotify.com/track/0DQaCS1RzN4dgsDzuEd27a) | [SamSam](https://open.spotify.com/artist/2ete2rPrIXjihL1NIzkq42) | [Samsam la musique ! \(Le plus petit des grand héros\)](https://open.spotify.com/album/3Vrsmi7S7AJxLxQdxg84Ii) | 2:27 |
 | 23 | [Le zizi](https://open.spotify.com/track/66yRVzcBc0revPtKR2jfMj) | [Pierre Perret](https://open.spotify.com/artist/3IZrUS6JZOX0mULDy0QPra) | [L'âge de pierre](https://open.spotify.com/album/7wnjaC11wm2UDP3H17A8Qp) | 3:56 |
-| 24 | [Cho ka ka o](https://open.spotify.com/track/1LBV869yOrnIB1IGMOXptG) | [Annie Cordy](https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot) | [Les indispensables](https://open.spotify.com/album/3elYVEC4r8jn73Ekqk26mm) | 3:02 |
+| 24 | [Cho ka ka o](https://open.spotify.com/track/1RFaaBBHa67DqN4z6JvyJW) | [Annie Cordy](https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot) | [Inoubliable](https://open.spotify.com/album/2fU7jjJBncwQhSIwlnYLSm) | 3:02 |
 | 25 | [La musclada](https://open.spotify.com/track/23FOEBE5EOSEpBKngOwPOz) | [Les Musclés](https://open.spotify.com/artist/6QppA1SWIWR2jBhBTGp19j) | [L'essentiel](https://open.spotify.com/album/6yOucBhSn24JNDPWdLDtRY) | 4:37 |
 | 26 | [Papayou](https://open.spotify.com/track/7iCol2HISkTo8kv8WC3Ydr) | [Carlos](https://open.spotify.com/artist/5BxSkqB9akjCvWjFig3HdU) | [Cristal collection](https://open.spotify.com/album/4VStD0LHwgI6ok4kmoKVZY) | 3:02 |
 
-Snapshot ID: `MCxjMjc4YWY5NWE5ZjdiYzI3NzNhYzQ1OGU2Yjk5YjIyOGM5YTNiODlj`
+Snapshot ID: `MCxhZTcwZTk2ZDhmODlhZjY5MGIwMzFlODI4ZTc5NGI5YzRjMzdlODJj`

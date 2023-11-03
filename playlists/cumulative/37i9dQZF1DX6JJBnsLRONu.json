@@ -1678,10 +1678,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 117813,
       "name": "What Must Be Done",
       "url": "https://open.spotify.com/track/3buV0hT4g8GOIa8l2OJIJN"
+    },
+    {
+      "album": {
+        "name": "The Assassination of Jesse James By the Coward Robert Ford",
+        "url": "https://open.spotify.com/album/5tHgLycauca1M9DF9YqsbJ"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & Warren Ellis",
+          "url": "https://open.spotify.com/artist/5cQYq4eJmOwUGCAjhajFg7"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117813,
+      "name": "What Must Be Done",
+      "url": "https://open.spotify.com/track/5AKymjcoEsBxrlJqH1nu4I"
     },
     {
       "album": {

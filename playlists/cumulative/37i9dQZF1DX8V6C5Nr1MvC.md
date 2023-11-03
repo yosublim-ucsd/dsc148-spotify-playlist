@@ -4,7 +4,7 @@
 
 > Rock that's served neat and goes down smooth.
 
-128 songs - 9 hr 9 min
+129 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 | 2020-09-15 |  |
 | [Loveless](https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:49 | 2020-09-15 |  |
 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 | 2020-09-15 |  |
-| [Mad Love](https://open.spotify.com/track/1LOBwUn6883QQRVLbNJ1Sx) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Black and White Rainbows \(Deluxe Edition\)](https://open.spotify.com/album/6vTCF4XPp3BCSmV3KDbitv) | 3:58 | 2020-09-15 |  |
+| [Mad Love](https://open.spotify.com/track/1LOBwUn6883QQRVLbNJ1Sx) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Black and White Rainbows \(Deluxe Edition\)](https://open.spotify.com/album/6vTCF4XPp3BCSmV3KDbitv) | 3:58 | 2020-09-15 | 2023-11-03 |
+| [Mad Love \(2017 \- Remaster\)](https://open.spotify.com/track/4vRPuoEiF6BMfIAfEWapcM) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [BLACK AND WHITE RAINBOWS \(Remastered with Bonus Tracks\)](https://open.spotify.com/album/6vkAuCaTnB65uX7yjfSaGP) | 3:58 | 2023-10-13 |  |
 | [Madness](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:41 | 2020-09-15 |  |
 | [Moaning Lisa Smile](https://open.spotify.com/track/7gChGUkqWkinDS7uYoMLIM) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 2:42 | 2020-09-15 |  |
 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 | 2022-05-24 |  |

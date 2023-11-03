@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-05",
-  "description": "boy you know i'm magic on the mic houdini \ud83e\ude84",
+  "description": "\"life is not a waste of time, and time is not a waste of life. so let's stop wasting time, get wasted and have the time of our lives\" - Mr Worldwide",
   "name": "pov (2)",
   "tracks": [
     {
@@ -2027,7 +2027,7 @@
         },
         {
           "name": "Trigga",
-          "url": "https://open.spotify.com/artist/117Ngy9A9prluWeHKheHwz"
+          "url": "https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb"
         },
         {
           "name": "Takura",
@@ -4972,6 +4972,24 @@
     {
       "album": {
         "name": "Side Effects EP",
+        "url": "https://open.spotify.com/album/4AARGSDwdwxsWj0M1hiMU9"
+      },
+      "artists": [
+        {
+          "name": "Chris Travis",
+          "url": "https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206124,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1lAUOryDWVSCKSUdB3yvpM"
+    },
+    {
+      "album": {
+        "name": "Side Effects EP",
         "url": "https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx"
       },
       "artists": [
@@ -4982,7 +5000,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 206124,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk"
@@ -6690,6 +6708,28 @@
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
+    },
+    {
+      "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "John Ryan",
+          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236200,
+      "name": "Fireball (feat. John Ryan)",
+      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
     },
     {
       "album": {

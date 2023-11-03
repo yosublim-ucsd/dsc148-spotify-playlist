@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY?si=FwdivXrBQw6pLoy3l3WtHQ"> Kwesi Arthur </a>
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6?si=E0dIznQwRSuQRzQwCowtIQ"> Efya</a>
 
-251 songs - 13 hr 18 min
+253 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2 Shots](https://open.spotify.com/track/7D5teOLgUBiDS4LrKIVNGe) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [2 Shots](https://open.spotify.com/album/3swkn0bH9u7TWbO9Jfe0YD) | 2:43 | 2022-11-04 |  |
 | [4LYFE](https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [4LYFE](https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m) | 2:47 | 2023-10-27 |  |
 | [A B C D](https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [PHOTO ALBUM](https://open.spotify.com/album/6zPEkNndmfR4MGU1N8kyVH) | 2:52 | 2023-03-17 | 2023-05-05 |
+| [Abena](https://open.spotify.com/track/416lJBohBXn07iQe3lf0JI) | [Yaw Dyro](https://open.spotify.com/artist/0KCWVye8eFEyOu2fpwfMHr), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Abena](https://open.spotify.com/album/5KZGcpVTuXFTzedSE0gCe4) | 2:41 | 2023-11-03 |  |
 | [Abofra](https://open.spotify.com/track/77gnkds6DeIlK8wZ96tyUY) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Abofra](https://open.spotify.com/album/0t7PPoLJESwhAoG48GfrXc) | 2:46 | 2023-04-27 | 2023-05-13 |
 | [Adidede](https://open.spotify.com/track/3Sm296EhmvG9AjlkUCWXdw) | [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Adidede](https://open.spotify.com/album/6ZK7DECfuQLrw7VryCxQJU) | 2:35 | 2022-11-04 | 2023-02-04 |
 | [Adoley](https://open.spotify.com/track/2IxaCE3hoNMs8k5wtCOK22) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [G.D.S](https://open.spotify.com/artist/1JJxXFiM6xyoaJecfqdgfx) | [A Lifetime Is Not Enough](https://open.spotify.com/album/5bfIeYx2TDqPNxjSQrQqrH) | 2:17 | 2023-01-20 |  |
@@ -23,7 +24,7 @@
 | [All of a Sudden](https://open.spotify.com/track/6gexVsMvwjIr5NQPDrmrkp) | [Abochi](https://open.spotify.com/artist/1yCRHs6DWub2XayDl4GEEw) | [All of a Sudden](https://open.spotify.com/album/694ZgcasfENDbZ8pq9fNGp) | 3:13 | 2022-11-18 | 2022-12-02 |
 | [Aluta](https://open.spotify.com/track/42zyObr3pHrqizANcRdSQK) | [OV](https://open.spotify.com/artist/6m4OztP0eEgXadXD9biIN0) | [Aluta](https://open.spotify.com/album/5AGGhnDzlCCPjq74uDfZ4t) | 3:04 | 2023-09-14 | 2023-10-13 |
 | [Amina](https://open.spotify.com/track/4ZSjfHkPNAB1ywr4yW72fS) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Amina](https://open.spotify.com/album/654HPFGo9jVTd8biJ66QWX) | 2:57 | 2023-08-10 |  |
-| [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 | 2022-12-02 |  |
+| [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 | 2022-12-02 | 2023-11-03 |
 | [Anigye On A Daily](https://open.spotify.com/track/1R8hIgoz8CTH9DpVA9Y6vZ) | [Gyidi](https://open.spotify.com/artist/3jY1C6F2eSZe6Sgo82Oeq6) | [In The Meantime](https://open.spotify.com/album/5iCBOhowLprsqqSBnLTQI4) | 2:54 | 2023-02-23 | 2023-03-03 |
 | [ARIBA](https://open.spotify.com/track/6JP5zXwPYK7Bd3gOv3d4NH) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [ARIBA](https://open.spotify.com/album/7pSHIub0eGuShEh9SsZAJO) | 3:46 | 2022-11-04 | 2023-01-28 |
 | [Ashawo](https://open.spotify.com/track/25VXqB7xRiulkQAvL819Yb) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Ashawo](https://open.spotify.com/album/56jazw4lgbAn1rEyperIPa) | 3:01 | 2023-05-19 |  |
@@ -72,7 +73,7 @@
 | [Dollar On You](https://open.spotify.com/track/6ftfTiJhWNZskedEv5ZYM0) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Dollar On You](https://open.spotify.com/album/2eZBiiR0ojio53AhwS3JPF) | 3:09 | 2022-11-04 |  |
 | [Don't Shout](https://open.spotify.com/track/7F9SLE2RyEJzT8fo0wOvXO) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Don't Shout](https://open.spotify.com/album/63VnNwKfyWmgoaOTTc5LX3) | 3:25 | 2022-11-04 | 2023-02-24 |
 | [Donow](https://open.spotify.com/track/1OXaXiUjsIigLkTpqSGz8G) | [Article Wan](https://open.spotify.com/artist/3Bw3Syt7xdB3gQc4IoFaLn), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Donow](https://open.spotify.com/album/5SvcnC7O2oHbzIdBj76aGu) | 3:20 | 2023-06-16 | 2023-07-29 |
-| [Down Flat](https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Down Flat](https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV) | 2:52 | 2022-11-04 |  |
+| [Down Flat](https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Down Flat](https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV) | 2:52 | 2022-11-04 | 2023-11-03 |
 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 | 2022-11-04 |  |
 | [Emotional Murder](https://open.spotify.com/track/1EunCW3ycj946sZueUp3kJ) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Emotional Murder](https://open.spotify.com/album/4zRxl4V3huspgnD5GEiGnK) | 2:10 | 2023-07-20 | 2023-08-04 |
 | [Enjoyment](https://open.spotify.com/track/4MUkX48LZSR2nLGSqLxRcd) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/40wEiQXiTnm0tqFlDZbdI9) | 3:31 | 2022-11-25 | 2022-12-09 |
@@ -155,6 +156,7 @@
 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 | 2022-11-04 |  |
 | [No Fugazy](https://open.spotify.com/track/5CtmMSLSf9Y6JCc9RJLxSa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Fugazy](https://open.spotify.com/album/25mKwZuJQ0eD1Rl9BJ1WME) | 2:58 | 2022-11-04 | 2023-05-13 |
 | [No Money](https://open.spotify.com/track/2wS10dgPSZ3EmQdYCbwSsy) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [OmoAkin](https://open.spotify.com/artist/1JNn0khn6hvlOZacF7VVUh) | [Global Party](https://open.spotify.com/album/1NJRIStQQb5jBuoQVdcJ6y) | 2:57 | 2023-03-24 | 2023-03-31 |
+| [No More](https://open.spotify.com/track/7eClgSPyjnbANZYbogtZNE) | [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [No More Tears](https://open.spotify.com/album/6A62r1F4Sn29IBUI9zHjM7) | 2:40 | 2023-11-03 |  |
 | [Nobody](https://open.spotify.com/track/0wNnw5wgzLUBo8unHciXpD) | [Deri](https://open.spotify.com/artist/4cjiX7KQiC1QrmjD0kJWKR), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Without A Map](https://open.spotify.com/album/16kGxp8kthCYyV5PbnYHe1) | 2:50 | 2023-09-14 | 2023-10-13 |
 | [Nobody](https://open.spotify.com/track/70FKWQNSTDcmcXNQYemy0P) | [Kurl Songx](https://open.spotify.com/artist/0VukMQoTyIAqKl0qUEw9Cv) | [Nobody](https://open.spotify.com/album/0ykFfjy3oJJpaJXGC3pzHu) | 3:06 | 2023-04-20 | 2023-04-28 |
 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2022-11-04 |  |
@@ -176,7 +178,7 @@
 | [Ohemaa](https://open.spotify.com/track/1u2K82uk2yeeWhYUieIa5b) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Ohemaa](https://open.spotify.com/album/6GSPOyYbPYTkR74gQMPus0) | 3:33 | 2023-02-09 | 2023-02-24 |
 | [Olukeke \- A COLORS SHOW](https://open.spotify.com/track/1wLFBauKxbF4lAbJAc1AYo) | [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Olukeke \- A COLORS SHOW](https://open.spotify.com/album/0vt0Pkpe6X9c2s7YamCack) | 3:39 | 2023-05-12 | 2023-06-10 |
 | [Oofeets](https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y) | 3:46 | 2022-11-04 |  |
-| [Over](https://open.spotify.com/track/1537dWgnx4cqNxMYQbVa6C) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Over](https://open.spotify.com/album/0qpAELxRfWAsE1InseqU1e) | 3:53 | 2023-09-14 |  |
+| [Over](https://open.spotify.com/track/1537dWgnx4cqNxMYQbVa6C) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Over](https://open.spotify.com/album/0qpAELxRfWAsE1InseqU1e) | 3:53 | 2023-09-14 | 2023-11-03 |
 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 | 2022-11-04 | 2023-05-13 |
 | [Over](https://open.spotify.com/track/4AqSMNtn3vFqE0OScxvEps) | [Thirtn](https://open.spotify.com/artist/2DJRjIwHAj1DdOo6pBcM6v) | [Over](https://open.spotify.com/album/0SvEJsifHLZ7VGMZaan2pc) | 3:02 | 2023-03-10 | 2023-03-18 |
 | [Papabi](https://open.spotify.com/track/0u1w6JiN1ApGtWwDLXY2dD) | [Mishasha](https://open.spotify.com/artist/2X8BDJoWGo3VkrzPy2fN7W), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Papabi](https://open.spotify.com/album/09kaeUGlamtNLY21BAoREx) | 3:45 | 2023-02-23 | 2023-03-03 |

@@ -1,12 +1,12 @@
 {
   "description": "Fresh Christmas songs para los d\u00edas festivos. Cover: DannyLux",
-  "num_followers": 283161,
+  "num_followers": 283195,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWE4NmZkOTUxZjVkZjRmYzBmMzk3NTljNjAwYmYwYWRhMjYzMmI2",
+  "snapshot_id": "MCw5OTgwODA1MmUyMThmODI2MmRjMzBkYzA1MDVkMmYzNjQ4ZTJhYzIx",
   "tracks": [
     {
       "added_at": "2023-10-20 19:35:36",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
-        "name": "La Clave",
-        "url": "https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 137472,
-      "name": "La Clave",
-      "url": "https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
         "name": "C\u00f3mo Poder Olvidar (Spotify Sad Sierre\u00f1o Holiday Singles)",
         "url": "https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
-        "name": "Santa Para Que Porfa",
-        "url": "https://open.spotify.com/album/6y60Q4HPD3K9V0anQN0y2P"
+        "name": "La Clave",
+        "url": "https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Santa Para Que Porfa",
-      "url": "https://open.spotify.com/track/52qnXpspvSfn6VK96iADHG"
+      "duration_ms": 137472,
+      "name": "La Clave",
+      "url": "https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -335,6 +319,22 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
+        "name": "Santa Para Que Porfa",
+        "url": "https://open.spotify.com/album/6y60Q4HPD3K9V0anQN0y2P"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Santa Para Que Porfa",
+      "url": "https://open.spotify.com/track/52qnXpspvSfn6VK96iADHG"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
         "name": "Estefan Family Christmas",
         "url": "https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk"
       },
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
+        "name": "Al Ni\u00f1o Dios",
+        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "duration_ms": 153182,
+      "name": "Al Ni\u00f1o Dios",
+      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
         "name": "Alegr\u00eda",
         "url": "https://open.spotify.com/album/1rwh1yj0SrvoS7cbVjIl4k"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
-        "name": "Al Ni\u00f1o Dios",
-        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
+        "name": "Silent Night (English/Spanish Version)",
+        "url": "https://open.spotify.com/album/0a0S7ADF3QllsUOARlp8AS"
       },
       "artists": [
         {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
         }
       ],
-      "duration_ms": 153182,
-      "name": "Al Ni\u00f1o Dios",
-      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
+      "duration_ms": 207816,
+      "name": "Silent Night - English/Spanish Version",
+      "url": "https://open.spotify.com/track/17a2eOhGG6DzhfDXsapqK1"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -411,22 +427,6 @@
       "duration_ms": 189204,
       "name": "Una Noche Especial",
       "url": "https://open.spotify.com/track/0qcZMcD883yjJEhtLGFGld"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
-        "name": "Silent Night (English/Spanish Version)",
-        "url": "https://open.spotify.com/album/0a0S7ADF3QllsUOARlp8AS"
-      },
-      "artists": [
-        {
-          "name": "Kat & Alex",
-          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
-        }
-      ],
-      "duration_ms": 207816,
-      "name": "Silent Night - English/Spanish Version",
-      "url": "https://open.spotify.com/track/17a2eOhGG6DzhfDXsapqK1"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
-        "name": "Llegu\u00e9 a Navidad",
-        "url": "https://open.spotify.com/album/0IHUZrmVQfFWNkZUnWF4c6"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Llegu\u00e9 a Navidad",
-      "url": "https://open.spotify.com/track/4e4wrhbqdj6CKxHEgWjPfw"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
         "name": "Una Navidad Sin Nieve",
         "url": "https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
+        "name": "Llegu\u00e9 a Navidad",
+        "url": "https://open.spotify.com/album/0IHUZrmVQfFWNkZUnWF4c6"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Llegu\u00e9 a Navidad",
+      "url": "https://open.spotify.com/track/4e4wrhbqdj6CKxHEgWjPfw"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
         "name": "Emmanuel Jingle Bell Rocks",
         "url": "https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 325397,
       "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
       "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 171535,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -639,6 +623,22 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 171535,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
         "name": "Regres\u00e9 Para Navidad",
         "url": "https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 195842,
       "name": "Last Christmas (Spanish Version)",
       "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
+      },
+      "artists": [
+        {
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+        }
+      ],
+      "duration_ms": 216038,
+      "name": "Nuestra Canci\u00f3n De Navidad",
+      "url": "https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -723,26 +739,6 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
-        "name": "Villancicos",
-        "url": "https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        },
-        {
-          "name": "MON SIERRA",
-          "url": "https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK"
-        }
-      ],
-      "duration_ms": 260143,
-      "name": "El Tamborilero",
-      "url": "https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
         "name": "Mi Mejor Regalo",
         "url": "https://open.spotify.com/album/5o46YcPUqnzB6QK4TRwD5C"
       },
@@ -767,18 +763,22 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
-        "name": "Para Navidad",
-        "url": "https://open.spotify.com/album/27CeHfJqWFuTSj2IOXCMT2"
+        "name": "Villancicos",
+        "url": "https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb"
       },
       "artists": [
         {
-          "name": "The Fam",
-          "url": "https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH"
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        },
+        {
+          "name": "MON SIERRA",
+          "url": "https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK"
         }
       ],
-      "duration_ms": 177329,
-      "name": "Para Navidad",
-      "url": "https://open.spotify.com/track/7GX2qkdqQmi8rDNkl5terB"
+      "duration_ms": 260143,
+      "name": "El Tamborilero",
+      "url": "https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
+        "name": "Para Navidad",
+        "url": "https://open.spotify.com/album/27CeHfJqWFuTSj2IOXCMT2"
       },
       "artists": [
         {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+          "name": "The Fam",
+          "url": "https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH"
         }
       ],
-      "duration_ms": 216038,
-      "name": "Nuestra Canci\u00f3n De Navidad",
-      "url": "https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0"
+      "duration_ms": 177329,
+      "name": "Para Navidad",
+      "url": "https://open.spotify.com/track/7GX2qkdqQmi8rDNkl5terB"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -859,38 +859,6 @@
       "duration_ms": 191457,
       "name": "Roz\u00e1ndome",
       "url": "https://open.spotify.com/track/2qEzMGg0SXKxwvUNdiFqSD"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
-        "name": "A\u00f1o Nuevo, Misma Soledad (Live)",
-        "url": "https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 213547,
-      "name": "A\u00f1o Nuevo, Misma Soledad - Live",
-      "url": "https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 187668,
-      "name": "Otra Navidad :(",
-      "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -939,6 +907,38 @@
       "duration_ms": 236200,
       "name": "Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/1gKfAZ4WauownlJdL5CM8q"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 187668,
+      "name": "Otra Navidad :(",
+      "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
+        "name": "A\u00f1o Nuevo, Misma Soledad (Live)",
+        "url": "https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 213547,
+      "name": "A\u00f1o Nuevo, Misma Soledad - Live",
+      "url": "https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu"
     },
     {
       "added_at": "2023-10-20 19:35:36",

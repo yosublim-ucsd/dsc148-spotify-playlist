@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 109370,
+  "num_followers": 109432,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDViZDk5NTFiMzVkNDRjNWY0MGM4ZThlMDUxZDBmZjg2NjE1Mzdh",
+  "snapshot_id": "MCxhNTU3NzdiMTlmNzY4MDlmZjA4N2I1MDY4YTgyNDFjMjUxOWZjODU1",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1159,22 +1159,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Dos Tiempos Bajo Un Mismo Tono",
-        "url": "https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj"
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
       },
       "artists": [
         {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        },
-        {
-          "name": "Jossie Esteban",
-          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
+          "name": "Ruben Sam",
+          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
         }
       ],
-      "duration_ms": 306373,
-      "name": "Viernes 13 - Parte 1",
-      "url": "https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB"
+      "duration_ms": 161632,
+      "name": "Pers\u00edgueme",
+      "url": "https://open.spotify.com/track/2STcXIS8BHSiRsypyRA19r"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1195,18 +1191,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+        "name": "Dos Tiempos Bajo Un Mismo Tono",
+        "url": "https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj"
       },
       "artists": [
         {
-          "name": "Ruben Sam",
-          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        },
+        {
+          "name": "Jossie Esteban",
+          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
         }
       ],
-      "duration_ms": 161632,
-      "name": "Pers\u00edgueme",
-      "url": "https://open.spotify.com/track/2STcXIS8BHSiRsypyRA19r"
+      "duration_ms": 306373,
+      "name": "Viernes 13 - Parte 1",
+      "url": "https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/3lrhLlw55mjyUCaO0FBYwu"
+      },
+      "artists": [
+        {
+          "name": "Speedy",
+          "url": "https://open.spotify.com/artist/1QC3ygAJezg4QWD5stwr0b"
+        }
+      ],
+      "duration_ms": 131773,
+      "name": "Amor Con La Ropa",
+      "url": "https://open.spotify.com/track/2djANHWiGt7BP8kCrYOnbo"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "Golosa",
         "url": "https://open.spotify.com/album/6T2JoTSWxQhqIzcauJivm3"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 194676,
       "name": "El Trenecito",
       "url": "https://open.spotify.com/track/7IscZjDuApOs2gIFw9XaFp"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Soy El Mas Sensual - Renato Classics",
-        "url": "https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q"
-      },
-      "artists": [
-        {
-          "name": "Renato",
-          "url": "https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "La Chica de los Ojos Cafe",
-      "url": "https://open.spotify.com/track/4Bonn8aTkhFWUAQJaHwgl8"
     }
   ],
   "unique_name": "Reggaeton: El Inicio",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,673 likes - 45 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,741 likes - 45 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 4 | [Black Betty](https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [Ram Jam](https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD) | 3:58 |
 | 5 | [YYZ](https://open.spotify.com/track/3lpDrxUkr0tIe1kmJvdK7d) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:25 |
 | 6 | [Lady](https://open.spotify.com/track/6Pyr3DqDxXnoP1mZBzb2JY) | [Beck, Bogert, Appice](https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP) | [Beck, Bogert, Appice](https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz) | 5:31 |
-| 7 | [Tarkus \- i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus; 2012 Remaster](https://open.spotify.com/track/21lhHDRMO5e7SWCJ0rza0M) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus](https://open.spotify.com/album/3OtFsLLaUZWN6AyeBIzNCj) | 20:43 |
+| 7 | [Tarkus \- i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus; 2012 Remaster](https://open.spotify.com/track/62d0aGpYF2p8fpvJ1qa32V) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus \(Deluxe\)](https://open.spotify.com/album/6mqJylLfGnLCXhdyMPBCRo) | 20:37 |
 | 8 | [Ticks & Leeches](https://open.spotify.com/track/0Cnx6PGogxIE2RnDcnoeK8) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 8:07 |
 | 9 | [Shotgun \- Single Version](https://open.spotify.com/track/4cpaaN9gp0JvTaro27c0ex) | [Vanilla Fudge](https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1) | [The Complete Atco Singles](https://open.spotify.com/album/1c0ZllsJKYA7N8v10OdVLP) | 2:28 |
 | 10 | [21st Century Schizoid Man \- Including "Mirrors"](https://open.spotify.com/track/5L7VBYoosmkmiiDlzumdCe) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 7:22 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 44 | [Ya Mon](https://open.spotify.com/track/3ZDZhHNt492Z8eHfbAdtpJ) | [Liquid Tension Experiment](https://open.spotify.com/artist/0r1s1XoxdoXECGfyChzb2v) | [LTE3 \(Deluxe Edition\)](https://open.spotify.com/album/6GDFV4kWsQDYuah6tSqmu2) | 15:23 |
 | 45 | [Soul Sacrifice](https://open.spotify.com/track/4e0GkgtMPZFt41Ua8PlHQL) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 6:37 |
 
-Snapshot ID: `MCxlMDhjYmZlOTNmNWMxMTkwMjAwYjc1NzlkNWNjYmEyMTQyNzcyYmRl`
+Snapshot ID: `MCwzZmZlMDNiNDRlODJmODgwOWM0YjdkMTczODRhODEyYjRmN2RjNDA4`

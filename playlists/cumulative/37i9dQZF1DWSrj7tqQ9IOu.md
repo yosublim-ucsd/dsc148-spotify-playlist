@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Clio
+> The best French indie tracks right now\. Cover : Alice et Moi
 
-413 songs - 22 hr 38 min
+416 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1964](https://open.spotify.com/track/2GKjDtUoz2AB3zegkdTUoo) | [Rallye](https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX) | [1964](https://open.spotify.com/album/4OytyyjvGEMOpKLQQcCaRU) | 4:18 | 2022-04-28 | 2022-07-08 |
 | [4D](https://open.spotify.com/track/0zBReAArWqGJRftWzmys9V) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [4D](https://open.spotify.com/album/6La4e4vpCHGtvCXUbp71BJ) | 2:21 | 2022-04-07 | 2022-06-03 |
 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 | 2023-06-15 |
-| [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-08 |  |
+| [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-08 | 2023-11-03 |
 | [a ride](https://open.spotify.com/track/7zIynZNxk2CBmIkjp1CcjP) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [a ride](https://open.spotify.com/album/4KUa7MP6XTWP3qJfh4VPcT) | 2:54 | 2022-08-25 | 2022-09-09 |
 | [A Taste Of Possibility](https://open.spotify.com/track/09qAEZgB4KcFixRPilvca1) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [A Taste Of Possibility](https://open.spotify.com/album/4SiCcKUuHVHXJwRcPsb2Yf) | 3:46 | 2023-09-14 |  |
 | [Acapulco](https://open.spotify.com/track/2zx4cyrEkfZHIwJcYEHyDB) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Acapulco](https://open.spotify.com/album/12jNNrFsrsFhBVKFkdvDBI) | 3:05 | 2022-06-30 | 2023-03-25 |
@@ -55,10 +55,12 @@
 | [C'est Dur](https://open.spotify.com/track/0mmsXfF0UPFMtTNsvMDijb) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [C'est Dur](https://open.spotify.com/album/4PoqfZAe5hpS1fycD98ARO) | 3:44 | 2022-02-17 | 2022-03-11 |
 | [C'est La Vie](https://open.spotify.com/track/65h2qZ7sBG9GcRSgSlobvy) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [C'est La vie](https://open.spotify.com/album/2DpWqMGAYZlpIJhNpTZN9u) | 2:51 | 2023-01-19 | 2023-02-10 |
 | [C'est mon truc](https://open.spotify.com/track/0VW89sbCVJaGb4iGeNrOEv) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Zélie c'est quoi ?](https://open.spotify.com/album/51UJNhfVEsYfjukIag27Y2) | 3:05 | 2023-02-23 |  |
+| [C'est OK](https://open.spotify.com/track/1YRLb0tT7RyTkicGKsUnfY) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [C'est OK](https://open.spotify.com/album/5KknyKEbHqlAEfkB64HGHe) | 3:04 | 2023-11-02 |  |
 | [call it a night](https://open.spotify.com/track/2vgfNCFLKRfCsOuLzA1AaD) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [call it a night](https://open.spotify.com/album/5ghiXxNIxCM24yk7uAvWC6) | 2:56 | 2022-12-15 | 2023-01-06 |
 | [Call My Name](https://open.spotify.com/track/4fxgbRNGXQt2icHi18N3SK) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [Call My Name](https://open.spotify.com/album/6TTgpPYJs0Z11waheHHA7K) | 3:40 | 2022-12-01 | 2023-01-06 |
 | [Calvin](https://open.spotify.com/track/4FZXNjy9tRM2qrwpEs46Wc) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Calvin](https://open.spotify.com/album/7lN3wA0cM16Sdg1qdF86Yn) | 3:03 | 2022-12-15 | 2023-04-07 |
 | [CAMISOLE](https://open.spotify.com/track/16RpNkwx8gaDyXD6duTt1l) | [BARON.E](https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE) | [CAMISOLE](https://open.spotify.com/album/1uTzVKDHKVJ91ahXU1lVPP) | 3:38 | 2021-12-16 | 2022-04-15 |
+| [Carabine](https://open.spotify.com/track/2z1EwCtvjaqa0AK5hQqvD0) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographie](https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2) | 3:21 | 2023-11-02 |  |
 | [castles](https://open.spotify.com/track/0arsSXwDYyMvG3U6RHU21y) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Nilipek.](https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo) | [postcard from Istanbul](https://open.spotify.com/album/44zcVOvyCXlw3hddxRebre) | 2:54 | 2022-04-07 | 2022-05-20 |
 | [Chamallow](https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Carrossel Do Tempo](https://open.spotify.com/album/65mUUfH7lL3pVvAM8BCQ90) | 4:00 | 2023-10-05 |  |
 | [chanson triste](https://open.spotify.com/track/5WFiYXOtO5u45X5mLv6ckW) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [chanson triste](https://open.spotify.com/album/1QurzPgalUkcteDy3b6DUm) | 3:22 | 2022-10-13 | 2023-06-02 |
@@ -163,7 +165,7 @@
 | [It Might Be Something](https://open.spotify.com/track/3MkCJcOcLK0PaYy4QgKpWk) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92) | [It Might Be Something](https://open.spotify.com/album/5gszZPFIhqR8HUiqH4nyMx) | 3:33 | 2021-12-16 | 2022-01-21 |
 | [It's Only A Band](https://open.spotify.com/track/2KBHg10JyF2MMjg3l0CFoY) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [Please](https://open.spotify.com/album/0cs72CsTxE6pnaCXo42iC5) | 3:31 | 2023-04-06 | 2023-05-26 |
 | [J'aime les filles](https://open.spotify.com/track/3N6mpmEgjqRIMNDkucHMJz) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [J'aime les filles](https://open.spotify.com/album/15KiBmF3enU5CukG3mO6gy) | 3:17 | 2022-09-01 | 2022-09-30 |
-| [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-06-15 |  |
+| [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-06-15 | 2023-11-03 |
 | [j'attends](https://open.spotify.com/track/23I9xqbbq8ii3SK59VoeuQ) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [j'attends](https://open.spotify.com/album/0lernxYMPwdcFGvEDv3att) | 3:26 | 2022-12-01 | 2023-01-13 |
 | [Jamais les mêmes](https://open.spotify.com/track/0pTlR1MBae9DSvYTI8falu) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Jamais les mêmes](https://open.spotify.com/album/5G49O3DzRaNZ5htXu3XhM9) | 2:56 | 2023-02-16 | 2023-03-03 |
 | [Je continue à danser](https://open.spotify.com/track/6kotvODHgeUcffIZGRwkqe) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Je continue à danser](https://open.spotify.com/album/4gfmldrRM32UOyG4FZ9Kbr) | 3:11 | 2023-01-05 | 2023-06-02 |
@@ -217,7 +219,7 @@
 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 | 2021-12-16 | 2022-05-27 |
 | [Les questions \- feat\. Papa](https://open.spotify.com/track/1GcLyTYF18YQi3fLuNYnwh) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Les questions \(feat\. Papa\)](https://open.spotify.com/album/61cuBA0xeIlmfmiazm6nxZ) | 3:25 | 2022-04-28 | 2022-05-20 |
 | [Les yeux, le reste](https://open.spotify.com/track/3DrMtgnkoPtgQ3iLkXaEzw) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Les yeux, le reste](https://open.spotify.com/album/0BLe8NfFlxiHkfZwe8sBXb) | 3:13 | 2023-01-19 | 2023-02-17 |
-| [Let her go](https://open.spotify.com/track/3lorZ6d6wi7xwzjP0tT1q2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [LUCASV](https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB) | [Let her go](https://open.spotify.com/album/2cm797zjKrsntb3q2bfNKg) | 3:02 | 2023-06-29 |  |
+| [Let her go](https://open.spotify.com/track/3lorZ6d6wi7xwzjP0tT1q2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [LUCASV](https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB) | [Let her go](https://open.spotify.com/album/2cm797zjKrsntb3q2bfNKg) | 3:02 | 2023-06-29 | 2023-11-03 |
 | [Levitate](https://open.spotify.com/track/0U2tNdDsPJk8FOsmwNdmMT) | [My Dear](https://open.spotify.com/artist/2VIeTNcwBm3deHgcAe58mB) | [Levitate](https://open.spotify.com/album/701cjd2rHs91n8kog79dzm) | 3:00 | 2022-02-03 | 2022-05-13 |
 | [lighthouse](https://open.spotify.com/track/0v74b7nJnB4khRqiA8E3b9) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [postcard from NYC](https://open.spotify.com/album/0UjDR2kB0enEGBNDBGwQvR) | 2:18 | 2022-09-01 | 2022-10-14 |
 | [Looking Backward](https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Looking Backward](https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx) | 3:21 | 2022-01-20 | 2022-04-08 |
@@ -302,6 +304,7 @@
 | [Postcards & Letters](https://open.spotify.com/track/1ki4jngOmaHbmyHoSABAhR) | [Superjava](https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp) | [Postcards & Letters](https://open.spotify.com/album/3ss4bwz8F6bI47Ahvm5HCv) | 4:03 | 2021-12-16 | 2022-04-15 |
 | [Pour la vie entière](https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Pour la vie entière](https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb) | 3:02 | 2022-09-22 | 2023-09-01 |
 | [Premier Incendie \- Edit](https://open.spotify.com/track/3zXBE7N9uJxxOq5zJDwIbh) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Premier Incendie \(Edit\)](https://open.spotify.com/album/5K14tV4cFMNGZJy4S9CgZv) | 3:01 | 2022-02-17 | 2022-05-13 |
+| [Premonitions](https://open.spotify.com/track/7hNRsJNe5XSRm8TI4QuZi8) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Premonitions](https://open.spotify.com/album/6aeZHE4ppb4tCzNlDTH91i) | 3:41 | 2023-11-02 |  |
 | [Psychopath](https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Psychopath](https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd) | 3:12 | 2022-05-19 | 2022-07-01 |
 | [Puzzle](https://open.spotify.com/track/0pg4HD7aOTTYAbv1zsskFc) | [Oré](https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4) | [Puzzle](https://open.spotify.com/album/3AQlnAfSMYUs5z4Mmru4CY) | 3:28 | 2023-03-09 | 2023-10-06 |
 | [QUESTIONS\. N4.23](https://open.spotify.com/track/1EO9ajG5uaGyNEtkNNWq1J) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [QUESTIONS\. N4.23](https://open.spotify.com/album/5B9lfPhUwNsMx4vsNl28Ac) | 3:22 | 2023-06-29 |  |

@@ -1396,6 +1396,32 @@
     {
       "album": {
         "name": "Mr. Luck - A Tribute to Jimmy Reed: Live at the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/0NgnBeCrUMtJWBIqlORulQ"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Wood",
+          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+        },
+        {
+          "name": "The Ronnie Wood Band",
+          "url": "https://open.spotify.com/artist/7MYOqtcBbGTJxLk7fQiVmE"
+        },
+        {
+          "name": "Mick Taylor",
+          "url": "https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426835,
+      "name": "Mr Luck (feat. Mick Taylor) (Live)",
+      "url": "https://open.spotify.com/track/447HYxWqQYLaezoibi274B"
+    },
+    {
+      "album": {
+        "name": "Mr. Luck - A Tribute to Jimmy Reed: Live at the Royal Albert Hall",
         "url": "https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW"
       },
       "artists": [
@@ -1414,7 +1440,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 426835,
       "name": "Mr Luck (feat. Mick Taylor) - Live",
       "url": "https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK"
@@ -1700,7 +1726,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 289800,
       "name": "Rattlesnake Shake (with Steven Tyler & Billy Gibbons) - Live from The London Palladium",
       "url": "https://open.spotify.com/track/2QyLRyrciztL0CQ7CeXK2p"
@@ -1730,6 +1756,24 @@
       "duration_ms": 289800,
       "name": "Rattlesnake Shake (with Steven Tyler & Billy Gibbons) - Live from The London Palladium",
       "url": "https://open.spotify.com/track/58ZM2KIhmc9awWI0RDSV5l"
+    },
+    {
+      "album": {
+        "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac",
+        "url": "https://open.spotify.com/album/4mRWbr6PnIIo3ealvjT60y"
+      },
+      "artists": [
+        {
+          "name": "Mick Fleetwood and Friends",
+          "url": "https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289800,
+      "name": "Rattlesnake Shake (with Steven Tyler, Billy Gibbons) (Live from The London Palladium)",
+      "url": "https://open.spotify.com/track/2cw1cZG9T3goqZOOqjkrqI"
     },
     {
       "album": {

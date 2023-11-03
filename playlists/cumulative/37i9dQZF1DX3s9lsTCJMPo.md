@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by Lissa Monet
 
-282 songs - 20 hr 11 min
+283 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Far from Finished](https://open.spotify.com/track/7b2eOI6RKPPcqqdMnCOcQR) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Get Soca 2017](https://open.spotify.com/album/6HJGSZhAvYCqtAoXIZrLEG) | 3:51 | 2020-09-16 | 2022-08-19 |
 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 | 2023-07-10 |  |
 | [Feels Like I'm Home Again](https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq) | [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:13 | 2020-09-16 | 2023-07-11 |
-| [First Experience](https://open.spotify.com/track/6ZZTxHZQjll0gabGgpHbkb) | [KMC](https://open.spotify.com/artist/1TSUoWN7RYfiLe5Ea9XQfn), [Wayne Marshall](https://open.spotify.com/artist/1L9hOwgmwVUkUftkPH0JU1) | [Soul On Fire](https://open.spotify.com/album/41oJY1aP79suaIM0cwKJdZ) | 4:34 | 2023-07-10 |  |
+| [First Experience](https://open.spotify.com/track/6ZZTxHZQjll0gabGgpHbkb) | [KMC](https://open.spotify.com/artist/1TSUoWN7RYfiLe5Ea9XQfn), [Wayne Marshall](https://open.spotify.com/artist/1L9hOwgmwVUkUftkPH0JU1) | [Soul On Fire](https://open.spotify.com/album/41oJY1aP79suaIM0cwKJdZ) | 4:34 | 2023-07-10 | 2023-11-03 |
+| [First Experience \(feat\. Wayne Marshall\)](https://open.spotify.com/track/1ellVNLrN4SmduchsEOzlX) | [KMC](https://open.spotify.com/artist/1TSUoWN7RYfiLe5Ea9XQfn), [Wayne Marshall](https://open.spotify.com/artist/1L9hOwgmwVUkUftkPH0JU1) | [Soul On Fire](https://open.spotify.com/album/6WZdCTOGCmqqlGXJIZ7tYK) | 4:35 | 2023-08-07 |  |
 | [Flag Party](https://open.spotify.com/track/1s2oCfCPvu8UlZ2D05FUA3) | [Byron Lee & The Dragonaires](https://open.spotify.com/artist/1akUOJhf77cbKJveLHgxpy) | [Soca Butterfly](https://open.spotify.com/album/65ymLAcFTmoanmId8pIzL4) | 3:45 | 2020-09-16 | 2022-07-29 |
 | [Follow The Leader](https://open.spotify.com/track/1R1ys9dre6RPgy2Me1zFtr) | [Nigel & Marvinn](https://open.spotify.com/artist/5Ib4o3nEuaRQmBBZ5vcZB3) | [Carnival Party](https://open.spotify.com/album/0n6T2zpvjPLpxQraa8o1Cr) | 5:05 | 2023-05-15 | 2023-07-11 |
 | [Follow The Leader, Leader](https://open.spotify.com/track/5dSyyEkLtuirZgxqt1E7fz) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:05 | 2020-09-16 | 2022-07-29 |

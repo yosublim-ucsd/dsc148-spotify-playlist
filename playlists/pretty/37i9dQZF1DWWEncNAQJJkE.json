@@ -1,13 +1,33 @@
 {
   "description": "Our editors\u2019 picks for the best of Hip-Hop in Canada in 2022. Cover: Drake #SpotifyWrapped",
-  "num_followers": 361557,
+  "num_followers": 361539,
   "original_name": "Best Hip-Hop Songs of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2E4OGY0ZGI2NmExYzE2OWI5Y2UzZjViOGIwMGNmMWQ2YjMyNjY2",
+  "snapshot_id": "MCxlMTAyN2M1YjQ2MjIzNjQ4ZmYxY2RiZGZlNmU4YWEzODVlMDc0NmMz",
   "tracks": [
+    {
+      "added_at": "2022-12-02 23:31:09",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+    },
     {
       "added_at": "2022-12-02 23:31:09",
       "album": {

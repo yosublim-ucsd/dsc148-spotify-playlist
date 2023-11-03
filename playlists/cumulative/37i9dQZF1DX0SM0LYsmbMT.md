@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,788 songs - 6 day 1 hr 9 min
+3,789 songs - 6 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2582,6 +2582,7 @@
 | [purple](https://open.spotify.com/track/4ODwSXIHEi2mnsg6qLWFUB) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [purple](https://open.spotify.com/album/3elMEg3XlvmYdqwvWqLI0m) | 2:21 | 2020-03-25 | 2020-04-18 |
 | [Purple Kush](https://open.spotify.com/track/6AeZjvFrbtkXwqtufASn59) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Nickel Bag of Beats](https://open.spotify.com/album/7d9NrghKGej9KejdR5XFaz) | 1:17 | 2020-04-18 | 2020-05-25 |
 | [Purple Midnight](https://open.spotify.com/track/1P4cOlRiuivUcl6teeUp1W) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Purple Midnight](https://open.spotify.com/album/549gF7b0HFwdtj3dlqPMzy) | 1:48 | 2021-07-09 | 2022-01-21 |
+| [Purple Notes](https://open.spotify.com/track/1PeNHv1PEMcwN97h4H0j7Q) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Purple Notes](https://open.spotify.com/album/2r316AnJmgNE1G1W4cZ22Z) | 2:17 | 2023-10-26 |  |
 | [Purple Skies](https://open.spotify.com/track/2foRZpSWipdqRtuwube6A5) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Purple Skies](https://open.spotify.com/album/7GJu0vat4vBd3iFplNwSoS) | 2:14 | 2020-10-23 | 2021-03-14 |
 | [Purple Summer Vibes](https://open.spotify.com/track/2zaBhN5Hfm1KRw3vCaQNTI) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Purple Summer Vibes](https://open.spotify.com/album/4TXh2T1ThZU7U6BYkD7PFP) | 1:44 | 2023-07-27 | 2023-08-18 |
 | [Pushing](https://open.spotify.com/track/3KFuN9qopbwFZEqfyo4Dsj) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Pushing](https://open.spotify.com/album/7jbh3vcWYt5z51FNWgL41b) | 2:16 | 2021-05-29 | 2021-11-19 |
@@ -3589,7 +3590,7 @@
 | [Walk Man](https://open.spotify.com/track/3dkkAQxhrqSax0K5LKB7Xs) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Walk Man](https://open.spotify.com/album/0207ZP0EfLixTqVx53YCik) | 2:41 | 2023-09-14 |  |
 | [Walk The Dog](https://open.spotify.com/track/4AowHOaycPNDRId7N4Npf9) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Walk The Dog](https://open.spotify.com/album/306HMpP6yrynuST9JxQVoj) | 2:19 | 2023-02-09 | 2023-03-10 |
 | [Walkin](https://open.spotify.com/track/3DfHxuztYjU0mXwLQ6zJN4) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Loek Van Den Berg](https://open.spotify.com/artist/21dqlA0IWVccmvO9bwctGr) | [Fantasy](https://open.spotify.com/album/00tGmgLVaUJnG6Br4W8LaZ) | 2:04 | 2022-05-12 | 2022-07-29 |
-| [Walking Day](https://open.spotify.com/track/09K0MNS7E83Umpf3YQnvKc) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Walking Day](https://open.spotify.com/album/0yZiVSXPXxTcPgqwbqLKxP) | 2:34 | 2023-10-26 |  |
+| [Walking Day](https://open.spotify.com/track/09K0MNS7E83Umpf3YQnvKc) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Walking Day](https://open.spotify.com/album/0yZiVSXPXxTcPgqwbqLKxP) | 2:34 | 2023-10-26 | 2023-11-03 |
 | [Walking In The Rain](https://open.spotify.com/track/5qwXtOKtnf7xisz65F0400) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Walking In The Rain](https://open.spotify.com/album/59vuy1kBH3ZfVOC2GDAKhW) | 2:34 | 2022-09-05 | 2022-09-09 |
 | [Walking On Sunshine](https://open.spotify.com/track/7FwyuMqGORtxC0j42IdSiY) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Walking On Sunshine](https://open.spotify.com/album/4FpNn5mvTNKF8myvzhs09l) | 1:52 | 2023-06-01 | 2023-09-15 |
 | [Walks](https://open.spotify.com/track/53uCBgg1jGsPJZ3Hf1kp0t) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Walks](https://open.spotify.com/album/5Ak4n9ne8q1MuspiXXMbBE) | 1:24 | 2022-07-14 | 2022-07-22 |

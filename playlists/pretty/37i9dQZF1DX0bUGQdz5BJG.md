@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: John Morgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,765 likes - 210 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,803 likes - 210 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 135 | [Better Without You](https://open.spotify.com/track/3wm8oemeyf0Q3T3dujlgMW) | [Dixon Dallas](https://open.spotify.com/artist/2xmmjD4GfeJ5BRueLvPqec) | [2 More](https://open.spotify.com/album/6LgijYhiHfBu20cXBI1GJS) | 2:56 |
 | 136 | [It's True](https://open.spotify.com/track/67dUtWComJOfqLFM0LANC9) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [It's True](https://open.spotify.com/album/5SIvPIgEWccqPO94dcSz3E) | 3:52 |
 | 137 | [South Of The Border](https://open.spotify.com/track/1U42O036JuKJigXbvOG3Bb) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh), [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7) | [South Of The Border](https://open.spotify.com/album/3Okj4iNRoBQIMwfkZGQUr0) | 2:47 |
-| 138 | [Jonesin'](https://open.spotify.com/track/3EY4kYa8rZp2b2pXzdhl0r) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Jonesin'](https://open.spotify.com/album/2UoOn9wHxdZ83THATI9hvB) | 3:08 |
+| 138 | [Jonesin'](https://open.spotify.com/track/2mzF8IS0EGMbISqOsXrQen) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Pill](https://open.spotify.com/album/6FTgNHJaDjNDcTyNEuTGn4) | 3:08 |
 | 139 | [Hush Little Baby](https://open.spotify.com/track/4cjBtjqjURxGPKpnefT1OF) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Hush Little Baby](https://open.spotify.com/album/21Kco6snU7yW9SJfYHhsAy) | 2:54 |
 | 140 | [Oklahoma Sooner](https://open.spotify.com/track/03MLqdkCOn326rpG2rRcWm) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Oklahoma Sooner](https://open.spotify.com/album/7k3QL5d7vtnPQMjwAtrbrW) | 3:05 |
 | 141 | [My Mind's Made Up](https://open.spotify.com/track/1GrY3M6m6CAsRMqTTyFolL) | [Grace Leer](https://open.spotify.com/artist/2zaXxMpZKyNK075LXZ3wDG) | [My Mind's Made Up](https://open.spotify.com/album/60hBTn4rw9qPxwDSnz91hX) | 3:28 |
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 144 | [Down Here](https://open.spotify.com/track/3EEaGE74mn7l9pGynEjYIj) | [Josie](https://open.spotify.com/artist/0lkn1fc0HZVVtrl8otRdT1) | [Down Here](https://open.spotify.com/album/0FC44XRBIHsLBg32HpFHTL) | 3:41 |
 | 145 | [Better Than Nothing At All](https://open.spotify.com/track/0DTRCJUbEIeGjzrxISl4vP) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM), [Carolyn Dawn Johnson](https://open.spotify.com/artist/0SwVn4s8PdhY9XQhi9SetC) | [Spillin' My Truth](https://open.spotify.com/album/3CIrUk11uNlcOVTX6e2t1r) | 3:42 |
 | 146 | [Lonely In This Town](https://open.spotify.com/track/0UOdFcj336Zdroeq6uO3W2) | [Boy Named Banjo](https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5) | [Lonely In This Town](https://open.spotify.com/album/6JWH86y5BMSpSTbkV0m0zy) | 4:20 |
-| 147 | [I Got A Problem](https://open.spotify.com/track/5d9Sr7MXI5wSo6I53oW8Hx) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [I Got A Problem](https://open.spotify.com/album/4kBEIGrzwLM9J4hQnmjynt) | 2:27 |
+| 147 | [I Got A Problem](https://open.spotify.com/track/46ELlro4wExQxafmUT6JQA) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [I Got A Problem](https://open.spotify.com/album/1B8rgYiOXCaPAzZKVQprXK) | 2:27 |
 | 148 | [Fireworks](https://open.spotify.com/track/0FhxaB1D4zlBgA2EZb8vGd) | [Leaving Austin](https://open.spotify.com/artist/67igAZjBrO42dnYYbTT6WI) | [Fireworks](https://open.spotify.com/album/5i9l7mbstEZOpksRInVP20) | 3:26 |
 | 149 | [Louisiana](https://open.spotify.com/track/6KXdlYA1REDyMeWUlLcVOt) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Louisiana](https://open.spotify.com/album/6bDQtQ9nztaLR5xFw2JiSm) | 2:47 |
 | 150 | [Ain't Got Me](https://open.spotify.com/track/7d8JqzQ0DdP9A8AzTi5ScV) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [Ain't Got Me](https://open.spotify.com/album/5BUAjvTeZn1g5lm6FoLXH3) | 2:26 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 209 | [Just Like Us](https://open.spotify.com/track/3al1r7yWb8KoaX7IOCmwbX) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [Just Like Us](https://open.spotify.com/album/1GTIsu7qhVmm2j07hpaCnH) | 2:43 |
 | 210 | [Back to My Place](https://open.spotify.com/track/2dZPgMNCaguLPt3braiGj0) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Back to My Place](https://open.spotify.com/album/4DSt9zVyd8eLeQGLyOBz4s) | 4:22 |
 
-Snapshot ID: `MCw0NTRlZTA0YzIxNDQ4ZmU4MmIyY2JkNThkMDlmOTQ0YmE2NzBhYzZl`
+Snapshot ID: `MCw1YTJiM2U0Yzk2Mzc4YTEzYmI4MzE4NDRkMjQzZmI3N2VjYWZmNWY0`

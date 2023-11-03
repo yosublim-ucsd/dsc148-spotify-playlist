@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Virlán García & Grupo Los de la O en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,302 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,413 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 39 | [RUBICON](https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:58 |
 | 40 | [Bienvenido a la Chapiza \( Un Viejito en una Piedra \)](https://open.spotify.com/track/2THZ79y3BIdNwZM4B8EbSZ) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Bienvenido a la Chapiza \( Un Viejito en una Piedra \)](https://open.spotify.com/album/3rIaATmhyQCd1w6JkZVhox) | 2:55 |
 | 41 | [Malo Es No Hacer Billete](https://open.spotify.com/track/1qokziiqQTfZyXdroK13rP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Malo Es No Hacer Billete](https://open.spotify.com/album/1cyMKWjSIl6fL1hQg67QIJ) | 2:49 |
-| 42 | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/track/5lMgrfqMHikrPx0trUm5aT) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/album/4sLmrP60deEJ3qrU6S7fgQ) | 3:27 |
+| 42 | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/album/3PTy9kHj8C3TRja73LjVd2) | 3:27 |
 | 43 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 |
 | 44 | [El Jessy](https://open.spotify.com/track/1ShS4CeMAsuTKuAbE6dMA2) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [El Jessy](https://open.spotify.com/album/1frZG7cwuuu7fgRe4EBPls) | 3:11 |
 | 45 | [Estilo Guzmán](https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Estilo Guzmán](https://open.spotify.com/album/4WfTUStZ0n7EgeqZrcIekI) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Nacho Coronel](https://open.spotify.com/track/4vWGykpz2KZIYl13oY0cfE) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD), [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [Pisteando con Nico & Alemi](https://open.spotify.com/album/4vZa4rfWwniKA7thjP5WaK) | 4:24 |
 | 75 | [G5 El Financiero](https://open.spotify.com/track/5wboAylc8aZatUpOdmxcvM) | [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d) | [G5 El Financiero](https://open.spotify.com/album/5ecdxDqawNjW2e6XPnBT5m) | 5:02 |
 
-Snapshot ID: `MCw3OGViNDMzN2JmYzA1OWY1OTFlMzNhMTVjMDU3YmJjNmUyNTU2Zjg5`
+Snapshot ID: `MCwxMzQ0MDhjNTlmNTIxMTNjM2M1OTFiMWU0MDAyZTQ4OGYzZGY4ODUw`

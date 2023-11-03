@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 442066,
+  "num_followers": 442144,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTU0MzBjODNlNjk4ZjEwMWRkZTk1ZDU3M2ZiYjMxNGM2ZTRhMTVl",
+  "snapshot_id": "MCxjOWVmYWVlOWVhY2I1YTU5MDIwNzI3ODdjMmRmODVkMTMzNmEwYzlk",
   "tracks": [
     {
       "added_at": "2023-10-27 07:32:44",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "roamwave",
-        "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
-      },
-      "artists": [
-        {
-          "name": "ai sayuri",
-          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
-        }
-      ],
-      "duration_ms": 138663,
-      "name": "roamwave",
-      "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
         "name": "falling down",
         "url": "https://open.spotify.com/album/1ophVAxCyBO9AQ5Mvh2ALP"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 96000,
       "name": "falling down",
       "url": "https://open.spotify.com/track/6gN6kwb5xLVfup7d2A33aS"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
+        "name": "roamwave",
+        "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
+      },
+      "artists": [
+        {
+          "name": "ai sayuri",
+          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
+        }
+      ],
+      "duration_ms": 138663,
+      "name": "roamwave",
+      "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "I Love You, That's the Problem",
-        "url": "https://open.spotify.com/album/26C68ZCAfMugnKcTp3Kf9u"
-      },
-      "artists": [
-        {
-          "name": "Kochetkovv",
-          "url": "https://open.spotify.com/artist/7BPQzcw927WoBtakErDh6d"
-        }
-      ],
-      "duration_ms": 142792,
-      "name": "I Love You, That's the Problem",
-      "url": "https://open.spotify.com/track/1tfAVU1HIrtlr79isORUW6"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
         "name": "Dreemin'",
         "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 131641,
       "name": "Dreemin'",
       "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
+        "name": "I Love You, That's the Problem",
+        "url": "https://open.spotify.com/album/26C68ZCAfMugnKcTp3Kf9u"
+      },
+      "artists": [
+        {
+          "name": "Kochetkovv",
+          "url": "https://open.spotify.com/artist/7BPQzcw927WoBtakErDh6d"
+        }
+      ],
+      "duration_ms": 142792,
+      "name": "I Love You, That's the Problem",
+      "url": "https://open.spotify.com/track/1tfAVU1HIrtlr79isORUW6"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "Growing Up, Vol. 1",
-        "url": "https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD"
+        "name": "fingerlock",
+        "url": "https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2"
       },
       "artists": [
         {
-          "name": "A L E X",
-          "url": "https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ"
+          "name": "Arthur Wu",
+          "url": "https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV"
         }
       ],
-      "duration_ms": 96026,
-      "name": "The Burn Marks on My Epiano Wont Go Away",
-      "url": "https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv"
+      "duration_ms": 126500,
+      "name": "fingerlock",
+      "url": "https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -683,34 +683,18 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "fingerlock",
-        "url": "https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2"
+        "name": "Growing Up, Vol. 1",
+        "url": "https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD"
       },
       "artists": [
         {
-          "name": "Arthur Wu",
-          "url": "https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV"
+          "name": "A L E X",
+          "url": "https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ"
         }
       ],
-      "duration_ms": 126500,
-      "name": "fingerlock",
-      "url": "https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
-        "name": "In My Eyes",
-        "url": "https://open.spotify.com/album/0AN836ptcBD1Ob3fGqx7Di"
-      },
-      "artists": [
-        {
-          "name": "Beow\u00fclf",
-          "url": "https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg"
-        }
-      ],
-      "duration_ms": 101198,
-      "name": "In My Eyes",
-      "url": "https://open.spotify.com/track/20uZlOriIFYJt21nCwyAah"
+      "duration_ms": 96026,
+      "name": "The Burn Marks on My Epiano Wont Go Away",
+      "url": "https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -731,6 +715,22 @@
       "duration_ms": 140762,
       "name": "reflections in water",
       "url": "https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
+        "name": "In My Eyes",
+        "url": "https://open.spotify.com/album/0AN836ptcBD1Ob3fGqx7Di"
+      },
+      "artists": [
+        {
+          "name": "Beow\u00fclf",
+          "url": "https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg"
+        }
+      ],
+      "duration_ms": 101198,
+      "name": "In My Eyes",
+      "url": "https://open.spotify.com/track/20uZlOriIFYJt21nCwyAah"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
+        "name": "soft plushies",
+        "url": "https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu"
+      },
+      "artists": [
+        {
+          "name": "Blue Noodles",
+          "url": "https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq"
+        }
+      ],
+      "duration_ms": 144005,
+      "name": "soft plushies",
+      "url": "https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
         "name": "With Somebody Else",
         "url": "https://open.spotify.com/album/6vj6WrPqUx9sj5oPND8tb6"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "soft plushies",
-        "url": "https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu"
-      },
-      "artists": [
-        {
-          "name": "Blue Noodles",
-          "url": "https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq"
-        }
-      ],
-      "duration_ms": 144005,
-      "name": "soft plushies",
-      "url": "https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
         "name": "Cozy Nights",
         "url": "https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "superabundance",
-        "url": "https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC"
-      },
-      "artists": [
-        {
-          "name": "Mickey Jam",
-          "url": "https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9"
-        }
-      ],
-      "duration_ms": 139738,
-      "name": "superabundance",
-      "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
         "name": "dream surfer",
         "url": "https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 144892,
       "name": "dream surfer",
       "url": "https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
+        "name": "superabundance",
+        "url": "https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC"
+      },
+      "artists": [
+        {
+          "name": "Mickey Jam",
+          "url": "https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9"
+        }
+      ],
+      "duration_ms": 139738,
+      "name": "superabundance",
+      "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "Magic Mind",
-        "url": "https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC"
-      },
-      "artists": [
-        {
-          "name": "Duane Drew",
-          "url": "https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J"
-        }
-      ],
-      "duration_ms": 155424,
-      "name": "Magic Mind",
-      "url": "https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
         "name": "$orries",
         "url": "https://open.spotify.com/album/4UC6UTIy5LGAxiRNrEh1of"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 214857,
       "name": "$orries",
       "url": "https://open.spotify.com/track/6F0gZWBvI3BnV39qCXfsbf"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
+        "name": "Magic Mind",
+        "url": "https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC"
+      },
+      "artists": [
+        {
+          "name": "Duane Drew",
+          "url": "https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J"
+        }
+      ],
+      "duration_ms": 155424,
+      "name": "Magic Mind",
+      "url": "https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3"
+      },
+      "artists": [
+        {
+          "name": "Ok2222",
+          "url": "https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "Hold on, Pt. 2",
+      "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
         "name": "Snow Rose",
         "url": "https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 191707,
       "name": "Anything Like Her (feat. Tiffi)",
       "url": "https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3"
-      },
-      "artists": [
-        {
-          "name": "Ok2222",
-          "url": "https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX"
-        }
-      ],
-      "duration_ms": 84000,
-      "name": "Hold on, Pt. 2",
-      "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "Keep On Going",
-        "url": "https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD"
-      },
-      "artists": [
-        {
-          "name": "SPEECHLESS",
-          "url": "https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0"
-        }
-      ],
-      "duration_ms": 160403,
-      "name": "Keep On Going",
-      "url": "https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 163533,
       "name": "Now, I See",
       "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
+        "name": "Keep On Going",
+        "url": "https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD"
+      },
+      "artists": [
+        {
+          "name": "SPEECHLESS",
+          "url": "https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0"
+        }
+      ],
+      "duration_ms": 160403,
+      "name": "Keep On Going",
+      "url": "https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/6mmGwyBRmigoSW0l5NH8P8"
+      },
+      "artists": [
+        {
+          "name": "Shrimpnose",
+          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
+        }
+      ],
+      "duration_ms": 130169,
+      "name": "Wretched",
+      "url": "https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
         "name": "Summertime and the Livings Easier.",
         "url": "https://open.spotify.com/album/54jpEU6GWZmrbmicr1JYCP"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 131162,
       "name": "We Are Safe Here",
       "url": "https://open.spotify.com/track/54hB5NjjtjCMkfY7yaF9dR"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6myBiEX4iPLOWQpGOVqXZm"
-      },
-      "artists": [
-        {
-          "name": "Floreyyyy",
-          "url": "https://open.spotify.com/artist/2fMMmMEc0ZPVLNggWnomXv"
-        }
-      ],
-      "duration_ms": 148578,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/0ggWXuDQjK8EoQAFWQkJHX"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -1527,34 +1527,18 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/6mmGwyBRmigoSW0l5NH8P8"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6myBiEX4iPLOWQpGOVqXZm"
       },
       "artists": [
         {
-          "name": "Shrimpnose",
-          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
+          "name": "Floreyyyy",
+          "url": "https://open.spotify.com/artist/2fMMmMEc0ZPVLNggWnomXv"
         }
       ],
-      "duration_ms": 130169,
-      "name": "Wretched",
-      "url": "https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
-        "name": "nobody else",
-        "url": "https://open.spotify.com/album/3aHZpDjLZLWpGD9qJyFPAW"
-      },
-      "artists": [
-        {
-          "name": "Idealism",
-          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "cold door handles",
-      "url": "https://open.spotify.com/track/6JMR13j2R0YAVReTSMzryz"
+      "duration_ms": 148578,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/0ggWXuDQjK8EoQAFWQkJHX"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -1575,6 +1559,22 @@
       "duration_ms": 123041,
       "name": "Blue",
       "url": "https://open.spotify.com/track/5jZeQRVMRWsSSYnp8tgrsq"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
+        "name": "nobody else",
+        "url": "https://open.spotify.com/album/3aHZpDjLZLWpGD9qJyFPAW"
+      },
+      "artists": [
+        {
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "cold door handles",
+      "url": "https://open.spotify.com/track/6JMR13j2R0YAVReTSMzryz"
     },
     {
       "added_at": "2023-10-27 07:32:44",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-10-27 07:32:44",
       "album": {
+        "name": "diary 2018",
+        "url": "https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA"
+      },
+      "artists": [
+        {
+          "name": "Gnavis",
+          "url": "https://open.spotify.com/artist/5GArPXRmy5WUjYkkc0KVbp"
+        }
+      ],
+      "duration_ms": 124974,
+      "name": "dreary",
+      "url": "https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae"
+    },
+    {
+      "added_at": "2023-10-27 07:32:44",
+      "album": {
         "name": "Frostthrone",
         "url": "https://open.spotify.com/album/3WvdfonSJ1Rjz7hxHUcxcl"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 228000,
       "name": "Frostthrone",
       "url": "https://open.spotify.com/track/50wKmfNUZppZJsAunClnYF"
-    },
-    {
-      "added_at": "2023-10-27 07:32:44",
-      "album": {
-        "name": "diary 2018",
-        "url": "https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA"
-      },
-      "artists": [
-        {
-          "name": "Gnavis",
-          "url": "https://open.spotify.com/artist/5GArPXRmy5WUjYkkc0KVbp"
-        }
-      ],
-      "duration_ms": 124974,
-      "name": "dreary",
-      "url": "https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae"
     },
     {
       "added_at": "2023-10-27 07:32:44",

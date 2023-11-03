@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 
 > Enjoy music from "KENGAN ASHURA"! "音楽で辿る、Netflixオリジナルアニメシリーズ「ケンガンアシュラ」の世界。
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,968 likes - 40 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,012 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 | 17 | [Future](https://open.spotify.com/track/5rppHD1qvH3fkMSeyDlyYP) | [SIRENT SCREEM](https://open.spotify.com/artist/1ECaxUFJDossYsI2sQDEIS) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:42 |
 | 18 | [Axis of Hate](https://open.spotify.com/track/1c0frdeaCzLdjbrCOUCK6m) | [DEVIL WITHIN](https://open.spotify.com/artist/1WxDdqrmfrP0cLQrHGKGbh) | [DARK SUPREMACY](https://open.spotify.com/album/3Yh2NVT8r1ETPr5YY6KCZZ) | 4:21 |
 | 19 | [Meidoeno Inori](https://open.spotify.com/track/6yj5Ldyz5EdUnnizXPKepf) | [Magdalene Ju\-nen](https://open.spotify.com/artist/4r1sqt1LvF3DS6Rl2LiRY8) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:46 |
-| 20 | [Dengeki Raigo](https://open.spotify.com/track/3ZMWZMwLCHsK4I4YNpigb7) | [Yaiba](https://open.spotify.com/artist/1VcaxZthCTarsWINFwCtqD) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:03 |
+| 20 | [Dengeki Raigo](https://open.spotify.com/track/3ZMWZMwLCHsK4I4YNpigb7) | [Yaiba](https://open.spotify.com/artist/4WYmVBeDlNM4VzFLEA4QZK) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:03 |
 | 21 | [Dark Angel](https://open.spotify.com/track/69DYEtc8SCKzx4PK9FdK7f) | [Funta7](https://open.spotify.com/artist/2krWYpg7HWSuDZjWkGXZTq) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:17 |
 | 22 | [Verum Cur Non Audimus](https://open.spotify.com/track/5fEP8Qw7qjHJjeXqpN1JUr) | [Regnum Caelorum Et Gehenna](https://open.spotify.com/artist/79qppKV7LKL4UFgduERULU) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:46 |
 | 23 | [Kishin](https://open.spotify.com/track/32ZA6l8PSA9TeYwDGNQcqj) | [Kiji \(kyosokarma\)](https://open.spotify.com/artist/1i21yMnYVUPNt1P11KgL7Q) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:51 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 | 39 | [Shitou](https://open.spotify.com/track/0KAdaH8W42wWW0WE8uE8Lh) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 2:32 |
 | 40 | [Eccentric Parade](https://open.spotify.com/track/0neSATRBSylvwnttpqxUwK) | [Akinari Suzuki](https://open.spotify.com/artist/6BZSloar9skDGo2lVsveeC) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 3:37 |
 
-Snapshot ID: `MCxkMWVhMGE3MjgwZjAyY2IwNTRlYzMxNDhiMzAxMDMxNmQ1NjU0M2Fl`
+Snapshot ID: `MCwxYmE2MTAzZGY1ODY0Y2MyNzU2MTRlMTFlMGM0MzczODgxNDBmZDUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Miss Kaninna\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,027 likes - 101 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,042 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 100 | [I Want You Dead](https://open.spotify.com/track/6G7oIm5oIcd8cJ0513hYV5) | [Drift](https://open.spotify.com/artist/5As4J0NBaerSYQNuKgVuXi) | [Candyland](https://open.spotify.com/album/20wqWjwhu1NhPqRipNSrON) | 3:20 |
 | 101 | [Silly Little Things](https://open.spotify.com/track/7dlMohYqLtRbhUCG4yECUV) | [Tex Crick](https://open.spotify.com/artist/6tZLFWPPLQRWjRaDAhVYu0) | [Silly Little Things](https://open.spotify.com/album/0c66VzEzfBuypF1LX6Cg2S) | 3:11 |
 
-Snapshot ID: `MCxiMDdmMDM2NjVlMzkxYTQzMzc2OTI3NzkyNzc5MDFhNjA5OGNiZDI2`
+Snapshot ID: `MCxhMzYzN2Q1ZTY0NmE1NzJjNWFlNzYxMzYwMWYwNWYwMTkzZGY2YTg0`

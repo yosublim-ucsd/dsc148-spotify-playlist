@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 82266,
+  "num_followers": 82353,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmY1ZTIyNzc5YWZlYmIzYjhjZjc0NzA4YmZkYjU2NTUxYjllNWYx",
+  "snapshot_id": "MCw2ZWQ1ZWNmNGUzMWE3OGFkY2FjMWQ3OTdkYzcwMzVjOWQ1OGUwZjc0",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Mental Health",
-        "url": "https://open.spotify.com/album/3NurIxJFHWZCyYicllTMM5"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Scorpio",
-          "url": "https://open.spotify.com/artist/4MmceHDNzXjWNr42IFpuJc"
-        }
-      ],
-      "duration_ms": 126825,
-      "name": "Mental Health",
-      "url": "https://open.spotify.com/track/7JTn6dpOUVDSSalQd4RRy7"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "VOLUME I",
         "url": "https://open.spotify.com/album/7rFNFIghf6GymYHovyyrCO"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 180196,
       "name": "HUSHH",
       "url": "https://open.spotify.com/track/0K4pg20qcHoN8A1eWbwiOj"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "Mental Health",
+        "url": "https://open.spotify.com/album/3NurIxJFHWZCyYicllTMM5"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Scorpio",
+          "url": "https://open.spotify.com/artist/4MmceHDNzXjWNr42IFpuJc"
+        }
+      ],
+      "duration_ms": 126825,
+      "name": "Mental Health",
+      "url": "https://open.spotify.com/track/7JTn6dpOUVDSSalQd4RRy7"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "overkill",
-        "url": "https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 165916,
-      "name": "hurt less",
-      "url": "https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "fmk (with blackbear)",
         "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 146769,
       "name": "indieedgycool",
       "url": "https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "overkill",
+        "url": "https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 165916,
+      "name": "hurt less",
+      "url": "https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI"
     },
     {
       "added_at": "2022-11-15 00:54:21",

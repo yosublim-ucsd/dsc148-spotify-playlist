@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Brent Faiyaz, Taylor Swift, The Kid LAROI, PARTYNEXTDOOR, Alec Benjamin and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,169,579 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,169,787 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 |
 | 100 | [backup plan](https://open.spotify.com/track/79TutI4UOZsovErs89Dzq6) | [Ezra](https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY) | [backup plan](https://open.spotify.com/album/2ZC8xPR2yyoqYunzPd89e0) | 2:06 |
 
-Snapshot ID: `MCxhMmIwNWEyY2ZkYzQyMmMxMDczMmQzZDNlMzRkOTY4OTU0ZTNjZDYw`
+Snapshot ID: `MCw3Y2FkNjk5NWEzODc3YTk2MDQ4NzVhMTY4NWNlMmFkYWQ2OGIxM2Zl`

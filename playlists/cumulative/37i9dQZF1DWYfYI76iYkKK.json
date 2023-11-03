@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 300000,
       "name": "Autumn Thoughts",
       "url": "https://open.spotify.com/track/1MSI7PsokUAHB8DHCYth4O"
@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "\u4e94\u6708\u7684\u4eba (\u96fb\u5f71\u300a\u4e94\u6708\u96ea\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/32byNQEsbPgwK0fArLHoXF"
+      },
+      "artists": [
+        {
+          "name": "Wanfang",
+          "url": "https://open.spotify.com/artist/468BFRg8N0wGREo2L4TXZp"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283902,
+      "name": "\u4e94\u6708\u7684\u4eba - \u96fb\u5f71\u300a\u4e94\u6708\u96ea\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/3aL8V20GPzZ1ffXXJ8gFqI"
+    },
+    {
+      "album": {
         "name": "\u7121\u4eba\u77e5\u66c9",
         "url": "https://open.spotify.com/album/2ocw8ufNH6dO7QLMLidKk1"
       },
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-31",
+      "date_removed": null,
       "duration_ms": 266286,
       "name": "\u5047\u7537\u53cb",
       "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
@@ -2582,7 +2600,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 162000,
       "name": "\u5982\u679c\u6709\u4e00\u5929\u518d\u898b",
       "url": "https://open.spotify.com/track/32fzm1b8Ivyyj9qKXjiMZw"
@@ -3224,6 +3242,24 @@
       "duration_ms": 178692,
       "name": "\u611b\u662f\u60f3\u89f8\u78b0\u537b\u6536\u56de\u624b",
       "url": "https://open.spotify.com/track/4KgJ6MTwycofHvQMyKMsTa"
+    },
+    {
+      "album": {
+        "name": "\u611b\u6c92\u6709\u932f",
+        "url": "https://open.spotify.com/album/6kK5eFuVJR8URoXYIFP2t8"
+      },
+      "artists": [
+        {
+          "name": "Elva Hsiao",
+          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281237,
+      "name": "\u611b\u6c92\u6709\u932f",
+      "url": "https://open.spotify.com/track/4wK1EPnweq89yCUZismV5r"
     },
     {
       "album": {
@@ -4590,7 +4626,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-03",
       "duration_ms": 260100,
       "name": "\u71b1\u5e36\u591c",
       "url": "https://open.spotify.com/track/0XOZR0YbIHAYN9augG2Bou"

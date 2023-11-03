@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$
 
-527 songs - 20 hr 48 min
+528 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [Demons Around](https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [Demons Around](https://open.spotify.com/album/0aWMH4CTIv6hBYRzfFuLJf) | 2:45 | 2023-01-05 | 2023-07-29 |
 | [DESERT STORM](https://open.spotify.com/track/5VJRDNBmIQdggjfz1RXQPC) | [Mexelio](https://open.spotify.com/artist/5yR8KXW7sRjSHOp0XnFT0U), [AntXres](https://open.spotify.com/artist/7v9CZIFskqQfiHrQbI8B3z), [SAOTOMAMORE](https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [DESERT STORM](https://open.spotify.com/album/75KpUBu2QuWpHFMvzAp8iE) | 2:53 | 2022-08-26 | 2022-11-19 |
 | [DESIRE](https://open.spotify.com/track/25sabs7iC9eESyOpf0b6CY) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd) | [DESIRE](https://open.spotify.com/album/4HRlH8H0ujyz46QqdEBI51) | 2:21 | 2023-09-15 |  |
-| [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 | 2022-11-29 |  |
+| [Diamonds](https://open.spotify.com/track/1lAUOryDWVSCKSUdB3yvpM) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/4AARGSDwdwxsWj0M1hiMU9) | 3:26 | 2022-11-29 |  |
+| [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 | 2022-11-29 | 2023-11-03 |
 | [dignity](https://open.spotify.com/track/1Ov0gxcMyTR2zwm2Xs9Bb8) | [KevinKempt](https://open.spotify.com/artist/5rW6rpuV2MZfke72uiQe8a) | [dignity](https://open.spotify.com/album/7nbZ5aIEgcTYtxJv3esZl6) | 2:58 | 2021-12-10 | 2022-04-20 |
 | [DISINTEGRATE](https://open.spotify.com/track/5M3T7YoQFE9xzxRZXzTBKX) | [K.V.N](https://open.spotify.com/artist/0spgIsDeSqUcUjfejGzMXc), [Cyberdrip$](https://open.spotify.com/artist/3FoS8RMVwPAVPfkHdeBygg) | [DISINTEGRATE](https://open.spotify.com/album/1NAyYqFwiV6v0t1e4Ztzea) | 1:54 | 2022-03-18 | 2022-04-20 |
 | [DND](https://open.spotify.com/track/6ClxmXNZDtBmz3Zhu4JB0R) | [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [DND](https://open.spotify.com/album/2UKV7SF4C0wvqVrLrwpScu) | 1:59 | 2023-03-24 | 2023-04-15 |

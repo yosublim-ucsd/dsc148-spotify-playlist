@@ -4,7 +4,7 @@
 
 > New Rock & Alt driving the current, every week\. Cover: Meet Me @ The Altar
 
-235 songs - 11 hr 48 min
+236 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Just Wanna](https://open.spotify.com/track/1rMQspcZOdnHUwGuxzDufu) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [flowers, the album](https://open.spotify.com/album/6ECWmsYxSmyzN7yYDrWWTx) | 3:11 | 2022-02-12 | 2022-03-18 |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-02-12 | 2022-10-08 |
 | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI) | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/album/7sRIz0hKDDtZCzVNZmneuC) | 2:20 | 2023-04-07 |  |
-| [Keep It Rolling](https://open.spotify.com/track/6tYin3Nya3wS8F48TueJUJ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Keep It Rolling](https://open.spotify.com/album/2YIfWZjgVJWrrSTZJot3Mp) | 2:50 | 2023-06-02 |  |
+| [Keep It Rolling](https://open.spotify.com/track/4eWCIVuL2da2h1gJn047Et) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Keep It Rolling](https://open.spotify.com/album/7KWJ8TMxVkGV3NNxrzgDt1) | 2:50 | 2023-09-15 |  |
+| [Keep It Rolling](https://open.spotify.com/track/6tYin3Nya3wS8F48TueJUJ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Keep It Rolling](https://open.spotify.com/album/2YIfWZjgVJWrrSTZJot3Mp) | 2:50 | 2023-06-02 | 2023-11-03 |
 | [Kerosene!](https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 5:05 | 2022-07-22 | 2022-08-27 |
 | [Kids Don't Buy Groceries](https://open.spotify.com/track/3qpZF480vZzafyfVqIaf4f) | [Hyattsvillain](https://open.spotify.com/artist/1X8K2CJ9gE4QDrh8TVRMKr) | [Kids Don't Buy Groceries](https://open.spotify.com/album/7gy5MwfTEMiom8RoUdIBLp) | 2:03 | 2022-03-18 | 2022-12-03 |
 | [Knock Me Out](https://open.spotify.com/track/6hZg9eBzZtn5SpHarPehbU) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Knock Me Out](https://open.spotify.com/album/5X4AuforMNHvb66UZU3zfE) | 3:05 | 2022-02-12 | 2022-07-23 |
