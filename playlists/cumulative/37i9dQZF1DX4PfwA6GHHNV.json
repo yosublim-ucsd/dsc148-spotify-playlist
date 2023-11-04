@@ -277,6 +277,36 @@
     },
     {
       "album": {
+        "name": "Causa",
+        "url": "https://open.spotify.com/album/6dLaJeU1l2LzBNWZV4ul2C"
+      },
+      "artists": [
+        {
+          "name": "Don",
+          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        },
+        {
+          "name": "Pascon",
+          "url": "https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127627,
+      "name": "Causa",
+      "url": "https://open.spotify.com/track/5RlkuQxjxRw6oASf7wTvBC"
+    },
+    {
+      "album": {
         "name": "COLADINHO",
         "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
       },
@@ -1150,7 +1180,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 130666,
       "name": "Promessas",
       "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
@@ -1212,7 +1242,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 213573,
       "name": "Quando Voc\u00ea Me Olha",
       "url": "https://open.spotify.com/track/6Z852WH6is9vPVdllAox6K"
@@ -1512,7 +1542,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 215572,
       "name": "T\u00f4 Aqui de Novo",
       "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"

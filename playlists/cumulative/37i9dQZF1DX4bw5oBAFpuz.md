@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-326 songs - 18 hr 59 min
+327 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 | 2023-02-23 |  |
 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 | 2023-02-23 |  |
 | [Company](https://open.spotify.com/track/6lf2e8a0NOf8877D78GpaP) | [Lea Rue](https://open.spotify.com/artist/1RPZu5nxPrakSD5NumbgSn) | [Company](https://open.spotify.com/album/0nUk17FZxbfpK1AOQF4cHD) | 3:02 | 2023-02-23 |  |
-| [COMPLETE MESS](https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:26 | 2023-04-06 |  |
+| [COMPLETE MESS](https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:26 | 2023-04-06 | 2023-11-04 |
+| [COMPLETE MESS](https://open.spotify.com/track/7tqcKt5H9BmBLaT22VHqBX) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 3:26 | 2023-11-02 |  |
 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 | 2023-02-23 |  |
 | [Crazy](https://open.spotify.com/track/0JYPUB7FFVAew3qXxhfXVa) | [Lisa Lois](https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL) | [Crazy](https://open.spotify.com/album/31r84Xu8EUGaws9CrhlzV8) | 3:43 | 2023-04-25 |  |
 | [Crossroads](https://open.spotify.com/track/00s6DXiI1QKcmC6Rgpv5rA) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Crossroads](https://open.spotify.com/album/0WxWpSTJASFJofnbr7vA76) | 2:35 | 2023-02-23 |  |

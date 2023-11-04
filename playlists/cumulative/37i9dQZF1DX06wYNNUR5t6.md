@@ -4,7 +4,7 @@
 
 > Build the foundation of your day with this great list of inspired modern rock and hardcore songs!  Cover: Wolves At The Gate
 
-66 songs - 4 hr 14 min
+67 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [The Cure](https://open.spotify.com/track/3bimN1JcQkbLWcUJexAEyh) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eclipse](https://open.spotify.com/album/6L8gLKCluioceYP7WNmcol) | 4:16 | 2021-04-10 |  |
 | [The Evening Hate](https://open.spotify.com/track/2afTqQjKpq8e4qmUwZbQRI) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [The Evening Hate](https://open.spotify.com/album/7CDRVjW6yQIG1nt79t2qFS) | 4:47 | 2021-04-10 |  |
 | [The First & the Last](https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [The First & the Last](https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m) | 3:39 | 2021-04-10 |  |
-| [The Old Me](https://open.spotify.com/track/7HIQfzq7uFZNZUxzK2OjbH) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Broken](https://open.spotify.com/album/6OjdYx9U5k0Tex2SAKyDSh) | 3:09 | 2021-04-10 |  |
+| [The Old Me](https://open.spotify.com/track/4mMgi9flknFXQi4VSbhi47) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Broken](https://open.spotify.com/album/0ItP8PEXg35DjbKlso5Gvn) | 3:09 | 2021-04-10 |  |
+| [The Old Me](https://open.spotify.com/track/7HIQfzq7uFZNZUxzK2OjbH) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Broken](https://open.spotify.com/album/6OjdYx9U5k0Tex2SAKyDSh) | 3:09 | 2021-04-10 | 2023-11-04 |
 | [The Price of Agony](https://open.spotify.com/track/13zKsRskPB1TD9lWtbMoXH) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc) | 4:47 | 2021-04-10 | 2023-05-24 |
 | [The Price of Agony](https://open.spotify.com/track/7AtpVDfDXLUFVwojUMUYce) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/1YzifcxmauqYL9BXr0rkKs) | 4:47 | 2021-04-10 |  |
 | [Too Late](https://open.spotify.com/track/2HdXs8oiSI2I3K65sPg1WS) | [Amongst the Giants](https://open.spotify.com/artist/12rJfJCwHnKC7VuuLk9xtJ) | [Obscene](https://open.spotify.com/album/0lzEISCPcYEJ78E1qxWGQm) | 3:08 | 2021-04-10 |  |

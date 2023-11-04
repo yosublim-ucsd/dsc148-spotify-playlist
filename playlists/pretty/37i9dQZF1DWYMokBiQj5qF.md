@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMokBiQj5qF.md) - [plain]
 
 > Immerse yourself in the sounds of Night City with the official playlist for Cyberpunk 2077.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,213 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,749 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Phantom Liberty](https://open.spotify.com/track/2hw9Nz7t6JMfUexPma8Pwi) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM) | [Phantom Liberty](https://open.spotify.com/album/48yJPZFOOSm4DyzuccVOzx) | 5:47 |
 | 2 | [Chippin' In](https://open.spotify.com/track/0UHxkkgI5GfV0XBRA1rqfe) | [SAMURAI](https://open.spotify.com/artist/5Lv9Qc7dCi7vps4rQ5MfTV), [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [Chippin' In](https://open.spotify.com/album/5NjxLtH4VJE1KHqSC4CSXQ) | 3:33 |
 | 3 | [V](https://open.spotify.com/track/2u1FWVxAb16qbgwPgygAdj) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [Cyberpunk 2077 \- Original Score](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp) | 2:34 |
-| 4 | [No Save Point \- From "Cyberpunk 2077"](https://open.spotify.com/track/27SjutLnh1PXRYDjmSDs78) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [No Save Point \(From "Cyberpunk 2077"\)](https://open.spotify.com/album/0AeuKmOe7czsrYwwovI3qu) | 3:15 |
+| 4 | [No Save Point \(From “Cyberpunk 2077”\)](https://open.spotify.com/track/5CDuTBTKuXHwLIfbmqQdQK) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [RTJ4 \(Deluxe Edition\)](https://open.spotify.com/album/6OF22epek0JiHpizYsA9jm) | 3:15 |
 | 5 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 |
 | 6 | [Choke Hold](https://open.spotify.com/track/1IwYMzwT0oJTmWKmIXAM8W) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [The Phantom Files \(From Cyberpunk 2077\)](https://open.spotify.com/album/70Cg9EoQ42gxXluxkaYGSm) | 2:21 |
 | 7 | [The Rebel Path](https://open.spotify.com/track/3m8UfZwPMMbiWfGR8Lg2cR) | [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM) | [Cyberpunk 2077 \- Original Score](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMokBiQj5qF.md) - [plain]
 | 49 | [Kill the Messenger](https://open.spotify.com/track/68yx2Beo1RjNVZnqJLSLdI) | [Rezodrone](https://open.spotify.com/artist/2tEdEw3y27YJiYmE7PBhEt), [The Cartesian Duelists](https://open.spotify.com/artist/1mOFFFCUHaHqHh7MqYG4GU) | [Cyberpunk 2077: More Music from Night City Radio \(Original Soundtrack\)](https://open.spotify.com/album/4mrlWRASoO5Ue8IXLHAApC) | 3:28 |
 | 50 | [Never Fade Away \(SAMURAI Cover\)](https://open.spotify.com/track/6pV1lc8lIc8ARNB6KsZukt) | [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM), [Olga Jankowska](https://open.spotify.com/artist/21wBpKqWBjOZA1lERaq4lb) | [Cyberpunk 2077 \- Original Score](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp) | 4:46 |
 
-Snapshot ID: `MCw2MjdlYWFhNjM2YjFjNTY1YmM2NjM5NzAzY2QwYmQzM2JkNmNjZjZl`
+Snapshot ID: `MCw2MTdiZDk3OGFmMDNmYjFjMDEyNmI2OTZmNWIwYmM5ZjQ5NzQ5ZGE3`

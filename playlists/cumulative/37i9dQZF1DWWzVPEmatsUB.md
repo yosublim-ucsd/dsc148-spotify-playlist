@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-376 songs - 22 hr 41 min
+378 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Honey + Tea](https://open.spotify.com/track/7t9rZKKU43qcg5oyUEp4XL) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4) | [Human](https://open.spotify.com/album/5fiWptoi1Xs9XA9pew7g0P) | 3:42 | 2020-10-17 | 2022-07-29 |
 | [How It Is](https://open.spotify.com/track/3dOdTTBgaFjWQQwkzutYRK) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Chapter II, Ep\. II](https://open.spotify.com/album/2leIstMI70FWX915636325) | 3:29 | 2020-10-17 | 2022-04-18 |
 | [Hurt](https://open.spotify.com/track/6CtLfwWCulVd1gTc0lXX3V) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Hurt](https://open.spotify.com/album/5ToVfX78brCLj6yvgXXvpi) | 3:36 | 2020-10-17 | 2022-04-18 |
-| [I Do](https://open.spotify.com/track/5MarIZklriKZNvAzfKdMHj) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 3:10 | 2022-09-16 |  |
+| [I Do](https://open.spotify.com/track/1fuBFgGd9gIPqWeEibGtAc) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/7xUEy3UR5uGEv3JvfrXKdb) | 3:10 | 2023-09-01 |  |
+| [I Do](https://open.spotify.com/track/5MarIZklriKZNvAzfKdMHj) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 3:10 | 2022-09-16 | 2023-11-04 |
 | [I Do](https://open.spotify.com/track/4x4ucaprkYX3cQ3LYG1bo6) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [King Calaway](https://open.spotify.com/album/5J2QWaK5lqtv6OrpLoMxUj) | 3:45 | 2020-10-17 | 2022-04-19 |
 | [I Found A Love](https://open.spotify.com/track/4X1pp61d0eFrOx07WHrRmx) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Taali](https://open.spotify.com/artist/5SkhihNXZNPmooUcbSVZho) | [No Beginning No End 2](https://open.spotify.com/album/0KKurlvDI9YjNgwHm8fNP4) | 3:44 | 2020-10-17 | 2022-07-28 |
 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/1YVmpBp53G1trEySVwJJPP) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/album/2DWRIlo1R10apEYqCk2fK7) | 3:12 | 2022-12-02 | 2023-03-11 |
@@ -164,7 +165,8 @@
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-04-08 |  |
 | [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 | 2022-05-20 | 2023-03-03 |
 | [I Would've](https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:30 | 2022-05-27 |  |
-| [I'll Be Seeing You](https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/3QUlMH61fQz93W2uVNU5CF) | 4:45 | 2023-06-08 |  |
+| [I'll Be Seeing You](https://open.spotify.com/track/0yyFpden41F1GBOjst2KkZ) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/6dxDMr7tAs1NCfZGZDUBja) | 4:45 | 2023-09-01 |  |
+| [I'll Be Seeing You](https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/3QUlMH61fQz93W2uVNU5CF) | 4:45 | 2023-06-08 | 2023-11-04 |
 | [Icarus](https://open.spotify.com/track/2KzpsnZztszanilxkAQBTh) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [ICARUS](https://open.spotify.com/album/6aGniRX6xCiybxgzc6llFD) | 4:58 | 2020-10-17 | 2022-08-14 |
 | [Ice Man](https://open.spotify.com/track/0c3cFBp7IzXAiQKx6ucHbi) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [Stella, My Dear](https://open.spotify.com/album/0LwYhgUQAv5q9kBrc5yKQ0) | 3:12 | 2022-04-29 |  |
 | [Ice Man](https://open.spotify.com/track/42KkrT9sBd21DHog1JvzVr) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [Ice Man](https://open.spotify.com/album/7h8OiD3ZlKFAdNTZmsZLE6) | 3:12 | 2022-04-22 | 2022-07-29 |

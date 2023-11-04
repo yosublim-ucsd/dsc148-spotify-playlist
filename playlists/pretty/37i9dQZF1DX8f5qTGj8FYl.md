@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,755 likes - 150 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,831 likes - 150 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 68 | [Gun Metal Grey](https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Long in the Tooth](https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf) | 3:16 |
 | 69 | [Shine It](https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [End Of The World Party \(Just In Case\)](https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX) | 4:59 |
 | 70 | [Return of the Son of Switchblade](https://open.spotify.com/track/4TJoZj7r0VUtlNQrkXwpna) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Return of the Son of Switchblade](https://open.spotify.com/album/7LK5KbUs9DXpzCJiLv8ZJs) | 3:32 |
-| 71 | [Sleep Depraved](https://open.spotify.com/track/4VDIqajjzfienIbv3zuu6o) | [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw) | [Sleep Depraved](https://open.spotify.com/album/5lZJfhuQGHwDcRJfktfRQK) | 4:17 |
+| 71 | [Sleep Depraved](https://open.spotify.com/track/4KGPk8tcnfjwCGkyDDaVvp) | [WRD Trio](https://open.spotify.com/artist/3X7BXKZNdJxqDhkIxgwzCM), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER) | [The Hit](https://open.spotify.com/album/1dzSCG6nov0zLtT0Bckdl1) | 4:17 |
 | 72 | [The Scarab's Quest](https://open.spotify.com/track/1dkfnaV3LVFH4DxADgBXsP) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Scarab's Quest](https://open.spotify.com/album/2lqVp42YBxsM3usUoSWOAA) | 3:30 |
 | 73 | [F.F.F.](https://open.spotify.com/track/78uML92CuXsqQ8u0Tx2JNG) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [F.F.F.](https://open.spotify.com/album/4wJUCSwfl9g1HW930heEoh) | 3:11 |
 | 74 | [BITTERSWEET](https://open.spotify.com/track/54zWQx9UkouSu8x403Ggho) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [BITTERSWEET](https://open.spotify.com/album/2iyhSZhJCh7Rvot3bnHGdF) | 4:04 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 76 | [October](https://open.spotify.com/track/7jqF9LNGl1yVNnex6gfRxp) | [The CB3](https://open.spotify.com/artist/3z9nMmCLIxruNbcL4Iddsl) | [October](https://open.spotify.com/album/6uNVOr3FHTSIfsVEw5kwn6) | 4:47 |
 | 77 | [Drum Machine](https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1) | [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Drum Machine](https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk) | 3:03 |
 | 78 | [Rubberneck](https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44) | [The Shakedown](https://open.spotify.com/album/6wKstFXknq7quU5pgIwZOr) | 3:21 |
-| 79 | [Kabuki](https://open.spotify.com/track/4SkVO7JGpsMclUhc8Kcwwf) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy) | 4:28 |
+| 79 | [Kabuki](https://open.spotify.com/track/0GTNVTzaXx4B8BBid7KPF2) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/0P3xpotuVfJghJHe4yLKqD) | 4:28 |
 | 80 | [This Too Shall Pass](https://open.spotify.com/track/3lqjFAF4mSZADKITRN1XtG) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Avatar Horns](https://open.spotify.com/artist/2kPPtGrPl59H7uFKz4MehA) | [This Too Shall Pass](https://open.spotify.com/album/5x51A3aFTU50iOMTKLKphR) | 3:54 |
 | 81 | [Down Frenchmen St](https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8) | [The Filthy Six](https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp) | [The Fox](https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J) | 5:57 |
 | 82 | [Duck Funk, Pt\. 2 \- Underscores](https://open.spotify.com/track/2ptZQinGOVOA4ZEKUqZPXq) | [Gary McKay](https://open.spotify.com/artist/5fm9cOIq4ANL0KBpuu6jKS), [Justin Humphries](https://open.spotify.com/artist/1jQMlh0HhuPNmL4I3BJsM9) | [Funkin' Jazz 2: Musical Images, Vol\. 77](https://open.spotify.com/album/06VVFGxR3RhXjWiiATanIZ) | 2:07 |
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 123 | [Stay In Your Lane](https://open.spotify.com/track/55ti5VOfdRuHEfMkbnOXR3) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay), [Charles Ray](https://open.spotify.com/artist/1jT9Psox5ynYWAm84QFZHX), [Troy Atkins](https://open.spotify.com/artist/1T1Loh1f6OZ5gEOnvvJKcM) | [Stay In Your Lane](https://open.spotify.com/album/6CubQ1ELEiX9v8fOG0RGWl) | 2:00 |
 | 124 | [Work Tapes](https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [3 \(Remastered\)](https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML) | 2:18 |
 | 125 | [Bambu](https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH) | [Chris Hazelton's Boogaloo 7](https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr) | [The Basement Beat](https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB) | 7:50 |
-| 126 | [Did It Again](https://open.spotify.com/track/0YmQkGWoYcqCrX4ODkG3RB) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Did It Again](https://open.spotify.com/album/5mUX4i1livQVwMsiY3wnNh) | 4:07 |
+| 126 | [Did It Again](https://open.spotify.com/track/5BKtywlUwpUUb9wAAqH7AN) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/0P3xpotuVfJghJHe4yLKqD) | 4:07 |
 | 127 | [Village Life](https://open.spotify.com/track/0QWgR4xiWCzEWE2pXMdXEd) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [2017](https://open.spotify.com/album/69SrXrzMk4yilsHSUp0qqI) | 4:39 |
 | 128 | [Flatfoot](https://open.spotify.com/track/0RHr2hG0bIODmOjaex4oyT) | [Fusik](https://open.spotify.com/artist/4EDtxm2WLicV4I1B9E8kl2) | [Flatfoot](https://open.spotify.com/album/1qXOH9z8qIVELOkM3HZCAm) | 4:33 |
 | 129 | [Elephant Head](https://open.spotify.com/track/2vaFeliGdhIM1KKQj1Aba9) | [Alan Evans Trio](https://open.spotify.com/artist/782YLYIMEd3KKv9V7IPvBi) | [Elephant Head](https://open.spotify.com/album/1CSrZ7rDATwLqZuv05Kzyd) | 4:18 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 149 | [Look\-A Py Py](https://open.spotify.com/track/18Z1Tro6FApXmBeP4EICsn) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Undercover Mixtape](https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY) | 2:33 |
 | 150 | [Goliath](https://open.spotify.com/track/3xGsGKZtO9igxUGjC6SFcv) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Into The Infrasounds](https://open.spotify.com/album/73HHKGxaTm3f0GognR7hBv) | 5:03 |
 
-Snapshot ID: `MCw4ZWYyOTcyMzQ2ODhiNWQyNmEwYzRiODVkNDc1NjdmN2RkNTI2YmQ3`
+Snapshot ID: `MCwxMTI5NjNhNTU0ZjNjMjA5ZDdmZTkxYWI5ZWVhMmRlYzA5MWM2NzU2`

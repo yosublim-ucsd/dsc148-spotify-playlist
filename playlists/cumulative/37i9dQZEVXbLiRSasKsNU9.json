@@ -3213,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "A\u011flama ben a\u011flar\u0131m",
+        "url": "https://open.spotify.com/album/3rgbFg9EMtHdzwrxibL6ha"
+      },
+      "artists": [
+        {
+          "name": "Canozan",
+          "url": "https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191694,
+      "name": "A\u011flama ben a\u011flar\u0131m",
+      "url": "https://open.spotify.com/track/0JU2QfhTrgFsVq5yQ4YQlu"
+    },
+    {
+      "album": {
         "name": "A\u011flatt\u0131n",
         "url": "https://open.spotify.com/album/4sruFA5F7yG1sYAs5lcI9z"
       },
@@ -9378,7 +9396,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 196388,
       "name": "DJ MALAM PAGI X HAMIL DULUAN",
       "url": "https://open.spotify.com/track/6nWn4U5GAoKIU3XM7drAgr"
@@ -10616,7 +10634,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 124000,
       "name": "ELLER\u0130M BO\u015e",
       "url": "https://open.spotify.com/track/0Y4mwQ4z0Voplgh7o2OZYm"
@@ -14314,6 +14332,32 @@
       "duration_ms": 207428,
       "name": "Hallow Kitty",
       "url": "https://open.spotify.com/track/6sizQj16amSoj5iXMDCx5J"
+    },
+    {
+      "album": {
+        "name": "Halloween (Original 2018 Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CKWm3CJVrTSttgNyX90LM"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        },
+        {
+          "name": "Cody Carpenter",
+          "url": "https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg"
+        },
+        {
+          "name": "Daniel Davies",
+          "url": "https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182375,
+      "name": "Halloween Theme",
+      "url": "https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq"
     },
     {
       "album": {

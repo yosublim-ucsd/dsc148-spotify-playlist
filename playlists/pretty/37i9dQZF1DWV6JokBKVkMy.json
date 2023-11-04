@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1981,
+  "num_followers": 1995,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjFiNmIxNDQ4MGFlODc0OTFmZGQwNGJlMDA2ZTdmYTcxNDdlYWJh",
+  "snapshot_id": "MCw0OGFmNTIxNDRjNzE4OGU1MzdhODI5OTZmZDQ5ZGM4N2MxNmQ3Yzc5",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Elle danse",
-        "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
-      },
-      "artists": [
-        {
-          "name": "Gary Victor",
-          "url": "https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1"
-        }
-      ],
-      "duration_ms": 202185,
-      "name": "Pomper",
-      "url": "https://open.spotify.com/track/2h7nEq7C0QwAQ75GAZzyhv"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Le meilleur de Cassiya avec D\u00e9sir\u00e9 Fran\u00e7ois (Best Of, vol. 1)",
         "url": "https://open.spotify.com/album/6KeVT9o7E0gqnyhugESYnh"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 273240,
       "name": "Rev nou anc\u00e9tres",
       "url": "https://open.spotify.com/track/2Bqtk3rEMJNCLGoGY52Xkd"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Elle danse",
+        "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
+      },
+      "artists": [
+        {
+          "name": "Gary Victor",
+          "url": "https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1"
+        }
+      ],
+      "duration_ms": 202185,
+      "name": "Pomper",
+      "url": "https://open.spotify.com/track/2h7nEq7C0QwAQ75GAZzyhv"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "S\u00e9paration (Zenfants perdi sim\u00e9)",
-        "url": "https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY"
-      },
-      "artists": [
-        {
-          "name": "Cassiya",
-          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
-        }
-      ],
-      "duration_ms": 306466,
-      "name": "R\u00e8ve nou anc\u00e8tre",
-      "url": "https://open.spotify.com/track/7CJjb2vLJSQPqUIEX1TpRV"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Roule a li m\u00eame",
         "url": "https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs"
       },
@@ -223,6 +207,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Alim\u00e9 dif\u00e9 (Ile Maurice)",
+        "url": "https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Alim\u00e9 dif\u00e9 - Version originale",
+      "url": "https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Sega Ar Pwa",
         "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
       },
@@ -239,18 +239,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Alim\u00e9 dif\u00e9 (Ile Maurice)",
-        "url": "https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb"
+        "name": "S\u00e9paration (Zenfants perdi sim\u00e9)",
+        "url": "https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY"
       },
       "artists": [
         {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0"
+          "name": "Cassiya",
+          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
         }
       ],
-      "duration_ms": 313000,
-      "name": "Alim\u00e9 dif\u00e9 - Version originale",
-      "url": "https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ"
+      "duration_ms": 306466,
+      "name": "R\u00e8ve nou anc\u00e8tre",
+      "url": "https://open.spotify.com/track/7CJjb2vLJSQPqUIEX1TpRV"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La vie est belle (Best Of)",
-        "url": "https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ"
-      },
-      "artists": [
-        {
-          "name": "AUBIN",
-          "url": "https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Met dan la joie",
-      "url": "https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Music from Mauritius",
         "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 174497,
       "name": "Ambalaba",
       "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "La vie est belle (Best Of)",
+        "url": "https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ"
+      },
+      "artists": [
+        {
+          "name": "AUBIN",
+          "url": "https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Met dan la joie",
+      "url": "https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Soul Sok S\u00e9ga",
+        "url": "https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f"
+      },
+      "artists": [
+        {
+          "name": "Claudio",
+          "url": "https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT"
+        }
+      ],
+      "duration_ms": 261911,
+      "name": "Bhai Aboo",
+      "url": "https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Zalouzi",
         "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 250358,
       "name": "Ti lipi\u00e9 fer rozet",
       "url": "https://open.spotify.com/track/31pGdVTn8adJ9FV2515Lkd"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Soul Sok S\u00e9ga",
-        "url": "https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f"
-      },
-      "artists": [
-        {
-          "name": "Claudio",
-          "url": "https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT"
-        }
-      ],
-      "duration_ms": 261911,
-      "name": "Bhai Aboo",
-      "url": "https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Zalouzi",
+        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
+      },
+      "artists": [
+        {
+          "name": "JSB Morning Game",
+          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
+        }
+      ],
+      "duration_ms": 281917,
+      "name": "Madame ohh",
+      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Eliza",
         "url": "https://open.spotify.com/album/5xUYCT6hrnMS2o2G6PUrOp"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 231504,
       "name": "Sega Champagne",
       "url": "https://open.spotify.com/track/1e2rj3iOYXGEJ6Ybftt5Uc"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Zalouzi",
-        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
-      },
-      "artists": [
-        {
-          "name": "JSB Morning Game",
-          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
-        }
-      ],
-      "duration_ms": 281917,
-      "name": "Madame ohh",
-      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
     },
     {
       "added_at": "2022-08-11 10:05:16",

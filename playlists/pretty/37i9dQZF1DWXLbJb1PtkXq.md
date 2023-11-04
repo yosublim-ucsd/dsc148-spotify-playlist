@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 
 > Les plus grands hits français des années 90\. Photo: Manau
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,412 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,476 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 | 8 | [Maldòn \- Version originale](https://open.spotify.com/track/6YoBe1FqFL5w10bQbemW16) | [Zouk Machine](https://open.spotify.com/artist/7g4xlENR9dJm09i7ADhi21) | [Maldòn \(La musique dans la peau\)](https://open.spotify.com/album/7zrPW2t1vhy9fjOfopjQYN) | 4:05 |
 | 9 | [Fruit de la passion](https://open.spotify.com/track/2THUeP0bmT7Vgm58ZnsChY) | [Francky Vincent](https://open.spotify.com/artist/2f1sCYchPgMRLazyu8XG2h) | [Mon fest' of](https://open.spotify.com/album/34UujAnGCJTpxWUpQLG19W) | 3:58 |
 | 10 | [Aller Plus Haut](https://open.spotify.com/track/5qcSLeAHIEQTtzGOSjYI9u) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [In Deep](https://open.spotify.com/album/7DmS2EqSpQNLaDOu0lUhlV) | 5:03 |
-| 11 | [Le jerk](https://open.spotify.com/track/0jgkWa8bV8PpMk7Tv0eKrw) | [Thierry Hazard](https://open.spotify.com/artist/21h26EWdy9snENqbeAZorA) | [Pop music](https://open.spotify.com/album/4kXEX9aGGUH0JdFmBLcZ1s) | 3:55 |
+| 11 | [Le Jerk](https://open.spotify.com/track/0YJjl4SSIBx3h7L5M9OgiG) | [Thierry Hazard](https://open.spotify.com/artist/21h26EWdy9snENqbeAZorA) | [Pop music](https://open.spotify.com/album/5MTZgfb9sPyDgQiitaxOhT) | 3:55 |
 | 12 | [Au Nom De La Rose \- Extended](https://open.spotify.com/track/0NVZyMTuIbzuENpsmQH3pR) | [Moos](https://open.spotify.com/artist/3ss1W75PCO48uqhJQeNryF) | [Le Crabe Est Erotique](https://open.spotify.com/album/1FPxZ51k9YfXoEdISj15yf) | 4:28 |
 | 13 | [Belle](https://open.spotify.com/track/7fLWUJpyNbEfrLFKLo8ymN) | [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq), [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn), [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM) | [Notre Dame de Paris \- Comédie musicale \(Complete Version In French\)](https://open.spotify.com/album/4UAJqzCC5BhqqVDFdsbd5K) | 4:54 |
 | 14 | [L'hymne de nos campagnes \- Live](https://open.spotify.com/track/0tcFkV7zLOGWgUbYtD6ROz) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Mamagubida](https://open.spotify.com/album/5nFS7n7hpqlDOXI8e4ggsL) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 | 49 | [Bienvenue chez moi](https://open.spotify.com/track/17UfIUXlkq6u0ZiDqqda1R) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Bienvenue chez moi](https://open.spotify.com/album/6Pb6dzCoqNp4DdV7pCrfv5) | 4:09 |
 | 50 | [Paris a le Blues](https://open.spotify.com/track/2fJy6kGyMOusAwdzTmxIN3) | [Mad In Paris](https://open.spotify.com/artist/3fsoaS1PLh7xYiJsVb7QR0) | [Mad In Paris](https://open.spotify.com/album/6FGWuEYu8CKh6CQgrB6aoA) | 4:51 |
 
-Snapshot ID: `MCxjN2QzYTJkMjEwNDVjYmI5NzAwZjJjYTQ5NDE0MTNmODQxNDI1NzFj`
+Snapshot ID: `MCxkMTUzMDQ4N2RjY2E5MWNmOWUwZDgyZWI3ZDFkMDAzMzBhMTQzYTZh`

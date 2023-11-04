@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-668 songs - 1 day 4 hr 53 min
+669 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Abre los ojos](https://open.spotify.com/track/0xxo7AH7SJMuoTJKeX72Jj) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Abre los ojos](https://open.spotify.com/album/4EM7qAQ7pqE6qWYFFp7aVi) | 2:46 | 2022-04-15 | 2022-11-19 |
 | [Abuelo](https://open.spotify.com/track/6Oimt1bnKnDzmRn4RiB7D4) | [ANTICLEA](https://open.spotify.com/artist/2ksAWinh38Fp03NmgzuJTv) | [Abuelo](https://open.spotify.com/album/7nm2rqvpNj3pSKIvlNwmNE) | 2:33 | 2022-04-15 | 2022-04-23 |
 | [Adagio](https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Adagio](https://open.spotify.com/album/2rlGSTH3U5yFtDzs296a89) | 3:55 | 2022-04-15 | 2022-05-14 |
-| [After a Visit](https://open.spotify.com/track/3rKSpzc4iNd7kiihS6V7ZY) | [Haakon Stange](https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx) | [After a Visit](https://open.spotify.com/album/17wW4OptqVkAC4xNZLWM7H) | 2:01 | 2022-11-18 |  |
+| [After a Visit](https://open.spotify.com/track/3rKSpzc4iNd7kiihS6V7ZY) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [After a Visit](https://open.spotify.com/album/17wW4OptqVkAC4xNZLWM7H) | 2:01 | 2022-11-18 |  |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2022-04-15 | 2022-04-23 |
 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 | 2022-04-15 |  |
 | [Al buio con te](https://open.spotify.com/track/2xU7HfHYdDO8T4TVRJwvHJ) | [Nicola Conti](https://open.spotify.com/artist/6vfIB4LyqkmDQevucWiiif) | [Al buio con te](https://open.spotify.com/album/6emKARrpD8jsPvjXkZdQOs) | 2:16 | 2022-10-14 |  |
@@ -109,7 +109,8 @@
 | [Crois\-moi](https://open.spotify.com/track/7gbuY0z2iWcQilSlv5PXP2) | [Adeline Morton](https://open.spotify.com/artist/3JI4G1n9Q8OE3z9RnMFfqy) | [Crois\-moi](https://open.spotify.com/album/65c1h5QETMDAANLH5Guydk) | 2:32 | 2022-04-15 | 2022-05-14 |
 | [Crossing The Line](https://open.spotify.com/track/3oGSYfpXW9Z26s0tHiab6w) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Crossing The Line](https://open.spotify.com/album/1khXOksViOnCC12iQLSjC2) | 2:01 | 2022-04-15 | 2022-12-24 |
 | [Crystal moon](https://open.spotify.com/track/3pTP6JJ5im89P2rICAfj3P) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Rose garden](https://open.spotify.com/album/6jpeXcKQxgoIDD249Np3xn) | 3:06 | 2022-08-09 |  |
-| [Cuantos](https://open.spotify.com/track/7h16IhKzMCC3d2GXx2Zkx7) | [Entre Tantas Notas](https://open.spotify.com/artist/028oRjxIqjrDjalf9Uf2vw) | [Cuantos](https://open.spotify.com/album/2c7QaUxYizgQ3Lc8oDRgzl) | 2:48 | 2022-11-18 |  |
+| [Cuantos](https://open.spotify.com/track/3ABTGVU8g1zkAuGpmYuRrh) | [Entre Tantas Notas](https://open.spotify.com/artist/028oRjxIqjrDjalf9Uf2vw) | [Cuantos](https://open.spotify.com/album/6WpH2rtp7IiESISWYxx05O) | 2:48 | 2023-10-23 |  |
+| [Cuantos](https://open.spotify.com/track/7h16IhKzMCC3d2GXx2Zkx7) | [Entre Tantas Notas](https://open.spotify.com/artist/028oRjxIqjrDjalf9Uf2vw) | [Cuantos](https://open.spotify.com/album/2c7QaUxYizgQ3Lc8oDRgzl) | 2:48 | 2022-11-18 | 2023-11-04 |
 | [Cuore](https://open.spotify.com/track/1a31NqOXht9wFFpjTYRirI) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Cuore](https://open.spotify.com/album/5X7LXtUg4O5ZLy1aRqfGgr) | 2:40 | 2022-04-15 | 2023-05-04 |
 | [D'émeraude](https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB) | [Daniel Joaví](https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT) | [D'émeraude](https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ) | 2:06 | 2022-04-15 |  |
 | [Dahlias](https://open.spotify.com/track/0r0z0VyDa8X5fu3Kl6ybYi) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Dahlias](https://open.spotify.com/album/22hBdp6pvyZzEI3Fu8x58n) | 2:11 | 2022-04-15 |  |

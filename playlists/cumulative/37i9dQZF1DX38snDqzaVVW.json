@@ -262,6 +262,24 @@
     {
       "album": {
         "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271280,
+      "name": "Allah Uya",
+      "url": "https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
         "url": "https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa"
       },
       "artists": [
@@ -272,7 +290,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 271280,
       "name": "Allah Uya",
       "url": "https://open.spotify.com/track/5GhrRWZZez52XUAlZ3aHRE"
@@ -871,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446826,
+      "name": "Diaraby (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/5nK18JPh71fznLrmiDT2wo"
+    },
+    {
+      "album": {
         "name": "Talking Timbuktu (with Ry Cooder)",
         "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
       },
@@ -886,7 +922,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 446826,
       "name": "Diaraby (with Ry Cooder)",
       "url": "https://open.spotify.com/track/1WmRNq13XPvbmIRcZljM3D"
@@ -2758,10 +2794,28 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 291719,
       "name": "The Beloved",
       "url": "https://open.spotify.com/track/0QmRDEXxnZXID8Nmw4x1Ft"
+    },
+    {
+      "album": {
+        "name": "An Other Cup",
+        "url": "https://open.spotify.com/album/27glTwiq8qJBryD9w4SUdP"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291719,
+      "name": "The Beloved",
+      "url": "https://open.spotify.com/track/68Joa2fqSoneTbPYlWCxqJ"
     },
     {
       "album": {
@@ -3152,6 +3206,24 @@
     {
       "album": {
         "name": "Tell 'Em I'm Gone",
+        "url": "https://open.spotify.com/album/5oGGhaNyVb2J7lWPctx9MO"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193292,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/1djwPl8EbjUufDA4GPxB5K"
+    },
+    {
+      "album": {
+        "name": "Tell 'Em I'm Gone",
         "url": "https://open.spotify.com/album/28hJN0xmswlL5CN6HjXSwZ"
       },
       "artists": [
@@ -3180,7 +3252,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 193292,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/7CpgcbEqRxOMAFelj7bZBa"

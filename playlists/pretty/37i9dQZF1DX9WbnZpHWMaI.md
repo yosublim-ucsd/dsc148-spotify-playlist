@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,128 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,131 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 24 | [Hundred Flowers Groove](https://open.spotify.com/track/5tW5MJ3uiziGFFgCQ2UZ8J) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Hundred Flowers](https://open.spotify.com/album/0GJeDLGTICRJY0cjWVAu6q) | 6:55 |
 | 25 | [Gary Mission](https://open.spotify.com/track/1udH7v82zd03uUlGNhzy9f) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [Loos In Twos \(NRG\)](https://open.spotify.com/album/6kOISrghqryTCzXFl877rx) | 5:00 |
 | 26 | [Cutie \- Edit](https://open.spotify.com/track/6ZKiCDG5v785d9aYTqkhhk) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 4:00 |
-| 27 | [Foundation](https://open.spotify.com/track/7vtyAcGAU5XL0ZbJLOsJZH) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Full Circle](https://open.spotify.com/album/2dAYxhDUENuQMgx3L9qUIh) | 4:28 |
+| 27 | [Foundation](https://open.spotify.com/track/1TYMferbXEsyG5RFT12aOm) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Full Circle](https://open.spotify.com/album/6XlidcWPK4oeEQtMlbxQEX) | 4:28 |
 | 28 | [UK Lonely](https://open.spotify.com/track/05kR3vQUekEjBUZ4CKCufh) | [Or:la](https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf) | [UK Lonely](https://open.spotify.com/album/17NBJTFJiEa2sshzte7Dou) | 4:29 |
 | 29 | [Capacidades](https://open.spotify.com/track/1ykjMdqbt95Bu2BuPbAlUy) | [Nídia](https://open.spotify.com/artist/3BKX2WA8UjZgTIJ2juyQ7G) | [Não Fales Nela Que A Mentes](https://open.spotify.com/album/37k7KzGQIMEnoxD15qq4uL) | 2:27 |
 | 30 | [Night Drift](https://open.spotify.com/track/2LS6hBqhAXda0ckQDHMEBT) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Night Drift](https://open.spotify.com/album/6smxthEq12e5YqZyMSVWHz) | 3:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 59 | [Talk Ur Talk](https://open.spotify.com/track/73Y2GXivOjrG8E5VFz52VI) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/1Cvn9YGFvcg46z4FG81Btr) | 3:49 |
 | 60 | [Radical Spectacular](https://open.spotify.com/track/0SMvgsGjYvbNUnLytP0VnO) | [Mor Elian](https://open.spotify.com/artist/4nLavg4nn48n7wwx2AIklZ) | [Radical Spectacular](https://open.spotify.com/album/1uXd0Gk3K9oV1TtEzjtAwo) | 6:30 |
 
-Snapshot ID: `MCw0MzBlMTY1NmI4MWQ5NDliOTFkYWFiMWFiNTFmODg3MmI5MmJlODZl`
+Snapshot ID: `MCxhNmEyNDYyMTFiM2YxNjEzOWQ4Y2EyYzcwOTY5MjM4MDJjZjVhNmJl`

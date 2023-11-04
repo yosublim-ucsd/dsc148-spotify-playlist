@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-124 songs - 11 hr 19 min
+125 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [When Love Calls](https://open.spotify.com/track/0LRJldwVKhpOubrzixZmx5) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [Radiant](https://open.spotify.com/album/1fpgFs808jg1snTYFGAZC2) | 4:30 | 2022-11-21 |  |
 | [When Love Calls](https://open.spotify.com/track/4VDmyTwRKj6go51r15DCGu) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [Winning Combinations](https://open.spotify.com/album/5EOSeQnJ1yAvgKy5igt3m2) | 4:32 | 2022-10-14 | 2022-11-13 |
 | [When Love Calls](https://open.spotify.com/track/490n3MPr9AL7oiDXIJrIiB) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [The Best Of Atlantic Starr](https://open.spotify.com/album/31j5ZI5u1bMPFwdWWe7g6D) | 4:33 | 2022-07-07 | 2023-02-21 |
-| [Who Dares To Believe In Me?](https://open.spotify.com/track/2orxZZBLXF40hyBDSqqEGb) | [The Believers](https://open.spotify.com/artist/32ZExi6NKMCjakKJ5GmDRP) | [Who Dares To Believe In Me](https://open.spotify.com/album/7l46E4hSynmCmaSnVmXHdT) | 8:11 | 2023-08-21 |  |
+| [Who Dares to Believe in Me?](https://open.spotify.com/track/0kj7OHPi09gnUKek4o3ZHD) | [The Believers](https://open.spotify.com/artist/32ZExi6NKMCjakKJ5GmDRP) | [Who Dares To Believe In Me](https://open.spotify.com/album/3eSr8cPt8StvlBLGCnJDkA) | 8:11 | 2023-08-25 |  |
+| [Who Dares To Believe In Me?](https://open.spotify.com/track/2orxZZBLXF40hyBDSqqEGb) | [The Believers](https://open.spotify.com/artist/32ZExi6NKMCjakKJ5GmDRP) | [Who Dares To Believe In Me](https://open.spotify.com/album/7l46E4hSynmCmaSnVmXHdT) | 8:11 | 2023-08-21 | 2023-11-04 |
 | [Who Knows](https://open.spotify.com/track/6pul7BJkKcVHIewzPLW2rc) | [Marion Black](https://open.spotify.com/artist/2VF421Sz9nBUdNzwqSTp7z) | [Who Knows b/w Go On Fool](https://open.spotify.com/album/3BMuJ1NQORhCC0PsQyg93m) | 2:18 | 2023-03-08 | 2023-08-26 |
 | [Work It Out](https://open.spotify.com/track/4xWZmHNlmAtB0zgdg45pzq) | [Leroy Burgess](https://open.spotify.com/artist/6bgccXVuEX61NPVEXj3Xp8), [Saving Coco](https://open.spotify.com/artist/0wbze3teJNEUpzAfRiga9F) | [Work It out / Til I Found You](https://open.spotify.com/album/5eAemysN30WIRISc4gJ4Ln) | 7:18 | 2022-07-07 | 2023-03-09 |
 | [Work It to the Bone](https://open.spotify.com/track/7mH6hpO4UguvZPbrZhrYwR) | [LNR](https://open.spotify.com/artist/0nKqFNALBpTYYDNzrC2LpI) | [House Classics V \(Presented by Harley & Muscle\)](https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9) | 5:39 | 2023-08-21 |  |

@@ -118,6 +118,24 @@
     {
       "album": {
         "name": "Ghost",
+        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167731,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/4aedRI0oJrcejDSsGF6vWg"
+    },
+    {
+      "album": {
+        "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
       "artists": [
@@ -676,7 +694,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 173638,
       "name": "Future",
       "url": "https://open.spotify.com/track/34izTWG2OZPbmCUzwqosgt"
@@ -836,6 +854,24 @@
       "duration_ms": 190005,
       "name": "Hoops",
       "url": "https://open.spotify.com/track/6yAwGkkTU4q4vkgufzOVXH"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148619,
+      "name": "Icon",
+      "url": "https://open.spotify.com/track/0iRX4RbbX7JIrWj0pLYvHv"
     },
     {
       "album": {
@@ -1494,7 +1530,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 188314,
       "name": "Patiala Peg",
       "url": "https://open.spotify.com/track/6TikcWOLRsPq66GBx2jk67"

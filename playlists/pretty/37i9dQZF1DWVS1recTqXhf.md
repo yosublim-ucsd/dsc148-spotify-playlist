@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 
 > Guided meditations for a variety of needs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,686 likes - 94 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,852 likes - 94 songs - 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 | 69 | [Fall Asleep in 10 Minutes: Guided Meditation for Sleep](https://open.spotify.com/track/2LuOb3ZBWt05ECgQgdfUOc) | [The Honest Guys](https://open.spotify.com/artist/6n47s4smWR5T6mZnvHWv7V) | [Fall Asleep in 10 Minutes: Guided Meditation for Sleep](https://open.spotify.com/album/3Dd4WuCF8HvasKUWfoOlkw) | 9:55 |
 | 70 | [Guided Meditation: Dealing With Negative Emotions \- Pad](https://open.spotify.com/track/2M53lPO1WQU3cHeUSv4lOw) | [Jessica Howard](https://open.spotify.com/artist/7kbN5A8wO4DVOIGCQJfSGL) | [Guided Meditation: Dealing With Negative Emotions](https://open.spotify.com/album/6Sx31jlmccBswf17CAei3n) | 3:51 |
 | 71 | [Breathe Meditation](https://open.spotify.com/track/4xDLTJgQAuYdactBjYukl1) | [Philip Permutt](https://open.spotify.com/artist/46HUBq8j4vz5rvVYjOGt8i) | [Meditation Workshop](https://open.spotify.com/album/0IouVLBnNn9anETwo5QvX4) | 8:33 |
-| 72 | [Guided Meditation for Sleep](https://open.spotify.com/track/2ff6Ft4EUPp7xeU2hVpHwa) | [Dr\. Ramdesh](https://open.spotify.com/artist/7ju4fPXUwjpcaV8aocO8R4), [Mirabai Ceiba](https://open.spotify.com/artist/2qBg3GRK1U9XCkJ9JabBt3) | [Relaxation Meditations: Guided Meditations for Transformation](https://open.spotify.com/album/55kJtnMk7LvCQVVpwYgneb) | 6:06 |
+| 72 | [Guided Meditation for Sleep](https://open.spotify.com/track/2ff6Ft4EUPp7xeU2hVpHwa) | [Dr\. Ramdesh](https://open.spotify.com/artist/7ju4fPXUwjpcaV8aocO8R4) | [Relaxation Meditations: Guided Meditations for Transformation](https://open.spotify.com/album/55kJtnMk7LvCQVVpwYgneb) | 6:06 |
 | 73 | [Guided Meditation: Imagination \- Voice Only](https://open.spotify.com/track/7siOdhyPfaxJR4lMkTj8Ey) | [Jessica Howard](https://open.spotify.com/artist/7kbN5A8wO4DVOIGCQJfSGL) | [Guided Meditation: Imagination](https://open.spotify.com/album/7siiOd6qoPSH5WblgYjauD) | 3:58 |
 | 74 | [Guided Meditation: Getting Ready To Focus](https://open.spotify.com/track/2RDrrVGeMyKL9V2hXhzM1v) | [Davina Ho](https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A), [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Guided Meditation: Getting Ready To Focus](https://open.spotify.com/album/3QiwGRx8nBYtlDMNBEnK5k) | 11:12 |
 | 75 | [Guided Meditation II \- Relaxing Releasing Tension in Body & Mind](https://open.spotify.com/track/216LJHHrKJZNPZpPmMFifj) | [Erica Rayner\-Horn](https://open.spotify.com/artist/2S0OchnjJSc71aPbveHobS) | [Finding Tranqulity\-Guided Mindfulness Meditations for Stressful Times](https://open.spotify.com/album/6mdcFb6iCsRo1W7gnPfLZP) | 14:50 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 | 93 | [Sacral Chakra](https://open.spotify.com/track/52EwHsnjpOIUidc80IoUFd) | [Greg de Vries, The Meditation Coach](https://open.spotify.com/artist/4ThK7qdI7QibViBo1V4Dt9) | [Guided Chakra Balancing Meditation](https://open.spotify.com/album/1zMB5k4vsqHhOsYMuUpOq2) | 4:53 |
 | 94 | [Relax at the Beach Meditation](https://open.spotify.com/track/2gUM3sjwqfIB0R5PE31oTr) | [Brad Austen](https://open.spotify.com/artist/4WuEtfn195RUB0RVhWaUmO) | [Guided Meditations](https://open.spotify.com/album/30UPjcn7tQ0HdNWwVoK8Ef) | 8:29 |
 
-Snapshot ID: `MCwwNGE0NDkwNDYzYTY2ZjFjNGQ4ZWIwYjhlNTkxNmFlZTEwYzA5M2Uy`
+Snapshot ID: `MCxjZmU1N2M5MWI1YzQ5ODk1ZTgwMGZkNzA3ODViM2Q5NjJiN2I2ODQ3`

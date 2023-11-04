@@ -19892,6 +19892,24 @@
     {
       "album": {
         "name": "Rainbow",
+        "url": "https://open.spotify.com/album/0Vf69rDPEdfbJypvpou4uS"
+      },
+      "artists": [
+        {
+          "name": "Dylan John Sparkes",
+          "url": "https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/54az4H0JwwXsB25718PKg9"
+    },
+    {
+      "album": {
+        "name": "Rainbow",
         "url": "https://open.spotify.com/album/2WvA7DZjMD9l7kOuMGqyBj"
       },
       "artists": [
@@ -19902,7 +19920,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 176000,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/5o9VMlbsJvXSdVfi3u4sFh"

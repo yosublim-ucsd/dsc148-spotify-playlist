@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzRFK4Kp5Dk.md) - [plain]
 
 > Listen to the music from all 3 seasons of Ragnarok, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,443 likes - 35 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,456 likes - 35 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzRFK4Kp5Dk.md) - [plain]
 | 2 | [God Is Drunk](https://open.spotify.com/track/1LI2nJ80KGXNfReHxtMBrw) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [God Is Drunk](https://open.spotify.com/album/4YiRt7JfTxUGbwTr1wsPLZ) | 3:52 |
 | 3 | [Only Your Sins Know](https://open.spotify.com/track/3CORIvT2S7ODznfVBpvdM3) | [Subterranean Street Society](https://open.spotify.com/artist/2k1ZiGmJ759N7UmlTXGbEe) | [Twelve Steps](https://open.spotify.com/album/3UNUD5UNJB84b6loHK9Dcl) | 3:40 |
 | 4 | [Stand Up For Magne](https://open.spotify.com/track/35EQlzEuOEU3mFudagvGP4) | [Lars Wissing](https://open.spotify.com/artist/6ZdtLtM8TFvViilTTpMAMF) | [Stand Up For Magne](https://open.spotify.com/album/0ujvSjU0IiK4bX1E8RzOvS) | 2:40 |
-| 5 | [YO! MY SAINT \- \(feat\. Michael Kiwanuka\) \[Film Version\]](https://open.spotify.com/track/5oHBYI1NKRHoyeSFsyrn1c) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [YO! MY SAINT \[\(feat\. Michael Kiwanuka\) \[Film Version\]\]](https://open.spotify.com/album/01o6QHHXyoK6lqc4g1xTAP) | 5:10 |
+| 5 | [YO! MY SAINT \(Film Version\)](https://open.spotify.com/track/3yxA66wvutupETiIsAjuNP) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [YO! MY SAINT \(Film Version\)](https://open.spotify.com/album/4YSfu0JwYL3gznskwwW07Q) | 5:10 |
 | 6 | [Such a Remarkable Day](https://open.spotify.com/track/3pilFnaQo0TguWvkOrmrNO) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Such a Remarkable Day](https://open.spotify.com/album/29Y2yQHFCxKJNCBQ3LKARW) | 3:37 |
 | 7 | [That Was A Feeling, This Is A Fact](https://open.spotify.com/track/167PVCoyNtLZSPrhKUsWsP) | [Deportees](https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4) | [All Future](https://open.spotify.com/album/2rPdHduQGHqgSJn0ziMuge) | 4:59 |
 | 8 | [Inside](https://open.spotify.com/track/3QhttoXLlJwhxtAcsRcX9L) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [Inside](https://open.spotify.com/album/1mDBNn45ldqOdE777kCZRZ) | 2:35 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzRFK4Kp5Dk.md) - [plain]
 | 34 | [No Rest for the Wicked](https://open.spotify.com/track/0pjr8WjW8VerCEuceIrCGE) | [Klergy](https://open.spotify.com/artist/1p9Lr8nFJ21Jej6dwMLngp) | [No Rest for the Wicked](https://open.spotify.com/album/0fx2VlNLHYEJvvyHZfZulw) | 3:47 |
 | 35 | [Ta på meg](https://open.spotify.com/track/7wfVd2m34upZyiZhJUdbZh) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf) | [Kjartanisme](https://open.spotify.com/album/37Aj1ObjDo2I8szkyiuAtJ) | 2:59 |
 
-Snapshot ID: `MCxmNzJjMTgwZDQ0YjBjMDlkY2M1MzhmZWJhZmViZDVkMDIzMTkyNWM0`
+Snapshot ID: `MCw2YTg5MjVhZGRmZTU5OWQzYTkzYmY5YjAzMTNkOGZhYzVjMDJiNTdh`

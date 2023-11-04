@@ -4,7 +4,7 @@
 
 > Lyrical lullabies for your bedtime routine.
 
-112 songs - 5 hr 6 min
+113 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [I Can See Clearly Now](https://open.spotify.com/track/3e6JSJ8NtOzxbatXKnV6xh) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 2:50 | 2022-03-11 |  |
 | [I Can Sing a Rainbow](https://open.spotify.com/track/4mNAzxoAuv4pCWEdgzCxVb) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Sweet Dream Lullabies](https://open.spotify.com/album/1QfDDyXowHGlr3k65BvTYu) | 1:47 | 2023-03-17 |  |
 | [I Will Carry You \(Always Here for You\)](https://open.spotify.com/track/7jAxBhPJmRahOUGWD6YFop) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr) | [Lullabies for Parents, Vol\. 1](https://open.spotify.com/album/3fgHiWJqP3SwbVWkStt1xg) | 3:24 | 2022-04-12 |  |
-| [I'll Be Dreaming of a Rainbow](https://open.spotify.com/track/6X6VftEidoeZ65GyQOiffT) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL), [Auntie Sally](https://open.spotify.com/artist/5f6BpYOumkBvrQukhTeckc) | [Sweet Dreams: Lullabies & Bedtime Nursery Rhymes](https://open.spotify.com/album/18AuP1JfaJY9N3DKGlIs50) | 4:14 | 2022-03-11 |  |
+| [I'll Be Dreaming of a Rainbow](https://open.spotify.com/track/6X6VftEidoeZ65GyQOiffT) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL), [Auntie Sally](https://open.spotify.com/artist/5f6BpYOumkBvrQukhTeckc) | [Sweet Dreams: Lullabies & Bedtime Nursery Rhymes](https://open.spotify.com/album/18AuP1JfaJY9N3DKGlIs50) | 4:14 | 2022-03-11 | 2023-11-04 |
+| [I'll Be Dreaming of a Rainbow](https://open.spotify.com/track/7CG6ENa49qllF3eix2ilF4) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL), [Auntie Sally](https://open.spotify.com/artist/5f6BpYOumkBvrQukhTeckc) | [Sweet Dreams: Lullabies & Bedtime Nursery Rhymes](https://open.spotify.com/album/16Tzm02NUQ0n0AagK8UIKM) | 4:14 | 2023-05-05 |  |
 | [If There Is A Song](https://open.spotify.com/track/5Yvm5MxwVNoLdNgy2zpSEW) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Lullabies for Adults & Children](https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX) | 2:43 | 2022-03-11 |  |
 | [If You Can't Sleep](https://open.spotify.com/track/7AMcaukss7ZzlLDe6bLALN) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/221n4vc2VnAGUyOrhKDNjX) | 2:48 | 2022-03-11 | 2022-07-29 |
 | [If You Can't Sleep](https://open.spotify.com/track/7o2T5dYOjQf7qpmavRerQE) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/47A8zr0CzKLILnYcrXh2Rc) | 2:48 | 2022-03-11 |  |

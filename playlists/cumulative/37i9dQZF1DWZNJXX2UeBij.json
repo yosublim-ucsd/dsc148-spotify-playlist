@@ -424,6 +424,28 @@
     {
       "album": {
         "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2yoQE2XBnwdUyoOkoprTfT"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315013,
+      "name": "Ajj Din Chadheya",
+      "url": "https://open.spotify.com/track/4NmWv6PEGEAmorN5UN9fRo"
+    },
+    {
+      "album": {
+        "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v"
       },
       "artists": [
@@ -996,7 +1018,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 308493,
       "name": "Bumbro",
       "url": "https://open.spotify.com/track/28syjZyasVJ4J4oxBDOF1b"
@@ -3422,7 +3444,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 223373,
       "name": "Kiss Me Baby",
       "url": "https://open.spotify.com/track/4gNGi2Mr26me7wGKd8TQSF"
@@ -3832,6 +3854,28 @@
       "duration_ms": 346000,
       "name": "Main Agar Saamne",
       "url": "https://open.spotify.com/track/42OnkdXwkKo5NzkdOmvE75"
+    },
+    {
+      "album": {
+        "name": "Namastey London (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ZR77G3tBegpfEgGwuAGDX"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Krishna Beuraa",
+          "url": "https://open.spotify.com/artist/3cY5ariKFsYqoHm8n2ccvD"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382493,
+      "name": "Main Jahaan Rahoon",
+      "url": "https://open.spotify.com/track/38WTxU8ZWOM7FXf7E07qcG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 80s electronic boogie and post\-disco
 
-62 songs - 5 hr 51 min
+64 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Ain't Nothin' Goin' On But The Rent](https://open.spotify.com/track/4De6tTVXe0N3V0OPOmkvT3) | [Gwen Guthrie](https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy) | [Good To Go Lover](https://open.spotify.com/album/3npVAWyBDUmIUaOB1tpZDg) | 5:59 | 2021-07-14 |  |
 | [Baby Don't Hold Your Love Back \- Extended Vocal Version](https://open.spotify.com/track/36tcCFdhyj1aOULns4NpBH) | [Bridge](https://open.spotify.com/artist/4PpzoPLf3OsCHtcmp2nWgD) | [Baby Don't Hold Your Love Back](https://open.spotify.com/album/1qTTdLJQbGKmkSCAjO5Rep) | 5:44 | 2021-07-14 |  |
 | [Bad Habits](https://open.spotify.com/track/2vRjlKj1bn5wkXbGj3peBV) | [Jenny Burton](https://open.spotify.com/artist/2RSwLfG8Zw3ChFI2aOh4HO) | [Jenny Burton](https://open.spotify.com/album/6K56nbPCSXWh23IGQNN8jY) | 5:28 | 2021-07-14 |  |
-| [Boogies Gonna Get Ya](https://open.spotify.com/track/32Mu2PQSnL2HFcBasP6NEq) | [Rafael Cameron](https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer) | [Cameron's In Love](https://open.spotify.com/album/4ILDtDjR4whLl3bMH8Wzdu) | 4:51 | 2021-07-14 |  |
+| [Boogie's Gonna Get Ya](https://open.spotify.com/track/73d5pFuEPATPXuKROhVITY) | [Rafael Cameron](https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer) | [Cameron's in Love](https://open.spotify.com/album/7JetlByx1qsIeNvwGWBROW) | 4:51 | 2021-07-14 |  |
+| [Boogies Gonna Get Ya](https://open.spotify.com/track/32Mu2PQSnL2HFcBasP6NEq) | [Rafael Cameron](https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer) | [Cameron's In Love](https://open.spotify.com/album/4ILDtDjR4whLl3bMH8Wzdu) | 4:51 | 2021-07-14 | 2023-11-04 |
 | [Bounce](https://open.spotify.com/track/78dPhWuq3mcOVN2AOOlA1m) | [Felix & Jarvis](https://open.spotify.com/artist/3HafidLXtYrYjKlLrfgKWI) | [Felix & Jarvis](https://open.spotify.com/album/7Hjr6BgmeVJxrQk5nfZZH4) | 3:47 | 2021-07-14 |  |
 | [Bye Gones](https://open.spotify.com/track/1Hjs0qwW2G1yuYjiwwjsCn) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Yours Truly](https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w) | 4:26 | 2021-07-14 |  |
 | [Change of Heart](https://open.spotify.com/track/6owwCN8xHO9DSHC0ec5454) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Change Of Heart](https://open.spotify.com/album/4NIUKfEJKzlNffM8JuNAqd) | 7:08 | 2021-07-14 |  |
@@ -67,7 +68,8 @@
 | [Twennynine \(The Rap\)](https://open.spotify.com/track/2TYN15xIuSzcvomuNdvR1k) | [Twennynine](https://open.spotify.com/artist/4lrBQQ6NR1pj1nSzsPs7sI), [Lenny White](https://open.spotify.com/artist/478WAnkTtQach00La2gvxR) | [Just Like Dreamin'](https://open.spotify.com/album/2wfhgPW7e6rg66yZ3AWVUW) | 5:34 | 2021-07-14 |  |
 | [Wall To Wall](https://open.spotify.com/track/71ciFlneyL6gLiyLsIczwn) | [Rene & Angela](https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y) | [Wall To Wall](https://open.spotify.com/album/7vEoYXIwYcmKudgsngfVZE) | 5:21 | 2021-07-14 |  |
 | [When It Comes To Love](https://open.spotify.com/track/13rK1GJioQ9CPnQZGrwByx) | [Rene & Angela](https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y) | [Rise](https://open.spotify.com/album/2mwPbX4BjM1b19s4NssvPe) | 3:37 | 2021-07-14 |  |
-| [You Can't Have Your Cake and Eat It Too \- Vocal](https://open.spotify.com/track/7kYW2EsK6YV6gwB32HmbeI) | [B.T\. \(Brenda Taylor\)](https://open.spotify.com/artist/3NpMhRPxH2KuankEDD51wV) | [You Can't Have Your Cake and Eat It Too](https://open.spotify.com/album/1kFjmuqLEVDVBbDFFPcszD) | 6:03 | 2021-07-14 |  |
+| [You Can't Have Your Cake and Eat It Too \(Alternate Mix\) \( 2012 \- Remaster\)](https://open.spotify.com/track/7Fg1OMNNlJD6UjDh8rLEuT) | [B.T\. \(Brenda Taylor\)](https://open.spotify.com/artist/3NpMhRPxH2KuankEDD51wV) | [You Can't Have Your Cake and Eat It Too](https://open.spotify.com/album/59czOFyUIO3KivBLUlglPN) | 6:03 | 2021-07-14 |  |
+| [You Can't Have Your Cake and Eat It Too \- Vocal](https://open.spotify.com/track/7kYW2EsK6YV6gwB32HmbeI) | [B.T\. \(Brenda Taylor\)](https://open.spotify.com/artist/3NpMhRPxH2KuankEDD51wV) | [You Can't Have Your Cake and Eat It Too](https://open.spotify.com/album/1kFjmuqLEVDVBbDFFPcszD) | 6:03 | 2021-07-14 | 2023-11-04 |
 | [You're the One for Me](https://open.spotify.com/track/66i1lieIMso7ef4P7KdWcE) | [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe) | [You're the One for Me](https://open.spotify.com/album/6Cu53xS0YGhgEqyTqkVNeL) | 5:09 | 2021-07-14 |  |
 | [Your Sweet Lovin'](https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [What A Woman Needs](https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm) | 3:39 | 2021-07-14 |  |
 

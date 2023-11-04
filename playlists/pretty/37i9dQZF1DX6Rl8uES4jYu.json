@@ -1,13 +1,33 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 238647,
+  "num_followers": 238638,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTY2MmM3YWE0YTIwYzdjZDM5MDA1YjhiZGFiY2QyY2I3YTM4Y2Y0",
+  "snapshot_id": "MCwwZTIyMzFjNzk3M2QxZWNmZDE0YmRiN2Q5YjI0NWRlM2MzN2FhMTY1",
   "tracks": [
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Daddy Bezos",
+        "url": "https://open.spotify.com/album/62UMmkGfapJIGQwHiWP9uO"
+      },
+      "artists": [
+        {
+          "name": "Sam Greenfield",
+          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
+        },
+        {
+          "name": "Brian Vaulx",
+          "url": "https://open.spotify.com/artist/7hH6r8mrVmYwI0vn2Q8cBH"
+        }
+      ],
+      "duration_ms": 251053,
+      "name": "Daddy Bezos",
+      "url": "https://open.spotify.com/track/581fAB5IiN3phCJHUNte8O"
+    },
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
@@ -1655,26 +1675,6 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/5b0Hzsa9VcJDfDlycOLjBc"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        },
-        {
-          "name": "Jayy Starr",
-          "url": "https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv"
-        }
-      ],
-      "duration_ms": 156536,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/16IKV5rIM4hwmIhPsYOScC"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
         "name": "Don't Trip",
         "url": "https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et"
       },
@@ -1689,7 +1689,7 @@
       "url": "https://open.spotify.com/track/5mJpenSgvHOjfnK1Z4fc1p"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2023-11-03 04:01:00",
       "album": {
         "name": "AM Gold (Tobtok Remix)",
         "url": "https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: cotoba(\ucf54\ud1a0\ubc14)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: CHASEDAE(\ucc28\uc138\ub300)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1183,6 +1183,28 @@
     },
     {
       "album": {
+        "name": "WHERE DOES SASQUATCH LIVE? Pt. 2",
+        "url": "https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr"
+      },
+      "artists": [
+        {
+          "name": "Zior Park",
+          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+        },
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261120,
+      "name": "BYE BYE BYE (feat. Sion)",
+      "url": "https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6"
+    },
+    {
+      "album": {
         "name": "Bye My Dear",
         "url": "https://open.spotify.com/album/1nLojqad99fsjcDmiywiqn"
       },
@@ -1288,7 +1310,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 167733,
       "name": "Catch me",
       "url": "https://open.spotify.com/track/0L4fQABUpqfxzJdTD0QGCC"
@@ -2032,6 +2054,24 @@
       "duration_ms": 177972,
       "name": "Drunk All Night",
       "url": "https://open.spotify.com/track/4xcJHWlE3KpIz32UCVuYJs"
+    },
+    {
+      "album": {
+        "name": "DUNE",
+        "url": "https://open.spotify.com/album/2nCVtbXGN7bJleieRr0i49"
+      },
+      "artists": [
+        {
+          "name": "CHASEDAE",
+          "url": "https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255318,
+      "name": "DUNE",
+      "url": "https://open.spotify.com/track/1ap1yvWJ6xvkHTBUpUi5wA"
     },
     {
       "album": {
@@ -3390,7 +3430,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "I hate you",
       "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
@@ -4913,6 +4953,24 @@
     },
     {
       "album": {
+        "name": "Moon Shower",
+        "url": "https://open.spotify.com/album/07TNiIlsk9H6WJ2KPl1Zv4"
+      },
+      "artists": [
+        {
+          "name": "NELL",
+          "url": "https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203012,
+      "name": "Moon Shower",
+      "url": "https://open.spotify.com/track/263KmXuzo15UKctN8kwmR7"
+    },
+    {
+      "album": {
         "name": "Man on the Moon",
         "url": "https://open.spotify.com/album/3sdVDRppHe8ygY7b1NgW7T"
       },
@@ -5068,7 +5126,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 192170,
       "name": "Navillera",
       "url": "https://open.spotify.com/track/5J4E8EChG1AJWFwxZNgn76"
@@ -5812,7 +5870,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 243827,
       "name": "Perhaps Maybe Returns",
       "url": "https://open.spotify.com/track/7LueEdOMcCfcCGbxDtvw1O"
@@ -5884,7 +5942,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 206820,
       "name": "PIRI",
       "url": "https://open.spotify.com/track/38dgtl73zn8VYh7VOCvs69"
@@ -6054,7 +6112,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 228500,
       "name": "pueblo",
       "url": "https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA"
@@ -6440,7 +6498,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 228500,
       "name": "ride",
       "url": "https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN"

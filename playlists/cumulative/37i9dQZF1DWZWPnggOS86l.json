@@ -276,6 +276,24 @@
     {
       "album": {
         "name": "Ciano",
+        "url": "https://open.spotify.com/album/3LfBdvxxInsz67JEFGsZnO"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354120,
+      "name": "Cada Po\u00e7a Dessa Rua Tem Um Pouco de Minhas L\u00e1grimas",
+      "url": "https://open.spotify.com/track/2Anewlbuh2nnlUc0bxIKgU"
+    },
+    {
+      "album": {
+        "name": "Ciano",
         "url": "https://open.spotify.com/album/1nCMa3kC0kbnabvqKdH0aR"
       },
       "artists": [
@@ -286,7 +304,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 354120,
       "name": "Cada Po\u00e7a Dessa Rua Tem Um Pouco de Minhas L\u00e1grimas",
       "url": "https://open.spotify.com/track/4WMZXYJ57CZMX5W1bWcNHb"
@@ -1076,10 +1094,28 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 208840,
       "name": "Teu Semblante",
       "url": "https://open.spotify.com/track/6NCuCsZDu7HfitEWG0CJxc"
+    },
+    {
+      "album": {
+        "name": "Quarto dos Livros",
+        "url": "https://open.spotify.com/album/3vFIzGjPLlR292Eh6EGttQ"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208840,
+      "name": "Teu Semblante",
+      "url": "https://open.spotify.com/track/7J6XsCBC7q22MHLD1CoCiI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-290 songs - 14 hr 35 min
+293 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Come on Out](https://open.spotify.com/track/2eCAySGeTsPGXnfFb60Kgq) | [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Ariel Martin](https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 3 \(Original Soundtrack\)](https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF) | 2:45 | 2022-08-10 |  |
 | [Coming Out of the Dark](https://open.spotify.com/track/00kR62ndRz8GMrcULgxoze) | [Monster High](https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV) | [Coming Out Of The Dark](https://open.spotify.com/album/6YiN0lVcpxK9OUnEgbHvo4) | 2:53 | 2022-09-27 |  |
 | [COMPLETE MESS](https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [COMPLETE MESS](https://open.spotify.com/album/5nALCJT36REzB4oFpXki54) | 3:26 | 2022-03-29 | 2022-11-25 |
-| [COMPLETE MESS](https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:26 | 2022-11-23 |  |
+| [COMPLETE MESS](https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:26 | 2022-11-23 | 2023-11-04 |
+| [COMPLETE MESS](https://open.spotify.com/track/7tqcKt5H9BmBLaT22VHqBX) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 3:26 | 2023-06-21 |  |
 | [Con Altura](https://open.spotify.com/track/21wShvRGwZ3V12W786LplP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Con Altura](https://open.spotify.com/album/3GsSaZnRS5U0IMvZmHNQ5d) | 2:32 | 2021-10-22 |  |
 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2021-10-22 |  |
 | [Dance Through the Day](https://open.spotify.com/track/1VlO9GSWlPWe2WAsudpEV5) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP) | 2:35 | 2022-11-23 |  |
@@ -133,7 +134,8 @@
 | [I'm The One](https://open.spotify.com/track/06jztPU588TNOWHF76q3UK) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 36](https://open.spotify.com/album/7CdyApdN5Hamda6NepONvs) | 2:27 | 2022-07-28 |  |
 | [I'm The One](https://open.spotify.com/track/5kMFdjmxkTiSXVdNmya2Cn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 36](https://open.spotify.com/album/2Xi6aup0aqqpXqpHNYi2oU) | 2:27 | 2021-10-22 | 2022-07-29 |
 | [Ice Cream Cold](https://open.spotify.com/track/2cM51OR8phKliFlV3Expx7) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby](https://open.spotify.com/album/3KS3og9IOPO3b4lypBkHaQ) | 1:43 | 2021-10-22 | 2022-07-29 |
-| [Ice Cream Cold](https://open.spotify.com/track/7wBVoYDEPlU07ysbkDKVBT) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby EP](https://open.spotify.com/album/1x5OIHJhieOQhkqjUoulQ8) | 1:44 | 2022-07-28 |  |
+| [Ice Cream Cold](https://open.spotify.com/track/1kCcCnRTUZmlYj5sBbUYja) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby EP](https://open.spotify.com/album/3OXqNJkrQGW0CYVM7tZGHL) | 1:44 | 2023-06-21 |  |
+| [Ice Cream Cold](https://open.spotify.com/track/7wBVoYDEPlU07ysbkDKVBT) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby EP](https://open.spotify.com/album/1x5OIHJhieOQhkqjUoulQ8) | 1:44 | 2022-07-28 | 2023-11-04 |
 | [ily \(i love you baby\)](https://open.spotify.com/track/1AijjSH5B1JZN8k1E7U2QV) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:56 | 2022-07-28 |  |
 | [ily \(i love you baby\)](https://open.spotify.com/track/1rgN765bhtO2rflHTHFvtr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/6zjy7j6pK9YnVRX2Q3Dv5N) | 2:56 | 2021-10-22 | 2022-07-29 |
 | [ily \(i love you baby\)](https://open.spotify.com/track/5QWTnS6u3mYQPAa4NsWLww) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kids Songs: Summer Hits!](https://open.spotify.com/album/7nTdrrCouDdiBoWIkFmjlP) | 2:56 | 2022-10-25 | 2022-11-13 |
@@ -247,7 +249,8 @@
 | [That's What I Like](https://open.spotify.com/track/2GVuy5JHpyBXb9wqNrxARi) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 2:58 | 2022-10-25 | 2022-11-14 |
 | [That's What I Like](https://open.spotify.com/track/3DAj1vnV6fWdGl0gJxdoF7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 35](https://open.spotify.com/album/446h1jQEUAz94QrRd9Ry3y) | 2:58 | 2022-07-28 |  |
 | [That's What I Like](https://open.spotify.com/track/6r6cCBdOYVDJWxWXN3tHIj) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 35](https://open.spotify.com/album/2ZV86caU22YKFpJVSn9GXE) | 2:58 | 2021-10-22 | 2022-07-29 |
-| [The Git Up](https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj) | 3:20 | 2021-10-22 |  |
+| [The Git Up](https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12) | 3:20 | 2023-06-21 |  |
+| [The Git Up](https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj) | 3:20 | 2021-10-22 | 2023-11-04 |
 | [The Greatest](https://open.spotify.com/track/4NO0nlVHcYuV2qna4wALho) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB) | 2:51 | 2021-10-22 | 2022-07-29 |
 | [The Greatest](https://open.spotify.com/track/4W63PdwxlreSGoEZg6e7FJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7) | 2:51 | 2022-07-28 |  |
 | [The Middle](https://open.spotify.com/track/3Ak1BW1QlDhMPnOaBa1BiR) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 16](https://open.spotify.com/album/2DOI0mKAHzp0OrigVAl2AP) | 3:03 | 2021-10-22 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 
 > It's like rock, but softer\. Cover: Fleetwood Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,596,361 likes - 110 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,596,417 likes - 110 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 77 | [Glamour Profession](https://open.spotify.com/track/3Q2Xxc7y6g4OrYmO53J7Yf) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 7:28 |
 | 78 | [You're the Love](https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Takin' It Easy](https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL) | 3:20 |
 | 79 | [Hot Rod Hearts \- Remastered](https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:41 |
-| 80 | [\(Remember the Days of The\) Old Schoolyard](https://open.spotify.com/track/1a2fmmAAlGGxiUTDLM3ghL) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Izitso](https://open.spotify.com/album/0HqRLZ9yvOGL23IcW0GDoV) | 2:44 |
+| 80 | [\(Remember the Days of The\) Old Schoolyard](https://open.spotify.com/track/6FvBlii7noUCNdImVN0aqG) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Izitso](https://open.spotify.com/album/2TZXbrgNOBD5RAQlTLHqnl) | 2:44 |
 | 81 | [This Night Won't Last Forever](https://open.spotify.com/track/3KH39R9cO3ZWN6hqRbTKM3) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [This Night Won't Last Forever](https://open.spotify.com/album/25h67pU7Dl8JlUYuvtVoue) | 4:25 |
 | 82 | [Baby I Need Your Lovin'](https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Change Of Heart](https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw) | 3:16 |
 | 83 | [That's Why I Love You](https://open.spotify.com/track/5SY02PzNZUfrWUF4ujG4Mz) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Andrew Gold](https://open.spotify.com/album/3sZTuB8dgXYcVPeLvwWfcJ) | 3:10 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 88 | [Cryin' All Night](https://open.spotify.com/track/75xxMLRp7yyM4tuCdq3pUU) | [Airplay](https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw) | [Airplay](https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n) | 4:47 |
 | 89 | [Everybody Needs Love](https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Bish](https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm) | 3:42 |
 | 90 | [Dream On](https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:22 |
-| 91 | [You're All That I Need](https://open.spotify.com/track/5gned5W00rvMw1FmYF0cCc) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [No Strings](https://open.spotify.com/album/2eGSBoePWZ2oljvc8zBwRO) | 3:45 |
+| 91 | [You're All That I Need](https://open.spotify.com/track/7a8WQOzVw3T4B37LRJoAp5) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [No Strings](https://open.spotify.com/album/1lPgTGW4eApRIeMk6gbU3U) | 3:45 |
 | 92 | [Moolah Moo Mazuma \(Sin City Wahh\-0o\)](https://open.spotify.com/track/1ClGMk0BoszXAoRiBHrvZu) | [Sanford Townsend Band](https://open.spotify.com/artist/2PblGVYNdrem5ODxxMNhr0) | [Smoke From A Distant Fire](https://open.spotify.com/album/6vUFJM8PgHDhmzTyAzN2PX) | 3:59 |
 | 93 | [I Don't Believe In Miracles](https://open.spotify.com/track/4a0z0XNi6gPXZczkXUaP7w) | [Colin Blunstone](https://open.spotify.com/artist/27DCwiPx5ocQsf4K43SlIL) | [Ennismore](https://open.spotify.com/album/6PNrEWf5qDyRIPUSFC0poI) | 3:01 |
 | 94 | [Stronger Love \- 2013 Japan Remaster](https://open.spotify.com/track/0Id3DExc8EqG5uGYL9Ruct) | [LeBlanc And Carr](https://open.spotify.com/artist/3hMZ5ibFmJwO6dmackGKAj) | [Midnight Light](https://open.spotify.com/album/0l7FywMiiiRXjpiSZdUd50) | 3:46 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 109 | [Tranquillo \(Melt My Heart\)](https://open.spotify.com/track/0i8s3YyZjFcJoV41GxZjhg) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Boys in the Trees](https://open.spotify.com/album/6TUPBFLSBxRwHDXV0y3AHs) | 4:03 |
 | 110 | [Float On By](https://open.spotify.com/track/3i4cFJr2Ka8b4HpxfvQyje) | [Rhythm Heritage](https://open.spotify.com/artist/2ZGlJUO9hdjZEvl710OpVX) | [Sky's The Limit](https://open.spotify.com/album/5m0YX0qek6vg8hzdsBluaK) | 3:31 |
 
-Snapshot ID: `MCxkNTBhMGRmMDA2ZTcyMGM3OWMyYTkyZmU2ZDA4NTlmYjZmYzdkZDli`
+Snapshot ID: `MCw0NjJlM2I3NDg4NzBmNGZlNDQ4MWFlZmY0ZjRjYzIwNDQzNTJlYTE0`

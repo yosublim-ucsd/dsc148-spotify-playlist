@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1423422,
+  "num_followers": 1423787,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTI4NmZmOTM4ZjI2YTllMjY4MjJiOWJlMTNiZTBlNDA2NmQ0YjMx",
+  "snapshot_id": "MCxmNTBhNTNhZTg5MTFlOWMxZWMzNTY5Y2QzNThjM2RmNmNmN2VhN2Yz",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "duration_ms": 390560,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/1EYYoG6P9cQdYXG6Nv5mXu"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
       },
@@ -1235,26 +1219,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "It's Too Late",
-        "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
-      },
-      "artists": [
-        {
-          "name": "Dirty South",
-          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
-        },
-        {
-          "name": "Evermore",
-          "url": "https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ"
-        }
-      ],
-      "duration_ms": 181230,
-      "name": "It's Too Late - Dirty South Radio Edit",
-      "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Hypnotica",
         "url": "https://open.spotify.com/album/2467y5gcxljWnMqbYwWxwu"
       },
@@ -1271,6 +1235,26 @@
       "duration_ms": 285413,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/5JZnjM9ijpit0d5zjT8MM7"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "It's Too Late",
+        "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        },
+        {
+          "name": "Evermore",
+          "url": "https://open.spotify.com/artist/5VWIuZAPbBdtFHdbDyYeHQ"
+        }
+      ],
+      "duration_ms": 181230,
+      "name": "It's Too Late - Dirty South Radio Edit",
+      "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1455,6 +1439,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 283040,
+      "name": "I Remember (Strobelight Edit)",
+      "url": "https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "L.E.F.",
         "url": "https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69"
       },
@@ -1487,26 +1491,6 @@
       "duration_ms": 221493,
       "name": "Heartbreak - Radio Edit",
       "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 283040,
-      "name": "I Remember (Strobelight Edit)",
-      "url": "https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1731,22 +1715,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Perfect Day",
-        "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 168793,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/6vVBwOqsm2qOhL8ewESBBu"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Take Me Away (Into the Night)",
         "url": "https://open.spotify.com/album/4WB7XNlgLRBQHt0I6cLqIc"
       },
@@ -1759,6 +1727,22 @@
       "duration_ms": 191120,
       "name": "Take Me Away - Vocal Radio Mix",
       "url": "https://open.spotify.com/track/2iXSGmkft1qLUwxkRolc9U"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 168793,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/6vVBwOqsm2qOhL8ewESBBu"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1979,22 +1963,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Put 'Em Up",
-        "url": "https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr"
-      },
-      "artists": [
-        {
-          "name": "Edun",
-          "url": "https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Put `em Up",
-      "url": "https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/2iPHV0vUp2IoooYQXHIyI8"
       },
@@ -2011,6 +1979,22 @@
       "duration_ms": 438013,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/5koBIzuWS86S2IR36yt2LW"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Put 'Em Up",
+        "url": "https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr"
+      },
+      "artists": [
+        {
+          "name": "Edun",
+          "url": "https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Put `em Up",
+      "url": "https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2095,22 +2079,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "Bendj Feat Sushy",
-          "url": "https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU"
-        }
-      ],
-      "duration_ms": 172493,
-      "name": "Me and Myself (Wolfgang Gartner Radio Edit)",
-      "url": "https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "I Found U",
         "url": "https://open.spotify.com/album/4wP9UvfCSFH8Z95rCt1UjB"
       },
@@ -2123,6 +2091,22 @@
       "duration_ms": 171680,
       "name": "I Found U - Radio Edit",
       "url": "https://open.spotify.com/track/1zzae0EZDDYYzoAplr5ldV"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "Bendj Feat Sushy",
+          "url": "https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU"
+        }
+      ],
+      "duration_ms": 172493,
+      "name": "Me and Myself (Wolfgang Gartner Radio Edit)",
+      "url": "https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2155,6 +2139,42 @@
       "duration_ms": 225400,
       "name": "Imagination - Ti\u00ebsto Remix Radio Edit",
       "url": "https://open.spotify.com/track/1mNiQ0hVgB7xQZ938A8lIJ"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 392293,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Believer (feat. Wynter Gordon)",
+        "url": "https://open.spotify.com/album/0sd07wZssqlLugldAokk6K"
+      },
+      "artists": [
+        {
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+        },
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+        }
+      ],
+      "duration_ms": 189388,
+      "name": "Believer (feat. Wynter Gordon) (Radio Edit)",
+      "url": "https://open.spotify.com/track/2tjCwTjbuEc6bXyp9iS08B"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2199,26 +2219,6 @@
       "duration_ms": 228986,
       "name": "Everything (feat. Myah) - Radio Edit",
       "url": "https://open.spotify.com/track/0l9xKcujIQJ4mDUgWb7852"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Believer (feat. Wynter Gordon)",
-        "url": "https://open.spotify.com/album/0sd07wZssqlLugldAokk6K"
-      },
-      "artists": [
-        {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
-        },
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 189388,
-      "name": "Believer (feat. Wynter Gordon) (Radio Edit)",
-      "url": "https://open.spotify.com/track/2tjCwTjbuEc6bXyp9iS08B"
     }
   ],
   "unique_name": "Dance Classics",

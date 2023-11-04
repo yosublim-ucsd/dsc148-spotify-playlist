@@ -4,7 +4,7 @@
 
 > Bluesy blips and blops
 
-75 songs - 5 hr 3 min
+77 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Dirty Blues](https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Dirty Blues](https://open.spotify.com/album/5izZcttoL7uPSrAosqObkb) | 2:46 | 2022-05-06 |  |
 | [Electrified](https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Prehistoric Rhythm](https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc) | 6:38 | 2020-12-01 |  |
 | [FaiBless](https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [Left Behind](https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF) | 3:19 | 2020-12-01 |  |
-| [Fatboy](https://open.spotify.com/track/4AE3o0Zl933eTmA2FV0LPF) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 3:27 | 2020-12-01 |  |
+| [Fatboy](https://open.spotify.com/track/4AE3o0Zl933eTmA2FV0LPF) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 3:27 | 2020-12-01 | 2023-11-04 |
+| [Fatboy](https://open.spotify.com/track/5baarVtoUjoffq6RPKGEES) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/1FwtaKN4oXKnx9UGTFP0uH) | 3:27 | 2020-12-01 |  |
 | [From the Storm](https://open.spotify.com/track/5eHLQ0pMsDwFoHjK315CQf) | [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu), [Ruby Friedman Orchestra](https://open.spotify.com/artist/723Ki2RVmcT0L3y6NHPOEE) | [From the Storm](https://open.spotify.com/album/3Fmfkjw6e8SLnQ8b2kLTd0) | 3:29 | 2023-08-04 |  |
 | [Go On Home](https://open.spotify.com/track/4K9APmIfS2d1eojcx04aDp) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 4:21 | 2020-12-01 |  |
 | [Good & Gone \- Original Mix](https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj) | [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt) | [Good & Gone / The Observer](https://open.spotify.com/album/4kx8HQlzVqfPDZNIbk5F87) | 4:12 | 2020-12-01 |  |
@@ -45,7 +46,8 @@
 | [John The Revelator](https://open.spotify.com/track/343lHi9sB146HH6sGmjsL1) | [Mortal Prophets](https://open.spotify.com/artist/3Y2UzZ6Uelgt7zmIuWlZ6R), [Gary Lucas](https://open.spotify.com/artist/7pfGmIs49lIUBtoqAtyUEH) | [John The Revelator](https://open.spotify.com/album/1RiftRxnvWj7gPhOW6gzb3) | 2:32 | 2022-07-08 | 2023-10-15 |
 | [John The Revelator](https://open.spotify.com/track/7dMvX09kC2aTr1xlSEdWdC) | [Mortal Prophets](https://open.spotify.com/artist/3Y2UzZ6Uelgt7zmIuWlZ6R), [Gary Lucas](https://open.spotify.com/artist/7pfGmIs49lIUBtoqAtyUEH) | [John The Revelator](https://open.spotify.com/album/6y02mgEYFdBIlR2w3OjWm2) | 2:32 | 2022-07-29 |  |
 | [Joshua Tree](https://open.spotify.com/track/3I0CQt2MQx6jKygLKTdmde) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Joshua Tree](https://open.spotify.com/album/1YnzjJJCICcYqynOL6GiCJ) | 3:57 | 2022-09-30 |  |
-| [K.I.S.S\. \- Remix](https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [Citizens of Boomtown \(Deluxe\)](https://open.spotify.com/album/5twg48xOlAZwZsoPUxbyGm) | 6:01 | 2022-04-29 |  |
+| [K.I.S.S\. \(Remix\)](https://open.spotify.com/track/23V5EHc7eQUOzlqRnj1wTI) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [Citizens of Boomtown \(Deluxe\)](https://open.spotify.com/album/03cX4WLjGFXWJannuWaWtx) | 6:01 | 2022-05-06 |  |
+| [K.I.S.S\. \- Remix](https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [Citizens of Boomtown \(Deluxe\)](https://open.spotify.com/album/5twg48xOlAZwZsoPUxbyGm) | 6:01 | 2022-04-29 | 2023-11-04 |
 | [Keisha Complexion](https://open.spotify.com/track/0gm0OruZdJlu8jamJe5OCh) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Keisha Complexion](https://open.spotify.com/album/2F8Fdmv6gXkewLOgTWD57R) | 3:18 | 2020-12-01 |  |
 | [Left Behind](https://open.spotify.com/track/5gSHmVV30dqKESS4nYGpXg) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [Left Behind](https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF) | 3:36 | 2020-12-01 |  |
 | [Levee & Brick \(Down to This\)](https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [Levee & Brick \(Down to This\)](https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4) | 2:46 | 2023-01-20 |  |

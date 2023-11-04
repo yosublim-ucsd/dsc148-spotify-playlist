@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: G Jones",
-  "num_followers": 892268,
+  "num_followers": 892329,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjlmODU4MDIxZGJmZGFiNmZjYzJkMzIyOWQ2MGExZWRlY2JhNjg2",
+  "snapshot_id": "MCwyMmE4ZTllZjllZDVkOWFlMmE5MmZiZjhlZDFiZWFhOWI3YWIwNTU2",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -83,22 +83,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Uh Uh",
-        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
+        "name": "Shut Shit Down",
+        "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
       },
       "artists": [
         {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
         },
         {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
         }
       ],
-      "duration_ms": 193098,
-      "name": "Uh Uh",
-      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
+      "duration_ms": 162373,
+      "name": "Shut Shit Down",
+      "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -139,38 +139,38 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo"
+        "name": "High You Are (Remixes)",
+        "url": "https://open.spotify.com/album/0h2G6kf2j9OoqdvS2fcwr8"
       },
       "artists": [
         {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Branchez",
+          "url": "https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Trust - VIP Mix",
-      "url": "https://open.spotify.com/track/5Kwy6gGIkpAyBDqmSokJOx"
+      "duration_ms": 213340,
+      "name": "High You Are (Branchez Remix)",
+      "url": "https://open.spotify.com/track/4YIoQqE50AdyG4BQafCi3u"
     },
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Shut Shit Down",
-        "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
+        "name": "Light",
+        "url": "https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H"
       },
       "artists": [
         {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         }
       ],
-      "duration_ms": 162373,
-      "name": "Shut Shit Down",
-      "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
+      "duration_ms": 239853,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -207,18 +207,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H"
+        "name": "Uh Uh",
+        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
         }
       ],
-      "duration_ms": 239853,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT"
+      "duration_ms": 193098,
+      "name": "Uh Uh",
+      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -239,26 +243,6 @@
       "duration_ms": 224210,
       "name": "GUD VIBRATIONS",
       "url": "https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "High You Are (Remixes)",
-        "url": "https://open.spotify.com/album/0h2G6kf2j9OoqdvS2fcwr8"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "Branchez",
-          "url": "https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf"
-        }
-      ],
-      "duration_ms": 213340,
-      "name": "High You Are (Branchez Remix)",
-      "url": "https://open.spotify.com/track/4YIoQqE50AdyG4BQafCi3u"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -287,22 +271,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "V!BEZ, Vol. 3",
-        "url": "https://open.spotify.com/album/6pT3v18olmBZkDTm6gj7eW"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 195790,
-      "name": "Do You?",
-      "url": "https://open.spotify.com/track/0tAFy8LVdMQgW6A6Nq7olS"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Blame (Tim Gunter Remix)",
         "url": "https://open.spotify.com/album/6NjGSlcPZwXDPRHcS7gVth"
       },
@@ -327,22 +295,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "OH LAWD",
-        "url": "https://open.spotify.com/album/4qKjQ6GfhuN7WRxOHdB7U4"
+        "name": "V!BEZ, Vol. 3",
+        "url": "https://open.spotify.com/album/6pT3v18olmBZkDTm6gj7eW"
       },
       "artists": [
         {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "Lemay",
-          "url": "https://open.spotify.com/artist/7zySlNgrPI1dWfMBIjTIKD"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
         }
       ],
-      "duration_ms": 268800,
-      "name": "OH LAWD",
-      "url": "https://open.spotify.com/track/7lKkzOnRvY7OeLSFWBwlii"
+      "duration_ms": 195790,
+      "name": "Do You?",
+      "url": "https://open.spotify.com/track/0tAFy8LVdMQgW6A6Nq7olS"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -363,6 +327,46 @@
       "duration_ms": 206400,
       "name": "Arena",
       "url": "https://open.spotify.com/track/1i0cgkisuJoGZOzdupqf1v"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "OH LAWD",
+        "url": "https://open.spotify.com/album/4qKjQ6GfhuN7WRxOHdB7U4"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "Lemay",
+          "url": "https://open.spotify.com/artist/7zySlNgrPI1dWfMBIjTIKD"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "OH LAWD",
+      "url": "https://open.spotify.com/track/7lKkzOnRvY7OeLSFWBwlii"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/3Xug1RZvXgaLQf7yPVlu7n"
+      },
+      "artists": [
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        },
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 188804,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/2tsIMR0ok3KDqJ4oodDRjg"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -815,22 +819,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Fresh Outta Japan",
-        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
-      },
-      "artists": [
-        {
-          "name": "Yasko",
-          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
-        }
-      ],
-      "duration_ms": 116050,
-      "name": "Fresh Outta Japan",
-      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Reaper (feat. JID)",
         "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
       },
@@ -867,6 +855,22 @@
       "duration_ms": 160000,
       "name": "The One - NGHTMRE Remix",
       "url": "https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Fresh Outta Japan",
+        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
+      },
+      "artists": [
+        {
+          "name": "Yasko",
+          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
+        }
+      ],
+      "duration_ms": 116050,
+      "name": "Fresh Outta Japan",
+      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -959,26 +963,6 @@
       "duration_ms": 245000,
       "name": "ili",
       "url": "https://open.spotify.com/track/59QmjU5K8XQTfj9JjFNb4Z"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Red // Blue",
-        "url": "https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "DallasK",
-          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
-        }
-      ],
-      "duration_ms": 254879,
-      "name": "Crash 2.0",
-      "url": "https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1079,22 +1063,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "V!BEZ, Vol. 4",
-        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bellz",
-      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Rail Breaker (feat. Rico Act)",
         "url": "https://open.spotify.com/album/1mphFKSXZBzN35UF4KrdRc"
       },
@@ -1111,6 +1079,22 @@
       "duration_ms": 225116,
       "name": "Rail Breaker (feat. Rico Act)",
       "url": "https://open.spotify.com/track/3qhW0ioG27ZRFbZn1diK2m"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "V!BEZ, Vol. 4",
+        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bellz",
+      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1187,26 +1171,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Zurna",
-        "url": "https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Zurna",
-      "url": "https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Good Times Ahead",
         "url": "https://open.spotify.com/album/7D7gToSUwjOPdnpNdQHCKd"
       },
@@ -1227,6 +1191,26 @@
       "duration_ms": 214714,
       "name": "Feel It (feat. Tunji Ige)",
       "url": "https://open.spotify.com/track/3Vad9kkHv0DZZ0ioJdRrYV"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Zurna",
+        "url": "https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Zurna",
+      "url": "https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Trust - VIP Mix",
+      "url": "https://open.spotify.com/track/5Kwy6gGIkpAyBDqmSokJOx"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Atom + Eve",
         "url": "https://open.spotify.com/album/2VbJQEfwTnFLzFL3WQ8coK"
       },
@@ -1467,38 +1467,6 @@
       "duration_ms": 246967,
       "name": "Hmu (feat. Clay Parnell & Rory \"Sweet Boy\" Dolan)",
       "url": "https://open.spotify.com/track/5F3t5WgLyBX2W7un8IXiLD"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Came Up",
-        "url": "https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD"
-      },
-      "artists": [
-        {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "FKi 1st",
-          "url": "https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2"
-        },
-        {
-          "name": "graves",
-          "url": "https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "KEY!",
-          "url": "https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP"
-        }
-      ],
-      "duration_ms": 214929,
-      "name": "Came Up",
-      "url": "https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1543,6 +1511,38 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Came Up",
+        "url": "https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "FKi 1st",
+          "url": "https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2"
+        },
+        {
+          "name": "graves",
+          "url": "https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "KEY!",
+          "url": "https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP"
+        }
+      ],
+      "duration_ms": 214929,
+      "name": "Came Up",
+      "url": "https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "People I Know",
         "url": "https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "REDloop",
-        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "REDloop",
-      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Leisure Season Vol. 1",
         "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 171891,
       "name": "Got Me Like",
       "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "REDloop",
+        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "REDloop",
+      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        }
+      ],
+      "duration_ms": 150370,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "SABER TOOTH",
         "url": "https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9"
       },
@@ -1851,22 +1867,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Active",
-        "url": "https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        }
-      ],
-      "duration_ms": 150370,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Cartel II",
         "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
       },
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Love Hotel",
+        "url": "https://open.spotify.com/album/70Bek9HrCmMAku4HmZd0Sl"
+      },
+      "artists": [
+        {
+          "name": "barnacle boi",
+          "url": "https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu"
+        }
+      ],
+      "duration_ms": 203809,
+      "name": "Love Hotel",
+      "url": "https://open.spotify.com/track/3D5T9c0O7IE2uM0pU4Q5SN"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "LOUD",
         "url": "https://open.spotify.com/album/20YsYld8q3KoVj8uT7kHGK"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 165675,
       "name": "LOUD",
       "url": "https://open.spotify.com/track/4gWvFjp9fFZ77mOW5FUaDh"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Love Hotel",
-        "url": "https://open.spotify.com/album/70Bek9HrCmMAku4HmZd0Sl"
-      },
-      "artists": [
-        {
-          "name": "barnacle boi",
-          "url": "https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu"
-        }
-      ],
-      "duration_ms": 203809,
-      "name": "Love Hotel",
-      "url": "https://open.spotify.com/track/3D5T9c0O7IE2uM0pU4Q5SN"
     },
     {
       "added_at": "2023-10-27 04:00:00",

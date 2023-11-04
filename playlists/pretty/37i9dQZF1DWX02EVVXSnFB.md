@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,571 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,583 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 9 | [To The Floor](https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:09 |
 | 10 | [Cassius 1999 \(Radio Edit\)](https://open.spotify.com/track/4CHGyhVoq5AVpG47klsVrL) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [1999 \(Deluxe Edition\)](https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43) | 3:41 |
 | 11 | [Don't Call Me Baby](https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD) | [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7) | 3:48 |
-| 12 | [Care Less \(feat\. Mafro\)](https://open.spotify.com/track/16eLGXZkS8zudq5MtS8pw4) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Care Less \(feat\. Mafro\)](https://open.spotify.com/album/1oke3BISuMUHhHSxfPI4Ee) | 3:05 |
+| 12 | [Care Less \(feat\. Mafro\)](https://open.spotify.com/track/75WWh4xWED0GSpXbiHgS8Y) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Care Less \(feat\. Mafro\)](https://open.spotify.com/album/3Afm0bArE1APMnbS0shw69) | 3:05 |
 | 13 | [Rips in Jeans](https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Rips in Jeans](https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0) | 2:43 |
 | 14 | [Gangster Time](https://open.spotify.com/track/4LEU14gZpGPwjbdJm58fz4) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Gangster Time](https://open.spotify.com/album/3ysLFUfta9whmtY81EBXKX) | 3:27 |
 | 15 | [Chapter 7 \(feat\. Ty\)](https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Ty](https://open.spotify.com/artist/2hED6gNVoqGvmmX8i5dRoj) | [Chapter 7](https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 49 | [Ya Mama](https://open.spotify.com/track/2jeKsuGqjv5dPbM15V9Kn8) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between The Gutter And The Stars](https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst) | 5:38 |
 | 50 | [Confidence](https://open.spotify.com/track/3xwiyXuh6KLBCQhRfQqXa3) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third](https://open.spotify.com/album/4zG3uvykSITw9ZRfkL6h0V) | 3:14 |
 
-Snapshot ID: `MCwyNDhhNjkwOTFhOGU3OTI4MDA2YmUzNDU3NTM0NzQ0MjkxZTkyZDg2`
+Snapshot ID: `MCw3M2E3MTI0M2I3OTQ4ZWNhMmI1OGQ3MjFmZmE1NGM5MTUzOWVlYjFi`

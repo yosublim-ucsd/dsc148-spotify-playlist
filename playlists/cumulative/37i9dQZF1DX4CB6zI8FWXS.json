@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "1738 (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230293,
+      "name": "1738 (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H"
+    },
+    {
+      "album": {
         "name": "2016",
         "url": "https://open.spotify.com/album/7qeQudNVKihiHBykhZa5IY"
       },
@@ -2151,6 +2173,28 @@
     },
     {
       "album": {
+        "name": "CHAOTIC GOOD",
+        "url": "https://open.spotify.com/album/0hb3KiGteT3tGOUUImXE1P"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/1B40NJiFLj76HWGwuIqD82"
+        },
+        {
+          "name": "YSO Blank",
+          "url": "https://open.spotify.com/artist/2ncyZgpGFwL4X6PljrF20F"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "I'm Up",
+      "url": "https://open.spotify.com/track/0GtvNm22KkVhM3S5K7ZOeM"
+    },
+    {
+      "album": {
         "name": "Chaotic Good",
         "url": "https://open.spotify.com/album/43futw0FUDOAttvAbgfntP"
       },
@@ -2166,7 +2210,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 157714,
       "name": "I'm Up ft. YSO Blank",
       "url": "https://open.spotify.com/track/4J2rF7PGTY4dRb3CSpaHwc"

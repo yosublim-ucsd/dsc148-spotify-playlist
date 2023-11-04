@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-1,498 songs - 3 day 5 hr 35 min
+1,499 songs - 3 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,7 +565,7 @@
 | [INFLUENCERKY <3](https://open.spotify.com/track/5xyMokPnZDfOLGlHh7OIMB) | [ECM Squad](https://open.spotify.com/artist/3HRO6CuZLRhEE9UOcra4Pp), [Shimmi](https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck) | [INFLUENCERKY <3](https://open.spotify.com/album/5nqyxRfp1BAAKoqVUtMQrx) | 2:11 | 2023-09-15 | 2023-09-24 |
 | [Instaklam](https://open.spotify.com/track/4BkbccWm1JYbV0G2BQCTT4) | [DMS](https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D) | [HUHU](https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO) | 4:07 | 2021-12-12 | 2022-01-15 |
 | [International](https://open.spotify.com/track/4NeUCjj8g0vSlGjC4BXA8q) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [Matej Straka](https://open.spotify.com/artist/4WB1NUL01OyTTuhNkdyljG), [Fleego](https://open.spotify.com/artist/6IQPmEIuLvxLQR7eWpvvmS) | [FLOWDEMORT](https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK) | 2:29 | 2023-04-01 | 2023-05-27 |
-| [Intro](https://open.spotify.com/track/7Hv3RbeEI9ynt6S7dIm3iT) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [FLOWDEMORT](https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK) | 1:59 | 2023-04-01 |  |
+| [Intro](https://open.spotify.com/track/7Hv3RbeEI9ynt6S7dIm3iT) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [FLOWDEMORT](https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK) | 1:59 | 2023-04-01 | 2023-11-04 |
 | [Intro 4](https://open.spotify.com/track/0dcyHbRhW3czcxuny7TuDj) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [POPSTAR](https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK) | 2:06 | 2022-03-12 | 2022-03-17 |
 | [Inverzia](https://open.spotify.com/track/0fP30PpvCS3AB4hBN91GPY) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [S láskou, Lukáš.](https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t) | 3:24 | 2023-02-15 |  |
 | [Inverzia \- Bonus](https://open.spotify.com/track/7rVRO72e2V9R38yYD1dxPh) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [LNLY J](https://open.spotify.com/artist/23q2ytYb96FFP3Iym1vetQ) | [S láskou, Lukáš.](https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t) | 2:36 | 2023-02-15 | 2023-03-12 |
@@ -695,6 +695,7 @@
 | [Link Me](https://open.spotify.com/track/03hIVyffcjHEOkR82pf4Mb) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Trobi On The Beat](https://open.spotify.com/album/2YUxS2Myez0IoHfJbIQot8) | 2:22 | 2022-04-12 | 2022-04-15 |
 | [Links](https://open.spotify.com/track/08BS0ufU0ifTnUJuE5MjF2) | [LUISA](https://open.spotify.com/artist/7J8NWckBrcIlgoE7Ue8v9H), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [Sad & Savage](https://open.spotify.com/album/19i9Pxul5jFdBRmrU8sGOZ) | 2:34 | 2022-11-01 | 2022-11-06 |
 | [lipa](https://open.spotify.com/track/09cCLphqpM1EVUAUp2ppm4) | [Samey](https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt), [Taomi](https://open.spotify.com/artist/59jeu94znh2noMuS99hZjA) | [Anarchia](https://open.spotify.com/album/4zqBS3OrQBtBconkN08EXW) | 2:55 | 2021-09-03 | 2021-09-15 |
+| [List do vetra](https://open.spotify.com/track/1wh1QVZfAuNTs4WGsEtHcL) | [Milan Lasica](https://open.spotify.com/artist/4RNoYK520rFS5Uturh27K4) | [List do vetra](https://open.spotify.com/album/6BBknUYB5ykZ2CaMuG8mtv) | 4:47 | 2023-11-03 |  |
 | [List Jeziskovi \(Mistletoe And Wine\)](https://open.spotify.com/track/0JzV9Waqwvmoa3iwvHxezb) | [Pavol Habera](https://open.spotify.com/artist/4jPsY1s2yZz5GbsY3o7G1w) | [Svet lasku ma](https://open.spotify.com/album/2e1qWvcG4OJMTK5cKHnYmp) | 4:10 | 2021-12-25 | 2022-12-27 |
 | [Little Bit of Love](https://open.spotify.com/track/3Iba59sFmGhQ4kbCY5L8AX) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Deluxe\)](https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd) | 3:46 | 2021-07-28 | 2021-11-05 |
 | [Little Freak](https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:22 | 2022-05-21 | 2022-06-03 |

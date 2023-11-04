@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-616 songs - 1 day 20 hr 27 min
+617 songs - 1 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [Hey Boy](https://open.spotify.com/track/2a7A7T4zjoK1UxzlMLsAzQ) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Hey Boy](https://open.spotify.com/album/0BiIix6p1yHvqZYcciHrrh) | 3:15 | 2021-10-06 | 2022-04-18 |
 | [Hey Boy](https://open.spotify.com/track/4gqDN1M6lY1Dzkr2N0pZDI) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:15 | 2021-10-06 |  |
 | [Hidden Qi 隐.气](https://open.spotify.com/track/7trNi5IxjzvaWces2oI4T7) | [Mindy Meng Wang 王萌](https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Nervous Energy 一触即发](https://open.spotify.com/album/6mWU0Zd0TbHJiuCMvkpnX9) | 3:17 | 2021-11-26 | 2022-07-26 |
-| [Home Soon](https://open.spotify.com/track/7wYN8yIS47A71ZCb3ekHY5) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Hounds Tooth](https://open.spotify.com/album/2QQdxn4W5WaiY4SD61BJ6L) | 2:57 | 2022-03-09 |  |
+| [Home Soon](https://open.spotify.com/track/7C5Ria90yxc4a0REG1D23U) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Hounds Tooth](https://open.spotify.com/album/1CQ54FS3SZ5ELzOi6BZ8z8) | 2:57 | 2023-11-03 |  |
+| [Home Soon](https://open.spotify.com/track/7wYN8yIS47A71ZCb3ekHY5) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Hounds Tooth](https://open.spotify.com/album/2QQdxn4W5WaiY4SD61BJ6L) | 2:57 | 2022-03-09 | 2023-11-04 |
 | [Homo Sapiens](https://open.spotify.com/track/7237Rc0OgaozeyigB1VPn0) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX), [The Mauskovic Dance Band](https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS) | [Homo Sapiens / Take the Money \(Octopus Version\)](https://open.spotify.com/album/2WBMWVmk0SLTOxxh4shseS) | 4:53 | 2021-10-06 |  |
 | [Hot Cheeto Stains](https://open.spotify.com/track/5JOqMSRwlKCKmcqXWh0Cs8) | [Chola Orange](https://open.spotify.com/artist/7ovA6Ves5dfylDwv6883wD) | [Tokyo Sunset](https://open.spotify.com/album/2kShhUmjYCmd7KVLCmYQJD) | 3:03 | 2021-10-06 | 2022-04-21 |
 | [House of Cards](https://open.spotify.com/track/4lmzz09uUKtHnh740nyu37) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Chaos Theories](https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA) | 5:11 | 2021-10-06 |  |

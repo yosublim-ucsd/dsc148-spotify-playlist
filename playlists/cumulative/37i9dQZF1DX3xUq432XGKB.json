@@ -536,10 +536,32 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 429938,
       "name": "Call You Back",
       "url": "https://open.spotify.com/track/0EETw2XgKBkhE18TA3jcCq"
+    },
+    {
+      "album": {
+        "name": "Pure Salinas, Vol. 9 (Compiled by DJ Zappi)",
+        "url": "https://open.spotify.com/album/1xvAoZ7gaN1CJ60lbbe43J"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        },
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429938,
+      "name": "Call You Back",
+      "url": "https://open.spotify.com/track/1xJeWMzCpzuJjKgGl1evum"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,295 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,294 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 113 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 |
 | 114 | [Bailala Pronto](https://open.spotify.com/track/2tDoreKvv4UqcfZACXXqaM) | [Manny Oquendo Y Libre](https://open.spotify.com/artist/0RCOPdcvHvXsH30ym7trfH) | [Salsa Del Barrio](https://open.spotify.com/album/6cMCcIUu4pvNiZTB1WeTY7) | 8:30 |
 | 115 | [October](https://open.spotify.com/track/2ZjMf65ieYnu2GqBRsK8nE) | [J\. Michael Henderson](https://open.spotify.com/artist/5cC1eRiZSJYZam9KhiThM0) | [Lost & Found Sessions, Vol\. I](https://open.spotify.com/album/5vZ8jCyLWRg23yrRTZv4gM) | 4:14 |
-| 116 | [Pop Muzik \- 12 Inch Version](https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm) | [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Robin Scott](https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [New York, London, Paris, Munich](https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0) | 4:56 |
+| 116 | [Pop Muzik \(12 Inch Version\)](https://open.spotify.com/track/43U1bCDTZAhhY1Y8mCkTG4) | [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [New York, London, Paris, Munich](https://open.spotify.com/album/1NYT6pqKJdfCPOKtbgqbLV) | 4:56 |
 | 117 | [Dame Amor](https://open.spotify.com/track/6KWXqOtuXlzTb3876Ez3ku) | [Chilo Escobedo](https://open.spotify.com/artist/6wzFcjyElCAGACqdXiBwlx) | [Su Vos Y Sus Canciones](https://open.spotify.com/album/1p5W2mXrX033Bms0H5Jy3f) | 3:09 |
 | 118 | [Presente Y Pasado](https://open.spotify.com/track/3h2a9NPOTYvtFRzOUspDIe) | [Chilo Escobedo](https://open.spotify.com/artist/6wzFcjyElCAGACqdXiBwlx) | [Su Vos Y Sus Canciones](https://open.spotify.com/album/1p5W2mXrX033Bms0H5Jy3f) | 3:17 |
 | 119 | [Tico Tico](https://open.spotify.com/track/4eUX8hVueWUBcP2H0H2uvd) | [Miguel Alcaide](https://open.spotify.com/artist/6W3Shyqt3OdymZ3uiyF6Bf) | [Noche De Ronda](https://open.spotify.com/album/1RjYl2yNORsKacd7SsErOh) | 3:00 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 166 | [Rock And Roll Never Forgets \- Live/Remastered](https://open.spotify.com/track/7wfMo45fLnq1fnmghB5388) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Nine Tonight \(Live/Remastered\)](https://open.spotify.com/album/3IopzrrHrPPzEEp28YtP35) | 3:35 |
 | 167 | [Dejé la puerta abierta](https://open.spotify.com/track/3EfbEKy4d9yQu7N53pSdfa) | [Efraín Ríos](https://open.spotify.com/artist/1QFw9RTzNqQ66UEJoNfEZ4) | [Antologia de Cuba](https://open.spotify.com/album/3AFDWZtcXQbPOfnk9r6Bag) | 2:52 |
 
-Snapshot ID: `MCw0NjBhNDA3ODM1Zjg1NjcxMDllNDk1OTFiNDYwYmE1NDc2YmFlNGEw`
+Snapshot ID: `MCw4NzllYWQ3NDJjNzNmMTA2ODc1YzIxNWQzOGI0ZThkYzhmNjk3YmMz`

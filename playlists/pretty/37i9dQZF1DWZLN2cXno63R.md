@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 
 > Take yourself to Havana with some Cuban Salsa and Café favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,018 likes - 62 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,134 likes - 62 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 | 37 | [El Gallo De Moron](https://open.spotify.com/track/4u9ncLvMpp4mEyoE9ZC3Gh) | [Pío Leiva](https://open.spotify.com/artist/7vf3cusT4A12yB9wu0714H), [Septeto Nacional de Ignacio Piñeiro](https://open.spotify.com/artist/5qiN4a3Vf62zWPlq68ZVhj) | [Esta Es Mi Rumba](https://open.spotify.com/album/08goQFOlOClDPtGQZl7d2o) | 4:14 |
 | 38 | [Fundamento](https://open.spotify.com/track/1ZnNb0y9cGIGJ9KqfGHZ7H) | [Pedro Luis Ferrer](https://open.spotify.com/artist/67rqEUFkr7S787s9ywsDws) | [Rústico](https://open.spotify.com/album/7pW3HnnRyAscMxMyg0MsNo) | 4:03 |
 | 39 | [Los Sitio Asere](https://open.spotify.com/track/6FiODLlwCn0J7sqQgVNXfT) | [Los Gardenias](https://open.spotify.com/artist/1Z3e3MP52dQjW6Vhdj2FGz) | [Café Cuba](https://open.spotify.com/album/0oMN5tFErJAZRwuvp6tY4z) | 6:15 |
-| 40 | [El rincón caliente](https://open.spotify.com/track/3t1XXF8kQQBNsDw3iYRQps) | [Manuel Guajiro Mirabal](https://open.spotify.com/artist/0STnzOo1kc5Ll215NgLiGm) | [Buena Vista Social Club Presents Manuel 'Guajiro' Mirabal](https://open.spotify.com/album/66sFJspZ4Fjg9Gh0g3ovdy) | 4:46 |
+| 40 | [El Rincón Caliente](https://open.spotify.com/track/3kI0mOQrvNgr4NKJC3kdj9) | [Manuel Guajiro Mirabal](https://open.spotify.com/artist/0STnzOo1kc5Ll215NgLiGm) | [Buena Vista Social Club Presents Manuel 'Guajiro' Mirabal](https://open.spotify.com/album/4twAE3W6irUE8V0F3LSsNs) | 4:47 |
 | 41 | [Zun Zun Paloma](https://open.spotify.com/track/4bLWcSxLbBfxRCXGyuwJvR) | [Vieja Trova Santiaguera](https://open.spotify.com/artist/2t7ndReOwR0bTqTaDxYa9G) | [Hotel Asturias](https://open.spotify.com/album/61prW69rxU0bTRWQ9Uju2C) | 3:15 |
 | 42 | [El traguito](https://open.spotify.com/track/4JZl2QBkPqALZhq9gR9NXJ) | [Grupo Cimarron De Cuba](https://open.spotify.com/artist/43Nf9Fu11OoPHkbZFfGMCE) | [The Most Popular Songs from Cuba](https://open.spotify.com/album/4C3zYZy8KynpglX602ev5l) | 3:56 |
 | 43 | [Como A Cada Mañana](https://open.spotify.com/track/7vhofmkO5UMRxdwYptZo7V) | [René](https://open.spotify.com/artist/5rq2bAasq0sAj2SjyzNVgr) | [Obatalá No Quiere Guerra](https://open.spotify.com/album/0CkhEA7pJGHKPHEjl33arE) | 3:43 |
 | 44 | [De Cuba Traigo](https://open.spotify.com/track/2hhUEXxTSFpJaQSd9utoey) | [Ecos De Siboney](https://open.spotify.com/artist/6qmBkBPceisKHwr9upY4VF) | [Saludo Compay](https://open.spotify.com/album/6Gd3EGgnukbh5pDxlLnf6m) | 2:57 |
-| 45 | [Alto songo](https://open.spotify.com/track/4Evp4SGxHiKWGJmaBBxSo2) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT) | 6:42 |
+| 45 | [Alto Songo](https://open.spotify.com/track/4sBedShEvKyKBJT7mayneA) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/4z8W6dVcSq2iFSbNBFwHR1) | 6:46 |
 | 46 | [Buscando Novia \(Amigo Miguel\)](https://open.spotify.com/track/74v1Csjva4kXsZhUdBZhxE) | [Labori](https://open.spotify.com/artist/4HGPHi3uv1cyTjvjpg3g58) | [Amores Y Cuba](https://open.spotify.com/album/4pnA4EsaeljYDo5nFXoG6q) | 3:08 |
 | 47 | [La Charanga](https://open.spotify.com/track/5CHN0tL5GzoR0bqk76XuGK) | [Grupo Cubanissimo](https://open.spotify.com/artist/4IxM9uSjSfajUXJzXLKR3a) | [Cuba Libra Café](https://open.spotify.com/album/3UMCdgAKQx9q39J32WYMtb) | 4:22 |
 | 48 | [Orgullecida](https://open.spotify.com/track/2qvaMKoBv9eAsiL3x4s5KG) | [Hector Rey y Los Brillantes Cubanos](https://open.spotify.com/artist/5PI1oPBGWN4CJk5fi1NPJY) | [Cuba Libra Café](https://open.spotify.com/album/3UMCdgAKQx9q39J32WYMtb) | 3:10 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 | 61 | [Habanera](https://open.spotify.com/track/5fJ59hC02dd43Ej9I1Zyyp) | [Cuba Cafe Express](https://open.spotify.com/artist/5suSWbd4Oy5ZBnwvk2ruCt) | [What About Cuba](https://open.spotify.com/album/2PpQzhiPBQl6cbWvmgNhTn) | 3:42 |
 | 62 | [El Guayo de Catilina](https://open.spotify.com/track/0YMHpQZ6FYqS4V6J6xOVqL) | [Havana Club](https://open.spotify.com/artist/3OVEfqUmt746LvlpP2rKK2) | [Cafè de Cuba \(Latin Music, Cuba\)](https://open.spotify.com/album/1hPlkjUn6C9cRVVN3VEfhu) | 3:17 |
 
-Snapshot ID: `MCw4MGM2NTcyYmJhOTAxNjc0OWVmNjI3ODQzYjM4MWJmYjA4MjkzYjlh`
+Snapshot ID: `MCxkNjZkNDdkZTU5N2YxYWRmYjA4MDcxYzZhNTdjYWZjZTM2MmJhYmIw`

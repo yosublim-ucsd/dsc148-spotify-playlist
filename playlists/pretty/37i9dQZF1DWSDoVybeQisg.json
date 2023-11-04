@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1127451,
+  "num_followers": 1127639,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmYwMTc4OTA2ZTdkYWU2N2ZjZGIyMmY5ZTA5M2M2OWE0MDU3MDFm",
+  "snapshot_id": "MCxlMmU1YjI0NDRiMjUxZDE1NjM0ZGU4NGM3MWFiMmU2ZmI2NGY0YTgy",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
-      },
-      "artists": [
-        {
-          "name": "The Easybeats",
-          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Friday on My Mind",
-      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "The First Edition",
         "url": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
       },
@@ -303,6 +287,26 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "duration_ms": 312253,
+      "name": "Venus In Furs",
+      "url": "https://open.spotify.com/track/29engDqjmMr3VLqMm0c0WE"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
         "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
       },
@@ -331,26 +335,6 @@
       "duration_ms": 195000,
       "name": "Sunshine Superman",
       "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "The Velvet Underground & Nico 45th Anniversary",
-        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
-      },
-      "artists": [
-        {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        },
-        {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
-        }
-      ],
-      "duration_ms": 312253,
-      "name": "Venus In Furs",
-      "url": "https://open.spotify.com/track/29engDqjmMr3VLqMm0c0WE"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -435,22 +419,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Light and Heavy/The Best of...",
-        "url": "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X"
-      },
-      "artists": [
-        {
-          "name": "Iron Butterfly",
-          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "In-A-Gadda-Da-Vida - Single Version",
-      "url": "https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "The Essentials: Tommy James & The Shondells",
         "url": "https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ"
       },
@@ -467,18 +435,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Magical Mystery Tour (Remastered)",
-        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+        "name": "Light and Heavy/The Best of...",
+        "url": "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Iron Butterfly",
+          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
         }
       ],
-      "duration_ms": 275866,
-      "name": "I Am The Walrus - Remastered 2009",
-      "url": "https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6"
+      "duration_ms": 173986,
+      "name": "In-A-Gadda-Da-Vida - Single Version",
+      "url": "https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -495,6 +463,22 @@
       "duration_ms": 352906,
       "name": "The Pusher",
       "url": "https://open.spotify.com/track/29HbMTL672MugzhklYvStz"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 275866,
+      "name": "I Am The Walrus - Remastered 2009",
+      "url": "https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -595,22 +579,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Younger Than Yesterday",
-        "url": "https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "My Back Pages",
-      "url": "https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -643,6 +611,38 @@
       "duration_ms": 422680,
       "name": "No Quarter - Remaster",
       "url": "https://open.spotify.com/track/55ZL7fjGAWfClmpnsK6Xon"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Younger Than Yesterday",
+        "url": "https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "My Back Pages",
+      "url": "https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Manic Depression",
+      "url": "https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Manic Depression",
-      "url": "https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Deep Purple in Rock",
         "url": "https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS"
       },
@@ -791,22 +775,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Happy Trails",
-        "url": "https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r"
-      },
-      "artists": [
-        {
-          "name": "Quicksilver Messenger Service",
-          "url": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Who Do You Love - Pt. 1",
-      "url": "https://open.spotify.com/track/14hykKy6TC9y6chiptCtje"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Hellbound Train",
         "url": "https://open.spotify.com/album/5BCxBr9e8orvd7h0BO7CFb"
       },
@@ -827,6 +795,22 @@
       "duration_ms": 550506,
       "name": "Hellbound Train",
       "url": "https://open.spotify.com/track/3IPpgcViKQ2E81XgMnT3yw"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Happy Trails",
+        "url": "https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r"
+      },
+      "artists": [
+        {
+          "name": "Quicksilver Messenger Service",
+          "url": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Who Do You Love - Pt. 1",
+      "url": "https://open.spotify.com/track/14hykKy6TC9y6chiptCtje"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -991,22 +975,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Gris Gris",
-        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 466266,
-      "name": "I Walk on Guilded Splinters",
-      "url": "https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "The Best of the Lemon Pipers",
         "url": "https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg"
       },
@@ -1063,18 +1031,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Incense And Peppermints",
-        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
+        "name": "Gris Gris",
+        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
       },
       "artists": [
         {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
         }
       ],
-      "duration_ms": 184453,
-      "name": "Rainy Day Mushroom Pillow",
-      "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
+      "duration_ms": 466266,
+      "name": "I Walk on Guilded Splinters",
+      "url": "https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1095,6 +1063,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Incense And Peppermints",
+        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Rainy Day Mushroom Pillow",
+      "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Fever Tree",
         "url": "https://open.spotify.com/album/5ra0kPeGkxFlRTY0Lchce6"
       },
@@ -1111,22 +1095,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Electric Music For The Mind And Body",
-        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
-      },
-      "artists": [
-        {
-          "name": "Country Joe & The Fish",
-          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "Bass Strings",
-      "url": "https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Fifth Dimension",
         "url": "https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb"
       },
@@ -1139,6 +1107,22 @@
       "duration_ms": 153426,
       "name": "5D (Fifth Dimension)",
       "url": "https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Electric Music For The Mind And Body",
+        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "Bass Strings",
+      "url": "https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1175,22 +1159,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Wake Up...It's Tomorrow",
-        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Sit With The Guru",
-      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Spreading from the Ashes",
         "url": "https://open.spotify.com/album/4szjmnQyAMKfYA509zvLyc"
       },
@@ -1203,6 +1171,22 @@
       "duration_ms": 122666,
       "name": "Flight of the Psychedelic Bumble Bee",
       "url": "https://open.spotify.com/track/27aeWRq1h65omUnS16hciN"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Wake Up...It's Tomorrow",
+        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Sit With The Guru",
+      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1235,6 +1219,22 @@
       "duration_ms": 185695,
       "name": "Lazy Sunday (Stereo Version) (2018 Remaster)",
       "url": "https://open.spotify.com/track/6w78eLPBj0fTq6jp3wUIRy"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "The Savage Resurrection",
+        "url": "https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu"
+      },
+      "artists": [
+        {
+          "name": "The Savage Resurrection",
+          "url": "https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE"
+        }
+      ],
+      "duration_ms": 186560,
+      "name": "Thing in E",
+      "url": "https://open.spotify.com/track/6yUIyHqIrx854Jief095VE"
     }
   ],
   "unique_name": "Psychedelic Rock",

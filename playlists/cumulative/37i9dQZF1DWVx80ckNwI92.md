@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative
 
-114 songs - 5 hr 43 min
+115 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [TELL ME WHAT THE COST IS](https://open.spotify.com/track/6i9XoASSA4yR8GuRR3FPzB) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [TELL ME WHAT THE COST IS](https://open.spotify.com/album/0hVpAd1caXNVeDfVPOiPrf) | 3:01 | 2023-10-13 |  |
 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-04-20 |  |
 | [The Bad Ones](https://open.spotify.com/track/0iOaXKUTATIIOqdfIvC8cz) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Pan African Rockstar](https://open.spotify.com/album/2kA7NTDqESZM0B7COf3cfh) | 2:05 | 2023-09-21 |  |
-| [The Caring](https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Bastard Jargon](https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6) | 3:06 | 2023-04-27 |  |
+| [The Caring](https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Bastard Jargon](https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6) | 3:06 | 2023-04-27 | 2023-11-04 |
+| [The Caring](https://open.spotify.com/track/5rhrqRbrZkhIrHp8IbiJUm) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Bastard Jargon](https://open.spotify.com/album/6JGb1JtCcQ0hco81PKvYqf) | 3:06 | 2023-11-03 |  |
 | [The Girl and the Time Machine](https://open.spotify.com/track/1d59d3DFywurMx6uBtlGu9) | [Asa Quana](https://open.spotify.com/artist/5bZxKABYkYmtKIh1f3us7m) | [The Girl and the Time Machine](https://open.spotify.com/album/4XsGm3iq4Bg2q6vTZ72lCF) | 1:37 | 2023-03-30 | 2023-05-19 |
 | [THE MORNING AFTER](https://open.spotify.com/track/1ewqOSdMAgdjFCksr1tRts) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE MORNING AFTER](https://open.spotify.com/album/0s4AN3UDeP6wTPceysr0Jj) | 2:22 | 2023-06-26 |  |
 | [the pain that a human carries](https://open.spotify.com/track/5ze9r8qVvrAV0p7FovFSVi) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [the pain that a human carries can be healed](https://open.spotify.com/album/0TH967o2yOEUib97HfF7fC) | 5:30 | 2023-07-07 |  |

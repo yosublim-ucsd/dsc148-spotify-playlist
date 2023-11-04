@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Johannes Albert
 
-525 songs - 1 day 12 hr 19 min
+526 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [In Private](https://open.spotify.com/track/24KLjoa4KBgpn4XGWFiy5c) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 4:22 | 2022-12-30 | 2023-01-02 |
 | [Inferno](https://open.spotify.com/track/02kLWJR4lS4c5kMVEG2WsY) | [Soundstream](https://open.spotify.com/artist/06Bb7O2LqLNb7kRayt2tfV) | [Julie's Theme](https://open.spotify.com/album/3VeTAfttrHcIcwxarBAFT7) | 7:14 | 2022-12-30 | 2023-01-02 |
 | [Into You \- Vienna Nights Mix](https://open.spotify.com/track/461hznkAq17ywDHFzqA34b) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH), [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl) | [Into You \(Vienna Nights Mix\)](https://open.spotify.com/album/62hKvNCLBrYA7z0zzSRKGj) | 2:45 | 2023-04-06 | 2023-07-14 |
-| [Is It Real](https://open.spotify.com/track/6kVCl8UmYJnLqgP0xIRpaX) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Trip to Sanity](https://open.spotify.com/album/7yHFXNvk1C4XzbNUOTYa3u) | 3:06 | 2023-11-02 |  |
+| [Is It Real](https://open.spotify.com/track/0XIq1VxtdNykPaoGLGEGoo) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Is It Real](https://open.spotify.com/album/3jf0Rvnzvs5v1pcfzSGaPP) | 3:06 | 2023-11-02 |  |
+| [Is It Real](https://open.spotify.com/track/6kVCl8UmYJnLqgP0xIRpaX) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Trip to Sanity](https://open.spotify.com/album/7yHFXNvk1C4XzbNUOTYa3u) | 3:06 | 2023-11-02 | 2023-11-04 |
 | [Is It What It Feels Like to Feel Like This? \- Myd Remix Radio Edit](https://open.spotify.com/track/0jL7eFRciFuzPnFU4hLjUG) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Is This What It Feels Like to Feel Like This? \(Myd Remix\)](https://open.spotify.com/album/5ntFw6kOzBWC6xXf5SS5Q6) | 3:36 | 2023-02-02 | 2023-02-17 |
 | [Is That How You Feel It](https://open.spotify.com/track/1KjMr1ay272SjjNYKf9FY4) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Remember](https://open.spotify.com/album/7wfRiLLgR2anjPEaesqAtr) | 2:58 | 2023-03-02 | 2023-03-18 |
 | [It Could Be Nice](https://open.spotify.com/track/5lGoX0XHR2ystyz0OF3Kv5) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [It Could Be Nice](https://open.spotify.com/album/1s4VVB5nN16DfnSVKRx6NK) | 2:52 | 2022-12-15 | 2023-01-13 |

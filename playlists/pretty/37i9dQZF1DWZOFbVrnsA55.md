@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,097 likes - 270 songs - 4 day 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,125 likes - 270 songs - 4 day 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 | 26 | [Cantus; in Memory of Warren Wiltzie](https://open.spotify.com/track/3nzRf3Ajv04oi8PbnSDSP0) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [Gravitational Pull vs\. The Desire for an Aquatic Life](https://open.spotify.com/album/4ZM2tfnZjk9gMrDLAmlhKL) | 19:03 |
 | 27 | [Path 5 \(delta\)](https://open.spotify.com/track/3izYqkzqnPu8SctUNeyne2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5) | [From Sleep](https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT) | 11:14 |
 | 28 | [Wing Pinger 06](https://open.spotify.com/track/73Gfj8OMN6GJCXiqvSiIH5) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 23:17 |
-| 29 | [Seagull Scene](https://open.spotify.com/track/1JBplCoTzT00SZwz2NBy64) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 13:09 |
+| 29 | [Seagull Scene](https://open.spotify.com/track/1nBlyME5X6cZ5ueQV7kc9w) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 13:09 |
 | 30 | [the neighborhood](https://open.spotify.com/track/1O478jqBXnHd1r1LOhIN3I) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [oneiric](https://open.spotify.com/album/3Denkl4Rdu6z7K14ieeSo7) | 10:42 |
 | 31 | [Movement, 2](https://open.spotify.com/track/0KsdmOwjkR71KvWGE0EEXK) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Illuha](https://open.spotify.com/artist/1Dpivgx7vYA5GHeGloFVD6), [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Perpetual](https://open.spotify.com/album/2e6KLrFJ6663Cq3u3SxbFO) | 19:28 |
 | 32 | [Ceylon \- Remastered](https://open.spotify.com/track/5o044iIcJk99DBQYPvUlKl) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Ceylon \(Remastered\)](https://open.spotify.com/album/5z2vKjBJklrkU7liIaxLjk) | 55:30 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 | 269 | [Cascata di Malbacco](https://open.spotify.com/track/3sCaGhYUT0HytB06FG9M23) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Tuscany](https://open.spotify.com/album/3D4mnf0AU05ASyKnf0wEiq) | 18:08 |
 | 270 | [Knot of Spirit](https://open.spotify.com/track/16OWbcIekAVw9vEdiL93My) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Knot of Spirit](https://open.spotify.com/album/6OQQ3ImfeWkqIIRhMr4L5V) | 10:18 |
 
-Snapshot ID: `MCw1ZGEyYTBlYmNmYTgyYjUwYjg0ZWZmYTU4YTAwYzlhZWIxYmM3ODhj`
+Snapshot ID: `MCxiMzFkNTlhMGExYmY4NWNlMDQyZDE3MmMwOWE3NTFkNmZlMjRkOWRk`

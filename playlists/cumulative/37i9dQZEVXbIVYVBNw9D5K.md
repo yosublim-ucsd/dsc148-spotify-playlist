@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-781 songs - 1 day 15 hr 14 min
+782 songs - 1 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Belki](https://open.spotify.com/track/5ATwkalJ9FnLp7Zcvxo1rl) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Mavzer Tabancas](https://open.spotify.com/artist/7vyG44Uv5jGIwwm2Ha0nE0) | [Belki](https://open.spotify.com/album/62fDebT76lyROboN5cha72) | 2:43 | 2022-09-19 | 2023-06-04 |
 | [Belki \- Akustik](https://open.spotify.com/track/5nH1QRipfAJ8Pd9rFu3xHh) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Belki](https://open.spotify.com/album/62fDebT76lyROboN5cha72) | 3:00 | 2022-09-22 | 2023-04-02 |
 | [Belki Bir Gün Barışırız](https://open.spotify.com/track/44EWXmAtCZvLGADIrOYxnF) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Umut](https://open.spotify.com/album/3BdlyOtto3aobfiUiSkYMJ) | 3:28 | 2021-05-16 | 2021-05-17 |
+| [BELLYDANCING](https://open.spotify.com/track/74HBdKMibHlpW312HTFReN) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BELLYDANCING](https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n) | 2:02 | 2023-11-03 |  |
 | [BEMBEYAZ KEFENDEN](https://open.spotify.com/track/7BdX72cipeyKWnMpkdQfmT) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:02 | 2022-03-20 | 2022-03-25 |
 | [Ben Bilmem](https://open.spotify.com/track/0V3ZiQzJE6q4jTfJjYw6Ib) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Gel De Sevme](https://open.spotify.com/album/6XflKqxcrRKzVzLQN0RNBZ) | 3:10 | 2021-05-10 | 2021-05-30 |
 | [Ben Gibi Bakmaz](https://open.spotify.com/track/3QWpTf2VIdELYUUiKJAXlI) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Ben Gibi Bakmaz](https://open.spotify.com/album/6IU59t2Ujxo6PfliB9y3kQ) | 3:31 | 2021-03-27\* | 2021-05-25 |
@@ -564,7 +565,7 @@
 | [PARALARI KATLA](https://open.spotify.com/track/1xxF0eJ8ff2lKSKT5TPg9D) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [PARALARI KATLA](https://open.spotify.com/album/60r1iy0rkjA3qR2k2swpEX) | 1:38 | 2022-11-27 | 2022-11-30 |
 | [Paranoya](https://open.spotify.com/track/4a0SQDAwphKijSWUXMUEWA) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Paranoya](https://open.spotify.com/album/4jm4N4jJ9NwzS15pfEpmpa) | 2:29 | 2022-02-19 | 2022-03-07 |
 | [Pare](https://open.spotify.com/track/1qv3dJD70eC9mnIZnofWwP) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Pare](https://open.spotify.com/album/1aK2P7TMEkl5P12tl2RujI) | 2:54 | 2021-11-14 | 2022-01-15 |
-| [Parla \- 100\. Yıl Marşı](https://open.spotify.com/track/3n0VsLOc3n9wU8KNJUU0Ws) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ) | [Parla \(100\. Yıl Marşı\)](https://open.spotify.com/album/4qXAMhd9SylBIo8LdxBroW) | 2:46 | 2023-10-28 |  |
+| [Parla \- 100\. Yıl Marşı](https://open.spotify.com/track/3n0VsLOc3n9wU8KNJUU0Ws) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ) | [Parla \(100\. Yıl Marşı\)](https://open.spotify.com/album/4qXAMhd9SylBIo8LdxBroW) | 2:46 | 2023-10-28 | 2023-11-04 |
 | [Paspartu](https://open.spotify.com/track/0ufocYYqahx6pVSERRj4HL) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Paspartu](https://open.spotify.com/album/1UTwQbcpKHteAspEdAN0nc) | 4:34 | 2023-03-18 | 2023-04-15 |
 | [Patlat](https://open.spotify.com/track/5qLnFAfF07nwUiARNSWZBJ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Patlat](https://open.spotify.com/album/0nNGqSZR6AA3KPUkngioIf) | 2:09 | 2023-09-05 | 2023-09-26 |
 | [Pembe Mezarlık](https://open.spotify.com/track/1cwth5tNynCfH2ZYCmShDc) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Diğer Masallar](https://open.spotify.com/album/7tF0MZQNVA3pRwwcwN4obL) | 4:15 | 2022-01-04 | 2022-01-06 |

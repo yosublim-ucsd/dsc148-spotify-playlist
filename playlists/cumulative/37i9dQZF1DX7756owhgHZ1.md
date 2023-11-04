@@ -4,13 +4,14 @@
 
 > Ya sea en la rampa o en la consola, así sonaba montar en patineta.
 
-77 songs - 4 hr 14 min
+80 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [96 Quite Bitter Beings](https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl) | [CKY](https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK) | [Camp Kill Yourself, Vol.1](https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw) | 3:21 | 2022-06-07 |  |
-| [Ace of Spades](https://open.spotify.com/track/3Dg3QZpHkrEVnj87TxBz6G) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades](https://open.spotify.com/album/7cTXWw02BWHxyH77wRfhuQ) | 2:46 | 2022-06-07 |  |
+| [Ace of Spades](https://open.spotify.com/track/3Dg3QZpHkrEVnj87TxBz6G) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades](https://open.spotify.com/album/7cTXWw02BWHxyH77wRfhuQ) | 2:46 | 2022-06-07 | 2023-11-04 |
 | [Ace of Spades](https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 | 2022-06-07 | 2023-11-03 |
+| [Ace of Spades](https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 2:48 | 2022-06-07 |  |
 | [Afraid of Heights](https://open.spotify.com/track/1MJ2PGCxb3DWkd7ES6Z2Nw) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Afraid of Heights \(Deluxe Version\)](https://open.spotify.com/album/4VvTNytClnO6CUaAAFQ26e) | 3:45 | 2022-06-07 |  |
 | [All My Best Friends Are Metalheads](https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:31 | 2022-06-07 |  |
 | [All My Friends Are Nobodies](https://open.spotify.com/track/0ImdOZzfzWSIkB4ToC2buF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [All My Friends Are Nobodies](https://open.spotify.com/album/6VTNdekziQXzcf4gvy9hcM) | 3:03 | 2022-06-07 |  |
@@ -35,7 +36,8 @@
 | [Committed](https://open.spotify.com/track/7144KnV7H7I0aCTA3t9Pw4) | [Unsane](https://open.spotify.com/artist/2C3gpQ0UMPjrOQ4FYdylRS) | [Occupational Hazard](https://open.spotify.com/album/18WsSzvy8wk1phCQqmC9dg) | 2:42 | 2022-06-07 |  |
 | [Connect To Consume](https://open.spotify.com/track/4AedKkOIuagtOQ6uvxWfiN) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Paid Salvation](https://open.spotify.com/album/0zAxayJBKcqXptUlvt14xH) | 3:14 | 2022-06-07 |  |
 | [Cyco Vision](https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Freedumb](https://open.spotify.com/album/272uyFl2Z35T3MPtHTg92C) | 1:49 | 2022-06-07 |  |
-| [Dig That Groove Baby](https://open.spotify.com/track/1cytqiMB4LIh3hbG9kd6X4) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [We're Mad! The Anthology](https://open.spotify.com/album/6WLFWYCicr3YFuPO2kOnh6) | 2:31 | 2022-06-07 |  |
+| [Dig That Groove Baby](https://open.spotify.com/track/1cytqiMB4LIh3hbG9kd6X4) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [We're Mad! The Anthology](https://open.spotify.com/album/6WLFWYCicr3YFuPO2kOnh6) | 2:31 | 2022-06-07 | 2023-11-04 |
+| [Dig That Groove Baby](https://open.spotify.com/track/6CF9Eua4NiiB0gmeObmZ8w) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [We're Mad! The Anthology](https://open.spotify.com/album/6ZQk8OSfWt6kzoU4Jqx8Sy) | 2:31 | 2022-06-07 |  |
 | [Drunken Lullabies](https://open.spotify.com/track/7caiyAewYYoWu5rZZgQWgn) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3) | 3:50 | 2022-06-07 |  |
 | [Euro\-Barge](https://open.spotify.com/track/5mA9emcAvirVisUHkrE5PU) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Hitler Bad, Vandals Good](https://open.spotify.com/album/1VDzkX1kHYOhlnHWQjqy05) | 1:53 | 2022-06-07 |  |
 | [Evil Eye](https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [The Action Is Go](https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9) | 3:30 | 2022-06-07 |  |
@@ -68,7 +70,8 @@
 | [Out With The Old \(uncensored Sterilized\) \(feat\. Alleylife\)](https://open.spotify.com/track/12SsouyS1U7W0cFQupZar5) | [Alleylife](https://open.spotify.com/artist/0UJLCzBpalel3qZCvPlppO) | [A Compilation of Thangs](https://open.spotify.com/album/0wqzaKqn94rUt3HdHd7yOU) | 3:49 | 2022-06-07 |  |
 | [Pin the Tail on the Donkey](https://open.spotify.com/track/3z0i5xf1iiEoiuhkTPKp3w) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Naughty By Nature](https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO) | 3:47 | 2022-06-07 |  |
 | [Police Truck](https://open.spotify.com/track/6M4yg3BknyHmRnsvlkuHD5) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 2:24 | 2022-06-07 |  |
-| [Savoir Faire](https://open.spotify.com/track/4upaeIQvTYm3h4tnt2YauQ) | [Rocket From The Crypt](https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h) | [Group Sounds](https://open.spotify.com/album/1DDG6lpTs1RIDzenH1R78u) | 1:54 | 2022-06-07 |  |
+| [Savoir Faire](https://open.spotify.com/track/4A78VjJRlgrAsi1dRTpXVT) | [Rocket From The Crypt](https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h) | [Group Sounds](https://open.spotify.com/album/5pAQ8lYvdjbdS6VTj54s1c) | 1:54 | 2022-06-07 |  |
+| [Savoir Faire](https://open.spotify.com/track/4upaeIQvTYm3h4tnt2YauQ) | [Rocket From The Crypt](https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h) | [Group Sounds](https://open.spotify.com/album/1DDG6lpTs1RIDzenH1R78u) | 1:54 | 2022-06-07 | 2023-11-04 |
 | [Seneca Falls](https://open.spotify.com/track/1wDfhmlEvVEbQnEIdMRfvf) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Sing Sing Death House](https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi) | 3:01 | 2022-06-07 |  |
 | [Shimmy](https://open.spotify.com/track/1a3X8Y882vwSnlnHqf9ztF) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 1:50 | 2022-06-07 |  |
 | [Simple Song](https://open.spotify.com/track/7tAXcpfuwnnlPYgJU3H1lA) | [Avail](https://open.spotify.com/artist/7sFxn461tPZ03UewykYgam) | [4AM Friday](https://open.spotify.com/album/47Bt2cQNVM9ymLf7ajGqCl) | 3:12 | 2022-06-07 |  |

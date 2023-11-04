@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- somanshu, Lisa Mishra, OAFF and The Rish
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,927 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,940 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 5 | [Bekarar](https://open.spotify.com/track/2zjPudofsLEpr92tKZnADA) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Shor](https://open.spotify.com/artist/3S8X8QIU0sGRzRKYHDiXDX) | [Bekarar](https://open.spotify.com/album/624Izr9FzLuHAa9t89lkeE) | 2:21 |
 | 6 | [Akh Kashni](https://open.spotify.com/track/4fthu6zCZVWJJnPUPP0AJ2) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Akh Kashni](https://open.spotify.com/album/6w1nI9aKBoxgLOuzYP6Dfj) | 3:27 |
 | 7 | [Garmi](https://open.spotify.com/track/0iQSCy6dZvu3d65UNsNQj5) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU) | [Garmi](https://open.spotify.com/album/6DAUi7gIPwt3oEnjTqFrEi) | 2:48 |
-| 8 | [Tu Kahe Toh ft\. Nolan Santo](https://open.spotify.com/track/0eCVQoYH5nTFgmmjQqsJmG) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Nolan Santo](https://open.spotify.com/artist/2w4TUuwxwWPYy1eDqWolzC) | [Tu Kahe Toh ft\. Nolan Santo](https://open.spotify.com/album/7rwO4jDTCmn5njEzs5jKAK) | 2:16 |
+| 8 | [Tu Kahe Toh \(feat\. Nolan Santo\)](https://open.spotify.com/track/0eCVQoYH5nTFgmmjQqsJmG) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Nolan Santo](https://open.spotify.com/artist/2w4TUuwxwWPYy1eDqWolzC) | [Tu Kahe Toh \(feat\. Nolan Santo\)](https://open.spotify.com/album/7rwO4jDTCmn5njEzs5jKAK) | 2:16 |
 | 9 | [Kinni Vaari](https://open.spotify.com/track/5mGZJn4cXERPhKgjlwVZgT) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Kinni Vaari](https://open.spotify.com/album/1yk4mK6Om2OkClSnNnpP4p) | 2:27 |
 | 10 | [Kya Karenge](https://open.spotify.com/track/5uU4M939yF9SjiRxEyLL2E) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Kya Karenge](https://open.spotify.com/album/16Jn9TKOvst1QG4PpRYgKc) | 3:45 |
 | 11 | [Aangan](https://open.spotify.com/track/5fQ68f0syCRx6dJoJvyxEh) | [Arjun Tikadar](https://open.spotify.com/artist/6xVuJatFzZDvLRsU3mGAsn), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Aangan](https://open.spotify.com/album/1Y8jcvhXzOdX8n8JkxniVT) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Mazaakiyan](https://open.spotify.com/track/6k7NmvQ4K4v2b9ZqOZ9GYz) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Mazaakiyan](https://open.spotify.com/album/4K8RsN4S41LAP7XAIpuMSM) | 2:28 |
 | 50 | [Aankhon Mein](https://open.spotify.com/track/0zTsDqhEFtHMj5SQCYdUcg) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Aankhon Mein](https://open.spotify.com/album/2PsdLAoCHDSE3r7paZG0HJ) | 3:28 |
 
-Snapshot ID: `MCxlNzMxMDYwOTU2ZWU0YzE1MzUyOGJjNzg0MWJiNmY5NmNmYWIzNzY3`
+Snapshot ID: `MCxkOThiM2QyMzBhNDJlZGI5YzUxYzczNDM5MDcwOWM1YzJhMDA4ZWY4`

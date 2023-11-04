@@ -4,7 +4,7 @@
 
 > Summer fun for the whole family.
 
-93 songs - 3 hr 57 min
+94 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [I Love Summertime](https://open.spotify.com/track/4XVeURpGmtHc65tPkPACvL) | [The Singing Walrus](https://open.spotify.com/artist/3L5oCwlVHuB94ltjdUbQMi) | [The Singing Walrus Song Collection \#2](https://open.spotify.com/album/4gNEDodrFskxtJvxZx9m81) | 3:49 | 2021-08-30 |  |
 | [Ice Cold Lemonade](https://open.spotify.com/track/6hQBlpN06NkcUUJS1iKKfm) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb), [Murs](https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16) | [Ice Cold Lemonade](https://open.spotify.com/album/5sOKX7TjwqvRW6MnTHALn0) | 2:59 | 2021-08-30 |  |
 | [Ice Cream](https://open.spotify.com/track/5zhOFutkl4I01RjI9NDEsP) | [Asheba](https://open.spotify.com/artist/6VkqEReE8tIwa8wap4TACw) | [In the Kid Zone](https://open.spotify.com/album/4xRmUIxkuX9fIiYmXWqiEC) | 3:54 | 2021-08-30 |  |
-| [Ice Cream Man](https://open.spotify.com/track/2hOId5iamZtddQ0n0hMKqA) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Rock 'n' Roll With the Modern Lovers \(Bonus Track Edition\)](https://open.spotify.com/album/1GS9e5DqsnGJ8qYlr4eYxm) | 3:02 | 2021-08-30 |  |
+| [Ice Cream Man](https://open.spotify.com/track/2hOId5iamZtddQ0n0hMKqA) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Rock 'n' Roll With the Modern Lovers \(Bonus Track Edition\)](https://open.spotify.com/album/1GS9e5DqsnGJ8qYlr4eYxm) | 3:02 | 2021-08-30 | 2023-11-04 |
+| [Ice Cream Man](https://open.spotify.com/track/7hpoUuu1wzVCdP5ZawoiYI) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Rock 'n' Roll With the Modern Lovers \(Bonus Track Edition\)](https://open.spotify.com/album/20PmoTQRyWQrXnKDPcwdHO) | 3:02 | 2023-07-07 |  |
 | [In the Good Old Summertime](https://open.spotify.com/track/7iBPYA94l4VkAVViIbePmA) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [The 50 Best Summer Songs](https://open.spotify.com/album/40legtNV5Qr6WDg9n4z5PJ) | 2:13 | 2021-08-30 |  |
 | [In the Summer](https://open.spotify.com/track/5lxJBLkBS1H24rXrIeNgmG) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [On the Move](https://open.spotify.com/album/2q9qHyWX3z0nBwc45axuS9) | 1:57 | 2021-08-30 |  |
 | [Lemonade Stand](https://open.spotify.com/track/5f6LCqqqP2JJ3LhHiR7SFq) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [A Potluck](https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk) | 2:41 | 2021-08-30 |  |

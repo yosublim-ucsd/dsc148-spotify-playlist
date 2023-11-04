@@ -248,10 +248,28 @@
       ],
       "date_added": "2018-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 231466,
       "name": "Dark Night",
       "url": "https://open.spotify.com/track/3dKGK0ALdWHldGJEXpwt3K"
+    },
+    {
+      "album": {
+        "name": "Mandatory: The Best Of The Blasters",
+        "url": "https://open.spotify.com/album/3rAp2eKl3WVl7Nf3iXzYw8"
+      },
+      "artists": [
+        {
+          "name": "The Blasters",
+          "url": "https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Dark Night",
+      "url": "https://open.spotify.com/track/0WsetCp0v2260o3EHK50NX"
     },
     {
       "album": {

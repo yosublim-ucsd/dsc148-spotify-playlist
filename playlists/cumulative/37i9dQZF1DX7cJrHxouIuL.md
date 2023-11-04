@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-197 songs - 9 hr 23 min
+198 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Bluebird](https://open.spotify.com/track/6Lq7OIYK3Y5sHKyC1kTz7J) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX), [Lisa Bozikovic](https://open.spotify.com/artist/1Uwivz6pqrno4fMZNHIkkq) | [Bluebird](https://open.spotify.com/album/13hSBe3nFsbWvbuRkKjCCd) | 2:11 | 2022-04-15 |  |
 | [Bored is a Bad Word](https://open.spotify.com/track/4bOA0VVxHicRWbKlahGhte) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Underground Playground](https://open.spotify.com/album/3D2C84VAFOPEvFdQws7tBN) | 3:43 | 2022-04-15 | 2022-07-29 |
 | [Bored is a Bad Word](https://open.spotify.com/track/6l8PVMHkToebBTlJacW6Fa) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Underground Playground](https://open.spotify.com/album/41kgd9xgfuYAmKasunl4Sa) | 3:43 | 2022-04-15 |  |
-| [Box of Crayons](https://open.spotify.com/track/2sdwOTN7xaGOTzXR9ExYWR) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/2AB8yOMrkGnkzCdvVUuKte) | 4:40 | 2022-04-15 |  |
+| [Box of Crayons](https://open.spotify.com/track/2sdwOTN7xaGOTzXR9ExYWR) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/2AB8yOMrkGnkzCdvVUuKte) | 4:40 | 2022-04-15 | 2023-11-04 |
+| [Box of Crayons](https://open.spotify.com/track/7olVRED3Ewb6CzpsEQaBkh) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/0N4h5AoSW7S6u9KGeZ6N2H) | 4:40 | 2023-09-08 |  |
 | [Box of Crayons](https://open.spotify.com/track/2NmMUfN5gISa6XH7phfshB) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/4acbURob7h5tgqZOgj1NCT) | 4:40 | 2022-04-15 | 2022-07-29 |
 | [Brand New Day](https://open.spotify.com/track/4cBPErdOZb1skrZDRX2HIS) | [Erica Rabner](https://open.spotify.com/artist/3u7iISrtnnqsAGE8gIovMg) | [We Got This](https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq) | 2:42 | 2022-04-15 |  |
 | [Brave Like a Lion](https://open.spotify.com/track/0sBepHNDp8pjGWHlb12gCM) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing for the Earth \- Little Wild Animals](https://open.spotify.com/album/6L8hxqN9Qs3vfnUgB7q2Dp) | 2:46 | 2022-12-09 |  |

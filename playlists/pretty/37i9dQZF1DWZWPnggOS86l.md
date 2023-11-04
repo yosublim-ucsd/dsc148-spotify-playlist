@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,583 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,580 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 3 | [O Mundo Dá Voltas](https://open.spotify.com/track/0f0Udph5uhDHBLEAbhWdNm) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [CPM22](https://open.spotify.com/album/4IfW9TyWxqjTWMoSKBEdCK) | 2:57 |
 | 4 | [Levo Comigo](https://open.spotify.com/track/77Y6GBebTNjzyLVTX3PmAk) | [Restart](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Greatest Hits \- Tour Edition](https://open.spotify.com/album/4LYsPGQ18Rb9fPnDbebCYC) | 3:28 |
 | 5 | [Hidropônica](https://open.spotify.com/track/41cfAAqVwiPDtiaqkbHJOB) | [Forfun](https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g) | [Ao Vivo No Circo Voador](https://open.spotify.com/album/1rDTkwnb3Md7D8hF7sXEK8) | 3:13 |
-| 6 | [Cada Poça Dessa Rua Tem Um Pouco de Minhas Lágrimas](https://open.spotify.com/track/4WMZXYJ57CZMX5W1bWcNHb) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/1nCMa3kC0kbnabvqKdH0aR) | 5:54 |
+| 6 | [Cada Poça Dessa Rua Tem Um Pouco de Minhas Lágrimas](https://open.spotify.com/track/2Anewlbuh2nnlUc0bxIKgU) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/3LfBdvxxInsz67JEFGsZnO) | 5:54 |
 | 7 | [História de Verão \- Demo](https://open.spotify.com/track/2hwGEeCOUbK9hJn1p7TGt5) | [Forfun](https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g) | [Das Pistas de Skate Às Pistas de Dança \(Demo\)](https://open.spotify.com/album/5vE6uxkDh6extaOJDFyftR) | 3:16 |
 | 8 | [Apenas um Olhar](https://open.spotify.com/track/18KBYXlqr1PLiNSrcU1kca) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Diálogo?](https://open.spotify.com/album/7eQYsqda2CUZK5ju1KWQEg) | 3:20 |
 | 9 | [Me Leve às Estrelas](https://open.spotify.com/track/7B6z4Ycf1k9o8mZdSkRoyc) | [Dance of Days](https://open.spotify.com/artist/3pICQ7QvYXozuzJjgb6eM5) | [A História Não Tem Fim](https://open.spotify.com/album/43WGY8Tt3dyQOqbYIosPRy) | 4:16 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 31 | [Dúvida](https://open.spotify.com/track/2MDwOOsDyBdyLUDvE1oUJw) | [IUPI](https://open.spotify.com/artist/6oVKPGpUEElMF5ianQSNUZ) | [As Viagens da Vida](https://open.spotify.com/album/2SYgoE9bAOnW9aexP0DY66) | 3:10 |
 | 32 | [Aquela Música](https://open.spotify.com/track/1WxGfAHm6Fr8OH5yxaIzAJ) | [Fake Number](https://open.spotify.com/artist/20k5SIjfwIVAbfgXAhUZgg) | [Nostalgia Emo](https://open.spotify.com/album/7JQFn6CfVDe8iwmylzOtbi) | 4:01 |
 | 33 | [Devagar](https://open.spotify.com/track/7ikfySOHs4eIwI4qcwWJPs) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Lapso](https://open.spotify.com/album/3F572fEa36ROblaZcKDv9U) | 4:46 |
-| 34 | [Teu Semblante](https://open.spotify.com/track/6NCuCsZDu7HfitEWG0CJxc) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros](https://open.spotify.com/album/7h6Qz4Ze4DRz9qApzMweWK) | 3:28 |
+| 34 | [Teu Semblante](https://open.spotify.com/track/7J6XsCBC7q22MHLD1CoCiI) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros](https://open.spotify.com/album/3vFIzGjPLlR292Eh6EGttQ) | 3:28 |
 | 35 | [Piloto Automático](https://open.spotify.com/track/6EmC6JFwF0Aq92ajBPKYiO) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Amianto](https://open.spotify.com/album/1WgexL6crC80Q39HwvkyXK) | 3:17 |
 | 36 | [As Cores](https://open.spotify.com/track/3LQiSlultMCKcbGYWXmFvt) | [Cine](https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr) | [Flashback](https://open.spotify.com/album/2p0nOVuLQbbAdXNKiaw48R) | 3:54 |
 | 37 | [Lembrar Me Faz Sofrer](https://open.spotify.com/track/6gibLc856RW7O3bL8gcENe) | [Display](https://open.spotify.com/artist/6wK3QnC206lJhV7QtC352T) | [Um Dia Pra Sonhar](https://open.spotify.com/album/3RCvS7nvwuIm7CszP8P7A7) | 2:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 59 | [Voltar a Ser Canção](https://open.spotify.com/track/4As0FVE0RhNu5nKYgHa3dN) | [Dom Pedro](https://open.spotify.com/artist/2dn4iIwTZDvX8suARVjwBs) | [Primeiro](https://open.spotify.com/album/0Q6r6sOigwWud4pXvg8BTH) | 4:04 |
 | 60 | [Olha minha cara](https://open.spotify.com/track/6y1ssXWGsye4VJsSOP50Kt) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/artist/0zpgOZi5pnXnFxanyxowaI) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/album/2O5Q1X14xnEt4AbS2QkbLp) | 3:31 |
 
-Snapshot ID: `MCwxNjQxMTRhYjdiOWM4MzczM2NiNDZjNjhmM2E0ZGI4MjczNzg5MmJm`
+Snapshot ID: `MCw5NzFkNDhhYjM1ZDZiYjY2MTUyMTVkODJmY2NiMjMzYWM3ZjQ0YWM4`

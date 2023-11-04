@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-241 songs - 14 hr 40 min
+242 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Em Outro Lugar](https://open.spotify.com/track/64jPzmuoetfM7UDtXJVvJY) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Simples Assim](https://open.spotify.com/album/6CvaSNTuutq8XmhNR74Wzg) | 3:37 | 2022-02-04 | 2022-07-27 |
 | [Enquanto Durmo](https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 5:04 | 2022-11-25 | 2023-10-18 |
 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 | 2022-02-04 | 2022-07-29 |
-| [Espelho](https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Espelho](https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA) | 3:28 | 2022-02-04 |  |
+| [Espelho](https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Espelho](https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA) | 3:28 | 2022-02-04 | 2023-11-04 |
 | [Espero Que Você Entenda](https://open.spotify.com/track/7uMfZtOT5JEYdv8gi6M9wk) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Espero Que Você Entenda](https://open.spotify.com/album/2lCmjlHLQIcRSfECaTkew8) | 4:01 | 2022-02-04 | 2022-07-21 |
 | [Esquece dos Problemas](https://open.spotify.com/track/1lZAad3fXzOEMvwskQGJT1) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Esquece dos Problemas](https://open.spotify.com/album/3xh8wMnggMLgpcRXsuO6dL) | 3:19 | 2022-03-22 | 2022-04-20 |
 | [Esquina](https://open.spotify.com/track/6f9ApFScFmaQPECfkhdAMg) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Esquina](https://open.spotify.com/album/0vZqnfR50vGU7JE9jOvnKY) | 3:30 | 2022-04-01 | 2022-06-12 |
@@ -245,6 +245,7 @@
 | [Você Não Vai Passar](https://open.spotify.com/track/7fuziEB5SU6NIIPyn2S59r) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [Ava Patrya Yndia Yracema](https://open.spotify.com/album/4lD1f8Nd0ud1pmSUx7ETYu) | 2:35 | 2022-03-22 | 2022-04-20 |
 | [Você Também Vê \(kLap Remix\)](https://open.spotify.com/track/09X8hekZCcdKg7CNJIzG42) | [kLap](https://open.spotify.com/artist/51Qf68QZaIZsgS8C1XB5Ow), [Valuá](https://open.spotify.com/artist/2v7QOK6BDIdfO75NZcp0uh), [Luciane Dom](https://open.spotify.com/artist/6VixI1Abe7e3mV3ScdQmg1) | [Você Também Vê \(kLap Remix\)](https://open.spotify.com/album/0C1zsdiMmKIXaxFJMtuW7P) | 3:06 | 2022-03-22 | 2022-07-27 |
 | [Volta](https://open.spotify.com/track/7r4Y2Z10DO44Ju82dpb4ve) | [As Baías](https://open.spotify.com/artist/7MKatfaGFrdd4jTZiwZW2K) | [Tarântula](https://open.spotify.com/album/6d6PpOHDJIzHwsy97cL0bG) | 3:57 | 2022-02-04 | 2022-07-25 |
+| [Xuxu](https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Xuxu](https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O) | 2:52 | 2023-11-03 |  |
 | [Your Satisfaction is Mine](https://open.spotify.com/track/2ziANvodYvzvvfm9VevSDY) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Your Satisfaction is Mine](https://open.spotify.com/album/2d2UnVI9gAkwFfY3mnk9vp) | 4:20 | 2022-03-22 | 2022-04-18 |
 | [Záza](https://open.spotify.com/track/7qpFcBuu56ksf3qmg58Pjo) | [Clidão Sampaio](https://open.spotify.com/artist/3rajnqkXXGQtrW56sTA7KB) | [Záza](https://open.spotify.com/album/2w1PQVnBtjH3CSZcq6IkBP) | 5:35 | 2022-02-04 | 2022-07-29 |
 | [É Só Aceitar](https://open.spotify.com/track/2yzfazUSLBp20vdCV76Q0j) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [É Só Aceitar](https://open.spotify.com/album/1ePR3ZN1wqulnXgVzqXBjV) | 3:43 | 2022-02-04 | 2022-07-29 |

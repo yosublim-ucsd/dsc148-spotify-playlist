@@ -4,7 +4,7 @@
 
 > The official playlist for Top Boy\. Watch the final season on Netflix
 
-86 songs - 4 hr 46 min
+87 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Mañana \- 2019 \- Remaster](https://open.spotify.com/track/5wCaEg0F5IvtSZbFD2ze1l) | [Radio Tarifa](https://open.spotify.com/artist/66fSx6FKclyaS6PUYx23ee) | [Rumba Argelina \(2019 \- Remaster\)](https://open.spotify.com/album/1iuAGJEfdOw0klUssxJl4m) | 3:41 | 2022-04-14 | 2023-05-15 |
 | [Mind Language](https://open.spotify.com/track/0bhgM7IMDlahsStqhnWDg8) | [She Wyse](https://open.spotify.com/artist/03YynoWMMyKiLDbEVFBrrv) | [Mind Language](https://open.spotify.com/album/39k2cP8J29LlgyaUFvVbU2) | 2:57 | 2022-04-14 |  |
 | [Mind Language](https://open.spotify.com/track/4jSLPUJKvVsG6avWAgFmY5) | [She Wyse](https://open.spotify.com/artist/03YynoWMMyKiLDbEVFBrrv) | [Mind Language](https://open.spotify.com/album/2Wp98D6txTTqGoBetjIxx4) | 2:57 | 2022-04-14 | 2023-06-04 |
-| [Mind Your Own Business \- 2022 Remaster](https://open.spotify.com/track/5LDPO7ZTCBhmvmiawRPywp) | [Henry McCullough](https://open.spotify.com/artist/0sGQZQz9UbEkvrLtFb7IUn) | [Mind Your Own Business! \(2022 Remaster\)](https://open.spotify.com/album/2KkznDEzzfIR3Xx5RuUmlb) | 3:57 | 2023-09-07 |  |
+| [Mind Your Own Business \(2022 Remaster\)](https://open.spotify.com/track/3Ylt5ZdxNBhhHgpDIbexD1) | [Henry McCullough](https://open.spotify.com/artist/0sGQZQz9UbEkvrLtFb7IUn) | [Mind Your Own Business! \(2022 Remaster\)](https://open.spotify.com/album/0a9w2vGd1vigBCOpuZgIYe) | 3:57 | 2023-09-07 |  |
+| [Mind Your Own Business \- 2022 Remaster](https://open.spotify.com/track/5LDPO7ZTCBhmvmiawRPywp) | [Henry McCullough](https://open.spotify.com/artist/0sGQZQz9UbEkvrLtFb7IUn) | [Mind Your Own Business! \(2022 Remaster\)](https://open.spotify.com/album/2KkznDEzzfIR3Xx5RuUmlb) | 3:57 | 2023-09-07 | 2023-11-04 |
 | [Moment](https://open.spotify.com/track/5TpDEu4GCYzGeYIKh1dcPB) | [Anastazja Maciąg](https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3), [Questy](https://open.spotify.com/artist/1WKmwWWtp0Q0rXHKeAYTN2) | [Moment](https://open.spotify.com/album/78ZPtJ6ZYyXTPYrDWcsvJN) | 2:24 | 2023-09-07 |  |
 | [My Ones](https://open.spotify.com/track/2ImlWeWgeEjSsqBiuwNv6t) | [Ty Leone](https://open.spotify.com/artist/0MW1dL6UrStOPsBpjkcSva) | [Pain To Champagne](https://open.spotify.com/album/7larUWG4LtKIHlDYB4TK5n) | 2:42 | 2023-09-07 |  |
 | [Nighttime](https://open.spotify.com/track/3YWJbv4CeZ1508JfmGNVL6) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Nighttime](https://open.spotify.com/album/4XicRqMQwnEanQQES0kHjM) | 3:51 | 2022-04-14 |  |

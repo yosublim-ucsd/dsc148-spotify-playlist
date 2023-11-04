@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/6cgpRG3y1okC2TUt2mCeQr"
+      },
+      "artists": [
+        {
+          "name": "Cameron Jack",
+          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275409,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/69oXiXBdSLgPK9ayBdnE34"
+    },
+    {
+      "album": {
         "name": "Da Fonk (feat. Joni)",
         "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
@@ -1255,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Mabrook",
+        "url": "https://open.spotify.com/album/1dZIvVpx8uhGxPObzU40FD"
+      },
+      "artists": [
+        {
+          "name": "AfterU",
+          "url": "https://open.spotify.com/artist/2fNO3q7sugPNKqSD1ra9TE"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272721,
+      "name": "Mabrook",
+      "url": "https://open.spotify.com/track/4MMQ8cSVcplsRDn4p4xXBH"
+    },
+    {
+      "album": {
         "name": "Mafana, Craygnos",
         "url": "https://open.spotify.com/album/5AxY2v9FjYIIsLH7yr3fqq"
       },
@@ -1416,7 +1452,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 346237,
       "name": "Mi Pena",
       "url": "https://open.spotify.com/track/4H1WX8N0IRyPn2kG1TrJEI"
@@ -1503,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Night @ The Black",
+        "url": "https://open.spotify.com/album/0qqQKgFCRy84p4RgK3raGn"
+      },
+      "artists": [
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453875,
+      "name": "Night @ The Black",
+      "url": "https://open.spotify.com/track/6CH5Mx19zI1mrq4x38PASj"
+    },
+    {
+      "album": {
         "name": "On Off / Fast Forward",
         "url": "https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9"
       },
@@ -1576,7 +1630,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 448780,
       "name": "Pancham",
       "url": "https://open.spotify.com/track/0aLTRsIEyxv1xEk4hkMUAV"
@@ -1703,6 +1757,32 @@
     },
     {
       "album": {
+        "name": "Ride the Rhythm",
+        "url": "https://open.spotify.com/album/4qVehMmxkQm2FgIDFHPHxh"
+      },
+      "artists": [
+        {
+          "name": "Z Factor",
+          "url": "https://open.spotify.com/artist/6eqnoWlcUy3Al7eNBWeFno"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        },
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204012,
+      "name": "Ride The Rhythm",
+      "url": "https://open.spotify.com/track/26QHmNaxqN83kZeAXJf4Di"
+    },
+    {
+      "album": {
         "name": "Same Like Dope But Different",
         "url": "https://open.spotify.com/album/6hWNRK4gZ1XuApm1XlPUsz"
       },
@@ -1758,7 +1838,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 411530,
       "name": "Sex, Drugs, Money & Lies - Amine K Remix",
       "url": "https://open.spotify.com/track/6Fe1UFMK4CtL4QQQgIIJoS"
@@ -2332,6 +2412,24 @@
     {
       "album": {
         "name": "Who Dares To Believe In Me",
+        "url": "https://open.spotify.com/album/3eSr8cPt8StvlBLGCnJDkA"
+      },
+      "artists": [
+        {
+          "name": "The Believers",
+          "url": "https://open.spotify.com/artist/32ZExi6NKMCjakKJ5GmDRP"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491746,
+      "name": "Who Dares to Believe in Me?",
+      "url": "https://open.spotify.com/track/0kj7OHPi09gnUKek4o3ZHD"
+    },
+    {
+      "album": {
+        "name": "Who Dares To Believe In Me",
         "url": "https://open.spotify.com/album/7l46E4hSynmCmaSnVmXHdT"
       },
       "artists": [
@@ -2342,7 +2440,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 491746,
       "name": "Who Dares To Believe In Me?",
       "url": "https://open.spotify.com/track/2orxZZBLXF40hyBDSqqEGb"

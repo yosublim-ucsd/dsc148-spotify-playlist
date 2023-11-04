@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,124 likes - 50 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,238 likes - 50 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 14 | [Thick as a Brick \(Pt\. I\) \- 1997 Remaster](https://open.spotify.com/track/0eufeeCADKlpxLA7HATWBW) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Thick as a Brick](https://open.spotify.com/album/1ZxChDw03SUFGUz0RC8A8M) | 22:40 |
 | 15 | [Bloody Well Right](https://open.spotify.com/track/2SmlWvdYG6FsagxN3FkHMI) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Crime Of The Century \(Remastered\)](https://open.spotify.com/album/2wrHaulTgqqkVKx0k7Kq4r) | 4:32 |
 | 16 | [On the Loose \- Remastered](https://open.spotify.com/track/1gRqRvIyDWIkEuczfC4krI) | [Saga](https://open.spotify.com/artist/09u8U2kk11NOZFLcNJEdJF) | [Worlds Apart \(Remastered 2021\)](https://open.spotify.com/album/4hlUznCGhZql7AKlitaPbj) | 4:12 |
-| 17 | [Karn Evil 9 1st Impression, Pt\. 2 \- 2014 Remaster](https://open.spotify.com/track/0nDQu5i6B93GvUJH8iJ0y9) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1wTqdsmCCQQLCQjXZM3H59) | 4:45 |
+| 17 | [Karn Evil 9 1st Impression, Pt\. 2 \(2014 \- Remaster\)](https://open.spotify.com/track/6WfjV745TiUcD8KdUKp241) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/4j4WEcCFjM5uotti6JG2fk) | 4:45 |
 | 18 | [La Villa Strangiato](https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 9:34 |
 | 19 | [The King Will Come](https://open.spotify.com/track/2Lathi1zVEUYJtnyp8BkUW) | [Wishbone Ash](https://open.spotify.com/artist/77zwstbi3x1IxnbDFg6uns) | [Argus \(Expanded Edition\)](https://open.spotify.com/album/7xEluvnbmFtRB5g66CJ2ND) | 7:05 |
 | 20 | [In Exile](https://open.spotify.com/track/0mZIRxmun8Lg6Ec9NpPAmm) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Your Wilderness](https://open.spotify.com/album/7jjzqewWL5T2lj8hU2Z4bG) | 5:10 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 40 | [A Fortune In Lies](https://open.spotify.com/track/5g2M9oRpdhg32GepfEmUQy) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [When Dream And Day Unite](https://open.spotify.com/album/1AznpOdGM8OcHYmqOUBXy3) | 5:11 |
 | 41 | [Contemporary Insanity](https://open.spotify.com/track/5nlzy7UuII3tv8jPV2JiLo) | [Happy the man](https://open.spotify.com/artist/6aJOdlEvn7AFJTHCLZTwJH) | [The Muse Awakens](https://open.spotify.com/album/56MxFDtd5NhmmGBzbNmc0I) | 3:24 |
 | 42 | [Inca Roads](https://open.spotify.com/track/0txIkFgdvURMOn35C2fvI3) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN), [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL) | [One Size Fits All](https://open.spotify.com/album/4mp2SC1Wq9jZJINGPAKv0V) | 8:45 |
-| 43 | [Tarkus \- i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus; 2012 Remaster](https://open.spotify.com/track/62d0aGpYF2p8fpvJ1qa32V) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus \(Deluxe\)](https://open.spotify.com/album/6mqJylLfGnLCXhdyMPBCRo) | 20:37 |
+| 43 | [Tarkus \(i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus\) \( 2012 \- Remaster\)](https://open.spotify.com/track/7fLEJNwcW60W74XehVmR5p) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus](https://open.spotify.com/album/5yByhxbOs8FOU2UutO7AGO) | 20:43 |
 | 44 | [Nine Feet Underground \- Medley](https://open.spotify.com/track/0Y4Qokp46GcqB9aXX2nFNZ) | [Richard Sinclair](https://open.spotify.com/artist/2hPlbSdQUzyuyVFxv43oRM), [David Sinclair](https://open.spotify.com/artist/4uH8njAb6KcUfLEBioTQQk), [Pye Hastings](https://open.spotify.com/artist/0LEzVHjmwrlmI7XN8YB4T4), [Richard Coughlan](https://open.spotify.com/artist/2fyJ8bKcKbrFVyimhREiKj), [Caravan](https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s) | [In The Land Of Grey And Pink](https://open.spotify.com/album/6TWjon4uYsV2wu7QJTuKjd) | 22:44 |
 | 45 | [Red](https://open.spotify.com/track/2ROj14ZhKchHWBMtzwzo0i) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Red \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/13dGZzRzFoejmyVXAbTPAH) | 6:15 |
 | 46 | [Theme One \- Original Version / 2005 Remaster](https://open.spotify.com/track/5laKMHPXWIIJMsuMhSgnwV) | [Van Der Graaf Generator](https://open.spotify.com/artist/02frazNrWgZCxUEf4UTfHt) | [Pawn Hearts](https://open.spotify.com/album/5Lrsef2F6ZHNC5yIUEJouw) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 49 | [Drunkship Of Lanterns](https://open.spotify.com/track/1hWw1UGI5GuowixFmunO9y) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Deloused in the Comatorium](https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89) | 7:05 |
 | 50 | [The Crowing](https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 6:35 |
 
-Snapshot ID: `MCwxOTA2ZWVkNjEzZmY5YWRkNDBlMTQ3NTIwNGUzMzQyYTAyYzI2NWIz`
+Snapshot ID: `MCw4OTM2MzdjOWEwNDY3MGQ3N2RhOTVhOWU1NDQ1N2E5MTcyMDYzYjU5`

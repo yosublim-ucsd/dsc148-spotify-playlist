@@ -4,7 +4,7 @@
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-186 songs - 11 hr 49 min
+187 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Carry On](https://open.spotify.com/track/4bjvLvKovcWqZwDbXT5QQX) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 4:25 | 2021-08-18 | 2022-03-09 |
 | [Cat's in the Cradle](https://open.spotify.com/track/6hLqEJg2GnnDG4W0Y64hyD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Cat's in the Cradle / Vacancy](https://open.spotify.com/album/2Nh9PmJwU1W7d06m7woqB1) | 3:32 | 2021-08-18 |  |
 | [Catch the Wind](https://open.spotify.com/track/4RsvHWZpSoCHRwS0SFpECF) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [1965](https://open.spotify.com/album/5Xix2kY4ojYBOotAx3QuiY) | 2:53 | 2022-03-11 | 2022-11-13 |
-| [Catch the Wind](https://open.spotify.com/track/6aXKbU2QGsOms8UT3eUOg1) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/3lpCSdIUmTWkb3BrAxDZSR) | 2:53 | 2022-03-11 |  |
+| [Catch the Wind](https://open.spotify.com/track/505Pd7CPHoewIE3Io2EpWd) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y) | 2:53 | 2023-08-09 |  |
+| [Catch the Wind](https://open.spotify.com/track/6aXKbU2QGsOms8UT3eUOg1) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/3lpCSdIUmTWkb3BrAxDZSR) | 2:53 | 2022-03-11 | 2023-11-04 |
 | [Catch the Wind](https://open.spotify.com/track/3uJhF1XGOJ27hweKEeBOtk) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Catch the Wind](https://open.spotify.com/album/006j4f1nSU6G9mqolViKSd) | 2:55 | 2021-08-18 | 2022-07-29 |
 | [Catch the Wind \(Single Version with Strings\)](https://open.spotify.com/track/1mv2q2PziMZusZoF2N7BSP) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y) | 2:15 | 2023-08-09 |  |
 | [Catch The Wind \- Original Single Version With Strings](https://open.spotify.com/track/4GAizlU5mkaYNjNgy23bjs) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [The Essential Donovan](https://open.spotify.com/album/26orZ1DZ1S7StZbpkv9SZ7) | 2:16 | 2021-08-18 | 2022-07-29 |

@@ -86,6 +86,24 @@
     {
       "album": {
         "name": "I Love It",
+        "url": "https://open.spotify.com/album/5wBgFNzyKaJU9aTs3wVhRU"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/2rNmKzD3bdB1xqBzPkt5c1"
+    },
+    {
+      "album": {
+        "name": "I Love It",
         "url": "https://open.spotify.com/album/5cPoNiy9Cwu5Dxd2CUQwVO"
       },
       "artists": [
@@ -114,7 +132,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 290240,
       "name": "Almost Home - 2020 - Remaster",
       "url": "https://open.spotify.com/track/3pMHSCFtuGXDMriewk7xfZ"
@@ -2281,7 +2299,7 @@
         },
         {
           "name": "Hillary Scott",
-          "url": "https://open.spotify.com/artist/4rFRV55H2i5ewtgU254dri"
+          "url": "https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D"
         }
       ],
       "date_added": "2022-04-22",
@@ -2634,6 +2652,32 @@
     {
       "album": {
         "name": "Bettie James Gold Edition",
+        "url": "https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        },
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/3xcyAHzKbIqfij1NHHpjcD"
+    },
+    {
+      "album": {
+        "name": "Bettie James Gold Edition",
         "url": "https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii"
       },
       "artists": [
@@ -2678,7 +2722,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 213853,
       "name": "Pray",
       "url": "https://open.spotify.com/track/7axw9QrWiUqJcegUb3wMud"
@@ -3780,10 +3824,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 206453,
       "name": "We All Carry Something",
       "url": "https://open.spotify.com/track/0M07TE03OtknRNCKJ15Rvf"
+    },
+    {
+      "album": {
+        "name": "Never Gets Old",
+        "url": "https://open.spotify.com/album/5cJSeRqQ9d07IUjUCVoVvK"
+      },
+      "artists": [
+        {
+          "name": "Joe Nichols",
+          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206453,
+      "name": "We All Carry Something",
+      "url": "https://open.spotify.com/track/2SKI2QSQB2XluzxUJ31QD0"
     },
     {
       "album": {

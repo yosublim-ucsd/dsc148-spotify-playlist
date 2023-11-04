@@ -2,16 +2,16 @@
 
 ### [R&B Brasil](https://open.spotify.com/playlist/37i9dQZF1DX6EQe4DjJNfI)
 
-> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: YOÚN
+> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Chris MC
 
-161 songs - 8 hr 14 min
+162 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10%](https://open.spotify.com/track/0liXZVfUKI5Jttqoipnavz) | [Camaleoa](https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk) | [10%](https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O) | 2:49 | 2022-12-23 | 2023-03-25 |
 | [1001 Motivos](https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo) | [Jeff Black](https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs) | [1001 Motivos](https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS) | 2:43 | 2022-11-18 | 2023-10-28 |
 | [22:50](https://open.spotify.com/track/4fhAcHeUevxayFBkoyDAeY) | [Janu](https://open.spotify.com/artist/6hJAzChzllkTwqTIU3NP1W), [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf), [Dj Kaslu](https://open.spotify.com/artist/6ZP4IqLMMJNAXeXMehlO8S) | [22:50](https://open.spotify.com/album/2szD2sU7fHObX4eAPnKAho) | 3:24 | 2022-11-18 | 2022-12-03 |
-| [5458](https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [5458](https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV) | 3:07 | 2022-11-18 |  |
+| [5458](https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [5458](https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV) | 3:07 | 2022-11-18 | 2023-11-04 |
 | [A Noite Toda](https://open.spotify.com/track/7xr8FjbUs6rZjs3YikkDZn) | [Charm Mone](https://open.spotify.com/artist/6SwZ7tPzqkYRTNBVNshv7c), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [A Noite Toda](https://open.spotify.com/album/23I05Wl6UdtEX9sgA2KtW5) | 3:04 | 2023-06-30 | 2023-07-15 |
 | [A Nossa Brisa](https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy) | [Concê](https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE) | [Lunar](https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf) | 1:55 | 2022-12-01 |  |
 | [A Sós](https://open.spotify.com/track/321ZO0hduSgQ0VR8uljst3) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh) | [A Sós](https://open.spotify.com/album/66vwSPGMqAoKx9yaB1ThoJ) | 2:44 | 2023-07-14 |  |
@@ -73,6 +73,7 @@
 | [Ir Embora](https://open.spotify.com/track/0afH6dozAUehE0yJB7FMUg) | [Klayver Kazz](https://open.spotify.com/artist/2Z2rOubqtfS2Pg7yZsiPJv), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Ir Embora](https://open.spotify.com/album/6Xz4M5yXXEOgAljSsV1MkV) | 3:08 | 2023-02-24 | 2023-05-20 |
 | [Jura pra Mim](https://open.spotify.com/track/5QW2JtmBB42eTfv5Wyu49a) | [ELBER](https://open.spotify.com/artist/0UGner7q3Cy5DfIWnCKBJM), [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf), [Ana Carvalho](https://open.spotify.com/artist/6nMoGl0eFghgYr5R2pITWz) | [Jura pra Mim](https://open.spotify.com/album/11AB3THEnYaRPkF3V5bG7D) | 2:50 | 2022-11-18 | 2023-06-10 |
 | [LAMPEJOS](https://open.spotify.com/track/5ZNdTL3f4T3gbMuXCmTfT7) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [PS](https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68) | [LAMPEJOS](https://open.spotify.com/album/4V334gyHrpj7r27utKzxGb) | 2:30 | 2023-07-28 |  |
+| [Lembrar de Você](https://open.spotify.com/track/2svYjzzHXvUcW6dMJHm8qm) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Romântico, Pt\. 1](https://open.spotify.com/album/7iGK5BUubDY6GZrxADD9Gy) | 2:04 | 2023-11-03 |  |
 | [Licor](https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Hip Hop Machine \#13](https://open.spotify.com/album/6NHVEU2tX4VYNs6t9aFBkP) | 5:30 | 2022-11-18 | 2023-04-01 |
 | [Ligação](https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA) | [Meraki](https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs), [BlakkLança](https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo), [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX) | [Ligação](https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG) | 3:29 | 2022-11-18 |  |
 | [Ligações](https://open.spotify.com/track/4YU8fEqLYvGSnLv2lFVkjF) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Martinz Beats](https://open.spotify.com/artist/5sssltzFBd0eau0PWim6nc) | [Ligações](https://open.spotify.com/album/3X4pfBeCpDeMG9vbsAm95e) | 3:20 | 2023-07-28 |  |

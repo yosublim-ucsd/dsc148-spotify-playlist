@@ -4,7 +4,7 @@
 
 > Since 1962, <a href="https://www.casitadelcampo.net/">Casita Del Campo</a> has been a refuge to Los Angeles' LGTBQQIA+ community\. Like their environment, the songs picked are original, energetic, and diverse just like their patrons!
 
-57 songs - 4 hr 21 min
+58 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Buscando Guayaba](https://open.spotify.com/track/51pnSx6vfBzV8lkLLNFFpy) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 5:47 | 2021-05-31 |  |
 | [Changüí en Yateras \(from the Changüí: The Sound of Guantánamo Collection\)](https://open.spotify.com/track/6alddKK0YnvOLmp1o2fpJi) | [Grupo Estrellas Campesinas](https://open.spotify.com/artist/57Uk8lmpqDsu1ULyRPslG2) | [Changüí en Yateras \(from the Changüí: The Sound of Guantánamo Collection\)](https://open.spotify.com/album/3DnEPxorzbZtTczaNV93oT) | 4:52 | 2021-05-31 |  |
 | [Cumbia cieneguera](https://open.spotify.com/track/4beJkTMCJBf6oGZo0Ws3Qd) | [Alberto Pacheco](https://open.spotify.com/artist/0kxg6fCG2zNP3mcq8QG4Sw) | [Titulos costeños de histórico recuerdo](https://open.spotify.com/album/3wMz4Gkyf4kUkUDR9U84Ly) | 3:23 | 2021-05-31 |  |
-| [Dancin' & Prancin'](https://open.spotify.com/track/5mLH2SnrW7cpJmxeBYc53T) | [Candido](https://open.spotify.com/artist/6PyAzOON3Toc5MPZrZMA5i) | [Dancin' & Prancin'](https://open.spotify.com/album/4Sc4zx50DRyl0Wb1YmMNej) | 6:52 | 2021-05-31 |  |
+| [Dancin' & Prancin'](https://open.spotify.com/track/2j4z4edrBAa4PHZ3rrzeSb) | [Candido](https://open.spotify.com/artist/6PyAzOON3Toc5MPZrZMA5i) | [Dancin' & Prancin'](https://open.spotify.com/album/3qeYusej1dvLVytUpn5wip) | 6:52 | 2021-05-31 |  |
+| [Dancin' & Prancin'](https://open.spotify.com/track/5mLH2SnrW7cpJmxeBYc53T) | [Candido](https://open.spotify.com/artist/6PyAzOON3Toc5MPZrZMA5i) | [Dancin' & Prancin'](https://open.spotify.com/album/4Sc4zx50DRyl0Wb1YmMNej) | 6:52 | 2021-05-31 | 2023-11-04 |
 | [Don't Forget](https://open.spotify.com/track/04jkk9HM7mTlCNTYhWUZBx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 2:49 | 2021-05-31 |  |
 | [Déjame Soñar](https://open.spotify.com/track/5cBEkcTbmPI6b24O7nJipw) | [Isidro Infante](https://open.spotify.com/artist/6JP0KRVKNawvRfkFA4mxtD), [Yumurí](https://open.spotify.com/artist/3qmRy8D4hwGKywvQx3xnxo), [Mayito Rivera](https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD), [Elindiomusik](https://open.spotify.com/artist/3gSXsqE30hXrQMSGxYOTSH) | [Isidro Infante Presenta Cuba y Puerto Rico "Un Abrazo Musical Salsero"](https://open.spotify.com/album/3JgWMmWDZeR6AOHJdydvhJ) | 5:04 | 2021-05-31 |  |
 | [Earth, Wind & Fire](https://open.spotify.com/track/3FcxoBWVmgt2By6gluHgjt) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Spirit](https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM) | 4:41 | 2021-06-10 |  |

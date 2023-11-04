@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Joy Denalane",
-  "num_followers": 29434,
+  "num_followers": 29433,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjcyNWE5MzI0YTkzMDRhYmQxNGYyN2U2NGJjZDIzNDA3ODUwNzQz",
+  "snapshot_id": "MCw2OWM0MDM5MjkyNWJlMGMzMWFjOWI0OWJkZGI3ZjViMmE5YWIwMGFj",
   "tracks": [
     {
       "added_at": "2023-10-03 22:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "BFF",
-        "url": "https://open.spotify.com/album/6ttn7yBKks0O3iP0senqjR"
-      },
-      "artists": [
-        {
-          "name": "Charisma",
-          "url": "https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb"
-        }
-      ],
-      "duration_ms": 118373,
-      "name": "BFF",
-      "url": "https://open.spotify.com/track/5jVJWhhFVsHy6Cfud1Qxjq"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
         "name": "Discotheque",
         "url": "https://open.spotify.com/album/3lnb8ijMj7IaGHsLXVwQ6I"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
+        "name": "Insecurities",
+        "url": "https://open.spotify.com/album/1azqoOmCxV4jVSuavtwUY2"
+      },
+      "artists": [
+        {
+          "name": "Odd Beholder",
+          "url": "https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v"
+        }
+      ],
+      "duration_ms": 205393,
+      "name": "Insecurities",
+      "url": "https://open.spotify.com/track/6Uoy9kA7D9dFxrAJ8zntKa"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
         "name": "TOGETHER",
         "url": "https://open.spotify.com/album/1AOdhW4UAxw29q7AudrMPR"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 255003,
       "name": "Running",
       "url": "https://open.spotify.com/track/44l2NbA8lMwFMNNB3rWTqI"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
-        "name": "Insecurities",
-        "url": "https://open.spotify.com/album/1azqoOmCxV4jVSuavtwUY2"
-      },
-      "artists": [
-        {
-          "name": "Odd Beholder",
-          "url": "https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v"
-        }
-      ],
-      "duration_ms": 205393,
-      "name": "Insecurities",
-      "url": "https://open.spotify.com/track/6Uoy9kA7D9dFxrAJ8zntKa"
     },
     {
       "added_at": "2023-10-03 22:00:00",
@@ -795,6 +779,22 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
+        "name": "BLa*_*",
+        "url": "https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK"
+      },
+      "artists": [
+        {
+          "name": "futurebae",
+          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
+        }
+      ],
+      "duration_ms": 168447,
+      "name": "wELLeN",
+      "url": "https://open.spotify.com/track/3tvkbP7uk2ZISn5mM9qves"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
         "name": "Replica Of My Heart",
         "url": "https://open.spotify.com/album/1t0qPUVKhK3TSB9049ON4a"
       },
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "BLa*_*",
-        "url": "https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK"
+        "name": "BFF",
+        "url": "https://open.spotify.com/album/0T3yiujsEyY4VK5xrkqNmt"
       },
       "artists": [
         {
-          "name": "futurebae",
-          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
+          "name": "Charisma",
+          "url": "https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb"
         }
       ],
-      "duration_ms": 168447,
-      "name": "wELLeN",
-      "url": "https://open.spotify.com/track/3tvkbP7uk2ZISn5mM9qves"
+      "duration_ms": 118373,
+      "name": "BFF",
+      "url": "https://open.spotify.com/track/61xrfupJTwPOOGhnCiYAhk"
     }
   ],
   "unique_name": "EQUAL GSA",

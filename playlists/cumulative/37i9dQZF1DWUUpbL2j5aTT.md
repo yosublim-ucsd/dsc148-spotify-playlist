@@ -4,7 +4,7 @@
 
 > The best of Brazilian House\. Photo: Fabricio Peçanha
 
-86 songs - 5 hr 25 min
+87 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Playground](https://open.spotify.com/track/2QcBTEQxzCIY6F64nro9Y7) | [Fabø](https://open.spotify.com/artist/6PDdu3G4eK1brXt0gN8f6D) | [Sliced Grooves](https://open.spotify.com/album/4auTbROJS8ul9BeYHEDHoQ) | 6:36 | 2023-10-27 |  |
 | [Positive Action](https://open.spotify.com/track/4M3bHvIPeQJnjBMVPr2tXW) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Positive Action](https://open.spotify.com/album/2ZG7uolsFqV6rJa9eqy8S4) | 2:52 | 2023-07-21 |  |
 | [Power Of Love \- Analu Andrade Remix](https://open.spotify.com/track/1j1FHxy8rSd2Z27oHM26XO) | [Analu Andrade](https://open.spotify.com/artist/6kbz0Cjs3FsX841XRgNVfW), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Power Of Love \(Analu Andrade Remix\)](https://open.spotify.com/album/0vDKN37Cz0PWGz5NwBVbQD) | 5:27 | 2023-07-21 |  |
+| [Quando Amanhecer](https://open.spotify.com/track/1N8STGhi5gwrf8gQ7Nydwl) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Dioli](https://open.spotify.com/artist/4AxDhOR6aBKRlFo2s5jAzq), [RCS](https://open.spotify.com/artist/5qapDtzeEI4agK5OgAFYvS) | [Quando Amanhecer](https://open.spotify.com/album/2Km0D0xs3nZdUUNDhPIHoY) | 2:52 | 2023-11-03 |  |
 | [Rapid Funk](https://open.spotify.com/track/1etCgtpxiueemTIDxGYpDP) | [HNQO](https://open.spotify.com/artist/6pkEHKolF0GKjOdbbIEuUg) | [Rapid Funk](https://open.spotify.com/album/2Sda8z8d1q68BwwYc6aGRV) | 5:35 | 2023-10-20 |  |
 | [Rhythm Don't Lie](https://open.spotify.com/track/5VDColLtXjsFMeSsXH02s7) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z), [Gabi'el](https://open.spotify.com/artist/6fhN6RXbIZ26S3gfebpNYN) | [Rhythm Don't Lie](https://open.spotify.com/album/0NDyZ6yUM0wnQUnywgJy7X) | 3:08 | 2023-07-21 |  |
 | [Rise Up](https://open.spotify.com/track/6Hqrdy1CKiqNvkrfNi9o81) | [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [Rise Up](https://open.spotify.com/album/25UYJr3CkuCMSKusqcySeQ) | 3:24 | 2023-07-21 | 2023-10-21 |

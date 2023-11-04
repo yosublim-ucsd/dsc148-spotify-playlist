@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-155 songs - 7 hr 15 min
+157 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Gather Round](https://open.spotify.com/track/2aFIt5maVUkdDMkafHFW4b) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:55 | 2022-04-15 |  |
 | [Getting The Job Done](https://open.spotify.com/track/7LHPkrPgSFKyGO6Ru6tdDu) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 3:39 | 2022-04-15 | 2023-10-21 |
 | [Give It A Go](https://open.spotify.com/track/0CG2r1WDiKLavxhlZ9LExa) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Give It A Go](https://open.spotify.com/album/2IRd6LarlRvkwcigpP0PXr) | 1:33 | 2022-04-15 |  |
-| [Goin' To A Birthday](https://open.spotify.com/track/2rtz0CHDt2RwOYqXBwDqN6) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [Goin' To A Birthday](https://open.spotify.com/album/5IRiwsbsT3p0lj2GenF7q8) | 2:47 | 2022-07-25 |  |
+| [Goin' To A Birthday](https://open.spotify.com/track/2rtz0CHDt2RwOYqXBwDqN6) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [Goin' To A Birthday](https://open.spotify.com/album/5IRiwsbsT3p0lj2GenF7q8) | 2:47 | 2022-07-25 | 2023-11-04 |
 | [Goin' To A Birthday](https://open.spotify.com/track/3opu1yJrMHIsYAPiezGQoT) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [Birthday Party](https://open.spotify.com/album/00PLx13YEu97ZoCxV1MOxU) | 2:47 | 2022-10-07 |  |
 | [Going Down the Road](https://open.spotify.com/track/5Zi9xsUSXdBWSMTtn4N9uC) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb), [Anna Jacobson](https://open.spotify.com/artist/2qKjgJ5wQxbSmqdjVabMlL) | [28 Days](https://open.spotify.com/album/2p5QfPVnqGhJDtrntQpX7Z) | 3:51 | 2022-04-15 | 2023-10-21 |
 | [Good Mood \- Original Song From Paw Patrol: The Movie](https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Good Mood \(Original Song From Paw Patrol: The Movie\)](https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI) | 3:30 | 2022-04-15 |  |
@@ -104,9 +104,11 @@
 | [MONEY TREE](https://open.spotify.com/track/40CFtr9fZCox5EkWrXBZTE) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW) | [MONEY TREE](https://open.spotify.com/album/60FbRUMst0DOBMHfqv1Dap) | 2:40 | 2022-10-07 | 2023-10-15 |
 | [MONEY TREE](https://open.spotify.com/track/7z5A9hoqy581NIkBXVg1QX) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW) | [MONEY TREE](https://open.spotify.com/album/7wFywtiGVgaywAiIhBNaRe) | 2:40 | 2023-09-22 |  |
 | [My Own Drum \(Remix\) \[with Missy Elliott\]](https://open.spotify.com/track/3btsAwBdn0ndjBiVrOlvfH) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [My Own Drum \(Remix\) \[with Missy Elliott\] \[From the Motion Picture "Vivo"\]](https://open.spotify.com/album/0cE3AvMiwhxzxzITp1AkZv) | 2:57 | 2022-04-15 |  |
-| [My Voice Is A Trumpet](https://open.spotify.com/track/3l4aDXm2sm3A7YvUwP9UbV) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [My Voice Is A Trumpet](https://open.spotify.com/album/0UPyebDii2nRtZkZFl6G1u) | 2:24 | 2022-04-15 |  |
+| [My Voice Is A Trumpet](https://open.spotify.com/track/3l4aDXm2sm3A7YvUwP9UbV) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [My Voice Is A Trumpet](https://open.spotify.com/album/0UPyebDii2nRtZkZFl6G1u) | 2:24 | 2022-04-15 | 2023-11-04 |
+| [My Voice Is A Trumpet](https://open.spotify.com/track/6gv2VOlgl6cFhH3GNYpah5) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [My Voice Is A Trumpet](https://open.spotify.com/album/3umsVEoAhZgKr2Q6frnDBN) | 2:24 | 2023-09-22 |  |
 | [Neighbor](https://open.spotify.com/track/1t0zKQvPW6iQPHGnUikbgC) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Neighbor](https://open.spotify.com/album/3QG5NYtfW5HsUNRHoLVirX) | 3:56 | 2022-10-07 |  |
 | [On My Way](https://open.spotify.com/track/7e6FePRWR5WXUxjf5SaKGi) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Mitchells vs The Machines \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2gGPKURfX0FxDL0tgJsas1) | 3:05 | 2022-04-15 | 2023-10-21 |
+| [On The Waves](https://open.spotify.com/track/13CJ1JQRzRd7jrZ43dl1JU) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [On The Waves](https://open.spotify.com/album/61IKrI6LclhDONrr1Xd20k) | 2:24 | 2023-11-03 |  |
 | [Outside](https://open.spotify.com/track/4dNJKjh9wMCEQ9lA2NiJ8W) | [Dad Jokes Duo](https://open.spotify.com/artist/4alPoOoReavkZAMBR5E4y0) | [Outside](https://open.spotify.com/album/0DMdkUii6hbvBUPIVEP6XO) | 2:52 | 2022-04-15 | 2023-10-21 |
 | [Outside Time \(My Favourite Time of Day\)](https://open.spotify.com/track/62zIyjEJQV9ABAx9fc0ZoU) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Outside Time \(My Favourite Time of Day\)](https://open.spotify.com/album/4iKkWQIATd1PoWFU4xLrjv) | 2:20 | 2022-04-15 |  |
 | [PJs All Day](https://open.spotify.com/track/4HVli0VNf13JmmgkC2p2x6) | [The Oot n' oots](https://open.spotify.com/artist/4r7I9e1YST7G7EY8C2qnoK) | [Ponderosa Bunchgrass and the Golden Rule](https://open.spotify.com/album/4KLLD8QW7MrYVJpMlObyg9) | 2:52 | 2022-04-15 |  |

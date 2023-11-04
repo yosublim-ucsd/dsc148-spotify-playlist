@@ -4,14 +4,15 @@
 
 > when things just feel heavy.
 
-62 songs - 3 hr 29 min
+64 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Crooked Melody](https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [A Crooked Melody](https://open.spotify.com/album/4fIZzk4JQ6g5xFlOdz1rGE) | 3:55 | 2023-09-05 |  |
 | [All My Friends](https://open.spotify.com/track/2H2qPnR96h3m32gZ8cnIAt) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Pop Culture](https://open.spotify.com/album/1RuvsFzs4uK88AzAAznMi3) | 3:24 | 2023-05-03 | 2023-09-06 |
 | [All That I've Got](https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:50 | 2023-05-03 |  |
-| [Alone \(feat\. Travis Barker\)](https://open.spotify.com/track/1EBtVgTnh8umbKsdsQi0zg) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/album/3Hua4dqkjlrTTNNqBd5MO8) | 2:24 | 2023-05-03 |  |
+| [Alone \(feat\. Travis Barker\)](https://open.spotify.com/track/1EBtVgTnh8umbKsdsQi0zg) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/album/3Hua4dqkjlrTTNNqBd5MO8) | 2:24 | 2023-05-03 | 2023-11-04 |
+| [Alone \(feat\. Travis Barker\)](https://open.spotify.com/track/2HrvfauQpudjDVlZTYZH0C) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/album/0D0K1XSh7i6MkbWBZTPmeH) | 2:24 | 2023-06-26 |  |
 | [Apologies](https://open.spotify.com/track/7BW0dJ7l1iG5YPdzPvVL7W) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [The Hunna](https://open.spotify.com/album/6o0Cd4hfhFGnVeYSugnzII) | 2:53 | 2023-05-03 |  |
 | [Bad Intentions](https://open.spotify.com/track/6qpLrHNWL51KQCytTh5Zfq) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [The Blue EP](https://open.spotify.com/album/3plAf4w7eRDvDqY2qxFouS) | 3:35 | 2023-05-03 |  |
 | [Battle Scars](https://open.spotify.com/track/4l42ScC0z19ygzbpS4JzGi) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Battle Scars](https://open.spotify.com/album/0SnmtDqaj4eNcdraEEnJ9W) | 2:51 | 2023-05-03 |  |
@@ -45,7 +46,8 @@
 | [Left Behind](https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Left Behind](https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM) | 3:26 | 2023-05-03 |  |
 | [Me in My Own Head](https://open.spotify.com/track/41h0mngXd81kGbYN5yeqnU) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disgusting](https://open.spotify.com/album/7dh7xmoU6FjAIQgrBbltXV) | 3:26 | 2023-05-03 |  |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/0CwiF8zPjl7ESC6nDnBvPo) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5dTaJdgmqgz5hcmpSVNgVF) | 3:06 | 2023-05-03 | 2023-08-09 |
-| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/63zxu4C2P5QZeXbn5ShjVB) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5psFkUUBPPrN1yPoHOUPDy) | 3:06 | 2023-06-26 |  |
+| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/3FfvJzsIj69F8aZopaHyvY) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/69O127HG873N3FqicFWCWe) | 3:06 | 2023-06-26 |  |
+| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/63zxu4C2P5QZeXbn5ShjVB) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [End of an era](https://open.spotify.com/album/5psFkUUBPPrN1yPoHOUPDy) | 3:06 | 2023-06-26 | 2023-11-04 |
 | [Mirror](https://open.spotify.com/track/4Mszk8p6xU2h6mhVoIp4io) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Mirror](https://open.spotify.com/album/60HJcRHTQSVVGn6sJ57DWd) | 3:59 | 2023-09-12 |  |
 | [Mixed Emotions \(I Didn't Know How To Tell You What I Was Going Through\)](https://open.spotify.com/track/5tsBGhl0yosGxoj992WtjJ) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Mixed Emotions \(I Didn't Know How To Tell You What I Was Going Through\)](https://open.spotify.com/album/3iGGzFgQvqNXc9E6Qnyvol) | 4:09 | 2023-05-03 |  |
 | [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 | 2023-05-03 |  |

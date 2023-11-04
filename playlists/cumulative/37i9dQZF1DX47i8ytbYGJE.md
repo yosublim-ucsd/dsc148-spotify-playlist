@@ -4,7 +4,7 @@
 
 > Rockabilly pioneers and revivalists\. Cover: Stray Cats
 
-366 songs - 14 hr 27 min
+369 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,8 @@
 | [Singing the Blues](https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Essential Marty Robbins 1951\-1982](https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl) | 2:25 | 2020-10-11 | 2023-04-28 |
 | [Sittin' In The Balcony](https://open.spotify.com/track/7ijofjiPGEUYhU2WreUL0n) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6) | 2:01 | 2020-10-11 | 2023-04-28 |
 | [Skinny Jim](https://open.spotify.com/track/07JOGpEHBICoVjcIjF4ROY) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 2:11 | 2020-10-11 |  |
-| [So Long Baby Goodbye](https://open.spotify.com/track/6VpVEeczEpC5OeIqgb7JZD) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters Collection](https://open.spotify.com/album/5bFPCsAzT5pb4BiQIUleh1) | 2:21 | 2023-04-27 |  |
+| [So Long Baby Goodbye](https://open.spotify.com/track/6VpVEeczEpC5OeIqgb7JZD) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters Collection](https://open.spotify.com/album/5bFPCsAzT5pb4BiQIUleh1) | 2:21 | 2023-04-27 | 2023-11-04 |
+| [So Long Baby Goodbye](https://open.spotify.com/track/1upelD8HjVJnft6t3yeiN4) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [Mandatory: The Best Of The Blasters](https://open.spotify.com/album/3rAp2eKl3WVl7Nf3iXzYw8) | 2:26 | 2023-04-27 |  |
 | [Somethin' Else](https://open.spotify.com/track/58Genya9wsQXqfiCYdd5qT) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6) | 2:10 | 2020-10-11 |  |
 | [Stray Cat Strut](https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Built For Speed](https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1) | 3:18 | 2023-04-27 |  |
 | [Stupid Cupid](https://open.spotify.com/track/05k9zkL0InhFtrByAYNVJa) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [20 Rock 'N' Roll Hits](https://open.spotify.com/album/12uadrsBO9OStSXlXLV6cW) | 2:15 | 2020-10-11 | 2023-04-28 |
@@ -342,11 +343,13 @@
 | [Travelin' Man](https://open.spotify.com/track/4KwYpkcfrzcM8JSXQal6vr) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Million Sellers](https://open.spotify.com/album/0sevjKKvHuAMrYwgonINsQ) | 2:23 | 2020-10-11 | 2023-04-28 |
 | [Tutti Frutti](https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:24 | 2020-10-11 |  |
 | [Twenty Flight Rock](https://open.spotify.com/track/0Lx4qHJ7ZBoSZvc704wsDd) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [Never To Be Forgotten](https://open.spotify.com/album/7n5TBiq6TqYMSK8i3t5ETL) | 1:45 | 2020-10-11 |  |
-| [Ubangi Stomp](https://open.spotify.com/track/0QXWOUB7LGccPIhfEGJcCU) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [The Sun Records Sound of Warren Smith \(20 Rockabilly Favorites\)](https://open.spotify.com/album/7EbBwkAHlqxaQGlKpsODQ6) | 1:58 | 2023-04-27 |  |
+| [Ubangi Stomp](https://open.spotify.com/track/0QXWOUB7LGccPIhfEGJcCU) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [The Sun Records Sound of Warren Smith \(20 Rockabilly Favorites\)](https://open.spotify.com/album/7EbBwkAHlqxaQGlKpsODQ6) | 1:58 | 2023-04-27 | 2023-11-04 |
+| [Ubangi Stomp](https://open.spotify.com/track/5FKajihwTRjPvsfdCTG86a) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [Sun Records Originals: Rock 'n' Roll Ruby](https://open.spotify.com/album/37IW9DA7zMC5O83RAxiZpv) | 1:59 | 2023-04-27 |  |
 | [Ubangi Stomp](https://open.spotify.com/track/3qYNCi2R5PBer8Ypj4JyIR) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [The Legendary Sun Classics](https://open.spotify.com/album/6LnPtBT7JcJWNsnONzNtgY) | 2:00 | 2020-10-11 | 2023-04-28 |
 | [Wake up Little Susie](https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:03 | 2020-10-11 | 2023-04-28 |
 | [We Wanna Boogie](https://open.spotify.com/track/0zUrqiVhuc5siPuEGmi3l6) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [The Legendary Sun Classics](https://open.spotify.com/album/0E8tCnwPe4rOHSRMzyIVpq) | 2:23 | 2020-10-11 | 2023-04-28 |
-| [We Wanna Boogie](https://open.spotify.com/track/6GZ1WlVhXloeDGdhm83L6z) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [The Sun Records Sound of Sonny Burgess \(20 Rockabilly Originals\)](https://open.spotify.com/album/4m3SwxCJImq2wzmxhkdDrC) | 2:23 | 2023-04-27 |  |
+| [We Wanna Boogie](https://open.spotify.com/track/6GZ1WlVhXloeDGdhm83L6z) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [The Sun Records Sound of Sonny Burgess \(20 Rockabilly Originals\)](https://open.spotify.com/album/4m3SwxCJImq2wzmxhkdDrC) | 2:23 | 2023-04-27 | 2023-11-04 |
+| [We Wanna Boogie \- Remastered 2022](https://open.spotify.com/track/2Abj7hwBVQAQv9SWLMq0Md) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [Sun Records Originals: We Wanna Boogie](https://open.spotify.com/album/2T2OSNrn4ZwVbnxiZQsmc4) | 2:24 | 2023-04-27 |  |
 | [Who Do You Love \- Single Version; Remastered](https://open.spotify.com/track/4BiwW4Yu4v2QFO47XnTi6p) | [Ronnie Hawkins](https://open.spotify.com/artist/2viYME3n7SlMsIOEqWmEHv) | [Rhino Hi\-Five: Rockin' Bones: 1950s Punk & Rockabilly](https://open.spotify.com/album/2Ot4oR9l5JVrgQxAhWKgTT) | 2:40 | 2020-10-11 | 2023-04-28 |
 | [Who Slapped John?](https://open.spotify.com/track/081t37hdBbQVjWGuBd42z6) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 1:58 | 2020-10-11 | 2023-04-28 |
 | [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 | 2020-10-11 |  |

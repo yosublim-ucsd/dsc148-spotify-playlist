@@ -12479,6 +12479,28 @@
     },
     {
       "album": {
+        "name": "\u6eab\u98fd\u85dd\u8853\u5bb6Grounded",
+        "url": "https://open.spotify.com/album/0WAWOZlVkEwV9V7aIhcWzE"
+      },
+      "artists": [
+        {
+          "name": "TIAB",
+          "url": "https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0"
+        },
+        {
+          "name": "PetPetShawn",
+          "url": "https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "\u6eab\u98fd\u85dd\u8853\u5bb6Grounded",
+      "url": "https://open.spotify.com/track/3uirvgoCuUj6dHsFKC4hEy"
+    },
+    {
+      "album": {
         "name": "\u706b\u6d77",
         "url": "https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi"
       },

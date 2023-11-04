@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Angie K
 
-136 songs - 7 hr 29 min
+138 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Pienso en Ti](https://open.spotify.com/track/6187nmNResODDMkb2WNgES) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 3:03 | 2021-12-10 |  |
 | [Poder Vivir](https://open.spotify.com/track/0iHidkaP0x9Dd8IwFmNkG4) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [En Español](https://open.spotify.com/album/30DQiI9l9HMsebReRC9BC8) | 3:17 | 2021-12-10 |  |
 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-04-21 |  |
-| [Quiébrame El Corazón](https://open.spotify.com/track/0WDI0OGjZVOk9g9JD2qPWm) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Raíces \(Así Se Hace\)](https://open.spotify.com/album/4NMuYhBd6kXCUEJVEeKEHt) | 3:53 | 2023-09-22 |  |
+| [Quiébrame El Corazón](https://open.spotify.com/track/0WDI0OGjZVOk9g9JD2qPWm) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Raíces \(Así Se Hace\)](https://open.spotify.com/album/4NMuYhBd6kXCUEJVEeKEHt) | 3:53 | 2023-09-22 | 2023-11-04 |
+| [Quiébrame El Corazón](https://open.spotify.com/track/27sMeqFgKV9NDV0ydx1Mp5) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Raíces \(Así Se Hace\)](https://open.spotify.com/album/1zek5N9ai5ZoXdgFhTVu1d) | 3:53 | 2023-09-29 |  |
 | [Reverse](https://open.spotify.com/track/2T6vymk0i2Pd5pli788DSQ) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Reverse](https://open.spotify.com/album/67gR6ME2xaUHnG5dC7t3qk) | 3:41 | 2022-07-08 |  |
 | [Ring of Fire](https://open.spotify.com/track/0s62CMcYQzqro7kFKCVIAd) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts) | [Country from another Country](https://open.spotify.com/album/2MyLrd6esHFxMjP1FdtC7W) | 3:42 | 2021-12-10 |  |
 | [Se Me Olvidó](https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg) | 2:39 | 2021-12-10 |  |
@@ -138,7 +139,8 @@
 | [USA](https://open.spotify.com/track/1Od5RPOmHmDoZ2HYct1IDg) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [USA](https://open.spotify.com/album/3c4FhI6rs61ojVXezxTrRn) | 2:55 | 2022-07-01 |  |
 | [Vaquera and the Cowboy](https://open.spotify.com/track/1S05YF8kpBxDLq9TCc2kIG) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Vaquera and the Cowboy](https://open.spotify.com/album/1uSY1zzeup2XbOZUNctQ3I) | 2:50 | 2021-12-10 |  |
 | [Vaquero Arrepentido](https://open.spotify.com/track/4WOwOPyNHnJKNPQNdGsRtZ) | [8 Segundos](https://open.spotify.com/artist/5f5Wlazt9jmI75fK5nPpd6) | [Vaquero Arrepentido](https://open.spotify.com/album/60l7sli9oBPRzNGCh1rXJI) | 3:31 | 2021-12-10 |  |
-| [Wasting Your Words](https://open.spotify.com/track/5fWDR48LVsc9YKrA9l3YhV) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/2baf9NLrekhUeG7gz9PIQ8) | 3:10 | 2023-07-07 |  |
+| [Wasting Your Words](https://open.spotify.com/track/5fWDR48LVsc9YKrA9l3YhV) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/2baf9NLrekhUeG7gz9PIQ8) | 3:10 | 2023-07-07 | 2023-11-04 |
+| [Wasting Your Words](https://open.spotify.com/track/6U50h1KkrYa6UQhRsjitpu) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ) | 3:10 | 2023-09-29 |  |
 | [Who's Such a Fool](https://open.spotify.com/track/0h4vihcN3UJanw0S89Uc2C) | [Roberto Trevizan](https://open.spotify.com/artist/2A25K2Y5IVJo2cOyLevndD) | [Who's Such a Fool](https://open.spotify.com/album/1TY3eBAdpLr2m178vJgFSg) | 3:08 | 2021-12-10 | 2023-04-22 |
 | [Why She Gotta Be Like That \(feat\. Gusi\)](https://open.spotify.com/track/5d1wYRM60TAJQYM1fEUI9W) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Why She Gotta Be Like That \(feat\. Gusi\)](https://open.spotify.com/album/3P171dDIY1NOjmMdQqH3Uz) | 2:51 | 2023-05-05 |  |
 | [Ya Me Enteré](https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [El Ahijado Consentido](https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP) | 3:09 | 2021-12-10 |  |

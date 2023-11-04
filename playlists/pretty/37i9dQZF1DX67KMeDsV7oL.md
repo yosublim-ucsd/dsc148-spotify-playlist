@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67KMeDsV7oL.md) - [plain]
 
 > Check out the Official Spiderhead Playlist\. Watch now on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,423 likes - 22 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,426 likes - 22 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67KMeDsV7oL.md) - [plain]
 | 3 | [Solfetietto, En Ut Mineur](https://open.spotify.com/track/5BGe92r3hyLf14Uq3ea5mA) | [The Swingle Singers](https://open.spotify.com/artist/2Rn34e82tV2YfbLfP1omlS) | [Going Baroque](https://open.spotify.com/album/6EbmD7EGlv0qeWQxz3Wghl) | 0:54 |
 | 4 | [Acknowledge](https://open.spotify.com/track/6AtN9KdBTK7sWN8RXpBnhM) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Tonality](https://open.spotify.com/artist/5pcicNTH7aIJujRAA7WFXg) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/3rVjprfO2nB269ciVVYy3b) | 2:55 |
 | 5 | [Feels So Good](https://open.spotify.com/track/2M7EflZCPCqqRLB9hy5MDy) | [Chuck Mangione](https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6) | [Feels So Good](https://open.spotify.com/album/5w0p1F0Q1wBqsX2UiX6CCD) | 9:42 |
-| 6 | [She Blinded Me With Science \- 2009 Remastered Version](https://open.spotify.com/track/6y9VZNRczyKeQihebHSMJ8) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age Of Wireless](https://open.spotify.com/album/6B0ZeHngr24VJ1MABDW2Yz) | 3:42 |
+| 6 | [She Blinded Me With Science](https://open.spotify.com/track/5FphpVbf4MCNEglT9yexvn) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [Halloween: A Thomas Dolby Creation](https://open.spotify.com/album/6pLzq5yYpq1oRki19bysnu) | 3:41 |
 | 7 | [Drip On](https://open.spotify.com/track/6XH9XIIfWuxl8UzyM1MzLJ) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/3rVjprfO2nB269ciVVYy3b) | 1:13 |
 | 8 | [Breezin'](https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin'](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 5:41 |
 | 9 | [More Than This](https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:30 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67KMeDsV7oL.md) - [plain]
 | 21 | [The Logical Song](https://open.spotify.com/track/2IOeOJyiuzwF8BRAK9jJyj) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America](https://open.spotify.com/album/7i75GRwJbhDDiLi2uQHTtZ) | 4:11 |
 | 22 | [Redemption](https://open.spotify.com/track/29LgQnYZLzkpNRrMNbevpV) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Tonality](https://open.spotify.com/artist/5pcicNTH7aIJujRAA7WFXg) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/3rVjprfO2nB269ciVVYy3b) | 2:31 |
 
-Snapshot ID: `MCw5OWFhYzI0ZmIwZTFhN2RlNzlhNDA5ODQ2NWUwOGRmOGQ5Y2JiMmZl`
+Snapshot ID: `MCwyZjU4NTM1MDFjNTM2M2MzYTY1ZTI2NjQ1MDQxZGU2YjkzOTkxMTBh`

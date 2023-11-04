@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL?si=eXl17VJUS4GDhWyI-5C6WQ\">Zakes Bantwini</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=13CL2cuKSo-DLXuKrcM3Cg\">Sun-El Musician</a>, <a href=\"https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=34xcSX9EStWN5YsQ1qYnRg\">Msaki</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 180733,
       "name": "About The Weekend",
       "url": "https://open.spotify.com/track/3lEoFMhMMRYuRUkU24HiOM"
@@ -1404,6 +1404,28 @@
       "duration_ms": 356632,
       "name": "Amafu - Remix",
       "url": "https://open.spotify.com/track/7K4DfQH0I1A96FXhUvYJZw"
+    },
+    {
+      "album": {
+        "name": "Amandla",
+        "url": "https://open.spotify.com/album/4KUQbiQ4UUjm5lcN0pX2Ah"
+      },
+      "artists": [
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370862,
+      "name": "Amandla",
+      "url": "https://open.spotify.com/track/16nstjbrIeh0HA4MkiOvqY"
     },
     {
       "album": {

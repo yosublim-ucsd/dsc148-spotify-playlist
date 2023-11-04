@@ -150,10 +150,36 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 269448,
       "name": "Built on Bones",
       "url": "https://open.spotify.com/track/1lpUCvji6ZrKCYCqWhwxdK"
+    },
+    {
+      "album": {
+        "name": "Built on Bones",
+        "url": "https://open.spotify.com/album/532Xfkrd2k7xL8WRB7n74M"
+      },
+      "artists": [
+        {
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+        },
+        {
+          "name": "Alisa Amador",
+          "url": "https://open.spotify.com/artist/1YwCwHqQN5Q7g5e00Hbg4t"
+        },
+        {
+          "name": "Violet Bell",
+          "url": "https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269448,
+      "name": "Built on Bones",
+      "url": "https://open.spotify.com/track/2DWtUDZiihXBBAj7t8LGld"
     },
     {
       "album": {

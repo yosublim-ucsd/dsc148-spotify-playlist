@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-130 songs - 9 hr 36 min
+131 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Knockin' On Heaven's Door \- Live at The Royal Albert Hall](https://open.spotify.com/track/0lDmUoccwUL5R79motsrsW) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Knockin' On Heaven's Door \(Live at The Royal Albert Hall\)](https://open.spotify.com/album/2Vp01eGIEUGBsZfQnIJml7) | 6:11 | 2023-05-22 |  |
 | [Lazy Poker Blues](https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Lazy Poker Blues](https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh) | 3:17 | 2023-08-11 |  |
 | [Let's Work Together](https://open.spotify.com/track/7vJaNv4ItDyYXXCVRJreh6) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Future Blues \(Expanded Edition\)](https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh) | 3:13 | 2023-04-06 |  |
-| [Like Crying \(with Noel Gallagher\) \- Live from The London Palladium](https://open.spotify.com/track/0O6lcWkE8m9pTDGD8Kpatf) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Noel Gallagher](https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac \(Live from The London Palladium\)](https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA) | 2:38 | 2022-06-24 |  |
+| [Like Crying \(with Noel Gallagher\) \(Live from The London Palladium\)](https://open.spotify.com/track/1QpCvHq958Nsev3qQtIInc) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac](https://open.spotify.com/album/4mRWbr6PnIIo3ealvjT60y) | 2:38 | 2023-10-13 |  |
+| [Like Crying \(with Noel Gallagher\) \- Live from The London Palladium](https://open.spotify.com/track/0O6lcWkE8m9pTDGD8Kpatf) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Noel Gallagher](https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac \(Live from The London Palladium\)](https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA) | 2:38 | 2022-06-24 | 2023-11-04 |
 | [Look on Yonder Wall](https://open.spotify.com/track/773LlUafLOEk5AKr1DIGag) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Strange Angels: In Flight with Elmore James](https://open.spotify.com/album/3qeVFVdY4jf4fD3nkZ4ZdN) | 3:43 | 2023-01-12 |  |
 | [Lost Cause](https://open.spotify.com/track/0nZ4lF8FhUPo94DLLluXIO) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj) | [Lost Cause](https://open.spotify.com/album/5BX6vHqeZHBpEHykTlKwEc) | 3:51 | 2023-02-03 |  |
 | [Love In Vain Blues \- Studio](https://open.spotify.com/track/2uzGLzv8DPmXrlBfdR9dU8) | [Peter Green Splinter Group](https://open.spotify.com/artist/77aUDqXRIvkDNxARfYwoHC) | [The Robert Johnson Songbook](https://open.spotify.com/album/4RZdbilpZLCecJHtEkdJgX) | 4:48 | 2022-06-24 |  |

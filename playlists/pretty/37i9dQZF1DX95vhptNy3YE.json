@@ -1,12 +1,12 @@
 {
   "description": "Mc Kadu e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 218717,
+  "num_followers": 219117,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWUxODYxYTU2ODE5ODg0Mzk1YjZlYWI3M2U1MjJhMjYyNDRmMmRl",
+  "snapshot_id": "MCxkMzFlYzAzYTdhNGEyYmQ1MTE2ODc5ODcwZTRhYmRjNzMzZjhiZTEz",
   "tracks": [
     {
       "added_at": "2023-10-27 22:32:46",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2023-10-27 22:32:46",
       "album": {
+        "name": "A noite toda",
+        "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
+      },
+      "artists": [
+        {
+          "name": "Lionel",
+          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "A noite toda",
+      "url": "https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq"
+    },
+    {
+      "added_at": "2023-10-27 22:32:46",
+      "album": {
         "name": "Falar de Amor",
         "url": "https://open.spotify.com/album/1ElTN1TXGkOXTlO6ZKrWk3"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 231529,
       "name": "Falar de Amor",
       "url": "https://open.spotify.com/track/6jkqFX0JprURdUqSkWmUgK"
-    },
-    {
-      "added_at": "2023-10-27 22:32:46",
-      "album": {
-        "name": "A noite toda",
-        "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
-      },
-      "artists": [
-        {
-          "name": "Lionel",
-          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "A noite toda",
-      "url": "https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq"
     },
     {
       "added_at": "2023-10-27 22:32:46",
@@ -1287,6 +1287,34 @@
     {
       "added_at": "2023-10-27 22:32:46",
       "album": {
+        "name": "Prazo De Validade",
+        "url": "https://open.spotify.com/album/79X2Zz8FuvzjIHzKTfSxcA"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Rodriguinho",
+          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Prazo De Validade",
+      "url": "https://open.spotify.com/track/6tQVvcmfUvtxxg4FmQTpv9"
+    },
+    {
+      "added_at": "2023-10-27 22:32:46",
+      "album": {
         "name": "Chove Chuva",
         "url": "https://open.spotify.com/album/39kN9xSE9LbuQAiXQAe52G"
       },
@@ -1315,34 +1343,6 @@
       "duration_ms": 170802,
       "name": "Chove Chuva",
       "url": "https://open.spotify.com/track/1pQ29ZLS28yXAiXW2LREyK"
-    },
-    {
-      "added_at": "2023-10-27 22:32:46",
-      "album": {
-        "name": "Prazo De Validade",
-        "url": "https://open.spotify.com/album/79X2Zz8FuvzjIHzKTfSxcA"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Rodriguinho",
-          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 342857,
-      "name": "Prazo De Validade",
-      "url": "https://open.spotify.com/track/6tQVvcmfUvtxxg4FmQTpv9"
     }
   ],
   "unique_name": "AMPLIFIKA",

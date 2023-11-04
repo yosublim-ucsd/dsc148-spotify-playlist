@@ -4,12 +4,13 @@
 
 > Float away to the weightless sound of breakbeat.
 
-93 songs - 7 hr 42 min
+95 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [50 Euro](https://open.spotify.com/track/145Bg72XuZxCoopSoh8BEj) | [Blitz Beats](https://open.spotify.com/artist/5mPTe8pjHqGwP4NvuvGdHX) | [Fuego](https://open.spotify.com/album/4uLaJzYJGxdv1NXT38fFWz) | 5:07 | 2021-10-23 | 2023-03-08 |
-| [50 Euro to Break Boost](https://open.spotify.com/track/621ALAYuQFMnpBBdKXXAnS) | [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [Compro](https://open.spotify.com/album/3yXIkSJWpudtgF0TZuB16U) | 5:07 | 2021-10-23 |  |
+| [50 Euro to Break Boost](https://open.spotify.com/track/486fgWxX39Nk44io6c4CbT) | [Blits Beats](https://open.spotify.com/artist/6ZSkAGZpBTuhhRLdGG2xl2) | [Compro](https://open.spotify.com/album/3DuQcpwc4TjXTwrooeEclt) | 5:07 | 2021-10-23 |  |
+| [50 Euro to Break Boost](https://open.spotify.com/track/621ALAYuQFMnpBBdKXXAnS) | [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [Compro](https://open.spotify.com/album/3yXIkSJWpudtgF0TZuB16U) | 5:07 | 2021-10-23 | 2023-11-04 |
 | [Acheless \- Edit](https://open.spotify.com/track/3uSS4gKyOg9m8V2Ds2ZKTr) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Acheless](https://open.spotify.com/album/3TnRsvwBfgPM8uoE0Wg3FY) | 4:55 | 2021-10-23 | 2023-09-01 |
 | [Acheless \- Edit](https://open.spotify.com/track/4nuQLBo09rdWqp4CwjmXax) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Acheless](https://open.spotify.com/album/0LVEplOubTVKPvBcw047Gt) | 4:55 | 2021-10-23 |  |
 | [Altum](https://open.spotify.com/track/0ZhY1iOzCfxUKWu3iqmCCI) | [Uncle Knows](https://open.spotify.com/artist/51NqakMdtj6gpOBzlVxNhp), [Bingo Wode](https://open.spotify.com/artist/2Ojf4EQMxG9otVQ5B3CVpQ) | [Altum](https://open.spotify.com/album/2r7qtbRzUzWEyhpZbt8fsA) | 3:40 | 2021-10-23 |  |
@@ -95,7 +96,8 @@
 | [Time](https://open.spotify.com/track/5CdnchxvwLJUonYfcDbgB0) | [Stanton Warriors](https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R) | [Time](https://open.spotify.com/album/2JQtRaELiP5PODbtSBa31y) | 4:07 | 2021-10-23 |  |
 | [Too Late for U and M1](https://open.spotify.com/track/4yKTcvzQU40CxEMCtZSR6R) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:37 | 2021-10-23 |  |
 | [U Trippin](https://open.spotify.com/track/10cj75OrGOzk9ACiG39CzQ) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come Out at Night](https://open.spotify.com/album/6oklxHW7orD7EDYfSwO3Rh) | 6:51 | 2021-10-23 | 2022-11-23 |
-| [U Trippin](https://open.spotify.com/track/2I4kpk0Fzw9vlFTBNQRsxp) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come Out at Night](https://open.spotify.com/album/3wXAPcHY6Zw4ccHRv6Xsxy) | 6:51 | 2021-10-23 |  |
+| [U Trippin](https://open.spotify.com/track/2I4kpk0Fzw9vlFTBNQRsxp) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come Out at Night](https://open.spotify.com/album/3wXAPcHY6Zw4ccHRv6Xsxy) | 6:51 | 2021-10-23 | 2023-11-04 |
+| [U Trippin](https://open.spotify.com/track/2q71FfZKbUO8Rsl2LEjbxp) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come out at Night](https://open.spotify.com/album/04ZsK5jLt7ht9i7fmOeEau) | 6:51 | 2021-10-23 |  |
 | [Vesta](https://open.spotify.com/track/2o4n8j8Bj0LB33Hgc71LIg) | [Gemi](https://open.spotify.com/artist/3KUQf69bdptSNDeotadJfm), [Kori](https://open.spotify.com/artist/6tUcO4yFrN0Zzt3iMtDyns) | [Vesta](https://open.spotify.com/album/7ELN6vOodmmsja1NIjHWHd) | 3:36 | 2021-10-23 | 2023-02-08 |
 | [Vesta](https://open.spotify.com/track/39nJwU8UZlKPJVrPqkeGoL) | [Gemi](https://open.spotify.com/artist/3KUQf69bdptSNDeotadJfm), [Kori](https://open.spotify.com/artist/6tUcO4yFrN0Zzt3iMtDyns) | [Vesta](https://open.spotify.com/album/0FSboMIKc7yYsJHcxBOni3) | 3:36 | 2021-10-23 |  |
 | [VTOPIA](https://open.spotify.com/track/5sV6YuXW0Cherbpb6PEpTo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [VTOPIA](https://open.spotify.com/album/50iCpCLAmZjZIZAdobVL5H) | 6:22 | 2021-10-23 |  |

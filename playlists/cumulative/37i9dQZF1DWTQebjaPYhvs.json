@@ -818,7 +818,7 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 183533,
       "name": "Dead Men Tell No Tales",
       "url": "https://open.spotify.com/track/3n1SVpFljd2w59JwWc3vAU"
@@ -840,6 +840,24 @@
       "duration_ms": 183533,
       "name": "Dead Men Tell No Tales",
       "url": "https://open.spotify.com/track/6SuvhFoNuEGc9eEVWCoMSE"
+    },
+    {
+      "album": {
+        "name": "Bomber",
+        "url": "https://open.spotify.com/album/0WVRXw04iy4QN2EnmXx11I"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2020-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184493,
+      "name": "Dead Men Tell No Tales",
+      "url": "https://open.spotify.com/track/20KE0WQNmYYYhI2U5coisY"
     },
     {
       "album": {
@@ -1304,10 +1322,46 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 357658,
       "name": "Grand Canyon",
       "url": "https://open.spotify.com/track/5qxQ3jCwEMHCCZoc00tdLF"
+    },
+    {
+      "album": {
+        "name": "Money Shot",
+        "url": "https://open.spotify.com/album/5Eq7sXh2Ifa9mp2ry25lxn"
+      },
+      "artists": [
+        {
+          "name": "Puscifer",
+          "url": "https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357658,
+      "name": "Grand Canyon",
+      "url": "https://open.spotify.com/track/6TXS2cMfXY8oNZ20moIWoc"
+    },
+    {
+      "album": {
+        "name": "Conditions Of My Parole",
+        "url": "https://open.spotify.com/album/1ZIPAkFJ9oY4zJnvVljD58"
+      },
+      "artists": [
+        {
+          "name": "Puscifer",
+          "url": "https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234826,
+      "name": "Green Valley",
+      "url": "https://open.spotify.com/track/4Tkj9L81NcKffRHi6L6bk1"
     },
     {
       "album": {
@@ -1322,7 +1376,7 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 234826,
       "name": "Green Valley",
       "url": "https://open.spotify.com/track/5RVMaBTIAr8PM2keeeZlnZ"
@@ -3004,10 +3058,28 @@
       ],
       "date_added": "2020-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 176053,
       "name": "Straight Up Sideways",
       "url": "https://open.spotify.com/track/4QJhHUCcaCPS0hO6XYFpHO"
+    },
+    {
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2020-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176053,
+      "name": "Straight Up Sideways",
+      "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
     },
     {
       "album": {
@@ -3196,7 +3268,7 @@
     {
       "album": {
         "name": "C Is For (Please Insert Sophomoric Genitalia Reference Here)",
-        "url": "https://open.spotify.com/album/5dKl1Mg0MWV7m4Yhu76b9F"
+        "url": "https://open.spotify.com/album/3qJM9pOfASSLCxnT7Chp9H"
       },
       "artists": [
         {
@@ -3207,6 +3279,24 @@
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 305520,
+      "name": "The Humbling River",
+      "url": "https://open.spotify.com/track/4RqukTe8L59wgiO6fzHvzf"
+    },
+    {
+      "album": {
+        "name": "C Is For (Please Insert Sophomoric Genitalia Reference Here)",
+        "url": "https://open.spotify.com/album/5dKl1Mg0MWV7m4Yhu76b9F"
+      },
+      "artists": [
+        {
+          "name": "Puscifer",
+          "url": "https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
       "duration_ms": 305520,
       "name": "The Humbling River",
       "url": "https://open.spotify.com/track/69GE6yPZZldvqtgBHrKXxg"

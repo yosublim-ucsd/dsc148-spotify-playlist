@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-81 songs - 4 hr 18 min
+82 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Love Me Now \(feat\. FAST BOY\) \- Acoustic](https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Love Me Now \(feat\. FAST BOY\) \[Acoustic\]](https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f) | 2:18 | 2023-01-12 |  |
 | [Love Not War \(The Tampa Beat\) \(Acoustic\)](https://open.spotify.com/track/0dRYCtYfllnlfDiEufuwOU) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Nuka](https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z) | [Love Not War \(The Tampa Beat\) \(Acoustic\)](https://open.spotify.com/album/0suzpiXwzpyvN85xQyf699) | 3:11 | 2022-12-21 | 2023-06-03 |
 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6) | 3:04 | 2022-12-21 |  |
-| [miss me \(when you're gone\) \- \[sad version\] \[Acoustic\]](https://open.spotify.com/track/6UWXV4zk4zJCzJQZXHifBX) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) \[remixes\]](https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t) | 3:50 | 2023-06-02 |  |
+| [miss me \(when you're gone\) \- \[sad version\] \[Acoustic\]](https://open.spotify.com/track/6UWXV4zk4zJCzJQZXHifBX) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) \[remixes\]](https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t) | 3:50 | 2023-06-02 | 2023-11-04 |
+| [miss me \(when you’re gone\) \(sad version\) \(Acoustic\)](https://open.spotify.com/track/52vl4KA0ATWJ6Mf7QChsd3) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) remixes](https://open.spotify.com/album/1pEipsUVstkQ8cbB1hSr8I) | 3:50 | 2023-11-02 |  |
 | [Mood \- Acoustic](https://open.spotify.com/track/1NKiIuSbv88ecRlB6noXzz) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Mood \(Acoustic\)](https://open.spotify.com/album/4fkiu8nnl0W9wbgspwYL8M) | 2:41 | 2022-12-21 | 2023-03-10 |
 | [My Universe \- Acoustic Version](https://open.spotify.com/track/6nhc3daOpKaZBRj2ZFWfc7) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG) | 3:43 | 2022-12-21 | 2023-09-13 |
 | [Never Seen the Rain \- Alternate Version](https://open.spotify.com/track/6MYNfMiLwCmA3bRdfzvfcs) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Never Seen The Rain \(Alternate Version\)](https://open.spotify.com/album/7oVHtPdIA5kcxLLiCu2t7N) | 5:00 | 2022-12-21 | 2023-06-17 |

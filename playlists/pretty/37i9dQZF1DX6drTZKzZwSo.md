@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 
 > Classic funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,797 likes - 60 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,868 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 39 | [Chicken Fat](https://open.spotify.com/track/0u6bZc8NhpSbH2KutleBQx) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Chicken Fat](https://open.spotify.com/album/5C4WhoPBJroEK4feGnAaFH) | 4:14 |
 | 40 | [Funky Nassau, Pt\. 1](https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg) | [The Beginning Of The End](https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR) | [Funky Nassau](https://open.spotify.com/album/4JET5l83ryFSr2H5sLvSab) | 3:06 |
 | 41 | [Freddie's Dead](https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:29 |
-| 42 | [A Little Love \- Radio Edit](https://open.spotify.com/track/0d3MNrePFGENAawn9UuMOo) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [A Little Love](https://open.spotify.com/album/7yy7NUPzf23EnXciOrhluZ) | 3:28 |
+| 42 | [A Little Love \(Radio Edit\)](https://open.spotify.com/track/5E2lPkWXpNCsqG7MxdzRNG) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [A Little Love](https://open.spotify.com/album/5KC7Sb23Axzqb2BjbV0FV5) | 3:28 |
 | 43 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 |
 | 44 | [Dance Floor](https://open.spotify.com/track/6d4XP98nTswxMycT6fdZNN) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [Zapp II](https://open.spotify.com/album/7ew8Rwv8ICZUhLPteXPcbk) | 10:42 |
 | 45 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 59 | [You Haven't Done Nothin'](https://open.spotify.com/track/1inwt0v9a4ib9yS6Y4KsdM) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Fulfillingness' First Finale](https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ) | 3:22 |
 | 60 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 |
 
-Snapshot ID: `MCxjMmUxOGVkNzNmNzk1Y2Y3OWZiNGZhZmMzMWMyZmFiMzcyNjczMWU2`
+Snapshot ID: `MCwxMjllZDMxNmNkOTcxMDU5YmFlMTllZTFmNDMwYzM0ZTY4MmY0NWQ1`

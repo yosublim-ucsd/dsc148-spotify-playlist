@@ -24,7 +24,7 @@
     {
       "album": {
         "name": "A Little Love",
-        "url": "https://open.spotify.com/album/7yy7NUPzf23EnXciOrhluZ"
+        "url": "https://open.spotify.com/album/5KC7Sb23Axzqb2BjbV0FV5"
       },
       "artists": [
         {
@@ -35,6 +35,24 @@
       "date_added": "2020-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 208236,
+      "name": "A Little Love (Radio Edit)",
+      "url": "https://open.spotify.com/track/5E2lPkWXpNCsqG7MxdzRNG"
+    },
+    {
+      "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/7yy7NUPzf23EnXciOrhluZ"
+      },
+      "artists": [
+        {
+          "name": "Aurra",
+          "url": "https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG"
+        }
+      ],
+      "date_added": "2020-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
       "duration_ms": 208236,
       "name": "A Little Love - Radio Edit",
       "url": "https://open.spotify.com/track/0d3MNrePFGENAawn9UuMOo"

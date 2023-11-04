@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "Paradox Live"! HIPHOPメディアミックスプロジェクト「Paradox Live（パラライ）」の楽曲&ドラマトラックを1つのプレイリストで。 ©Paradox Live2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,580 likes - 126 songs - 20 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,631 likes - 126 songs - 20 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 125 | [Voice Drama "REVOLUTION" Part cozmez](https://open.spotify.com/track/2nMvFsWpFSTXGQRomiL1nQ) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live \-Road to Legend\- FINAL"REVOLUTION"](https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA) | 24:48 |
 | 126 | [Voice Drama "REVOLUTION" Part 獄Luck](https://open.spotify.com/track/0u6e9hBFyCyCxTozoq6hEi) | [獄Luck](https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA) | [Paradox Live \-Road to Legend\- FINAL"REVOLUTION"](https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA) | 24:50 |
 
-Snapshot ID: `MCxlZmRlZWM3ODc2YzRmYWFkZTJkYjY1NTNiZjM4ZjY5NmVhOGQ2ZmQ3`
+Snapshot ID: `MCw1MGZkZGJmOTIzNzJhMjYxNGZkMTUyMTI0M2JiMjQ3ZDczMzY4NTdj`

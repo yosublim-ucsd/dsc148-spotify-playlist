@@ -4,7 +4,7 @@
 
 > Classic rock favorites\. Cover: Bruce Springsteen
 
-160 songs - 11 hr 15 min
+162 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Carry on Wayward Son](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Leftoverture \(Expanded Edition\)](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) | 5:23 | 2022-03-04 |  |
 | [Cat's in the Cradle](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Verities & Balderdash](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) | 3:42 | 2022-03-14 |  |
 | [Centerfield](https://open.spotify.com/track/3CBKRRO3QiypbyLMJv2udO) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [The Long Road Home \- The Ultimate John Fogerty / Creedence Collection](https://open.spotify.com/album/5QTuGhli0RWcjH1J9QIUgi) | 3:51 | 2022-03-04 | 2022-11-14 |
-| [Centerfield](https://open.spotify.com/track/2iRfjwzPsooCskZrrlsgcC) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [Centerfield \- 25th Anniversary](https://open.spotify.com/album/59uBuqBgldmgEK0O01jN12) | 3:51 | 2022-03-04 |  |
+| [Centerfield](https://open.spotify.com/track/2iRfjwzPsooCskZrrlsgcC) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [Centerfield \- 25th Anniversary](https://open.spotify.com/album/59uBuqBgldmgEK0O01jN12) | 3:51 | 2022-03-04 | 2023-11-04 |
+| [Centerfield](https://open.spotify.com/track/38BgqHjoogBGBqdx14cV46) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [Centerfield – 25th Anniversary](https://open.spotify.com/album/5ZYrDri9HWKLgSqDZOquH5) | 3:51 | 2022-03-04 |  |
 | [Centerfield](https://open.spotify.com/track/1fFNSZQFnnPMLzGYZfs0jk) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [Centerfield](https://open.spotify.com/album/2RsCJYS71RTEInqYLJestV) | 3:53 | 2014-01-07 | 2022-07-29 |
 | [China Grove](https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:15 | 2022-03-31 |  |
 | [Closer To The Heart](https://open.spotify.com/track/4u3oXuVeOGoByIMz9pnOKf) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [A Farewell To Kings](https://open.spotify.com/album/18i33u5FvfvgHjZMulpyO2) | 2:51 | 2022-03-31 |  |
@@ -151,7 +152,8 @@
 | [The Night They Drove Old Dixie Down](https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Band](https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x) | 3:31 | 2022-03-04 |  |
 | [The Night They Drove Old Dixie Down \- Remastered 2000](https://open.spotify.com/track/2x0supcZhd6NEH1nem9DnR) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Band \(Expanded Edition\)](https://open.spotify.com/album/0nPrnmv6maJLLaPpy1cWGB) | 3:33 | 2014-01-07 | 2022-07-15 |
 | [The Old Man Down The Road](https://open.spotify.com/track/4SMz9IL5uiLadHshWxOvsO) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [The Long Road Home \- The Ultimate John Fogerty / Creedence Collection](https://open.spotify.com/album/4A8gFwqd9jTtnsNwUu3OQx) | 3:33 | 2014-01-07 | 2022-04-20 |
-| [The Old Man Down The Road](https://open.spotify.com/track/0tkfgenYMiMQPIma894lgc) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [Centerfield \- 25th Anniversary](https://open.spotify.com/album/59uBuqBgldmgEK0O01jN12) | 3:34 | 2022-03-04 |  |
+| [The Old Man Down The Road](https://open.spotify.com/track/0tkfgenYMiMQPIma894lgc) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [Centerfield \- 25th Anniversary](https://open.spotify.com/album/59uBuqBgldmgEK0O01jN12) | 3:34 | 2022-03-04 | 2023-11-04 |
+| [The Old Man Down The Road](https://open.spotify.com/track/2Qh1VTOuNG3K9ORtkfYg02) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [Centerfield – 25th Anniversary](https://open.spotify.com/album/5ZYrDri9HWKLgSqDZOquH5) | 3:34 | 2022-03-04 |  |
 | [The Rising](https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:47 | 2022-09-30 |  |
 | [The Spirit Of Radio](https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Permanent Waves](https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i) | 4:56 | 2022-03-14 |  |
 | [Thunder Road](https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:48 | 2022-03-14 |  |

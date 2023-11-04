@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 
 > Let it simmer with some smooth R&amp;B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,330 likes - 25 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,342 likes - 25 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 | 17 | [Nighttiming](https://open.spotify.com/track/1jbrKpiTZ5jSblBypybUmV) | [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Nighttiming](https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg) | 2:48 |
 | 18 | [Too Cool To Dance](https://open.spotify.com/track/72Nl5JkVhoHtmPkNeyLaSy) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Too Cool To Dance](https://open.spotify.com/album/2Ab6Yk3XbReGj62BGl3YN5) | 3:09 |
 | 19 | [Peaches N Cream \(feat\. Charlie Wilson\)](https://open.spotify.com/track/7Fk0zNC7vGdoDwePPgByKh) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Peaches N Cream \(feat\. Charlie Wilson\)](https://open.spotify.com/album/0tKHgjptFpCMWQyKrwThXF) | 4:44 |
-| 20 | [I Won't Let You Down](https://open.spotify.com/track/5v2snXqNEVtKxsJy5YBVfV) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Hungry Ghosts](https://open.spotify.com/album/36WLicHKpbEZ4CDR1KxZEW) | 3:42 |
+| 20 | [I Won't Let You Down](https://open.spotify.com/track/2XWyvefXAcxobyJNF305dR) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Hungry Ghosts](https://open.spotify.com/album/6OEqHmIjxByhkQjjxuIBBL) | 3:42 |
 | 21 | [Number One](https://open.spotify.com/track/19w0peKzUE7Ih1E0FGdaXO) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo](https://open.spotify.com/album/6A0IarahNWMnEcJ1Q6sn7d) | 4:08 |
 | 22 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 |
 | 23 | [Love Like Mine \(feat\. Cleopold\)](https://open.spotify.com/track/6Thav39y9X5FrJNuh8MDRZ) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe) | [All Possible Futures](https://open.spotify.com/album/7iWI0ecSGNNUbVKzyyElgg) | 4:10 |
 | 24 | [Fiona Coyne](https://open.spotify.com/track/0dvS6gcGGKvXPWo0mC6UVP) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7) | 4:09 |
 | 25 | [Go Bang](https://open.spotify.com/track/7sPKwl78bZIhXuBZvOykFD) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Go Bang](https://open.spotify.com/album/6FhmsyMDKvnpHx8JgefrvC) | 11:04 |
 
-Snapshot ID: `MCxmYWM1YzA2MTMyZTcxNzcyNWE5ZjczNDQ3MzRlMjkzMWJkYzk0NjFl`
+Snapshot ID: `MCw1OWNkYjEzY2ZjNjYwYzZjZWYxMmRiMzg4NGEyY2Q5M2M2NGVmOTIw`

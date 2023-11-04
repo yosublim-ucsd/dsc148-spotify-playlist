@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 106479,
+  "num_followers": 106492,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQ1MmZkM2RhNGJlMTFkNDJmNmY4NjkzMTYyOWQ0NjE2ZTJmODJj",
+  "snapshot_id": "MCwxZjFiNDFiYWI2YmU2NmQ2ZmM3MzA5NjZmZDEyN2FhZjRiOWY3NmIz",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Push Power ( a 1 )",
+        "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 249261,
+      "name": "Push Power ( a 1 )",
+      "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Sea To Sky",
         "url": "https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 264003,
       "name": "Sea To Sky",
       "url": "https://open.spotify.com/track/7AZvdqbQJdakmxCPFK5F5E"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Push Power ( a 1 )",
-        "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 249261,
-      "name": "Push Power ( a 1 )",
-      "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Take Them",
+        "url": "https://open.spotify.com/album/5KW5wIu6RhXkBGl3TTKqOp"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 287542,
+      "name": "Take Them",
+      "url": "https://open.spotify.com/track/00nHvLYHf4mQaVuCq2eoTT"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "BOY / if u wanna cry",
         "url": "https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Take Them",
-        "url": "https://open.spotify.com/album/5KW5wIu6RhXkBGl3TTKqOp"
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG"
       },
       "artists": [
         {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
         }
       ],
-      "duration_ms": 287542,
-      "name": "Take Them",
-      "url": "https://open.spotify.com/track/00nHvLYHf4mQaVuCq2eoTT"
+      "duration_ms": 317178,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -607,22 +623,6 @@
       "duration_ms": 256000,
       "name": "Is It Me",
       "url": "https://open.spotify.com/track/16mtgdA4xzXkDewenuZ45D"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 317178,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Have You Felt Lately? (Brijean Remix)",
-        "url": "https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Have You Felt Lately? - Brijean Remix",
-      "url": "https://open.spotify.com/track/0wR3uEmtFQLqNVkXbB219d"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Halcyon (30 Something) [Remixes]",
         "url": "https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 292987,
       "name": "Halcyon & On - Logic1000 Mix",
       "url": "https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Have You Felt Lately? (Brijean Remix)",
+        "url": "https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Have You Felt Lately? - Brijean Remix",
+      "url": "https://open.spotify.com/track/0wR3uEmtFQLqNVkXbB219d"
     },
     {
       "added_at": "2023-08-31 14:00:00",

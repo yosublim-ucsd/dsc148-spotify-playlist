@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Fridayy",
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Drake",
   "name": "B.A.E.",
   "tracks": [
     {
@@ -64,6 +64,28 @@
       "duration_ms": 156040,
       "name": "16",
       "url": "https://open.spotify.com/track/1Is8hGpkGMiePASAxBluxM"
+    },
+    {
+      "album": {
+        "name": "1738 (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230293,
+      "name": "1738 (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H"
     },
     {
       "album": {
@@ -674,6 +696,28 @@
       "duration_ms": 228278,
       "name": "Baby Wyd (Remix) (feat. Latto & Lakeyah)",
       "url": "https://open.spotify.com/track/68YgD0MGp48v30D54WtRWR"
+    },
+    {
+      "album": {
+        "name": "Bachelor",
+        "url": "https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk"
+      },
+      "artists": [
+        {
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241533,
+      "name": "Bachelor",
+      "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
     },
     {
       "album": {
@@ -1380,7 +1424,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 176620,
       "name": "Clocking U",
       "url": "https://open.spotify.com/track/4hNdFY5XiWlcdVY8zBoE8b"
@@ -1756,7 +1800,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 207945,
       "name": "DIAMONDS",
       "url": "https://open.spotify.com/track/0riALVv5w4g49cSDpvVLEo"
@@ -1964,7 +2008,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 192009,
       "name": "Do The Most",
       "url": "https://open.spotify.com/track/1yg9VKFZ4nAtylknE3lUHo"
@@ -3780,7 +3824,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 182935,
       "name": "Kum Over",
       "url": "https://open.spotify.com/track/3bbNkq2ZGOnjstDrf0h40g"
@@ -3850,6 +3894,32 @@
       "duration_ms": 174682,
       "name": "late at night",
       "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
+    },
+    {
+      "album": {
+        "name": "Leave Her Alone",
+        "url": "https://open.spotify.com/album/5z1zNcgq8vRZXDQYAhRxDL"
+      },
+      "artists": [
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147300,
+      "name": "Leave Her Alone",
+      "url": "https://open.spotify.com/track/6Ckxadd19A2tjI2sjwWo1v"
     },
     {
       "album": {
@@ -4602,6 +4672,24 @@
       "duration_ms": 96021,
       "name": "more than a trend",
       "url": "https://open.spotify.com/track/0yk8VLT5BXbqHK8DZD3xUg"
+    },
+    {
+      "album": {
+        "name": "STREETS SAY YOU MISS ME",
+        "url": "https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150375,
+      "name": "MORE THAN SORRY",
+      "url": "https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p"
     },
     {
       "album": {
@@ -5880,7 +5968,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 188280,
       "name": "Room 303",
       "url": "https://open.spotify.com/track/3k1rYlaTNoqaUdXS743hWZ"
@@ -6672,6 +6760,24 @@
       "duration_ms": 144344,
       "name": "Stressed (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
+    },
+    {
+      "album": {
+        "name": "Suffice",
+        "url": "https://open.spotify.com/album/0QGs0Fg2Ao50fFxetJuhyq"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162303,
+      "name": "Suffice",
+      "url": "https://open.spotify.com/track/2gy2UTbkgMVai4uB2oqeqh"
     },
     {
       "album": {
@@ -7617,6 +7723,28 @@
     },
     {
       "album": {
+        "name": "S.O.U.L.",
+        "url": "https://open.spotify.com/album/5ZPvrIyao6gbYOsJIcynuY"
+      },
+      "artists": [
+        {
+          "name": "Lady London",
+          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
+        },
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164182,
+      "name": "Way Too Much (feat. Tink)",
+      "url": "https://open.spotify.com/track/2gaYHPANb386H2SrM211xq"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -7964,7 +8092,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 147773,
       "name": "WHITE CROCS (with Ryan Trey)",
       "url": "https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok"
@@ -8312,7 +8440,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 194285,
       "name": "Yes",
       "url": "https://open.spotify.com/track/5wJzWIpTjufasyBhPmfPwm"
@@ -8448,6 +8576,24 @@
       "duration_ms": 155881,
       "name": "You know My body (feat. Capella Grey)",
       "url": "https://open.spotify.com/track/2OjabQl4Ti8FIGslOb0pPI"
+    },
+    {
+      "album": {
+        "name": "Young & Free",
+        "url": "https://open.spotify.com/album/0UeyTVnph7j8kYLCJMcYai"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182150,
+      "name": "Young & Free",
+      "url": "https://open.spotify.com/track/6fAykULmAdoUNqIorQZAVs"
     },
     {
       "album": {

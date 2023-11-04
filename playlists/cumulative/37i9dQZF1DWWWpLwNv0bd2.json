@@ -2676,10 +2676,28 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 246000,
       "name": "Paniththuli",
       "url": "https://open.spotify.com/track/6metz7iIwgqgs9ECybGtkj"
+    },
+    {
+      "album": {
+        "name": "Paniththuli (From \"Raangi\")",
+        "url": "https://open.spotify.com/album/4sZW45fmpRBQaYyBObIvUI"
+      },
+      "artists": [
+        {
+          "name": "C. Sathya",
+          "url": "https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241424,
+      "name": "Paniththuli (From \"Raangi\")",
+      "url": "https://open.spotify.com/track/7hWfcWph7C1IzC9IkJJWVU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: Leeray\. Artwork: Isu Kim.
 
-565 songs - 1 day 7 hr 7 min
+566 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Fallen Dynasty](https://open.spotify.com/track/2qNqzPIVh04kg19RITU5By) | [MAYABAYU](https://open.spotify.com/artist/0FHRUJgD0f1jDgAti7uvgI), [Snitch&Fitch](https://open.spotify.com/artist/1wA0yiTr0Nr0xgpfOsthBP) | [Fallen Dynasty](https://open.spotify.com/album/2NKOTbmpxKvvSZVtY10IL5) | 3:51 | 2022-02-24 | 2022-06-17 |
 | [Fast Slow](https://open.spotify.com/track/0qy89dr3XdSj7vWAFZfb3u) | [Narysal](https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908) | [Fast Slow](https://open.spotify.com/album/4I63w2m2k9qIFMDV3MyeeF) | 3:14 | 2022-05-19 | 2022-07-01 |
 | [Feel](https://open.spotify.com/track/2K57EzR21M2VTV1qCEeCa7) | [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [Feel](https://open.spotify.com/album/4v5QB3bRarNaYvTcGzjvpN) | 3:08 | 2022-03-10 | 2022-03-25 |
+| [Feeling It Now](https://open.spotify.com/track/3HTbgCiYfVDY0yt8frTrsK) | [Dudes in Parachutes](https://open.spotify.com/artist/2L2In1jbYcXVTLSg94Kjre) | [Feeling It Now](https://open.spotify.com/album/0sc8lJKnk4lpkJZlVdLrwX) | 4:48 | 2023-11-02 |  |
 | [Feelings](https://open.spotify.com/track/1H1txE9Vz7VsxyxXzd9Rmx) | [Cheryl Cecilia](https://open.spotify.com/artist/1uIhAzc0iASt7q1hVV9d3K) | [Feelings](https://open.spotify.com/album/2jXaAj8duuUuMzj8l37Lqt) | 3:42 | 2022-01-13 | 2022-06-17 |
 | [First Love \(Mirage\)](https://open.spotify.com/track/0GLy5CEf3jW97TIcnsNl6D) | [Kenzo](https://open.spotify.com/artist/0SuCutPHIXvSWi8zk1pXSk), [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251) | [First Love \(Mirage\)](https://open.spotify.com/album/7sdfyiSHBt7lOLWkwjWTDV) | 2:02 | 2023-08-10 |  |
 | [Flames](https://open.spotify.com/track/7fjOByNcJuFByP7iC6uQud) | [Son Of Age](https://open.spotify.com/artist/3xcCu89VCCYd1sBbsnOdiq) | [Flames](https://open.spotify.com/album/4NGZalJqkWWYkqj3T2BNFL) | 4:29 | 2022-01-13 | 2022-03-25 |
@@ -470,7 +471,7 @@
 | [Taxi Fare](https://open.spotify.com/track/62UTUM3McxWoeB3Zo3Abg7) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [mya](https://open.spotify.com/artist/7yLUaQwfD82tNZm2ACAUtb) | [Taxi Fare](https://open.spotify.com/album/4Q9B5EDsCIFhPd3NqltGkO) | 3:36 | 2023-05-26 |  |
 | [Tears](https://open.spotify.com/track/7GHKD3WZblivGmUu5Kn47T) | [Ki Zikry](https://open.spotify.com/artist/28dh27mbtc24Yy62PPpm8t), [Hairi Eyes](https://open.spotify.com/artist/6QSX3GMSIRB7N6NBr28rvH) | [Tears Leave Stains](https://open.spotify.com/album/5sPoxVV66b2nWg9a9vHEqQ) | 3:29 | 2022-01-13 | 2022-06-17 |
 | [Television](https://open.spotify.com/track/01yV1k9qfzNhElFCih2REv) | [SATINA](https://open.spotify.com/artist/2XyAeS3sKheHLul4sxHzt0) | [Television](https://open.spotify.com/album/2EESzMfEC9fFOkaufAfBUR) | 2:40 | 2022-01-13 | 2022-03-25 |
-| [Tell Me](https://open.spotify.com/track/6SDOo7eSMVc1DjvXvakhO2) | [Pearl Abdul](https://open.spotify.com/artist/3dWTwDzCXjlubSFO6GVzWR) | [Tell Me](https://open.spotify.com/album/3uVC45IZwBthRuoeYlzcqU) | 3:20 | 2023-11-02 |  |
+| [Tell Me](https://open.spotify.com/track/6SDOo7eSMVc1DjvXvakhO2) | [Pearl Abdul](https://open.spotify.com/artist/3dWTwDzCXjlubSFO6GVzWR) | [Tell Me](https://open.spotify.com/album/3uVC45IZwBthRuoeYlzcqU) | 3:20 | 2023-11-02 | 2023-11-04 |
 | [Tell Me](https://open.spotify.com/track/513WXSky5M2yDsAzxFXCY0) | [YAN](https://open.spotify.com/artist/6TKGfGsdJUjkGvCoNkZmPT) | [Tell Me](https://open.spotify.com/album/3jksDsm9oV1n0im7ULpuAj) | 3:43 | 2021-12-01 | 2022-01-14 |
 | [Tell Me Of A Place](https://open.spotify.com/track/7mnYc5W92mfKM3PordHDQP) | [Aishia](https://open.spotify.com/artist/4gwVG6OEO2siLODtf7vv6T) | [Tell Me Of A Place](https://open.spotify.com/album/1FajJiiUIl99Q72UrlgBWO) | 3:56 | 2023-06-22 |  |
 | [terminal 8](https://open.spotify.com/track/6IWP1R1MyXt6FXahUlSQtp) | [lauren matienzo](https://open.spotify.com/artist/4B49XZW38ZLZKGRIZ3OTuN) | [terminal 8](https://open.spotify.com/album/0ZwwXJOcvLmq09SvHqWDNJ) | 3:48 | 2023-03-09 | 2023-10-20 |

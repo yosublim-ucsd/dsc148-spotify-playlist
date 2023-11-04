@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Naomi Ivo
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,601 likes - 94 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,603 likes - 94 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 93 | [Hard For U](https://open.spotify.com/track/1R79IpoCUbFSkiKDXMscxs) | [Amsav](https://open.spotify.com/artist/2iSv0qoTjVktDloQ55uC4Q) | [Hard For U](https://open.spotify.com/album/3oG0YQsUlyFNs356Yky6Qf) | 3:37 |
 | 94 | [Bersandarlah](https://open.spotify.com/track/0u027oJwzWopbKeQKDQNfp) | [The Jeblogs](https://open.spotify.com/artist/2uGEBoKHco8L9Pbq99iXmv) | [Bersandarlah](https://open.spotify.com/album/5xD7yap4r8fKqkXdPLVxdB) | 4:20 |
 
-Snapshot ID: `MCxiMjk3NjVhY2E1Nzg0Mjc1MjRlNjZkYTZkODU2MDEzM2Y5NDYyOTA3`
+Snapshot ID: `MCw2MjQ5NGY1NTVlMDlmMWE1MmUwNTdlMTk4YzA3YTZjOTI3MjUxNWNi`

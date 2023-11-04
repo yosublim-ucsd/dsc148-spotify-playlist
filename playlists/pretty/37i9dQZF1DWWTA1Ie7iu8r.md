@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTA1Ie7iu8r.md) - [plain]
 
 > Get your creep on with these freaky 'love' songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,987 likes - 56 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,031 likes - 56 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTA1Ie7iu8r.md) - [plain]
 | 37 | [\#1 Crush \- Nellee Hooper Mix](https://open.spotify.com/track/08L1WAtYQnsFBoZ3MEBkYV) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q), [Nellee Hooper](https://open.spotify.com/artist/1l7aiSjBGkQiyTuQYTigAP) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:50 |
 | 38 | [Dead in the Water](https://open.spotify.com/track/2VHMbDcuKELIqvB7bh1QhE) | [SPELLES](https://open.spotify.com/artist/76UfJrb52tTTiDQNWEeCBY) | [Dead in the Water](https://open.spotify.com/album/5MhrlWBZnRVQrTIRzKkElX) | 3:09 |
 | 39 | [Spooky](https://open.spotify.com/track/5z4iT44mMHyZozsTFy4A51) | [Classics IV](https://open.spotify.com/artist/6XGJvNG372fPJ2TV2OoN0Z) | [Best Of](https://open.spotify.com/album/1Tt7kLJ0EC4t8w3D4WyySr) | 2:55 |
-| 40 | [Where the Wild Roses Grow \- 2011 \- Remaster](https://open.spotify.com/track/3OwtuzRo8mc7lgsBau9MWk) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(2011 Remastered Version\)](https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW) | 3:57 |
+| 40 | [Where the Wild Roses Grow](https://open.spotify.com/track/4LK8kGGY0FGSGIAk2GwI30) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(2011 \- Remaster\)](https://open.spotify.com/album/4E31tK5BolK5vmupVWHsva) | 3:57 |
 | 41 | [Father Figure](https://open.spotify.com/track/0SCk8WpBKSvK6QkSyixRAY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:40 |
 | 42 | [hell is where i dreamt of u and woke up alone](https://open.spotify.com/track/1PcU7Qy3VUgeYaByCThdm9) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [digital druglord](https://open.spotify.com/album/0a8WSH44kA5hR4MQ6LyFDB) | 2:48 |
 | 43 | [I'm Gonna Getcha Good](https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 4:29 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTA1Ie7iu8r.md) - [plain]
 | 55 | [Love Song for a Vampire](https://open.spotify.com/track/3ik79qXV15D3ae33uveasw) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [The Annie Lennox Collection](https://open.spotify.com/album/6VXTaHgpeG2fZDwyHsn6eJ) | 4:19 |
 | 56 | [Die, Die My Darling](https://open.spotify.com/track/4Rme8TxEaNV09wp64AWd2y) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Collection](https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10) | 3:09 |
 
-Snapshot ID: `MCwwOTI2ZDdmMTllNjgwZWM0NDk0MjJmZjk1N2M2YWU3YzA2YTg2MDgx`
+Snapshot ID: `MCw5NTMwYmM1NjE4YmMyN2NjZDQ2ZDBmOWFkZTQ1ZWIzOWZkNjNhMTE5`

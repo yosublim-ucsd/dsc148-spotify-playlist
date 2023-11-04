@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,781 likes - 85 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,082 likes - 85 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 32 | [Cry Wolf](https://open.spotify.com/track/7wc3vDNk30wsPhq8rsjcdq) | [Lisa Germano](https://open.spotify.com/artist/5TZqjmYL8p9HtJsBKXCxgE) | [Geek the Girl](https://open.spotify.com/album/1yZ4bCBoDk01rxjefcoUzq) | 4:59 |
 | 33 | [New Partner](https://open.spotify.com/track/6N3NBd2vrhbH5m8ZHFO6xI) | [Palace Music](https://open.spotify.com/artist/2l7DkzVuYJW700mR7r43un) | [Viva Last Blues](https://open.spotify.com/album/4janwzxTDaebBxPK4mRcWF) | 3:54 |
 | 34 | [Our Way to Fall](https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:18 |
-| 35 | [Life on Earth](https://open.spotify.com/track/1auVRfsbR30fKYv2m7KmJi) | [Tiny Vipers](https://open.spotify.com/artist/4kgIlus6ToyP9mUHoIvLtc) | [Life On Earth](https://open.spotify.com/album/28D7r9JZELsUNdDzNR12q3) | 10:12 |
+| 35 | [Life On Earth](https://open.spotify.com/track/6heroFdN4whSGI7BJPhdaU) | [Tiny Vipers](https://open.spotify.com/artist/4kgIlus6ToyP9mUHoIvLtc) | [Life On Earth](https://open.spotify.com/album/6K0eSY9ZzP6zIvMUccKtE9) | 10:12 |
 | 36 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
 | 37 | [So Much Water](https://open.spotify.com/track/0J5jztzHjt08li8Lurpi2j) | [Tacoma Radar](https://open.spotify.com/artist/0qhbCDBSjvtKJXyujrFdHP) | [No One Waved Goodbye](https://open.spotify.com/album/3FL15PhmhsId7fKeYS0iVm) | 3:33 |
 | 38 | [Montana](https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 3:20 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 84 | [nail i couldn't bite](https://open.spotify.com/track/4ab7TT8m06fhTVN17wPXik) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [Hypnic Jerks](https://open.spotify.com/album/6YaOkSQMqAc3ZIK9s5YzEM) | 5:15 |
 | 85 | [Lullaby](https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 9:49 |
 
-Snapshot ID: `MCxiZTEwM2Y0NDg0MjI0YTMyYTZiOTMyYTIwZjMzNGIxZjVhZmM5NzVk`
+Snapshot ID: `MCwyM2U5ZmM2ZGQ1Y2MyNzRmY2E3MDU4MTYxZjkwNDdlYWRiZTYwZmQ3`

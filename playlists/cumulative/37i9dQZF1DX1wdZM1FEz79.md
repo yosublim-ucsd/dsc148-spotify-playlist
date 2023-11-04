@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Won Tae Rim\(원태림\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: WOO JEE WON\(우지원\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.\)
 
-471 songs - 1 day 4 hr 2 min
+472 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Chilly Weather](https://open.spotify.com/track/7JWODJwvHmmTUsvr0YypZS) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Chilly Weather](https://open.spotify.com/album/3QAqYe4w6LlWJBg1svzIhG) | 3:39 | 2022-03-31 | 2022-04-02 |
 | [Close Your Eyes](https://open.spotify.com/track/7Lf3MxufBeAg6ZSKlut8wZ) | [Bam Soo Sung](https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy) | [Close Your Eyes](https://open.spotify.com/album/5D8tcWOfpWfIoLG075ptmG) | 3:32 | 2022-03-31 | 2022-04-14 |
 | [Cloud](https://open.spotify.com/track/2C8ISWwVLF8t2b55GJrikc) | [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [Cloud](https://open.spotify.com/album/2sBqBMbztnyHxhDHI8JbCP) | 2:47 | 2022-03-31 | 2022-04-21 |
-| [Clover](https://open.spotify.com/track/6KboAbHVBi95z5UAkeaJV6) | [Won Tae Rim](https://open.spotify.com/artist/4d6JLYUpsguDgSmUSmbi50) | [Clover](https://open.spotify.com/album/7F0h3aAEjQdQIZrLO4Lz95) | 3:46 | 2023-10-27 |  |
+| [Clover](https://open.spotify.com/track/6KboAbHVBi95z5UAkeaJV6) | [Won Tae Rim](https://open.spotify.com/artist/4d6JLYUpsguDgSmUSmbi50) | [Clover](https://open.spotify.com/album/7F0h3aAEjQdQIZrLO4Lz95) | 3:46 | 2023-10-27 | 2023-11-04 |
 | [Coffee Song \- Korean Version](https://open.spotify.com/track/0aWNMpUMgsy6erqUlft9Pw) | [임백천](https://open.spotify.com/artist/6LqtnFuXA9qt2dVmxHckoa) | [New Way](https://open.spotify.com/album/3v5zdvdUOz1sRYxN2fYSPL) | 2:52 | 2022-03-31 | 2022-04-21 |
 | [come as you are](https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:28 | 2021-12-10 | 2022-07-25 |
 | [Come With Me](https://open.spotify.com/track/61TR2Po5oS5cd5G0EUZ15n) | [INTHEPACK](https://open.spotify.com/artist/2jJa2tYxYmNtGYlxOqI0Il) | [Come With Me](https://open.spotify.com/album/5YV0DJWurTmtcKASwb6WH2) | 3:31 | 2022-03-31 | 2022-04-19 |
@@ -166,6 +166,7 @@
 | [I Miss You](https://open.spotify.com/track/3UmMsNGBhI8tETHEPTEDmX) | [BBAhn](https://open.spotify.com/artist/3WAl6fRK6T9akrM3Cdl4ki) | [I Miss You](https://open.spotify.com/album/63FplSftSgYczV6JYb3Xw7) | 3:17 | 2022-03-31 | 2022-04-10 |
 | [I Miss You](https://open.spotify.com/track/0nF3xRy0k9fxRoi3OliAdW) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [I Miss You](https://open.spotify.com/album/11jHxIFQPqV7Y0hKxjc4TC) | 3:24 | 2021-12-10 | 2022-07-11 |
 | [I said](https://open.spotify.com/track/0OqIypFPfrwEqyTsVVwboN) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW) | [ENTP](https://open.spotify.com/album/3CVo9XNjQnuNI0cBHfAhBY) | 2:54 | 2022-01-13 | 2022-06-07 |
+| [I said I love you](https://open.spotify.com/track/6o8LGsALvRgiaGdHsh6Uy1) | [WOO JEE WON](https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU) | [Homeground](https://open.spotify.com/album/3S4IGPlVVFQlZKes6duYVZ) | 3:55 | 2023-11-03 |  |
 | [I Wanna Be With You](https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp) | 3:24 | 2022-01-13 | 2022-06-12 |
 | [I Wanna Fall in Love](https://open.spotify.com/track/1SitWmav8K9bEn1f23anqO) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Five Love Stories](https://open.spotify.com/album/7lBSwclU4wPfktweIkfQxH) | 5:05 | 2022-04-12 | 2022-04-15 |
 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 | 2021-12-10 | 2022-07-27 |

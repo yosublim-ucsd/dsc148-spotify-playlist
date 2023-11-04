@@ -2304,10 +2304,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 282286,
       "name": "Pa Que Me Llamas - Salsa",
       "url": "https://open.spotify.com/track/1KPQ6OqugaSNd6gQSHCYWZ"
+    },
+    {
+      "album": {
+        "name": "Dispuesto a Todo",
+        "url": "https://open.spotify.com/album/0YEU0pTqI6vcWHJ6EgBbaY"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285001,
+      "name": "Pa Que Me Llamas - Salsa",
+      "url": "https://open.spotify.com/track/5lC7UYPXpj6uMkwh6qKPFl"
     },
     {
       "album": {

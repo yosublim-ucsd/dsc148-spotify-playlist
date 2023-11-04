@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Leo
 
-157 songs - 10 hr 32 min
+158 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Paathi Nee Paathi Naan \(From "Nitham Oru Vaanam"\)](https://open.spotify.com/track/670iKfSnpak9BdFsrArKSB) | [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6) | [Paathi Nee Paathi Naan \(From "Nitham Oru Vaanam"\)](https://open.spotify.com/album/6Jjewe3aw0BpZDtkssx7ZG) | 6:10 | 2022-10-27 | 2022-11-06 |
 | [Pacha Elai](https://open.spotify.com/track/5jmW454u8igkIgEVgvfSOE) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG) | [Love Today \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0) | 3:30 | 2023-01-04 |  |
 | [Paniththuli](https://open.spotify.com/track/4kAPPLHQaAzKBjhgURUYKL) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Raangi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20nZf9JmukKgEA5dlqiYED) | 4:06 | 2022-12-30 | 2023-05-14 |
-| [Paniththuli](https://open.spotify.com/track/6metz7iIwgqgs9ECybGtkj) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Paniththuli \(From "Raangi"\)](https://open.spotify.com/album/6VBOZuDjUWgOYzDTSlxOGC) | 4:06 | 2022-12-30 |  |
+| [Paniththuli](https://open.spotify.com/track/6metz7iIwgqgs9ECybGtkj) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Paniththuli \(From "Raangi"\)](https://open.spotify.com/album/6VBOZuDjUWgOYzDTSlxOGC) | 4:06 | 2022-12-30 | 2023-11-04 |
+| [Paniththuli \(From "Raangi"\)](https://open.spotify.com/track/7hWfcWph7C1IzC9IkJJWVU) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed) | [Paniththuli \(From "Raangi"\)](https://open.spotify.com/album/4sZW45fmpRBQaYyBObIvUI) | 4:01 | 2022-12-30 |  |
 | [Poo Naazhi Pon Naazhi](https://open.spotify.com/track/2ddAL5odtsiKTfU6PecuyB) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Aneethi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2u1lMoLC0x8N06974LzwwB) | 3:15 | 2023-07-12 | 2023-09-19 |
 | [Raati](https://open.spotify.com/track/0iZ70iS3InwGoVyH1WBIl2) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D), [Swagatha](https://open.spotify.com/artist/3fX6I5TxaX7VusdmICwfy4) | [Partner \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ImbNeAxzmYKi5JtcAhVEQ) | 4:18 | 2022-03-30 |  |
 | [Railin Oligal \- From "Blue Star"](https://open.spotify.com/track/5Y7Y315vZkOZbesJ22jXkK) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Railin Oligal \(From "Blue Star"\)](https://open.spotify.com/album/6SgtjBVtmhTI84jWMyQlFC) | 2:37 | 2023-09-29 |  |

@@ -4,7 +4,7 @@
 
 > Les plus grands hits français des années 90\. Photo: Manau
 
-50 songs - 3 hr 31 min
+51 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [La corrida \- Remastered](https://open.spotify.com/track/5MtP6QGoOkA1L5ynZyQEiv) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 5:42 | 2023-02-28 |  |
 | [La neige au Sahara](https://open.spotify.com/track/4r9u9QK7KOEXgOmt3hs57g) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Au Nom De La Lune](https://open.spotify.com/album/3V6bGCv4wGLpbUsVn4kfMC) | 4:18 | 2023-02-28 |  |
 | [La tribu de Dana](https://open.spotify.com/track/64gCM9yZv2jpNflclKUnXu) | [Manau](https://open.spotify.com/artist/6k68jYvlUy3CXOwhG1NDBL) | [Panique Celtique](https://open.spotify.com/album/1i7e6Cu4N6zhbhvJ4lNw6G) | 4:47 | 2023-02-28 |  |
-| [Le jerk](https://open.spotify.com/track/0jgkWa8bV8PpMk7Tv0eKrw) | [Thierry Hazard](https://open.spotify.com/artist/21h26EWdy9snENqbeAZorA) | [Pop music](https://open.spotify.com/album/4kXEX9aGGUH0JdFmBLcZ1s) | 3:55 | 2023-02-28 |  |
+| [Le Jerk](https://open.spotify.com/track/0YJjl4SSIBx3h7L5M9OgiG) | [Thierry Hazard](https://open.spotify.com/artist/21h26EWdy9snENqbeAZorA) | [Pop music](https://open.spotify.com/album/5MTZgfb9sPyDgQiitaxOhT) | 3:55 | 2023-02-28 |  |
+| [Le jerk](https://open.spotify.com/track/0jgkWa8bV8PpMk7Tv0eKrw) | [Thierry Hazard](https://open.spotify.com/artist/21h26EWdy9snENqbeAZorA) | [Pop music](https://open.spotify.com/album/4kXEX9aGGUH0JdFmBLcZ1s) | 3:55 | 2023-02-28 | 2023-11-04 |
 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 | 2023-02-28 |  |
 | [Le pouvoir des fleurs](https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Caché derrière](https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia) | 3:35 | 2023-02-28 |  |
 | [Le temps des cathédrales](https://open.spotify.com/track/3YGu8R8qOorKrfhpdeluyW) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Notre Dame de Paris \- Comédie musicale \(Complete Version In French\)](https://open.spotify.com/album/4UAJqzCC5BhqqVDFdsbd5K) | 3:22 | 2023-02-28 |  |

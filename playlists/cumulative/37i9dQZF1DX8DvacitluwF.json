@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE?si=OFuCTSgFTWKQJZwmSAiNNg\">Kaien Cruz</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P?si=Zu4IeIfPRYi5bev6bAC_fw\">Rowlene</a>",
   "name": "BlueZA",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 157714,
       "name": "ALL4U",
       "url": "https://open.spotify.com/track/72sdW7Bn1bcSzD1eoBVgBM"
+    },
+    {
+      "album": {
+        "name": "ANOTHER DAY",
+        "url": "https://open.spotify.com/album/5dvWUnnWGf6nOTmHyAyHci"
+      },
+      "artists": [
+        {
+          "name": "The Big Hash",
+          "url": "https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "ANOTHER DAY",
+      "url": "https://open.spotify.com/track/5dBYom00qPTPPbMEosBt49"
     },
     {
       "album": {
@@ -366,6 +384,24 @@
       "duration_ms": 191020,
       "name": "Down",
       "url": "https://open.spotify.com/track/5PcO9uuhPX9PcdPC0SMDmz"
+    },
+    {
+      "album": {
+        "name": "DRINK CHAMPS",
+        "url": "https://open.spotify.com/album/1rsnNjPDTYFUtjtE95m2Ph"
+      },
+      "artists": [
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140606,
+      "name": "DRINK CHAMPS",
+      "url": "https://open.spotify.com/track/6krwmAVXbzAcGWVYhLCf8j"
     },
     {
       "album": {
@@ -993,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Only You - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166670,
+      "name": "Only You - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg"
+    },
+    {
+      "album": {
         "name": "I Left My Heart In Ladera",
         "url": "https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN"
       },
@@ -1106,6 +1160,28 @@
       "duration_ms": 130968,
       "name": "She'll Be Ok",
       "url": "https://open.spotify.com/track/0jTkg3fBydDh9jLEFMzigq"
+    },
+    {
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/0GnipIQCgYKtWD6BP0xYie"
+      },
+      "artists": [
+        {
+          "name": "Mars Baby",
+          "url": "https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri"
+        },
+        {
+          "name": "lordkez",
+          "url": "https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/39KMqRO39T7yjijC8Hbkkg"
     },
     {
       "album": {
@@ -1332,6 +1408,24 @@
       "duration_ms": 176386,
       "name": "till forever ends",
       "url": "https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX"
+    },
+    {
+      "album": {
+        "name": "unavailable",
+        "url": "https://open.spotify.com/album/2oFq1QGFW93X67u7ULSGiS"
+      },
+      "artists": [
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "unavailable",
+      "url": "https://open.spotify.com/track/0vZftmvBo1YcSkqocT3BUk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-327 songs - 21 hr 58 min
+328 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,8 @@
 | [You're Gonna Be Sorry](https://open.spotify.com/track/66lsfUDfroN998Sau6OkIp) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/5Fo1fjBqdMpJcZfROBZI5x) | 2:46 | 2023-03-31 | 2023-05-13 |
 | [You're Gonna Need A Man Like Me](https://open.spotify.com/track/3yJqeKCbC15jZ59DKIfGbf) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [You're Gonna Need A Man Like Me](https://open.spotify.com/album/1D9Lwk9jT5TKczBI9f72Xy) | 3:49 | 2023-07-28 | 2023-08-19 |
 | [You've Been Cheatin'](https://open.spotify.com/track/52oE03gZSG2HSl6pOXWGaA) | [Omar Coleman](https://open.spotify.com/artist/7ygsLcqnNFW2UHy4rWWT56), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [You've Been Cheatin'](https://open.spotify.com/album/1xsH8xPrguqeXMgn6ftCaT) | 3:03 | 2021-10-08 | 2023-06-17 |
-| [Your Funeral And My Trial \(feat\. Jontavious Willis\)](https://open.spotify.com/track/1lXBtfCrfh2vl87o45yPDN) | [Tracy Nelson](https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS), [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Life Don't Miss Nobody](https://open.spotify.com/album/28gauff9JHiO1Co73MvUnP) | 3:38 | 2023-06-09 |  |
+| [Your Funeral And My Trial \(feat\. Jontavious Willis\)](https://open.spotify.com/track/1lXBtfCrfh2vl87o45yPDN) | [Tracy Nelson](https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS), [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Life Don't Miss Nobody](https://open.spotify.com/album/28gauff9JHiO1Co73MvUnP) | 3:38 | 2023-06-09 | 2023-11-04 |
+| [Your Funeral And My Trial \(feat\. Jontavious Willis\)](https://open.spotify.com/track/5zsx82pfF01savxcPjBIr4) | [Tracy Nelson](https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS), [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Life Don’t Miss Nobody](https://open.spotify.com/album/6wLNDDWOMPE9leLWmhDw7C) | 3:38 | 2023-06-09 |  |
 | [’62 Chevy](https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be...](https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S) | 3:28 | 2022-01-21 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

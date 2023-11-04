@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Sadturs, KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,469 likes - 49 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,496 likes - 49 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 48 | [Passaggi Di Mano](https://open.spotify.com/track/4J1mgFkAYXbDV2Zm2X1LlB) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Passaggi Di Mano](https://open.spotify.com/album/078xzTGG29Ef2GowUOGWDt) | 2:24 |
 | 49 | [Carhartt \(feat\. Kuremino\)](https://open.spotify.com/track/4SluBeyc807T4WowzQgILG) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Carhartt \(feat\. Kuremino\)](https://open.spotify.com/album/5dlmCQA1unPeHuiwfHatwP) | 2:20 |
 
-Snapshot ID: `MCxlNDBiOTk0ODJjODg0MmMzMGZmMzE3ZDZiMDc5MDk0ZTVmYTlkYzky`
+Snapshot ID: `MCw4ODM4OGY1NDVkZTMxMjEzNzY5NDQyYzI3MmNiYzM1YTNlMjhmZDcz`

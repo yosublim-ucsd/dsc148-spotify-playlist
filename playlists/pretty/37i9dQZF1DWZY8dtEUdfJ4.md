@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,992 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,056 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 7 | [Nathalie](https://open.spotify.com/track/1ul9ZfkWWeAjA3HiRwK4Op) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Gilbert Becaud \(1964\-1966\) \[2011 Remastered\] \[Deluxe version\]](https://open.spotify.com/album/0bqhxtnErNPLd6Ez7GqBJF) | 4:05 |
 | 8 | [Comme un garçon](https://open.spotify.com/track/5ofzziyodcinKtsUghFLHK) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/1fFyiprMSDBSNeExoiIuTH) | 3:16 |
 | 9 | [Elle était si jolie](https://open.spotify.com/track/6m0s4XFYpE1h63NaP6hBA9) | [Alain Barrière](https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW) | [Ma vie](https://open.spotify.com/album/31gjzol0KDwj04HxJ4mXqN) | 2:55 |
-| 10 | [Aline](https://open.spotify.com/track/1N4ixxhbBH1ClnPdTTsRzz) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Aline](https://open.spotify.com/album/0R5sCENJleZp9oxN9JcXgR) | 2:49 |
+| 10 | [Aline](https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 2:50 |
 | 11 | [La madrague](https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:35 |
 | 12 | [L'amour l'amour l'amour](https://open.spotify.com/track/7jVHD6NiChZGX887WrNBrH) | [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [L'amour, l'amour, l'amour \- Le meilleur de Mouloudji](https://open.spotify.com/album/1B1HpA7dQsnlhub9eiFIgo) | 3:01 |
 | 13 | [Le métèque](https://open.spotify.com/track/2s87dcsw2KjuhDnVqJ98Cu) | [Georges Moustaki](https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG) | [Le métèque](https://open.spotify.com/album/3VONguYy652EV7N4KFH4LF) | 2:33 |
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 22 | [Jolie môme](https://open.spotify.com/track/0cJSWKB0XV6B4zSFzTtS6b) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Leo Chante Ferre](https://open.spotify.com/album/0staVF20KfnK1HCYJLNSsf) | 2:39 |
 | 23 | [La montagne](https://open.spotify.com/track/6ninjFrpTv2rmMfrNFTRq7) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La montagne 1964](https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg) | 3:05 |
 | 24 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 |
-| 25 | [Dis, quand reviendras\-tu? \- Version Mono](https://open.spotify.com/track/3mMTwWe7EyCK6q1QDnYRPt) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [Dis, quand reviendras\-tu?](https://open.spotify.com/album/3ecKUAJq4ELtrEyngrOK7Z) | 2:54 |
+| 25 | [Dis, quand reviendras\-tu? \(Version Mono\)](https://open.spotify.com/track/5dkyX0uoAJivoYVDg63Nk0) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [Dis, quand reviendras\-tu?](https://open.spotify.com/album/4y3CH1eDVuX6ILyAoVxMjA) | 2:54 |
 | 26 | [Les jolies colonies de vacances](https://open.spotify.com/track/1EBRccpQwsdgKHDkzOgAtp) | [Pierre Perret](https://open.spotify.com/artist/3IZrUS6JZOX0mULDy0QPra) | [L'âge de pierre](https://open.spotify.com/album/7wnjaC11wm2UDP3H17A8Qp) | 3:49 |
 | 27 | [Adieu mon pays](https://open.spotify.com/track/3yfXhVUqaITS8azqXyzPWQ) | [Enrico Macias](https://open.spotify.com/artist/1n1k5yFQxYhohOmSWVmTo6) | [Ses Plus Belles Chansons](https://open.spotify.com/album/4sEwk02QPn9VSVGCRX6mUh) | 2:46 |
 | 28 | [Armstrong](https://open.spotify.com/track/1V021MMTOGURDZxkDBMaG9) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Jazz Et Java](https://open.spotify.com/album/0Becl0XzJp8Z1zunK1vdrn) | 3:17 |
 | 29 | [Les Champs\-Elysées](https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 2:37 |
-| 30 | [La gadoue](https://open.spotify.com/track/01Jj7OZyAz2AmUPjT41tCC) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/3tZV6fFNYUXa3HUFaT7Xhz) | 2:54 |
+| 30 | [La gadoue](https://open.spotify.com/track/02vSEHTmzmS2Ha0CkLZy7n) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Les Annees Petula](https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR) | 2:54 |
 | 31 | [J'ai la mémoire qui flanche](https://open.spotify.com/track/4aoEEEgpE9rYgEUXnjlGD4) | [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Le tourbillon de ma vie \(Best Of 2017\)](https://open.spotify.com/album/6gRQtl64VsWWTh26IuNoGP) | 2:23 |
 | 32 | [Bonnie And Clyde](https://open.spotify.com/track/1bQEtxhbN45ZIiwcJiU1Lw) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy), [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Initials B.B.](https://open.spotify.com/album/6kU0UT8xklbfy6Z5pXDtSU) | 4:16 |
 | 33 | [Santiano](https://open.spotify.com/track/5xacwJHf9yLJKCn5JjSiRz) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 2:12 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 36 | [Les filles de mon pays](https://open.spotify.com/track/2n5pxfXa9atiFBwsexG5sF) | [Enrico Macias](https://open.spotify.com/artist/1n1k5yFQxYhohOmSWVmTo6) | [Enfants de tous pays](https://open.spotify.com/album/6UYWhcKky2fdgFF7KNTVvV) | 2:31 |
 | 37 | [Les elucubrations d'Antoine](https://open.spotify.com/track/2yHTeToSYvVE9FuUO3uwHe) | [Antoine](https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1) | [Cuentame](https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs) | 3:26 |
 | 38 | [Vesoul](https://open.spotify.com/track/2F94KDtJjCdzZYCQWBliRC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [J'Arrive \(Vol.12\)](https://open.spotify.com/album/75JBZy6ctvayGftnldYMzZ) | 3:06 |
-| 39 | [La plus Belle pour Aller Danser](https://open.spotify.com/track/1V8V3UYeX2Est81MMucvJC) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [A Nashville](https://open.spotify.com/album/1MmmmrUViWnOkzlxLTYQzq) | 2:29 |
+| 39 | [La plus belle pour aller danser](https://open.spotify.com/track/7gmYsqbN1hrrSOsxNlvq4W) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Sylvie Vartan](https://open.spotify.com/album/06FWWMSdXEmoQaBrTihM0B) | 2:36 |
 | 40 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/2CLeotsLhEUu0qkj56vbUj) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Il est cinq heures](https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK) | 2:55 |
 | 41 | [Ivan, Boris et moi](https://open.spotify.com/track/1SkYwxD8JDtrQUBbdS2eGO) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Marie](https://open.spotify.com/album/38QCHcOkMQqJPrYUpv1jIv) | 2:16 |
 | 42 | [For Me Formidable](https://open.spotify.com/track/7xx7mUGAPcMd6gGqHzoec9) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Qui ?](https://open.spotify.com/album/70PEHw90vbLwoHMFBEbI3x) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY8dtEUdfJ4.md) - [plain]
 | 49 | [D'aventures en aventures](https://open.spotify.com/track/5Dy32R8nCKyoPcLlfkwbNW) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [A La Vie, A L'Amour](https://open.spotify.com/album/1ShHXfJDZw4qbbr0t69rvs) | 3:30 |
 | 50 | [Chez Laurette](https://open.spotify.com/track/5wFRjYT36LES0ks92OeXyD) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Chez Laurette](https://open.spotify.com/album/0Jk7WSIVTnppDevKYjEpOv) | 3:29 |
 
-Snapshot ID: `MCwzYjNjOWE3MjhmMzIyNDRmYTEwOTU3NDM5OTJiNWYyODk0ZGY1ZjVj`
+Snapshot ID: `MCw2NDg5ZjlhMjJhM2E5OWRlMjYzMTE3MzFhMDU1ZjAyMDgzMDBhMjE2`

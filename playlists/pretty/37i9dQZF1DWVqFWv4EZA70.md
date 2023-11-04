@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 
 > Beats que le suben el ánimo a tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,415 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,470 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 39 | [First Responders](https://open.spotify.com/track/1ux778Ljln0QEitz2fB4PH) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 4:49 |
 | 40 | [It's All Over But the Crying \(Instrumental\)](https://open.spotify.com/track/1WrQreMyy7L97MUSdS01xu) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Faithful Man \(Instrumentals\)](https://open.spotify.com/album/1mtrVXhx0JBuv53GqqJbiG) | 4:09 |
 | 41 | [You fly me](https://open.spotify.com/track/5R4q6bsvAChmt1icAE1EWh) | [Fingathing](https://open.spotify.com/artist/7l9MYefk0544OMaA9wIPDW) | [Hôtel Costes 6](https://open.spotify.com/album/1VxdV8gGNW9JAdZ7yak3c0) | 2:52 |
-| 42 | [Someone Like You \(Instrumental\)](https://open.spotify.com/track/64GFQFCscymlV0uCbo4qlu) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj) | 4:09 |
+| 42 | [Someone Like You \(Instrumental\)](https://open.spotify.com/track/2TBqVSt1n7v9d0tc5uOwd0) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/3bgCu5Lk4saMzZrtDMX118) | 4:09 |
 | 43 | [Da Feelin](https://open.spotify.com/track/2eV5tSdlAqNQIHRzHUMsXe) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Thought So…](https://open.spotify.com/album/6eRbwkfRJkEWTdNQ7NL3rT) | 4:41 |
 | 44 | [Headspace](https://open.spotify.com/track/6CkTv37VYslWD9igy0pVDG) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Headspace](https://open.spotify.com/album/1hEyaZG3Y4JqrJhWtZMEtz) | 2:13 |
 | 45 | [Love Is Real](https://open.spotify.com/track/2jc8OuPiEPg8T5DhsiRmfk) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Sincere](https://open.spotify.com/album/0ZQYqKHB95vUfquyaFgJUW) | 3:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 59 | [Whatuptho \(Instrumental\)](https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY) | [9th Wonder & Murs](https://open.spotify.com/artist/3tf9lKXejZeU5gzGvRK5zj) | [The Final Adventure \(Instrumentals\)](https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk) | 3:35 |
 | 60 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 |
 
-Snapshot ID: `MCxkNDMyODI5ZDkwYzM4YjgzMjI3NTAxOGIzYjZiOWQ5M2M0ZjYwM2Jm`
+Snapshot ID: `MCxiNGNmNzVjNmRlNmRkZDllYjk3N2JmMTY1MzBjN2VmNmE0M2MwYWI4`

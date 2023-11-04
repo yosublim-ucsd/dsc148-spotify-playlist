@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Lenny Tavárez
 
-324 songs - 18 hr 57 min
+326 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 | 2023-03-17 | 2023-08-23 |
 | [Ay, Ay, Ay](https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ay, Ay, Ay](https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD) | 3:28 | 2023-06-16 |  |
 | [Ayúdame](https://open.spotify.com/track/2pG8Bmm5lpk38fxeZRkvqT) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 2:44 | 2023-08-04 | 2023-09-02 |
+| [BACANO](https://open.spotify.com/track/7Bm8KAA3mcGu26Vnss7A4f) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [BACANO](https://open.spotify.com/album/6EdNPd2hYgS4AkTk1BNsS0) | 3:10 | 2023-11-03 |  |
 | [Bachata Blue](https://open.spotify.com/track/4o24fPjYFIONeqAMtZIoYr) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Bachata Blue](https://open.spotify.com/album/2Id90GOl0vizaORLB1bzoy) | 3:15 | 2022-02-11 | 2022-06-30 |
 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 | 2022-01-01 | 2023-03-11 |
 | [Bailame Con Actitud \(Blue Suede Shoes\) \- Salsa Version](https://open.spotify.com/track/2ogw5CX5Pxdr6MXYUYcjd5) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [El Revulú](https://open.spotify.com/artist/7K1bbLxw75tGqQXDjByXNs) | [Bailame Con Actitud \(Blue Suede Shoes\) \[Salsa Version\]](https://open.spotify.com/album/13BoMwBMd3tMkOb5iSVwHu) | 3:15 | 2023-08-18 | 2023-10-14 |
@@ -64,6 +65,7 @@
 | [Cobarde](https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Cobarde](https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ) | 3:51 | 2022-02-23 | 2023-01-17 |
 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 | 2023-10-13 |  |
 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 | 2023-06-09 |  |
+| [Como Me Enamora](https://open.spotify.com/track/0sfmSL1hL81nrGZXDHpQvH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Radio Güira](https://open.spotify.com/album/3gMqG4ClTg0tjJGBCVx9UH) | 3:11 | 2023-11-03 |  |
 | [Como Serían Mis Días](https://open.spotify.com/track/6rOq6bFs9qaZrvJ9BD7ajt) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Como Serían Mis Días](https://open.spotify.com/album/1KTXjjEje5a5piCQPfBicv) | 2:32 | 2023-09-15 | 2023-10-14 |
 | [Compañera](https://open.spotify.com/track/1ncBiXsWxn69eLehmw0L59) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [The Romanze, Pt\. II](https://open.spotify.com/album/35ofKzduahGPv43eAtprrJ) | 3:40 | 2022-06-29 | 2023-01-14 |
 | [Compañera](https://open.spotify.com/track/4LalayMtx5CXPZsgFmfj6Q) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Compañera](https://open.spotify.com/album/0uPrUduyf1VaC7GqmfG70R) | 3:40 | 2022-03-25 | 2023-01-14 |
@@ -109,8 +111,8 @@
 | [El Jala Jala \- Remix](https://open.spotify.com/track/5FAKHrmhsggTdqyCtML3u6) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [El Jala Jala \(Remix\)](https://open.spotify.com/album/2Y9QFIbAvw7w9q46GBhXzf) | 2:42 | 2022-01-28 | 2022-06-30 |
 | [El Malecón Vio el Final](https://open.spotify.com/track/6tx5V273Y6muqSkOTiyZEj) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D), [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa) | [El Malecón Vio el Final](https://open.spotify.com/album/0cXowypQNuZ8P4t5NmVmAV) | 4:33 | 2022-03-25 | 2022-06-30 |
 | [El Me Mintio](https://open.spotify.com/track/7wu15FnrKjvMP3GXANoo2f) | [Jae Camilo](https://open.spotify.com/artist/40S2INZWrAhcI6NlpY7mwC) | [El Me Mintio](https://open.spotify.com/album/5rcxrwf0ngHnF2WSxuPVwp) | 3:05 | 2022-03-25 | 2022-06-30 |
-| [El Merengue](https://open.spotify.com/track/6lpGP2JvV7grJ8LBZ5obQS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:09 | 2023-03-24 |  |
-| [el paso](https://open.spotify.com/track/6nu7Fpg5sarNYs8ElOozRQ) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [el paso](https://open.spotify.com/album/5QBjcz2tdsRVsmPtmg8h5Z) | 3:05 | 2023-08-11 |  |
+| [El Merengue](https://open.spotify.com/track/6lpGP2JvV7grJ8LBZ5obQS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:09 | 2023-03-24 | 2023-11-04 |
+| [el paso](https://open.spotify.com/track/6nu7Fpg5sarNYs8ElOozRQ) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [el paso](https://open.spotify.com/album/5QBjcz2tdsRVsmPtmg8h5Z) | 3:05 | 2023-08-11 | 2023-11-04 |
 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 | 2023-04-28 |  |
 | [EL YATE \(feat\. Sergio George\) \- Versión Salsa](https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [EL YATE \(feat\. Sergio George\) \[Versión Salsa\]](https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1) | 3:13 | 2023-10-27 |  |
 | [ELLA TIENE](https://open.spotify.com/track/31YHWv22Lyv9iKBepk3guM) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [ELLA TIENE](https://open.spotify.com/album/0VSnZVbjbufIZYKwy3Rafu) | 3:16 | 2023-09-15 |  |

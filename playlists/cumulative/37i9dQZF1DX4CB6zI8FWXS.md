@@ -4,12 +4,13 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Lucky Daye
 
-266 songs - 14 hr 22 min
+268 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(wanna vibe\) with you](https://open.spotify.com/track/16Hfgakfi5BH52Uq6giV9P) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [\(wanna vibe\) with you](https://open.spotify.com/album/4CiHbABkYhLKYNtlB4ifla) | 3:02 | 2023-10-26 |  |
 | [10,000 reasons](https://open.spotify.com/track/0gOp375c3yrCY4XkiqsBIX) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [10,000 reasons](https://open.spotify.com/album/6kH4zeh04UPgsBrEpvNfmu) | 2:27 | 2023-03-16 | 2023-04-07 |
+| [1738 \(feat\. Coi Leray\)](https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm) | 3:50 | 2023-11-02 |  |
 | [2016](https://open.spotify.com/track/7nQdpfYzWAZ48Q2IcmrC3Q) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [2016](https://open.spotify.com/album/7qeQudNVKihiHBykhZa5IY) | 4:00 | 2023-03-30 | 2023-05-05 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-03-16 | 2023-03-31 |
 | [AGAIN](https://open.spotify.com/track/4ltqkH3b02yW7IBR6C0cz1) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX), [エース橋本](https://open.spotify.com/artist/3xF0OQf5S4WUAEjglxumPX) | [AGAIN](https://open.spotify.com/album/0FJvBBvvWxfHZFbWVnyjTQ) | 3:15 | 2023-05-25 | 2023-09-08 |
@@ -109,7 +110,8 @@
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-03-16 | 2023-04-07 |
 | [I'm free](https://open.spotify.com/track/4dolgjnfj6gJgTqw8FyalQ) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:18 | 2023-03-16 | 2023-04-21 |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-03-16 | 2023-06-16 |
-| [I'm Up ft\. YSO Blank](https://open.spotify.com/track/4J2rF7PGTY4dRb3CSpaHwc) | [Anaïs](https://open.spotify.com/artist/1B40NJiFLj76HWGwuIqD82), [YSO Blank](https://open.spotify.com/artist/2ncyZgpGFwL4X6PljrF20F) | [Chaotic Good](https://open.spotify.com/album/43futw0FUDOAttvAbgfntP) | 2:37 | 2023-11-02 |  |
+| [I'm Up](https://open.spotify.com/track/0GtvNm22KkVhM3S5K7ZOeM) | [Anaïs](https://open.spotify.com/artist/1B40NJiFLj76HWGwuIqD82), [YSO Blank](https://open.spotify.com/artist/2ncyZgpGFwL4X6PljrF20F) | [CHAOTIC GOOD](https://open.spotify.com/album/0hb3KiGteT3tGOUUImXE1P) | 2:37 | 2023-11-02 |  |
+| [I'm Up ft\. YSO Blank](https://open.spotify.com/track/4J2rF7PGTY4dRb3CSpaHwc) | [Anaïs](https://open.spotify.com/artist/1B40NJiFLj76HWGwuIqD82), [YSO Blank](https://open.spotify.com/artist/2ncyZgpGFwL4X6PljrF20F) | [Chaotic Good](https://open.spotify.com/album/43futw0FUDOAttvAbgfntP) | 2:37 | 2023-11-02 | 2023-11-04 |
 | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE) | 3:15 | 2023-09-07 |  |
 | [In My Bag](https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:49 | 2023-07-13 |  |
 | [In The Mood](https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [In The Mood](https://open.spotify.com/album/47k4k9xp4avDKdMkPuvLQS) | 4:02 | 2023-03-16 | 2023-03-25 |

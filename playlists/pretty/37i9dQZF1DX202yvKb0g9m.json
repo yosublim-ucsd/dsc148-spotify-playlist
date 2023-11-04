@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 106432,
+  "num_followers": 106461,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGI1ZDE1ODE1OWI5YTA0ZDFmMjMwODFiMzZlMWEwNzQyOTc5OTll",
+  "snapshot_id": "MCxiOGE0M2Q1ZmViMmM0OGYwOWQ5NzA2OWE3MWJjNDk2NjhkMTQwY2Y3",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Higher State Of Consciousness",
-        "url": "https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S"
-      },
-      "artists": [
-        {
-          "name": "Josh Wink",
-          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
-        }
-      ],
-      "duration_ms": 377960,
-      "name": "Higher State of Consciousness - Tweekin Acid Funk",
-      "url": "https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/7q5nYnbxfVVTsmyW5ZB8KX"
       },
@@ -383,22 +367,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "In Gold",
-        "url": "https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR"
-      },
-      "artists": [
-        {
-          "name": "Palms Trax",
-          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
-        }
-      ],
-      "duration_ms": 379695,
-      "name": "Sumo Acid Crew",
-      "url": "https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Alientronic",
         "url": "https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy"
       },
@@ -415,18 +383,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "White Light",
-        "url": "https://open.spotify.com/album/1EVEmfVskivH7bbA6OVS45"
+        "name": "In Gold",
+        "url": "https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR"
       },
       "artists": [
         {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+          "name": "Palms Trax",
+          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
         }
       ],
-      "duration_ms": 345520,
-      "name": "Warsaw - White Light Version",
-      "url": "https://open.spotify.com/track/4SzoQuDQIEm8saHC85w8CT"
+      "duration_ms": 379695,
+      "name": "Sumo Acid Crew",
+      "url": "https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -843,6 +811,42 @@
       "duration_ms": 422960,
       "name": "Fantasy Girl - Acid Mix",
       "url": "https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Double Cup",
+        "url": "https://open.spotify.com/album/3pg82GyknT5unwBJdGffYQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Rashad",
+          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
+        },
+        {
+          "name": "Addison Groove",
+          "url": "https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Acid Bit (feat. Addison Groove)",
+      "url": "https://open.spotify.com/track/42sGvNzcCsaoqSWXjJy8nh"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Higher State of Consciousness",
+        "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
+      },
+      "artists": [
+        {
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
+        }
+      ],
+      "duration_ms": 377960,
+      "name": "Higher State of Consciousness (Tweekin Acid Funk)",
+      "url": "https://open.spotify.com/track/6cJ3yBgG1VzRpf4xrKsfB8"
     }
   ],
   "unique_name": "303 Classics",

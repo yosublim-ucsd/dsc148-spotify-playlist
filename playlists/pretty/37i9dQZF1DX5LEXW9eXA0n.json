@@ -1,31 +1,15 @@
 {
-  "description": "New & hot K-Pop ballads. (Cover:\bLEEWOO(\uc774\uc6b0)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 356836,
+  "description": "New & hot K-Pop ballads. (Cover:\bLyn(\ub9b0)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "num_followers": 356873,
   "original_name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDMxYWQ1MDE2YmE4NTE4NjcxMjM3NWI4ZDMyY2EwNjkyYjM3ODdj",
+  "snapshot_id": "MCw1MDJkNTQ4MWQ3NTcwM2I4MjkyNzlmMzlmZjI4YTIxMTg5MGRmY2Yy",
   "tracks": [
     {
-      "added_at": "2023-11-02 09:27:05",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
-      },
-      "artists": [
-        {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
-    },
-    {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Ballad, Ryeoyo_KANG MINKYUNG",
         "url": "https://open.spotify.com/album/6S3GFmLtbCNKpAj7ERn3QM"
@@ -41,23 +25,23 @@
       "url": "https://open.spotify.com/track/03XJBAAuyXh10dBgA3E4Au"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
-        "name": "SCRIBBLE",
-        "url": "https://open.spotify.com/album/5yj7qJv6e3sqGg0xj7bl6R"
+        "name": "House of light",
+        "url": "https://open.spotify.com/album/0QyxJ5YockEzHjVTz89BIV"
       },
       "artists": [
         {
-          "name": "LEEWOO",
-          "url": "https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz"
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
         }
       ],
-      "duration_ms": 251906,
-      "name": "SCRIBBLE",
-      "url": "https://open.spotify.com/track/56Kg60sX4TdHoGpbQNFg8e"
+      "duration_ms": 171000,
+      "name": "House of light",
+      "url": "https://open.spotify.com/track/5rk2AxSpCqVOLRVdWaLa5F"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4"
@@ -73,7 +57,7 @@
       "url": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Unfollow",
         "url": "https://open.spotify.com/album/5H6iZHlasIZBPdxI0eUECR"
@@ -89,7 +73,55 @@
       "url": "https://open.spotify.com/track/4eMZhQwegizQW1pMgHv0RM"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
+      "album": {
+        "name": "All Except for Wedding",
+        "url": "https://open.spotify.com/album/1ylHkF3BHA3tJDrDodyDTO"
+      },
+      "artists": [
+        {
+          "name": "Zia",
+          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
+        }
+      ],
+      "duration_ms": 189253,
+      "name": "All Except for Wedding",
+      "url": "https://open.spotify.com/track/5YMqjE5l0dLZjubWrbtSBs"
+    },
+    {
+      "added_at": "2023-11-03 09:09:07",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
+    },
+    {
+      "added_at": "2023-11-03 09:09:07",
+      "album": {
+        "name": "something",
+        "url": "https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s"
+      },
+      "artists": [
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "something",
+      "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
+    },
+    {
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Don't be mad",
         "url": "https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "As Autumn Brings Cold Wind",
         "url": "https://open.spotify.com/album/45hrhqXvP86clCVmptlKBA"
@@ -121,7 +153,7 @@
       "url": "https://open.spotify.com/track/6Nrkbf2TodraiIu0BHcFYN"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Waiting all day",
         "url": "https://open.spotify.com/album/3xSW8rCfLopuPonyzj9RgJ"
@@ -137,7 +169,23 @@
       "url": "https://open.spotify.com/track/0LaQ4W4RqpdUn7WQxsT5ys"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
+      "album": {
+        "name": "SCRIBBLE",
+        "url": "https://open.spotify.com/album/5yj7qJv6e3sqGg0xj7bl6R"
+      },
+      "artists": [
+        {
+          "name": "LEEWOO",
+          "url": "https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz"
+        }
+      ],
+      "duration_ms": 251906,
+      "name": "SCRIBBLE",
+      "url": "https://open.spotify.com/track/56Kg60sX4TdHoGpbQNFg8e"
+    },
+    {
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "LEESEOKHOON 4th EP Album 'Untitled'",
         "url": "https://open.spotify.com/album/3dt51zaMmRSBrH5Wky5HrC"
@@ -153,7 +201,7 @@
       "url": "https://open.spotify.com/track/2AvcRjTfg4ZrwdDj0xoUtf"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Destined with You (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/37BzsG0I20mbX2CFipkt3A"
@@ -169,7 +217,7 @@
       "url": "https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Saying Goodbye",
         "url": "https://open.spotify.com/album/6mbvM7r6Se69qZKmDOU6rF"
@@ -185,7 +233,7 @@
       "url": "https://open.spotify.com/track/5vQboX1LeFD2CmBSjM0zGj"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Dolsingles4 OST Part.2 (Soundtrack)",
         "url": "https://open.spotify.com/album/0aYt793j0qPD86uNLUKyCd"
@@ -201,7 +249,7 @@
       "url": "https://open.spotify.com/track/3aWYxM7pExfpd8GtkGJoQZ"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/2lJMfTyxKE4OItKg04ZsdF"
@@ -221,7 +269,7 @@
       "url": "https://open.spotify.com/track/72NNjExNWdzmGYbFlZ8qK0"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "My Dearest (Original Television Soundtrack), Pt.7",
         "url": "https://open.spotify.com/album/2dgw4TB4lRuF92qIIo641t"
@@ -237,7 +285,7 @@
       "url": "https://open.spotify.com/track/2TpyanMvkEJ0bOwiqopluL"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Only Tears",
         "url": "https://open.spotify.com/album/0HiwK44A6FNxVFpCy7yGBZ"
@@ -253,7 +301,7 @@
       "url": "https://open.spotify.com/track/3PPaHowjfMPcsImH4yK8cw"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "I know (2023)",
         "url": "https://open.spotify.com/album/6N2skOu6vjmaGZiMTzQfzL"
@@ -269,7 +317,7 @@
       "url": "https://open.spotify.com/track/3iI4P6MJNVKRg30CHHzxRI"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Living as A Villain OST Part.19 (Soundtrack)",
         "url": "https://open.spotify.com/album/53VRzrYUrqsrNsY76JUytI"
@@ -285,7 +333,7 @@
       "url": "https://open.spotify.com/track/4hPvi7gZ98VyLUrcQe7UOJ"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "With me, with you",
         "url": "https://open.spotify.com/album/5vkc6Qn5D3uPTOuGychur0"
@@ -301,7 +349,7 @@
       "url": "https://open.spotify.com/track/2lP9LVvWtexc3jZJ0WxdrZ"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Alcohol is",
         "url": "https://open.spotify.com/album/55hQhEsQqDzau7QVBsd2kx"
@@ -317,7 +365,7 @@
       "url": "https://open.spotify.com/track/1zweXWctPrLlixV7J3mxpR"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Things I can't say",
         "url": "https://open.spotify.com/album/62LHGC6GR8AZnojUx5oSEc"
@@ -333,7 +381,7 @@
       "url": "https://open.spotify.com/track/7yr9lrXkhVIjS1hikFtYwE"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Without you",
         "url": "https://open.spotify.com/album/64AlSbEAtd9nW9QIzAphIW"
@@ -349,7 +397,7 @@
       "url": "https://open.spotify.com/track/3WtTBiLhUKlwZLDUSheTnl"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0OkfIH5BLiyic0hzd4oTsi"
@@ -369,7 +417,7 @@
       "url": "https://open.spotify.com/track/1pQluxiSIs5WLyRWgBma7Y"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "With UNIVERSE",
         "url": "https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI"
@@ -385,7 +433,7 @@
       "url": "https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Dear Fall",
         "url": "https://open.spotify.com/album/0yylG3rQTi5BAlX26WK8F2"
@@ -401,7 +449,7 @@
       "url": "https://open.spotify.com/track/1zmaOkXV1s5G5r5Rqkvy2n"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "If I (You & Me & Me X 2NB)",
         "url": "https://open.spotify.com/album/5p7p0KqC8c7oFniCIPwNlh"
@@ -417,7 +465,7 @@
       "url": "https://open.spotify.com/track/2uqtzE7UIjytpNwWnn9X85"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Take Care",
         "url": "https://open.spotify.com/album/5zK1XYqu3ua1KXm4dZfa40"
@@ -433,7 +481,7 @@
       "url": "https://open.spotify.com/track/6Vy8rH3XpaY9yoYzUt034a"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "\ucc98\uc74c \uc6b8\ub358 \ub0a0 The First Day I Cried",
         "url": "https://open.spotify.com/album/204HzOlWivpwGRakO0Fgra"
@@ -449,7 +497,7 @@
       "url": "https://open.spotify.com/track/2CHr902O6kvPrFOIPMKOVW"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/1wr58bJGrqTDI8iQTqHXaE"
@@ -465,7 +513,7 @@
       "url": "https://open.spotify.com/track/0nrajlDiEVcM02yBE1QfPp"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Please",
         "url": "https://open.spotify.com/album/50lF4DUf7JS2r3Vq10m4BW"
@@ -481,7 +529,7 @@
       "url": "https://open.spotify.com/track/4YVTnGm2zKcfeQQg5K5N45"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Could you come out for a second (Prod. YounToven)",
         "url": "https://open.spotify.com/album/1QzfVa9kZIc6PFvpIwtxFS"
@@ -497,7 +545,7 @@
       "url": "https://open.spotify.com/track/1tQ7LxGCwvAYFKsZZhBRZd"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Only luv",
         "url": "https://open.spotify.com/album/3yunARC1worGEjDVY3gb4I"
@@ -513,7 +561,7 @@
       "url": "https://open.spotify.com/track/6fCL82Vvs0MuDHs9kQlLuC"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "\ubca0\uc774\ube44 \ub4dc\ub798\uace4 (Original Webtoon Soundtrack) Pt. 7",
         "url": "https://open.spotify.com/album/5mOdHlkIdGAgMvpJCKDLwt"
@@ -529,7 +577,7 @@
       "url": "https://open.spotify.com/track/5ZYBeXAnNAQBuEZcJsb00Q"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "I will be alright",
         "url": "https://open.spotify.com/album/7MPJaPGqkTXM3ej4PXklwV"
@@ -545,7 +593,7 @@
       "url": "https://open.spotify.com/track/1iURdIbRZv2t643LDwLbl2"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Destined with You (Original Television Soundtrack), Pt.9",
         "url": "https://open.spotify.com/album/0k6eU1vKSrnhHJRTTCOsw7"
@@ -561,7 +609,7 @@
       "url": "https://open.spotify.com/track/5rs94R9T7hFEziBB4sQj2G"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "I Let You Go",
         "url": "https://open.spotify.com/album/7fKLWmv4NYvNlsQS0iKBGA"
@@ -581,7 +629,7 @@
       "url": "https://open.spotify.com/track/3e4GPq1wETJjMDM3zmVqFM"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/21wREuF15oGbxnw4oqbAAg"
@@ -597,7 +645,7 @@
       "url": "https://open.spotify.com/track/12nXKGd4YbmRjtDcFq1yjD"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "\ub108\ubb34 \uc0ac\ub791\ud588\uc5b4",
         "url": "https://open.spotify.com/album/1e18qYZs6rpZ5XjZdutBwZ"
@@ -617,7 +665,7 @@
       "url": "https://open.spotify.com/track/6f84h3J8HXtSY6Yfks9Qav"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "A little starlight chaser",
         "url": "https://open.spotify.com/album/2ruTTcyujOS9SzXfw7P1eR"
@@ -633,7 +681,7 @@
       "url": "https://open.spotify.com/track/0s7UBbW9gsikHk5YA6uXvO"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Listen to this song",
         "url": "https://open.spotify.com/album/2m6LumPm3IC0elAjl4hGuh"
@@ -649,7 +697,7 @@
       "url": "https://open.spotify.com/track/5Y7mk1bB2E1E4O4sSDlhIk"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "It\u2019s a day to say goodbye",
         "url": "https://open.spotify.com/album/017aEEelOtuBy22ROLHDH4"
@@ -665,7 +713,7 @@
       "url": "https://open.spotify.com/track/4OPPOsgT4LOSwrGzs8paTp"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
@@ -681,7 +729,7 @@
       "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Sad Day",
         "url": "https://open.spotify.com/album/0HfQVaIoJO3MeMUbzU7Rig"
@@ -701,7 +749,7 @@
       "url": "https://open.spotify.com/track/4dM8ymy2J1mxQ5VY2s2lFC"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Trip: playlist (Original Television Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/0CsIy00HwQuYUfnqBhpYI8"
@@ -717,7 +765,7 @@
       "url": "https://open.spotify.com/track/59928cqGkFZaX111vOsN8Y"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "HYB PROJECT #1",
         "url": "https://open.spotify.com/album/5BQu0YXKxMeqG4MMU9QQjB"
@@ -733,7 +781,7 @@
       "url": "https://open.spotify.com/track/1UC3IeSuLY5mkwfvYoOlXe"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Happy Me",
         "url": "https://open.spotify.com/album/4zFfQBm5sBkKosycicJVAG"
@@ -749,7 +797,7 @@
       "url": "https://open.spotify.com/track/5VC7zSNSIwLumbjuPuFt7C"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/71EEzdBF1w1m3ZrzLGGjRh"
@@ -765,7 +813,7 @@
       "url": "https://open.spotify.com/track/14ot1TdT8rMcFkkRQ0jMre"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "If you\u2019re gonna be like this",
         "url": "https://open.spotify.com/album/5J7Be0znM6NzQMNLqs76R3"
@@ -781,7 +829,7 @@
       "url": "https://open.spotify.com/track/62lgKXO6pslS9PvttLFd21"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "29",
         "url": "https://open.spotify.com/album/02xylRgbAtbTWZP3tl6Gco"
@@ -797,7 +845,7 @@
       "url": "https://open.spotify.com/track/0pvf2SdsuhE1lFfJztZeHU"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Destined with You (Original Television Soundtrack), Pt.7",
         "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
@@ -813,7 +861,7 @@
       "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Ballad, Ryeoyo_Roy Kim",
         "url": "https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K"
@@ -829,7 +877,7 @@
       "url": "https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Blue in You",
         "url": "https://open.spotify.com/album/30hV27Zqc5J4Bd3iMyR4HJ"
@@ -845,7 +893,7 @@
       "url": "https://open.spotify.com/track/7wjBq0g3hSdVDmi3Eol5hl"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/0HZOGEkR6cFL6qXnlC4Vun"
@@ -861,7 +909,7 @@
       "url": "https://open.spotify.com/track/3MODKrKhGJHI8pRP9Ih5k0"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Flower in the Desert",
         "url": "https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM"
@@ -877,7 +925,7 @@
       "url": "https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "If you lovingly call my name (GyeongseoYeji x Jeon Gunho)",
         "url": "https://open.spotify.com/album/1QD2UJupusQ9zBsldpvS3d"
@@ -897,7 +945,7 @@
       "url": "https://open.spotify.com/track/0tgxvf4rqBBeEB54h0nnRD"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/2dAPUL5WhLBjg1HtdW3yoE"
@@ -913,7 +961,7 @@
       "url": "https://open.spotify.com/track/6GvZ3jcbYhdsKeZGLnwE76"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Be forgotten",
         "url": "https://open.spotify.com/album/6DpqBvM1vhIT0Ttqrqbl0k"
@@ -929,7 +977,7 @@
       "url": "https://open.spotify.com/track/3mXe1JuZVTmmJ7mZQrwvvc"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/1t7A3JHDRTdFb1VM9DDAxV"
@@ -945,7 +993,7 @@
       "url": "https://open.spotify.com/track/45S9VsBpy4zZ5BHcwklih2"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "It Just Happened",
         "url": "https://open.spotify.com/album/7KCSaQrghmQ7BjO3wuxTGF"
@@ -961,7 +1009,7 @@
       "url": "https://open.spotify.com/track/2ITzkZG5HnW2f1ABSALPv6"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Unfading Sense - The 5th Mini Album",
         "url": "https://open.spotify.com/album/2iN8rALWBgiirEB5QlzhRw"
@@ -977,7 +1025,7 @@
       "url": "https://open.spotify.com/track/7KonyfgLisLz8TsolKewx4"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Only you",
         "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
@@ -993,7 +1041,7 @@
       "url": "https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "About all love",
         "url": "https://open.spotify.com/album/1IV3TxNNJgcnE6nlZycxx6"
@@ -1009,7 +1057,7 @@
       "url": "https://open.spotify.com/track/0x6X6hV1taDYGOhkBLuoqS"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "[THE SEASONS Vol.\u2161. 3] <AKMU's Long day Long night> Re\u02d0Wake x O3ohn",
         "url": "https://open.spotify.com/album/2sv6G5esKnaiJHmzOgoHuq"
@@ -1025,7 +1073,7 @@
       "url": "https://open.spotify.com/track/7CMEi8YPUYzs8KgMCXfziY"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "\ub098 \uc815\ub9d0 \ud798\ub4e4\uc5b4 (2023)",
         "url": "https://open.spotify.com/album/6TiwcqhmaGJJQRFtR4hjKU"
@@ -1045,7 +1093,7 @@
       "url": "https://open.spotify.com/track/08lWUlD04qn35mvXZc9m8Z"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Broke up today",
         "url": "https://open.spotify.com/album/5aAP9LRBp8gYfEJKCBL0u3"
@@ -1065,7 +1113,7 @@
       "url": "https://open.spotify.com/track/6Fatc7VHs0sc8TWx8Wc8BC"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Sorry (feat. BUMJIN)",
         "url": "https://open.spotify.com/album/4EqN23Z4QET6fEijXnAj6o"
@@ -1085,7 +1133,7 @@
       "url": "https://open.spotify.com/track/5zQA6BBKgXGUp9BSqlNfIl"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/5pEyhM1dfcAGCcXgxXILUw"
@@ -1101,7 +1149,7 @@
       "url": "https://open.spotify.com/track/3Za3hxz2Hw4M9f0sFc1FuY"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Love Interference 2023 (Original Television Soundtrack), Pt. 26",
         "url": "https://open.spotify.com/album/1vzEYEf662HwKw3aVEcfiw"
@@ -1117,7 +1165,7 @@
       "url": "https://open.spotify.com/track/1mWv0FjmPif2MaTn9DOqTx"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Let's Stay Well (My love X Roy Kim)",
         "url": "https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao"
@@ -1133,7 +1181,7 @@
       "url": "https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Grain of Sand",
         "url": "https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc"
@@ -1149,7 +1197,7 @@
       "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "A Love Supreme",
         "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
@@ -1165,7 +1213,7 @@
       "url": "https://open.spotify.com/track/4HUTkkunfNOZln319JnVKj"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "\uc0ac\ub791\uc774\ub77c \uc4f0\uace0 \uc774\ubcc4\uc774\ub77c \uc77d\uc5b4 (Write love and Read breakup)",
         "url": "https://open.spotify.com/album/3e0vL5HQsCead5QUmN1Igj"
@@ -1181,7 +1229,7 @@
       "url": "https://open.spotify.com/track/1VJJ5i8jxeWc3rRFD0tJ8Z"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Expectation - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
@@ -1197,7 +1245,7 @@
       "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Back In The Day",
         "url": "https://open.spotify.com/album/4w0uMkhAi8n8okuwXQZzTK"
@@ -1213,7 +1261,7 @@
       "url": "https://open.spotify.com/track/7d3MyTc7PWrL8y85tOvUtW"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "I'm not even drunk",
         "url": "https://open.spotify.com/album/0134ShAd5n7nCkie4PYWGU"
@@ -1229,7 +1277,7 @@
       "url": "https://open.spotify.com/track/0uNTk70FsyFRhHg03O9sPr"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "My other half",
         "url": "https://open.spotify.com/album/39ZrD0Zsir3ooKovMcMdfj"
@@ -1245,7 +1293,7 @@
       "url": "https://open.spotify.com/track/1Uukb7wgr28uwwsiunUTau"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Long time no see (Original Television Soundtrack From \"The Witch Store Reopening\")",
         "url": "https://open.spotify.com/album/52p2C1TriWORdN2fUGX4fc"
@@ -1261,7 +1309,7 @@
       "url": "https://open.spotify.com/track/4PwrkFF5wNLBCJLxfEdtIW"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Again,Star #2",
         "url": "https://open.spotify.com/album/4BqNdozu75WCs9C07CjPl0"
@@ -1277,7 +1325,7 @@
       "url": "https://open.spotify.com/track/47KIdFLacEnfEzVNCxs80H"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/1TyitQhFrsvGGQu9lYNEsw"
@@ -1293,7 +1341,7 @@
       "url": "https://open.spotify.com/track/5m52cGb4MWsj44ggieU76K"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 - \uae40\ub098\uc601",
         "url": "https://open.spotify.com/album/2HjmcbWeIZGzyTk0yWBI6X"
@@ -1309,7 +1357,7 @@
       "url": "https://open.spotify.com/track/1UWp8Mit5wHqql6YSVakav"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Behind you touch OST Part 7",
         "url": "https://open.spotify.com/album/0IIYULQmzQs1sNIPTH1Y3h"
@@ -1325,7 +1373,7 @@
       "url": "https://open.spotify.com/track/4HQfCVd0qzkFhk5pVVaau3"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Bye. And bye",
         "url": "https://open.spotify.com/album/28FF6p1yVvOhBtC12Z4RAH"
@@ -1341,7 +1389,7 @@
       "url": "https://open.spotify.com/track/3N0dVu8FhVgLuh1JhgjQNh"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1"
@@ -1357,7 +1405,7 @@
       "url": "https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "The Day After You",
         "url": "https://open.spotify.com/album/6Z1VgMQNiMAOhCfLKcK6iR"
@@ -1373,7 +1421,7 @@
       "url": "https://open.spotify.com/track/7sGfyf64mOvIhRAMe0DXTh"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Our Last Day",
         "url": "https://open.spotify.com/album/0NXk8DUNdmuF1AiEgQAV4X"
@@ -1389,7 +1437,7 @@
       "url": "https://open.spotify.com/track/19DyfJxGbf8iFTHnx4RtfW"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Love Interference 2023 (Original Television Soundtrack), Pt. 24",
         "url": "https://open.spotify.com/album/3cNZ2zZb7sVr6DOIZGdAgd"
@@ -1405,7 +1453,7 @@
       "url": "https://open.spotify.com/track/2yPHZA0El8Wea9sArvEfMw"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "I\u2032m Still In Love With You",
         "url": "https://open.spotify.com/album/7DznUUwxhcd3C9urHroOIe"
@@ -1421,7 +1469,7 @@
       "url": "https://open.spotify.com/track/5qtvMj1louZUaU2WeDRGa8"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "If i go back",
         "url": "https://open.spotify.com/album/14CY4naLzIeXSlVtpLKwOb"
@@ -1437,7 +1485,7 @@
       "url": "https://open.spotify.com/track/7BLVD2Xu7AvAgxzdH5tLG6"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Because You Don't Love Me",
         "url": "https://open.spotify.com/album/1I4k4k18DkFJBYBAhqW6v3"
@@ -1453,7 +1501,7 @@
       "url": "https://open.spotify.com/track/4qSK8cVMEECClvHmFXUqdP"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Romantic Doctor 3 OST Part.4",
         "url": "https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf"
@@ -1469,7 +1517,7 @@
       "url": "https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "I Guess I Loved You",
         "url": "https://open.spotify.com/album/7j2yKTyHYeptq0D9e4ydNQ"
@@ -1485,7 +1533,7 @@
       "url": "https://open.spotify.com/track/1xhWTGxEJgay2ZjMsaGObi"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "My Dearest (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/682NAeZRyEWYzwvOcrFCMu"
@@ -1501,7 +1549,7 @@
       "url": "https://open.spotify.com/track/5RlY9uV6pWC8HWTUy8HBbA"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "The Man",
         "url": "https://open.spotify.com/album/4i2vNNCgU467jng2k7EGi2"
@@ -1517,7 +1565,7 @@
       "url": "https://open.spotify.com/track/6lDWYtXTFgHUjMybqYc88U"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Can't get over you",
         "url": "https://open.spotify.com/album/1hx21yyGWbyiQxqA9NVYjg"
@@ -1533,7 +1581,7 @@
       "url": "https://open.spotify.com/track/4FCaHMRp8shXLJqLoLfLWB"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "REDLY",
         "url": "https://open.spotify.com/album/6HAPXlDc8u0MAb3FbU4Ywf"
@@ -1549,7 +1597,7 @@
       "url": "https://open.spotify.com/track/7Ggy4wAhk1BemZ3OIdbDpv"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "I'm trying to fix it",
         "url": "https://open.spotify.com/album/2uGscuF57AxYLVLqCwKWp8"
@@ -1565,7 +1613,7 @@
       "url": "https://open.spotify.com/track/6HRtEBk2xmbH4ed2A14Ujf"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Destined with You (Original Television Soundtrack), Pt.3",
         "url": "https://open.spotify.com/album/0XwdstY4SjObzQiSsQzwSK"
@@ -1581,7 +1629,7 @@
       "url": "https://open.spotify.com/track/3R7cGnlTJErw4tpPbNdGsf"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Such a thing",
         "url": "https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka"
@@ -1597,7 +1645,7 @@
       "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "When we broke up",
         "url": "https://open.spotify.com/album/6KJelVXFW876m9md40CDR1"
@@ -1613,7 +1661,7 @@
       "url": "https://open.spotify.com/track/501ycObHaXtbolUtWvqPi0"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "Monthly Project 2023 August Yoon Jong Shin - HEEKAK",
         "url": "https://open.spotify.com/album/26Imwvx2Z6xc7CPe0WFxcS"
@@ -1629,7 +1677,7 @@
       "url": "https://open.spotify.com/track/3bxZL7GTRzd58F3hqobv1R"
     },
     {
-      "added_at": "2023-11-02 09:27:05",
+      "added_at": "2023-11-03 09:09:07",
       "album": {
         "name": "My Lovely Liar, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7qnNNyNveamlqSXk8AhrQT"

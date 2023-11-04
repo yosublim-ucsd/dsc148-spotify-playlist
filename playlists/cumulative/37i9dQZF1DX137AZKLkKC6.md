@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Shakira & Fuerza Regida
 
-185 songs - 9 hr 30 min
+186 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [No Duele Tu Olvido](https://open.spotify.com/track/4k1Fa69L8ink1epcYhljZj) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [No Duele Tu Olvido](https://open.spotify.com/album/0JwGg9qvr6LAsIlnm7FVmv) | 2:50 | 2023-03-17 | 2023-05-13 |
 | [No Me Digas Que No \- Remix](https://open.spotify.com/track/06yVKqQFFuvq9Zqnmcsb7a) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [No Me Digas Que No \(Remix\)](https://open.spotify.com/album/1OdRfo9yfhQYmMnsFMaFHt) | 3:17 | 2023-09-29 |  |
 | [No Me Hablen de Él](https://open.spotify.com/track/0evFiUFMG6KNXTnXlthNRT) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [No Me Hablen de Él](https://open.spotify.com/album/70RI4gxiCzSrYmWsnChiIz) | 3:11 | 2023-02-24 | 2023-04-09 |
-| [No Me Hubiera Enamorado](https://open.spotify.com/track/4ggJRnJzcDtXwrkmQ8ZiLG) | [Alexis Cortés](https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj) | [No Me Hubiera Enamorado](https://open.spotify.com/album/0DeM6uRe2NUTaNLr27NaQd) | 3:18 | 2023-09-29 |  |
+| [No Me Hubiera Enamorado](https://open.spotify.com/track/4ggJRnJzcDtXwrkmQ8ZiLG) | [Alexis Cortés](https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj) | [No Me Hubiera Enamorado](https://open.spotify.com/album/0DeM6uRe2NUTaNLr27NaQd) | 3:18 | 2023-09-29 | 2023-11-04 |
+| [No Me Hubiera Enamorado](https://open.spotify.com/track/5qTOMXiOdtjgaaqnrANccu) | [Alexis Cortés](https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj) | [No Me Hubiera Enamorado](https://open.spotify.com/album/7MSKmORkjFaVDyWfRxbgJl) | 3:18 | 2023-10-18 |  |
 | [No Quería Engañarte](https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [No Quería Engañarte](https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN) | 4:01 | 2022-12-02 | 2023-01-28 |
 | [No Sufriré por Nadie \- Remix](https://open.spotify.com/track/4wxik78a6zidW8pshbCviV) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Maycol Rosero](https://open.spotify.com/artist/6rl1lk6U6dB8FT0neMV8Iu), [Beren](https://open.spotify.com/artist/2eVjwcrAdghDt14w3e7nDu) | [No Sufriré por Nadie \(Remix\)](https://open.spotify.com/album/0NQHVRev3BGZXBjWayS9hI) | 3:31 | 2023-03-03 | 2023-09-09 |
 | [No Te Contaron Mal](https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [No Te Contaron Mal](https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi) | 2:36 | 2022-08-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,881 likes - 57 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,896 likes - 57 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 | 40 | [\(Do The\) Push And Pull \- Pt\. 1 / Live At P.J.'s / 1970](https://open.spotify.com/track/1oOzKnZ3lRULFpVrRgEGP5) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Doing The Push And Pull At PJ's \(Live At P.J.'s / 1970\)](https://open.spotify.com/album/7DB6AHZps0sBoZv5nf3jSu) | 5:12 |
 | 41 | [Dr\. Funkenstein's Supergroovalisticprosifunkstication Medley \- Live/1977](https://open.spotify.com/track/3ZuK6t3vXaJ0BXZKtG77BZ) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Live: P Funk Earth Tour](https://open.spotify.com/album/4IXQ7jxYm9gUoGAccnDEAY) | 4:58 |
 | 42 | [Fight the Power \- Live](https://open.spotify.com/track/2Ypb73l8jpPQsfwsfHNa9y) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Live!](https://open.spotify.com/album/2mzfhtB3Rd81uxdvOKik76) | 5:14 |
-| 43 | [Give The People What They Want \- Live](https://open.spotify.com/track/3effuRQdgwj6idFkCsBPG5) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Live In New York](https://open.spotify.com/album/4wZtMxi09OZgjvxrAsNJ4R) | 5:40 |
+| 43 | [Give The People What They Want \(Live\)](https://open.spotify.com/track/1zf98O3j5rvVXtJLpbLChz) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Live In New York](https://open.spotify.com/album/5zelslmNfeNhQeeCeuM3xw) | 5:40 |
 | 44 | [Think \(About It\) \- Live At The Apollo Theater/1972](https://open.spotify.com/track/0cmA7hUiZIYH8VnbPIdkM2) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Get Down With James Brown: Live At The Apollo Vol\. IV](https://open.spotify.com/album/5h8mYFGE2upHNqHRAMoVBA) | 7:25 |
 | 45 | [Use Me \- Live At The Sahara Tahoe, Stateline, NV/1973](https://open.spotify.com/track/4e8V40rAwpfHwtqCPqUvxg) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Live At The Sahara Tahoe](https://open.spotify.com/album/1k5Bv7B73nLsEChdqjXQrl) | 5:41 |
 | 46 | [Steal Away \(Version 2\)](https://open.spotify.com/track/3rvJsbKBvL8zpX1pTgzzJU) | [Johnnie Taylor](https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz) | [Live At The Summit Club](https://open.spotify.com/album/1jqliLQjKOJMBswP2R51iL) | 8:20 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 | 56 | [Psychoticbumpschool \- Live Version](https://open.spotify.com/track/24TPNhH0tX9f7QxfGMb4ho) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 6:37 |
 | 57 | [Let Yourself Go \- Live At The Apollo Theater, 1967](https://open.spotify.com/track/5Fw86IXdNhRyDaY45PzeRx) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | ['Live' At The Apollo \(Vol\. II\)](https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD) | 4:00 |
 
-Snapshot ID: `MCxmYTQ1ZDE4OWE4MTM2NDQ0Zjc0NmNhNzlkOGY5MzRjNGFlMjE3N2M2`
+Snapshot ID: `MCw0NjhjZjBmMzUyZTY4NDEzZmY3ODViMmQ1ODBjNTMzY2VlMjM0NDE4`

@@ -2,9 +2,9 @@
 
 ### [Música Católica ](https://open.spotify.com/playlist/37i9dQZF1DX9foP18YmfwY)
 
-> Os padres e nomes que movem multidões pelo país\. Foto: Colo de Deus
+> Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva, Danúbia M.J
 
-128 songs - 9 hr 57 min
+129 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Coração de Pai](https://open.spotify.com/track/2VMevRdI4SH5RxktSlH97X) | [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi), [Nelsinho Corrêa](https://open.spotify.com/artist/4PBRc9BHh6zVmQV3TOQoz4) | [Coração de Pai](https://open.spotify.com/album/72xUT7yjz9qGAunIC8BDWQ) | 3:42 | 2022-09-02 | 2023-03-12 |
 | [Coração de Transgressor](https://open.spotify.com/track/1T72Pe1YOTYYKJNpvTOyMs) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Coração de Transgressor](https://open.spotify.com/album/0PKAfcsf5TQeI1Ex7bgS5H) | 4:10 | 2023-01-13 |  |
 | [Cuida do Meu Coração](https://open.spotify.com/track/2C0L1K3QrVbEtBEvqemZj5) | [Frei Renan Barros](https://open.spotify.com/artist/0NYUy1sa7s24kSilPqv5Lj), [Padre Antônio Maria](https://open.spotify.com/artist/5fffowYi9eGg1NsC89N4D1) | [Cuida do Meu Coração](https://open.spotify.com/album/1TfXGA6U3oMPo7cQUwPApS) | 4:29 | 2023-01-13 | 2023-02-25 |
-| [Dai\-lhe Senhor o descanso eterno](https://open.spotify.com/track/7zt3ZpPBtkvaVBuyDFUSPA) | [Coro Edipaul](https://open.spotify.com/artist/4KhscLvfEbNIRK3LHagKWs), [Fr\. Fabrício Oliveira CSsR](https://open.spotify.com/artist/1QUFWIXA4cP2oNqygZuPb5), [Ir\. Bárbara Santana FSP](https://open.spotify.com/artist/4tGoYPQselI1lOZa67r2yx), [Renato Palão](https://open.spotify.com/artist/5lqbMEaS57wmD2F6H91tcw), [Andréia Zanardi](https://open.spotify.com/artist/7J53nUJRnaLvulm4dXIriY) | [Deus nos abraça eternamente](https://open.spotify.com/album/4AvhZCWg2U7VppbdLQohFk) | 2:54 | 2023-10-20 |  |
+| [Dai\-lhe Senhor o descanso eterno](https://open.spotify.com/track/7zt3ZpPBtkvaVBuyDFUSPA) | [Coro Edipaul](https://open.spotify.com/artist/4KhscLvfEbNIRK3LHagKWs), [Fr\. Fabrício Oliveira CSsR](https://open.spotify.com/artist/1QUFWIXA4cP2oNqygZuPb5), [Ir\. Bárbara Santana FSP](https://open.spotify.com/artist/4tGoYPQselI1lOZa67r2yx), [Renato Palão](https://open.spotify.com/artist/5lqbMEaS57wmD2F6H91tcw), [Andréia Zanardi](https://open.spotify.com/artist/7J53nUJRnaLvulm4dXIriY) | [Deus nos abraça eternamente](https://open.spotify.com/album/4AvhZCWg2U7VppbdLQohFk) | 2:54 | 2023-10-20 | 2023-11-04 |
 | [Decididamente](https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8) | [Cassiano Menke](https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1), [Walmir Alencar](https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN) | [Decididamente](https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN) | 4:18 | 2022-09-02 |  |
 | [Deixa Deus Sonhar em Ti](https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Gba Stage, Vol\. 13](https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l) | 4:54 | 2023-10-20 |  |
 | [Deus Está Aqui \(Noites Traiçoeiras\)](https://open.spotify.com/track/2cnKUhnCJ0MSYsG3q2zQiC) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Katholika Music](https://open.spotify.com/artist/0grtBW6nOD3qjL2S8xNqo2) | [Deus Está Aqui \(Noites Traiçoeiras\)](https://open.spotify.com/album/2IVSlMvLNPCUGCDiAAo2Iw) | 3:45 | 2023-06-02 |  |
@@ -126,6 +126,7 @@
 | [Somos do Céu](https://open.spotify.com/track/3aQzSGsSFu8BFhYfMPJP7v) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [Somos do Céu](https://open.spotify.com/album/7eTV7OBnuVeDB47FXCSMmF) | 4:54 | 2022-09-02 | 2023-10-07 |
 | [Sopra em meu jardim](https://open.spotify.com/track/5cPJsQ7uwWG7exIM9AvXVY) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Banquete Eterno](https://open.spotify.com/album/4jnSnb99zjQcs5sjakBIyp) | 4:26 | 2022-09-02 | 2023-03-25 |
 | [Sopra Sobre os Ossos \- Ao Vivo](https://open.spotify.com/track/2rwQvgDFW0WojeTrTJXugO) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Sopra Sobre os Ossos](https://open.spotify.com/album/0O1UMwwbAw04AdLYlfeNYR) | 4:33 | 2023-05-19 | 2023-09-26 |
+| [Subirei a Montanha](https://open.spotify.com/track/4ibqD0Z73ub2HmDywE2RGv) | [Dago Soares](https://open.spotify.com/artist/6j82Fe8Y9AeqfUT3df8awS), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Subirei a Montanha](https://open.spotify.com/album/37EhgHdVrf9W1zaLbjADJx) | 4:15 | 2023-11-03 |  |
 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 | 2023-01-13 |  |
 | [Te Adorar](https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ) | [Padre Anderson Gomes](https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9) | [Te Adorar](https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q) | 5:26 | 2022-09-02 |  |
 | [Todo Amor do Mundo](https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Kyrios \(Shalom Brasília 20 Anos\)](https://open.spotify.com/album/6xnhBYPpmu2rOAD0wpteTU) | 4:50 | 2022-09-02 | 2023-05-13 |

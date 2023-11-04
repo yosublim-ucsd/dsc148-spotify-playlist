@@ -131,6 +131,28 @@
     },
     {
       "album": {
+        "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/3nowY3FIVGxnVxZqVqN3ki"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Christmas Kisses",
+      "url": "https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4Qa0c8WVupl3IL22pAZDdW"
       },
@@ -168,6 +190,24 @@
       "duration_ms": 159786,
       "name": "Christmas Song (Chestnuts Roasting On An Open Fire)",
       "url": "https://open.spotify.com/track/6KVKod5NIBFqoKsgXfI6cz"
+    },
+    {
+      "album": {
+        "name": "Christmas Starts Tonight",
+        "url": "https://open.spotify.com/album/24HSMI1P437oslb45uVikj"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261496,
+      "name": "Christmas Starts Tonight",
+      "url": "https://open.spotify.com/track/359to2FTTRcoIC0C8KzIvK"
     },
     {
       "album": {
@@ -550,7 +590,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 188613,
       "name": "Just Another Christmas Song (This Time I'll Sing Along)",
       "url": "https://open.spotify.com/track/0PWxoYDj5ngr9QCUQ25lnw"
@@ -958,7 +998,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 187026,
       "name": "Tit For Tat (Ain't No Taking Back)",
       "url": "https://open.spotify.com/track/6uMR7QrywhdSqhJSef3YqV"

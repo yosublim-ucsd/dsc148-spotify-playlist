@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,741 likes - 45 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,839 likes - 45 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 4 | [Black Betty](https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [Ram Jam](https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD) | 3:58 |
 | 5 | [YYZ](https://open.spotify.com/track/3lpDrxUkr0tIe1kmJvdK7d) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:25 |
 | 6 | [Lady](https://open.spotify.com/track/6Pyr3DqDxXnoP1mZBzb2JY) | [Beck, Bogert, Appice](https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP) | [Beck, Bogert, Appice](https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz) | 5:31 |
-| 7 | [Tarkus \- i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus; 2012 Remaster](https://open.spotify.com/track/62d0aGpYF2p8fpvJ1qa32V) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus \(Deluxe\)](https://open.spotify.com/album/6mqJylLfGnLCXhdyMPBCRo) | 20:37 |
+| 7 | [Tarkus \(i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus\) \( 2012 \- Remaster\)](https://open.spotify.com/track/7fLEJNwcW60W74XehVmR5p) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus](https://open.spotify.com/album/5yByhxbOs8FOU2UutO7AGO) | 20:43 |
 | 8 | [Ticks & Leeches](https://open.spotify.com/track/0Cnx6PGogxIE2RnDcnoeK8) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 8:07 |
 | 9 | [Shotgun \- Single Version](https://open.spotify.com/track/4cpaaN9gp0JvTaro27c0ex) | [Vanilla Fudge](https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1) | [The Complete Atco Singles](https://open.spotify.com/album/1c0ZllsJKYA7N8v10OdVLP) | 2:28 |
 | 10 | [21st Century Schizoid Man \- Including "Mirrors"](https://open.spotify.com/track/5L7VBYoosmkmiiDlzumdCe) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 7:22 |
 | 11 | [Toad](https://open.spotify.com/track/11RuqNiPXDGjRvu8cw2TPO) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Fresh Cream](https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB) | 5:09 |
-| 12 | [Where Eagles Dare \- 2015 Remaster](https://open.spotify.com/track/6yA4BknBpds3hfF7r2u5Wb) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 \- Remaster\)](https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm) | 6:12 |
+| 12 | [Where Eagles Dare \(2015 Remaster\)](https://open.spotify.com/track/4Z8PqDfPJjzcfKiY3uH9W1) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66) | 6:12 |
 | 13 | [You Know What You Are?](https://open.spotify.com/track/4Hs5Fu5fHNPwHvKAiUXotu) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 3:41 |
 | 14 | [Over The Electric Grapevine](https://open.spotify.com/track/1l6AdJbUeraVJudcDnQ3ua) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Tales From The Punchbowl](https://open.spotify.com/album/4zj8UNQeBccOC3OS8ZNthE) | 6:22 |
 | 15 | [6:00](https://open.spotify.com/track/1UQn05L6LCftnI9VoNy4Sp) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Awake](https://open.spotify.com/album/4jP59Kwqvy3n09eUe1Cge7) | 5:31 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 29 | [Bargain](https://open.spotify.com/track/4Vtl42qX97JBj68TKifBHR) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:33 |
 | 30 | [Thorazine Shuffle](https://open.spotify.com/track/1nkMih9NE9Ha0hH9aTGYCI) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dose](https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6) | 6:47 |
 | 31 | [Rat Salad \- 2012 \- Remaster](https://open.spotify.com/track/2b8xbWvck5yh9vvEogsfqa) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:30 |
-| 32 | [Overkill](https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 5:11 |
+| 32 | [Overkill](https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 5:13 |
 | 33 | [Dharma for One \- Live](https://open.spotify.com/track/2Bux4j9el8GFOrvAE8dMA3) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Living in the Past](https://open.spotify.com/album/4xOhK9LXV4Kz4VI1N7lOSO) | 9:58 |
 | 34 | [One World \(Not Three\)](https://open.spotify.com/track/61vPMevL4UysTHUKAEbV8j) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:46 |
 | 35 | [Keep Yourself Alive](https://open.spotify.com/track/6WKoOXecrcYW8RmerNCxFB) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [At The BBC](https://open.spotify.com/album/4Vqx3bD3CeW0LqQMiTz8lQ) | 3:48 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 44 | [Ya Mon](https://open.spotify.com/track/3ZDZhHNt492Z8eHfbAdtpJ) | [Liquid Tension Experiment](https://open.spotify.com/artist/0r1s1XoxdoXECGfyChzb2v) | [LTE3 \(Deluxe Edition\)](https://open.spotify.com/album/6GDFV4kWsQDYuah6tSqmu2) | 15:23 |
 | 45 | [Soul Sacrifice](https://open.spotify.com/track/4e0GkgtMPZFt41Ua8PlHQL) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 6:37 |
 
-Snapshot ID: `MCwzZmZlMDNiNDRlODJmODgwOWM0YjdkMTczODRhODEyYjRmN2RjNDA4`
+Snapshot ID: `MCxlMDhjYmZlOTNmNWMxMTkwMjAwYjc1NzlkNWNjYmEyMTQyNzcyYmRl`

@@ -1,12 +1,12 @@
 {
   "description": "La playlist de ton \u00e9t\u00e9 2023 ! \ud83c\udf1e",
-  "num_followers": 296274,
+  "num_followers": 296298,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmYwNjgzNWQwZjU2YjQ5YjcwMDZjM2M4NjE0MmMyYzBlOTI2NjZl",
+  "snapshot_id": "MCwwNDkxNTlmZTEwMTJlZGE2ZmVkNzk4NTk5MGY4YzkxNzRmOTNjMTZj",
   "tracks": [
     {
       "added_at": "2023-09-05 15:40:40",
@@ -739,6 +739,26 @@
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+    },
+    {
+      "added_at": "2023-09-05 15:40:40",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "TQG",
+      "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
     },
     {
       "added_at": "2023-09-05 15:40:40",

@@ -4,7 +4,7 @@
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:7IRnDitYnXmIpoClQ0XspK">Kasia Lins</a>
 
-1,210 songs - 2 day 17 hr 49 min
+1,211 songs - 2 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,8 @@
 | [Dandelions](https://open.spotify.com/track/74sXwCL8E8hOuQgv7540Oy) | [Ania Szarmach](https://open.spotify.com/artist/1LuaIftFN5BzXzUSKewJTL) | [Dandelions](https://open.spotify.com/album/4jRwKqfScNB0nsdmcWPg60) | 3:35 | 2021-12-07 | 2022-01-05 |
 | [Dawn](https://open.spotify.com/track/43j7ZXgRfama1HemTNxtNR) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Dawn](https://open.spotify.com/album/3R1P40t6HUakMfetgAy7fA) | 3:25 | 2023-09-05 | 2023-10-04 |
 | [Dawno Powinnam](https://open.spotify.com/track/6QUAY1emwwu4L3kFnjNVdG) | [Marta Burdynowicz](https://open.spotify.com/artist/0Ru3wtDZiezfG5SMQ89XDW) | [Dawno Powinnam](https://open.spotify.com/album/0wzGuRf3zZ4xiyX3RXn6ca) | 2:44 | 2022-08-02 | 2022-09-07 |
-| [Daylight](https://open.spotify.com/track/3byfmI41dXcU1nwp91qeWK) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Daylight](https://open.spotify.com/album/4cKYeZxPGS8lzCwbXanH0B) | 2:50 | 2023-10-03 |  |
+| [Daylight](https://open.spotify.com/track/3U35aWyWH9kFKRfTGCjD8X) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Daylight](https://open.spotify.com/album/1cFskkIb48mNGkvMoUBAOg) | 2:50 | 2023-10-03 |  |
+| [Daylight](https://open.spotify.com/track/3byfmI41dXcU1nwp91qeWK) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Daylight](https://open.spotify.com/album/4cKYeZxPGS8lzCwbXanH0B) | 2:50 | 2023-10-03 | 2023-11-04 |
 | [Decymy \- MTV Unplugged \(Live\)](https://open.spotify.com/track/6nKH2V8nvoNxWvlzFQgpJy) | [Natalia Kukulska](https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ) | [Decymy \- MTV Unplugged \(Live\)](https://open.spotify.com/album/4IYneMHHA3kFYtQh4ZsxVz) | 4:32 | 2022-04-05 | 2022-05-04 |
 | [Deep Ocean Love](https://open.spotify.com/track/79gSaAfgGXPBXz6T9U1cRO) | [Alia Fay](https://open.spotify.com/artist/592n9jWsXiAHOOQ7OvGrpS) | [Deep Ocean Love](https://open.spotify.com/album/6lfvI1OrA6ofbVBqE84Hst) | 3:37 | 2021-12-07 | 2022-01-05 |
 | [Definicje](https://open.spotify.com/track/4Bno8mEc5KJu03KnVGhEZz) | [Paulina Przybysz](https://open.spotify.com/artist/2kwgxgJT8XYGfHjWDp2API) | [Definicje](https://open.spotify.com/album/0QXymHmLdSmkC9l8A33NKO) | 4:10 | 2023-01-03 | 2023-02-01 |

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Jimmy Hunt
 
-2,153 songs - 4 day 18 hr 59 min
+2,155 songs - 4 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Cette année\-là](https://open.spotify.com/track/10JrUDqAjSR8JlcFj6GK8i) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:08 | 2022-12-23 | 2023-01-06 |
 | [Cette année\-là](https://open.spotify.com/track/41NJluEub1MMcwkUo411an) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:08 | 2022-12-02 | 2023-01-04 |
 | [Cette vie](https://open.spotify.com/track/2COzs35KuKto9iRL9RIZRg) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Cette vie](https://open.spotify.com/album/314caeDoxMmpPdP1aoPcyC) | 2:19 | 2023-07-28 | 2023-09-30 |
+| [Chaise pliante, pt\. 10](https://open.spotify.com/track/25DoHshEuKyhCpHd5UO4Bo) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Chaise pliante, pt\. 10](https://open.spotify.com/album/1tIGJ9Z67o0udH2OFSbep0) | 4:46 | 2023-11-03 |  |
 | [Champ Gauche](https://open.spotify.com/track/3VFnAkdqw4rTGNGDaFg2Jn) | [Dom Gouin](https://open.spotify.com/artist/7m2g8XzFxx2lvsiiPL5rBW) | [Champ Gauche](https://open.spotify.com/album/54ELUeCU5j4YtID1tMfrFt) | 3:09 | 2022-04-01 | 2022-04-09 |
 | [Changer le mal de place](https://open.spotify.com/track/7By5L98jfq0Dr1iSCADqIS) | [Julie Aubé](https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM) | [Changer le mal de place](https://open.spotify.com/album/1vmLrDeEJY45p86yNc51D7) | 2:57 | 2022-08-12 | 2022-08-27 |
 | [Changer le monde](https://open.spotify.com/track/5zzsZ24wZrEHgM8CVaAyZo) | [Star Académie](https://open.spotify.com/artist/4JNaMxBxA6eqY6QYRj5jDK) | [Changer le monde](https://open.spotify.com/album/7wK93zpO3qBJLuOnKkARDa) | 2:54 | 2022-02-11 | 2022-02-26 |
@@ -1056,6 +1057,7 @@
 | [La tête électrique](https://open.spotify.com/track/7HO0gZKBpwW7fmtFHZOzq8) | [Miels](https://open.spotify.com/artist/1T7DAgRWmzieWxeyEhBD8g) | [Lécher le ciel](https://open.spotify.com/album/45F26Fpa8FKsAy2MJyzcHg) | 3:31 | 2022-05-06 | 2022-05-20 |
 | [La vallée des fantômes](https://open.spotify.com/track/0CYFSRbOBPwwdqezHQKfKQ) | [Sébastien Lacombe](https://open.spotify.com/artist/2MZsADwBuFuSv6eRNIQm1t) | [Le chemin des possibles](https://open.spotify.com/album/4Ulibhn07t2Jzam0wP2tdq) | 3:26 | 2022-04-29 | 2022-05-14 |
 | [La Vie En Rose](https://open.spotify.com/track/6BpzjdJyNxG2Yf47YLoQah) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Queen of Hearts](https://open.spotify.com/album/6F13Kct2RcazzysroP8157) | 3:04 | 2021-12-31 | 2022-01-22 |
+| [La Vie Qu'on Mène](https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [La Vie Qu'on Mène](https://open.spotify.com/album/069Csc8QGTMYIHcQLAz8Iv) | 2:58 | 2023-11-03 |  |
 | [La visite](https://open.spotify.com/track/2wqyaiPDgS5ZZrFlx1Q35V) | [Veranda](https://open.spotify.com/artist/2uVYPi9uHm3LCyamNqiz1M) | [Là\-bas](https://open.spotify.com/album/2KWmLmZE7yZ8bwjCaHhpPK) | 3:53 | 2022-09-16 | 2022-09-24 |
 | [Laisse faire](https://open.spotify.com/track/7eFQnRjylo3pQbelR1R4Pz) | [Emmanuelle Querry](https://open.spotify.com/artist/332bgqbid7rQBvqcuTObcI) | [Laisse faire](https://open.spotify.com/album/3H8t91CIYSCZq8tEYobUio) | 3:04 | 2023-03-10 | 2023-03-18 |
 | [Laisse faire](https://open.spotify.com/track/1nH7As2czMezX6ZMrfExYn) | [Georgette](https://open.spotify.com/artist/0XWZoub8BMI2GUcGmcH2ts) | [Pré](https://open.spotify.com/album/5Is0G4eW3CHSWPLa16lsnY) | 3:04 | 2022-02-18 | 2022-03-05 |
@@ -1881,7 +1883,7 @@
 | [Tache d'encre](https://open.spotify.com/track/1toQXtLaRc3MaK53vKL24z) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Tache d'encre](https://open.spotify.com/album/0yYien414Z46D8nNVjFj9d) | 3:12 | 2023-08-18 | 2023-08-26 |
 | [Tailler la route](https://open.spotify.com/track/1QVJOUGl1L8or594MDDuts) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg) | [Tailler la route](https://open.spotify.com/album/3s91oeMeDBxVZ3kv62wJC8) | 3:45 | 2022-09-16 | 2022-10-01 |
 | [Tandem](https://open.spotify.com/track/30nckYPABarwP1tgpdbA4C) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Tandem](https://open.spotify.com/album/5uSaewtVB2BYOpE3J1A1SL) | 4:56 | 2023-02-17 | 2023-03-04 |
-| [Tant de choses](https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Tant de choses](https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU) | 3:24 | 2023-10-27 |  |
+| [Tant de choses](https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Tant de choses](https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU) | 3:24 | 2023-10-27 | 2023-11-04 |
 | [Tant étrange](https://open.spotify.com/track/74Wo6oZdOV3pKsDWkNZEnm) | [Feathership](https://open.spotify.com/artist/7jyB6xDRAHOnJseX86s7lm), [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Tant étrange](https://open.spotify.com/album/0m1tCymjc64dSbhZysiRp2) | 3:29 | 2023-01-20 | 2023-01-28 |
 | [Tata Fatima](https://open.spotify.com/track/1LMpqRbXddPe7BtWTRfV7c) | [YL](https://open.spotify.com/artist/2k8fAJK9HbH1FhqVpZL98P) | [Tata Fatima](https://open.spotify.com/album/0j9fL8leSygpAuAge8MsXG) | 2:45 | 2022-02-11 | 2022-02-26 |
 | [Taxi](https://open.spotify.com/track/4bVvBgvk8UmbGDerfsDex5) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Taxi](https://open.spotify.com/album/7MxQpGrwCZXl2qiVX2J0rA) | 2:59 | 2023-09-15 | 2023-09-17 |
@@ -2113,7 +2115,7 @@
 | [Zayon](https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/4XixYxgMhid00ACay6xpfN) | 3:32 | 2022-10-14 | 2022-10-29 |
 | [Zaza](https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Zaza](https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ) | 2:28 | 2023-05-05 | 2023-06-24 |
 | [zzz](https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [zzz](https://open.spotify.com/album/6CiyzGH2UrOvYFhQqiyPTP) | 3:07 | 2023-04-07 | 2023-04-29 |
-| [Zénith](https://open.spotify.com/track/7waEJapWACgWkq3by4intP) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Zénith](https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r) | 2:36 | 2023-09-15 |  |
+| [Zénith](https://open.spotify.com/track/7waEJapWACgWkq3by4intP) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Zénith](https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r) | 2:36 | 2023-09-15 | 2023-11-04 |
 | [Zéyo](https://open.spotify.com/track/6Ju3oVK75PQRBRSSEY3aVr) | [Sos](https://open.spotify.com/artist/1EnJt9iisNqggNX4yF5xQU) | [Zéyo](https://open.spotify.com/album/6M33tgDJorF8PcGYMInvTa) | 2:47 | 2022-11-25 | 2022-12-10 |
 | [À bientôt](https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [À bientôt](https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S) | 3:24 | 2022-08-26 | 2022-09-10 |
 | [À chaque année](https://open.spotify.com/track/7zOwCS6sB2VBuVmqDc9fUW) | [DAMES](https://open.spotify.com/artist/4OjnRMDyTYp17cyJlvnEpK) | [À chaque année](https://open.spotify.com/album/13Dl3AFvV7hA1IW9m3bAqa) | 3:08 | 2021-12-31 | 2022-01-22 |

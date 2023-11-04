@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 
 > Celebrate APIHM with music from Asian and Pacific Islander artists for the whole family\. Cover: Falu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,803 likes - 36 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,807 likes - 36 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 | 35 | [Small but Mighty](https://open.spotify.com/track/2tSaIsNOHPULivFVlHejoG) | [Ginalina](https://open.spotify.com/artist/06QOnJaT57H3lQcrx3B1kP) | [Small but Mighty](https://open.spotify.com/album/02oEsC2mLDX2DcK13w23hI) | 2:54 |
 | 36 | [Ma Ma Milk](https://open.spotify.com/track/1TwncWnOqITdWsf3FcGt6Y) | [BNK48](https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD) | [Warota People \(หัวเราะเซ่\)](https://open.spotify.com/album/2Q5yTezFLPUqCK80DOgElC) | 2:08 |
 
-Snapshot ID: `MCw2YmQ1OTlmNzBhMjFhMTU3MDQxYTYwYjhkYjRkMDg4ZTc4NGMyMzIx`
+Snapshot ID: `MCwxZWExMzI3YzY3M2IxZjNjMjU1MWFlMDZmMWYwNTk3YTVhOWZmZmM3`

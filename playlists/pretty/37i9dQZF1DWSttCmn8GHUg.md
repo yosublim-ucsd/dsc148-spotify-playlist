@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,922 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,084 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 55 | [Red Dirt Road](https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Red Dirt Road](https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf) | 4:20 |
 | 56 | [The Dash](https://open.spotify.com/track/4F9pqprfOvnv4r2B1LjG9l) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [See You Tonight](https://open.spotify.com/album/4WzDgE5rtzgdklKFoDvUcw) | 3:44 |
 | 57 | [She Goes to Work](https://open.spotify.com/track/1sMLcj9cFRwSFurIOcgDGM) | [Jake Dodds](https://open.spotify.com/artist/52YZB2e6Zr1V7Vwr2oEmrN), [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [She Goes to Work](https://open.spotify.com/album/1JYyllDH3ipVkMlMXfykCD) | 3:29 |
-| 58 | [American Heartbreaker](https://open.spotify.com/track/2pHwPZhKl75eC8JVfbT7de) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 2:48 |
+| 58 | [American Heartbreaker](https://open.spotify.com/track/6Tkgsv5ONibvcwtCA0YrCf) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/4brZz1xyqMDQJ1pIvldtrC) | 2:48 |
 | 59 | [Blood Brothers](https://open.spotify.com/track/4ggPIxXwOWReIBfyCVW8QI) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 4:03 |
 | 60 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 |
 | 61 | [Fifty Stars](https://open.spotify.com/track/36e3bRXpco1F7R0F0CyKLz) | [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [Fifty Stars](https://open.spotify.com/album/5qzhN3KFkqnHvzhZ4f3bw4) | 3:28 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 76 | [Two Soldiers Coming Home](https://open.spotify.com/track/1izEIegmClpoKR5fYvjWJL) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Act Of Valor](https://open.spotify.com/album/4DYnaZCZ0vvnBG67E8zTJn) | 3:26 |
 | 77 | [Courtesy Of The Red, White And Blue \(The Angry American\)](https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:15 |
 | 78 | [Boots On](https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Anything Goes](https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ) | 2:50 |
-| 79 | [God, Family and Country \- 2020 \- Remaster](https://open.spotify.com/track/7JJrfmgk4H3rEphFpWqoVB) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [God, Family, Country \(Deluxe Edition\)](https://open.spotify.com/album/1nGxSALyfv0Wq8CWZpIVnZ) | 3:26 |
+| 79 | [God, Family and Country](https://open.spotify.com/track/0BDszHuejHwgIMgjanu14j) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [I Love It](https://open.spotify.com/album/5wBgFNzyKaJU9aTs3wVhRU) | 3:26 |
 | 80 | [God Bless America](https://open.spotify.com/track/63Od9t6xI8CiIkr7T3XZfr) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [God Bless America](https://open.spotify.com/album/0MFRDEEOBK2OW0Ij5mN5XY) | 3:05 |
 | 81 | [Still a Soldier](https://open.spotify.com/track/1Pan52YU6LDMSwG57sEgdK) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Something’s Going On](https://open.spotify.com/album/2Mf76MzlpN307uTCbqFcXB) | 3:17 |
 | 82 | [Cross Country \(feat\. Mickey Guyton\)](https://open.spotify.com/track/3yf1lOT3aAaVzkyDYkxQLF) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Cross Country \(feat\. Mickey Guyton\)](https://open.spotify.com/album/1Z5vIsFPproLKSFGPx77ly) | 3:24 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 85 | [My Front Porch Looking In](https://open.spotify.com/track/2CVJECHIdpe8otFH0XFI4F) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Playlist: The Very Best Of Lonestar](https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5) | 3:43 |
 | 86 | [Arlington](https://open.spotify.com/track/1IdQeHmLig1Flat8nHkGo4) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Songs About Me](https://open.spotify.com/album/3XWgiQQ5dMilsbpKDWmzSA) | 4:07 |
 | 87 | [One Hell Of An Amen](https://open.spotify.com/track/2XEl9DfBj88c8p2bdfx1qu) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
-| 88 | [We Were Rich \- New Version](https://open.spotify.com/track/3Lp2u6JS7yK45JtGlHLLCJ) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [We Were Rich \(New Version\)](https://open.spotify.com/album/3wnVc8g6CcliodnvrNmZTz) | 3:37 |
+| 88 | [We Were Rich \(New Version\)](https://open.spotify.com/track/3oSeUEeRrQ9coH8mtGI3J7) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [We Were Rich \(New Version\)](https://open.spotify.com/album/5l1RRUBBe7j888hqdpccAs) | 3:37 |
 | 89 | [Thank You For Your Service](https://open.spotify.com/track/1HUyj7vmNweWwkQbHRXQ1A) | [Skyelor Anderson](https://open.spotify.com/artist/5bclkN4UM70TfIa6NGMGcr) | [Thank You For Your Service](https://open.spotify.com/album/5UtjSR2oh9v313D1wphblD) | 3:35 |
 | 90 | [Mississippi Girl](https://open.spotify.com/track/79YeQbd1p7MsuT7wHQLRYY) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Fireflies](https://open.spotify.com/album/7dtjpzbhRH1dc2gM0FLrqh) | 3:52 |
 | 91 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/59xdsxc0QGW6TDA3ZuQ9tS) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [half of my hometown](https://open.spotify.com/album/1wvacL4ghUHvi6PODfvbGN) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 99 | [Gone But Not Forgotten](https://open.spotify.com/track/1lJuY06cD1aBtPJ4Xh9LFK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Gone But Not Forgotten](https://open.spotify.com/album/37snSBOMCp6s8pvK6gb8dL) | 2:53 |
 | 100 | [Some Gave All](https://open.spotify.com/track/3wKfQaOgFxZ0qhXjo4iqlI) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 4:05 |
 
-Snapshot ID: `MCw1NjlkNDU1OGYxYzc4MDIwNTY3MzlmNDZhNWFjNWQ3NGY5NDcwMjhi`
+Snapshot ID: `MCwyOGE5NGNjMTIzODcwNjNlNTdhNDdhNGNhNTc0ZTQzYTBmOWZjZTRm`

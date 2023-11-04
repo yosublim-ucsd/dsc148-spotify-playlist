@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn">Conducta</a>'s favorite tracks\. Updated regularly\. Curated by Conducta\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-105 songs - 7 hr 54 min
+106 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Tabloids](https://open.spotify.com/track/7hwa0ASN3RA6GVT3HfUp67) | [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Tabloids](https://open.spotify.com/album/26xfHM17UpJSv20zYENRFx) | 3:11 | 2023-01-10 |  |
 | [Take Me To XTC](https://open.spotify.com/track/2IvsNaBZB8r1hm03vEidJC) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Take Me To XTC](https://open.spotify.com/album/63mjYIQG80TiHK0oG5b7e9) | 6:00 | 2023-01-10 |  |
 | [Temperature](https://open.spotify.com/track/60558jIMonmVGsALQrJh0n) | [Lewis Taylor](https://open.spotify.com/artist/6jthzPkuxcw4rYbkg6XnoR) | [Enter the Garage 2](https://open.spotify.com/album/2keeweZt8bBlNVwWsrVudk) | 3:50 | 2023-01-10 | 2023-02-01 |
-| [The Horn Song](https://open.spotify.com/track/2uSCLq40nkONxWeG4aNsbZ) | [The Don](https://open.spotify.com/artist/6MqMlfhYZ6anOzZgA3NuVk) | [The Horn Song](https://open.spotify.com/album/1xtkNTTWqeuETFKt2CkTvd) | 6:20 | 2023-01-10 |  |
+| [The Horn Song](https://open.spotify.com/track/2uSCLq40nkONxWeG4aNsbZ) | [The Don](https://open.spotify.com/artist/6MqMlfhYZ6anOzZgA3NuVk) | [The Horn Song](https://open.spotify.com/album/1xtkNTTWqeuETFKt2CkTvd) | 6:20 | 2023-01-10 | 2023-11-04 |
+| [The Horn Song](https://open.spotify.com/track/4IyMK1rjfYLyEtWRadSCQC) | [The Don](https://open.spotify.com/artist/6MqMlfhYZ6anOzZgA3NuVk) | [The Horn Song](https://open.spotify.com/album/03hTYLvVJ9zYI0efwX1I1G) | 6:20 | 2023-06-01 |  |
 | [The Launch \- Radio Edit](https://open.spotify.com/track/6FP4peicCGnib7asns71fs) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [The Launch](https://open.spotify.com/album/2mf2kFapmGUkmAVWvjjzr0) | 3:40 | 2023-01-10 | 2023-04-12 |
 | [Thief in the Night](https://open.spotify.com/track/55ChhLgT3NeedU0h1zf9Tb) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG) | [Thief in the Night](https://open.spotify.com/album/6R2Tx4e5WKHkNvA8LNERrH) | 3:50 | 2023-01-10 | 2023-03-08 |
 | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/track/5YSWtx5drmDZHP2weqJtAG) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [8AE](https://open.spotify.com/artist/1HX4A36aOWZMFx5eRHKIz1) | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/album/2efMCGuPSpEgLoSPsg5a5e) | 2:54 | 2023-01-10 |  |

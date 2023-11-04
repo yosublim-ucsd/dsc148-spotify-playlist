@@ -1699,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0LbXA51fsj4nv8i3mPl54w"
+      },
+      "artists": [
+        {
+          "name": "Amara La Negra",
+          "url": "https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/1WRXkAyxiHGMIwfay2oNCB"
+    },
+    {
+      "album": {
         "name": "Insecure",
         "url": "https://open.spotify.com/album/2S32rMqgkDur5hStJolwg6"
       },
@@ -1710,7 +1728,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 191906,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/5vad0eq5x3f3rtRlo8GnL4"

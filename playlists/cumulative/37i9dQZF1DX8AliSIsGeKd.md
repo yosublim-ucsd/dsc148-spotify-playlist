@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: biskuwi
 
-2,700 songs - 9 day 23 hr 59 min
+2,701 songs - 10 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,7 +710,8 @@
 | [Elephant On Speed](https://open.spotify.com/track/1GYhNXqAXrs7FxODUZjjpR) | [Simple Symmetry](https://open.spotify.com/artist/36oy3scxRLRqG8uptf04vG) | [Elephant On Speed](https://open.spotify.com/album/2EiYLIUyRnhHhnbVH6ynAA) | 6:05 | 2022-06-09 | 2022-06-24 |
 | [Elesa](https://open.spotify.com/track/7mYW6UDI53tZrhLycPqcw0) | [Haffenfold](https://open.spotify.com/artist/2b22KV07lFaJYxVmpdiCkq) | [Elesa](https://open.spotify.com/album/1en5wHdoxXFQhUsbCcx1uT) | 4:16 | 2023-01-05 | 2023-01-27 |
 | [Elevation](https://open.spotify.com/track/6lUjm26LUa7nIOA5M4Wd2D) | [Camea](https://open.spotify.com/artist/0MnbWZjm9z5LJewMuB7s5X), [The Reason Y](https://open.spotify.com/artist/1UJj77uMxQ75QrhQSU8W1I) | [Speicher 126](https://open.spotify.com/album/1GnY09lqGLp1DYUxzKi7ge) | 5:36 | 2023-02-23 | 2023-03-10 |
-| [Elevation](https://open.spotify.com/track/5qnCwf4JSeYIoZAYzs3MoK) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Trip to Sanity](https://open.spotify.com/album/7yHFXNvk1C4XzbNUOTYa3u) | 6:41 | 2023-11-02 |  |
+| [Elevation](https://open.spotify.com/track/118BQT160hFuM2JsBsa92g) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Elevation](https://open.spotify.com/album/5DHK349qDEGtNXfpmQ32hN) | 6:41 | 2023-11-02 |  |
+| [Elevation](https://open.spotify.com/track/5qnCwf4JSeYIoZAYzs3MoK) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Trip to Sanity](https://open.spotify.com/album/7yHFXNvk1C4XzbNUOTYa3u) | 6:41 | 2023-11-02 | 2023-11-04 |
 | [Elevator](https://open.spotify.com/track/4KnIdLdqNnZPOnq563gWgX) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Hiboo](https://open.spotify.com/artist/3DDqkYT2HFUNU8CD2F2lIi) | [Elevator](https://open.spotify.com/album/45fbTmpvr2IYAZRo7J9AeH) | 4:23 | 2023-05-04 | 2023-05-26 |
 | [Elevator](https://open.spotify.com/track/0uN1CisjEbMxUlE21W4VqE) | [ROBPM](https://open.spotify.com/artist/6QfZgJa0nrIKLwAdso7ai9) | [Elevator](https://open.spotify.com/album/3LYf7PPkVGRj18FssB1Y82) | 4:41 | 2022-05-12 | 2022-05-27 |
 | [Ellipse](https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Ellipse](https://open.spotify.com/album/41MYb0d8BxiQhby575mvbj) | 6:51 | 2022-06-02 | 2022-06-24 |

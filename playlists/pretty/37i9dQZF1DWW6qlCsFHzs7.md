@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 
 > <a href="spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn">Conducta</a>'s favorite tracks\. Updated regularly\. Curated by Conducta\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,242 likes - 70 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,247 likes - 70 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 | 63 | [Carnaval de Paris \- Radio Mix](https://open.spotify.com/track/59mdyQniSaNFeXaKMGu9RB) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Carnaval de Paris](https://open.spotify.com/album/0wevT1LD6VQtghix2apQgQ) | 3:52 |
 | 64 | [Cool Today](https://open.spotify.com/track/5PKDMreyVpxvUaWScLm3Hd) | [Prescribe Da Vibe](https://open.spotify.com/artist/6NMRGjavFP1DRXDMUxdse0) | [Ripe 'n' Ready \(A Kiwi Rekords Sampler\)](https://open.spotify.com/album/5G7JzPgCBTkHrQQh2tPGDG) | 5:12 |
 | 65 | [Main Vibe](https://open.spotify.com/track/2bntjqEIPsydwrDOLOxant) | [The Messenger](https://open.spotify.com/artist/2orGeI48riOftAQ9CzsiM8) | [Guide My Soul](https://open.spotify.com/album/5GjPu7psJRhBhCL6uQ0KdN) | 5:32 |
-| 66 | [The Horn Song](https://open.spotify.com/track/2uSCLq40nkONxWeG4aNsbZ) | [The Don](https://open.spotify.com/artist/6MqMlfhYZ6anOzZgA3NuVk) | [The Horn Song](https://open.spotify.com/album/1xtkNTTWqeuETFKt2CkTvd) | 6:20 |
+| 66 | [The Horn Song](https://open.spotify.com/track/4IyMK1rjfYLyEtWRadSCQC) | [The Don](https://open.spotify.com/artist/6MqMlfhYZ6anOzZgA3NuVk) | [The Horn Song](https://open.spotify.com/album/03hTYLvVJ9zYI0efwX1I1G) | 6:20 |
 | 67 | [Inside My Love \- Redlight Remix](https://open.spotify.com/track/3wHtZJUQBTjgfLqvSx1yww) | [Delilah](https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv), [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Inside My Love](https://open.spotify.com/album/4CHewnYVjx7UI32COdkrYI) | 4:25 |
 | 68 | [Rise For Love](https://open.spotify.com/track/6RtUXHKvEvHVXnm1Z1WU1Y) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Careless](https://open.spotify.com/album/3UvoNUY5z5XnLmYavKyDLN) | 6:41 |
 | 69 | [Pasilda \- Knee Deep Club Mix](https://open.spotify.com/track/2vhLsN2p6FHPPm4LfEBB3N) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI), [Knee Deep](https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R) | [Pasilda \(Extended Versions\)](https://open.spotify.com/album/7qCEf8CrHVD4C5uyPsTFT2) | 7:06 |
 | 70 | [Make Me Feel](https://open.spotify.com/track/2bq4FFDPno3B2rN2ysh28x) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Make Me Feel](https://open.spotify.com/album/759Lkn1ERq1SMekDhuvnbb) | 5:11 |
 
-Snapshot ID: `MCwwODc0MjZhMWRiM2VkMzEzMjU1NGJiNDY2ODlkYzk0NmM0YzgxY2Ex`
+Snapshot ID: `MCxkYzUzYzJlOTMzMzEzNjMxZmM4YjE2OTgwMzkxMTJiNGU4OGFkYjYz`

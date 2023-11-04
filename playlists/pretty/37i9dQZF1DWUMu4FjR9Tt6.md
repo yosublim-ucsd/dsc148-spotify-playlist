@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,542 likes - 86 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,652 likes - 86 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 14 | [Into My Soul](https://open.spotify.com/track/40shQVO7gSn2eVy9aekLAI) | [Gabin](https://open.spotify.com/artist/1SYoQVIV4djFVGt0En7qsQ), [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI) | [Mr\. Freedom](https://open.spotify.com/album/0ecg61A1QhVtz50WJ100cq) | 4:35 |
 | 15 | [Hot Damn](https://open.spotify.com/track/7LrFX1E1GkwkLs5XrkD7Y2) | [Baby Strange](https://open.spotify.com/artist/6tvTqe2dTu8jVV5pcyfAGc) | [Put Out](https://open.spotify.com/album/4xySq6HlK90WlkHYzZ7ZWj) | 3:38 |
 | 16 | [We'll Get Through](https://open.spotify.com/track/7qzWNwTdiodHlOMgC1MC5A) | [The Slugs](https://open.spotify.com/artist/2uVd7a7CGDZKUYP4yK7aer) | [Fort Fun](https://open.spotify.com/album/1LSJiyGSX7F27HwJj5bpVq) | 3:16 |
-| 17 | [Bruttosozialprodukt](https://open.spotify.com/track/6Z0k1oFdDR5zwAr59InV2q) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/28Uw8SirDAGkAOYAKrWsz3) | 3:01 |
+| 17 | [Bruttosozialprodukt](https://open.spotify.com/track/7KvP2ZTaarTcejYyR8KWPs) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/54rKvmBRbHPZApexRA7tce) | 3:02 |
 | 18 | [Let's Be Badder](https://open.spotify.com/track/6not6UsSods0rxJOo0mv3X) | [Lucern Raze](https://open.spotify.com/artist/7dI3P00ZhNevHfPf1zYkKn), [Cherry Pickles](https://open.spotify.com/artist/3dIfGgzwaWbsCHA0OhE2mK) | [INTERNATIONAL BREAKDOWN](https://open.spotify.com/album/1gAjcCci3J8qovfV2YLF4D) | 2:59 |
 | 19 | [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:51 |
 | 20 | [Cats In The Cradle](https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [America's Least Wanted](https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR) | 4:01 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 85 | [Sinnerman](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 10:22 |
 | 86 | [Hello](https://open.spotify.com/track/2ij8uf754WwccftaYn3kay) | [My Kullsvik](https://open.spotify.com/artist/5URiHHxjOuaGuNZPmccofu) | [Hello \(Swedish Cover\)](https://open.spotify.com/album/4HyNWn0hioQ8zyLbJVLa3i) | 4:22 |
 
-Snapshot ID: `MCw5NGVhZGEwYWI2NDJlYTZmZGYxN2YzNGFiZGRlMDViMjYwNGRkOGRk`
+Snapshot ID: `MCxlNGE4YzRiNzZhMzE1ZjNmNTMzYTUwMjEwMDNmMjRkMGI5YTJkOTE1`

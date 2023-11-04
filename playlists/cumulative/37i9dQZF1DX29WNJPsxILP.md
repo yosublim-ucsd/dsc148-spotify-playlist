@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring Dakait, Sez on the beat
 
-101 songs - 5 hr 20 min
+102 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Up To U](https://open.spotify.com/track/3Boqgxk2tt9FX35cyfcdmU) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/4OxsNm48pvNILoTb5geNfZ) | 3:08 | 2023-03-10 | 2023-06-10 |
 | [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2023-05-18 |  |
 | [Villain](https://open.spotify.com/track/1HCdZjUS2HaXCf7SJpOROy) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:38 | 2023-03-10 |  |
-| [Vision](https://open.spotify.com/track/7ofZEj1C0eRIvUFGfP1p6n) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Trapperx](https://open.spotify.com/artist/4lPuejLfxGcBAOW7T9b4mk) | [Vision](https://open.spotify.com/album/5j1Pzsq3CPv0RncydCxruK) | 2:53 | 2023-08-10 |  |
+| [Vision](https://open.spotify.com/track/7ofZEj1C0eRIvUFGfP1p6n) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Trapperx](https://open.spotify.com/artist/4lPuejLfxGcBAOW7T9b4mk) | [Vision](https://open.spotify.com/album/5j1Pzsq3CPv0RncydCxruK) | 2:53 | 2023-08-10 | 2023-11-04 |
+| [Vision](https://open.spotify.com/track/25yiXm2n2wqRLWrx45VASc) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Trapperx](https://open.spotify.com/artist/4lPuejLfxGcBAOW7T9b4mk) | [Vision](https://open.spotify.com/album/0N7CdOxDLpXLLHq5MngCRN) | 2:59 | 2023-10-12 |  |
 | [Vision](https://open.spotify.com/track/2Qp5dHlYVhl0jPteM1ihEI) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Trapperx](https://open.spotify.com/artist/4lPuejLfxGcBAOW7T9b4mk) | [Vision](https://open.spotify.com/album/4AXQtW5MR4oALknVaBo17v) | 3:02 | 2023-07-25 | 2023-08-17 |
 | [Vision](https://open.spotify.com/track/6oCLs2G4aTV7EN0PO3uyIE) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Trapperx](https://open.spotify.com/artist/4lPuejLfxGcBAOW7T9b4mk) | [Vision](https://open.spotify.com/album/5kwti1UH46UthQ2EEwQCtx) | 3:02 | 2023-03-10 | 2023-08-06 |
 | [War](https://open.spotify.com/track/6mRccKSAN4IChtUsnAzVGl) | [MassQline](https://open.spotify.com/artist/0kMK558QxTuQu1uvWJKuvh), [Hardbone boy](https://open.spotify.com/artist/6YNVY8546Vw6bVjsmUpQPx), [HYKE](https://open.spotify.com/artist/7yPtNp2UpTp2wYUEdM8k1O) | [War](https://open.spotify.com/album/0cGxD9dl9g9iTt0LXN3oTY) | 3:20 | 2023-10-11 |  |

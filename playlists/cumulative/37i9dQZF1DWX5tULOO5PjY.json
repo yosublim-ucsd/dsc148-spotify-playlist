@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Cameron's in Love",
+        "url": "https://open.spotify.com/album/7JetlByx1qsIeNvwGWBROW"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cameron",
+          "url": "https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291596,
+      "name": "Boogie's Gonna Get Ya",
+      "url": "https://open.spotify.com/track/73d5pFuEPATPXuKROhVITY"
+    },
+    {
+      "album": {
         "name": "Cameron's In Love",
         "url": "https://open.spotify.com/album/4ILDtDjR4whLl3bMH8Wzdu"
       },
@@ -106,7 +124,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 291626,
       "name": "Boogies Gonna Get Ya",
       "url": "https://open.spotify.com/track/32Mu2PQSnL2HFcBasP6NEq"
@@ -1084,7 +1102,7 @@
     {
       "album": {
         "name": "You Can't Have Your Cake and Eat It Too",
-        "url": "https://open.spotify.com/album/1kFjmuqLEVDVBbDFFPcszD"
+        "url": "https://open.spotify.com/album/59czOFyUIO3KivBLUlglPN"
       },
       "artists": [
         {
@@ -1095,6 +1113,24 @@
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 363157,
+      "name": "You Can't Have Your Cake and Eat It Too (Alternate Mix) ( 2012 - Remaster)",
+      "url": "https://open.spotify.com/track/7Fg1OMNNlJD6UjDh8rLEuT"
+    },
+    {
+      "album": {
+        "name": "You Can't Have Your Cake and Eat It Too",
+        "url": "https://open.spotify.com/album/1kFjmuqLEVDVBbDFFPcszD"
+      },
+      "artists": [
+        {
+          "name": "B.T. (Brenda Taylor)",
+          "url": "https://open.spotify.com/artist/3NpMhRPxH2KuankEDD51wV"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
       "duration_ms": 363160,
       "name": "You Can't Have Your Cake and Eat It Too - Vocal",
       "url": "https://open.spotify.com/track/7kYW2EsK6YV6gwB32HmbeI"

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:27LGatz1m8aJ7ZaVVWEphc\">Gui Boratto</a>'s favourite tracks. Updated regularly. Curated by Gui Boratto. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 69871,
+  "num_followers": 69876,
   "original_name": "Gui Boratto's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzkxYTJkODA2NmViZWVhMGU1M2RjNzViMWNkMzNiMjA4ZjI3MDk5",
+  "snapshot_id": "MCw1NDk4YmJjM2EyODE5YmJkZTMzNjQ1OTE1YmZkYjA2N2VmMDhiOTk0",
   "tracks": [
     {
       "added_at": "2023-06-13 11:25:23",
@@ -503,8 +503,8 @@
     {
       "added_at": "2023-06-13 11:25:23",
       "album": {
-        "name": "All Back to the Mine: Volume I - A Collection of Remixes",
-        "url": "https://open.spotify.com/album/2ugGAPGRIhvfTpnXUntZyW"
+        "name": "All Back to the Mine: Vol, 1: A Collection of Remixes",
+        "url": "https://open.spotify.com/album/3KeJlXOKiOo1HsMb3OFcvg"
       },
       "artists": [
         {
@@ -512,17 +512,17 @@
           "url": "https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO"
         },
         {
-          "name": "Eric Kupper",
-          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
-        },
-        {
           "name": "Francois K",
           "url": "https://open.spotify.com/artist/2Y9THkKdfe8FfoHAyOY4Tv"
+        },
+        {
+          "name": "Eric Kupper",
+          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
         }
       ],
       "duration_ms": 633901,
-      "name": "Forever More - Francois K & Eric Kupper Vocal Mix",
-      "url": "https://open.spotify.com/track/5bJVa2Rqeote6fN7pRzviI"
+      "name": "Forever More (Francois K & Eric Kupper Vocal Mix)",
+      "url": "https://open.spotify.com/track/6SmU2EobP4YEX1puSivNTn"
     },
     {
       "added_at": "2023-06-13 11:25:23",

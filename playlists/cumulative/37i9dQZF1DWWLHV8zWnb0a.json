@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 311866,
       "name": "A Letter to Elise",
       "url": "https://open.spotify.com/track/4DdXOLc1VMAY34ourCn1Xa"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 209266,
       "name": "Dirty Blvd.",
       "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 270400,
       "name": "Drown",
       "url": "https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS"
@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 252360,
       "name": "Human Behaviour",
       "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 256120,
       "name": "Into My Arms - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj"
@@ -2451,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Adore (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7ysKTnHt4ve0MvIWm3vPdz"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202853,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/5DuaMIvmPyT3oEvuccx6JO"
+    },
+    {
+      "album": {
         "name": "Adore (2014 Remaster)",
         "url": "https://open.spotify.com/album/7FI91iB3E4iXZV5hCEEhlc"
       },
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 370573,
       "name": "Red Right Hand - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj"
@@ -3850,7 +3868,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 234026,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/0evX82L72YwaZIEKw5fEQT"

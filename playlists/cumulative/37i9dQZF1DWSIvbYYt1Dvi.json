@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 155263,
       "name": "Demanda",
       "url": "https://open.spotify.com/track/6XjT1pBSLzCJJ5hYSM54YY"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 72000,
       "name": "Deriva",
       "url": "https://open.spotify.com/track/5fuXzLQAOD3pgwL9uunavL"
@@ -1596,6 +1596,36 @@
       "duration_ms": 154160,
       "name": "Desde Que Eu N\u00e3o Tinha Nada",
       "url": "https://open.spotify.com/track/5RcI8wb122fcezQ3x8UjIT"
+    },
+    {
+      "album": {
+        "name": "Destravei",
+        "url": "https://open.spotify.com/album/29euD1rGZcZ7bX9t2JLrg9"
+      },
+      "artists": [
+        {
+          "name": "Nego Max",
+          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
+        },
+        {
+          "name": "Dropallien",
+          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
+        },
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        },
+        {
+          "name": "Max B.O.",
+          "url": "https://open.spotify.com/artist/7rtewsbZDDw2iy0GcqYs8e"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Destravei",
+      "url": "https://open.spotify.com/track/6k1vUdEGISLogRQj5rkBXA"
     },
     {
       "album": {
@@ -6000,6 +6030,28 @@
       "duration_ms": 121379,
       "name": "Zona Sul",
       "url": "https://open.spotify.com/track/2ZcZ4qYoqAeYgynTdfhWue"
+    },
+    {
+      "album": {
+        "name": "\u00c9ter",
+        "url": "https://open.spotify.com/album/0jUHI4LFcRuNZH1CmQUkRY"
+      },
+      "artists": [
+        {
+          "name": "S\u00edntese",
+          "url": "https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5"
+        },
+        {
+          "name": "DJ Willi\u00e3o",
+          "url": "https://open.spotify.com/artist/1A3dpIiyfC63CwkJigQG14"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86817,
+      "name": "\u00c9ter",
+      "url": "https://open.spotify.com/track/1abTn1WYft3Yx2K4TtHQJX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi"

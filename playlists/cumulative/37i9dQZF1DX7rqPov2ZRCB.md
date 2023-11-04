@@ -4,7 +4,7 @@
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-251 songs - 19 hr 17 min
+252 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Abrete](https://open.spotify.com/track/18uSijEt6xcpnRnd6mnzGd) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt), [Martin Elias](https://open.spotify.com/artist/4w6suuqH0FKKYAwFK2GfkP) | [Abrete](https://open.spotify.com/album/5C3lLZkbzYvUOFj6LQl6O7) | 4:54 | 2019-09-09 |  |
 | [Adan y Eva](https://open.spotify.com/track/3PTwz9B9JQX97CZQDXD3xl) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Tatico Henríquez](https://open.spotify.com/album/0JD61srO8ptHAXAghonKen) | 2:43 | 2019-09-09 | 2022-11-25 |
 | [Adan y Eva](https://open.spotify.com/track/0RJs8drfEtEtUWy5Ujwbup) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Grandes Exitos](https://open.spotify.com/album/6s3CqsbYOpa4nUuiguAUIN) | 2:43 | 2019-09-09 | 2022-07-20 |
+| [Adan Y Eva](https://open.spotify.com/track/0u2gKAK4zjuirs0N92p6re) | [Tatico Henriquez Songs](https://open.spotify.com/artist/7dtGysB5MAuSn5b4mKqSDE) | [Cumbia Sampuesana](https://open.spotify.com/album/0WfYYLdvnOCl16NOf4OfJ8) | 2:44 | 2019-09-09 |  |
 | [Adán y Eva](https://open.spotify.com/track/4HLRak2Wxe2X2HndXYQ7pS) | [Tatico Henríquez](https://open.spotify.com/artist/1nEsnDQcktK5SB4ZKAezYM) | [La Cuestión](https://open.spotify.com/album/4UBjoC0P9jWZ5CndQhPFVD) | 2:44 | 2019-09-09 | 2023-02-24 |
 | [Ah Vas A Seguir](https://open.spotify.com/track/76iBvpmKIhyGujiLOH8lua) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Merengue Party Vol\. 2](https://open.spotify.com/album/2ZrtjCxnJAFwIXbrct78sZ) | 4:39 | 2019-09-09 | 2022-07-24 |
 | [Al Que Le Pique](https://open.spotify.com/track/3rHdsROdo2VVY3NUoQihT2) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [1](https://open.spotify.com/album/6ewQaPepdmwT139inGJBJ9) | 7:47 | 2019-09-09 |  |
@@ -139,7 +140,7 @@
 | [La Foto](https://open.spotify.com/track/3lGNaVyWdIzOe2aFQymR5F) | [Kerubanda](https://open.spotify.com/artist/4KhtKfn714A0oYBmpMHcz2) | [Cuento Triste](https://open.spotify.com/album/7Kdz2QVeTDGuBXZ0hXLrpj) | 4:43 | 2019-09-09 | 2023-06-30 |
 | [La Funda](https://open.spotify.com/track/75OFcipYCvVFui2YdNdfGc) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 8:14 | 2019-09-09 | 2022-10-04 |
 | [La Grama Chapia](https://open.spotify.com/track/09oNG7yDALMj4KbYZqv6zS) | [Raquel Arias](https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8) | [La Grama Chapia](https://open.spotify.com/album/4961HTA2TtwYlVYMdka1yR) | 4:39 | 2019-09-09 | 2022-07-29 |
-| [La Grama Chapia](https://open.spotify.com/track/7MArp47Di71hZnkhEew3ws) | [Raquel Arias](https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8) | [Los Numero Uno del Merengue Tipico, Vol\. 2](https://open.spotify.com/album/56muHwZ33PkyEKcu4vFH8W) | 4:39 | 2019-09-09 |  |
+| [La Grama Chapia](https://open.spotify.com/track/7MArp47Di71hZnkhEew3ws) | [Raquel Arias](https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8) | [Los Numero Uno del Merengue Tipico, Vol\. 2](https://open.spotify.com/album/56muHwZ33PkyEKcu4vFH8W) | 4:39 | 2019-09-09 | 2023-11-04 |
 | [La Gualebra](https://open.spotify.com/track/0yWMZMUTDBgQIFColSxDOj) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Merengues Típicos, Vol\. 1](https://open.spotify.com/album/5EZB4tvAG8NpJ67jD0muQQ) | 2:53 | 2019-09-09 | 2022-07-26 |
 | [La Herencia](https://open.spotify.com/track/5zX85Z7IGHcODx4EOhF9PB) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 3:35 | 2019-09-09 | 2022-07-29 |
 | [La Historia de Amor](https://open.spotify.com/track/2bvUMCgyJKmhDcaBaL9SX3) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 4:30 | 2019-09-09 | 2022-07-20 |

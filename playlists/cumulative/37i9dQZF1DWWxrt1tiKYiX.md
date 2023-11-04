@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Jonah Kagen
 
-219 songs - 12 hr 7 min
+220 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [I Should Probably Go To Bed \- Acoustic](https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed \(Acoustic\)](https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc) | 2:57 | 2022-01-28 |  |
 | [I Wrote A Song \- Acoustic](https://open.spotify.com/track/00EC5CH3rcbU2eCgUBnyJS) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Wrote A Song \(Acoustic\)](https://open.spotify.com/album/2xnlu6naZOCUeiYQZW6ke3) | 3:11 | 2023-04-14 | 2023-06-08 |
 | [I Wrote A Song \- Acoustic](https://open.spotify.com/track/3RKom6cYaG4eVGYkCgzat8) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Wrote A Song](https://open.spotify.com/album/5qlydNF8Z6kousaKWE5jRB) | 3:11 | 2023-05-19 | 2023-06-10 |
-| [I'll Be Seeing You](https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/3QUlMH61fQz93W2uVNU5CF) | 4:45 | 2023-06-09 |  |
+| [I'll Be Seeing You](https://open.spotify.com/track/0yyFpden41F1GBOjst2KkZ) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/6dxDMr7tAs1NCfZGZDUBja) | 4:45 | 2023-10-27 |  |
+| [I'll Be Seeing You](https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/3QUlMH61fQz93W2uVNU5CF) | 4:45 | 2023-06-09 | 2023-11-04 |
 | [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/4OQE489ScQdhBcELfacJw0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 3:07 | 2022-10-14 | 2022-12-03 |
 | [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/4dgY5vCvBBSylaRvgEd6dj) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 3:07 | 2022-07-15 | 2022-11-17 |
 | [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/6bnT4Xhs1lkOHgFjHq6M3b) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [i'm so tired..\. \(Stripped \- Live in LA\)](https://open.spotify.com/album/3bKSufZXpfGRvQ5qKBLJNh) | 3:07 | 2022-01-28 | 2022-07-29 |

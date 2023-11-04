@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Cumbia Sampuesana",
+        "url": "https://open.spotify.com/album/0WfYYLdvnOCl16NOf4OfJ8"
+      },
+      "artists": [
+        {
+          "name": "Tatico Henriquez Songs",
+          "url": "https://open.spotify.com/artist/7dtGysB5MAuSn5b4mKqSDE"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Adan Y Eva",
+      "url": "https://open.spotify.com/track/0u2gKAK4zjuirs0N92p6re"
+    },
+    {
+      "album": {
         "name": "La Cuesti\u00f3n",
         "url": "https://open.spotify.com/album/4UBjoC0P9jWZ5CndQhPFVD"
       },
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 279092,
       "name": "La Grama Chapia",
       "url": "https://open.spotify.com/track/7MArp47Di71hZnkhEew3ws"

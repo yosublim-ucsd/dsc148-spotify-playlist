@@ -4,7 +4,7 @@
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-115 songs - 7 hr 18 min
+116 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Bibbidi\-Bobbidi\-Boo \(The Magic Song\) \- As heard in the Netflix series The Umbrella Academy](https://open.spotify.com/track/2ghZP9SEs9NrvcOk0VgQJn) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Essential Perry Como](https://open.spotify.com/album/6guLNpxip1tU3OYWNkPksw) | 2:19 | 2022-06-17 |  |
 | [Bitter Taste](https://open.spotify.com/track/4gS0C89Jlx8Zx4853NYRLY) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Bitter Taste](https://open.spotify.com/album/5FW8hrEzkgu2MXf1Dy6yjF) | 4:26 | 2022-06-22 | 2023-11-03 |
 | [Bitter Taste](https://open.spotify.com/track/6AyWHf259DGuxOnwdsz1Lf) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Bitter Taste](https://open.spotify.com/album/3pJvA2HMStNO5I4W6uUKRh) | 4:26 | 2022-06-22 |  |
-| [Bruttosozialprodukt](https://open.spotify.com/track/6Z0k1oFdDR5zwAr59InV2q) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/28Uw8SirDAGkAOYAKrWsz3) | 3:01 | 2022-06-22 |  |
+| [Bruttosozialprodukt](https://open.spotify.com/track/6Z0k1oFdDR5zwAr59InV2q) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/28Uw8SirDAGkAOYAKrWsz3) | 3:01 | 2022-06-22 | 2023-11-04 |
 | [Bruttosozialprodukt](https://open.spotify.com/track/2jWCLuhLinumCeHiCGONu3) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/55KUCRFnvEUxWyogeidPex) | 3:02 | 2022-06-22 | 2023-05-11 |
+| [Bruttosozialprodukt](https://open.spotify.com/track/7KvP2ZTaarTcejYyR8KWPs) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/54rKvmBRbHPZApexRA7tce) | 3:02 | 2022-06-22 |  |
 | [Cats In The Cradle](https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [America's Least Wanted](https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR) | 4:01 | 2022-06-22 |  |
 | [Come In Mr Lonely](https://open.spotify.com/track/7KRKGms92lYIDBqplbuVIs) | [Jerry Dyke](https://open.spotify.com/artist/4Sg4tiV0Rp9LqsdO76J4gg) | [Country Teardrops \- Sun Records](https://open.spotify.com/album/3tS2KbfXJDWtAvPGWbUndC) | 2:18 | 2022-06-22 |  |
 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 | 2022-06-17 |  |

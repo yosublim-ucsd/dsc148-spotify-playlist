@@ -139,6 +139,28 @@
     },
     {
       "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/6ru3z0a7zW2B0q0VQz6WgU"
+      },
+      "artists": [
+        {
+          "name": "Pascal & Pearce",
+          "url": "https://open.spotify.com/artist/05EUuIFVDSu6ZquGa7wSny"
+        },
+        {
+          "name": "Yoav",
+          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/573RbecAqWAVbmMQXPjO1m"
+    },
+    {
+      "album": {
         "name": "Best Night of My Life",
         "url": "https://open.spotify.com/album/4XxDkLqQfNsGHHsiWOTGpB"
       },
@@ -1258,7 +1280,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 210226,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3OFnCTyDRIbv4WDRFotvMG"

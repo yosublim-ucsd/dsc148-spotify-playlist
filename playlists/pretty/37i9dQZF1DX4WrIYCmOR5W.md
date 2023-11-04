@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WrIYCmOR5W.md) - [plain]
 
 > Des chansons qui vous feront rire, vous et vos enfants
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202 likes - 26 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204 likes - 26 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WrIYCmOR5W.md) - [plain]
 | 10 | [Le ragga des pingouins](https://open.spotify.com/track/2iO78Nb1YLocEKtV8tVSul) | [Pigloo](https://open.spotify.com/artist/37QZVMta82rMyyEZN5ZOeP) | [La banquise \(Pigloo\)](https://open.spotify.com/album/7bgPikZ5FWo7rbNvLsK9U5) | 2:53 |
 | 11 | [Ponga \- Le pingouin judoka](https://open.spotify.com/track/6gCcMHX4WODRUy1jqWfuWZ) | [VaVa](https://open.spotify.com/artist/309eMzBSqbIxMyd6W9zUpI) | [Ponga \(Le pingouin judoka\)](https://open.spotify.com/album/59d5Hat4zxyL10RaAdhlRl) | 2:20 |
 | 12 | [Les sardines](https://open.spotify.com/track/6XBaTMiZa77Du2XEl1RNaa) | [Patrick Sébastien](https://open.spotify.com/artist/1GUwHltp99Oe5Y68ZJFZ3b) | [Pochette Surprise](https://open.spotify.com/album/4wn8seihGXXirz5KAOBoWA) | 3:53 |
-| 13 | [Tata Yoyo](https://open.spotify.com/track/7ulqjkcjg5aeMgyYD2SIyJ) | [Annie Cordy](https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot) | [Les indispensables](https://open.spotify.com/album/3elYVEC4r8jn73Ekqk26mm) | 2:34 |
+| 13 | [Tata Yoyo](https://open.spotify.com/track/09Jsup6YqSLxnWeqJsA2ht) | [Annie Cordy](https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot) | [Tata yoyo](https://open.spotify.com/album/3eMAg9LwfpmO0lVr2Dl74E) | 2:32 |
 | 14 | [Merguez partie](https://open.spotify.com/track/2T5DGuUmAnze5TYE4sXmGj) | [Les Musclés](https://open.spotify.com/artist/6QppA1SWIWR2jBhBTGp19j) | [L'essentiel](https://open.spotify.com/album/6yOucBhSn24JNDPWdLDtRY) | 4:12 |
 | 15 | [Fous ta cagoule \- Radio Edit](https://open.spotify.com/track/5IXh97bXm3Xf04REp19HqK) | [Fatal Bazooka](https://open.spotify.com/artist/5oDxGfxYaJkfp6xZlXQnr8) | [Fous ta cagoule \(Radio Edit\)](https://open.spotify.com/album/0qOrYJgX0rvjShwJRxTD5E) | 3:32 |
 | 16 | [Le feu ça brûle](https://open.spotify.com/track/55OiK6vDQLsxOYtnEsz5e2) | [Charly & Lulu](https://open.spotify.com/artist/5Xx9o6oW3mrkKoIt2UBaym) | [Le feu ça brûle](https://open.spotify.com/album/6BKVPu7fNOHb05XkjTGXP6) | 2:53 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WrIYCmOR5W.md) - [plain]
 | 25 | [La musclada](https://open.spotify.com/track/23FOEBE5EOSEpBKngOwPOz) | [Les Musclés](https://open.spotify.com/artist/6QppA1SWIWR2jBhBTGp19j) | [L'essentiel](https://open.spotify.com/album/6yOucBhSn24JNDPWdLDtRY) | 4:37 |
 | 26 | [Papayou](https://open.spotify.com/track/7iCol2HISkTo8kv8WC3Ydr) | [Carlos](https://open.spotify.com/artist/5BxSkqB9akjCvWjFig3HdU) | [Cristal collection](https://open.spotify.com/album/4VStD0LHwgI6ok4kmoKVZY) | 3:02 |
 
-Snapshot ID: `MCxhZTcwZTk2ZDhmODlhZjY5MGIwMzFlODI4ZTc5NGI5YzRjMzdlODJj`
+Snapshot ID: `MCxjMjc4YWY5NWE5ZjdiYzI3NzNhYzQ1OGU2Yjk5YjIyOGM5YTNiODlj`

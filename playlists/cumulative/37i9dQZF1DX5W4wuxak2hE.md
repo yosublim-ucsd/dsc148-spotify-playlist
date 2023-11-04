@@ -4,7 +4,7 @@
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-175 songs - 10 hr 2 min
+176 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Surrender](https://open.spotify.com/track/4mS1Su5zf50QwNcjYjYzG6) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Discover Cheap Trick](https://open.spotify.com/album/58er2WdwdmxNdGA5hOuJYV) | 4:13 | 2021-12-16 | 2022-07-29 |
 | [Surrender](https://open.spotify.com/track/58Y6BSkfvYMOlnzHEd4i7W) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Mullets Rock!](https://open.spotify.com/album/2z0xrls1lusYQBe8eWcRIT) | 4:14 | 2021-12-16 | 2022-11-13 |
 | [Teacher Teacher](https://open.spotify.com/track/4Vb8fzZfCOI351qz1g0ExT) | [Rockpile](https://open.spotify.com/artist/4eBRIkqBA2GyYKzLvXD9a4) | [Seconds Of Pleasure \(Expanded Edition\)](https://open.spotify.com/album/0dkVeZHLACjaN92aUHwu02) | 2:34 | 2021-12-16 |  |
-| [Teenage Kicks](https://open.spotify.com/track/7ATyLePQnHxFk5kzxWCcsh) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/2CGEIN4OnLWDewCT7C4JLh) | 2:28 | 2023-03-21 |  |
+| [Teenage Kicks](https://open.spotify.com/track/6UP5zTAuR4NFc1uZ3MHjvA) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/6lpgN6d9rlnFpZBzyQlDrE) | 2:28 | 2023-03-21 |  |
+| [Teenage Kicks](https://open.spotify.com/track/7ATyLePQnHxFk5kzxWCcsh) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/2CGEIN4OnLWDewCT7C4JLh) | 2:28 | 2023-03-21 | 2023-11-04 |
 | [Tempted](https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [East Side Story](https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy) | 4:00 | 2021-12-16 | 2023-03-22 |
 | [That Is Why](https://open.spotify.com/track/7eilLreA3JyO5IkSEYQTBt) | [Jellyfish](https://open.spotify.com/artist/10flBVEy5MiUXOJWTaFsyL) | [Bellybutton](https://open.spotify.com/album/6AvUI8ZOKncy7e6ThVbtAV) | 4:16 | 2021-12-16 | 2022-07-29 |
 | [The Concept](https://open.spotify.com/track/702Gf3Gh3NsC1KbCFrlrpe) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 6:07 | 2021-12-16 | 2022-07-27 |

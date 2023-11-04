@@ -4,7 +4,7 @@
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-150 songs - 9 hr 2 min
+152 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Inside of My Eyelids](https://open.spotify.com/track/1JFt4HzBxWRDKbMyHRFvpP) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Inside of My Eyelids](https://open.spotify.com/album/5cCpekdI31EuhKewxaRb3q) | 3:48 | 2023-03-09 |  |
 | [Inside of My Eyelids](https://open.spotify.com/track/4Y2QuvgYFm30gcsToZmojA) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Inside of My Eyelids](https://open.spotify.com/album/082w0kWPKkY25GsoqFSXqP) | 3:48 | 2023-02-11 | 2023-06-10 |
 | [Inside of My Eyelids](https://open.spotify.com/track/6N0TaPAonUGCLvVT1rhJYV) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Inside of My Eyelids](https://open.spotify.com/album/18BDPJhQ7oIrszk1Q0OMdj) | 3:48 | 2023-03-09 | 2023-10-25 |
-| [Interloper](https://open.spotify.com/track/5QFSiFgPpXBfdqT4jDpulB) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [You Will Not Die \(Deluxe Version\)](https://open.spotify.com/album/1jXzmeQ3KIYNvk9jureftg) | 4:09 | 2023-02-09 |  |
+| [Interloper](https://open.spotify.com/track/5QFSiFgPpXBfdqT4jDpulB) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [You Will Not Die \(Deluxe Version\)](https://open.spotify.com/album/1jXzmeQ3KIYNvk9jureftg) | 4:09 | 2023-02-09 | 2023-11-04 |
+| [Interloper](https://open.spotify.com/track/71UddNQST8S1eSqTxfU1YR) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [You Will Not Die \(Deluxe Version\)](https://open.spotify.com/album/5dkYB7Z92StO6FCnw4Wivr) | 4:09 | 2023-03-09 |  |
 | [It's Been A Long, Long Time](https://open.spotify.com/track/14TmAdCnF2aR5OoguGZ2JA) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:22 | 2023-02-09 |  |
 | [It's The Same Old Song](https://open.spotify.com/track/7d1ustAIlXG7ht5Q4IOv7s) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:46 | 2023-03-09 |  |
 | [Keeping It Laid\-Back](https://open.spotify.com/track/1kNPzNn1jEeoDtJb9AbH3E) | [River Police](https://open.spotify.com/artist/1tvs7pdkGopHf8jlhYXb86) | [Laid\-Back Indie](https://open.spotify.com/album/1vR9DXs47feqR7VLhLmFmV) | 2:41 | 2023-02-09 |  |
@@ -93,7 +94,8 @@
 | [Lost Cause](https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:32 | 2023-02-09 |  |
 | [Lost In Love](https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 3:53 | 2023-02-09 |  |
 | [Love Is a Bitch](https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Love Is a Bitch](https://open.spotify.com/album/6TMbfpGthu5uDvxssPWB9s) | 3:01 | 2023-02-09 |  |
-| [Love Potion No\. 9](https://open.spotify.com/track/6dLrSbDbxdg1QCJnqhBCAA) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Needles & Pins](https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0) | 2:03 | 2023-03-09 |  |
+| [Love Potion No\. 9](https://open.spotify.com/track/6dLrSbDbxdg1QCJnqhBCAA) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Needles & Pins](https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0) | 2:03 | 2023-03-09 | 2023-11-04 |
+| [Love Potion Number Nine \(Stereo\)](https://open.spotify.com/track/5CQtxEKlKtiJO3C4knSASA) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Meet The Searchers](https://open.spotify.com/album/17v5EN6pWTWvexUKpZy9FX) | 2:05 | 2023-03-09 |  |
 | [Lying](https://open.spotify.com/track/5CQbZw5NAdgkI0BAGgWJRa) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Lying](https://open.spotify.com/album/01vQmjhuP9elPIITPJue5T) | 3:36 | 2023-02-09 |  |
 | [Make It Up](https://open.spotify.com/track/0oInDc8Q0nc8I6mKIliCfk) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:31 | 2023-02-09 |  |
 | [Midnight Feast](https://open.spotify.com/track/1kso4ftbucCeUK4F4q7Nsk) | [Mr\. Scruff](https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip) | [Keep It Unreal \(10th Anniversary Analogue Remaster Edition\)](https://open.spotify.com/album/39lUJE0esEoBZpcYiEvede) | 3:36 | 2023-03-09 |  |

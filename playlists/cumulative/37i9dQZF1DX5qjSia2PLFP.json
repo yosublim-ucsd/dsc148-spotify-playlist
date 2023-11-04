@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves.  Cover:   <a href=\"spotify:artist:4jwROPSUkTkohLCRiyjiZZ\">DESTIN CONRAD</a>",
+  "description": "New music breaking waves.  Cover:   <a href=\"spotify:artist:6PvScqSJuICxvoA3UDYPmu\">JON VINYL</a>",
   "name": "Ripple Effect",
   "tracks": [
+    {
+      "album": {
+        "name": "'98 Vibes (Do You Right)",
+        "url": "https://open.spotify.com/album/4HoaA1yYAjNWf7Db0vpp8x"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Tiffany Gouch\u00e9",
+          "url": "https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238967,
+      "name": "'98 Vibes (Do You Right)",
+      "url": "https://open.spotify.com/track/2PYZj3AqpS6Vtr4ghoe8eV"
+    },
     {
       "album": {
         "name": "10, 9, 8, 7",
@@ -224,7 +246,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 145892,
       "name": "21",
       "url": "https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u"
@@ -1834,7 +1856,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 243026,
       "name": "clouds",
       "url": "https://open.spotify.com/track/1TL4KIt4eJqSN06PnXMWZu"
@@ -2148,6 +2170,24 @@
       "duration_ms": 207194,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
+    },
+    {
+      "album": {
+        "name": "Crying On Your Birthday",
+        "url": "https://open.spotify.com/album/7H0ZaJMQRQTquLuFN2jXqn"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228725,
+      "name": "Crying On Your Birthday",
+      "url": "https://open.spotify.com/track/5wNhm1LOZHZRdTcTk3rpZh"
     },
     {
       "album": {
@@ -2558,7 +2598,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 195833,
       "name": "Definition of Love",
       "url": "https://open.spotify.com/track/7FVSpM0idOhw4etUpkPf8d"
@@ -2688,7 +2728,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 201656,
       "name": "Don't Sit Right",
       "url": "https://open.spotify.com/track/1QfmAWoMdCxEKDINcoo39m"
@@ -2764,6 +2804,24 @@
       "duration_ms": 155742,
       "name": "Doves",
       "url": "https://open.spotify.com/track/7jnLqCgzOAwW3p8g90p4Rk"
+    },
+    {
+      "album": {
+        "name": "EXTRA",
+        "url": "https://open.spotify.com/album/4LGQZ0SlcfHMzr9jZ1USp2"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133475,
+      "name": "DROP TOP",
+      "url": "https://open.spotify.com/track/5LF0f602GWSAxZfmwRvUUI"
     },
     {
       "album": {
@@ -2870,6 +2928,28 @@
       "duration_ms": 148419,
       "name": "Easy Days",
       "url": "https://open.spotify.com/track/5apw7C5z0XtCZlTex1HPcl"
+    },
+    {
+      "album": {
+        "name": "A WOMAN'S MIND",
+        "url": "https://open.spotify.com/album/2MYD8D8JnJhahMEuJ5MnDP"
+      },
+      "artists": [
+        {
+          "name": "Nnena",
+          "url": "https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj"
+        },
+        {
+          "name": "Bijan",
+          "url": "https://open.spotify.com/artist/358oq2kHf2pyRO4HSwlHYN"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227092,
+      "name": "ECSTASY (feat. Bijan)",
+      "url": "https://open.spotify.com/track/01uD81ohGNu6xF4WKVz18z"
     },
     {
       "album": {
@@ -3112,6 +3192,24 @@
       "duration_ms": 187741,
       "name": "Face",
       "url": "https://open.spotify.com/track/3Hdeh6HKLdJd29L17gttkZ"
+    },
+    {
+      "album": {
+        "name": "Faith In Me",
+        "url": "https://open.spotify.com/album/7LYjhGa8tApUmsJJGJhnWk"
+      },
+      "artists": [
+        {
+          "name": "FACESOUL",
+          "url": "https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169108,
+      "name": "Faith In Me",
+      "url": "https://open.spotify.com/track/3fNWqV7i8LNGjOQsMpUByb"
     },
     {
       "album": {
@@ -3558,7 +3656,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 108588,
       "name": "FRIED",
       "url": "https://open.spotify.com/track/3Ni3aIyhb653KodcYFae0L"
@@ -3598,6 +3696,24 @@
       "duration_ms": 87349,
       "name": "Fuck Love, I Just Bought a New Truck",
       "url": "https://open.spotify.com/track/11RNMyEALKUFkA1ItyhHi7"
+    },
+    {
+      "album": {
+        "name": "Fucked Up",
+        "url": "https://open.spotify.com/album/3PiWHC0RwUSuk7q9u2kfJ5"
+      },
+      "artists": [
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205464,
+      "name": "Fucked Up",
+      "url": "https://open.spotify.com/track/6fxMv6DiUpXdV5ClfgTTqN"
     },
     {
       "album": {
@@ -3768,7 +3884,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 173834,
       "name": "Glow On You",
       "url": "https://open.spotify.com/track/3P7OYztpK2xfSRKkGARXgg"
@@ -3995,6 +4111,28 @@
     },
     {
       "album": {
+        "name": "Affirmations",
+        "url": "https://open.spotify.com/album/7nsuo2vcsPXDQdCQBY6SYv"
+      },
+      "artists": [
+        {
+          "name": "Anthony Brown & group therAPy",
+          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+        },
+        {
+          "name": "Kierra Sheard-Kelly",
+          "url": "https://open.spotify.com/artist/7k9QU2u4MTwjc6pHZoo9po"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337013,
+      "name": "Grace (feat. Kierra Sheard-Kelly)",
+      "url": "https://open.spotify.com/track/0tXgfxKBnI3iDI6GaDRrIk"
+    },
+    {
+      "album": {
         "name": "Gratuity",
         "url": "https://open.spotify.com/album/3RGJQBgfxj2bYWCoEPoc5e"
       },
@@ -4166,7 +4304,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 171869,
       "name": "Hater's Anthem",
       "url": "https://open.spotify.com/track/6zNDaCnyrI3uUuvYqLpnAO"
@@ -5114,7 +5252,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 203464,
       "name": "Kolo Kolo",
       "url": "https://open.spotify.com/track/4105eJHPqLaEDmdCo6qUUq"
@@ -5176,7 +5314,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 226933,
       "name": "Left, Right, GO!",
       "url": "https://open.spotify.com/track/47SKFvqr1fsD6uLApnnw7c"
@@ -5586,7 +5724,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 157451,
       "name": "LUCKY",
       "url": "https://open.spotify.com/track/3OmQETOVbKRGtBFqGMpOQY"
@@ -5644,6 +5782,24 @@
       "duration_ms": 171032,
       "name": "MAKE A WISH",
       "url": "https://open.spotify.com/track/1r4vcPwDJMZ9pTEJ4iR4Fc"
+    },
+    {
+      "album": {
+        "name": "MAKE IT UP",
+        "url": "https://open.spotify.com/album/6F4piW1oRQJIDtL7wEgxrm"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178536,
+      "name": "MAKE IT UP",
+      "url": "https://open.spotify.com/track/1zXefmngPj3d2nJEtwJNHd"
     },
     {
       "album": {
@@ -6591,6 +6747,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Hill",
+        "url": "https://open.spotify.com/album/659XtuIbCfz9UWWrlMmq7v"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253584,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2X62E2rxNuCK3IdwnutBbI"
+    },
+    {
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/2fgwCq2iDn5dM1ZYaDQ1du"
       },
@@ -6787,6 +6961,24 @@
     },
     {
       "album": {
+        "name": "Only You - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166670,
+      "name": "Only You - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg"
+    },
+    {
+      "album": {
         "name": "Options (feat. Tamera & Bellah)",
         "url": "https://open.spotify.com/album/2y88atrEyn3HMKLgpkD6VB"
       },
@@ -6824,7 +7016,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 184786,
       "name": "Our Roots Run Deep",
       "url": "https://open.spotify.com/track/3Wsb8BqisZpCO3ijhENBBa"
@@ -7570,6 +7762,24 @@
       "duration_ms": 286635,
       "name": "Pull Up(s)",
       "url": "https://open.spotify.com/track/5ycFHqi89RSSSC9kWNT3Zr"
+    },
+    {
+      "album": {
+        "name": "Human Butterfly",
+        "url": "https://open.spotify.com/album/4XSPIofc7OiXd5oP4QBpRw"
+      },
+      "artists": [
+        {
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150938,
+      "name": "Put It On God",
+      "url": "https://open.spotify.com/track/5vQWdbikBZizj6sxdVyRLn"
     },
     {
       "album": {
@@ -8578,7 +8788,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 164117,
       "name": "Something In My Eye",
       "url": "https://open.spotify.com/track/2DW8K92zcLza0lsTlBg7Ld"
@@ -9290,7 +9500,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 189960,
       "name": "Third Day (feat. Ty Brasel)",
       "url": "https://open.spotify.com/track/585LHTE4ugzJoCqk6bmkjV"
@@ -10186,6 +10396,24 @@
       "duration_ms": 181330,
       "name": "wish that i could - Memphis LK Remix",
       "url": "https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM"
+    },
+    {
+      "album": {
+        "name": "HYBRID",
+        "url": "https://open.spotify.com/album/4eQaGFxYhWzh11Z3JbTme8"
+      },
+      "artists": [
+        {
+          "name": "ZAHARA",
+          "url": "https://open.spotify.com/artist/4m9bwT2ufZWqMZXuCk52IY"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Withdrawals",
+      "url": "https://open.spotify.com/track/7pCl3P8VCYTeV14yAuG6AZ"
     },
     {
       "album": {

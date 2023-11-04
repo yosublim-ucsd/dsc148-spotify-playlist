@@ -218,7 +218,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 225760,
       "name": "Beat the Devil's Tattoo",
       "url": "https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 225760,
       "name": "Beat the Devil's Tattoo",
       "url": "https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN"
@@ -676,10 +676,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 192066,
       "name": "Electric Bones",
       "url": "https://open.spotify.com/track/0d909fyTumkG4JgC7kxTCm"
+    },
+    {
+      "album": {
+        "name": "Forgotten Pleasures",
+        "url": "https://open.spotify.com/album/2y53uIU8txKLctaYpLTPqe"
+      },
+      "artists": [
+        {
+          "name": "Findlay",
+          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Electric Bones",
+      "url": "https://open.spotify.com/track/1qVRnP3NeKUGkSS5KsQZzr"
     },
     {
       "album": {

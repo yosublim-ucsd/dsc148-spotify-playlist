@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 218240,
       "name": "A Little Respect - Live in Nashville",
       "url": "https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W"
@@ -2556,7 +2556,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 299573,
       "name": "Moves Like Jagger - Live In Manchester",
       "url": "https://open.spotify.com/track/5TeLifYMYzXQxNmJv0sHLL"
@@ -3180,6 +3180,24 @@
       "duration_ms": 165993,
       "name": "SOLO - Live",
       "url": "https://open.spotify.com/track/6V3dOOUiPg53wUf83tBLR8"
+    },
+    {
+      "album": {
+        "name": "The Show: The Encore",
+        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242124,
+      "name": "Something In The Orange - Live From Spotify Studios",
+      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
     },
     {
       "album": {
@@ -4204,7 +4222,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 235928,
       "name": "Youngblood - Live from The Royal Albert Hall",
       "url": "https://open.spotify.com/track/64IHMtwaJFXLpTPzRJPM30"

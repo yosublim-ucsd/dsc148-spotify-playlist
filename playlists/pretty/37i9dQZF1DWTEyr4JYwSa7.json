@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 52409,
+  "num_followers": 52456,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTI4OTBiOWUxNGE5MmVmMmY2NjQ5MjJmODRhYzI4ZTJlNDUwNTQw",
+  "snapshot_id": "MCw4NDQ3ZTc2NTA0MDg5NjZhMGZkYzcwNTQ2Zjc0YTAxZDNlMjVhMTQ5",
   "tracks": [
     {
       "added_at": "2023-10-13 22:20:24",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Christmas Lights",
-        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242495,
-      "name": "Christmas Lights",
-      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
         "name": "Holiday Wishes",
         "url": "https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 166146,
       "name": "Baby It's Cold Outside (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "Christmas Lights",
+        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242495,
+      "name": "Christmas Lights",
+      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Title (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7"
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 219653,
-      "name": "I'll Be Home",
-      "url": "https://open.spotify.com/track/0lTurWECr2XL607eJAj1A3"
+      "duration_ms": 144253,
+      "name": "Winter Wonderland - Remastered 2006",
+      "url": "https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+        "name": "Title (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
-      "duration_ms": 144253,
-      "name": "Winter Wonderland - Remastered 2006",
-      "url": "https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0"
+      "duration_ms": 219653,
+      "name": "I'll Be Home",
+      "url": "https://open.spotify.com/track/0lTurWECr2XL607eJAj1A3"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -947,6 +947,22 @@
       "duration_ms": 266933,
       "name": "Le ciel \u00e9tait blanc",
       "url": "https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
         "name": "Chansons hivernales",
         "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
       },
@@ -1015,6 +1015,38 @@
       "duration_ms": 208880,
       "name": "No\u00ebl Lougawou",
       "url": "https://open.spotify.com/track/6YzwtfjuqeSM6fEqExcaNi"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "A Very Trainor Christmas",
+        "url": "https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "My Kind Of Present",
+      "url": "https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "Chantons No\u00ebl!",
+        "url": "https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Martel",
+          "url": "https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis"
+        }
+      ],
+      "duration_ms": 140266,
+      "name": "Voici le p\u00e8re No\u00ebl",
+      "url": "https://open.spotify.com/track/7xndwWf5CYFfC3cN4KMhlV"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1039,54 +1071,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Chantons No\u00ebl!",
-        "url": "https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
       "artists": [
         {
-          "name": "Ren\u00e9e Martel",
-          "url": "https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 140266,
-      "name": "Voici le p\u00e8re No\u00ebl",
-      "url": "https://open.spotify.com/track/7xndwWf5CYFfC3cN4KMhlV"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
-        "name": "A Very Trainor Christmas",
-        "url": "https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "My Kind Of Present",
-      "url": "https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
-        "name": "The Hotel Caf\u00e9 presents... Winter Songs",
-        "url": "https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        },
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/1KDkSCXJIR4CJaVUK9qP7O"
+      "duration_ms": 227520,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1N5cFf4F9LNfov7GCGWpQc"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+        "name": "The Hotel Caf\u00e9 presents... Winter Songs",
+        "url": "https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        },
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
         }
       ],
-      "duration_ms": 227520,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/1N5cFf4F9LNfov7GCGWpQc"
+      "duration_ms": 266640,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/1KDkSCXJIR4CJaVUK9qP7O"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1563,54 +1563,6 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "La tour de b\u00e9belles",
-        "url": "https://open.spotify.com/album/6b7M7bwX4DSOvvN0rxYKmD"
-      },
-      "artists": [
-        {
-          "name": "Shilvi",
-          "url": "https://open.spotify.com/artist/6lPtV4QMcounmL4iNB7edn"
-        }
-      ],
-      "duration_ms": 177586,
-      "name": "Les soeurs crevette",
-      "url": "https://open.spotify.com/track/1ELX43S4uTTUavCNWQ1Bgx"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
-        "name": "Joyeux No\u00ebl",
-        "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
-      },
-      "artists": [
-        {
-          "name": "Ginette Reno",
-          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "J'ai vu maman",
-      "url": "https://open.spotify.com/track/7C2rBix360wLA61Al61APh"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
-        "name": "Les nuits de Repentigny",
-        "url": "https://open.spotify.com/album/0XCvQlTZV9Pyp3SyyceAsc"
-      },
-      "artists": [
-        {
-          "name": "Les Cowboys Fringants",
-          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
-        }
-      ],
-      "duration_ms": 255327,
-      "name": "No\u00ebl brun",
-      "url": "https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
         "name": "No\u00ebl tout blanc (feat. Marc-Andr\u00e9 Fortin, Alexandre Lapointe, Natalie Byrns, Les Enfants de D\u00e9cembre) [D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime]",
         "url": "https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ"
       },
@@ -1639,6 +1591,38 @@
       "duration_ms": 189474,
       "name": "No\u00ebl tout blanc - D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime",
       "url": "https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "Joyeux No\u00ebl",
+        "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
+      },
+      "artists": [
+        {
+          "name": "Ginette Reno",
+          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "J'ai vu maman",
+      "url": "https://open.spotify.com/track/7C2rBix360wLA61Al61APh"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "La tour de b\u00e9belles",
+        "url": "https://open.spotify.com/album/6b7M7bwX4DSOvvN0rxYKmD"
+      },
+      "artists": [
+        {
+          "name": "Shilvi",
+          "url": "https://open.spotify.com/artist/6lPtV4QMcounmL4iNB7edn"
+        }
+      ],
+      "duration_ms": 177586,
+      "name": "Les soeurs crevette",
+      "url": "https://open.spotify.com/track/1ELX43S4uTTUavCNWQ1Bgx"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1679,6 +1663,22 @@
       "duration_ms": 203169,
       "name": "No\u00ebl c'est toi",
       "url": "https://open.spotify.com/track/4rG6whNnK2TY2OZ042G5XY"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "Les nuits de Repentigny",
+        "url": "https://open.spotify.com/album/0XCvQlTZV9Pyp3SyyceAsc"
+      },
+      "artists": [
+        {
+          "name": "Les Cowboys Fringants",
+          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
+        }
+      ],
+      "duration_ms": 255327,
+      "name": "No\u00ebl brun",
+      "url": "https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj"
     },
     {
       "added_at": "2023-10-13 22:20:24",

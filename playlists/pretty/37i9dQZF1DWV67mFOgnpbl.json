@@ -1,12 +1,12 @@
 {
   "description": "For those who like to party hard!",
-  "num_followers": 354887,
+  "num_followers": 355108,
   "original_name": "Party Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTg2MjRiOTEyMTJkNDg2OTY1ZTVjNzYyY2E3NjlkY2JlODE2ZWJj",
+  "snapshot_id": "MCxjMjI5MDA0NDA5ODkxMmQ4NjcxN2Y1YWQ4ZjM4MzdlN2U0ZmRhNDQ2",
   "tracks": [
     {
       "added_at": "2023-10-27 12:45:10",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "Keeper of the Seven Keys, Pt. II (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0C00ibrtAGw59osJUg5qOO"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 280213,
-      "name": "I Want Out",
-      "url": "https://open.spotify.com/track/5VZwMq6yaFb04PCTfdNY3K"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
         "name": "Leviathan",
         "url": "https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2023-10-27 12:45:10",
       "album": {
+        "name": "N.A.T.I.O.N.",
+        "url": "https://open.spotify.com/album/6yMblFoGadj25t99DryfSv"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 237065,
+      "name": "Killing Me Slowly",
+      "url": "https://open.spotify.com/track/5RBWMYMSe6ihNb0hC8ro8v"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
         "name": "All Out Life",
         "url": "https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 255230,
       "name": "Prey",
       "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
-        "name": "N.A.T.I.O.N.",
-        "url": "https://open.spotify.com/album/6yMblFoGadj25t99DryfSv"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 237065,
-      "name": "Killing Me Slowly",
-      "url": "https://open.spotify.com/track/5RBWMYMSe6ihNb0hC8ro8v"
     },
     {
       "added_at": "2023-10-27 12:45:10",
@@ -823,22 +807,6 @@
       "duration_ms": 259760,
       "name": "Madhouse",
       "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
-    },
-    {
-      "added_at": "2023-10-27 12:45:10",
-      "album": {
-        "name": "Overkill (Expanded Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 311133,
-      "name": "Overkill",
-      "url": "https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ"
     },
     {
       "added_at": "2023-10-27 12:45:10",
@@ -1459,6 +1427,38 @@
       "duration_ms": 212940,
       "name": "Animal",
       "url": "https://open.spotify.com/track/31SU2q3fE2HRnwbGjfx63T"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "ROCKNROLL MACHINE",
+        "url": "https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm"
+      },
+      "artists": [
+        {
+          "name": "Turbonegro",
+          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Hurry Up & Die",
+      "url": "https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Somewhere Back in Time (The Best of 1980 - 1989)",
+        "url": "https://open.spotify.com/album/2BfXz1uwKCFaD5TddCWITq"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Run to the Hills - 1998 Remaster",
+      "url": "https://open.spotify.com/track/0QMfoF1pm0nzVkvojPfrzN"
     }
   ],
   "unique_name": "Party Hard",

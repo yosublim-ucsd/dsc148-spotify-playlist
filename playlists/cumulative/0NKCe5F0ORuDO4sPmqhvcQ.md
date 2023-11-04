@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-541 songs - 1 day 6 hr 28 min
+543 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Feel Like That](https://open.spotify.com/track/6OnoVlTab0GXCPqnu19Z9S) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Idarose](https://open.spotify.com/artist/1KtWTt471icGsQwTn6z9ls) | [Feel Like That](https://open.spotify.com/album/2JRR9tOzrH6mczJQDiFfP7) | 2:57 | 2021-11-19 | 2022-01-08 |
 | [Feel Something](https://open.spotify.com/track/5S2ZZBs451CuI81g9WjJIL) | [Late Night Therapy](https://open.spotify.com/artist/2mlllc3fdsSFJHJDBcg33I) | [Feel Something](https://open.spotify.com/album/3vHOxtVgvCeGR82IVwaDV6) | 4:15 | 2023-05-01 | 2023-06-23 |
 | [feel something real](https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [feel something real](https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N) | 3:28 | 2023-08-16 |  |
+| [Fever](https://open.spotify.com/track/4aonFWNn1hriqeEtXmMIRy) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ) | [Fever](https://open.spotify.com/album/1czheboLJFCb4lgJL2q4KK) | 2:40 | 2023-11-03 |  |
 | [Fight Me](https://open.spotify.com/track/2VMjr4nR9QptTiGOabyeFt) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Fight Me](https://open.spotify.com/album/2cCk1i1D2XQaclGYqaa5oY) | 3:51 | 2023-10-20 |  |
 | [Fill Up My Soul](https://open.spotify.com/track/60GQWonONfgADHxYL6zudO) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Fill Up My Soul](https://open.spotify.com/album/1umGjanxEtYyHRmC0QStND) | 3:00 | 2021-12-07 | 2022-01-08 |
 | [find your way \- Elohim Remix](https://open.spotify.com/track/2UYeqwRXXMeYY1qrnBz036) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [find your way \(Elohim Remix\)](https://open.spotify.com/album/4yMauO3cvYQq33kg41pxZI) | 2:54 | 2022-04-21 | 2023-04-01 |
@@ -301,6 +302,7 @@
 | [MACH 10](https://open.spotify.com/track/1lBkr90r5ayibZw92Be7RJ) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [MACH 10](https://open.spotify.com/album/3Uj5FjcVPVhC8UHUt1wfhV) | 3:19 | 2023-10-27 |  |
 | [Mad](https://open.spotify.com/track/7IUtD2X4mt2PMotBFM6uoL) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [AFFIRMATIONS](https://open.spotify.com/album/6qrsaSHCzscquJnDmEhs3m) | 2:44 | 2022-07-15 | 2023-07-20 |
 | [Make It Happen](https://open.spotify.com/track/7K1TsEgLCoNxr7tvPRJgrL) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:12 | 2021-10-22 | 2022-01-08 |
+| [Make It Somehow](https://open.spotify.com/track/40fXArbSGm9YqflinCTQ4p) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Make It Somehow](https://open.spotify.com/album/4mzct5WjZtrgHnqzv55jEn) | 2:48 | 2023-11-03 |  |
 | [MAKE ME BELIEVE](https://open.spotify.com/track/6Y15YurjpxSUQT2hAlW6Tz) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [MAKE ME BELIEVE](https://open.spotify.com/album/0LBFJdxLkwyZ9woZzh5M4W) | 3:55 | 2023-02-03 | 2023-07-20 |
 | [Make U Mine](https://open.spotify.com/track/4DkYzXzqNYXzFnHiqMQo73) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Jolie](https://open.spotify.com/album/5Fglro72AZhq61yRE9pVCx) | 4:03 | 2022-10-14 | 2023-04-01 |
 | [Matangi](https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Matangi](https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG) | 3:18 | 2022-06-24 | 2022-11-23 |

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-364 songs - 1 day 7 hr 0 min
+365 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Loops & Tings](https://open.spotify.com/track/0ePibFLQdYeU3vsvJQT7jH) | [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP), [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP) | [Loops & Tings](https://open.spotify.com/album/0ZPx0Z6KDyYXekcUops2Ua) | 3:56 | 2023-03-22 | 2023-03-25 |
 | [Loss Of Hope](https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Distorted Youth EP](https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi) | 7:19 | 2022-11-23 |  |
 | [Lucid Love](https://open.spotify.com/track/4lxezjHzTpF81nMNixy1OS) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Lucid Love](https://open.spotify.com/album/4fyUu9Mo0l6bRztTTe0ouz) | 3:08 | 2022-12-28 | 2023-01-06 |
+| [Lyra](https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Lyra](https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy) | 7:17 | 2023-10-27 |  |
 | [Mahoya](https://open.spotify.com/track/1s7ZoLVOFhBLXNIBYgavdr) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Mahoya](https://open.spotify.com/album/7bLQf71ETdGuL9GgXAyn4u) | 3:36 | 2023-08-11 | 2023-10-24 |
 | [Man Versus Machine](https://open.spotify.com/track/5T6hiNfpE5rB6MVsSRoTZ8) | [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ) | [Man Versus Machine](https://open.spotify.com/album/0o47CRav2OMQusX1FaOwQT) | 4:24 | 2023-06-02 | 2023-06-10 |
 | [Mankind](https://open.spotify.com/track/521p9zLwWdFrfWwGpgtIbF) | [Mitch De Klein](https://open.spotify.com/artist/7zGEI2pEvhrGrD2Vqrhpwg) | [Mankind](https://open.spotify.com/album/3Q1QrU32ydYQrPMZofU4lZ) | 3:46 | 2022-12-02 | 2023-02-18 |
@@ -285,7 +286,7 @@
 | [So What](https://open.spotify.com/track/73hU9Ye6vhw2STDJDwkviE) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [So What](https://open.spotify.com/album/5vuLKoA348KeFLl9ItykkH) | 4:21 | 2022-12-04 | 2022-12-07 |
 | [Solid Breaker](https://open.spotify.com/track/75GNdp1frMQ9mOfJugBU8v) | [PARAFRAME](https://open.spotify.com/artist/2MDR7nMS7lOrQsyZ5FZznk), [Denton Thrift](https://open.spotify.com/artist/3KntxbSQEIuXFl4OwsQskL) | [Solid Breaker](https://open.spotify.com/album/5MtA6H6YKqOxBbtqx4mv1k) | 4:31 | 2023-06-09 | 2023-06-17 |
 | [Somebody \- Edit](https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Somebody](https://open.spotify.com/album/6A6oGWjdOX6v40tZU9pW44) | 3:43 | 2022-12-28 | 2023-01-06 |
-| [Someone We Used To Love](https://open.spotify.com/track/6Od189h0PKZlMsLUt6onrw) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Lydmor](https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR) | [Someone We Used To Love](https://open.spotify.com/album/5OqUngFXqzdm8pJ13A2bMP) | 3:22 | 2023-07-13 |  |
+| [Someone We Used To Love](https://open.spotify.com/track/6Od189h0PKZlMsLUt6onrw) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Lydmor](https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR) | [Someone We Used To Love](https://open.spotify.com/album/5OqUngFXqzdm8pJ13A2bMP) | 3:22 | 2023-07-13 | 2023-11-04 |
 | [Something Unreal \- Oliver Huntemann & André Winter Remix](https://open.spotify.com/track/052FRbHApjMoCKHxJfqPro) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO), [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR), [André Winter](https://open.spotify.com/artist/3uGjpxycNoFU7hQYQduP4k) | [Something Unreal \(Oliver Huntemann & André Winter Remix\)](https://open.spotify.com/album/47f47tiAbZQvh7dIK7jlNn) | 6:42 | 2022-11-27 | 2022-12-08 |
 | [Somnia](https://open.spotify.com/track/1bahTOTB0QovvsqnWYJYqm) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Somnia](https://open.spotify.com/album/6LNIOYA9aaIQEkFbeWnDaz) | 7:13 | 2022-12-23 | 2022-12-29 |
 | [Sorry \(with Madonna\) \- Miss Monique Remix](https://open.spotify.com/track/4nb5Y4lJWwSccQRiFsHHcL) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\) \[Miss Monique Remix\]](https://open.spotify.com/album/5s5wL6wtBFh0aocKeSp3xq) | 3:07 | 2023-07-28 |  |

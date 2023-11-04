@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 
 > Build the foundation of your day with this great list of inspired modern rock and hardcore songs!  Cover: Wolves At The Gate
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,973 likes - 52 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,987 likes - 52 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Need You](https://open.spotify.com/track/6zd8T1PBe9JFHmuVnurdRp) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Unseen: The Lion And The Lamb \(Deluxe Edition\)](https://open.spotify.com/album/0LhYYU14RU6IPQ9vVMu3Yk) | 3:50 |
 | 2 | [The Price of Agony](https://open.spotify.com/track/7AtpVDfDXLUFVwojUMUYce) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/1YzifcxmauqYL9BXr0rkKs) | 4:47 |
-| 3 | [The Old Me](https://open.spotify.com/track/7HIQfzq7uFZNZUxzK2OjbH) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Broken](https://open.spotify.com/album/6OjdYx9U5k0Tex2SAKyDSh) | 3:09 |
+| 3 | [The Old Me](https://open.spotify.com/track/4mMgi9flknFXQi4VSbhi47) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Broken](https://open.spotify.com/album/0ItP8PEXg35DjbKlso5Gvn) | 3:09 |
 | 4 | [Abandoned](https://open.spotify.com/track/1feaOWrf70CKmj9MKWJBuE) | [4th Point](https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL) | [New Horizons](https://open.spotify.com/album/74J2EbDngHUVrtLFWi2ohZ) | 4:27 |
 | 5 | [Hollowed Out](https://open.spotify.com/track/23jSwzxet90GsYoKdmlMS6) | [As Cities Burn](https://open.spotify.com/artist/7eJA8CZoXCETi9axIfBFGT) | [Hollowed Out](https://open.spotify.com/album/2Y9kDOy6g5dUdMCEyMNOLj) | 3:14 |
 | 6 | [The Cure](https://open.spotify.com/track/3bimN1JcQkbLWcUJexAEyh) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eclipse](https://open.spotify.com/album/6L8gLKCluioceYP7WNmcol) | 4:16 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 | 51 | [Drive](https://open.spotify.com/track/1TBujZFt2bUwq7Vy7AsiUK) | [Archers Rise](https://open.spotify.com/artist/6ApaGLSpdoD84Z3g7pKIi4) | [Drive](https://open.spotify.com/album/6EDV8HpxLYt7LWbqFMr6th) | 4:40 |
 | 52 | [My Declaration](https://open.spotify.com/track/2uD6FPyDovbYAbI7oF2Srs) | [Bayless](https://open.spotify.com/artist/5cTZq90aOtEXdJBX4zThnu) | [My Declaration](https://open.spotify.com/album/1q7degKMC1ik1akGBNO0e9) | 4:12 |
 
-Snapshot ID: `MCxlMTE4MzhlNTZkODQ2NWQ5MTAzNDc4ZjZkZjkxMDYzNzAxYmUwOWY5`
+Snapshot ID: `MCw4OTk2N2Q5MDBmNDgxMDJiZWI1OWEyNzZlOWU1OTkxOWZmNWIxYTY5`

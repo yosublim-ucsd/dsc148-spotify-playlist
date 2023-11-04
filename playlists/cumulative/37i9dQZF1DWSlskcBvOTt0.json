@@ -6112,6 +6112,28 @@
     {
       "album": {
         "name": "Milkshake 20 (Alex Wann Remix)",
+        "url": "https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176949,
+      "name": "Milkshake 20 (Alex Wann Remix)",
+      "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
+    },
+    {
+      "album": {
+        "name": "Milkshake 20 (Alex Wann Remix)",
         "url": "https://open.spotify.com/album/4B5VkayNwax1Z2ZDThsNt9"
       },
       "artists": [
@@ -6126,7 +6148,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 176949,
       "name": "Milkshake 20 - Alex Wann Remix",
       "url": "https://open.spotify.com/track/39jBAaaSlgM9UdZBSKDd6F"
@@ -6694,7 +6716,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 432360,
       "name": "Never Sleep Again - Keinemusik Remix",
       "url": "https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q"
@@ -8002,7 +8024,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 159677,
       "name": "Rej",
       "url": "https://open.spotify.com/track/3wgJgvlQ1HXJvt61NRE08e"
@@ -8182,6 +8204,32 @@
       "duration_ms": 410436,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/2uMk69vfb7CPBysXCfwmdq"
+    },
+    {
+      "album": {
+        "name": "The Snake Charmer EP",
+        "url": "https://open.spotify.com/album/1xhMrG5Vxr4fF3ZjSp69jo"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        },
+        {
+          "name": "Damian Lazarus",
+          "url": "https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv"
+        },
+        {
+          "name": "DJ Holographic",
+          "url": "https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216354,
+      "name": "Revolution feat. DJ Holographic",
+      "url": "https://open.spotify.com/track/5NkGQPUlqyJox69Am1i8xn"
     },
     {
       "album": {
@@ -9854,7 +9902,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 189677,
       "name": "Tormenta",
       "url": "https://open.spotify.com/track/3AP0aiiXpP7gNVCUfevH3x"

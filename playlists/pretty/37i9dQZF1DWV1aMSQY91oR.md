@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: JUGGER
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,581 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,591 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 34 | [Pit Stop \(feat\. French Montana\)](https://open.spotify.com/track/51fqkA2jYEfXiUkcQYpCyB) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Pit Stop \(feat\. French Montana\)](https://open.spotify.com/album/6KwdG45dabKfLbbEFgEdCx) | 2:47 |
 | 35 | [Hard To Find](https://open.spotify.com/track/23bcfKipPSnWI4ftEteRud) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Hard To Find](https://open.spotify.com/album/27cW8vR5633qKUwM6DbRPF) | 3:09 |
 | 36 | [ALL OVER THE HOUSE](https://open.spotify.com/track/2z3dvNcu7FA2xY8RLMLs3l) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [ALL OVER THE HOUSE](https://open.spotify.com/album/79I8VH4WRQ9lSAmDzMerw3) | 2:08 |
-| 37 | [All My Life \(Burna Boy Remix\)](https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(Remixes\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 4:24 |
+| 37 | [All My Life \(Burna Boy Remix\)](https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(Remixes\) \(feat\. Burna Boy\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 4:24 |
 | 38 | [Better As Friends](https://open.spotify.com/track/1Y54uuagorm2GyckTcPEUR) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Better As Friends](https://open.spotify.com/album/0ER236qnvuLjPS5QXIIezP) | 3:01 |
 | 39 | [Stash](https://open.spotify.com/track/5UFhsTLoUugjkO7LHDTWvu) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Stash](https://open.spotify.com/album/6BJF0hLxqyvtLl2exI1dyX) | 1:43 |
 | 40 | [Hope You Know](https://open.spotify.com/track/2Ge2ZhznMuO22wIQ9Z5Wql) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hope You Know](https://open.spotify.com/album/1Od4A4Vif26G3twKbIGJp2) | 3:47 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Time Out](https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 3:41 |
 | 49 | [My Man Freestyle](https://open.spotify.com/track/1G0wK7X9GhKZEQw491GYgH) | [Adonis](https://open.spotify.com/artist/4lH9Hfp5njYn6iDrOnNuWU) | [My Man Freestyle](https://open.spotify.com/album/7mbOe7hhECWqfxbHpwrtIP) | 3:48 |
 
-Snapshot ID: `MCxjMzViMDRiMTU5MjFmNWNmNGYwMTc1YjNhMGVlYjI4OWQ2ZGU0NGI3`
+Snapshot ID: `MCwzZDgzMThmYmZjNjJlMzcxYjBlOTI4NTk0OTBiOTViMDlmMzZjNGUw`

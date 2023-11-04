@@ -868,7 +868,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 139642,
       "name": "Antonio - Audiotree Live",
       "url": "https://open.spotify.com/track/0WSmQgW58Urx3P7TMg2A8h"
@@ -7140,7 +7140,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 189253,
       "name": "Ghost with a Peach Skin",
       "url": "https://open.spotify.com/track/5cD2vEAaTKeSUrpFR8Umbs"
@@ -8939,6 +8939,24 @@
     },
     {
       "album": {
+        "name": "I got the fear",
+        "url": "https://open.spotify.com/album/6avuY3vylFhfFP1IFfDUGo"
+      },
+      "artists": [
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204837,
+      "name": "I got the fear",
+      "url": "https://open.spotify.com/track/6AFY12Amy94FW5S4jnGJ8s"
+    },
+    {
+      "album": {
         "name": "i had a dream that you died",
         "url": "https://open.spotify.com/album/5Sr54ojlK5V66jCFnVCfMM"
       },
@@ -9988,6 +10006,24 @@
       "duration_ms": 175108,
       "name": "Jesse",
       "url": "https://open.spotify.com/track/4BlydDDroXNIgkbhrtuw3d"
+    },
+    {
+      "album": {
+        "name": "Jesus Bathroom",
+        "url": "https://open.spotify.com/album/4AlF9rSjT2XeHz6FMlEqFZ"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177625,
+      "name": "Jesus Bathroom",
+      "url": "https://open.spotify.com/track/3vHPU3RcEjZfOwqHYWrPGo"
     },
     {
       "album": {
@@ -13138,7 +13174,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 235673,
       "name": "Pale Blue",
       "url": "https://open.spotify.com/track/7uOINyletKxpHrSiWehjEy"
@@ -13936,6 +13972,24 @@
       "duration_ms": 248433,
       "name": "Raincoat",
       "url": "https://open.spotify.com/track/4dnCiQAGqygYUroZtTvdtG"
+    },
+    {
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE"
+      },
+      "artists": [
+        {
+          "name": "Theo Bleak",
+          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180693,
+      "name": "Raining All The Time",
+      "url": "https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI"
     },
     {
       "album": {

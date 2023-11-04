@@ -1042,10 +1042,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 230623,
       "name": "miss me (when you're gone) - [sad version] [Acoustic]",
       "url": "https://open.spotify.com/track/6UWXV4zk4zJCzJQZXHifBX"
+    },
+    {
+      "album": {
+        "name": "miss me (when you're gone) remixes",
+        "url": "https://open.spotify.com/album/1pEipsUVstkQ8cbB1hSr8I"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230623,
+      "name": "miss me (when you\u2019re gone) (sad version) (Acoustic)",
+      "url": "https://open.spotify.com/track/52vl4KA0ATWJ6Mf7QChsd3"
     },
     {
       "album": {

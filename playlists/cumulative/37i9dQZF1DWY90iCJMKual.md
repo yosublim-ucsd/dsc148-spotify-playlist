@@ -4,7 +4,7 @@
 
 > vibe out w some 🇵🇭 R&B Cover: KYLIX
 
-175 songs - 10 hr 15 min
+176 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Dare You](https://open.spotify.com/track/2HLCZ1OJCd3uRd5o5btDNW) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [Dare You](https://open.spotify.com/album/1IkwnBsMi80pYR6hHLUMZO) | 2:56 | 2023-10-02 |  |
 | [Dazed](https://open.spotify.com/track/6gPB7r1NuSNfiC4GSnARcz) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [Dazed](https://open.spotify.com/album/5XVE9feP9gPeaEnYDzHMaB) | 4:00 | 2022-10-12 | 2022-12-15 |
 | [DESPERADO](https://open.spotify.com/track/5OhOlK3n9t6vCsDjNQvdOc) | [ARDEE](https://open.spotify.com/artist/5KyAtSiun66X0W4l9azY1J), [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB), [aust\|nn](https://open.spotify.com/artist/02qicH9o3fQf9RhfhzGgKm) | [DESPERADO](https://open.spotify.com/album/0zpdy5QT4W1S138ntxeywQ) | 4:57 | 2022-10-12 | 2023-05-18 |
-| [Di Na Babalik](https://open.spotify.com/track/0Gt84LW4Ec1ptxIQiIJY3N) | [yshy](https://open.spotify.com/artist/5DKxABYbjG07LuQ929VRST), [Limpo](https://open.spotify.com/artist/5pRXGrEPlgwQLEKeO2NQhp) | [Di Na Babalik](https://open.spotify.com/album/5RAmV5jGpAZTz99u1sVIJM) | 3:51 | 2023-09-06 |  |
+| [Di Na Babalik](https://open.spotify.com/track/0Gt84LW4Ec1ptxIQiIJY3N) | [yshy](https://open.spotify.com/artist/5DKxABYbjG07LuQ929VRST), [Limpo](https://open.spotify.com/artist/5pRXGrEPlgwQLEKeO2NQhp) | [Di Na Babalik](https://open.spotify.com/album/5RAmV5jGpAZTz99u1sVIJM) | 3:51 | 2023-09-06 | 2023-11-04 |
 | [Did You Find It?](https://open.spotify.com/track/4PhW0Z9U99NPtPDT8Y8uhC) | [Miguel Abella](https://open.spotify.com/artist/7gStcwSNzziJ8QL0QswaXd) | [Did You Find It?](https://open.spotify.com/album/53drB90hiqveZhAeUsRah5) | 3:25 | 2023-06-13 | 2023-09-26 |
 | [Diggin On You](https://open.spotify.com/track/1U3eywESMeRvn6OSdh5HzU) | [Kiddo Chris](https://open.spotify.com/artist/4ZO0HvlndussEIrQsozD2G) | [Diggin On You](https://open.spotify.com/album/4nt0w0fvGSRWIIawUbeC1J) | 2:54 | 2022-12-14 | 2023-09-07 |
 | [Dimes](https://open.spotify.com/track/16AJqIiU7tcXSvweFAWv32) | [Keyshia](https://open.spotify.com/artist/5yAQQQfO9QNt3LtRZXlr5t) | [Dimes](https://open.spotify.com/album/4XYYwGYViQqsAxFofX5ffZ) | 3:18 | 2023-10-27 |  |
@@ -175,6 +175,7 @@
 | [This Time](https://open.spotify.com/track/5L5AWDc2l60ERMyHcVEDvj) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [This Time](https://open.spotify.com/album/1XHoPyg3Dd7vjCMBmeNFnI) | 3:35 | 2023-09-25 |  |
 | [Thought Of U \- slowed & reverb](https://open.spotify.com/track/5fLQYQqxU84ZYuCz7h66vr) | [ApMontyy](https://open.spotify.com/artist/4Fme6fUX56OGZvgE55ph5E), [joey roque](https://open.spotify.com/artist/11MBKb57L3HI0dQneBD4In) | [Thought Of U \(slowed & reverb\)](https://open.spotify.com/album/2VTDr7UcQc1Xm0e2dXkohN) | 3:20 | 2022-10-12 | 2023-07-29 |
 | [Tip toe](https://open.spotify.com/track/0N0bRL7uucmz8EHrqukYLv) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Tiptoe](https://open.spotify.com/album/3ZaOGN3CcaDODlENMBJLIj) | 2:37 | 2023-10-27 |  |
+| [TRUTH SERUM](https://open.spotify.com/track/58sBIAQcrTqg2KXUlTlddz) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [TRUTH SERUM](https://open.spotify.com/album/2hbvVzco8KoNHw696LIia5) | 3:22 | 2023-11-03 |  |
 | [u & i](https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [u & i](https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh) | 3:03 | 2022-10-12 | 2023-07-29 |
 | [Vibin](https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Vibin](https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT) | 2:45 | 2022-10-12 | 2023-07-29 |
 | [Wants](https://open.spotify.com/track/1me0Y1D0PJEJbyYMMI1Sbv) | [Psvlm](https://open.spotify.com/artist/5hAPoOZdijqwQwd8BD6OYn) | [Wants](https://open.spotify.com/album/4r6YgoipYcMSayKHP7DcsA) | 2:58 | 2022-10-12 | 2023-07-29 |

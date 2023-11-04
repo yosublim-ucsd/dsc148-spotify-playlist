@@ -4,7 +4,7 @@
 
 > You know\. Epik High Is Here.
 
-108 songs - 6 hr 52 min
+109 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Rosario](https://open.spotify.com/track/12QfVb1TGSSaSL7922KGyf) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl) | 3:50 | 2022-02-14 | 2022-07-29 |
 | [Rosario \(Feat\. CL, ZICO\)](https://open.spotify.com/track/0OWBz5FCeATA2zhHgAk7Uh) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu) | 3:50 | 2022-02-14 |  |
 | [Run](https://open.spotify.com/track/3kUJ9u148oaHwdKFT45qb3) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epilogue](https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919) | 3:30 | 2022-02-14 |  |
+| [Screen Time \(Feat\. Hoshi of SEVENTEEN\)](https://open.spotify.com/track/4yorFTfi9Tay8tG0NNK7vB) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Screen Time](https://open.spotify.com/album/5E5xpayOlNMK28OxS7deDq) | 3:53 | 2023-11-03 |  |
 | [Sleeping Beauty](https://open.spotify.com/track/2V4jY09PHhJpM5hpbHcSKs) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Sleeping Beauty](https://open.spotify.com/album/66xEyYMRttGk8Vsq8zmpQ4) | 4:12 | 2022-02-14 |  |
 | [Sleeping Beauty \(End of the World x EPIK HIGH\)](https://open.spotify.com/track/3DaEdOs0IIj9vCZxO9ZfVT) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Sleeping Beauty \(End of the World x EPIK HIGH\)](https://open.spotify.com/album/37bIc0ETYUhgwOeFj02CEg) | 4:12 | 2022-02-14 | 2022-07-29 |
 | [Social Distance 16](https://open.spotify.com/track/7GiFLEeZrEV1d83YowQQn0) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu) | 1:04 | 2022-02-14 |  |

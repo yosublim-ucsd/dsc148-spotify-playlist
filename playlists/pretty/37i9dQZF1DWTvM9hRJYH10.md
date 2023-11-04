@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Graham Barham
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,376 likes - 172 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,420 likes - 172 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 24 | [Where Did All The Cowboys Go \(reimagined\)](https://open.spotify.com/track/0Mb7cQgxUHG1sv942JKRQN) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB), [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Where Did All The Cowboys Go \(reimagined\)](https://open.spotify.com/album/0oQTz1ECewqKTOYgkWbiIN) | 3:18 |
 | 25 | [Critic](https://open.spotify.com/track/70mrIsFkdsc58aBJJWSNTO) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Critic](https://open.spotify.com/album/47aMURbtlVhMAlR50M6dd4) | 3:11 |
 | 26 | [Memories](https://open.spotify.com/track/180x7QSS94PEVrJnLMYTV2) | [Jordan Rager](https://open.spotify.com/artist/4XoYsecWoLIoV66HEbt365) | [Memories](https://open.spotify.com/album/2RIyH2pNBgdBkdudi7FXFt) | 3:11 |
-| 27 | [Tennessee's Waiting](https://open.spotify.com/track/5W8SNrY9AxNWfsl7X5a5O4) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [The Other Half](https://open.spotify.com/album/6cmoD6nJ4anqACfPpuPjtE) | 3:09 |
+| 27 | [Tennessee’s Waiting](https://open.spotify.com/track/7IvzjFp53lsHrQzTiBsATg) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Tennessee's Waiting](https://open.spotify.com/album/7M5V96Xw8tnHAFwdjAkPWb) | 3:09 |
 | 28 | [I Hate Airplanes](https://open.spotify.com/track/14ZSuAaYFhkzndL7dl3dMe) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [I Hate Airplanes](https://open.spotify.com/album/04Esw3tpeyec7D9zxmEq7r) | 3:04 |
 | 29 | [Lonely Outta You](https://open.spotify.com/track/4K6Hx75Blpyb7ERrkhfBuv) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Lonely Outta You](https://open.spotify.com/album/0QmiHb5sXcfNzr0j07KKOB) | 3:16 |
 | 30 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 44 | [Just Like July](https://open.spotify.com/track/6AV8mVeFUk0seEUx9m04zL) | [Anslee Davidson](https://open.spotify.com/artist/3mlqM4lAX2Su8FRDw4E3K7) | [Just Like July](https://open.spotify.com/album/3B0vTKdSiAYKG3zp49qzTM) | 3:14 |
 | 45 | [Mama Ain't Jesus](https://open.spotify.com/track/3ELOyDhZUfHmPyPqcyzGs6) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Mama Ain't Jesus](https://open.spotify.com/album/5Hv1zXpGhoFqxWWGH2i7Xy) | 3:11 |
 | 46 | [First Time](https://open.spotify.com/track/3CusVXKAMVGcxv9NcB4mHP) | [Brooks Huntley](https://open.spotify.com/artist/0qkwQ7ZLjeOdypr1UQCe9m) | [First Time](https://open.spotify.com/album/1qO6Xi9yMZEhLGKZqsVmcc) | 3:08 |
-| 47 | [Slide](https://open.spotify.com/track/0SSBQdSqV7cE07R1k0auuJ) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/79xHTzUrCaeUntHK1XqRyU) | 3:34 |
+| 47 | [Slide](https://open.spotify.com/track/5bkI1sHZKGz4iFQzPX7GJI) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ) | 3:34 |
 | 48 | [What Do We Do Now?](https://open.spotify.com/track/6ptcHU0vegcB2ef8rqeOWR) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 2:36 |
 | 49 | [Made 4](https://open.spotify.com/track/4COnGh5sbj0RDu4dlXQ1TO) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Made 4](https://open.spotify.com/album/6Eacil6L3AjYDm3eLYDR8I) | 2:49 |
 | 50 | [Out of That Memory](https://open.spotify.com/track/1jg2kF8lorLHICXD2vwZjI) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Out of That Memory](https://open.spotify.com/album/15fAc3aWRijNYBEiP2J80K) | 3:14 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 171 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 |
 | 172 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 |
 
-Snapshot ID: `MCw5NWQ4NjI2Zjc1MTc4MTg2ZDdkOTA3MWNiMDA0YjUwYTc0MzcxZjlj`
+Snapshot ID: `MCw0Nzk1ZDlmYjI1ODNjODI1NzU2YTA2MjhkM2RkZTBjMjAyYjUwODU4`

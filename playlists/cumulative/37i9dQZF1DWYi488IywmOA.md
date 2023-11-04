@@ -4,7 +4,7 @@
 
 > Blues favorites from 2022\. Cover: Eric Gales \#SpotifyWrapped
 
-149 songs - 9 hr 46 min
+150 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Full Moon, Half Crazy](https://open.spotify.com/track/7dUXtAVJTPSGnoCkk71Qif) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Holler If You Hear Me](https://open.spotify.com/album/13Bf7tzevJNc8iqYysngFy) | 3:21 | 2021-12-01 | 2022-12-01 |
 | [Funky Bitch](https://open.spotify.com/track/0cibalqHJd5nVz6U51PpwR) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Traveler's Blues](https://open.spotify.com/album/1FvSXWIYbHm4plK9ytVaLd) | 4:32 | 2021-12-01 | 2022-12-01 |
 | [Ghosts](https://open.spotify.com/track/3FyOlhaEmBMvDi2EePzPbp) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 5:09 | 2022-11-30 |  |
-| [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 | 2022-11-30 |  |
+| [Good Times](https://open.spotify.com/track/5cUjDokJ7BpzghS8gcRhWi) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Good Times](https://open.spotify.com/album/4LtBDjPPZbgcinG0qCyuwR) | 3:14 | 2022-11-30 |  |
+| [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 | 2022-11-30 | 2023-11-04 |
 | [Great Minds Drink Alike \- With Horns](https://open.spotify.com/track/0F68k79FGPe5Rc468GZmF9) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Great Minds Drink Alike \(With Horns\)](https://open.spotify.com/album/6pcpzddprnaCd9UfPN1vtt) | 3:57 | 2022-11-30 |  |
 | [Heartache by the Pound](https://open.spotify.com/track/1T2B06AtdwFAtGaPdavLp0) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Heartache by the Pound](https://open.spotify.com/album/6nOqRJiti1k8xh2q5nImZy) | 3:09 | 2022-11-30 |  |
 | [Here I'm Is](https://open.spotify.com/track/6qXE9eEx24VsgKf0sCQouH) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [They Called It Rhythm & Blues](https://open.spotify.com/album/2Iv8pnhLaHJUf4KBNjaxU6) | 2:27 | 2022-11-30 |  |

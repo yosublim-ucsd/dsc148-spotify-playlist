@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Kvi Baba + AKLO + KEIJU \*👉 <a href="https://spice.eplus.jp/articles/323469?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,823 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,868 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 39 | [犬ころ \- ACOUSTIC ver.](https://open.spotify.com/track/23I8aRvG4XIC0stNGiynA1) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [犬ころ \(ACOUSTIC ver\)](https://open.spotify.com/album/5BMAO6e2opOWkhTuxBFG0e) | 3:56 |
 | 40 | [巡る季節に身を任せ](https://open.spotify.com/track/70NcBpRFJzDaWN6VmK3IuW) | [アロワナレコード](https://open.spotify.com/artist/5ovS96NpdzR5dDjnjdxKLk) | [幸せを願えるように](https://open.spotify.com/album/0E3CT1bUN1wH8zi75ktGwJ) | 4:19 |
 | 41 | [桃源郷](https://open.spotify.com/track/580TVMQilF7mcIAe6yyFEP) | [Hideyoshi](https://open.spotify.com/artist/3XL6HB2fM5WEBzQfG19n21) | [桃源郷](https://open.spotify.com/album/3k8O3dnICdfwGuB3OAmDFB) | 3:36 |
-| 42 | [Wanna Be In A Sad Mood](https://open.spotify.com/track/61ZsLyi4omqZs3H72sm5sb) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/3jMkyqeHsfveTdu30JyGxn) | 4:14 |
+| 42 | [Wanna Be In A Sad Mood](https://open.spotify.com/track/5RLbFht9k5o0MRcnR4vvWq) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/7FgKndFjCgBXmLl7hcNvRo) | 4:14 |
 | 43 | [アクマノウタ feat\. さユり](https://open.spotify.com/track/0zJRuLj5UZl8LGk2MB3kyZ) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD), [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [アクマノウタ feat\. さユり](https://open.spotify.com/album/2QUHmrQrNZG87vMJYh92nd) | 2:54 |
 | 44 | [ホットミルク](https://open.spotify.com/track/2DpWpO4FcqP1uE55CsJioo) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ), [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [ホットミルク](https://open.spotify.com/album/4MOFTi4lkYUuxDuvCtY05l) | 3:23 |
 | 45 | [Crystals](https://open.spotify.com/track/0IzDyNfwiqQGaQ6DqX7ss0) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Crystals](https://open.spotify.com/album/1x9h8VxQhsxtO7v2ReRTMs) | 3:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Star Racer](https://open.spotify.com/track/2vmhF3qaUL132kYWk6Zyhr) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [Star Racer](https://open.spotify.com/album/5LkUhnSF4aRCBkwJFMLwLD) | 2:29 |
 | 80 | [Call From Wife](https://open.spotify.com/track/50VvTHedGHkdxtBY3jwUe2) | [Sloppy Disk](https://open.spotify.com/artist/5IEl2TsgM9jO0kkapS5RtB), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN) | [So Sloppy Vol.1](https://open.spotify.com/album/6GVdnlARdw1ZgoFCWXqQ41) | 3:51 |
 
-Snapshot ID: `MCwxMzk3YjJkYzE0MWFhNWVjZWExODZhNGI5ODBiMTY2ZjJmZTdlOTc1`
+Snapshot ID: `MCw5NDJhNTE2MmY5MDk0ZWI0ZGM4NmE5MTE5NDAzMzEwNDUwNjI4Y2Yx`

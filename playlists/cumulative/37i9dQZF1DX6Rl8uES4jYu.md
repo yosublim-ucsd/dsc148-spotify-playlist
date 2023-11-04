@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-409 songs - 23 hr 1 min
+410 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Count The Ways](https://open.spotify.com/track/7rDjZhG4LJyEH0KmearQP4) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Count The Ways](https://open.spotify.com/album/3DbSGLWxRI5pHsk3bExiUo) | 3:42 | 2023-01-27 | 2023-02-18 |
 | [Crazy](https://open.spotify.com/track/3w4yYltBa2EX03Z8BhUcf7) | [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Crazy](https://open.spotify.com/album/0Wwy2zS3LsbzifYDjzmaMX) | 3:20 | 2021-08-06 | 2022-07-26 |
 | [Crybaby](https://open.spotify.com/track/1dBmN1VxLCgBEVnvE5NCGe) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [Ill Camille](https://open.spotify.com/artist/4XPgViBvmCOxptCYxTvJo4), [MXXWLL](https://open.spotify.com/artist/2KAcGNHkwCFJb7w19oaqmU) | [Crybaby](https://open.spotify.com/album/38hQVfL0zZ8BCQ1fmp2O3g) | 3:37 | 2021-05-14 | 2022-07-17 |
+| [Daddy Bezos](https://open.spotify.com/track/581fAB5IiN3phCJHUNte8O) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY), [Brian Vaulx](https://open.spotify.com/artist/7hH6r8mrVmYwI0vn2Q8cBH) | [Daddy Bezos](https://open.spotify.com/album/62UMmkGfapJIGQwHiWP9uO) | 4:11 | 2023-11-03 |  |
 | [Damage](https://open.spotify.com/track/0FFTohbXBhhTWCZXFICr60) | [James Gardin](https://open.spotify.com/artist/0Rb3zrBGdsFJe2jfyKvQfV), [Terem](https://open.spotify.com/artist/6wW00VEP8a3yiD1gwgVXPX) | [The Groove Collection](https://open.spotify.com/album/2Z6wtJYpyZux5OZHpYZxzH) | 2:30 | 2021-09-21 | 2022-07-29 |
 | [Dance With Me](https://open.spotify.com/track/71rj28ER4lLn4hzv5uoU28) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Cody Dear](https://open.spotify.com/artist/019crWCRkPjQjBnhKaafTV) | [Dance With Me](https://open.spotify.com/album/0FpS3fMRCvjggvuaNFQzvg) | 2:33 | 2020-11-13 | 2022-03-26 |
 | [Dance With You \(The Comeback\)](https://open.spotify.com/track/1ilkppSXMza88ER3LRG05B) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Dance With You \(The Comeback\)](https://open.spotify.com/album/2nN3SvOwvL9p98jt1fPnKp) | 2:44 | 2023-04-07 |  |
@@ -376,7 +377,7 @@
 | [Turn Me Up](https://open.spotify.com/track/7KKB3IMxdBwiAvayp6m8DE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Turn Me Up](https://open.spotify.com/album/42PxlWO8vKHRzGRquHvhhy) | 3:53 | 2020-11-13 | 2022-01-05 |
 | [Turn Up](https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [The Futuristics](https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t) | [Turn Up](https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85) | 2:21 | 2022-05-27 |  |
 | [Turntables \(from the Amazon Original Movie "All In: The Fight for Democracy"\)](https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Turntables \(from the Amazon Original Movie "All In: The Fight for Democracy"\)](https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq) | 2:43 | 2021-09-21 | 2023-02-18 |
-| [Twilight](https://open.spotify.com/track/16IKV5rIM4hwmIhPsYOScC) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Happiness](https://open.spotify.com/album/5b0Hzsa9VcJDfDlycOLjBc) | 2:36 | 2022-04-22 |  |
+| [Twilight](https://open.spotify.com/track/16IKV5rIM4hwmIhPsYOScC) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Happiness](https://open.spotify.com/album/5b0Hzsa9VcJDfDlycOLjBc) | 2:36 | 2022-04-22 | 2023-11-04 |
 | [Twilight](https://open.spotify.com/track/16i7TSAlPdCCsKbfs8ljIF) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Twilight](https://open.spotify.com/album/36iL4tjGVh54D5jv86C0Ug) | 2:36 | 2022-04-22 | 2023-07-10 |
 | [Twilight](https://open.spotify.com/track/1QBe7OkwPGC2dWNj60fyST) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Twilight](https://open.spotify.com/album/3RlWPF3loAxfW3kyqB10MX) | 2:36 | 2022-04-15 | 2022-07-29 |
 | [Twilight](https://open.spotify.com/track/2POIx2rF49N3tea41FlqtL) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Happiness](https://open.spotify.com/album/153pOsWc9b2jb4g3fyUxUK) | 2:36 | 2022-04-22 | 2023-07-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,923 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,926 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 42 | [THE MORNING AFTER](https://open.spotify.com/track/1ewqOSdMAgdjFCksr1tRts) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE MORNING AFTER](https://open.spotify.com/album/0s4AN3UDeP6wTPceysr0Jj) | 2:22 |
 | 43 | [Flowers](https://open.spotify.com/track/2KFbxmVIFmT586l1i0DgdT) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Flowers](https://open.spotify.com/album/2c0CnSrHNgM7nk4mI7i1Iv) | 2:57 |
 | 44 | [BETTER ALONE](https://open.spotify.com/track/63GMEfty0JTpj3K3h4hRpU) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Alainite](https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH) | [BETTER ALONE](https://open.spotify.com/album/4VYfGqjme7LhRtizdBtOEC) | 2:37 |
-| 45 | [The Caring](https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Bastard Jargon](https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6) | 3:06 |
+| 45 | [The Caring](https://open.spotify.com/track/5rhrqRbrZkhIrHp8IbiJUm) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Bastard Jargon](https://open.spotify.com/album/6JGb1JtCcQ0hco81PKvYqf) | 3:06 |
 | 46 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |
 | 47 | [Alone At A Party](https://open.spotify.com/track/2wBIK0D4z1VMTXQ33MixSJ) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Alone At A Party](https://open.spotify.com/album/7A02kpN7DcoNEjUan9gjZf) | 3:31 |
 | 48 | [Dream](https://open.spotify.com/track/0gS6EgvQ5YxVxiqAsWRnFw) | [Lu+Fi](https://open.spotify.com/artist/3xFvlpW2g6u4m9MEsGr5Hl) | [Dream](https://open.spotify.com/album/7EdonZTj4jX986R521QplF) | 2:45 |
 | 49 | [ALL MINE](https://open.spotify.com/track/3NZtzTfqjbTaNt15451Vs8) | [Micah Acosta](https://open.spotify.com/artist/30rb4ntsbRjqjlPquWtskg) | [ALL MINE](https://open.spotify.com/album/19xxFr7lY0iCr3DpzRc5zN) | 2:47 |
 | 50 | [acting wild.](https://open.spotify.com/track/1pSJpxkh8wLL9fsWMBgq1q) | [tswai](https://open.spotify.com/artist/3xw3vchdbFdB7q7yeCfkVS), [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN) | [acting wild.](https://open.spotify.com/album/1hWSN9ZiBIYZCeuKwVPpRb) | 2:21 |
 
-Snapshot ID: `MCwwOTg1Y2FkNjJiZjdlZGQ5MjMzNzE5MzQyZGUxYmFiNjk5MDA0MjBj`
+Snapshot ID: `MCxkYWQ0NTY2ZWExYzQxNTQ0ODBjM2RjMjk4YjdmYzExYWYwYjc0NTAx`

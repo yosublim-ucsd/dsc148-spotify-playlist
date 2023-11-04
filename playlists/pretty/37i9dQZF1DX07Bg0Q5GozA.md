@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Johannes Albert
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,002 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,044 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 7 | [Silhouette](https://open.spotify.com/track/38e50yunt7UDHHjCO2Pk2y) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [Silhouette](https://open.spotify.com/album/0RevyVYNVfrV19T055kbyU) | 4:09 |
 | 8 | [Flexorcist](https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Flexorcist](https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb) | 5:57 |
 | 9 | [Foxx](https://open.spotify.com/track/1cAecmf7rCCpqGJvPIZpEo) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Foxx](https://open.spotify.com/album/7CQqgj7H1MY6iEu5E6E173) | 3:13 |
-| 10 | [Is It Real](https://open.spotify.com/track/6kVCl8UmYJnLqgP0xIRpaX) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Trip to Sanity](https://open.spotify.com/album/7yHFXNvk1C4XzbNUOTYa3u) | 3:06 |
+| 10 | [Is It Real](https://open.spotify.com/track/0XIq1VxtdNykPaoGLGEGoo) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Is It Real](https://open.spotify.com/album/3jf0Rvnzvs5v1pcfzSGaPP) | 3:06 |
 | 11 | [Chaos](https://open.spotify.com/track/26cZVpJOFxTweuxazYLorj) | [Deorbiting](https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr), [Ira Atari](https://open.spotify.com/artist/6xh4CCUrcNmMuODz3OKduD) | [Chaos](https://open.spotify.com/album/2UvQHB82C2ubSiIpLVbGEC) | 5:18 |
 | 12 | [Petit Jour](https://open.spotify.com/track/583rPY4dNkNk1ED40KAnht) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [A Bunch Of Random Songs](https://open.spotify.com/album/2eJhNaKLtPnYKsr9MDT6hn) | 1:52 |
 | 13 | [House of Love](https://open.spotify.com/track/6ElurfirOqT72TO31NQtCp) | [Enda Gallery](https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET), [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [House of Love](https://open.spotify.com/album/3Jt6tt1pUmASvChPYGdEeq) | 5:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Summer Love \- Jan Blomqvist Remix](https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Summer Love \(Jan Blomqvist Remix\)](https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i) | 5:49 |
 | 75 | [Casualities \- YAME Remix](https://open.spotify.com/track/0pAX8suClIReqkFfrA5TsV) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [YAME](https://open.spotify.com/artist/21pXVnPnafVqqIFAaUb7XW), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Casualities \(Yame Remix\)](https://open.spotify.com/album/0RCa4DV10reH3RS8S4HDnB) | 6:54 |
 
-Snapshot ID: `MCxlYzJhZTIwOTA5ZTYwMTFmMTc5ZTg3YmU1YWFjNmU0YTE1MTljMmRi`
+Snapshot ID: `MCw4ZTg4NDc2NmE5MWQ3ODhmOTkyNmFjOWIzOGJlZjY2NGY0YTFiMWMx`

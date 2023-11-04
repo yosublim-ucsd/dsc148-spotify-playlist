@@ -210,6 +210,28 @@
     {
       "album": {
         "name": "Tanu Weds Manu Returns (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0hBLzo3vvwzodZFLpWALwC"
+      },
+      "artists": [
+        {
+          "name": "Brijesh Shandilya",
+          "url": "https://open.spotify.com/artist/3gdKEsvYBUHdtLMmECIN4q"
+        },
+        {
+          "name": "Swati Sharma",
+          "url": "https://open.spotify.com/artist/6nvNh0jV10gc2aYFALNahg"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196172,
+      "name": "Banno",
+      "url": "https://open.spotify.com/track/5ukDx1Fzu219N539FAhUKw"
+    },
+    {
+      "album": {
+        "name": "Tanu Weds Manu Returns (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Zi73l4RkWqUyL6tFoHMmT"
       },
       "artists": [
@@ -246,7 +268,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 196172,
       "name": "Banno (From \"Tannu Weds Manu Returns\")",
       "url": "https://open.spotify.com/track/78LZUVqzZzsuNfT6G782pP"
@@ -1148,7 +1170,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 266344,
       "name": "Mileya Mileya",
       "url": "https://open.spotify.com/track/61nxeeWF6kGQkqKdDDm2nZ"
@@ -1174,7 +1196,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 266278,
       "name": "Mileya Mileya (From \"Happy Ending)",
       "url": "https://open.spotify.com/track/0F2JKW9PYQgqSmyNM3IV2W"
@@ -1196,6 +1218,36 @@
       "duration_ms": 245362,
       "name": "Multan",
       "url": "https://open.spotify.com/track/2Qr6caRtWpQitY0t7qjsxi"
+    },
+    {
+      "album": {
+        "name": "English Vinglish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/73V6LmzoNvdvpN34yfICfL"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
+        },
+        {
+          "name": "Neelambari Kirkire",
+          "url": "https://open.spotify.com/artist/6alTCEe35NN3busJ9xGAlU"
+        },
+        {
+          "name": "Natalie Di Luccio",
+          "url": "https://open.spotify.com/artist/3KMkQ4hHVUXhx7TKLhgBxT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262826,
+      "name": "Navrai Maajhi",
+      "url": "https://open.spotify.com/track/3b8USdQmDl0wXzrDaHxQYY"
     },
     {
       "album": {
@@ -1222,7 +1274,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 262826,
       "name": "Navrai Majhi",
       "url": "https://open.spotify.com/track/5ZLplBxO5OmotTmYY8920p"

@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-211 songs - 12 hr 54 min
+212 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [75\-71](https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [75\-71](https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj) | 3:44 | 2023-04-04 |  |
 | [Agnes Water Blues](https://open.spotify.com/track/3KHch8x9xtStE9pbw0Bvni) | [Maynard Heap](https://open.spotify.com/artist/1nmAtilssSpG1QoyPUb3f9) | [Agnes Water Blues](https://open.spotify.com/album/54JCp9ubDGQMF6LBIt3yAd) | 3:56 | 2023-01-20 | 2023-02-19 |
 | [Ai Du](https://open.spotify.com/track/7vzhCpNntdmzI3yop3UckE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu](https://open.spotify.com/album/0mrP9dZLtrJtUEBuhGgVRF) | 7:09 | 2022-05-25 | 2022-07-29 |
-| [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:09 | 2022-07-08 |  |
+| [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:09 | 2022-07-08 | 2023-11-04 |
 | [Alabama Blues](https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Alabama Blues!](https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa) | 3:14 | 2022-05-25 |  |
 | [Alaska Blue](https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ) | [Barry Mcloughlin](https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d), [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ) | [Alaska Blue](https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq) | 2:53 | 2022-10-10 | 2023-01-21 |
 | [Am I Wrong](https://open.spotify.com/track/3xoMRK8egNvtjrCEQieLko) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Martin Scorsese Presents The Blues: Keb' Mo'](https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc) | 2:18 | 2022-05-25 |  |
@@ -48,7 +48,7 @@
 | [Cherry](https://open.spotify.com/track/5JOWR8OXp4FcpDcsxL8lZr) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Troubadour](https://open.spotify.com/album/1dP4dfdYnGaYTt1gYWqOSA) | 3:22 | 2022-05-25 | 2022-07-29 |
 | [Cherry Ball Blues](https://open.spotify.com/track/5nemuTv30p5MXTWDLGtBKZ) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Boomer's Story](https://open.spotify.com/album/2qmP1z6Tehnaz5DpE67Jlz) | 4:13 | 2022-05-25 |  |
 | [Coffee Blues](https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Rediscovered](https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p) | 3:46 | 2022-07-29 |  |
-| [Coin Operated Woman \(feat\. Johnny Burgin\)](https://open.spotify.com/track/3UzFhxg69DF9bzb7sWsmJ4) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az) | 4:23 | 2023-08-25 | 2023-10-14 |
+| [Coin Operated Woman \(feat\. Johnny Burgin\)](https://open.spotify.com/track/3UzFhxg69DF9bzb7sWsmJ4) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az) | 4:23 | 2023-08-25 |  |
 | [Colt 45](https://open.spotify.com/track/0uwXnVmR7o8PPHajHCq2Uv) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [Colt 45](https://open.spotify.com/album/43rZvzAOV4kJkDW4gffAJK) | 2:45 | 2023-08-18 |  |
 | [Crow Jane](https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Skip James Live Vol\. 2 Bloomington 1968 Part 1](https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM) | 2:23 | 2022-05-27 |  |
 | [Death Valley Blues](https://open.spotify.com/track/1nxzMW2OxW5W10DAp0L9OP) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:43 | 2023-04-28 |  |
@@ -194,7 +194,8 @@
 | [Teach Me How to Stay \- Live](https://open.spotify.com/track/2KXTHCc7NbLlR57VVaVxEN) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m) | [Teach Me How to Stay \(Live\)](https://open.spotify.com/album/5KnOlJerBisARbyK4AAijY) | 5:23 | 2023-08-25 |  |
 | [The Ballad of John Howard Griffin](https://open.spotify.com/track/0ldxVkKiyazLlHc6lWR10n) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [The Ballad of John Howard Griffin](https://open.spotify.com/album/29IVT0NuqSjjXKbvShXQH6) | 5:16 | 2023-02-24 | 2023-03-27 |
 | [The Ballad of John Howard Griffin](https://open.spotify.com/track/483TCXJPMDIKqygdS0gBda) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 5:16 | 2023-08-25 | 2023-10-04 |
-| [The Difference](https://open.spotify.com/track/6zzZZJHUu54U93xTJ0FBYj) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [The Difference](https://open.spotify.com/album/0dljYSROOElwPmv67IgAbH) | 3:28 | 2023-08-18 |  |
+| [The Difference](https://open.spotify.com/track/1L1cnMYeb28dU4Pun60G7v) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [The Fatalist](https://open.spotify.com/album/33ihKi0yijzptTHMNHXTNB) | 3:28 | 2023-09-15 |  |
+| [The Difference](https://open.spotify.com/track/6zzZZJHUu54U93xTJ0FBYj) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [The Difference](https://open.spotify.com/album/0dljYSROOElwPmv67IgAbH) | 3:28 | 2023-08-18 | 2023-11-04 |
 | [The Dolls Are Sleeping](https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 2:56 | 2022-09-20 |  |
 | [The Fools Gold Blues \- Stripped Back](https://open.spotify.com/track/3X5QEkIW5e38ByxavuR0sV) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [All The Bad Things \(Stripped Back\)](https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4) | 2:18 | 2023-05-22 |  |
 | [The Moon Is Rising](https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 2:44 | 2022-07-01 |  |

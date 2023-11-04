@@ -488,10 +488,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 231346,
       "name": "Centerfield",
       "url": "https://open.spotify.com/track/2iRfjwzPsooCskZrrlsgcC"
+    },
+    {
+      "album": {
+        "name": "Centerfield \u2013 25th Anniversary",
+        "url": "https://open.spotify.com/album/5ZYrDri9HWKLgSqDZOquH5"
+      },
+      "artists": [
+        {
+          "name": "John Fogerty",
+          "url": "https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231346,
+      "name": "Centerfield",
+      "url": "https://open.spotify.com/track/38BgqHjoogBGBqdx14cV46"
     },
     {
       "album": {
@@ -2602,10 +2620,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 214093,
       "name": "The Old Man Down The Road",
       "url": "https://open.spotify.com/track/0tkfgenYMiMQPIma894lgc"
+    },
+    {
+      "album": {
+        "name": "Centerfield \u2013 25th Anniversary",
+        "url": "https://open.spotify.com/album/5ZYrDri9HWKLgSqDZOquH5"
+      },
+      "artists": [
+        {
+          "name": "John Fogerty",
+          "url": "https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214093,
+      "name": "The Old Man Down The Road",
+      "url": "https://open.spotify.com/track/2Qh1VTOuNG3K9ORtkfYg02"
     },
     {
       "album": {

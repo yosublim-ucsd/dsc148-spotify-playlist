@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,194 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,209 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 23 | [Unhinged](https://open.spotify.com/track/41N74tDfqzG242pQe16lSE) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [Unhinged](https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR) | 3:23 |
 | 24 | [Don't Get Me Started](https://open.spotify.com/track/6iji2KRmhPBorFa54KBLBa) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [LaVette!](https://open.spotify.com/album/4He1qQkf7kFRGD6n3Mwb11) | 5:11 |
 | 25 | [Daughter Of Zion \[Feat\. Joe Walsh\]](https://open.spotify.com/track/27S3ILmMMln0kQjmxLghjA) | [Glenn Schwartz](https://open.spotify.com/artist/5LZLhHjT5eCyy2kMaFPSqc), [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Daughter Of Zion \[Feat\. Joe Walsh\]](https://open.spotify.com/album/73hDokQXIjjMe6AqzG5PuI) | 4:36 |
-| 26 | [Your Funeral And My Trial \(feat\. Jontavious Willis\)](https://open.spotify.com/track/1lXBtfCrfh2vl87o45yPDN) | [Tracy Nelson](https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS), [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Life Don't Miss Nobody](https://open.spotify.com/album/28gauff9JHiO1Co73MvUnP) | 3:38 |
+| 26 | [Your Funeral And My Trial \(feat\. Jontavious Willis\)](https://open.spotify.com/track/5zsx82pfF01savxcPjBIr4) | [Tracy Nelson](https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS), [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Life Don’t Miss Nobody](https://open.spotify.com/album/6wLNDDWOMPE9leLWmhDw7C) | 3:38 |
 | 27 | [The Squirrel Juice Blues](https://open.spotify.com/track/221lZ6bk3a8w3JyAztN0KW) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Soft Spot \(Deluxe\)](https://open.spotify.com/album/2smg61fQVg6eoY05xZLDu5) | 3:38 |
 | 28 | [Caldonia](https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Savoy](https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF) | 3:32 |
 | 29 | [Two Of A Kind](https://open.spotify.com/track/4Bz39avjnvbK3cWLN8EdVI) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743) | [Best Of Me](https://open.spotify.com/album/1CW7MiOxF2OB1fm4hCjQSq) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Always Free](https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 2:57 |
 | 100 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 |
 
-Snapshot ID: `MCw4MDUyZmQ5NmFmMDgwOWUzZTc5NWU4ZjM0YzdjMTNhNzllZTUwZjU1`
+Snapshot ID: `MCw4YmRiY2Q1YzRhMGRhYzZhMzFjMWQ0ODgyYjY4ZWZlZDVkMGY4ZGZm`

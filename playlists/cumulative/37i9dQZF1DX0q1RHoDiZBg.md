@@ -4,7 +4,7 @@
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-134 songs - 10 hr 20 min
+135 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [To Ramona](https://open.spotify.com/track/2gmrKmh73RmHGk5IT0ND3I) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Cryin' to You](https://open.spotify.com/album/5igs9SG03JODImNkAY8gM9) | 4:36 | 2018-08-02 |  |
 | [Tomorrow Is A Long Time](https://open.spotify.com/track/5mWfUBeVPfV70tkHHFBkrg) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 4:18 | 2018-08-02 |  |
 | [Visions of Johanna \(Live\)](https://open.spotify.com/track/3cyFCQWlqRhrWkR3qJnguN) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [50 Years of Blonde on Blonde \(Live\)](https://open.spotify.com/album/0uyUriz7zOAn1G9sB8zH8e) | 6:55 | 2018-08-02 |  |
-| [Wanted Man \- 2009 Remastered Version](https://open.spotify.com/track/3kbUGSzvf1ENLHVEfoEeHH) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Firstborn Is Dead \(2009 Remastered Version\)](https://open.spotify.com/album/3ip2AtmEWIwqcdpdnXTx1o) | 5:26 | 2018-08-02 |  |
+| [Wanted Man](https://open.spotify.com/track/2xtV04J19unZ3Lp1LQmtcb) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Firstborn Is Dead \(2009 \- Remaster\)](https://open.spotify.com/album/1c3SdXnHhUyNigHQIQVAAQ) | 5:26 | 2023-09-22 |  |
+| [Wanted Man \- 2009 Remastered Version](https://open.spotify.com/track/3kbUGSzvf1ENLHVEfoEeHH) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Firstborn Is Dead \(2009 Remastered Version\)](https://open.spotify.com/album/3ip2AtmEWIwqcdpdnXTx1o) | 5:26 | 2018-08-02 | 2023-11-04 |
 | [When I Paint My Masterpiece \- With the Levon Helm Band and Joan Osborne](https://open.spotify.com/track/71bpQZ2KsOnSOEel5xdmKe) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Garth Hudson](https://open.spotify.com/artist/4Krw5EvLS5prCEDNmmospt) | [Love For Levon](https://open.spotify.com/album/7gxqBEgqD6dF5JSiidGPhK) | 4:05 | 2018-08-02 |  |
 | [When The Ship Comes In](https://open.spotify.com/track/0gb7G6NszH5a1CoqZXp711) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL), [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Voice of Ages \(Deluxe Edition\)](https://open.spotify.com/album/6tjF20Xh7kOpkv3rvRU1mt) | 3:26 | 2018-08-02 |  |
 | [Wicked Messenger](https://open.spotify.com/track/6L6ny8iKcFYdvA6CN3AKCR) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi) | 3:48 | 2018-08-02 |  |

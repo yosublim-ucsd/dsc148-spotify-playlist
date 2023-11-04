@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,871 likes - 52 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,876 likes - 52 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 23 | [Ginger & Fred](https://open.spotify.com/track/2RTMAscRZBum7QS2dWHI5c) | [Tiger & Woods](https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz) | [On The Green Again](https://open.spotify.com/album/1ASGNkMTcydM6JMFOWzMmD) | 6:59 |
 | 24 | [Little Girl \(feat\. Julian Casablancas\)](https://open.spotify.com/track/6lGzMfAWjZbvPPf8SLpu0Y) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Dark Night of The Soul](https://open.spotify.com/album/4m7YqqQc36mQwhHgH4AsVu) | 4:32 |
 | 25 | [No Need \- Extended Mix](https://open.spotify.com/track/2RsGdqXD8drtHXtADOi4cX) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Ben Hauke](https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V) | [No Need](https://open.spotify.com/album/49mIMP2fA3LBEoAYrHeJdZ) | 6:02 |
-| 26 | [Forever More \- Francois K & Eric Kupper Vocal Mix](https://open.spotify.com/track/5bJVa2Rqeote6fN7pRzviI) | [Moloko](https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz), [Francois K](https://open.spotify.com/artist/2Y9THkKdfe8FfoHAyOY4Tv) | [All Back to the Mine: Volume I \- A Collection of Remixes](https://open.spotify.com/album/2ugGAPGRIhvfTpnXUntZyW) | 10:33 |
+| 26 | [Forever More \(Francois K & Eric Kupper Vocal Mix\)](https://open.spotify.com/track/6SmU2EobP4YEX1puSivNTn) | [Moloko](https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO), [Francois K](https://open.spotify.com/artist/2Y9THkKdfe8FfoHAyOY4Tv), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [All Back to the Mine: Vol, 1: A Collection of Remixes](https://open.spotify.com/album/3KeJlXOKiOo1HsMb3OFcvg) | 10:33 |
 | 27 | [Love's Got Me High \- Marc Romboy's Systematic Soul Mix](https://open.spotify.com/track/6khiPXapuKJt8npyZXhL0Q) | [Terrence Parker](https://open.spotify.com/artist/4hXZQPceQIf654OSomVXOs), [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Love's Got Me High \(Systematic Presents Lost Treasures Vol\. 1\)](https://open.spotify.com/album/5TTA77wHs5Ks6h0mq7CHRp) | 6:41 |
 | 28 | [Firefly](https://open.spotify.com/track/3CdXtucJEtNF3U9oQlCIL7) | [Sweet Electra](https://open.spotify.com/artist/3A7Vdj0zjuZBHX5LFCO58j) | [Lying To Be Sweet](https://open.spotify.com/album/7sBuUPgcjb6SrkoxbLwC52) | 5:28 |
 | 29 | [Gin Nation \- Original](https://open.spotify.com/track/4cFvEaXTdtwfijW9ocyvcO) | [Tiger & Woods](https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz) | [Through The Green](https://open.spotify.com/album/6Lh8aKCWg0PBZJQRBzRIaZ) | 8:09 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 51 | [Change](https://open.spotify.com/track/58czdfdkPFvp8a3DRTUyBI) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Change](https://open.spotify.com/album/6XPbirRQZpjKJLMW8GhtkB) | 3:21 |
 | 52 | [Ghosts Again](https://open.spotify.com/track/3p5JD79PQP737dyEY2hnmf) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Memento Mori](https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q) | 3:58 |
 
-Snapshot ID: `MCw1NzkxYTJkODA2NmViZWVhMGU1M2RjNzViMWNkMzNiMjA4ZjI3MDk5`
+Snapshot ID: `MCw1NDk4YmJjM2EyODE5YmJkZTMzNjQ1OTE1YmZkYjA2N2VmMDhiOTk0`

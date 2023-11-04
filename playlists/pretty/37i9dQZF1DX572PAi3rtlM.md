@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,951 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,953 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 70 | [Cosa Mi Succedera'?](https://open.spotify.com/track/14VJ5OqG9SRTlrVb8kpkE9) | [Le Streghe](https://open.spotify.com/artist/0gK7iuzwS4S1npRM0sbihE) | [L'Iniziazione](https://open.spotify.com/album/5qqR5unZtPCw09gvccITPP) | 6:53 |
 | 71 | [Recapitulate](https://open.spotify.com/track/40nJj5dcq6SGY41vInNhZf) | [Marxist Love Disco Ensemble](https://open.spotify.com/artist/3NlKDCPXgkZzbcuQgQQ5QR) | [MLDE](https://open.spotify.com/album/1mKkh99odvNPfMx6y3sUKu) | 2:55 |
 | 72 | [Funky Bump \- Long Version](https://open.spotify.com/track/156s8wfCnvtom8DrT4zjww) | [Pino Presti](https://open.spotify.com/artist/0TXzV75amzLHeZueaodr9s) | [Funky Bump](https://open.spotify.com/album/0pqq5utZ2eLuqmhupGig93) | 5:12 |
-| 73 | [Il vecchiaccio](https://open.spotify.com/track/539NGs2uOS6xu8JMuemKO1) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le mie canzoni](https://open.spotify.com/album/5JJca3CzOPDWOamyhtH1At) | 3:44 |
+| 73 | [Il vecchiaccio](https://open.spotify.com/track/1u0uPBJx7pHVlx9L2Wcydu) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [le più belle canzoni](https://open.spotify.com/album/02322HwE6b1hf200vS8dVR) | 3:45 |
 | 74 | [Hai capito o no? \- Live](https://open.spotify.com/track/1xBMyLQh9cxjwRdwUqdLxC) | [Ron](https://open.spotify.com/artist/3vuKNU7lgoecqjnArUKom6) | [Tutti cuori viaggianti](https://open.spotify.com/album/0U1L7YV4j7Jd3VDqoDBCmM) | 3:40 |
 | 75 | [La spiaggia incantata \(Seq.1, Titoli di testa\)](https://open.spotify.com/track/0q8GmIh3nYVnHWdr8KI5nf) | [Carlo Rustichelli](https://open.spotify.com/artist/4zPqGt9888ogJunfNtXubd) | [L'isola di Arturo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O2AnAOBMbWyX99vnl73m1) | 2:02 |
 
-Snapshot ID: `MCxiMmFlOTJiMjQ4MzJjOWQ1ZmY2Nzk3MGYzZjQwMmZmZDFjYTJkMDk0`
+Snapshot ID: `MCwzNmFlYzg2M2M3YWU1NDZjYzMxYTFlYjEzN2JiZDYzMGNhYTk3ZmUz`

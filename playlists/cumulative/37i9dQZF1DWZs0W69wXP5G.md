@@ -4,7 +4,7 @@
 
 > Everything Broadway\-adjacent\. Cover: Ryan Gosling in Barbie
 
-146 songs - 8 hr 44 min
+147 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [People](https://open.spotify.com/track/7i49kMKvaJM0TMoeAEMA8x) | [Julie Benko](https://open.spotify.com/artist/2VxiprvyXzmROUx8sObjkO), [Jason Yeager](https://open.spotify.com/artist/2R0IYswtBomFBfEHX0KFEk) | [Hand in Hand](https://open.spotify.com/album/1iP7Fdly3Zc1PwBFCLmFHY) | 3:35 | 2022-08-26 |  |
 | [Perfection \- from Lempicka \- Original Cast Recording](https://open.spotify.com/track/4QN3fPHmA4HUluObAil9WE) | [George Abud](https://open.spotify.com/artist/774XyD9L8IBvWaX7Vs73sq), [Original Cast of Lempicka](https://open.spotify.com/artist/5PIDs2iaqTbcsOhNd5IfFM) | [Suite 1 \- from Lempicka \(Original Cast Recording\)](https://open.spotify.com/album/22UlcdIxtmapTzhh6koX1o) | 4:02 | 2022-08-12 | 2022-10-01 |
 | [Poor Unfortunate Souls](https://open.spotify.com/track/2OOdeu2Q1yQmQabgp07FOe) | [Melissa McCarthy](https://open.spotify.com/artist/7Ctc7ZLdwiEF0BGzG4pOul) | [The Little Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) | 4:42 | 2023-05-27 |  |
-| [Puttin' on the Ritz](https://open.spotify.com/track/4dWvPb7ZVX98IyRnqkgcM1) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Puttin' on the Ritz](https://open.spotify.com/album/5lfj8Fo7O6MYpODE334Rhi) | 1:56 | 2022-08-12 |  |
+| [Puttin' on the Ritz](https://open.spotify.com/track/4dWvPb7ZVX98IyRnqkgcM1) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Puttin' on the Ritz](https://open.spotify.com/album/5lfj8Fo7O6MYpODE334Rhi) | 1:56 | 2022-08-12 | 2023-11-04 |
+| [Puttin' on the Ritz](https://open.spotify.com/track/6vE807fn5BtHf8LpZM3oJL) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Rufus Does Judy At Capitol Studios](https://open.spotify.com/album/78fV7bPXs3FWNJYnBH8PUz) | 1:56 | 2023-10-20 |  |
 | [Revolting Children](https://open.spotify.com/track/6n9rNjFkKNnY18EqFVvAvt) | [Charlie Hodson\-Prior](https://open.spotify.com/artist/4LEQzEfPRz1VQt4q1B7tZF), [Meesha Garbett](https://open.spotify.com/artist/6NZst2OKvVaEoYRpQfeIr4), [Liberty Greig](https://open.spotify.com/artist/51nzPODa7jqt9JK1U2FME4), [The Cast of Roald Dahl's Matilda The Musical](https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf) | [Roald Dahl's Matilda The Musical \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo) | 2:54 | 2022-12-16 |  |
 | [Rhythm Of My Heart \(From "Pacemaker"\) \[Original Soundtrack\]](https://open.spotify.com/track/5cAiboYMkTsZKJFFShGVf7) | [Philip Lawrence](https://open.spotify.com/artist/45wuKcOpGlFuFWdWuBFfkO), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Christopher Lennertz](https://open.spotify.com/artist/2TQwXfupr6fAEV5AgNqIO5) | [Rhythm Of My Heart \(From "Pacemaker"\) \[Original Soundtrack\]](https://open.spotify.com/album/1fVZYc7OXYxaIsyplldD3i) | 3:02 | 2023-09-15 |  |
 | [Rise Up](https://open.spotify.com/track/5Ur0R1e2NBgyg0cm604UaT) | [Ben Barnes](https://open.spotify.com/artist/32PaECIhlV46TtNdKP34GX) | [Songs For You](https://open.spotify.com/album/2JeYtBmJUBy70zDqD1mBdm) | 4:30 | 2022-08-12 | 2023-07-22 |

@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Flatland Cavalry
 
-559 songs - 1 day 9 hr 17 min
+561 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Boots](https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [American Soul](https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe) | 3:09 | 2021-12-17 | 2022-01-08 |
 | [Boots on My Feet](https://open.spotify.com/track/5tHQXCXWmrc4ioLhCxZSGF) | [Josh Grider](https://open.spotify.com/artist/7a4J8L6Gg4xP6ix19HIx0Z) | [Boots on My Feet](https://open.spotify.com/album/4wNNObtCIpyrwB9pITUjoi) | 3:00 | 2021-12-17 | 2022-07-27 |
 | [Border Radio](https://open.spotify.com/track/3JpXOvjKO49lZt5mh7JKLC) | [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Border Radio](https://open.spotify.com/album/3IUZOmv3B83l1jF976AIAi) | 3:03 | 2023-08-25 | 2023-10-07 |
-| [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 | 2021-12-17 |  |
+| [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 | 2021-12-17 | 2023-11-04 |
 | [Boy Like Me](https://open.spotify.com/track/0L3hzWLPVgBCfg19H0dcIR) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Boy Like Me](https://open.spotify.com/album/183gKXKQgy0tncVwiK7kJi) | 3:52 | 2022-07-15 | 2022-07-18 |
 | [Break Up In A Bar](https://open.spotify.com/track/1UcWlY9PXa0GjqEOksJ1Gk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Break Up In A Bar](https://open.spotify.com/album/2Z7T8o2cJVPN8xMUsh2kc5) | 3:36 | 2022-03-11 | 2022-09-10 |
 | [Breaking Every Heart In Texas](https://open.spotify.com/track/4hJYNs2uklbeUle7SWit80) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Breaking Every Heart In Texas](https://open.spotify.com/album/4HvGqNLGMecrxpdKoAznvz) | 3:26 | 2021-12-17 | 2022-11-13 |
@@ -91,7 +91,7 @@
 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/5NqaRQWSVg9mnnmdCZJ17s) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:49 | 2022-07-22 | 2022-11-13 |
 | [Burn Me Down](https://open.spotify.com/track/7r41RrqQejlztQ1zn3rcN2) | [Carlton Anderson](https://open.spotify.com/artist/74mYYs1dlkIRfk36HcsFRv) | [Burn Me Down](https://open.spotify.com/album/5EQprNS7gJmsycBK6KYQps) | 3:07 | 2022-07-01 | 2022-07-15 |
 | [Burnout](https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41), [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Burnout](https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE) | 4:02 | 2022-03-25 | 2023-04-15 |
-| [But Me](https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [But Me](https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1) | 3:55 | 2022-07-22 |  |
+| [But Me](https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [But Me](https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1) | 3:55 | 2022-07-22 | 2023-11-04 |
 | [Buzzed Brain](https://open.spotify.com/track/28BlOyCL7tkzuc9xWwTPFI) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Buzzed Brain, Pt\. 2](https://open.spotify.com/album/04Z0wNec76yBlauZ0gabJ3) | 4:26 | 2021-12-17 | 2022-07-24 |
 | [Calling Your Bluff](https://open.spotify.com/track/2KBsnRFMKnPkjjQNuVhClj) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol \- EP](https://open.spotify.com/album/1hEQhjpGQpqDjLE9iYt1bH) | 3:23 | 2022-06-10 | 2022-07-29 |
 | [Can't Put the Bottle Down](https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Can't Put the Bottle Down](https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm) | 3:23 | 2022-05-06 | 2022-08-24 |
@@ -122,6 +122,7 @@
 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 | 2021-12-17 | 2022-03-19 |
 | [Creepin up on Me](https://open.spotify.com/track/4C2RJVUMlDlPFT1vo1Qbja) | [Carter Lybrand](https://open.spotify.com/artist/0ophv4tU6QFbsUQ0DwotdM) | [Creepin up on Me](https://open.spotify.com/album/7cFZBIt7E41fBinNftbq5x) | 3:39 | 2021-12-17 | 2022-03-19 |
 | [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 | 2022-08-26 |  |
+| [Crossing Lines](https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw) | 2:50 | 2023-11-03 |  |
 | [Crown and Coke](https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K) | [Kristen Foreman](https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ) | [Crown and Coke](https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK) | 2:47 | 2021-12-17 | 2022-05-28 |
 | [Cuz I'm Country](https://open.spotify.com/track/3djfobOj71XBOhb8eQaCzS) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [Cuz I'm Country](https://open.spotify.com/album/03ccca7v1ES41IFLaSeSq6) | 3:13 | 2022-04-08 | 2022-08-06 |
 | [Damn Fine Livin'](https://open.spotify.com/track/5USNgeOEK6Z85dEj59RPsz) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Damn Fine Livin'](https://open.spotify.com/album/6kf6HOmzaq6m8YgYQmxsAc) | 3:09 | 2023-04-14 | 2023-07-08 |
@@ -294,6 +295,7 @@
 | [Like I'm Elvis](https://open.spotify.com/track/43hD7QC5J14TBVpDJrUXcv) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Like I'm Elvis](https://open.spotify.com/album/08vOtTxMCOwuV1g5wlqko8) | 4:01 | 2022-03-25 | 2022-07-19 |
 | [Like She Does](https://open.spotify.com/track/7vLzS4QoDV2wP9zfvdhVgd) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Love](https://open.spotify.com/album/7gei0BhwKRgS4MhsO4RqLh) | 3:48 | 2023-07-21 |  |
 | [Like the Wind](https://open.spotify.com/track/3hO22cIoKIEmCjMIsG7kY9) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Like the Wind](https://open.spotify.com/album/4FfBY2JDKbtRUhUHK1th5U) | 3:14 | 2022-02-04 | 2022-07-29 |
+| [Lily of the Valley](https://open.spotify.com/track/2IGcmsZibLpRlcfQ5ddXi5) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Lily of the Valley](https://open.spotify.com/album/2gz0xrQjHaY87mgw9EhO9B) | 4:52 | 2023-11-03 |  |
 | [Livin' Like This](https://open.spotify.com/track/39k6k6fJmP1PSU6crfVuyl) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Livin' Like This](https://open.spotify.com/album/26XfDbVRwETxRhziXChzdC) | 3:03 | 2022-06-03 | 2022-07-27 |
 | [Lonestar Lonely](https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Lonestar Lonely](https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM) | 3:35 | 2023-09-08 |  |
 | [Long Gone](https://open.spotify.com/track/0KaQom2aaLURgTYMKSYDnC) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Long Gone](https://open.spotify.com/album/6yXet43BmB7VaNsNop2X2F) | 3:14 | 2021-12-17 | 2022-01-08 |

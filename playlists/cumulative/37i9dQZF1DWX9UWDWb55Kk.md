@@ -4,7 +4,7 @@
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-432 songs - 1 day 3 hr 17 min
+433 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [Los Chicos Hoy Saltarán A La Pista](https://open.spotify.com/track/04wL0E4tBCOYDTj09wPCzS) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [La Polinesia Meridional](https://open.spotify.com/album/232LpqTsWlBTyslwqu1CCG) | 3:22 | 2021-09-01 |  |
 | [Los Días Raros](https://open.spotify.com/track/0eVB5kmXBHSKgTYxgI77kq) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Mapas](https://open.spotify.com/album/1Oow7d8D859T5Xd2tsQUzG) | 6:27 | 2021-09-01 |  |
 | [Losing Something](https://open.spotify.com/track/5e4afISwKbl2HFNjGIPkaF) | [Lost Girls](https://open.spotify.com/artist/6Kw9BTxzFraz25S8HCe8pQ), [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7), [Håvard Volden](https://open.spotify.com/artist/5qfLwIMPtIom9LXgMoRcw0) | [Menneskekollektivet](https://open.spotify.com/album/2s78eWRhSxsb7KaEbi4p4Q) | 4:16 | 2022-11-24 |  |
-| [Louder](https://open.spotify.com/track/2iNcHD6FFL6yPsOa2rFMA7) | [Katéa](https://open.spotify.com/artist/0cGkk9StiitJk2vVzpBRn5) | [Louder](https://open.spotify.com/album/2krEk2t0eIjugo82H4Jyvt) | 3:40 | 2021-09-01 |  |
+| [Louder](https://open.spotify.com/track/12pGqnaKaZBsheMqM2PhCm) | [Katéa](https://open.spotify.com/artist/0cGkk9StiitJk2vVzpBRn5) | [Louder](https://open.spotify.com/album/7sKmZkgRDiJ9EXwRx8mNdo) | 3:40 | 2021-09-01 |  |
+| [Louder](https://open.spotify.com/track/2iNcHD6FFL6yPsOa2rFMA7) | [Katéa](https://open.spotify.com/artist/0cGkk9StiitJk2vVzpBRn5) | [Louder](https://open.spotify.com/album/2krEk2t0eIjugo82H4Jyvt) | 3:40 | 2021-09-01 | 2023-11-04 |
 | [Love In Motion](https://open.spotify.com/track/0dJ0pX1MohcF33LpFssliC) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU), [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Total](https://open.spotify.com/album/5WXzljd68vlJL83jHUFcCo) | 3:05 | 2022-11-24 |  |
 | [Lugar Seguro 3.0](https://open.spotify.com/track/0Q2iFOzcpgpulStIbS3XXQ) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi), [Carzé](https://open.spotify.com/artist/11Phvl6lzQFQJ2OcSXloHv) | [Y3Y2](https://open.spotify.com/album/3Bdh2N5sBNxHN2YkKGI8Cr) | 2:49 | 2023-10-21 |  |
 | [Lunatic Moon](https://open.spotify.com/track/5ak3uXRWMo9IegBSVaGjHb) | [Pisces](https://open.spotify.com/artist/0BGNUG45FxpWbjvuhRRbJA) | [Pisces](https://open.spotify.com/album/4dkbl2hosIqWW3iDMTAx5u) | 3:22 | 2021-09-01 |  |

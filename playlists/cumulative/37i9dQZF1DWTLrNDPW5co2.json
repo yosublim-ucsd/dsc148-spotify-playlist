@@ -1163,6 +1163,28 @@
     },
     {
       "album": {
+        "name": "The Practice of Freedom (Deluxe)",
+        "url": "https://open.spotify.com/album/11C0wSAa45QG540nB9sYjn"
+      },
+      "artists": [
+        {
+          "name": "Louisahhh",
+          "url": "https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW"
+        },
+        {
+          "name": "Wax Wings",
+          "url": "https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269559,
+      "name": "Harder Now",
+      "url": "https://open.spotify.com/track/0kRAPuKTgetjWxpPvwopdf"
+    },
+    {
+      "album": {
         "name": "Harder Now",
         "url": "https://open.spotify.com/album/3yRPPTNgf1UHUwzdzskF7R"
       },
@@ -1200,7 +1222,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 269559,
       "name": "Harder Now",
       "url": "https://open.spotify.com/track/59lCoeBMdMdzbjO0a7bVue"
@@ -1452,10 +1474,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 232806,
       "name": "Immaterial",
       "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
+    },
+    {
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232806,
+      "name": "Immaterial",
+      "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
     },
     {
       "album": {
@@ -2774,6 +2814,24 @@
     {
       "album": {
         "name": "Voices",
+        "url": "https://open.spotify.com/album/6p4J6VWBTkR3g6mbqNyf0L"
+      },
+      "artists": [
+        {
+          "name": "ABSOLUTE.",
+          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220817,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/1bvPP8zEwczCe0RX7hIIr6"
+    },
+    {
+      "album": {
+        "name": "Voices",
         "url": "https://open.spotify.com/album/016CiaX63Hugtj7w1IKcJz"
       },
       "artists": [
@@ -2784,7 +2842,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 220817,
       "name": "Voices",
       "url": "https://open.spotify.com/track/4OGbM5ZtdaCFGVkX5Wr8Tw"

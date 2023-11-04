@@ -1,15 +1,63 @@
 {
   "description": "Listen Heroine's music 24 Hours.",
-  "num_followers": 60233,
+  "num_followers": 60251,
   "original_name": "This Is SUNMI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTM2Nzk4ZTU4YmFhMzY0ZWZjYmZjZTExZWViZmNkZTI3N2RlODBk",
+  "snapshot_id": "MCw4NjhhYTU0YjU0ZmZiOWI0ZTdiMWVlYmY5ZmEyNTFiMjRmNWQ0ZTZm",
   "tracks": [
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
+      "album": {
+        "name": "STRANGER",
+        "url": "https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "STRANGER",
+      "url": "https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi"
+    },
+    {
+      "added_at": "2023-11-03 05:30:20",
+      "album": {
+        "name": "STRANGER",
+        "url": "https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 89440,
+      "name": "Calm myself",
+      "url": "https://open.spotify.com/track/0oOQEVd7D7peOKaQCQk6fp"
+    },
+    {
+      "added_at": "2023-11-03 05:30:20",
+      "album": {
+        "name": "STRANGER",
+        "url": "https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 204786,
+      "name": "\ub355\uc9c8 (Call my name)",
+      "url": "https://open.spotify.com/track/3616bZAuzinwxMPqj4RmRg"
+    },
+    {
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "[BILLION MUSIC PROJECT VOL.1]",
         "url": "https://open.spotify.com/album/5WyawwlLnlCHeLGChPaJii"
@@ -29,7 +77,7 @@
       "url": "https://open.spotify.com/track/1z7X7lFkoF2KRoDaxUfN99"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "Heart Burn",
         "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
@@ -45,7 +93,7 @@
       "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "Heart Burn",
         "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
@@ -61,7 +109,7 @@
       "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "SUNMIYA CLUB",
         "url": "https://open.spotify.com/album/5m1kGBVJBKcrlLBgy300vV"
@@ -77,7 +125,7 @@
       "url": "https://open.spotify.com/track/6PW5GLnTnF9krvqR3QcjWg"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "Oh Sorry Ya",
         "url": "https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7"
@@ -93,7 +141,7 @@
       "url": "https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
@@ -113,7 +161,7 @@
       "url": "https://open.spotify.com/track/4vYEpQ762uNTfIgZ6Rqyd2"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "Go or Stop?",
         "url": "https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA"
@@ -129,7 +177,7 @@
       "url": "https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
@@ -145,7 +193,7 @@
       "url": "https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
@@ -161,7 +209,7 @@
       "url": "https://open.spotify.com/track/1ZKj8dOHp1gaOE9BGvyWWU"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
@@ -177,7 +225,7 @@
       "url": "https://open.spotify.com/track/5o0dqwd2sAdckax4pb6feU"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
@@ -193,7 +241,7 @@
       "url": "https://open.spotify.com/track/2HmA6srhyIetFJ9pb4kvdG"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
@@ -209,7 +257,7 @@
       "url": "https://open.spotify.com/track/4VVbHgWyMvvuvSo4h36xS9"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
@@ -225,7 +273,7 @@
       "url": "https://open.spotify.com/track/2ufe0UMTd8ay3irNf1kIsX"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "TAIL",
         "url": "https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz"
@@ -241,7 +289,7 @@
       "url": "https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "TAIL",
         "url": "https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz"
@@ -257,7 +305,7 @@
       "url": "https://open.spotify.com/track/3uVqwK7jRfNb04b5i4hJqT"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "When We Disco",
         "url": "https://open.spotify.com/album/3cftLnzB9VeNPp5LRWqHNo"
@@ -277,7 +325,7 @@
       "url": "https://open.spotify.com/track/7C7BgAc0fEcNzQZqTc6eQL"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "pporappippam",
         "url": "https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3"
@@ -293,7 +341,7 @@
       "url": "https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "SUNMI SPECIAL EDITION [Gashina]",
         "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
@@ -309,7 +357,7 @@
       "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
@@ -325,7 +373,7 @@
       "url": "https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "Noir",
         "url": "https://open.spotify.com/album/1EBhkTQyICi50mKuybqDp9"
@@ -341,7 +389,7 @@
       "url": "https://open.spotify.com/track/1KCXYoPIpvafzaAGtiRjci"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "LALALAY",
         "url": "https://open.spotify.com/album/7qmsar8kXnwi8k6OCTNoj5"
@@ -357,7 +405,7 @@
       "url": "https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "XX (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/0ftTaGQKUoSrBKH4ZqWIxq"
@@ -373,7 +421,7 @@
       "url": "https://open.spotify.com/track/7xY4ZyZ8v7Crjtu3Esmnql"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
@@ -389,7 +437,7 @@
       "url": "https://open.spotify.com/track/5SEh5ElnuNTz6zn8Th5pP9"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "Heroine",
         "url": "https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2"
@@ -405,7 +453,7 @@
       "url": "https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "24 Hours",
         "url": "https://open.spotify.com/album/4ag4tJmAksjMdxICMV83Aw"
@@ -421,7 +469,7 @@
       "url": "https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
@@ -437,7 +485,7 @@
       "url": "https://open.spotify.com/track/2k75ZjRth50bLdyjFpAv7f"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
@@ -453,7 +501,7 @@
       "url": "https://open.spotify.com/track/0dxN4KBx1LIneaq3Idtl3X"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "My fuxxxxx romance 01",
         "url": "https://open.spotify.com/album/6QEoy9NgTE3tpCoHgb4crc"
@@ -473,7 +521,7 @@
       "url": "https://open.spotify.com/track/3eTv0AJWT9abddyIboLd01"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
@@ -489,7 +537,7 @@
       "url": "https://open.spotify.com/track/2shjrcZS945n1zu1EaeOrH"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu"
@@ -509,7 +557,7 @@
       "url": "https://open.spotify.com/track/3klmHDE1vmBq6FYyPz0QE0"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "24 Hours",
         "url": "https://open.spotify.com/album/4ag4tJmAksjMdxICMV83Aw"
@@ -525,7 +573,7 @@
       "url": "https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu"
@@ -541,7 +589,7 @@
       "url": "https://open.spotify.com/track/7tDtfRpDciNstyvwKzCcyO"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "SOLO DAY",
         "url": "https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix"
@@ -561,7 +609,7 @@
       "url": "https://open.spotify.com/track/1bthBgj2YMcn2w0LBQl5eI"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu"
@@ -581,7 +629,7 @@
       "url": "https://open.spotify.com/track/2LMo8WtAlG7BOGZt9jC1gt"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu"
@@ -601,7 +649,7 @@
       "url": "https://open.spotify.com/track/6ZxavH9mJlUGYOSCdSplJs"
     },
     {
-      "added_at": "2023-04-03 05:23:59",
+      "added_at": "2023-11-03 05:30:20",
       "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu"

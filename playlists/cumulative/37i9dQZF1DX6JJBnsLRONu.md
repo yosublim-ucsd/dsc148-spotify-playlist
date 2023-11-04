@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-95 songs - 6 hr 28 min
+97 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Agave](https://open.spotify.com/track/3nuTfqbuzQNdIt6DstMvPF) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/1aRlVoPRlpWeJHBDVqRETr) | 1:58 | 2023-09-15 |  |
 | [Agave](https://open.spotify.com/track/6naW8OkDHDhM4wYEwZJgwe) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/05tAz0b9gHjjlpaIOxNvfy) | 1:58 | 2022-04-22 | 2023-10-02 |
 | [Ai Du](https://open.spotify.com/track/7vzhCpNntdmzI3yop3UckE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu](https://open.spotify.com/album/0mrP9dZLtrJtUEBuhGgVRF) | 7:09 | 2022-02-10 | 2022-07-29 |
-| [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:09 | 2022-04-22 |  |
+| [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:09 | 2023-09-15 |  |
+| [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:09 | 2022-04-22 | 2023-11-04 |
 | [American Dipper](https://open.spotify.com/track/1PJvxtfe6W1aeQKiXjGmSc) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [American Dipper](https://open.spotify.com/album/648j3s2wgIRU0v1YiVTLil) | 3:55 | 2022-02-10 |  |
 | [At the Edge of the World](https://open.spotify.com/track/1HNy9IZDRBBWOc2HYUSIJw) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [At the Edge of the World](https://open.spotify.com/album/3pPEotWlGwWvmZfiMJvn8R) | 6:16 | 2022-02-10 |  |
 | [Basements](https://open.spotify.com/track/3LoD8YTXOM87GUWU7IhesV) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Basements](https://open.spotify.com/album/7f2B4dwq8gyPtytN6zFcNs) | 3:43 | 2023-09-15 |  |
@@ -33,7 +34,8 @@
 | [Climbing Bear](https://open.spotify.com/track/36lEFwL7po0THo1sTAmAtO) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 3:18 | 2022-02-10 |  |
 | [Country of Illusion](https://open.spotify.com/track/0ZggavuoEzQ2P9iRua8UVv) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Impossible Truth](https://open.spotify.com/album/6bFIXguELPw4vEjL1Kh6uz) | 8:55 | 2022-04-22 |  |
 | [Country of Illusion](https://open.spotify.com/track/34lqJW5cuBoqhG4HjKTEYd) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Impossible Truth](https://open.spotify.com/album/70k7uiK4ChZKvDWomOwICK) | 8:55 | 2022-02-10 | 2022-07-29 |
-| [Cowgirl](https://open.spotify.com/track/65jc3aumDKlwvxAfwTXBv6) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs) | 4:05 | 2022-02-10 |  |
+| [Cowgirl](https://open.spotify.com/track/65jc3aumDKlwvxAfwTXBv6) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs) | 4:05 | 2022-02-10 | 2023-11-04 |
+| [Cowgirl](https://open.spotify.com/track/4NFPPSwK1wtldEPPbExyjv) | [Nick Cave & Warren Ellis](https://open.spotify.com/artist/5cQYq4eJmOwUGCAjhajFg7) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/5tHgLycauca1M9DF9YqsbJ) | 4:05 | 2023-09-15 |  |
 | [Dark blue \- Single Version](https://open.spotify.com/track/6hJmk78LAXe2HGXeCcHWKF) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Dark blue](https://open.spotify.com/album/2XHf9J09d4af5spwdUWOt6) | 6:41 | 2022-02-10 |  |
 | [Dreaming of the Kelly Pool](https://open.spotify.com/track/0ycEUaMWk4iR7KWoY61LCN) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Dreaming of the Kelly Pool](https://open.spotify.com/album/0jQtfIchmIOtzZR3RV5BwC) | 3:55 | 2023-04-14 |  |
 | [Dreaming of the Kelly Pool](https://open.spotify.com/track/2oiA79pJ9Y901ZS2qd6Jl1) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Dreaming of the Kelly Pool](https://open.spotify.com/album/7L5ViL8FXX0tr7ccEByRfH) | 3:55 | 2022-04-22 | 2023-04-30 |

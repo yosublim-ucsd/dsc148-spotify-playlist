@@ -4,7 +4,7 @@
 
 > Flow sudamericano con Polimá Westcoast, TAICHU & Caleb Calloway.
 
-1,011 songs - 2 day 4 hr 28 min
+1,012 songs - 2 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -793,6 +793,7 @@
 | [Rkt Session \#2](https://open.spotify.com/track/1GaLuBLtsFPt7q5jIB9oHS) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [Fer Gimenez](https://open.spotify.com/artist/5OVQwdwigFrInWOvG6LtAF) | [Rkt Session \#2](https://open.spotify.com/album/0bHOUfJCTAV3NgRFB28uR7) | 3:11 | 2022-01-28 | 2022-04-09 |
 | [RoCKSTAR 2.0](https://open.spotify.com/track/3XsYMEJutxpTiNXXRvodQH) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 2:53 | 2023-07-04 | 2023-07-18 |
 | [RoCKSTAR 2.0](https://open.spotify.com/track/7CIhIJ7ekWwmbsnUxNvILc) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 2:53 | 2023-07-14 | 2023-09-28 |
+| [RoCKSTAR 2.0](https://open.spotify.com/track/7vQUmIUpnnOmzmSKDGJAol) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Antes de Ameri](https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR) | 2:53 | 2023-10-27 |  |
 | [Rolito](https://open.spotify.com/track/2IAggR4ZBfI7cBw9COpgdr) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Lautaro LR](https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8), [Neko](https://open.spotify.com/artist/6Dy0IMNdwYgTADL8fe3zsf) | [Rolito](https://open.spotify.com/album/5zF86CFllHdIo9riHB4xQd) | 3:02 | 2022-01-03 | 2022-04-06 |
 | [RON](https://open.spotify.com/track/4S6yo7YJu0YYytNJXUhypv) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [RON](https://open.spotify.com/album/0TWLSZlX6NLmSD8j4q0JsS) | 2:51 | 2022-03-04 | 2022-04-08 |
 | [Rosa Jaguar](https://open.spotify.com/track/2Di3e6XoC6LOZ1bP0vcJlT) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Rosa Jaguar](https://open.spotify.com/album/4AVYqLbOTTkUFEesXGcxJ8) | 3:03 | 2023-08-25 | 2023-09-02 |
@@ -910,7 +911,7 @@
 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 | 2021-12-27 | 2022-07-20 |
 | [Tommy o Armani \- Remix](https://open.spotify.com/track/2ZXWgcWQAImoaIzOEvkQrf) | [Tommy Boysen](https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Malito Malozo](https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD) | [Tommy o Armani \(Remix\)](https://open.spotify.com/album/5D7SvWVJ91i01JeISZhieS) | 5:01 | 2022-02-04 | 2022-04-02 |
 | [TOP](https://open.spotify.com/track/6qFEielNbJIiwgIbZA24nQ) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOP](https://open.spotify.com/album/7FPR6NSBtUXM1jwuybfD2L) | 1:35 | 2023-03-31 | 2023-04-09 |
-| [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2022-01-14 |  |
+| [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2022-01-14 | 2023-11-04 |
 | [Torpe](https://open.spotify.com/track/2dXdxATTLtU1yF9XAHhUhn) | [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3) | [Torpe](https://open.spotify.com/album/54pbMot2UpjwALsJ7KGowu) | 3:16 | 2022-01-03 | 2022-04-08 |
 | [TOTA](https://open.spotify.com/track/6YzLykAZTro3znbspER5Cd) | [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [INMORTALES](https://open.spotify.com/album/1BgFh3hB11NofWQ2ok6sN3) | 2:35 | 2021-12-27 | 2022-04-29 |
 | [Tra Tra](https://open.spotify.com/track/46YrvybgPpjBL13f0uc8Oc) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Tra Tra](https://open.spotify.com/album/5KJG1LyqoEmWyidFAm5JYt) | 2:55 | 2022-08-19 | 2023-03-29 |

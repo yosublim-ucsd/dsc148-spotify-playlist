@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,774 likes - 148 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,803 likes - 148 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 83 | [You the One Fish in the Sea](https://open.spotify.com/track/5TOnnVV8YxB4NnRvavrPHX) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Couldn't Wait to Tell You...](https://open.spotify.com/album/10nNQo6ebmVoyh6R39jRlf) | 2:32 |
 | 84 | [Monk's Dream](https://open.spotify.com/track/4dNuiEKJcnSmNViL0PAD15) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Explorations to the Mth Degree](https://open.spotify.com/album/6Bt5UXCak5dKI1mNRTnD0S) | 6:21 |
 | 85 | [Mud](https://open.spotify.com/track/6wmFaVIo93wTgx63ownemp) | [Ethan Mark](https://open.spotify.com/artist/20ZHmYNQXa3NoerXEAADpl) | [The Concept of You](https://open.spotify.com/album/6mirmPUjC47isMJgc0LdKe) | 2:20 |
-| 86 | [Toes Down](https://open.spotify.com/track/4RBltccJevBLRCaKx8GeP0) | [Louke Man](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Toes Down](https://open.spotify.com/album/3WbZidLDFb4DEMnMKJ6w6s) | 2:54 |
+| 86 | [Toes Down](https://open.spotify.com/track/4RBltccJevBLRCaKx8GeP0) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Toes Down](https://open.spotify.com/album/3WbZidLDFb4DEMnMKJ6w6s) | 2:54 |
 | 87 | [burning \(feat\. just lil\)](https://open.spotify.com/track/2DFA2QYJrgbUVMNgiavKEl) | [ones](https://open.spotify.com/artist/2eKt2klgJbaK8qAqvkAte6), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [burning \(feat\. just lil\)](https://open.spotify.com/album/1xusQdAD0SSLGvXqpHFGKS) | 4:06 |
 | 88 | [Go](https://open.spotify.com/track/1OdkvjSNS3ZTwG8bgLzO3e) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [The Thrill](https://open.spotify.com/album/4s9aJkApwWxxrOzAOqfwbM) | 2:29 |
 | 89 | [less is more](https://open.spotify.com/track/6PSivAJERaHuvJqOaJ2XYh) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [less is more](https://open.spotify.com/album/2YRR2wZ8cz6nDHeUUfW5BI) | 2:36 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 147 | [Play 2](https://open.spotify.com/track/4hjub46q0t82qgGUfLORcv) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw), [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Play 2](https://open.spotify.com/album/3R3kYSDDjnCsgrMUEdQ3nE) | 3:12 |
 | 148 | [Grimey](https://open.spotify.com/track/4IxNLYzo3NmUA8icBU7XVW) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Grimey](https://open.spotify.com/album/6DpgnIgmldVhAWSD7IGQWR) | 2:46 |
 
-Snapshot ID: `MCw0ODZmMTRhZjE5ODYxYjU5YzllMmFlNTI2YjhkYjU5YTNiMDczNzE3`
+Snapshot ID: `MCxmZGY2YmQ0YmFkNWRjN2UxNWJiOTY4NDQ1YTc4ZTUwNDgwNWIxM2Yx`

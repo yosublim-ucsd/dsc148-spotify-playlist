@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring new music by Mannequin Pussy",
+  "description": "Explore all things indie rock right now. Featuring new music by Arcy Drive",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 182773,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/1hXG79pd6Iap7RgjJWUGpO"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 200261,
       "name": "Boy Scout",
       "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
@@ -5702,7 +5702,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 228865,
       "name": "Derby Raceway",
       "url": "https://open.spotify.com/track/1davHiGeSwxgSvdy1yXtjp"
@@ -6448,7 +6448,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 207500,
       "name": "Drivin (feat. Field Medic)",
       "url": "https://open.spotify.com/track/00uUhSnmZOLJqq79mYoC2y"
@@ -9882,7 +9882,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 176558,
       "name": "How to Hold a Knife",
       "url": "https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0"
@@ -9958,6 +9958,24 @@
       "duration_ms": 220521,
       "name": "Hurting Kind",
       "url": "https://open.spotify.com/track/3uppnQKDEQkNUqRSSEXKfM"
+    },
+    {
+      "album": {
+        "name": "HUSH",
+        "url": "https://open.spotify.com/album/6FrcYbl99S3e5xlvHCQj7R"
+      },
+      "artists": [
+        {
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "HUSH",
+      "url": "https://open.spotify.com/track/4BXaVV3EPztEtb4hcF9CGS"
     },
     {
       "album": {
@@ -12242,7 +12260,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 159954,
       "name": "Library",
       "url": "https://open.spotify.com/track/2nbL5N84ccUC3FDnw1cbsM"
@@ -13870,6 +13888,24 @@
       "duration_ms": 203434,
       "name": "Motels",
       "url": "https://open.spotify.com/track/0ZRvakrMLFVzfvR48dvTix"
+    },
+    {
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236426,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP"
     },
     {
       "album": {
@@ -16683,6 +16719,24 @@
     },
     {
       "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/1l2tLGBVpMvwnZ8TV5sC4l"
+      },
+      "artists": [
+        {
+          "name": "Blaize Jenkins",
+          "url": "https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241447,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3MdfiTYyZLFxWHwHf4gDsu"
+    },
+    {
+      "album": {
         "name": "Roadkill",
         "url": "https://open.spotify.com/album/4I6KtoBDbRNR7R5DvQA7Nv"
       },
@@ -17932,7 +17986,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 256133,
       "name": "Smoking Again",
       "url": "https://open.spotify.com/track/6xwtRUcCmIyC8WdzvEcvs1"
@@ -18845,6 +18899,42 @@
     },
     {
       "album": {
+        "name": "Cartwheel",
+        "url": "https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162032,
+      "name": "Stump",
+      "url": "https://open.spotify.com/track/2HYNOLnG9RhqqPKAmYncek"
+    },
+    {
+      "album": {
+        "name": "SUCKER",
+        "url": "https://open.spotify.com/album/2luQRtBMAKFkGnBwWToNkJ"
+      },
+      "artists": [
+        {
+          "name": "IAN SWEET",
+          "url": "https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268586,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/3Y7aoI9rr7TqA2ONaIHgB9"
+    },
+    {
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
       },
@@ -18983,6 +19073,24 @@
     },
     {
       "album": {
+        "name": "Sunday / Medicine",
+        "url": "https://open.spotify.com/album/2q3V5Ylh479x0bTRCJeHC1"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200453,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/3OB5WUE1dbsTAs7kYjgNkP"
+    },
+    {
+      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -19052,6 +19160,24 @@
       "duration_ms": 179400,
       "name": "Super New China",
       "url": "https://open.spotify.com/track/1V0C0Agg6kJuWfWpUFnL0J"
+    },
+    {
+      "album": {
+        "name": "Superbloomer",
+        "url": "https://open.spotify.com/album/43M8szELX9et29YildxYbP"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277175,
+      "name": "Superbloomer",
+      "url": "https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x"
     },
     {
       "album": {
@@ -19684,7 +19810,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 133535,
       "name": "The Dead Come Talking",
       "url": "https://open.spotify.com/track/30rgtGTl30WcfiyDDqo94A"
@@ -21200,6 +21326,24 @@
       "duration_ms": 169180,
       "name": "Utah",
       "url": "https://open.spotify.com/track/3HEBe9g9vNZ6AaAnRtsjvh"
+    },
+    {
+      "album": {
+        "name": "Utopian",
+        "url": "https://open.spotify.com/album/4EcdsdsmbPSKTaIWZLmF6t"
+      },
+      "artists": [
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Utopian",
+      "url": "https://open.spotify.com/track/6Y73gYOJzsXMxp5JVmYRCk"
     },
     {
       "album": {

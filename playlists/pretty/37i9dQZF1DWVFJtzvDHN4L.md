@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 
 > Relaxing soundtracks to help you escape and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,362 likes - 59 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,425 likes - 59 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 20 | [Fossils](https://open.spotify.com/track/2ZtQgrIztmjQwyewLyvDmm) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [Dustin O'Halloran & Volker Bertelmann](https://open.spotify.com/artist/6BHwRzCgENU0kmJt6yGy4x) | [Ammonite \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BKrDhnU8yzYnNYbWoOHg0) | 5:40 |
 | 21 | [Wish I Could Spend The Day With You](https://open.spotify.com/track/7H1qlREWSW4MgamNSrgZbw) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2), [Jeff Danna](https://open.spotify.com/artist/4v7z4d0nyIY3mWGz1AXoK1) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 1:46 |
 | 22 | [Maps](https://open.spotify.com/track/5arnqM3mLtyOpdqDrbavQb) | [Nick Lloyd Webber](https://open.spotify.com/artist/3r0kvjF0xGitqk9azZVB35) | [The Last Bus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/231VrH3cg7DOmHpLB2AlGx) | 1:48 |
-| 23 | [Resting \- Short](https://open.spotify.com/track/4gdMWFOlSyIHTJLOfgX1tj) | [Arash Safaian](https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme), [Sindy Mohamed](https://open.spotify.com/artist/7KbpbMPJJvkz9zzFQDKfNB), [Bernhard Wünsch](https://open.spotify.com/artist/2X9kLw3sUOWUEHVdwIRqzB), [The Berlin Orchestra](https://open.spotify.com/artist/6cM5S5JAR9qY9GdYyLAuUY) | [Resting \(From the Original Motion Picture Soundtrack of "The Fox"\)](https://open.spotify.com/album/3K3H96v89xn21Slj4gdePY) | 1:32 |
+| 23 | [Resting \(Short\)](https://open.spotify.com/track/2jljiAZnZtzi2vvD4RmpYK) | [Arash Safaian](https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme), [Sindy Mohamed](https://open.spotify.com/artist/7KbpbMPJJvkz9zzFQDKfNB), [Bernhard Wünsch](https://open.spotify.com/artist/2X9kLw3sUOWUEHVdwIRqzB), [The Berlin Orchestra](https://open.spotify.com/artist/6cM5S5JAR9qY9GdYyLAuUY) | [The Fox \(Music from the Film\)](https://open.spotify.com/album/3UKr71lTDxRuEUteFTvoUz) | 1:32 |
 | 24 | [Romance Suite \(From the Motion Picture "Promising Young Woman"\)](https://open.spotify.com/track/7HYsIVxaKJtbCfaPDj8hMy) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk) | [Promising Young Woman \(Original Motion Picture Score\)](https://open.spotify.com/album/5tw3WvlmNGNBACzwUSPbJd) | 3:32 |
 | 25 | [Alma](https://open.spotify.com/track/5s1mZcxqYhgmlvDxg4IGwt) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [Phantom Thread \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WyVg6gJ9kCPkZs4zhIrDz) | 4:07 |
 | 26 | [Spiral](https://open.spotify.com/track/1dUJRgcJtUxNfTWVEkshUb) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Way Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4TJtPWRuD0m4brMRz8wi5P) | 2:53 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 58 | [Truths](https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Everything, Everything \(Original Motion Picture Score\)](https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD) | 1:54 |
 | 59 | [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 2:07 |
 
-Snapshot ID: `MCxhZTIzOTEzMjYxNGMyNDM5MjEwZDlhYTA5ODgyMjUxNzA1MGIyOWNi`
+Snapshot ID: `MCwxMzZmMTkxMjI4OTk3NGNhMTVlZDFhNzQxZDhiZmYzMjJhNjkzZGY2`

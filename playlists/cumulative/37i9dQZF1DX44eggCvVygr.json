@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Baby Now That I've Found You",
+        "url": "https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "Harlem Shuffle (Alternate Take)",
+      "url": "https://open.spotify.com/track/6kDtGFy10W0ydXtCJPrths"
+    },
+    {
+      "album": {
         "name": "The Foundations",
         "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
       },
@@ -834,7 +852,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 188026,
       "name": "Harlem Shuffle - Alternate Take",
       "url": "https://open.spotify.com/track/76t1Pd4pn3zwtWN8fD1zBy"
@@ -1132,10 +1150,28 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 180226,
       "name": "Maskenfreiheit",
       "url": "https://open.spotify.com/track/0EeTWwqWaHQbtENvvlYP60"
+    },
+    {
+      "album": {
+        "name": "Render Me Numb, Trivial Violence",
+        "url": "https://open.spotify.com/album/26MeZzexBTmsfmge60gYe3"
+      },
+      "artists": [
+        {
+          "name": "Belako",
+          "url": "https://open.spotify.com/artist/7znL32O79uRRRhojT25gug"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180226,
+      "name": "Maskenfreiheit",
+      "url": "https://open.spotify.com/track/0U6DDIna03AaXc35Djhjgi"
     },
     {
       "album": {

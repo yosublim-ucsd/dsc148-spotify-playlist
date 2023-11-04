@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "V.Acina, Vol.1",
+        "url": "https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54"
+      },
+      "artists": [
+        {
+          "name": "Brisa Busters",
+          "url": "https://open.spotify.com/artist/1aljmjX3dsFm1MGihqcxoP"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396922,
+      "name": "Eu Vou Surfar Na Pista",
+      "url": "https://open.spotify.com/track/2ZLNBOe9ytRcrHlqNrqBfL"
+    },
+    {
+      "album": {
         "name": "Feel Me",
         "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
       },
@@ -564,7 +582,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 469695,
       "name": "Kin Sharuba",
       "url": "https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7"

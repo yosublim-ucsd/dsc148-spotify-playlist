@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,332 likes - 174 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,340 likes - 174 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 56 | [Can't Fool With Me](https://open.spotify.com/track/5VQe4YIBhwcs7XsiHond9O) | [The Spaceshits](https://open.spotify.com/artist/3syYIJ8mAG9T477ItqEOGA) | [Misbehavin'](https://open.spotify.com/album/6lBeOZuJYpZLOY7fGwZJ7k) | 2:53 |
 | 57 | [Out on the Weekend](https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 4:02 |
 | 58 | [Young Lovers Do](https://open.spotify.com/track/7fx1Uu6Y7HHVK4qmnUtYlu) | [Tilly VW](https://open.spotify.com/artist/3k1wzoa766QdroI9rsVCBU) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 3:54 |
-| 59 | [When the Lights Are Low](https://open.spotify.com/track/5dfQhcik87RMJAvVs7xW95) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 3:04 |
+| 59 | [When The Lights Are Low](https://open.spotify.com/track/1QxSiJ0Xf0iUzyDIFh7FWF) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On The Beach With The Paragons](https://open.spotify.com/album/5rPWGUQEG3OfeT65tRqcf9) | 3:05 |
 | 60 | [Heaven on the Beach With You](https://open.spotify.com/track/3NK7KV1KyUwSoJwNIIOP8f) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Ode to a Rainy Day: Archives 1972\-1975](https://open.spotify.com/album/3jEMYpVReCHM2PRJn9AiYG) | 2:02 |
 | 61 | [Work Until I Die](https://open.spotify.com/track/1QfJXCHZvjA5b5p8JA9KFK) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 6:32 |
 | 62 | [Red Stripe](https://open.spotify.com/track/5ow26jh6Xri8fnkEQQF8Dp) | [Kerbside Collection](https://open.spotify.com/artist/6OOY4mJJDFE32QIWK171zh) | [Mind the Curb](https://open.spotify.com/album/2kWjbdeQTPTTK3gZyo2HIC) | 4:44 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 173 | [Never Gonna Let You Go](https://open.spotify.com/track/5LDysQO7wtl5rTdgCggcfj) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Never Gonna Let You Go b/w Everytime It Rains](https://open.spotify.com/album/3YZTPPJrD1pj8tg43O6n1a) | 2:31 |
 | 174 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MCw0YzU5MDliOWVjNGM2MDQzMThjYjc2YmE5MGZjNTRkMGMxN2IxMWQz`
+Snapshot ID: `MCw5MDRmYTM5NGNhYWM2NWQ3NjNkYWVlMzJlMDkyZmI3Mzk0MTcyYTZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,347 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,430 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 28 | [Rasiya Reprise](https://open.spotify.com/track/3f9dNrQR4stx9CCfpqZVSf) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Brahmastra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79) | 4:45 |
 | 29 | [Tere Bin](https://open.spotify.com/track/3F5PXirySr1SjFZWOcSUbS) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Wazir](https://open.spotify.com/album/58UGZt8xJwDCcxZlRCGNws) | 4:04 |
 | 30 | [Galliyan \(Unplugged\)](https://open.spotify.com/track/0zlsXumKe7ymS1ANu5TDZP) | [Shraddha Kapoor](https://open.spotify.com/artist/6vYL9RV6m4NECOJzbGRbbV), [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB) | [Ek Villain](https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF) | 4:14 |
-| 31 | [Jeena Jeena](https://open.spotify.com/track/3Q3c4z0Q9d7xyhbi0cj88U) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I), [krmd](https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht), [Emre Root](https://open.spotify.com/artist/58gPiY6DihD2M1PH1g8Lpd) | [Jeena Jeena](https://open.spotify.com/album/1BDdxSaEQOpiujC9ELoE1Y) | 3:55 |
+| 31 | [Jeena Jeena](https://open.spotify.com/track/7faCbn9W24gbnPn4HyfyI2) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [Bexter](https://open.spotify.com/artist/2rPNU3ZalATWC8af5XRWOG), [Egemen Kazanır](https://open.spotify.com/artist/2NRUSasq9uE6t1RDdSpdXA) | [Jeena Jeena](https://open.spotify.com/album/2l3GIE7zT92CGRwdx9iQ91) | 3:55 |
 | 32 | [Saanjha \(From "Zara Hatke Zara Bachke"\) \- Unplugged](https://open.spotify.com/track/5qXXxsY0eLQikM6KEp91P7) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Saanjha \(From "Zara Hatke Zara Bachke"\) \[Unplugged\]](https://open.spotify.com/album/3qStuUsmAmUDiLDqbtGF8C) | 3:17 |
 | 33 | [Kaun Mera](https://open.spotify.com/track/4137w3YEeQSgz52qxyjxHR) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Special 26](https://open.spotify.com/album/6EN0NhqSQIYiLqbNkfXkIq) | 2:52 |
 | 34 | [Pehli Baar Mohabbat](https://open.spotify.com/track/58xpZwxUpgrnJMTEmvkZMP) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Kaminey](https://open.spotify.com/album/1qv61iBeeO95BnymDWUgWI) | 5:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Unplugged](https://open.spotify.com/track/3UPesdwW261UnhOg03Coy7) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \[Unplugged\]](https://open.spotify.com/album/3p6PTmeOHxfxNaqSFpMAVJ) | 0:55 |
 | 50 | [Buniyaad 2.0](https://open.spotify.com/track/45vZrnB268uU9nYHIpk2Wf) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Maja Ma \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UyrHiVW3kVm5YgDNlF8q9) | 4:11 |
 
-Snapshot ID: `MCxlNWI2NDQ2YzNjMDUyZGVhYWEzMTlhNmIxMDQyMzlhMzY1ZTliMWQ1`
+Snapshot ID: `MCxjNTkwZTViZDI1ODMxNGQ4OGY3ZTQyOWI0ZTcwYTRiNzIxMGY4ZWQz`

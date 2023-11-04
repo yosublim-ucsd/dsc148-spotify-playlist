@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,304 likes - 65 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,412 likes - 65 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 20 | [Giant Steps \- 2020 Remaster](https://open.spotify.com/track/1ZXu0ib26kWfQQngREMcU2) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(60th Anniversary Super Deluxe Edition\) \[2020 Remaster\]](https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4) | 4:47 |
 | 21 | [Minors Holiday \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Afro\-Cuban \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ) | 4:27 |
 | 22 | [52nd Street Theme \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 2:49 |
-| 23 | [Alamode](https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU) | 6:50 |
-| 24 | [Scrapple From The Apple \- Rudy Van Gelder Edition / 2003 Remaster](https://open.spotify.com/track/5f4V1rtxYYbGnTbITkkIV7) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Our Man In Paris \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088) | 7:22 |
+| 23 | [Scrapple From The Apple \- Rudy Van Gelder Edition / 2003 Remaster](https://open.spotify.com/track/5f4V1rtxYYbGnTbITkkIV7) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Our Man In Paris \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088) | 7:22 |
+| 24 | [Alamode](https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU) | 6:50 |
 | 25 | [Salt Peanuts](https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h) | [Dizzy Gillespie Quintet](https://open.spotify.com/artist/4pOjIcQ4PGk52L8aGsrO5A) | [An Electrifying Evening With The Dizzy Gillespie Quintet](https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0) | 7:08 |
 | 26 | [Limehouse Blues](https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 4:40 |
 | 27 | [The Blues Walk](https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:54 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 40 | [Donna Lee](https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 6:17 |
 | 41 | [Easy To Love](https://open.spotify.com/track/2HOw5nhsI0MQEBfFHGBqcx) | [Cannonball Adderley Sextet](https://open.spotify.com/artist/02jb3iJUcjIVwucRa5YXTn) | [Nippon Soul](https://open.spotify.com/album/1REPOxK1OcOZtJHPAJgabn) | 3:46 |
 | 42 | [A Night In Tunisia](https://open.spotify.com/track/5e2HaUy9iKP0f9hV4Fj58j) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 5:07 |
-| 43 | [The Bridge \- Remastered](https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:59 |
-| 44 | [Humph \- Rudy Van Gelder 24\-Bit Mastering / 1998 Digital Remaster](https://open.spotify.com/track/4oGruUJSJ1r10pOxGNlGd5) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 2:55 |
+| 43 | [Humph \- Rudy Van Gelder 24\-Bit Mastering / 1998 Digital Remaster](https://open.spotify.com/track/4oGruUJSJ1r10pOxGNlGd5) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 2:55 |
+| 44 | [The Bridge \- Remastered](https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:59 |
 | 45 | [Blues And The Abstract Truth](https://open.spotify.com/track/0Nlj7A0uSf1uytsTIsEZJO) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN), [Daniel Moore](https://open.spotify.com/artist/7ePbCvgnCDpz0SfaQHV8Bq) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 5:12 |
 | 46 | [Hora Decubitus](https://open.spotify.com/track/6evehXa14Rvbt355gFnMdH) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:43 |
 | 47 | [Steps\-What Was \- Digitally Remastered](https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 13:50 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [Slippers](https://open.spotify.com/track/2l9HtErDh1gZfnyjeBk9NT) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [A Modern Symposium of Music and Poetry \(Remastered 2013\)](https://open.spotify.com/album/122JFn10LK4Mpzp8yqIdhO) | 3:28 |
 | 65 | [Philly Mignon \- Rudy Van Gelder 24\-Bit Remastering/2006](https://open.spotify.com/track/7hebpNg0ujU0zFZhNvgCJz) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Here To Stay](https://open.spotify.com/album/7mtewQM5RycRtEtGYAlLH5) | 5:28 |
 
-Snapshot ID: `MCw4MDE1MjUxYWRmMGRjOWZiNDQ1YTk2NzFkMjAyNjhmNDMzMzVlZTNj`
+Snapshot ID: `MCwwMDg2ZjA3OTNlN2UyODVhYjIxYmNmYTRhOGJiODY3NzA4NGY2ZTI0`

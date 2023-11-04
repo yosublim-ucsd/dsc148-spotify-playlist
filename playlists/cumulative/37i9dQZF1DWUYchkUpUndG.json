@@ -8507,6 +8507,24 @@
     },
     {
       "album": {
+        "name": "Heavenly Father",
+        "url": "https://open.spotify.com/album/3gfqZC8zBCS5m5Y9IolaEJ"
+      },
+      "artists": [
+        {
+          "name": "JUELS\u2728",
+          "url": "https://open.spotify.com/artist/0KBJ3wdRmwXEOJXmvpFjtN"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214146,
+      "name": "Heavenly Father",
+      "url": "https://open.spotify.com/track/3w6Bp44WQ05eY4nTHvpNAG"
+    },
+    {
+      "album": {
         "name": "Heir (Of the Father)",
         "url": "https://open.spotify.com/album/3VOhKDuZ17erjNw3ai3NZM"
       },
@@ -10438,12 +10456,8 @@
           "url": "https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO"
         },
         {
-          "name": "Asebe",
-          "url": "https://open.spotify.com/artist/2SC1adgBdk5UQhX7rCAYUb"
-        },
-        {
-          "name": "Elijah Chilaka",
-          "url": "https://open.spotify.com/artist/77YR2TyYC46ifo1NPj9IX4"
+          "name": "Real Essence Crew",
+          "url": "https://open.spotify.com/artist/0lONQtQ4Xf7c0x72kIagLW"
         }
       ],
       "date_added": "2023-11-03",
@@ -20038,6 +20052,24 @@
       "duration_ms": 594782,
       "name": "To The One",
       "url": "https://open.spotify.com/track/63jFXcyV4O9hxNvguAhXfr"
+    },
+    {
+      "album": {
+        "name": "To Us a Child Is Born",
+        "url": "https://open.spotify.com/album/6lCqPScDE5VFiWzyg5JTCG"
+      },
+      "artists": [
+        {
+          "name": "Destiny Paul-Enenche",
+          "url": "https://open.spotify.com/artist/4kqZT7so05YLthY4Ue7tgu"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254990,
+      "name": "To Us a Child Is Born",
+      "url": "https://open.spotify.com/track/68xyXJg5w3Z4tAUkwfcqHH"
     },
     {
       "album": {

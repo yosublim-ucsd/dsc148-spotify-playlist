@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429973,
+      "name": "Ai Du (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey"
+    },
+    {
+      "album": {
         "name": "Talking Timbuktu (with Ry Cooder)",
         "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
       },
@@ -204,7 +222,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 429973,
       "name": "Ai Du (with Ry Cooder)",
       "url": "https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI"
@@ -486,10 +504,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 245733,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/65jc3aumDKlwvxAfwTXBv6"
+    },
+    {
+      "album": {
+        "name": "The Assassination of Jesse James By the Coward Robert Ford",
+        "url": "https://open.spotify.com/album/5tHgLycauca1M9DF9YqsbJ"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & Warren Ellis",
+          "url": "https://open.spotify.com/artist/5cQYq4eJmOwUGCAjhajFg7"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245733,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/4NFPPSwK1wtldEPPbExyjv"
     },
     {
       "album": {

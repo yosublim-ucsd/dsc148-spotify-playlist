@@ -230,6 +230,24 @@
     {
       "album": {
         "name": "En Manasa Kalachale",
+        "url": "https://open.spotify.com/album/1q1rFfMbAp9Q7Db0KwnCRl"
+      },
+      "artists": [
+        {
+          "name": "Manoj Kumar.M",
+          "url": "https://open.spotify.com/artist/3HF2g6nt0a3ZX6oZ8gO3gT"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214269,
+      "name": "En Manasa Kalachale",
+      "url": "https://open.spotify.com/track/014UeXeHR9DeqZiQZx9FZW"
+    },
+    {
+      "album": {
+        "name": "En Manasa Kalachale",
         "url": "https://open.spotify.com/album/5lf9NhTSRez5DnAHF1v8eR"
       },
       "artists": [
@@ -262,7 +280,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 214269,
       "name": "En Manasa Kalachale",
       "url": "https://open.spotify.com/track/7wtlmmn8eIV4Ma7qcc9aXv"
@@ -354,10 +372,32 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 231924,
       "name": "Hey Singari",
       "url": "https://open.spotify.com/track/0uQoEdoRff5G6tY64bdDH3"
+    },
+    {
+      "album": {
+        "name": "Hey Singari",
+        "url": "https://open.spotify.com/album/0CzzSHuaMI4bwnlX2q3qKY"
+      },
+      "artists": [
+        {
+          "name": "Arul Raj",
+          "url": "https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231924,
+      "name": "Hey Singari",
+      "url": "https://open.spotify.com/track/3BY6Ez06AcR1MO2KljC1QC"
     },
     {
       "album": {

@@ -992,10 +992,28 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 247880,
       "name": "Did It Again",
       "url": "https://open.spotify.com/track/0YmQkGWoYcqCrX4ODkG3RB"
+    },
+    {
+      "album": {
+        "name": "Sunday Afternoon",
+        "url": "https://open.spotify.com/album/0P3xpotuVfJghJHe4yLKqD"
+      },
+      "artists": [
+        {
+          "name": "True Loves",
+          "url": "https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247880,
+      "name": "Did It Again",
+      "url": "https://open.spotify.com/track/5BKtywlUwpUUb9wAAqH7AN"
     },
     {
       "album": {
@@ -2400,7 +2418,7 @@
     {
       "album": {
         "name": "Sunday Afternoon",
-        "url": "https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy"
+        "url": "https://open.spotify.com/album/0P3xpotuVfJghJHe4yLKqD"
       },
       "artists": [
         {
@@ -2411,6 +2429,24 @@
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 268106,
+      "name": "Kabuki",
+      "url": "https://open.spotify.com/track/0GTNVTzaXx4B8BBid7KPF2"
+    },
+    {
+      "album": {
+        "name": "Sunday Afternoon",
+        "url": "https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy"
+      },
+      "artists": [
+        {
+          "name": "True Loves",
+          "url": "https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
       "duration_ms": 268106,
       "name": "Kabuki",
       "url": "https://open.spotify.com/track/4SkVO7JGpsMclUhc8Kcwwf"
@@ -3642,10 +3678,40 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 257066,
       "name": "Sleep Depraved",
       "url": "https://open.spotify.com/track/4VDIqajjzfienIbv3zuu6o"
+    },
+    {
+      "album": {
+        "name": "The Hit",
+        "url": "https://open.spotify.com/album/1dzSCG6nov0zLtT0Bckdl1"
+      },
+      "artists": [
+        {
+          "name": "WRD Trio",
+          "url": "https://open.spotify.com/artist/3X7BXKZNdJxqDhkIxgwzCM"
+        },
+        {
+          "name": "Adam Deitch",
+          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        },
+        {
+          "name": "Robert Walter",
+          "url": "https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257173,
+      "name": "Sleep Depraved",
+      "url": "https://open.spotify.com/track/4KGPk8tcnfjwCGkyDDaVvp"
     },
     {
       "album": {

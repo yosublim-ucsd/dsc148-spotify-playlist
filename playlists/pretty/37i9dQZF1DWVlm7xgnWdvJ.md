@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,481 likes - 103 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,497 likes - 103 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 102 | [En Balaté \(rework\)](https://open.spotify.com/track/780wEKS87IvaYO3QRrpTmx) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj), [Jean\-Claude Naimro](https://open.spotify.com/artist/5NXrAZhndFutn5Kon2ZQCQ) | [En Balaté \(rework\)](https://open.spotify.com/album/0otCKYtXnC0tpVxB0Edg9P) | 6:25 |
 | 103 | [\(It Goes Like\) Nanana](https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana](https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc) | 6:07 |
 
-Snapshot ID: `MCw2YmRhNmYxN2FlMmUwZmJkMTc4ZThjY2IzN2I0NjIwMDIxZDU4Mzg5`
+Snapshot ID: `MCwyMzgzNzFjNWNjODMzOTE0OGQ5NTkzOTRkZTJhY2I2ZDFjODZhZjY3`

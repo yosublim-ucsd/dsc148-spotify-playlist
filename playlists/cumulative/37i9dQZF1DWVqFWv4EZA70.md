@@ -4,7 +4,7 @@
 
 > Beats que le suben el ánimo a tu día.
 
-91 songs - 5 hr 46 min
+92 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Runnin' \- Extended](https://open.spotify.com/track/6x0fMgsxvhpiOspnhykuF2) | [Visioneers](https://open.spotify.com/artist/1PjrwJuTm8jNItVJ1GDrrD) | [Marc Mac presents Visioneers \- Dirty Old Hip Hop](https://open.spotify.com/album/7ytasfSaRrQtKyjkiiYibW) | 4:06 | 2021-10-15 |  |
 | [Sandra](https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo) | [Black Mantra](https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5) | [VXNTX VXNTX](https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l) | 3:11 | 2022-10-10 |  |
 | [Shoulder Kiss](https://open.spotify.com/track/3ZB4h7rWKKIMC06EzFiuE9) | [Freddie Joachim](https://open.spotify.com/artist/0GgkfnO3Bu2CFn65ZH31TF) | [Study Guide](https://open.spotify.com/album/46LudqPGBEIX9l8FlVqe9x) | 2:36 | 2021-10-15 |  |
-| [Someone Like You \(Instrumental\)](https://open.spotify.com/track/64GFQFCscymlV0uCbo4qlu) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj) | 4:09 | 2021-10-15 |  |
+| [Someone Like You \(Instrumental\)](https://open.spotify.com/track/2TBqVSt1n7v9d0tc5uOwd0) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/3bgCu5Lk4saMzZrtDMX118) | 4:09 | 2022-10-10 |  |
+| [Someone Like You \(Instrumental\)](https://open.spotify.com/track/64GFQFCscymlV0uCbo4qlu) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj) | 4:09 | 2021-10-15 | 2023-11-04 |
 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 | 2021-10-15 |  |
 | [Tea Thyme](https://open.spotify.com/track/2APXQ9ONhqK1GDexegeSdv) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [How It Should Sound, Vol\. 1 & 2](https://open.spotify.com/album/5KIoOhlCq4pWV9aupB97KU) | 2:42 | 2021-10-15 |  |
 | [The Anthem \(Instrumental\)](https://open.spotify.com/track/39WiivO5yDqfhHFXsREqCE) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Coffee Shop Selection](https://open.spotify.com/album/2Du6CyEJh7uk7nfiGATB1r) | 3:00 | 2021-10-15 |  |

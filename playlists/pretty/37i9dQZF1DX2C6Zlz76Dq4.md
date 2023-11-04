@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Reba McEntire
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,897 likes - 112 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,073 likes - 112 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 13 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/56s8ABk1WrAOHqkCjHpOlK) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4tb0hEqZZIGZjlqXT5UtAT) | 3:31 |
 | 14 | [Frosty The Snowman](https://open.spotify.com/track/13RYJj0NlD9OSHhXnStQE6) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Merry Christmas Strait To You](https://open.spotify.com/album/5TNDl5mXm4qippqOM7q169) | 2:18 |
 | 15 | [Country Christmas](https://open.spotify.com/track/4jBeYXnsJaNvsNmc7vhDkw) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Country Christmas](https://open.spotify.com/album/1yk8In8WNPY2Sytyp8KKZZ) | 2:06 |
-| 16 | [Winter Wonderland](https://open.spotify.com/track/2VjzNrJ8pyo5tMVVfPzZxs) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 2:56 |
+| 16 | [Winter Wonderland](https://open.spotify.com/track/2h6N5wsKYVI63nRU4cCIUt) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Happy Holiday/It's The Holiday Season](https://open.spotify.com/album/5sR657t0qQVtcqfg9srqHS) | 2:56 |
 | 17 | [I'll Be Home For Christmas](https://open.spotify.com/track/1QvFsu0LyVr9MKDhtvWtwU) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Christmas](https://open.spotify.com/album/7c8BQ8VwHYGks8qo0sCIAW) | 3:48 |
 | 18 | [Christmas Time's a Comin'](https://open.spotify.com/track/732X3PVokatrpbPVGSoOD8) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Bluegrass & White Snow, A Mountain Christmas](https://open.spotify.com/album/5lZFICo1VSjasmXnnVdq6p) | 3:36 |
 | 19 | [Let It Be Christmas](https://open.spotify.com/track/70OrTBlb0RLKNfxWE6fZZM) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Let It Be Christmas](https://open.spotify.com/album/1IwTlARBAG1aVi9uIBmZqm) | 4:11 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 53 | [Santa Looked a Lot Like Daddy](https://open.spotify.com/track/2DY6Saf2cf3uuNfCk8pVtO) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [A Travis Tritt Christmas \- Loving Time of the Year](https://open.spotify.com/album/6oYnUZmHy3C0xL8QZnbaoR) | 2:28 |
 | 54 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/66mtOmzVK3qyaUQKFtb9Mv) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Season For Romance](https://open.spotify.com/album/0pu8HcgAXHkgPAiSUqu4NR) | 4:28 |
 | 55 | [Merry, Merry Christmas Baby](https://open.spotify.com/track/2cWj8ipRBN2azJbER817cy) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Merry, Merry Christmas Baby](https://open.spotify.com/album/7ckrgR0Wf1onjrVFFV4iE0) | 3:40 |
-| 56 | [Most Wonderful Time of The Year](https://open.spotify.com/track/3wsfebFScXrZMhMiKW7OOU) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 3:31 |
+| 56 | [Most Wonderful Time of The Year](https://open.spotify.com/track/2kkt5XyWY2XQUvouhgCS0S) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Happy Holiday/It's The Holiday Season](https://open.spotify.com/album/5sR657t0qQVtcqfg9srqHS) | 3:31 |
 | 57 | [Christmas Cookies](https://open.spotify.com/track/2l9OCqqyFghMIMOqoDDvfr) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Christmas Cookies](https://open.spotify.com/album/2cdL5oykpGZ3fCjy53fNbE) | 3:18 |
 | 58 | [Little Drummer Boy](https://open.spotify.com/track/3E3QIlYJikHymLrScKCynD) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Little Drummer Boy](https://open.spotify.com/album/1PnogosIABFgWFOVRwv6Aj) | 2:50 |
 | 59 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/62XVUywOjWRxEfVI6RiTH8) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Season For Romance](https://open.spotify.com/album/0pu8HcgAXHkgPAiSUqu4NR) | 4:31 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 86 | [Old Time Christmas \(2021 Remaster\)](https://open.spotify.com/track/0raTNC16IOr7k1iGVVxBtE) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [An Old Time Christmas \(Deluxe Edition\)](https://open.spotify.com/album/6SwiA8jen7umxi9L8y1Oy4) | 3:17 |
 | 87 | [Rockin' This Christmas](https://open.spotify.com/track/7H6yLpLka4t6FR4cgnCXhF) | [The Tractors](https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9) | [Have Yourself A Tractors Christmas](https://open.spotify.com/album/2lzYZiVRVYdk0eIOevUAvG) | 3:46 |
 | 88 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/3GedYsq15ihZtl9muh5b5A) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Pretty Paper](https://open.spotify.com/album/5Vdf8rMX6hBLQ0AQPunYQx) | 2:10 |
-| 89 | [New Year](https://open.spotify.com/track/1S3pTaijxZ4R0AQf6QYDW4) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [New Year](https://open.spotify.com/album/1XD8XpO3UB9W2EtzLDOYnJ) | 3:47 |
+| 89 | [New Year](https://open.spotify.com/track/3SuSFP8Br0xhcVM3pLQIDf) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Good Years](https://open.spotify.com/album/6l3DioCgNlp8H4fTpI64MH) | 3:47 |
 | 90 | [Jingle Bell Rock](https://open.spotify.com/track/5r1RRIizK2WACdbjQTDSss) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Rockin' Around The Christmas Tree/The Decca Christmas Recordings](https://open.spotify.com/album/1gAceSZFd4irbzRRHLof8U) | 2:10 |
 | 91 | [I Saw Mama Kissing Santa Claus](https://open.spotify.com/track/1DhCamp4LLENxOB0IYkSfB) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [The Ultimate Christmas Collection](https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ) | 3:43 |
 | 92 | [Christmas for Every Boy and Girl](https://open.spotify.com/track/3nXpXEFKFegDkqT4RN25Qb) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [The Clint Black Christmas Collection](https://open.spotify.com/album/2F1CtdI1ERhG5Sufzevk3l) | 3:40 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 111 | [Shimmy Down The Chimney \(Fill Up My Stocking\)](https://open.spotify.com/track/5OL7UVR4hAxpeWQ5M8eB2T) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Christmas Angels](https://open.spotify.com/album/4yjYRxRStBvBTUog8drzlM) | 4:21 |
 | 112 | [Winter Wonderland / Sleigh Ride](https://open.spotify.com/track/183egccUAzP1fEFSy2TSZQ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:41 |
 
-Snapshot ID: `MCw3ZTQwNDZmNDBjMmUwYmU2MzYxMmNkOGM5YWY3MWE5NjcwMWM4YWVm`
+Snapshot ID: `MCxiOGEyNDc5MmM2MjE5Y2JkYjJlOTBlZGExMDI1Yzc1ZWQwOTI0MmIx`

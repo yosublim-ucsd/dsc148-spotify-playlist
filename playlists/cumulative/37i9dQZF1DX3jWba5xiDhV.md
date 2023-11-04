@@ -4,7 +4,7 @@
 
 > When the dance floor calls your name, that's amore.
 
-165 songs - 14 hr 18 min
+166 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Boys \(Summertime Love\)](https://open.spotify.com/track/1iwQoAswnkS5eVlVIXN998) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Boys \(Summertime Love\)](https://open.spotify.com/album/3k166ijpPTPQZeiCOTOm9E) | 3:48 | 2022-07-01 | 2023-09-15 |
 | [Boys \(Summertime Love\)](https://open.spotify.com/track/5N3OfUHIfgKZIHIIFb8VII) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Golden Dance Hits](https://open.spotify.com/album/4nfVX7UtuXYRCi3AfZST6E) | 3:51 | 2022-02-11 | 2022-06-27 |
 | [Boys \- Summertime Love](https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Sabrina](https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v) | 3:54 | 2023-07-28 |  |
-| [Broken Heart](https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Broken Heart](https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j) | 6:44 | 2022-02-11 | 2023-10-29 |
+| [Broken Heart](https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Broken Heart](https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j) | 6:44 | 2022-02-11 |  |
 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 | 2022-02-11 |  |
 | [Che caldo](https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Che Caldo](https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX) | 3:25 | 2023-07-13 |  |
 | [Color My Love](https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ) | [Color My Love](https://open.spotify.com/album/0chLkxta1tCRN2lF0vIYqH) | 4:06 | 2022-07-01 |  |
@@ -134,7 +134,7 @@
 | [Sexergy](https://open.spotify.com/track/6uu4NKyUPn3bMVGEQBbFL1) | [NEW HOOK](https://open.spotify.com/artist/7emhT5um7BSV4bVeahXTPa) | [Ombra Intl 016](https://open.spotify.com/album/5uZjutxTEk4gWLaZGwZnmc) | 7:14 | 2022-02-11 | 2022-07-29 |
 | [She Can't Love You](https://open.spotify.com/track/3CX1FiiXSbvKjsXRYwApAP) | [Chemise](https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS) | [She Can't Love You](https://open.spotify.com/album/7dL0O0sGYCCXxI7FUo1sC5) | 5:25 | 2022-02-11 |  |
 | [Splendida giornata](https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vado al massimo \(Remastered\)](https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM) | 4:39 | 2022-10-07 |  |
-| [Splendido splendente](https://open.spotify.com/track/6cTDaZELhhgPxzdPn5lruI) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido divino \(Gli Indimenticabili\)](https://open.spotify.com/album/0f4Wz3ZaGjPDMEBs0OrZqs) | 3:27 | 2022-07-01 |  |
+| [Splendido splendente](https://open.spotify.com/track/6cTDaZELhhgPxzdPn5lruI) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido divino \(Gli Indimenticabili\)](https://open.spotify.com/album/0f4Wz3ZaGjPDMEBs0OrZqs) | 3:27 | 2022-07-01 | 2023-11-04 |
 | [Splendido splendente](https://open.spotify.com/track/7vMqQLAA3A7ymNOaICmt2Z) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido Divino](https://open.spotify.com/album/4RFOFcht99zVWzby7nUfLH) | 3:27 | 2022-02-11 | 2022-07-29 |
 | [Stranger in a Strange Land \- Club Mix 1983](https://open.spotify.com/track/6eqW2BVJj5YvaCa4zPh4zz) | [N.O.I.A.](https://open.spotify.com/artist/5n1oZahUtUcODMxsH0kwMa) | [Stranger in a Strange Land](https://open.spotify.com/album/5frZPYwMO9A1H0gWPOHnDR) | 7:31 | 2022-02-11 | 2022-07-29 |
 | [Summer Time](https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K) | [Plastic Mode](https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa) | [Plastic Mode](https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx) | 3:55 | 2022-02-11 |  |
@@ -157,7 +157,8 @@
 | [Touch in the Night \- Radio Version](https://open.spotify.com/track/5074Vt992hKDNhwXMhRceJ) | [Silent Circle](https://open.spotify.com/artist/0ha8Qlns3CfrrLNI8CVIie) | [No.1 \(Jubiläums Edition\)](https://open.spotify.com/album/3lOQAtRoBQM4SrOC05fdcY) | 3:37 | 2022-02-11 | 2022-03-22 |
 | [True Love \- Sexual Version](https://open.spotify.com/track/1lee8GIIzxgugsCrkyMsYt) | [N.O.I.A.](https://open.spotify.com/artist/5n1oZahUtUcODMxsH0kwMa) | [Confuzed Disco Cd 1](https://open.spotify.com/album/1dJsPTjiJtFUhVvpE4tnvw) | 5:40 | 2022-02-11 | 2022-07-29 |
 | [Turbo Diesel](https://open.spotify.com/track/3JUW3DtozkLgWkf5F49KIP) | [Albert One](https://open.spotify.com/artist/5b0o4XqUBsGxcJyHLUZEHB) | [Turbo Diesel](https://open.spotify.com/album/2eQblxdwiOIhJBosMwyNRD) | 5:26 | 2022-02-11 | 2022-03-22 |
-| [Tutta sola \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/4hKObAIM0nMRqLOYaO15fm) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [R](https://open.spotify.com/album/6fCdtGCowSifh43OPqO9t3) | 3:02 | 2023-04-03 |  |
+| [Tutta sola \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/1b0TK4bq3WCqrw9WLTArF5) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [R](https://open.spotify.com/album/6ZqQ9hv1XAhLr8iQBeoWTD) | 3:02 | 2023-10-06 |  |
+| [Tutta sola \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/4hKObAIM0nMRqLOYaO15fm) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [R](https://open.spotify.com/album/6fCdtGCowSifh43OPqO9t3) | 3:02 | 2023-04-03 | 2023-11-04 |
 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 | 2022-02-11 |  |
 | [Two of Hearts](https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1) | [Stacey Q](https://open.spotify.com/artist/3q8tRS0hCMVCylgKAoA0ya) | [Better Than Heaven](https://open.spotify.com/album/71st36nPTXAgWnEaNg9AZa) | 3:59 | 2022-07-01 |  |
 | [Under the Ice \- Original 12 Inch Version](https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC) | [Topo](https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3), [Roby](https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2) | [Under the Ice \- Single](https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk) | 7:12 | 2022-02-11 |  |

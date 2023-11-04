@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound.
 
-134 songs - 9 hr 48 min
+138 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,12 +32,14 @@
 | [Diarra](https://open.spotify.com/track/0KAqd0zMI2WUgIyc2O8TKT) | [Tamala](https://open.spotify.com/artist/5V8tx5yPSD9rIb8ynhyWD7) | [Lumba](https://open.spotify.com/album/3Pg3IQ6LrccO6Cr3WfFYqh) | 4:31 | 2022-08-05 |  |
 | [Djaliya](https://open.spotify.com/track/4FrUmjKqx5lJFmpskAWdiJ) | [Ablaye Cissoko](https://open.spotify.com/artist/7F6474dJ7eusD2MkXm2Lwx) | [Djaliya](https://open.spotify.com/album/05tfcODau1bIZEJ7j2srBm) | 3:40 | 2022-08-05 |  |
 | [Djelia](https://open.spotify.com/track/3tDIl6vOp35dSn2PFLaxbJ) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 5:30 | 2022-08-05 | 2023-03-15 |
-| [Djorolen \- 2003 Remaster](https://open.spotify.com/track/2dEPvKmB3R3NldF6U9uidT) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Oumou](https://open.spotify.com/album/3b7OKZVFIGpWaviLFbOGPI) | 6:42 | 2022-08-05 |  |
+| [Djorolen \(2003 \- Remaster\)](https://open.spotify.com/track/6LSSDJ9XsRPfqMXNr77f6O) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Oumou](https://open.spotify.com/album/7k44FzFVfb0rNHOSgfXQO8) | 6:42 | 2023-10-27 |  |
+| [Djorolen \- 2003 Remaster](https://open.spotify.com/track/2dEPvKmB3R3NldF6U9uidT) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Oumou](https://open.spotify.com/album/3b7OKZVFIGpWaviLFbOGPI) | 6:42 | 2022-08-05 | 2023-11-04 |
 | [El Sicuri](https://open.spotify.com/track/7GBhEInpST7Dx9fE0tBMEI) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 2:55 | 2022-08-05 |  |
 | [Fanta](https://open.spotify.com/track/5PO5AyFVJy4r2rtyGRD5n8) | [Taffetas](https://open.spotify.com/artist/1LUYQvuT5WFvl043rAuy1Z) | [Taffetas](https://open.spotify.com/album/14gr7Jn4cOd1x5jcFvjcIX) | 5:05 | 2022-08-05 |  |
 | [Fight For You](https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q) | [Naomi Achu](https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [Fight For You](https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67) | 3:28 | 2022-12-08 |  |
 | [Flany Konare](https://open.spotify.com/track/18iu10wMJrFMjSRLGHbIsB) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Les Racines](https://open.spotify.com/album/0oy57krNm60G2LLlyE2V7J) | 4:41 | 2022-08-05 | 2023-03-15 |
-| [Folly Cagni](https://open.spotify.com/track/490jbuzW3XPHTXg3nhqbJ8) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 3:08 | 2022-08-05 |  |
+| [Folly Cagni](https://open.spotify.com/track/37sZL7KtUzNhQdAL11ofet) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/2ovTeDR1IQRjZNRwPNuTAZ) | 3:08 | 2023-10-27 |  |
+| [Folly Cagni](https://open.spotify.com/track/490jbuzW3XPHTXg3nhqbJ8) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 3:08 | 2022-08-05 | 2023-11-04 |
 | [Fulani](https://open.spotify.com/track/3HS62i8kDcfuq2MkcB6OCM) | [The Nile Project](https://open.spotify.com/artist/1LwX3TYza2Yek1QdH3OLoX) | [Tana](https://open.spotify.com/album/19gZ7DkaEvTw5jWPRo3peP) | 8:29 | 2022-08-05 |  |
 | [Gbê](https://open.spotify.com/track/3uwaKT9AIPP2fhi9pLBALu) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3), [Cyro Baptista](https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz) | [The Journey](https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt) | 3:48 | 2022-08-05 |  |
 | [Good Things God Knows](https://open.spotify.com/track/5JJzSGrCDdPpyZAhBxVeNO) | [King Ayisoba](https://open.spotify.com/artist/6TQgRLQia206d3QvleDxen) | [Work Hard](https://open.spotify.com/album/0SYEzD4cVKiPEXK5gfsK4N) | 5:04 | 2023-03-14 |  |
@@ -101,7 +103,8 @@
 | [Safari](https://open.spotify.com/track/5ZFMfKOY90FnQYZDMnUguz) | [Liboi](https://open.spotify.com/artist/6HOD1hSjJf0TNjnWmt4nAp) | [Safari](https://open.spotify.com/album/5RwXYwmHb8FwRdnDyc80gm) | 6:05 | 2023-10-27 |  |
 | [Salubrité](https://open.spotify.com/track/6bWVW40nFfIG0uxav8lKwS) | [Bao Sissoko](https://open.spotify.com/artist/4CTaCrWrRUUmZt3KJtwg3E), [Mola Sylla](https://open.spotify.com/artist/1OCWAUqRSu9ZUGdpehnEWK), [Wouter Vandenabeele](https://open.spotify.com/artist/0OlrNScJQ7YYGSkij4TFg8) | [Tamala](https://open.spotify.com/album/0HxflxCmZs5FOmTVx2jryV) | 5:18 | 2022-08-05 |  |
 | [Sarama](https://open.spotify.com/track/0BjCbRI3usZQ916bIQvO7J) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Sarama](https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc) | 3:38 | 2022-08-05 | 2023-05-26 |
-| [Sarama](https://open.spotify.com/track/0LScGRZP6jfT7wr8PzLzK0) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Timbuktu](https://open.spotify.com/album/5Q2o3yV4ExWvbQyaLvU4Q9) | 3:38 | 2023-03-14 |  |
+| [Sarama](https://open.spotify.com/track/0LScGRZP6jfT7wr8PzLzK0) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Timbuktu](https://open.spotify.com/album/5Q2o3yV4ExWvbQyaLvU4Q9) | 3:38 | 2023-03-14 | 2023-11-04 |
+| [Sarama](https://open.spotify.com/track/0YLdjia2pEIPBdz3lEoM3a) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Timbuktu](https://open.spotify.com/album/33VXVqzUNVtZfg1gn6AMi6) | 3:38 | 2023-10-27 |  |
 | [Sarama](https://open.spotify.com/track/7jDvPH18QP0Y35l20cjYgy) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Beautiful Africa](https://open.spotify.com/album/5gCev1aMAHiG6qmS32mfzj) | 5:01 | 2022-08-05 |  |
 | [Savannah Swing](https://open.spotify.com/track/5GBj327e1SzQV9CHNCBsuh) | [Adjiri Odametey](https://open.spotify.com/artist/3dLzGMLvGRLoZgMHEV9Fhg) | [Dzen](https://open.spotify.com/album/4QzYh2migbTJ4ZnBVp3evw) | 2:34 | 2022-08-05 |  |
 | [Saya](https://open.spotify.com/track/08xc7RbThZyKgRBstgtZEX) | [Diali Cissokho & Kaira Ba](https://open.spotify.com/artist/0I5q96SJ25V0fvPDl2EUEx) | [Routes](https://open.spotify.com/album/75oaoHY53aYTaQkWyLESRE) | 4:35 | 2022-08-05 |  |
@@ -129,7 +132,8 @@
 | [Vi Gnin](https://open.spotify.com/track/5FV1Kewlc6bUNcPUxzRMzJ) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Christi Joza Orisha](https://open.spotify.com/artist/3CPmm77nMufyLCi02EHSd2), [Cyro Baptista](https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz) | [The Journey](https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt) | 5:37 | 2022-08-05 |  |
 | [Vivi](https://open.spotify.com/track/2XfYkILzLPQdiNrqqLgtzE) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [The Journey](https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt) | 3:18 | 2022-08-05 |  |
 | [Wanita](https://open.spotify.com/track/6cBLK1pC202FMxthSKg1NN) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Wanita](https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg) | 5:39 | 2022-08-05 |  |
-| [Warico](https://open.spotify.com/track/5GTYdbtzQpudmlo3Madhjf) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 3:25 | 2022-08-05 |  |
+| [Warico](https://open.spotify.com/track/5GTYdbtzQpudmlo3Madhjf) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 3:25 | 2022-08-05 | 2023-11-04 |
+| [Warico](https://open.spotify.com/track/4JoFTf46lLduGQsQUNLpGZ) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/2ovTeDR1IQRjZNRwPNuTAZ) | 3:27 | 2023-10-27 |  |
 | [What Are You Waiting For?](https://open.spotify.com/track/0vWrao6ShhQN2F1uZiHYHp) | [Nenor](https://open.spotify.com/artist/1HMwAssufObyNKkyHyCB3V), [Eyal Rob](https://open.spotify.com/artist/0bRtE2c9aw4IRXncNPSZba), [ELi A Free](https://open.spotify.com/artist/6OO7XtWXbXexb35OPRtTsE) | [What Are You Waiting For?](https://open.spotify.com/album/2pwWi3XR7NaplbMD4OU0HQ) | 5:05 | 2023-10-27 |  |
 | [Where We Go](https://open.spotify.com/track/0RTeNUGTnAz0jiDVaNfMZ3) | [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [1958](https://open.spotify.com/album/3uyHh4SFgda0Y3Sjgg26V9) | 2:29 | 2022-08-05 |  |
 | [White Crocodile Blues \(A Song for M\)](https://open.spotify.com/track/0qmQRdMPUuMLHFpOajuzVg) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Crocodile Blues](https://open.spotify.com/album/2R6mHEsnixhPbIqxxaO6sF) | 3:48 | 2023-03-14 |  |

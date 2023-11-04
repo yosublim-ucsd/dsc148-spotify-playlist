@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover: <a href=\"spotify:artist:1bdnGJxkbIIys5Jhk1T74v\">Brandon Lake</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover: <a href=\"spotify:artist:6egyCFgiJ1j941PaxKoWJD\">Housefires</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 267534,
       "name": "All Yours - Live At The Grove",
       "url": "https://open.spotify.com/track/29X2uDbELTCtDNHVPORiDq"
@@ -2503,6 +2503,28 @@
     },
     {
       "album": {
+        "name": "Glory, Honor, Power EP",
+        "url": "https://open.spotify.com/album/40BpVowLYEaZ4V1OYkDFDO"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Melody Noel",
+          "url": "https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288302,
+      "name": "Glory, Honor, Power - Acoustic",
+      "url": "https://open.spotify.com/track/1jaJuzT4iyKOxXO6Dd2EOE"
+    },
+    {
+      "album": {
         "name": "God Is Faithful (Psalm 114) [Live]",
         "url": "https://open.spotify.com/album/7w4SToqiFc4KPaiauoCf7x"
       },
@@ -3188,7 +3210,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 303187,
       "name": "Holy In My Heart",
       "url": "https://open.spotify.com/track/0Ekk7wvWBiklPnsZWCMUnL"
@@ -3979,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "MOVE (Live from LO Conference)",
+        "url": "https://open.spotify.com/album/2S5j3lNg8CT6NvN3q1nFox"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280453,
+      "name": "If Not For The Cross - Live",
+      "url": "https://open.spotify.com/track/67DSx4vEnmioyYY82GZVye"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
       },
@@ -4070,7 +4110,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 288706,
       "name": "In the Room (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV"
@@ -4554,6 +4594,24 @@
       "duration_ms": 528413,
       "name": "Joy In The Morning",
       "url": "https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v"
+    },
+    {
+      "album": {
+        "name": "Just Like You've Always Done",
+        "url": "https://open.spotify.com/album/2Qi1MljxqICjyyjvTLx9Pp"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212277,
+      "name": "Just Like You've Always Done",
+      "url": "https://open.spotify.com/track/2shl2yhyeveafJFGjecS1X"
     },
     {
       "album": {
@@ -8068,7 +8126,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 344942,
       "name": "The Place Where I Belong",
       "url": "https://open.spotify.com/track/1gvxeqhB6EI5aVg95EM1wK"
@@ -9352,6 +9410,28 @@
       "duration_ms": 243040,
       "name": "Wonder (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
+    },
+    {
+      "album": {
+        "name": "How To Start A Housefire (Pt. III)",
+        "url": "https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415598,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
     },
     {
       "album": {

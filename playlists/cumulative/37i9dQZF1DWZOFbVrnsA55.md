@@ -4,7 +4,7 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-357 songs - 5 day 13 hr 34 min
+358 songs - 5 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [Rêve \- Remastered](https://open.spotify.com/track/6a9zPEoKGFMjRQeQIJ8h83) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 12:31 | 2022-05-25 |  |
 | [Sant'Anna](https://open.spotify.com/track/7wQhflwnNMrdAA8HucEtEr) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Tuscany](https://open.spotify.com/album/3D4mnf0AU05ASyKnf0wEiq) | 17:22 | 2022-05-25 |  |
 | [School Of Fish](https://open.spotify.com/track/6vcGfhUigAp0sXzBUeLfNM) | [Pete Namlook](https://open.spotify.com/artist/1zdrhzkCEqTrUrIiRzVeQ3), [Mixmaster Morris](https://open.spotify.com/artist/4YuO08xFlO9FYWKC73zov9) | [Dreamfish](https://open.spotify.com/album/0YT22XVTkzZ61STHHpruVI) | 18:21 | 2022-05-25 |  |
-| [Seagull Scene](https://open.spotify.com/track/1JBplCoTzT00SZwz2NBy64) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 13:09 | 2022-09-23 |  |
+| [Seagull Scene](https://open.spotify.com/track/1JBplCoTzT00SZwz2NBy64) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 13:09 | 2022-09-23 | 2023-11-04 |
+| [Seagull Scene](https://open.spotify.com/track/1nBlyME5X6cZ5ueQV7kc9w) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 13:09 | 2023-08-25 |  |
 | [See The Light](https://open.spotify.com/track/4T9asf08sPU9aAMiPe3wWh) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [White Morning](https://open.spotify.com/album/6iharVUME5RJn4wkC9sPmH) | 24:56 | 2022-05-25 |  |
 | [Sen](https://open.spotify.com/track/6Dx6G9i7t0OzSCRr6lUV7p) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 10:16 | 2022-05-25 |  |
 | [Senza Aria](https://open.spotify.com/track/3GcUWe6Fq1ULIJHKlRTyki) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 3](https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS) | 12:49 | 2022-05-25 |  |

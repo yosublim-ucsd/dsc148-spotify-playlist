@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 842,
+  "num_followers": 843,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWJlYTRkNThiMjE2YmRkYjE5NWVmNDc1MDdlZjMxYTY0NzA1OTg3",
+  "snapshot_id": "MCw0MDJkMjFmMmUwNTg0MWFjNTBiMDQ3NjIwNzAwMjc4ZTcwMmRmM2M4",
   "tracks": [
     {
       "added_at": "2023-10-26 23:59:00",
@@ -355,6 +355,26 @@
     {
       "added_at": "2023-10-26 23:59:00",
       "album": {
+        "name": "Semi Final",
+        "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Dush",
+          "url": "https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ"
+        }
+      ],
+      "duration_ms": 172721,
+      "name": "Semi Final",
+      "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
+    },
+    {
+      "added_at": "2023-10-26 23:59:00",
+      "album": {
         "name": "Very Wellooo",
         "url": "https://open.spotify.com/album/0JHpCNCubMfvVYDopKGuMN"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 218823,
       "name": "Edoboozi Lyo",
       "url": "https://open.spotify.com/track/5iwXQ93LYuwEaSog5UTFiz"
-    },
-    {
-      "added_at": "2023-10-26 23:59:00",
-      "album": {
-        "name": "Semi Final",
-        "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Dush",
-          "url": "https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ"
-        }
-      ],
-      "duration_ms": 172721,
-      "name": "Semi Final",
-      "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
     },
     {
       "added_at": "2023-10-26 23:59:00",
@@ -483,18 +483,22 @@
     {
       "added_at": "2023-10-26 23:59:00",
       "album": {
-        "name": "Sida Mukyalo",
-        "url": "https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM"
+        "name": "Gemazima",
+        "url": "https://open.spotify.com/album/02QbNNia59RV4jwu00khDg"
       },
       "artists": [
         {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Teslah",
+          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Sida Mukyalo",
-      "url": "https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr"
+      "duration_ms": 181342,
+      "name": "Gemazima",
+      "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
     },
     {
       "added_at": "2023-10-26 23:59:00",
@@ -519,22 +523,18 @@
     {
       "added_at": "2023-10-26 23:59:00",
       "album": {
-        "name": "Gemazima",
-        "url": "https://open.spotify.com/album/02QbNNia59RV4jwu00khDg"
+        "name": "Sida Mukyalo",
+        "url": "https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM"
       },
       "artists": [
         {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Teslah",
-          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
         }
       ],
-      "duration_ms": 181342,
-      "name": "Gemazima",
-      "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
+      "duration_ms": 160000,
+      "name": "Sida Mukyalo",
+      "url": "https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr"
     },
     {
       "added_at": "2023-10-26 23:59:00",
@@ -671,46 +671,6 @@
     {
       "added_at": "2023-10-26 23:59:00",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
-      },
-      "artists": [
-        {
-          "name": "Arrow Bwoy",
-          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
-        },
-        {
-          "name": "Jackie Chandiru",
-          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
-    },
-    {
-      "added_at": "2023-10-26 23:59:00",
-      "album": {
-        "name": "Hot Like Dat",
-        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
-      },
-      "artists": [
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
-        },
-        {
-          "name": "Rosa Ree",
-          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Hot Like Dat",
-      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
-    },
-    {
-      "added_at": "2023-10-26 23:59:00",
-      "album": {
         "name": "Feel Me",
         "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
       },
@@ -731,6 +691,26 @@
     {
       "added_at": "2023-10-26 23:59:00",
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
+      },
+      "artists": [
+        {
+          "name": "Arrow Bwoy",
+          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
+        },
+        {
+          "name": "Jackie Chandiru",
+          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
+    },
+    {
+      "added_at": "2023-10-26 23:59:00",
+      "album": {
         "name": "LIFIST",
         "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 214729,
       "name": "LIFIST",
       "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
+    },
+    {
+      "added_at": "2023-10-26 23:59:00",
+      "album": {
+        "name": "Hot Like Dat",
+        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
+      },
+      "artists": [
+        {
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+        },
+        {
+          "name": "Rosa Ree",
+          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Hot Like Dat",
+      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
     },
     {
       "added_at": "2023-10-26 23:59:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-10-26 23:59:00",
       "album": {
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        }
+      ],
+      "duration_ms": 169430,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
+    },
+    {
+      "added_at": "2023-10-26 23:59:00",
+      "album": {
         "name": "Bwonjagala",
         "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 178834,
       "name": "Bwonjagala",
       "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
-    },
-    {
-      "added_at": "2023-10-26 23:59:00",
-      "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        }
-      ],
-      "duration_ms": 169430,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
     },
     {
       "added_at": "2023-10-26 23:59:00",

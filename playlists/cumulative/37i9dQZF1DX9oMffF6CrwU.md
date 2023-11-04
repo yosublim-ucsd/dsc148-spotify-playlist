@@ -4,7 +4,7 @@
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-90 songs - 5 hr 28 min
+91 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Blood on Your Bootheels](https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [I Will Not Be Afraid](https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk) | 3:15 | 2022-10-27 |  |
 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 | 2022-10-27 |  |
 | [Broken Bones](https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:05 | 2022-10-27 |  |
-| [Built on Bones](https://open.spotify.com/track/1lpUCvji6ZrKCYCqWhwxdK) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM), [Alisa Amador](https://open.spotify.com/artist/1YwCwHqQN5Q7g5e00Hbg4t), [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Built on Bones](https://open.spotify.com/album/4DVKihWDy1EqFxUVXTu7EP) | 4:29 | 2022-10-27 |  |
+| [Built on Bones](https://open.spotify.com/track/1lpUCvji6ZrKCYCqWhwxdK) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM), [Alisa Amador](https://open.spotify.com/artist/1YwCwHqQN5Q7g5e00Hbg4t), [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Built on Bones](https://open.spotify.com/album/4DVKihWDy1EqFxUVXTu7EP) | 4:29 | 2022-10-27 | 2023-11-04 |
+| [Built on Bones](https://open.spotify.com/track/2DWtUDZiihXBBAj7t8LGld) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM), [Alisa Amador](https://open.spotify.com/artist/1YwCwHqQN5Q7g5e00Hbg4t), [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Built on Bones](https://open.spotify.com/album/532Xfkrd2k7xL8WRB7n74M) | 4:29 | 2023-10-20 |  |
 | [Change Your Ways or Die](https://open.spotify.com/track/0kobL3hZub6H7oP9lzlXa8) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 3:25 | 2022-10-27 |  |
 | [Come Little Children](https://open.spotify.com/track/7H7XP9qyspP6W7wvqdJUBs) | [The Hound + The Fox](https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us) | [Haunted Folk](https://open.spotify.com/album/4YMo4fn87BmUIbLXMZ1AFN) | 2:48 | 2023-09-25 |  |
 | [Conversation with Death \(Oh Death\)](https://open.spotify.com/track/6Ya0Vj9JDA2mbpgtMC3bC3) | [Berzilla Wallin](https://open.spotify.com/artist/3tmBpG92uC0VKclngc09Am) | [Classic Mountain Songs from Smithsonian Folkways](https://open.spotify.com/album/6HLh4vFfWhpJZtQUHKJVpC) | 5:07 | 2022-10-27 |  |

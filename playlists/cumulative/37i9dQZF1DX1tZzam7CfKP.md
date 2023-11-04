@@ -4,7 +4,7 @@
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-59 songs - 6 hr 11 min
+60 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Fight the Power \- Live](https://open.spotify.com/track/2Ypb73l8jpPQsfwsfHNa9y) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Live!](https://open.spotify.com/album/2mzfhtB3Rd81uxdvOKik76) | 5:14 | 2021-11-12 |  |
 | [Fire On the Bayou \- Live](https://open.spotify.com/track/1bczSibAGPsGL98oOqtLvf) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Uptown Rulers! Live on the Queen Mary](https://open.spotify.com/album/4OFlpfoLF5FRjF8EGNt98T) | 7:09 | 2021-11-12 |  |
 | [Getaway \- Live](https://open.spotify.com/track/7voztbNM6xiFNC5SBpRVLz) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Live In Japan](https://open.spotify.com/album/5Dd1RuBWv7PFX5IisYMYOq) | 3:42 | 2021-11-12 |  |
-| [Give The People What They Want \- Live](https://open.spotify.com/track/3effuRQdgwj6idFkCsBPG5) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Live In New York](https://open.spotify.com/album/4wZtMxi09OZgjvxrAsNJ4R) | 5:40 | 2021-11-12 |  |
+| [Give The People What They Want \(Live\)](https://open.spotify.com/track/1zf98O3j5rvVXtJLpbLChz) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Live In New York](https://open.spotify.com/album/5zelslmNfeNhQeeCeuM3xw) | 5:40 | 2021-11-12 |  |
+| [Give The People What They Want \- Live](https://open.spotify.com/track/3effuRQdgwj6idFkCsBPG5) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Live In New York](https://open.spotify.com/album/4wZtMxi09OZgjvxrAsNJ4R) | 5:40 | 2021-11-12 | 2023-11-04 |
 | [Go To Get U](https://open.spotify.com/track/58IwHVlZlWdg11xd3vPqS2) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Life on Planet Groove](https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7) | 7:08 | 2021-11-12 |  |
 | [Hot Water](https://open.spotify.com/track/2uL67j1DunxRYVCCPfc7qt) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [A Physical Presence](https://open.spotify.com/album/4hnSzFX9VuuHmzj1Nuo6bx) | 6:24 | 2021-11-12 |  |
 | [I Like Your Style \- Live](https://open.spotify.com/track/6RA7rTvYzfm9y3skReqyeS) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Soul Vaccination: Tower Of Power Live](https://open.spotify.com/album/4y5QcixH2qND9O2CHUi9vO) | 3:42 | 2021-11-12 |  |

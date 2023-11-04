@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Michael Kaneko
 
-973 songs - 2 day 12 hr 33 min
+974 songs - 2 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [AfterImages](https://open.spotify.com/track/1zkKWsLDrTKG5ToByKe0E6) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [総総](https://open.spotify.com/album/0ukIrlzz1XcfnCooUfWT43) | 4:14 | 2023-04-04 | 2023-05-31 |
 | [Aglio e olio](https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT) | 2:45 | 2023-09-29 |  |
 | [Ai no Tabi](https://open.spotify.com/track/46h2MN4oIAkBHVFIR9HEUB) | [Who Do You Love](https://open.spotify.com/artist/71nYHi1r0deMRvM1SAiflz) | [Ai no Tabi](https://open.spotify.com/album/5eukf6HlQRiwypMC6XdGPE) | 4:01 | 2023-03-28 | 2023-04-05 |
-| [Aishiterujinsei feat.HatsuneMiku](https://open.spotify.com/track/2BqQk8aS2DzTyMEPJiqiaW) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Aishiterujinsei feat.HatsuneMiku](https://open.spotify.com/album/03b3KBf2Jrpa3IddlQ0uUp) | 3:41 | 2023-10-17 |  |
+| [Aishiterujinsei feat.HatsuneMiku](https://open.spotify.com/track/2BqQk8aS2DzTyMEPJiqiaW) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Aishiterujinsei feat.HatsuneMiku](https://open.spotify.com/album/03b3KBf2Jrpa3IddlQ0uUp) | 3:41 | 2023-10-17 | 2023-11-04 |
 | [Akebono \- 2023](https://open.spotify.com/track/7Gp8M2hRqUB2rrjJu56Bp9) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Akebono \(2023\)](https://open.spotify.com/album/0pIVXEt7OiY6Qk8KMeo67U) | 5:27 | 2023-06-29 | 2023-07-12 |
 | [Alba](https://open.spotify.com/track/3HxMollV5fMOhd1vN2zLSY) | [butohes](https://open.spotify.com/artist/6ofwAXNQ3cuSW3J7N3CBdz) | [Alba](https://open.spotify.com/album/579Ju3LZTlOeLqXemfyqQX) | 7:10 | 2023-02-21 | 2023-03-01 |
 | [All About You \(and Our Song\)](https://open.spotify.com/track/0bJC88XEXwXc2OSQmLfuGH) | [the Still](https://open.spotify.com/artist/3Tq7aTzawujjHwODdNSGuv) | [All About You \(and Our Song\)](https://open.spotify.com/album/5PgLX8PvyzmjII7PaWC2fO) | 3:04 | 2023-01-24 | 2023-02-22 |
@@ -362,7 +362,7 @@
 | [morning shimmer](https://open.spotify.com/track/6RttXnsUdXhNNj8zP6LjKi) | [Sept.](https://open.spotify.com/artist/5vRnwNYjntZajB1Qx4DCXw) | [Wander Wander](https://open.spotify.com/album/1mWMyBY9xYSMYTvRCCBrjQ) | 5:03 | 2023-06-13 | 2023-06-15 |
 | [Morning Shimmer](https://open.spotify.com/track/6wbqFlG24beQbsgl5fhDOa) | [Sept.](https://open.spotify.com/artist/5vRnwNYjntZajB1Qx4DCXw) | [Wander Wander](https://open.spotify.com/album/1aFFBDlKtZGKw5SROlidMb) | 5:03 | 2023-06-13 | 2023-06-21 |
 | [MORNINGRISE](https://open.spotify.com/track/3ZmuvMWz1of98dbuKkjSR0) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Heavenly Heavenly](https://open.spotify.com/album/219OTmvtVH4PzBiDWYLGp0) | 3:18 | 2023-05-09 | 2023-05-31 |
-| [Mother](https://open.spotify.com/track/7IY2Ro6XnoIAtr5bLuoCJD) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ), [ILL\-BOSSTINO](https://open.spotify.com/artist/5jhQeriKleBz95HuKGNcbO), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [Mother](https://open.spotify.com/album/6dxnxwVjewZUp8K967BUaq) | 4:07 | 2023-06-21 | 2023-11-03 |
+| [Mother](https://open.spotify.com/track/7IY2Ro6XnoIAtr5bLuoCJD) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ), [ILL\-BOSSTINO](https://open.spotify.com/artist/5jhQeriKleBz95HuKGNcbO), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [Mother](https://open.spotify.com/album/6dxnxwVjewZUp8K967BUaq) | 4:07 | 2023-06-21 |  |
 | [mother ship](https://open.spotify.com/track/6JOWEwvMzumEvZlXNOVWOM) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [mother ship](https://open.spotify.com/album/25VaqWv7lR45TaIdRReDIp) | 2:57 | 2023-04-11 | 2023-04-26 |
 | [Motion \(2019 Sessions\)](https://open.spotify.com/track/7gRYo4ZETjCw8n3MqCs2Ut) | [YOUR SONG IS GOOD](https://open.spotify.com/artist/4Yt6N4u5vIpjRhT2O7zsLk) | [Sessions](https://open.spotify.com/album/1ML2YxT5dB7PeXoOtw3enA) | 6:18 | 2023-03-30 | 2023-04-19 |
 | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/track/7ab0UuDPSaMymJ9oCYDMnT) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/album/0M6EYq1XZBMbBe7TRTasu2) | 3:50 | 2023-07-25 | 2023-10-11 |
@@ -609,7 +609,8 @@
 | [waiting for me & you :\)](https://open.spotify.com/track/40Hpo7zHapC61E90XrmIyl) | [Aoto](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs) | [waiting for me & you :\)](https://open.spotify.com/album/7EYIkcFcHntzJ8lGuEyLZm) | 3:45 | 2023-08-15 | 2023-08-23 |
 | [Wake up soon](https://open.spotify.com/track/0siU3JMlnOYfANLVyYXX0D) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Wake up soon](https://open.spotify.com/album/1GRLAC0RJNALOdCRj8pugK) | 3:00 | 2023-03-07 | 2023-03-15 |
 | [Wandering Spirit](https://open.spotify.com/track/6E30fAWCLP4LFusJMZKgq0) | [MADE IN HEPBURN](https://open.spotify.com/artist/5Kb7tK7462ltHK5KtX2tAq) | [Wandering Spirit](https://open.spotify.com/album/7M8RbyJXruRleU2wScVMkI) | 3:38 | 2023-03-07 | 2023-03-29 |
-| [Wanna Be In A Sad Mood](https://open.spotify.com/track/61ZsLyi4omqZs3H72sm5sb) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/3jMkyqeHsfveTdu30JyGxn) | 4:14 | 2023-10-31 |  |
+| [Wanna Be In A Sad Mood](https://open.spotify.com/track/5RLbFht9k5o0MRcnR4vvWq) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/7FgKndFjCgBXmLl7hcNvRo) | 4:14 | 2023-11-02 |  |
+| [Wanna Be In A Sad Mood](https://open.spotify.com/track/61ZsLyi4omqZs3H72sm5sb) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/3jMkyqeHsfveTdu30JyGxn) | 4:14 | 2023-10-31 | 2023-11-04 |
 | [wash](https://open.spotify.com/track/58kwvlBZpNLYHaUIAQBhWB) | [salsa](https://open.spotify.com/artist/4qNSSJFYO5GHhCfYUbo11s) | [wash](https://open.spotify.com/album/03bvBSWXCTAHkBEixnPqUG) | 3:43 | 2023-08-01 | 2023-08-09 |
 | [WASH IT](https://open.spotify.com/track/0dw3UuqDZBRCFtN3r4ASOQ) | [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [WASH IT](https://open.spotify.com/album/2lhR8KI4TzL3EURFcsaTBj) | 4:21 | 2023-08-15 | 2023-09-07 |
 | [We are dinosaurs](https://open.spotify.com/track/1kys6sF3wV7QZ0PdPzi5Xe) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [We are dinosaurs](https://open.spotify.com/album/4retmETUIlMT5aRYeG0gli) | 4:44 | 2023-05-30 | 2023-06-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,036 likes - 61 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,055 likes - 61 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 19 | [No Amiris](https://open.spotify.com/track/3rHmxbNUs7TRTu1Bc2a1BC) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Amiris](https://open.spotify.com/album/3FFSDtqSY0PzK0f5aHBTFi) | 2:26 |
 | 20 | [Mama \(with Skilla Baby & Tay B\)](https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [Mama \(with Skilla Baby & Tay B\)](https://open.spotify.com/album/1XwVNB9mqxR00Wbj34mnn3) | 2:54 |
 | 21 | [Motion](https://open.spotify.com/track/1fFg0KgrMwxTdIsO4bTd9S) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Motion](https://open.spotify.com/album/5vZ7xRju0A737ghh0n10cZ) | 2:12 |
-| 22 | [Lenny Cooke](https://open.spotify.com/track/6jkoFl438J3fNH38dk7Amu) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Lenny Cooke](https://open.spotify.com/album/6jdxGiQy5ZulPW0IoAwDoX) | 2:27 |
+| 22 | [Lenny Cooke](https://open.spotify.com/track/10yF9Kpv5uugqTqaySGgwI) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Lenny Cooke](https://open.spotify.com/album/4eZzqidvBsJASO7wvwR364) | 2:27 |
 | 23 | [OUT THE CAGE](https://open.spotify.com/track/2a1xMpcHAGXLonrYOGqFtB) | [CHASETHEMONEY](https://open.spotify.com/artist/1OuuJcg5OofM36OyEzoB2X) | [OUT THE CAGE](https://open.spotify.com/album/4rfGiwEDxJLl8Bg3sjrRB2) | 1:31 |
 | 24 | [Route Paradise](https://open.spotify.com/track/5c1aygV1pk2w3TMj63E8ZM) | [D2x](https://open.spotify.com/artist/39Cb8HYiuT4clBeNABSjPA) | [Hotel 1105](https://open.spotify.com/album/0XTBFwTiGlQ4dfEMni1T7f) | 4:03 |
 | 25 | [Smack Sh\*t](https://open.spotify.com/track/02G0mbFgtqS3h1Ek29tBWW) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Smack Sh\*t](https://open.spotify.com/album/3Wa0UdCqXUAWNNuEr9ulHk) | 2:59 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 45 | [Set It Off \(feat\. LATASHÁ\)](https://open.spotify.com/track/4LKhGq2uCgz796baDeTGmO) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi) | [Set It Off \(feat\. LATASHÁ\)](https://open.spotify.com/album/6OqyhSeCKRl39Of9acTwEM) | 3:07 |
 | 46 | [Vibrant](https://open.spotify.com/track/3Z8V7mdG2LQNNWnT8GQM6C) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vibrant](https://open.spotify.com/album/2CKPE9pWUWW4OeMFqDRUq1) | 2:03 |
 | 47 | [YSL Woody \(feat\. Babyface Ray\)](https://open.spotify.com/track/5N7bSjfIHe7ZaqYcAuHvTc) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [YSL Woody \(feat\. Babyface Ray\)](https://open.spotify.com/album/64SqckNdoLqrrx2bSIcB0U) | 2:33 |
-| 48 | [Got Da Sack \(feat\. G Herbo\)](https://open.spotify.com/track/45hTjcwYQu4y6weOizcRAf) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Got Da Sack \(feat\. G Herbo\)](https://open.spotify.com/album/0PSRjxFwEZYBzw0e8EgYns) | 2:33 |
+| 48 | [Got Da Sack \(feat\. G Herbo\)](https://open.spotify.com/track/5oNCp1jwmbaCnAKXQcRrwn) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Got Da Sack \(feat\. G Herbo\)](https://open.spotify.com/album/5NfTefJvZRLbboFPA5bHZ2) | 2:33 |
 | 49 | [Snake & Snitch K \(feat\. Lil Jairmy\)](https://open.spotify.com/track/6pSAflBs71M2PszzX6JCL8) | [Fastmoney Ant](https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL), [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY) | [Snake & Snitch K \(feat\. Lil Jairmy\)](https://open.spotify.com/album/3TOfGatp8x9VoRb74FNQGr) | 1:40 |
 | 50 | [LIST](https://open.spotify.com/track/0OYNo2HusPZGUZZMdJHG05) | [Ausar](https://open.spotify.com/artist/3ahvdZBrfKOLdDLr1eNXTg), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [I NOW KNOW.](https://open.spotify.com/album/19jTSGPtAE26LZHJzjppaq) | 4:16 |
 | 51 | [Cost To Win](https://open.spotify.com/track/3JeVCAXk76I2k9pMqka1Tr) | [Rockie Fresh](https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3) | [Cost To Win](https://open.spotify.com/album/7B0UgkWmWCf6Uw6jVBrLfe) | 2:42 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 60 | [Tell Shyanne](https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Tell Shyanne](https://open.spotify.com/album/1hZAoVLexmc57NQ0BB2W76) | 2:23 |
 | 61 | [Love Is Long](https://open.spotify.com/track/3AzDKKpGEnIY8roLn07foy) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [Love Is Long](https://open.spotify.com/album/7bJxRFnNk4H4jhrKjBfbTM) | 3:19 |
 
-Snapshot ID: `MCxkMWZmNWM3ZDVhMGYxMTcxN2ZkNzg4MTRkODQ3ZTkyMjQ1ZTM2NTQ5`
+Snapshot ID: `MCw4ZmNjNjJhZTkxMTg3ODY2OWIzNzIxNTgxODc5ZjI4NTRjNzI1ZGEw`

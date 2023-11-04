@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Chxrry22.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,006 likes - 97 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,122 likes - 97 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 96 | [Mad At Me](https://open.spotify.com/track/5rDlvQe5W9TjAPsCZJiC0v) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB) | [Mad At Me](https://open.spotify.com/album/19YZWqjzdB21eSPKmqdBVH) | 2:32 |
 | 97 | [NDZ](https://open.spotify.com/track/4AVaqcOFUH1JBtMTNKZEXd) | [Afta Hill](https://open.spotify.com/artist/2QyfQWgIraqOxY6uBmwP6f) | [NOTHING nothing](https://open.spotify.com/album/4sOJHnuwsLnFmgDehTLamo) | 3:35 |
 
-Snapshot ID: `MCwwNjQ4YWQxNzBhNGZlODlmMDM2NTE2MmMzZGYyYjM3MzhiYTQzY2Fk`
+Snapshot ID: `MCxlMGQzY2Y1MGJlNzYxYmUwMTEwMDMzMjc4ZWJmZjRhNjg4ODlhY2Vm`

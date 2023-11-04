@@ -4,7 +4,7 @@
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-167 songs - 8 hr 31 min
+173 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,8 @@
 | [Black Or White](https://open.spotify.com/track/5sZ8yVoQdKExlssx9uYEhO) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:24 | 2023-01-14 |  |
 | [BOCA](https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:09 | 2023-01-14 |  |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Lose Myself］](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2022-04-20 | 2023-08-02 |
+| [BONVOYAGE](https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:33 | 2023-11-03 |  |
+| [BONVOYAGE \(Farewell Ver.\)](https://open.spotify.com/track/4xiuarCywWiw9qESd8Y7ng) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[BONVOYAGE \(Farewell Ver.\)\]](https://open.spotify.com/album/2oBHZWKC421qcUeMZLYNTO) | 3:32 | 2023-11-03 |  |
 | [Break The Wall](https://open.spotify.com/track/10Jnl1L9oVkT6rE25QrbwM) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:46 | 2023-01-14 |  |
 | [Break The Wall](https://open.spotify.com/track/6JwdtdGwxtPGbhYnsv9jsj) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Lose Myself］](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:46 | 2022-04-20 | 2023-08-02 |
 | [Breaking Out](https://open.spotify.com/track/1xIAcP1NLPMpZaDfXTiWMs) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 3:19 | 2022-04-20 |  |
@@ -45,6 +47,7 @@
 | [Dear](https://open.spotify.com/track/48l5fMbQEMNFpiqWdBA3X4) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:48 | 2022-04-20 | 2023-08-01 |
 | [Dear](https://open.spotify.com/track/4mUqS7z7yXZQRtejdRB3cR) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:48 | 2023-01-14 |  |
 | [Deja Vu](https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:44 | 2023-01-14 |  |
+| [DEMIAN](https://open.spotify.com/track/2k2stGWMSU85UayvEGlm5W) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 2:59 | 2023-11-03 |  |
 | [Diamond](https://open.spotify.com/track/5CZh8nXVYfxOiRMdrzumXH) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:21 | 2022-04-20 | 2023-08-01 |
 | [Diamond](https://open.spotify.com/track/1QvO3e8hAARNbCQUZ3prPL) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 3:21 | 2023-01-14 |  |
 | [Don't Light My Fire](https://open.spotify.com/track/4uuRFwokX9R4hnOWbreDga) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Eclipse](https://open.spotify.com/album/0xdi6wxVs5meuEVWQxQg0Z) | 3:29 | 2022-04-20 |  |
@@ -83,6 +86,7 @@
 | [Intro](https://open.spotify.com/track/3tViU0OvtQyI06tYL86HfU) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 1:31 | 2022-04-20 | 2023-08-01 |
 | [Intro](https://open.spotify.com/track/1GPCqwEk30ud5zbNyUojvI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 1:39 | 2022-04-20 | 2023-08-01 |
 | [Intro](https://open.spotify.com/track/4JPuvw4mxhmiaSWWiVOifG) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 1:39 | 2023-01-14 |  |
+| [Intro : From us](https://open.spotify.com/track/3rhmJUrURrTQOnrDyITfMh) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 1:08 | 2023-11-03 |  |
 | [Intro : Save us](https://open.spotify.com/track/4JouZoJFfeKZWZVoIXi81R) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 1:01 | 2022-04-20 | 2023-07-09 |
 | [Intro : Save us](https://open.spotify.com/track/4R74PW6iQdK0FJyh9v4JxG) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 1:01 | 2023-01-14 |  |
 | [Jazz Bar](https://open.spotify.com/track/4dIZBPtKfOvo8YuundgcwH) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:34 | 2022-04-20 | 2023-08-04 |
@@ -121,6 +125,7 @@
 | [Poison Love](https://open.spotify.com/track/4ZEGLJC0LZUJGoTB6UU2QX) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/1EyLcB9R1KfUV45AxtRR3V) | 3:57 | 2023-01-14 |  |
 | [Poison Love](https://open.spotify.com/track/7C3cUybMDDF7PKyFcDWouF) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:57 | 2022-04-20 | 2023-08-01 |
 | [Polaris](https://open.spotify.com/track/0jvspYsOFlIqHzdN6ZYjcJ) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:53 | 2023-01-14 |  |
+| [Propose](https://open.spotify.com/track/7k53fIe6dzMk96hF33FFOz) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:12 | 2023-11-03 |  |
 | [R.o.S.E BLUE \(Prod\. ESTi\)](https://open.spotify.com/track/7sOXsL2oJpa8dGXUKoTM0G) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [R.o.S.E BLUE](https://open.spotify.com/album/6yZAw0cOevi5J15vCin8cc) | 4:00 | 2022-04-20 |  |
 | [REASON](https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[REASON\]](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) | 3:17 | 2023-01-14 | 2023-07-08 |
 | [REASON](https://open.spotify.com/track/2oljPlhOzzWrqkTuAhKwzi) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[REASON\]](https://open.spotify.com/album/6TJ3N82EGtf7Gu8QEFAT8t) | 3:17 | 2023-01-14 |  |
@@ -144,6 +149,7 @@
 | [Tension](https://open.spotify.com/track/4YmjQsMNLq799qtK1QAWBm) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:11 | 2023-01-14 |  |
 | [Tension](https://open.spotify.com/track/5rzf2eiA5xUBjZ252GhQj2) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:11 | 2022-04-20 | 2023-08-04 |
 | [The curse of the Spider](https://open.spotify.com/track/2j8m29w5AzF9P6b0sYI6H4) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:10 | 2023-01-14 |  |
+| [To\. You](https://open.spotify.com/track/5Aoz0YfeFAw3aCGkkS4KiJ) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:25 | 2023-11-03 |  |
 | [Together](https://open.spotify.com/track/7HxqiFzgIYp8KTJzruAbx1) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:44 | 2022-04-20 | 2023-07-09 |
 | [Together](https://open.spotify.com/track/7wwAYGB68gNgV0lWwU0a4K) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:44 | 2023-01-14 |  |
 | [Trap](https://open.spotify.com/track/7m34MVNzFsVnPiuJSdZIC4) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/68esmTNXocYLPEbLD1c7si) | 3:10 | 2022-04-20 | 2023-08-02 |

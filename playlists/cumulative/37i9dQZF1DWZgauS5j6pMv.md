@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Kossisko
 
-357 songs - 21 hr 2 min
+358 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Found My Groove](https://open.spotify.com/track/0NAQlpeVEX2kbAf6YoDHCK) | [The Burroughs](https://open.spotify.com/artist/61xHHZBWUMoheAPbd28E3r) | [Found My Groove](https://open.spotify.com/album/1QvSqMm0YILjS1bs2gxaCu) | 3:13 | 2023-03-17 | 2023-08-26 |
 | [Free the Night](https://open.spotify.com/track/3nIf1Wj3T9FXeeZkQOnXgW) | [Patric Pleasure](https://open.spotify.com/artist/1S5UyTmyOEpVluYNaC8d5M) | [Free the Night](https://open.spotify.com/album/1Eb5kr5hzaSVZ84GwU8kng) | 3:20 | 2021-07-16 | 2022-09-24 |
 | [Funk Ain't Ova](https://open.spotify.com/track/5v5NO8ME6meZ9HAehiQ1Av) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Stay Good](https://open.spotify.com/album/08Nm6oGGiZT2dbaCUsRJG5) | 3:51 | 2020-11-20 | 2022-04-09 |
-| [Funk Money](https://open.spotify.com/track/1Y5VqpjzxCSMNYpT81LvBt) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Games Change](https://open.spotify.com/album/6YhSgWYRG0Z2543CY3gtjv) | 4:35 | 2023-03-24 |  |
+| [Funk Money](https://open.spotify.com/track/1Y5VqpjzxCSMNYpT81LvBt) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Games Change](https://open.spotify.com/album/6YhSgWYRG0Z2543CY3gtjv) | 4:35 | 2023-03-24 | 2023-11-04 |
 | [Funk Olympics](https://open.spotify.com/track/7v1WsgCocJ5tLwDXqllQ8n) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Funk Olympics](https://open.spotify.com/album/3agMx8gTl9bBWasc3sbSo9) | 3:18 | 2021-07-30 | 2022-08-27 |
 | [Get Down](https://open.spotify.com/track/3QWAJIKolXy48uNu5Arms2) | [Freekbass](https://open.spotify.com/artist/1abdeL1cpNSTlJp5NQchch) | [Get Down](https://open.spotify.com/album/3AqLlB80sloKlgipS9UJ1z) | 2:35 | 2021-05-28 | 2022-01-29 |
 | [GET DOWN](https://open.spotify.com/track/3zylRjS84s0SgiB72bvxR0) | [Marlon McClain](https://open.spotify.com/artist/4koQLefRqeoEQcHYt4lMKq), [BD3](https://open.spotify.com/artist/7HXr3w238HsQoQInMLxosZ) | [GET DOWN](https://open.spotify.com/album/0tWjDz7dJv6Hrh2J4vO8eZ) | 1:39 | 2021-09-17 | 2022-09-03 |
@@ -246,6 +246,7 @@
 | [Olive](https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Olive](https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV) | 3:51 | 2022-08-19 | 2023-02-25 |
 | [ooeeooeeoo](https://open.spotify.com/track/2MNeT5RzegP7L6yyzodOVs) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [ooeeooeeoo](https://open.spotify.com/album/1AuujKU1n0lGYRp0fCUuGl) | 4:14 | 2021-07-30 | 2022-08-27 |
 | [Ordinary](https://open.spotify.com/track/5Xhsf1DLA9j2pVyCbqjkLh) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Balance](https://open.spotify.com/album/71Q44PCgBGD6QyxI12jJNy) | 2:39 | 2020-11-20 | 2022-04-09 |
+| [Our World \- Kaidi Tatham Remix](https://open.spotify.com/track/0kIPyXEsYWJK0y9xa38p41) | [Detroit Rising](https://open.spotify.com/artist/5L7BJ4rmMF3sd4TkpzJwzU), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Our World \(Kaidi Tatham Remix\)](https://open.spotify.com/album/4NrDRQjlSsfEkF9ulLTg4h) | 5:03 | 2023-11-03 |  |
 | [Out Of Love \- Single Version](https://open.spotify.com/track/1zTLGwLbuOJeTMPsknMNDc) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Out Of Love](https://open.spotify.com/album/4P5gCGasm3kNIop9UKG53e) | 3:22 | 2020-11-20 | 2022-04-09 |
 | [Outta Touch](https://open.spotify.com/track/7IHToAweRwCubhQLs0Vy48) | [Corey El](https://open.spotify.com/artist/7MiIOLb4zegDIU0Uq7UKhd) | [Outta Touch](https://open.spotify.com/album/6TQSwl8zJuSJ3uD72qRfMT) | 3:31 | 2021-07-02 | 2022-04-29 |
 | [Over It](https://open.spotify.com/track/7HBNVNTJcQBlSKoxvwJcsH) | [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr), [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Over It](https://open.spotify.com/album/1F7PbXOe9Fxopa97vqhRZb) | 3:46 | 2023-05-05 |  |

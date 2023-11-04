@@ -4,7 +4,7 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-134 songs - 7 hr 49 min
+136 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2022-04-24 |  |
 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 | 2020-09-08 |  |
 | [Mimosas](https://open.spotify.com/track/3HyDZ8rB0Wh6yF6q7PBa1r) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/088ajVZOaklrQJP9k2IO2Q) | 3:03 | 2022-04-24 |  |
+| [Mozambique](https://open.spotify.com/track/4glXMXiiOlJP4ZJmMZ1Yvu) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Mozambique / University Of Bourbon Street](https://open.spotify.com/album/1FOgVvIp41RW2dOkdm9Dwj) | 3:16 | 2023-11-03 |  |
 | [No Hard Feelings](https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 3:11 | 2022-04-15 |  |
 | [No Working During Drinkin' Hours](https://open.spotify.com/track/0s3q6vM8sFpFJrLt3mEe4w) | [Donny Brewer](https://open.spotify.com/artist/4nI1bYqONqWFnHPlSL9k35), [Thom Shepherd](https://open.spotify.com/artist/2ddAJdT2r84S4Ss1Is3Eud) | [Winnebago Tapes, Vol\. 1](https://open.spotify.com/album/7Jx7qyak7RLTLKwMxizqQI) | 3:02 | 2020-09-08 | 2022-04-25 |
 | [Nowhere Fast](https://open.spotify.com/track/6arLnfArtdWKOcCYzDd4rS) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:08 | 2021-11-19 |  |
@@ -115,7 +116,8 @@
 | [Ten Rounds with Jose Cuervo \- Recall Mix](https://open.spotify.com/track/26J61MmE6YCWqIyROZdEgL) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [Ten Rounds](https://open.spotify.com/album/5wQ2fnyW0fe27ctaysMJS2) | 3:02 | 2020-09-08 | 2022-06-21 |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2022-04-24 |  |
 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 | 2022-04-24 |  |
-| [That's The Life I Want](https://open.spotify.com/track/5yQFc09wIKV4GXL0B3qDFJ) | [Alexander Ludwig](https://open.spotify.com/artist/0MlU9UKVEOkeyMdazSXif1) | [Highway 99](https://open.spotify.com/album/0d8JD5M3c5oH3TrxV6w0kL) | 3:18 | 2022-08-26 |  |
+| [That's The Life I Want](https://open.spotify.com/track/55nCWJHWkSIbylo5tGfqUr) | [Alexander Ludwig](https://open.spotify.com/artist/0MlU9UKVEOkeyMdazSXif1) | [Highway 99](https://open.spotify.com/album/7FfPtbgof1PhK9acWDlvnd) | 3:18 | 2023-11-03 |  |
+| [That's The Life I Want](https://open.spotify.com/track/5yQFc09wIKV4GXL0B3qDFJ) | [Alexander Ludwig](https://open.spotify.com/artist/0MlU9UKVEOkeyMdazSXif1) | [Highway 99](https://open.spotify.com/album/0d8JD5M3c5oH3TrxV6w0kL) | 3:18 | 2022-08-26 | 2023-11-04 |
 | [The Day In The Life Of A Pearl Diver](https://open.spotify.com/track/6fiMo4GBjn6sosNSw3JRiz) | [Don Middlebrook & Living Soul](https://open.spotify.com/artist/5lQLIbbxuVhMWZj9IfTDXf) | [Boatdrink Island](https://open.spotify.com/album/1iqc2jcZcpglUjqI3ZBmKW) | 4:55 | 2020-09-08 | 2022-04-25 |
 | [The Last Resort](https://open.spotify.com/track/7f5z4IzFsYYhUyxBXbFXcr) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort](https://open.spotify.com/album/37oKdfR8Pp7h6f5ovGHGew) | 3:56 | 2022-06-20 |  |
 | [The Rest of It's Mine](https://open.spotify.com/track/2Bj7YGVBtjbVrWhhSRVwaj) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX), [Paul Overstreet](https://open.spotify.com/artist/3ylJ2aEWS2QkIj4XPiC28z) | [The Rest of It's Mine](https://open.spotify.com/album/6sCKgnzpFAqnJbGFZUFGl2) | 3:33 | 2022-06-10 |  |

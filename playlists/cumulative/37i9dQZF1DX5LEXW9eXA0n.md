@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:LEEWOO\(이우\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Lyn\(린\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,072 songs - 2 day 21 hr 31 min
+1,075 songs - 2 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Alive](https://open.spotify.com/track/4EqZlbw5gy1MqN4CRYm77j) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Not Others, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/1miqW2MgPi1rbkX1hS1nJC) | 3:23 | 2023-08-24 | 2023-10-17 |
 | [ALL ABOUT FAREWELL \(with JAMIE\)](https://open.spotify.com/track/6ZCjhym9SDLUcWhgy7mQ0T) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Winter Songs](https://open.spotify.com/album/0aTPUVSa8UApotqgfkrKaB) | 3:52 | 2022-12-16 | 2023-02-09 |
 | [All day](https://open.spotify.com/track/147avtNKN2LvIlENoa0GJ8) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [To whom it may concern](https://open.spotify.com/album/1TKsdmVqMISXkxRWhAqG13) | 3:42 | 2022-10-13 | 2023-01-11 |
+| [All Except for Wedding](https://open.spotify.com/track/5YMqjE5l0dLZjubWrbtSBs) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [All Except for Wedding](https://open.spotify.com/album/1ylHkF3BHA3tJDrDodyDTO) | 3:09 | 2023-11-03 |  |
 | [All I Have is My Heart](https://open.spotify.com/track/3VqPDP2g1wR8F0J4utm3yX) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Ghost Doctor, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Y9r0IoRE4uftS7lSprK8e) | 3:17 | 2022-01-26 | 2022-04-06 |
 | [All I Remembered](https://open.spotify.com/track/7BE0hb9SS4XhALyqlyQfna) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [All I Remembered](https://open.spotify.com/album/5XzJdQT3RQ3n8xGZpk2mR1) | 4:03 | 2023-01-20 | 2023-02-25 |
 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 | 2021-12-23 | 2022-05-08 |
@@ -342,6 +343,7 @@
 | [Honey Milk Tea](https://open.spotify.com/track/0eYoLzJApcy4FqebJMLiSS) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [Honey Milk Tea](https://open.spotify.com/album/5YBEOqh7IMmqQaHV8Iushk) | 3:42 | 2022-03-29 | 2022-06-25 |
 | [Hopefully sky](https://open.spotify.com/track/0w246i6rL2nkjgnyNNAmg6) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Hi Bye Mama \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5qM2yc5dwte5lQiuw2Dnvy) | 4:29 | 2021-12-23 | 2022-06-08 |
 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 | 2023-02-28 | 2023-07-08 |
+| [House of light](https://open.spotify.com/track/5rk2AxSpCqVOLRVdWaLa5F) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [House of light](https://open.spotify.com/album/0QyxJ5YockEzHjVTz89BIV) | 2:51 | 2023-11-03 |  |
 | [How are you](https://open.spotify.com/track/6nAnmHOOX6IklfCiRqJPgG) | [Kim Seong Ri](https://open.spotify.com/artist/6lt5VopkvqJxcX71NdIZAQ) | [Three Siblings Bravely OST Part.16 \(Soundtrack\)](https://open.spotify.com/album/4h4ctuDJ8HsnSIfpPgVfcz) | 3:53 | 2023-03-27 | 2023-07-18 |
 | [How can I forget about you](https://open.spotify.com/track/6IsDt2hW9kaH9cLVu4DIVH) | [Kim Yong Jun](https://open.spotify.com/artist/7c8aDBJZIk4slFY40S6He7) | [Suddenly](https://open.spotify.com/album/2NxrCMvZHSJXsm92CmPiiW) | 3:29 | 2022-10-14 | 2023-01-11 |
 | [How Can I Forget You](https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Forbidden Marriage, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv) | 4:35 | 2022-12-26 | 2023-02-09 |
@@ -775,6 +777,7 @@
 | [Someday](https://open.spotify.com/track/2NDq5NUvCItdPkczFLguj3) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Someday](https://open.spotify.com/album/35bPymZ8g5lxGljWDL888d) | 4:38 | 2023-02-08 | 2023-06-23 |
 | [Someday, The Boy](https://open.spotify.com/track/1N0vwih6TUIb9kYtynvlRc) | [Kim Feel](https://open.spotify.com/artist/6oR7m22sIO1t7o8h7bnwNW) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7jMfA0dYFKHcqGNtgi8WCJ) | 4:47 | 2021-12-20 | 2022-07-08 |
 | [Somehow](https://open.spotify.com/track/1xknicKLCrmvtOn5IfIBbF) | [란\(RAN\)](https://open.spotify.com/artist/5JCsBzT5iTN0rGLMLfb2EF) | [The Crush Of Spring OST Part.11](https://open.spotify.com/album/23J6KpkSpALFrMGcXd2VZw) | 3:45 | 2022-07-07 | 2022-09-06 |
+| [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 | 2023-11-03 |  |
 | [Something Like That](https://open.spotify.com/track/2Yg4KA2rOakUT7D82XSLVc) | [Song Pu Reum](https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve) | [Something Like That](https://open.spotify.com/album/0r5sHBZo7gzcEnbmA3s8AF) | 4:04 | 2023-07-17 | 2023-10-28 |
 | [SOMETHING LIKE THAT \(2022\)](https://open.spotify.com/track/4it25gP6QbbMBMNEeRXffp) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [SOMETHING LIKE THAT \(2022\)](https://open.spotify.com/album/21qp6zQffu78ZujaxYbjCf) | 4:30 | 2022-12-12 | 2023-01-21 |
 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 | 2022-03-21 | 2022-06-10 |

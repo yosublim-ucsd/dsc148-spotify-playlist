@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-262 songs - 16 hr 45 min
+263 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,8 @@
 | [Sinais](https://open.spotify.com/track/0FKnwhG9hGE48fMW7NdIVr) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [Sinais](https://open.spotify.com/album/64zv2FlmEJJJfTrewRQoaL) | 2:33 | 2023-06-07 | 2023-07-21 |
 | [Sip of My Sip](https://open.spotify.com/track/0aKXCCuh6cE84wjcVeSFXG) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Sevndeep](https://open.spotify.com/artist/2OEgfLq3e6ZmpKnb6O6Y7V) | [Sip of My Sip](https://open.spotify.com/album/4kOrknTNxgXp2oVhnt8VnM) | 3:18 | 2023-01-11 | 2023-02-10 |
 | [Skydancer](https://open.spotify.com/track/1BZOKIzEK2nxC4mufHthLN) | [Zaida Zane](https://open.spotify.com/artist/0QAazN6527qTiEGNeIUTeg) | [Boy Eyes](https://open.spotify.com/album/71XGvUNimDbSaoE1X8UTmN) | 5:58 | 2023-08-17 | 2023-09-16 |
-| [Speed Trials On Acid \(feat\. Dan Diamond\) \- LF SYSTEM Remix](https://open.spotify.com/track/6HXL2O0YUMTxVU0cxWjddn) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS), [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 3:03 | 2023-06-22 |  |
+| [Speed Trials On Acid \(feat\. Dan Diamond\) \(LF SYSTEM Remix\)](https://open.spotify.com/track/6z5LHZZWFKN7M5kGJ6RbHq) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS), [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Electronic Generations](https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs) | 3:03 | 2023-11-02 |  |
+| [Speed Trials On Acid \(feat\. Dan Diamond\) \- LF SYSTEM Remix](https://open.spotify.com/track/6HXL2O0YUMTxVU0cxWjddn) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS), [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 3:03 | 2023-06-22 | 2023-11-04 |
 | [Starseed](https://open.spotify.com/track/329H2EaUO3fnG27NLD6mqn) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH), [SIM](https://open.spotify.com/artist/6JQhUOPvPJNH8tCOUT0cgf) | [Starseed](https://open.spotify.com/album/599P9w4ah9XpED1bnB35FB) | 3:22 | 2022-11-19 | 2023-05-06 |
 | [Strut](https://open.spotify.com/track/1rgfeVIxhmB9M2fx80NnXf) | [Kyle Kinch](https://open.spotify.com/artist/75BXoaGWmzkzAHQVP69U9U), [Nasja Mone](https://open.spotify.com/artist/1CqAInFichz7eidBuo9gwF) | [Strut](https://open.spotify.com/album/3Ti4rFDFUzrnWo5boUrLUO) | 3:13 | 2023-07-13 |  |
 | [Stuntin' On You \(feat\. DaBaby\)](https://open.spotify.com/track/341lTIxmhybbQsgydwJiFx) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Stuntin' On You \(feat\. DaBaby\)](https://open.spotify.com/album/0ntJqUFZt7XQmRycj6typz) | 2:21 | 2022-09-08 | 2022-11-11 |

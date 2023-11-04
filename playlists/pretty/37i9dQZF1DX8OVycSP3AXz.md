@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,051 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,098 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 18 | [Siffler sur la colline](https://open.spotify.com/track/3gvUS6JaXzbXNihHQlRWBW) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 2:37 |
 | 19 | [Mes mains sur tes hanches](https://open.spotify.com/track/4chX3KwIY3BJBqsnXpgDSy) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Singles + Faces B 1964\-1966](https://open.spotify.com/album/5hMPMHP3ks0km3jDp5xGnF) | 2:57 |
 | 20 | [Aline](https://open.spotify.com/track/3Sju0jbR35bTfajNgbkgFy) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Best of \(Collector\)](https://open.spotify.com/album/5vp7Y6bJSUc2maDl3SFywe) | 2:50 |
-| 21 | [La plus Belle pour Aller Danser](https://open.spotify.com/track/1V8V3UYeX2Est81MMucvJC) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [A Nashville](https://open.spotify.com/album/1MmmmrUViWnOkzlxLTYQzq) | 2:29 |
+| 21 | [La plus belle pour aller danser](https://open.spotify.com/track/7gmYsqbN1hrrSOsxNlvq4W) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Sylvie Vartan](https://open.spotify.com/album/06FWWMSdXEmoQaBrTihM0B) | 2:36 |
 | 22 | [Santiano](https://open.spotify.com/track/5xacwJHf9yLJKCn5JjSiRz) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 2:12 |
 | 23 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
 | 24 | [Vous permettez, monsieur ?](https://open.spotify.com/track/3xCE5pciNmiRNUk9J6pWeM) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Adamo \- studio 1](https://open.spotify.com/album/5UR5XXp6YVvI9kRRUgdNtl) | 3:02 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 46 | [Vous les copains](https://open.spotify.com/track/0iBuBfrOhxRgOWS0OS5GfP) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Écoute ce disque](https://open.spotify.com/album/7bpj2WDFw6pukdOPDEbFwp) | 2:13 |
 | 47 | [Demain tu te maries](https://open.spotify.com/track/3kTJxfzoOtGJEWI4PyVTBh) | [Patricia Carli](https://open.spotify.com/artist/4PHyWpnVszadob2b7JchO3) | [Tendres Annees](https://open.spotify.com/album/1cujiC73efahJ1w1RQ7QuG) | 2:55 |
 | 48 | [Il a le Truc](https://open.spotify.com/track/70fuO7PxNJXxtApu6Vki8e) | [Les Gam's](https://open.spotify.com/artist/5yj1bCBGvwhFRgYuKZgHqa) | [Les Gam's](https://open.spotify.com/album/6ktDHC59EX6rpC3RFjFCIW) | 2:28 |
-| 49 | [La nuit n'en finit plus](https://open.spotify.com/track/1TGcuqWyRfV488tGSiv9iq) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/3tZV6fFNYUXa3HUFaT7Xhz) | 2:58 |
+| 49 | [La nuit n'en finit plus](https://open.spotify.com/track/5dPrYYQcqfZh3Wg3cnS43w) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/5vcS1aftWAi42Jw7I8UXWP) | 2:58 |
 | 50 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 |
 
-Snapshot ID: `MCwyMDE4NTMzMmFlNTdiNDAzNzVjNDEyZWQ2MTYyZmJjMjJhNTVlODU4`
+Snapshot ID: `MCw5NTE0NjYxMGI3OWFmMTc5ZTFiMjkxZjQ3YTUwZGE0NTQ3MWE5NjM5`

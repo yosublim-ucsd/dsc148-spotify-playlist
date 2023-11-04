@@ -204,10 +204,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 168560,
       "name": "American Heartbreaker",
       "url": "https://open.spotify.com/track/2pHwPZhKl75eC8JVfbT7de"
+    },
+    {
+      "album": {
+        "name": "Mercury Lane",
+        "url": "https://open.spotify.com/album/4brZz1xyqMDQJ1pIvldtrC"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168560,
+      "name": "American Heartbreaker",
+      "url": "https://open.spotify.com/track/6Tkgsv5ONibvcwtCA0YrCf"
     },
     {
       "album": {
@@ -850,6 +868,24 @@
     {
       "album": {
         "name": "I Love It",
+        "url": "https://open.spotify.com/album/5wBgFNzyKaJU9aTs3wVhRU"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206640,
+      "name": "God, Family and Country",
+      "url": "https://open.spotify.com/track/0BDszHuejHwgIMgjanu14j"
+    },
+    {
+      "album": {
+        "name": "I Love It",
         "url": "https://open.spotify.com/album/5cPoNiy9Cwu5Dxd2CUQwVO"
       },
       "artists": [
@@ -878,7 +914,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 206426,
       "name": "God, Family and Country - 2020 - Remaster",
       "url": "https://open.spotify.com/track/7JJrfmgk4H3rEphFpWqoVB"
@@ -2330,6 +2366,24 @@
     {
       "album": {
         "name": "We Were Rich (New Version)",
+        "url": "https://open.spotify.com/album/5l1RRUBBe7j888hqdpccAs"
+      },
+      "artists": [
+        {
+          "name": "Runaway June",
+          "url": "https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217871,
+      "name": "We Were Rich (New Version)",
+      "url": "https://open.spotify.com/track/3oSeUEeRrQ9coH8mtGI3J7"
+    },
+    {
+      "album": {
+        "name": "We Were Rich (New Version)",
         "url": "https://open.spotify.com/album/3wnVc8g6CcliodnvrNmZTz"
       },
       "artists": [
@@ -2340,7 +2394,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 217871,
       "name": "We Were Rich - New Version",
       "url": "https://open.spotify.com/track/3Lp2u6JS7yK45JtGlHLLCJ"

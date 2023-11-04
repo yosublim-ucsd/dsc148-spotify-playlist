@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,228 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,259 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 14 | [BOURGIE, BOURGIE](https://open.spotify.com/track/1LieR25D1qtdj3TdeCRAzY) | [John Davis & The Monster Orchestra](https://open.spotify.com/artist/4N81xA4vupQhBTvKFHCD36) | [The Monster Strikes Again](https://open.spotify.com/album/3pJ6NLQXBjbpOMw6xptsAR) | 6:12 |
 | 15 | [Miura](https://open.spotify.com/track/7wu4CDoKfHqbaJCNO2qvza) | [Metro Area](https://open.spotify.com/artist/3KTzs16kNylBR78QZSkiyx) | [Metro Area \(15th Anniversary Edition\)](https://open.spotify.com/album/1sqdqvNwrtex7Y604obpcG) | 6:44 |
 | 16 | [Frank Sinatra](https://open.spotify.com/track/3mK7ll5qJEKgsV3IQtpJJP) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL), [The Hacker](https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp) | [First Album \(2009 Reissue\)](https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8) | 3:55 |
-| 17 | [Washing Up \- Tiga Mix](https://open.spotify.com/track/44ivsSXs37MFy88D4eCU3p) | [Tomas Andersson](https://open.spotify.com/artist/4iSjTOvOgsgONqpSphYvUG) | [Washing Up](https://open.spotify.com/album/4rr8wQDnciFctXhLcq7bZI) | 5:33 |
+| 17 | [Washing Up \(Tiga Mix\)](https://open.spotify.com/track/7pS9y49wkeOGJp55vdCwwq) | [Tomas Andersson](https://open.spotify.com/artist/4iSjTOvOgsgONqpSphYvUG) | [Washing Up](https://open.spotify.com/album/2AyBVH8TWBFbR41cIGVNWI) | 5:33 |
 | 18 | [Where's Jason's K](https://open.spotify.com/track/5nUfbXGXSULNLxJyndR5iB) | [Syclops](https://open.spotify.com/artist/1DoyIKYcf1Pw2tMFFy0oEi) | [I've Got My Eye on You](https://open.spotify.com/album/23cDF6i36IrMJmfDZojPgp) | 6:39 |
 | 19 | [Shades of Jae](https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Black Mahogani](https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6) | 6:55 |
 | 20 | [Nini \- Claude Monnet Remix](https://open.spotify.com/track/1HvnSNUGVzGdiWknoN568h) | [Clarisse Muvemba](https://open.spotify.com/artist/3VhZAwL3pwSfh1YgrPB9wr), [Sumo](https://open.spotify.com/artist/68hlYvUTBm1WJXhpO6re7X) | [Nini](https://open.spotify.com/album/6uGbxYqV6n3Nzudd28Ol3A) | 8:13 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 40 | [You Started Something](https://open.spotify.com/track/6ygStI97HyjufP4vRgtVrd) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [The Wicked Is Music](https://open.spotify.com/album/2UZ62DB1jQEeK7WhdxNff2) | 7:27 |
 | 41 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
 | 42 | [There But for the Grace of God Go I \- Remix](https://open.spotify.com/track/238ktHqrZJtfyoF1xcvfSR) | [Machine](https://open.spotify.com/artist/2de3Y8cx2Qt1Z1Uh1wb97O), [Timmy Regisford](https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH) | [There But for the Grace of God Go I](https://open.spotify.com/album/6aV2FkJ96pTbZUDvllQ5gJ) | 5:17 |
-| 43 | [Ain't No Mountain High Enough \- The Garage Version](https://open.spotify.com/track/2YVymWthRJewHNHPVvPiHh) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Salsoul Classics, Vol\. 2](https://open.spotify.com/album/7M9BRTQMTFdw9mVnG2QumD) | 10:29 |
+| 43 | [Ain't No Mountain High Enough](https://open.spotify.com/track/0ufXsZGpeGNOq6hI6hbWAF) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Salsoul Classics, Vol\. 2](https://open.spotify.com/album/3YsO37b52kKQCTvPPdzsAI) | 10:29 |
 | 44 | [Fascinated \- Miami Mix](https://open.spotify.com/track/3q0Wbd9fujRXRKdzRwZOlp) | [Company B](https://open.spotify.com/artist/56qkRjq9qsAxK5fc7U5moa), [Ciro Llerena](https://open.spotify.com/artist/5CY333LrlnhMG93mQ5etNq), [Randy Miller](https://open.spotify.com/artist/20hNWAoYbQ1wKsQcAoQRjw) | [Techno House Anthems](https://open.spotify.com/album/3P0BdZG7iAhvlt2MHnliqn) | 4:54 |
 | 45 | [Native Love \(Step By Step\) \- Original Mix](https://open.spotify.com/track/4AY6chAqcKO4TUB7EYXjNI) | [Divine](https://open.spotify.com/artist/1wASklF2AQfIVhSBWnUHwz) | [Native Love \(Step by Step\)](https://open.spotify.com/album/5MqdDaVdkpqAN54T5wgiaA) | 5:06 |
 | 46 | [Useless Man \- The Grid Mix](https://open.spotify.com/track/5pZvrLUCR6PXNkNa2AO7w2) | [Minty](https://open.spotify.com/artist/0vVeC3e3hdI1KVGjApg0Ud), [The Grid](https://open.spotify.com/artist/1fN3lF5RILxJeG9H8EhEDo) | [Useless Man \(The Grid Mix\)](https://open.spotify.com/album/2X7ufIprdfC2SB7Tyg81HW) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 49 | [Like a Prayer \(Churchapella\)](https://open.spotify.com/track/4UX7TUsMu6QVPoBdpBEEqB) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like A Prayer](https://open.spotify.com/album/2qmMKmWqpPbsd6dKrZXgSV) | 6:08 |
 | 50 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 |
 
-Snapshot ID: `MCxkOTJjMTdkNWFmMTRhMThiZDVhYmVlOGIyMjJjM2Y2YWRhNjJjYjQx`
+Snapshot ID: `MCw5OWVjNDEwM2IyYWY1MGZmYzMyYzlkNWU5ZGY3ZGI0MjE4OWY4OGIx`

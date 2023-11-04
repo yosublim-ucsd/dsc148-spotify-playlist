@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 
 > The Most Popular Ambient Tracks in 2022\. Kaitlyn Aurelia Smith on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,424 likes - 100 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,431 likes - 100 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Knot of Spirit \- Synth Version](https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 10:19 |
 | 2 | [Golden Galactic](https://open.spotify.com/track/5UV4bOGPyQyF5hnWuel6Zv) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [Garden Gaia](https://open.spotify.com/album/1DgRx1LvQ06RX992m1yn5m) | 4:28 |
 | 3 | [There Were Bells](https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:52 |
-| 4 | [Right Right Right](https://open.spotify.com/track/4eHxj67kulo8NO4l7RexJl) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 7:25 |
+| 4 | [Right Right Right](https://open.spotify.com/track/6RpNhl6giVNAhZY2526QgZ) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 7:25 |
 | 5 | [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 |
 | 6 | [St Henri](https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3) | [Ö](https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y), [Nömak](https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY) | [Hypernormality](https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5) | 5:16 |
 | 7 | [I Remember You Like the Best Song](https://open.spotify.com/track/1Zwc9fRegSciIK5h2QrLCD) | [Anenon](https://open.spotify.com/artist/1nDzzoDVAeT9c5PkreI1yI) | [I Remember You Like the Best Song](https://open.spotify.com/album/5QFfHX29wFOngGmjqZC5wo) | 17:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 | 99 | [ever, after](https://open.spotify.com/track/1bIZWsVJatlo8hBzn0IEdI) | [Project AER](https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP) | [after.](https://open.spotify.com/album/0lySn87GZkkmgPOInrnuC2) | 3:03 |
 | 100 | [All The Light They Cannot See](https://open.spotify.com/track/5yx4wEiqwftOWWArUes897) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/3Myx0XEGPjTmfWBTGKZ4F4) | 5:32 |
 
-Snapshot ID: `MCw4MDM0MmY1ZjVjZmI1NTE1NzY0MDFjYmMyMzEzMDM4YTQ2ZTU5N2Q3`
+Snapshot ID: `MCw3NzhiZDE2MjBjMTEwMzMxMGQwOTYzZTIxOTY3NTU4NTI2MmQ0MDc2`

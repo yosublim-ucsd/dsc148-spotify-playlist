@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Os monstros e as novas caras do Metal nacional e internacional! Foto: Edu Falaschi",
+  "description": "Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA",
   "name": "Imp\u00e9rio do Metal",
   "tracks": [
     {
@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "The L\u00f6st Tapes Vol. 2 (Live in Norwich, 1998)",
+        "url": "https://open.spotify.com/album/4PEh2b38J4LJCfc7FzhtlK"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313373,
+      "name": "Born to Raise Hell (Live at University of East Anglia, Norwich, 18th October 1998)",
+      "url": "https://open.spotify.com/track/7nHMMu5QIqvX783we02wIa"
+    },
+    {
+      "album": {
         "name": "The L\u00f6st Tapes, Vol. 2 (Live in Norwich, 1998)",
         "url": "https://open.spotify.com/album/4Sp70MOzkvRxY0wdf7nsj1"
       },
@@ -106,7 +124,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 313373,
       "name": "Born to Raise Hell - Live at University of East Anglia, Norwich, 18th October 1998",
       "url": "https://open.spotify.com/track/6UKz0a6V2ccLkAx8cB4ASR"
@@ -232,10 +250,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 243754,
       "name": "Days Of Future Past",
       "url": "https://open.spotify.com/track/5grapy5yRWQo4MjOb9nNjY"
+    },
+    {
+      "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/2eS8TWeAeQcWNffxpOiabt"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "Days of Future Past",
+      "url": "https://open.spotify.com/track/7abedqPfYaZj2K89xdoipX"
     },
     {
       "album": {
@@ -257,6 +293,24 @@
     },
     {
       "album": {
+        "name": "EARTHANDSKY",
+        "url": "https://open.spotify.com/album/0EHmXB33t1PfUvZ8dqXg6W"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249648,
+      "name": "Earth & Sky",
+      "url": "https://open.spotify.com/track/2qDLrNb2xpbiNx7kjJVSFl"
+    },
+    {
+      "album": {
         "name": "Earth & Sky",
         "url": "https://open.spotify.com/album/6NxMsVkNmPY0bUfyQFhCDm"
       },
@@ -268,7 +322,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 249648,
       "name": "Earth & Sky",
       "url": "https://open.spotify.com/track/5ZvbwDbhiFMbaywLJo6SmN"
@@ -312,6 +366,24 @@
       "duration_ms": 450826,
       "name": "Face of the Storm",
       "url": "https://open.spotify.com/track/4X8OFcU0z00WUHVV3n87u2"
+    },
+    {
+      "album": {
+        "name": "Dante XXI (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/7rX8txeF5YyFsCbDvUxU3R"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214346,
+      "name": "False (2021 - Remaster)",
+      "url": "https://open.spotify.com/track/3YTHpaZDCCd8NXwQoRaZob"
     },
     {
       "album": {
@@ -490,6 +562,24 @@
     {
       "album": {
         "name": "I Don't Believe a Word",
+        "url": "https://open.spotify.com/album/1bEoeyQmAEtAH2OYMQSEzM"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207310,
+      "name": "I Don't Believe a Word (Single Edit)",
+      "url": "https://open.spotify.com/track/1AIzcYOaBqj292futt9EQP"
+    },
+    {
+      "album": {
+        "name": "I Don't Believe a Word",
         "url": "https://open.spotify.com/album/5szoCDYAldsFB4fHB2AdYB"
       },
       "artists": [
@@ -500,7 +590,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 207310,
       "name": "I Don't Believe a Word - Single Edit",
       "url": "https://open.spotify.com/track/0DSJHuMJVbSuMC2IjpXMQD"
@@ -847,6 +937,24 @@
     },
     {
       "album": {
+        "name": "CMF2",
+        "url": "https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343120,
+      "name": "Post Traumatic Blues",
+      "url": "https://open.spotify.com/track/2MB80OIsIgVIQtQtXgzRNM"
+    },
+    {
+      "album": {
         "name": "Post Traumatic Blues",
         "url": "https://open.spotify.com/album/1SUWFyxji7bVsbRYYi2Dni"
       },
@@ -858,7 +966,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 343120,
       "name": "Post Traumatic Blues",
       "url": "https://open.spotify.com/track/5CC5bb5rrxisi8Mmb3prcL"
@@ -1020,7 +1128,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 268125,
       "name": "Seven Stages",
       "url": "https://open.spotify.com/track/6oPKCUNgwU43sIRryisEer"
@@ -1222,7 +1330,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 190120,
       "name": "The Doctor - Jacksons Studio Demos - October 1981",
       "url": "https://open.spotify.com/track/4uEkNKrTju3mBgJwkq4UQz"
@@ -1385,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "The Book of Souls: Live Chapter",
+        "url": "https://open.spotify.com/album/1X98ihhMiREcbM87yPBc8x"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245160,
+      "name": "The Trooper (Live at Estadio Jorge Magico Gonzalez, San Salvador, El Salvador \u2013 Sunday 6th March 2016)",
+      "url": "https://open.spotify.com/track/0dT91rAT0aio3v8RuSYmrT"
+    },
+    {
+      "album": {
         "name": "The Book of Souls: The Live Chapter",
         "url": "https://open.spotify.com/album/0h63qX1zO0DAJLacVY3I7x"
       },
@@ -1396,7 +1522,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 245160,
       "name": "The Trooper - Live at Estadio Jorge Magico Gonzalez, San Salvador, El Salvador - 6th March 2016",
       "url": "https://open.spotify.com/track/0CfsFGFh9omOH8qNkxwjUc"
@@ -1414,10 +1540,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 373898,
       "name": "The Writing on the Wall",
       "url": "https://open.spotify.com/track/4a66HnjRw3kBeQnIGcc8v9"
+    },
+    {
+      "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/2eS8TWeAeQcWNffxpOiabt"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373906,
+      "name": "The Writing on the Wall",
+      "url": "https://open.spotify.com/track/1U8WGXzEz48BDAw8RxtRmu"
     },
     {
       "album": {
@@ -1490,6 +1634,28 @@
       "duration_ms": 294626,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/232zDRN94ayKlp9SZSsl8r"
+    },
+    {
+      "album": {
+        "name": "Cycles Of Pain",
+        "url": "https://open.spotify.com/album/2K7ita9oG7KIQZS3gWef09"
+      },
+      "artists": [
+        {
+          "name": "ANGRA",
+          "url": "https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311172,
+      "name": "Vida Seca",
+      "url": "https://open.spotify.com/track/1oNEovE2cfpKcD6qq5moEK"
     },
     {
       "album": {

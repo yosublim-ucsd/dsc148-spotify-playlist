@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-444 songs - 1 day 2 hr 31 min
+445 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,8 @@
 | [NOW I'M ALONE \(feat\. Sofía Valdés\)](https://open.spotify.com/track/43YIg00RcAoXF4isZgqFh7) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [PART 1: WWYD?](https://open.spotify.com/album/1BE6pGMVQh8wSnPp2hfGGs) | 3:44 | 2021-12-23 | 2022-07-12 |
 | [Ocean](https://open.spotify.com/track/7eUMxcU7vT7NhnhGB0crP7) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE) | [Ocean](https://open.spotify.com/album/2jifLzqHnuO2JqKeEHUe4R) | 3:09 | 2022-03-24 | 2022-04-18 |
 | [ODYK \- DJ Mitsu The Beats Remix](https://open.spotify.com/track/27No018rVYDXnbCyxO37wa) | [buzzy.](https://open.spotify.com/artist/6g692Dxngf9dKjgF1CRES3), [Jambo Lacquer](https://open.spotify.com/artist/0eCTHbWkpE5PHesKzCf4cQ), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [ODYK \(DJ Mitsu The Beats Remix\)](https://open.spotify.com/album/7K8JmmbLDoOd4luIxgYnQl) | 3:41 | 2022-03-24 | 2022-04-13 |
-| [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/track/6cLAX064e8EpvsA31qIIyM) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/album/54oMEdSvDTdkmsZolcOTlc) | 4:17 | 2022-08-25 |  |
+| [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/track/169j5dzpCn3ikLsO24LhtN) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Panna Cotta](https://open.spotify.com/album/76bR8wlB1DS5iaKqFy3fWH) | 4:17 | 2023-10-26 |  |
+| [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/track/6cLAX064e8EpvsA31qIIyM) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/album/54oMEdSvDTdkmsZolcOTlc) | 4:17 | 2022-08-25 | 2023-11-04 |
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-06-15 |  |
 | [One More Time](https://open.spotify.com/track/44VAnzcCk8Lwd8eUM0ac4W) | [Joel Baker](https://open.spotify.com/artist/02Ok0rA4DUmpWuALgD54iY), [Flores](https://open.spotify.com/artist/7gjUyv57FGMKDu9agyqW1Z), [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK) | [One More Time](https://open.spotify.com/album/5uNrGZI72mYSGfkZezMOJ4) | 3:25 | 2022-08-18 | 2022-10-28 |
 | [One of these nights \- feat\. Jua](https://open.spotify.com/track/42cHfChm4Xd56qlwBHclIJ) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [STRANDED](https://open.spotify.com/album/0kIXakNYZLaMNrPx5VsXOp) | 3:54 | 2022-03-24 | 2022-04-16 |

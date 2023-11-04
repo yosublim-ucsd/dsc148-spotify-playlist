@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 242760,
       "name": "Act of Love",
       "url": "https://open.spotify.com/track/1IFqpCC51wa8vgXCoYhEFQ"
@@ -38,6 +38,24 @@
       "duration_ms": 242760,
       "name": "Act of Love",
       "url": "https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto"
+    },
+    {
+      "album": {
+        "name": "Direction of the Heart",
+        "url": "https://open.spotify.com/album/2HW50pzz8fOkfdauYGPNYb"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242786,
+      "name": "Act of Love",
+      "url": "https://open.spotify.com/track/3vW8oRO8aZ9XnkAvMABmaV"
     },
     {
       "album": {
@@ -70,10 +88,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 226360,
       "name": "Always Have, Always Will",
       "url": "https://open.spotify.com/track/02p16pYf7Hk0zgkwGF5EzL"
+    },
+    {
+      "album": {
+        "name": "So Happy It Hurts",
+        "url": "https://open.spotify.com/album/4UTnmsmUfpex7nAxmrtaFt"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226360,
+      "name": "Always Have, Always Will",
+      "url": "https://open.spotify.com/track/2s1dj8gyGXobvs3w03fGPD"
     },
     {
       "album": {
@@ -270,10 +306,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 226488,
       "name": "Big Big Love",
       "url": "https://open.spotify.com/track/1bKccVkVv8Fww7g47ecGKA"
+    },
+    {
+      "album": {
+        "name": "Big Big Love",
+        "url": "https://open.spotify.com/album/1KXFA21w4IxGGVJltnH119"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226488,
+      "name": "Big Big Love",
+      "url": "https://open.spotify.com/track/5qn8AKjdjvSTWxsQ1Irk8l"
     },
     {
       "album": {
@@ -606,10 +660,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 230749,
       "name": "Firecracker",
       "url": "https://open.spotify.com/track/2FpEAJWDxKW2FCyyLC9Tg2"
+    },
+    {
+      "album": {
+        "name": "Born For This Moment",
+        "url": "https://open.spotify.com/album/0PNqISvKipkWgdEY7JzPwD"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230749,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/7L5AoGk1mbGGnbXQDXi5fW"
     },
     {
       "album": {
@@ -1393,6 +1465,24 @@
     },
     {
       "album": {
+        "name": "Songwriter",
+        "url": "https://open.spotify.com/album/2jHrXoaw4ngQGU6dKp2f48"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188975,
+      "name": "Same Heartbreak Different Day",
+      "url": "https://open.spotify.com/track/0F5Wf8af1q0aj7fy2fXrTL"
+    },
+    {
+      "album": {
         "name": "Same Heartbreak Different Day",
         "url": "https://open.spotify.com/album/7iyIit99oHjCpa1ndnCJtU"
       },
@@ -1404,7 +1494,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 188975,
       "name": "Same Heartbreak Different Day",
       "url": "https://open.spotify.com/track/5ZJPhXxYnaUM8i7C9oboqI"

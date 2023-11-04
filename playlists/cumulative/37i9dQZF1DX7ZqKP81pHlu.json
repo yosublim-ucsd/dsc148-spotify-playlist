@@ -825,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Choufou lamour madar fiya",
+        "url": "https://open.spotify.com/album/0ZVGBiwlUZIFKljBm7btnG"
+      },
+      "artists": [
+        {
+          "name": "Bilel Tacchini",
+          "url": "https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Choufou lamour madar fiya",
+      "url": "https://open.spotify.com/track/1lduNwd2JPXTlTBgYlGmre"
+    },
+    {
+      "album": {
         "name": "Classico",
         "url": "https://open.spotify.com/album/4zMmjcQdRXH9Bd13d5Mm2V"
       },

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: biskuwi
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,685 likes - 89 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,826 likes - 89 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Directions](https://open.spotify.com/track/5ESReoaE5cgjl7fW8CpZTx) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Directions](https://open.spotify.com/album/0dqVbhb6olCfVwF2TC5iAn) | 4:00 |
-| 2 | [Elevation](https://open.spotify.com/track/5qnCwf4JSeYIoZAYzs3MoK) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Trip to Sanity](https://open.spotify.com/album/7yHFXNvk1C4XzbNUOTYa3u) | 6:41 |
+| 2 | [Elevation](https://open.spotify.com/track/118BQT160hFuM2JsBsa92g) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Elevation](https://open.spotify.com/album/5DHK349qDEGtNXfpmQ32hN) | 6:41 |
 | 3 | [Thade](https://open.spotify.com/track/0wMOfxxAqGex1Mf0d4HyPO) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Thade](https://open.spotify.com/album/66T4JSExNeXeVUHg3WCstT) | 4:45 |
 | 4 | [UTOPIA](https://open.spotify.com/track/3HdrzXCHvjBX39wYnAKc2c) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [UTOPIA](https://open.spotify.com/album/01Jp0tJMYp8MNRQVAk7liX) | 6:12 |
 | 5 | [Etnico](https://open.spotify.com/track/0Lhw4J4yVF3y3Ik3pJkZTA) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Etnico](https://open.spotify.com/album/7IGP9Qw99u1rlmkanJqDgB) | 5:41 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [Show Me A Sign \(Shermanology Remix\) \[feat\. Conquer Jones\]](https://open.spotify.com/track/4bWH7CQYWerk06TvOt4kKu) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Conquer Jones](https://open.spotify.com/artist/07QL1ZOB6Uq7ucRf6poEiW), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Show Me A Sign \(Shermanology Remix\) \[feat\. Conquer Jones\]](https://open.spotify.com/album/1ppi1rMwooZxaY9FuOjhuy) | 3:20 |
 | 89 | [Thirsty](https://open.spotify.com/track/2Buoe3DXKE5VL5w0JCeuQz) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [DJ Friendly](https://open.spotify.com/album/0wrBtOddeFuzNoYO6aLFlx) | 5:11 |
 
-Snapshot ID: `MCwxYmI1ZTFmOTQwYWY5ZTBjZDBjNTQwNjQxNzI5YjgwY2E0MDZjMTc5`
+Snapshot ID: `MCxjOTdlNWEwZjgzMzc5YjIzYjAwZWE3MTEwNDk3OWUxYzg0YTMzYWI5`

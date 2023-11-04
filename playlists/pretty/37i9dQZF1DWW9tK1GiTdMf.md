@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Green Day in cover 🩸 Punk rock, emo e pop punk 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,880 likes - 86 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,965 likes - 86 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 27 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
 | 28 | [omg, lol](https://open.spotify.com/track/5klZLG9n6iZ9GPpEil9GwV) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [omg, lol](https://open.spotify.com/album/08DEirI7Hu33vxLoVZUzIz) | 2:35 |
 | 29 | [Non mi ascolti mai](https://open.spotify.com/track/6Uw0hRK0yxIbxZYuAQV3P7) | [Def](https://open.spotify.com/artist/0KxwYP84fvKoG9dVGvAmRM) | [Non mi ascolti mai](https://open.spotify.com/album/2569EXNXS3CdAVoALdmibw) | 2:46 |
-| 30 | [FAMMIMALE](https://open.spotify.com/track/568eUgYTIDmKZo8J01kecJ) | [ELETTRICA](https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa) | [FAMMIMALE \(1.0\)](https://open.spotify.com/album/0iD0mIHGkUWzQlGsHDsvpq) | 2:35 |
+| 30 | [FAMMI MALE](https://open.spotify.com/track/568eUgYTIDmKZo8J01kecJ) | [ELETTRICA](https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa) | [FAMMI MALE](https://open.spotify.com/album/0iD0mIHGkUWzQlGsHDsvpq) | 2:35 |
 | 31 | [ora](https://open.spotify.com/track/4wFbf4jjCpNJbV6nILDklm) | [BRUNO](https://open.spotify.com/artist/5Icdq7Mr1Qu1QkNCPxT9X9) | [ora](https://open.spotify.com/album/5zeL8vN7FDHbX77ywpk3Gf) | 2:47 |
 | 32 | [Fantastica](https://open.spotify.com/track/2zrnzfccCva0hu3hllNZja) | [nonpiangere](https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7) | [Fantastica](https://open.spotify.com/album/21XVdZP2iseNltpUb2hi4p) | 2:36 |
 | 33 | [Baggen](https://open.spotify.com/track/4amQQ9Z5pHo2kpe3jUK47T) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Baggen](https://open.spotify.com/album/72eKrH7WXEhT2sQeNdYE1W) | 3:09 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 85 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
 | 86 | [Pillole](https://open.spotify.com/track/7gBO9lts9MZomcwuZnIXTy) | [TVB](https://open.spotify.com/artist/05LOeuVeelln8qMq6s1Cz5) | [Pillole](https://open.spotify.com/album/2LFoEjRvmHKzcstDPLPLUi) | 2:47 |
 
-Snapshot ID: `MCxhNjdiZTE4ZDM2ZjlhMjhkM2FhMmU1MmZlOGUwYWJhMGRlMzc3MzZj`
+Snapshot ID: `MCw1OTM4NWM2MGFhZDE2YTczZTE4ODA4ZTEzZTQ1MGEyNDEwYjRhZjJk`

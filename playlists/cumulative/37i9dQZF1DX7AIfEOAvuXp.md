@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-195 songs - 9 hr 53 min
+197 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 | 2020-12-07 |  |
 | [Fear of Heights](https://open.spotify.com/track/5zHRsJK0FIjoB9vA9MABGB) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Growing Teeth](https://open.spotify.com/album/2Bqkuea77cQT2y9JqlfrlC) | 2:54 | 2020-12-07 |  |
 | [Freckles](https://open.spotify.com/track/4Jscu7cfmZBfoFY6ilf1Jd) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Freckles](https://open.spotify.com/album/2Eq7y3Y5Ew56QfLNMUVlJw) | 2:38 | 2020-12-07 | 2022-07-29 |
-| [Freckles](https://open.spotify.com/track/1uGHLISx2ACSIYbQbKdwEg) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Pity Party](https://open.spotify.com/album/6f5E0fgEQox4MmTJqxOnrD) | 2:38 | 2020-12-07 |  |
+| [Freckles](https://open.spotify.com/track/02UIx7bxS0Li19jUPFYtWH) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Pity Party](https://open.spotify.com/album/5S2ZhPG2u28LJot3jjtlH7) | 2:38 | 2020-12-07 |  |
+| [Freckles](https://open.spotify.com/track/1uGHLISx2ACSIYbQbKdwEg) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Pity Party](https://open.spotify.com/album/6f5E0fgEQox4MmTJqxOnrD) | 2:38 | 2020-12-07 | 2023-11-04 |
 | [Freckles](https://open.spotify.com/track/4eePXbF5P9C65DdlAzBwnD) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Freckles](https://open.spotify.com/album/4E0Gtoyrc4RQxkXbc0tae9) | 2:38 | 2020-12-07 | 2022-11-14 |
 | [HASH BROWN](https://open.spotify.com/track/3eIVs7HjbZOf8QO6yXJAWx) | [Deema](https://open.spotify.com/artist/3SBYl2unJoVzvNIUBC8ftm), [David Armada](https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh) | [HASH BROWN](https://open.spotify.com/album/6COYiAa3nBk7fbs66jUHyU) | 3:01 | 2020-12-07 |  |
 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/63e35wfL6GMUp0boIvNBhw) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/4GqNYTtGw3kX9uq4o4tNep) | 2:45 | 2020-12-07 | 2022-07-29 |
@@ -126,7 +127,8 @@
 | [no friends](https://open.spotify.com/track/0d53wU97tPqHNXcKXlBpCx) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [Gen Z Females](https://open.spotify.com/album/64KbwO0rUAWOr7Efz0mbyF) | 1:45 | 2020-12-07 | 2022-11-13 |
 | [no friends](https://open.spotify.com/track/3bDJVbs8h1EpMsZmo3YNtp) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [no friends](https://open.spotify.com/album/6UoCFUS0khylMghHjtCILn) | 1:45 | 2020-12-07 | 2022-07-29 |
 | [no friends](https://open.spotify.com/track/3sn9wuO5D2n2zxIlPDqnRL) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 1:45 | 2020-12-07 |  |
-| [out 4 a breather](https://open.spotify.com/track/4LSxhWoG9I6SQFMkd6X031) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [out 4 a breather](https://open.spotify.com/album/1pJdFDoGjolYy9eb2b1IIa) | 3:21 | 2020-12-07 |  |
+| [out 4 a breather](https://open.spotify.com/track/4LSxhWoG9I6SQFMkd6X031) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [out 4 a breather](https://open.spotify.com/album/1pJdFDoGjolYy9eb2b1IIa) | 3:21 | 2020-12-07 | 2023-11-04 |
+| [out 4 a breather](https://open.spotify.com/track/7I3IF2cxP5cAkBC8GTRwyo) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [I AM JUST A BOY LEAVE ME ALONE !!!](https://open.spotify.com/album/7KKDPcNCaaVphHT1WbKEKZ) | 3:21 | 2020-12-07 |  |
 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 | 2020-12-07 |  |
 | [peppermint](https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC) | 2:12 | 2020-12-07 | 2023-04-05 |
 | [peppermint](https://open.spotify.com/track/7EBungIZdfO2SgFxqFtGfE) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/00xJmSdJgpfCZ3MFz4sZQQ) | 2:12 | 2020-12-07 |  |

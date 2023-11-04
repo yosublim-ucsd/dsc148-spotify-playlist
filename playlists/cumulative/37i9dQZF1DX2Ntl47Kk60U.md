@@ -4,7 +4,7 @@
 
 > Tara and Darcy's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-69 songs - 3 hr 46 min
+70 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Encore](https://open.spotify.com/track/1QASQkmXvZaFCTVaRVQVqq) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/37pRjW4teJk77oZbglQuJx) | 0:57 | 2022-05-31 |  |
 | [Encore](https://open.spotify.com/track/2tcnmgYdXZoTpCJGhWFTwf) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/2o3leUqps0lLmKlqfqzRW3) | 0:57 | 2022-05-26 | 2022-11-17 |
 | [Flirting with Her](https://open.spotify.com/track/2kDTgtrBqoEWNrdYte9hSo) | [Sir Babygirl](https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls) | [Crush on Me](https://open.spotify.com/album/2Nr6Y9RNI7eehIi4YeSZDu) | 3:50 | 2022-05-26 |  |
-| [Girlfriends](https://open.spotify.com/track/0n2uzZUl6xBnS43QdT9LEr) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Tales from the Backseat](https://open.spotify.com/album/2ppqtyOwx9WJKXcMZObqv5) | 3:31 | 2022-05-31 |  |
+| [Girlfriends](https://open.spotify.com/track/0n2uzZUl6xBnS43QdT9LEr) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Tales from the Backseat](https://open.spotify.com/album/2ppqtyOwx9WJKXcMZObqv5) | 3:31 | 2022-05-31 | 2023-11-04 |
+| [Girlfriends](https://open.spotify.com/track/2Q4MmopoxXdWfTkC9WelOT) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Tales from the Backseat](https://open.spotify.com/album/4YP202ZTbhy7F9fSQsbKPL) | 3:31 | 2022-05-31 |  |
 | [Girlfriends](https://open.spotify.com/track/1Zb9jqIFYkMg4RoQFK1rqu) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Tales from the Backseat](https://open.spotify.com/album/0rqIHttWQeXbxJvhAx8ktX) | 3:31 | 2022-05-31 | 2023-04-04 |
 | [Girlfriends](https://open.spotify.com/track/1cPNHoDgXMXajqgogNiWxa) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Tales From The Backseat](https://open.spotify.com/album/4lLoFuJDRHphqhX6FD2kTc) | 3:31 | 2022-05-26 | 2022-07-29 |
 | [girls](https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173) | 3:18 | 2022-05-31 |  |

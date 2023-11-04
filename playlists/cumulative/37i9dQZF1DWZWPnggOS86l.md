@@ -4,7 +4,7 @@
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-65 songs - 3 hr 46 min
+67 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Asma](https://open.spotify.com/track/6zK9J2D3LAtDqfJmblD2P2) | [Visconde](https://open.spotify.com/artist/0ScxxqjnVMeXYqPl5AavFd) | [Visconde](https://open.spotify.com/album/6XiK7cPd6XqlyiPN7NjTJO) | 3:46 | 2023-03-02 |  |
 | [Até o Fim](https://open.spotify.com/track/0dVQrji8H7dHlWj5TmHSJ9) | [Strike](https://open.spotify.com/artist/3Aa7VtaDW1lJWX7NBGask8) | [Hiperativo](https://open.spotify.com/album/4r2Ilq5eSSqRc2vCuIKhqf) | 3:26 | 2023-03-02 |  |
 | [Bom Dia](https://open.spotify.com/track/0Ez4iMQrMSPTbvsP7G4K9u) | [Doyoulike?](https://open.spotify.com/artist/2tb1DhDyx4g4w6l5Mc9fUy) | [Coleção](https://open.spotify.com/album/3g5Rdt54nmiWnaUglmy34S) | 3:05 | 2023-03-02 |  |
-| [Cada Poça Dessa Rua Tem Um Pouco de Minhas Lágrimas](https://open.spotify.com/track/4WMZXYJ57CZMX5W1bWcNHb) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/1nCMa3kC0kbnabvqKdH0aR) | 5:54 | 2023-03-02 |  |
+| [Cada Poça Dessa Rua Tem Um Pouco de Minhas Lágrimas](https://open.spotify.com/track/2Anewlbuh2nnlUc0bxIKgU) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/3LfBdvxxInsz67JEFGsZnO) | 5:54 | 2023-10-29 |  |
+| [Cada Poça Dessa Rua Tem Um Pouco de Minhas Lágrimas](https://open.spotify.com/track/4WMZXYJ57CZMX5W1bWcNHb) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/1nCMa3kC0kbnabvqKdH0aR) | 5:54 | 2023-03-02 | 2023-11-04 |
 | [Credenciais](https://open.spotify.com/track/7uGZL8ch8oTxEEbfile7ON) | [Hurtmold](https://open.spotify.com/artist/65RycP7iE8vX8tbzKy3top) | [Cozido](https://open.spotify.com/album/2L9l1Hshuxg4NufjpaQSF3) | 3:27 | 2023-03-02 |  |
 | [Criança](https://open.spotify.com/track/44Hewpc6MVWcWdQGzPfauT) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Essa Noite Bateu Com um Sonho](https://open.spotify.com/album/0Ki5QTAVHWBjxPOh3uR4ux) | 4:36 | 2023-03-02 |  |
 | [Danger Drive](https://open.spotify.com/track/51D3cNgovTqPUEKjZ3SjVl) | [Hateen](https://open.spotify.com/artist/4KDa0GMe5CxKSxEGtGFkxk), [Cesar Santisteban](https://open.spotify.com/artist/77EQoB9QxjmhDPwgUO3iJl), [Ricardo Di Roberto](https://open.spotify.com/artist/4lgaB76DMMxszkram6sxzN), [Boris Fratogianni](https://open.spotify.com/artist/0RA7PyF1TBYZNz9ujw9vUl) | [Dear Life](https://open.spotify.com/album/5o14YCLkiD4J9FrXIQC0d3) | 3:39 | 2023-03-02 |  |
@@ -66,7 +67,8 @@
 | [Se Essas Paredes Falassem](https://open.spotify.com/track/6EBuhDXGEe8ZPDR8WuuieN) | [Dance of Days](https://open.spotify.com/artist/3pICQ7QvYXozuzJjgb6eM5) | [A História Não Tem Fim](https://open.spotify.com/album/43WGY8Tt3dyQOqbYIosPRy) | 3:27 | 2023-03-02 |  |
 | [Se For pra Tudo Dar Errado](https://open.spotify.com/track/179NUF6b8tzp3Ni2aMGxgU) | [Tópaz](https://open.spotify.com/artist/2iiIiebCQqwrwCqARl4Q3A) | [Onze Nós](https://open.spotify.com/album/0FGNiPVp4mz4Az7EJdfWQ5) | 3:51 | 2023-03-02 |  |
 | [Só mais uma vez](https://open.spotify.com/track/0rWn4OID3XS0ynCe3q5mUW) | [B5](https://open.spotify.com/artist/3Suq9dAvF3bHa1NYEbMXpN) | [Novo](https://open.spotify.com/album/3kNRC2TKN1BLGMtBe8Dp66) | 3:17 | 2023-03-02 |  |
-| [Teu Semblante](https://open.spotify.com/track/6NCuCsZDu7HfitEWG0CJxc) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros](https://open.spotify.com/album/7h6Qz4Ze4DRz9qApzMweWK) | 3:28 | 2023-03-02 |  |
+| [Teu Semblante](https://open.spotify.com/track/6NCuCsZDu7HfitEWG0CJxc) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros](https://open.spotify.com/album/7h6Qz4Ze4DRz9qApzMweWK) | 3:28 | 2023-03-02 | 2023-11-04 |
+| [Teu Semblante](https://open.spotify.com/track/7J6XsCBC7q22MHLD1CoCiI) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros](https://open.spotify.com/album/3vFIzGjPLlR292Eh6EGttQ) | 3:28 | 2023-10-29 |  |
 | [Você](https://open.spotify.com/track/6qxpzKPmnYEetfTV7upw1V) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Zero e Um](https://open.spotify.com/album/7bUuKrK0ksqlJ2oDYfo0N5) | 3:20 | 2023-03-02 |  |
 | [Você Não Sabe Quantas Horas Eu Passei Olhando pra Você](https://open.spotify.com/track/6pUgBKmxpYqDAzXyoCyoeF) | [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [Repertório Infindável de Dolorosas Piadas](https://open.spotify.com/album/6X9JLA7GzqPD9UEowimbFw) | 3:41 | 2023-03-02 |  |
 | [Voltar a Ser Canção](https://open.spotify.com/track/4As0FVE0RhNu5nKYgHa3dN) | [Dom Pedro](https://open.spotify.com/artist/2dn4iIwTZDvX8suARVjwBs) | [Primeiro](https://open.spotify.com/album/0Q6r6sOigwWud4pXvg8BTH) | 4:04 | 2023-03-02 |  |

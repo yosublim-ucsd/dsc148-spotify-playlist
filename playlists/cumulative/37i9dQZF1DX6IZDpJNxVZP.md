@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-212 songs - 9 hr 27 min
+213 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [The Munsters](https://open.spotify.com/track/3UbRa7attOrA8B7J2JKIai) | [Kids' Halloween Party](https://open.spotify.com/artist/5o3ZrNklBvnKRf46i6xqr2) | [Kids' Halloween Party](https://open.spotify.com/album/1sb4d6vMZiNn2TWUztKZ0i) | 0:58 | 2021-08-30 | 2022-07-29 |
 | [The Munsters Theme](https://open.spotify.com/track/1HAzaGNVyyMYVtmykjfNX9) | [The Great TV Crew](https://open.spotify.com/artist/5rqKH0wSGQc4DAZXjXCIvY) | [The Greatest Tv Show Themes](https://open.spotify.com/album/4c2EFeXdKNzRuQmdRC9Cax) | 1:17 | 2021-09-10 | 2023-10-03 |
 | [The Munsters' Theme](https://open.spotify.com/track/7kuCHonhRzHG1O5EJ5AYBh) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [A Scary Very Halloween](https://open.spotify.com/album/4vuBTENFXy2LwCbsAa1ick) | 2:06 | 2022-10-11 |  |
-| [The Purple People Eater](https://open.spotify.com/track/4FnstDEDoN4khsNK7JkrP2) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Rock 'n' Roll 101 for Kids, Vol\. 2](https://open.spotify.com/album/4aUeXpVuf2vAhyp5yRR4PC) | 2:10 | 2021-08-30 |  |
+| [The Purple People Eater](https://open.spotify.com/track/4FnstDEDoN4khsNK7JkrP2) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Rock 'n' Roll 101 for Kids, Vol\. 2](https://open.spotify.com/album/4aUeXpVuf2vAhyp5yRR4PC) | 2:10 | 2021-08-30 | 2023-11-04 |
+| [The Purple People Eater](https://open.spotify.com/track/6bYJ2Ei1PP7IzL67PMeip8) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Kids Bop to the Oldies](https://open.spotify.com/album/5rYazUsuP7KAhK4DSNwwyz) | 2:10 | 2023-10-27 |  |
 | [The Simpsons \(Halloween Special Theme\)](https://open.spotify.com/track/3aa39YrzS0Hkl5h8yNM0pQ) | [Harajuku Nation](https://open.spotify.com/artist/4HG25gcGxUsLKlhPKyCods) | [The Ultimate Halloween Collection \- Spooky Anthems for your Haunted House](https://open.spotify.com/album/3ylBbGcMhglgc5APhOLIh4) | 1:24 | 2022-10-11 | 2022-11-13 |
 | [The Simpsons \- Halloween Special Theme \(Instrumental Mix\)](https://open.spotify.com/track/1cOvOe6N00MmFTst5j2Eny) | [The Evolved](https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt) | [Halloween Pre Game \- Get Ready for the Party of the Year! \(Halloween Party Mix\)](https://open.spotify.com/album/2jFAFh8rHf6bBCTR6trTXB) | 1:24 | 2023-10-23 |  |
 | [The Simpsons Halloween Special Theme \(From "The Simpsons"\) \- Kids Halloween Party Mix](https://open.spotify.com/track/4tlJfR16fuW8pQwNVHLpjP) | [Kids Halloween Party Band](https://open.spotify.com/artist/5aC89Ulm1BfnveKgEVgbzM) | [Halloween Songs and Tunes \- 45 Classic Songs for Your Halloween Party](https://open.spotify.com/album/7i6LyayvwuNTII8mE19cZv) | 1:24 | 2021-08-30 | 2022-07-29 |

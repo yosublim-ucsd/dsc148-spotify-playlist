@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 
 > Rockabilly pioneers and revivalists\. Cover: Stray Cats
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,652 likes - 75 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,696 likes - 75 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 25 | [King Cry\-Baby](https://open.spotify.com/track/0YtOA9MiHBCjKelmZtkf0V) | [James Intveld](https://open.spotify.com/artist/3PaZvRc0695xVyvwWZmsNt), [Tony Brown](https://open.spotify.com/artist/1YMlmDFaMoScXDaII6e5tQ) | [50s Dance Party](https://open.spotify.com/album/02gR0WnRMMkFVGwtZaFFnV) | 3:41 |
 | 26 | [This Ole House](https://open.spotify.com/track/1Fovcw2l65GDnf3utzqdGC) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [This Ole House](https://open.spotify.com/album/0X2mbcnFCW3xu4YKXurMLw) | 3:05 |
 | 27 | [Mean, Mean Man \- Remastered](https://open.spotify.com/track/1Ssb9hQz8ha0oHGdsFsQ8N) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:13 |
-| 28 | [So Long Baby Goodbye](https://open.spotify.com/track/6VpVEeczEpC5OeIqgb7JZD) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters Collection](https://open.spotify.com/album/5bFPCsAzT5pb4BiQIUleh1) | 2:21 |
+| 28 | [So Long Baby Goodbye](https://open.spotify.com/track/1upelD8HjVJnft6t3yeiN4) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [Mandatory: The Best Of The Blasters](https://open.spotify.com/album/3rAp2eKl3WVl7Nf3iXzYw8) | 2:26 |
 | 29 | [\(We're Gonna\) Rock Around The Clock](https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rock Around The Clock](https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK) | 2:09 |
 | 30 | [Bales Of Cocaine](https://open.spotify.com/track/1bfuN6xnKqbF4etWTpHq7p) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [The Full Custom Gospel Sounds Of \. \. .](https://open.spotify.com/album/3NdsTGAiD22JPGhbuSwizc) | 2:11 |
 | 31 | [Ooh Yeah Baby](https://open.spotify.com/track/2rDe6Ry7o1FrPGZnea3REh) | [Kip Tyler & His Flips](https://open.spotify.com/artist/0FbyYmnNfSFWzI94IWlIhm) | [Shiverin' and Shakin' Hop Rockers & Sleazy Instros, Pt\. One: 1958\-1965](https://open.spotify.com/album/20aqYvCMQqkqa1LwWl52XC) | 2:27 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 40 | [Rock\-a\-Bop](https://open.spotify.com/track/2pJnxaBbts4d1p1iiuo0NS) | [Sparkle Moore](https://open.spotify.com/artist/4SPbyaeJhJ2vkRM61jsMYe), [Dan Belloc's Orchestra](https://open.spotify.com/artist/4PIkVqtgrm8JIoyUaWytqX) | [All American Rock 'N' Roll from Fraternity Records](https://open.spotify.com/album/7n8d7Wzpu2LxkchyD1Jfyn) | 2:14 |
 | 41 | [Rockin' Rollin' Stone](https://open.spotify.com/track/06qGD5AoCHM0DOFoyOh88V) | [Andy Starr](https://open.spotify.com/artist/5XwjCCdpnaF4qz7nUUdNp9) | [Singles 1955\-1962](https://open.spotify.com/album/75fjiwthYBRJsdQvm8Eyem) | 2:51 |
 | 42 | [Woo Hoo](https://open.spotify.com/track/1W5dAotc2fxSCmob5zDvQr) | [The Rock\-A\-Teens](https://open.spotify.com/artist/4vbR9DeELloVAWieVRcN5O) | [50s Rock 'N' Roll](https://open.spotify.com/album/3ffeGGfqpP4DmM7LuKmkiY) | 2:06 |
-| 43 | [We Wanna Boogie](https://open.spotify.com/track/6GZ1WlVhXloeDGdhm83L6z) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [The Sun Records Sound of Sonny Burgess \(20 Rockabilly Originals\)](https://open.spotify.com/album/4m3SwxCJImq2wzmxhkdDrC) | 2:23 |
+| 43 | [We Wanna Boogie \- Remastered 2022](https://open.spotify.com/track/2Abj7hwBVQAQv9SWLMq0Md) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [Sun Records Originals: We Wanna Boogie](https://open.spotify.com/album/2T2OSNrn4ZwVbnxiZQsmc4) | 2:24 |
 | 44 | [My Little Sister Gotta Motorbike](https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY) | [Crazy Cavan](https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv), [The Rhythm Rockers](https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat) | [Our Own Way Of Rockin'](https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO) | 2:45 |
 | 45 | [Long Blond Hair](https://open.spotify.com/track/5bCO0YQXBlEKBTI9YLXuXg) | [Johnny Powers](https://open.spotify.com/artist/1jjlLYpFTUwpzzC2wXnHfB) | [Presenting Johnny Powers](https://open.spotify.com/album/17APoK2Yrq0BfvRTzahaX4) | 2:09 |
 | 46 | [Twenty Flight Rock](https://open.spotify.com/track/0Lx4qHJ7ZBoSZvc704wsDd) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [Never To Be Forgotten](https://open.spotify.com/album/7n5TBiq6TqYMSK8i3t5ETL) | 1:45 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 71 | [Susie\-Q](https://open.spotify.com/track/2XTBQyBapzuWbx3ZByfOrn) | [Dale Hawkins](https://open.spotify.com/artist/7kcPzHlsyJm5tDv7JMcr6T) | [Presenting Dale Hawkins \(65th Anniversary Edition\)](https://open.spotify.com/album/7nzkS6FcHKXtAQmVYP5miw) | 2:13 |
 | 72 | [Touch Me](https://open.spotify.com/track/5x1B2AjKhCVtYNHDbVAV1F) | [Kim Lenz & Her Jaguars](https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB) | [It's All True!](https://open.spotify.com/album/4LClhwjnWnclx0uJ9fNoWi) | 2:41 |
 | 73 | [Get Rhythm](https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:13 |
-| 74 | [Ubangi Stomp](https://open.spotify.com/track/0QXWOUB7LGccPIhfEGJcCU) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [The Sun Records Sound of Warren Smith \(20 Rockabilly Favorites\)](https://open.spotify.com/album/7EbBwkAHlqxaQGlKpsODQ6) | 1:58 |
+| 74 | [Ubangi Stomp](https://open.spotify.com/track/5FKajihwTRjPvsfdCTG86a) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [Sun Records Originals: Rock 'n' Roll Ruby](https://open.spotify.com/album/37IW9DA7zMC5O83RAxiZpv) | 1:59 |
 | 75 | [Ooby Dooby](https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [At the Rock House](https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm) | 2:10 |
 
-Snapshot ID: `MCw4Y2UyM2FhMDQ5YTAzZWY1NDdhNGQ5ZWZhMzRmZDljYTcwMjY5YmRi`
+Snapshot ID: `MCxjMTJkYzkzZGE3YjZiNjY3ZTU3YzE2NjQ1ODUxNGMwYTUxYzRjMzZh`

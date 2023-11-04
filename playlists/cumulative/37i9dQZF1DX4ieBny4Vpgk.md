@@ -4,7 +4,7 @@
 
 > Vocal jazz favorites from 2022\. Cover: Samara Joy \#SpotifyWrapped
 
-118 songs - 7 hr 57 min
+119 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Come Fly with Me](https://open.spotify.com/track/6Yzl0fJuDnNsQA3I1VVSCP) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Come Fly with Me](https://open.spotify.com/album/1a9XmKMYpi3XJAc626uqyY) | 3:31 | 2022-11-30 |  |
 | [Come on Little Bird](https://open.spotify.com/track/3xPzobpvhizPZSR7If1Zcx) | [Brice Davoli](https://open.spotify.com/artist/27kwwOnjG09lmLHv3zle84), [Valerie Deniz](https://open.spotify.com/artist/3xODAav1Ryy8BspJHjbHcL) | [Classic Jazz \- Divas & Crooners \(Edited\)](https://open.spotify.com/album/1atP4hfVKAF0d07D4HjpbR) | 3:17 | 2021-12-01 | 2022-12-01 |
 | [Devil May Care \(feat\. Steve LaSpina\)](https://open.spotify.com/track/3c3UiNK3VFXA5zQUSvvWc5) | [Sherine 尚羚](https://open.spotify.com/artist/3jHGEibos6PbvirMBJlgFl), [Steve LaSpina](https://open.spotify.com/artist/5OmSSr7NqennGE7koYEUjn) | [TWO FOR THE ROAD](https://open.spotify.com/album/32cHdfEfedPELnp8KljvzA) | 3:31 | 2021-12-01 | 2022-12-01 |
-| [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/3y5Z7sB8kKEuBI06G2fZcb) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Did Somebody Make a Fool Out of You](https://open.spotify.com/album/5VvEOtmiR7TFEWp62vjPOs) | 4:51 | 2022-11-30 |  |
+| [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/3y5Z7sB8kKEuBI06G2fZcb) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Did Somebody Make a Fool Out of You](https://open.spotify.com/album/5VvEOtmiR7TFEWp62vjPOs) | 4:51 | 2022-11-30 | 2023-11-04 |
+| [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/2a6ZvVIWBeBSjAcbPgolD9) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul \(Deluxe\)](https://open.spotify.com/album/41KI9nUWYRQDxXfgfbX5Zz) | 4:51 | 2022-11-30 |  |
 | [Everything Happens to Me](https://open.spotify.com/track/44DiSGodp1YooCyJfI2aeQ) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:47 | 2021-12-01 | 2022-12-01 |
 | [Everything Happens to Me](https://open.spotify.com/track/7qFaoRVHhqowCFEi3McfkF) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/7odhq8nBHDrTgYXIuV6g23) | 3:47 | 2021-12-01 | 2022-07-29 |
 | [Fine Brown Frame](https://open.spotify.com/track/0kkdbmP7KeI7d9akdryPmU) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/6VHzJNiSLGXkXw9NzY9GGX) | 3:16 | 2022-11-30 |  |

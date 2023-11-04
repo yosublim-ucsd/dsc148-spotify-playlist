@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Kvi Baba + AKLO + KEIJU \*👉 <a href="https://spice.eplus.jp/articles/323469?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-3,806 songs - 9 day 15 hr 2 min
+3,807 songs - 9 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2440,7 +2440,8 @@
 | [wana \(Rearrange\)](https://open.spotify.com/track/3EEKmMjaOYQAv7dEIoTb5f) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [wana \(Rearrange\)](https://open.spotify.com/album/7wj4X7jRgxVCsgocGM7ITj) | 4:57 | 2023-05-24 | 2023-05-31 |
 | [Wander](https://open.spotify.com/track/4wEW5ooTvpYOzddLgeWFtC) | [SNJO](https://open.spotify.com/artist/7jHCgiF89ufTiBynoOzAxN) | [Wander](https://open.spotify.com/album/4wZfilk3fBst3BH69gOsc5) | 2:52 | 2023-02-28 | 2023-03-08 |
 | [Wanna](https://open.spotify.com/track/4rLsZcXQlylBEgDVXQO3eu) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Wanna](https://open.spotify.com/album/3grQnzdbrVfQ9uwhgTFm6N) | 2:28 | 2023-08-23 | 2023-08-30 |
-| [Wanna Be In A Sad Mood](https://open.spotify.com/track/61ZsLyi4omqZs3H72sm5sb) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/3jMkyqeHsfveTdu30JyGxn) | 4:14 | 2023-10-31 |  |
+| [Wanna Be In A Sad Mood](https://open.spotify.com/track/5RLbFht9k5o0MRcnR4vvWq) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/7FgKndFjCgBXmLl7hcNvRo) | 4:14 | 2023-11-01 |  |
+| [Wanna Be In A Sad Mood](https://open.spotify.com/track/61ZsLyi4omqZs3H72sm5sb) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/3jMkyqeHsfveTdu30JyGxn) | 4:14 | 2023-10-31 | 2023-11-04 |
 | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/track/6LtMJVeESzRLu2qC7nvWSr) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/album/6sTC6wymaf3mxFRljQuFp9) | 3:47 | 2023-04-26 | 2023-05-03 |
 | [Waratteokure](https://open.spotify.com/track/588GkOEGHQUW4DOB7z2znS) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Waratteokure](https://open.spotify.com/album/5x2Ba1mfp35h8sRajMNXQs) | 4:33 | 2023-10-10 | 2023-10-18 |
 | [WARUAGAKI](https://open.spotify.com/track/0bgv8mkXBa2dZle9N9wux1) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [リスタート](https://open.spotify.com/album/3r0gT0yEgSvDqiE0tRMDH3) | 3:35 | 2023-02-21 | 2023-03-01 |

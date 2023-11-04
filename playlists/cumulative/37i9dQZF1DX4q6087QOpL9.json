@@ -1628,6 +1628,28 @@
     {
       "album": {
         "name": "I",
+        "url": "https://open.spotify.com/album/6SHj0DB4f7ogcpKKqmBZDM"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        },
+        {
+          "name": "Sean McCabe",
+          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410348,
+      "name": "I (Sean McCabe Remix)",
+      "url": "https://open.spotify.com/track/3aMCxBSFfMWrhfT0IhsU1b"
+    },
+    {
+      "album": {
+        "name": "I",
         "url": "https://open.spotify.com/album/2n3nX312EHZSQ5nuEGfCD2"
       },
       "artists": [
@@ -1638,7 +1660,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 410348,
       "name": "I - Sean McCabe Remix",
       "url": "https://open.spotify.com/track/2Krq49k8Nvxxuanui53S1v"
@@ -2180,6 +2202,28 @@
     {
       "album": {
         "name": "Love & Happiness (feat. India)",
+        "url": "https://open.spotify.com/album/5SeyhiafZ5HRUtNWI8GM5Z"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Love & Happiness (Yemaya Y Och\u00f9n) (feat. India) (Dream Sequence)",
+      "url": "https://open.spotify.com/track/3CbDRuzh7MBjT4GiM8DFUM"
+    },
+    {
+      "album": {
+        "name": "Love & Happiness (feat. India)",
         "url": "https://open.spotify.com/album/0WZBrtrJLZ5Vltdm1cvvXQ"
       },
       "artists": [
@@ -2194,7 +2238,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 259200,
       "name": "Love & Happiness (Yemaya Y Och\u00f9n) [feat. India] - Dream Sequence",
       "url": "https://open.spotify.com/track/2EeAQUFOQXqYwGWhot4B7F"
@@ -2680,6 +2724,24 @@
     {
       "album": {
         "name": "No Politics",
+        "url": "https://open.spotify.com/album/2rGknRc712pRAvQUmkGHTh"
+      },
+      "artists": [
+        {
+          "name": "Quentin Harris",
+          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463320,
+      "name": "Poor People (Big Room Mix)",
+      "url": "https://open.spotify.com/track/3CYhbioAH5j4AHKwW0N9oL"
+    },
+    {
+      "album": {
+        "name": "No Politics",
         "url": "https://open.spotify.com/album/74Td3mSTHD8Mum5B1kJFt5"
       },
       "artists": [
@@ -2690,7 +2752,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 463320,
       "name": "Poor People - Big Room Mix",
       "url": "https://open.spotify.com/track/2Fi5Z7kEeZ0W3jjPAdk7Q4"

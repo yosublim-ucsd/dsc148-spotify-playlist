@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-356 songs - 1 day 3 hr 6 min
+357 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Around in Circles](https://open.spotify.com/track/7zFzihn1U5QYM0btSQ50m2) | [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Red Sky EP](https://open.spotify.com/album/0iWzQ1vGm5vM8wUn51mcqG) | 4:12 | 2023-08-24 | 2023-09-08 |
 | [Ax Mr\. L.](https://open.spotify.com/track/1IsTjsZ93VVERHRD5jl1fL) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Revep](https://open.spotify.com/album/0nWCa0VuF2knFYgWrqyQJt) | 4:18 | 2023-10-19 |  |
 | [Bad Apples](https://open.spotify.com/track/22CjVpcH29cyyXljhLAPew) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Objekt \#5](https://open.spotify.com/album/7g6AaylaH6MMPVYfX8QWqj) | 6:32 | 2022-10-27 | 2023-08-25 |
-| [Bad Bitch \(Body, Waist, Lips, Face\) \[with KenTheMan\]](https://open.spotify.com/track/5W5osxyWqlZIDL7gCC06va) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [German Engineering 1](https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP) | 2:42 | 2023-08-24 |  |
+| [Bad Bitch \(Body, Waist, Lips, Face\) \(with KenTheMan\)](https://open.spotify.com/track/68MLGWFI3cMdMIw73nOJIn) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 2:42 | 2023-10-26 |  |
+| [Bad Bitch \(Body, Waist, Lips, Face\) \[with KenTheMan\]](https://open.spotify.com/track/5W5osxyWqlZIDL7gCC06va) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [German Engineering 1](https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP) | 2:42 | 2023-08-24 | 2023-11-04 |
 | [Balapan](https://open.spotify.com/track/2aTQw92FaRms4GnXVhV9fe) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Balapan](https://open.spotify.com/album/7IUQHbkd07qrM7hmaZtPxS) | 5:13 | 2023-08-24 | 2023-09-29 |
 | [BANGUK](https://open.spotify.com/track/1GWaIEbioQsRV6Yaq8VwmO) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [BANGUK](https://open.spotify.com/album/4XCuAOqmIZOkmVd6izgCAu) | 3:06 | 2023-10-19 |  |
 | [Basilisk](https://open.spotify.com/track/0hggD2nXY3ez5PlFXoUIYx) | [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B), [Martyn](https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw) | [AJ^6](https://open.spotify.com/album/1yog6hz3W10YKqTVg68VBT) | 4:56 | 2023-10-05 |  |

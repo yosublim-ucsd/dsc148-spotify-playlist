@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,905 likes - 273 songs - 14 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,049 likes - 273 songs - 14 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 76 | [I CAN'T STOP](https://open.spotify.com/track/3rc030o1DJ1ILNdMPZoS7W) | [ASTRO](https://open.spotify.com/artist/5kZk6YdVhp9mtEyzhDxRqj) | [I CAN'T STOP](https://open.spotify.com/album/7j6c2keRodBMXiZExqLaQm) | 3:06 |
 | 77 | [what we had](https://open.spotify.com/track/4acWKpRAAnUHa8t6Xgm9Cu) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0), [Georgie O'Brien](https://open.spotify.com/artist/4aWDnkVvzu9Tc68DGOyXHl) | [what we had](https://open.spotify.com/album/4T2dCGIPhCxl3soRdLJipb) | 4:52 |
 | 78 | [Want U](https://open.spotify.com/track/2Mq6Gnoh4gomERaXGiwEYB) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [MOONBOY](https://open.spotify.com/album/7nbl0sq2qrigt7BGmAcPc7) | 4:39 |
-| 79 | [Let Me Know \(feat\. CLMD\) \- Remix](https://open.spotify.com/track/6Q25Z9gsiXLOqcirOD5mrl) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Floor Plan 2.0](https://open.spotify.com/album/7eUfwcYbaAxfkSkZaZyktZ) | 2:50 |
+| 79 | [Let Me Know \- Remix](https://open.spotify.com/track/6Q25Z9gsiXLOqcirOD5mrl) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Floor Plan 2.0](https://open.spotify.com/album/7eUfwcYbaAxfkSkZaZyktZ) | 2:50 |
 | 80 | [Apart Of Me \(feat\. Devault\)](https://open.spotify.com/track/00xf3YI4zSlumejNs1HDiM) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Apart Of Me \(feat\. Devault\)](https://open.spotify.com/album/3PYBio81S8I34o8qhInL5Y) | 3:18 |
 | 81 | [dont make me wait](https://open.spotify.com/track/4nU5QRHosclTgx65DkDPoN) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [dont make me wait](https://open.spotify.com/album/7pN0DwbMPYJa1M7G3D4QO3) | 2:25 |
 | 82 | [Take Me Away](https://open.spotify.com/track/2uZGQfnuG1ZLmBhtz06IEX) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Take Me Away](https://open.spotify.com/album/19djgC1ATwUgOqfweOtUQW) | 3:14 |
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 129 | [You Lose My Mind](https://open.spotify.com/track/5jLUdcjO2z7jvYoKnkGPY9) | [Apotech](https://open.spotify.com/artist/2nwGAlGI70BCkpJDfdfHec) | [You Lose My Mind](https://open.spotify.com/album/5MkmqaIBzITzqEpvhd3zvu) | 3:59 |
 | 130 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 |
 | 131 | [Beautiful Morning](https://open.spotify.com/track/7hETh8TWWZ5u2oI0OhieCL) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Little Love](https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst) | 3:07 |
-| 132 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/3rSWCdIsveHdzcKdhXUYSY) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/2Y8GLMTDID2ww28KsGB5d5) | 2:30 |
+| 132 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh) | 2:30 |
 | 133 | [HH vill bara va med dej \- Killen Manjaro Remix](https://open.spotify.com/track/3ButzjnOhh2cp6swTQ7VM6) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc), [Killen Manjaro](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [HH vill bara va med dej \(Killen Manjaro Remix\)](https://open.spotify.com/album/284OrWrAdY3xCq2hgxX6NP) | 4:06 |
 | 134 | [AM:PM \- Sistek Remix](https://open.spotify.com/track/6Hqia0eaXtwLUpZEGAhhjv) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [AM:PM \(Remixes\)](https://open.spotify.com/album/5wYKHMd0BHO5z5lBiGcg0k) | 3:15 |
 | 135 | [ghost2](https://open.spotify.com/track/0DgyAyvFmYA232P4jWheGP) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/4PiQXqTTVf4PYb0na1NqMh) | 3:18 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 272 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 273 | [Just The Way I Feel](https://open.spotify.com/track/26ZLujrsJ2JQ8QWHYOe9B3) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [EMIAH](https://open.spotify.com/artist/2SvY2cO17kdD3swIBGOxs8) | [Just The Way I Feel](https://open.spotify.com/album/2P642dj0EaJxTs1fRpkqxa) | 3:06 |
 
-Snapshot ID: `MCw4MzkwNmI3NTIwYWY1ZmQ1YzQyNmJiODNiZWE0NDQyMTI2MmZmODgz`
+Snapshot ID: `MCxjZDM1ZGJlNjYzODM1MGZlMTM3NzlhYTNhYjkzNTFlYTExZTE1OTdj`

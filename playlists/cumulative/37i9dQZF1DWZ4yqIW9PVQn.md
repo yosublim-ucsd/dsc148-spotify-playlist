@@ -2,7 +2,7 @@
 
 ### [가을가을해](https://open.spotify.com/playlist/37i9dQZF1DWZ4yqIW9PVQn)
 
-> 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요.
+> 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
 138 songs - 8 hr 23 min
 

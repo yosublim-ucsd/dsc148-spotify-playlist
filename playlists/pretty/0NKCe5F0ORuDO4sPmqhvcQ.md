@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,902 likes - 127 songs - 7 hr 16 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,902 likes - 129 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,5 +135,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 125 | [Carbonceramics](https://open.spotify.com/track/7ERuaaH2MUZ6W4tPt7SfEG) | [Re:abel](https://open.spotify.com/artist/15iuCconBCNg86K2nVPNkd) | [Carbonceramics](https://open.spotify.com/album/5gHTMLQLOaWiDT1navoLut) | 4:40 |
 | 126 | [Runaway](https://open.spotify.com/track/1mZTaOUyj9f1NqBuD85Gti) | [Jantoje](https://open.spotify.com/artist/0ISMhfuHRFjqZ8PztWHHDx), [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw) | [Runaway](https://open.spotify.com/album/7tkgjZAdCf4dqqAY80V5D5) | 3:10 |
 | 127 | [Eternity](https://open.spotify.com/track/0PqsrSUORNOsVyVH7jSlnM) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Eternity](https://open.spotify.com/album/0uVzoO0jamR1dQqDYA3sCY) | 3:20 |
+| 128 | [Make It Somehow](https://open.spotify.com/track/40fXArbSGm9YqflinCTQ4p) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Make It Somehow](https://open.spotify.com/album/4mzct5WjZtrgHnqzv55jEn) | 2:48 |
+| 129 | [Fever](https://open.spotify.com/track/4aonFWNn1hriqeEtXmMIRy) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ) | [Fever](https://open.spotify.com/album/1czheboLJFCb4lgJL2q4KK) | 2:40 |
 
-Snapshot ID: `MTA1NDYsMGQwYTRhNjBlMTgxMzFjMjUzNDU0NGI1OTUyZmE5MTEyNmQ0NzJjZQ==`
+Snapshot ID: `MTA1NDgsZjQxM2Y4YTAyMDQ2NTE1YjI2MDQ0ZTg1YmI0MzYyMTFlNzYyYzhmOA==`

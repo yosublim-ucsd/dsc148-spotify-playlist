@@ -1913,6 +1913,28 @@
     },
     {
       "album": {
+        "name": "Real T\u00e9cnico",
+        "url": "https://open.spotify.com/album/2Hhy4V226tlK7SvztK66cV"
+      },
+      "artists": [
+        {
+          "name": "PK Delas",
+          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199354,
+      "name": "Indecifr\u00e1vel",
+      "url": "https://open.spotify.com/track/6AabTQF0N9nI1v4T2dGaSw"
+    },
+    {
+      "album": {
         "name": "Turmalina",
         "url": "https://open.spotify.com/album/0CftZS5wl7MH0WZqG8ChR5"
       },
@@ -3868,7 +3890,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 144000,
       "name": "Vestido",
       "url": "https://open.spotify.com/track/10rj6o7ALGZABKN5dzfUsr"

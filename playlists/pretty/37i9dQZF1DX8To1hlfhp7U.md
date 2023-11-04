@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,455 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,466 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 8 | [Chandigarh](https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Chandigarh](https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto) | 2:17 |
 | 9 | [Luna](https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:06 |
 | 10 | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl) | 3:08 |
-| 11 | [Lakk Shake](https://open.spotify.com/track/0HLOJXIweMIAJZCRu1aVcX) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v), [Veen Ranjha](https://open.spotify.com/artist/0ZjEqhO82XGFs8LTXpySVK) | [Lakk Shake \- Single](https://open.spotify.com/album/2gRmUaxZuhpf7rzJun22ho) | 3:27 |
+| 11 | [Lakk Shake](https://open.spotify.com/track/0f4TujezEkNaVWWjXyvBc8) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v), [Veen Ranjha](https://open.spotify.com/artist/0ZjEqhO82XGFs8LTXpySVK) | [Lakk Shake](https://open.spotify.com/album/30LYhokyyNWQIZGVLKYnr4) | 3:27 |
 | 12 | [Jatt Khulgey](https://open.spotify.com/track/4imfyd9dOBWKJ4Wrek0t8x) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Jatt Khulgey](https://open.spotify.com/album/5rGHWutfVM3vM6UMIdVMg8) | 3:05 |
 | 13 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 |
 | 14 | [Jattiye Ni](https://open.spotify.com/track/24KWB5VT9fWqtj5bUyPnoq) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jattiye Ni](https://open.spotify.com/album/4sISXOYpISfwZI6RmGWfJA) | 3:01 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 50 | [Tankha](https://open.spotify.com/track/0L4uTenn6ln6mVxz1hr2co) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Tankha \- Single](https://open.spotify.com/album/6646YdKCiWNHAtqBvccQGW) | 2:58 |
 | 51 | [Palazzo](https://open.spotify.com/track/2marPty0BAvrH10VMO5DoJ) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [Palazzo \- Single](https://open.spotify.com/album/5JqCnZ1DQzpcTSXCITp2pF) | 3:22 |
 
-Snapshot ID: `MCw2ZWNmNWE2N2I3YWY3NjA3YjYwNTg4YmE2ZTc0ZjY3ODZlOTM1NWQ4`
+Snapshot ID: `MCwzYTVkMDdjMWRiOGViZTYyYzI4NmNhYTAxNjBlZTc4ZDczNDU1Zjg2`

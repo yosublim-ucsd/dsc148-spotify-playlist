@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Alcione e mais mulheres icônicas para serem ouvidas no volume máximo! Foto: Alcione
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,284 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,289 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Como Você](https://open.spotify.com/track/0pcrKqGThVs7bL6WF179sj) | [Iane Gonzaga](https://open.spotify.com/artist/3aDBoLAOsKOZlq0z1lMQvo) | [Como Você](https://open.spotify.com/album/4smSB2kfrHwyJwiQXqXoPK) | 3:15 |
 | 50 | [Deságua](https://open.spotify.com/track/2GMPFXQWfYKjKXRlxBsRlc) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:34 |
 
-Snapshot ID: `MCwxZjRiMzllODU2OGIxOTk1MjAzMTY0MTcxZjZmM2IzMTZkYTFlMmNl`
+Snapshot ID: `MCw3NDAwMzI5YjI3ZjBjMTQ4ZmVhMjUzNzU3YzUwY2ExZjMyOWFjYTlm`

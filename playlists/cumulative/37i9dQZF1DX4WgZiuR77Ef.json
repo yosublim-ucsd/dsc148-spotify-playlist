@@ -1222,10 +1222,44 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 235480,
       "name": "Gonna Get In My Way",
       "url": "https://open.spotify.com/track/6pebyG1lz94gB0qxjTyIs2"
+    },
+    {
+      "album": {
+        "name": "The Deplar Effect",
+        "url": "https://open.spotify.com/album/0X6LMZFfnQ2uU8mi0LHN6A"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Floki Sessions",
+          "url": "https://open.spotify.com/artist/601FZXyKDoyE6gWYNNWOWj"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+        },
+        {
+          "name": "Chad Pike",
+          "url": "https://open.spotify.com/artist/0WfL5KgBtjVks1wcXimVnP"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235480,
+      "name": "Gonna Get In My Way",
+      "url": "https://open.spotify.com/track/4zp6u2mrqJ74UZ1fqUeeMv"
     },
     {
       "album": {
@@ -2190,10 +2224,36 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 256187,
       "name": "Less Is More",
       "url": "https://open.spotify.com/track/4jiEXf9FQjVIMpM92iD9oe"
+    },
+    {
+      "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/67EtfqS5J2ulb3REDnoq1q"
+      },
+      "artists": [
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+        },
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256187,
+      "name": "Less Is More",
+      "url": "https://open.spotify.com/track/6mpWZETzQ8W295Te5aGOxl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-138 songs - 10 hr 20 min
+139 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 | 2023-03-07 |  |
 | [Forever Ravers \- Radio Edit](https://open.spotify.com/track/4UjxYMM2290d7KlCKVSOuQ) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [Speicher 112](https://open.spotify.com/album/4W6gWw1CAqb8W1l8TiiDcp) | 3:20 | 2021-03-01 |  |
 | [Forward Flamingo](https://open.spotify.com/track/5jTUWYHBoAebFimm7yteTN) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Face to Phase](https://open.spotify.com/album/3JAHvyB4gAIjPPxQ6k2XRu) | 4:23 | 2021-03-01 | 2023-03-08 |
-| [Foundation](https://open.spotify.com/track/7vtyAcGAU5XL0ZbJLOsJZH) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Full Circle](https://open.spotify.com/album/2dAYxhDUENuQMgx3L9qUIh) | 4:28 | 2021-03-01 |  |
+| [Foundation](https://open.spotify.com/track/1TYMferbXEsyG5RFT12aOm) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Full Circle](https://open.spotify.com/album/6XlidcWPK4oeEQtMlbxQEX) | 4:28 | 2023-03-07 |  |
+| [Foundation](https://open.spotify.com/track/7vtyAcGAU5XL0ZbJLOsJZH) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Full Circle](https://open.spotify.com/album/2dAYxhDUENuQMgx3L9qUIh) | 4:28 | 2021-03-01 | 2023-11-04 |
 | [Gary Mission](https://open.spotify.com/track/1udH7v82zd03uUlGNhzy9f) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [Loos In Twos \(NRG\)](https://open.spotify.com/album/6kOISrghqryTCzXFl877rx) | 5:00 | 2021-03-01 |  |
 | [Get Down](https://open.spotify.com/track/0Ex4dfzYtS1tgoubw8jLod) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Get Down](https://open.spotify.com/album/4RKK2gMGokfiGGGk4l1FiS) | 4:01 | 2023-03-07 |  |
 | [Ghetto Kraviz \- Original Mix](https://open.spotify.com/track/6pGs4VS6BV0WnooovrrxRj) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Nina Kraviz](https://open.spotify.com/album/1epNQzaN8mMyuu2rN6DSRM) | 3:44 | 2021-03-01 | 2023-03-08 |

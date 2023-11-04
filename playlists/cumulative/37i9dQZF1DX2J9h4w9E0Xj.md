@@ -4,7 +4,7 @@
 
 > The best new rock on the rise\. Cover: The Linda Lindas
 
-63 songs - 3 hr 16 min
+64 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:51 | 2022-03-24 |  |
 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 | 2022-03-24 |  |
 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 | 2022-03-24 |  |
-| [SENSITIVE](https://open.spotify.com/track/7iOTB9EaWdIV7QmzDAGIce) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [SENSITIVE](https://open.spotify.com/album/0o8Bu11t3vEILxUdzLyyBx) | 2:15 | 2022-03-24 |  |
+| [SENSITIVE](https://open.spotify.com/track/0AJkuCbVQRTrnyw02qvdJg) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/0k0GPKeDSFDkxiSw2EnrHo) | 2:15 | 2022-03-24 |  |
+| [SENSITIVE](https://open.spotify.com/track/7iOTB9EaWdIV7QmzDAGIce) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [SENSITIVE](https://open.spotify.com/album/0o8Bu11t3vEILxUdzLyyBx) | 2:15 | 2022-03-24 | 2023-11-04 |
 | [SO TIRED](https://open.spotify.com/track/7CiD9yJIfJshJEFwvgjPEq) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [FRENCH FRIES](https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm) | 3:35 | 2022-03-24 |  |
 | [Stained](https://open.spotify.com/track/28Fhh3sLYSeqXij1PM9wHW) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Stained](https://open.spotify.com/album/4HLLeKI7DK3PXDT9OSCzgy) | 3:36 | 2022-03-24 |  |
 | [Target Practice](https://open.spotify.com/track/6I2kg7KS6otbKx6uKYs2OE) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Target Practice](https://open.spotify.com/album/16J5UoAKGvk7w6gOqNzubI) | 2:30 | 2022-03-24 |  |

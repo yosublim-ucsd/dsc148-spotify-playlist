@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-154 songs - 10 hr 33 min
+155 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [C.U.D.I \(Can U Dig It\)](https://open.spotify.com/track/1YNejxrTddSkGseyZRDZRG) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:43 | 2023-09-28 |  |
 | [Came In Sauce](https://open.spotify.com/track/6JIJFyLJsMnt5zT9PkvXKX) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Came In Sauce](https://open.spotify.com/album/3fOTJS5RWUHNyqZ4OzwQBJ) | 3:05 | 2023-04-18 | 2023-09-29 |
 | [Candle Flame](https://open.spotify.com/track/1Ad2HcIX9zBqoWRvxtpYGf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:54 | 2023-09-28 |  |
-| [Care Less \(feat\. Mafro\)](https://open.spotify.com/track/16eLGXZkS8zudq5MtS8pw4) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Care Less \(feat\. Mafro\)](https://open.spotify.com/album/1oke3BISuMUHhHSxfPI4Ee) | 3:05 | 2023-09-28 |  |
+| [Care Less \(feat\. Mafro\)](https://open.spotify.com/track/16eLGXZkS8zudq5MtS8pw4) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Care Less \(feat\. Mafro\)](https://open.spotify.com/album/1oke3BISuMUHhHSxfPI4Ee) | 3:05 | 2023-09-28 | 2023-11-04 |
+| [Care Less \(feat\. Mafro\)](https://open.spotify.com/track/75WWh4xWED0GSpXbiHgS8Y) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Care Less \(feat\. Mafro\)](https://open.spotify.com/album/3Afm0bArE1APMnbS0shw69) | 3:05 | 2023-09-28 |  |
 | [Cassius 1999 \(Radio Edit\)](https://open.spotify.com/track/4CHGyhVoq5AVpG47klsVrL) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [1999 \(Deluxe Edition\)](https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43) | 3:41 | 2023-09-28 |  |
 | [Caught Up \(feat\. Phony Ppl\)](https://open.spotify.com/track/0rvxWzdAmOr6hzBPyLxFvR) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 3:01 | 2022-03-23 | 2023-04-19 |
 | [CEO of the friendship group](https://open.spotify.com/track/0LBvqSkfl9FgOuKYg04l1s) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [CEO of the friendship group](https://open.spotify.com/album/1s7zUfyNtrsXXoKvRGrNV1) | 1:48 | 2023-09-28 |  |

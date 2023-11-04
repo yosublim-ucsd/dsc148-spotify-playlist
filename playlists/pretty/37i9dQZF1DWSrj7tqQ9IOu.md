@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Alice et Moi
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,024 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,043 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 37 | [Marathon](https://open.spotify.com/track/65Jfx0QMcK8YBSeILwgXZx) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [Marathon](https://open.spotify.com/album/5uiYpDm2jyWh7rrb3mFuMm) | 3:02 |
 | 38 | [Doucement](https://open.spotify.com/track/7CryBekeeP8H2xrkkOQ7y2) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g) | [Doucement](https://open.spotify.com/album/5uUjeCBEOZglFeYSo6ehIG) | 2:24 |
 | 39 | [Sparks](https://open.spotify.com/track/4qqxG6nXJPFN2SptIp2kxC) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Eternal Lover](https://open.spotify.com/album/79V882G7xyoYxmMqhEzqFX) | 3:42 |
-| 40 | [sois en sûre](https://open.spotify.com/track/4og5X5Y2gvX3UN80eWe46p) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [aupitape 1: hortensia](https://open.spotify.com/album/3I1vs7XOz164tMAaICcxi7) | 2:53 |
+| 40 | [sois en sûre](https://open.spotify.com/track/3tF6NK7UHgMhNZGRz0pirj) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [aupitape 1: hortensia](https://open.spotify.com/album/51qJqPSkLjZduPCVDFOJUc) | 2:53 |
 | 41 | [Paris cyclone](https://open.spotify.com/track/6RWkgGCxCCZxZplgL2CHsn) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Paris cyclone](https://open.spotify.com/album/4vSFzEL2EvWRK02kaGwC4N) | 2:51 |
 | 42 | [Burning House](https://open.spotify.com/track/2VHE71w44Y2xjA8pSoN8tp) | [Peter and the Roses](https://open.spotify.com/artist/29HCxaihPBQDqCyDxbaWjE), [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Burning House](https://open.spotify.com/album/6De2kkNHabZmLoTcTdLvf8) | 4:12 |
 | 43 | [Polka \(feat\. Mathieu Boogaerts\)](https://open.spotify.com/track/5bDAWKeNJbEpIMqaUx5GfR) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj), [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Polka \(feat\. Mathieu Boogaerts\)](https://open.spotify.com/album/1VuQsHuRsr1KMPjysZuDs8) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [HOW STRANGE?](https://open.spotify.com/track/4IQw9pS2PfMsYYeTkZ5CGy) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [HOW STRANGE?](https://open.spotify.com/album/29KjlAdATsp7XF6Pp08fXa) | 2:57 |
 | 50 | [Cinéma](https://open.spotify.com/track/6KXJymOSI776EMEgY96JbP) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO), [Zahia Dehar](https://open.spotify.com/artist/5b6Y4VfGSc8rw3XA7PZPDh) | [Rien De Personnel](https://open.spotify.com/album/5kO9QAxCNOKUwSQuvi4KAO) | 3:09 |
 
-Snapshot ID: `MCwzMDg0Zjc5NmM4NGE0MzRkYWViNDMwMDdkOGFkY2NiZGE5NjJiYjEy`
+Snapshot ID: `MCxlNWYwZGVhZGNkNDc2NWY3YTNmNmNhMTAxNTFkMzZlMmYxOGIwOTZi`

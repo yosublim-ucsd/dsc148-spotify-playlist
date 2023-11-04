@@ -2004,10 +2004,28 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 261306,
       "name": "Oh Baby",
       "url": "https://open.spotify.com/track/22XovWKiIxAM59jrRMJQZ0"
+    },
+    {
+      "album": {
+        "name": "The Private World of Paradise",
+        "url": "https://open.spotify.com/album/1QSnUfKZg7uaUPjoyfh1p3"
+      },
+      "artists": [
+        {
+          "name": "Wake Owl",
+          "url": "https://open.spotify.com/artist/2lnn5H36McBxbyhPYg10oj"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261306,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/7tMR9dwrtJXba6Y56rvJXc"
     },
     {
       "album": {

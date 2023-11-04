@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,020 likes - 115 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,163 likes - 115 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 58 | [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:12 |
 | 59 | [I Am A Man Of Constant Sorrow \- Radio Edit](https://open.spotify.com/track/1eHmxX8fhEjVD8U4u6pfql) | [The Soggy Bottom Boys](https://open.spotify.com/artist/3T0CG1MKkAu9rxA2ezgyLC), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [O Brother, Where Art Thou? \(Music From The Motion Picture / Deluxe Edition\)](https://open.spotify.com/album/61tm5F4leYEEoPPcqkOblM) | 3:09 |
 | 60 | [Four Strong Winds \- Live](https://open.spotify.com/track/2UZlej6pJ5oUV28LfVoh5R) | [Ian & Sylvia](https://open.spotify.com/artist/2QkNXWhQoTVUMyS9OIDP0H) | [Live At Newport](https://open.spotify.com/album/1hGrQ5KIfy7FbAr3cRcUzs) | 4:25 |
-| 61 | [Catch the Wind](https://open.spotify.com/track/6aXKbU2QGsOms8UT3eUOg1) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/3lpCSdIUmTWkb3BrAxDZSR) | 2:53 |
+| 61 | [Catch the Wind](https://open.spotify.com/track/505Pd7CPHoewIE3Io2EpWd) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [What's Bin Did and What's Bin Hid](https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y) | 2:53 |
 | 62 | [Stoned Soul Picnic](https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl) | [Laura Nyro](https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV) | [Time And Love: The Essential Masters](https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP) | 3:47 |
 | 63 | [Poncho & Lefty](https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [The Late Great Townes Van Zandt](https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6) | 3:40 |
 | 64 | [Hurdy Gurdy Man](https://open.spotify.com/track/7AL6qzIDHIX7pEUWrzNiIs) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [The Hurdy Gurdy Man](https://open.spotify.com/album/22fHNsb3nrjDdPoKF7kdPz) | 3:13 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 114 | [I'll Never Find Another You](https://open.spotify.com/track/6Ln9F9lZNMgV5Ht87z9Bd0) | [The Seekers](https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV) | [The Ultimate Collection](https://open.spotify.com/album/2bhcZbOcrAFH69kD3TLFB0) | 2:42 |
 | 115 | [Alice's Restaurant Massacree](https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 18:36 |
 
-Snapshot ID: `MCw2MDAxNTRlN2Y0MDYxOTIzNjlhOTlmN2E2ZmE2YzljOTkxNGEzOTRi`
+Snapshot ID: `MCw0N2U1MDgxMDliZjczNWU3ZTdmOWExNThhYmUwYmI5NDU1YTIzMzZk`

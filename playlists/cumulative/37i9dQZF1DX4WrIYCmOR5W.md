@@ -4,7 +4,7 @@
 
 > Des chansons qui vous feront rire, vous et vos enfants
 
-28 songs - 1 hr 22 min
+29 songs - 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Papayou](https://open.spotify.com/track/7iCol2HISkTo8kv8WC3Ydr) | [Carlos](https://open.spotify.com/artist/5BxSkqB9akjCvWjFig3HdU) | [Cristal collection](https://open.spotify.com/album/4VStD0LHwgI6ok4kmoKVZY) | 3:02 | 2021-05-04 |  |
 | [Ponga \- Le pingouin judoka](https://open.spotify.com/track/6gCcMHX4WODRUy1jqWfuWZ) | [VaVa](https://open.spotify.com/artist/309eMzBSqbIxMyd6W9zUpI) | [Ponga \(Le pingouin judoka\)](https://open.spotify.com/album/59d5Hat4zxyL10RaAdhlRl) | 2:20 | 2021-05-04 |  |
 | [Poussez\-vous les moches !](https://open.spotify.com/track/2Uj8DFlM0dkIvoTMTCk7NT) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Mortelle Adèle](https://open.spotify.com/artist/1hSghuZf5K4cnrNz5QxetO) | [10 ans d'Enfantillages !](https://open.spotify.com/album/20yuAjZhTVhDHcYx6dep1w) | 3:27 | 2021-05-04 |  |
-| [Tata Yoyo](https://open.spotify.com/track/7ulqjkcjg5aeMgyYD2SIyJ) | [Annie Cordy](https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot) | [Les indispensables](https://open.spotify.com/album/3elYVEC4r8jn73Ekqk26mm) | 2:34 | 2021-05-04 |  |
+| [Tata Yoyo](https://open.spotify.com/track/09Jsup6YqSLxnWeqJsA2ht) | [Annie Cordy](https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot) | [Tata yoyo](https://open.spotify.com/album/3eMAg9LwfpmO0lVr2Dl74E) | 2:32 | 2021-05-04 |  |
+| [Tata Yoyo](https://open.spotify.com/track/7ulqjkcjg5aeMgyYD2SIyJ) | [Annie Cordy](https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot) | [Les indispensables](https://open.spotify.com/album/3elYVEC4r8jn73Ekqk26mm) | 2:34 | 2021-05-04 | 2023-11-04 |
 | [Un monde parfait](https://open.spotify.com/track/4Dd8r3d1Tu2mvvjn2Vj4Sg) | [Ilona Mitrecey](https://open.spotify.com/artist/5CNueVdkXCAEod4Zf1dU2D) | [Un monde parfait](https://open.spotify.com/album/5IZz0EpqHjb1gZ9IcQK0ct) | 3:07 | 2021-05-04 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

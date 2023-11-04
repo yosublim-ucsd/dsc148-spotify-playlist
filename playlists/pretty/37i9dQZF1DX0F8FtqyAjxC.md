@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,367 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,373 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 8 | [Places And Spaces](https://open.spotify.com/track/1pYPgA8XdHFQS15HPB41MH) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Places And Spaces](https://open.spotify.com/album/6btV6MDYhXZ2F6ZKKUfvdh) | 6:19 |
 | 9 | [I Want You](https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You \(Deluxe Edition\)](https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW) | 4:34 |
 | 10 | [Gonna Get Over You](https://open.spotify.com/track/3Kbh7QUQvNEBVNB7xzVZJM) | [France Joli](https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr) | [Now!](https://open.spotify.com/album/3sBIVm6KbaEbJHmPHfjc4w) | 4:11 |
-| 11 | [Who Dares To Believe In Me?](https://open.spotify.com/track/2orxZZBLXF40hyBDSqqEGb) | [The Believers](https://open.spotify.com/artist/32ZExi6NKMCjakKJ5GmDRP) | [Who Dares To Believe In Me](https://open.spotify.com/album/7l46E4hSynmCmaSnVmXHdT) | 8:11 |
+| 11 | [Who Dares to Believe in Me?](https://open.spotify.com/track/0kj7OHPi09gnUKek4o3ZHD) | [The Believers](https://open.spotify.com/artist/32ZExi6NKMCjakKJ5GmDRP) | [Who Dares To Believe In Me](https://open.spotify.com/album/3eSr8cPt8StvlBLGCnJDkA) | 8:11 |
 | 12 | [I Surrender \(Disco Soul Radio Mix\)](https://open.spotify.com/track/2NHue5cQJNV5xOSWvno8lh) | [Funk Deluxe](https://open.spotify.com/artist/0vJpKzm0vaMfA2V9cnjt6G) | [I Surrender \(Disco Soul Radio Mix\)](https://open.spotify.com/album/0OVzksUvoC6HwYGoBIxI7f) | 3:36 |
 | 13 | [The Message From The Soul Sisters \- Pt\. 1 & 2](https://open.spotify.com/track/6If7HHTDXpLKxJH44QRdad) | [Myra Barnes](https://open.spotify.com/artist/0O6xQCW6ZqCMYqXgtJ8HuL) | [The Best Of James Brown 20th Century The Millennium Collection Vol\. 3](https://open.spotify.com/album/6rL8qrnYhqUUKnofwJLJN4) | 5:21 |
 | 14 | [Tell Me When You Need It Again, Pts\. 1 & 2](https://open.spotify.com/track/2KtgNbGMTwF9mvyTBM4PUT) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Go for Your Guns](https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l) | 5:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 49 | [Don't Go Lose It Baby](https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Pure Sounds of Africa](https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab) | 6:53 |
 | 50 | [I'm Caught up \(In a One Night Love Affair\) \- 12” Edit](https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [I'm Caught Up \(In a One Night Love Affair\)](https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG) | 7:26 |
 
-Snapshot ID: `MCw1ZjY2NjFiYzQyZjVkNjQ0NjllODk0ZmM2NzM0NzYzMWZlZjliMjc4`
+Snapshot ID: `MCxkN2U4ZmE3MDJjNTdiN2NhYzEyYWIzOWQwYjU0ODQyNTlkYTQ5MTJm`

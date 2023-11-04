@@ -4174,7 +4174,7 @@
     {
       "album": {
         "name": "Daylight",
-        "url": "https://open.spotify.com/album/4cKYeZxPGS8lzCwbXanH0B"
+        "url": "https://open.spotify.com/album/1cFskkIb48mNGkvMoUBAOg"
       },
       "artists": [
         {
@@ -4185,6 +4185,24 @@
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170026,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/3U35aWyWH9kFKRfTGCjD8X"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/4cKYeZxPGS8lzCwbXanH0B"
+      },
+      "artists": [
+        {
+          "name": "Dobrawa Czocher",
+          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
       "duration_ms": 170026,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/3byfmI41dXcU1nwp91qeWK"

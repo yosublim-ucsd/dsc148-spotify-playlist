@@ -4,13 +4,14 @@
 
 > All the music from Barracuda Queens..\. now on Netflix.
 
-23 songs - 1 hr 32 min
+25 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [99 Luftballons](https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:51 | 2023-06-05 |  |
 | [99 Luftballons](https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF) | 3:52 | 2023-06-05 | 2023-11-03 |
-| [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2023-06-05 |  |
+| [Alright](https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv) | 3:00 | 2023-06-05 |  |
+| [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2023-06-05 | 2023-11-04 |
 | [Bizet: Carmen, WD 31, Act 1: Habanera\. "L'amour est un oiseau rebelle" \(Carmen, Chœur\)](https://open.spotify.com/track/3pzBD8BVdrv7VJ7glRYshl) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Michel Plasson](https://open.spotify.com/artist/2fzmIYnCPAZ9LeJFpYcHob), [Angela Gheorghiu](https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44), [Les Éléments](https://open.spotify.com/artist/3M6UtjNuBdRuHaxcWH3EM3), [Orchestre National Du Capitole De Toulouse](https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa) | [Bizet: Carmen](https://open.spotify.com/album/249X9ZjhWATM2KlkcCh9pt) | 4:35 | 2023-06-05 |  |
 | [Block Rockin' Beats](https://open.spotify.com/track/6nGUM3Z0FNJZW9wbNj97Ig) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Brotherhood](https://open.spotify.com/album/7uqmBZKWSQY20q1EMrV8dt) | 4:54 | 2023-06-05 |  |
 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:22 | 2023-06-05 |  |
@@ -26,7 +27,8 @@
 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 | 2023-06-05 |  |
 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2023-06-05 |  |
 | [Panis Angelicus](https://open.spotify.com/track/4DCVBVcybvzYhSBI7Uyb8q) | [Adolf Fredrik Girls Choir](https://open.spotify.com/artist/2WLxI4rvr5ErulviUpsPp1) | [Lady Bird \- Soundtrack from the Motion Picture](https://open.spotify.com/album/6uFGiNNxdkOm03Nd3cEHxG) | 3:33 | 2023-06-05 |  |
-| [Rhythm Is A Dancer](https://open.spotify.com/track/1IWzfq3sLedGQ3fb2hAMBA) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [The Madman's Return](https://open.spotify.com/album/2TrNT4qm7qDIRTUVn9jBW4) | 5:32 | 2023-06-05 |  |
+| [Rhythm Is A Dancer](https://open.spotify.com/track/1IWzfq3sLedGQ3fb2hAMBA) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [The Madman's Return](https://open.spotify.com/album/2TrNT4qm7qDIRTUVn9jBW4) | 5:32 | 2023-06-05 | 2023-11-04 |
+| [Rhythm Is a Dancer](https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [The Madman's Return](https://open.spotify.com/album/4XbUZbCiZynKWMCWFoNSbY) | 5:32 | 2023-06-05 |  |
 | [Saturday Night](https://open.spotify.com/track/2zedBY48WiPY8WV8uCdtRz) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Whigfield](https://open.spotify.com/album/5VkDIwr3T1bnrRTe2dW4yD) | 3:43 | 2023-06-05 |  |
 | [Se på mig](https://open.spotify.com/track/0x29B8qeLXUq5FB7CH8wrz) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf) | [Alla hjärtans dag](https://open.spotify.com/album/22R8mKMHKFTw6GqaKgn8Qd) | 3:07 | 2023-06-05 |  |
 | [Sun Lover](https://open.spotify.com/track/1XhlKQadaisM9eFwXhmb58) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Open Air Volume 2](https://open.spotify.com/album/3MSmL04g7WHN4Czmkld8R2) | 3:11 | 2023-06-05 |  |

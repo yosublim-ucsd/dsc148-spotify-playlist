@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,053 likes - 104 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,096 likes - 104 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 78 | [New Pony](https://open.spotify.com/track/13Vpcq8uIH235ulRNQv9tU) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Horehound](https://open.spotify.com/album/1nxECUyuIZF5JCrO9Xo2jO) | 3:56 |
 | 79 | [Most Likely You Go Your Way and I'll Go Mine \(Live\)](https://open.spotify.com/track/1ztVU8vK82sWK1zQEIWYzP) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [50 Years of Blonde on Blonde \(Live\)](https://open.spotify.com/album/0uyUriz7zOAn1G9sB8zH8e) | 3:37 |
 | 80 | [Wicked Messenger](https://open.spotify.com/track/6L6ny8iKcFYdvA6CN3AKCR) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi) | 3:48 |
-| 81 | [Wanted Man \- 2009 Remastered Version](https://open.spotify.com/track/3kbUGSzvf1ENLHVEfoEeHH) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Firstborn Is Dead \(2009 Remastered Version\)](https://open.spotify.com/album/3ip2AtmEWIwqcdpdnXTx1o) | 5:26 |
+| 81 | [Wanted Man](https://open.spotify.com/track/2xtV04J19unZ3Lp1LQmtcb) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Firstborn Is Dead \(2009 \- Remaster\)](https://open.spotify.com/album/1c3SdXnHhUyNigHQIQVAAQ) | 5:26 |
 | 82 | [Make you feel my love](https://open.spotify.com/track/15P19QDqjFwEo7HHX08G6O) | [Sandra Milagres](https://open.spotify.com/artist/09rHrAbgQb2FaEmr1dYRVZ) | [Red Melancholy](https://open.spotify.com/album/7yX86HG63FygWfS6nkad4J) | 2:27 |
 | 83 | [Maggie's Farm](https://open.spotify.com/track/2t0tVmiSkHWvKgojpjO21Z) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Renegades](https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi) | 6:34 |
 | 84 | [Stuck Inside of Mobile with the Memphis Blues Again](https://open.spotify.com/track/12RcLzOpPdy4ZBvGh7trvZ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [I'm Not There \(Music From The Motion Picture \- Original Soundtrack\)](https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3) | 6:53 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 103 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/3XtzbjnUGMHUbHpw3yS46L) | [the ORIGINAL SEEKERS](https://open.spotify.com/artist/37uWXC5EdtnuuBUxDvWSoB) | [Back To Our Roots](https://open.spotify.com/album/0Aye9uEvEC6S6ngXg4w7p2) | 3:14 |
 | 104 | [The Times They Are A\-Changin'](https://open.spotify.com/track/4OjNq26zx5GvoBwgljFZ1d) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Back in the High Life Again / The Times They Are A\-Changin'](https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg) | 3:49 |
 
-Snapshot ID: `MCw3ZWUzNmRiNmQzZDBmMjU5MzkwMTAxMjcxZjRmMWYxYjI0M2YwOGYx`
+Snapshot ID: `MCw3ODA5OTgzNTNjYzZiNzhkZWMwNmM3MWFhMDQ2OTMwYzQ0M2E4NmU2`

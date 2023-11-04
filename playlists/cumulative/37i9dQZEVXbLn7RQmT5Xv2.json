@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 178885,
       "name": "Alo Aleky",
       "url": "https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp"
@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-04-15",
+      "date_removed": null,
       "duration_ms": 331714,
       "name": "Baoul Aady",
       "url": "https://open.spotify.com/track/1NkW18VV3QVOCuoVQsBC84"
@@ -4336,7 +4336,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 200930,
       "name": "Hatwhashna",
       "url": "https://open.spotify.com/track/3gAYSjeXZ5XbicBFX5G0Ya"
@@ -5306,7 +5306,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 168695,
       "name": "Konty 2olely",
       "url": "https://open.spotify.com/track/49odA1EtwSkPefTEeIwqBx"
@@ -6638,7 +6638,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 222760,
       "name": "Mesh Shayfenhom ( Coke Studio Egypt 2023 )",
       "url": "https://open.spotify.com/track/7a4fFS88i5CiAn3zCkfoGk"
@@ -8288,6 +8288,124 @@
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
+    },
+    {
+      "album": {
+        "name": "Rajieen (feat. Saif Safadi, Dana Salah, Ghaliaa, Afroto, NORDO, Shroof, A5rass - \u0627\u0644\u0627\u062e\u0631\u0633, Issam Alnajjar, Balti, Amir Eid, Wessam Qutob, Dina El Wedidi, Bataineh, Omar Rammal, Alyoung, Randar, Vortex, Smallx, A.L.A, Fuad Gritli, Donia Wael, zeyne, Marwan Moussa, Marwan Pablo & Dafencii)",
+        "url": "https://open.spotify.com/album/12tSNxIeH5kpAcfcRSJ3xs"
+      },
+      "artists": [
+        {
+          "name": "Rajieen",
+          "url": "https://open.spotify.com/artist/5d3WMs0Lj3wZCOsHkOZTx2"
+        },
+        {
+          "name": "Saif safadi",
+          "url": "https://open.spotify.com/artist/5YOpMW6wgD0l50bK1DBq74"
+        },
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        },
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        },
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "NORDO",
+          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
+        },
+        {
+          "name": "Shroof",
+          "url": "https://open.spotify.com/artist/3tPp17iDBNUmISlc1KaiDW"
+        },
+        {
+          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
+          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
+        },
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "Balti",
+          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
+        },
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        },
+        {
+          "name": "Wessam Qutob",
+          "url": "https://open.spotify.com/artist/1SPocxtvn6FfdFayQ8DBO2"
+        },
+        {
+          "name": "Dina El Wedidi",
+          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
+        },
+        {
+          "name": "Bataineh",
+          "url": "https://open.spotify.com/artist/2dCGCGq8Q1u0ku3SMPqUx4"
+        },
+        {
+          "name": "Omar Rammal",
+          "url": "https://open.spotify.com/artist/0KYZFXPx8PlT2TdhHpmoIJ"
+        },
+        {
+          "name": "Alyoung",
+          "url": "https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C"
+        },
+        {
+          "name": "Randar",
+          "url": "https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk"
+        },
+        {
+          "name": "Vortex",
+          "url": "https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP"
+        },
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+        },
+        {
+          "name": "A.L.A",
+          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+        },
+        {
+          "name": "Fuad Gritli",
+          "url": "https://open.spotify.com/artist/1HvRb1MP3fwXI4MhLPDR4j"
+        },
+        {
+          "name": "Donia Wael",
+          "url": "https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1"
+        },
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        },
+        {
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499881,
+      "name": "Rajieen (feat. Saif Safadi, Dana Salah, Ghaliaa, Afroto, NORDO, Shroof, A5rass - \u0627\u0644\u0627\u062e\u0631\u0633, Issam Alnajjar, Balti, Amir Eid, Wessam Qutob, Dina El Wedidi, Bataineh, Omar Rammal, Alyoung, Randar, Vortex, Smallx, A.L.A, Fuad Gritli, Donia Wael, zeyne, Marwan Moussa, Marwan Pablo & Dafencii)",
+      "url": "https://open.spotify.com/track/5ltxZlXp4kBQHSPjqbjJ8Q"
     },
     {
       "album": {
@@ -10548,7 +10666,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 179284,
       "name": "W El 7al Eh",
       "url": "https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB"
@@ -11600,6 +11718,24 @@
       "duration_ms": 172232,
       "name": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062d\u0644\u0648 \u062f\u0647",
       "url": "https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0646\u0627 \u0632\u0639\u0644\u062a\u0643",
+        "url": "https://open.spotify.com/album/2kMAQwPx9QOZedvJ5Np61H"
+      },
+      "artists": [
+        {
+          "name": "Mostafa Elnesr",
+          "url": "https://open.spotify.com/artist/3qMttOQzAJd5k3kbFPurvA"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "\u0627\u0646\u0627 \u0632\u0639\u0644\u062a\u0643",
+      "url": "https://open.spotify.com/track/0kQtFJbzjpVkrUQyh7hDD5"
     },
     {
       "album": {

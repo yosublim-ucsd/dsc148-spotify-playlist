@@ -3614,7 +3614,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 149584,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
@@ -3672,6 +3672,24 @@
       "duration_ms": 153391,
       "name": "Red Hot - Original",
       "url": "https://open.spotify.com/track/5nfPJteJ9PWGmD3j6iPH7s"
+    },
+    {
+      "album": {
+        "name": "Sun Records Originals: Flyin' Saucers Rock & Roll",
+        "url": "https://open.spotify.com/album/0bj7M9oajGqNlBM7H3CHIS"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149705,
+      "name": "Red Hot - Remastered 2022",
+      "url": "https://open.spotify.com/track/4xDt9STUARW0vyDbPCI9Yi"
     },
     {
       "album": {

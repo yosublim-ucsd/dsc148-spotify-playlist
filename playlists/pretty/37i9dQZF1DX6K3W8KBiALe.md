@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 
 > Chill to the familiar classical pieces featured in award\-winning films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,899 likes - 69 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,989 likes - 69 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Canon and Gigue in D Major, P\. 37: I\. Canon](https://open.spotify.com/track/0oYhNbyAunVTXJTodfZQ3t) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Stuttgart Chamber Orchestra](https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF), [Bernhard Güller](https://open.spotify.com/artist/6tMw5y4zf34W31fxDjl1vy) | [Romanza](https://open.spotify.com/album/3TMdQ73xCI3Ip8FQ9hQXF7) | 4:45 |
+| 1 | [Pachelbel \- Canon In D](https://open.spotify.com/track/7J28l1yksKUiTceLmFr3tS) | [Hollywood Symphony Orchestra](https://open.spotify.com/artist/2IkPzO13cjtMkSC9pYDQaj) | [The Essential Wedding Album](https://open.spotify.com/album/4XR9ze12ah4qR1POsV2wSP) | 4:51 |
 | 2 | [Piano Concerto No\. 1 in E Minor, Op\. 11: II\. Romance\. Larghetto](https://open.spotify.com/track/31WC5psMchxL8LHUjfyi0f) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Arthur Rubinstein](https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9), [Stanisław Skrowaczewski](https://open.spotify.com/artist/0VmiaOzhvopQVjmAhjDQTw), [The New Symphony Orchestra Of London](https://open.spotify.com/artist/2tXt8tQb1z7e9xrx5RWKie) | [Rubinstein Collection, Vol\. 44: All Chopin: Piano Concertos Nos\. 1/2; Trois nouvelles etudes, Op\. posth.](https://open.spotify.com/album/5pvXSio4z7B7gkN1fMH2kr) | 10:46 |
 | 3 | [Barber: Adagio for Strings](https://open.spotify.com/track/1CSaCKPIp2yCIDL3t7Fyau) | [Samuel Barber](https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) | [Samuel Barber \- Adagio](https://open.spotify.com/album/4zW79KZjDenZMLXSGU0Mqu) | 8:57 |
 | 4 | [An der schönen blauen Donau, Op\. 314](https://open.spotify.com/track/4J0e4gEqaLQlG5EM0wws1K) | [Johann Strauss II](https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Strauss, J.: An der schönen blauen Donau \(The Blue Danube\)](https://open.spotify.com/album/4Hq6U8NMSqCCXKIxTtO2uX) | 11:47 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 | 68 | [Concerto For Clarinet & String Orchestra](https://open.spotify.com/track/7jmaYAqOm1jV782F84HeDI) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve), [Aaron Copland](https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU) | [The War: A Ken Burns Film \- The Soundtrack](https://open.spotify.com/album/2hhJvyE5fXeLWYNiOhZFhv) | 7:42 |
 | 69 | [Concerto grosso in G Minor, Op\. 6 No\. 8, "Christmas Concerto": Adagio \(Arr\. Davies, Gordon and Tognetti\)](https://open.spotify.com/track/53BYTz0hIZ8fYqLVZarA6R) | [Arcangelo Corelli](https://open.spotify.com/artist/5dmMpIyAVaH6b9FLFgWPrF), [Richard Tognetti](https://open.spotify.com/artist/0kdjTXFwhF9w9Cuscbgccu) | [Música Clásica Para Leer](https://open.spotify.com/album/3kHQIbIevRiOVVPxmBtA9M) | 1:55 |
 
-Snapshot ID: `MCxiZDVmMmU4ZGM1YjNiN2Y2YzRlODNhMjJhZDI3NDZmNWRkOGU4NzAy`
+Snapshot ID: `MCw3Mzg3NmFiYmI3OWM1MTEyMDUyMWYxZGFjNzYzOTYyYmE4M2I4MjNj`

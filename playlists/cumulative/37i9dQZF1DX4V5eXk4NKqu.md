@@ -2,7 +2,7 @@
 
 ### [Ultimate Latin Indie](https://open.spotify.com/playlist/37i9dQZF1DX4V5eXk4NKqu)
 
-> The best Latin Indie tracks right now, featuring Esteman.
+> The best Latin Indie tracks right now, featuring Divino Niño.
 
 269 songs - 15 hr 27 min
 

@@ -749,6 +749,32 @@
     },
     {
       "album": {
+        "name": "All Back to the Mine: Vol, 1: A Collection of Remixes",
+        "url": "https://open.spotify.com/album/3KeJlXOKiOo1HsMb3OFcvg"
+      },
+      "artists": [
+        {
+          "name": "Moloko",
+          "url": "https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO"
+        },
+        {
+          "name": "Francois K",
+          "url": "https://open.spotify.com/artist/2Y9THkKdfe8FfoHAyOY4Tv"
+        },
+        {
+          "name": "Eric Kupper",
+          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 633901,
+      "name": "Forever More (Francois K & Eric Kupper Vocal Mix)",
+      "url": "https://open.spotify.com/track/6SmU2EobP4YEX1puSivNTn"
+    },
+    {
+      "album": {
         "name": "All Back to the Mine: Volume I - A Collection of Remixes",
         "url": "https://open.spotify.com/album/2ugGAPGRIhvfTpnXUntZyW"
       },
@@ -768,7 +794,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 633901,
       "name": "Forever More - Francois K & Eric Kupper Vocal Mix",
       "url": "https://open.spotify.com/track/5bJVa2Rqeote6fN7pRzviI"

@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-158 songs - 14 hr 31 min
+159 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Tea Champ](https://open.spotify.com/track/59YqsVBEWPKQoTlBaxBrv6) | [Waldo's Gift](https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb) | [Tea Champ](https://open.spotify.com/album/7KVpT0JKtocfSeBaSdJ5kJ) | 4:49 | 2022-06-17 | 2022-08-18 |
 | [Tea Champ](https://open.spotify.com/track/6AuELUc2doFfw6dG3ywwZf) | [Waldo's Gift](https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb) | [Tea Champ](https://open.spotify.com/album/58JMPYe89BGfMzJEB7KlHh) | 4:49 | 2022-07-15 |  |
 | [Texas \- Remastered](https://open.spotify.com/track/51E6i5aEaM7SVmxrrbKAwj) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [The Sixteen Men of Tain \(Remastered\)](https://open.spotify.com/album/4WyBgMFtVBmlLqQF8uYzxx) | 5:44 | 2021-01-27 |  |
-| [The Audacity \(feat\. Anomalie\)](https://open.spotify.com/track/2y0w6lpY8SGTuY8LglChi6) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:24 | 2022-10-28 |  |
+| [The Audacity \(feat\. Anomalie\)](https://open.spotify.com/track/2y0w6lpY8SGTuY8LglChi6) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:24 | 2022-10-28 | 2023-11-04 |
+| [The Audacity \(feat\. Anomalie\)](https://open.spotify.com/track/5IUJhfkBBRrvWuxrTA7SnE) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Remember That You Will Die](https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw) | 2:24 | 2022-12-09 |  |
 | [The Jingle](https://open.spotify.com/track/7aLzL6v7NdiBaFH5GVNVMv) | [Agnas Bros](https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp) | [The Jingle](https://open.spotify.com/album/7jyfxLayqHx6fW638doFTo) | 3:52 | 2022-04-01 |  |
 | [The Kipper and the Pork Pie](https://open.spotify.com/track/6pkkUNpoDPhI0dGV72caDx) | [WorldService Project](https://open.spotify.com/artist/1yYpduIG9QUEIh3w2ibm9D) | [Hiding in Plain Sight](https://open.spotify.com/album/2NHruqgKmRD6Jwewz7eU0Y) | 3:42 | 2021-01-27 |  |
 | [The Knew Untitled](https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 4:27 | 2022-09-30 |  |

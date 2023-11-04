@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 
 > Quelques chansons tranquilles pour des moments tendres et complices
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,571 likes - 68 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,573 likes - 68 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 48 | [Nostalgic du cool](https://open.spotify.com/track/5zhgJUGxCvOd8K7qn3BrY8) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Le baptême](https://open.spotify.com/album/76lN7B8wVcozwR3DK7B05j) | 3:41 |
 | 49 | [Les filles d'aujourd'hui](https://open.spotify.com/track/0QprVASPJEbmOhD9P2gcNG) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Une place pour moi](https://open.spotify.com/album/2wghVdeCqQTaOavwTo3yWD) | 4:22 |
 | 50 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
-| 51 | [La sieste](https://open.spotify.com/track/0Hac68gGmbJEDbcWsOQReb) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Le Soldat Rose 2](https://open.spotify.com/album/0VoSSoBOjDUqrUZDxEQ7Br) | 3:17 |
+| 51 | [La sieste \(feat\. Tété\)](https://open.spotify.com/track/1erAsezbhHFWDURC6OGkEj) | [Le Soldat Rose](https://open.spotify.com/artist/2rOCPPNRJnQMkNa5D18Ef2), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Le Soldat Rose 2](https://open.spotify.com/album/6fZCT61LQYLgNuwQkR8JCD) | 3:17 |
 | 52 | [Le baiser](https://open.spotify.com/track/5mVzrfnZncbgZsUGcj2DkU) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 4:10 |
 | 53 | [Ton visage \- Acoustic](https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Des ombres et des lumières \- Live à l'Olympia / 2016](https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX) | 2:54 |
 | 54 | [L'opéra](https://open.spotify.com/track/6xv4Qaypw08v8OceC9cXrY) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [Yves Duteil chante les enfants](https://open.spotify.com/album/5zdcIJG9qVGmKL7qb1Wjx3) | 2:35 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 67 | [I’ll See You In My Dreams](https://open.spotify.com/track/0SOeHOnrKeUCSoLD1lbjcj) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Eternels jusqu’à demain](https://open.spotify.com/album/6h57y7voPpiRDYnh4X6hqg) | 3:04 |
 | 68 | [Les Secrets Chuchotés](https://open.spotify.com/track/3DnoHIA9BPsMBNVnMYbYIL) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [D’Une Tonne A Un Tout Petit Poids](https://open.spotify.com/album/3IZYKZL2tUqYKUL9EAbPpt) | 4:13 |
 
-Snapshot ID: `MCw3YzkzMTRmYmEwMDFjNjdhOWIzODQ2ZDdkMGQ0MGM5NjJkNzVlOWJk`
+Snapshot ID: `MCxiOGQ4MmQ2ZjhiYWUzOTIzMDIzMDRhZTBmYzQ5YzcyNTJjMmQzZGIx`

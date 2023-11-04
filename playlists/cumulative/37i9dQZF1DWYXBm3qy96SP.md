@@ -4,7 +4,7 @@
 
 > ザ・ビートルズのラストシングル「Now And Then」到着！話題のロックヒットをVolume上げて爆音で。Cover: The Beatles\(ザ・ビートルズ\)
 
-760 songs - 1 day 20 hr 1 min
+761 songs - 1 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,7 +417,7 @@
 | [Meet the Star](https://open.spotify.com/track/0XyNVZN0PLXwq3NtGU4bKi) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Meet The Star](https://open.spotify.com/album/6jFN6hTXDjHQ2hgCqfIGYp) | 3:26 | 2023-06-22 | 2023-06-30 |
 | [Meet You There 2.0](https://open.spotify.com/track/2VXnCZzPB9lOm19D1TDX0S) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Meet You There 2.0](https://open.spotify.com/album/0jKCIVawS2LS6yUl24YNdb) | 3:22 | 2023-05-04 | 2023-05-12 |
 | [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 | 2023-04-06 | 2023-07-29 |
-| [Mercy Killing](https://open.spotify.com/track/7eHvmbbmUKT1AYtPmzr7Ww) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Mercy Killing](https://open.spotify.com/album/2zpMB0CBeBuQu15Mx2bZIX) | 3:49 | 2023-11-02 |  |
+| [Mercy Killing](https://open.spotify.com/track/7eHvmbbmUKT1AYtPmzr7Ww) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Mercy Killing](https://open.spotify.com/album/2zpMB0CBeBuQu15Mx2bZIX) | 3:48 | 2023-11-02 |  |
 | [Mermaid Vampire](https://open.spotify.com/track/4HE6BDc742Jv5cSkLVNXTJ) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Mermaid Vampire](https://open.spotify.com/album/6DY1np2mZ7sr1bwVAfisZG) | 2:02 | 2023-07-13 | 2023-07-21 |
 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 | 2023-10-19 |  |
 | [METALI!! \- feat\. Tom Morello](https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [METALI!! \(feat\. Tom Morello\)](https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt) | 3:28 | 2023-08-17 | 2023-09-15 |
@@ -707,7 +707,8 @@
 | [Walking Dead Man](https://open.spotify.com/track/1xfulPqExHy8FX2zhmtosr) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Walking Dead Man](https://open.spotify.com/album/5JkvrO20OrKw5io3Vz11My) | 3:29 | 2023-10-19 | 2023-10-27 |
 | [Walking On Ice](https://open.spotify.com/track/0QpjxbyUFXkGYpBgFsza2V) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [Walking On Ice](https://open.spotify.com/album/4rzlFh4dPWc2rh7C68lDTk) | 2:43 | 2023-10-05 | 2023-10-13 |
 | [Wallow in It](https://open.spotify.com/track/6lrTEb0STphGs4FmsrFktB) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Wallow in It](https://open.spotify.com/album/4X5cguwixSn1TppGbxdGRG) | 3:25 | 2023-03-16 | 2023-03-31 |
-| [Wanna Be In A Sad Mood](https://open.spotify.com/track/61ZsLyi4omqZs3H72sm5sb) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/3jMkyqeHsfveTdu30JyGxn) | 4:14 | 2023-11-02 |  |
+| [Wanna Be In A Sad Mood](https://open.spotify.com/track/5RLbFht9k5o0MRcnR4vvWq) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/7FgKndFjCgBXmLl7hcNvRo) | 4:14 | 2023-11-02 |  |
+| [Wanna Be In A Sad Mood](https://open.spotify.com/track/61ZsLyi4omqZs3H72sm5sb) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/3jMkyqeHsfveTdu30JyGxn) | 4:14 | 2023-11-02 | 2023-11-04 |
 | [War Machine](https://open.spotify.com/track/5HrNebS0Z8YJq2xz4zZ9zl) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [War Machine](https://open.spotify.com/album/69gV3gtOzI0kudt8F68tWB) | 3:59 | 2023-10-26 |  |
 | [wasted.](https://open.spotify.com/track/6IaWNJ6qOWlGeHBiiTtsv7) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ) | [wasted.](https://open.spotify.com/album/30XsDPphme5KwIyvzx9jys) | 3:19 | 2023-03-23 | 2023-03-31 |
 | [Wasteland](https://open.spotify.com/track/7qiMle24h8ZpMlM1MJz6bE) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Wasteland](https://open.spotify.com/album/4JcEWdNgAifwRcjqLpTY5o) | 2:53 | 2023-09-21 | 2023-09-29 |

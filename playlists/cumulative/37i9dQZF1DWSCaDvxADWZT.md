@@ -4,7 +4,7 @@
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 
-185 songs - 11 hr 40 min
+187 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [Take Me to Church](https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:01 | 2022-03-11 | 2022-11-13 |
 | [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 | 2022-03-11 |  |
 | [Teenage Kicks](https://open.spotify.com/track/1feNbmqLpO76f6cPcgnZvb) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/4OYjeX6ByIDmklZLMUSxhT) | 2:28 | 2021-03-17 | 2022-07-29 |
-| [Teenage Kicks](https://open.spotify.com/track/7ATyLePQnHxFk5kzxWCcsh) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/2CGEIN4OnLWDewCT7C4JLh) | 2:28 | 2022-03-11 |  |
+| [Teenage Kicks](https://open.spotify.com/track/6UP5zTAuR4NFc1uZ3MHjvA) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/6lpgN6d9rlnFpZBzyQlDrE) | 2:28 | 2023-03-10 |  |
+| [Teenage Kicks](https://open.spotify.com/track/7ATyLePQnHxFk5kzxWCcsh) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/2CGEIN4OnLWDewCT7C4JLh) | 2:28 | 2022-03-11 | 2023-11-04 |
 | [Tell Me Ma](https://open.spotify.com/track/0Z3p6q8nol4dlf3b0WRI1a) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 2:43 | 2022-03-11 |  |
 | [Tell Me Ma](https://open.spotify.com/track/7BZOYDhoCAR2AkvGBrj6vw) | [Sham Rock](https://open.spotify.com/artist/3btIWfhXaf5db1gpLbXuB3) | [Tell Me Ma](https://open.spotify.com/album/6vFdEOGr37S7fYj9L0IZRD) | 3:54 | 2022-03-11 |  |
 | [Thank You for the Days](https://open.spotify.com/track/55FZPAx031YcfhW1ZCN1nG) | [Luke Kelly](https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9) | [The Best That Is Irish](https://open.spotify.com/album/7J0sAzihQWfUvsqVPpOuUt) | 2:36 | 2021-03-17 | 2023-03-11 |
@@ -188,8 +189,9 @@
 | [Whiskey in the Jar](https://open.spotify.com/track/1wnnHnjWQgcrD2qT05JXD1) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [Jack's Heroes](https://open.spotify.com/album/1l2aXTEW3taviAQmaJMRuF) | 2:41 | 2021-03-17 | 2022-07-29 |
 | [Whiskey in the Jar](https://open.spotify.com/track/7jLQDriIMVa6hu2hjvWZPG) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [30:30 The Essential Collection](https://open.spotify.com/album/279O7PEJcUGZMPIlIPaetJ) | 2:41 | 2022-03-11 | 2022-11-13 |
 | [Whiskey In The Jar](https://open.spotify.com/track/2uLx3Gka9TGCz9Zgu7Uwav) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ), [Derek Varnals](https://open.spotify.com/artist/11lUPJP9GC5j2RRA7zVddw) | [Shades Of A Blue Orphanage](https://open.spotify.com/album/6jXNB46aXlL2oWY03GtFHy) | 5:45 | 2021-03-17 | 2023-03-11 |
-| [You're Such a Good Looking Woman](https://open.spotify.com/track/5AMrYxg3lrDzuq0Ldom3jb) | [Joe Dolan](https://open.spotify.com/artist/3sebqZKFZ8aJsgQu4YaKQh) | [Make Me an Island \- The Pye Anthology](https://open.spotify.com/album/34Wi5j7R2bIdS7qILLEV8K) | 2:56 | 2022-03-11 |  |
+| [You're Such a Good Looking Woman](https://open.spotify.com/track/5AMrYxg3lrDzuq0Ldom3jb) | [Joe Dolan](https://open.spotify.com/artist/3sebqZKFZ8aJsgQu4YaKQh) | [Make Me an Island \- The Pye Anthology](https://open.spotify.com/album/34Wi5j7R2bIdS7qILLEV8K) | 2:56 | 2022-03-11 | 2023-11-04 |
 | [You're Such A Good Looking Woman](https://open.spotify.com/track/2i0WVW0yJ5spZghfiAqwFL) | [Joe Dolan](https://open.spotify.com/artist/3sebqZKFZ8aJsgQu4YaKQh) | [The Platinum Collection](https://open.spotify.com/album/1UYjpNVperb4GXG25ozRzq) | 2:57 | 2021-03-17 | 2022-07-29 |
+| [You're Such a Good Looking Woman](https://open.spotify.com/track/4JRDPPLROcM4Csy5rJLZK6) | [Joe Dolan](https://open.spotify.com/artist/3sebqZKFZ8aJsgQu4YaKQh) | [Legends of Irish Music: Joe Dolan](https://open.spotify.com/album/4a78TE1xzQ5w7Zkj8kwaSR) | 2:57 | 2023-03-10 |  |
 | [Zombie](https://open.spotify.com/track/6xy6jNeNTYwjnKTDzMyHw2) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L) | 5:06 | 2021-03-17 | 2022-07-29 |
 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 | 2022-03-11 |  |
 | [Zombie](https://open.spotify.com/track/1ybwx3USZGwoSEtenDcMvd) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Halloween Jams 2020](https://open.spotify.com/album/1b9RjoKhEo4jZtS3v7aALc) | 5:07 | 2022-03-11 | 2022-11-14 |

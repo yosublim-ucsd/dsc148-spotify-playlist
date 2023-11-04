@@ -4,7 +4,7 @@
 
 > Lose yourself in the summer daze...
 
-144 songs - 8 hr 2 min
+146 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Colorado](https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:54 | 2022-02-10 |  |
 | [Come Along \(feat\. A.GIRL\)](https://open.spotify.com/track/45ugdO4y9lQLK5z2RJAvdC) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm), [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW) | [Come Along \(feat\. A.GIRL\)](https://open.spotify.com/album/1rRTVXcs63ii6c5TvomOG5) | 3:10 | 2022-02-10 |  |
 | [Coming Back \(feat\. SZA\)](https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:15 | 2022-02-10 |  |
-| [Complicated \(feat\. Young Franco\)](https://open.spotify.com/track/0qjOgJ8BLIt5d9VgYEYq75) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Complicated \(feat\. Young Franco\)](https://open.spotify.com/album/0W5rlGoHNrLwN35NG1HtTw) | 2:57 | 2022-02-10 |  |
+| [Complicated \(feat\. Young Franco\)](https://open.spotify.com/track/0qjOgJ8BLIt5d9VgYEYq75) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Complicated \(feat\. Young Franco\)](https://open.spotify.com/album/0W5rlGoHNrLwN35NG1HtTw) | 2:57 | 2022-02-10 | 2023-11-04 |
+| [Complicated \(feat\. Young Franco\)](https://open.spotify.com/track/2TdAhpmGqB1DhzI0Auo9lq) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Panna Cotta](https://open.spotify.com/album/76bR8wlB1DS5iaKqFy3fWH) | 2:57 | 2022-02-10 |  |
 | [Cream Shirt](https://open.spotify.com/track/0FeXe1ip5JvofSszofHYIQ) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Cream Shirt](https://open.spotify.com/album/0krr7Z6jLgFaj613S6ZNjK) | 2:43 | 2022-02-10 |  |
 | [Cream Shirt](https://open.spotify.com/track/7Ljgg20JqyNpye6aT9pQTJ) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Santai Sore](https://open.spotify.com/album/21BAYwPdK3FvPjnytH7FRI) | 2:43 | 2022-02-10 | 2022-11-13 |
 | [DANCE WITH ME TODAY](https://open.spotify.com/track/1rgjeaK2kgI4y2BmZ1Daul) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [DANCE WITH ME TODAY](https://open.spotify.com/album/0ITiZ4HwA76j0IfnjhWklL) | 3:18 | 2022-02-10 |  |
@@ -94,7 +95,8 @@
 | [Photo ID](https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 4:25 | 2022-02-10 |  |
 | [PINCH ME](https://open.spotify.com/track/14QUJhbXCWO90NfZ0mXnGG) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/3rOQe9CrRDdKdLHLzH4BNI) | 2:59 | 2022-02-10 |  |
 | [PINCH ME](https://open.spotify.com/track/6uogFVMnfQbyA93hxEZhd1) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HOW DID WE GET HERE?](https://open.spotify.com/album/41U30ytGycUBqa4qrICXrn) | 2:59 | 2022-02-10 | 2022-10-22 |
-| [Pineapple Pizza](https://open.spotify.com/track/5GY7EgrHztoGJkGXDdhQCR) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Pineapple Pizza](https://open.spotify.com/album/7rBmAvloiKVHIOHpC5g1ni) | 2:26 | 2022-02-10 |  |
+| [Pineapple Pizza](https://open.spotify.com/track/3WV5r7zhoJ0EcoVdAhzZJr) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Pineapple Pizza](https://open.spotify.com/album/5D6TCAIEzzmt4DW9WNDfbo) | 2:26 | 2022-02-10 |  |
+| [Pineapple Pizza](https://open.spotify.com/track/5GY7EgrHztoGJkGXDdhQCR) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Pineapple Pizza](https://open.spotify.com/album/7rBmAvloiKVHIOHpC5g1ni) | 2:26 | 2022-02-10 | 2023-11-04 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2022-02-10 |  |
 | [Pretty Lady \- Free Nationals Remix](https://open.spotify.com/track/55HlhHQyXxCoKt9oZkxHD0) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Pretty Lady \(Free Nationals Remix\)](https://open.spotify.com/album/3kZx6ZWaFjwKJ55yEr0Qsu) | 4:18 | 2022-02-10 |  |
 | [Preview](https://open.spotify.com/track/2T0kfQqtxcJuBbyJc6k97U) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Preview](https://open.spotify.com/album/1qxC2XCw1DWFmbU3bYttfv) | 3:18 | 2022-02-10 | 2022-10-25 |

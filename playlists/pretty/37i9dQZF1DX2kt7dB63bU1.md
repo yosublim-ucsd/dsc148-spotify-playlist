@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,634 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,684 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 3 | [Give Me A Reason](https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Give Me A Reason](https://open.spotify.com/album/78pQHAt8HWRK8WVAUdmR2h) | 4:13 |
 | 4 | [It Never Entered My Mind](https://open.spotify.com/track/7sB8c1y2VLN92mw6q3gWGu) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [It Never Entered My Mind](https://open.spotify.com/album/6jT03zRg4WfbOjYGYVoXl5) | 3:21 |
 | 5 | [I Always Fall for You](https://open.spotify.com/track/5LQmaC0A1qnm4ad8MuONcG) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [I Always Fall for You](https://open.spotify.com/album/1QhEzI387TGvwZH1UIjDOh) | 3:20 |
-| 6 | [Without You](https://open.spotify.com/track/09lKeklaxa3p5MXkYYTyH0) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2), [Romero Lubambo](https://open.spotify.com/artist/2tfVfgslNHoisjzLLgnRIV) | [Without You](https://open.spotify.com/album/2inxTSjVztLDsnumbpY9Bv) | 4:20 |
+| 6 | [Without You](https://open.spotify.com/track/09lKeklaxa3p5MXkYYTyH0) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Without You](https://open.spotify.com/album/2inxTSjVztLDsnumbpY9Bv) | 4:20 |
 | 7 | [If You Go Away](https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [If You Go Away / Ne me quitte pas](https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx) | 4:55 |
 | 8 | [Tormento](https://open.spotify.com/track/5hUQiYplc53Z5zqW7OMQdn) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z), [Jonathan Michel](https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Tormento](https://open.spotify.com/album/1i8k3JoTDSJwcwSbmQGmJ0) | 3:51 |
 | 9 | [What Gives You The Right](https://open.spotify.com/track/7weVhPDPHC8H1nOQJMalw9) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Champagne & Declarations](https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7) | 4:42 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 57 | [The Best Mistake](https://open.spotify.com/track/57dFZtD0yXsonQEndrFqf5) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H) | [The Best Mistake](https://open.spotify.com/album/3qJqCnJ8DOEgTpbSLFxV3B) | 2:44 |
 | 58 | [April Fooled Me](https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [April Fooled Me](https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid) | 3:51 |
 | 59 | [I Won't Dance](https://open.spotify.com/track/1tqhYXhkFajcMomIS2bJ0e) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Impressions of Ella](https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO) | 4:17 |
-| 60 | [If I Didn't Care](https://open.spotify.com/track/3wZWkqbqKCyJwBYv35Pyh6) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [As Time Goes By](https://open.spotify.com/album/0qshBfZ7c1fQLjr8fIAROW) | 2:57 |
+| 60 | [If I Didn't Care](https://open.spotify.com/track/73VnXjXnvO3mjR6S7U6ud8) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [As Time Goes By](https://open.spotify.com/album/5Jbs3q02uedHLy8QVbZzmk) | 2:57 |
 | 61 | [Marina](https://open.spotify.com/track/6gevpgscwofUjTdGM0g6T9) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Quietude](https://open.spotify.com/album/0SzEjiRsCBU2SWT0C6ydUs) | 3:37 |
 | 62 | [There Was a Fire](https://open.spotify.com/track/2ehCqA7FDA7wufe0JH8U8S) | [Leo Sidran](https://open.spotify.com/artist/2HpgbqUcGmk4M2dG9wph1h) | [There Was a Fire](https://open.spotify.com/album/0tUkouJDCBucujes5eGXoY) | 4:02 |
 | 63 | [Tea For Two](https://open.spotify.com/track/4HVz4K6niFBCVZwsMptFkV) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d), [Terell Stafford](https://open.spotify.com/artist/7rF1f3ZbidUhK24k7N8RcB) | [Beautiful Tomorrow](https://open.spotify.com/album/5xUQdgt359iu2FlgkTPF3O) | 2:54 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 67 | [Little Jazz Bird](https://open.spotify.com/track/1rRCoIYM6CVJ2iWiSFMGQG) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Spark Bird](https://open.spotify.com/album/6z3wz0ytwIBkn6pcxWQiNN) | 4:06 |
 | 68 | [Too Close For Comfort](https://open.spotify.com/track/6I6ZvbjUPX4BH1fGZaODy2) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [Stage & Screen](https://open.spotify.com/album/7DNsUgvsb3yMZMsfVaiBnS) | 5:53 |
 | 69 | [My Boy](https://open.spotify.com/track/2I7LnGwzorTgRFn7FymQRg) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [My Boy](https://open.spotify.com/album/65UnTcy15RkjNnPGQXpx7u) | 2:39 |
-| 70 | [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/3y5Z7sB8kKEuBI06G2fZcb) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Did Somebody Make a Fool Out of You](https://open.spotify.com/album/5VvEOtmiR7TFEWp62vjPOs) | 4:51 |
+| 70 | [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/2a6ZvVIWBeBSjAcbPgolD9) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul \(Deluxe\)](https://open.spotify.com/album/41KI9nUWYRQDxXfgfbX5Zz) | 4:51 |
 | 71 | [Sunrise](https://open.spotify.com/track/60EiB2sz5mqvRiDvDb0ucZ) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Sunrise](https://open.spotify.com/album/3xbjnXESasgtICbl418mje) | 3:40 |
 | 72 | [Nature Boy](https://open.spotify.com/track/6FlvwL0btl7luPQ3BwvTRE) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [North by Northwest](https://open.spotify.com/album/6nlpUuHSYiqaarQ9ueC6qa) | 4:35 |
 | 73 | [Petite musique terrienne](https://open.spotify.com/track/6OZn149r8yFdTTI0TvtKhY) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Mélusine](https://open.spotify.com/album/1AP6E8gCkPzDjFC8DrGFPc) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Brighter Sun](https://open.spotify.com/track/0XxabEZXVU40LCFIieeLvJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Brighter Sun](https://open.spotify.com/album/1Jz0RNEbIiIBJdwTPEKw1N) | 4:06 |
 | 100 | [Waiting for the Sun to Rise](https://open.spotify.com/track/7ghUJN5yFKgcuSsY0TxRT1) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Waiting For The Sun To Rise](https://open.spotify.com/album/5E0CarVimmc8TWcIgcqZ4f) | 4:38 |
 
-Snapshot ID: `MCxlZjEzMzlhNmQ1ZmM4YzRjNTg1NmUzMzJjYmVlZTMxNjhiOGIyMjc2`
+Snapshot ID: `MCw4ZGQwMzQ1NTJlNzQzNmM1Yzk0MGNlNzdhMDU2MGZjYTYxNTJmNTgy`

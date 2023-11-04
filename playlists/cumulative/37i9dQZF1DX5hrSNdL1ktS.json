@@ -1347,6 +1347,36 @@
     },
     {
       "album": {
+        "name": "Con To",
+        "url": "https://open.spotify.com/album/5c4j8MHiR41yrmgLG6Z6Hj"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Flow Nasty",
+          "url": "https://open.spotify.com/artist/4PvWkqTuroZga3l4ms5wjy"
+        },
+        {
+          "name": "Andre Noriega",
+          "url": "https://open.spotify.com/artist/7LjYPYI5Dbhd7ga2fTlNa2"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/6q7odNXTIczDAs41y9FwMJ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132562,
+      "name": "Con To",
+      "url": "https://open.spotify.com/track/7rQmsoj7jBk3vlJSSoDeFn"
+    },
+    {
+      "album": {
         "name": "Contenta",
         "url": "https://open.spotify.com/album/7G58iqTIn2qInGCYAfJFoM"
       },
@@ -4461,6 +4491,32 @@
     },
     {
       "album": {
+        "name": "MARTILLAZO",
+        "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "MARTILLAZO",
+      "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
+    },
+    {
+      "album": {
         "name": "Maviri",
         "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
       },
@@ -5908,7 +5964,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 136421,
       "name": "Perdon\u00e9monos",
       "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
@@ -8218,7 +8274,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 119142,
       "name": "VELOCIDAD",
       "url": "https://open.spotify.com/track/77vznWJnp6jYri1l9qHb9D"

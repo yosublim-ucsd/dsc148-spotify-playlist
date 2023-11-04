@@ -4,7 +4,7 @@
 
 > Quelques chansons tranquilles pour des moments tendres et complices
 
-68 songs - 3 hr 54 min
+69 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [La bonne étoile \(Duo dub\) \[feat\. Ariane Moffat\]](https://open.spotify.com/track/65XxFc7ir5H4iUWlfCfBRW) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Ariane Moffat](https://open.spotify.com/artist/6WCfv3ApgE7lAYwW9NY8GO) | [La bonne étoile](https://open.spotify.com/album/5m5Qe4fwmXtLjlADVsO0bB) | 4:12 | 2021-04-23 |  |
 | [La chanson de Prévert](https://open.spotify.com/track/0Y04xGwKImCqVSFZQI5All) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [L'étonnant Serge Gainsbourg \(N°3\)](https://open.spotify.com/album/5sMMhisGphUYvtb9jmdydj) | 3:02 | 2021-04-23 |  |
 | [La fée](https://open.spotify.com/track/06pqXPHiUMiTagMqmDKttd) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Zaz](https://open.spotify.com/album/6MuoqipFgorIZEYwGWEFAU) | 4:05 | 2021-04-23 |  |
-| [La sieste](https://open.spotify.com/track/0Hac68gGmbJEDbcWsOQReb) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Le Soldat Rose 2](https://open.spotify.com/album/0VoSSoBOjDUqrUZDxEQ7Br) | 3:17 | 2021-04-23 |  |
+| [La sieste](https://open.spotify.com/track/0Hac68gGmbJEDbcWsOQReb) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Le Soldat Rose 2](https://open.spotify.com/album/0VoSSoBOjDUqrUZDxEQ7Br) | 3:17 | 2021-04-23 | 2023-11-04 |
+| [La sieste \(feat\. Tété\)](https://open.spotify.com/track/1erAsezbhHFWDURC6OGkEj) | [Le Soldat Rose](https://open.spotify.com/artist/2rOCPPNRJnQMkNa5D18Ef2), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Le Soldat Rose 2](https://open.spotify.com/album/6fZCT61LQYLgNuwQkR8JCD) | 3:17 | 2021-04-23 |  |
 | [La vie c'est quoi ?](https://open.spotify.com/track/2ApNTgwQpO1X64nCT8sXWn) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Malou Harel](https://open.spotify.com/artist/6ttO3F8QBMsaaEA7NCPLTI) | [Enfantillages 3](https://open.spotify.com/album/77kv2o5PJeW3mim1yWPiMA) | 3:04 | 2021-04-23 |  |
 | [La vie d'artiste](https://open.spotify.com/track/5rE7sFkSxvGjPkQgu8zSsp) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [La vie d'artiste](https://open.spotify.com/album/77umZ5RoAPP2dnv0ibyjAQ) | 3:43 | 2021-04-23 |  |
 | [Le baiser](https://open.spotify.com/track/5mVzrfnZncbgZsUGcj2DkU) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 4:10 | 2021-04-23 |  |

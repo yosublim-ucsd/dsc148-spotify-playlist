@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-245 songs - 15 hr 41 min
+246 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [I Will](https://open.spotify.com/track/2ALrRRCZQ0ZDTBEs11CkNV) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG), [Tony Furtado](https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt) | [Now That I've Found You: A Collection](https://open.spotify.com/album/32y7QMTFfQC3ZZB3rb2RFs) | 4:04 | 2022-05-27 | 2022-08-10 |
 | [I'm on Fire](https://open.spotify.com/track/1zQPmA4n3euo6UEV4R4col) | [The DeLorean Sisters](https://open.spotify.com/artist/5ZvTKfngMbuI3sFLv9mdfE) | [The DeLorean Sisters](https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E) | 2:12 | 2021-08-20 | 2022-04-02 |
 | [I'm On Fire](https://open.spotify.com/track/3xSdEH8yjB0hiCcj9CG0xR) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Heroes & Heretics](https://open.spotify.com/album/3hqfZkAkGENyOubiN2wDJe) | 3:33 | 2021-08-20 |  |
+| [If I Needed You](https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag) | [Admiral Radio](https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v) | [If I Needed You](https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU) | 3:23 | 2023-11-03 |  |
 | [In Tall Buildings](https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [In Tall Buildings](https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D) | 3:28 | 2022-09-30 |  |
 | [Islands in the Stream](https://open.spotify.com/track/3pFrmDEYiSfvTFvTdqO6kY) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Cover Story](https://open.spotify.com/album/6PapSLx3b0H2mwD6p2IU4I) | 4:04 | 2021-08-20 | 2022-07-29 |
 | [Islands in the Stream](https://open.spotify.com/track/6MWOFeRyquFMmZRzcZDkps) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Cover Story](https://open.spotify.com/album/3oCqTYQEva6EIKRJr20seS) | 4:04 | 2022-05-27 |  |

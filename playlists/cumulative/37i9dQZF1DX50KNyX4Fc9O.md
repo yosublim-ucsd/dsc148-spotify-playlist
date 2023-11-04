@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Kita Alexander
 
-443 songs - 22 hr 57 min
+445 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Burn](https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf) | 2:23 | 2023-09-21 |  |
 | [Buy Me A Dream](https://open.spotify.com/track/5L7VfKJtyDkBYX41ctKC5Y) | [Hattie Oates](https://open.spotify.com/artist/21XMngjCd7tTpvn2ruHB6R) | [Buy Me A Dream](https://open.spotify.com/album/4znFn1iWTnW4n5x3SrBaSB) | 2:39 | 2023-06-22 | 2023-08-05 |
 | [Can I Shower At Yours](https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours](https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj) | 1:54 | 2023-06-22 | 2023-08-18 |
+| [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 | 2023-11-02 |  |
 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 | 2023-10-12 |  |
 | [Carousel](https://open.spotify.com/track/20TVG7Ne8zeV6LS3pGpFOO) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [King Clown](https://open.spotify.com/album/5ruCuWl2zADdyMIHE7wAYn) | 3:01 | 2023-10-17 |  |
 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 | 2023-08-10 | 2023-08-25 |
@@ -363,6 +364,7 @@
 | [Sorry For The Drama](https://open.spotify.com/track/5WhP5twAAdHUo3CxKcwMa2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Sorry For The Drama](https://open.spotify.com/album/5BzuEBSDMfwBhUobVPyQCh) | 3:11 | 2023-10-05 |  |
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-17 | 2023-09-08 |
 | [Split Enz](https://open.spotify.com/track/5YdORq6pAR5FurHWdIn1mq) | [THE DALS](https://open.spotify.com/artist/5OsNJOHr8bPLl4ct41ZeUE) | [Split Enz](https://open.spotify.com/album/13UbOiqgESzJKguCCJuils) | 2:59 | 2023-06-15 | 2023-07-21 |
+| [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-02 |  |
 | [Stars](https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O) | 2:51 | 2023-06-15 | 2023-06-30 |
 | [Still Be Here](https://open.spotify.com/track/3SXNECzv2FyQyOJL75m9JP) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K), [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [Still Be Here](https://open.spotify.com/album/7Ki1Yo8IAB569iXLrKG7fh) | 3:01 | 2023-06-15 | 2023-07-28 |
 | [Still Rolling](https://open.spotify.com/track/4uHTsdgtVHUbJcLvs9jE3P) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisurevision](https://open.spotify.com/album/7GjS4SK8fvJFWfvlRw2jtU) | 3:39 | 2023-09-28 | 2023-10-20 |

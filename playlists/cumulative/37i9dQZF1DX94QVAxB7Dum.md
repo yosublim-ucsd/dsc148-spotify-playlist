@@ -4,7 +4,7 @@
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-164 songs - 9 hr 23 min
+165 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,8 +49,9 @@
 | [Hang On In There Baby](https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY) | [Johnny Bristol](https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa) | [Soul, Vol\. 1](https://open.spotify.com/album/5qwkIFb6Kz2s7vgMRh3WGT) | 3:53 | 2021-04-29 | 2022-07-29 |
 | [Hang On In There Baby](https://open.spotify.com/track/3Fjns95Us8AcfmL175pQVX) | [Johnny Bristol](https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa) | [Soul Party Weekend](https://open.spotify.com/album/50kRvqJ63Aa8YkHfkVfDrc) | 3:53 | 2021-04-29 | 2022-11-13 |
 | [Hang On In There Baby](https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef) | [Johnny Bristol](https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa) | [Hang On In There Baby](https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix) | 3:53 | 2021-04-29 |  |
-| [Hercules](https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is](https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg) | 4:09 | 2021-04-29 |  |
+| [Hercules](https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is](https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg) | 4:09 | 2021-04-29 | 2023-11-04 |
 | [Hercules](https://open.spotify.com/track/1wxF8huN8OO1HkiDCEFLR2) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Anthology](https://open.spotify.com/album/0oQVEDPo2Of4N59mRyR3VO) | 4:11 | 2021-04-29 | 2022-07-29 |
+| [Hercules](https://open.spotify.com/track/0GVurvfPLwv6sNXaqtxHWQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Love Letters](https://open.spotify.com/album/7jfRBjUiIc9uUbdikDiUh6) | 4:11 | 2021-04-29 |  |
 | [Hercules](https://open.spotify.com/track/62Zhg5wQl9Dp80EhiYGhvd) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Allen Toussaint: The Lost Sessions](https://open.spotify.com/album/1WkyJsmWsxGqMaIaajjJaO) | 4:13 | 2021-04-29 | 2022-11-13 |
 | [Hurt so Bad \(Rerecorded\)](https://open.spotify.com/track/3qY8Ni73Tx4mJXASDmBWJN) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [100 Hits of the Swingin' Sixties](https://open.spotify.com/album/36QisDW5zB4phHrXOzE60V) | 2:17 | 2021-04-29 |  |
 | [I Can't Get Next To You](https://open.spotify.com/track/71pbdr0qm0VuiTgy2aBfiD) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Stay At Home And Listen To Music](https://open.spotify.com/album/5PxfK4ouuknevFPJ790cXb) | 2:51 | 2021-04-29 | 2022-11-13 |

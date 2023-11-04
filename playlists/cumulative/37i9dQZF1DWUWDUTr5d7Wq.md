@@ -4,7 +4,7 @@
 
 > Dive into the songwriting and production influences that inspired boygenius and laid the blueprint for their latest release, 'the record.'
 
-81 songs - 5 hr 43 min
+82 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Surrender \- '88 Version; 2023 Remaster](https://open.spotify.com/track/14UYhNRuyGQzuhX08vL3IV) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [A Way of Life \(35th Anniversary Edition; 2023 Remaster\)](https://open.spotify.com/album/6Qm6Rw77MNhAD34WqDVsRW) | 3:47 | 2023-07-21 |  |
 | [Teen Challenge](https://open.spotify.com/track/5KGjWhVzlSDeTxA5FIUZvZ) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Plastic Cough](https://open.spotify.com/album/50sB7QKCcIJiNPeYeQgV3N) | 3:48 | 2023-07-21 |  |
 | [That Time](https://open.spotify.com/track/1eFlXudtmDd6faXHT7RdAe) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 2:37 | 2023-07-21 |  |
-| [The Devil Takes Care of His Own](https://open.spotify.com/track/3eiEVxOkDb65xxhAzAtki7) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Sweet Sour](https://open.spotify.com/album/2ixobpSRUPyIBLIvX2lA4c) | 3:04 | 2023-07-21 |  |
+| [The Devil Takes Care of His Own](https://open.spotify.com/track/07xFI3lN7ILqP8YaNUxA6d) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Sweet Sour](https://open.spotify.com/album/2jOrRMiY30e7FfcQxRQ8yw) | 3:04 | 2023-07-21 |  |
+| [The Devil Takes Care of His Own](https://open.spotify.com/track/3eiEVxOkDb65xxhAzAtki7) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Sweet Sour](https://open.spotify.com/album/2ixobpSRUPyIBLIvX2lA4c) | 3:04 | 2023-07-21 | 2023-11-04 |
 | [The Eye](https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:31 | 2023-07-21 |  |
 | [The Leopard and the Lung](https://open.spotify.com/track/01n95DzNQJ0awMIMFdDdZ9) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Wolf's Law](https://open.spotify.com/album/3fn4TpavfAcdnAg4ZNpA3c) | 5:56 | 2023-07-21 |  |
 | [The Shining But Tropical](https://open.spotify.com/track/2yJzXbecfOyTI5RPaQmO5t) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [A Billion Little Lights](https://open.spotify.com/album/0fHchXs9fUUcnzXpmzdAr1) | 4:51 | 2023-07-21 |  |

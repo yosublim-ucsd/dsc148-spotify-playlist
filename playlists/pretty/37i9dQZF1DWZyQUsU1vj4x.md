@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,729 likes - 110 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,769 likes - 110 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 34 | [Owe](https://open.spotify.com/track/7N3AKcAogq13E44yNaBcCB) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1) | 3:15 |
 | 35 | [My Silver Lining \- Spotify Sessions](https://open.spotify.com/track/3iZy5gaYIgp6wle6flgTWL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 3:35 |
 | 36 | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo) | 3:03 |
-| 37 | [Oh Baby](https://open.spotify.com/track/22XovWKiIxAM59jrRMJQZ0) | [Wake Owl](https://open.spotify.com/artist/2lnn5H36McBxbyhPYg10oj) | [The Private World of Paradise](https://open.spotify.com/album/3HncFXDVjUoeufNrlpNkvg) | 4:21 |
+| 37 | [Oh Baby](https://open.spotify.com/track/7tMR9dwrtJXba6Y56rvJXc) | [Wake Owl](https://open.spotify.com/artist/2lnn5H36McBxbyhPYg10oj) | [The Private World of Paradise](https://open.spotify.com/album/1QSnUfKZg7uaUPjoyfh1p3) | 4:21 |
 | 38 | [King of California](https://open.spotify.com/track/07VsDDvIaWzbJkpWKk38h4) | [Renn](https://open.spotify.com/artist/4TOkHwfvErnRSxmlJ7XfOJ) | [Heartache and a Song](https://open.spotify.com/album/0igk4dP4LSssQP6to1GKDF) | 4:40 |
 | 39 | [Can’t Get It Right](https://open.spotify.com/track/4qlR1xTUd2VoM8UwKZkQqy) | [Matthew Perryman Jones](https://open.spotify.com/artist/68524z8sd176IRenNb1Fjy) | [Cold Answer](https://open.spotify.com/album/1if3qTYxQNBzVVN9wjDl2r) | 3:14 |
 | 40 | [The Night My Piano Upped and Died](https://open.spotify.com/track/1dKHaN7ycK4Pw9nNKsDfR4) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3) | [Sillion](https://open.spotify.com/album/6EvICOHQtGcwoIF3bQR53d) | 3:55 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 109 | [A Church In Ruins \- From The HBO Series True Detective](https://open.spotify.com/track/1nOX0ALAjpYGys5keet5JJ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [A Church In Ruins \(From The HBO Series True Detective\)](https://open.spotify.com/album/1QHLQdd9J4JcJ8FomKvz1v) | 2:52 |
 | 110 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 |
 
-Snapshot ID: `MCxjNzNjZGZkZGQ1MWU0YzVmOTJjMjRiODBkZjczOTFiNTQ4Y2EzN2E2`
+Snapshot ID: `MCw4OWZjMjAyNzc3ZjI0NzNjMzVlMzNlOTY3YzM3MTEzODFkODIxY2Yx`

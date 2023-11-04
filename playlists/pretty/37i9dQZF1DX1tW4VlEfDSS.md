@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,135 likes - 148 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,176 likes - 148 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 26 | [Forever Man \(How Many Times\) \- Earth n Days Remix](https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii) | [Beatchuggers](https://open.spotify.com/artist/036bcSagihiHvS91LAxiAR), [Earth n Days](https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj) | [Forever Man \(How Many Times\) \[Earth n Days Remix\]](https://open.spotify.com/album/3yyp1dD6yJWpGdekqpIcC9) | 3:01 |
 | 27 | [Rescue Me](https://open.spotify.com/track/4Np57R3dz1W2A9WBbwuHpY) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Rescue Me](https://open.spotify.com/album/6ltVvOxJSn1nAkeViLkOlo) | 2:27 |
 | 28 | [50//50 \- Edit](https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [50//50](https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn) | 2:09 |
-| 29 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
+| 29 | [Seventies](https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb) | 3:16 |
 | 30 | [It Is What It Is \(feat\. Elise LeGrow\)](https://open.spotify.com/track/37V78aaqEliOSPJxVgxNfm) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [It Is What It Is \(feat\. Elise LeGrow\)](https://open.spotify.com/album/1d08A5A1LezktJMhoWCqDq) | 2:44 |
 | 31 | [Real Groove \- Studio 2054 Remix](https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Real Groove \(Studio 2054 Remix\)](https://open.spotify.com/album/0z0lPmTXhkoyF1RyIAkGHm) | 4:22 |
 | 32 | [Sneak Away With Me](https://open.spotify.com/track/0DnMu0Q9X3yCPMUD5PP3P9) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Sneak Away With Me](https://open.spotify.com/album/7GcPAdmhtF0duAlDydss28) | 5:06 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 147 | [How Do I Let Go](https://open.spotify.com/track/78F73J161TlcsWC7JckBZi) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [K.T\. Brooks](https://open.spotify.com/artist/0bDOIlJ0JD5pIKym4tvSNq) | [How Do I Let Go \(Remixes\)](https://open.spotify.com/album/2ktBDrGM9pKbxODAcWocIb) | 3:22 |
 | 148 | [Remedy \- JKriv Disco Dub](https://open.spotify.com/track/5llhpIgQ7QMPtzPQnKQhLG) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8), [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY), [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K) | [Remedy \(JKriv Disco Dub\)](https://open.spotify.com/album/0FjRPvYxx9h4jRVGh0LHYi) | 4:12 |
 
-Snapshot ID: `MCwzZWQ2NTVjMmM4ZTY5N2FlMzYxNzY1NGIwYWYyNjY3MmRiMTEwZTRm`
+Snapshot ID: `MCxmNjZkYWUzY2M5ZWI0OTEzZjcwYjQ0NGNmYThiY2Y5MzJlZDU5MDZk`

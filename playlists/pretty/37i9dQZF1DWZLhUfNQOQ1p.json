@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un Negroni in mano. \ud83c\udf79",
-  "num_followers": 247037,
+  "num_followers": 247113,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjdhNThhM2YyYTkxMzIwZmY5NzY5ZjRkNjQ1ODMwZTY1YjY0MDc4",
+  "snapshot_id": "MCwzNWI1OGY1Y2Y2YmM1NGY4YmEwNzJmMmM2MTA0YzMwODMwMmRlYTU3",
   "tracks": [
     {
       "added_at": "2023-10-30 15:59:59",
@@ -283,30 +283,6 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Catalogue",
-        "url": "https://open.spotify.com/album/5sCp2ukwrtpYj5wGfMx78M"
-      },
-      "artists": [
-        {
-          "name": "Moloko",
-          "url": "https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO"
-        },
-        {
-          "name": "Boris Dlugosch",
-          "url": "https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru"
-        },
-        {
-          "name": "Michael Lange",
-          "url": "https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Sing It Back - Boris Dlugosch Mix",
-      "url": "https://open.spotify.com/track/53qhh1kdcX4gRBShoW4LK8"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
         "name": "Roches blanches",
         "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
       },
@@ -355,22 +331,6 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 269249,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
         "name": "Falling for You",
         "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
       },
@@ -383,6 +343,22 @@
       "duration_ms": 190000,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 269249,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -443,22 +419,6 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Amor Fati",
-        "url": "https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "El Layali",
-      "url": "https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
         "name": "Parcels",
         "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
       },
@@ -471,6 +431,22 @@
       "duration_ms": 237227,
       "name": "Lightenup",
       "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "El Layali",
+      "url": "https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -531,30 +507,6 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Armaghetton (Aeroplane Remix)",
-        "url": "https://open.spotify.com/album/1es3fJXc54eFu7uUZkSsrh"
-      },
-      "artists": [
-        {
-          "name": "Marco Faraone",
-          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
-        },
-        {
-          "name": "Greeko",
-          "url": "https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH"
-        },
-        {
-          "name": "Aeroplane",
-          "url": "https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Armaghetton - Aeroplane Remix",
-      "url": "https://open.spotify.com/track/7K0NRDpluahVsxekmJ3ufu"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -575,6 +527,30 @@
       "duration_ms": 215000,
       "name": "Feel Like Makin' Love (feat. Roberta Flack)",
       "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
+        "name": "Armaghetton (Aeroplane Remix)",
+        "url": "https://open.spotify.com/album/1es3fJXc54eFu7uUZkSsrh"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        },
+        {
+          "name": "Greeko",
+          "url": "https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH"
+        },
+        {
+          "name": "Aeroplane",
+          "url": "https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Armaghetton - Aeroplane Remix",
+      "url": "https://open.spotify.com/track/7K0NRDpluahVsxekmJ3ufu"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -631,22 +607,6 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Happiness Therapy 06: All\u00e9gresse",
-        "url": "https://open.spotify.com/album/4HeN8rpI28qPE06m2ZOi2q"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Amicalement V\u00f4tre",
-      "url": "https://open.spotify.com/track/0pl6IKhaBj7hheHHOmEIp6"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
         "name": "Ordinary Drugs",
         "url": "https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms"
       },
@@ -659,6 +619,22 @@
       "duration_ms": 421700,
       "name": "These Are Just Places To Me Now",
       "url": "https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
+        "name": "Happiness Therapy 06: All\u00e9gresse",
+        "url": "https://open.spotify.com/album/4HeN8rpI28qPE06m2ZOi2q"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Amicalement V\u00f4tre",
+      "url": "https://open.spotify.com/track/0pl6IKhaBj7hheHHOmEIp6"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -699,6 +675,22 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
       },
@@ -727,22 +719,6 @@
       "duration_ms": 367789,
       "name": "Minimal - Dj Koze Remix",
       "url": "https://open.spotify.com/track/7zSDTiE5xmuXlCz7mfYhlE"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
-        "name": "If This Is House I Want My Money Back 3",
-        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 285440,
-      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
-      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -807,22 +783,6 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Azulejos",
-        "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
-      },
-      "artists": [
-        {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        }
-      ],
-      "duration_ms": 214981,
-      "name": "Alala",
-      "url": "https://open.spotify.com/track/2GRrIHGGboa714SZeVcprI"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -839,6 +799,22 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
+        "name": "Azulejos",
+        "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "duration_ms": 214981,
+      "name": "Alala",
+      "url": "https://open.spotify.com/track/2GRrIHGGboa714SZeVcprI"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
         "name": "Melody A.M.",
         "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
       },
@@ -851,6 +827,22 @@
       "duration_ms": 218320,
       "name": "Eple",
       "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
+        "name": "Walking On A Dream",
+        "url": "https://open.spotify.com/album/3qFui1PcteHFky44CeUflG"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -955,22 +947,6 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Walking On A Dream",
-        "url": "https://open.spotify.com/album/3qFui1PcteHFky44CeUflG"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
         "name": "All Becomes Okay",
         "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
       },
@@ -983,22 +959,6 @@
       "duration_ms": 228162,
       "name": "Truth",
       "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
-        "name": "Wait on Me EP",
-        "url": "https://open.spotify.com/album/00t0zeNG6lLjFxtrwQSfzc"
-      },
-      "artists": [
-        {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
-        }
-      ],
-      "duration_ms": 289208,
-      "name": "The Semimodular Bird of Jazz",
-      "url": "https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -1019,6 +979,22 @@
       "duration_ms": 345310,
       "name": "Peach",
       "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
+        "name": "Wait on Me EP",
+        "url": "https://open.spotify.com/album/00t0zeNG6lLjFxtrwQSfzc"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        }
+      ],
+      "duration_ms": 289208,
+      "name": "The Semimodular Bird of Jazz",
+      "url": "https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -1075,22 +1051,6 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Cyclorama",
-        "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
         "name": "Good Life (Remastered)",
         "url": "https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK"
       },
@@ -1107,6 +1067,22 @@
       "duration_ms": 196363,
       "name": "Good Life (Remastered)",
       "url": "https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
+        "name": "Cyclorama",
+        "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -1211,22 +1187,6 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
         "name": "L.I.F.E",
         "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
       },
@@ -1247,18 +1207,18 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "You Feel Me",
-        "url": "https://open.spotify.com/album/0k5lCPaW3r7JLJjrsUe4hB"
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
       },
       "artists": [
         {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
         }
       ],
-      "duration_ms": 213080,
-      "name": "You Feel Me",
-      "url": "https://open.spotify.com/track/6NkOCefYgnzkRNk1a0npHr"
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -1275,6 +1235,22 @@
       "duration_ms": 367362,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
+        "name": "You Feel Me",
+        "url": "https://open.spotify.com/album/0k5lCPaW3r7JLJjrsUe4hB"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "You Feel Me",
+      "url": "https://open.spotify.com/track/6NkOCefYgnzkRNk1a0npHr"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -1331,22 +1307,6 @@
     {
       "added_at": "2023-10-30 15:59:59",
       "album": {
-        "name": "Agua Congas",
-        "url": "https://open.spotify.com/album/0kOvMwR9FHGcheXSVTWhwF"
-      },
-      "artists": [
-        {
-          "name": "Paula Tape",
-          "url": "https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh"
-        }
-      ],
-      "duration_ms": 432042,
-      "name": "Agua Congas",
-      "url": "https://open.spotify.com/track/1wJSK0ZBvpaLTe6Y60WaFa"
-    },
-    {
-      "added_at": "2023-10-30 15:59:59",
-      "album": {
         "name": "Love Will Set U Free",
         "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
@@ -1363,6 +1323,22 @@
       "duration_ms": 354365,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
+        "name": "Agua Congas",
+        "url": "https://open.spotify.com/album/0kOvMwR9FHGcheXSVTWhwF"
+      },
+      "artists": [
+        {
+          "name": "Paula Tape",
+          "url": "https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh"
+        }
+      ],
+      "duration_ms": 432042,
+      "name": "Agua Congas",
+      "url": "https://open.spotify.com/track/1wJSK0ZBvpaLTe6Y60WaFa"
     },
     {
       "added_at": "2023-10-30 15:59:59",
@@ -1799,6 +1775,26 @@
       "duration_ms": 210243,
       "name": "Wespennest - Edit",
       "url": "https://open.spotify.com/track/4O2pqaEaHXhSXFmcy7bNLV"
+    },
+    {
+      "added_at": "2023-10-30 15:59:59",
+      "album": {
+        "name": "Thank You for Letting Me Be Myself",
+        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
+      },
+      "artists": [
+        {
+          "name": "Omar S",
+          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
+        },
+        {
+          "name": "D Taylor",
+          "url": "https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I"
+        }
+      ],
+      "duration_ms": 413315,
+      "name": "The Shit Baby",
+      "url": "https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP"
     }
   ],
   "unique_name": "Aperitivo Time",

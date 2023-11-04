@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-116 songs - 6 hr 24 min
+117 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Forgive Me](https://open.spotify.com/track/2mBnRpo3EECA5UB24qU2AS) | [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Broken](https://open.spotify.com/album/3rFkyJX6pMbRmz9jaskhdz) | 3:31 | 2023-03-17 | 2023-08-21 |
 | [Good Times Roll](https://open.spotify.com/track/2A0JdQvwSbOtI9sSIIxgQR) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 2:38 | 2023-06-30 | 2023-07-29 |
 | [Good Times Roll](https://open.spotify.com/track/6iP3HRpbWj0iPd8gTSQgCn) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 2:38 | 2023-03-17 | 2023-07-01 |
-| [Good Times Roll](https://open.spotify.com/track/7MCJA5dCNzzDz9xHSQeklM) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James Gold Edition](https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O) | 2:38 | 2023-07-28 |  |
+| [Good Times Roll](https://open.spotify.com/track/7MCJA5dCNzzDz9xHSQeklM) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James Gold Edition](https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O) | 2:38 | 2023-07-28 | 2023-11-04 |
+| [Good Times Roll](https://open.spotify.com/track/7uEdrlfBe89dRbU6NUX7cw) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 2:38 | 2023-10-27 |  |
 | [Great Minds Drink Alike \(feat\. Craig Campbell\)](https://open.spotify.com/track/6MIHb0TCLHc9vKvYjCFpGX) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Great Minds Drink Alike \(feat\. Craig Campbell\)](https://open.spotify.com/album/1RdK3jKTZ82qiT8ikSMQad) | 3:28 | 2023-04-21 |  |
 | [Heartland](https://open.spotify.com/track/0ZUs7kSj4AykrEwCBNiIAF) | [KillWill](https://open.spotify.com/artist/0y8l3VxQbtzQRplAjSPAOd), [Cowboy Troy](https://open.spotify.com/artist/3Rd3kr9QoBdHGjD1Hk0tkj) | [Heartland](https://open.spotify.com/album/1AkNJ6AxARKT5KlI4lPGcl) | 3:38 | 2023-04-07 | 2023-08-21 |
 | [Hee Hee Haa Haa](https://open.spotify.com/track/6iXPBv1ouAB8HkhJpIYjBP) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Jcrews](https://open.spotify.com/artist/5y2AgdbbFUpAXM8T7o8Fvb) | [Hee Hee Haa Haa](https://open.spotify.com/album/3IoyNWIFpu6fTFjqEb8Rrb) | 3:35 | 2023-05-19 | 2023-08-21 |

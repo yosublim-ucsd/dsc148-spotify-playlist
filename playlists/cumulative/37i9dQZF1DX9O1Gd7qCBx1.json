@@ -1808,10 +1808,28 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 276133,
       "name": "No es serio este cementerio",
       "url": "https://open.spotify.com/track/0vJVhBOvRSjG0KBbFpx46Y"
+    },
+    {
+      "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276133,
+      "name": "No Es Serio Este Cementerio",
+      "url": "https://open.spotify.com/track/7a5MYTqTgUEzVJmbrejLtn"
     },
     {
       "album": {

@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 166360,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/3Dg3QZpHkrEVnj87TxBz6G"
@@ -56,6 +56,24 @@
       "duration_ms": 166360,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168320,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"
     },
     {
       "album": {
@@ -538,10 +556,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 151426,
       "name": "Dig That Groove Baby",
       "url": "https://open.spotify.com/track/1cytqiMB4LIh3hbG9kd6X4"
+    },
+    {
+      "album": {
+        "name": "We're Mad! The Anthology",
+        "url": "https://open.spotify.com/album/6ZQk8OSfWt6kzoU4Jqx8Sy"
+      },
+      "artists": [
+        {
+          "name": "The Toy Dolls",
+          "url": "https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151426,
+      "name": "Dig That Groove Baby",
+      "url": "https://open.spotify.com/track/6CF9Eua4NiiB0gmeObmZ8w"
     },
     {
       "album": {
@@ -1122,7 +1158,7 @@
     {
       "album": {
         "name": "Group Sounds",
-        "url": "https://open.spotify.com/album/1DDG6lpTs1RIDzenH1R78u"
+        "url": "https://open.spotify.com/album/5pAQ8lYvdjbdS6VTj54s1c"
       },
       "artists": [
         {
@@ -1133,6 +1169,24 @@
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 114493,
+      "name": "Savoir Faire",
+      "url": "https://open.spotify.com/track/4A78VjJRlgrAsi1dRTpXVT"
+    },
+    {
+      "album": {
+        "name": "Group Sounds",
+        "url": "https://open.spotify.com/album/1DDG6lpTs1RIDzenH1R78u"
+      },
+      "artists": [
+        {
+          "name": "Rocket From The Crypt",
+          "url": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
       "duration_ms": 114493,
       "name": "Savoir Faire",
       "url": "https://open.spotify.com/track/4upaeIQvTYm3h4tnt2YauQ"

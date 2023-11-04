@@ -4,7 +4,7 @@
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-153 songs - 8 hr 12 min
+156 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Fortunate Son](https://open.spotify.com/track/3yI282DoIJyERd0vGukMoB) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(40th Anniversary Edition\)](https://open.spotify.com/album/4ePaYyKlg5pmQFkLu7TwV7) | 2:20 | 2021-10-06 | 2022-07-29 |
 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 | 2021-10-06 |  |
 | [Fortunate Son](https://open.spotify.com/track/6FBzZSNO4IvxorQsJRd3tz) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Grand Theft](https://open.spotify.com/album/7qh0Duem33bn3AzkMbRrF4) | 2:20 | 2021-10-06 | 2022-11-14 |
-| [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 | 2021-10-06 |  |
+| [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 | 2021-10-06 | 2023-11-04 |
+| [Friday On My Mind](https://open.spotify.com/track/3Jw1RfDEUEBBIIyNjGt9xP) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/79v0WaGkCOQCa2qIxb5DUN) | 2:54 | 2021-10-06 |  |
 | [Funnel Of Love](https://open.spotify.com/track/6uJXOi796U1D8iW9fj2ZGn) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [The Capitol Singles 1959\-1961](https://open.spotify.com/album/39htnVOmsFgAUft9YHpvZ2) | 2:08 | 2021-10-06 |  |
 | [Funnel Of Love](https://open.spotify.com/track/0bGvZuukKkV5u6tJtTcjli) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Let's Have A Party \(The Very Best Of Wanda Jackson\)](https://open.spotify.com/album/4UaX62yMKsLnTksaciTiNr) | 2:11 | 2021-10-06 | 2022-07-29 |
 | [Gimme Shelter](https://open.spotify.com/track/1dv3ePjze9tPq2pk8eWJdR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/0c78nsgqX6VfniSNWIxwoD) | 4:30 | 2021-10-06 | 2022-07-29 |
@@ -95,7 +96,8 @@
 | [Liar, Liar](https://open.spotify.com/track/25wihqbcZQksW4o8G35acQ) | [Castaways](https://open.spotify.com/artist/786h0FfIRozE9pD7pNxcGq) | [K\-tel Classics](https://open.spotify.com/album/69o0aD5JujCAdMRDHuJNLo) | 1:50 | 2021-10-06 |  |
 | [Liar, Liar](https://open.spotify.com/track/3VOS2LMDQT1t7CjoiQWRqW) | [Castaways](https://open.spotify.com/artist/786h0FfIRozE9pD7pNxcGq) | [20th Century Rocks: 60's Rock Bands \- Wild Thing](https://open.spotify.com/album/1MUOAt4ddaUtezItjih1UK) | 1:50 | 2021-10-06 | 2022-07-29 |
 | [Lies \(are breaking my heart\)](https://open.spotify.com/track/6ybSSVTO6vMVJUk2bM68Y7) | [The Knickerbockers](https://open.spotify.com/artist/3L13VZ9rCpmR1p7p6A2WGu) | [Greatest Hits](https://open.spotify.com/album/2YMcmP3pReBLBYEjtDpU9w) | 2:45 | 2021-10-06 |  |
-| [Light Flight](https://open.spotify.com/track/7LIKiKUV9WifyLyLhO2XaY) | [Pentangle](https://open.spotify.com/artist/55wOEGTc3QKwBJ9gntcOxT) | [Basket of Light](https://open.spotify.com/album/4rOoH26Xjc4vfGgwZ0qxEE) | 3:14 | 2021-10-06 |  |
+| [Light Flight](https://open.spotify.com/track/7LIKiKUV9WifyLyLhO2XaY) | [Pentangle](https://open.spotify.com/artist/55wOEGTc3QKwBJ9gntcOxT) | [Basket of Light](https://open.spotify.com/album/4rOoH26Xjc4vfGgwZ0qxEE) | 3:14 | 2021-10-06 | 2023-11-04 |
+| [Light Flight](https://open.spotify.com/track/7nmtVN5HhcdBPfi3oA3437) | [Pentangle](https://open.spotify.com/artist/55wOEGTc3QKwBJ9gntcOxT) | [Basket of Light](https://open.spotify.com/album/6C22QvOc4ombgUjY1M1ASN) | 3:14 | 2021-10-06 |  |
 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 | 2021-10-06 |  |
 | [Louie Louie](https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ) | [The Kingsmen](https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:45 | 2021-10-06 |  |
 | [Maggie's Farm](https://open.spotify.com/track/5rGD8FFgHw74cp3RPhucyg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 3:54 | 2021-10-06 |  |
@@ -140,7 +142,8 @@
 | [Surfin' Bird](https://open.spotify.com/track/58iN7HVZWCEfKhHmjYspcI) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Surfin' Bird Bird Dance Beat](https://open.spotify.com/album/6T2ZwfmmQ0EFvFMz2biYpj) | 2:14 | 2021-10-06 | 2022-07-29 |
 | [Surfin' Bird](https://open.spotify.com/track/2Mik4RyMTMGXscX9QGiDoX) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Surfin' Bird](https://open.spotify.com/album/0Jd1JEB052GzXxma58o1nX) | 2:23 | 2021-10-06 | 2023-04-29 |
 | [Surfin' Bird](https://open.spotify.com/track/091roQPTeXtncbG9qXvvXK) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Surfin' Bird](https://open.spotify.com/album/3iV70bItwMPFyhfFFMRMtp) | 2:24 | 2021-10-06 |  |
-| [Telstar](https://open.spotify.com/track/2rtaHm5SkgFzVa5Gr8oTW6) | [The Tornados](https://open.spotify.com/artist/3SblTU11ZKURsHhWGwPpt9) | [Telstar](https://open.spotify.com/album/75gluO7f8LULnkoHouCwqe) | 3:15 | 2021-10-06 |  |
+| [Telstar](https://open.spotify.com/track/2rtaHm5SkgFzVa5Gr8oTW6) | [The Tornados](https://open.spotify.com/artist/3SblTU11ZKURsHhWGwPpt9) | [Telstar](https://open.spotify.com/album/75gluO7f8LULnkoHouCwqe) | 3:15 | 2021-10-06 | 2023-11-04 |
+| [Telstar](https://open.spotify.com/track/6W5mQNW9bBqPdZq8RmJeVm) | [The Tornados](https://open.spotify.com/artist/3SblTU11ZKURsHhWGwPpt9) | [The Tornados Play Telstar And Other Great Hits](https://open.spotify.com/album/6ISa4FKmOwDUm2p0cAmxni) | 3:22 | 2021-10-06 |  |
 | [Terry](https://open.spotify.com/track/2RGoQSyesiUe15WN5ybjKw) | [Twinkle](https://open.spotify.com/artist/3crDJ76ifWM4gBITlJjEsW) | [Golden Lights](https://open.spotify.com/album/4g4r84cgJiFNLevs491U0W) | 3:11 | 2021-10-06 |  |
 | [The Hedgehog's Song \- 2010 Remaster](https://open.spotify.com/track/7IyDLBtIXS2EKZEt8trS03) | [The Incredible String Band](https://open.spotify.com/artist/0tQzBYPjAardhWpGkqVdNW) | [The 5000 Spirits Or The Layers Of The Onion](https://open.spotify.com/album/3htu0UsV5JuouSfugMHNgS) | 3:27 | 2021-10-06 |  |
 | [The Weight \- Remastered](https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Expanded Edition\)](https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk) | 4:38 | 2021-10-06 | 2022-07-29 |

@@ -4,11 +4,11 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,278 songs - 2 day 18 hr 47 min
+1,280 songs - 2 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-28 |  |
+| ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-28 | 2023-11-04 |
 | [$$$ lykke](https://open.spotify.com/track/3ru87DTbCiwmjO1hjH8OcD) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [$$$ lykke](https://open.spotify.com/album/6QUG9cuQAxOXkyOgJFQuKN) | 1:53 | 2023-10-06 | 2023-10-09 |
 | [+45 1888](https://open.spotify.com/track/3Pj6gzNBqFGI9Z1d9awvU2) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 2:50 | 2023-02-11 | 2023-04-07 |
 | [00'er Pige](https://open.spotify.com/track/5GDjJI8Fr1pAb5fXrJQppv) | [Skinz](https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx) | [00'er Pige](https://open.spotify.com/album/5RqOrrPiSZJE9ufD5WUQp4) | 2:16 | 2023-06-02 | 2023-09-19 |
@@ -660,6 +660,7 @@
 | [Koldt Herinde](https://open.spotify.com/track/5x2YhfYnPlwjmbba0wj2hS) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Koldt Herinde](https://open.spotify.com/album/40oVjtDJtYTrOcn926xePu) | 2:58 | 2023-02-04 | 2023-02-12 |
 | [Koldt Udenfor](https://open.spotify.com/track/0rEwD7QVscNnz05ooEb0qB) | [Page Four](https://open.spotify.com/artist/7HhY2BesKCaNSBRigohHXj) | [Koldt Udenfor](https://open.spotify.com/album/0vo1GonIjpeo2GIVUobBaM) | 3:11 | 2021-11-30 | 2022-12-27 |
 | [KOLO](https://open.spotify.com/track/2u6I8SJ3t0oLHH8gpwh3tX) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [INGEN ROSER UDEN TORNE](https://open.spotify.com/album/5LgXmRK2qQq5NNnQA5tLUN) | 2:54 | 2022-06-04 | 2022-06-12 |
+| [Kom Bar Du](https://open.spotify.com/track/4VE2HaNhSHLeggdk8O0pq8) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev) | [Kom Bar Du](https://open.spotify.com/album/2HvSgszkJ5oSGyVUYCEmXt) | 2:16 | 2023-11-03 |  |
 | [KOMFORTABELT](https://open.spotify.com/track/3LbIf7PslxDzCtm9vP96oT) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [KOMFORTABELT](https://open.spotify.com/album/1SkYW8fY21r5KwLFkxjPmK) | 2:06 | 2021-08-29 | 2022-01-08 |
 | [Komplimenter \(feat\. Shooter Gang\)](https://open.spotify.com/track/3r9OFjS4faHR2h8ZjZqQZV) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Komplimenter \(feat\. Shooter Gang\)](https://open.spotify.com/album/0QGxDExBFtpCMaaOiHk2Ec) | 3:21 | 2022-05-30 | 2022-06-05 |
 | [Kompromis](https://open.spotify.com/track/21buRwKEiznywpwdGp5jLL) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Kompromis](https://open.spotify.com/album/16CgqUDytyW5GhKkTqNRKN) | 3:06 | 2022-07-30 | 2022-09-02 |
@@ -855,7 +856,8 @@
 | [NOT SOBER \(feat\. Polo G & Stunna Gambino\)](https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 3:36 | 2021-07-25 | 2021-08-09 |
 | [Nothing But Love](https://open.spotify.com/track/6Sd9zsq9PKO9iNYBhweUbB) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 3:45 | 2022-01-08 | 2022-01-15 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2023-07-28 | 2023-07-30 |
-| [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2023-10-28 |  |
+| [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-03 |  |
+| [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2023-10-28 | 2023-11-04 |
 | [Nu & Her](https://open.spotify.com/track/3aO7mDhieREXwY0sLBj3JU) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [30 Somre](https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS) | 3:11 | 2022-06-18 | 2022-06-20 |
 | [Nu Er Det Jul \(Nissebanden\)](https://open.spotify.com/track/5Jqo99jKKbaSYKQ7P0SM54) | [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8) | [Et Barn Af Jul](https://open.spotify.com/album/2NoVdaZGygsj673n8ndWyV) | 3:00 | 2021-11-28 | 2022-12-28 |
 | [Ny Agenda \(Artigeardit X Lamin\)](https://open.spotify.com/track/17LOXwgfFEYvKEwMuyKyCr) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Ny Agenda](https://open.spotify.com/album/04DGAw94srEOUmHovIOyWW) | 3:24 | 2021-10-17 | 2021-10-23 |

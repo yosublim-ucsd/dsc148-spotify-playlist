@@ -172,6 +172,24 @@
     {
       "album": {
         "name": "Beautiful People (Remixes)",
+        "url": "https://open.spotify.com/album/5UYOOaR4qV3EL7mipIOxDE"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 543946,
+      "name": "Beautiful People (Underground Network Mix)",
+      "url": "https://open.spotify.com/track/0yMeUdXZmUjLpURNnyqRZY"
+    },
+    {
+      "album": {
+        "name": "Beautiful People (Remixes)",
         "url": "https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN"
       },
       "artists": [
@@ -182,7 +200,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 546586,
       "name": "Beautiful People - Underground Network Mix",
       "url": "https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u"
@@ -438,10 +456,28 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 390560,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/22eUyC9vOG2aoP5yHX8VxV"
+    },
+    {
+      "album": {
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392293,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Caroline Polachek
 
-1,369 songs - 3 day 9 hr 10 min
+1,370 songs - 3 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1136,7 +1136,8 @@
 | [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 | 2022-08-19 | 2022-10-08 |
 | [Sweetpie](https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:38 | 2022-01-21 | 2022-02-26 |
 | [Sweetwater](https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Sweetwater](https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg) | 5:40 | 2022-03-25 | 2022-05-14 |
-| [Sweety](https://open.spotify.com/track/6iqafarNYkdsslX63AFBiS) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Sweety](https://open.spotify.com/album/2Nx9NeoP4zItV8puNz5qW0) | 2:49 | 2023-10-13 |  |
+| [Sweety](https://open.spotify.com/track/25Re7w5mH0qcSLLhmSjWWA) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 2:49 | 2023-10-27 |  |
+| [Sweety](https://open.spotify.com/track/6iqafarNYkdsslX63AFBiS) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Sweety](https://open.spotify.com/album/2Nx9NeoP4zItV8puNz5qW0) | 2:49 | 2023-10-13 | 2023-11-04 |
 | [Swim to You](https://open.spotify.com/track/2Xetb5CIVzOMJ5wjbofzeu) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Swim to You](https://open.spotify.com/album/1olu6qdnD1oA0Hm9YiCAzA) | 2:57 | 2022-06-24 | 2022-08-06 |
 | [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 | 2022-02-11 | 2022-03-26 |
 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2022-03-11 | 2022-08-27 |

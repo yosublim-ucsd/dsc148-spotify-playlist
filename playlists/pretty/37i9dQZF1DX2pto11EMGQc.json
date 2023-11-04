@@ -1,12 +1,12 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 93710,
+  "num_followers": 93711,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTA2NzJkMTAyNjBhMTMzNjgwY2EwMGI2NTYxYzdhYTRmNzc4YWI5",
+  "snapshot_id": "MCxlYTM5Y2E4Y2YzNjBhMjJlNTViNTBjOWVhNzQxNzMzMzllOWYyZTBl",
   "tracks": [
     {
       "added_at": "2022-05-11 15:37:27",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "The Click (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Burn The House Down",
-      "url": "https://open.spotify.com/track/0TkJIyL69RAUIbNwGub6uR"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "Jagged Little Thrill",
         "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
       },
@@ -943,6 +927,26 @@
       "duration_ms": 231173,
       "name": "Let It Rock",
       "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "B.o.B Presents: The Adventures of Bobby Ray",
+        "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "Rivers Cuomo",
+          "url": "https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "Magic (feat. Rivers Cuomo)",
+      "url": "https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP"
     }
   ],
   "unique_name": "Bachelor Party",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 
 > Ya sea en la rampa o en la consola, así sonaba montar en patineta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,022 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,076 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Anarchy In the UK](https://open.spotify.com/track/17YNjZoMHOoS8BM1fcgiBk) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [The Sex Pistols](https://open.spotify.com/album/2BYBgtFWz6nqFfZQKvsLf6) | 3:33 |
 | 2 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 |
-| 3 | [Dig That Groove Baby](https://open.spotify.com/track/1cytqiMB4LIh3hbG9kd6X4) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [We're Mad! The Anthology](https://open.spotify.com/album/6WLFWYCicr3YFuPO2kOnh6) | 2:31 |
+| 3 | [Dig That Groove Baby](https://open.spotify.com/track/6CF9Eua4NiiB0gmeObmZ8w) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [We're Mad! The Anthology](https://open.spotify.com/album/6ZQk8OSfWt6kzoU4Jqx8Sy) | 2:31 |
 | 4 | [Freightliner](https://open.spotify.com/track/6U9xkvV0dLXN598VuSYCyt) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Fuel For The Hate Game \(Expanded Edition\)](https://open.spotify.com/album/2dFIDimd1AX5wuRrjbBahp) | 3:17 |
 | 5 | [New Girl](https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 2:03 |
 | 6 | [Not the Same](https://open.spotify.com/track/0q6Qyd2QaHMHp7APKyQsyi) | [Bodyjar](https://open.spotify.com/artist/2LyXoG111QdqfI0HLYQgvS) | [How It Works](https://open.spotify.com/album/3OXgyKFsDVI8PzYY0mspqD) | 3:08 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 | 14 | [Express Yourself](https://open.spotify.com/track/52IuMfbQa9aqRPz2oYPAI8) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 4:25 |
 | 15 | [You](https://open.spotify.com/track/71dRBSmaKMdaFZPeZlVzf5) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 2:06 |
 | 16 | [Drunken Lullabies](https://open.spotify.com/track/7caiyAewYYoWu5rZZgQWgn) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3) | 3:50 |
-| 17 | [Ace of Spades](https://open.spotify.com/track/3Dg3QZpHkrEVnj87TxBz6G) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades](https://open.spotify.com/album/7cTXWw02BWHxyH77wRfhuQ) | 2:46 |
+| 17 | [Ace of Spades](https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 2:48 |
 | 18 | [96 Quite Bitter Beings](https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl) | [CKY](https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK) | [Camp Kill Yourself, Vol.1](https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw) | 3:21 |
 | 19 | [May 16](https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Let's Talk About Feelings](https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz) | 2:56 |
 | 20 | [Bad Fun](https://open.spotify.com/track/4lZ0jJ18JHo9GR4SK5s0nZ) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Electric](https://open.spotify.com/album/40P0nhd8xLFpuWt6TmR4lB) | 3:34 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 | 65 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 |
 | 66 | [Amoeba](https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC) | [Adolescents](https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr) | [Adolescents](https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d) | 3:06 |
 | 67 | [Giant](https://open.spotify.com/track/32inVNSf3i5F30rjEvwU4b) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Charged](https://open.spotify.com/album/2G3OcVw6DwFwl8PyoRC7tA) | 3:55 |
-| 68 | [Savoir Faire](https://open.spotify.com/track/4upaeIQvTYm3h4tnt2YauQ) | [Rocket From The Crypt](https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h) | [Group Sounds](https://open.spotify.com/album/1DDG6lpTs1RIDzenH1R78u) | 1:54 |
+| 68 | [Savoir Faire](https://open.spotify.com/track/4A78VjJRlgrAsi1dRTpXVT) | [Rocket From The Crypt](https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h) | [Group Sounds](https://open.spotify.com/album/5pAQ8lYvdjbdS6VTj54s1c) | 1:54 |
 | 69 | [Bring Tha Noize](https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd), [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Apocalypse 91… The Enemy Strikes Black](https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo) | 3:47 |
 | 70 | [Connect To Consume](https://open.spotify.com/track/4AedKkOIuagtOQ6uvxWfiN) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Paid Salvation](https://open.spotify.com/album/0zAxayJBKcqXptUlvt14xH) | 3:14 |
 | 71 | [Beach Blanket Bongout \(Jfa\)](https://open.spotify.com/track/5PlUi2pY9gAVqD0nYnI1Ou) | [A.N.S.](https://open.spotify.com/artist/7EQrnCUHtVg5uyIgSMxtpl) | [Let Them Eat Wood](https://open.spotify.com/album/3Ot3XX6gLz9MnUMzGOS9iH) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 | 74 | [Non Compos Mentis](https://open.spotify.com/track/1GS9WWgNkqhR45YcdGPnBW) | [Haiku D'Etat](https://open.spotify.com/artist/5yLqc0R4cy4fVot8LuEkj4) | [Haiku D'Etat](https://open.spotify.com/album/45zWOfhF7pA5aIfkWypsnz) | 4:11 |
 | 75 | [Hush](https://open.spotify.com/track/7q0xO3uiDpfqyyWXNMWspM) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Sneak Attack](https://open.spotify.com/album/5xuI6nfWnsMKQMZgQFJMBN) | 3:55 |
 
-Snapshot ID: `MCwyM2E0N2QzZDBkMjFkMWZlZGY3ZjVlZjdmNzMzYjlkM2M5MjY4OGYw`
+Snapshot ID: `MCxjMDJiYjNjMGM0N2I4OTZmNjJlODJlYTBlY2M5NmYzZDFkMWJkMzlh`

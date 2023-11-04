@@ -1,12 +1,12 @@
 {
   "description": "M\u00e1s m\u00fasica, menos etiquetas. \n\ud83d\udcf7 Dillom",
-  "num_followers": 86774,
+  "num_followers": 86791,
   "original_name": "piola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzE3NWY0YzI5MzdkYTJmNGViYzhkMjdhYzQ3YWZmZjhjNTFkYWU3",
+  "snapshot_id": "MCw4ZTA5Yjc0ZmQ5MjUzN2ZkOWQxNmM4MWVmZDAxMTQyZWM2N2MwODI2",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -230,6 +230,10 @@
         {
           "name": "Bestia Beb\u00e9",
           "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        },
+        {
+          "name": "Lucas Jaubet",
+          "url": "https://open.spotify.com/artist/2l3yo52RkuDBVnalY9pBpr"
         }
       ],
       "duration_ms": 241297,

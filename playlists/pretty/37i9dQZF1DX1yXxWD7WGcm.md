@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Fanny J
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,375 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,492 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 36 | [Besoin d'amour](https://open.spotify.com/track/3WKj7OCct7oIiK4Nn8OL1u) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Gadji Celi](https://open.spotify.com/artist/4wano3p9ICDVCTllzj2qcc) | [A la recherche du bonheur](https://open.spotify.com/album/6FMHdHjTxMFO9TgKNyPpZv) | 4:07 |
 | 37 | [Lè ou lov](https://open.spotify.com/track/3XkvHCG8tMtQLOpIW6vqld) | [Jean\-Michel Rotin](https://open.spotify.com/artist/11DvnOgfRFa9QTAnM8VbXo) | [Viens zouker, vol\. 5](https://open.spotify.com/album/4frSY8kCNasO8e5xmlT6WM) | 3:58 |
 | 38 | [Chaviré mwen](https://open.spotify.com/track/4VrAlqQ2frjH4qOa7L8AQ5) | [Nichols](https://open.spotify.com/artist/6rvJUax9W8BrBC6nL6Rl8W) | [SEVEN](https://open.spotify.com/album/2Z1dC2tIfE630VlJ7cvav4) | 4:11 |
-| 39 | [Syé bwa](https://open.spotify.com/track/1mm94lmnVlbyrsa9PgSCvS) | [Kassav](https://open.spotify.com/artist/2vI858Cxtz915SlqYtlais) | [Vini Pou](https://open.spotify.com/album/4UD2qoE1duOinDCKhB83f6) | 4:38 |
+| 39 | [Syé bwa](https://open.spotify.com/track/01l7fFEeJzWD2dnOIMYUOT) | [Kassav](https://open.spotify.com/artist/2vI858Cxtz915SlqYtlais) | [Syé bwa](https://open.spotify.com/album/1eEDOjnKdTTisQovSh2kiP) | 4:36 |
 | 40 | [Amour impossible](https://open.spotify.com/track/2V5RBUUwk6trHsUX1G1sQg) | [Yoan](https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke), [Milca](https://open.spotify.com/artist/5YE3riVoIML4fFnfqJzK3L) | [Premier souffle](https://open.spotify.com/album/6lBNyP8yReqPmafALc3DEi) | 5:22 |
 | 41 | [Vini dou](https://open.spotify.com/track/5SgzHvTty3hEQtedanwuoM) | [Victor O](https://open.spotify.com/artist/4fgrqYvn91Z7ERoT9nbwkk) | [Victor O \- Vini Dou](https://open.spotify.com/album/3vwp4i05eJQN2TDW13CJx0) | 4:26 |
 | 42 | [J'ai trouvé l'erreur](https://open.spotify.com/track/6U8V3gE0GhNcixbRzHt8oB) | [Warren](https://open.spotify.com/artist/6pJdJSI3HsmjyL1wccGqxI), [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [E\-zouk](https://open.spotify.com/album/3rDIHpjFKSpPnU4UlAaNmv) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 49 | [Juste nous](https://open.spotify.com/track/7MnZqqg8l7TbxljbR6wpzl) | [Ali Angel](https://open.spotify.com/artist/4Go5t4FdYisfctyaNud3ZD) | [Hit Me…](https://open.spotify.com/album/2YZcaq5pJCqx2oJlANjW3C) | 4:49 |
 | 50 | [Pas de glace](https://open.spotify.com/track/2VatihdEUuhWjzTBw0iNUX) | [Jane Fostin](https://open.spotify.com/artist/1o9vz6gZBwCzkD1dC5sWUO), [Medhy Custos](https://open.spotify.com/artist/4yUROciHRAtEr2S3h33qZd) | [Alibi](https://open.spotify.com/album/0wUtizUcQyIebLLynh4JZq) | 4:05 |
 
-Snapshot ID: `MCwxZDkxYjFkM2NiNjU2N2VmNzkyMTJhMmU0Y2QzYTRkNGVhNWU0NTg1`
+Snapshot ID: `MCxjMjA2MmUzYmIzNGYyYjg5OGI1ZGU1YjE1ZTBhYTk0ZjkwNzcwNDI1`

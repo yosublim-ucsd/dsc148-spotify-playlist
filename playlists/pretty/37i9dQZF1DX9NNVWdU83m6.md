@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,546 likes - 121 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,619 likes - 121 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 41 | [Stadium Jazz](https://open.spotify.com/track/5jmC7XRZ7iPQS25o3iGgJI) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Casting for Gravity \(feat\. Jason Lindner, Tim Lefebvre & Mark Guiliana\)](https://open.spotify.com/album/34D47CVvLiw6yctVw1kzER) | 7:17 |
 | 42 | [Extraction](https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6) | [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Extraction](https://open.spotify.com/album/7jWTOy2PAD52QCw7P4rRKT) | 6:13 |
 | 43 | [Tabula Rasa](https://open.spotify.com/track/3mfrB3krsm3e771bMzL2xQ) | [Morgan Guerin](https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d) | [The Saga](https://open.spotify.com/album/6HL8QJZjhiAL9dHGKUgD6o) | 8:04 |
-| 44 | [The Audacity \(feat\. Anomalie\)](https://open.spotify.com/track/2y0w6lpY8SGTuY8LglChi6) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:24 |
+| 44 | [The Audacity \(feat\. Anomalie\)](https://open.spotify.com/track/5IUJhfkBBRrvWuxrTA7SnE) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Remember That You Will Die](https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw) | 2:24 |
 | 45 | [Cptn Future](https://open.spotify.com/track/5H3mx4ktZNnTsBmtx6UbS4) | [NuHussel Orchestra](https://open.spotify.com/artist/70XGkuNGNpVAw6vRuLqekN) | [Kids](https://open.spotify.com/album/4lihRwOl6BCy8VOZSdyPL8) | 5:02 |
 | 46 | [Radio School](https://open.spotify.com/track/7dKllKoKw2hddcsyMEDG90) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [Dirty Horse](https://open.spotify.com/album/79vxo0lhrWzTikbUNawOUL) | 9:04 |
 | 47 | [Caliber](https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H), [Dana Hawkins](https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe), [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Fredrik Thordendal](https://open.spotify.com/artist/5I0eQC4oxRaW8DRe4XithF) | [Caliber](https://open.spotify.com/album/1Gr1MnBQE43JRmeccpu8La) | 3:13 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 120 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 |
 | 121 | [Earthrise \- Remastered 2023](https://open.spotify.com/track/4ZuilI3GqubKxMFMyuWGWH) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage \(2023 Remastered & Expanded Edition\)](https://open.spotify.com/album/2dfny28poOXsb8HxYGbRYf) | 6:41 |
 
-Snapshot ID: `MCw0YjNhZGVjMmY3NWE0ODZkZjI4MzYyY2M5NWIxN2IxZTllM2NkMDQw`
+Snapshot ID: `MCxkM2YxNzBmYzdkNTJjZDE1ZjY1ZDg0MGVlYmExNmQzMzk2NmQyOGEz`

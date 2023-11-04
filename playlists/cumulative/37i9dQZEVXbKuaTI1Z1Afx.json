@@ -18387,6 +18387,28 @@
     },
     {
       "album": {
+        "name": "All Five Nights",
+        "url": "https://open.spotify.com/album/0VMe8U5hfSlZUP7Xw9Xwln"
+      },
+      "artists": [
+        {
+          "name": "JT Music",
+          "url": "https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk"
+        },
+        {
+          "name": "Andrea Storm Kaden",
+          "url": "https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236511,
+      "name": "Join Us for a Bite",
+      "url": "https://open.spotify.com/track/4E6QZS2KoOE1U64yMrtpIN"
+    },
+    {
+      "album": {
         "name": "JOKER",
         "url": "https://open.spotify.com/album/4xOiHZgwfz07RULSAmRNdd"
       },
@@ -40236,7 +40258,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 145360,
       "name": "Witch Doctor",
       "url": "https://open.spotify.com/track/4kovpzSYYoguJxUXQesQ13"

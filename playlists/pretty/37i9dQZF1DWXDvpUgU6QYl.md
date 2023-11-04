@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 
 > A groovy and soulful house collection\. Cover: Prok & Fitch
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,428 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,474 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 | 15 | [Git Outta My House](https://open.spotify.com/track/6doLMBZiN30dJfW04G1AYM) | [Sugarstarr](https://open.spotify.com/artist/7FXy2Mz6gHQKouWYhNz0NK) | [Git Outta My House](https://open.spotify.com/album/4scfJllkC9BkOwItwoeW8c) | 3:16 |
 | 16 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 |
 | 17 | [Minor Fools \- Edit](https://open.spotify.com/track/5Tnn9kaAshnriaS9jKeMio) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Minor Fools](https://open.spotify.com/album/1Av53Ax9wI3qTHSBpmYzKx) | 3:52 |
-| 18 | [This Track](https://open.spotify.com/track/4aultJJqviNskMrhj3Ji3N) | [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf), [Phunkadelica](https://open.spotify.com/artist/33cby3EjCXw067xjlgOzBj), [Ready In Led](https://open.spotify.com/artist/1zukZh0t0Xmp7HGF7Znmx5) | [The Weather Report, Vol\. 1](https://open.spotify.com/album/2hk8zHNUFuevB3xdG2wRbS) | 4:57 |
+| 18 | [This Track](https://open.spotify.com/track/4aultJJqviNskMrhj3Ji3N) | [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf), [Phunkadelica](https://open.spotify.com/artist/33cby3EjCXw067xjlgOzBj), [Ready In LED](https://open.spotify.com/artist/6VfpeLTukyuFbKMgQdeNkZ) | [The Weather Report, Vol\. 1](https://open.spotify.com/album/2hk8zHNUFuevB3xdG2wRbS) | 4:57 |
 | 19 | [Our House](https://open.spotify.com/track/3Jpf1gn9uR4tbL35HT0yPj) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Our House](https://open.spotify.com/album/3aqsOlBHvcuDQvNJNuSWwM) | 3:03 |
 | 20 | [Nobody Else Will Do](https://open.spotify.com/track/0X2BDvXWRUYKkgOvWqvUdM) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 3:33 |
 | 21 | [Krayzee](https://open.spotify.com/track/3TvbT40I2mQUn6jliOM82r) | [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [Astro\-Cat](https://open.spotify.com/artist/7AqFHR0xmbUjgrIuQvj8zW) | [Krayzee](https://open.spotify.com/album/0mh0kqpTJViSsWPCaW8mgY) | 5:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 | 59 | [Craving Crew](https://open.spotify.com/track/5tKtyc5xbc9dXjavBIEMPp) | [Tomasi Brothers](https://open.spotify.com/artist/3lc2hwCYX5BRmUzqXVazyE) | [Rythm Diaries](https://open.spotify.com/album/0mFnNsFZdYhqRseH4YHuV3) | 5:11 |
 | 60 | [Circles \(feat\. Mariah Carey\)](https://open.spotify.com/track/1KTNJSTPYBLByQ14cJRGlO) | [e\-lie](https://open.spotify.com/artist/0GtpciMDV8Z7j30Tg0Ew7x), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Circles \(feat\. Mariah Carey\)](https://open.spotify.com/album/6whfBjD94WUB3kHIhDFPYG) | 3:02 |
 
-Snapshot ID: `MCw5NGU2OGRiZDA4NDkzNGExNzhjN2U4ZGQ5ZDgyYzdiOWNiYmU5OGYy`
+Snapshot ID: `MCwyZDdhYzk4ZjExMDU0MmY5OTViMTM2NzY5MTgxYTRmZWQyZWEwYzY3`

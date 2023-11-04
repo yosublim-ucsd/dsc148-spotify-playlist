@@ -4,7 +4,7 @@
 
 > Summer or not: get into a sunny and beachy mood, with this selection of reggae born music.
 
-89 songs - 5 hr 14 min
+90 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Kingston Town](https://open.spotify.com/track/6cOrnBtY3jN76BQpYTiD8v) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Escape From Babylon To The Kingdom Of Zion](https://open.spotify.com/album/4x1pz0J3wbz4KWOjk1MCrf) | 3:10 | 2020-11-18 | 2022-07-29 |
 | [Kingston Town](https://open.spotify.com/track/2OHQhOiGIYaXqqJVIMpNrF) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Soul Pirate](https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC) | 3:12 | 2020-11-18 |  |
 | [La Pelea](https://open.spotify.com/track/1ibTjlZgMLH4xgPX45Zn8f) | [J\-King y Maximan](https://open.spotify.com/artist/6UBb8ZUUyarsyod6snflAR) | [La Pelea](https://open.spotify.com/album/1VbKGjtvQQvFApDSs95oau) | 3:40 | 2020-11-18 |  |
-| [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 | 2020-11-18 |  |
+| [Lean On](https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Peace Is The Mission](https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM) | 2:56 | 2020-11-18 |  |
+| [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 | 2020-11-18 | 2023-11-04 |
 | [Lean On](https://open.spotify.com/track/5HV6C387PhPGCFJPxWdLGY) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Lean On \(Remixes\)](https://open.spotify.com/album/7dGgwByFn57Fg9FVng8aZh) | 2:56 | 2020-11-18 | 2022-11-13 |
 | [Lean On \(feat\. MØ & DJ Snake\)](https://open.spotify.com/track/4WjH9Bzt3kx7z8kl0awxh4) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission](https://open.spotify.com/album/2XBnxKeRZi76u2iyGcMych) | 2:56 | 2020-11-18 | 2022-07-29 |
 | [Mama She Don't Like You \(feat\. I Eye\)](https://open.spotify.com/track/13OTG0HfiSCa4HqkTuKkBS) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG), [I.Eye](https://open.spotify.com/artist/01zqTZ32M8dp9sjSRFlNCt) | [Specialist Presents Alborosie & Friends](https://open.spotify.com/album/4Ff7Bbdh51v4Dp7kJSS4sD) | 3:56 | 2020-11-18 | 2022-11-13 |

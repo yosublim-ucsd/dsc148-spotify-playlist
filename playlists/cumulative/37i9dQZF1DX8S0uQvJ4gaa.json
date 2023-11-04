@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Carter Faith",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Kameron Marlowe",
   "name": "New Boots",
   "tracks": [
     {
@@ -490,6 +490,24 @@
       "duration_ms": 202096,
       "name": "A Little Good News",
       "url": "https://open.spotify.com/track/1JYkNk1r9bXz4xvxzcU7bc"
+    },
+    {
+      "album": {
+        "name": "A Lot With A Little",
+        "url": "https://open.spotify.com/album/7kvd9kffW9lfOCpq0uUyqB"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183508,
+      "name": "A Lot With A Little",
+      "url": "https://open.spotify.com/track/18pEQZgG2PMmUre3C2Tq74"
     },
     {
       "album": {
@@ -3353,6 +3371,24 @@
     },
     {
       "album": {
+        "name": "For You 2",
+        "url": "https://open.spotify.com/album/2A35FaFPGRANYw0vh0ctRk"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138026,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/2tyoliWMdmudrQuQbGuKzJ"
+    },
+    {
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/56xSwVIp6AcuRrQjbbUeGz"
       },
@@ -3364,7 +3400,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 138026,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/5F8MMujEHaI2qqmj4EcwBP"
@@ -13852,7 +13888,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 210065,
       "name": "I Can Lie (The Truth Is)",
       "url": "https://open.spotify.com/track/5qqIccBZC1LfSGPU04Px26"
@@ -16744,7 +16780,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 196026,
       "name": "Let Your Boys Be Country",
       "url": "https://open.spotify.com/track/1v1bVyUOVYDpXRIcAJ24iQ"
@@ -22584,6 +22620,24 @@
     {
       "album": {
         "name": "Pill",
+        "url": "https://open.spotify.com/album/50aQUH3IU37mxCgTAi9yHO"
+      },
+      "artists": [
+        {
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283384,
+      "name": "Pill",
+      "url": "https://open.spotify.com/track/0xUNUBJAxEj3irTEMdXgGh"
+    },
+    {
+      "album": {
+        "name": "Pill",
         "url": "https://open.spotify.com/album/6FTgNHJaDjNDcTyNEuTGn4"
       },
       "artists": [
@@ -22594,7 +22648,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 283384,
       "name": "Pill",
       "url": "https://open.spotify.com/track/6pfaZlwCqlzyhZasTMdfxz"
@@ -22666,7 +22720,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 181498,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
@@ -23652,10 +23706,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 209506,
       "name": "Remember Us",
       "url": "https://open.spotify.com/track/1gViTTMR3v0COYuvIHIxVL"
+    },
+    {
+      "album": {
+        "name": "Remember Us?",
+        "url": "https://open.spotify.com/album/6aqxYkrdxD57QL2jJF17sk"
+      },
+      "artists": [
+        {
+          "name": "John Morgan",
+          "url": "https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209506,
+      "name": "Remember Us",
+      "url": "https://open.spotify.com/track/1k0idEJ0uiXYxYkTFa3Al7"
     },
     {
       "album": {
@@ -28151,6 +28223,24 @@
     },
     {
       "album": {
+        "name": "Tennessee Don't Mind",
+        "url": "https://open.spotify.com/album/3YQyzsRPVsbGGFig4lvcpz"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242596,
+      "name": "Tennessee Don't Mind",
+      "url": "https://open.spotify.com/track/6LaW2p9BxzbSGefvoW8Y4T"
+    },
+    {
+      "album": {
         "name": "Tennessee Orange",
         "url": "https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1"
       },
@@ -29796,6 +29886,24 @@
       "duration_ms": 195533,
       "name": "Till There's Nothing Left",
       "url": "https://open.spotify.com/track/3xERNjol68IJkC8HIicJiL"
+    },
+    {
+      "album": {
+        "name": "Tim + Faith",
+        "url": "https://open.spotify.com/album/3ln8DFI7SEUD5kJPddGEsc"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230106,
+      "name": "Tim + Faith",
+      "url": "https://open.spotify.com/track/1sFe3bncgvZROAQsebpKaA"
     },
     {
       "album": {
@@ -32397,6 +32505,28 @@
     },
     {
       "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196053,
+      "name": "Whiskey Bent (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH"
+    },
+    {
+      "album": {
         "name": "Whiskey Can't",
         "url": "https://open.spotify.com/album/4sERtXmIt0fusA9kmRcrNT"
       },
@@ -32704,6 +32834,24 @@
       "duration_ms": 193349,
       "name": "Whole Town Talk",
       "url": "https://open.spotify.com/track/0oreonGaTltKXst0kj5Bmo"
+    },
+    {
+      "album": {
+        "name": "Highway Desperado",
+        "url": "https://open.spotify.com/album/13LwHOvi9moGBu9Q9uYNpI"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196773,
+      "name": "Whose Rearview",
+      "url": "https://open.spotify.com/track/2ap4uymOqE43iFdzSoUoRq"
     },
     {
       "album": {
@@ -33094,7 +33242,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 163622,
       "name": "Wine Country",
       "url": "https://open.spotify.com/track/6nBdLYF7BwSpTb2ygw8oFK"
@@ -33398,7 +33546,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 169013,
       "name": "Work Boots",
       "url": "https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT"

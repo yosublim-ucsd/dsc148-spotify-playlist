@@ -4,7 +4,7 @@
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-523 songs - 1 day 1 hr 29 min
+525 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 | 2022-07-22 | 2022-09-03 |
 | [Gorgeous](https://open.spotify.com/track/5e2jIB5KT9kmTDCBzAmvQr) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Controversy](https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9) | 2:33 | 2023-05-18 | 2023-06-24 |
 | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD) | 3:34 | 2023-08-25 | 2023-10-14 |
-| [Got Da Sack \(feat\. G Herbo\)](https://open.spotify.com/track/45hTjcwYQu4y6weOizcRAf) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Got Da Sack \(feat\. G Herbo\)](https://open.spotify.com/album/0PSRjxFwEZYBzw0e8EgYns) | 2:33 | 2023-10-13 |  |
+| [Got Da Sack \(feat\. G Herbo\)](https://open.spotify.com/track/45hTjcwYQu4y6weOizcRAf) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Got Da Sack \(feat\. G Herbo\)](https://open.spotify.com/album/0PSRjxFwEZYBzw0e8EgYns) | 2:33 | 2023-10-13 | 2023-11-04 |
+| [Got Da Sack \(feat\. G Herbo\)](https://open.spotify.com/track/5oNCp1jwmbaCnAKXQcRrwn) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Got Da Sack \(feat\. G Herbo\)](https://open.spotify.com/album/5NfTefJvZRLbboFPA5bHZ2) | 2:33 | 2023-10-28 |  |
 | [Got Me Hot](https://open.spotify.com/track/5KGRNJjSz2SFRz2tAZRbxB) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Got Me Hot](https://open.spotify.com/album/39yoVq03KDoIDijiyMHZ3j) | 2:50 | 2023-10-13 |  |
 | [Griptape'!!](https://open.spotify.com/track/5wUVcvWtmLdGhkFiBXvvcF) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI) | [GUMBO'! \(DELUXE'!!\)](https://open.spotify.com/album/3lbykwaYsJtalO3JLO9vKm) | 4:12 | 2022-07-01 | 2022-07-19 |
 | [Grocery Freestyle](https://open.spotify.com/track/6POpagXwotnNvqBTjD7uez) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Grocery Freestyle](https://open.spotify.com/album/786kdQmaDyMSLBemNzzoDM) | 3:01 | 2023-06-10 | 2023-07-29 |
@@ -268,7 +269,8 @@
 | [Late Night](https://open.spotify.com/track/5uOmTglnawn691VfvHC4YY) | [Kennyflowers](https://open.spotify.com/artist/7eC8Ihn4DtTy9tFK0S3Gdp) | [Late Night](https://open.spotify.com/album/6ucpReBN9jbHWvY4IV8ToM) | 2:14 | 2021-10-08 | 2022-03-05 |
 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 | 2023-05-18 | 2023-06-11 |
 | [Lemme See](https://open.spotify.com/track/1u4pvznoU57shxIRC1SCzE) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Lemme See](https://open.spotify.com/album/6F0OblQzVwDqeezGmVtukA) | 2:47 | 2022-01-29 | 2022-04-16 |
-| [Lenny Cooke](https://open.spotify.com/track/6jkoFl438J3fNH38dk7Amu) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Lenny Cooke](https://open.spotify.com/album/6jdxGiQy5ZulPW0IoAwDoX) | 2:27 | 2023-10-13 |  |
+| [Lenny Cooke](https://open.spotify.com/track/10yF9Kpv5uugqTqaySGgwI) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Lenny Cooke](https://open.spotify.com/album/4eZzqidvBsJASO7wvwR364) | 2:27 | 2023-10-28 |  |
+| [Lenny Cooke](https://open.spotify.com/track/6jkoFl438J3fNH38dk7Amu) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Lenny Cooke](https://open.spotify.com/album/6jdxGiQy5ZulPW0IoAwDoX) | 2:27 | 2023-10-13 | 2023-11-04 |
 | [Let Down My Guard](https://open.spotify.com/track/35fpJrAudPdQL0ToRhavUN) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 3:12 | 2023-04-15 | 2023-07-29 |
 | [let him cooketh \(No Bev\)](https://open.spotify.com/track/4Je3shjTH5uUyFQJS0Tuvz) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [let him cooketh \(No Bev\)](https://open.spotify.com/album/7A2yxNKZivHUrgV0pHbFwb) | 2:15 | 2023-05-18 | 2023-08-12 |
 | [let it fly](https://open.spotify.com/track/6EMJKZxejykO2nGfOxggEF) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [let it fly](https://open.spotify.com/album/1pMtm1ezZsrxNVFtVZ22EL) | 2:06 | 2022-04-02 | 2022-06-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWDUTr5d7Wq.md) - [plain]
 
 > Dive into the songwriting and production influences that inspired boygenius and laid the blueprint for their latest release, 'the record.'
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,450 likes - 82 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,543 likes - 82 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWDUTr5d7Wq.md) - [plain]
 | 23 | [Peninsula](https://open.spotify.com/track/0xP7KHjAjhW9rHDbT2lFnm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:31 |
 | 24 | [Teen Challenge](https://open.spotify.com/track/5KGjWhVzlSDeTxA5FIUZvZ) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Plastic Cough](https://open.spotify.com/album/50sB7QKCcIJiNPeYeQgV3N) | 3:48 |
 | 25 | [Whirring](https://open.spotify.com/track/2XbqxKjCnE9YWfPRqwgtPq) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 6:47 |
-| 26 | [The Devil Takes Care of His Own](https://open.spotify.com/track/3eiEVxOkDb65xxhAzAtki7) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Sweet Sour](https://open.spotify.com/album/2ixobpSRUPyIBLIvX2lA4c) | 3:04 |
+| 26 | [The Devil Takes Care of His Own](https://open.spotify.com/track/07xFI3lN7ILqP8YaNUxA6d) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Sweet Sour](https://open.spotify.com/album/2jOrRMiY30e7FfcQxRQ8yw) | 3:04 |
 | 27 | [Lust For Life](https://open.spotify.com/track/2aN0YiOoQwe4Sjcu8Sgijw) | [Girls](https://open.spotify.com/artist/6eO95BjZhrWHREMfwC4vVN) | [Album](https://open.spotify.com/album/3jo1GRqnwVlN23KUgcaCL9) | 2:25 |
 | 28 | [\(Joe Gets Kicked Out of School for Using\) Drugs With Friends \(But Says This Isn't a Problem\)](https://open.spotify.com/track/4TlE6betO4tqzEn0bREQfq) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Teens Of Denial](https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP) | 5:37 |
 | 29 | [Black Boys on Mopeds](https://open.spotify.com/track/58H2Z73c7k2UoTMAR739Az) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 3:52 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWDUTr5d7Wq.md) - [plain]
 | 81 | [Needles In The Camel's Eye \- 2004 Digital Remaster](https://open.spotify.com/track/79oH2M0vWq9bRYpNTCrlHu) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 3:11 |
 | 82 | [March](https://open.spotify.com/track/5nVDoEjDyn3CGwug0G9o2V) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Kindly Now](https://open.spotify.com/album/2STN4lLvNNRsO0FuatKqVI) | 2:19 |
 
-Snapshot ID: `MCxmNmVjMTY3NmNkMmMwYjYxMzVjYjFkMGNiYmY2YWI2OWRlMDU4MTkx`
+Snapshot ID: `MCxlMTYyMDdkYjcwNTY3NzVhMGRhYzc0N2E2MTViMTMxZmI1NTI1YmNk`

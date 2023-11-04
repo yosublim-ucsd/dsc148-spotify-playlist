@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-885 songs - 1 day 16 hr 9 min
+887 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,8 @@
 | [nobody else](https://open.spotify.com/track/5tNsiJvMrreUQASdTU4FVh) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [nobody else](https://open.spotify.com/album/2cROz0PXt0BsCGnQXRApNf) | 2:32 | 2022-04-01 |  |
 | [Normal](https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Normal](https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL) | 2:42 | 2022-10-07 |  |
 | [North Star](https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY) | [Mackned](https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ) | [God Mom](https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB) | 2:03 | 2023-02-10 |  |
-| [Not a Home](https://open.spotify.com/track/1aDEr0TNgY3a9ea90UL0Mj) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I'm The Dumb One](https://open.spotify.com/album/5yLRCGUTDJ3OL145u85Wpi) | 2:49 | 2023-04-12 |  |
+| [Not a Home](https://open.spotify.com/track/029plxw4oAFSaDZOyVtrue) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/album/0D0K1XSh7i6MkbWBZTPmeH) | 2:49 | 2023-09-01 |  |
+| [Not a Home](https://open.spotify.com/track/1aDEr0TNgY3a9ea90UL0Mj) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I'm The Dumb One](https://open.spotify.com/album/5yLRCGUTDJ3OL145u85Wpi) | 2:49 | 2023-04-12 | 2023-11-04 |
 | [Not a Home](https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Not a Home](https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr) | 2:49 | 2022-07-22 | 2023-07-02 |
 | [not a home](https://open.spotify.com/track/3uhBPLTvFEwow2KZaoEQRJ) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [not a home](https://open.spotify.com/album/5exWGk9ukorwDTosy5C3ln) | 2:49 | 2022-05-13 | 2022-07-29 |
 | [Not Around](https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa) | [Nova](https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF) | [Not Around](https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P) | 3:03 | 2021-12-17 | 2022-01-19 |
@@ -671,7 +672,8 @@
 | [Shattered Dreams](https://open.spotify.com/track/2LQb3iYBzoxbxct2IexjBc) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Some Rap Songs](https://open.spotify.com/album/66at85wgO2pu5CccvqUF6i) | 2:21 | 2021-10-23 | 2021-10-30 |
 | [Shaun White](https://open.spotify.com/track/7bcuO1wFvhjYErw3YHgJjI) | [cr1tter](https://open.spotify.com/artist/0A5sCOcNtMRg1oaU7XpsPR) | [UnderDog Tale](https://open.spotify.com/album/5SL27P9vVdAYEniywJVRzE) | 2:54 | 2023-10-13 |  |
 | [She](https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:13 | 2021-10-23 | 2021-10-30 |
-| [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 | 2022-07-22 |  |
+| [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 | 2022-07-22 | 2023-11-04 |
+| [She Likes My Tattoos](https://open.spotify.com/track/70VBBZjawKfX6Jkrb0ru4d) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/album/0D0K1XSh7i6MkbWBZTPmeH) | 2:44 | 2023-09-01 |  |
 | [Shoot](https://open.spotify.com/track/6PJxtrcNUrrAUSrFZd4FhZ) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [Ron Grams](https://open.spotify.com/artist/7ExRitoagqoDzxPBU5hp8y) | [Shoot](https://open.spotify.com/album/0qzjEFkrwdBnZyvrXwa45v) | 2:53 | 2021-05-22 | 2022-04-20 |
 | [Shoot Me Down](https://open.spotify.com/track/6E8DXXi3dmQs91BNJLz3yg) | [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an) | [Shoot Me Down](https://open.spotify.com/album/6W1u60F5cZp3iK311nbEpq) | 2:25 | 2021-05-29 | 2022-04-20 |
 | [shooting star](https://open.spotify.com/track/43HJfsp6pEocMweUhg9y5y) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [shooting star](https://open.spotify.com/album/5OV6W4584Dq4IuwVo9LHi7) | 3:36 | 2022-02-18 | 2022-07-29 |

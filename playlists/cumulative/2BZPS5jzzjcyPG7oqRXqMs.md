@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-201 songs - 13 hr 4 min
+202 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Love Is The Reason \- Live](https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Live\)](https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo) | 3:31 | 2022-04-08 |  |
 | [Love Won’t Let Go](https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Love Won’t Let Go](https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ) | 3:18 | 2022-03-18 | 2022-07-02 |
 | [Make The Most Of It](https://open.spotify.com/track/1w9CbJwkgRjhPibilArQAR) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Louder Than The Lies](https://open.spotify.com/album/1O4FlHsnYbsNM9Ct7VZfoH) | 3:11 | 2022-02-17 | 2022-08-27 |
-| [Mamas \(with Hillary Scott\)](https://open.spotify.com/track/7xWPmwuOcvFcnFgS3mPRzA) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Hillary Scott](https://open.spotify.com/artist/4rFRV55H2i5ewtgU254dri) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:24 | 2022-04-22 |  |
+| [Mamas \(with Hillary Scott\)](https://open.spotify.com/track/7xWPmwuOcvFcnFgS3mPRzA) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:24 | 2022-04-22 |  |
 | [Mercy Of Jesus](https://open.spotify.com/track/4DUYGD9qBMUJEOYPisadF2) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Mercy Of Jesus](https://open.spotify.com/album/34v3tdnUyhImBD23XlyeJx) | 4:31 | 2022-03-18 |  |
 | [Mine](https://open.spotify.com/track/1IkXnZOpAy7rHbRlMpWov9) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [We The Kingdom](https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp) | 3:49 | 2022-09-16 |  |
 | [Miracle](https://open.spotify.com/track/0fdiF0ExYPhvQkjTXc34zf) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Miracle](https://open.spotify.com/album/7xBjfEcq2Fx5hoBhPwimsL) | 3:39 | 2023-06-16 |  |
@@ -204,6 +204,7 @@
 | [Windows](https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows](https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl) | 4:35 | 2023-02-03 |  |
 | [Without You](https://open.spotify.com/track/5gdiTtT4acVSQb092WK7BH) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Feared By Hell](https://open.spotify.com/album/4SzRSzmKDSJiCe4WHyAwjc) | 3:29 | 2022-02-17 | 2022-08-27 |
 | [Worth The Risk](https://open.spotify.com/track/3pAitauaR81jvNaIOZADN2) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Worth The Risk](https://open.spotify.com/album/0ot0DHzWGM9sDU08ExesC3) | 3:16 | 2022-02-18 |  |
+| [Worthy](https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire \(Pt\. III\)](https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8) | 6:55 | 2023-11-03 |  |
 | [Yes I Am](https://open.spotify.com/track/7IQYAlR6q2wGlaWvorpG26) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Yes I Am](https://open.spotify.com/album/1bHjY0S3ZXc6Nd6inraB6W) | 2:47 | 2023-03-24 |  |
 | [YOU](https://open.spotify.com/track/2Csxc3KRQIQvZZse0Mdu5O) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [YOU](https://open.spotify.com/album/24BVyQpCuwSATtq4oBJoON) | 4:05 | 2022-02-17 | 2022-08-27 |
 | [You](https://open.spotify.com/track/5Hi0fGAj0HPQtjkMwnlQ1u) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [You](https://open.spotify.com/album/1sq30FcNaSXJ0xMFPx7joK) | 3:00 | 2022-02-17 | 2022-08-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,947 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,057 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 37 | [Incense And Peppermints](https://open.spotify.com/track/16iApoNZYaN6gbMtRRVV6B) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense And Peppermints](https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd) | 2:47 |
 | 38 | [Pretty Big Mouth](https://open.spotify.com/track/2rzsi8v63YA1LGJE4yLRBQ) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 2:09 |
 | 39 | [I Had Too Much to Dream \(Last Night\)](https://open.spotify.com/track/5YgCmkSdGukXqK3fJlX4pQ) | [The Electric Prunes](https://open.spotify.com/artist/1kkpNi8Ii5MhBMxmUhN5g9) | [I Had Too Much To Dream \(Last Night\)](https://open.spotify.com/album/1k3ldWSHD1BwUVHGiFMhyw) | 2:59 |
-| 40 | [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
+| 40 | [Friday On My Mind](https://open.spotify.com/track/3Jw1RfDEUEBBIIyNjGt9xP) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/79v0WaGkCOQCa2qIxb5DUN) | 2:54 |
 | 41 | [\(We Ain't Got\) Nothin' Yet](https://open.spotify.com/track/6cQdZhnwKIeLud5qTD7BuQ) | [The Blues Magoos](https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB) | [Psychedelic Lollipop](https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX) | 2:15 |
 | 42 | [Funnel Of Love](https://open.spotify.com/track/6uJXOi796U1D8iW9fj2ZGn) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [The Capitol Singles 1959\-1961](https://open.spotify.com/album/39htnVOmsFgAUft9YHpvZ2) | 2:08 |
 | 43 | [I Want Candy](https://open.spotify.com/track/7JoPxqrnT3eq02AnflBSiN) | [The Strangeloves](https://open.spotify.com/artist/4NMkJqM1SsQP3gk81cqk6K) | [I Want Candy: The Best Of The Strangeloves](https://open.spotify.com/album/1NnmPhfPVSpqCqP6iJ30Vc) | 2:57 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 55 | [Crimson and Clover \(Single Version\)](https://open.spotify.com/track/74ohdXevc7VsXl96ofi3Kn) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Celebration: The Complete Roulette Recordings 1966\-1973](https://open.spotify.com/album/7LuVM7ZoQf15BbEa61CpTU) | 3:28 |
 | 56 | [Waitin' Around to Die](https://open.spotify.com/track/5PHkCHXokZY9u29qLHlgGV) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [For the Sake of the Song](https://open.spotify.com/album/197FVfctDJPLLqTI48OJBs) | 2:25 |
 | 57 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg) | 4:08 |
-| 58 | [Telstar](https://open.spotify.com/track/2rtaHm5SkgFzVa5Gr8oTW6) | [The Tornados](https://open.spotify.com/artist/3SblTU11ZKURsHhWGwPpt9) | [Telstar](https://open.spotify.com/album/75gluO7f8LULnkoHouCwqe) | 3:15 |
+| 58 | [Telstar](https://open.spotify.com/track/6W5mQNW9bBqPdZq8RmJeVm) | [The Tornados](https://open.spotify.com/artist/3SblTU11ZKURsHhWGwPpt9) | [The Tornados Play Telstar And Other Great Hits](https://open.spotify.com/album/6ISa4FKmOwDUm2p0cAmxni) | 3:22 |
 | 59 | [Surfin' Bird](https://open.spotify.com/track/091roQPTeXtncbG9qXvvXK) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Surfin' Bird](https://open.spotify.com/album/3iV70bItwMPFyhfFFMRMtp) | 2:24 |
 | 60 | [Johnny Remember Me](https://open.spotify.com/track/1PmLQePsJbx0n4JjX9RFUj) | [John Leyton](https://open.spotify.com/artist/7oht1HPKaMDnuALYWZHgtV) | [Presenting John Leyton](https://open.spotify.com/album/0q4lFrlaWyQBgiWGiTAmDI) | 2:40 |
 | 61 | [Season of the Witch](https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 4:53 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 66 | [Maggie's Farm](https://open.spotify.com/track/5rGD8FFgHw74cp3RPhucyg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 3:54 |
 | 67 | [Kick Out The Jams \(Original Uncensored Version\)](https://open.spotify.com/track/5mSZLysuAtdNA21mbOm0sx) | [MC5](https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf) | [The Anthology 1965\-1971](https://open.spotify.com/album/6dQ1UaaiYqkubZz0QscTfG) | 3:03 |
 | 68 | [Egyptian Shumba](https://open.spotify.com/track/3URfn21oTyGF6rIuhHsBJw) | [The Tammys](https://open.spotify.com/artist/3Os2NHPOwJ3559grrBt2j3) | [Egyptian Shumba](https://open.spotify.com/album/2hL87MLxmoDRl7jEI4IeoE) | 2:17 |
-| 69 | [Light Flight](https://open.spotify.com/track/7LIKiKUV9WifyLyLhO2XaY) | [Pentangle](https://open.spotify.com/artist/55wOEGTc3QKwBJ9gntcOxT) | [Basket of Light](https://open.spotify.com/album/4rOoH26Xjc4vfGgwZ0qxEE) | 3:14 |
+| 69 | [Light Flight](https://open.spotify.com/track/7nmtVN5HhcdBPfi3oA3437) | [Pentangle](https://open.spotify.com/artist/55wOEGTc3QKwBJ9gntcOxT) | [Basket of Light](https://open.spotify.com/album/6C22QvOc4ombgUjY1M1ASN) | 3:14 |
 | 70 | [Oscillations](https://open.spotify.com/track/0wwbxSLnXXws3sD0AKMfUT) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4) | [Silver Apples](https://open.spotify.com/album/56svbYsvhdgiUo1Mlriaya) | 2:47 |
 | 71 | [So Long, Marianne](https://open.spotify.com/track/14CsqOaDkOkrZ49UJLtuOJ) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 5:40 |
 | 72 | [She's a Lover](https://open.spotify.com/track/11Wda6v2dXnklOQYnJANjs) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Parachute](https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 79 | [The Hedgehog's Song \- 2010 Remaster](https://open.spotify.com/track/7IyDLBtIXS2EKZEt8trS03) | [The Incredible String Band](https://open.spotify.com/artist/0tQzBYPjAardhWpGkqVdNW) | [The 5000 Spirits Or The Layers Of The Onion](https://open.spotify.com/album/3htu0UsV5JuouSfugMHNgS) | 3:27 |
 | 80 | [Philosophy of the World](https://open.spotify.com/track/2WhRJwrsy57H5Mm1P3lykJ) | [The Shaggs](https://open.spotify.com/artist/5ixdD9E7P9r51AOcSInQbl) | [Philosophy of the World](https://open.spotify.com/album/0TzI1YcMAQVdQ4yUZuy7fA) | 2:57 |
 
-Snapshot ID: `MCw2MzA0ZmEyOGM1MDRiYjc1YmM3MDQ4YzU0NGNlNzk3NGQ1NDE1OWQy`
+Snapshot ID: `MCw5NDA3Y2Q0Nzg1NzYzYTlmZDI4YjJjMTIzODk1ZWViMzg3OTJjNGU4`

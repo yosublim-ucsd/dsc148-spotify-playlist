@@ -4,12 +4,12 @@
 
 > Best blends of Electronic music Across East Africa
 
-120 songs - 9 hr 39 min
+121 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Tingz](https://open.spotify.com/track/1d4KRceZZhzweBscFL2NsU) | [Vandrel](https://open.spotify.com/artist/6nYKLho6i0KRNEEqffoJfv), [Bryvvn](https://open.spotify.com/artist/1YcGi2JIfTzbotFBDiysfS), [Prince.Wasabi](https://open.spotify.com/artist/2Gaxo8kmFvgNJvNmg6ZsGH), [7AY](https://open.spotify.com/artist/3MiRH0LK3bcno7nZa6QtLm) | [3 Tingz](https://open.spotify.com/album/0Evq35s64fjfGM4pLL0Xw8) | 3:41 | 2022-08-01 |  |
-| [Ahotho](https://open.spotify.com/track/6uvCwccCKpqlSSm0mDF6VU) | [Himmy K](https://open.spotify.com/artist/0HjKGVdAmnNhB7tp1reeuB) | [Ahotho](https://open.spotify.com/album/552p5O4ecOfqjrrWYrHdDw) | 6:17 | 2023-10-12 |  |
+| [Ahotho](https://open.spotify.com/track/6uvCwccCKpqlSSm0mDF6VU) | [Himmy K](https://open.spotify.com/artist/0HjKGVdAmnNhB7tp1reeuB) | [Ahotho](https://open.spotify.com/album/552p5O4ecOfqjrrWYrHdDw) | 6:17 | 2023-10-12 | 2023-11-04 |
 | [AmaWoodblock](https://open.spotify.com/track/4a0Fs2VJZczKlqe7chCDr7) | [KidC4](https://open.spotify.com/artist/2BJPLxKC99mCuUCgDOf8hP) | [AmaWoodblock](https://open.spotify.com/album/6P0PdnICMXt6QtjXYozV83) | 6:48 | 2022-08-26 | 2022-12-10 |
 | [Ba Ba Bu, pt\. I](https://open.spotify.com/track/7AYAxhYXMLQQUjnFMDFWjm) | [Jupiter Sky](https://open.spotify.com/artist/3IrrIr36E38ozdtqZUlGLX) | [Ba Ba Bu, pt\. I](https://open.spotify.com/album/4DQ1LODQJ01AVqtI0jFq8l) | 2:15 | 2022-08-01 |  |
 | [Bali](https://open.spotify.com/track/1cCCf8NobUwsf3t9frvVYY) | [DJ Arta](https://open.spotify.com/artist/5LoietQuQuzNohwfgAZj21) | [Bali](https://open.spotify.com/album/6X3DH5J53a5cjpjJXNse0i) | 1:50 | 2022-08-01 | 2023-03-04 |
@@ -66,6 +66,7 @@
 | [Money](https://open.spotify.com/track/2ZPKXWhtR5xfONqBdSgBiO) | [Dj McKenzie](https://open.spotify.com/artist/7biowjIK645MQ9tsK3OW45) | [Money](https://open.spotify.com/album/4jvIzo5bnxPmkyhe1P3DQ0) | 2:55 | 2023-03-03 |  |
 | [Moonlight](https://open.spotify.com/track/6rrATKJB6UFjwK3CGvoRqK) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [N@OM1](https://open.spotify.com/artist/1mCXXd6kgTl6zLQ20KRFn8) | [Moonlight](https://open.spotify.com/album/1oGWt4uKWXHx6kR9gQPLB1) | 2:41 | 2022-08-19 | 2023-02-18 |
 | [Moto \- Radio Edit](https://open.spotify.com/track/4nKJxT9FbMsfc8CJdjzqOG) | [Aaron Sevilla](https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX), [Ricardo Criollo House](https://open.spotify.com/artist/3AtHoqwYxlqqGsrzOUGxYu), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Moto](https://open.spotify.com/album/776jYbFBjzWccy2OMgkcdm) | 2:58 | 2023-10-12 |  |
+| [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-11-03 |  |
 | [Mwakitau](https://open.spotify.com/track/38y0Q9bNqG4S5PmZZKkHpK) | [Dj Grandeur Ke](https://open.spotify.com/artist/02G7nyKkJoIAZQFTee7TOy) | [Mwakitau](https://open.spotify.com/album/1sGTZBOrujz2OyhFpkYrak) | 4:57 | 2023-10-27 |  |
 | [Mwele \- Chalee Remix](https://open.spotify.com/track/07lE4WqD5v3jZgwiYSk5H8) | [Egeme](https://open.spotify.com/artist/2G6oOdpqtQw5y2sb3JHshd), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Chaleee](https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c) | [Mwele \(Chalee Remix\)](https://open.spotify.com/album/1f5eRNVwmLj7BnteTVfJJs) | 6:59 | 2023-08-24 |  |
 | [Mwenye](https://open.spotify.com/track/115rYufaofiqBoQGAwNCdt) | [DJ Qness](https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mwenye](https://open.spotify.com/album/0wiXMY7q9dyIsR24alOcvl) | 8:33 | 2023-05-05 |  |

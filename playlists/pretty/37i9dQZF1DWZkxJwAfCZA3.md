@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,788 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,795 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Voicebox](https://open.spotify.com/track/5GO6gvPD2DC3iZuxUUTsr7) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Voicebox EP](https://open.spotify.com/album/5BfzNOh8U6VH2hXpasVw9t) | 6:00 |
+| 1 | [Voicebox](https://open.spotify.com/track/5cL8ycomRSCux5x7gFIQS2) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Voicebox EP](https://open.spotify.com/album/2JOrQ6EPvRw9JbenGgTYMB) | 6:00 |
 | 2 | [Why](https://open.spotify.com/track/6wpzpcOysRvhDwWeHZzv9l) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Why](https://open.spotify.com/album/73N3wPtIm6m4fKPLeu86ce) | 5:27 |
 | 3 | [Head Rush](https://open.spotify.com/track/7FZWiDRvXC91nwhTkquBzd) | [James View](https://open.spotify.com/artist/07CtYKvP7pqKd2aIBqhgpr) | [Growler EP](https://open.spotify.com/album/5MwQ72acWxo6t93UAVooUf) | 4:52 |
 | 4 | [Love It or Not \(feat\. Infinite Coles\)](https://open.spotify.com/track/1klY5RDT7s0wXJrJjg0ftJ) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn), [Infinite Coles](https://open.spotify.com/artist/1OUKcUMWgpiUgctbvFS5PZ) | [Love It or Not \(feat\. Infinite Coles\)](https://open.spotify.com/album/0kfHrEyEVFOmS8GAYaugEn) | 3:14 |
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 6 | [COMMA$](https://open.spotify.com/track/6aUButsd7M5gkPNLXu5cc3) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [DIGITAL DIVA VOL 2](https://open.spotify.com/album/0nIttpHTxh27MTeCNeix4f) | 3:07 |
 | 7 | [Come \- Dub Mix](https://open.spotify.com/track/5JWYSFTiiMlf062LWImKV7) | [Confidential Recipe](https://open.spotify.com/artist/6lbEEehpkzrtDv09b0EWjx) | [The Bridge EP](https://open.spotify.com/album/5A4bbFcbcCp3sJkFAOOh8q) | 6:15 |
 | 8 | [Crazy legs anthem](https://open.spotify.com/track/2QYJnjV3FQotNihkRCnONb) | [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Crazy legs anthem](https://open.spotify.com/album/13IlMC30FaQELiETA2fX7t) | 2:04 |
-| 9 | [Possessed \(feat\. Peaches\)](https://open.spotify.com/track/01kVcWv9qTwhNAU5Zw3Qde) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Full Circle](https://open.spotify.com/album/2dAYxhDUENuQMgx3L9qUIh) | 2:42 |
+| 9 | [Possessed \(feat\. Peaches\)](https://open.spotify.com/track/1KH2vg723cxJyRZtImgKF2) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Full Circle](https://open.spotify.com/album/6XlidcWPK4oeEQtMlbxQEX) | 2:42 |
 | 10 | [I'm A Freak](https://open.spotify.com/track/2qVkOdSD7pQR9WefKsLYHg) | [Carlo Lio](https://open.spotify.com/artist/51NwQz5MA32kigUGYjdA3z) | [I'm A Freak](https://open.spotify.com/album/45Ki7TKcLlvmkn6l0ddFcE) | 5:16 |
 | 11 | [Friday Blues](https://open.spotify.com/track/0RgihmZAu8nKlHNNjP66R9) | [Hockins](https://open.spotify.com/artist/3sDQqAcTSTEblYLXhSmZXg) | [Friday Blues](https://open.spotify.com/album/3RNLd2fCwJSun5lh13dWvh) | 3:52 |
 | 12 | [Lanzarote Howl \(Mano Le Tough Remix\)](https://open.spotify.com/track/4hueWif8Hbm4ITdojekk26) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S), [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [Hotflush On The Floor 5.1](https://open.spotify.com/album/2ddsBWrkyP5VzswJXhHZwr) | 6:03 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 39 | [Can’t Stand It](https://open.spotify.com/track/0YgkRyRI9TN0rKqwuWsrHK) | [Art Feynman](https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc) | [Blast Off Through the Wicker](https://open.spotify.com/album/5nkVWnfrsHKXJSfqP9IGjI) | 5:41 |
 | 40 | [Three King Fishers](https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 4:48 |
 
-Snapshot ID: `MCxkNTdiNDM1ODA1ZjhhNDQ3MDg4M2I5MTM3YmM0ZWI4NGJjOTYyYjM5`
+Snapshot ID: `MCwzYjMzNjgwMjgzZjE3OTM2MGQxMjVhZmE1Mjk0NTJjZTY1MTQ4ZmVl`

@@ -1,13 +1,29 @@
 {
-  "description": "New jazz for open minds. Cover: Myele Manzanza",
-  "num_followers": 905569,
+  "description": "New jazz for open minds. Cover: Joey Alexander",
+  "num_followers": 905747,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjMwZmIzODYwOWE5ODAzMjJmZjdmODE0ZmMyOTdmMjMxN2YwOWYx",
+  "snapshot_id": "MCwzZDA1YmMyOWEwNzJmMWY4MjA2Y2UwODM1ODcwMTI5ZmQ1MTRiMjBi",
   "tracks": [
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 406066,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y"
+    },
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
@@ -18,6 +34,14 @@
         {
           "name": "Myele Manzanza",
           "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        },
+        {
+          "name": "Matthew Sheens",
+          "url": "https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E"
+        },
+        {
+          "name": "Matt Penman",
+          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
         }
       ],
       "duration_ms": 474560,
@@ -83,6 +107,22 @@
       "duration_ms": 282669,
       "name": "River that runs forever",
       "url": "https://open.spotify.com/track/4U4cW7s3iOiSJXFvzY9tiZ"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Pressure on the Pulse",
+        "url": "https://open.spotify.com/album/04Hx1mBLrSy5mXbwqvDLcv"
+      },
+      "artists": [
+        {
+          "name": "Sen Morimoto",
+          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Pressure on the Pulse",
+      "url": "https://open.spotify.com/track/1bzbo40agQ6NOQE0mHquEs"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -159,7 +199,7 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Reste un Oiseau (Piers Faccini Remix)",
+        "name": "Reste un oiseau (Piers Faccini Remix)",
         "url": "https://open.spotify.com/album/7nCa2XRydsksH3gLVEEEWM"
       },
       "artists": [
@@ -173,7 +213,7 @@
         }
       ],
       "duration_ms": 242573,
-      "name": "Reste un Oiseau - Piers Faccini Remix",
+      "name": "Reste un oiseau - Piers Faccini Remix",
       "url": "https://open.spotify.com/track/52g21WkPWgf96mrch0h7Rk"
     },
     {
@@ -273,20 +313,20 @@
       "url": "https://open.spotify.com/track/2hD250ixyqBjvYHpsOOEqG"
     },
     {
-      "added_at": "2023-10-13 04:01:00",
+      "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "I Can\u2019t Make You Love Me",
-        "url": "https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz"
+        "name": "9 P.M.",
+        "url": "https://open.spotify.com/album/44wIm9dGMuTJ7Tt1osYmLe"
       },
       "artists": [
         {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 303680,
-      "name": "I Can\u2019t Make You Love Me",
-      "url": "https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0"
+      "duration_ms": 215000,
+      "name": "9 P.M.",
+      "url": "https://open.spotify.com/track/2Gqmm2IOcDwUZCsETTdCd7"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1486,6 +1526,14 @@
         {
           "name": "Myele Manzanza",
           "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        },
+        {
+          "name": "Matthew Sheens",
+          "url": "https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E"
+        },
+        {
+          "name": "Matt Penman",
+          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
         }
       ],
       "duration_ms": 396373,
@@ -1643,50 +1691,6 @@
       "duration_ms": 263502,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/6iwVDKeWEsFCY169JiMnOd"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Only the Lonely Woman",
-        "url": "https://open.spotify.com/album/7JYCtQYFD7UfNU8iKrku37"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        },
-        {
-          "name": "SuperBlue",
-          "url": "https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe"
-        }
-      ],
-      "duration_ms": 338801,
-      "name": "Only The Lonely Woman",
-      "url": "https://open.spotify.com/track/3s1Y7qnksD5YTAK7Dcd7Al"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Luto",
-        "url": "https://open.spotify.com/album/07UniKiqwPReakQGnnpIQP"
-      },
-      "artists": [
-        {
-          "name": "young.vishnu",
-          "url": "https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2"
-        },
-        {
-          "name": "Pachakuti",
-          "url": "https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr"
-        }
-      ],
-      "duration_ms": 222162,
-      "name": "Luto",
-      "url": "https://open.spotify.com/track/4xM3r4hsW5NNNIDfwcR2Ot"
     },
     {
       "added_at": "2023-09-08 04:01:00",

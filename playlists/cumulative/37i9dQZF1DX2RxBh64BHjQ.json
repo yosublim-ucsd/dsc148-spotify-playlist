@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:3DbwFQlvLxRSi2uX8mf81A\">Sexyy Red</a>",
+  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:3gBZUcNeVumkeeJ19CY2sX\">Ken Carson</a>",
   "name": "Most Necessary",
   "tracks": [
     {
@@ -812,6 +812,24 @@
       "duration_ms": 175118,
       "name": "6 Months (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/15MObTsMBIdr35hEa4Fgz4"
+    },
+    {
+      "album": {
+        "name": "60 Miles",
+        "url": "https://open.spotify.com/album/0ZERBpDfUs0o3ZULTzb3cj"
+      },
+      "artists": [
+        {
+          "name": "Lil RT",
+          "url": "https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126802,
+      "name": "60 Miles",
+      "url": "https://open.spotify.com/track/3dyhk17fDgslADTDnU6sgG"
     },
     {
       "album": {
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 179361,
       "name": "Bang Man",
       "url": "https://open.spotify.com/track/735AY1Wwc1zb6exlKxH0mT"
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 155380,
       "name": "Black Truck",
       "url": "https://open.spotify.com/track/3aOubX8YTVByNPQrqw6ZzK"
@@ -3062,7 +3080,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 167490,
       "name": "Body",
       "url": "https://open.spotify.com/track/5t8FBhJKbpBCskmOaMRxQW"
@@ -5630,7 +5648,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 126857,
       "name": "Deli",
       "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
@@ -6957,6 +6975,24 @@
     },
     {
       "album": {
+        "name": "Everything Dead",
+        "url": "https://open.spotify.com/album/194pYj4CXWWsNUS8LMIWeO"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203851,
+      "name": "Everything Dead",
+      "url": "https://open.spotify.com/track/3nL3bZOWuFBbH4KKaWW1Vq"
+    },
+    {
+      "album": {
         "name": "DFTK",
         "url": "https://open.spotify.com/album/5pb2qoPjdwPtkWUh64Jc8r"
       },
@@ -7962,7 +7998,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 157745,
       "name": "FOLD",
       "url": "https://open.spotify.com/track/2ShT0ovaAWIReCxm7RPeBm"
@@ -8530,7 +8566,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 134666,
       "name": "Gang Time",
       "url": "https://open.spotify.com/track/6oOO3Kok03oEsXRrWcKff3"
@@ -9544,7 +9580,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 170748,
       "name": "Got Me Hot",
       "url": "https://open.spotify.com/track/5KGRNJjSz2SFRz2tAZRbxB"
@@ -9760,6 +9796,24 @@
       "duration_ms": 229035,
       "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
       "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
+    },
+    {
+      "album": {
+        "name": "5TH AMNDMNT",
+        "url": "https://open.spotify.com/album/5IJAhCl93xn2Ybqk8OGm6n"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142941,
+      "name": "Gunz in SOHO",
+      "url": "https://open.spotify.com/track/3mNw70F0wDJXItFYEoQ56L"
     },
     {
       "album": {
@@ -10418,6 +10472,24 @@
       "duration_ms": 195160,
       "name": "HOME - Remix",
       "url": "https://open.spotify.com/track/3lcJOGpwiiLN7SjhV1UK9J"
+    },
+    {
+      "album": {
+        "name": "Honeybun",
+        "url": "https://open.spotify.com/album/6BJLFkMbbpa9yTjsEb9a7h"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128195,
+      "name": "Honeybun",
+      "url": "https://open.spotify.com/track/2fM2PrwFBbaiK88Nw6CjdK"
     },
     {
       "album": {
@@ -12085,6 +12157,28 @@
     },
     {
       "album": {
+        "name": "S.O.U.L.",
+        "url": "https://open.spotify.com/album/5ZPvrIyao6gbYOsJIcynuY"
+      },
+      "artists": [
+        {
+          "name": "Lady London",
+          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
+        },
+        {
+          "name": "Omeretta the Great",
+          "url": "https://open.spotify.com/artist/5AiKMEn5JZoGP91Oy90AJj"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162002,
+      "name": "Kall Me (with Omeretta the Great)",
+      "url": "https://open.spotify.com/track/5XifYEXMiyMiMNqXIWTly5"
+    },
+    {
+      "album": {
         "name": "FLAWLESS LIKE ME",
         "url": "https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS"
       },
@@ -12874,6 +12968,32 @@
       "duration_ms": 137026,
       "name": "Leave Her",
       "url": "https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg"
+    },
+    {
+      "album": {
+        "name": "Leave Her Alone",
+        "url": "https://open.spotify.com/album/5z1zNcgq8vRZXDQYAhRxDL"
+      },
+      "artists": [
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147300,
+      "name": "Leave Her Alone",
+      "url": "https://open.spotify.com/track/6Ckxadd19A2tjI2sjwWo1v"
     },
     {
       "album": {
@@ -14885,6 +15005,24 @@
     },
     {
       "album": {
+        "name": "STREETS SAY YOU MISS ME",
+        "url": "https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150375,
+      "name": "MORE THAN SORRY",
+      "url": "https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p"
+    },
+    {
+      "album": {
         "name": "Trendsetter",
         "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
       },
@@ -15658,7 +15796,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 139364,
       "name": "NEED IT",
       "url": "https://open.spotify.com/track/6T1dDWfxHxjHkIIhKANk49"
@@ -20634,7 +20772,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 188280,
       "name": "Room 303",
       "url": "https://open.spotify.com/track/3k1rYlaTNoqaUdXS743hWZ"
@@ -21566,7 +21704,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 172941,
       "name": "SHOOT AND GO HOME",
       "url": "https://open.spotify.com/track/7LULqWeafZzoFjW9KAUvay"
@@ -23095,6 +23233,40 @@
     },
     {
       "album": {
+        "name": "Stomp Stomp",
+        "url": "https://open.spotify.com/album/24P4I4fLYtPiSWZWRrReSn"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        },
+        {
+          "name": "Dee Billz",
+          "url": "https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188595,
+      "name": "Stomp Stomp (with Kyle Richh, Jenn Carter, TaTa & Dee Billz)",
+      "url": "https://open.spotify.com/track/30TEsD9nJfrJSRL1RTJMDg"
+    },
+    {
+      "album": {
         "name": "Stonecrest",
         "url": "https://open.spotify.com/album/7lJ85CYzlQx2LIFtKZi4fx"
       },
@@ -23218,6 +23390,24 @@
       "duration_ms": 157560,
       "name": "Sucka Free",
       "url": "https://open.spotify.com/track/4hB6fEzYSvamHVQtUQXNoK"
+    },
+    {
+      "album": {
+        "name": "Suffice",
+        "url": "https://open.spotify.com/album/0QGs0Fg2Ao50fFxetJuhyq"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162303,
+      "name": "Suffice",
+      "url": "https://open.spotify.com/track/2gy2UTbkgMVai4uB2oqeqh"
     },
     {
       "album": {
@@ -27498,6 +27688,24 @@
       "duration_ms": 216009,
       "name": "Yeah Whoa (feat. Nardo Wick & Gucci Mane)",
       "url": "https://open.spotify.com/track/0WSGHNx7oMYAV2WAJzLhQf"
+    },
+    {
+      "album": {
+        "name": "YEAH YEAH!",
+        "url": "https://open.spotify.com/album/2bvmhK8LbNwtpnxmAow0vW"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113238,
+      "name": "YEAH YEAH!",
+      "url": "https://open.spotify.com/track/1spPgvtcDwxARDc8i6TYjT"
     },
     {
       "album": {

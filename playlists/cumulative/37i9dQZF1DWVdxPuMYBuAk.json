@@ -342,6 +342,24 @@
     {
       "album": {
         "name": "Love Synonym #2 : Right for Us",
+        "url": "https://open.spotify.com/album/22hyTxJM7Yk8PdsgRtCEvl"
+      },
+      "artists": [
+        {
+          "name": "WONHO",
+          "url": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196982,
+      "name": "BEST SHOT",
+      "url": "https://open.spotify.com/track/3iGYolWfY6c7eOCX8YNDek"
+    },
+    {
+      "album": {
+        "name": "Love Synonym #2 : Right for Us",
         "url": "https://open.spotify.com/album/3lcR6erLOtS2klUZ5sH4Mf"
       },
       "artists": [
@@ -352,7 +370,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 196982,
       "name": "BEST SHOT",
       "url": "https://open.spotify.com/track/4Q0DVhfGXxUzzywcxcRw32"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 251488,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"

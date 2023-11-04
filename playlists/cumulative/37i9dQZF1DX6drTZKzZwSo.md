@@ -4,12 +4,13 @@
 
 > Classic funk.
 
-87 songs - 6 hr 41 min
+88 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Everybody Wanna Get Rich\) Rite Away](https://open.spotify.com/track/2a0fkN8dbA5Kh8SR7cvl3D) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Desitively Bonnaroo](https://open.spotify.com/album/4sdOFqfNcL5ge657ScJDXn) | 2:43 | 2020-04-14 |  |
-| [A Little Love \- Radio Edit](https://open.spotify.com/track/0d3MNrePFGENAawn9UuMOo) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [A Little Love](https://open.spotify.com/album/7yy7NUPzf23EnXciOrhluZ) | 3:28 | 2020-04-14 |  |
+| [A Little Love \(Radio Edit\)](https://open.spotify.com/track/5E2lPkWXpNCsqG7MxdzRNG) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [A Little Love](https://open.spotify.com/album/5KC7Sb23Axzqb2BjbV0FV5) | 3:28 | 2020-04-14 |  |
+| [A Little Love \- Radio Edit](https://open.spotify.com/track/0d3MNrePFGENAawn9UuMOo) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [A Little Love](https://open.spotify.com/album/7yy7NUPzf23EnXciOrhluZ) | 3:28 | 2020-04-14 | 2023-11-04 |
 | [A Little Love \- Radio Edit](https://open.spotify.com/track/5jwMpwgT5qglsPXThTd0o0) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Disco Vocals: Soulful Dancefloor Cuts Featuring 23 Of The Best Grooves](https://open.spotify.com/album/5EchcwSB0ApZ7vEZfmGytk) | 3:28 | 2020-04-14 | 2022-11-13 |
 | [Bull's Eye](https://open.spotify.com/track/4kWJRQ4SKU3A8Twt8fdsmJ) | [Blacknuss](https://open.spotify.com/artist/4Voer5XJOsnL2JA6tpSE3P), [Prince Prime](https://open.spotify.com/artist/23p1rwItiE4C2SxCLe8b3r) | [Blacknuss 2.0](https://open.spotify.com/album/2b8GXykQVNWq4GC6PFFeyn) | 5:05 | 2020-04-14 |  |
 | [Chicken Fat](https://open.spotify.com/track/0u6bZc8NhpSbH2KutleBQx) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Chicken Fat](https://open.spotify.com/album/5C4WhoPBJroEK4feGnAaFH) | 4:14 | 2020-04-14 |  |

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: EIKO
 
-1,891 songs - 5 day 2 hr 16 min
+1,892 songs - 5 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,6 +757,7 @@
 | [puzzle \(feat\. ひかり\)](https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\)](https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol) | 3:30 | 2022-07-19 | 2022-09-16 |
 | [puzzle \(feat\. ひかり\) \- Bronze Remix](https://open.spotify.com/track/764XngElbODYLSCkoax40N) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\) \[Bronze Remix\]](https://open.spotify.com/album/6W8mP3MYVabiOAsyS2qKxj) | 3:46 | 2023-10-17 | 2023-10-25 |
 | [páː](https://open.spotify.com/track/5TwzuauV7SjD00bUeMbWlB) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [páː](https://open.spotify.com/album/4u2bc1tj84eBXr6XPe5zOh) | 3:28 | 2022-09-27 | 2022-10-04 |
+| [Radio](https://open.spotify.com/track/3u4GzYXc1DZLOA4VsKYhDW) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Radio](https://open.spotify.com/album/26vIvuoyMCPaYRC2ezOh1e) | 4:59 | 2023-11-02 |  |
 | [Radio](https://open.spotify.com/track/51tyiooJ6VrGTsaEQt7H5X) | [SKYE](https://open.spotify.com/artist/49sJZCQvc3KN6s9VCMnbUa), [Raine](https://open.spotify.com/artist/1hxElSEVvcFYd7lTQaTXYG) | [Radio](https://open.spotify.com/album/2jcQccclbIrYd4eLWqmtkU) | 3:49 | 2023-06-06 | 2023-06-14 |
 | [Radio song](https://open.spotify.com/track/5Li7CiLPW0LxAXw16xys6F) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/6sUwn2TICQMSAdXBeiq6lL) | 4:00 | 2022-10-04 | 2022-10-06 |
 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 | 2022-10-04 | 2022-12-14 |
@@ -1429,7 +1430,7 @@
 | [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/0f1tDeWjRuTAMqxNQu6ofn) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ライフ・イズ・ビューティフォー](https://open.spotify.com/album/4kKFEYFPzJ4xPCNEsFn33d) | 4:26 | 2022-05-29 | 2022-08-04 |
 | [ライブ終わりに](https://open.spotify.com/track/25CT9v6urtrTRZjr1WOV0G) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [ライブ終わりに](https://open.spotify.com/album/2pywOWndfGqeFy7zYBdhO6) | 4:31 | 2023-08-08 | 2023-08-10 |
 | [ライムライト](https://open.spotify.com/track/6dRVLa81jfp37EkKrv0trK) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ライムライト](https://open.spotify.com/album/0wVmz8nodc9IW0NFb8SP1L) | 3:12 | 2022-06-30 | 2022-07-15 |
-| [ラジオ](https://open.spotify.com/track/44UHh8jmf82tJWBA2sijbY) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [ラジオ](https://open.spotify.com/album/6eb8iIbhqf4Xu1qrbwgooL) | 4:59 | 2023-11-02 |  |
+| [ラジオ](https://open.spotify.com/track/44UHh8jmf82tJWBA2sijbY) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [ラジオ](https://open.spotify.com/album/6eb8iIbhqf4Xu1qrbwgooL) | 4:59 | 2023-11-02 | 2023-11-04 |
 | [ラジオ](https://open.spotify.com/track/4CIp3DAzzXzly8oF4BUlF4) | [SKYE](https://open.spotify.com/artist/49sJZCQvc3KN6s9VCMnbUa), [Raine](https://open.spotify.com/artist/1hxElSEVvcFYd7lTQaTXYG) | [ラジオ](https://open.spotify.com/album/5A9Q2UfqZ2YMXpCOPsDPPL) | 3:49 | 2023-06-06 | 2023-06-08 |
 | [ラストシーン](https://open.spotify.com/track/5L43elZ4LuEBDBH8KYBGb1) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [ラストシーン](https://open.spotify.com/album/2HwNyfPBEHlxYmeou5UsUs) | 4:34 | 2023-05-25 | 2023-05-31 |
 | [ラッキー・ドライブ](https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [ラッキー・ドライブ](https://open.spotify.com/album/0M1Ss4ejW5LB3ZllXxNEuh) | 3:28 | 2022-07-26 | 2022-09-30 |

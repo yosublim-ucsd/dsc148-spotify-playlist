@@ -4,7 +4,7 @@
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-173 songs - 10 hr 34 min
+174 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 | 2021-11-17 |  |
 | [Pistoleros Famosos](https://open.spotify.com/track/3R7fo1TpV55XzTpWtRmrWb) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos y Rancheras](https://open.spotify.com/album/29lby9bPSWJ6Bvxfrs6nN5) | 2:46 | 2021-11-17 |  |
 | [Plante y Patra](https://open.spotify.com/track/6vCLrOeBc0yU6fNUaWy0hs) | [John Lewis](https://open.spotify.com/artist/5lFsQ6pOHgWG8HHqcKaLGn) | [Blue Steel \- Catwalk Music](https://open.spotify.com/album/0AiboZLACSsuU2DGCh4s4x) | 5:03 | 2021-11-17 |  |
-| [Pop Muzik \- 12 Inch Version](https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm) | [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Robin Scott](https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [New York, London, Paris, Munich](https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0) | 4:56 | 2021-11-17 |  |
+| [Pop Muzik \(12 Inch Version\)](https://open.spotify.com/track/43U1bCDTZAhhY1Y8mCkTG4) | [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [New York, London, Paris, Munich](https://open.spotify.com/album/1NYT6pqKJdfCPOKtbgqbLV) | 4:56 | 2021-11-17 |  |
+| [Pop Muzik \- 12 Inch Version](https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm) | [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Robin Scott](https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [New York, London, Paris, Munich](https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0) | 4:56 | 2021-11-17 | 2023-11-04 |
 | [Presente Y Pasado](https://open.spotify.com/track/3h2a9NPOTYvtFRzOUspDIe) | [Chilo Escobedo](https://open.spotify.com/artist/6wzFcjyElCAGACqdXiBwlx) | [Su Vos Y Sus Canciones](https://open.spotify.com/album/1p5W2mXrX033Bms0H5Jy3f) | 3:17 | 2021-11-17 |  |
 | [Psalm 109: II\. Donec ponam inimicos tuos \(Largo\)](https://open.spotify.com/track/6W9thnuuRtxwb2RNKO86Yx) | [Rinaldo Alessandrini](https://open.spotify.com/artist/1CqIIrCkdFMduTzAdIaeZb), [Concerto Italiano](https://open.spotify.com/artist/3f26hJvBDQnllvH0aP4OSb) | [Vivaldi / Alessandrini](https://open.spotify.com/album/4wwLd0aXSZmvKQFj2CsjZR) | 4:29 | 2021-11-17 |  |
 | [Que me toquen las golondrinas](https://open.spotify.com/track/7G0CgzohnhiWMpq9KQFig4) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2eoBGUFrJZobGxGpwZ7dAp) | 3:18 | 2021-11-17 |  |

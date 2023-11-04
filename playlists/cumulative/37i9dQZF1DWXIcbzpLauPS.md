@@ -4,13 +4,14 @@
 
 > Metalcore at its finest\. Cover: Hollow Front
 
-763 songs - 1 day 23 hr 52 min
+764 songs - 1 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(•REC\)](https://open.spotify.com/track/4fvR2GgkKNA3fF6sJkEWrF) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [\(•REC\)](https://open.spotify.com/album/42BvL4j3lOANgw96Xr0h5X) | 2:43 | 2022-07-13 | 2022-07-18 |
 | [10:35](https://open.spotify.com/track/0F0lT8EmvnKUYZ1YLR6ops) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [10:35](https://open.spotify.com/album/2N96LsbA1SO5Q6BpjIuY9O) | 2:49 | 2023-01-20 | 2023-04-01 |
-| [21 Gun Salute](https://open.spotify.com/track/0dAeZUKHCo70CusGsluvDz) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [21 Gun Salute](https://open.spotify.com/album/19iJ5mXv499hjU6wnoLreo) | 3:46 | 2023-09-15 |  |
+| [21 Gun Salute](https://open.spotify.com/track/0dAeZUKHCo70CusGsluvDz) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [21 Gun Salute](https://open.spotify.com/album/19iJ5mXv499hjU6wnoLreo) | 3:46 | 2023-09-15 | 2023-11-04 |
+| [21 Gun Salute](https://open.spotify.com/track/33GEGdCuSpbt3x6B33Jd82) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Shame On Me](https://open.spotify.com/album/4EcSKM9PjQiXywZ3ItofZG) | 3:46 | 2023-10-27 |  |
 | [30 Under 13](https://open.spotify.com/track/4f1ML3x043Sl0QdVeNB4yT) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [30 Under 13](https://open.spotify.com/album/3flz7O2lY60WbBoefXUk1b) | 4:05 | 2023-05-01 | 2023-07-01 |
 | [5 AM](https://open.spotify.com/track/31HxV5T50CjQVzyo6yh6Jm) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA), [Blind8](https://open.spotify.com/artist/6Cp7Edmrgw7XA8duPOFmtz) | [5 AM](https://open.spotify.com/album/72sgXs42eBocQjRCFUvM4H) | 3:09 | 2022-04-22 | 2022-05-21 |
 | [A Bloodsoaked Symphony](https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [A Bloodsoaked Symphony](https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X) | 4:28 | 2022-07-13 | 2022-07-23 |

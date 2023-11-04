@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,147 likes - 319 songs - 13 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,579 likes - 319 songs - 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,12 +173,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 163 | [Ja Mata](https://open.spotify.com/track/51egrQzlzHbpm6uv49eGRV) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 3:29 |
 | 164 | [D'émeraude](https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB) | [Daniel Joaví](https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT) | [D'émeraude](https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ) | 2:06 |
 | 165 | [Early Morning](https://open.spotify.com/track/5iB8faGsvwZpLm3RIeQO3B) | [Lorraine J\. Kovach](https://open.spotify.com/artist/3H92L5ns19ZFEIcvVj2KhY) | [Early Morning](https://open.spotify.com/album/7viQj7LLIp5cqQTcVXYj7t) | 2:06 |
-| 166 | [Cuantos](https://open.spotify.com/track/7h16IhKzMCC3d2GXx2Zkx7) | [Entre Tantas Notas](https://open.spotify.com/artist/028oRjxIqjrDjalf9Uf2vw) | [Cuantos](https://open.spotify.com/album/2c7QaUxYizgQ3Lc8oDRgzl) | 2:48 |
+| 166 | [Cuantos](https://open.spotify.com/track/3ABTGVU8g1zkAuGpmYuRrh) | [Entre Tantas Notas](https://open.spotify.com/artist/028oRjxIqjrDjalf9Uf2vw) | [Cuantos](https://open.spotify.com/album/6WpH2rtp7IiESISWYxx05O) | 2:48 |
 | 167 | [Le crépuscule](https://open.spotify.com/track/7EFwlg7IwnYdrfNCYCOGDd) | [Pascale Perrot](https://open.spotify.com/artist/11nSedLZI37ACQ8UjQEzx1) | [Le crépuscule](https://open.spotify.com/album/1cAX6wAWRCGmWOez2FkJkK) | 2:10 |
 | 168 | [Dolce](https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Dolce](https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv) | 2:23 |
 | 169 | [If It Snows](https://open.spotify.com/track/5uaOLZ0lOsNgVGSlfgj8U7) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [If It Snows](https://open.spotify.com/album/1YwmuYcOKl6lOBeQ5b4T9y) | 4:11 |
 | 170 | [Dreaming With You](https://open.spotify.com/track/1bNxK4PaPg9v6MLkfsM3Rl) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm), [MajorLink](https://open.spotify.com/artist/56M0OscfqROb5IPl7jGnyS), [The David Roy Collective](https://open.spotify.com/artist/3rQj5XISunNkD97E1PGSrt) | [Dreaming With You](https://open.spotify.com/album/01mcs0kkQr0hEjd4IjdDGL) | 4:16 |
-| 171 | [After a Visit](https://open.spotify.com/track/3rKSpzc4iNd7kiihS6V7ZY) | [Haakon Stange](https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx) | [After a Visit](https://open.spotify.com/album/17wW4OptqVkAC4xNZLWM7H) | 2:01 |
+| 171 | [After a Visit](https://open.spotify.com/track/3rKSpzc4iNd7kiihS6V7ZY) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [After a Visit](https://open.spotify.com/album/17wW4OptqVkAC4xNZLWM7H) | 2:01 |
 | 172 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 |
 | 173 | [My One And Only Love](https://open.spotify.com/track/5wfPrgSDN1VZCTX9tlSzQ7) | [Milos Strevic](https://open.spotify.com/artist/5MCalzVGSntMjjmo9JZKgC) | [My One And Only Love](https://open.spotify.com/album/1QhedIOg2gyMFRK4Z3esw4) | 3:32 |
 | 174 | [Ophélia](https://open.spotify.com/track/6TgKautKqkRvvbaJcGCRxr) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Ophélia](https://open.spotify.com/album/5CJOzMHgVwXe1sjd0bQABe) | 2:13 |
@@ -328,4 +328,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 318 | [Arturo](https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 2:52 |
 | 319 | [Prairie d'été](https://open.spotify.com/track/0rsGOnRV2avSVuin3XZ5FO) | [Lucile Colbert](https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK) | [Prairie d'été](https://open.spotify.com/album/5XPBI5MTUG64NGaxrDWFcS) | 2:49 |
 
-Snapshot ID: `MCw0N2ZhNjNlNmE5MDg4ODg5OGU0YTYzOWJiNjcyNTk3NDlmYjBhODA5`
+Snapshot ID: `MCxjNWYyZDVlMGI0NDcwMzEzOTVkMDk5MjY3MzlkMGY3MDMxNzU2ZTNj`

@@ -4,7 +4,7 @@
 
 > The best and finest 70s Funk\. Cover: Kool & The Gang.
 
-111 songs - 8 hr 42 min
+112 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Under My Skin](https://open.spotify.com/track/3AzLj111UDWrZjt5NEe8sl) | [The Brothers](https://open.spotify.com/artist/1ZrLOktYbNd29LjbTYOU0U) | [Don't Stop Now](https://open.spotify.com/album/1DMEKx0RDeibJ77mQ4HmKi) | 6:11 | 2020-12-01 |  |
 | [Under the Influence of a Groove](https://open.spotify.com/track/2pedYJdZaM9gyyHEPr1UIH) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [This Boot Is Made For Fonk\-N](https://open.spotify.com/album/5rNtC4AU5oXXY8N2CneWCW) | 8:39 | 2020-12-01 |  |
 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 | 2020-12-01 |  |
-| [Waiting At the Bus Stop \- Full Version](https://open.spotify.com/track/1JVeMXp2SzgrcujEYbxTW3) | [The Kay Gees](https://open.spotify.com/artist/2kBAQC51ydY25zaSQBICTi) | [Find a Friend \(Expanded Version\)](https://open.spotify.com/album/5vdwCRylN47LOzdmqg9reM) | 6:16 | 2020-12-01 |  |
+| [Waiting At the Bus Stop \(Full Version\)](https://open.spotify.com/track/30hMX3zgOLPcrfWGTc9vWj) | [The Kay Gees](https://open.spotify.com/artist/2kBAQC51ydY25zaSQBICTi) | [Find a Friend \(Expanded Version\)](https://open.spotify.com/album/1WHqXYm3pvEFkFHsXELoYm) | 6:16 | 2020-12-01 |  |
+| [Waiting At the Bus Stop \- Full Version](https://open.spotify.com/track/1JVeMXp2SzgrcujEYbxTW3) | [The Kay Gees](https://open.spotify.com/artist/2kBAQC51ydY25zaSQBICTi) | [Find a Friend \(Expanded Version\)](https://open.spotify.com/album/5vdwCRylN47LOzdmqg9reM) | 6:16 | 2020-12-01 | 2023-11-04 |
 | [Wake Up, Pts\. 1 & 2](https://open.spotify.com/track/5XkMROoPgSETi2VNlfjkqy) | [Pure Essence](https://open.spotify.com/artist/4xCpzpNTRGwmvXvfttdhLn) | [Soul Cal](https://open.spotify.com/album/31Cu3f8Ao0OyhcIVmSJZmV) | 6:08 | 2020-12-01 |  |
 | [Walt's First Trip](https://open.spotify.com/track/0VISJhuwperT3curfNm6A0) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Pleasure](https://open.spotify.com/album/1mQs5honpZt4AmJ7NArlg8) | 3:10 | 2020-12-01 |  |
 | [Wanted, Dead or Alive](https://open.spotify.com/track/0xGqjGe6XghqiCqeAObpqx) | [Voices Of East Harlem](https://open.spotify.com/artist/1LppeaUlwXl7FvRZ9dmSLi) | [The Voices of East Harlem](https://open.spotify.com/album/2bteCqW7AhT0vaTbD6kokm) | 3:27 | 2020-12-01 |  |

@@ -4,7 +4,7 @@
 
 > Listen Heroine's music 24 Hours.
 
-49 songs - 2 hr 39 min
+52 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Burn](https://open.spotify.com/track/1leUuiU53gcrZsnTmwidNb) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:29 | 2022-03-11 | 2023-08-07 |
 | [Burn](https://open.spotify.com/track/7tDtfRpDciNstyvwKzCcyO) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 3:29 | 2023-04-03 |  |
 | [Call](https://open.spotify.com/track/2HmA6srhyIetFJ9pb4kvdG) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 2:45 | 2022-03-11 |  |
+| [Calm myself](https://open.spotify.com/track/0oOQEVd7D7peOKaQCQk6fp) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [STRANGER](https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X) | 1:29 | 2023-11-03 |  |
 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 | 2022-06-30 |  |
 | [Curve](https://open.spotify.com/track/0dxN4KBx1LIneaq3Idtl3X) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 3:37 | 2022-07-12 |  |
 | [Fellowship](https://open.spotify.com/track/6PW5GLnTnF9krvqR3QcjWg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMIYA CLUB](https://open.spotify.com/album/5m1kGBVJBKcrlLBgy300vV) | 1:54 | 2022-05-22 |  |
@@ -40,6 +41,7 @@
 | [Secret Tape](https://open.spotify.com/track/2shjrcZS945n1zu1EaeOrH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 1:32 | 2022-07-12 |  |
 | [Siren](https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) | 3:19 | 2022-07-12 |  |
 | [Siren](https://open.spotify.com/track/6ySoz8mujfiQS37xjEEZCv) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR) | 3:19 | 2022-03-11 | 2022-07-29 |
+| [STRANGER](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [STRANGER](https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X) | 2:46 | 2023-11-03 |  |
 | [SUNNY](https://open.spotify.com/track/1ZKj8dOHp1gaOE9BGvyWWU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:20 | 2022-03-11 |  |
 | [TAIL](https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [TAIL](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) | 3:10 | 2022-03-11 |  |
 | [Time Is Up](https://open.spotify.com/track/6ZxavH9mJlUGYOSCdSplJs) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 4:38 | 2023-04-03 |  |
@@ -54,6 +56,7 @@
 | [가라고 \(Gotta Go\)](https://open.spotify.com/track/7xY4ZyZ8v7Crjtu3Esmnql) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [XX \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0ftTaGQKUoSrBKH4ZqWIxq) | 2:59 | 2023-04-03 |  |
 | [곡선](https://open.spotify.com/track/4F0zJatuBIKVCaezK26Uvo) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR) | 3:37 | 2022-03-11 | 2022-07-29 |
 | [그게 너라면](https://open.spotify.com/track/5ISTy9kctyjm2zNW9TeZqI) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:47 | 2022-03-11 | 2023-08-06 |
+| [덕질 \(Call my name\)](https://open.spotify.com/track/3616bZAuzinwxMPqj4RmRg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [STRANGER](https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X) | 3:24 | 2023-11-03 |  |
 | [멈춰버린 시간](https://open.spotify.com/track/4AgEO6iy3fsyLbpjAdt42g) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 4:38 | 2022-03-11 | 2023-08-06 |
 | [보름달](https://open.spotify.com/track/4DrMEpcUwwRyxLtRjnPvZk) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Lena](https://open.spotify.com/artist/0EmA3wlv6dnf3Pc9SINsvA) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:22 | 2022-03-11 | 2023-08-06 |
 | [비밀테이프](https://open.spotify.com/track/2g5Tbu6EbZz9pT3ku8JXfc) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR) | 1:32 | 2022-03-11 | 2022-07-29 |

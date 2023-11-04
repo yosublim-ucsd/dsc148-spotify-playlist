@@ -2054,10 +2054,32 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 431893,
       "name": "The Fox Chase",
       "url": "https://open.spotify.com/track/0Hotw6uKhCN1Qixt5bMSlK"
+    },
+    {
+      "album": {
+        "name": "The Spanish Cloak: The Best of The Fureys",
+        "url": "https://open.spotify.com/album/6788nJyFCEQD5rs5aOUL50"
+      },
+      "artists": [
+        {
+          "name": "Finbar Furey",
+          "url": "https://open.spotify.com/artist/72qs8dHxUfn7lB9cYxQvIF"
+        },
+        {
+          "name": "Eddie Furey",
+          "url": "https://open.spotify.com/artist/0XrswHCcCxsXDssDv5rNdZ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431893,
+      "name": "The Fox Chase",
+      "url": "https://open.spotify.com/track/5OBrI2LEm7LHdgoVGPshtb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,403 likes - 173 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,427 likes - 173 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 74 | [RISE \- Darius Remix](https://open.spotify.com/track/0zyDQF49c8BZObY8Figpew) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [RISE \(Darius Remix\)](https://open.spotify.com/album/11H0eAX1PYOz4XENIBHmRL) | 7:31 |
 | 75 | [Tighten It Up](https://open.spotify.com/track/2voltAhgLIXdr0AdlmYi8u) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Tighten It Up](https://open.spotify.com/album/1kehGGSk2pMh7UNkDe4Njt) | 2:54 |
 | 76 | [I'm A Blessed Man](https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [Mister Vi](https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L) | [Rebirth](https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n) | 9:56 |
-| 77 | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1) | 2:55 |
+| 77 | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3LCZyDlOXrGPzTESP4PqXt) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1dOzRhBdpIFjBJXxGWJnyg) | 2:55 |
 | 78 | [Each Other](https://open.spotify.com/track/5527KNwYQWSlCO2xvNZuYl) | [SIROJ](https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [You Will Be Fine](https://open.spotify.com/album/6ufZebDKqcDJfQyMkkDh9z) | 3:42 |
 | 79 | [Someone Special](https://open.spotify.com/track/4idEjqHVBPG2y2nTukwUys) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Someone Special](https://open.spotify.com/album/4u3seoESGmhG7etMrgrdaL) | 3:18 |
 | 80 | [Phases \(feat\. dreamcastmoe\)](https://open.spotify.com/track/7DTA0Xwy0pEL75tur4XKXt) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Phases \(feat\. dreamcastmoe\)](https://open.spotify.com/album/7LPIzGmvdtNgLdGPlxHjKn) | 3:32 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 172 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 |
 | 173 | [MY HOUSE](https://open.spotify.com/track/6sZzLJkAHCbSkbqLdUFT6Q) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [MY HOUSE / BLEAK](https://open.spotify.com/album/3YKs6Hoq25I2tqZjSP56qU) | 4:02 |
 
-Snapshot ID: `MCw0M2VkMDAxN2UxNzdmODdkMGExNDg5NDY1ZDViNzQyNGY1YWVlMDdj`
+Snapshot ID: `MCw2N2VkZWZkOTU2YmE3Y2Y4MDZlMDZhMTEyN2YwYzY4NGYzM2NmMmZi`

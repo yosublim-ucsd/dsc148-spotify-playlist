@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-358 songs - 21 hr 44 min
+359 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,8 @@
 | [Who Knew](https://open.spotify.com/track/6ABbS6736nA9V73pEyKVzg) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Who Knew](https://open.spotify.com/album/1v7cxaUL0IoJcUdRJvITYu) | 3:34 | 2022-05-27 | 2023-08-12 |
 | [Wish I Said I Love You](https://open.spotify.com/track/0J9xmb04HpXvAFC7krKY9m) | [Nick Wilkins](https://open.spotify.com/artist/1yHR6PFBi6LIe4hsleZDDS), [Adonai Melodías](https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI), [meka maraschino](https://open.spotify.com/artist/2CF7xMG5rTOrrNotNG49Dn) | [Wish I Said I Love You](https://open.spotify.com/album/1iWNb3YzSCVxIsOpHk2PQy) | 2:34 | 2023-06-23 |  |
 | [Without You](https://open.spotify.com/track/2Ex6PBUZ3fsF6slCIiqIdp) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Without You](https://open.spotify.com/album/3WDkQ6nXADxHuZ4c94TqwE) | 2:26 | 2023-09-29 |  |
-| [Woman \- Single Edit](https://open.spotify.com/track/4ba1UPL7mNQbU2G2qkDAQF) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Woman](https://open.spotify.com/album/2G3KsJiBi8yJXwoeBG6V4N) | 3:02 | 2023-01-27 |  |
+| [Woman \(Single Edit\)](https://open.spotify.com/track/3tW5b01kiWfMJKQWddwPNl) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Woman](https://open.spotify.com/album/5EDZmK0jbWRF7OmgilvMZ8) | 3:02 | 2023-09-01 |  |
+| [Woman \- Single Edit](https://open.spotify.com/track/4ba1UPL7mNQbU2G2qkDAQF) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Woman](https://open.spotify.com/album/2G3KsJiBi8yJXwoeBG6V4N) | 3:02 | 2023-01-27 | 2023-11-04 |
 | [Wonderland](https://open.spotify.com/track/2ABBvCK4TnSOv8wKJSCVcR) | [Wonder 45](https://open.spotify.com/artist/6k1Qbba3pn2wHLu7A2m95Q), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Wonderland](https://open.spotify.com/album/3PRqDNpAzwzxAJqHWhL0cS) | 5:40 | 2022-05-06 |  |
 | [Workin' Man Blues](https://open.spotify.com/track/3oS3jewBr4kDcMbBe4XkSq) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [Down Every Road](https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf) | 3:37 | 2022-05-06 |  |
 | [Workin' Man Blues](https://open.spotify.com/track/54SPmx0U4wg5P4I9rO9kdC) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [Workin' Man Blues](https://open.spotify.com/album/2gjhCcAyZe5Zb1kyUbNNPK) | 3:37 | 2022-05-06 | 2023-04-30 |

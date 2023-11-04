@@ -468,10 +468,28 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 201853,
       "name": "Cut Me Loose",
       "url": "https://open.spotify.com/track/25xhZCI2fhjeeo1S07DQq8"
+    },
+    {
+      "album": {
+        "name": "10 Year Plan",
+        "url": "https://open.spotify.com/album/6CY8lxQxwgqGvBrhKPolut"
+      },
+      "artists": [
+        {
+          "name": "The Shires",
+          "url": "https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201853,
+      "name": "Cut Me Loose",
+      "url": "https://open.spotify.com/track/7lvCpTZmCWv2Q4Rf0I64pG"
     },
     {
       "album": {
@@ -2603,6 +2621,24 @@
     },
     {
       "album": {
+        "name": "Welcome to the Club",
+        "url": "https://open.spotify.com/album/39lqBskpYDfWOYwGwKMk8I"
+      },
+      "artists": [
+        {
+          "name": "Twinnie",
+          "url": "https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189049,
+      "name": "Welcome to the Club",
+      "url": "https://open.spotify.com/track/1ve542s6OQNdpgtJEcUTvx"
+    },
+    {
+      "album": {
         "name": "Welcome to the Club EP",
         "url": "https://open.spotify.com/album/1AplZnZ52giMD7tborquEH"
       },
@@ -2614,7 +2650,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 189049,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/47vfptpehRy0aFaiUYVJLi"

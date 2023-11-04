@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Graham Barham
 
-307 songs - 16 hr 15 min
+309 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [She's Got Wings](https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [She's Got Wings](https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT) | 3:26 | 2023-06-30 |  |
 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 | 2021-12-31 |  |
 | [Skip This Part](https://open.spotify.com/track/4vBRaWNRt12NOFFLmekoou) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Skip This Part](https://open.spotify.com/album/1fzHdD4hckwMiVn1YD6Q30) | 3:19 | 2023-02-24 |  |
-| [Slide](https://open.spotify.com/track/0SSBQdSqV7cE07R1k0auuJ) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/79xHTzUrCaeUntHK1XqRyU) | 3:34 | 2022-09-23 |  |
+| [Slide](https://open.spotify.com/track/0SSBQdSqV7cE07R1k0auuJ) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/79xHTzUrCaeUntHK1XqRyU) | 3:34 | 2022-09-23 | 2023-11-04 |
+| [Slide](https://open.spotify.com/track/5bkI1sHZKGz4iFQzPX7GJI) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ) | 3:34 | 2023-10-27 |  |
 | [Some Are Love](https://open.spotify.com/track/1Wn6rLDvovKIKkTEF4TCYj) | [Malachi Gagnon](https://open.spotify.com/artist/5ypiXY7PJ0KSUk5YbaNv3t) | [Some Are Love](https://open.spotify.com/album/0UqsN9S6rMzzAxpHmrCk7N) | 3:03 | 2023-08-18 |  |
 | [Somebody Loves You](https://open.spotify.com/track/4EtlDPVMEapdCaBWDFypFn) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Somebody Loves You](https://open.spotify.com/album/0QEobz2FDq9LU0CDSClIWF) | 2:32 | 2021-12-31 | 2022-09-10 |
 | [Somebody with a Broken Heart](https://open.spotify.com/track/7yQJUfSF801AAMjcJcFbvh) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Somebody with a Broken Heart](https://open.spotify.com/album/5c8V1funhYDhiuKVajsXa4) | 3:32 | 2021-12-31 | 2022-01-08 |
@@ -263,7 +264,8 @@
 | [Take Me Home](https://open.spotify.com/track/6pZ989rZpUdbJaIa7zGMnl) | [Lexie Hayden](https://open.spotify.com/artist/6zYd6Vq5ssXgIhxm1DTGWh) | [Take Me Home](https://open.spotify.com/album/5EENz2lpRG7vQChSZR7RIn) | 3:26 | 2021-12-31 | 2022-01-22 |
 | [Take Me Home](https://open.spotify.com/track/1I0feQSDS1NraRdSFTpAIO) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [Take Me Home](https://open.spotify.com/album/1s5YEE17J1ZqCkcSnpxO9A) | 3:25 | 2021-12-31 |  |
 | [Tell 'Em Why](https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Tell 'Em Why](https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER) | 2:46 | 2022-07-01 |  |
-| [Tennessee's Waiting](https://open.spotify.com/track/5W8SNrY9AxNWfsl7X5a5O4) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [The Other Half](https://open.spotify.com/album/6cmoD6nJ4anqACfPpuPjtE) | 3:09 | 2023-08-01 |  |
+| [Tennessee's Waiting](https://open.spotify.com/track/5W8SNrY9AxNWfsl7X5a5O4) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [The Other Half](https://open.spotify.com/album/6cmoD6nJ4anqACfPpuPjtE) | 3:09 | 2023-08-01 | 2023-11-04 |
+| [Tennessee’s Waiting](https://open.spotify.com/track/7IvzjFp53lsHrQzTiBsATg) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Tennessee's Waiting](https://open.spotify.com/album/7M5V96Xw8tnHAFwdjAkPWb) | 3:09 | 2023-10-27 |  |
 | [Thank You Card](https://open.spotify.com/track/363sJuHog5UqucY0D15ggq) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Thank You Card](https://open.spotify.com/album/69RR8FI3KIdVizuPF6Bf36) | 3:10 | 2022-02-25 |  |
 | [That Summer](https://open.spotify.com/track/00oJcls7l9XuLAroemBLy8) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Silver Linings](https://open.spotify.com/album/3sJZ4bPGiUVmgHUC02frvL) | 3:04 | 2022-10-14 | 2023-01-14 |
 | [That Summer](https://open.spotify.com/track/4eb7VLZEQhNo10TnJDQmCx) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [That Summer](https://open.spotify.com/album/37fZJrMmfyGdPgBupuXKLo) | 3:04 | 2021-12-31 | 2022-10-28 |

@@ -1,15 +1,47 @@
 {
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: cotoba(\ucf54\ud1a0\ubc14)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 226523,
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: CHASEDAE(\ucc28\uc138\ub300)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "num_followers": 226542,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmRkMWY2M2RlZmFhMzZlOGQ5MzRmMjBjMmViNGI1NjFiMmE5ZTcz",
+  "snapshot_id": "MCwzMTljNGI2NzlmOTUzYjYzMmZlYjY2Nzc1N2RjYzdjYTc5ZDQxYmU3",
   "tracks": [
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
+      "album": {
+        "name": "DUNE",
+        "url": "https://open.spotify.com/album/2nCVtbXGN7bJleieRr0i49"
+      },
+      "artists": [
+        {
+          "name": "CHASEDAE",
+          "url": "https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8"
+        }
+      ],
+      "duration_ms": 255318,
+      "name": "DUNE",
+      "url": "https://open.spotify.com/track/1ap1yvWJ6xvkHTBUpUi5wA"
+    },
+    {
+      "added_at": "2023-11-03 08:01:29",
+      "album": {
+        "name": "Moon Shower",
+        "url": "https://open.spotify.com/album/07TNiIlsk9H6WJ2KPl1Zv4"
+      },
+      "artists": [
+        {
+          "name": "NELL",
+          "url": "https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ"
+        }
+      ],
+      "duration_ms": 203012,
+      "name": "Moon Shower",
+      "url": "https://open.spotify.com/track/263KmXuzo15UKctN8kwmR7"
+    },
+    {
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "co-isolation",
         "url": "https://open.spotify.com/album/4Dayk4y6uYUwI5Ok1Hfxa5"
@@ -25,39 +57,7 @@
       "url": "https://open.spotify.com/track/1f7c2QDWM7KWVQMXmarNbF"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
-      "album": {
-        "name": "OOHYO Returns",
-        "url": "https://open.spotify.com/album/5iPXqgnaZVmXwIv9acle9Q"
-      },
-      "artists": [
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 243827,
-      "name": "Perhaps Maybe Returns",
-      "url": "https://open.spotify.com/track/7LueEdOMcCfcCGbxDtvw1O"
-    },
-    {
-      "added_at": "2023-10-27 03:14:07",
-      "album": {
-        "name": "Catch me",
-        "url": "https://open.spotify.com/album/17B8NJ6VWj6JjlNvYo0z4j"
-      },
-      "artists": [
-        {
-          "name": "bandi",
-          "url": "https://open.spotify.com/artist/1ZAcR8cdwu2BbwPAzE0Ntd"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Catch me",
-      "url": "https://open.spotify.com/track/0L4fQABUpqfxzJdTD0QGCC"
-    },
-    {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "Livelock",
         "url": "https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "1st Single Album 'Harmony from Discord'",
         "url": "https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "ASTERUM : The Shape of Things to Come",
         "url": "https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF"
@@ -105,23 +105,27 @@
       "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
-        "name": "Navillera",
-        "url": "https://open.spotify.com/album/2pLW8MHtuFT62bk9WC7oA4"
+        "name": "WHERE DOES SASQUATCH LIVE? Pt. 2",
+        "url": "https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr"
       },
       "artists": [
         {
-          "name": "Biuret",
-          "url": "https://open.spotify.com/artist/3ebT6m7SiOMVzQKgc3y9yn"
+          "name": "Zior Park",
+          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+        },
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
         }
       ],
-      "duration_ms": 192170,
-      "name": "Navillera",
-      "url": "https://open.spotify.com/track/5J4E8EChG1AJWFwxZNgn76"
+      "duration_ms": 261120,
+      "name": "BYE BYE BYE (feat. Sion)",
+      "url": "https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
@@ -141,7 +145,7 @@
       "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "Back To Me / Alive",
         "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
@@ -157,7 +161,7 @@
       "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "QUEEN",
         "url": "https://open.spotify.com/album/5WUYatYzBqFfWBdTlaCvYs"
@@ -173,7 +177,7 @@
       "url": "https://open.spotify.com/track/5qA0Ks0QbF95BLz5QegTQR"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "Episode1 : Love",
         "url": "https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD"
@@ -193,7 +197,7 @@
       "url": "https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "daisy.",
         "url": "https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS"
@@ -209,7 +213,7 @@
       "url": "https://open.spotify.com/track/6TRPSdNLeh5BZdsi9FdfNR"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "I \u2260 DOLL",
         "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
@@ -225,7 +229,7 @@
       "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
@@ -241,7 +245,7 @@
       "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
@@ -257,7 +261,7 @@
       "url": "https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
@@ -273,7 +277,7 @@
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
@@ -289,7 +293,7 @@
       "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h"
@@ -309,7 +313,7 @@
       "url": "https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
@@ -325,55 +329,7 @@
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
-      "album": {
-        "name": "summer flows 0.02",
-        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "ride",
-      "url": "https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN"
-    },
-    {
-      "added_at": "2023-10-27 03:14:07",
-      "album": {
-        "name": "Shoot Me : Youth Part 1",
-        "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 175836,
-      "name": "Shoot Me",
-      "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
-    },
-    {
-      "added_at": "2023-10-27 03:14:07",
-      "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
-      },
-      "artists": [
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
-    },
-    {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "[Dystopia : Lose Myself]",
         "url": "https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz"
@@ -389,23 +345,23 @@
       "url": "https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
+        "name": "Shoot Me : Youth Part 1",
+        "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 215476,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
+      "duration_ms": 175836,
+      "name": "Shoot Me",
+      "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
         "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
@@ -421,7 +377,39 @@
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
+    },
+    {
+      "added_at": "2023-11-03 08:01:29",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
+    },
+    {
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "Deadlock",
         "url": "https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG"
@@ -437,23 +425,7 @@
       "url": "https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
-      "album": {
-        "name": "pueblo",
-        "url": "https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "pueblo",
-      "url": "https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA"
-    },
-    {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "Traffic light",
         "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
@@ -469,23 +441,7 @@
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
-      "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
-    },
-    {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "1st Album [Dystopia : The Tree of Language]",
         "url": "https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr"
@@ -501,7 +457,7 @@
       "url": "https://open.spotify.com/track/7FxshQAsTWmogWU959hz3T"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "NAN CHUN \ub09c\ucd98",
         "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
@@ -517,7 +473,23 @@
       "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
+    },
+    {
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "minisode1 : Blue Hour",
         "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
@@ -533,7 +505,23 @@
       "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "Wi Ing Wi Ing",
+      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
+    },
+    {
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "UNSTABLE MINDSET",
         "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
@@ -553,23 +541,7 @@
       "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Wi Ing Wi Ing",
-      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
-    },
-    {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
@@ -585,7 +557,7 @@
       "url": "https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
@@ -601,7 +573,7 @@
       "url": "https://open.spotify.com/track/0CEPvV1cNMy96bQnPTS3n8"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "FLY HIGH PROJECT #2 'Rooftop'",
         "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
@@ -617,7 +589,7 @@
       "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "[Apocalypse : Save us]",
         "url": "https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a"
@@ -633,23 +605,7 @@
       "url": "https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
-      "album": {
-        "name": "HEAL",
-        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 200581,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
-    },
-    {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
@@ -665,7 +621,7 @@
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
@@ -681,23 +637,23 @@
       "url": "https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
-        "name": "Self-Portrait - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1"
+        "name": "HEAL",
+        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
       },
       "artists": [
         {
-          "name": "SUHO",
-          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 229626,
-      "name": "Let\u2019s Love",
-      "url": "https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv"
+      "duration_ms": 200581,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "The Book of Us : The Demon",
         "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
@@ -713,23 +669,23 @@
       "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
-        "name": "Raid of Dream",
-        "url": "https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ"
+        "name": "Self-Portrait - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1"
       },
       "artists": [
         {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
         }
       ],
-      "duration_ms": 224784,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm"
+      "duration_ms": 229626,
+      "name": "Let\u2019s Love",
+      "url": "https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
@@ -745,7 +701,23 @@
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
+      "album": {
+        "name": "Raid of Dream",
+        "url": "https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 224784,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm"
+    },
+    {
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
@@ -761,7 +733,7 @@
       "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "She",
         "url": "https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9"
@@ -777,7 +749,23 @@
       "url": "https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
+      "album": {
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 257752,
+      "name": "Where the sea sleeps",
+      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
+    },
+    {
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "Letters with notes",
         "url": "https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P"
@@ -793,7 +781,39 @@
       "url": "https://open.spotify.com/track/4tVxP9VLIgzD9oRLmzioQT"
     },
     {
-      "added_at": "2023-10-27 03:14:07",
+      "added_at": "2023-11-03 08:01:29",
+      "album": {
+        "name": "COLORFUL TRAUMA",
+        "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I hate you",
+      "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
+    },
+    {
+      "added_at": "2023-11-03 08:01:29",
+      "album": {
+        "name": "The End of Nightmare",
+        "url": "https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 206820,
+      "name": "PIRI",
+      "url": "https://open.spotify.com/track/38dgtl73zn8VYh7VOCvs69"
+    },
+    {
+      "added_at": "2023-11-03 08:01:29",
       "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
@@ -807,22 +827,6 @@
       "duration_ms": 234534,
       "name": "I Loved You",
       "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
-    },
-    {
-      "added_at": "2023-10-27 03:14:07",
-      "album": {
-        "name": "The Book of Us : Gluon - Nothing can tear us apart",
-        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 257752,
-      "name": "Where the sea sleeps",
-      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

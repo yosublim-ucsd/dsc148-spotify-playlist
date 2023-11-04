@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz?si=5cBBjqVRSkq_ktmiXK6oTw\">Priddy Ugly</a>",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/6RBOLfqkI4jKZxRw2X89rI?si=g5rBGOOHQfuuWHUYgidwvQ\">Ginger Trill</a>, <a href=\"https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz?si=Brh8XQpFR4S6jtkDUYhZDw\">Touchline</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 219464,
       "name": "BEST",
       "url": "https://open.spotify.com/track/4v8E8YsAUL5zRQ3pMLDIaW"
@@ -4726,6 +4726,28 @@
       "duration_ms": 192000,
       "name": "HELL OF A NIGHT",
       "url": "https://open.spotify.com/track/2ELY1HHLenJu04h7UmAf1I"
+    },
+    {
+      "album": {
+        "name": "Boyzen Da Hood",
+        "url": "https://open.spotify.com/album/5q2sTZPvt55iu8vB30N349"
+      },
+      "artists": [
+        {
+          "name": "Touchline",
+          "url": "https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz"
+        },
+        {
+          "name": "Ginger Trill",
+          "url": "https://open.spotify.com/artist/6RBOLfqkI4jKZxRw2X89rI"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208539,
+      "name": "Hennessy",
+      "url": "https://open.spotify.com/track/6kIS7rImcCJECQod84TqOr"
     },
     {
       "album": {
@@ -8449,6 +8471,28 @@
     },
     {
       "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/48xL2OFK1wEp2dCiNMCAa2"
+      },
+      "artists": [
+        {
+          "name": "Roiii",
+          "url": "https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V"
+        },
+        {
+          "name": "Boity",
+          "url": "https://open.spotify.com/artist/1m1TdFQCnKHcfVlO17avCF"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181098,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/6m3QKwFZ3rEJKriwlSmlcv"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/4kuTBlrKSSrgibi6ua1aHP"
       },
@@ -8804,7 +8848,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 213000,
       "name": "Phone-Hello.",
       "url": "https://open.spotify.com/track/5CnZoLBaQ3j2OfhpzDKfyg"

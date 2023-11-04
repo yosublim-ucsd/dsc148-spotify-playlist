@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: Joy Denalane
 
-1,140 songs - 2 day 11 hr 23 min
+1,141 songs - 2 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Betrunken](https://open.spotify.com/track/2K7pb4S78VdvRrzqGIvKSU) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Betrunken](https://open.spotify.com/album/3WQbnONKLVn3GnqqnkJ9Ws) | 2:27 | 2023-10-03 |  |
 | [Better Off](https://open.spotify.com/track/4L9YBaBP34DCEoETaQHk7S) | [Anna\-Sophie](https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw) | [Better Off](https://open.spotify.com/album/3IbJi8T9OfwEWCk8Oybljo) | 2:45 | 2023-06-06 | 2023-07-05 |
 | [Better Version of Myself](https://open.spotify.com/track/3e0hCExDj9IU0j7HzRbYxy) | [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv) | [Better Version of Myself](https://open.spotify.com/album/5YIbUpYwQwJI34gH5G4EBi) | 2:28 | 2022-05-03 | 2022-06-01 |
-| [BFF](https://open.spotify.com/track/5jVJWhhFVsHy6Cfud1Qxjq) | [Charisma](https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb) | [BFF](https://open.spotify.com/album/6ttn7yBKks0O3iP0senqjR) | 1:58 | 2023-10-03 |  |
+| [BFF](https://open.spotify.com/track/5jVJWhhFVsHy6Cfud1Qxjq) | [Charisma](https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb) | [BFF](https://open.spotify.com/album/6ttn7yBKks0O3iP0senqjR) | 1:58 | 2023-10-03 | 2023-11-04 |
+| [BFF](https://open.spotify.com/track/61xrfupJTwPOOGhnCiYAhk) | [Charisma](https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb) | [BFF](https://open.spotify.com/album/0T3yiujsEyY4VK5xrkqNmt) | 1:58 | 2023-10-03 |  |
 | [BIBÄ](https://open.spotify.com/track/0FA6uGF0V1GCBFsM7c6esF) | [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6) | [BIBÄ](https://open.spotify.com/album/2HYT3G8SfdGHqIsXOvpbM2) | 2:41 | 2023-01-03 | 2023-02-01 |
 | [Bienennest](https://open.spotify.com/track/45fAUlR4UMhnH0g2sxF3U2) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Bienennest](https://open.spotify.com/album/5IiXuGdya1sEyxr2FDOBOh) | 3:28 | 2023-01-31 | 2023-03-01 |
 | [BIG POPPA](https://open.spotify.com/track/4IFjgAABH0qU7jNIehEoUR) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [BIG POPPA](https://open.spotify.com/album/4scyWzys4pvJ2b62QMaMlc) | 2:07 | 2022-05-31 | 2022-07-06 |

@@ -6069,6 +6069,24 @@
     },
     {
       "album": {
+        "name": "dancingwithsomebawdy",
+        "url": "https://open.spotify.com/album/6V3WWXiykduElQoySTy9Y7"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143319,
+      "name": "dancingwithsomebawdy",
+      "url": "https://open.spotify.com/track/4qKRrLTUuPn4wmESRqw26m"
+    },
+    {
+      "album": {
         "name": "DANDELION",
         "url": "https://open.spotify.com/album/4GKSKzLd3STRz3wAL1Fzmc"
       },

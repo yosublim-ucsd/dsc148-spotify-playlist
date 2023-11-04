@@ -1,13 +1,93 @@
 {
-  "description": "Explore all things indie rock right now. Featuring new music by Mannequin Pussy",
+  "description": "Explore all things indie rock right now. Featuring new music by Arcy Drive",
   "num_followers": 844100,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzM5MGIxZGNkYjgxMDdkMThkYjQxNGYyYWYyYmJjYmJmNTk1ODY3",
+  "snapshot_id": "MCxiNDM2ZTgwMmE3NDE2NDdhNWQxNTI3OTIyOTVmYzBhMGYxMjJiNDJj",
   "tracks": [
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Superbloomer",
+        "url": "https://open.spotify.com/album/43M8szELX9et29YildxYbP"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 277175,
+      "name": "Superbloomer",
+      "url": "https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Utopian",
+        "url": "https://open.spotify.com/album/4EcdsdsmbPSKTaIWZLmF6t"
+      },
+      "artists": [
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Utopian",
+      "url": "https://open.spotify.com/track/6Y73gYOJzsXMxp5JVmYRCk"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/1l2tLGBVpMvwnZ8TV5sC4l"
+      },
+      "artists": [
+        {
+          "name": "Blaize Jenkins",
+          "url": "https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn"
+        }
+      ],
+      "duration_ms": 241447,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3MdfiTYyZLFxWHwHf4gDsu"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Sunday / Medicine",
+        "url": "https://open.spotify.com/album/2q3V5Ylh479x0bTRCJeHC1"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/3OB5WUE1dbsTAs7kYjgNkP"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP"
+    },
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
@@ -23,6 +103,22 @@
       "duration_ms": 145617,
       "name": "Say Hi",
       "url": "https://open.spotify.com/track/2oy4bPKlaFoYnAEvDcgpVR"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "bella / i can't find anyone",
+        "url": "https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "bella",
+      "url": "https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -43,18 +139,66 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "bella / i can't find anyone",
-        "url": "https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7"
+        "name": "All Over Again b/w Moon",
+        "url": "https://open.spotify.com/album/67qT5xrgw6491DQYbIh3ty"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "Teethe",
+          "url": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
         }
       ],
-      "duration_ms": 199466,
-      "name": "bella",
-      "url": "https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA"
+      "duration_ms": 162969,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "HUSH",
+        "url": "https://open.spotify.com/album/6FrcYbl99S3e5xlvHCQj7R"
+      },
+      "artists": [
+        {
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "HUSH",
+      "url": "https://open.spotify.com/track/4BXaVV3EPztEtb4hcF9CGS"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "SUCKER",
+        "url": "https://open.spotify.com/album/2luQRtBMAKFkGnBwWToNkJ"
+      },
+      "artists": [
+        {
+          "name": "IAN SWEET",
+          "url": "https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD"
+        }
+      ],
+      "duration_ms": 268586,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/3Y7aoI9rr7TqA2ONaIHgB9"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Cartwheel",
+        "url": "https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "duration_ms": 162032,
+      "name": "Stump",
+      "url": "https://open.spotify.com/track/2HYNOLnG9RhqqPKAmYncek"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -95,22 +239,6 @@
       "duration_ms": 178274,
       "name": "Snake at the Altar",
       "url": "https://open.spotify.com/track/09g9dZqULC8yNN8FrlK9QP"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "All Over Again b/w Moon",
-        "url": "https://open.spotify.com/album/67qT5xrgw6491DQYbIh3ty"
-      },
-      "artists": [
-        {
-          "name": "Teethe",
-          "url": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
-        }
-      ],
-      "duration_ms": 162969,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -247,22 +375,6 @@
       "duration_ms": 184258,
       "name": "Headhunters",
       "url": "https://open.spotify.com/track/0e2UXJVBkra5oNKMoOF9BH"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Smoking Again",
-        "url": "https://open.spotify.com/album/3Py4Ssqx8NXu3nHZsm3BHz"
-      },
-      "artists": [
-        {
-          "name": "IAN SWEET",
-          "url": "https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Smoking Again",
-      "url": "https://open.spotify.com/track/6xwtRUcCmIyC8WdzvEcvs1"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -699,22 +811,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "How to Hold a Knife",
-        "url": "https://open.spotify.com/album/0PQLyt9P4Qi94KgwTnsvcH"
-      },
-      "artists": [
-        {
-          "name": "quannnic",
-          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
-        }
-      ],
-      "duration_ms": 176558,
-      "name": "How to Hold a Knife",
-      "url": "https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Angel Hair",
         "url": "https://open.spotify.com/album/2nEyW8haFXnWeGSj33XsHH"
       },
@@ -727,22 +823,6 @@
       "duration_ms": 176998,
       "name": "Angel Hair",
       "url": "https://open.spotify.com/track/0akgQn9E1BxuNqklbxPSTx"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Boy Scout",
-        "url": "https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 200261,
-      "name": "Boy Scout",
-      "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -775,22 +855,6 @@
       "duration_ms": 149280,
       "name": "I'm Done",
       "url": "https://open.spotify.com/track/2OfPiMCN1oV3lFgh6mO0vQ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Kimosab\u00e8",
-        "url": "https://open.spotify.com/album/6bbyTk1fL07XSecYxWlInv"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 228865,
-      "name": "Derby Raceway",
-      "url": "https://open.spotify.com/track/1davHiGeSwxgSvdy1yXtjp"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -863,22 +927,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Dead Come Talking",
-        "url": "https://open.spotify.com/album/3BxsQSkKIAP9bMWA706L1u"
-      },
-      "artists": [
-        {
-          "name": "Roe Kapara",
-          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
-        }
-      ],
-      "duration_ms": 133535,
-      "name": "The Dead Come Talking",
-      "url": "https://open.spotify.com/track/30rgtGTl30WcfiyDDqo94A"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "How Do You Sleep At Night?",
         "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
       },
@@ -891,22 +939,6 @@
       "duration_ms": 166626,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/3q1CuJFPA8wEKoEZhSc503"
-      },
-      "artists": [
-        {
-          "name": "ill peach",
-          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
-        }
-      ],
-      "duration_ms": 182773,
-      "name": "BLOOM",
-      "url": "https://open.spotify.com/track/1hXG79pd6Iap7RgjJWUGpO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1483,46 +1515,6 @@
       "duration_ms": 124489,
       "name": "CIGARETTES",
       "url": "https://open.spotify.com/track/3mU9L9qqhMxRbXgMXUncig"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Drivin (feat. Field Medic)",
-        "url": "https://open.spotify.com/album/6DGU0jhIhF8SmuATk0mQGc"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        },
-        {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Drivin (feat. Field Medic)",
-      "url": "https://open.spotify.com/track/00uUhSnmZOLJqq79mYoC2y"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Disco Ball Soul",
-        "url": "https://open.spotify.com/album/0yS9yFe7vcaFNz34dUrrIB"
-      },
-      "artists": [
-        {
-          "name": "Rebounder",
-          "url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB"
-        },
-        {
-          "name": "Purr",
-          "url": "https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP"
-        }
-      ],
-      "duration_ms": 159954,
-      "name": "Library",
-      "url": "https://open.spotify.com/track/2nbL5N84ccUC3FDnw1cbsM"
     },
     {
       "added_at": "2023-10-27 04:00:00",

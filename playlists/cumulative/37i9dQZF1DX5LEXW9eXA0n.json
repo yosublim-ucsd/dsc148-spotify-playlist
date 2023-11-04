@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover:\bLEEWOO(\uc774\uc6b0)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover:\bLyn(\ub9b0)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -806,6 +806,24 @@
       "duration_ms": 222813,
       "name": "All day",
       "url": "https://open.spotify.com/track/147avtNKN2LvIlENoa0GJ8"
+    },
+    {
+      "album": {
+        "name": "All Except for Wedding",
+        "url": "https://open.spotify.com/album/1ylHkF3BHA3tJDrDodyDTO"
+      },
+      "artists": [
+        {
+          "name": "Zia",
+          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189253,
+      "name": "All Except for Wedding",
+      "url": "https://open.spotify.com/track/5YMqjE5l0dLZjubWrbtSBs"
     },
     {
       "album": {
@@ -6182,6 +6200,24 @@
       "duration_ms": 235920,
       "name": "Hopeless Romantic (Feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss"
+    },
+    {
+      "album": {
+        "name": "House of light",
+        "url": "https://open.spotify.com/album/0QyxJ5YockEzHjVTz89BIV"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "House of light",
+      "url": "https://open.spotify.com/track/5rk2AxSpCqVOLRVdWaLa5F"
     },
     {
       "album": {
@@ -14184,6 +14220,24 @@
       "duration_ms": 225908,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/1xknicKLCrmvtOn5IfIBbF"
+    },
+    {
+      "album": {
+        "name": "something",
+        "url": "https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s"
+      },
+      "artists": [
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218360,
+      "name": "something",
+      "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
     },
     {
       "album": {

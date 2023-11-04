@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,428 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,421 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 36 | [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 |
 | 37 | [I Won't Bitch](https://open.spotify.com/track/3KD3sURRyU5R5ofgj491qZ) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Welcome to My Nightmare](https://open.spotify.com/album/2cDa70BDjpfp2jJn9E4v2U) | 3:26 |
 | 38 | [Detroit Blues](https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq) | [Danny Kroha](https://open.spotify.com/artist/0amf91cUep3YKQ5R7NJ1Mb) | [Detroit Blues](https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70) | 2:49 |
-| 39 | [Sun on My Face](https://open.spotify.com/track/2hHyeOI9VDvR5cBK4JF5DP) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Sun on My Face](https://open.spotify.com/album/3HTbVEiLa8i13BNewI7nx2) | 4:05 |
+| 39 | [Sun on My Face](https://open.spotify.com/track/35Hmr0JGSge1ivrl9xXqEP) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Can U Cook?](https://open.spotify.com/album/2P8zIqMbVrUfACL3oilh80) | 4:05 |
 | 40 | [Quarter on the Ground \(A Song for Uncle Joe\)](https://open.spotify.com/track/3sqmtKa1JwnAxLJFkmOQIf) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 3:36 |
 | 41 | [Kansas City Blues](https://open.spotify.com/track/58TQAkARupFHoHVQ00Yj9S) | [Steve Howell](https://open.spotify.com/artist/3xJEpa8iyCscYkG3XlIxBU), [Jason Weinheimer](https://open.spotify.com/artist/4SVe1RgQ8VnJ5Lgb6NodF3) | [A Hundred Years from Today](https://open.spotify.com/album/2h4vnUECqd75oUIBehBMYl) | 3:07 |
 | 42 | [Bad to the Bone](https://open.spotify.com/track/3yEPbndiOIRsH4FA2dBrTH) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 99 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/5LTMzb6lrWkdgNl4CNwfwx) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Between Midnight And Day](https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED) | 2:54 |
 | 100 | [What They Say](https://open.spotify.com/track/1Ksvwp4L3vKsWOJP9j1QoA) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/2SbPOPZJhWcY5bf81e4PIV) | 2:46 |
 
-Snapshot ID: `MCxmNjAyOTZiMTUyN2JlY2RkZTVlYTY1ODRhMzQ0ODllZjIyNDBlYjY3`
+Snapshot ID: `MCw5NDFlNjhmMTY0MTJlNWJjMzNjZTAwMjk4OWI1NzE5ZmQ4MGMwNjk1`

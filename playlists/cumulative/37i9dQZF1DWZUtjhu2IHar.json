@@ -96,7 +96,7 @@
     {
       "album": {
         "name": "Nocturnal",
-        "url": "https://open.spotify.com/album/7MiwPPCcuVaBrgRlJgIn6A"
+        "url": "https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN"
       },
       "artists": [
         {
@@ -107,6 +107,24 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 158081,
+      "name": "CASUALTY",
+      "url": "https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl"
+    },
+    {
+      "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/7MiwPPCcuVaBrgRlJgIn6A"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
       "duration_ms": 158081,
       "name": "CASUALTY",
       "url": "https://open.spotify.com/track/7Jcr9ikqAof1G8KnqsXy9n"
@@ -330,10 +348,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 254129,
       "name": "DEEP CUTS",
       "url": "https://open.spotify.com/track/43zuHsv9bZ9WfsXPzpR4Nb"
+    },
+    {
+      "album": {
+        "name": "Truth Decay",
+        "url": "https://open.spotify.com/album/7xObedXkIfaofJyf3QFhNF"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254129,
+      "name": "DEEP CUTS",
+      "url": "https://open.spotify.com/track/5rvTLBYAhf4yiQAFv3SXKc"
     },
     {
       "album": {
@@ -1312,10 +1348,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 104880,
       "name": "Molly",
       "url": "https://open.spotify.com/track/1kTZ1aERsOBTrihsDdGFNn"
+    },
+    {
+      "album": {
+        "name": "Tighter",
+        "url": "https://open.spotify.com/album/6tWuVzqiVt0EpyVoHbLz2j"
+      },
+      "artists": [
+        {
+          "name": "Mindless Self Indulgence",
+          "url": "https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104880,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/2OaTBDbysLmnVG1ZcA3OgC"
     },
     {
       "album": {

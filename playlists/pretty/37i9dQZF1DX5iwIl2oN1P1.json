@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 94181,
+  "num_followers": 94235,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjlkYTZlOWNiMjEzNWNmYTYwNjJlMGIzZTNkYjA2ODM2OTZiMGQz",
+  "snapshot_id": "MCxlZjBmZWFjYmY5YTA3ZDUyZjYwZTZlYTAwOTc1OTQyNmRlZDU4M2Nl",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -735,22 +735,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "The Higher Experience",
-        "url": "https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV"
-      },
-      "artists": [
-        {
-          "name": "Kelontae Gavin",
-          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
-        }
-      ],
-      "duration_ms": 313146,
-      "name": "No Ordinary Worship - Live",
-      "url": "https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Dear Future Me",
         "url": "https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 276423,
       "name": "I Forgive Me",
       "url": "https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "The Higher Experience",
+        "url": "https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        }
+      ],
+      "duration_ms": 313146,
+      "name": "No Ordinary Worship - Live",
+      "url": "https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej"
     },
     {
       "added_at": "2020-06-03 14:33:10",

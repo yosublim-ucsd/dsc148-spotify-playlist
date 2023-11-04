@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-183 songs - 11 hr 25 min
+184 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 | 2022-01-27 |  |
 | [Oak Tree](https://open.spotify.com/track/47dOtJjjwVkbKW244db2dE) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 3:00 | 2019-10-31 | 2022-07-29 |
 | [Oh Baby](https://open.spotify.com/track/0if1rzmcNxp6JXFCrbH9IR) | [Wake Owl](https://open.spotify.com/artist/2lnn5H36McBxbyhPYg10oj) | [The Private World of Paradise](https://open.spotify.com/album/57Ge2p68CmS1Td7oCV7Xtm) | 4:21 | 2019-10-31 | 2022-07-29 |
-| [Oh Baby](https://open.spotify.com/track/22XovWKiIxAM59jrRMJQZ0) | [Wake Owl](https://open.spotify.com/artist/2lnn5H36McBxbyhPYg10oj) | [The Private World of Paradise](https://open.spotify.com/album/3HncFXDVjUoeufNrlpNkvg) | 4:21 | 2022-01-27 |  |
+| [Oh Baby](https://open.spotify.com/track/22XovWKiIxAM59jrRMJQZ0) | [Wake Owl](https://open.spotify.com/artist/2lnn5H36McBxbyhPYg10oj) | [The Private World of Paradise](https://open.spotify.com/album/3HncFXDVjUoeufNrlpNkvg) | 4:21 | 2022-01-27 | 2023-11-04 |
+| [Oh Baby](https://open.spotify.com/track/7tMR9dwrtJXba6Y56rvJXc) | [Wake Owl](https://open.spotify.com/artist/2lnn5H36McBxbyhPYg10oj) | [The Private World of Paradise](https://open.spotify.com/album/1QSnUfKZg7uaUPjoyfh1p3) | 4:21 | 2023-09-08 |  |
 | [Only Son Of The Ladiesman](https://open.spotify.com/track/1ieIsifKVuku91G7jHSLYZ) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/6n5vLBsUWD0ryjsEfBBEmT) | 4:09 | 2019-10-31 | 2022-07-29 |
 | [Only Son of the Ladiesman](https://open.spotify.com/track/3ySVCcGZeCrrsE4wnhilD3) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 4:09 | 2022-01-27 |  |
 | [Out To Sea](https://open.spotify.com/track/1JRVodzHiHJmuDRa83QO20) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Avenues](https://open.spotify.com/album/5qet4b9g14WGegggOOxz6s) | 5:51 | 2019-10-31 | 2022-07-29 |

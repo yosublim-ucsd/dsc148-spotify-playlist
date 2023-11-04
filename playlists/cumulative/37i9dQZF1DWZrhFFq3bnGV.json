@@ -375,6 +375,24 @@
     },
     {
       "album": {
+        "name": "Astramaya Arsa",
+        "url": "https://open.spotify.com/album/17CFKBAlGQPk33A6MbKnAl"
+      },
+      "artists": [
+        {
+          "name": "Tommy Pratomo",
+          "url": "https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254217,
+      "name": "Astramaya Arsa",
+      "url": "https://open.spotify.com/track/6fyeqkOMS6PKnx3BEZmyMN"
+    },
+    {
+      "album": {
         "name": "ATARAXIA",
         "url": "https://open.spotify.com/album/5IlMOPDrwjL0JvRwrbcvbN"
       },
@@ -594,7 +612,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 151053,
       "name": "Changes",
       "url": "https://open.spotify.com/track/69sr0eULGJPlIMphhtNNk6"
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 169677,
       "name": "Out For Myself",
       "url": "https://open.spotify.com/track/1vod4ABB5ohyWCR9q43kdO"
@@ -2530,6 +2548,24 @@
       "duration_ms": 344295,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/1Iqeeci1aIDfZpelLxMSni"
+    },
+    {
+      "album": {
+        "name": "Nothing but Happiness",
+        "url": "https://open.spotify.com/album/3vpSjU70rlu1jjVVAN73mW"
+      },
+      "artists": [
+        {
+          "name": "Joshua Alexander",
+          "url": "https://open.spotify.com/artist/7cKHUspMzlUC7k1UTndbYr"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418700,
+      "name": "Rolled Oats",
+      "url": "https://open.spotify.com/track/1b34UigXKioJC18H80ZiU2"
     },
     {
       "album": {
@@ -3136,7 +3172,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 220500,
       "name": "The Way You Make Me Feel",
       "url": "https://open.spotify.com/track/7sncCClNIeE5i54JrkirGI"
@@ -3256,7 +3292,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 433403,
       "name": "Winter Blues",
       "url": "https://open.spotify.com/track/66s1u8mRLGBU8h0vYrLC5v"

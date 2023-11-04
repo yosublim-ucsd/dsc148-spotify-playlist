@@ -1,12 +1,12 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 71396,
+  "num_followers": 71537,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzYzNTA5YTFiYzVhOWMyMGVmZDk3ZDRkYjY2NjNmZmY0ZWMyNGRj",
+  "snapshot_id": "MCw5MDNlNjA2OThiZGMyMGQwNDc0YWVlYWRmMjNkYWFjNjA2NDQwNzYw",
   "tracks": [
     {
       "added_at": "2023-04-21 06:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Fear of the Dark (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 438120,
-      "name": "Fear of the Dark - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
         "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
       },
@@ -1115,22 +1099,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Piece of Mind (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Flight of Icarus - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5orSFpEyBcj8ogpOqI4yOQ"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Whitesnake (30th Anniversary Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/0aaGy4xNDYJ1QLllH7mSNp"
       },
@@ -1207,6 +1175,38 @@
       "duration_ms": 201680,
       "name": "You Drive Me Wild",
       "url": "https://open.spotify.com/track/4KsakXCO9XXOYKLn15rt7y"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Hot Wire",
+        "url": "https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi"
+      },
+      "artists": [
+        {
+          "name": "Kix",
+          "url": "https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Girl Money",
+      "url": "https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Crash Course In Brain Surgery (2013 Remaster)",
+        "url": "https://open.spotify.com/album/08MSMlgk0qOWSuwmkncuXe"
+      },
+      "artists": [
+        {
+          "name": "Budgie",
+          "url": "https://open.spotify.com/artist/42RbQv212uOjyfIXECLKfR"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Crash Course In Brain Surgery - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4VoXFBTPanmp4roNEsQC9c"
     }
   ],
   "unique_name": "Las Choppers",

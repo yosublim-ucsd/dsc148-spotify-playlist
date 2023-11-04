@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 152866,
       "name": "007 (Shanty Town)",
       "url": "https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 198440,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm"
@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "A Song (2010 Remastered Version)",
+        "url": "https://open.spotify.com/album/2rpCArNNUjZFgpi75CvxQ6"
+      },
+      "artists": [
+        {
+          "name": "Pablo Moses",
+          "url": "https://open.spotify.com/artist/6EMWMUO2B9Nt39O7SXdZUw"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290453,
+      "name": "Dubbing Is a Must, Pt. 1 - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/6Q6Ers8BEarblm3tlQelx7"
+    },
+    {
+      "album": {
         "name": "Energia",
         "url": "https://open.spotify.com/album/3p46bh7lgRkt30JG7YgGcT"
       },
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 224693,
       "name": "Everything I Own - 7\" Mix",
       "url": "https://open.spotify.com/track/6om52tevyqVMvl1mWTtKPM"
@@ -3342,7 +3360,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 207272,
       "name": "Love And Mercy",
       "url": "https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT"
@@ -5272,7 +5290,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 200196,
       "name": "Raggamuffin",
       "url": "https://open.spotify.com/track/1m1BWVNNPRTiYmlCd5eqW0"

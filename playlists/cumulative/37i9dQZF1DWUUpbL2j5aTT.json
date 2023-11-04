@@ -1379,6 +1379,32 @@
     },
     {
       "album": {
+        "name": "Quando Amanhecer",
+        "url": "https://open.spotify.com/album/2Km0D0xs3nZdUUNDhPIHoY"
+      },
+      "artists": [
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        },
+        {
+          "name": "Dioli",
+          "url": "https://open.spotify.com/artist/4AxDhOR6aBKRlFo2s5jAzq"
+        },
+        {
+          "name": "RCS",
+          "url": "https://open.spotify.com/artist/5qapDtzeEI4agK5OgAFYvS"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172164,
+      "name": "Quando Amanhecer",
+      "url": "https://open.spotify.com/track/1N8STGhi5gwrf8gQ7Nydwl"
+    },
+    {
+      "album": {
         "name": "Rapid Funk",
         "url": "https://open.spotify.com/album/2Sda8z8d1q68BwwYc6aGRV"
       },

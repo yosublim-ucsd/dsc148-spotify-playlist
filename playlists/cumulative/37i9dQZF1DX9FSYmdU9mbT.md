@@ -2,7 +2,7 @@
 
 ### [O Melhor da MPB](https://open.spotify.com/playlist/37i9dQZF1DX9FSYmdU9mbT)
 
-> Os grandes artistas da MPB\. Foto: Elis Regina
+> Os grandes artistas da MPB\. Foto: Djavan
 
 141 songs - 9 hr 3 min
 

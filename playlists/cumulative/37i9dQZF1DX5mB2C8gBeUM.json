@@ -5236,6 +5236,24 @@
     {
       "album": {
         "name": "Nobody's More Country",
+        "url": "https://open.spotify.com/album/6Ty3A6KMug1QL8CAXmdcz5"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172894,
+      "name": "Nobody's More Country",
+      "url": "https://open.spotify.com/track/3e9GzPcnquUu3vLZU3man4"
+    },
+    {
+      "album": {
+        "name": "Nobody's More Country",
         "url": "https://open.spotify.com/album/2Jogodfbu37ikyUK11yGAf"
       },
       "artists": [
@@ -5246,7 +5264,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 172894,
       "name": "Nobody's More Country",
       "url": "https://open.spotify.com/track/5ebwYSZVFG6VJOE0mWs71o"
@@ -5670,10 +5688,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 186094,
       "name": "Right On Time",
       "url": "https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX"
+    },
+    {
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/2C8RegZMCc1WLc3tQgjRUW"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186094,
+      "name": "Right On Time",
+      "url": "https://open.spotify.com/track/7bSx9PJnGPWb8PEkcdWB7z"
     },
     {
       "album": {
@@ -6554,7 +6590,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 198626,
       "name": "Tequila Talkin'",
       "url": "https://open.spotify.com/track/2fr7A7d2eg1j2NcteyXz9B"
@@ -6602,6 +6638,32 @@
       "duration_ms": 201160,
       "name": "Tequila Talkin'",
       "url": "https://open.spotify.com/track/2aQp76uccAVLEM9jUlvPap"
+    },
+    {
+      "album": {
+        "name": "Bettie James Gold Edition",
+        "url": "https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        },
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        },
+        {
+          "name": "teamwork.",
+          "url": "https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198626,
+      "name": "Tequila Talkin\u2019",
+      "url": "https://open.spotify.com/track/1Qs5B6q9Bjq4qMDLUPlBsj"
     },
     {
       "album": {
@@ -7116,10 +7178,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 218213,
       "name": "Way Down Yonder",
       "url": "https://open.spotify.com/track/418ve8CTLM3XbeGWSq8fA6"
+    },
+    {
+      "album": {
+        "name": "I Hate Cowboys & All Dogs Go To Hell",
+        "url": "https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218213,
+      "name": "Way Down Yonder",
+      "url": "https://open.spotify.com/track/6EunSTBXQStydUisRUCL5r"
     },
     {
       "album": {
@@ -7214,6 +7294,24 @@
     {
       "album": {
         "name": "Welcome to the Club",
+        "url": "https://open.spotify.com/album/39lqBskpYDfWOYwGwKMk8I"
+      },
+      "artists": [
+        {
+          "name": "Twinnie",
+          "url": "https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189049,
+      "name": "Welcome to the Club",
+      "url": "https://open.spotify.com/track/1ve542s6OQNdpgtJEcUTvx"
+    },
+    {
+      "album": {
+        "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW"
       },
       "artists": [
@@ -7224,7 +7322,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 189049,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V"

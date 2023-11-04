@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover : Alice et Moi
 
-416 songs - 22 hr 48 min
+417 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,8 @@
 | [six summers ago](https://open.spotify.com/track/1gGMlQrApJ3eW2CNwI5FFA) | [Emma Castellino](https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST) | [september tape](https://open.spotify.com/album/1XWwaTQTCLUZh3AeBreQIr) | 2:59 | 2023-09-28 | 2023-10-20 |
 | [SMILE](https://open.spotify.com/track/6EQCByvO8WXdHYw6QLLXNI) | [Fantomes](https://open.spotify.com/artist/7HKyji7RprYFvPw3EaARgS) | [SMILE](https://open.spotify.com/album/4eCVIY1Y7nwewuyb4f0Phx) | 2:42 | 2023-06-08 | 2023-06-30 |
 | [Snake](https://open.spotify.com/track/2btl8sJ35sBFSH4sMik5tq) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Source](https://open.spotify.com/album/3LSV8Trerwu3kaqc2dcZGS) | 2:41 | 2022-05-12 | 2022-06-03 |
-| [sois en sûre](https://open.spotify.com/track/4og5X5Y2gvX3UN80eWe46p) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [aupitape 1: hortensia](https://open.spotify.com/album/3I1vs7XOz164tMAaICcxi7) | 2:53 | 2023-05-04 |  |
+| [sois en sûre](https://open.spotify.com/track/3tF6NK7UHgMhNZGRz0pirj) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [aupitape 1: hortensia](https://open.spotify.com/album/51qJqPSkLjZduPCVDFOJUc) | 2:53 | 2023-11-02 |  |
+| [sois en sûre](https://open.spotify.com/track/4og5X5Y2gvX3UN80eWe46p) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [aupitape 1: hortensia](https://open.spotify.com/album/3I1vs7XOz164tMAaICcxi7) | 2:53 | 2023-05-04 | 2023-11-04 |
 | [Soldat Boy](https://open.spotify.com/track/7oDQurVhWc8BVqX8OKO8KX) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Ultra Dramatic Kid](https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD) | 3:35 | 2022-03-31 | 2022-05-13 |
 | [Soleil de minuit](https://open.spotify.com/track/3FzOlSWz0gKbthX0AJ6Vqw) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Soleil de minuit](https://open.spotify.com/album/1dB8roYaSN1rd7z1VSpnJK) | 3:11 | 2022-06-09 | 2022-06-24 |
 | [Sombrer](https://open.spotify.com/track/3TSX5zQARv82t3XkGKBqT1) | [Fhin](https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p) | [Sombrer](https://open.spotify.com/album/2qSYR4ngUhgQmkoRDmFdvO) | 3:40 | 2023-03-02 | 2023-04-21 |

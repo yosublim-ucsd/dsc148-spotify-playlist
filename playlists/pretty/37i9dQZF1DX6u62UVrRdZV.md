@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 
 > Summer or not: get into a sunny and beachy mood, with this selection of reggae born music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,880 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,879 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 | 16 | [Bedroom Bully](https://open.spotify.com/track/5esGnzJMqZQP3XBWC4PJYY) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [It \(Incomparable Talent\)](https://open.spotify.com/album/1DHJhXAwi3cvPM0LscDsyZ) | 2:45 |
 | 17 | [Don't Play No Game That I Can't Win](https://open.spotify.com/track/1Emrs7nn0qSeoCzSRApiFK) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Hot Sauce Committee \(Pt\. 2\)](https://open.spotify.com/album/4ZdM8DkKgfTCz8e0wJk9CX) | 4:11 |
 | 18 | [Mama She Don't Like You \(feat\. I.Eye\)](https://open.spotify.com/track/1wWqU1J2RvPdf9k1ECn4Ny) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG), [I.Eye](https://open.spotify.com/artist/01zqTZ32M8dp9sjSRFlNCt) | [Escape From Babylon](https://open.spotify.com/album/2wrZVi0cgQtRhpYytAHpdD) | 4:08 |
-| 19 | [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 |
+| 19 | [Lean On](https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Peace Is The Mission](https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM) | 2:56 |
 | 20 | [Turn Me On](https://open.spotify.com/track/0BBOLOV5JntPL3341swIre) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Kevin Lyttle \(US Domestic Release\)](https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw) | 3:12 |
 | 21 | [Small Axe](https://open.spotify.com/track/7gYWCaKeuAJKhGiauRrFsj) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [I Am The Upsetter \- The Story Of The Lee "Scratch" Perry Golden Years](https://open.spotify.com/album/77e2HqGY8NQZCTLbC3q61n) | 3:54 |
 | 22 | [Animal \- Mark Ronson Remix](https://open.spotify.com/track/1jsdtlKxAPYSVKwqsIJGLb) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Animal Remixes](https://open.spotify.com/album/1QR3ok2BgBhCicv4DQOhuH) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 | 49 | [Special Delivery](https://open.spotify.com/track/6YwqfLLJVipwMZoFxhFpNq) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Special Delivery](https://open.spotify.com/album/0R8MTkNTCXHFFXYu8awNfq) | 1:42 |
 | 50 | [Whine Up \(feat\. Elephant Man\) \- English Version](https://open.spotify.com/track/7L1zJMkc9Ho7Ox0uSFC9TL) | [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP), [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Whine Up \(feat\. Elephant Man\) \[English Version\]](https://open.spotify.com/album/0VFNKCeUyetANvSnS5KLQe) | 3:23 |
 
-Snapshot ID: `MCxjMTg1ZGQ3Njk5YTIzYTIyNmZlMjlmNmQxNWM0MjYyM2M3MTcwZjI2`
+Snapshot ID: `MCwzMDZhMTgxY2NkYTBhNmJjZWU5MjcyMmVjZmE1MzcwMzM3ZjFhMTQw`

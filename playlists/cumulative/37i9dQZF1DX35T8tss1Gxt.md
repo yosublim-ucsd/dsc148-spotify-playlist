@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-430 songs - 1 day 1 hr 48 min
+431 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Knives & Lambs](https://open.spotify.com/track/5bIGoKUGaSeOFeqe8qV1aV) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [Love Child 3](https://open.spotify.com/album/5yQtKbqyHDaHBdmoNzoZjm) | 5:59 | 2022-02-19 | 2022-06-25 |
 | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/track/2LMXLQAQZcQehXHApaNrIW) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/album/6g6qBfEOlmHFEE2hVJgDfy) | 3:21 | 2022-02-19 | 2022-06-26 |
 | [Lay Low](https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Lay Low](https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd) | 2:54 | 2022-04-01 |  |
-| [Lean on the Lord](https://open.spotify.com/track/1YEShExhORN9sq3CmGMDJ3) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Lean on the Lord](https://open.spotify.com/album/4Q2apaYoaJfqEz0aFep7xl) | 3:34 | 2022-06-25 |  |
+| [Lean on the Lord](https://open.spotify.com/track/1YEShExhORN9sq3CmGMDJ3) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Lean on the Lord](https://open.spotify.com/album/4Q2apaYoaJfqEz0aFep7xl) | 3:34 | 2022-06-25 | 2023-11-04 |
 | [Learning to Forgive](https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw) | [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh) | [Learning to Forgive](https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP) | 3:04 | 2022-04-01 | 2023-08-11 |
 | [LEAVE ME \(feat\. J Moss\)](https://open.spotify.com/track/1xgopTdaK6RUJ63vidUhz9) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP) | [LEAVE ME](https://open.spotify.com/album/6hQEvFNvqBfzIViaE3HUL2) | 3:30 | 2022-02-19 | 2022-06-26 |
 | [Let Go \(Remix\)](https://open.spotify.com/track/3xU3enlRz3j3e5Y5CXCKXP) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Let Go \(Remix\)](https://open.spotify.com/album/7iobX163wJn1S1iCpruapL) | 2:52 | 2022-02-19 | 2022-06-24 |
@@ -400,6 +400,7 @@
 | [Walk By Faith](https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 6:55 | 2022-07-08 |  |
 | [Walk With You](https://open.spotify.com/track/1ccvFGOxax5zDNdt8fNZLg) | [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe) | [Walk With You](https://open.spotify.com/album/189fRY2Ia2UVDcMnGW8hKV) | 6:22 | 2022-04-01 | 2023-08-09 |
 | [Walk With You](https://open.spotify.com/track/6XFUYEgpExi8Ag9pfGqUmk) | [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe) | [Walk With You](https://open.spotify.com/album/3PWXpbnKovOr89La5CvcCy) | 6:22 | 2023-07-21 | 2023-11-01 |
+| [Wave](https://open.spotify.com/track/2xtqzQgpvCb1RAKMLTStIy) | [Bree DuVal](https://open.spotify.com/artist/5a6Ql5gFWtlgLT0zK6cYGp) | [Wave](https://open.spotify.com/album/1R29EqpkKjW9zJyr5U98Uj) | 3:02 | 2023-11-03 |  |
 | [Way Home](https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6) | [Grace Tena](https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT) | [Way Home](https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm) | 4:44 | 2023-01-20 |  |
 | [Way Too Good](https://open.spotify.com/track/0dNgklMI9uv554WTCQTBQf) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [Way Too Good](https://open.spotify.com/album/2liUsHwyNSDXNO1YPT6SXO) | 2:41 | 2023-10-31 |  |
 | [We Can't Forget Him](https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E) | [Bobbi Storm](https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8) | [We Can't Forget Him](https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V) | 2:58 | 2023-10-31 |  |

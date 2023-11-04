@@ -1,12 +1,12 @@
 {
   "description": "Los mejores del Trap de todos los tiempos! \ud83d\udc10 Cover: Bad Bunny",
-  "num_followers": 6827,
+  "num_followers": 6891,
   "original_name": "Latin Trap GOATs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTAwZGFmNWNhMTQwYTA4OWM3MmE4MzQ5NTMxNWE2YjQ5YzZjZDRj",
+  "snapshot_id": "MCw2NzJhYjUzZWU3MDgwZjU1ZTY5MDExYzc4YzAzNjIxODU3ODU3NTFl",
   "tracks": [
     {
       "added_at": "2023-10-19 21:46:14",
@@ -775,6 +775,26 @@
     {
       "added_at": "2023-10-19 21:46:14",
       "album": {
+        "name": "Si Te Dejas Llevar (feat. Juanka)",
+        "url": "https://open.spotify.com/album/4ZBRYtgXi7vaLMQDW53WUY"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "duration_ms": 227996,
+      "name": "Si Te Dejas Llevar",
+      "url": "https://open.spotify.com/track/3cdecPxEdxk99munEMVQ01"
+    },
+    {
+      "added_at": "2023-10-19 21:46:14",
+      "album": {
         "name": "TrapXficante",
         "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 230520,
       "name": "Krippy Kush",
       "url": "https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9"
-    },
-    {
-      "added_at": "2023-10-19 21:46:14",
-      "album": {
-        "name": "Si Te Dejas Llevar (feat. Juanka)",
-        "url": "https://open.spotify.com/album/4ZBRYtgXi7vaLMQDW53WUY"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        }
-      ],
-      "duration_ms": 227996,
-      "name": "Si Te Dejas Llevar",
-      "url": "https://open.spotify.com/track/3cdecPxEdxk99munEMVQ01"
     },
     {
       "added_at": "2023-10-19 21:46:14",

@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 149633,
+  "num_followers": 149682,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzZlNDM2NmM5OGEwMzMyOWI1NDQyM2M3MmNkNGYwZTU2MTYwMjNm",
+  "snapshot_id": "MCxlY2FjMWI2ZDY5Njg0N2FhZmI5YjRmMTMyYTc3NzNkMTU1NDFmNGU0",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/4v4ssibf1FAkxisrqeMPhh"
     },
     {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "The Desert Rose Band",
+        "url": "https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih"
+      },
+      "artists": [
+        {
+          "name": "The Desert Rose Band",
+          "url": "https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "Love Reunited",
+      "url": "https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63"
+    },
+    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "Austinology - Alleys of Austin",
@@ -671,38 +687,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "The Desert Rose Band",
-        "url": "https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih"
+        "name": "Commander Cody & His Lost Planet Airmen",
+        "url": "https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL"
       },
       "artists": [
         {
-          "name": "The Desert Rose Band",
-          "url": "https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u"
+          "name": "Commander Cody and His Lost Planet Airmen",
+          "url": "https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE"
         }
       ],
-      "duration_ms": 177706,
-      "name": "Love Reunited",
-      "url": "https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Magnetic South (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
-      },
-      "artists": [
-        {
-          "name": "Michael Nesmith",
-          "url": "https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2"
-        },
-        {
-          "name": "The First National Band",
-          "url": "https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Mama Nantucket",
-      "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
+      "duration_ms": 218493,
+      "name": "Willin'",
+      "url": "https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -723,18 +719,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Commander Cody & His Lost Planet Airmen",
-        "url": "https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL"
+        "name": "Magnetic South (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
       },
       "artists": [
         {
-          "name": "Commander Cody and His Lost Planet Airmen",
-          "url": "https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE"
+          "name": "Michael Nesmith",
+          "url": "https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2"
+        },
+        {
+          "name": "The First National Band",
+          "url": "https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF"
         }
       ],
-      "duration_ms": 218493,
-      "name": "Willin'",
-      "url": "https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K"
+      "duration_ms": 159133,
+      "name": "Mama Nantucket",
+      "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
     },
     {
       "added_at": "2020-08-05 15:52:11",

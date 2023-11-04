@@ -2838,6 +2838,32 @@
     {
       "album": {
         "name": "Used To This (ATRIP Remix)",
+        "url": "https://open.spotify.com/album/4HGQ8FSNAdETRSTqkyMxDj"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298306,
+      "name": "Used To This (ATRIP Remix)",
+      "url": "https://open.spotify.com/track/249A7s6q99GdZ8fk35bpok"
+    },
+    {
+      "album": {
+        "name": "Used To This (ATRIP Remix)",
         "url": "https://open.spotify.com/album/65Gqz7HIqUVCMYTfRfqdAK"
       },
       "artists": [
@@ -2856,7 +2882,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 298306,
       "name": "Used To This - ATRIP Remix",
       "url": "https://open.spotify.com/track/1kgYlYUXj9ZlyJt331ZmOE"

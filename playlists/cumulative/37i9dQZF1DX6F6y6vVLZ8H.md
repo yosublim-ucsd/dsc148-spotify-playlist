@@ -4,7 +4,7 @@
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-72 songs - 3 hr 36 min
+74 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [All My Friends Are Nobodies](https://open.spotify.com/track/0ImdOZzfzWSIkB4ToC2buF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [All My Friends Are Nobodies](https://open.spotify.com/album/6VTNdekziQXzcf4gvy9hcM) | 3:03 | 2020-07-28 |  |
 | [All Souls' Day](https://open.spotify.com/track/38EE7D3CKR9vlagRqGlAT2) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [All Souls' Day & The Graveyard of the Atlantic](https://open.spotify.com/album/3uihiMv004O19TfHqKm8xM) | 4:58 | 2020-07-28 |  |
 | [Bass](https://open.spotify.com/track/22ws6uOt1pfpG1fP8I0QGo) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Bass](https://open.spotify.com/album/1b2mpMMbxX80y87DKi6xwn) | 3:53 | 2020-07-28 | 2022-07-29 |
-| [Bass \(feat\. Tech N9ne & Hopsin\)](https://open.spotify.com/track/4fX0nbOg4zoGYsngVBtq4s) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Special Occasion](https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp) | 3:53 | 2020-07-28 |  |
+| [Bass \(feat\. Tech N9ne & Hopsin\)](https://open.spotify.com/track/4fX0nbOg4zoGYsngVBtq4s) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Special Occasion](https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp) | 3:53 | 2020-07-28 | 2023-11-04 |
+| [Bass \(feat\. Tech N9ne & Hopsin\)](https://open.spotify.com/track/6oOX1c2fcsYbdgxUkI80h0) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT) | [Special Occasion](https://open.spotify.com/album/41EeKSi50U1kVWCq08Cqav) | 3:53 | 2020-07-28 |  |
 | [Blood Brothers](https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:33 | 2020-05-15 |  |
 | [bloody valentine](https://open.spotify.com/track/1bWEngw5tAF7vWByrf5Oy5) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [bloody valentine](https://open.spotify.com/album/268JRqKvCGhDrbqH74sDFz) | 3:25 | 2020-07-28 | 2022-07-29 |
 | [bloody valentine](https://open.spotify.com/track/6wQhDvk2AX6bg6Om9DDDEO) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Rock Gym Workout](https://open.spotify.com/album/3GviLEhdfqHM3qjMl3Th7F) | 3:25 | 2020-07-28 | 2022-11-14 |
@@ -71,7 +72,8 @@
 | [Shutdown](https://open.spotify.com/track/22okfZRLfP6hxuplYUGef6) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Shutdown](https://open.spotify.com/album/0xCAtTLLKHVXXRG3QszG7Y) | 3:08 | 2020-07-28 |  |
 | [Slow Learner](https://open.spotify.com/track/3anIPGbdjxjkbwtHoBG4W4) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/7GCnSXQc6H4vF8TU7hSdSk) | 3:11 | 2020-07-28 | 2022-07-29 |
 | [Slow Learner](https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:11 | 2020-07-28 |  |
-| [South](https://open.spotify.com/track/4P4oazg6dLImZsqNAb9JlZ) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [South](https://open.spotify.com/album/5b3B3DiNKPnuESmFv2o72m) | 2:09 | 2020-07-28 |  |
+| [South](https://open.spotify.com/track/4P4oazg6dLImZsqNAb9JlZ) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [South](https://open.spotify.com/album/5b3B3DiNKPnuESmFv2o72m) | 2:09 | 2020-07-28 | 2023-11-04 |
+| [South](https://open.spotify.com/track/4yrJzFzE6IiSUbVNlUuMjV) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [South](https://open.spotify.com/album/0ucqPOgjGy0H0CjJP6Xa3W) | 2:09 | 2020-07-28 |  |
 | [Step It Up](https://open.spotify.com/track/5liKx12bn3B3Afr6f1BljQ) | [Backchat](https://open.spotify.com/artist/2y9Lrb9drybmVaUxFtDxFI) | [Step It Up](https://open.spotify.com/album/7xJ6ofdNz8GXyzU65ksafW) | 2:30 | 2020-08-31 |  |
 | [Subculture](https://open.spotify.com/track/2C4GLr8jLEpHun7tIrBtaS) | [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX), [DJ Cheapshot](https://open.spotify.com/artist/55sQ5EIwjKLQx4WKJT2Xia), [Ryu](https://open.spotify.com/artist/7DdVoBdO8siOFROHpk56s3), [Leon Rockmore](https://open.spotify.com/artist/0cFOfuSKwo5BuElfJfp147) | [Subculture B/W Windows](https://open.spotify.com/album/6TSIzPIcgwHnjHAz4H48W9) | 3:47 | 2020-07-30 |  |
 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 | 2020-05-15 |  |

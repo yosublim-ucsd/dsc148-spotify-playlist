@@ -1382,10 +1382,28 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 249093,
       "name": "Interloper",
       "url": "https://open.spotify.com/track/5QFSiFgPpXBfdqT4jDpulB"
+    },
+    {
+      "album": {
+        "name": "You Will Not Die (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dkYB7Z92StO6FCnw4Wivr"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249093,
+      "name": "Interloper",
+      "url": "https://open.spotify.com/track/71UddNQST8S1eSqTxfU1YR"
     },
     {
       "album": {
@@ -1634,10 +1652,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 123520,
       "name": "Love Potion No. 9",
       "url": "https://open.spotify.com/track/6dLrSbDbxdg1QCJnqhBCAA"
+    },
+    {
+      "album": {
+        "name": "Meet The Searchers",
+        "url": "https://open.spotify.com/album/17v5EN6pWTWvexUKpZy9FX"
+      },
+      "artists": [
+        {
+          "name": "The Searchers",
+          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125813,
+      "name": "Love Potion Number Nine (Stereo)",
+      "url": "https://open.spotify.com/track/5CQtxEKlKtiJO3C4knSASA"
     },
     {
       "album": {

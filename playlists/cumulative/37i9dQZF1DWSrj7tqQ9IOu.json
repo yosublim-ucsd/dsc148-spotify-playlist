@@ -6266,6 +6266,24 @@
     {
       "album": {
         "name": "aupitape 1: hortensia",
+        "url": "https://open.spotify.com/album/51qJqPSkLjZduPCVDFOJUc"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173286,
+      "name": "sois en s\u00fbre",
+      "url": "https://open.spotify.com/track/3tF6NK7UHgMhNZGRz0pirj"
+    },
+    {
+      "album": {
+        "name": "aupitape 1: hortensia",
         "url": "https://open.spotify.com/album/3I1vs7XOz164tMAaICcxi7"
       },
       "artists": [
@@ -6276,7 +6294,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 173286,
       "name": "sois en s\u00fbre",
       "url": "https://open.spotify.com/track/4og5X5Y2gvX3UN80eWe46p"

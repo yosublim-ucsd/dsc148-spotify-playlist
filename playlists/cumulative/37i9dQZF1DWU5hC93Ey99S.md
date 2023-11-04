@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-305 songs - 16 hr 47 min
+306 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Just The Way I Feel](https://open.spotify.com/track/26ZLujrsJ2JQ8QWHYOe9B3) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [EMIAH](https://open.spotify.com/artist/2SvY2cO17kdD3swIBGOxs8) | [Just The Way I Feel](https://open.spotify.com/album/2P642dj0EaJxTs1fRpkqxa) | 3:06 | 2023-09-28 |  |
 | [Keep You As A Memory \- Disco Lines Remix](https://open.spotify.com/track/6DJw57OGSrunErUHTurP0K) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Keep You As A Memory \(Disco Lines Remix\)](https://open.spotify.com/album/3KIo8fRmpODr82I90l3XcC) | 3:58 | 2023-05-11 |  |
 | [KIDS](https://open.spotify.com/track/6NQbvueqSRWgHOailFx7th) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [KIDS](https://open.spotify.com/album/2hLLfjFvg3ya7scVAfQjrE) | 3:05 | 2023-06-08 |  |
-| [Kratos \(A Little Closer\)](https://open.spotify.com/track/3rSWCdIsveHdzcKdhXUYSY) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/2Y8GLMTDID2ww28KsGB5d5) | 2:30 | 2023-08-31 |  |
+| [Kratos \(A Little Closer\)](https://open.spotify.com/track/3rSWCdIsveHdzcKdhXUYSY) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/2Y8GLMTDID2ww28KsGB5d5) | 2:30 | 2023-08-31 | 2023-11-04 |
+| [Kratos \(A Little Closer\)](https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh) | 2:30 | 2023-10-12 |  |
 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY) | 2:30 | 2023-04-13 | 2023-09-05 |
 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/4f2v2PCW2mrh91lSU1gaEh) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/1ur3DgwMjIZmXffxx528sJ) | 2:30 | 2023-07-07 | 2023-08-10 |
 | [Kratos \- A Little Closer](https://open.spotify.com/track/2EtjS7KNWpyRK03xCHlef7) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/2TrBOqqIK0EOtZd03K4VXf) | 2:30 | 2023-06-08 | 2023-08-27 |
@@ -152,7 +153,7 @@
 | [Leave The Water Still](https://open.spotify.com/track/7IiLsCv7fvoqnZ95NPfRsw) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Leave The Water Still](https://open.spotify.com/album/2rCUuPSpWfx1XUi0HApTjz) | 3:00 | 2023-08-03 |  |
 | [Let Go](https://open.spotify.com/track/3uBukmF5QcHj4RjX7EV5wU) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [In Touch](https://open.spotify.com/album/1tTTWPiuqDvopsS3bY1pj1) | 3:45 | 2023-10-26 |  |
 | [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/track/2tOXq7mrNBe9AZ9ZJnlMxh) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/album/2SmDq2lOPO1ErprHSC1Cr7) | 2:50 | 2023-06-15 | 2023-09-26 |
-| [Let Me Know \(feat\. CLMD\) \- Remix](https://open.spotify.com/track/6Q25Z9gsiXLOqcirOD5mrl) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Floor Plan 2.0](https://open.spotify.com/album/7eUfwcYbaAxfkSkZaZyktZ) | 2:50 | 2023-08-31 |  |
+| [Let Me Know \- Remix](https://open.spotify.com/track/6Q25Z9gsiXLOqcirOD5mrl) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Floor Plan 2.0](https://open.spotify.com/album/7eUfwcYbaAxfkSkZaZyktZ) | 2:50 | 2023-08-31 |  |
 | [Let Me Know Feat\. CLMD](https://open.spotify.com/track/0EJeElSggv9GanclAqmRN8) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Let Me Know Feat\. CLMD](https://open.spotify.com/album/6wYSmRineXwxLpxEEOq6vi) | 2:50 | 2023-06-15 | 2023-06-17 |
 | [Let's Go](https://open.spotify.com/track/0104sIQMZgxXypN1oYEA0e) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ) | [Let's Go \(VisionV Remix\)](https://open.spotify.com/album/6t5iHYyCKEUlz9CqdpossF) | 2:29 | 2023-11-02 |  |
 | [let’s end it](https://open.spotify.com/track/52tlJzalr0InyauY1TGBfV) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8), [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [let's end it](https://open.spotify.com/album/7xTS4LeLQdd9NkIHAxQJjs) | 2:58 | 2023-09-07 |  |

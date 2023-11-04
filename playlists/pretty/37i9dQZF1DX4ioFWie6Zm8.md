@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,156 likes - 107 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,203 likes - 107 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 6 | [hlala](https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [amaXesha](https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf) | 3:42 |
 | 7 | [La Ka Ba'a](https://open.spotify.com/track/1Y62CbvptkVHpq6OsmFceu) | [Alogte Oho & His Sounds of Joy](https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1) | [O Yinne!](https://open.spotify.com/album/44sQZjLg99YdsNsPAkBNXj) | 4:12 |
 | 8 | [Sonkolon](https://open.spotify.com/track/7kwh4OBLLGc0Fvp5ENu7hm) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT) | 3:30 |
-| 9 | [Djorolen \- 2003 Remaster](https://open.spotify.com/track/2dEPvKmB3R3NldF6U9uidT) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Oumou](https://open.spotify.com/album/3b7OKZVFIGpWaviLFbOGPI) | 6:42 |
+| 9 | [Djorolen \(2003 \- Remaster\)](https://open.spotify.com/track/6LSSDJ9XsRPfqMXNr77f6O) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Oumou](https://open.spotify.com/album/7k44FzFVfb0rNHOSgfXQO8) | 6:42 |
 | 10 | [Mama](https://open.spotify.com/track/5r3xXhGutqkW1uw9bewyFW) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Cissoko Heritage](https://open.spotify.com/album/1b1GGqobvbVrPdedaj7w5w) | 5:11 |
 | 11 | [Diarra](https://open.spotify.com/track/0KAqd0zMI2WUgIyc2O8TKT) | [Tamala](https://open.spotify.com/artist/5V8tx5yPSD9rIb8ynhyWD7) | [Lumba](https://open.spotify.com/album/3Pg3IQ6LrccO6Cr3WfFYqh) | 4:31 |
 | 12 | [Azawade](https://open.spotify.com/track/7dHowm9WlK1gOuEuM0bd7m) | [The Touré\-Raichel Collective](https://open.spotify.com/artist/4NXdiYnTn0W2hblJ1WphGh), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1), [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [The Tel Aviv Session](https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH) | 8:12 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 29 | [Banzelo](https://open.spotify.com/track/1lMzpS330YpyxmeCeAdA68) | [Throes + The Shine](https://open.spotify.com/artist/25z4NCDwHppxyMeHxDWEVV) | [Aqui](https://open.spotify.com/album/6vp3jgygwYeCGiqWZRzNUm) | 3:31 |
 | 30 | [Guelen](https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Djourou](https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u) | 5:32 |
 | 31 | [Klé](https://open.spotify.com/track/54aJYTjYCQj6PoabMUGciv) | [Tom Diakité](https://open.spotify.com/artist/5xMaTGRQqjr7dj4YSADneO), [Uckadela](https://open.spotify.com/artist/1abdUt9foYanfxqiJ3buZj) | [Fala](https://open.spotify.com/album/6sUOxZPxWKs2KFVPQcC9Ap) | 4:21 |
-| 32 | [Warico](https://open.spotify.com/track/5GTYdbtzQpudmlo3Madhjf) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 3:25 |
+| 32 | [Warico](https://open.spotify.com/track/4JoFTf46lLduGQsQUNLpGZ) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/2ovTeDR1IQRjZNRwPNuTAZ) | 3:27 |
 | 33 | [Atse Tewodros](https://open.spotify.com/track/21RdOi6iAjdIJK9yx8TYrG) | [Gabriella Ghermandi](https://open.spotify.com/artist/65kOUo79VAnY3KLSlkA620), [Yohannes Afework](https://open.spotify.com/artist/4sg8WHFt697sqaEvEmsySU), [Endris Hassan](https://open.spotify.com/artist/3S22bs2bLpIpscRmxjYSEe), [Michele Giuliani](https://open.spotify.com/artist/7MwNSA8qsLd0kBBtfbxAts), [Marcello Piarulli](https://open.spotify.com/artist/43JPaMurizq1fa9KKdnbKa), [Fasika Hailu](https://open.spotify.com/artist/20E2ikHhvy0jFgbcV9pqPf), [Cesare Pastanella](https://open.spotify.com/artist/5QqlZTWbIONXML0zihecw5) | [Celebrating Emperor Tewodros II](https://open.spotify.com/album/4oVxYRZO3pHTIhEd9g6hR1) | 6:06 |
 | 34 | [Imbukula](https://open.spotify.com/track/49SD731vKkB8DOy1Rqr340) | [Jackson Ingosi](https://open.spotify.com/artist/131MvZBkyG1UPiYBeppPM7) | [Discover Music from Africa](https://open.spotify.com/album/6NzbFxFvkvUCoRn2YmjLXj) | 4:45 |
 | 35 | [Ndule](https://open.spotify.com/track/1z0iOMCfT7b5Wk9P8TR0cG) | [Jaja Bashengezi](https://open.spotify.com/artist/1RQv52rbKYfSKVkPfCvxxw) | [Putumayo Presents African Café](https://open.spotify.com/album/1hbhZdfJFRJsWttOQVlNMD) | 3:42 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 37 | [Good Things God Knows](https://open.spotify.com/track/5JJzSGrCDdPpyZAhBxVeNO) | [King Ayisoba](https://open.spotify.com/artist/6TQgRLQia206d3QvleDxen) | [Work Hard](https://open.spotify.com/album/0SYEzD4cVKiPEXK5gfsK4N) | 5:04 |
 | 38 | [Sarama](https://open.spotify.com/track/7jDvPH18QP0Y35l20cjYgy) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Beautiful Africa](https://open.spotify.com/album/5gCev1aMAHiG6qmS32mfzj) | 5:01 |
 | 39 | [Kedide](https://open.spotify.com/track/0XVvy1dIe74n1k5zM0z3hI) | [Nicolas Repac](https://open.spotify.com/artist/0RaR5kDG6RThEm7WOgpLO9), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6) | [Yelema \(By Nicolas Repac\)](https://open.spotify.com/album/2I36kSFeHnJJTe54rx9nYO) | 5:10 |
-| 40 | [Sarama](https://open.spotify.com/track/0LScGRZP6jfT7wr8PzLzK0) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Timbuktu](https://open.spotify.com/album/5Q2o3yV4ExWvbQyaLvU4Q9) | 3:38 |
+| 40 | [Sarama](https://open.spotify.com/track/0YLdjia2pEIPBdz3lEoM3a) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Timbuktu](https://open.spotify.com/album/33VXVqzUNVtZfg1gn6AMi6) | 3:38 |
 | 41 | [Masikini](https://open.spotify.com/track/10ZEXvPcsImCV0G8GDYYfC) | [Eyuphuro](https://open.spotify.com/artist/3xeIPvs8wpKFuSfcWMl3Yz) | [Yellela](https://open.spotify.com/album/2iMMv3I2PljSfAuo0Cpwap) | 5:09 |
 | 42 | [Jairaby Lé](https://open.spotify.com/track/1hqJGbTYFNVxlJYQnGH9Y6) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Heritage](https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk) | 5:31 |
 | 43 | [Korba](https://open.spotify.com/track/7F7GbdbIqiRxrGLBTh70kC) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/2SskA3Gs1lDySqd3PN3Kn0) | 2:45 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 60 | [Ma Mama](https://open.spotify.com/track/6N35T3ZSV8p5sk6lL37DDH) | [Gerald Toto](https://open.spotify.com/artist/5yGh5A5zAzDYeAeSksnWiW), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Lokua Kanza](https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk) | [Bondeko](https://open.spotify.com/album/7clzPL1gMDlSCIKjkncP9Z) | 3:42 |
 | 61 | [Umhlaba Wonke](https://open.spotify.com/track/7IgPv2WtRzonmCFtAFJEt1) | [Urban Village](https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Umhlaba Wonke](https://open.spotify.com/album/2Mj7SHIVIuNWZcBDzefbuO) | 3:40 |
 | 62 | [Bahouche](https://open.spotify.com/track/6V2Xy61BwHpfPozlnv51ik) | [Amaria Hamadalher](https://open.spotify.com/artist/7tEjTXOcxGi1LSgDagCZsy) | [Agrim Agadez \- Musique Guitare de la Republique du Niger](https://open.spotify.com/album/5zmFPo6FvLVZITImjBNvGz) | 3:04 |
-| 63 | [Folly Cagni](https://open.spotify.com/track/490jbuzW3XPHTXg3nhqbJ8) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 3:08 |
+| 63 | [Folly Cagni](https://open.spotify.com/track/37sZL7KtUzNhQdAL11ofet) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/2ovTeDR1IQRjZNRwPNuTAZ) | 3:08 |
 | 64 | [Diamano](https://open.spotify.com/track/2uRORZ6TSZkOOaGjwAm0GW) | [Amadou Diagne](https://open.spotify.com/artist/2zPsUVCPn1EFeswz8xzkVq) | [Introducing Amadou Diagne](https://open.spotify.com/album/644Vjdi1p02r5nekPzVgAV) | 3:41 |
 | 65 | [Inigradan](https://open.spotify.com/track/1yoOkwoSLydaiSGT7wEorG) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Les Filles de Illighadad](https://open.spotify.com/album/0rl2xdgHM1Z6jodYVxgHoZ) | 3:16 |
 | 66 | [Pierrette](https://open.spotify.com/track/2oz9cuIJauGZ2HlT9Ei4a5) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 4:12 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 106 | [Wanita](https://open.spotify.com/track/6cBLK1pC202FMxthSKg1NN) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Wanita](https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg) | 5:39 |
 | 107 | [Makambo](https://open.spotify.com/track/2F9aMslwYQurvgv7DGS7S5) | [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Exile \(Real World Gold\)](https://open.spotify.com/album/3wDdQn9tgxEIjjo1pnc7X7) | 5:00 |
 
-Snapshot ID: `MCxiNmFhM2YwNGUyODg4MDA2NTRjODU4MDBhZDUxZGI1NGE4OTQ2OWFk`
+Snapshot ID: `MCxkMGM1ZGQ3MThjNzkwNzc1ZWZmM2Y0ZmZmYzg3ZWE5ZDMyNmY1ODAw`

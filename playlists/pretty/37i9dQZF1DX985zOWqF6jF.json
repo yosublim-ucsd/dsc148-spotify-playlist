@@ -1,12 +1,12 @@
 {
   "description": "Y es que cuando nos comemo' hacemo' unas pose que los do' desconocemo' ",
-  "num_followers": 12913,
+  "num_followers": 12973,
   "original_name": "Perreo de Dos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjNiY2MwNTNhOTdhNDhmMjAwMmY1MmYxOGQ5YjEwNmM1ZWVlODky",
+  "snapshot_id": "MCxlM2M3ODYwMmM3ODExNWM5OGNiZjJjZDA2ZjNkNTM4YzllYzgzZTM0",
   "tracks": [
     {
       "added_at": "2023-10-27 21:59:04",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-27 21:59:04",
       "album": {
-        "name": "DI LETRA",
-        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Mi Cuarto",
-      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
-    },
-    {
-      "added_at": "2023-10-27 21:59:04",
-      "album": {
         "name": "TRAP CAKE VOL. 2",
         "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 255412,
       "name": "MUSEO",
       "url": "https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX"
+    },
+    {
+      "added_at": "2023-10-27 21:59:04",
+      "album": {
+        "name": "DI LETRA",
+        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "Mi Cuarto",
+      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
     },
     {
       "added_at": "2023-10-27 21:59:04",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-10-27 21:59:04",
       "album": {
+        "name": "Sentimiento, Elegancia y Maldad",
+        "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
+    },
+    {
+      "added_at": "2023-10-27 21:59:04",
+      "album": {
         "name": "Mi Nena Remix",
         "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 220000,
       "name": "Mi Nena Remix",
       "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
-    },
-    {
-      "added_at": "2023-10-27 21:59:04",
-      "album": {
-        "name": "Sentimiento, Elegancia y Maldad",
-        "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Hace Mucho Tiempo",
-      "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
     },
     {
       "added_at": "2023-10-27 21:59:04",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-10-27 21:59:04",
       "album": {
-        "name": "Los Extraterrestres - Otra Dimension",
-        "url": "https://open.spotify.com/album/6cM4MzyjtE9hJqOEFOjlTL"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "Tus Sabanas",
-      "url": "https://open.spotify.com/track/2ZkB3qD5O6DS7dTnoqxlYp"
-    },
-    {
-      "added_at": "2023-10-27 21:59:04",
-      "album": {
         "name": "Trap Cake, Vol. 1",
         "url": "https://open.spotify.com/album/37rUi63O4koMFvrSC1EMam"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 224307,
       "name": "Encima De Mi",
       "url": "https://open.spotify.com/track/0hAxyVU6Nro3equjEQdFq2"
+    },
+    {
+      "added_at": "2023-10-27 21:59:04",
+      "album": {
+        "name": "Los Extraterrestres - Otra Dimension",
+        "url": "https://open.spotify.com/album/6cM4MzyjtE9hJqOEFOjlTL"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "Tus Sabanas",
+      "url": "https://open.spotify.com/track/2ZkB3qD5O6DS7dTnoqxlYp"
     },
     {
       "added_at": "2023-10-27 21:59:04",

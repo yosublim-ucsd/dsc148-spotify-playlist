@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 191701,
+  "num_followers": 191746,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODJhOTdmZmY4YmQ0MDQ3N2U3ODJkODlkNzBiMGRhZDFmZjQ1MTlj",
+  "snapshot_id": "MCxkNGMzYWE1ZGFjMjcyMTNjMjMxMGIzOWNiNDI2MTc2NTllNDNkYzk1",
   "tracks": [
     {
       "added_at": "2023-08-14 15:11:22",
@@ -143,6 +143,42 @@
       "duration_ms": 474309,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "The Future Is Now (Live)",
+        "url": "https://open.spotify.com/album/3wIf4CVGotMt2FoPBgyPTD"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea Elektric Band",
+          "url": "https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf"
+        },
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Frank Gambale",
+          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
+        },
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        },
+        {
+          "name": "Dave Weckl",
+          "url": "https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw"
+        }
+      ],
+      "duration_ms": 479179,
+      "name": "Jocelyn - The Commander - Live",
+      "url": "https://open.spotify.com/track/48NBWissixqpazNPJC1tS2"
     },
     {
       "added_at": "2023-08-14 15:11:22",

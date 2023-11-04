@@ -1036,10 +1036,36 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 188813,
       "name": "Never Let You Down (feat. Penny Ivy)",
       "url": "https://open.spotify.com/track/1ld2PLYMlagM1lmq050nOq"
+    },
+    {
+      "album": {
+        "name": "We May Grow Old But We Never Grow Up",
+        "url": "https://open.spotify.com/album/6a8XfCfcN2CRmPJ1nQCk5q"
+      },
+      "artists": [
+        {
+          "name": "Example",
+          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Penny Ivy",
+          "url": "https://open.spotify.com/artist/5aGZwXv7c32vpzAIgKhgxL"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188920,
+      "name": "Never Let You Down (feat. Penny Ivy)",
+      "url": "https://open.spotify.com/track/2duupjRLTcPDcbfxV7vVTa"
     },
     {
       "album": {
@@ -1640,7 +1666,7 @@
     {
       "album": {
         "name": "Cognition",
-        "url": "https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0"
+        "url": "https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l"
       },
       "artists": [
         {
@@ -1655,6 +1681,28 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Used To This",
+      "url": "https://open.spotify.com/track/1iL5lMhZdMmVg34AM6xQxx"
+    },
+    {
+      "album": {
+        "name": "Cognition",
+        "url": "https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
       "duration_ms": 226206,
       "name": "Used To This",
       "url": "https://open.spotify.com/track/37nGZSaEXsKzOZLINC3VOp"

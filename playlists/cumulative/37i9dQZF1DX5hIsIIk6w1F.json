@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: El Jordan 23.",
+  "description": "Este Flow tiene otro Flow. Foto: Pailita & Marcianeke.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -1246,6 +1246,28 @@
       "duration_ms": 217021,
       "name": "Bichiyal",
       "url": "https://open.spotify.com/track/6DwvPQUStsslrkVTSQnB9M"
+    },
+    {
+      "album": {
+        "name": "Bikini",
+        "url": "https://open.spotify.com/album/5aq1PCNPDOGwKZLFR1fX8x"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "Bikini",
+      "url": "https://open.spotify.com/track/491iU8VnDmhSX9aza8emOc"
     },
     {
       "album": {
@@ -4391,6 +4413,28 @@
     },
     {
       "album": {
+        "name": "Humilde, Flaite y Sencillo",
+        "url": "https://open.spotify.com/album/2ZQZ6zbXA5Jo7cEOyP1Pma"
+      },
+      "artists": [
+        {
+          "name": "LOUKI",
+          "url": "https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192244,
+      "name": "Humilde, Flaite y Sencillo",
+      "url": "https://open.spotify.com/track/1kAar44j6QmeO2kxUKzcRo"
+    },
+    {
+      "album": {
         "name": "Imaginandote",
         "url": "https://open.spotify.com/album/4GbT0l1zZaTefvvcgrUAWd"
       },
@@ -5080,7 +5124,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 264489,
       "name": "Le Dai Tu Corte",
       "url": "https://open.spotify.com/track/3OS5sFsU29xOF4blWlONZA"
@@ -6436,7 +6480,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 230783,
       "name": "Mi polola <3 (feat. Best)",
       "url": "https://open.spotify.com/track/3lWcPFXacmDo3piquzSshF"
@@ -8127,6 +8171,32 @@
     },
     {
       "album": {
+        "name": "Paralelos",
+        "url": "https://open.spotify.com/album/1LYON5LELQFPbz1aWe0Ffd"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Paralelos",
+      "url": "https://open.spotify.com/track/0sRn9rTae4n4Hkd8dqiifl"
+    },
+    {
+      "album": {
         "name": "Parcera",
         "url": "https://open.spotify.com/album/3V2AB5EnZHMBNXf1mE8dRh"
       },
@@ -8230,6 +8300,24 @@
       "duration_ms": 183157,
       "name": "Party en la Pobla 2.0",
       "url": "https://open.spotify.com/track/3tv8MqcUHJlY5E6lZl6dCW"
+    },
+    {
+      "album": {
+        "name": "Partyson",
+        "url": "https://open.spotify.com/album/6yGNJyte0qDL1uuLfaiuL5"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198879,
+      "name": "Partyson",
+      "url": "https://open.spotify.com/track/3mtBiHVBuhOEDTZPSJ5XaG"
     },
     {
       "album": {
@@ -9478,7 +9566,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 127200,
       "name": "RICKY RICON",
       "url": "https://open.spotify.com/track/5iPk6ylNdN0Rw8bMtQzIgh"
@@ -10483,6 +10571,28 @@
     },
     {
       "album": {
+        "name": "Sucubo",
+        "url": "https://open.spotify.com/album/5umZe8oXpEmOBiekKrlJZW"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202809,
+      "name": "Sucubo",
+      "url": "https://open.spotify.com/track/3cUfYTRD90JCqevkuYbHOo"
+    },
+    {
+      "album": {
         "name": "SUELTA SOLTERA",
         "url": "https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd"
       },
@@ -10520,7 +10630,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 192534,
       "name": "Sue\u00f1o con Besarte",
       "url": "https://open.spotify.com/track/2hEHY9Sk7Ih3WzqylhIrIg"
@@ -11108,7 +11218,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 191461,
       "name": "Todo Tiene Fin",
       "url": "https://open.spotify.com/track/4UlmAhkTq74gDc5CU9qPqI"

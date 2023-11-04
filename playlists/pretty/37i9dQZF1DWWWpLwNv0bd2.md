@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Romance Tracks.<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,394 likes - 53 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,493 likes - 53 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 | 29 | [Kanja Poovu Kannala \(From "Viruman"\)](https://open.spotify.com/track/78tblPcz2otRZd1VOeU7zz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Kanja Poovu Kannala \(From "Viruman"\)](https://open.spotify.com/album/6ORDYnNAskVUmXrb0UnU8F) | 3:57 |
 | 30 | [Jessica](https://open.spotify.com/track/1BQGKaUYFQzD0Dsy0FfoeD) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Prince \(Tamil\)](https://open.spotify.com/album/2h2DzwCFBXkd121doiTZEp) | 4:19 |
 | 31 | [Pacha Elai](https://open.spotify.com/track/5jmW454u8igkIgEVgvfSOE) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG) | [Love Today \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0) | 3:30 |
-| 32 | [Paniththuli](https://open.spotify.com/track/6metz7iIwgqgs9ECybGtkj) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Paniththuli \(From "Raangi"\)](https://open.spotify.com/album/6VBOZuDjUWgOYzDTSlxOGC) | 4:06 |
+| 32 | [Paniththuli \(From "Raangi"\)](https://open.spotify.com/track/7hWfcWph7C1IzC9IkJJWVU) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed) | [Paniththuli \(From "Raangi"\)](https://open.spotify.com/album/4sZW45fmpRBQaYyBObIvUI) | 4:01 |
 | 33 | [Ennai Vittu](https://open.spotify.com/track/4FOCZFqxIS1Xc5JWla5VNj) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Love Today \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0) | 4:04 |
 | 34 | [Un siragugal moodathe](https://open.spotify.com/track/6tfXRfeEcCMkekV9oLacH1) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Vadhana](https://open.spotify.com/album/1VfZSJFw1q4P5sOz7jNyFN) | 3:33 |
 | 35 | [Sol \(From "Ponniyin Selvan Part\-1"\)](https://open.spotify.com/track/0XosgadxA79fBBV6meKDAs) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Sol \(From "Ponniyin Selvan Part\-1"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0qS6o9gBwo4LFe8wvjTYGG) | 2:14 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 | 52 | [Mayakirriye](https://open.spotify.com/track/23netDpLwSCf0IxldbbMuF) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakirriye \- Single](https://open.spotify.com/album/3SPqv6jQCx2HoaO3qna0A5) | 3:09 |
 | 53 | [Raati](https://open.spotify.com/track/0iZ70iS3InwGoVyH1WBIl2) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D), [Swagatha](https://open.spotify.com/artist/3fX6I5TxaX7VusdmICwfy4) | [Partner \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ImbNeAxzmYKi5JtcAhVEQ) | 4:18 |
 
-Snapshot ID: `MCw0NjFlMmI0ZjBkZGFkMWZiOTE4ODEyYTc0NDg1NGUxMzFlZmQwMDYx`
+Snapshot ID: `MCxlMDZhMmQ2MjU0NThlMWMyMmJjZDJhZjg4MTEzNjljMjcxMGI3Yjcx`

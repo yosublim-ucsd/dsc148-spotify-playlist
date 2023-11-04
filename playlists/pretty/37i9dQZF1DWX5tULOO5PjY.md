@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 
 > 80s electronic boogie and post\-disco
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,567 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,631 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [If You Want My Lovin'](https://open.spotify.com/track/6YnqSlVQ9smhqAg8dEheAY) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [I'm In Love \(Expanded Edition\)](https://open.spotify.com/album/5SZVTXdGx4zFBQqTxVXUcE) | 4:19 |
 | 2 | [Let Me Show You \- Extended Version](https://open.spotify.com/track/2As1g97Jp5avf4ukhJsbX9) | [Larry Wu](https://open.spotify.com/artist/3ig4sRMsXxvSCt1hwVh9mg) | [Let Me Show You](https://open.spotify.com/album/0ubxSKqBPHlv2TEgm0Mm87) | 6:25 |
 | 3 | [Never Give You Up](https://open.spotify.com/track/2SJW2HmmOJBVAE3slly9UM) | [Sharon Redd](https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY) | [Redd Hott](https://open.spotify.com/album/5QQcCN3epphmtJMAbx2IHw) | 7:33 |
-| 4 | [Boogies Gonna Get Ya](https://open.spotify.com/track/32Mu2PQSnL2HFcBasP6NEq) | [Rafael Cameron](https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer) | [Cameron's In Love](https://open.spotify.com/album/4ILDtDjR4whLl3bMH8Wzdu) | 4:51 |
+| 4 | [Boogie's Gonna Get Ya](https://open.spotify.com/track/73d5pFuEPATPXuKROhVITY) | [Rafael Cameron](https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer) | [Cameron's in Love](https://open.spotify.com/album/7JetlByx1qsIeNvwGWBROW) | 4:51 |
 | 5 | [Bye Gones](https://open.spotify.com/track/1Hjs0qwW2G1yuYjiwwjsCn) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Yours Truly](https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w) | 4:26 |
 | 6 | [You're the One for Me](https://open.spotify.com/track/66i1lieIMso7ef4P7KdWcE) | [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe) | [You're the One for Me](https://open.spotify.com/album/6Cu53xS0YGhgEqyTqkVNeL) | 5:09 |
 | 7 | [Show You My Love](https://open.spotify.com/track/73vSSwwWwr3AEbu1OHdqY4) | [Goldie Alexander](https://open.spotify.com/artist/2eTi7pxZn4ODiMutJmJMUK) | [Knocking Down Love](https://open.spotify.com/album/5jh99LOETS01bpHzImcsu3) | 6:28 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 | 45 | [When It Comes To Love](https://open.spotify.com/track/13rK1GJioQ9CPnQZGrwByx) | [Rene & Angela](https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y) | [Rise](https://open.spotify.com/album/2mwPbX4BjM1b19s4NssvPe) | 3:37 |
 | 46 | [Still Got the Magic \(Sweet Delight\)](https://open.spotify.com/track/4eS5tiaCe0zrqlmjBNpKoP) | [Michael Wycoff](https://open.spotify.com/artist/03WrOkxi8Ktm2tBYI1Z7vV) | [Love Conquers All \(Expanded Edition\)](https://open.spotify.com/album/0CqVEdJUYqyHp1rlI07Fab) | 5:46 |
 | 47 | [Change of Heart](https://open.spotify.com/track/6owwCN8xHO9DSHC0ec5454) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Change Of Heart](https://open.spotify.com/album/4NIUKfEJKzlNffM8JuNAqd) | 7:08 |
-| 48 | [You Can't Have Your Cake and Eat It Too \- Vocal](https://open.spotify.com/track/7kYW2EsK6YV6gwB32HmbeI) | [B.T\. \(Brenda Taylor\)](https://open.spotify.com/artist/3NpMhRPxH2KuankEDD51wV) | [You Can't Have Your Cake and Eat It Too](https://open.spotify.com/album/1kFjmuqLEVDVBbDFFPcszD) | 6:03 |
+| 48 | [You Can't Have Your Cake and Eat It Too \(Alternate Mix\) \( 2012 \- Remaster\)](https://open.spotify.com/track/7Fg1OMNNlJD6UjDh8rLEuT) | [B.T\. \(Brenda Taylor\)](https://open.spotify.com/artist/3NpMhRPxH2KuankEDD51wV) | [You Can't Have Your Cake and Eat It Too](https://open.spotify.com/album/59czOFyUIO3KivBLUlglPN) | 6:03 |
 | 49 | [Raid](https://open.spotify.com/track/1m2uyZ7fmV1t0yOmV336rY) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Untouchables](https://open.spotify.com/album/1eK7QqVgcEGuSyoleWS2PQ) | 6:56 |
 | 50 | [I'm Waiting for Your Love](https://open.spotify.com/track/0AdlDDrKUcN9qDCuHayci4) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u) | [Continuation \(Expanded Edition\)](https://open.spotify.com/album/0EBmv9ftMr5abg4qceL0K2) | 4:14 |
 | 51 | [Handle With Care](https://open.spotify.com/track/4SBG9SF6aIHooN9ZlY0sa5) | [Booker Newberry III](https://open.spotify.com/artist/1yv6dwyahiw7s50m4a6jW5) | [Love Town](https://open.spotify.com/album/2CrCvt3eBGttBl29wQ15nf) | 6:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 | 59 | [I Loved Every Minute of It](https://open.spotify.com/track/5OVto0axRHGWAAWOCf6cZD) | [Gayle Adams](https://open.spotify.com/artist/15BDxaGYlN3CPzUdWddake) | [Love Fever](https://open.spotify.com/album/52ZVYXSDSMUmpmlzmNKvAh) | 5:48 |
 | 60 | [He's a Freak Undercover](https://open.spotify.com/track/2WFS0puLBFzV698XkYbt3Z) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [With Love](https://open.spotify.com/album/1rj8M1ano07y53htwMsCem) | 5:19 |
 
-Snapshot ID: `MCwzMjAzNTkzYmFiZGE3ZjEwZjRlNWFlOGEyYWYyZjg3MjE5OGQ2ODI3`
+Snapshot ID: `MCxhYWQyZWYyZWJiYWNkNDkwYWYzN2MxMDU2MzdiNDM2NzE0MmJmMDg0`

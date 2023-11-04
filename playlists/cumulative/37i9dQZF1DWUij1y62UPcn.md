@@ -4,7 +4,7 @@
 
 > Aidez vos enfants à commencer la journée du bon pied avec ces chansons positives
 
-61 songs - 3 hr 31 min
+62 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Jerusalema \(feat\. Nomcebo Zikode\)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K) | 5:42 | 2021-05-20 |  |
 | [Jour 1](https://open.spotify.com/track/13lXv8YxX0YYHM0SCk1KYb) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Chambre 12](https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr) | 3:37 | 2021-05-20 |  |
 | [La fête](https://open.spotify.com/track/7y9gbZ9CUnYkpBK4q0qnjB) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [La fête](https://open.spotify.com/album/3ojtdYgUS8esFGvC7o990s) | 3:12 | 2021-05-20 |  |
-| [Le blues du rose](https://open.spotify.com/track/05NNQ7vqmqTZj34jUAyZDF) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Le Soldat Rose 2](https://open.spotify.com/album/0VoSSoBOjDUqrUZDxEQ7Br) | 3:17 | 2021-05-20 |  |
+| [Le blues du rose](https://open.spotify.com/track/05NNQ7vqmqTZj34jUAyZDF) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Le Soldat Rose 2](https://open.spotify.com/album/0VoSSoBOjDUqrUZDxEQ7Br) | 3:17 | 2021-05-20 | 2023-11-04 |
+| [Le blues du rose \(feat\. Thomas Dutronc\)](https://open.spotify.com/track/6Ht9kk1NOg1uvs8AQnAVx8) | [Le Soldat Rose](https://open.spotify.com/artist/2rOCPPNRJnQMkNa5D18Ef2), [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Le Soldat Rose 2](https://open.spotify.com/album/6fZCT61LQYLgNuwQkR8JCD) | 3:17 | 2021-05-20 |  |
 | [Le plus fort du monde](https://open.spotify.com/track/0ZUAu9lg95YEVqV7M0GQf8) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw) | [Éternel insatisfait \(Réédition\)](https://open.spotify.com/album/3rmi48z2cufjbMzLZYf6vI) | 3:19 | 2021-05-20 |  |
 | [Le temps est bon](https://open.spotify.com/track/4WBDVbKHiNHmFpPLuBHYdu) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Le temps est bon](https://open.spotify.com/album/06wUYwI8FuobA5RoDopEOF) | 3:30 | 2021-05-20 |  |
 | [Magic in the Air \(feat\. Ahmed Chawki\)](https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Africainement vôtre](https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS) | 3:53 | 2021-05-20 |  |

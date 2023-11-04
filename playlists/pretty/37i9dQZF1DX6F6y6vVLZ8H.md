@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,495 likes - 53 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,515 likes - 53 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 8 | [In Control](https://open.spotify.com/track/5xgsrlbxfmAZR8t57ljK5t) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [In Control](https://open.spotify.com/album/6rfcQP2rywiV6reYrP9LOJ) | 3:10 |
 | 9 | [Afraid of Heights](https://open.spotify.com/track/1MJ2PGCxb3DWkd7ES6Z2Nw) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Afraid of Heights \(Deluxe Version\)](https://open.spotify.com/album/4VvTNytClnO6CUaAAFQ26e) | 3:45 |
 | 10 | [The Struggle](https://open.spotify.com/track/7kBP4kOVgeAv7NWcpowA4y) | [Black Prez](https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz), [KID SOMETHING](https://open.spotify.com/artist/0ZUzov4ewXiJRz0uO2DiLO) | [The Struggle](https://open.spotify.com/album/67HP7rGmoX7rZGAFEC41Uc) | 3:31 |
-| 11 | [South](https://open.spotify.com/track/4P4oazg6dLImZsqNAb9JlZ) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [South](https://open.spotify.com/album/5b3B3DiNKPnuESmFv2o72m) | 2:09 |
+| 11 | [South](https://open.spotify.com/track/4yrJzFzE6IiSUbVNlUuMjV) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [South](https://open.spotify.com/album/0ucqPOgjGy0H0CjJP6Xa3W) | 2:09 |
 | 12 | [Confisco](https://open.spotify.com/track/2vV3fHWrEIdDBygY35PyuY) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Transpiração Contínua Prolongada \- Edição Comemorativa](https://open.spotify.com/album/0GBMhUusSjw9soVbVFRERp) | 2:58 |
 | 13 | [Heavy Metal Winner](https://open.spotify.com/track/7tt28wbdKmFqZZXsCh4tTk) | [Consumed](https://open.spotify.com/artist/7bXsAsoUGJlM4VVB9xOmn2) | [Breakfast at Pappa's](https://open.spotify.com/album/33nqyAuvFDFNON9ljSqF6r) | 2:29 |
 | 14 | [Police Truck](https://open.spotify.com/track/6M4yg3BknyHmRnsvlkuHD5) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 2:24 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 24 | [May 16](https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Let's Talk About Feelings](https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz) | 2:56 |
 | 25 | [Bomb Drop](https://open.spotify.com/track/1U9DTcVgCPu7GEZXMeQ4Uu) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Sound the Alarm](https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61) | 3:06 |
 | 26 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 |
-| 27 | [Bass \(feat\. Tech N9ne & Hopsin\)](https://open.spotify.com/track/4fX0nbOg4zoGYsngVBtq4s) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Special Occasion](https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp) | 3:53 |
+| 27 | [Bass \(feat\. Tech N9ne & Hopsin\)](https://open.spotify.com/track/6oOX1c2fcsYbdgxUkI80h0) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT) | [Special Occasion](https://open.spotify.com/album/41EeKSi50U1kVWCq08Cqav) | 3:53 |
 | 28 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 |
 | 29 | [Let's Ride](https://open.spotify.com/track/7fZBLUmhCMvIWQbigBPpOo) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Let's Ride](https://open.spotify.com/album/2m1guXMoPRTLjxzOhiJ765) | 3:24 |
 | 30 | [Pin the Tail on the Donkey](https://open.spotify.com/track/3z0i5xf1iiEoiuhkTPKp3w) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Naughty By Nature](https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO) | 3:47 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 52 | [Slow Learner](https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:11 |
 | 53 | [All My Friends Are Nobodies](https://open.spotify.com/track/0ImdOZzfzWSIkB4ToC2buF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [All My Friends Are Nobodies](https://open.spotify.com/album/6VTNdekziQXzcf4gvy9hcM) | 3:03 |
 
-Snapshot ID: `MCxmNDJjNDRkYmM0N2ZmNjNiMTg4ZmY1MTQ5MDQ5MGI2YjJhYzhjMjc4`
+Snapshot ID: `MCw5MmY1MTQ0NTM3ZjM0NWRiNjFmNGRkZjk5MzkzYzg0NjQyMDhlZmM3`

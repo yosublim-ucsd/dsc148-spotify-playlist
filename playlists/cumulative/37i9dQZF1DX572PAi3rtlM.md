@@ -4,7 +4,7 @@
 
 > Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
 
-285 songs - 22 hr 24 min
+286 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [I Hear Music in the Streets](https://open.spotify.com/track/5HgE5eXfu0An2moseSM635) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 6:53 | 2021-09-01 | 2023-09-08 |
 | [I Heard the Voice of Music Say](https://open.spotify.com/track/16eL3Zw084d3CjDTaP8Xdf) | [Sunbear](https://open.spotify.com/artist/6PR1LVsphqrgunxIxhn3c9) | [Sunbear](https://open.spotify.com/album/3qXzp3FxW9nHlvEoJKij8R) | 5:03 | 2021-09-01 | 2022-07-25 |
 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 | 2021-09-01 | 2023-09-08 |
-| [Il vecchiaccio](https://open.spotify.com/track/539NGs2uOS6xu8JMuemKO1) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le mie canzoni](https://open.spotify.com/album/5JJca3CzOPDWOamyhtH1At) | 3:44 | 2023-10-01 |  |
+| [Il vecchiaccio](https://open.spotify.com/track/539NGs2uOS6xu8JMuemKO1) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le mie canzoni](https://open.spotify.com/album/5JJca3CzOPDWOamyhtH1At) | 3:44 | 2023-10-01 | 2023-11-04 |
+| [Il vecchiaccio](https://open.spotify.com/track/1u0uPBJx7pHVlx9L2Wcydu) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [le più belle canzoni](https://open.spotify.com/album/02322HwE6b1hf200vS8dVR) | 3:45 | 2023-10-13 |  |
 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 5:59 | 2023-10-01 |  |
 | [Il volo](https://open.spotify.com/track/1EQBXYxcRsUnymzLN8nxwT) | [Capinera](https://open.spotify.com/artist/0aS3d5fd7GrmApv4p7nho8) | [Il volo](https://open.spotify.com/album/5FmADjA3XSsqFx5iSJc27H) | 4:07 | 2023-10-01 |  |
 | [In alto mare](https://open.spotify.com/track/0kADV8W4Ns7WImvVIklbDC) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [LOREDANABERTÉ](https://open.spotify.com/album/0Yd6dyIIgCTHnbIMj5CuTA) | 4:29 | 2023-10-01 |  |

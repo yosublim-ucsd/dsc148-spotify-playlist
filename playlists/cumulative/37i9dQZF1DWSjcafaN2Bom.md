@@ -4,7 +4,7 @@
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-358 songs - 22 hr 14 min
+361 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [He Turned It \- Live](https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 9:24 | 2023-08-22 |  |
 | [Heard The Angels Moan](https://open.spotify.com/track/3lRFinFo4eFcSvcdUxL0IM) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Blind Boys of Alabama](https://open.spotify.com/album/1P6Cq7xzfy0dltHaH7tbp2) | 4:09 | 2023-08-22 |  |
 | [Heaven](https://open.spotify.com/track/7pkYoIvVhCLMqYEPIUu4tI) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Mirror Moves](https://open.spotify.com/album/1MrtCjOTI9e3tC6WrtHRK1) | 3:26 | 2023-08-22 |  |
-| [Hold Me Now](https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into the Gap \(Deluxe Edition\)](https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX) | 4:46 | 2023-08-22 |  |
+| [Hold Me Now](https://open.spotify.com/track/43h4FonpCeaaURpFpiQsf9) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into the Gap \(Deluxe Edition\)](https://open.spotify.com/album/0Ev5WLJKbqwakkJlgGDcgo) | 4:46 | 2023-09-25 |  |
+| [Hold Me Now](https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into the Gap \(Deluxe Edition\)](https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX) | 4:46 | 2023-08-22 | 2023-11-04 |
 | [Hold On, I'm Comin'](https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Hold On, I'm Comin'](https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO) | 2:35 | 2023-09-21 |  |
 | [Hot In Here](https://open.spotify.com/track/1xZ45QDjH5d8ikGPnWTsPB) | [Donald Philp](https://open.spotify.com/artist/5AtT5PuPd9NcaifPAZsJXu) | [Pop High](https://open.spotify.com/album/16iIwtHZj0hdJ6aAk71FIx) | 3:11 | 2023-09-21 |  |
 | [Hot Topic](https://open.spotify.com/track/4otN5ZboeohAAAXaGnLCIH) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:44 | 2023-08-22 |  |
@@ -150,7 +151,8 @@
 | [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 | 2023-08-22 |  |
 | [I Found a Reason](https://open.spotify.com/track/1idUQcT3cUss1Mv1BA2yD8) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/1jYzTZV1cQXE89zA9ZSUpE) | 4:14 | 2023-09-21 |  |
 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 | 2023-08-22 |  |
-| [I Got a Name \- Stereo Version](https://open.spotify.com/track/38llcrfX1arUqrEe0DRRzW) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [I Got a Name](https://open.spotify.com/album/4ieaeNOAdq6VoYQrY0hkhq) | 3:14 | 2023-09-21 |  |
+| [I Got a Name \(Stereo Version\)](https://open.spotify.com/track/4UEgKxYLP0bPG6EwD0DgYK) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [I Got a Name](https://open.spotify.com/album/64dufEP8npd2jYoPfdzWPJ) | 3:14 | 2023-09-25 |  |
+| [I Got a Name \- Stereo Version](https://open.spotify.com/track/38llcrfX1arUqrEe0DRRzW) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [I Got a Name](https://open.spotify.com/album/4ieaeNOAdq6VoYQrY0hkhq) | 3:14 | 2023-09-21 | 2023-11-04 |
 | [I Just Want to Make Love to You \- 2016 Remaster](https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 4:20 | 2023-08-22 |  |
 | [I Kissed A Girl](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 2:59 | 2021-10-26 |  |
 | [I Kissed A Girl](https://open.spotify.com/track/14iN3o8ptQ8cFVZTEmyQRV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ) | 2:59 | 2021-10-26 | 2022-07-29 |
@@ -206,7 +208,8 @@
 | [Long Time Gone](https://open.spotify.com/track/6hStTaD6piaihe7A8UN8Lt) | [Bachelorette](https://open.spotify.com/artist/3FJ6fErQn48ILQel1yaRbv) | [My Electric Family](https://open.spotify.com/album/4VN5Hpg9JnxYBUQolpCg6z) | 4:18 | 2023-09-21 |  |
 | [Love at First Sight](https://open.spotify.com/track/6ua8mbyHXTHpAmGyGpFAS2) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:58 | 2023-09-21 |  |
 | [Love Is The Drug](https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Siren](https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH) | 4:11 | 2023-08-22 |  |
-| [Love Missile F1\-11](https://open.spotify.com/track/6nURTcHJwFrtBwNeflZQUZ) | [Sigue Sigue Sputnik](https://open.spotify.com/artist/6GKVXdXGEOPzpilArcqBun) | [Flaunt It](https://open.spotify.com/album/5UzShGWJIpOfH98tnk2qQl) | 3:44 | 2023-08-22 |  |
+| [Love Missile F1\-11](https://open.spotify.com/track/2nnK8on14B6tYkiPEBL84w) | [Sigue Sigue Sputnik](https://open.spotify.com/artist/6GKVXdXGEOPzpilArcqBun) | [Flaunt It](https://open.spotify.com/album/3urCSbD1AmigWRqyPhKMQl) | 3:44 | 2023-09-25 |  |
+| [Love Missile F1\-11](https://open.spotify.com/track/6nURTcHJwFrtBwNeflZQUZ) | [Sigue Sigue Sputnik](https://open.spotify.com/artist/6GKVXdXGEOPzpilArcqBun) | [Flaunt It](https://open.spotify.com/album/5UzShGWJIpOfH98tnk2qQl) | 3:44 | 2023-08-22 | 2023-11-04 |
 | [Love Really Hurts Without You](https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Billy Ocean \(Expanded Edition\)](https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz) | 2:59 | 2023-08-22 |  |
 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 | 2023-09-21 |  |
 | [Love You So Bad](https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education Original Soundtrack](https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4) | 3:42 | 2023-08-22 |  |

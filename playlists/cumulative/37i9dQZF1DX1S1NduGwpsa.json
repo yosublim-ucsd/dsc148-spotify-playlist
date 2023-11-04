@@ -2586,10 +2586,28 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 260933,
       "name": "Feelings (Pour toi)",
       "url": "https://open.spotify.com/track/0wUKAMzkqhGzmADhCQ65Wg"
+    },
+    {
+      "album": {
+        "name": "Bir\u00e9li Lagr\u00e8ne plays Loulou Gast\u00e9",
+        "url": "https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA"
+      },
+      "artists": [
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260933,
+      "name": "Feelings (Pour toi)",
+      "url": "https://open.spotify.com/track/5V4QQ6HBYAayI204oBnLM1"
     },
     {
       "album": {
@@ -7674,6 +7692,24 @@
     {
       "album": {
         "name": "Bir\u00e9li Lagr\u00e8ne plays Loulou Gast\u00e9",
+        "url": "https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA"
+      },
+      "artists": [
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152146,
+      "name": "Trop beau pour \u00eatre vrai",
+      "url": "https://open.spotify.com/track/3GZQSblqvzUGvA7LmBXXSm"
+    },
+    {
+      "album": {
+        "name": "Bir\u00e9li Lagr\u00e8ne plays Loulou Gast\u00e9",
         "url": "https://open.spotify.com/album/18j6w0grfr4xEHUn9fUDUc"
       },
       "artists": [
@@ -7684,7 +7720,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 152146,
       "name": "Trop beau pour \u00eatre vrai",
       "url": "https://open.spotify.com/track/6bBpA9MKQTyRrdENizWJYf"

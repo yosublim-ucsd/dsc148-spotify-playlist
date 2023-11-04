@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best of today's chill pop\. Cover: Lizzy McAlpine & Niall Horan
 
-1,465 songs - 3 day 6 hr 42 min
+1,467 songs - 3 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [A\-O\-K](https://open.spotify.com/track/4CbrNGvwVjneG8Nk9YQqMR) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [A\-O\-K](https://open.spotify.com/album/3A8u7ZzojDwy7GlCJphBQR) | 2:53 | 2021-05-08 | 2021-11-20 |
 | [About Love](https://open.spotify.com/track/5xz18vs2HotcHIHIittKsQ) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [over thinking](https://open.spotify.com/album/716Kasns9qv4OrFJQ4T6kl) | 2:36 | 2021-01-15 | 2021-03-19 |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-10-26 | 2023-03-18 |
+| [Actress](https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Actress](https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx) | 3:58 | 2023-11-03 |  |
 | [actually happy](https://open.spotify.com/track/2a8LD3eiZsaybSOZR9nbV2) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [actually happy](https://open.spotify.com/album/2czDfsF6ycHDNT5ECHngXN) | 2:59 | 2021-05-29 | 2021-09-04 |
 | [Addicted to Her Sadness](https://open.spotify.com/track/77aHtoNHvtcZgeTOO855g8) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [Addicted to Her Sadness](https://open.spotify.com/album/3ku6WSzoKBkQzT4Qg8ODy5) | 2:47 | 2021-06-05 | 2021-08-07 |
 | [Affection](https://open.spotify.com/track/6XTpwvfm4jwnhhdGhClVRh) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Affection](https://open.spotify.com/album/5KG97dDUbF23M0xJfLDkXj) | 2:54 | 2020-10-23 | 2021-01-15 |
@@ -353,7 +354,7 @@
 | [Dust](https://open.spotify.com/track/7gKB72lW18lE0pfo9GMzMJ) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [After The Landslide](https://open.spotify.com/album/02DGbYqBLeNFuCx7SB200D) | 3:18 | 2020-04-26\* | 2020-07-18 |
 | [Easy](https://open.spotify.com/track/3nyRWdbLh6gSembPFBvovm) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Easy](https://open.spotify.com/album/1JvToB7yIkLMk4Fw6ARPgK) | 3:11 | 2021-01-23 | 2021-05-15 |
 | [Easy Love](https://open.spotify.com/track/4teTkriwH61lCPVRSvLIBv) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Easy Love](https://open.spotify.com/album/3ZjApkMiuqIxvsZbEGCo0o) | 3:23 | 2022-10-28 | 2022-11-12 |
-| [Eightball Girl](https://open.spotify.com/track/1TBTrssuZFzXXpK3OJk5m3) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Eightball Girl](https://open.spotify.com/album/6IJarp7jqTQ8u7tus5bYBu) | 3:11 | 2023-08-18 |  |
+| [Eightball Girl](https://open.spotify.com/track/1TBTrssuZFzXXpK3OJk5m3) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Eightball Girl](https://open.spotify.com/album/6IJarp7jqTQ8u7tus5bYBu) | 3:11 | 2023-08-18 | 2023-11-04 |
 | [Election Night](https://open.spotify.com/track/4YtuMlqBjqZKTNl5roHdnw) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Election Night](https://open.spotify.com/album/1CiLPhpIdbUsrJlf3SvCNe) | 3:30 | 2021-09-11 | 2021-10-02 |
 | [Elephant In The Room](https://open.spotify.com/track/0yASybU9AgcU2Fjn3Q7dPD) | [Grace Gaustad](https://open.spotify.com/artist/1F2JeQG9fLoC6flF1QTnxS) | [Elephant In The Room](https://open.spotify.com/album/5ETiO8E56MNLfwqrToFGjr) | 2:43 | 2021-07-31 | 2021-09-04 |
 | [embarrassing](https://open.spotify.com/track/2rJMx9Dl6Twjk09bLKtaQx) | [Taylor Bickett](https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk) | [embarrassing](https://open.spotify.com/album/5LfmnCrTYLqk9l2ABpeovx) | 2:36 | 2023-10-20 |  |
@@ -363,7 +364,7 @@
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 | 2023-06-17 |
 | [Endless \- Sarcastic Sounds Remix](https://open.spotify.com/track/17BeuwU5H2qbLetJP5gly8) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Endless \(Sarcastic Sounds Remix\)](https://open.spotify.com/album/4iqeagZdoH1mwkD5FQkuKu) | 2:11 | 2021-04-03 | 2021-06-05 |
 | [Enough](https://open.spotify.com/track/5C8Y0e4YnmWUcKwWFAHnZ6) | [Joe Avio](https://open.spotify.com/artist/3QegvPZ8QZhhJbNGaaZiXI) | [Whatever Will We Do](https://open.spotify.com/album/0OgwlrS2flxZ0hnmLKKgTh) | 3:50 | 2020-11-21 | 2021-01-15 |
-| [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 | 2023-07-28 |  |
+| [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 | 2023-07-28 | 2023-11-04 |
 | [Escondida](https://open.spotify.com/track/0ajYUR68w2YUe2bXWDVCWB) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Escondida](https://open.spotify.com/album/0YzIkLsyNOIRQ6xwVXVC2L) | 2:55 | 2020-11-21 | 2020-11-27 |
 | [eternal](https://open.spotify.com/track/00ulibFR0pRtARPT7L14AT) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [eternal](https://open.spotify.com/album/78PwnMwNdV1KB9APnIi6OG) | 4:10 | 2023-03-03 | 2023-04-01 |
 | [Eulogy for Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-15 | 2023-10-28 |
@@ -1191,6 +1192,7 @@
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-07-20 | 2023-02-18 |
 | [Still Something](https://open.spotify.com/track/1ZpcmirRaGcNWhvhkg3nYX) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Still Something](https://open.spotify.com/album/010yX6iIbqs59x29SwwUaG) | 3:08 | 2022-01-07 | 2022-08-30 |
 | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc) | 2:58 | 2020-05-16 | 2020-10-09 |
+| [Still Your Girl](https://open.spotify.com/track/4UctM780dIw7Bdbj9d3bXE) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Still Your Girl](https://open.spotify.com/album/0kb3W8PjhVAlHcKGvIUHfY) | 3:16 | 2023-11-03 |  |
 | [Stoned at the Nail Salon](https://open.spotify.com/track/0WLVSnKqQBK4UPom1TESHK) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Stoned at the Nail Salon](https://open.spotify.com/album/1LPqrRp0TeRO7hO1SYF08y) | 4:26 | 2021-07-24 | 2021-09-11 |
 | [Stop](https://open.spotify.com/track/1iCVw7fVBPdEzPibIQ0JCv) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [STOP](https://open.spotify.com/album/6BqOPE7vLLZaFNUtUuZGGy) | 2:57 | 2021-04-10 | 2021-06-12 |
 | [Stranger](https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:44 | 2022-08-05 | 2023-02-18 |

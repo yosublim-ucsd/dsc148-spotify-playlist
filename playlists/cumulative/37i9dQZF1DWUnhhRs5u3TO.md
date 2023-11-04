@@ -4,7 +4,7 @@
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-374 songs - 1 day 3 hr 27 min
+377 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,8 +281,9 @@
 | [Song of Myself](https://open.spotify.com/track/6M6h9q23QUqJptUJs5hFyr) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 13:29 | 2022-07-13 | 2022-07-27 |
 | [Sorceress](https://open.spotify.com/track/5mY8mY7DSfuqVbY2psq3Cg) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Sorceress](https://open.spotify.com/album/2GNdgq3pIVLYZoNK4wJtCP) | 5:49 | 2022-01-03 |  |
 | [Soul Sacrifice](https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 4:10 | 2022-07-13 | 2022-07-15 |
+| [Speed of Light](https://open.spotify.com/track/0IxCwnKKKVTEuEgXoexzba) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls](https://open.spotify.com/album/5u4Y1PWu39rfHjEcCB53x4) | 5:01 | 2023-03-09 |  |
 | [Speed of Light](https://open.spotify.com/track/1smvmwmbrQiBwgJZMxVtup) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls](https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2) | 5:01 | 2022-01-03 | 2022-07-28 |
-| [Speed of Light](https://open.spotify.com/track/6wYseWUX1OOmuQOIsUoY3K) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls](https://open.spotify.com/album/6QKC7ltfafdNeBZkzLdUvF) | 5:01 | 2023-03-09 |  |
+| [Speed of Light](https://open.spotify.com/track/6wYseWUX1OOmuQOIsUoY3K) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls](https://open.spotify.com/album/6QKC7ltfafdNeBZkzLdUvF) | 5:01 | 2023-03-09 | 2023-11-04 |
 | [Spirit](https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:15 | 2022-07-13 | 2022-10-13 |
 | [Square Hammer](https://open.spotify.com/track/4AzomjMRpr1NMNE90ZIOD6) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Popestar](https://open.spotify.com/album/36Ybf0SVlKqgGadXe3ZEQf) | 3:59 | 2022-01-03 |  |
 | [Stitch](https://open.spotify.com/track/0Pl5XX0MbdQ5E702GBhnUn) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Deadweight](https://open.spotify.com/album/0c4JrJyBCQHU0Pq3td483f) | 3:25 | 2022-01-03 |  |
@@ -308,7 +309,8 @@
 | [The Devil in I](https://open.spotify.com/track/6vhuve6vceQE6yNCcK2rct) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter](https://open.spotify.com/album/3nyxMohQINxnhYwyHvUqVf) | 5:42 | 2022-01-03 | 2022-07-29 |
 | [The Devil's Bleeding Crown](https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 3:58 | 2022-01-03 | 2022-07-29 |
 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 | 2022-04-24 |  |
-| [The Dirt \(Est\. 1981\) \[feat\. Machine Gun Kelly\]](https://open.spotify.com/track/0PloHvXx0nAIwVx1zYjm9F) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [The Dirt Soundtrack](https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O) | 3:52 | 2022-04-24 |  |
+| [The Dirt \(Est\. 1981\) \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/0FLvfMC6jEqQw5fap5OcWC) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [The Dirt Soundtrack](https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO) | 3:52 | 2023-03-09 |  |
+| [The Dirt \(Est\. 1981\) \[feat\. Machine Gun Kelly\]](https://open.spotify.com/track/0PloHvXx0nAIwVx1zYjm9F) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [The Dirt Soundtrack](https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O) | 3:52 | 2022-04-24 | 2023-11-04 |
 | [The Dirt \(Est\. 1981\) \[feat\. Machine Gun Kelly\]](https://open.spotify.com/track/4iGBPovu7Hy7TUg6Wk6pjt) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [The Dirt Soundtrack](https://open.spotify.com/album/41yK0Yl2fDWKMSn3l3Ii3u) | 3:52 | 2022-01-03 | 2022-07-29 |
 | [The Doomed](https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Eat The Elephant](https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op) | 4:41 | 2022-01-03 | 2023-03-10 |
 | [The End](https://open.spotify.com/track/1GOpxT6078PQQPnoUlGAAf) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Battles](https://open.spotify.com/album/2bHzbOfXCyUSmk5l4IvmKq) | 3:58 | 2022-01-03 | 2022-07-29 |
@@ -345,7 +347,8 @@
 | [Toast To The Ghost](https://open.spotify.com/track/66UTHVpVfB9t7dCaBOB0Mw) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/5hDwXxawZfYuNxylzGXcqt) | 5:30 | 2022-07-13 | 2022-07-19 |
 | [Torn Between](https://open.spotify.com/track/0mvf8kPSZYyTSzbDXqIJhC) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:01 | 2022-07-13 | 2023-03-10 |
 | [Totalitarian Terror](https://open.spotify.com/track/5i4As4GqRPz2JsSA6IOlA6) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Gods of Violence](https://open.spotify.com/album/6Q0KiThTf1dwHWWsqXjngL) | 4:45 | 2022-07-13 | 2022-07-28 |
-| [Unbreakable](https://open.spotify.com/track/15TC83LO1QAu0BZLRdHw01) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Defy](https://open.spotify.com/album/78yMb0lsPLAEuugaeLeLL0) | 4:09 | 2022-01-03 |  |
+| [Unbreakable](https://open.spotify.com/track/78IWqwMHpZMXrdJGez3kSq) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Defy](https://open.spotify.com/album/2sfcRgAO7MjUGntIgeYSlZ) | 4:04 | 2023-03-09 |  |
+| [Unbreakable](https://open.spotify.com/track/15TC83LO1QAu0BZLRdHw01) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Defy](https://open.spotify.com/album/78yMb0lsPLAEuugaeLeLL0) | 4:09 | 2022-01-03 | 2023-11-04 |
 | [Unbroken](https://open.spotify.com/track/6pivkSWduzuZ3EqHOYq5Aq) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/album/7H4gPkbdQlDM7jRTRnsnyO) | 4:08 | 2022-07-13 | 2022-07-28 |
 | [Unsainted](https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 4:20 | 2022-01-03 | 2023-03-10 |
 | [Unsung Heroes](https://open.spotify.com/track/6Is4gxbuwru926Nu0w4tHu) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Unsung Heroes](https://open.spotify.com/album/3lfDu9TajrTJEiqKYL5k3V) | 5:54 | 2022-07-13 | 2022-07-25 |

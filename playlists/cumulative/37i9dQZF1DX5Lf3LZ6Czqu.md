@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-126 songs - 9 hr 29 min
+127 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Nu Som](https://open.spotify.com/track/2F5ojPnjFZd7a3g5HJroXv) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP), [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Nu Som](https://open.spotify.com/album/4DfgGHHHDVWQN2VTUbf5BJ) | 5:28 | 2021-05-04 | 2022-07-29 |
 | [Nu Som](https://open.spotify.com/track/2monwhL9bsFNaobXHhrLDa) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP), [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Eleven](https://open.spotify.com/album/36d8L5jU3W6tbkCh59eS82) | 5:28 | 2021-05-04 |  |
 | [Planetary Lockdown](https://open.spotify.com/track/3cAEGkFwSdX1bBQsI3efgv) | [Bumblefoot](https://open.spotify.com/artist/1KGFAcP7ovMYuoQuloDhOj) | [Planetary Lockdown](https://open.spotify.com/album/4zV7IgwIYGcWyWsdRytXW8) | 5:16 | 2022-10-11 |  |
-| [Playing God](https://open.spotify.com/track/3nBGFgfRQ8ujSmu5cGlZIU) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Playing God](https://open.spotify.com/album/3rHwz3EQwsQXdsXvSWE1N4) | 3:25 | 2022-07-29 |  |
+| [Playing God](https://open.spotify.com/track/3nBGFgfRQ8ujSmu5cGlZIU) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Playing God](https://open.spotify.com/album/3rHwz3EQwsQXdsXvSWE1N4) | 3:25 | 2022-07-29 | 2023-11-04 |
+| [Playing God](https://open.spotify.com/track/4S0zagxseJHOL5ZVnTQA6X) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Remember That You Will Die](https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw) | 3:25 | 2022-07-29 |  |
 | [Poison Touch](https://open.spotify.com/track/1msAnMnGAYebDKoNZfGmNd) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Remarkably Human](https://open.spotify.com/album/2ump5mO74i3wV9wPbk7HcF) | 4:24 | 2021-05-04 |  |
 | [Pop\-Alicious](https://open.spotify.com/track/6Jn9KO0gb3X5mgHu3fxKP6) | [Neil Zaza](https://open.spotify.com/artist/4FzEKhLeEN58Mu7JzUHdHF) | [Pop\-Alicious](https://open.spotify.com/album/4PKT4YsAtbs4SSjjfOqocv) | 3:54 | 2022-10-11 |  |
 | [Primal Feels](https://open.spotify.com/track/32Yc8905BkRVOKhBpHhuK3) | [Nili Brosh](https://open.spotify.com/artist/0ODUQ3W9ljLNLJELvO5ysk) | [Primal Feels](https://open.spotify.com/album/6Vn52SWI9Ymftd9Ml6nWYV) | 4:46 | 2021-05-04 |  |

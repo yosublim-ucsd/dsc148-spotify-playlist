@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: 椅子樂團 The Chairs \(Taiwan\)
 
-1,051 songs - 2 day 15 hr 3 min
+1,052 songs - 2 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Burn Book](https://open.spotify.com/track/1aDVkbFZ9qrv4drQUr5D4Y) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 4:19 | 2022-10-28 | 2023-03-10 |
 | [Butterflies](https://open.spotify.com/track/7AeIOIhnyL3jF9OSDDHqaD) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [Butterflies](https://open.spotify.com/album/1xlXly2Y6huS9CGKWIwrAQ) | 3:29 | 2022-11-10 | 2022-12-16 |
 | [By You](https://open.spotify.com/track/1yqwcmbBMrUZW063PE7ppA) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt) | [By You](https://open.spotify.com/album/0hMld3ceybBzc3dtIoSiOw) | 3:08 | 2023-08-31 | 2023-09-22 |
-| [Byebye 掰掰歌](https://open.spotify.com/track/6DRS16Q6LYDdxnkh90oaTI) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [Hatching](https://open.spotify.com/album/1tDBarEBsnMLa12YqDgCGR) | 3:36 | 2023-10-19 |  |
+| [Byebye 掰掰歌](https://open.spotify.com/track/6DRS16Q6LYDdxnkh90oaTI) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [HATCHING](https://open.spotify.com/album/1tDBarEBsnMLa12YqDgCGR) | 3:36 | 2023-10-19 |  |
 | [c r a z y](https://open.spotify.com/track/3o86gmLtoG3jE9sFgVu4nn) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [no public sounds](https://open.spotify.com/album/6aO96YUjirdU0mPzy7mCHd) | 3:13 | 2023-09-29 | 2023-10-13 |
 | [Cactus, Cactus](https://open.spotify.com/track/1rY2ceqiDFkB9NbV4efQOj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Cactus, Cactus](https://open.spotify.com/album/3hfUaz21ZhJQ7Fa9amwMhZ) | 2:25 | 2023-04-07 | 2023-05-14 |
 | [Cadillac](https://open.spotify.com/track/1UfBoOR19ZMYASHCu60yfl) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH) | [Cadillac](https://open.spotify.com/album/4fhBoDPPc6EXjQvKuMfHbm) | 2:27 | 2022-06-30 | 2022-08-12 |
@@ -232,7 +232,7 @@
 | [deep breath in](https://open.spotify.com/track/2rObMC4F1tSewQPn87RUi8) | [cornelia](https://open.spotify.com/artist/6gDLZVjPZvyKYHYujcrNdO) | [deep breath in](https://open.spotify.com/album/5kAlXseC7IrX2M5MMWrQdV) | 3:23 | 2022-08-18 | 2022-08-26 |
 | [Deep Diving](https://open.spotify.com/track/6NslJ8DMabPbslZYKQ8Qer) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Deep Diving](https://open.spotify.com/album/65YhubUi5rIDZmFr5FINBx) | 2:40 | 2023-08-10 | 2023-09-11 |
 | [Desire](https://open.spotify.com/track/4enRXp0XqK8Xy6FJyPuuaf) | [Khodi](https://open.spotify.com/artist/2e3lW79sSCTJmE9U5AcYFE) | [Desire](https://open.spotify.com/album/7eaUeXoBSNWdxDM44yOHkP) | 2:44 | 2022-03-24 | 2022-04-15 |
-| [Desire](https://open.spotify.com/track/4eD5EYgHx2HJ6OKEduR8dc) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Desire](https://open.spotify.com/album/558sXmfEy2ay0wCIg6BFKG) | 4:06 | 2023-03-09 | 2023-10-27 |
+| [Desire](https://open.spotify.com/track/4eD5EYgHx2HJ6OKEduR8dc) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Desire](https://open.spotify.com/album/558sXmfEy2ay0wCIg6BFKG) | 4:06 | 2023-03-09 |  |
 | [Desire](https://open.spotify.com/track/3xnBJVytupb5FhfOHwjwER) | [Somethink](https://open.spotify.com/artist/7L8UCXrauhPxujACcmrExI), [Sara Dennaz](https://open.spotify.com/artist/7EWf5ShQantyDNV3dYtTst) | [Desire](https://open.spotify.com/album/1BssOlfQL1Mc4BKMzmRXDG) | 2:44 | 2023-01-19 | 2023-03-18 |
 | [Destroy](https://open.spotify.com/track/6TZCxArsSdK0k4nG8KBdbb) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Moirai Kiss](https://open.spotify.com/album/2qlvJOqqDFuiZ0WxelwCZJ) | 3:30 | 2023-08-03 | 2023-09-08 |
 | [Devil's Bargain](https://open.spotify.com/track/0a3IlLkvg1FaUAs4QR1Yse) | [Belly Rachel](https://open.spotify.com/artist/1ACa5a078zqkCA7kH9XtPZ) | [Devil's Bargain](https://open.spotify.com/album/5gRd0zhPpH4TUmfMTBKZNg) | 4:57 | 2023-06-08 | 2023-07-15 |
@@ -453,6 +453,7 @@
 | [Je Suis La Pomme Rouge](https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Je Suis La Pomme Rouge](https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv) | 4:30 | 2022-03-24 | 2022-04-08 |
 | [Jealousy](https://open.spotify.com/track/4mmNaX7S21cDbiOrMSSush) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 4:23 | 2022-06-17 | 2022-08-05 |
 | [Jellyfish](https://open.spotify.com/track/3fYRIQXvG6Ge1ERfMgcRJE) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532), [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Subtropical South](https://open.spotify.com/album/56AUUReJtKOxirruCJ4AaJ) | 3:41 | 2022-07-28 | 2022-09-23 |
+| [Jhalleyaa](https://open.spotify.com/track/7i7WOWfyIfjkhvDFXMw7Qh) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Jhalleyaa](https://open.spotify.com/album/38oobnTGogHSH1DLIAf0Gc) | 4:17 | 2023-11-02 |  |
 | [JOHJI](https://open.spotify.com/track/1trPyHkA0NvuY8jfYLEruI) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [JOHJI](https://open.spotify.com/album/6Mv4qwCruIA7hkMAoCwPOt) | 4:48 | 2023-11-01 |  |
 | [joke!](https://open.spotify.com/track/4EBrCFj4IJh2Zz9Bvk5erJ) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [joke!](https://open.spotify.com/album/3WRyYbjli1QoGAhWwyH6IQ) | 3:23 | 2023-04-20 | 2023-06-16 |
 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 | 2023-07-14 |  |
@@ -856,7 +857,7 @@
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-07-27 | 2023-10-15 |
 | [touch/feelings](https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [touch/feelings](https://open.spotify.com/album/2SZLgFJyoHaExsSJEsfOXU) | 2:59 | 2022-11-24 | 2023-02-17 |
 | [Toxicated](https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Toxicated](https://open.spotify.com/album/2SFr2FJjkU6sbkKUFtfBmr) | 2:37 | 2023-02-16 | 2023-04-14 |
-| [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-09-01 |  |
+| [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-09-01 | 2023-11-04 |
 | [Trouble Is An Enemy](https://open.spotify.com/track/2YrahDW9h5H2KfCj6foQKG) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK) | [Trouble Is An Enemy](https://open.spotify.com/album/4hsrYdTGo35Fqqf521php9) | 2:50 | 2022-09-09 | 2022-10-29 |
 | [Trust Me With This \(Mama\)](https://open.spotify.com/track/68zHOxA7F3MU6ow3e2LfzL) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Trust Me With This \(Mama\)](https://open.spotify.com/album/1RqwlxPfColbEHt2hsQaZO) | 3:44 | 2022-03-24 | 2022-04-22 |
 | [Trả lại tôi mùa đông](https://open.spotify.com/track/0mxK9iLhEaia10yJA996F6) | [dNam](https://open.spotify.com/artist/6QDiH6RMjZ0OmMJjoDeB7k) | [Trả lại tôi mùa đông](https://open.spotify.com/album/45p7M0NfUYyeP16gVYXPz8) | 2:33 | 2023-07-20 | 2023-09-01 |

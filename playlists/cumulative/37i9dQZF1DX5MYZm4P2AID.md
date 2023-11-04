@@ -4,7 +4,7 @@
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-215 songs - 13 hr 3 min
+216 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [Veni Vidi Vici](https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:28 | 2021-10-26 | 2023-02-08 |
 | [Veni Vidi Vici](https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:28 | 2021-10-26 |  |
 | [Welcome To Jamrock](https://open.spotify.com/track/0alTdGNJ19j0K34NzLAyaw) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 3:33 | 2023-02-23 |  |
-| [When the Lights Are Low](https://open.spotify.com/track/5dfQhcik87RMJAvVs7xW95) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 3:04 | 2023-02-23 |  |
+| [When the Lights Are Low](https://open.spotify.com/track/5dfQhcik87RMJAvVs7xW95) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 3:04 | 2023-02-23 | 2023-11-04 |
+| [When The Lights Are Low](https://open.spotify.com/track/1QxSiJ0Xf0iUzyDIFh7FWF) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On The Beach With The Paragons](https://open.spotify.com/album/5rPWGUQEG3OfeT65tRqcf9) | 3:05 | 2023-03-01 |  |
 | [Where Do We Go From Here](https://open.spotify.com/track/0bdtQRLslZThuaC3dPwwvt) | [Wesley Attew](https://open.spotify.com/artist/6CLYptSCO8U7er34RZ5xxn) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 4:34 | 2023-02-23 |  |
 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2021-10-26 |  |
 | [Wiya Waist](https://open.spotify.com/track/4lVHvQoC3VMvF0fVpj7c3k) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Aban](https://open.spotify.com/album/2KlF5Rk0eZZbOIwLThaiU1) | 3:13 | 2021-10-26 |  |

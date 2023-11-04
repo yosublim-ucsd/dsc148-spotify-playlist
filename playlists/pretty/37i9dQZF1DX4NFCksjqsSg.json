@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 27703,
+  "num_followers": 27719,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODYwYTAzY2MwNjJkMTNhOTcyZjU4N2FhMDA0YmYwY2NjNWY5MGY5",
+  "snapshot_id": "MCw2NGFmZTY3MGRmNjdiZmU0NWM2ODc0YTVlNDU4YmQwNjkzMWUyNTdk",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -55,26 +55,6 @@
       "duration_ms": 163466,
       "name": "Je l'aime \u00e0 mourir - Remastered",
       "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Fais comme l'oiseau",
-        "url": "https://open.spotify.com/album/3OElRBTgFwCluz9sF4wlSt"
-      },
-      "artists": [
-        {
-          "name": "Michel Fugain",
-          "url": "https://open.spotify.com/artist/3Uitc0uNSbhVrqJON4NCMY"
-        },
-        {
-          "name": "Le Big Bazar",
-          "url": "https://open.spotify.com/artist/3Flcm9X9nGdFzBfptzOI3K"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "Une belle histoire",
-      "url": "https://open.spotify.com/track/5jWaYdEILLzuElA854tfXV"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -227,6 +207,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "En Chantant",
+        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "En chantant",
+      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/41WX17nVqpkzVp5RKMxD9j"
       },
@@ -287,22 +283,6 @@
       "duration_ms": 258333,
       "name": "La neige au Sahara",
       "url": "https://open.spotify.com/track/4r9u9QK7KOEXgOmt3hs57g"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "En Chantant",
-        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "En chantant",
-      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -371,22 +351,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Snob",
-        "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
-      },
-      "artists": [
-        {
-          "name": "Les BB",
-          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
-        }
-      ],
-      "duration_ms": 253160,
-      "name": "Donne-moi ma chance",
-      "url": "https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Fruit de ma r\u00e9cente nuit blanche",
         "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
       },
@@ -403,18 +367,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Parlez-moi de lui - Single",
-        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
+        "name": "Snob",
+        "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
       },
       "artists": [
         {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+          "name": "Les BB",
+          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
         }
       ],
-      "duration_ms": 200760,
-      "name": "Parlez-moi de lui",
-      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
+      "duration_ms": 253160,
+      "name": "Donne-moi ma chance",
+      "url": "https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -435,6 +399,22 @@
       "duration_ms": 256760,
       "name": "Les yeux du coeur",
       "url": "https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Parlez-moi de lui - Single",
+        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
+      },
+      "artists": [
+        {
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Parlez-moi de lui",
+      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -631,6 +611,38 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Fais comme l'oiseau",
+        "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "Une belle histoire",
+      "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Aime-moi",
+        "url": "https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT"
+      },
+      "artists": [
+        {
+          "name": "Claude Barzotti",
+          "url": "https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Aime moi",
+      "url": "https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Joe Dassin \u00c9ternel...",
         "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
       },
@@ -663,18 +675,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Aime-moi",
-        "url": "https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT"
+        "name": "Si ce soir, Vol. 2",
+        "url": "https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7"
       },
       "artists": [
         {
-          "name": "Claude Barzotti",
-          "url": "https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb"
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
         }
       ],
-      "duration_ms": 250973,
-      "name": "Aime moi",
-      "url": "https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6"
+      "duration_ms": 273973,
+      "name": "Qui a le droit... - Live \"Si ce soir\"",
+      "url": "https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -707,22 +719,6 @@
       "duration_ms": 319840,
       "name": "Je voudrais voir la mer",
       "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Si ce soir, Vol. 2",
-        "url": "https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 273973,
-      "name": "Qui a le droit... - Live \"Si ce soir\"",
-      "url": "https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -939,22 +935,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Coffret 2CD-3",
-        "url": "https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 327200,
-      "name": "Je vais t'aimer",
-      "url": "https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Autour de Montr\u00e9al (Compilation 1978-1982)",
         "url": "https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU"
       },
@@ -967,6 +947,22 @@
       "duration_ms": 287253,
       "name": "Si j'\u00e9tais un homme",
       "url": "https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Coffret 2CD-3",
+        "url": "https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 327200,
+      "name": "Je vais t'aimer",
+      "url": "https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD"
     },
     {
       "added_at": "2020-04-07 15:18:18",

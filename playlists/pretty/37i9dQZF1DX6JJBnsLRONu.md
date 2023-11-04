@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,692 likes - 61 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,702 likes - 61 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 26 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 |
 | 27 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 |
 | 28 | [Agave](https://open.spotify.com/track/3nuTfqbuzQNdIt6DstMvPF) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/1aRlVoPRlpWeJHBDVqRETr) | 1:58 |
-| 29 | [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:09 |
+| 29 | [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:09 |
 | 30 | [Magic On Television](https://open.spotify.com/track/3iGrVu4WWxgVXeDA9DzpvK) | [Rob Noyes](https://open.spotify.com/artist/7fZ7su6bgTRy96bAUZJVaT) | [Arc Minutes](https://open.spotify.com/album/70ueiLONdgQZhlfDEeu377) | 3:05 |
 | 31 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 |
 | 32 | [34 Ghosts IV](https://open.spotify.com/track/2vXOjiwfjobOqrezcuSBok) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Ghosts I\-IV](https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp) | 5:52 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 55 | [Country of Illusion](https://open.spotify.com/track/0ZggavuoEzQ2P9iRua8UVv) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Impossible Truth](https://open.spotify.com/album/6bFIXguELPw4vEjL1Kh6uz) | 8:55 |
 | 56 | [The Forgotten Edge](https://open.spotify.com/track/6bcrgRF256yQ4gYd3dZXJN) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [The Forgotten Edge](https://open.spotify.com/album/5lcXZjNubYS7GEJOxRn9Xo) | 2:18 |
 | 57 | [Soft Night](https://open.spotify.com/track/0aFGdSW8JVpayHajgBDQfC) | [CARM](https://open.spotify.com/artist/3596asOGwi58IfCICpBbQZ) | [CARM](https://open.spotify.com/album/4HRxwMgEEOYGe0YO3JkGGG) | 3:59 |
-| 58 | [Cowgirl](https://open.spotify.com/track/65jc3aumDKlwvxAfwTXBv6) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs) | 4:05 |
+| 58 | [Cowgirl](https://open.spotify.com/track/4NFPPSwK1wtldEPPbExyjv) | [Nick Cave & Warren Ellis](https://open.spotify.com/artist/5cQYq4eJmOwUGCAjhajFg7) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/5tHgLycauca1M9DF9YqsbJ) | 4:05 |
 | 59 | [He is Without His Guns](https://open.spotify.com/track/1ZkNI3JpzfQ5LMV33zH7Jg) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Into the Light](https://open.spotify.com/album/6PKMSpHdDkaay6WTBUzxz0) | 3:24 |
 | 60 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 |
 | 61 | [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 |
 
-Snapshot ID: `MCw1MjY4YTgxODRhYjJmNTQ0ZTNlMWExNzdiYTRhYTA5Njg2ODE0ZmZi`
+Snapshot ID: `MCwyOWY1YjU4MWRjOTZkN2MwMzYzNTI0MTc2ZDllZjc3Y2FiYzFmYmQy`

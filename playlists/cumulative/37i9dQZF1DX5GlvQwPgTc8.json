@@ -210,7 +210,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 172459,
       "name": "Brother Louie",
       "url": "https://open.spotify.com/track/0fQfopzcRtmYxdK9xFA3Qr"
@@ -818,7 +818,7 @@
     {
       "album": {
         "name": "Moonlight",
-        "url": "https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7"
+        "url": "https://open.spotify.com/album/4IU5ADOJ9DnVa9clXVhrEE"
       },
       "artists": [
         {
@@ -829,6 +829,24 @@
       "date_added": "2019-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 173066,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0A5gdlrpAuQqZ2iFgnqBFW"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "date_added": "2019-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
       "duration_ms": 173215,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs"
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 204654,
       "name": "Particula",
       "url": "https://open.spotify.com/track/0e8fTfa0ZKCwOi2UdULooT"

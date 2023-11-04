@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Jota.pê
 
-477 songs - 23 hr 41 min
+478 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,8 @@
 | [MTV](https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O) | [Aquino e a Orquestra Invisível](https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA) | [Aquino e a Orquestra Invisível](https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe) | 2:53 | 2022-09-16 | 2023-01-28 |
 | [MUITA BAD pouca idade](https://open.spotify.com/track/459PsIi4TO1buNPxyuTWa4) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [MUITA BAD pouca idade](https://open.spotify.com/album/4l9naBe0iq14BJEmi2ItLw) | 3:08 | 2022-12-09 | 2023-03-12 |
 | [Mulher de fé](https://open.spotify.com/track/3nzOzTsaXDsQDjbeNLhjSu) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Mulher de fé](https://open.spotify.com/album/0NIimQLXAHitFTYmKSQ4Oi) | 2:34 | 2023-04-28 | 2023-09-30 |
-| [Mundo de Papel](https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar](https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ) | 2:13 | 2023-05-12 |  |
+| [Mundo de Papel](https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar](https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ) | 2:13 | 2023-05-12 | 2023-11-04 |
+| [Mundo de Papel](https://open.spotify.com/track/72f0aOR0Tp6LH4KZ7whF4R) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar](https://open.spotify.com/album/1wpEtiyzTmdOQwRPmys3Ae) | 2:13 | 2023-10-27 |  |
 | [My Loco](https://open.spotify.com/track/3dMVGhezyjym46tSWWcPYq) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP) | [My Loco](https://open.spotify.com/album/6LX1Kta2wgE3f2kG4iGGeI) | 2:30 | 2023-07-21 | 2023-08-19 |
 | [Mãe](https://open.spotify.com/track/5HiYi4cCIRPVr6HjbSqfCJ) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Mãe](https://open.spotify.com/album/2LdDGy12ITEQYX7sBUlz0v) | 2:42 | 2022-12-09 | 2023-01-28 |
 | [Música para Recomeços](https://open.spotify.com/track/2W5aFc2XGAt4AEH3ZY7427) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Música para Recomeços](https://open.spotify.com/album/0AKpFm7l7y3GiZk0POcVq4) | 2:58 | 2022-09-09 | 2022-09-24 |

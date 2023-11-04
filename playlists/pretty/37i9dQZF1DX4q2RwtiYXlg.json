@@ -1,12 +1,12 @@
 {
   "description": "You can <a href=\"https://www.instagram.com/p/Cykx_E6NEiD/\">vote</a> for Worldwide Fans' Choice Category by listening to the song of the artist you support for longer than 30 seconds. (First 3 streams only per day)",
-  "num_followers": 278620,
+  "num_followers": 278439,
   "original_name": "2023 MAMA AWARDS: Worldwide Fans\u2019 Choice Category",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzQwNDYwMjk1YjE5ZmE3Mzg2N2ZjNmNiMDhlMjNmMTY4NTk0YTAx",
+  "snapshot_id": "MCw1MDU5MDRkNmUyMGNhYzA2OTNjYjg3MzZkNWZlMDc3YWIxMjA0YWQw",
   "tracks": [
     {
       "added_at": "2023-10-19 09:19:54",
@@ -571,6 +571,38 @@
       "duration_ms": 160371,
       "name": "Get A Guitar",
       "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
+    },
+    {
+      "added_at": "2023-10-19 09:19:54",
+      "album": {
+        "name": "SEVENTEEN 10th Mini Album 'FML'",
+        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
+    },
+    {
+      "added_at": "2023-10-19 09:19:54",
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "HARD",
+      "url": "https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB"
     },
     {
       "added_at": "2023-10-19 09:19:54",

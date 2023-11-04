@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Aczino el GOAT en la casa. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. La Liga Malandra en la casa. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -124,6 +124,44 @@
       "duration_ms": 207360,
       "name": "A Mover el Cuello",
       "url": "https://open.spotify.com/track/7tADtBNDO52AYYTjclVN6o"
+    },
+    {
+      "album": {
+        "name": "A Toda Hora",
+        "url": "https://open.spotify.com/album/0AEyObamxFk4bG6PnkKQrX"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+        },
+        {
+          "name": "Dee",
+          "url": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
+        },
+        {
+          "name": "Yoga Fire",
+          "url": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        },
+        {
+          "name": "Phul King Fu",
+          "url": "https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291314,
+      "name": "A Toda Hora",
+      "url": "https://open.spotify.com/track/7AApA6u8jKnrQwhOtZ8EvF"
     },
     {
       "album": {
@@ -3730,7 +3768,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 130942,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/7noUi6BJ2QBfBHxzAWXk6n"
@@ -4205,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "La Misma Bandera",
+        "url": "https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221096,
+      "name": "La Misma Bandera",
+      "url": "https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe"
+    },
+    {
+      "album": {
         "name": "La Muerte Se Fue",
         "url": "https://open.spotify.com/album/1HFrhy2WErx4Tpw2KdraPS"
       },
@@ -4478,6 +4534,44 @@
       "duration_ms": 139927,
       "name": "Lick (Remix)",
       "url": "https://open.spotify.com/track/54kYF5NYsTBs1XDTh0czQ4"
+    },
+    {
+      "album": {
+        "name": "Liga Malandra 3",
+        "url": "https://open.spotify.com/album/6dcUWslTmKR3ymSgSQ1nzy"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "El Jincho",
+          "url": "https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw"
+        },
+        {
+          "name": "Sinful El Pecador",
+          "url": "https://open.spotify.com/artist/0CtBJEWIKkU8CzxJCBLmSi"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371162,
+      "name": "Liga Malandra 3",
+      "url": "https://open.spotify.com/track/6fAGdSZyZO3uKF0wdVOuVd"
     },
     {
       "album": {
@@ -5124,7 +5218,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 174193,
       "name": "Mexicano",
       "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
@@ -5550,7 +5644,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 236923,
       "name": "Nac\u00ed Para Ganar",
       "url": "https://open.spotify.com/track/40bSwqRfI4nR1kYLSfFmNz"
@@ -6092,7 +6186,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 186067,
       "name": "Pa Mis Enemigos",
       "url": "https://open.spotify.com/track/40O3MSJLqJDCULnvRM1Rfh"
@@ -6666,7 +6760,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 199531,
       "name": "Por Qu\u00e9 Ser\u00e1?",
       "url": "https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL"
@@ -8189,6 +8283,28 @@
     },
     {
       "album": {
+        "name": "Solita",
+        "url": "https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/6nMkLbrCmDTsSjogHilSEk"
       },
@@ -9272,6 +9388,60 @@
       "duration_ms": 195000,
       "name": "Uva",
       "url": "https://open.spotify.com/track/191erWRt5RwsJBbFMNjRrw"
+    },
+    {
+      "album": {
+        "name": "Vago$ Cypher",
+        "url": "https://open.spotify.com/album/4SroHbQ9MXMJR70IgdUEWA"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Iyhon Secuaz",
+          "url": "https://open.spotify.com/artist/1zgxaHftgbxv06Bftdq7me"
+        },
+        {
+          "name": "Denilson",
+          "url": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Villax",
+          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
+        },
+        {
+          "name": "Primero Company",
+          "url": "https://open.spotify.com/artist/6pu8qjuOYZRBYc1hiHEVL5"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536750,
+      "name": "Vago$ Cypher",
+      "url": "https://open.spotify.com/track/0LAnxV8FtIGa2xoSP8JdKS"
     },
     {
       "album": {

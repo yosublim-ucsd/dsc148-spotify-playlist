@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Barnaba",
+  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Xenia Manasseh",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 195757,
       "name": "Dawa",
       "url": "https://open.spotify.com/track/6FIJbcrsBRPJ6aMD0pK6Gc"
@@ -616,6 +616,24 @@
       "duration_ms": 275487,
       "name": "Katerina",
       "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
+    },
+    {
+      "album": {
+        "name": "Lazizi - Spotify Singles (Cover)",
+        "url": "https://open.spotify.com/album/3sKcmVnqk37Sgsdg9GBfce"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280418,
+      "name": "Lazizi - Spotify Singles - Cover",
+      "url": "https://open.spotify.com/track/4rutxh0KdzzxPNR75CCgJR"
     },
     {
       "album": {
@@ -2160,8 +2178,8 @@
       },
       "artists": [
         {
-          "name": "Ethan Muziki",
-          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
         }
       ],
       "date_added": "2023-07-06",

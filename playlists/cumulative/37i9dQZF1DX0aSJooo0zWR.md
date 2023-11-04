@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-158 songs - 15 hr 10 min
+159 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [I Promise](https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe) | [Ragawerk](https://open.spotify.com/artist/2JOH11zxXs5tmCroqDJgON), [Max Clouth](https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1) | [I Promise](https://open.spotify.com/album/1jfSnPmMMZWWK7BfTlEByQ) | 5:44 | 2022-08-12 |  |
 | [jiriki](https://open.spotify.com/track/63vIR3Bp9BiTuXqUTC64UM) | [Sokoband](https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL) | [Sokoband](https://open.spotify.com/album/5NNkK4LPAccGITR29de0Zv) | 7:46 | 2021-02-12 | 2022-07-29 |
 | [Jiriki](https://open.spotify.com/track/1sNuGiLGslnsJH0OqkTFyQ) | [Sokoband](https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL), [Michael Sokolowski](https://open.spotify.com/artist/2CBMmC4HvGyoyXupTdRuNB), [Houston Ross](https://open.spotify.com/artist/5aplJ2wkOSmrr8ivOkvpGd), [Nir Z](https://open.spotify.com/artist/2qpwI9vixGXXmBQSpRhkgQ), [Steve Kimock](https://open.spotify.com/artist/24FikupxPEJvKoYu4MT92j), [Tim Reynolds](https://open.spotify.com/artist/7rvkQK7ZqO34sKsWEXjz3R) | [Sokoband](https://open.spotify.com/album/4yuh8xTs6GnhTLrjZ99hKb) | 7:46 | 2021-02-12 |  |
+| [Jocelyn \- The Commander \- Live](https://open.spotify.com/track/48NBWissixqpazNPJC1tS2) | [Chick Corea Elektric Band](https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK), [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [The Future Is Now \(Live\)](https://open.spotify.com/album/3wIf4CVGotMt2FoPBgyPTD) | 7:59 | 2023-11-03 |  |
 | [JosHUA!](https://open.spotify.com/track/2EawGMU71NkLKgBMau09qE) | [Tangible Jazz Dreams](https://open.spotify.com/artist/6uFzhLZ9nAOJCSWT0RpFPN) | [Meltdown](https://open.spotify.com/album/5pCN9sKpemavxFuIqV1oXI) | 7:03 | 2022-04-01 |  |
 | [K4Y](https://open.spotify.com/track/6lHAH1CHfFDO2vjahZNqFJ) | [Daniel Weiss](https://open.spotify.com/artist/1C1dIy1LMvY2twCVueCoCP), [Yaniv Taubenhouse](https://open.spotify.com/artist/5EmzSgnKdfQh0wEZ5aiGLo) | [K4Y](https://open.spotify.com/album/705VGnP2jRgbmW1cHKDhcD) | 8:29 | 2021-02-12 |  |
 | [Keisha Billip](https://open.spotify.com/track/0CUs0BnOHeHz5BZGJRlvVY) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Ugh](https://open.spotify.com/album/7iNL3YVUTgEATEd1dU5s1q) | 4:22 | 2021-02-12 | 2023-04-30 |

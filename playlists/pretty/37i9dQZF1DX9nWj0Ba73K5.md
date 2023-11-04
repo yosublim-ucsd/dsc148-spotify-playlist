@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Nicolle Galyon
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,591 likes - 221 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,613 likes - 221 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,7 +213,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 203 | [My Poor Mama](https://open.spotify.com/track/2eDD02w1Nm7nAelUAu1p2v) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [My Poor Mama](https://open.spotify.com/album/72dBMGHSenphYYr0Sv0wUf) | 3:01 |
 | 204 | [Take Your Time](https://open.spotify.com/track/6B9KlXistEsO9vOLLzeSmq) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 4:00 |
 | 205 | [Somethin' In The Water](https://open.spotify.com/track/1NwgDcWmMOMikTwZ60Oh06) | [Jeffrey Steele](https://open.spotify.com/artist/2Znov2bFtJO4sppc5bSa2d) | [Gold\. Platinum\. Chrome And Steele](https://open.spotify.com/album/0PDRvOfhJAm8mEASzCl3Rj) | 3:11 |
-| 206 | [What Whiskey Does \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/6Zz0GUgiyGrN0EUkkHU1JM) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 3:46 |
+| 206 | [What Whiskey Does \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/5YZj3Lb2WUgjlLoXYb2Wq2) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Magnolia](https://open.spotify.com/album/0JNnoUpkLCLzdI9pIfWfQi) | 3:45 |
 | 207 | [Fall in Love](https://open.spotify.com/track/6t9MB1nfbCJnJCXKlfqFVv) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [You Are This Town](https://open.spotify.com/album/6eE2wAfCyYXKWcn14iPp7J) | 2:49 |
 | 208 | [Give It Away](https://open.spotify.com/track/6y921kRVGQUZC1bYWk8Tsp) | [Bill Anderson](https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh) | [Give It Away](https://open.spotify.com/album/2xk2LDAEFBTY684mmSToCj) | 3:19 |
 | 209 | [I Met A Girl \- Acoustic Mixtape](https://open.spotify.com/track/3oBxf3KvflYpaFSR4S3wKv) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Between The Pines \(Acoustic Mixtape\)](https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64) | 2:53 |
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 220 | [Wild Thing](https://open.spotify.com/track/0DS8J8nibBxG6Ky2VhMhH1) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Wild Thing](https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI) | 2:42 |
 | 221 | [Play Ball](https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:27 |
 
-Snapshot ID: `MCw5OGM0MjliMGQ1MmFkNzQyM2MyODc0ODBiMmQzZDQwMjY3NWM0NmMz`
+Snapshot ID: `MCxhOTU2ZmVhNWJhOGQ2YjU0MWQwYzA1MzRkODY1NWYxYWIyNWJlMGM3`

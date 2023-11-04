@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-610 songs - 23 hr 26 min
+611 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,7 +457,8 @@
 | [Requiem](https://open.spotify.com/track/2EIzEw3TdQ30XDSmD3R9bT) | [Sabuze](https://open.spotify.com/artist/2u8F3wXa6IjZM3sVTwQLag) | [Requiem](https://open.spotify.com/album/1HFaXg8WdveqgHIZXEK4Mz) | 1:44 | 2022-12-23 | 2023-05-06 |
 | [REVENGE](https://open.spotify.com/track/0MAZBh1x1lJY3ZnbtecLef) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Leftoz](https://open.spotify.com/artist/0AfUrEBaxct6x60P0UoKtq) | [REVENGE](https://open.spotify.com/album/51P4mQgj2hhFf3MBQYEsRa) | 2:18 | 2021-10-25 | 2022-06-11 |
 | [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 | 2023-03-31 |  |
-| [RITMO BRUTALISMO](https://open.spotify.com/track/4lvjXKs3tzMEKioAOuwENP) | [menace](https://open.spotify.com/artist/3a1A5Xu4hozReZOs8BBA2Z) | [RITMO BRUTALISMO](https://open.spotify.com/album/12PvkN2uTBWOSbDN2XoAMv) | 2:16 | 2023-08-25 |  |
+| [RITMO BRUTALISMO](https://open.spotify.com/track/1t4IkwFNnHC2spsIuPK9kQ) | [menace](https://open.spotify.com/artist/3a1A5Xu4hozReZOs8BBA2Z) | [RITMO BRUTALISMO](https://open.spotify.com/album/0T9ipIDY0vEOqWPCsFLt4e) | 2:16 | 2023-08-25 |  |
+| [RITMO BRUTALISMO](https://open.spotify.com/track/4lvjXKs3tzMEKioAOuwENP) | [menace](https://open.spotify.com/artist/3a1A5Xu4hozReZOs8BBA2Z) | [RITMO BRUTALISMO](https://open.spotify.com/album/12PvkN2uTBWOSbDN2XoAMv) | 2:16 | 2023-08-25 | 2023-11-04 |
 | [RITMO BRUTALISMO](https://open.spotify.com/track/2aufkp1EfbW2OAFEOgIfsU) | [Xllie!](https://open.spotify.com/artist/71q5DhoPQTmQ8JpwKOp1FZ) | [RITMO BRUTALISMO](https://open.spotify.com/album/7zUwTOB9AiMIj3bjElGJdZ) | 2:16 | 2023-08-25 | 2023-10-21 |
 | [RITMO BRUTALISMO](https://open.spotify.com/track/5iPWVa2YCsEyGDPlnYtN7H) | [Xllie!](https://open.spotify.com/artist/71q5DhoPQTmQ8JpwKOp1FZ) | [RITMO BRUTALISMO](https://open.spotify.com/album/0cqTIJzzTPD9d7hnt9qx5a) | 2:16 | 2023-08-25 | 2023-11-01 |
 | [Ritmo Brutalismo](https://open.spotify.com/track/24f8BIfC3iOpKXiOlhrmQK) | [Xllie!](https://open.spotify.com/artist/71q5DhoPQTmQ8JpwKOp1FZ) | [Ritmo Brutalismo](https://open.spotify.com/album/5TLSRYcgV2yXIvbRVRmoNS) | 2:16 | 2023-08-25 | 2023-10-29 |

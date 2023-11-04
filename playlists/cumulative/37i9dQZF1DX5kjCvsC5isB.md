@@ -4,7 +4,7 @@
 
 > These women are on the rise and are rocking our worlds right now / Cover: Poppy
 
-380 songs - 19 hr 38 min
+381 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Broke](https://open.spotify.com/track/1cKjV72eIpWMaHu9jnyICW) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [Broke / Bad Attitude](https://open.spotify.com/album/6meq9quWibIOilhwjfOQ5A) | 3:12 | 2021-09-24 | 2022-03-12 |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2021-07-30 | 2023-06-10 |
 | [Can You Feel My Heart \(Mothica Version\)](https://open.spotify.com/track/4PoTKtefWp8pGfiORslXxF) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Can You Feel My Heart \(Mothica Version\)](https://open.spotify.com/album/6PKHmeUIYKkNNQ6D14gqgq) | 2:21 | 2021-07-30 | 2022-08-20 |
-| [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-04-01 |  |
+| [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-04-01 | 2023-11-04 |
+| [CASUALTY](https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN) | 2:38 | 2023-07-28 |  |
 | [Charmer And The Snake](https://open.spotify.com/track/0VnKOTCpqOzTG8BXkiyQEe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:49 | 2022-06-24 | 2023-06-10 |
 | [Charmer And The Snake](https://open.spotify.com/track/5O3dlIeP3rpdO7x0QydQab) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Charmer And The Snake](https://open.spotify.com/album/2XSEjXIfvdoJqmHoyPICPK) | 2:49 | 2021-07-30 | 2022-07-29 |
 | [Cherry Picking](https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Cherry Picking](https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8) | 2:30 | 2022-03-04 |  |

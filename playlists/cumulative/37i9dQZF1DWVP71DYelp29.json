@@ -998,6 +998,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/67heSgreFffe8zNCXhTAII"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209490,
+      "name": "Drama (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/0O5M9CwSpYH0SfqGuwP9kO"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4ofNmOMGoL3sp1e2Ey8vBe"
       },
       "artists": [
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 209490,
       "name": "Drama - Live from Spotify",
       "url": "https://open.spotify.com/track/0TRN3A7jUi9F72HvZBqg3G"
@@ -3559,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/5Z9d9Ahszcra0XWI7WZeL9"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240224,
+      "name": "Wide Open Spaces",
+      "url": "https://open.spotify.com/track/6ks9FWHuzpSQkDdGo2Jqgu"
+    },
+    {
+      "album": {
         "name": "Wide Open Spaces - Spotify Singles",
         "url": "https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t"
       },
@@ -3570,7 +3606,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 240224,
       "name": "Wide Open Spaces - Spotify Singles",
       "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"

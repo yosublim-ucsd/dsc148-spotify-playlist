@@ -4,7 +4,7 @@
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-93 songs - 5 hr 31 min
+95 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 | 2021-12-03 |  |
 | [Guajira guantanamera \- Remasterizado](https://open.spotify.com/track/5shBL8dU0l3bfZvHrx1rQu) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Guantanamera \- The Essential Album](https://open.spotify.com/album/4W6m2GSdqjaJET161icuDU) | 5:11 | 2021-08-26 |  |
 | [Harlem Shuffle](https://open.spotify.com/track/43pmIYPHMSKBLyMNoPLyRm) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 3:10 | 2021-08-26 | 2022-07-29 |
-| [Harlem Shuffle \- Alternate Take](https://open.spotify.com/track/76t1Pd4pn3zwtWN8fD1zBy) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 3:08 | 2021-08-26 |  |
+| [Harlem Shuffle \(Alternate Take\)](https://open.spotify.com/track/6kDtGFy10W0ydXtCJPrths) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Baby Now That I've Found You](https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE) | 3:10 | 2021-08-26 |  |
+| [Harlem Shuffle \- Alternate Take](https://open.spotify.com/track/76t1Pd4pn3zwtWN8fD1zBy) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 3:08 | 2021-08-26 | 2023-11-04 |
 | [Harlem Shuffle \- Alternate Take](https://open.spotify.com/track/70vXeeOrNlWzjbNFeaIcTh) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup \(The Complete Pye Collection\)](https://open.spotify.com/album/5fqElBMRGh9rPIdgl2sEDv) | 3:10 | 2021-08-26 | 2022-11-13 |
 | [Haunted House](https://open.spotify.com/track/41vUuxf0KFlUdTfyehVjoN) | [The Madcaps](https://open.spotify.com/artist/3Vs1e8KVCqgQHUJcqxtgQu) | [The Madcaps](https://open.spotify.com/album/4bTWZIBD2mHlevApcjuiWU) | 2:39 | 2021-08-26 | 2022-07-29 |
 | [Haunted House](https://open.spotify.com/track/53atpU3OjniShIbBgDJ84m) | [The Madcaps](https://open.spotify.com/artist/3Vs1e8KVCqgQHUJcqxtgQu) | [The Madcaps](https://open.spotify.com/album/3SGYGOrFSMfZIoOraBufwg) | 2:39 | 2021-08-26 |  |
@@ -66,7 +67,8 @@
 | [Loud and Clear](https://open.spotify.com/track/3f3q3ywCx7cU0W9FaxIsgY) | [Bob Bradley](https://open.spotify.com/artist/3aSi27q0US6Cr2gysxeRkL), [Matt Sanchez](https://open.spotify.com/artist/2yqtLsOODLccKUK4vlecT2), [Steve Dymond](https://open.spotify.com/artist/375326xwKvi6S7jTGZLz2S) | [The Lie Detective \(Music from the Original TV Series\)](https://open.spotify.com/album/4Mk6Uiamchf9TeCIfjVrfe) | 2:02 | 2021-08-26 |  |
 | [Magnetic Hurricane](https://open.spotify.com/track/2H1VKoFzet2cWylWNvrJaw) | [Emmanuel David Lipszyc](https://open.spotify.com/artist/0xH5PprEyVDsTXU1tCN5ga), [Klas Johan Wahl](https://open.spotify.com/artist/74PUwAcMdO3wVdx10gmdB5), [Sébastien Lipszyc](https://open.spotify.com/artist/4TKLeyMsrfRvCFclPyplao) | [Electronic Blockbusters](https://open.spotify.com/album/1oaM3AzQjkJxexuKEW8yGo) | 2:45 | 2021-08-26 |  |
 | [Magnetic Hurricane](https://open.spotify.com/track/6y3uI07vKeKWNeH0pEdT8Y) | [Emmanuel Lipszyc](https://open.spotify.com/artist/6NFVo3Jl2VgKMqnc78ECsD), [Sébastien Lipszyc](https://open.spotify.com/artist/4TKLeyMsrfRvCFclPyplao), [Klas Johan Wahl](https://open.spotify.com/artist/74PUwAcMdO3wVdx10gmdB5) | [Electronic Blockbusters](https://open.spotify.com/album/35jSyK4RTebQa0IRVjXMNn) | 2:45 | 2021-08-26 | 2022-07-29 |
-| [Maskenfreiheit](https://open.spotify.com/track/0EeTWwqWaHQbtENvvlYP60) | [Belako](https://open.spotify.com/artist/7znL32O79uRRRhojT25gug) | [Render Me Numb, Trivial Violence](https://open.spotify.com/album/7yWIwU3osgvIKa3dJcgrmE) | 3:00 | 2021-08-26 |  |
+| [Maskenfreiheit](https://open.spotify.com/track/0EeTWwqWaHQbtENvvlYP60) | [Belako](https://open.spotify.com/artist/7znL32O79uRRRhojT25gug) | [Render Me Numb, Trivial Violence](https://open.spotify.com/album/7yWIwU3osgvIKa3dJcgrmE) | 3:00 | 2021-08-26 | 2023-11-04 |
+| [Maskenfreiheit](https://open.spotify.com/track/0U6DDIna03AaXc35Djhjgi) | [Belako](https://open.spotify.com/artist/7znL32O79uRRRhojT25gug) | [Render Me Numb, Trivial Violence](https://open.spotify.com/album/26MeZzexBTmsfmge60gYe3) | 3:00 | 2021-08-26 |  |
 | [Maskenfreiheit](https://open.spotify.com/track/5kt1RIPNkxzCnNKRl80mjE) | [Belako](https://open.spotify.com/artist/7znL32O79uRRRhojT25gug) | [Render Me Numb, Trivial Violence](https://open.spotify.com/album/4m75wo5rI2LoJiFGTbCb9r) | 3:00 | 2021-08-26 | 2022-07-29 |
 | [Misma Sangre](https://open.spotify.com/track/3jmUXb0VFgo4LvmjFADvMp) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Misma Sangre](https://open.spotify.com/album/4bVW8SE7FKXoEktQlLF35Z) | 2:33 | 2021-12-09 |  |
 | [My Life Is Going On \- Música Original De La Serie De TV La Casa De Papel / Money Heist](https://open.spotify.com/track/5ZEQjTroORCu6uWvZrdeNc) | [Cecilia Krull](https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8) | [My Life Is Going On \(Música Original De La Serie De TV La Casa De Papel / Money Heist\)](https://open.spotify.com/album/3Q4MvKGORSPdwa0OWLWXOA) | 3:34 | 2021-08-26 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 61126,
+  "num_followers": 61153,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWE3M2EyZjcxMzAwYzE4ODhmMDYyNWY2NDg4ZWI3Y2YwOWZlMWZj",
+  "snapshot_id": "MCw2NWJiMDc3ZDY4YjY1NmQzMjZmMTUwYWNlY2YwOTJjNWQ0YTFkMjg0",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Aw'at (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6pQPztLyEyAIPZEzIzOzs1"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 185345,
-      "name": "Aw'at (Acoustic Version)",
-      "url": "https://open.spotify.com/track/0v034Wtk8VdmetOJGMAVZV"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
         "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 232048,
       "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
       "url": "https://open.spotify.com/track/73JzEqIY2tKAkbZB63rrbG"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Aw'at (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6pQPztLyEyAIPZEzIzOzs1"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 185345,
+      "name": "Aw'at (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0v034Wtk8VdmetOJGMAVZV"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Between City Walls",
-        "url": "https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0"
-      },
-      "artists": [
-        {
-          "name": "Maysa Daw",
-          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
-        }
-      ],
-      "duration_ms": 221043,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Fuqaati (My Bubble)",
         "url": "https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 268502,
       "name": "Fuqaati (My Bubble)",
       "url": "https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Between City Walls",
+        "url": "https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0"
+      },
+      "artists": [
+        {
+          "name": "Maysa Daw",
+          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
+        }
+      ],
+      "duration_ms": 221043,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Matalib - COLORS Sudan",
-        "url": "https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk"
-      },
-      "artists": [
-        {
-          "name": "Sammany",
-          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Matalib - COLORS Sudan",
-      "url": "https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Baby Baby (Acoustic Version)",
         "url": "https://open.spotify.com/album/0LriuhHAoi1kknfbUrAq82"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 160000,
       "name": "Baby Baby - Acoustic Version",
       "url": "https://open.spotify.com/track/3s7QTPgwtWfrOXraMAF3cO"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Matalib - COLORS Sudan",
+        "url": "https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk"
+      },
+      "artists": [
+        {
+          "name": "Sammany",
+          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Matalib - COLORS Sudan",
+      "url": "https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "W3od",
-        "url": "https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq"
-      },
-      "artists": [
-        {
-          "name": "MoJaNaD",
-          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "W3od",
-      "url": "https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "\u0645\u0641\u0631\u0642 48 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/03J6HvXUohmOkWMmxFM05S"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 164595,
       "name": "\u062a\u0639\u0627\u0644 \u0645\u0639\u064a",
       "url": "https://open.spotify.com/track/7c47NwOZisO6IEmdfFN4Qv"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "W3od",
+        "url": "https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq"
+      },
+      "artists": [
+        {
+          "name": "MoJaNaD",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "W3od",
+      "url": "https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Oumniya",
-        "url": "https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb"
-      },
-      "artists": [
-        {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
-        }
-      ],
-      "duration_ms": 264506,
-      "name": "Salam",
-      "url": "https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "3arousit Bkeseen",
         "url": "https://open.spotify.com/album/1nYSZVRS5Pz1Fb6cgO1ne8"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 182189,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/4RlXofPu1zxJppCftikBxm"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Oumniya",
+        "url": "https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "duration_ms": 264506,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr"
     },
     {
       "added_at": "2022-05-09 08:05:11",

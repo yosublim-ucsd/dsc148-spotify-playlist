@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 423497,
       "name": "Baby Quantum",
       "url": "https://open.spotify.com/track/7lVofuZ4940i13EJnNrSTo"
@@ -3461,6 +3461,36 @@
     },
     {
       "album": {
+        "name": "Bayabuza (feat. Kabza De Small & SLY)",
+        "url": "https://open.spotify.com/album/0WPYXV1hYVR8QZqt5zh4Es"
+      },
+      "artists": [
+        {
+          "name": "Pervader",
+          "url": "https://open.spotify.com/artist/5RdDDjtLWX9sD7i6Mn4630"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Sly",
+          "url": "https://open.spotify.com/artist/77o0pvX2EnC66Zw0nqsJmA"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235927,
+      "name": "Bayabuza (feat. Kabza De Small & SLY)",
+      "url": "https://open.spotify.com/track/4bGchDCvyaxmRChfyph3Ix"
+    },
+    {
+      "album": {
         "name": "Bayangzonda",
         "url": "https://open.spotify.com/album/5dSWt7tKQ8pjeuv56unqNR"
       },
@@ -3870,7 +3900,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 385800,
       "name": "Bhebha 2.0",
       "url": "https://open.spotify.com/track/56V2lvh4aYSEF7hyCcd5F6"
@@ -4742,7 +4772,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 334285,
       "name": "Change Process - Ghetto Fabulous Refreshed",
       "url": "https://open.spotify.com/track/4SlHGrJ8vLxNpNW9EubDoL"
@@ -9250,12 +9280,8 @@
       },
       "artists": [
         {
-          "name": "Shaunmusiq",
-          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
-        },
-        {
-          "name": "Ftears",
-          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+          "name": "ShaunMusiq & Ftears",
+          "url": "https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd"
         },
         {
           "name": "Daliwonga",
@@ -11048,6 +11074,32 @@
       "duration_ms": 413571,
       "name": "iPiano (feat. Felo Le Tee)",
       "url": "https://open.spotify.com/track/7sOiyeWekZxPnb4JKcQoxU"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/1OUQQ2hf0JqjUIhRCm8igZ"
+      },
+      "artists": [
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        },
+        {
+          "name": "Vaal Nation",
+          "url": "https://open.spotify.com/artist/4SEAtCDp17mFVg7esfkUiW"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237876,
+      "name": "IPlan (feat. Sir Trill & Vaal Nation)",
+      "url": "https://open.spotify.com/track/2gdCwVAIt3aX6WKmtTVmL4"
     },
     {
       "album": {
@@ -13517,7 +13569,7 @@
     },
     {
       "album": {
-        "name": "Kunkra (feat. Xduppy, Shaunmusiq & Ftears)",
+        "name": "Kunkra (feat. Xduppy & ShaunMusiq & Ftears)",
         "url": "https://open.spotify.com/album/0AozNkkvkSSJUREAAJAv6I"
       },
       "artists": [
@@ -13534,19 +13586,15 @@
           "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
         },
         {
-          "name": "Shaunmusiq",
-          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
-        },
-        {
-          "name": "Ftears",
-          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+          "name": "ShaunMusiq & Ftears",
+          "url": "https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd"
         }
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 317176,
-      "name": "Kunkra (feat. Xduppy, Shaunmusiq & Ftears)",
+      "name": "Kunkra (feat. Xduppy & ShaunMusiq & Ftears)",
       "url": "https://open.spotify.com/track/3js04Z5R4L1ZvtLPopSG8l"
     },
     {
@@ -24382,7 +24430,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 479290,
       "name": "The Game (Amapiano Bootleg)",
       "url": "https://open.spotify.com/track/2C25ZeenileLHXXSS9WZvT"
@@ -25894,6 +25942,40 @@
       "duration_ms": 384992,
       "name": "Ubuya Nini",
       "url": "https://open.spotify.com/track/4il8oV1l6jOXYXJ13B0rNg"
+    },
+    {
+      "album": {
+        "name": "Ubuye",
+        "url": "https://open.spotify.com/album/6XCHfhX6ZSsOvzhW92cf6n"
+      },
+      "artists": [
+        {
+          "name": "Soa Family",
+          "url": "https://open.spotify.com/artist/5G4K3KXOIFeKp5qMJSGrka"
+        },
+        {
+          "name": "Frank Mabeat",
+          "url": "https://open.spotify.com/artist/6UMibn1aMdn9ZYFwgycomA"
+        },
+        {
+          "name": "Soa Mattrix",
+          "url": "https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro"
+        },
+        {
+          "name": "B33Kay SA",
+          "url": "https://open.spotify.com/artist/3JnGUDpLOhd0VXPUSv6j1R"
+        },
+        {
+          "name": "Cnethemba Gonelo",
+          "url": "https://open.spotify.com/artist/7sLmMT6etbYy4ypf5pVxwg"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364445,
+      "name": "Ubuye",
+      "url": "https://open.spotify.com/track/3umrhEqBQWwkK4mB4DFkge"
     },
     {
       "album": {
@@ -29064,7 +29146,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 188571,
       "name": "Yebo Baba (feat. Madumane, Mellow & Sleazy, Uncool MC, Ricky Lenyora & Sir Trill)",
       "url": "https://open.spotify.com/track/2RFF88OSVsyonQSUncKfDj"

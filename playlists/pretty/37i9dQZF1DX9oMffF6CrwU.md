@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,102 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,211 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 | 14 | [Everybody Walkin' This Land](https://open.spotify.com/track/7LXLgoroFNCQQpMQt0tMA7) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Everybody Walkin' This Land](https://open.spotify.com/album/4JkTiX8mi8aEkAg8Pmal3c) | 3:06 |
 | 15 | [The Gift of the Rose \(from the Netflix Series "Devil In Ohio"\)](https://open.spotify.com/track/5QS2WK90AEed7xEu0sDNSl) | [Isabella Summers](https://open.spotify.com/artist/3lXo0AHcUyMiTt1VCtXJmj), [Elise McQueen](https://open.spotify.com/artist/5EMZRBtkW7gdgNubSlJVXI) | [Devil in Ohio \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Gol9mxUCltXsbjADNh4U1) | 2:38 |
 | 16 | [Ain't No Grave](https://open.spotify.com/track/4H4B97UMURWsNybgJWhQBo) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:21 |
-| 17 | [Built on Bones](https://open.spotify.com/track/1lpUCvji6ZrKCYCqWhwxdK) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM), [Alisa Amador](https://open.spotify.com/artist/1YwCwHqQN5Q7g5e00Hbg4t), [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Built on Bones](https://open.spotify.com/album/4DVKihWDy1EqFxUVXTu7EP) | 4:29 |
+| 17 | [Built on Bones](https://open.spotify.com/track/2DWtUDZiihXBBAj7t8LGld) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM), [Alisa Amador](https://open.spotify.com/artist/1YwCwHqQN5Q7g5e00Hbg4t), [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Built on Bones](https://open.spotify.com/album/532Xfkrd2k7xL8WRB7n74M) | 4:29 |
 | 18 | [Danger and Dread](https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [The Devil Dancing](https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou) | 3:46 |
 | 19 | [Whistlin' Past The Graveyard](https://open.spotify.com/track/43dz5W2FnvUIzA84hFEPkZ) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Blue Valentine \(Remastered\)](https://open.spotify.com/album/2fgQN85UzwZMRIBTs06FjX) | 3:17 |
 | 20 | [Graves](https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B) | [Whiskey Shivers](https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH) | [Whiskey Shivers](https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 | 79 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 |
 | 80 | [Bad Magic](https://open.spotify.com/track/7mSVXtwJgJSZ84cJSGleQX) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [The Innocents](https://open.spotify.com/album/3EquxHnYp0P86vS259xd0h) | 5:54 |
 
-Snapshot ID: `MCw0NTEzZGNiZGY3ZGRhNWY5OWU2MzBhYjhmNDc3Y2NlYWEyMDZhYWJk`
+Snapshot ID: `MCw4Y2E0ZjZmODVmZjQ3MWRmOWRlMzMxNGM5MWQ3MjI2NDkxODU2OTEz`

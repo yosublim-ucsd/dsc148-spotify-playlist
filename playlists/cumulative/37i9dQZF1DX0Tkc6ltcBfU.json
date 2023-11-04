@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the south. Cover: Offset",
+  "description": "The hottest out the south. Cover: Lil Wayne & 2 Chainz",
   "name": "No Cap",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 100169,
       "name": "2 Name",
       "url": "https://open.spotify.com/track/24CM98kAG2vgb0gYB58oso"
+    },
+    {
+      "album": {
+        "name": "2'CY",
+        "url": "https://open.spotify.com/album/1OeImrfH0v0zDItzvbov9y"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179141,
+      "name": "2'CY",
+      "url": "https://open.spotify.com/track/3R0SI46gC5a9BfFKXtbtSo"
     },
     {
       "album": {
@@ -973,6 +991,28 @@
     },
     {
       "album": {
+        "name": "Asteroids",
+        "url": "https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155179,
+      "name": "Asteroids",
+      "url": "https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5"
+    },
+    {
+      "album": {
         "name": "Awready",
         "url": "https://open.spotify.com/album/3QfIpWyod9hiAsYFYXA9qt"
       },
@@ -1058,6 +1098,28 @@
       "duration_ms": 228278,
       "name": "Baby Wyd (Remix) (feat. Latto & Lakeyah)",
       "url": "https://open.spotify.com/track/68YgD0MGp48v30D54WtRWR"
+    },
+    {
+      "album": {
+        "name": "Bachelor",
+        "url": "https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk"
+      },
+      "artists": [
+        {
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241533,
+      "name": "Bachelor",
+      "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
     },
     {
       "album": {
@@ -3026,7 +3088,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 112941,
       "name": "Check Me",
       "url": "https://open.spotify.com/track/62QMGHCDxMsyFAwAKuf4ML"
@@ -3204,6 +3266,24 @@
       "duration_ms": 288000,
       "name": "Closure",
       "url": "https://open.spotify.com/track/0X5lj4BaAPT5TZPp9Qd5DB"
+    },
+    {
+      "album": {
+        "name": "Cobra",
+        "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168932,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
     },
     {
       "album": {
@@ -4258,7 +4338,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 162461,
       "name": "DO NOT DISTURB",
       "url": "https://open.spotify.com/track/06pDFA1R4GHG9DbzshvbA3"
@@ -4469,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "EXTRA",
+        "url": "https://open.spotify.com/album/4LGQZ0SlcfHMzr9jZ1USp2"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133475,
+      "name": "DROP TOP",
+      "url": "https://open.spotify.com/track/5LF0f602GWSAxZfmwRvUUI"
+    },
+    {
+      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -4520,7 +4618,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 191964,
       "name": "Eaze Your Mind",
       "url": "https://open.spotify.com/track/3VOCdjPijYY314lUgl4EHL"
@@ -5202,7 +5300,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 106666,
       "name": "First Day Out",
       "url": "https://open.spotify.com/track/4ugBcRZrdGnCQZ10uDCHVN"
@@ -6016,7 +6114,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 129160,
       "name": "Gangsta Lean",
       "url": "https://open.spotify.com/track/0EFY0o5DqcD8n7JKDtfgf9"
@@ -6612,6 +6710,24 @@
       "duration_ms": 174545,
       "name": "Gunsmoke Town",
       "url": "https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI"
+    },
+    {
+      "album": {
+        "name": "5TH AMNDMNT",
+        "url": "https://open.spotify.com/album/5IJAhCl93xn2Ybqk8OGm6n"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142941,
+      "name": "Gunz in SOHO",
+      "url": "https://open.spotify.com/track/3mNw70F0wDJXItFYEoQ56L"
     },
     {
       "album": {
@@ -8392,7 +8508,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 192000,
       "name": "Johnny Dang (with Paul Wall & DRODi)",
       "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
@@ -9192,6 +9308,32 @@
       "duration_ms": 239303,
       "name": "Law & Order pt. 2",
       "url": "https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF"
+    },
+    {
+      "album": {
+        "name": "Leave Her Alone",
+        "url": "https://open.spotify.com/album/5z1zNcgq8vRZXDQYAhRxDL"
+      },
+      "artists": [
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147300,
+      "name": "Leave Her Alone",
+      "url": "https://open.spotify.com/track/6Ckxadd19A2tjI2sjwWo1v"
     },
     {
       "album": {
@@ -10026,7 +10168,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 174250,
       "name": "Mama (with Skilla Baby & Tay B)",
       "url": "https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF"
@@ -10933,6 +11075,28 @@
     },
     {
       "album": {
+        "name": "Chosen 1K",
+        "url": "https://open.spotify.com/album/2MZMbxoGvgp5cQjPXcQZYZ"
+      },
+      "artists": [
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        },
+        {
+          "name": "Sett",
+          "url": "https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135211,
+      "name": "Ndrangheta (feat. Sett)",
+      "url": "https://open.spotify.com/track/2fYtSj7kqxS4pXZPNH0uD5"
+    },
+    {
+      "album": {
         "name": "Neck of the Woods",
         "url": "https://open.spotify.com/album/3VioKoXwbiYOICFLrGitKI"
       },
@@ -11185,6 +11349,24 @@
     },
     {
       "album": {
+        "name": "I Might Forgive",
+        "url": "https://open.spotify.com/album/2yyRMwPow8Fc35oSJSsDPU"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186502,
+      "name": "No Complaining",
+      "url": "https://open.spotify.com/track/06RXYYPfPRnwfwAPsk11Zf"
+    },
+    {
+      "album": {
         "name": "Trick City (Deluxe)",
         "url": "https://open.spotify.com/album/0s9ht3evRG374jM3oBzQua"
       },
@@ -11214,7 +11396,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 168185,
       "name": "No Dissin",
       "url": "https://open.spotify.com/track/02uL6BAXoxMOjVjGdKMJyR"
@@ -12656,7 +12838,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
@@ -13556,6 +13738,28 @@
       "duration_ms": 195528,
       "name": "Real As It Gets",
       "url": "https://open.spotify.com/track/2tiRmNWhtWKmnzaoYBYJSs"
+    },
+    {
+      "album": {
+        "name": "Real Drip",
+        "url": "https://open.spotify.com/album/22pQewW5HSrRxfIf3cNUr7"
+      },
+      "artists": [
+        {
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188512,
+      "name": "Real Drip",
+      "url": "https://open.spotify.com/track/3fwIVLw8KgouF6hZbAtVTq"
     },
     {
       "album": {
@@ -15034,7 +15238,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 149333,
       "name": "SOLO STEPPIN CRETE BOY",
       "url": "https://open.spotify.com/track/7CIvyuVoWcY0LgUYa1aR5J"
@@ -15150,7 +15354,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 200753,
       "name": "Special Bullets",
       "url": "https://open.spotify.com/track/5vL9fTDxOGPB0RIyu2QrcZ"
@@ -17787,6 +17991,28 @@
     },
     {
       "album": {
+        "name": "Dolores Son",
+        "url": "https://open.spotify.com/album/1p2CnApRTL7woyWzBtWypP"
+      },
+      "artists": [
+        {
+          "name": "Sonny Digital",
+          "url": "https://open.spotify.com/artist/655963AgkTZeYUvCyodCIL"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129899,
+      "name": "WAKENBAKE (feat. Juicy J)",
+      "url": "https://open.spotify.com/track/6CkID5kC2e8JYd5zp73m1E"
+    },
+    {
+      "album": {
         "name": "Walk/Spin",
         "url": "https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT"
       },
@@ -18144,7 +18370,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 158412,
       "name": "Whatchamacallit (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/2MjhK44oBBWTwCEyKGFny3"
@@ -18972,6 +19198,24 @@
       "duration_ms": 177495,
       "name": "You Gon Hurt Me",
       "url": "https://open.spotify.com/track/4HQbVwocOhSsNeSEBArinQ"
+    },
+    {
+      "album": {
+        "name": "Young & Free",
+        "url": "https://open.spotify.com/album/0UeyTVnph7j8kYLCJMcYai"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182150,
+      "name": "Young & Free",
+      "url": "https://open.spotify.com/track/6fAykULmAdoUNqIorQZAVs"
     },
     {
       "album": {

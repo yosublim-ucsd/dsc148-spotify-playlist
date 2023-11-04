@@ -4,13 +4,13 @@
 
 > Digging deep into the history of 10s pop: Cover: Ariana Grande.
 
-716 songs - 1 day 18 hr 45 min
+717 songs - 1 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Nights](https://open.spotify.com/track/2mb32CDk3XusDc87vjeAoG) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Truce \- EP](https://open.spotify.com/album/5qeKpDQFyotJjLh61pUZQo) | 4:00 | 2021-08-10 |  |
 | [11 Blocks](https://open.spotify.com/track/7nZBRPj89rgeZ5eBLp2J7P) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [11 Blocks](https://open.spotify.com/album/57rHDJLhLfj9IrMxzaj8UX) | 3:42 | 2021-08-10 |  |
-| [90's Honey](https://open.spotify.com/track/4ygDeLod53IBCO4RnKREIj) | [Sophomore](https://open.spotify.com/artist/4uAFBCjJVGXAlRRE74ITal) | [90's Honey](https://open.spotify.com/album/0dOalXvwV3CJhIxc2C5OgD) | 3:12 | 2022-02-10 | 2023-10-25 |
+| [90's Honey](https://open.spotify.com/track/4ygDeLod53IBCO4RnKREIj) | [Sophomore](https://open.spotify.com/artist/4uAFBCjJVGXAlRRE74ITal) | [90's Honey](https://open.spotify.com/album/0dOalXvwV3CJhIxc2C5OgD) | 3:12 | 2022-02-10 |  |
 | [A Different Way](https://open.spotify.com/track/6LvdozquoSOWcBMfvrtwpV) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Euphoric Pop](https://open.spotify.com/album/5EmsjkHHj0hffC1dm1BFiQ) | 3:18 | 2022-05-11 | 2022-11-14 |
 | [A Different Way \(with Lauv\)](https://open.spotify.com/track/0Wv5wuenRLI3BcwgT3HPIP) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [A Different Way \(with Lauv\)](https://open.spotify.com/album/4urwuJbStO1K5ph63U7AZv) | 3:18 | 2021-08-10 | 2022-07-29 |
 | [A Different Way \(with Lauv\)](https://open.spotify.com/track/1YMBg7rOjxzbya0fPOYfNX) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [A Different Way \(with Lauv\)](https://open.spotify.com/album/4PSoaA9rxBDYfrROdI17b9) | 3:18 | 2022-05-11 |  |
@@ -283,7 +283,8 @@
 | [Home](https://open.spotify.com/track/0BVUA3FXqQLvZb7r4T22NJ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5) | 4:28 | 2022-05-11 |  |
 | [Home](https://open.spotify.com/track/6kj2eBA1uHUrv977D84Xra) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/28eq2IhCisTvOj8m2aoXpc) | 4:28 | 2021-08-10 | 2022-07-29 |
 | [Honey](https://open.spotify.com/track/3olYZQTYOLYNImERBnZZqm) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk) | 4:54 | 2021-08-10 |  |
-| [Honey, I'm Good.](https://open.spotify.com/track/4MflGTO2ZTcSQ12bWcyRgI) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magazines Or Novels](https://open.spotify.com/album/0XUNG1cssmwHh22loRqKdJ) | 3:19 | 2021-08-10 |  |
+| [Honey, I'm Good.](https://open.spotify.com/track/4MflGTO2ZTcSQ12bWcyRgI) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magazines Or Novels](https://open.spotify.com/album/0XUNG1cssmwHh22loRqKdJ) | 3:19 | 2021-08-10 | 2023-11-04 |
+| [Honey, I'm Good.](https://open.spotify.com/track/4Tt6GiWS2V9sQjZjS2xjp2) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magazines Or Novels](https://open.spotify.com/album/7AGnFKaeMdOgRFazLNyBps) | 3:19 | 2022-11-29 |  |
 | [Honeymoon Avenue](https://open.spotify.com/track/5SmXEPnevlRjBPWBG7oKIi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 5:39 | 2023-08-30 |  |
 | [Hoodie](https://open.spotify.com/track/410smJMzhna1ADC2ldqVHu) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:39 | 2021-08-10 |  |
 | [Hotel](https://open.spotify.com/track/1z4OnhqV4ad4FEcAwV21Fy) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Hotel \- EP](https://open.spotify.com/album/5TieoUBxMIxeUyR3ZSnPkF) | 3:47 | 2021-08-10 |  |
@@ -341,7 +342,7 @@
 | [Keeping Your Head Up](https://open.spotify.com/track/6lyjWvSUgYtX26zfrQ6gn8) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Beautiful Lies](https://open.spotify.com/album/5wNnopxjgSKVvHTIcBpV8Q) | 3:28 | 2022-05-11 |  |
 | [Kiss You](https://open.spotify.com/track/4My8w8AA1JpG6E5SiAPvJL) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:02 | 2022-05-11 |  |
 | [Kiss You](https://open.spotify.com/track/0AkQbXGN4KG34TS7xLrM68) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home: Yearbook Edition](https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF) | 3:02 | 2021-08-10 | 2022-07-29 |
-| [Lady \(feat\. Pitbull\)](https://open.spotify.com/track/32FNQjaLvPJYCqRwDDxMu6) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [For Me + You](https://open.spotify.com/album/7nKNy4dxqjtlMKCeFzwJvm) | 3:31 | 2022-05-11 |  |
+| [Lady \(feat\. Pitbull\)](https://open.spotify.com/track/32FNQjaLvPJYCqRwDDxMu6) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [For Me + You](https://open.spotify.com/album/7nKNy4dxqjtlMKCeFzwJvm) | 3:31 | 2022-05-11 | 2023-11-04 |
 | [Lady \(feat\. Pitbull\)](https://open.spotify.com/track/48nmKZkd67ATPI8ROOJhkK) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [For Me+You](https://open.spotify.com/album/0PMO0t7hroaEi9A6SX15qZ) | 3:31 | 2021-08-10 | 2022-07-29 |
 | [Last Dance](https://open.spotify.com/track/0cbQXCWA8A17cZ9gm158Pz) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Last Dance](https://open.spotify.com/album/6TSkCNB8OQwbfSg12ewJAR) | 3:25 | 2021-08-10 |  |
 | [Last Hurrah](https://open.spotify.com/track/0i0wnv9UoFdZ5MfuFGQzMy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Last Hurrah](https://open.spotify.com/album/5ljc69MQ6iwGcJ4SmHaAh5) | 2:30 | 2021-08-10 |  |

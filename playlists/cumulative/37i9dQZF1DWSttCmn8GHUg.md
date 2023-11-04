@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-141 songs - 8 hr 31 min
+144 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [American by Birth](https://open.spotify.com/track/5TGg3uFXsVvsEJwAOCCXFw) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Heroes](https://open.spotify.com/album/6hMgnweGhql8JcZ85nq0Mb) | 2:32 | 2021-11-12 | 2022-04-04 |
 | [American Child](https://open.spotify.com/track/4e5YuvuzIgS8ZrAWpFrvOx) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [American Child](https://open.spotify.com/album/7a7o3iMmU7MtDJfJ3wZkOt) | 3:13 | 2021-11-12 | 2022-04-04 |
 | [American Country Love Song](https://open.spotify.com/track/0O1x2tRm8ZpfDbcpOWZp7z) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [American Love](https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW) | 3:19 | 2021-11-12 |  |
-| [American Heartbreaker](https://open.spotify.com/track/2pHwPZhKl75eC8JVfbT7de) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 2:48 | 2021-11-12 |  |
+| [American Heartbreaker](https://open.spotify.com/track/2pHwPZhKl75eC8JVfbT7de) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 2:48 | 2021-11-12 | 2023-11-04 |
+| [American Heartbreaker](https://open.spotify.com/track/6Tkgsv5ONibvcwtCA0YrCf) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/4brZz1xyqMDQJ1pIvldtrC) | 2:48 | 2023-08-21 |  |
 | [American Honey](https://open.spotify.com/track/0KZ7a5L9Q9aBLAINBgDsWq) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 3:44 | 2021-11-12 |  |
 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 | 2021-11-12 |  |
 | [American Pride](https://open.spotify.com/track/2qdzLlnfCHrAibmWLaPbDD) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [American Pride](https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce) | 4:42 | 2021-11-12 | 2022-04-04 |
@@ -54,8 +55,9 @@
 | [God Bless America](https://open.spotify.com/track/63Od9t6xI8CiIkr7T3XZfr) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [God Bless America](https://open.spotify.com/album/0MFRDEEOBK2OW0Ij5mN5XY) | 3:05 | 2021-11-12 |  |
 | [God Bless The U.S.A.](https://open.spotify.com/track/623lYBOJ7bLwh1bu3yeN5V) | [Lee Greenwood](https://open.spotify.com/artist/3g229vTyhsdwm9SO2p1FPL) | [American Patriot](https://open.spotify.com/album/5YeR8Om8eLONq8C8pluHn7) | 3:11 | 2021-11-12 |  |
 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 | 2021-11-12 |  |
+| [God, Family and Country](https://open.spotify.com/track/0BDszHuejHwgIMgjanu14j) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [I Love It](https://open.spotify.com/album/5wBgFNzyKaJU9aTs3wVhRU) | 3:26 | 2023-08-21 |  |
 | [God, Family and Country](https://open.spotify.com/track/23hqpwQMJC75TVEO9Mo9rM) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [I Love It](https://open.spotify.com/album/5cPoNiy9Cwu5Dxd2CUQwVO) | 3:26 | 2021-11-12 | 2023-11-03 |
-| [God, Family and Country \- 2020 \- Remaster](https://open.spotify.com/track/7JJrfmgk4H3rEphFpWqoVB) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [God, Family, Country \(Deluxe Edition\)](https://open.spotify.com/album/1nGxSALyfv0Wq8CWZpIVnZ) | 3:26 | 2023-08-21 |  |
+| [God, Family and Country \- 2020 \- Remaster](https://open.spotify.com/track/7JJrfmgk4H3rEphFpWqoVB) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [God, Family, Country \(Deluxe Edition\)](https://open.spotify.com/album/1nGxSALyfv0Wq8CWZpIVnZ) | 3:26 | 2023-08-21 | 2023-11-04 |
 | [Gone But Not Forgotten](https://open.spotify.com/track/1lJuY06cD1aBtPJ4Xh9LFK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Gone But Not Forgotten](https://open.spotify.com/album/37snSBOMCp6s8pvK6gb8dL) | 2:53 | 2021-11-12 |  |
 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/59xdsxc0QGW6TDA3ZuQ9tS) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [half of my hometown](https://open.spotify.com/album/1wvacL4ghUHvi6PODfvbGN) | 3:51 | 2021-11-12 |  |
 | [Have You Forgotten?](https://open.spotify.com/track/5JWuz7zukN8z9JLNm29U5K) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Have You Forgotten?](https://open.spotify.com/album/0prhHOpBsrLRtf1fvv5dEg) | 4:02 | 2021-11-12 |  |
@@ -134,7 +136,8 @@
 | [We Didn't Have Much](https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Straight Outta The Country](https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP) | 2:54 | 2022-07-01 |  |
 | [We Didn't Have Much](https://open.spotify.com/track/4WUJBgEvVaNyDnfmG2bpaQ) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [New Country Hits: January 2022](https://open.spotify.com/album/1zWgzrN2EaChN5QPgxdFca) | 2:54 | 2022-07-01 | 2022-11-14 |
 | [We Didn't Have Much](https://open.spotify.com/track/5v9jrgFC0zbE9Dagn1gg0G) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [We Didn't Have Much](https://open.spotify.com/album/1tuZaAJxEWDLVfqLTabteL) | 2:54 | 2021-11-12 | 2022-07-29 |
-| [We Were Rich \- New Version](https://open.spotify.com/track/3Lp2u6JS7yK45JtGlHLLCJ) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [We Were Rich \(New Version\)](https://open.spotify.com/album/3wnVc8g6CcliodnvrNmZTz) | 3:37 | 2021-11-12 |  |
+| [We Were Rich \(New Version\)](https://open.spotify.com/track/3oSeUEeRrQ9coH8mtGI3J7) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [We Were Rich \(New Version\)](https://open.spotify.com/album/5l1RRUBBe7j888hqdpccAs) | 3:37 | 2023-08-21 |  |
+| [We Were Rich \- New Version](https://open.spotify.com/track/3Lp2u6JS7yK45JtGlHLLCJ) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [We Were Rich \(New Version\)](https://open.spotify.com/album/3wnVc8g6CcliodnvrNmZTz) | 3:37 | 2021-11-12 | 2023-11-04 |
 | [Where I Find God](https://open.spotify.com/track/1kczRjh9aT7N82jtCYbkqF) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [4th of July](https://open.spotify.com/album/78gK94dhgh6ol8WkfX0L6f) | 4:09 | 2022-07-01 | 2022-11-13 |
 | [Where I Find God](https://open.spotify.com/track/6eQePEKwbt1y9CkCE6faYi) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Where I Find God](https://open.spotify.com/album/26pbiUILSs4FA7boHlB3QY) | 4:09 | 2021-11-12 | 2022-07-29 |
 | [Where I Find God](https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 4:09 | 2022-07-01 |  |

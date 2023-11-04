@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Jonah Kagen
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,817 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,891 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 64 | [Qaumajur](https://open.spotify.com/track/4iEYvfQHN2ceUpZS852rnm) | [Putumayo](https://open.spotify.com/artist/7k8vgAYpmLCJNOs1J8SB8X), [Juurini](https://open.spotify.com/artist/4hJndL9GhSQZ3rymH5P5cx), [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [Qaumajur](https://open.spotify.com/album/63FnoKSa6gnqhLykGflXTI) | 3:34 |
 | 65 | [Consider Me A Winner](https://open.spotify.com/track/1AkQLyWEC52Y6JCfcBNU7m) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Consider Me A Winner](https://open.spotify.com/album/7svvOtzleUABvi2XYEUBp9) | 2:43 |
 | 66 | [Find My Way To You](https://open.spotify.com/track/1uTWuhwyZVLHxrBwn732FN) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9), [Darragh Jessome](https://open.spotify.com/artist/7LigDCKoNF0Kj04CEjy7MR) | [Find My Way To You](https://open.spotify.com/album/3zy6kw77C553MbA4EUO6JA) | 2:58 |
-| 67 | [9beat](https://open.spotify.com/track/6K5TU8mqCOObdraAQ7e8u0) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe) | 4:06 |
+| 67 | [9beat](https://open.spotify.com/track/1Oy7QJxv45ubZDirk4z0Lk) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 4:06 |
 | 68 | [Suitcases By The Door](https://open.spotify.com/track/4pY5T1a0Py3JJjZLHtkD9Q) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [If I Was, I Am](https://open.spotify.com/album/648zHL2TdKCfvMmTPFlEGl) | 3:09 |
 | 69 | [Carried…](https://open.spotify.com/track/7sI78BEZylcmCu5ts145ou) | [Lost Cousins](https://open.spotify.com/artist/2yZQbeFIRhUpRehbauidnq) | [Point No Point](https://open.spotify.com/album/37wJd9QmhlZysWdQl98c4i) | 5:22 |
 | 70 | [Dissolve](https://open.spotify.com/track/6aCNLZj3lmzadbU7wGFMs6) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Dissolve](https://open.spotify.com/album/1VVLBqMfF73PujlJNg6j9X) | 4:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [On the Vine](https://open.spotify.com/track/0twfYhAuRGyIfyZzsIGHb9) | [Kyle Church](https://open.spotify.com/artist/6LamrVF16MEe2AO5WAGodJ) | [On the Vine](https://open.spotify.com/album/6V9q9qY3TBny1doKIxKdLy) | 3:22 |
 | 100 | [Death By Suspicion](https://open.spotify.com/track/53yh4A2jqHZBA3QOB4TJyY) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer \(Deluxe Edition\)](https://open.spotify.com/album/3nGF3nGNbvyqlwPHbpGof1) | 4:43 |
 
-Snapshot ID: `MCxiYjJiZjkwOTk3YTc3NzEyZDc2ZTVjNzM0NjA3MjBmODdjNGZiNGE4`
+Snapshot ID: `MCw2M2QyNDc3MDAzNDQ5ZWI0MmUzNjQ4MjFhYTA3OTZiYmVjZWRhNGIy`

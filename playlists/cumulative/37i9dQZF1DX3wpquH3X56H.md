@@ -4,7 +4,7 @@
 
 > The Most Popular Ambient Tracks in 2022\. Kaitlyn Aurelia Smith on cover.
 
-108 songs - 9 hr 38 min
+109 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Raddir \- Halo Infinite Version](https://open.spotify.com/track/6OPuu0XHbNOhGIkeiRbVKC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Raddir \(Halo Infinite Version\)](https://open.spotify.com/album/7gz5AeJBeJ77wjdyLXXc9s) | 2:14 | 2023-01-01 |  |
 | [Remember This Time](https://open.spotify.com/track/5GB1TCF6ZMbcYMmGoKQtf3) | [E J R M](https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ), [Drifting in Silence](https://open.spotify.com/artist/2D4I5qQCLM6szpo1273QNc) | [Pathways](https://open.spotify.com/album/2YHvyVDyxTrPcaQyqclG7L) | 5:20 | 2023-01-01 |  |
 | [Respite](https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Invisible EP](https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO) | 2:43 | 2023-01-01 |  |
-| [Right Right Right](https://open.spotify.com/track/4eHxj67kulo8NO4l7RexJl) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 7:25 | 2023-01-01 |  |
+| [Right Right Right](https://open.spotify.com/track/4eHxj67kulo8NO4l7RexJl) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 7:25 | 2023-01-01 | 2023-11-04 |
+| [Right Right Right](https://open.spotify.com/track/6RpNhl6giVNAhZY2526QgZ) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 7:25 | 2023-01-01 |  |
 | [Rotmilan](https://open.spotify.com/track/2FddItgHhjt1CnzLZHPrbq) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Avichrom](https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP) | 8:17 | 2023-01-01 |  |
 | [Silhouette](https://open.spotify.com/track/6oDoN0p3hXIb4LLZ8MhKFj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:33 | 2023-01-01 |  |
 | [Snow Ball](https://open.spotify.com/track/7GQgKVsUz6y4TS0h5kiryY) | [Yobi Alan](https://open.spotify.com/artist/1N09uq1erRC5cK8r5zr55G) | [Snow Ball](https://open.spotify.com/album/0b0F3Y7oSYFmbqC4wrquUd) | 3:24 | 2023-01-01 |  |

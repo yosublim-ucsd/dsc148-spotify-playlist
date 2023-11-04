@@ -1799,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "Happy Holiday/It's The Holiday Season",
+        "url": "https://open.spotify.com/album/5sR657t0qQVtcqfg9srqHS"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211786,
+      "name": "Most Wonderful Time of The Year",
+      "url": "https://open.spotify.com/track/2kkt5XyWY2XQUvouhgCS0S"
+    },
+    {
+      "album": {
         "name": "It's The Holiday Season",
         "url": "https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F"
       },
@@ -1810,7 +1828,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 211786,
       "name": "Most Wonderful Time of The Year",
       "url": "https://open.spotify.com/track/3wsfebFScXrZMhMiKW7OOU"
@@ -1828,10 +1846,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 227106,
       "name": "New Year",
       "url": "https://open.spotify.com/track/1S3pTaijxZ4R0AQf6QYDW4"
+    },
+    {
+      "album": {
+        "name": "Good Years",
+        "url": "https://open.spotify.com/album/6l3DioCgNlp8H4fTpI64MH"
+      },
+      "artists": [
+        {
+          "name": "The Shires",
+          "url": "https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227880,
+      "name": "New Year",
+      "url": "https://open.spotify.com/track/3SuSFP8Br0xhcVM3pLQIDf"
     },
     {
       "album": {
@@ -3050,10 +3086,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 176200,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/2VjzNrJ8pyo5tMVVfPzZxs"
+    },
+    {
+      "album": {
+        "name": "Happy Holiday/It's The Holiday Season",
+        "url": "https://open.spotify.com/album/5sR657t0qQVtcqfg9srqHS"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176200,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/2h6N5wsKYVI63nRU4cCIUt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Papisa
 
-513 songs - 1 day 5 hr 0 min
+514 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Muita Pose, Pouca Yoga](https://open.spotify.com/track/1epVWSgLX4B4OwSzf03b25) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Muita Pose, Pouca Yoga](https://open.spotify.com/album/7ylHlK3RxWnrxLzuauKTAa) | 3:26 | 2022-11-28 | 2022-12-10 |
 | [Muito Além](https://open.spotify.com/track/33Ph1S0NLdwMmL02fqaYbo) | [Gabriela Lery](https://open.spotify.com/artist/273Al938zyiMfS04Mh6lNr), [tiagobello](https://open.spotify.com/artist/35QrpCpY1Tn5bKk8Uxz3YE) | [Muito Além](https://open.spotify.com/album/79oYYVtlbJwuOnYAToJqcp) | 3:14 | 2022-08-12 | 2023-07-15 |
 | [Más Lejos](https://open.spotify.com/track/6ExWP1rf04My30HsJLI8QL) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9) | [Más Lejos](https://open.spotify.com/album/71d6gnlXzPnkqAACZWBV00) | 4:07 | 2023-07-21 |  |
+| [Mãe](https://open.spotify.com/track/6n7zu3XdVNJ2ZnDN21r2mb) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Samburá](https://open.spotify.com/album/6meKDPHVhWTjSXPlr9JOqg) | 3:44 | 2023-11-03 |  |
 | [Mãezinha](https://open.spotify.com/track/5lTBK3xacLGrxZBENGm4qt) | [Do Amor](https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn) | [Mãezinha](https://open.spotify.com/album/5MPqMjZfJDiki2lbH6Bujf) | 3:38 | 2022-01-14 | 2022-08-06 |
 | [Na Beleza da Vida](https://open.spotify.com/track/4MuzCQ8IreSdP8yoQTvRNY) | [Tatá Aeroplano](https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U) | [Na Beleza da Vida](https://open.spotify.com/album/4akQEfvDqszJ5Y9JVjk8d4) | 3:48 | 2022-07-01 | 2022-08-06 |
 | [Na Lona](https://open.spotify.com/track/1OtTSUz91X1kuI32lItM5R) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Cor de Rosa / na Lona](https://open.spotify.com/album/7aH1wrWPs3TuHWrZphdvS6) | 3:00 | 2022-09-23 | 2022-12-10 |

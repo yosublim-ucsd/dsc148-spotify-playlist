@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:7IRnDitYnXmIpoClQ0XspK">Kasia Lins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,687 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,688 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 21 | [trust](https://open.spotify.com/track/314srVDT2sCkHK8xX5Lh4L) | [ptakova](https://open.spotify.com/artist/6qHcB06FV47cRkAt5QbVwk), [Kamil Piotrowicz](https://open.spotify.com/artist/0LnkZSHxxWcDmGxpc8yDLU) | [wesoła dziewczyna z sercem często smutnym](https://open.spotify.com/album/77DQjlTlI5mANkdGozOujp) | 2:50 |
 | 22 | [Oddaje](https://open.spotify.com/track/0W0xg46t7ehYVkPFngkEDM) | [AniKa Dąbrowska](https://open.spotify.com/artist/7eiJFC0SOLCkH4QnLoJnPR) | [Ultimatum](https://open.spotify.com/album/24E6ZOis5LEzdN3lA241ME) | 2:19 |
 | 23 | [2AM](https://open.spotify.com/track/6rKm6pn7WapY2PFHnhHRnn) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [2AM](https://open.spotify.com/album/5U5prpkT188p6Cg0Ifk0zR) | 2:14 |
-| 24 | [Daylight](https://open.spotify.com/track/3byfmI41dXcU1nwp91qeWK) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Daylight](https://open.spotify.com/album/4cKYeZxPGS8lzCwbXanH0B) | 2:50 |
+| 24 | [Daylight](https://open.spotify.com/track/3U35aWyWH9kFKRfTGCjD8X) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Daylight](https://open.spotify.com/album/1cFskkIb48mNGkvMoUBAOg) | 2:50 |
 | 25 | [Zimno mi](https://open.spotify.com/track/6qvgCb5dQiy5ohta13t99t) | [Olka](https://open.spotify.com/artist/48LWhmu5GqLeVIeGrvMagG) | [Zimno mi](https://open.spotify.com/album/4pyTSgyJaN5D4DAuz4Hx0n) | 3:26 |
 | 26 | [status niedostępny](https://open.spotify.com/track/69zpKGCSfmYyOu1ikcitBN) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d) | [status niedostępny](https://open.spotify.com/album/1B4ui1KSq5M8HLHPRvPGWK) | 2:39 |
 | 27 | [Mój mały koniec świata](https://open.spotify.com/track/7KkN0GSg2ev5leRcxOuma6) | [Hela](https://open.spotify.com/artist/6DNkBmIq2VeCP4rIOp6equ) | [Mój mały koniec świata](https://open.spotify.com/album/2ivzU6EK7sMNkdCYKRp1Kq) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Nie Mrzonki](https://open.spotify.com/track/0OV8q4z2MAXroTokfUIapP) | [Sandra Czuraj](https://open.spotify.com/artist/3qQDvGPGR4wGp6EcTVD3uV) | [Nie Mrzonki](https://open.spotify.com/album/0EUJR4j4i5pLZD3wMCBfAM) | 3:06 |
 | 50 | [FUCK OFF](https://open.spotify.com/track/1y7ZmHjhNSoeLD0BO8t7aM) | [Ziggiel Lou](https://open.spotify.com/artist/3QiTnVbqgpS65j9BABxfiL) | [ROLLING WITH THE OUTER WORLD](https://open.spotify.com/album/3vgatJ9CkofNaGpscWeUUg) | 3:39 |
 
-Snapshot ID: `MCw1NDc2NzVmNGY4OTA5YTNlYTA3MTEyNjM5OTA2ODA0MWI4MmVkYTgx`
+Snapshot ID: `MCxjNDQzYWQzMmY0NzM5NzVlZmRmNzliY2JhNGRiYTFhZDZjNmI3YWRk`

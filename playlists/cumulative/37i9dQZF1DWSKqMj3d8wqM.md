@@ -4,7 +4,7 @@
 
 > Your favorite tunes from classic family movies.
 
-69 songs - 3 hr 49 min
+70 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Let's Get Together \- From "The Parent Trap"](https://open.spotify.com/track/6IOnUNpll37ONAgshDwa5B) | [Hayley Mills](https://open.spotify.com/artist/61g53RNwNxFue8DjFshq05) | [Let's Get Together With Hayley Mills](https://open.spotify.com/album/5qnHifHuv2R2pAamT34pK4) | 1:28 | 2022-01-21 |  |
 | [Lollipop](https://open.spotify.com/track/17mYtbBNEm4T5gbjcH77ah) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Lollipop Chainsaw \(Music from the Video Game\)](https://open.spotify.com/album/4diWUTS4m0BUCAKDxYAhvk) | 2:08 | 2022-01-21 | 2022-11-13 |
 | [Lollipop](https://open.spotify.com/track/38IkFZQU3ZF6agt6FkKA8C) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Stand By Me \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0Yk5DkDnqOtzPuBzTs6fti) | 2:09 | 2022-01-21 | 2022-07-29 |
-| [Lollipop](https://open.spotify.com/track/1hFB1obL3dCyIDigkojSTm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl) | 2:10 | 2022-01-21 |  |
+| [Lollipop](https://open.spotify.com/track/0ZOuues7b9AgBOJ0YRZMLR) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/1d7UWrwiM07dJX9CJjgAtN) | 2:10 | 2022-01-21 |  |
+| [Lollipop](https://open.spotify.com/track/1hFB1obL3dCyIDigkojSTm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl) | 2:10 | 2022-01-21 | 2023-11-04 |
 | [Make 'Em Laugh](https://open.spotify.com/track/1Uwhu0HNqCjukmsiSSnlsx) | [Donald O'Connor](https://open.spotify.com/artist/6JGPCu8A5iBnvYuGx5vKP0) | [Singin' in the Rain \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21BM0AFtpOMPdrcvo66TNK) | 3:19 | 2022-01-21 |  |
 | [Men In Black \- From "Men In Black" Soundtrack](https://open.spotify.com/track/3Dq2FHZ73hBUG815MoapQu) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Men In Black The Album](https://open.spotify.com/album/5g2UDPmM7d8itXNojbWF6k) | 3:45 | 2022-01-21 |  |
 | [My Favorite Things](https://open.spotify.com/track/4IGXfhZYM3gFQVcNtWQ9pB) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [The Sound of Music \- Original Soundtrack Recording](https://open.spotify.com/album/583SgyGBxtEzsk9J8zBqiy) | 2:18 | 2022-01-21 | 2022-07-29 |

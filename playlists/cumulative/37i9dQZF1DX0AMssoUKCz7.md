@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-655 songs - 1 day 9 hr 16 min
+656 songs - 1 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Follow the Sun](https://open.spotify.com/track/1WSkQNWCHM70GTEalSYzbz) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Follow the Sun](https://open.spotify.com/album/4fK4H2s7ScUevkJwfSb8vm) | 1:56 | 2022-04-08 |  |
 | [Forever And A Day \- LVNDSCAPE Remix](https://open.spotify.com/track/4MmESCOyomLv2BmcHkVAQY) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Natalie Peris](https://open.spotify.com/artist/1RtzTxvZZdPsVz82rB7BEs), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [Forever And A Day](https://open.spotify.com/album/3GbSqBflhUSuP294AP68GQ) | 3:55 | 2022-01-14 | 2022-05-07 |
 | [Freak \- Sam Feldt Remix Edit](https://open.spotify.com/track/5SNTUBSq1Qzi0URdB443h1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Freak](https://open.spotify.com/album/0ojB0D1LudlOhfQr3mQaJ7) | 3:16 | 2022-01-14 | 2022-05-23 |
-| [Free Falling Love](https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Free Falling Love](https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE) | 2:35 | 2022-06-03 |  |
+| [Free Falling Love](https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Free Falling Love](https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE) | 2:35 | 2022-06-03 | 2023-11-04 |
 | [Fresh Prince](https://open.spotify.com/track/2eqb2THAY8YgGXPEJasn0Z) | [Sivero](https://open.spotify.com/artist/0QgXMWhEvffZRMma292j8n) | [Fresh Prince](https://open.spotify.com/album/1CJY6BaJCiTHkY0YzROl0K) | 2:59 | 2022-06-03 | 2023-08-18 |
 | [From Me To You \- Edit](https://open.spotify.com/track/1AgZA1lTtCXeIbhXrIup4W) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [From Me To You](https://open.spotify.com/album/1oUmEpb1N5hk2F7pBTLUDC) | 3:33 | 2022-01-14 | 2022-04-19 |
 | [Frozen Tide](https://open.spotify.com/track/2nPZts2J87iS1N0tmzvEMO) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Frozen Tide](https://open.spotify.com/album/7spxBGGlm1asxU4h681SMO) | 2:28 | 2022-10-14 | 2023-06-27 |
@@ -245,6 +245,7 @@
 | [Hope](https://open.spotify.com/track/7o414PkGSOyexmhm7WGzSI) | [Leviro](https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl) | [Hope](https://open.spotify.com/album/1keAXpmaKyIA7myToH4bMV) | 2:01 | 2022-05-20 |  |
 | [Hours & Hours](https://open.spotify.com/track/16Iy9fFm9R5OEbrE3p6H1L) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [Lindal](https://open.spotify.com/artist/2gvjdkmKWJUbFdmAFBQVeR), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2) | [Hours & Hours](https://open.spotify.com/album/699gwjI8CePfp9BFYJEwql) | 2:27 | 2022-07-01 |  |
 | [House in The Woods](https://open.spotify.com/track/2Ge6aFLbGMoAUqqw5tyDBu) | [Creon Flips](https://open.spotify.com/artist/2qq4OFTPe8qqLnzODvRnvw), [Sarah Lahn](https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa) | [House in The Woods](https://open.spotify.com/album/0fqeKt7ZQK5HGQbkeJTpHz) | 2:08 | 2022-07-22 |  |
+| [House Of Cards](https://open.spotify.com/track/6dCF9KJngOrJCmMuxFmBx1) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [House Of Cards](https://open.spotify.com/album/6ru1h6aqej9yk3r4gJzwMH) | 2:36 | 2023-11-03 |  |
 | [Hula Hoop](https://open.spotify.com/track/1g9V4qY5UaWJJRRYL9WYmG) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Hula Hoop](https://open.spotify.com/album/78yL4xUXrIneZ1pP0LVaQC) | 3:26 | 2022-02-18 | 2022-04-21 |
 | [I Bet My Life \- Alex Adair Remix](https://open.spotify.com/track/3bnEhDlFFXeCyyYhbRszW7) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [I Bet My Life \(Remixes\)](https://open.spotify.com/album/6VTwHlsilffsneBm3LbZef) | 3:10 | 2022-01-14 | 2022-04-19 |
 | [I Can't Stop](https://open.spotify.com/track/5T03rgQh31Fj17zA6PhVr4) | [Daniel Glaven](https://open.spotify.com/artist/2Po6PWRViaK7I9kvFiILxF), [Will Church](https://open.spotify.com/artist/3PgE5GvG5WOLQgtrRydfuC) | [I Can't Stop](https://open.spotify.com/album/7mEX7fL4xQFxOQVdMaveno) | 2:12 | 2023-05-12 | 2023-07-13 |

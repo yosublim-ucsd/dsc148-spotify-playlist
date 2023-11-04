@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,315 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,356 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 46 | [What You Do To Me](https://open.spotify.com/track/6DOJgDuUVDaJ98GQxwyLTh) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 2:00 |
 | 47 | [Dover Beach](https://open.spotify.com/track/0BoAhTz2MEF3BnAJDvITdN) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [All Over the Place \(Expanded Edition\)](https://open.spotify.com/album/4WdNNACnrsj7CZvceyTgkN) | 3:48 |
 | 48 | [Behind The Wall Of Sleep](https://open.spotify.com/track/3JLhfc18dUWarvYctodtnv) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Especially For You](https://open.spotify.com/album/4TlnowwQvcYdUfIMFDbjKc) | 3:23 |
-| 49 | [Teenage Kicks](https://open.spotify.com/track/7ATyLePQnHxFk5kzxWCcsh) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/2CGEIN4OnLWDewCT7C4JLh) | 2:28 |
+| 49 | [Teenage Kicks](https://open.spotify.com/track/6UP5zTAuR4NFc1uZ3MHjvA) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/6lpgN6d9rlnFpZBzyQlDrE) | 2:28 |
 | 50 | [Second Choice](https://open.spotify.com/track/6TBVPLlKe7U07KLzxMhv0G) | [Any Trouble](https://open.spotify.com/artist/5GdL3YywdzweoBs0So2wYM) | [Where Are All The Nice Girls](https://open.spotify.com/album/2CV9DCyTjAZ1Ouj9ry4E0z) | 2:58 |
 | 51 | [Oogum Boogum](https://open.spotify.com/track/49hCsde15bWg3UBoMgsMxU) | [Alex Chilton](https://open.spotify.com/artist/7CW5MYWUsyUYiHbiTmVZHe) | [Set](https://open.spotify.com/album/6Z2VpIyNcDFoBfRtbCWVqj) | 3:26 |
 | 52 | [Little Mascara](https://open.spotify.com/track/2gp2MEaiTOvRIWPeCxRL5Z) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim](https://open.spotify.com/album/1yO2d1lmmu0tkDf3trvOm7) | 3:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 69 | [Boys Don't Lie](https://open.spotify.com/track/3r4zJhOS92RECuCXKyCcO2) | [Shoes](https://open.spotify.com/artist/1SyCQtKtDtMfJBBKGm0A8B) | [Black Vinyl Shoes](https://open.spotify.com/album/0wOTP7wVEQqYwIVaPWqQNo) | 1:57 |
 | 70 | [Erica's Word](https://open.spotify.com/track/7DIf1GG2V04EVfPg2iq28Y) | [Game Theory](https://open.spotify.com/artist/3aCS3JvkoSr84i7ge9pA9o) | [The Big Shot Chronicles](https://open.spotify.com/album/1UOR0sayUQipXwipanS1S3) | 3:54 |
 
-Snapshot ID: `MCw5ZDNlNjA3NWRhZDAyMTMyZWFiOGIwNjliZjE0MDY0NDE1YmM5Mjgy`
+Snapshot ID: `MCxmNmZhZjdkZTE1Mjk1ZmNjZWJiNTZiNjVkNjYwZTg5ZDkyYTUyYzZh`

@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Nicolle Galyon
 
-242 songs - 14 hr 3 min
+243 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,8 @@
 | [We Were](https://open.spotify.com/track/4t64dPfqlZa7fFGPSKavId) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [We Were](https://open.spotify.com/album/2Km77rh3Acs42qRQydKwLV) | 3:08 | 2022-02-28 |  |
 | [We Were Us](https://open.spotify.com/track/0pZpHs9BQfy6w11J0VpONW) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [The Worktapes.](https://open.spotify.com/album/4a4ETcRtvnEvypmzT4CfFd) | 2:48 | 2022-01-01 |  |
 | [What If I Never Get Over You](https://open.spotify.com/track/5NiH8PyzL2GLansUWKDUkS) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:22 | 2022-01-01 |  |
-| [What Whiskey Does \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/6Zz0GUgiyGrN0EUkkHU1JM) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 3:46 | 2022-01-01 |  |
+| [What Whiskey Does \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/5YZj3Lb2WUgjlLoXYb2Wq2) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Magnolia](https://open.spotify.com/album/0JNnoUpkLCLzdI9pIfWfQi) | 3:45 | 2023-10-13 |  |
+| [What Whiskey Does \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/6Zz0GUgiyGrN0EUkkHU1JM) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 3:46 | 2022-01-01 | 2023-11-04 |
 | [When It's My Time](https://open.spotify.com/track/2HKTn21q37EC4EibvaoEzg) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [When It's My Time](https://open.spotify.com/album/3QRherbInt8fExzq41yyoZ) | 4:33 | 2022-01-01 |  |
 | [When Something’s Gotta Give](https://open.spotify.com/track/2W7uaqP73dJAEdqKTFNBMH) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [When Something’s Gotta Give](https://open.spotify.com/album/4FLOgD3dGXPv8uCTZ5YEQY) | 3:23 | 2023-04-07 |  |
 | [When You Say Nothing At All](https://open.spotify.com/track/7mXjTkZ79hpL0p1ofHlcio) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Greatest Hits](https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn) | 4:14 | 2022-01-01 |  |

@@ -4,7 +4,7 @@
 
 > Get your creep on with these freaky 'love' songs.
 
-99 songs - 6 hr 33 min
+100 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,8 +103,9 @@
 | [Turn Around, Look at Me](https://open.spotify.com/track/6w8Pnj2aUSJysc0b5FSJyr) | [The Vogues](https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F) | [Turn Around, Look At Me](https://open.spotify.com/album/5bq7lXvSaFD4xlhb8FQjbM) | 2:46 | 2019-10-30 |  |
 | [Two Ghosts](https://open.spotify.com/track/4B1rpPmQXwj78wk6aIGwwU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:49 | 2019-10-30 |  |
 | [Where the Wild Roses Grow](https://open.spotify.com/track/1L8SrVwjhIRsUdM7TkQprW) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(Remastered\)](https://open.spotify.com/album/7rShDcOhzRIRNAowXWCxbA) | 3:57 | 2019-10-30 | 2022-07-29 |
+| [Where the Wild Roses Grow](https://open.spotify.com/track/4LK8kGGY0FGSGIAk2GwI30) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(2011 \- Remaster\)](https://open.spotify.com/album/4E31tK5BolK5vmupVWHsva) | 3:57 | 2019-10-30 |  |
 | [Where the Wild Roses Grow \- 2011 \- Remaster](https://open.spotify.com/track/4lKtuFVbBcQP7nwpLS0V8K) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Step Back In Time: The Definitive Collection \(Expanded\)](https://open.spotify.com/album/6dZIEsIXM2oY3aN0npklmB) | 3:55 | 2019-10-30 | 2022-11-14 |
-| [Where the Wild Roses Grow \- 2011 \- Remaster](https://open.spotify.com/track/3OwtuzRo8mc7lgsBau9MWk) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(2011 Remastered Version\)](https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW) | 3:57 | 2019-10-30 |  |
+| [Where the Wild Roses Grow \- 2011 \- Remaster](https://open.spotify.com/track/3OwtuzRo8mc7lgsBau9MWk) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(2011 Remastered Version\)](https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW) | 3:57 | 2019-10-30 | 2023-11-04 |
 | [You're Sixteen \(You’re Beautiful And You’re Mine\)](https://open.spotify.com/track/24IHwt3oO37js9tC48hWMr) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Very Best Of](https://open.spotify.com/album/30HX2qhSInJL0rxjH4F1mE) | 2:49 | 2019-10-30 |  |
 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 | 2019-10-30 |  |
 

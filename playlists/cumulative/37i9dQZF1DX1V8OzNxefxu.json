@@ -572,10 +572,32 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 197760,
       "name": "La sieste",
       "url": "https://open.spotify.com/track/0Hac68gGmbJEDbcWsOQReb"
+    },
+    {
+      "album": {
+        "name": "Le Soldat Rose 2",
+        "url": "https://open.spotify.com/album/6fZCT61LQYLgNuwQkR8JCD"
+      },
+      "artists": [
+        {
+          "name": "Le Soldat Rose",
+          "url": "https://open.spotify.com/artist/2rOCPPNRJnQMkNa5D18Ef2"
+        },
+        {
+          "name": "T\u00e9t\u00e9",
+          "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "La sieste (feat. T\u00e9t\u00e9)",
+      "url": "https://open.spotify.com/track/1erAsezbhHFWDURC6OGkEj"
     },
     {
       "album": {

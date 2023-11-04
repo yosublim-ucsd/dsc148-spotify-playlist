@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: John Morgan",
+  "description": "Music City must-hears. Cover: Muscadine Bloodline",
   "name": "Next From Nashville",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 199746,
       "name": "4x4",
       "url": "https://open.spotify.com/track/4DNjrQWwZc6nvqTr245wiX"
@@ -604,10 +604,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 257000,
       "name": "Ain't About You",
       "url": "https://open.spotify.com/track/5TKL15AMwP4zcqfQHfkm98"
+    },
+    {
+      "album": {
+        "name": "Ain't About You",
+        "url": "https://open.spotify.com/album/0Wd7pXZflxgojTmUS5vE5g"
+      },
+      "artists": [
+        {
+          "name": "HunterGirl",
+          "url": "https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Ain't About You",
+      "url": "https://open.spotify.com/track/62is7SX2lJw6b8o6DMdVVk"
     },
     {
       "album": {
@@ -940,7 +958,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 163536,
       "name": "Ain\u2019t Mad At Jesus",
       "url": "https://open.spotify.com/track/1ZWRFnItc6LzdMrzDg46JV"
@@ -4580,7 +4598,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 218933,
       "name": "Cheap Sunglasses",
       "url": "https://open.spotify.com/track/4ZgU2qhWm3THX2VS5qf1D2"
@@ -4926,10 +4944,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 213333,
       "name": "Cold Summer In San Antone",
       "url": "https://open.spotify.com/track/1ztIYIsisOqbFaCIVqS7xA"
+    },
+    {
+      "album": {
+        "name": "Cold Summer In San Antone",
+        "url": "https://open.spotify.com/album/0q1nVnH3SwfySOw02CDDfn"
+      },
+      "artists": [
+        {
+          "name": "John Morgan",
+          "url": "https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Cold Summer In San Antone",
+      "url": "https://open.spotify.com/track/4eUVF76wcNuKHyRkC27D1W"
     },
     {
       "album": {
@@ -6652,7 +6688,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 211761,
       "name": "Don't Make Me Get Over You",
       "url": "https://open.spotify.com/track/03QcpHj9HH6RzSqRhlY4Oy"
@@ -9369,6 +9405,24 @@
     },
     {
       "album": {
+        "name": "Going Places",
+        "url": "https://open.spotify.com/album/0ezWIjtcWllbrCmSjXhQ0X"
+      },
+      "artists": [
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150148,
+      "name": "Going Places",
+      "url": "https://open.spotify.com/track/22OEoDUv3YfyfM38XTBqaS"
+    },
+    {
+      "album": {
         "name": "Goin\u2019 Nowhere (feat. HARDY, Morgan Wallen & Chris Shiflett)",
         "url": "https://open.spotify.com/album/5sDf82J0gQXQQfagoXoqqw"
       },
@@ -9478,10 +9532,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 178880,
       "name": "Gonna Love You",
       "url": "https://open.spotify.com/track/2vb6YsdnhcRgYhTPvIrqWg"
+    },
+    {
+      "album": {
+        "name": "For You 2",
+        "url": "https://open.spotify.com/album/2A35FaFPGRANYw0vh0ctRk"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Gonna Love You",
+      "url": "https://open.spotify.com/track/4k8ozY5BjfGGvICHka5DfI"
     },
     {
       "album": {
@@ -10796,7 +10868,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 174693,
       "name": "Heart On Ice",
       "url": "https://open.spotify.com/track/0gkmzt5vzxzT0erzhoo2Ds"
@@ -13295,6 +13367,24 @@
     },
     {
       "album": {
+        "name": "i love you, remember",
+        "url": "https://open.spotify.com/album/24RJtMAVSeZ83gycfXNKZp"
+      },
+      "artists": [
+        {
+          "name": "MaRynn Taylor",
+          "url": "https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241813,
+      "name": "i love you, remember",
+      "url": "https://open.spotify.com/track/2A9qAWvNg55a4e2TXi8IpT"
+    },
+    {
+      "album": {
         "name": "MOOD: I'm Lost In A Daydream",
         "url": "https://open.spotify.com/album/4qpeoZvGxUwF0uLdhiLC5W"
       },
@@ -14228,7 +14318,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 232266,
       "name": "It's True",
       "url": "https://open.spotify.com/track/67dUtWComJOfqLFM0LANC9"
@@ -14390,7 +14480,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 188641,
       "name": "Jonesin'",
       "url": "https://open.spotify.com/track/2mzF8IS0EGMbISqOsXrQen"
@@ -15139,6 +15229,24 @@
     },
     {
       "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193986,
+      "name": "Leather",
+      "url": "https://open.spotify.com/track/5Z4RdNOVrxle5k7rHeaROb"
+    },
+    {
+      "album": {
         "name": "Livin' My Best Life",
         "url": "https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0"
       },
@@ -15364,6 +15472,28 @@
     {
       "album": {
         "name": "Tennessee's Waiting",
+        "url": "https://open.spotify.com/album/7M5V96Xw8tnHAFwdjAkPWb"
+      },
+      "artists": [
+        {
+          "name": "King Calaway",
+          "url": "https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170751,
+      "name": "Let It Flow (feat. Hailey Whitters)",
+      "url": "https://open.spotify.com/track/12qzqo1uZh0C23LF9HOLmx"
+    },
+    {
+      "album": {
+        "name": "Tennessee's Waiting",
         "url": "https://open.spotify.com/album/1YvMkfsDEkfxTf7LZzsZ3E"
       },
       "artists": [
@@ -15378,7 +15508,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 170751,
       "name": "Let It Flow (feat. Hailey Whitters)",
       "url": "https://open.spotify.com/track/33PgZWGbFC7cuDnxUwEsPN"
@@ -15541,6 +15671,24 @@
     },
     {
       "album": {
+        "name": "Life With You",
+        "url": "https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Hart",
+          "url": "https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156813,
+      "name": "Life With You",
+      "url": "https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5"
+    },
+    {
+      "album": {
         "name": "Life Without You",
         "url": "https://open.spotify.com/album/1XTExLYIaQv489gT98KCfP"
       },
@@ -15552,7 +15700,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 171874,
       "name": "Life Without You",
       "url": "https://open.spotify.com/track/1YbJ36vb1NI1wKPrylkrRu"
@@ -16673,6 +16821,24 @@
     },
     {
       "album": {
+        "name": "Weyerhaeuser Land / Low Hangin' Fruit",
+        "url": "https://open.spotify.com/album/1w2YgLipGdCDkCsvUrRI3h"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218360,
+      "name": "Low Hangin' Fruit",
+      "url": "https://open.spotify.com/track/5lpA8XtttBrwaGkzRxHWTn"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/1ZaHS1vWuq7mf7eniVTiFC"
       },
@@ -17008,7 +17174,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 160440,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/0CZwrYqSTnfzAjtynr6zBp"
@@ -17600,10 +17766,28 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 180100,
       "name": "Middle of God Knows Where",
       "url": "https://open.spotify.com/track/4tzXopk3nVTxkX1eLE04xJ"
+    },
+    {
+      "album": {
+        "name": "Middle of God Knows Where",
+        "url": "https://open.spotify.com/album/7n4E5ZuUpCX50Lzj6Yl93c"
+      },
+      "artists": [
+        {
+          "name": "Noah Thompson",
+          "url": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180100,
+      "name": "Middle of God Knows Where",
+      "url": "https://open.spotify.com/track/7GGRABWqxSybDClvL90XMb"
     },
     {
       "album": {
@@ -20404,6 +20588,24 @@
     {
       "album": {
         "name": "Outlaw Love",
+        "url": "https://open.spotify.com/album/4NWSNWO1EfJvB8Af7Gb0nu"
+      },
+      "artists": [
+        {
+          "name": "Brooke Eden",
+          "url": "https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175293,
+      "name": "Outlaw Love",
+      "url": "https://open.spotify.com/track/0WdDt6MDfrsp7kVXhyKKhv"
+    },
+    {
+      "album": {
+        "name": "Outlaw Love",
         "url": "https://open.spotify.com/album/4HzcmfqhVUYEeUfgwsaQAb"
       },
       "artists": [
@@ -20414,7 +20616,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 175293,
       "name": "Outlaw Love",
       "url": "https://open.spotify.com/track/4M0LEn9XGZQXLg0wh7HCJd"
@@ -21825,6 +22027,28 @@
     },
     {
       "album": {
+        "name": "The Afterparty Deluxe",
+        "url": "https://open.spotify.com/album/1w19pMaq0hP50uuhc8fHP4"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        },
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178998,
+      "name": "Red Dirt Church (feat. NEEDTOBREATHE)",
+      "url": "https://open.spotify.com/track/2Dm1IoIlLaa0rIjMBLfk0a"
+    },
+    {
+      "album": {
         "name": "Red Dirt Cursed",
         "url": "https://open.spotify.com/album/64evxUin5gboW74Ko8TFef"
       },
@@ -22464,7 +22688,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 187706,
       "name": "Run Wild",
       "url": "https://open.spotify.com/track/3VdGJHppsVYkrOnGdEoum6"
@@ -23560,7 +23784,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 179426,
       "name": "Silverado In The Sky",
       "url": "https://open.spotify.com/track/0rIOTVnbfOdvVxqznXc8CX"
@@ -23982,6 +24206,24 @@
       "duration_ms": 197506,
       "name": "Smoke Too Soon",
       "url": "https://open.spotify.com/track/4tQHDufeDzPqW5yHUhyzzs"
+    },
+    {
+      "album": {
+        "name": "Smoky Mountains",
+        "url": "https://open.spotify.com/album/7Hdjqxz2KoCrhb9XrpUemH"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162960,
+      "name": "Smoky Mountains",
+      "url": "https://open.spotify.com/track/3yeLdf58eQjSfAvm1KY6JI"
     },
     {
       "album": {
@@ -27668,7 +27910,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 185773,
       "name": "Tie\u2019r Down",
       "url": "https://open.spotify.com/track/7uHWlapQcirLPRHvhPyvr7"
@@ -27758,7 +28000,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 230106,
       "name": "Tim + Faith",
       "url": "https://open.spotify.com/track/1sFe3bncgvZROAQsebpKaA"
@@ -28888,7 +29130,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 205840,
       "name": "Watching My Old Flame",
       "url": "https://open.spotify.com/track/0zxB5u7CFOH61p5v2xDyPf"
@@ -30520,7 +30762,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 222547,
       "name": "Wishing You",
       "url": "https://open.spotify.com/track/34mKJWC8YooXBHDKcTMgbh"
@@ -31446,6 +31688,24 @@
       "duration_ms": 225000,
       "name": "You Just Missed Me",
       "url": "https://open.spotify.com/track/2ywVPLcWjXaWUiQqmvjNpm"
+    },
+    {
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/1OnLScFK4XmZk02XVWfoQV"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237468,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/3yvjL28w3z8ebq5LScPuPO"
     },
     {
       "album": {

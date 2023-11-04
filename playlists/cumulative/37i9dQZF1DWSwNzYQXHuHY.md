@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSwNzYQXHuHY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSwNzYQXHuHY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSwNzYQXHuHY)
 
-### [썸](https://open.spotify.com/playlist/37i9dQZF1DWSwNzYQXHuHY)
+### [썸 \(Something\)](https://open.spotify.com/playlist/37i9dQZF1DWSwNzYQXHuHY)
 
-> 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
+> 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
 185 songs - 10 hr 26 min
 
@@ -91,7 +91,7 @@
 | [I′ll tell you today](https://open.spotify.com/track/3mOQFlfQMDlJWp8AK4aTKj) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [I'll tell you today \(PRIENDS Original Soundtrack Part 2\)](https://open.spotify.com/album/0ahqw51XhfIX7Eevi5NtmW) | 2:41 | 2022-05-11 | 2022-07-28 |
 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-08-09 |  |
 | [L.O.V.E](https://open.spotify.com/track/4cRAQZ8SzbTlqhD6jxhNFD) | [DANI \(Park Hyuck Jin\)](https://open.spotify.com/artist/1UzO0KpLhB7BGq2ejDKkpQ) | [Oh My Wedding OST Part.3](https://open.spotify.com/album/6nEZwWK3EoGPCbBcynPJOb) | 3:02 | 2022-07-04 | 2022-07-19 |
-| [Let's Love](https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Let's Love](https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P) | 3:40 | 2023-03-02 | 2023-06-16 |
+| [Let's Love](https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Let's Love](https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P) | 3:40 | 2023-03-02 |  |
 | [Line](https://open.spotify.com/track/2n4NuLpGCLp7dnICjvCgAy) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Line](https://open.spotify.com/album/1fhJ1jSUbkJSF8w4vilvSr) | 3:36 | 2022-05-11 | 2022-07-28 |
 | [Losing Sleep Over You](https://open.spotify.com/track/1T9QufIPBQTW36Z1oNxrks) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Losing Sleep Over You](https://open.spotify.com/album/5cWr6GGTuK2eWAjN8EkUxi) | 3:01 | 2022-09-05 | 2023-02-25 |
 | [LOVE CELLS \(Feat\. THE PERCENT\)](https://open.spotify.com/track/1suxmKvismP5TmZHUOIS0B) | [PERC%NT](https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx), [THE PERCENT](https://open.spotify.com/artist/7lLlaJt5GBAqRlFcOMtgov) | [LOVE CELLS \(Feat\. THE PERCENT\)](https://open.spotify.com/album/0lzv5xX8HFaCO2PVhvMh6U) | 3:12 | 2022-05-11 | 2022-07-29 |
@@ -177,7 +177,7 @@
 | [What Shall I Do?](https://open.spotify.com/track/5EifmUIMkCqnayTDAWwTfx) | [12DAL](https://open.spotify.com/artist/6Y2UFKStWOiUYxIDE5QFKn) | [What Shall I Do?](https://open.spotify.com/album/32QOWg3l9smEZU2VUtJlFp) | 3:41 | 2022-05-11 | 2022-07-28 |
 | [Where Is Dream](https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [START\-UP \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B) | 3:03 | 2022-05-11 | 2023-06-04 |
 | [Where Is Dream](https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [START\-UP \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu) | 3:03 | 2023-05-31 |  |
-| [Who?](https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Our Spring : Who?](https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB) | 3:10 | 2023-05-02 |  |
+| [Who?](https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Our Spring : Who?](https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB) | 3:10 | 2023-05-02 | 2023-11-04 |
 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 | 2022-05-11 |  |
 | [Why?](https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Why?](https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ) | 2:27 | 2023-07-17 |  |
 | [will you and me fall in love \(feat\. Gawon\)](https://open.spotify.com/track/1NR4zjXtuxMvwGIh8i5XqC) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [will you and me fall in love](https://open.spotify.com/album/2TdJT39j1H1JJv2VFPiVbG) | 2:38 | 2022-06-20 | 2022-07-28 |

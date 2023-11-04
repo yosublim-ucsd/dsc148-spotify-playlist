@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Dermot Kennedy
 
-598 songs - 1 day 8 hr 36 min
+600 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,7 +508,8 @@
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-10 | 2023-05-06 |
 | [Speeding](https://open.spotify.com/track/3bgi6jmYXxdEyUq3buRRr3) | [David Arlo](https://open.spotify.com/artist/0p5H44Hufi4BrG8PyaH7rK) | [Speeding](https://open.spotify.com/album/3xUNzOaYhCQT3GarYKpWG6) | 2:53 | 2023-06-09 | 2023-07-01 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-07-11 | 2022-09-10 |
-| [Still Have Love For You](https://open.spotify.com/track/4XRk2TxSMtCUczDYnW9vzY) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Love Over Fear](https://open.spotify.com/album/6owtgnHhaat8agT8cIrfVF) | 3:05 | 2023-08-25 |  |
+| [Still Have Love For You](https://open.spotify.com/track/2Lt4bMUuokKyC4r1puqefa) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Love Over Fear](https://open.spotify.com/album/173IyxzOdHpenFKug42nGh) | 3:05 | 2023-10-24 |  |
+| [Still Have Love For You](https://open.spotify.com/track/4XRk2TxSMtCUczDYnW9vzY) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Love Over Fear](https://open.spotify.com/album/6owtgnHhaat8agT8cIrfVF) | 3:05 | 2023-08-25 | 2023-11-04 |
 | [Strange](https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Strange](https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3) | 3:08 | 2023-06-09 | 2023-09-30 |
 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 | 2023-02-07 | 2023-08-26 |
 | [stuck in denial](https://open.spotify.com/track/5VVqWlP1umXU5XYdZTXXaT) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [stuck in denial](https://open.spotify.com/album/61bATvekneBTSDOYXE6cjA) | 3:10 | 2022-10-28 | 2022-11-26 |
@@ -589,7 +590,8 @@
 | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/7up4SX2l8FAnisrUXoGupd) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/album/6xStUI10NrOYMx3sKoIfBq) | 2:55 | 2022-08-19 | 2023-04-01 |
 | [Wishful Thinking](https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Wishful Thinking](https://open.spotify.com/album/6X2z7A7ecxou7Hz7haotFO) | 4:03 | 2022-02-04 | 2022-02-26 |
 | [without you with me](https://open.spotify.com/track/0WqHYUiGuqkC7koA2l5Ou1) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [without you with me](https://open.spotify.com/album/7CEx4rylOMVh4bI3Lb7anX) | 2:54 | 2022-02-04 | 2022-02-12 |
-| [Woman](https://open.spotify.com/track/3IdSC8Pl2cX2bHQsyAIl7L) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Woman](https://open.spotify.com/album/7zKk3dvJ6Y82aTvRW3Qerw) | 3:21 | 2023-06-30 |  |
+| [Woman](https://open.spotify.com/track/3IdSC8Pl2cX2bHQsyAIl7L) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Woman](https://open.spotify.com/album/7zKk3dvJ6Y82aTvRW3Qerw) | 3:21 | 2023-06-30 | 2023-11-04 |
+| [Woman](https://open.spotify.com/track/68yPzDDlSwmZQ30m6sE54I) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Love Over Fear](https://open.spotify.com/album/173IyxzOdHpenFKug42nGh) | 3:22 | 2023-10-24 |  |
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2022-09-09 | 2023-04-22 |
 | [Wrecked](https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Wrecked](https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG) | 4:04 | 2022-02-04 | 2022-09-03 |
 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 | 2022-02-04 | 2022-03-05 |

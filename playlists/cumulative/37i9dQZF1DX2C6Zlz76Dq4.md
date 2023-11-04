@@ -4,7 +4,7 @@
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Reba McEntire
 
-170 songs - 8 hr 51 min
+173 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,8 +105,10 @@
 | [Merry Christmas Strait To You](https://open.spotify.com/track/5zue3U4ChSSIlsRbZnCSb3) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Merry Christmas Strait To You](https://open.spotify.com/album/5TNDl5mXm4qippqOM7q169) | 2:40 | 2021-12-16 | 2022-11-18 |
 | [Merry, Merry Christmas Baby](https://open.spotify.com/track/2cWj8ipRBN2azJbER817cy) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Merry, Merry Christmas Baby](https://open.spotify.com/album/7ckrgR0Wf1onjrVFFV4iE0) | 3:40 | 2021-12-16 |  |
 | [Milk and Cookies \('till Santa's Gone\)](https://open.spotify.com/track/2Ocrrp9yiHYy08Qw0Ht4eo) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [The Clint Black Christmas Collection](https://open.spotify.com/album/2F1CtdI1ERhG5Sufzevk3l) | 2:41 | 2021-12-16 |  |
-| [Most Wonderful Time of The Year](https://open.spotify.com/track/3wsfebFScXrZMhMiKW7OOU) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 3:31 | 2021-12-16 |  |
-| [New Year](https://open.spotify.com/track/1S3pTaijxZ4R0AQf6QYDW4) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [New Year](https://open.spotify.com/album/1XD8XpO3UB9W2EtzLDOYnJ) | 3:47 | 2021-12-16 |  |
+| [Most Wonderful Time of The Year](https://open.spotify.com/track/2kkt5XyWY2XQUvouhgCS0S) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Happy Holiday/It's The Holiday Season](https://open.spotify.com/album/5sR657t0qQVtcqfg9srqHS) | 3:31 | 2022-12-09 |  |
+| [Most Wonderful Time of The Year](https://open.spotify.com/track/3wsfebFScXrZMhMiKW7OOU) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 3:31 | 2021-12-16 | 2023-11-04 |
+| [New Year](https://open.spotify.com/track/1S3pTaijxZ4R0AQf6QYDW4) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [New Year](https://open.spotify.com/album/1XD8XpO3UB9W2EtzLDOYnJ) | 3:47 | 2021-12-16 | 2023-11-04 |
+| [New Year](https://open.spotify.com/track/3SuSFP8Br0xhcVM3pLQIDf) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Good Years](https://open.spotify.com/album/6l3DioCgNlp8H4fTpI64MH) | 3:47 | 2022-12-09 |  |
 | [O Christmas Tree](https://open.spotify.com/track/56mDjOPpSoRMKrzhO8AE9y) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Classic Christmas](https://open.spotify.com/album/59uaoonibMpTiQfdn50y3k) | 2:27 | 2021-12-16 | 2022-11-18 |
 | [O Holy Night](https://open.spotify.com/track/1Sx2LlAejMVQhdRyeK9PvY) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [The Ultimate Christmas Collection](https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ) | 3:53 | 2022-12-09 |  |
 | [Oklahoma Christmas \(feat\. Reba\)](https://open.spotify.com/track/1zhw0SSeMnVSLLAKKZzffH) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Reba](https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6) | [Cheers, It's Christmas \(Deluxe Edition\)](https://open.spotify.com/album/4Jk9oJP4aUo6X2XSwTgnBh) | 3:28 | 2021-12-16 |  |
@@ -173,7 +175,8 @@
 | [Winter Wonderland](https://open.spotify.com/track/2BKR0iqadGUNjjOVd7XoE8) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [A Holiday Collection](https://open.spotify.com/album/6bgijwbjw2OTyLCA9TqEaH) | 2:23 | 2021-12-16 | 2022-07-29 |
 | [Winter Wonderland](https://open.spotify.com/track/2sy7ExsPRAoI9xTGJu3Cvz) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Merry Christmas Strait To You](https://open.spotify.com/album/5TNDl5mXm4qippqOM7q169) | 2:23 | 2021-12-16 |  |
 | [Winter Wonderland](https://open.spotify.com/track/38OI3L8ROlaH8whHPx3JwZ) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [This Christmas Time](https://open.spotify.com/album/21BHXKCzqhB4JJnH2dGTBK) | 3:18 | 2021-12-16 | 2022-12-10 |
-| [Winter Wonderland](https://open.spotify.com/track/2VjzNrJ8pyo5tMVVfPzZxs) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 2:56 | 2021-12-16 |  |
+| [Winter Wonderland](https://open.spotify.com/track/2VjzNrJ8pyo5tMVVfPzZxs) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 2:56 | 2021-12-16 | 2023-11-04 |
+| [Winter Wonderland](https://open.spotify.com/track/2h6N5wsKYVI63nRU4cCIUt) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Happy Holiday/It's The Holiday Season](https://open.spotify.com/album/5sR657t0qQVtcqfg9srqHS) | 2:56 | 2022-12-09 |  |
 | [Winter Wonderland](https://open.spotify.com/track/3R9byQBqOUNryOOf3o8eDI) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Breath Of Heaven](https://open.spotify.com/album/7hUIziQmosuFiL0wjTSjf7) | 3:22 | 2021-12-16 | 2022-12-10 |
 | [Winter Wonderland / Sleigh Ride](https://open.spotify.com/track/183egccUAzP1fEFSy2TSZQ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:41 | 2021-12-16 |  |
 | [Winter Wonderland/Sleigh Ride](https://open.spotify.com/track/3tMbMCmlyb6WDkubqkNDmB) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Christmas Number 1's](https://open.spotify.com/album/4UvvfXA7W1IHzBaUCaRj2k) | 3:41 | 2021-12-16 | 2022-07-29 |

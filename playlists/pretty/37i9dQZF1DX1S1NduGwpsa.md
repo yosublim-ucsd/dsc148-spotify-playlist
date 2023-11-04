@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gregory Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,298 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,416 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 15 | [Miami](https://open.spotify.com/track/2T5yV3TK952ePPnWpIXE3h) | [Samy Thiébault](https://open.spotify.com/artist/797YMCRJhlhkokujV4RLih), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Awé ! \(Les Inédits\)](https://open.spotify.com/album/5QSIUcwXCeD2sBT8OQ2PSW) | 2:22 |
 | 16 | [Day In Day Out \- Florian Pellissier Extended Version](https://open.spotify.com/track/2HCLYRJnXDMQ9yfjHIiL60) | [Cotonete](https://open.spotify.com/artist/7vRJDtEvLW2MZ4ISs1Zddy), [Leron Thomas](https://open.spotify.com/artist/0lVzm0fYj4BredTD0LMdSY), [Florian Pellissier](https://open.spotify.com/artist/0xiIT6hCcH1oLeoOZjHo0s) | [Day In Day Out \(Florian Pellissier Extended Version\)](https://open.spotify.com/album/7urOxAlRsgKpA64cKZ6jWw) | 7:23 |
 | 17 | [Fray](https://open.spotify.com/track/2FRJTSOJjRGZx5i9MhBI6E) | [Lucy Woodward](https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE) | [Fray](https://open.spotify.com/album/5iNTpKhAny2Jsz7MYjoe3G) | 4:31 |
-| 18 | [Feelings \(Pour toi\)](https://open.spotify.com/track/0wUKAMzkqhGzmADhCQ65Wg) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/18j6w0grfr4xEHUn9fUDUc) | 4:20 |
+| 18 | [Feelings \(Pour toi\)](https://open.spotify.com/track/5V4QQ6HBYAayI204oBnLM1) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA) | 4:20 |
 | 19 | [La Gloria Eres Tú](https://open.spotify.com/track/1CpwwKDtTwWJ4NNC6gVygw) | [Yilian Cañizares](https://open.spotify.com/artist/51kjU9cCnLDzokU3agspnv), [Tiganá Santana](https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9) | [Habana\-Bahia](https://open.spotify.com/album/40Glzz3JECT8bA1w7TXzkw) | 3:21 |
 | 20 | [La balade](https://open.spotify.com/track/23prDH0nwHcIi5YQ54Sl8l) | [Gwen Cahue](https://open.spotify.com/artist/40KKpmd5tQqNohkfjFF9hO), [Baptiste Bailly](https://open.spotify.com/artist/2BNpDSWYQYPMkd9qA3L5bS) | [Storyboard](https://open.spotify.com/album/1fQxFXmN51ghwHl2AWsXga) | 4:23 |
 | 21 | [Drive My Car](https://open.spotify.com/track/2UqjB852n1IxWh2GDbyD9u) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k) | [Brexit Music](https://open.spotify.com/album/4Syh9y7tKbCtkHRsSOjxNB) | 3:08 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 30 | [Teo](https://open.spotify.com/track/445N8tdrFPPQiEXm8x8vES) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [Teo](https://open.spotify.com/album/1nhW2dBhlBtfuzB4GwlHy4) | 3:35 |
 | 31 | [Mangrove](https://open.spotify.com/track/5jMErITrJizIjsGGUt3BDh) | [Maë Defays](https://open.spotify.com/artist/0QytOJIXShUqZUANBDno3J) | [Mangrove](https://open.spotify.com/album/52u1Jd1pll9AAnJeeOMa14) | 3:45 |
 | 32 | [Forest Habits](https://open.spotify.com/track/5HCYWa3Jg38TXYhlsvwAaX) | [Oliver Crosby](https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Forest Habits](https://open.spotify.com/album/3zFC5FLr1Q7sPbsatVEYPX) | 3:21 |
-| 33 | [Trop beau pour être vrai](https://open.spotify.com/track/6bBpA9MKQTyRrdENizWJYf) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/18j6w0grfr4xEHUn9fUDUc) | 2:32 |
+| 33 | [Trop beau pour être vrai](https://open.spotify.com/track/3GZQSblqvzUGvA7LmBXXSm) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA) | 2:32 |
 | 34 | [Sunseekers](https://open.spotify.com/track/2hD250ixyqBjvYHpsOOEqG) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj) | [Discotheques 001](https://open.spotify.com/album/3v11OGRfUdnN6IGp2tdcAm) | 3:32 |
 | 35 | [Love is Never Too Late](https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Love is Never Too Late](https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc) | 3:37 |
 | 36 | [Why Am I Treated So Bad \(with Questlove, Christian McBride\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/22OeSoWelZKWr5On4XIaKP) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Why Am I Treated So Bad \(with Questlove, Christian McBride\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/4JdmT4JJgQFP3dUgvpjx3H) | 5:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Haunted](https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:20 |
 | 50 | [If You Go Away](https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [If You Go Away / Ne me quitte pas](https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx) | 4:55 |
 
-Snapshot ID: `MCxmNWZjN2EwMWUxZjhiMDQwNDBiMjE2NTY0NjUzMzUzNjExMjE5MzEw`
+Snapshot ID: `MCxhNDU3MDIxYWJjMzBmZjE0OTFhMTE5YjQ4ODU5YTM3YmE4YmYxOGQz`

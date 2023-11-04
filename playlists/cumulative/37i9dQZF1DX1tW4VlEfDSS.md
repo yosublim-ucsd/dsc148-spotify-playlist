@@ -4,7 +4,7 @@
 
 > A feel\-good soulful house  and disco selection.
 
-225 songs - 15 hr 42 min
+226 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Say Mama](https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Say Mama](https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU) | 2:57 | 2022-03-11 | 2023-10-02 |
 | [Say Mama](https://open.spotify.com/track/2MH0okcqo8KZ9EK7kp5sNp) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Say Mama](https://open.spotify.com/album/0Gq1wYIb1qSsZbYTFpyV8f) | 2:57 | 2021-12-07 | 2022-07-20 |
 | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc) | 3:24 | 2021-12-07 |  |
-| [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 | 2021-12-07 |  |
+| [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 | 2021-12-07 | 2023-11-04 |
+| [Seventies](https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb) | 3:16 | 2023-10-27 |  |
 | [Silk Robe](https://open.spotify.com/track/1PLWMDuWR3gfsuBGMRUgY8) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06) | [Silk Robe](https://open.spotify.com/album/2cREL8DhgMw5f2VYC1I1Qv) | 3:38 | 2021-12-07 | 2022-07-29 |
 | [Silk Robe](https://open.spotify.com/track/7AQhZav6gUzHplfzuWMVjj) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06) | [Silk Robe](https://open.spotify.com/album/3jOxw6LCIBTBLpgGOyiXVE) | 3:38 | 2023-10-27 |  |
 | [Sneak Away With Me](https://open.spotify.com/track/0DnMu0Q9X3yCPMUD5PP3P9) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Sneak Away With Me](https://open.spotify.com/album/7GcPAdmhtF0duAlDydss28) | 5:06 | 2021-12-07 |  |

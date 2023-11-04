@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Tata yoyo",
+        "url": "https://open.spotify.com/album/3eMAg9LwfpmO0lVr2Dl74E"
+      },
+      "artists": [
+        {
+          "name": "Annie Cordy",
+          "url": "https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152613,
+      "name": "Tata Yoyo",
+      "url": "https://open.spotify.com/track/09Jsup6YqSLxnWeqJsA2ht"
+    },
+    {
+      "album": {
         "name": "Les indispensables",
         "url": "https://open.spotify.com/album/3elYVEC4r8jn73Ekqk26mm"
       },
@@ -488,7 +506,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 154813,
       "name": "Tata Yoyo",
       "url": "https://open.spotify.com/track/7ulqjkcjg5aeMgyYD2SIyJ"

@@ -4,7 +4,7 @@
 
 > La nostalgia ochentera traída a la actualidad.
 
-61 songs - 3 hr 47 min
+62 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2023-08-10 |  |
 | [Stars](https://open.spotify.com/track/3243FROOYOzJUEMk8RbJYg) | [Tesla Boy](https://open.spotify.com/artist/0VSi6lAB9txdaW5VEmIx9b) | [The Universe Made of Darkness](https://open.spotify.com/album/64nzpFx3VlUA7XjHTgDYEw) | 4:40 | 2023-08-10 |  |
 | [Stranger Love](https://open.spotify.com/track/2hwJgPbnnZWuAoQ6mNzWw0) | [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ), [Sarah Chernoff](https://open.spotify.com/artist/63uxQhWEuj7Zuau9j5XKIB) | [Hanging Gardens](https://open.spotify.com/album/2CwD4W1R3jqDUSuk9XbsJ9) | 3:59 | 2023-08-10 |  |
-| [Strict Machine](https://open.spotify.com/track/5kNbpvJ5b6R9Zqfm6c9sIX) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Black Cherry](https://open.spotify.com/album/65BnZsIXnhBeBReAHAaF6V) | 3:51 | 2023-08-10 |  |
+| [Strict Machine](https://open.spotify.com/track/1SyOjtLqqqk2AVLZnRI3bk) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Black Cherry](https://open.spotify.com/album/1W9jLuEBZvSoNZHsErjgkU) | 3:51 | 2023-08-10 |  |
+| [Strict Machine](https://open.spotify.com/track/5kNbpvJ5b6R9Zqfm6c9sIX) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Black Cherry](https://open.spotify.com/album/65BnZsIXnhBeBReAHAaF6V) | 3:51 | 2023-08-10 | 2023-11-04 |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-08-10 |  |
 | [Take My Breath \- Single Version](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2023-08-10 |  |
 | [Tampa](https://open.spotify.com/track/4GBPA0uFKv7TSZN5EPzK6D) | [Small Black](https://open.spotify.com/artist/1J6xqDysFw6YiQ0vMvIKds) | [Cheap Dreams](https://open.spotify.com/album/3K6lJ4qaAuy3MgN7bsvMVg) | 5:14 | 2023-08-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Quelques chansons tranquilles pour des moments tendres et complices",
-  "num_followers": 2571,
+  "num_followers": 2573,
   "original_name": "Douceurs acoustiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzkzMTRmYmEwMDFjNjdhOWIzODQ2ZDdkMGQ0MGM5NjJkNzVlOWJk",
+  "snapshot_id": "MCxiOGQ4MmQ2ZjhiYWUzOTIzMDIzMDRhZTBmYzQ5YzcyNTJjMmQzZGIx",
   "tracks": [
     {
       "added_at": "2021-04-23 10:20:08",
@@ -840,17 +840,21 @@
       "added_at": "2021-04-23 10:20:08",
       "album": {
         "name": "Le Soldat Rose 2",
-        "url": "https://open.spotify.com/album/0VoSSoBOjDUqrUZDxEQ7Br"
+        "url": "https://open.spotify.com/album/6fZCT61LQYLgNuwQkR8JCD"
       },
       "artists": [
+        {
+          "name": "Le Soldat Rose",
+          "url": "https://open.spotify.com/artist/2rOCPPNRJnQMkNa5D18Ef2"
+        },
         {
           "name": "T\u00e9t\u00e9",
           "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
         }
       ],
       "duration_ms": 197760,
-      "name": "La sieste",
-      "url": "https://open.spotify.com/track/0Hac68gGmbJEDbcWsOQReb"
+      "name": "La sieste (feat. T\u00e9t\u00e9)",
+      "url": "https://open.spotify.com/track/1erAsezbhHFWDURC6OGkEj"
     },
     {
       "added_at": "2021-04-23 10:20:08",

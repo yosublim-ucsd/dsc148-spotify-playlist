@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "What To Expect When You're Expecting Soundtrack",
+        "url": "https://open.spotify.com/album/2kAEABNjhDS3t4xIOO85fI"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303733,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1y6NrtYewc9g3XDkOdDwTQ"
+    },
+    {
+      "album": {
         "name": "The World From The Side Of The Moon",
         "url": "https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E"
       },
@@ -452,7 +470,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 306373,
       "name": "Home - 2019 - Remaster",
       "url": "https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx"

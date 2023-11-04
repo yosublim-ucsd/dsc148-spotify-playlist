@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 
 > Lose yourself in the summer daze...
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,942 likes - 107 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,944 likes - 107 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 45 | [I Need a Doctor](https://open.spotify.com/track/5h7QCIkrAcCbdxILyK4pxF) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Journey to the Center of Myself, Vol\. 3](https://open.spotify.com/album/1cS2zM7E9G94LQgat1ANTR) | 2:12 |
 | 46 | [How You Been](https://open.spotify.com/track/5lpaOoqOHv0lWqhreNIPJn) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Hello My Beautiful World](https://open.spotify.com/album/7qRGXXKa5br95Ao9n7mhWK) | 3:42 |
 | 47 | [On My Knees](https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:21 |
-| 48 | [Complicated \(feat\. Young Franco\)](https://open.spotify.com/track/0qjOgJ8BLIt5d9VgYEYq75) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Complicated \(feat\. Young Franco\)](https://open.spotify.com/album/0W5rlGoHNrLwN35NG1HtTw) | 2:57 |
+| 48 | [Complicated \(feat\. Young Franco\)](https://open.spotify.com/track/2TdAhpmGqB1DhzI0Auo9lq) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Panna Cotta](https://open.spotify.com/album/76bR8wlB1DS5iaKqFy3fWH) | 2:57 |
 | 49 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 |
 | 50 | [Light Year \(feat\. Masked Wolf & Jasiah\)](https://open.spotify.com/track/3qluBAef6SQ0RBJGDUPnLC) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:00 |
 | 51 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 73 | [My Love](https://open.spotify.com/track/0wGOFhyvrrxXcz4OBqzrq6) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Time Flies](https://open.spotify.com/album/0BjLwfQvfZUN9E4vmgFD7w) | 3:29 |
 | 74 | [Feel Good](https://open.spotify.com/track/3j81JGhjUAXrfuAbvTpE3b) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Feel Good](https://open.spotify.com/album/5v6TiY5DBUelWDVoJ7DYMw) | 2:54 |
 | 75 | [Breathe Deeper \- Lil Yachty Remix](https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Breathe Deeper \(Lil Yachty Remix\)](https://open.spotify.com/album/3Gl28UI0f8xU2DAhaXWz04) | 4:48 |
-| 76 | [Pineapple Pizza](https://open.spotify.com/track/5GY7EgrHztoGJkGXDdhQCR) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Pineapple Pizza](https://open.spotify.com/album/7rBmAvloiKVHIOHpC5g1ni) | 2:26 |
+| 76 | [Pineapple Pizza](https://open.spotify.com/track/3WV5r7zhoJ0EcoVdAhzZJr) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Pineapple Pizza](https://open.spotify.com/album/5D6TCAIEzzmt4DW9WNDfbo) | 2:26 |
 | 77 | [Air](https://open.spotify.com/track/3bJJu6tjuKlSGD8vbwJ7FB) | [Phebe Starr](https://open.spotify.com/artist/5buTKeJ19EBEcckqTe0XqP) | [Air](https://open.spotify.com/album/4Fz2th3B672VGj7wm7904J) | 3:48 |
 | 78 | [Temper](https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Temper](https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR) | 3:26 |
 | 79 | [Weakness](https://open.spotify.com/track/4cQl7fTLLpCbf4g0DpsNDM) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Weakness](https://open.spotify.com/album/2nZIZSq3BVInZoyo9BLVpe) | 3:27 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 106 | [World Is Fucked](https://open.spotify.com/track/0BNfXrlaLhVynRYbMHV1N9) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [World Is Fucked](https://open.spotify.com/album/3uOuX5ziHrQkD7ULfT87Gs) | 2:52 |
 | 107 | [All That \(feat\. Channel Tres\)](https://open.spotify.com/track/5rzndDb4DgVkOsIsfbRv0q) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 3:05 |
 
-Snapshot ID: `MCw1NDEzNDM5N2JjZjU4ZGE4YTkyZjQxMzI3ZDllNGE2NTY4ZThlOTM4`
+Snapshot ID: `MCw1NDViM2UwMjY1MzI2ZWFmYWNkZmNiOWUxMjUzNzQ1ZWFhNWQ1YWE1`

@@ -1,12 +1,12 @@
 {
   "description": "The best in old & new Reggae. Cover: Bob Marley.",
-  "num_followers": 2112072,
+  "num_followers": 2112388,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzIzZGY0MGM4NDVlZDBjNTNhYzYwOWYwZjRiMGE5YTViY2VlM2M2",
+  "snapshot_id": "MCxkMzhkZTA2YzU0MDIzYThkM2VjNTRkMjJkNzA3MTkzNmNhMTJhYmNh",
   "tracks": [
     {
       "added_at": "2023-06-08 22:06:22",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Reggae Anthology: Sweet Reggae Music (1979-84)",
-        "url": "https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA"
-      },
-      "artists": [
-        {
-          "name": "Barrington Levy",
-          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Here I Come",
-      "url": "https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Police In Helicopter",
         "url": "https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 219160,
       "name": "Police In Helicopter",
       "url": "https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Reggae Anthology: Sweet Reggae Music (1979-84)",
+        "url": "https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA"
+      },
+      "artists": [
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "Here I Come",
+      "url": "https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Original Ragga Muffin, Pt.1",
-        "url": "https://open.spotify.com/album/5GT7CLKowdpkKRFaiYXfmN"
-      },
-      "artists": [
-        {
-          "name": "Barrington Levy",
-          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Murderer",
-      "url": "https://open.spotify.com/track/4Qmbc7KFWkKvxBz5KjcA6g"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Black Star",
         "url": "https://open.spotify.com/album/01imgCzPh4MFp2S6PmpL3M"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 273040,
       "name": "Hills And Valleys",
       "url": "https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Original Ragga Muffin, Pt.1",
+        "url": "https://open.spotify.com/album/5GT7CLKowdpkKRFaiYXfmN"
+      },
+      "artists": [
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Murderer",
+      "url": "https://open.spotify.com/track/4Qmbc7KFWkKvxBz5KjcA6g"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "007 Shanty Town",
-        "url": "https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
-        },
-        {
-          "name": "ACES",
-          "url": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
-        }
-      ],
-      "duration_ms": 152866,
-      "name": "007 (Shanty Town)",
-      "url": "https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "The Voices Of Sweet Jamaica",
         "url": "https://open.spotify.com/album/7CZ9pJ8wS1qyal2hnMf2qj"
       },
@@ -1079,22 +1059,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "True Reflections...A New Beginning",
-        "url": "https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn"
-      },
-      "artists": [
-        {
-          "name": "Jah Cure",
-          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Longing For",
-      "url": "https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Wa-Do-Dem",
         "url": "https://open.spotify.com/album/2fGzC6ZvAqmpBr8dprAQTT"
       },
@@ -1107,6 +1071,22 @@
       "duration_ms": 235373,
       "name": "Wa-Do-Dem",
       "url": "https://open.spotify.com/track/7578oiL9J6tFHXEjfCXFAS"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "True Reflections...A New Beginning",
+        "url": "https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn"
+      },
+      "artists": [
+        {
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Longing For",
+      "url": "https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1231,6 +1211,22 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
+        "name": "Marcus Garvey",
+        "url": "https://open.spotify.com/album/2YsfYi8B9pEuts9qwa3TSN"
+      },
+      "artists": [
+        {
+          "name": "Burning Spear",
+          "url": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Marcus Garvey",
+      "url": "https://open.spotify.com/track/30ELPvO4DH57Rq2kgj7a8e"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
         "name": "Party Girls (feat. Buju Banton)",
         "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
       },
@@ -1251,22 +1247,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Marcus Garvey",
-        "url": "https://open.spotify.com/album/2YsfYi8B9pEuts9qwa3TSN"
-      },
-      "artists": [
-        {
-          "name": "Burning Spear",
-          "url": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Marcus Garvey",
-      "url": "https://open.spotify.com/track/30ELPvO4DH57Rq2kgj7a8e"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "In The Streets To Africa",
         "url": "https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc"
       },
@@ -1283,22 +1263,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Equal Rights (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65"
-      },
-      "artists": [
-        {
-          "name": "Peter Tosh",
-          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
-        }
-      ],
-      "duration_ms": 269546,
-      "name": "I Am That I Am",
-      "url": "https://open.spotify.com/track/2PyDqCtFcXsucZqTF4rE3i"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Chronology",
         "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
       },
@@ -1311,6 +1275,22 @@
       "duration_ms": 213149,
       "name": "Smile Jamaica",
       "url": "https://open.spotify.com/track/7KhQx2EJaZIPGsbMAjf4jg"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Equal Rights (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65"
+      },
+      "artists": [
+        {
+          "name": "Peter Tosh",
+          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
+        }
+      ],
+      "duration_ms": 269546,
+      "name": "I Am That I Am",
+      "url": "https://open.spotify.com/track/2PyDqCtFcXsucZqTF4rE3i"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1395,22 +1375,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Poor Man Style",
-        "url": "https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H"
-      },
-      "artists": [
-        {
-          "name": "Barrington Levy",
-          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Labour Of Love II",
         "url": "https://open.spotify.com/album/2jfea3275Ef5g1nUwnf1fg"
       },
@@ -1443,6 +1407,22 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
+        "name": "Chronology",
+        "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Spanish Town Rockin'",
+      "url": "https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
         "name": "Ten Cane Row (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
@@ -1459,22 +1439,6 @@
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
-        "name": "Chronology",
-        "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
-      },
-      "artists": [
-        {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Spanish Town Rockin'",
-      "url": "https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1563,26 +1527,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "In Search Of Lost Time",
-        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 234920,
-      "name": "Switch It Up (feat. Koffee)",
-      "url": "https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Morgan Heritage Family & Friends Vol. 1",
         "url": "https://open.spotify.com/album/1ojQVmqamJnShNuqZI3TQv"
       },
@@ -1635,22 +1579,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Everything I Own",
-        "url": "https://open.spotify.com/album/510G90X1Ckki9sTPdwwYDW"
-      },
-      "artists": [
-        {
-          "name": "Ken Boothe",
-          "url": "https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Everything I Own - 7\" Mix",
-      "url": "https://open.spotify.com/track/6om52tevyqVMvl1mWTtKPM"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Most Wanted Series - Yellowman",
         "url": "https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N"
       },
@@ -1683,6 +1611,26 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
+        "name": "In Search Of Lost Time",
+        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 234920,
+      "name": "Switch It Up (feat. Koffee)",
+      "url": "https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
         "name": "Can't Breathe (Genius T Remix)",
         "url": "https://open.spotify.com/album/6Z1RymNPBPYeamjtuAergh"
       },
@@ -1699,18 +1647,18 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "The 8 Year Affair",
-        "url": "https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA"
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU"
       },
       "artists": [
         {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
         }
       ],
-      "duration_ms": 251204,
-      "name": "Kingston Be Wise",
-      "url": "https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz"
+      "duration_ms": 279533,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1739,22 +1687,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "The Cure",
-        "url": "https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU"
-      },
-      "artists": [
-        {
-          "name": "Jah Cure",
-          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
-        }
-      ],
-      "duration_ms": 279533,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "Bush Doctor",
         "url": "https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b"
       },
@@ -1767,22 +1699,6 @@
       "duration_ms": 320280,
       "name": "(You Gotta Walk) Don't Look Back - 2002 Remaster",
       "url": "https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 173251,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1803,6 +1719,22 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 173251,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV"
       },
@@ -1815,6 +1747,22 @@
       "duration_ms": 259200,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "The 8 Year Affair",
+        "url": "https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 251204,
+      "name": "Kingston Be Wise",
+      "url": "https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1851,22 +1799,6 @@
     {
       "added_at": "2023-06-08 22:06:22",
       "album": {
-        "name": "Reggae Greats",
-        "url": "https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA"
-      },
-      "artists": [
-        {
-          "name": "Steel Pulse",
-          "url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "Handsworth Revolution",
-      "url": "https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM"
-    },
-    {
-      "added_at": "2023-06-08 22:06:22",
-      "album": {
         "name": "The ExPerience",
         "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
       },
@@ -1879,6 +1811,22 @@
       "duration_ms": 243049,
       "name": "Where I'm Coming From",
       "url": "https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Reggae Greats",
+        "url": "https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA"
+      },
+      "artists": [
+        {
+          "name": "Steel Pulse",
+          "url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "Handsworth Revolution",
+      "url": "https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM"
     },
     {
       "added_at": "2023-06-08 22:06:22",
@@ -1931,6 +1879,54 @@
       "duration_ms": 290626,
       "name": "War Ina Babylon",
       "url": "https://open.spotify.com/track/5Me6F9y6iArvYxyuP30m14"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Love And Mercy",
+        "url": "https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62"
+      },
+      "artists": [
+        {
+          "name": "Samory I",
+          "url": "https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Love And Mercy",
+      "url": "https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 200196,
+      "name": "Raggamuffin",
+      "url": "https://open.spotify.com/track/1m1BWVNNPRTiYmlCd5eqW0"
+    },
+    {
+      "added_at": "2023-06-08 22:06:22",
+      "album": {
+        "name": "A Song (2010 Remastered Version)",
+        "url": "https://open.spotify.com/album/2rpCArNNUjZFgpi75CvxQ6"
+      },
+      "artists": [
+        {
+          "name": "Pablo Moses",
+          "url": "https://open.spotify.com/artist/6EMWMUO2B9Nt39O7SXdZUw"
+        }
+      ],
+      "duration_ms": 290453,
+      "name": "Dubbing Is a Must, Pt. 1 - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/6Q6Ers8BEarblm3tlQelx7"
     }
   ],
   "unique_name": "One Love",

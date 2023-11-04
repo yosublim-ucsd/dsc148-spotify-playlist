@@ -1543,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "Ben\u00e7a",
+        "url": "https://open.spotify.com/album/1h4Q4hccA4Z9HuBnXq9pfe"
+      },
+      "artists": [
+        {
+          "name": "Makalister",
+          "url": "https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149394,
+      "name": "Ben\u00e7a",
+      "url": "https://open.spotify.com/track/3WsxaJ1ukwvjLI83S1lF5z"
+    },
+    {
+      "album": {
         "name": "BH & SP",
         "url": "https://open.spotify.com/album/7z9fRxC9XbBbQ2l5hPWGl4"
       },
@@ -5476,7 +5494,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 124436,
       "name": "Invisto",
       "url": "https://open.spotify.com/track/4BQT37CbzTDHPm6yRAdp5z"
@@ -10900,7 +10918,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 144822,
       "name": "TE ENCONTREI",
       "url": "https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ"
@@ -11036,7 +11054,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 182015,
       "name": "Tipo the Sims",
       "url": "https://open.spotify.com/track/4yua47Ap25zlpENDvmBwdK"
@@ -12176,6 +12194,28 @@
       "duration_ms": 155466,
       "name": "Vvs",
       "url": "https://open.spotify.com/track/2Hm5ySP0lDeilNG6iilwcS"
+    },
+    {
+      "album": {
+        "name": "V\u00e1rias Neuroses",
+        "url": "https://open.spotify.com/album/4qCo2KIrscStuCuGwU2Z4C"
+      },
+      "artists": [
+        {
+          "name": "Og NL",
+          "url": "https://open.spotify.com/artist/3ER3jy8ZmOBcsMSOiPp3HZ"
+        },
+        {
+          "name": "Ayo Th",
+          "url": "https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146127,
+      "name": "V\u00e1rias Neuroses",
+      "url": "https://open.spotify.com/track/3Svz85ujlOrJFRTq5tZDkd"
     },
     {
       "album": {

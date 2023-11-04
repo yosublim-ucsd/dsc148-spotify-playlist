@@ -1,15 +1,15 @@
 {
   "description": "",
-  "num_followers": 30728,
+  "num_followers": 30753,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmJiZmQ3N2I5NWQ2NTA4ZjAyYzlhZTBhNTZkNWE5NmI2MGQzZjdh",
+  "snapshot_id": "MCwyNmJlNDkyYTE2MGVlZDU1ZTUwYTE3NjJkMDcwY2I5OGU1ZjE3NmEw",
   "tracks": [
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
@@ -29,27 +29,47 @@
       "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
-        "name": "\u59b3\u5728\u54ea\u88e1 (WYA)",
-        "url": "https://open.spotify.com/album/6ynjwmYfzxcX8HmRnxyqLt"
+        "name": "Smoke (Remix)",
+        "url": "https://open.spotify.com/album/395Tpq1Ak19oGniHdQjOSk"
       },
       "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "NINGNING",
-          "url": "https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM"
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        },
+        {
+          "name": "Padi",
+          "url": "https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5"
         }
       ],
-      "duration_ms": 223728,
-      "name": "\u59b3\u5728\u54ea\u88e1 (WYA)",
-      "url": "https://open.spotify.com/track/4WOBcLq8VFP4xWLyNMAotu"
+      "duration_ms": 283920,
+      "name": "Smoke (Prod. Dynamicduo, Padi) - Remix",
+      "url": "https://open.spotify.com/track/0sedpruW5fiIKDyDNKa6rp"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
@@ -69,7 +89,7 @@
       "url": "https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
@@ -129,7 +149,7 @@
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/2FWquqPNxte8iqZ3ATQG0p"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/7aNA0yQbOYu3HKWv9zElJX"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Dingo X H1GHR MUSIC",
         "url": "https://open.spotify.com/album/2t5fdLTQu0xX89rDf4NMNX"
@@ -229,7 +249,27 @@
       "url": "https://open.spotify.com/track/4q9JLlC3HIhN4CDC6KlpYK"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 192585,
+      "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
+      "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "SHOW ME THE MONEY 11 Semi Final",
         "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
@@ -253,27 +293,7 @@
       "url": "https://open.spotify.com/track/1v520W6rEa0nB2vvqAxnU3"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 192585,
-      "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
-      "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Point Of View: U",
         "url": "https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/6gLJoEyuuHk1IwrZXWjotF"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "H1GHR : BLUE TAPE",
         "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/2Wqnhu5dRQDAQi8Ej6HnVQ"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "NUNA",
         "url": "https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd"
@@ -345,27 +365,7 @@
       "url": "https://open.spotify.com/track/2zCXNCWa1RMIHfv0435jhT"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 218375,
-      "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Show Me the Money 5 Episode 4",
         "url": "https://open.spotify.com/album/4iSAd5Tg8jNhoRLnZ0Tb0X"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/3i6vV5Z2P9uMlxf8wdm2WK"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
@@ -405,7 +405,27 @@
       "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Does She",
+      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "GANG (Official Remix)",
         "url": "https://open.spotify.com/album/7sSR7cyAVVr1OkCouJpxc6"
@@ -433,7 +453,27 @@
       "url": "https://open.spotify.com/track/3D0nbQmiFAnibdZTajgaYO"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 218375,
+      "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
@@ -473,27 +513,7 @@
       "url": "https://open.spotify.com/track/0vZi38VepxZWh0ACqYaXio"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Does She",
-      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Think",
         "url": "https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/1s1EHjXGkOQaCPl2iY359n"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/6CcrXh8NHk5agJtbGt0tYR"
@@ -553,27 +573,7 @@
       "url": "https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "POST IT",
-        "url": "https://open.spotify.com/album/4QEyVgpccxmKuzeb5VQmNm"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 226989,
-      "name": "POST IT (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/1ByJ2Pn1yxfTVl2cjCdYGO"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "SHOW ME THE MONEY 11 Episode 1",
         "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
@@ -609,7 +609,27 @@
       "url": "https://open.spotify.com/track/4QoOoFKhAWYOylWw2io6va"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "POST IT",
+        "url": "https://open.spotify.com/album/4QEyVgpccxmKuzeb5VQmNm"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 226989,
+      "name": "POST IT (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/1ByJ2Pn1yxfTVl2cjCdYGO"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
         "url": "https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb"
@@ -625,7 +645,7 @@
       "url": "https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "WATER",
         "url": "https://open.spotify.com/album/1jPLfwzHnBTJIMzrA2lb7y"
@@ -657,7 +677,7 @@
       "url": "https://open.spotify.com/track/7EBxRB5zybo2zutJuiAwoF"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "BRB",
         "url": "https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2"
@@ -673,7 +693,7 @@
       "url": "https://open.spotify.com/track/620yE97rij2snTka7EbKH0"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Forget About Tomorrow",
         "url": "https://open.spotify.com/album/6jmeG5l8ltMgtu8XFGB30A"
@@ -693,7 +713,7 @@
       "url": "https://open.spotify.com/track/6u7ipGHDJsBA3UOwuz0W2T"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "School Rapper4 Final",
         "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
@@ -713,7 +733,7 @@
       "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/4w7P5OaLfcinkb0RTMNxqh"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Son Malas (Feat. Jay Park)",
         "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "BOYCOLD",
         "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
@@ -781,7 +801,27 @@
       "url": "https://open.spotify.com/track/2fFeKfvIEJxpFbeTZ0tsJ5"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "Stay Down",
+        "url": "https://open.spotify.com/album/3bhiDPhFZQWkuH5YXMsN22"
+      },
+      "artists": [
+        {
+          "name": "Lewie",
+          "url": "https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Stay Down",
+      "url": "https://open.spotify.com/track/1avJ6Pip6R7XPYbgbx6VA5"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Playinwitme (Remix) [feat. Jay Park]",
         "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
@@ -801,31 +841,7 @@
       "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "B.A.R.S, Vol. 1",
-        "url": "https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO"
-      },
-      "artists": [
-        {
-          "name": "$tupid Young",
-          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
-        },
-        {
-          "name": "B.A.R.S",
-          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Sho Nuff",
-      "url": "https://open.spotify.com/track/4A9Qs6OO0NO8y2OheOLldD"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "School Rapper4 - Team Battle:Group",
         "url": "https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK"
@@ -861,7 +877,7 @@
       "url": "https://open.spotify.com/track/3KxadSAONZRtjuLpyZVZlp"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "SignHere episode1",
         "url": "https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/59futJ8UnUZuv3Lhu7lGWC"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Westcoast",
         "url": "https://open.spotify.com/album/23khvZGgUKTP9J6K1qD0g1"
@@ -909,7 +925,7 @@
       "url": "https://open.spotify.com/track/3oLTFTg2LC3P3E8QhcV71I"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "H1GHR : BLUE TAPE",
         "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
@@ -937,7 +953,7 @@
       "url": "https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "School Rapper4 - Team Battle:Textbook Rap Battle2",
         "url": "https://open.spotify.com/album/5ArV0JO4azUkTjbcAVkC6p"
@@ -957,7 +973,7 @@
       "url": "https://open.spotify.com/track/47b1jmZFEs2lDSZPN9bmcE"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Mentors [from \u201cSchool Rapper 4 Episode 0\u201d]",
         "url": "https://open.spotify.com/album/1jblALddh9vcMp7j4MqM8H"
@@ -1009,7 +1025,7 @@
       "url": "https://open.spotify.com/track/1Jaf1PUUwzXZ3bCJ6mBjPh"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "SignHere episode1",
         "url": "https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh"
@@ -1033,7 +1049,7 @@
       "url": "https://open.spotify.com/track/3Xgttn2kqwZE4smkIlnmhE"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Everybody Sucks",
         "url": "https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l"
@@ -1053,7 +1069,7 @@
       "url": "https://open.spotify.com/track/0Hfpa8a41cdLKDtDotbFbe"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Dior Socks",
         "url": "https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw"
@@ -1073,7 +1089,7 @@
       "url": "https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "SignHere episode1",
         "url": "https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh"
@@ -1097,31 +1113,27 @@
       "url": "https://open.spotify.com/track/1gUFxP5qGhfDemzaJjkrDb"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
-        "name": "B.A.R.S, Vol. 1",
-        "url": "https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO"
+        "name": "Slide (Remix)",
+        "url": "https://open.spotify.com/album/2VCfveEkytX9YzSQKXPZsr"
       },
       "artists": [
         {
-          "name": "$tupid Young",
-          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
-        },
-        {
-          "name": "B.A.R.S",
-          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
+          "name": "Maliibu Miitch",
+          "url": "https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 180811,
-      "name": "Came Up (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/3IkYQjapZOMnWhMq8bXVMp"
+      "duration_ms": 175935,
+      "name": "Slide - Remix",
+      "url": "https://open.spotify.com/track/2UqsF7vP3sxJYaiLrg6s14"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Thuggin 4 My Baby",
         "url": "https://open.spotify.com/album/05yZdaFZebreNpWGOssmsl"
@@ -1145,7 +1157,31 @@
       "url": "https://open.spotify.com/track/5l4DwTPXsAREUlBiRV6qil"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "B.A.R.S (Vol. 1)",
+        "url": "https://open.spotify.com/album/1JwwVlMQ5mZUquPb3SE8h2"
+      },
+      "artists": [
+        {
+          "name": "$tupid Young",
+          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
+        },
+        {
+          "name": "B.A.R.S",
+          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Sho Nuff (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/1SjbEsqXoDVPzWqYyrtwuc"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Everybody Sucks",
         "url": "https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l"
@@ -1165,7 +1201,7 @@
       "url": "https://open.spotify.com/track/22AUepm772KRmj5jRoaK4V"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Everybody Sucks",
         "url": "https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l"
@@ -1185,27 +1221,7 @@
       "url": "https://open.spotify.com/track/51UySSlGzD8HLk99x60pdq"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "Everybody Sucks",
-        "url": "https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l"
-      },
-      "artists": [
-        {
-          "name": "DJ Wegun",
-          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 178442,
-      "name": "Deep Sea DRIP",
-      "url": "https://open.spotify.com/track/1EayMTMyCtRRwZN1KAUPmW"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Everybody Sucks",
         "url": "https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l"
@@ -1225,7 +1241,51 @@
       "url": "https://open.spotify.com/track/1ePCvZmnZKBLaDrYf8r4kQ"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "Everybody Sucks",
+        "url": "https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l"
+      },
+      "artists": [
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 178442,
+      "name": "Deep Sea DRIP",
+      "url": "https://open.spotify.com/track/1EayMTMyCtRRwZN1KAUPmW"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "B.A.R.S (Vol. 1)",
+        "url": "https://open.spotify.com/album/1JwwVlMQ5mZUquPb3SE8h2"
+      },
+      "artists": [
+        {
+          "name": "$tupid Young",
+          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
+        },
+        {
+          "name": "B.A.R.S",
+          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 180811,
+      "name": "Came Up (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/36iOyLIlGimlYeGmXgRZ5R"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
@@ -1241,7 +1301,27 @@
       "url": "https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "\u59b3\u5728\u54ea\u88e1 (WYA)",
+        "url": "https://open.spotify.com/album/6ynjwmYfzxcX8HmRnxyqLt"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "NINGNING",
+          "url": "https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM"
+        }
+      ],
+      "duration_ms": 223728,
+      "name": "\u59b3\u5728\u54ea\u88e1 (WYA)",
+      "url": "https://open.spotify.com/track/4WOBcLq8VFP4xWLyNMAotu"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
@@ -1261,7 +1341,7 @@
       "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
@@ -1305,7 +1385,7 @@
       "url": "https://open.spotify.com/track/3gGyzpBLb7pqOw5oC47QaV"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Need To Know",
         "url": "https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t"
@@ -1321,7 +1401,7 @@
       "url": "https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
@@ -1341,7 +1421,7 @@
       "url": "https://open.spotify.com/track/4NKQTbmiBtm1MwqBbQQhpM"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
@@ -1357,7 +1437,7 @@
       "url": "https://open.spotify.com/track/3SWju8HQ6II7QXkWtFSDE1"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "YACHT",
         "url": "https://open.spotify.com/album/6EOH7UFeHjwhZERVQdzaoT"
@@ -1377,7 +1457,7 @@
       "url": "https://open.spotify.com/track/57ziFwpzuFkJi5nP91qnl4"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
@@ -1397,7 +1477,43 @@
       "url": "https://open.spotify.com/track/6j3i8yVetAyxX8vUIfoz70"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "\u59b3\u5728\u54ea\u88e1 (WYA) Remix",
+        "url": "https://open.spotify.com/album/7gxJr2sZru2NyUT7fNtbU4"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "NINGNING",
+          "url": "https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Lexie Liu",
+          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
+        },
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        },
+        {
+          "name": "Masiwei",
+          "url": "https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA"
+        }
+      ],
+      "duration_ms": 249832,
+      "name": "\u59b3\u5728\u54ea\u88e1 (WYA) Remix (Feat. pH-1, Lexie Liu, \u00d8ZI, Masiwei)",
+      "url": "https://open.spotify.com/track/07dT7SCgoq9ntHReX3bbqQ"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
@@ -1413,7 +1529,7 @@
       "url": "https://open.spotify.com/track/3f5XXfnwDmo3z8fJPb9Oxa"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
@@ -1433,7 +1549,7 @@
       "url": "https://open.spotify.com/track/4FOZlvdQutqRNcQQRefA7T"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
@@ -1449,7 +1565,7 @@
       "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
@@ -1469,7 +1585,7 @@
       "url": "https://open.spotify.com/track/32f0F3bMCTsUnorBsr9Jj8"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
@@ -1489,7 +1605,75 @@
       "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "SLAY HOUSE REMIX",
+        "url": "https://open.spotify.com/album/1nXs500bOOyoZJiLjQvD0b"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Slom",
+          "url": "https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD"
+        },
+        {
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "365LIT",
+          "url": "https://open.spotify.com/artist/65LSFEqRhq074aUBF1zF2e"
+        },
+        {
+          "name": "JUPITER",
+          "url": "https://open.spotify.com/artist/09KeT4dkVIveN5OpVOCPeU"
+        },
+        {
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+        },
+        {
+          "name": "XINSAYNE",
+          "url": "https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS"
+        },
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        },
+        {
+          "name": "sokodomo",
+          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
+        },
+        {
+          "name": "\ucf54\uc54c\ub77c KOALA",
+          "url": "https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ"
+        },
+        {
+          "name": "JAMBINO",
+          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Chillin Homie",
+          "url": "https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM"
+        },
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        }
+      ],
+      "duration_ms": 459853,
+      "name": "BLUE CHECK REMIX (Feat. Blase, 365LIT, JUPITER, KHAN, XINSAYNE, Roh Yun Ha, sokodomo, KOALA, Jambino, Lee Young Ji, Chillin Homie, NSW yoon)",
+      "url": "https://open.spotify.com/track/2mqnyDbLObaEBnvGv5Ok5Z"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
@@ -1505,7 +1689,7 @@
       "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "MOMMAE",
         "url": "https://open.spotify.com/album/1kgzGqeJbY7gwiheabVk1L"
@@ -1521,7 +1705,7 @@
       "url": "https://open.spotify.com/track/6dJ4jLQMM8SXGYrM0eRCNm"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Thoughts Of You",
         "url": "https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx"
@@ -1545,7 +1729,7 @@
       "url": "https://open.spotify.com/track/3NVsaXCV8RR8VGZzZlXuVX"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
@@ -1569,10 +1753,10 @@
       "url": "https://open.spotify.com/track/2LTLUWY6bTkBZD5OAqhkuI"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
-        "name": "SUMMERIDE",
-        "url": "https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo"
+        "name": "Sunday Night Drive",
+        "url": "https://open.spotify.com/album/31J8jhJwqaeOS3ZJUOkg6t"
       },
       "artists": [
         {
@@ -1580,12 +1764,12 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 218026,
-      "name": "SUMMERIDE",
-      "url": "https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ"
+      "duration_ms": 129240,
+      "name": "Sunday Night Drive",
+      "url": "https://open.spotify.com/track/4L4Kbg3jAEPJZbEovRyKeH"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
@@ -1605,7 +1789,23 @@
       "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "SUMMERIDE",
+        "url": "https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 218026,
+      "name": "SUMMERIDE",
+      "url": "https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
@@ -1633,7 +1833,7 @@
       "url": "https://open.spotify.com/track/4D7itKLDptW3QjL32Uaa6F"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "K-TOWN",
         "url": "https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF"
@@ -1653,7 +1853,7 @@
       "url": "https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
@@ -1669,7 +1869,7 @@
       "url": "https://open.spotify.com/track/39L0cwuHe0RIgOehPJuQu0"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "All The Way Up",
         "url": "https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr"
@@ -1685,7 +1885,7 @@
       "url": "https://open.spotify.com/track/072zJPb2mwUjrJLKJxYFLe"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
@@ -1729,7 +1929,7 @@
       "url": "https://open.spotify.com/track/7kvmOl9he8v0649CG1KjLL"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
@@ -1745,7 +1945,7 @@
       "url": "https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Bite",
         "url": "https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA"
@@ -1761,7 +1961,7 @@
       "url": "https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "To Life",
         "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
@@ -1777,7 +1977,7 @@
       "url": "https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "All The Way Up",
         "url": "https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr"
@@ -1793,23 +1993,7 @@
       "url": "https://open.spotify.com/track/0LPIfrP6dURnrG5qXweTDZ"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 163531,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
@@ -1825,7 +2009,23 @@
       "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 163531,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "ENGINE",
         "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
@@ -1845,7 +2045,7 @@
       "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "DNA Remix",
         "url": "https://open.spotify.com/album/7BJ4UhVP36NLhjxgGcXhNA"
@@ -1897,7 +2097,7 @@
       "url": "https://open.spotify.com/track/64m44h2nTKmBczXoDkbErt"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Ask Bout Me",
         "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
@@ -1917,7 +2117,7 @@
       "url": "https://open.spotify.com/track/1fRIaQ4nHZF5FybsAsqKZz"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "ALL IN",
         "url": "https://open.spotify.com/album/4Pe85vc4NSIC9Y9adjmNA5"
@@ -1941,7 +2141,7 @@
       "url": "https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
@@ -1957,7 +2157,7 @@
       "url": "https://open.spotify.com/track/4EzqNvmGUyGAqiAOivsydr"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "RUN IT",
         "url": "https://open.spotify.com/album/7JHRCbkBq50DaM1tBRSa0c"
@@ -1981,7 +2181,7 @@
       "url": "https://open.spotify.com/track/3sznlAy0sce8la6GVzhnKU"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Ask Bout Me",
         "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
@@ -2001,31 +2201,7 @@
       "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "REBORN",
-        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "Boi B",
-          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
-        }
-      ],
-      "duration_ms": 235364,
-      "name": "REBORN",
-      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
@@ -2053,7 +2229,31 @@
       "url": "https://open.spotify.com/track/20QRiEt3H04E5vHJG4LDlG"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Boi B",
+          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
+        }
+      ],
+      "duration_ms": 235364,
+      "name": "REBORN",
+      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "Ask Bout Me",
         "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
@@ -2069,7 +2269,7 @@
       "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
@@ -2085,7 +2285,7 @@
       "url": "https://open.spotify.com/track/5IQhpdzUUxk3WngtnrXv2P"
     },
     {
-      "added_at": "2023-07-31 16:03:37",
+      "added_at": "2023-11-03 05:32:22",
       "album": {
         "name": "The Road Less Traveled",
         "url": "https://open.spotify.com/album/0CgsDZhPdu4n0TMkTFcCLl"
@@ -2099,126 +2299,6 @@
       "duration_ms": 193746,
       "name": "Feng Shui (Prod. by Cha Cha Malone)",
       "url": "https://open.spotify.com/track/5aZPGYGzyrVyy9oYAE9dPZ"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 191660,
-      "name": "Yummy (Prod. by Cha Cha Malone)",
-      "url": "https://open.spotify.com/track/6EHY1kVGeoghDbj77BwMnq"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KRNFX",
-          "url": "https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S"
-        }
-      ],
-      "duration_ms": 243593,
-      "name": "Limousine (Feat. KRNFX)",
-      "url": "https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Cha Cha Malone",
-          "url": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
-        }
-      ],
-      "duration_ms": 230414,
-      "name": "Feature (Feat. Cha Cha Malone)",
-      "url": "https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 251846,
-      "name": "Alone Tonight (Feat. Sik-K)",
-      "url": "https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Million",
-      "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 362314,
-      "name": "WORLDWIDE",
-      "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
     }
   ],
   "unique_name": "This Is Jay Park",

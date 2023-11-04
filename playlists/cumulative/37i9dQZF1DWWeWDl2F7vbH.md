@@ -4,7 +4,7 @@
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-76 songs - 7 hr 59 min
+78 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Acid Tracks](https://open.spotify.com/track/2aLXJJ2zOsBJlGTxiG0yMi) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/6g7DeZAKsyubcQpyWw7WZZ) | 12:17 | 2021-06-01 |  |
 | [Acid Tracks](https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro) | 12:19 | 2021-06-01 | 2022-11-13 |
 | [Altered States \- Original Version](https://open.spotify.com/track/4Ps7ZJ2YJmQhmEpHhPZ5Pu) | [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Altered States Blak Tech Society \(Remixes and Rethinks\)](https://open.spotify.com/album/3jBDwYYSaq2mvWLaQbjx5Q) | 13:40 | 2021-06-01 |  |
-| [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 | 2021-06-01 |  |
+| [Beautiful People \(Underground Network Mix\)](https://open.spotify.com/track/0yMeUdXZmUjLpURNnyqRZY) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/5UYOOaR4qV3EL7mipIOxDE) | 9:03 | 2023-06-01 |  |
+| [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 | 2021-06-01 | 2023-11-04 |
 | [Bring Down the Walls \- Club 12" Mix](https://open.spotify.com/track/5B877qrirzwdOZUzNZ8GJj) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Sources \- The Trax Records Anthology Compiled by Bill Brewster](https://open.spotify.com/album/1k8Bqa4KCK7ihCuyljIoBC) | 5:37 | 2021-06-01 |  |
 | [Can U Dance](https://open.spotify.com/track/3poyzqZ7oCNWEQQbNDdxJG) | [Kenny Jason](https://open.spotify.com/artist/49BbzHPrQAPcJKg79Ef2aB), [Dj Fast Eddie](https://open.spotify.com/artist/5lXVbldEpBEB9PWoNKokut) | [Colours of House Music, Vol\. 1 \(Essential Collection of House Music, Oldskool and Future Classixx\)](https://open.spotify.com/album/2zK1ok08vM1oGFXJt4mcw1) | 6:52 | 2021-06-01 | 2022-08-05 |
 | [Can U Dance \- Original](https://open.spotify.com/track/3fwERi4c7YGnHFEVnwGTQm) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Can U Dance](https://open.spotify.com/album/4e14JHptqsfgqVlX0Z0NoI) | 6:52 | 2021-06-01 | 2023-05-20 |
@@ -31,7 +32,8 @@
 | [Dance You Mutha](https://open.spotify.com/track/4Lsm1CZ7dcStREyx82DNfY) | [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Dance You Mutha](https://open.spotify.com/album/46z9rRRERhimT8fptPcJMW) | 6:11 | 2021-06-01 |  |
 | [Dance You Mutha \- Radio Mutha](https://open.spotify.com/track/7LmXZmZh26Kix8scl972qB) | [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Dance You Mutha](https://open.spotify.com/album/2DfYPScpfIGYHsKk9IlrAO) | 4:20 | 2021-06-01 |  |
 | [Dance You Mutha \- Radio Mutha](https://open.spotify.com/track/1ZEbCVqY8cgrnTCPxMVecw) | [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Dance You Mutha](https://open.spotify.com/album/09pKLaWMiJuozwTd98kY1l) | 4:20 | 2021-06-01 | 2022-07-29 |
-| [Deep Inside](https://open.spotify.com/track/22eUyC9vOG2aoP5yHX8VxV) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(2009 Mixes\)](https://open.spotify.com/album/573BQbP4hPr12C32Np5XDW) | 6:30 | 2021-06-01 |  |
+| [Deep Inside](https://open.spotify.com/track/22eUyC9vOG2aoP5yHX8VxV) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(2009 Mixes\)](https://open.spotify.com/album/573BQbP4hPr12C32Np5XDW) | 6:30 | 2021-06-01 | 2023-11-04 |
+| [Deep Inside](https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Strictly Hardrive](https://open.spotify.com/album/58gDcsComtrCGQGzSuD031) | 6:32 | 2023-06-01 |  |
 | [Dream Girl \- Wet Dream](https://open.spotify.com/track/5HvPR4mRFKQwVpu7GRR9wz) | [Pierre's Phantasy Club](https://open.spotify.com/artist/6zJNLG5DvKim9OzkEGy1TM) | [Dream Girl](https://open.spotify.com/album/2i9YUbpKYs3wNZjk2o9fMa) | 8:53 | 2021-06-01 |  |
 | [Dream Girl \- Wet Dream Mix](https://open.spotify.com/track/4xLRVwJ2hDzoaWijzbY6T1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk) | [Dream Girl](https://open.spotify.com/album/6LUK1l2Bxmmns70WRIx5uY) | 8:53 | 2021-06-01 | 2022-07-29 |
 | [Free Yourself](https://open.spotify.com/track/5MEWg5QOPwn3FMLDxoP1Wd) | [Virgo](https://open.spotify.com/artist/2ByXYkrbs6o7fQGrn17gZt) | [Trax Records: Queer Trax](https://open.spotify.com/album/4KQBQoG77BGnzTiE8cYIaa) | 3:31 | 2021-06-01 |  |

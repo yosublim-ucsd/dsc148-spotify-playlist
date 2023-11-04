@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 202788,
       "name": "1 Times Tables (TI Style)",
       "url": "https://open.spotify.com/track/4UAdHXcCnQFmdqaRUsnA2a"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 255047,
       "name": "Apple of My Eye",
       "url": "https://open.spotify.com/track/7nzvfB4c708km3Y69qKj5k"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 199120,
       "name": "Black and White",
       "url": "https://open.spotify.com/track/5nni7e0KD2XviqyGPPBFCU"
@@ -346,10 +346,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 109120,
       "name": "Girls Run Everything",
       "url": "https://open.spotify.com/track/6lIFLRxoupohiSJXw7PXpZ"
+    },
+    {
+      "album": {
+        "name": "Girls Run Everything",
+        "url": "https://open.spotify.com/album/0WWP0LfIdeu6zISoDKbJC3"
+      },
+      "artists": [
+        {
+          "name": "ZaZa",
+          "url": "https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109120,
+      "name": "Girls Run Everything",
+      "url": "https://open.spotify.com/track/79fkHlESwDh9Dq426rbmTn"
     },
     {
       "album": {
@@ -856,7 +874,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 119160,
       "name": "Man Stop",
       "url": "https://open.spotify.com/track/12Llj63CAU32PYzOc40h8Z"
@@ -1090,7 +1108,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 203080,
       "name": "Safari",
       "url": "https://open.spotify.com/track/0qaUiV6xlTRYqQZ2332Qsh"
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 174524,
       "name": "TELL EM",
       "url": "https://open.spotify.com/track/4IrDPdjKLcQNnCoP4vWF6o"
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 193240,
       "name": "This Old Man",
       "url": "https://open.spotify.com/track/7JaMhrgXmPSXDjVAVxrDav"
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 228722,
       "name": "Wonderful People",
       "url": "https://open.spotify.com/track/5ABg6eFoA2NChM7tFbP9Ch"

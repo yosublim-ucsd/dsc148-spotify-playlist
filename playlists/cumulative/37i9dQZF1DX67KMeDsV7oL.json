@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Halloween: A Thomas Dolby Creation",
+        "url": "https://open.spotify.com/album/6pLzq5yYpq1oRki19bysnu"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dolby",
+          "url": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221266,
+      "name": "She Blinded Me With Science",
+      "url": "https://open.spotify.com/track/5FphpVbf4MCNEglT9yexvn"
+    },
+    {
+      "album": {
         "name": "The Golden Age Of Wireless",
         "url": "https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4"
       },
@@ -554,7 +572,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 222386,
       "name": "She Blinded Me With Science - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/6y9VZNRczyKeQihebHSMJ8"

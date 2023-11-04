@@ -4275,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "FAMMI MALE",
+        "url": "https://open.spotify.com/album/0iD0mIHGkUWzQlGsHDsvpq"
+      },
+      "artists": [
+        {
+          "name": "ELETTRICA",
+          "url": "https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155193,
+      "name": "FAMMI MALE",
+      "url": "https://open.spotify.com/track/568eUgYTIDmKZo8J01kecJ"
+    },
+    {
+      "album": {
         "name": "Fammi morire",
         "url": "https://open.spotify.com/album/3Cg3jbGc848IssQcMO1Isy"
       },
@@ -4294,24 +4312,6 @@
       "duration_ms": 128718,
       "name": "Fammi morire",
       "url": "https://open.spotify.com/track/1mqMoMzSTXzCFcJiCj1aPs"
-    },
-    {
-      "album": {
-        "name": "FAMMIMALE (1.0)",
-        "url": "https://open.spotify.com/album/0iD0mIHGkUWzQlGsHDsvpq"
-      },
-      "artists": [
-        {
-          "name": "ELETTRICA",
-          "url": "https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa"
-        }
-      ],
-      "date_added": "2023-11-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 155193,
-      "name": "FAMMIMALE",
-      "url": "https://open.spotify.com/track/568eUgYTIDmKZo8J01kecJ"
     },
     {
       "album": {

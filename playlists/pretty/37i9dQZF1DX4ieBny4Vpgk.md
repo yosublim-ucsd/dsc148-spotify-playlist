@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 
 > Vocal jazz favorites from 2022\. Cover: Samara Joy \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,230 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,244 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 12 | [Blossom's Blues](https://open.spotify.com/track/2ZC6teLIAGQHEGIRs2VlUg) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/6VHzJNiSLGXkXw9NzY9GGX) | 3:28 |
 | 13 | [Come Fly with Me](https://open.spotify.com/track/6Yzl0fJuDnNsQA3I1VVSCP) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Come Fly with Me](https://open.spotify.com/album/1a9XmKMYpi3XJAc626uqyY) | 3:31 |
 | 14 | [Si tu vois ma mère](https://open.spotify.com/track/6KnkNyo795dy3IgMoC8YMe) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Si tu vois ma mère](https://open.spotify.com/album/3CPy3IZU5eNpduzy8AZoez) | 3:57 |
-| 15 | [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/3y5Z7sB8kKEuBI06G2fZcb) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Did Somebody Make a Fool Out of You](https://open.spotify.com/album/5VvEOtmiR7TFEWp62vjPOs) | 4:51 |
+| 15 | [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/2a6ZvVIWBeBSjAcbPgolD9) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul \(Deluxe\)](https://open.spotify.com/album/41KI9nUWYRQDxXfgfbX5Zz) | 4:51 |
 | 16 | [A Nightingale Sang in Berkeley Square](https://open.spotify.com/track/1ugWQPtI7SNYDXqEwuEjVm) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:05 |
 | 17 | [Long Drive](https://open.spotify.com/track/21CZOvKYpDJgZtVMj0Cimt) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb) | [Under The Moon](https://open.spotify.com/album/1rP8TyQfgQ6G6x2NwfoD0b) | 3:01 |
 | 18 | [New York, New York](https://open.spotify.com/track/5HkL7aG5gOJqwe5BrOBeMa) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs), [Tom Gaebel](https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9) | [New York, New York](https://open.spotify.com/album/0sAEeaj1Ko2SYnL34d9fbW) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 49 | [I Can't Help It](https://open.spotify.com/track/1gVJYBIGO5zEKPa40MA1WK) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [I Can't Help It](https://open.spotify.com/album/334Lx9ZWSuv3zc0YHyQ0db) | 4:26 |
 | 50 | [If I Had You](https://open.spotify.com/track/6htL8eAdOScorA0ooaoL5k) | [Lara Luppi](https://open.spotify.com/artist/0TMpMNYlHlLT6Ey6BjcklA), [Luca Filastro](https://open.spotify.com/artist/7bRZhdSt3rftBwfmQRe5zR), [Aldo Zunino](https://open.spotify.com/artist/2ZQKolsIe5WgidiDRxLsCr), [Emanuele Zappia](https://open.spotify.com/artist/0yx2tQrSKPmyeVV1D82i6D) | [Day Dream](https://open.spotify.com/album/0IGv0S7wFk9QnyvMA0bIK2) | 5:28 |
 
-Snapshot ID: `MCxjZTNmOWU2MThiZGQ2Y2Y4ZDZmM2ZlMDA2YmZmMjU5NzM4OTZkYTVi`
+Snapshot ID: `MCxjMThiYTcwYzc5MWE0MzBmMzQ3ZDdiN2ExNmFhY2QwZjFlZmVjY2Iz`

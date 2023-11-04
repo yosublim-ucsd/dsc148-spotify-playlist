@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: G Jones
 
-277 songs - 15 hr 16 min
+278 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Chicken Wang \(feat\. Diplo, Snappy Jit\)](https://open.spotify.com/track/0cl5BEHLkh9BmJG2ElaUPK) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Snappy Jit](https://open.spotify.com/artist/4liIX1dXOofAewkaoKrNHY) | [Chicken Wang \(feat\. Diplo, Snappy Jit\)](https://open.spotify.com/album/4YoITx9kq8TA5c64Henhc4) | 1:58 | 2021-11-19 | 2022-07-29 |
 | [Cobra](https://open.spotify.com/track/0BDmyy2xonhhvcl2QDg2Xh) | [Formal One](https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59) | [Cobra](https://open.spotify.com/album/1se7OjX41LBkLRQT73mR1t) | 4:15 | 2021-11-19 | 2021-12-28 |
 | [Coming Over \(feat\. James Hersey\)](https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [This Mixtape is Fire.](https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed) | 2:58 | 2022-02-01 | 2022-11-19 |
-| [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 | 2022-02-01 |  |
+| [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 | 2022-02-01 | 2023-11-04 |
 | [Cream](https://open.spotify.com/track/6AuFHzc4WmOdOxUbSpXy3S) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Cream](https://open.spotify.com/album/4WfyVhM0WYciroTsLT9ZXs) | 3:04 | 2021-11-19 | 2022-02-02 |
 | [CRUISE N CRASH \- Litek & RNDM Beats Refix Edition](https://open.spotify.com/track/49MzTVgUcivXDmSQyDbutH) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [LiTek](https://open.spotify.com/artist/38UNDmwOPDx9LI028z8Bcw), [RNDM](https://open.spotify.com/artist/4FIohe40XNCk9HgvL2cxdT) | [CRUISE N CRASH \(Litek & RNDM Beats Refix Edition\)](https://open.spotify.com/album/28tKww6xlKuojAis24fRby) | 2:35 | 2022-01-21 | 2022-01-31 |
 | [Dale Vuelta](https://open.spotify.com/track/40tEZ9JmmfpwMUvG2DYgje) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X), [jordnmoody](https://open.spotify.com/artist/5WUJ0HwckdD0XHPz9EQ2XU), [episcool](https://open.spotify.com/artist/3KhrVd40DJwuzH8uPASUu4) | [Dale Vuelta](https://open.spotify.com/album/0qZEnwW3OQTuTqUVQI8ABD) | 3:00 | 2022-12-02 | 2023-01-16 |
@@ -274,6 +274,7 @@
 | [Ur Body](https://open.spotify.com/track/2yaNaFyZsZSWLI5evzKlGK) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/46SVWbWMuVMgT2sjzCB6hR) | 3:36 | 2023-10-27 |  |
 | [Us](https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Us](https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM) | 3:04 | 2022-02-01 |  |
 | [Used To Know Me](https://open.spotify.com/track/54qwl8mJQ45SmIeYKp6jZp) | [iSHi](https://open.spotify.com/artist/6Dy7Ex5zlTLgXbsB92rPji) | [iSHi Instrumentals Vol.1](https://open.spotify.com/album/1ErrsW3p5x3XUzXEdRN3Iv) | 2:20 | 2021-12-03 | 2022-01-31 |
+| [Voices](https://open.spotify.com/track/2tsIMR0ok3KDqJ4oodDRjg) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Voices](https://open.spotify.com/album/3Xug1RZvXgaLQf7yPVlu7n) | 3:08 | 2023-11-03 |  |
 | [WARDOGZ](https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4) | [6 FEET UNDER](https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl) | 2:34 | 2022-02-01 |  |
 | [Why Is It So Hard](https://open.spotify.com/track/6ovna0z2elvIqqfVw8p4z1) | [Santiago](https://open.spotify.com/artist/1nZ7JTJvYw7eGVECfF43hF) | [Why Is It So Hard](https://open.spotify.com/album/1u42tckI6ReuhdPIVgUxjW) | 3:23 | 2021-11-26 | 2022-01-28 |
 | [Wide Awake](https://open.spotify.com/track/0Oe5QO7zwMWKkGhgr5vIEz) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz) | [Wide Awake](https://open.spotify.com/album/3eE3Yr8OLOnjAdmTPUkekm) | 3:15 | 2023-09-22 |  |

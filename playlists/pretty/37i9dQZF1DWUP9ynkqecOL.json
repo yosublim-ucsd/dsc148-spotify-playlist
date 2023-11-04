@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 19702,
+  "num_followers": 19743,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTJhMDAwMTE1M2E0ZjUxMTNhYjlhNWZhYWM0YmY4ZDk3Y2QzMWEz",
+  "snapshot_id": "MCwzOTNjN2FjYzc5N2Q4NzljNmVlOGE2Mjk4MGU2ODhjY2JlZjYyYjZm",
   "tracks": [
     {
       "added_at": "2023-08-11 13:45:33",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-08-11 13:45:33",
       "album": {
+        "name": "Muta",
+        "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "Toca",
+      "url": "https://open.spotify.com/track/07VELk4yHZ0MpGndajSrMX"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
-        "name": "Muta",
-        "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "Toca",
-      "url": "https://open.spotify.com/track/07VELk4yHZ0MpGndajSrMX"
     },
     {
       "added_at": "2023-08-11 13:45:33",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-08-11 13:45:33",
       "album": {
-        "name": "Tierra de King Coya",
-        "url": "https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j"
-      },
-      "artists": [
-        {
-          "name": "King Coya",
-          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
-        }
-      ],
-      "duration_ms": 276029,
-      "name": "Te digo Wayno",
-      "url": "https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
         "name": "Truenatruena",
         "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 272503,
       "name": "Truenatruena",
       "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
+        "name": "Tierra de King Coya",
+        "url": "https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j"
+      },
+      "artists": [
+        {
+          "name": "King Coya",
+          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
+        }
+      ],
+      "duration_ms": 276029,
+      "name": "Te digo Wayno",
+      "url": "https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A"
     },
     {
       "added_at": "2023-08-11 13:45:33",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-08-11 13:45:33",
       "album": {
-        "name": "Muchas Estrellas",
-        "url": "https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Muchas Estrellas",
-      "url": "https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
         "name": "Sencilla es mi canoa como mis afectos",
         "url": "https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 383979,
       "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
       "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
+        "name": "Muchas Estrellas",
+        "url": "https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9"
+      },
+      "artists": [
+        {
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Brawlio",
+          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Muchas Estrellas",
+      "url": "https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat"
     },
     {
       "added_at": "2023-08-11 13:45:33",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-08-11 13:45:33",
       "album": {
-        "name": "Asimetrico",
-        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
-        }
-      ],
-      "duration_ms": 260867,
-      "name": "Los Pajaros",
-      "url": "https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
         "name": "Pluma (Un Disco de Reversiones de la San Llamarada)",
         "url": "https://open.spotify.com/album/75WAti5nxvS6YsoKr9jnUO"
       },
@@ -1387,6 +1367,46 @@
       "duration_ms": 187434,
       "name": "Nada Parece",
       "url": "https://open.spotify.com/track/29pndK8bDGQ1YVeubWhQec"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
+        "name": "Do\u00f1a Ubenza (Remix)",
+        "url": "https://open.spotify.com/album/1qRVbQRDzcUTNeYUVZji93"
+      },
+      "artists": [
+        {
+          "name": "Veronika Silva",
+          "url": "https://open.spotify.com/artist/0pUXvpJVsz6JTJJQUDNhWu"
+        },
+        {
+          "name": "Philippe Cohen Solal",
+          "url": "https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Do\u00f1a Ubenza - Remix",
+      "url": "https://open.spotify.com/track/6xYZqXLrgnRVOhVvkfNocZ"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
+        "name": "Asimetrico",
+        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
+      },
+      "artists": [
+        {
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Brawlio",
+          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+        }
+      ],
+      "duration_ms": 260867,
+      "name": "Los Pajaros",
+      "url": "https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97"
     },
     {
       "added_at": "2023-08-11 13:45:33",
@@ -1447,26 +1467,6 @@
       "duration_ms": 456000,
       "name": "Antikuna Anqa",
       "url": "https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
-        "name": "Do\u00f1a Ubenza (Remix)",
-        "url": "https://open.spotify.com/album/1qRVbQRDzcUTNeYUVZji93"
-      },
-      "artists": [
-        {
-          "name": "Veronika Silva",
-          "url": "https://open.spotify.com/artist/0pUXvpJVsz6JTJJQUDNhWu"
-        },
-        {
-          "name": "Philippe Cohen Solal",
-          "url": "https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Do\u00f1a Ubenza - Remix",
-      "url": "https://open.spotify.com/track/6xYZqXLrgnRVOhVvkfNocZ"
     },
     {
       "added_at": "2023-08-11 13:45:33",

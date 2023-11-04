@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,768 songs - 3 day 7 hr 12 min
+1,769 songs - 3 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Askja](https://open.spotify.com/track/5NPOzGF9KwzjgfA3q6zbCf) | [Dreyma](https://open.spotify.com/artist/6fhkHJ6kJGHDuypn800e77) | [Askja](https://open.spotify.com/album/6gPqxuEKhpHUNWta7qv4qS) | 4:14 | 2021-03-21 | 2022-04-12 |
 | [Asleep In My Arms](https://open.spotify.com/track/5dXsrIUsMriHUwxblFS7HZ) | [Aaron Lansing](https://open.spotify.com/artist/2AiqANCe9znkfFsN5qIOyV) | [Asleep In My Arms](https://open.spotify.com/album/2BdYZNl2zZS2Ho6qIxxpUO) | 2:07 | 2021-03-19 | 2021-05-21 |
 | [Asteroid](https://open.spotify.com/track/5Enc5JAvGziRBT7YQqdgXO) | [Saddest Girl In The World](https://open.spotify.com/artist/08g585oJkNJi7zMacm8LA6) | [Tomorrow EP](https://open.spotify.com/album/2XLQK7qXj1syMDkuPpmLId) | 2:57 | 2021-03-21 | 2022-04-17 |
+| [Astray](https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Astray](https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2) | 2:00 | 2023-10-26 |  |
 | [Asylum](https://open.spotify.com/track/5TvVsOFZDkMhb9Kb9GXY9M) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Asylum](https://open.spotify.com/album/3ILqmVB2qJCCt5jzgWm1un) | 3:22 | 2022-03-24 | 2022-06-30 |
 | [At First Sight](https://open.spotify.com/track/7Ffpq66dn7HBkds2cw5UPa) | [Mactominie](https://open.spotify.com/artist/6NFevN87KdATGwxaQvh7ik) | [At First Sight](https://open.spotify.com/album/18VNY5VhRXG44aHPWR0Bdk) | 2:42 | 2021-03-27 | 2022-07-29 |
 | [At Night](https://open.spotify.com/track/4QGD0QyFrCOOplMtVGNFiE) | [Oscar Sundberg](https://open.spotify.com/artist/6dqgUbsMsMRsWoRnuibxwl) | [Lost And Found](https://open.spotify.com/album/6YqfoKDp9GzqvtM1o5J584) | 2:43 | 2022-03-29 | 2022-04-03 |
@@ -1388,7 +1389,7 @@
 | [Spore](https://open.spotify.com/track/1AhoOwNTxI5FEOsnMqNicv) | [Shiori Sugaya](https://open.spotify.com/artist/2j9Dpexujg1dkE2q25iPPq) | [Shade](https://open.spotify.com/album/4puDeykYUL3hJjR6Ldsi3d) | 6:42 | 2022-03-19 | 2022-07-23 |
 | [Spring](https://open.spotify.com/track/6UYEmhFrHSpWNyVRgJxjKf) | [Shiori Sugaya](https://open.spotify.com/artist/2j9Dpexujg1dkE2q25iPPq) | [Shade](https://open.spotify.com/album/4puDeykYUL3hJjR6Ldsi3d) | 6:11 | 2022-03-19 | 2022-07-29 |
 | [Spring is Here](https://open.spotify.com/track/007RkHQBbTRHoX10qZbc5g) | [Sam Hendel](https://open.spotify.com/artist/1GQ5XwIjhDvQxHihumdfLM) | [It's Only a Paper Moon](https://open.spotify.com/album/4HlVEtwO0MOXZjDvrHFEEK) | 3:42 | 2021-07-10 | 2022-07-29 |
-| [Spring Thaw](https://open.spotify.com/track/2MpWue0eGp2YXKesVwxJDA) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Spring Thaw](https://open.spotify.com/album/0gRqyyHAowMXdyIKD9Wouy) | 3:00 | 2023-05-30 |  |
+| [Spring Thaw](https://open.spotify.com/track/2MpWue0eGp2YXKesVwxJDA) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Spring Thaw](https://open.spotify.com/album/0gRqyyHAowMXdyIKD9Wouy) | 3:00 | 2023-05-30 | 2023-11-04 |
 | [Spring waltz](https://open.spotify.com/track/1Wr0A61NgWAaEtAvJwO3Og) | [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [Spring waltz](https://open.spotify.com/album/2ILcj4MVNjSYMj1uHlWMcu) | 3:16 | 2021-04-01 | 2022-06-23 |
 | [Spring Will Come](https://open.spotify.com/track/5OWWOpOw5e3YI3R8p61jNr) | [Agnes Fredenberg](https://open.spotify.com/artist/3M6T3Yxm4EK30GuKfyxH20) | [Spring Will Come](https://open.spotify.com/album/3pAfu7iDTIebfj5GoXUgFD) | 1:59 | 2021-03-11 | 2021-05-26 |
 | [Squares of life](https://open.spotify.com/track/2C6BCDdtYjbbbAucqaw9NG) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [Squares of Life](https://open.spotify.com/album/2a4Xs7dCAl7IyslTWzVPqW) | 2:45 | 2021-04-21 | 2021-05-09 |

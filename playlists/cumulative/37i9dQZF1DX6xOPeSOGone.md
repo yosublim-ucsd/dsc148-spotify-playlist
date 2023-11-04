@@ -4,14 +4,15 @@
 
 > It's like rock, but softer\. Cover: Fleetwood Mac
 
-431 songs - 1 day 7 hr 20 min
+433 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['74\-'75](https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj) | [The Connells](https://open.spotify.com/artist/3zAhmxuw1F3HmulPuy1RAb) | [Ring](https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W) | 4:38 | 2022-01-03 | 2023-03-21 |
 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh) | 6:33 | 2021-04-29 | 2022-07-29 |
 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 | 2022-01-03 | 2022-11-12 |
-| [\(Remember the Days of The\) Old Schoolyard](https://open.spotify.com/track/1a2fmmAAlGGxiUTDLM3ghL) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Izitso](https://open.spotify.com/album/0HqRLZ9yvOGL23IcW0GDoV) | 2:44 | 2023-03-20 |  |
+| [\(Remember the Days of The\) Old Schoolyard](https://open.spotify.com/track/1a2fmmAAlGGxiUTDLM3ghL) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Izitso](https://open.spotify.com/album/0HqRLZ9yvOGL23IcW0GDoV) | 2:44 | 2023-03-20 | 2023-11-04 |
+| [\(Remember the Days of The\) Old Schoolyard](https://open.spotify.com/track/6FvBlii7noUCNdImVN0aqG) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Izitso](https://open.spotify.com/album/2TZXbrgNOBD5RAQlTLHqnl) | 2:44 | 2023-03-20 |  |
 | [18 and Life](https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 3:49 | 2022-01-03 | 2023-03-21 |
 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 | 2022-01-03 | 2023-03-21 |
 | [About A Girl](https://open.spotify.com/track/2a8pQLSuhloP8ywoy5Or5i) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682) | 3:37 | 2021-04-29 | 2022-07-26 |
@@ -429,7 +430,8 @@
 | [You Get What You Give](https://open.spotify.com/track/32lF1rsInDTdK6Av3KdfaY) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/2AbdLTMFF9UaDoEdJPva4g) | 5:00 | 2022-01-03 | 2022-04-19 |
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 | 2022-01-03 | 2023-03-21 |
 | [You Need A Hero](https://open.spotify.com/track/5xnOk0gOwfhfnEY6cfYo5B) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Pages](https://open.spotify.com/album/3jq51cWLTtOgUN7x44fKvp) | 3:43 | 2023-03-20 |  |
-| [You're All That I Need](https://open.spotify.com/track/5gned5W00rvMw1FmYF0cCc) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [No Strings](https://open.spotify.com/album/2eGSBoePWZ2oljvc8zBwRO) | 3:45 | 2023-03-20 |  |
+| [You're All That I Need](https://open.spotify.com/track/5gned5W00rvMw1FmYF0cCc) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [No Strings](https://open.spotify.com/album/2eGSBoePWZ2oljvc8zBwRO) | 3:45 | 2023-03-20 | 2023-11-04 |
+| [You're All That I Need](https://open.spotify.com/track/7a8WQOzVw3T4B37LRJoAp5) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [No Strings](https://open.spotify.com/album/1lPgTGW4eApRIeMk6gbU3U) | 3:45 | 2023-03-20 |  |
 | [You're No Good](https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 3:44 | 2023-03-20 |  |
 | [You're the Inspiration \- 2009 Remaster](https://open.spotify.com/track/6d7PQZtTbHbcYqaygOW7vs) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded Edition\)](https://open.spotify.com/album/3kkAB63Am6POYuMTisinaa) | 3:49 | 2021-04-29 | 2022-11-18 |
 | [You're the Love](https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Takin' It Easy](https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL) | 3:20 | 2023-03-20 |  |

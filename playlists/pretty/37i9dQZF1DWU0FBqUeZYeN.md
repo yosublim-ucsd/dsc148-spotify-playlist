@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,355 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,441 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 62 | [Dirty Water](https://open.spotify.com/track/3NINDFPIYnyT26cWWRomOQ) | [The Standells](https://open.spotify.com/artist/4BM6qze88exQPVILQpcYpj) | [Dirty Water \(Expanded Edition\)](https://open.spotify.com/album/621zErvBJeovty6dAx4PDn) | 2:47 |
 | 63 | [Needles In The Camel's Eye \- 2004 Digital Remaster](https://open.spotify.com/track/79oH2M0vWq9bRYpNTCrlHu) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 3:11 |
 | 64 | [We're Pretty Quick](https://open.spotify.com/track/0hoVOqZJefCa82xfC91Kr7) | [The Chob](https://open.spotify.com/artist/6ob2BuDopHhOgjLascXxLH) | [Sixties Archives, Vol\. 4: Florida & New Mexico Punk](https://open.spotify.com/album/1n0FH0bBSkSu6kDElKCeNa) | 2:24 |
-| 65 | [Sorry](https://open.spotify.com/track/1N7VlZoWl5EIa3XG2nK1tO) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Vol\. 3](https://open.spotify.com/album/0RdfMFaUK1XWnv2ELNvZoh) | 2:34 |
+| 65 | [Sorry](https://open.spotify.com/track/0ka5muthYaauVaS8Nuwl5q) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Volume 3](https://open.spotify.com/album/1fuHPPzMhcQ0TfMhvZuVL0) | 2:35 |
 | 66 | [Do It \- Single Edit](https://open.spotify.com/track/3iqThNHO7K5LzFhuxi9N7p) | [The Pink Fairies](https://open.spotify.com/artist/45BIdHR6MPeNr1aNT10GJE) | [Neverneverland](https://open.spotify.com/album/2vEiDamgUlwzFPYfNL1diQ) | 3:02 |
 | 67 | [Silver Machine \- Live at the Roundhouse London; 1996 Remaster](https://open.spotify.com/track/73HSIWZlSCfs4tqVkrGv7H) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [In Search of Space](https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI) | 4:39 |
 | 68 | [The Girl Can't Dance](https://open.spotify.com/track/4GaCV1wVlwKBWfauxPUKzw) | [Bunker Hill](https://open.spotify.com/artist/3nIGepMX8QBQDhmX14yOka) | [Friday Night Dance Party / The Girl Can't Dance](https://open.spotify.com/album/0BDMnLW86ujxKJzMbEm2tf) | 1:55 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 79 | [She Said](https://open.spotify.com/track/5SGaKs4lgCZxOdKgl2vE0e) | [Hasil Adkins](https://open.spotify.com/artist/5PXHQdsE6wKNW3hNpFDAyR) | [Out To Hunch](https://open.spotify.com/album/6OKqyMn9x0hbafkKKlr1hX) | 2:48 |
 | 80 | [Let's Get Rid of NY](https://open.spotify.com/track/4fARQCeCWUSTczkSqUVP9t) | [The Randoms](https://open.spotify.com/artist/6aLIWRGgvsrm94qX115y7A) | [Dangerhouse Volume 1](https://open.spotify.com/album/0kXuX7WWmaEdzWEWJZe4Up) | 2:45 |
 | 81 | [The Train Kept A Rollin'](https://open.spotify.com/track/7s8spWIA65WP6vG18bXDP1) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Johnny Burnette And The Rock 'N Roll Trio](https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM) | 2:19 |
-| 82 | [Archangels Thunderbird](https://open.spotify.com/track/0oshIsMu5i5E2wTBIj9NxF) | [Amon Düül II](https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj) | [Yeti](https://open.spotify.com/album/4ip7L3AtG2pLgZLhAON3va) | 3:33 |
+| 82 | [Archangels Thunderbird](https://open.spotify.com/track/1Hpi1Vk1ByoqIljTyu8zTz) | [Amon Düül II](https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj) | [Yeti](https://open.spotify.com/album/6hAV1FLshS1aiOuXT52pjw) | 3:33 |
 | 83 | [Up Against the Wall](https://open.spotify.com/track/6t5Kk1gcaFoq7uHJpruvD0) | [David Peel and The Lower East Side](https://open.spotify.com/artist/2krGuMNUbsvItpJBjvgMFp) | [And The Rest Is History: The Elektra Recordings](https://open.spotify.com/album/18HJZA1FVpVUgK0V6XVIaz) | 1:44 |
 | 84 | [Slow Death](https://open.spotify.com/track/44JvhqeLaMatXiA2VAtw25) | [Flamin' Groovies](https://open.spotify.com/artist/3yesh1QeNXucaDFw8ZPKxd) | [Groovies Greatest Grooves](https://open.spotify.com/album/1hSEfZ3n3kCisvO9RDerhg) | 4:23 |
 | 85 | [Cherry Red \- 2003 Remastered Version](https://open.spotify.com/track/6fyC4XAanXTAuCEzIZKKFE) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Split](https://open.spotify.com/album/33t6WZtNdhUcJBCh2xdAst) | 5:43 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 91 | [Velvet Cave](https://open.spotify.com/track/1PFOqZRb36rowETx4faTeu) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4) | [Silver Apples](https://open.spotify.com/album/56svbYsvhdgiUo1Mlriaya) | 3:26 |
 | 92 | [Garbage](https://open.spotify.com/track/1ZmChSGzKgGEstfbuZwWon) | [The Deviants](https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu) | [Ptooff!](https://open.spotify.com/album/3Wn4XGeHWIQeO4XTJFFQoE) | 5:35 |
 | 93 | [The Hot City Symphony, Pt\. 1: Vambo](https://open.spotify.com/track/4gj2I26rXVXPwecklLODp9) | [The Sensational Alex Harvey Band](https://open.spotify.com/artist/7wug9iQ1abMCrKk87LlJce) | [The Impossible Dream \(Remastered 2002\)](https://open.spotify.com/album/04nw8UHJN4CmQX06dtuwHc) | 5:03 |
-| 94 | [Rough Kids](https://open.spotify.com/track/6YFEfaiIMGFAJsJHbLSLUF) | [Kilburn & The High Roads](https://open.spotify.com/artist/3I97dteSoWkFBMy7C2TGSH) | [Handsome \(Bonus Track Edition\)](https://open.spotify.com/album/3UB63Gv6n5Aj5keynEbLCv) | 2:26 |
+| 94 | [Rough Kids](https://open.spotify.com/track/1vQdyrwrqksdQMfvyPbpqN) | [Kilburn & The High Roads](https://open.spotify.com/artist/3I97dteSoWkFBMy7C2TGSH) | [Handsome \(Bonus Track Edition\)](https://open.spotify.com/album/7xTBUyv6Vjk2NHjkb2Eurm) | 2:26 |
 | 95 | [Shake Some Action](https://open.spotify.com/track/3GqP6bUY1XHVlThBoQQk0z) | [Flamin' Groovies](https://open.spotify.com/artist/3yesh1QeNXucaDFw8ZPKxd) | [Groovies Greatest Grooves](https://open.spotify.com/album/1hSEfZ3n3kCisvO9RDerhg) | 4:33 |
 | 96 | [At Home At Work At Play](https://open.spotify.com/track/0WtuSuOI7b3sOJTkvECga9) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Propaganda](https://open.spotify.com/album/3bOrSzGgJnjGOa9kOybRCs) | 3:05 |
 | 97 | [Creature Feature](https://open.spotify.com/track/3TsUKtevxYIKCg1oAO1Fl8) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [The Second Album + The First Rehearsal Tapes](https://open.spotify.com/album/4VwDw0pfCmEmKaHNnto5mj) | 3:37 |
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 104 | [One Way Spit](https://open.spotify.com/track/2zfS1N80qSv0ft1gXKzZhh) | [Debris'](https://open.spotify.com/artist/3kxrBSK5EAOGz1sFjcR7t8) | [Static Disposal](https://open.spotify.com/album/4yw3ATQE9VGGP7AYoGQtBn) | 2:50 |
 | 105 | [I'm Stranded](https://open.spotify.com/track/6pXcyjABZyf6LKzL4wsj9k) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [\(I'm\) Stranded](https://open.spotify.com/album/10hYjKl40Yu64cV3313uhU) | 3:32 |
 | 106 | [Teenage Depression](https://open.spotify.com/track/0VV498qECyqHWwb23RDuhz) | [Eddie & The Hot Rods](https://open.spotify.com/artist/70e4IgnWAQfPPxKnD9jXDr) | [The End Of The Beginning \- \(The Best Of Eddie & The Hot Rods\)](https://open.spotify.com/album/2J8onP9yFveWx7Mn7EwBfC) | 2:55 |
-| 107 | [Roadrunner \(Once\)](https://open.spotify.com/track/63HEBa4dQwNFCjNYpykbXE) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Jonathan Richman & The Modern Lovers \(Expanded Version\)](https://open.spotify.com/album/5vWDsBdGpZRDdpw1tDwagy) | 4:44 |
+| 107 | [Roadrunner \(Once\)](https://open.spotify.com/track/7wj3PmmPSDuPcpoxFXCea2) | [Jonathan Richman](https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5), [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [Jonathan Richman & The Modern Lovers \(Expanded Version\)](https://open.spotify.com/album/6Ll5mhBDRKoaiqxxXT1QRF) | 4:44 |
 | 108 | [It Always Happens That Way](https://open.spotify.com/track/4fCMCtKSyRR28liwEjyXjE) | [The Shadows Of Knight](https://open.spotify.com/artist/0NRN3tnDVDspHMCfyu2ZwT) | [Gloria](https://open.spotify.com/album/6wXrXe2x2ADL77uOTc74Ai) | 1:55 |
 | 109 | [Zig Zag Wanderer](https://open.spotify.com/track/1F7euzYeo32NncoyEBo63v) | [Captain Beefheart & His Magic Band](https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw) | [Safe As Milk](https://open.spotify.com/album/0DFhGsFKG7G58cke33GlAh) | 2:38 |
 | 110 | [Waiting For The Streetcar](https://open.spotify.com/track/6gmlEyFDUFti5HBHLdSJSt) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [The Lost Tapes](https://open.spotify.com/album/6sSNM2yGp1jPKUEwhPldmm) | 10:08 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 130 | [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 |
 | 131 | [I Can't Control Myself \(Rerecorded\)](https://open.spotify.com/track/2ISCW0bzi9Zsv6eKCqXVZq) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [This Is the Troggs \(Rerecorded\)](https://open.spotify.com/album/2Co201A4jYUYrDtrmReNJD) | 3:06 |
 
-Snapshot ID: `MCxhNjI1NTRlYzQyZjU1NDJhODM0MTU4NzU1OGY0OWQ0ZDQ2NTdhMTFh`
+Snapshot ID: `MCw0NTllMDhmZjFkY2U1YzkyMTUwOTYwMjgzZTQxMGU1NWIwMDk3MGQw`

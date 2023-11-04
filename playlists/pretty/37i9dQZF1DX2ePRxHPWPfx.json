@@ -1,12 +1,12 @@
 {
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
-  "num_followers": 124,
+  "num_followers": 189,
   "original_name": "cozied up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTdmMmM4OGE1MDcxODEzMDY2ODllZDlhZjFhYzIxZGRlNTkyMmZh",
+  "snapshot_id": "MCxmY2Y1OWQ2M2FjOThjMTA4OWZiYjIxYzY1YmQwYmNmNmMwMTA4MWQx",
   "tracks": [
     {
       "added_at": "2023-10-27 16:57:18",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-10-27 16:57:18",
       "album": {
+        "name": "Feliz navidad",
+        "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
+      },
+      "artists": [
+        {
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+        }
+      ],
+      "duration_ms": 123786,
+      "name": "Feliz navidad",
+      "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
+    },
+    {
+      "added_at": "2023-10-27 16:57:18",
+      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/1dSihfk7gkcm5IjSYO9AAp"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 199017,
       "name": "Despierto",
       "url": "https://open.spotify.com/track/3SFFAZ3QH7clx7uA7BpLqJ"
-    },
-    {
-      "added_at": "2023-10-27 16:57:18",
-      "album": {
-        "name": "Feliz navidad",
-        "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
-      },
-      "artists": [
-        {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
-        }
-      ],
-      "duration_ms": 123786,
-      "name": "Feliz navidad",
-      "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
     },
     {
       "added_at": "2023-10-27 16:57:18",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-10-27 16:57:18",
       "album": {
+        "name": "Si Te Soy Sincera",
+        "url": "https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 201861,
+      "name": "Sagitario",
+      "url": "https://open.spotify.com/track/1jvRSXvGCUXD545RQJ3FcR"
+    },
+    {
+      "added_at": "2023-10-27 16:57:18",
+      "album": {
         "name": "Todos A Belen",
         "url": "https://open.spotify.com/album/54YLqTx1NcuQUkVARYdIBQ"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 221960,
       "name": "Ven A Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/6mYn2tAQD0LmwqplaMbXhg"
-    },
-    {
-      "added_at": "2023-10-27 16:57:18",
-      "album": {
-        "name": "Si Te Soy Sincera",
-        "url": "https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 201861,
-      "name": "Sagitario",
-      "url": "https://open.spotify.com/track/1jvRSXvGCUXD545RQJ3FcR"
     },
     {
       "added_at": "2023-10-27 16:57:18",

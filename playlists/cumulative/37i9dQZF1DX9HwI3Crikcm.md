@@ -4,7 +4,7 @@
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-136 songs - 9 hr 5 min
+137 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [The Fairy Reel / The Old Torn Petticoat / Our House at Home](https://open.spotify.com/track/0aw7GoN4XeQsxguXiDxmdk) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [The Road Less Traveled](https://open.spotify.com/album/0PTsZuI7tIuwXlRUrUx6SR) | 3:42 | 2020-11-11 |  |
 | [The Fairy Reel / The Old Torn Petticoat / Our House at Home](https://open.spotify.com/track/1Dfh3b5KH6rs6bj5zOpK4M) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [Shanachie Presents Irish Celebration](https://open.spotify.com/album/2Iq0yw8BcWB90t62OtEx1w) | 3:42 | 2020-11-11 | 2022-07-29 |
 | [The Fox Chase](https://open.spotify.com/track/0hI9tVr8cJHTl9OcYUoBoD) | [Finbar and Eddie Furey](https://open.spotify.com/artist/3ZZiWJXPplvxSxYgzHTTl0) | [The Very Best of Irish Folk](https://open.spotify.com/album/1ZwUu5NU2Rra6ZbhaR9cr0) | 7:11 | 2020-11-11 | 2022-11-13 |
-| [The Fox Chase](https://open.spotify.com/track/0Hotw6uKhCN1Qixt5bMSlK) | [Finbar and Eddie Furey](https://open.spotify.com/artist/3ZZiWJXPplvxSxYgzHTTl0) | [The Spanish Cloak: The Best of The Fureys](https://open.spotify.com/album/2bu7GBQrndxPZ4DAuMB2cV) | 7:11 | 2020-11-11 |  |
+| [The Fox Chase](https://open.spotify.com/track/0Hotw6uKhCN1Qixt5bMSlK) | [Finbar and Eddie Furey](https://open.spotify.com/artist/3ZZiWJXPplvxSxYgzHTTl0) | [The Spanish Cloak: The Best of The Fureys](https://open.spotify.com/album/2bu7GBQrndxPZ4DAuMB2cV) | 7:11 | 2020-11-11 | 2023-11-04 |
+| [The Fox Chase](https://open.spotify.com/track/5OBrI2LEm7LHdgoVGPshtb) | [Finbar Furey](https://open.spotify.com/artist/72qs8dHxUfn7lB9cYxQvIF), [Eddie Furey](https://open.spotify.com/artist/0XrswHCcCxsXDssDv5rNdZ) | [The Spanish Cloak: The Best of The Fureys](https://open.spotify.com/album/6788nJyFCEQD5rs5aOUL50) | 7:11 | 2023-07-14 |  |
 | [The Fox Chase](https://open.spotify.com/track/397k1c9L1ywksIZ3jCJse3) | [The Fureys](https://open.spotify.com/artist/1WHVWwMFnjB3oRcjr7nVPP) | [The Spanish Cloak: The Best of the Fureys](https://open.spotify.com/album/2ve8pwvj11gp4SVvevPTPD) | 7:11 | 2020-11-11 | 2022-07-29 |
 | [The Gap of Dreams / Nia’s Jig / The Beekeeper](https://open.spotify.com/track/5MH17KACijBOpJZ6VGVibO) | [Altan](https://open.spotify.com/artist/6koEjb4607APXtFtjxvA5T) | [The Gap of Dreams](https://open.spotify.com/album/0eMD7KitnmLQH2cPLdsn0v) | 5:20 | 2020-11-11 |  |
 | [The Green Cottage / The Glin Cottage / Julia's Norwegian Polka](https://open.spotify.com/track/74QRLD0FXoaGpQ6YNNW6hj) | [Brendan Begley & Caoimhín Ó Raghallaigh](https://open.spotify.com/artist/6L8DJIpiJWVhKhYX5M6Rlu) | [A Moment of Madness](https://open.spotify.com/album/43XQxNecha4Lu72o3s3W48) | 5:08 | 2020-11-11 |  |

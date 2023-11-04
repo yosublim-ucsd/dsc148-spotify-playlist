@@ -4,7 +4,7 @@
 
 > a hardcore home for slowcore fans.
 
-131 songs - 11 hr 55 min
+132 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Lie In The Sound](https://open.spotify.com/track/7F8skye75dhR8vceTSWYM9) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Different Stars](https://open.spotify.com/album/4SfqCvZNYx1sPEIWCRyI26) | 5:42 | 2021-06-25 | 2022-08-18 |
 | [Lie in the Sound](https://open.spotify.com/track/1YIpoD7bslS2nKTac1WfrZ) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Music From The WB Television Series One Tree Hill \(change in 1 track bundle status\)](https://open.spotify.com/album/3XCBGh4tuBd9UXGYUudjz5) | 5:43 | 2021-06-25 | 2022-11-13 |
 | [Life On Earth](https://open.spotify.com/track/1aZt2IkeGMFQ4WnDUDq97D) | [Tiny Vipers](https://open.spotify.com/artist/4kgIlus6ToyP9mUHoIvLtc) | [Life On Earth](https://open.spotify.com/album/5vr9Dd2iUMCQpB0RP1B3pU) | 10:12 | 2021-06-25 | 2022-07-29 |
-| [Life on Earth](https://open.spotify.com/track/1auVRfsbR30fKYv2m7KmJi) | [Tiny Vipers](https://open.spotify.com/artist/4kgIlus6ToyP9mUHoIvLtc) | [Life On Earth](https://open.spotify.com/album/28D7r9JZELsUNdDzNR12q3) | 10:12 | 2021-06-25 |  |
+| [Life on Earth](https://open.spotify.com/track/1auVRfsbR30fKYv2m7KmJi) | [Tiny Vipers](https://open.spotify.com/artist/4kgIlus6ToyP9mUHoIvLtc) | [Life On Earth](https://open.spotify.com/album/28D7r9JZELsUNdDzNR12q3) | 10:12 | 2021-06-25 | 2023-11-04 |
+| [Life On Earth](https://open.spotify.com/track/6heroFdN4whSGI7BJPhdaU) | [Tiny Vipers](https://open.spotify.com/artist/4kgIlus6ToyP9mUHoIvLtc) | [Life On Earth](https://open.spotify.com/album/6K0eSY9ZzP6zIvMUccKtE9) | 10:12 | 2023-09-22 |  |
 | [Liferaft](https://open.spotify.com/track/1fdCjKSlvcHyxF0L7tue3b) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [1992\-1998](https://open.spotify.com/album/6lJroIlQWuq7H3ZrLyFARZ) | 4:40 | 2021-06-25 | 2022-11-13 |
 | [Liferaft](https://open.spotify.com/track/1lii7ZXQTxPHozDSjmkibm) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae) | 4:40 | 2021-06-25 | 2022-07-29 |
 | [Liferaft](https://open.spotify.com/track/76tqeZTMX72Fx28PDj3pyk) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/5K6XN9nSX1yuECZwIYg7FQ) | 4:40 | 2021-06-25 |  |

@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-80 songs - 3 hr 48 min
+81 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Peaceful Here Now](https://open.spotify.com/track/6Xso6xtnjOUD4SrdvF911i) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Deliver Us \(Original Series Soundtrack\)](https://open.spotify.com/album/0g6Fo4Z3u2WTtOtBqvL8nz) | 4:59 | 2021-11-19 |  |
 | [Preparing The Trap](https://open.spotify.com/track/729porTW6i1cZ53nrNJmpN) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Nope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YD6YdZrQtTDjOFc9g3x8z) | 2:40 | 2022-07-22 |  |
 | [Reforestation \(Episode 5 \- Humans\)](https://open.spotify.com/track/0QFSpWrKKRynhxif8HBABr) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [A Perfect Planet \(Soundtrack from the BBC Series\)](https://open.spotify.com/album/3ZJ14xDvYx604elVWCipDz) | 1:40 | 2021-11-19 |  |
-| [Resting \- Short](https://open.spotify.com/track/4gdMWFOlSyIHTJLOfgX1tj) | [Arash Safaian](https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme), [Sindy Mohamed](https://open.spotify.com/artist/7KbpbMPJJvkz9zzFQDKfNB), [Bernhard Wünsch](https://open.spotify.com/artist/2X9kLw3sUOWUEHVdwIRqzB), [The Berlin Orchestra](https://open.spotify.com/artist/6cM5S5JAR9qY9GdYyLAuUY) | [Resting \(From the Original Motion Picture Soundtrack of "The Fox"\)](https://open.spotify.com/album/3K3H96v89xn21Slj4gdePY) | 1:32 | 2023-04-12 |  |
+| [Resting \(Short\)](https://open.spotify.com/track/2jljiAZnZtzi2vvD4RmpYK) | [Arash Safaian](https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme), [Sindy Mohamed](https://open.spotify.com/artist/7KbpbMPJJvkz9zzFQDKfNB), [Bernhard Wünsch](https://open.spotify.com/artist/2X9kLw3sUOWUEHVdwIRqzB), [The Berlin Orchestra](https://open.spotify.com/artist/6cM5S5JAR9qY9GdYyLAuUY) | [The Fox \(Music from the Film\)](https://open.spotify.com/album/3UKr71lTDxRuEUteFTvoUz) | 1:32 | 2023-07-14 |  |
+| [Resting \- Short](https://open.spotify.com/track/4gdMWFOlSyIHTJLOfgX1tj) | [Arash Safaian](https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme), [Sindy Mohamed](https://open.spotify.com/artist/7KbpbMPJJvkz9zzFQDKfNB), [Bernhard Wünsch](https://open.spotify.com/artist/2X9kLw3sUOWUEHVdwIRqzB), [The Berlin Orchestra](https://open.spotify.com/artist/6cM5S5JAR9qY9GdYyLAuUY) | [Resting \(From the Original Motion Picture Soundtrack of "The Fox"\)](https://open.spotify.com/album/3K3H96v89xn21Slj4gdePY) | 1:32 | 2023-04-12 | 2023-11-04 |
 | [Reunion](https://open.spotify.com/track/2471iucIiHuZWcRn7FBzkF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Proxima \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7t0jY4YHKGVnrv1pKfxzdj) | 2:39 | 2021-11-19 |  |
 | [River Waltz](https://open.spotify.com/track/7IAHWHDmXb5YdFQQrAm1d4) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Painted Veil](https://open.spotify.com/album/5oGotoXhLpROI6lkSRKoTq) | 2:25 | 2021-11-19 | 2022-05-28 |
 | [Road To Perdition](https://open.spotify.com/track/1ybtJbR4ARqmjl6dD2VtYU) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Road To Perdition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7v9u5bUHm2tpSC7ZL4hZBG) | 3:55 | 2021-11-19 |  |

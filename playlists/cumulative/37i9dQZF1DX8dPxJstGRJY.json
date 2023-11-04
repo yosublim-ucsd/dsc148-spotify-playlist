@@ -38,10 +38,28 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 260226,
       "name": "A Million Dreams",
       "url": "https://open.spotify.com/track/3f9MVjyYYUr1EF1FOm7dSF"
+    },
+    {
+      "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/2TkixrYStkFHg2Sf3PrhpW"
+      },
+      "artists": [
+        {
+          "name": "Collabro",
+          "url": "https://open.spotify.com/artist/0l1nmcjqNlk9dQHb6H4sLR"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260226,
+      "name": "A Million Dreams",
+      "url": "https://open.spotify.com/track/7i6fhlzpTeObDTsISlsU8Z"
     },
     {
       "album": {
@@ -614,6 +632,44 @@
     {
       "album": {
         "name": "Back in Harmony",
+        "url": "https://open.spotify.com/album/4ukD3wwj1rWH8JDY7a50BO"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Temple",
+          "url": "https://open.spotify.com/artist/46w8xOElBo4gXRJ1BnLmNx"
+        },
+        {
+          "name": "Hugh Martin",
+          "url": "https://open.spotify.com/artist/4n5HR9kS4Dhl1t685XlDhW"
+        },
+        {
+          "name": "Ralph Blane",
+          "url": "https://open.spotify.com/artist/1iIajqbWEB7WRQUjzrz4qL"
+        },
+        {
+          "name": "Aled Jones",
+          "url": "https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn"
+        },
+        {
+          "name": "Russell Watson",
+          "url": "https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK"
+        },
+        {
+          "name": "Tom Rainey",
+          "url": "https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221613,
+      "name": "Make Me a Channel of Your Peace (Arr. by Simon Lole)",
+      "url": "https://open.spotify.com/track/0vBTnSkwQIOaO2iCHjb3d6"
+    },
+    {
+      "album": {
+        "name": "Back in Harmony",
         "url": "https://open.spotify.com/album/4W9JQsHKofQ6Cya0naM8jj"
       },
       "artists": [
@@ -636,7 +692,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 221613,
       "name": "Make Me a Channel of Your Peace - Arr. by Simon Lole",
       "url": "https://open.spotify.com/track/0qGEX3pbraLFW5sew7k9zV"

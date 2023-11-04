@@ -4,13 +4,14 @@
 
 > Hair goals, spandex and epic guitar solos\. We got you.
 
-175 songs - 12 hr 48 min
+176 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18 and Life](https://open.spotify.com/track/1HlGblweLq0eAwnb0NY1EQ) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Best Of](https://open.spotify.com/album/0D48ZbriW82M2GbOKCbd1G) | 3:51 | 2020-10-08 |  |
-| [Ace of Spades](https://open.spotify.com/track/3Dg3QZpHkrEVnj87TxBz6G) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades](https://open.spotify.com/album/7cTXWw02BWHxyH77wRfhuQ) | 2:46 | 2022-07-05 |  |
+| [Ace of Spades](https://open.spotify.com/track/3Dg3QZpHkrEVnj87TxBz6G) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades](https://open.spotify.com/album/7cTXWw02BWHxyH77wRfhuQ) | 2:46 | 2022-07-05 | 2023-11-04 |
 | [Ace of Spades](https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 | 2020-10-08 | 2023-11-03 |
+| [Ace of Spades](https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 2:48 | 2022-07-05 |  |
 | [Addicted To That Rush](https://open.spotify.com/track/4QPRua3G7RQraiYX2NwdH6) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big](https://open.spotify.com/album/78ed0Ew3rR89MCbOaEyFZQ) | 4:44 | 2020-10-08 | 2022-07-29 |
 | [Addicted To That Rush \- 2023 Remastered](https://open.spotify.com/track/59I1DrJrPtVg3mSJ4ZCtu7) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \(2023 Remastered\)](https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42) | 4:45 | 2022-07-05 |  |
 | [Addicted To That Rush \- Remastered Version](https://open.spotify.com/track/1RCOCHtcnVWoWNSarMlwyd) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 4:46 | 2022-07-05 | 2023-04-28 |

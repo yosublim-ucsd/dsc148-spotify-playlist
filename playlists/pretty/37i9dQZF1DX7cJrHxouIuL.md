@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 
 > Kindie tunes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,663 likes - 161 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,683 likes - 161 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 | 73 | [Pen Pal](https://open.spotify.com/track/7bhxv9xAOb4EcvDIjLlMT6) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Uncle Jumbo Goes to the Post Office](https://open.spotify.com/album/26tUlxdvaASpAeiWyhkro0) | 4:00 |
 | 74 | [Bumblebee \(Buzz Buzz\)](https://open.spotify.com/track/2PvU8jWUVbGiIQ9QsiHPQL) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Buzz Buzz](https://open.spotify.com/album/2qaGwjEcIgtQ2XgA3jOsaN) | 2:57 |
 | 75 | [Put Your Mind To It](https://open.spotify.com/track/0Mdn4ATGRfQECd19m3Hfey) | [Raii & Whitney](https://open.spotify.com/artist/0VggbrsHmboYkwd8tIfskn) | [Best You](https://open.spotify.com/album/4BLSK7Q1bCRpI1JmOgxnVG) | 2:56 |
-| 76 | [Box of Crayons](https://open.spotify.com/track/2sdwOTN7xaGOTzXR9ExYWR) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/2AB8yOMrkGnkzCdvVUuKte) | 4:40 |
+| 76 | [Box of Crayons](https://open.spotify.com/track/7olVRED3Ewb6CzpsEQaBkh) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/0N4h5AoSW7S6u9KGeZ6N2H) | 4:40 |
 | 77 | [Recess](https://open.spotify.com/track/5tvN74QGIU0JAOEnsWjs3E) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Recess](https://open.spotify.com/album/4BYfIYdWATXM3Hw9Ed7Q2m) | 4:01 |
 | 78 | [This Land Is Also Mine](https://open.spotify.com/track/59S37A7IBhSIRAFeCPXae1) | [Sonia De Los Santos](https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr) | [Esperanza](https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv) | 3:18 |
 | 79 | [It's You I Like](https://open.spotify.com/track/5WeBSFjPw5VqrWEr9jXjzG) | [Narwhals and Waterfalls](https://open.spotify.com/artist/3bGbqC8l55hrX4dbovAMBX) | [Simple SEL](https://open.spotify.com/album/7jakIO1K3h45nW7UqmGG2Q) | 2:50 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 | 160 | [Little Bird, Little Bird](https://open.spotify.com/track/5mdDzJBkQ7Gz7ePDCB397w) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [You Are My Little Bird](https://open.spotify.com/album/4GYfEguWQPqdBpFO1XC1eB) | 2:28 |
 | 161 | [Wheels On The Bus](https://open.spotify.com/track/3c2UQUnufLzun0uggzYjzE) | [Kyle Andrews](https://open.spotify.com/artist/67tNmCzk9teeC1h8FgmqJA) | [For The Kids Three](https://open.spotify.com/album/1Dr9Qai7RQUBTtqLrJDo2A) | 2:51 |
 
-Snapshot ID: `MCw5MDJjY2E2YWExY2RlNDJmMWM0NGU4YjIzMGZjNTAyMTgwOTRlYmMy`
+Snapshot ID: `MCw0NTVhNWYzM2Y1Y2RiODJmYWRjZDY0MjVjMjU0ZTBhYjVlNmFjZjVh`

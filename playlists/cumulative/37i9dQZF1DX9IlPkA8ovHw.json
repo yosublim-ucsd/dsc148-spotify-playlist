@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "All Things Must Pass (50th Anniversary;Super Deluxe)",
+        "url": "https://open.spotify.com/album/1EFOYsAkyfwLkS5OPfobak"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131333,
+      "name": "Cosmic Empire (Day 2 Demo) (Take 1)",
+      "url": "https://open.spotify.com/track/79h62Y1xkgFH11rSNMvv82"
+    },
+    {
+      "album": {
         "name": "All Things Must Pass (50th Anniversary/Super Deluxe)",
         "url": "https://open.spotify.com/album/0pDJt9M0HWkIs4vrTK6aC6"
       },
@@ -402,10 +420,28 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 131333,
       "name": "Cosmic Empire - Day 2 Demo; Take 1",
       "url": "https://open.spotify.com/track/0lcQZ03nobpkiXGMFtPHhJ"
+    },
+    {
+      "album": {
+        "name": "Thirty Three & 1/3",
+        "url": "https://open.spotify.com/album/1qm3K5ToefIAfTaRlJ0ptX"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238213,
+      "name": "Crackerbox Palace (2004 Remaster)",
+      "url": "https://open.spotify.com/track/3XNTazYPvNL0YY93hC48fz"
     },
     {
       "album": {
@@ -420,7 +456,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 238213,
       "name": "Crackerbox Palace - 2004 Remaster",
       "url": "https://open.spotify.com/track/4DsN68KVYkhZ52SQ4ypnut"
@@ -492,10 +528,28 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 233724,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/5KezUBlM6tavamVSO4MTMN"
+    },
+    {
+      "album": {
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/3AS5heU80djxJRp7Zw6WBZ"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233724,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/7q9ImAZqmZuNn4FlhTRJtK"
     },
     {
       "album": {
@@ -770,7 +824,7 @@
     {
       "album": {
         "name": "Living in the Material World",
-        "url": "https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os"
+        "url": "https://open.spotify.com/album/6DfpxC0hn5JTusslgO0IYj"
       },
       "artists": [
         {
@@ -781,6 +835,24 @@
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215701,
+      "name": "Give Me Love (Give Me Peace on Earth)",
+      "url": "https://open.spotify.com/track/1ZiN3wseympSLDIFkaWHHC"
+    },
+    {
+      "album": {
+        "name": "Living in the Material World",
+        "url": "https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
       "duration_ms": 215701,
       "name": "Give Me Love (Give Me Peace on Earth)",
       "url": "https://open.spotify.com/track/71fXxvXqo1zxWDtBmjoEVk"
@@ -834,10 +906,28 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 234653,
       "name": "Got My Mind Set On You",
       "url": "https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL"
+    },
+    {
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/7MD06W6wJm7J6jqkBszV22"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234653,
+      "name": "Got My Mind Set on You",
+      "url": "https://open.spotify.com/track/4wswaG5vmNINMZcVBsAyBP"
     },
     {
       "album": {
@@ -1400,7 +1490,7 @@
     {
       "album": {
         "name": "George Harrison",
-        "url": "https://open.spotify.com/album/3keCJAndMw5QhUmJ6QmTUg"
+        "url": "https://open.spotify.com/album/49ZkNYNNscP7wzn5iFsfKV"
       },
       "artists": [
         {
@@ -1411,6 +1501,24 @@
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 276213,
+      "name": "Love Comes to Everyone (2004 Remaster)",
+      "url": "https://open.spotify.com/track/5ZYXmLKf2GPYcCHCIYpxg4"
+    },
+    {
+      "album": {
+        "name": "George Harrison",
+        "url": "https://open.spotify.com/album/3keCJAndMw5QhUmJ6QmTUg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
       "duration_ms": 276213,
       "name": "Love Comes To Everyone - 2004 Remaster",
       "url": "https://open.spotify.com/track/4ocIOYjSD4DzePZsiDWJXD"
@@ -2052,7 +2160,7 @@
     {
       "album": {
         "name": "Gone Troppo",
-        "url": "https://open.spotify.com/album/7G7x2c3R3aDIv6x1C25YpG"
+        "url": "https://open.spotify.com/album/3pgglWjc7ni5ROElAC95Nx"
       },
       "artists": [
         {
@@ -2063,6 +2171,24 @@
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 217733,
+      "name": "That's the Way It Goes (2004 Remaster)",
+      "url": "https://open.spotify.com/track/2MAjUnC4wNRcNTPUqoONvh"
+    },
+    {
+      "album": {
+        "name": "Gone Troppo",
+        "url": "https://open.spotify.com/album/7G7x2c3R3aDIv6x1C25YpG"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
       "duration_ms": 217733,
       "name": "That's The Way It Goes - 2004 Remaster",
       "url": "https://open.spotify.com/track/4To7pXp0pjNNC1fzmDVEhq"
@@ -2524,10 +2650,28 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 223504,
       "name": "You",
       "url": "https://open.spotify.com/track/6wADbpmrLxUWygJcJsbww8"
+    },
+    {
+      "album": {
+        "name": "Extra Texture",
+        "url": "https://open.spotify.com/album/5Z7pksgTeaaAbN7MBQBbLJ"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223504,
+      "name": "You",
+      "url": "https://open.spotify.com/track/7N3MWL7fEFFDBFEgYQ0Po2"
     },
     {
       "album": {

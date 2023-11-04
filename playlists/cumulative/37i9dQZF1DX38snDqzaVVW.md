@@ -4,7 +4,7 @@
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-168 songs - 14 hr 33 min
+172 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Al\-Mu'allim](https://open.spotify.com/track/17KiqMisJnqgkgz87B0y3L) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Al\-Mu'allim](https://open.spotify.com/album/3FC9MHaKXqQbPxS1Z1Z3Vy) | 5:45 | 2022-03-31 | 2022-04-18 |
 | [Ali Moula](https://open.spotify.com/track/6Xrt06njNbpLPRDY1NbCXs) | [Salman Amjad Amanat](https://open.spotify.com/artist/6aHuhOS0sztFWAbBRyn30E), [Sadaat Shafqat Amanat](https://open.spotify.com/artist/3oOno2g4btrjp7CsJKKcuv) | [Ali Moula \- Single](https://open.spotify.com/album/2TGcxq3O0uwxJVgO42z75K) | 4:14 | 2022-04-18 | 2022-10-07 |
 | [Allah Hu](https://open.spotify.com/track/5COYSZGnYxlkoPYU2N9a8H) | [Saieen Zahoor](https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q), [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 6:56 | 2022-04-18 | 2022-10-07 |
-| [Allah Uya](https://open.spotify.com/track/5GhrRWZZez52XUAlZ3aHRE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 4:31 | 2021-10-21 |  |
+| [Allah Uya](https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq) | 4:31 | 2023-04-17 |  |
+| [Allah Uya](https://open.spotify.com/track/5GhrRWZZez52XUAlZ3aHRE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 4:31 | 2021-10-21 | 2023-11-04 |
 | [Allah Wakbarr](https://open.spotify.com/track/1W1SJMfXUYIWDqE4CjYKwj) | [Ofo The Black Company](https://open.spotify.com/artist/0BX4K3xwLgIqMqza4yS8eI) | [African Football Anthems, Vol\. 2](https://open.spotify.com/album/4ID456HcSB3l360tYIEWzV) | 3:30 | 2022-10-06 | 2022-11-14 |
 | [Allah Wakbarr](https://open.spotify.com/track/0Mx5cSlbWSOtsf9kHVqIOw) | [Ofo The Black Company](https://open.spotify.com/artist/0BX4K3xwLgIqMqza4yS8eI) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf) | 3:30 | 2021-10-21 | 2022-04-01 |
 | [Allah Wakbarr](https://open.spotify.com/track/0OZuyF5vpDnlugDqwUivf9) | [Ofo The Black Company](https://open.spotify.com/artist/0BX4K3xwLgIqMqza4yS8eI) | [Allah Wakbarr](https://open.spotify.com/album/0RSCRrXDarngfb85RoFR2i) | 3:32 | 2022-10-06 |  |
@@ -53,7 +54,8 @@
 | [Chet Boghassa](https://open.spotify.com/track/0JHZHHGxjEJCB4hpMLHvFj) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Amassakoul](https://open.spotify.com/album/5FPDGVaIIfWVH79NJoslSe) | 3:52 | 2021-10-21 | 2022-04-01 |
 | [Choose](https://open.spotify.com/track/587reHFUPbrSwF6ZK3Pavj) | [Neelam](https://open.spotify.com/artist/1p0c9Crh9k05s4Nr5XdEDK), [Olu](https://open.spotify.com/artist/23uPFhBQEAuCOk1feqqXOc) | [Choose](https://open.spotify.com/album/5ZMUDyOZEY8GG8J4g3KQKw) | 3:20 | 2023-03-06 | 2023-03-14 |
 | [criminal](https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal](https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5) | 2:37 | 2023-03-06 | 2023-03-14 |
-| [Diaraby \(with Ry Cooder\)](https://open.spotify.com/track/1WmRNq13XPvbmIRcZljM3D) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:26 | 2021-10-21 |  |
+| [Diaraby \(with Ry Cooder\)](https://open.spotify.com/track/5nK18JPh71fznLrmiDT2wo) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:26 | 2023-04-17 |  |
+| [Diaraby \(with Ry Cooder\)](https://open.spotify.com/track/1WmRNq13XPvbmIRcZljM3D) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:26 | 2021-10-21 | 2023-11-04 |
 | [Dimming of the Day](https://open.spotify.com/track/793iVpELzjDGCjCLbYqsa7) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Acoustic Classics](https://open.spotify.com/album/5J1AjJbgXL2rsVv2Rmx9um) | 3:18 | 2021-10-21 | 2022-04-01 |
 | [Dimming of the Day](https://open.spotify.com/track/4SWme0PjIFPTwXLyVWGgOI) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Acoustic Classics](https://open.spotify.com/album/0jCVyzxYUUOyKYYlBUjGV0) | 3:18 | 2022-10-06 |  |
 | [Duna ma yelema](https://open.spotify.com/track/6luGztVGxfGDfaqpONWUAS) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Maciré \(Kar Kar\)](https://open.spotify.com/album/3On4vsdEZhu65FuG6xXiQr) | 3:53 | 2021-10-21 |  |
@@ -151,7 +153,8 @@
 | [Tarhatazed](https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH) | 7:27 | 2023-04-17 |  |
 | [Tezeta](https://open.spotify.com/track/3IJOlBSUMtJ2xfedPGLcLO) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 5:45 | 2021-10-21 |  |
 | [The Beloved](https://open.spotify.com/track/08s7ZI5hDNwKqxAjHwR8QX) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/4HvKu6dInngrggvpHDUdEH) | 4:51 | 2021-10-21 | 2022-04-01 |
-| [The Beloved](https://open.spotify.com/track/0QmRDEXxnZXID8Nmw4x1Ft) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/1pJxc3mr13IvtcT40cSZXN) | 4:51 | 2022-10-06 |  |
+| [The Beloved](https://open.spotify.com/track/0QmRDEXxnZXID8Nmw4x1Ft) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/1pJxc3mr13IvtcT40cSZXN) | 4:51 | 2022-10-06 | 2023-11-04 |
+| [The Beloved](https://open.spotify.com/track/68Joa2fqSoneTbPYlWCxqJ) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/27glTwiq8qJBryD9w4SUdP) | 4:51 | 2023-04-17 |  |
 | [Tu Kuja Man Kuja](https://open.spotify.com/track/0iPhgN8JFxBqpCkbIlgNcn) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Ya Hayyo Ya Qayyum, Vol\. 54](https://open.spotify.com/album/4Lsw8VQzpNtQQHdgvOM9Cs) | 16:16 | 2022-04-18 | 2022-10-07 |
 | [Tu Kuja Man Kuja](https://open.spotify.com/track/3WSK1HxK9xemGBsjxpu9QO) | [Rafaqat Ali Khan](https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz) | [Tu Kuja Man Kuja \- Single](https://open.spotify.com/album/3kpgqllrcQnioEnUeSvhhZ) | 11:48 | 2022-03-31 | 2022-04-18 |
 | [Twelve](https://open.spotify.com/track/3fr2NOC3yBbxVM4KcqJBcK) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Twelve](https://open.spotify.com/album/1AFZIJkmFj6Di2wYT8hThy) | 2:48 | 2023-03-06 | 2023-03-14 |
@@ -173,8 +176,9 @@
 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 | 2022-10-06 |  |
 | [Ya Rayah](https://open.spotify.com/track/1wJNH6cko8Whrp2zMnpKML) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Rachid Taha](https://open.spotify.com/album/1BNjRYSgzmgduvizOKtfvT) | 6:14 | 2021-10-21 | 2022-04-01 |
 | [Yemken](https://open.spotify.com/track/26JuAynBHsCo0GvmT43gGC) | [Bandaly Family](https://open.spotify.com/artist/0pl2pScrXq9IAKfh81Sb57) | [Autumn Leaves](https://open.spotify.com/album/3Bwo68vzk0SBDpRylt63KT) | 3:37 | 2021-10-21 |  |
+| [You Are My Sunshine](https://open.spotify.com/track/1djwPl8EbjUufDA4GPxB5K) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tell 'Em I'm Gone](https://open.spotify.com/album/5oGGhaNyVb2J7lWPctx9MO) | 3:13 | 2023-04-17 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/2Gny078PSF12O1aBcv0Ck2) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tell 'Em I'm Gone](https://open.spotify.com/album/28hJN0xmswlL5CN6HjXSwZ) | 3:13 | 2021-10-21 | 2022-04-01 |
-| [You Are My Sunshine](https://open.spotify.com/track/7CpgcbEqRxOMAFelj7bZBa) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tell 'Em I'm Gone](https://open.spotify.com/album/7K3ZqU69hSFJjhIDuUrujP) | 3:13 | 2022-10-06 |  |
+| [You Are My Sunshine](https://open.spotify.com/track/7CpgcbEqRxOMAFelj7bZBa) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tell 'Em I'm Gone](https://open.spotify.com/album/7K3ZqU69hSFJjhIDuUrujP) | 3:13 | 2022-10-06 | 2023-11-04 |
 | [رمضان](https://open.spotify.com/track/4yEIMYflXV6yfuZvzmSGlo) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [عناقيد \- 2](https://open.spotify.com/album/4oHZjrqEmcwBBznEnNT3TP) | 3:42 | 2022-03-31 | 2022-04-18 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

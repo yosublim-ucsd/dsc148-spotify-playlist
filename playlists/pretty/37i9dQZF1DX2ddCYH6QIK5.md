@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Cosmo Lautaro , Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,373 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,395 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [easy](https://open.spotify.com/track/3EoXPxpXCAy3QTBB65vcYQ) | [pigments](https://open.spotify.com/artist/2UGbz7H7MWvzz9uOsi2WXP) | [easy](https://open.spotify.com/album/4JBi0srbD33YtEX6v1FuRE) | 3:37 |
 | 80 | [Little Mug](https://open.spotify.com/track/5olVPGwH0AiHkXLMeR5S9o) | [Crow Baby](https://open.spotify.com/artist/7cBPTTqPfTOtwNwXJ2YFK1) | [Little Mug](https://open.spotify.com/album/39nkA7A6jaWkJ9y5PHfUtb) | 3:46 |
 
-Snapshot ID: `MCxhMWI5N2Y5NmZhOTUyYmI1YmIxNDFmMzczNDc1NjBiODFmNDk3Zjgy`
+Snapshot ID: `MCw3NDMwZTI5ZjNmYTdiYmMzNWU3NGQ3YTExMTI1ZmIzYjljYjg5OTEx`

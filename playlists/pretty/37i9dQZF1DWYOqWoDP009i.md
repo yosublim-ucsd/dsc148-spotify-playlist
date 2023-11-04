@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 
 > The best and finest 70s Funk\. Cover: Kool & The Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,231 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,234 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 92 | [What About Love \- Mark Grusane Edit](https://open.spotify.com/track/1k6tMlJREcGSfijxtNj7sC) | [Brief Encounter](https://open.spotify.com/artist/4OEbC7T2MsiXplZhj7ljRj), [Mark Grusane](https://open.spotify.com/artist/4CbCjbCnAhZKQfLi21RNSM) | [The Real Sound of Mark Grusane](https://open.spotify.com/album/4yys6WC1buG4jdGy10Brxy) | 5:05 |
 | 93 | [Let It Shine](https://open.spotify.com/track/1uGVHr2GEaQkTZBfHv2TOn) | [9th Creation](https://open.spotify.com/artist/0JteaW1VUSassfQphZqD8X) | [A Step Ahead](https://open.spotify.com/album/7kLTbY2iPtSzJuIFHIhNyn) | 4:45 |
 | 94 | [All Day](https://open.spotify.com/track/5ExF7rCGsIqzfR50vJlyjz) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [Raising Hell](https://open.spotify.com/album/2MyvNr8YcohrQASCbjAHiG) | 4:32 |
-| 95 | [Waiting At the Bus Stop \- Full Version](https://open.spotify.com/track/1JVeMXp2SzgrcujEYbxTW3) | [The Kay Gees](https://open.spotify.com/artist/2kBAQC51ydY25zaSQBICTi) | [Find a Friend \(Expanded Version\)](https://open.spotify.com/album/5vdwCRylN47LOzdmqg9reM) | 6:16 |
+| 95 | [Waiting At the Bus Stop \(Full Version\)](https://open.spotify.com/track/30hMX3zgOLPcrfWGTc9vWj) | [The Kay Gees](https://open.spotify.com/artist/2kBAQC51ydY25zaSQBICTi) | [Find a Friend \(Expanded Version\)](https://open.spotify.com/album/1WHqXYm3pvEFkFHsXELoYm) | 6:16 |
 | 96 | [Bus Stop \- Remastered](https://open.spotify.com/track/3GrvFBxKFjaYnYpDiKcPWK) | [Oliver Sain](https://open.spotify.com/artist/3wCv06G7ihSdnhsd8kaoCx) | [Bus Stop \(Remastered\)](https://open.spotify.com/album/1FP4Ni1gQv1LfjMKGEHLDT) | 3:10 |
 | 97 | [Welcome to Our World \(Of Merry Music\)](https://open.spotify.com/track/0sQ4OcMgLkLahjZ3D1D4OU) | [Mass Production](https://open.spotify.com/artist/4Aj5BsUYgadIeoC759FrhE) | [Welcome To Our World](https://open.spotify.com/album/5EL05yBpF4CG7URBxCYb0w) | 7:32 |
 | 98 | [Life Is a Miracle \- Original](https://open.spotify.com/track/2fMfNfoBmsv8khWzCS23kk) | [Jax Transit Authority](https://open.spotify.com/artist/4azQuuLy5NDIn3vrNF6UDR) | [Life Is a Miracle](https://open.spotify.com/album/1vPGCPXwfXwWMD44EyRyRP) | 3:34 |
 | 99 | [Patience](https://open.spotify.com/track/4pMG2a3r1AeVbV4FOJwuRn) | [Rokk](https://open.spotify.com/artist/7bLOOtxBWLOpBmhGX3cp0S) | [Eccentric Soul: Omnibus](https://open.spotify.com/album/35IxeM8FWncBSFRH9soSTa) | 4:39 |
 | 100 | [Music Has the Power](https://open.spotify.com/track/2xcxqTg21JxE6zPjT6xswd) | [Ingram](https://open.spotify.com/artist/4wKxcGIfyMyTAucXYUHzGw) | [That's All!](https://open.spotify.com/album/5MRu2NKaMYjIvi7K2RMRGF) | 3:57 |
 
-Snapshot ID: `MCw5ODgxMzJkOWMxZjNiNDA2ZDUzZGI0YThkYTE2OTM2YWM5M2U4OTc1`
+Snapshot ID: `MCxhNWU0NzNiYjIyMjliOGQ5NGY1ZTYzMmQ1NWRmZTdhYzU4ZTNjYzZi`

@@ -4,12 +4,13 @@
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-71 songs - 6 hr 33 min
+73 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [138 Trek](https://open.spotify.com/track/41rcTbVxz3b2Rv4RngYKj8) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Beats by Design](https://open.spotify.com/album/7fa3b5DjCmd7aejFh1l2Zn) | 5:08 | 2021-06-02 |  |
-| [Ain't No Mountain High Enough \- The Garage Version](https://open.spotify.com/track/2YVymWthRJewHNHPVvPiHh) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Salsoul Classics, Vol\. 2](https://open.spotify.com/album/7M9BRTQMTFdw9mVnG2QumD) | 10:29 | 2021-06-02 |  |
+| [Ain't No Mountain High Enough](https://open.spotify.com/track/0ufXsZGpeGNOq6hI6hbWAF) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Salsoul Classics, Vol\. 2](https://open.spotify.com/album/3YsO37b52kKQCTvPPdzsAI) | 10:29 | 2021-06-02 |  |
+| [Ain't No Mountain High Enough \- The Garage Version](https://open.spotify.com/track/2YVymWthRJewHNHPVvPiHh) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Salsoul Classics, Vol\. 2](https://open.spotify.com/album/7M9BRTQMTFdw9mVnG2QumD) | 10:29 | 2021-06-02 | 2023-11-04 |
 | [Another Excuse \- DFA Remix](https://open.spotify.com/track/296fOgdmVRTPZU3zLIAX30) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 7:52 | 2021-06-02 |  |
 | [Another Excuse \- Dfa Remix](https://open.spotify.com/track/0oSbSiUnmSbUIDexxH7OPd) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Nancy Whang](https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B) | [Nite Versions \(15 Year Anniversary Edition\)](https://open.spotify.com/album/4cGFG2xWOqE09EmRMUMd6t) | 8:00 | 2021-06-02 | 2022-11-13 |
 | [Another Excuse \- Dfa Remix](https://open.spotify.com/track/733gHaYR1w0B46dUEENvGx) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Nancy Whang](https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B) | [Nite Versions](https://open.spotify.com/album/5ftdUoPzoh1y5bIroXw68G) | 8:00 | 2021-06-02 | 2022-07-29 |
@@ -71,7 +72,8 @@
 | [This Time Baby \- Special 12" Version](https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI) | [Jackie Moore](https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w) | [Club Columbia](https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI) | 7:13 | 2021-06-02 |  |
 | [This Time Baby \- Special 12" Version](https://open.spotify.com/track/3SFuWRt4QDRJE6lYkouyl5) | [Jackie Moore](https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w) | [Glitterbox \- Love Is The Message](https://open.spotify.com/album/5A0Sn3fLYQDlsH0BPjuxm3) | 7:13 | 2021-06-02 | 2022-07-29 |
 | [Useless Man \- The Grid Mix](https://open.spotify.com/track/5pZvrLUCR6PXNkNa2AO7w2) | [Minty](https://open.spotify.com/artist/0vVeC3e3hdI1KVGjApg0Ud), [The Grid](https://open.spotify.com/artist/1fN3lF5RILxJeG9H8EhEDo) | [Useless Man \(The Grid Mix\)](https://open.spotify.com/album/2X7ufIprdfC2SB7Tyg81HW) | 3:42 | 2021-06-02 |  |
-| [Washing Up \- Tiga Mix](https://open.spotify.com/track/44ivsSXs37MFy88D4eCU3p) | [Tomas Andersson](https://open.spotify.com/artist/4iSjTOvOgsgONqpSphYvUG) | [Washing Up](https://open.spotify.com/album/4rr8wQDnciFctXhLcq7bZI) | 5:33 | 2021-06-02 |  |
+| [Washing Up \(Tiga Mix\)](https://open.spotify.com/track/7pS9y49wkeOGJp55vdCwwq) | [Tomas Andersson](https://open.spotify.com/artist/4iSjTOvOgsgONqpSphYvUG) | [Washing Up](https://open.spotify.com/album/2AyBVH8TWBFbR41cIGVNWI) | 5:33 | 2021-06-02 |  |
+| [Washing Up \- Tiga Mix](https://open.spotify.com/track/44ivsSXs37MFy88D4eCU3p) | [Tomas Andersson](https://open.spotify.com/artist/4iSjTOvOgsgONqpSphYvUG) | [Washing Up](https://open.spotify.com/album/4rr8wQDnciFctXhLcq7bZI) | 5:33 | 2021-06-02 | 2023-11-04 |
 | [Where's Jason's K](https://open.spotify.com/track/5nUfbXGXSULNLxJyndR5iB) | [Syclops](https://open.spotify.com/artist/1DoyIKYcf1Pw2tMFFy0oEi) | [I've Got My Eye on You](https://open.spotify.com/album/23cDF6i36IrMJmfDZojPgp) | 6:39 | 2021-06-02 |  |
 | [White Horse](https://open.spotify.com/track/3FeQweSLSbVkLcPDZuTiGX) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 3:57 | 2021-06-02 |  |
 | [White Horse \- 2008 Remaster](https://open.spotify.com/track/6mrxHiqJhSR67wAT71ZYI5) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Keep Smiling \[Remastered\] \(Remastered Version\)](https://open.spotify.com/album/04bsO604edaafFrGyDcaFy) | 3:56 | 2021-06-02 | 2023-06-13 |

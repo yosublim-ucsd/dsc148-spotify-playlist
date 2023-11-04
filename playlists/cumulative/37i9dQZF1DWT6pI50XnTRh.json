@@ -178,10 +178,28 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 411566,
       "name": "Desires",
       "url": "https://open.spotify.com/track/1BWnAnHrIjRsOb4F9xC0P7"
+    },
+    {
+      "album": {
+        "name": "Cameron All The Way",
+        "url": "https://open.spotify.com/album/48ScPXf83K5S2XPvZqh5l3"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cameron",
+          "url": "https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411566,
+      "name": "Desires",
+      "url": "https://open.spotify.com/track/70hmwFSb9YzERFImtL91va"
     },
     {
       "album": {
@@ -773,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Sunshine Day - The Pye/Bronze Anthology",
+        "url": "https://open.spotify.com/album/2VpVtGGkOyYPgqbI2i9y9u"
+      },
+      "artists": [
+        {
+          "name": "Osibisa",
+          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292333,
+      "name": "Ojah Awake",
+      "url": "https://open.spotify.com/track/6yy0X4T9CYKwcOyhm2DH9n"
+    },
+    {
+      "album": {
         "name": "Ojah Awake",
         "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
       },
@@ -784,7 +820,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 292333,
       "name": "Ojah Awake",
       "url": "https://open.spotify.com/track/7hPCaFhX074AINbYi0ye71"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3b9hbbPi5hD.md) - [plain]
 
 > Tarantino not only produces great movies, he produces great soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,558 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,739 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3b9hbbPi5hD.md) - [plain]
 | 9 | [Goodnight Moon](https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul) | [Shivaree](https://open.spotify.com/artist/34xAiSyQG6nlH0eZNLjbLW) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 4:03 |
 | 10 | [Apple Blossom](https://open.spotify.com/track/5Z10YWrfpP2UAUwmmHIR8y) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 2:13 |
 | 11 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo) | [Santa Esmeralda](https://open.spotify.com/artist/0iGmfKLgK5eSMgHp8YgLnS) | [Kill Bill Vol\. 1 Original Soundtrack \(PA Version\)](https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ) | 10:28 |
-| 12 | [Dark Night](https://open.spotify.com/track/3dKGK0ALdWHldGJEXpwt3K) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [Hard Line](https://open.spotify.com/album/3ynF02qfqdNaPYUfX8SWjH) | 3:51 |
+| 12 | [Dark Night](https://open.spotify.com/track/0WsetCp0v2260o3EHK50NX) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [Mandatory: The Best Of The Blasters](https://open.spotify.com/album/3rAp2eKl3WVl7Nf3iXzYw8) | 3:53 |
 | 13 | [Too Old To Die Young](https://open.spotify.com/track/43JngJ3vMsaTL8SiRwEYQp) | [Brother Dege](https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 3:43 |
 | 14 | [Rumble](https://open.spotify.com/track/5W45ACJYATjWEwUDYM5TDi) | [Link Wray & The Wraymen](https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU) | [Rumble / The Swag](https://open.spotify.com/album/70hzJHg6pWndTe9lm4SZVB) | 2:27 |
 | 15 | [Treat Her Right](https://open.spotify.com/track/2dq2J24oIF67Uvttut4dv7) | [Roy Head And The Traits](https://open.spotify.com/artist/30rTY7YT6tAoAUoGJXQBqQ) | [The Best Of Roy Head](https://open.spotify.com/album/1pY5yYIU9DNm9GTFhCyMTt) | 2:05 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3b9hbbPi5hD.md) - [plain]
 | 46 | [I Want Your Body](https://open.spotify.com/track/5keVHhRytkZTQ6tukYtXS9) | [Nymphomania](https://open.spotify.com/artist/2gA8mpcqoWuwlXBmtBrxH1) | [True Romance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RyWJx6ASGDuaEwVe0aWvG) | 4:18 |
 | 47 | [Winged](https://open.spotify.com/track/5WRPV0uLJz0tVUqHb79f3X) | [James Russo](https://open.spotify.com/artist/2Gp78IIBNqoiSUlPGP67P4) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 0:08 |
 
-Snapshot ID: `MCxlOWQyY2YyOGJlYTA2ZTUxNjIwODM3NTdmYTFiM2EzZDhmM2FkYjQy`
+Snapshot ID: `MCwwZDk2NTE2NWFmYWRkOGM4NDA1MGQzYmY3YmExMGEyNGJhMGU1NTcy`

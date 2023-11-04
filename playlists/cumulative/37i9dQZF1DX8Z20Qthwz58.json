@@ -1387,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/1SkEoEyvUCr3YeCnyUN2EN"
+      },
+      "artists": [
+        {
+          "name": "WITHUS",
+          "url": "https://open.spotify.com/artist/4ytfwcX1xP2Ng3ASEgg0So"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220740,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/67XpbqJITroMaEVclBEAW5"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W"
       },

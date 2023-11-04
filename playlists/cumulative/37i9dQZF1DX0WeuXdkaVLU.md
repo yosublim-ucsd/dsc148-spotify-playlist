@@ -4,7 +4,7 @@
 
 > Music from and inspired by The School for Good and Evil\. Watch now on Netflix.
 
-35 songs - 1 hr 53 min
+36 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Prelude No\. 1 in C Major, BWV 846: Well\-Tempered Klavier \- From the Well\-Tempered Klavier](https://open.spotify.com/track/6rrPRUbOf3Kvzktz4T5FST) | [Erica Goodman](https://open.spotify.com/artist/1EelcDEygYtkxrPAAK1vG0) | [Heavenly Harp](https://open.spotify.com/album/7wlkMkHsZ79mRM7G5zSOwV) | 2:31 | 2022-10-18 |  |
 | [Puffer](https://open.spotify.com/track/7635hWMCKR3csDnRdON93M) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:32 | 2022-10-18 |  |
 | [Ready for It](https://open.spotify.com/track/29HpBx2DOjT9y6BpBQ4itU) | [Rayelle](https://open.spotify.com/artist/5ZMPpV5VxNpgr3IWOpcc4c) | [Ready for It](https://open.spotify.com/album/1QCGloL6t0yeDLoFA2G0yL) | 2:59 | 2022-10-18 |  |
-| [Rock & Roll Queen](https://open.spotify.com/track/75lw5aYrDq0TJsbkqCPRIJ) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Young For Eternity](https://open.spotify.com/album/3BHVEMienVRnrpWJJCJSgN) | 2:49 | 2022-10-18 |  |
+| [Rock & Roll Queen](https://open.spotify.com/track/3CLmZAW1fgpnRyVwUx4bbZ) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Young for Eternity](https://open.spotify.com/album/5tTubYK1AQxmixhWcwG5OR) | 2:49 | 2022-10-18 |  |
+| [Rock & Roll Queen](https://open.spotify.com/track/75lw5aYrDq0TJsbkqCPRIJ) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Young For Eternity](https://open.spotify.com/album/3BHVEMienVRnrpWJJCJSgN) | 2:49 | 2022-10-18 | 2023-11-04 |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-10-18 |  |
 | [The Ever Ball](https://open.spotify.com/track/5BIUpHqrXFecyDzTAlbHp9) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5VKymcbaHhj39nyPGUWZNk) | 4:23 | 2022-10-18 | 2022-11-20 |
 | [The Ever Ball](https://open.spotify.com/track/6UeG5ncu0OKMmf3MuBJ93H) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 4:23 | 2022-10-18 |  |

@@ -4,7 +4,7 @@
 
 > All your Disco favorites\. Cover: Earth Wind & Fire
 
-155 songs - 13 hr 25 min
+156 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [It's Raining Men \- Single Version](https://open.spotify.com/track/54rjlka9h5VCl8ugns7gvt) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [NOW That's What I Call Dance Classics](https://open.spotify.com/album/5Id6lq8DEcTDC3fiThdDFK) | 3:31 | 2019-05-26\* | 2021-09-22 |
 | [Jingo](https://open.spotify.com/track/25RwxZaRG0R11a4nTBDDlb) | [Candido](https://open.spotify.com/artist/6PyAzOON3Toc5MPZrZMA5i) | [Salsoul Classics Vol\. 3 & 4](https://open.spotify.com/album/1QaXuIpHXwb6VqjmbhkCDy) | 9:53 | 2019-05-26\* | 2021-09-22 |
 | [Knock On Wood](https://open.spotify.com/track/081prZUECLXcWgmg98FxDS) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock On Wood](https://open.spotify.com/album/7knNWrNpy0By8sLlgxnfki) | 4:10 | 2019-05-26\* | 2021-09-22 |
-| [Kung Fu Fighting](https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [The Soul of the Kung Fu Fighter](https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX) | 3:17 | 2021-09-21 |  |
+| [Kung Fu Fighting](https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [The Soul of the Kung Fu Fighter](https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX) | 3:17 | 2021-09-21 | 2023-11-04 |
+| [Kung Fu Fighting](https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [Kung Fu Fighter](https://open.spotify.com/album/53DDpuRxvNAUby9WODE3h2) | 3:17 | 2023-09-20 |  |
 | [Ladies Night](https://open.spotify.com/track/5712ELdjcfZsDS9RorYkIF) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Kool and the Gang: Greatest Hits](https://open.spotify.com/album/38PfRiBOHJznAWwk6srDXz) | 3:48 | 2019-05-26\* | 2021-09-22 |
 | [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 6:25 | 2021-09-21 |  |
 | [Lady \(You Bring Me Up\)](https://open.spotify.com/track/5CLozJK4pKWoPpFf2Z1Mye) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [In The Pocket](https://open.spotify.com/album/2VZu6gvY1Z8Kx4WtAbb7UG) | 4:53 | 2021-09-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 112248,
+  "num_followers": 112411,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTA0ZDdmNTdkNzk0NGMxZDJkZTAyZGEyMmIyZjI0NzI5NTlkNTJi",
+  "snapshot_id": "MCxmYzZlNTBiODk4YzdjOTY3MTVjMTg0Mjc4MmQ3YzgzNDhlMTQ4MTJl",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -931,6 +931,26 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "How to Operate With a Blown Mind",
+        "url": "https://open.spotify.com/album/47ZlUaIT7HQeEzOioXrRj6"
+      },
+      "artists": [
+        {
+          "name": "Lo Fidelity Allstars",
+          "url": "https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs"
+        },
+        {
+          "name": "Pigeonhed",
+          "url": "https://open.spotify.com/artist/7C5dkQXLoTE3OFE5qBTrBB"
+        }
+      ],
+      "duration_ms": 339213,
+      "name": "Battleflag (feat. Pigeonhed)",
+      "url": "https://open.spotify.com/track/3F138QuYFlzPmgPeWKEFln"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Leftism",
         "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
       },
@@ -947,22 +967,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Inner City Life",
-        "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
-      },
-      "artists": [
-        {
-          "name": "Goldie",
-          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
-        }
-      ],
-      "duration_ms": 231973,
-      "name": "Inner City Life - Radio Edit",
-      "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Vegas",
         "url": "https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt"
       },
@@ -975,6 +979,22 @@
       "duration_ms": 445000,
       "name": "Busy Child",
       "url": "https://open.spotify.com/track/43F49A8ReVXhH7l0jGMViS"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Inner City Life",
+        "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
+      },
+      "artists": [
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "Inner City Life - Radio Edit",
+      "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1063,22 +1083,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "On the Ropes",
-        "url": "https://open.spotify.com/album/1S4vDNHYcAYNbQjB1aT5vu"
-      },
-      "artists": [
-        {
-          "name": "Mint Royale",
-          "url": "https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj"
-        }
-      ],
-      "duration_ms": 306909,
-      "name": "From Rusholme with Love",
-      "url": "https://open.spotify.com/track/32YtorOlPz4n7y5OiYkohZ"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "The Journey Man",
         "url": "https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt"
       },
@@ -1099,6 +1103,22 @@
       "duration_ms": 366387,
       "name": "I Adore You",
       "url": "https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "On the Ropes",
+        "url": "https://open.spotify.com/album/1S4vDNHYcAYNbQjB1aT5vu"
+      },
+      "artists": [
+        {
+          "name": "Mint Royale",
+          "url": "https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj"
+        }
+      ],
+      "duration_ms": 306909,
+      "name": "From Rusholme with Love",
+      "url": "https://open.spotify.com/track/32YtorOlPz4n7y5OiYkohZ"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1135,26 +1155,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Pre Millennium Tension",
-        "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        },
-        {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Makes Me Wanna Die",
-      "url": "https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "U.F.Off: The Best Of The Orb",
         "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
       },
@@ -1183,6 +1183,26 @@
       "duration_ms": 367493,
       "name": "Original Bedroom Rockers",
       "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Pre Millennium Tension",
+        "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Makes Me Wanna Die",
+      "url": "https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1271,22 +1291,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Dead Cities",
-        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
-      },
-      "artists": [
-        {
-          "name": "The Future Sound Of London",
-          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
-        }
-      ],
-      "duration_ms": 379160,
-      "name": "We Have Explosive",
-      "url": "https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "U.F.Off: The Best Of The Orb",
         "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
       },
@@ -1319,18 +1323,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Battleflag",
-        "url": "https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj"
+        "name": "Dead Cities",
+        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
       },
       "artists": [
         {
-          "name": "Lo Fidelity Allstars",
-          "url": "https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs"
+          "name": "The Future Sound Of London",
+          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
         }
       ],
-      "duration_ms": 341000,
-      "name": "Battleflag",
-      "url": "https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7"
+      "duration_ms": 379160,
+      "name": "We Have Explosive",
+      "url": "https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1403,22 +1407,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Second Toughest In The Infants (Remastered)",
-        "url": "https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Blueski - Remastered",
-      "url": "https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Dead Cities",
         "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
       },
@@ -1431,6 +1419,22 @@
       "duration_ms": 347106,
       "name": "My Kingdom",
       "url": "https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Second Toughest In The Infants (Remastered)",
+        "url": "https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Blueski - Remastered",
+      "url": "https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc"
     },
     {
       "added_at": "2021-07-14 17:36:34",

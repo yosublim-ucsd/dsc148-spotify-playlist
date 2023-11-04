@@ -2169,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "What To Expect When You're Expecting Soundtrack",
+        "url": "https://open.spotify.com/album/2kAEABNjhDS3t4xIOO85fI"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303733,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1y6NrtYewc9g3XDkOdDwTQ"
+    },
+    {
+      "album": {
         "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
         "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
       },
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 306373,
       "name": "Home - 2019 - Remaster",
       "url": "https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx"
@@ -3940,6 +3958,24 @@
     {
       "album": {
         "name": "Frame",
+        "url": "https://open.spotify.com/album/5falzmHMbxe3xvsSgDfDJO"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302066,
+      "name": "So It Seems",
+      "url": "https://open.spotify.com/track/3DZoAPlci0yuGYTNQ6TS3X"
+    },
+    {
+      "album": {
+        "name": "Frame",
         "url": "https://open.spotify.com/album/0iem6ncIWRmptkAHGjKlEg"
       },
       "artists": [
@@ -3950,7 +3986,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 302066,
       "name": "So It Seems",
       "url": "https://open.spotify.com/track/3QjATsI51vu3I9u8OLKBGF"

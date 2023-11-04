@@ -972,10 +972,28 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 189053,
       "name": "New York's Not My Home",
       "url": "https://open.spotify.com/track/2iAe3yqQ5QYX8SI1iF4kJ6"
+    },
+    {
+      "album": {
+        "name": "Live: The Final Tour",
+        "url": "https://open.spotify.com/album/2WYSfBrOUTHXHYMWZyLt04"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "New York's Not My Home (Live)",
+      "url": "https://open.spotify.com/track/4B1DeA8kfjPCfmzLA33es1"
     },
     {
       "album": {

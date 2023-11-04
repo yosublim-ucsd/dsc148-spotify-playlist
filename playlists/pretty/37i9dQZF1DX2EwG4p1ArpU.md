@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EwG4p1ArpU.md) - [plain]
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,536 likes - 62 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,598 likes - 62 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EwG4p1ArpU.md) - [plain]
 | 40 | [Doshiyomonaikuraini kimigasuki](https://open.spotify.com/track/1hqe6NBh1h7jbwwyXl5mzU) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [OFFICIAL NUMBER](https://open.spotify.com/album/2AxkAqRmDqZJB03UPQaC0B) | 3:17 |
 | 41 | [闇夜](https://open.spotify.com/track/6aW8fq5lGlhoZxhLyC7JuL) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [闇夜](https://open.spotify.com/album/1BB2OJJteupdXb2jYDH4Bp) | 3:49 |
 | 42 | [Yoku](https://open.spotify.com/track/0ac12GgX8LZK0VNC4N91o2) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaizin](https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1) | 2:48 |
-| 43 | [インスタントヘヴン](https://open.spotify.com/track/1R8Md1Ol88i2Ilm7qpMXZk) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn), [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [フライングベスト〜知らないの？巷で噂のダメ天使〜](https://open.spotify.com/album/6cuRTbjbuFqCYyFnRiFwJC) | 3:50 |
+| 43 | [インスタントヘヴン](https://open.spotify.com/track/1R8Md1Ol88i2Ilm7qpMXZk) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn), [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [フライングベスト〜知らないの？巷で噂のダメ天使〜](https://open.spotify.com/album/6cuRTbjbuFqCYyFnRiFwJC) | 3:50 |
 | 44 | [Asa Ga Furu](https://open.spotify.com/track/3BDZyESMdsPvAdSfdTBmAv) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 4:04 |
 | 45 | [Yadorigi](https://open.spotify.com/track/1PrTeEDCnjZdlfQFl97rkp) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 3:50 |
 | 46 | [Furiwoshita](https://open.spotify.com/track/4hGG4KDQmxMnKjUc9Fi5KL) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:55 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EwG4p1ArpU.md) - [plain]
 | 61 | [Yoino Myojo](https://open.spotify.com/track/3tFq9arkcubkFhDswd43nw) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 4:16 |
 | 62 | [Mellow](https://open.spotify.com/track/3w5kFSmtOVC5XAifIwR9Xz) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 4:46 |
 
-Snapshot ID: `MCw2M2ZhMWVmMWIwYmQxYWI1ODY2MzFkZmI4NGQ2NWZjZWYxMWM1ZWM0`
+Snapshot ID: `MCxjOTMxMTRlNWQxYTU0MjMxZTljOWJkN2Y4NzFmZmYwMmRkYzQ5YmI2`

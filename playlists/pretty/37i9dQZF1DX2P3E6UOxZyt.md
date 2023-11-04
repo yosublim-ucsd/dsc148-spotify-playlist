@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: 胡家誠 \(Robert Hu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,499 likes - 72 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,513 likes - 72 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [你哪位?](https://open.spotify.com/track/0xi0ZWfJ60gG6QBccnziSc) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [你哪位?](https://open.spotify.com/album/3eWiFgiKcR03wd33WLRnRE) | 1:48 |
 | 72 | [94在靠杯](https://open.spotify.com/track/1KTIjCV8N4ozMaP30WK2eD) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [94在靠杯](https://open.spotify.com/album/0MHpDBlkQmraKJ64yyjtWj) | 4:14 |
 
-Snapshot ID: `MCwyNDEyYjZmNjU4NjBhMWU5YmY0NjQ3NGNmMWI2NjRhMWMyMzkxMTIx`
+Snapshot ID: `MCwwODUwODBkZTYwMThhMTE2YTU1MmY0M2Y5MjQ5NTBiZTcwNDQ3ZTRh`

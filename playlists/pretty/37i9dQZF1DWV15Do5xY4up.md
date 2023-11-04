@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 
 > Float away to the weightless sound of breakbeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,812 likes - 73 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,817 likes - 73 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 16 | [Chasing Shadows](https://open.spotify.com/track/5NfpNuD4OZ0r7RK5DN4Ely) | [Hugo Massien](https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu) | [Metamorphosis](https://open.spotify.com/album/2X6sDZ4F4dD3lvQ31qJ1o5) | 4:37 |
 | 17 | [Hysteria](https://open.spotify.com/track/1YYTSy2xoYgabhcsTjo1xh) | [Richie Blacker](https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn) | [Hysteria](https://open.spotify.com/album/3f1eHZkiFQeSioBt5wggH3) | 3:50 |
 | 18 | [Need You By My Side](https://open.spotify.com/track/09xjDhkPAbr3OqP9zYjnM8) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Need You by My Side](https://open.spotify.com/album/1dQQsumH9Y0MO5xbq3Tr9s) | 3:20 |
-| 19 | [U Trippin](https://open.spotify.com/track/2I4kpk0Fzw9vlFTBNQRsxp) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come Out at Night](https://open.spotify.com/album/3wXAPcHY6Zw4ccHRv6Xsxy) | 6:51 |
+| 19 | [U Trippin](https://open.spotify.com/track/2q71FfZKbUO8Rsl2LEjbxp) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come out at Night](https://open.spotify.com/album/04ZsK5jLt7ht9i7fmOeEau) | 6:51 |
 | 20 | [Seems Like Yesterday](https://open.spotify.com/track/2xUabXbWjP4zg8KLWzjf5U) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Like Water](https://open.spotify.com/album/67jcLpkhhs8aym2g4ETAVf) | 6:57 |
 | 21 | [Opal](https://open.spotify.com/track/5sJyL8UvFs6onfikqUjUqY) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Chloe Ann](https://open.spotify.com/artist/1irwQnIWoD6cV6QTmN8zZ6), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Opal](https://open.spotify.com/album/5qCDHuUXdrQSWCjG8kkpo3) | 4:07 |
 | 22 | [Ridge Road](https://open.spotify.com/track/3CXuqcOwULRO94390MGSAR) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Ridge Road](https://open.spotify.com/album/2YLOw1oVOWQvd3HB6sV6QP) | 3:58 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 43 | [Make U Move](https://open.spotify.com/track/2nvBQnVHOZvTP7DkHYGnVL) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Caviar Cordial](https://open.spotify.com/album/4pSRL7cqcj8cPnOQQyLs5B) | 6:30 |
 | 44 | [Pang](https://open.spotify.com/track/1RkdZmBM6braxaqP33YwTS) | [Soundbwoy Killah](https://open.spotify.com/artist/7GWKj0q6ycOb9PvBAX81w4) | [Halcyon Daze](https://open.spotify.com/album/1PFod8nQVuEG429ctX6ecY) | 3:11 |
 | 45 | [Overcast \- Kettama’s Del Boy Remix](https://open.spotify.com/track/3p3w4sqTA2IrBbedphOHHf) | [Pentland Park](https://open.spotify.com/artist/37A6Q7JvVr8WJphC513gXw), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Pentland Park](https://open.spotify.com/album/6muuoxRTUuGhKn483IYzD3) | 5:44 |
-| 46 | [50 Euro to Break Boost](https://open.spotify.com/track/621ALAYuQFMnpBBdKXXAnS) | [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [Compro](https://open.spotify.com/album/3yXIkSJWpudtgF0TZuB16U) | 5:07 |
+| 46 | [50 Euro to Break Boost](https://open.spotify.com/track/486fgWxX39Nk44io6c4CbT) | [Blits Beats](https://open.spotify.com/artist/6ZSkAGZpBTuhhRLdGG2xl2) | [Compro](https://open.spotify.com/album/3DuQcpwc4TjXTwrooeEclt) | 5:07 |
 | 47 | [Werkseinstellungen Zurückgesetzt \- Parris Remix](https://open.spotify.com/track/54EGFgoONZaSUsknWC12RO) | [Tech Support](https://open.spotify.com/artist/1q9DdIVexjOaCYVpMJnOmq), [Parris](https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt) | [Werkseinstellungen Zurückgesetzt \(Parris Remix\)](https://open.spotify.com/album/5YIOvsT36r496Gx2y9QzFf) | 5:06 |
 | 48 | [Vesta](https://open.spotify.com/track/39nJwU8UZlKPJVrPqkeGoL) | [Gemi](https://open.spotify.com/artist/3KUQf69bdptSNDeotadJfm), [Kori](https://open.spotify.com/artist/6tUcO4yFrN0Zzt3iMtDyns) | [Vesta](https://open.spotify.com/album/0FSboMIKc7yYsJHcxBOni3) | 3:36 |
 | 49 | [Love Is All We Share \- Octo Octa Deep Feelings Remix](https://open.spotify.com/track/69OWyXVNKSZRUKp0stDTHY) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS), [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Freeze, Melt \(Remixes\)](https://open.spotify.com/album/6TnFFOov0T7vrYbqusY8IT) | 7:14 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 72 | [VTOPIA](https://open.spotify.com/track/5sV6YuXW0Cherbpb6PEpTo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [VTOPIA](https://open.spotify.com/album/50iCpCLAmZjZIZAdobVL5H) | 6:22 |
 | 73 | [Time](https://open.spotify.com/track/5CdnchxvwLJUonYfcDbgB0) | [Stanton Warriors](https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R) | [Time](https://open.spotify.com/album/2JQtRaELiP5PODbtSBa31y) | 4:07 |
 
-Snapshot ID: `MCxlZTM3NGVlZjQ0Y2Q1YTllMzYzOWU5OWFjMzNlYzdlYzFmYTE4ZWRl`
+Snapshot ID: `MCw5NDRiOGI1NWI4NGZjN2RmMTMzYjFjYWE1MjkzYmQwZWM2ZmU0ZWZj`

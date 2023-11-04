@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. Cover: Zior Park
 
-308 songs - 16 hr 47 min
+309 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bonnie & Clyde](https://open.spotify.com/track/2395WKvJwfuqPBgsyC5k9C) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [American Gothic](https://open.spotify.com/album/6e7McZxhV5in98Ai5gTfnJ) | 3:12 | 2022-02-17 | 2023-01-12 |
 | [bugAboo](https://open.spotify.com/track/2gXkUjX4hiBb1TYyrIx0Ny) | [bugAboo](https://open.spotify.com/artist/0qgxiUt2HZ0GoYRYF01aH5) | [bugAboo](https://open.spotify.com/album/4eXw2D722tMVage8wwtsOR) | 3:50 | 2021-12-30 | 2023-01-12 |
 | [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 | 2023-09-14 |  |
+| [BYE BYE BYE \(feat\. Sion\)](https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [WHERE DOES SASQUATCH LIVE? Pt\. 2](https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr) | 4:21 | 2023-11-03 |  |
 | [Bye Flu](https://open.spotify.com/track/3uC2MJmj2dgZfVDOCpUU4y) | [KINIE.K](https://open.spotify.com/artist/1zeg1qsG6bzkQMucU0eayP) | [Bye Flu](https://open.spotify.com/album/1epfxooiLP9lVzFMaQotOe) | 4:05 | 2021-12-30 | 2022-02-18 |
 | [C.A.Y.A! \(Prod & Feat\. SAAY\)](https://open.spotify.com/track/4vytdsmz9onRzW6vkkk7zG) | [Hayoung](https://open.spotify.com/artist/2ny3vi2UsKF10iKDTscdSV), [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [C.A.Y.A! \(Prod & Feat\. SAAY\)](https://open.spotify.com/album/6mqjKk4nTyLyoaN7AGWfU5) | 3:04 | 2021-12-30 | 2022-01-07 |
 | [Call me](https://open.spotify.com/track/5vWxHje3VHomfrnuHnw424) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Call me](https://open.spotify.com/album/5mHmn4iGuzbi81R6SLqftE) | 3:55 | 2021-12-30 | 2023-01-12 |

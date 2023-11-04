@@ -1,12 +1,12 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1094244,
+  "num_followers": 1095101,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTUwOTI4NDdlODI2YWI2MzVmOTM5ZDY2NTkwMjJmMjQwMzIxMmRm",
+  "snapshot_id": "MCxiYjliMThiY2NiNjQ4Y2NkNDM1NWQ1N2QzOTcwZTkxY2UwYTNkN2Y2",
   "tracks": [
     {
       "added_at": "2023-07-14 10:06:53",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/2f0OIKkTy3gT89i2N7BaHJ"
-      },
-      "artists": [
-        {
-          "name": "Dr. Alban",
-          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Sing Hallelujah!",
-      "url": "https://open.spotify.com/track/01kVVoJQuWVqaOvRgRztJD"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -423,22 +407,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton",
-        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "My Promise",
         "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
       },
@@ -451,6 +419,22 @@
       "duration_ms": 272093,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Best Of La Bouche feat. Melanie Thornton",
+        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -487,6 +471,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 285426,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "Movin' Melodies",
         "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 230933,
       "name": "2 Times - Original",
       "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 285426,
-      "name": "The Riddle",
-      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -671,22 +655,6 @@
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "Rhythm Is a Dancer 2008",
-        "url": "https://open.spotify.com/album/0fCSmPLktcURKcwkO06qeN"
-      },
-      "artists": [
-        {
-          "name": "SNAP!",
-          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
-        }
-      ],
-      "duration_ms": 316138,
-      "name": "Rhythm Is A Dancer - 12'' Version",
-      "url": "https://open.spotify.com/track/6NLAzDPHSlV2bl7XbmivOq"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -1019,22 +987,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Look Who's Talking",
-        "url": "https://open.spotify.com/album/3CEkYyMCddHajkcVsutXag"
-      },
-      "artists": [
-        {
-          "name": "Dr. Alban",
-          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Let The Beat Go On - Short Version",
-      "url": "https://open.spotify.com/track/0yaWNizxPgPE9E0bD31mcS"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
       },
@@ -1051,22 +1003,6 @@
       "duration_ms": 212560,
       "name": "Stay - Original Single Edit",
       "url": "https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/4R3t81cmGUQrTRFXTw7iI1"
-      },
-      "artists": [
-        {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
-        }
-      ],
-      "duration_ms": 209014,
-      "name": "Somebody Dance with Me",
-      "url": "https://open.spotify.com/track/7M2wk27EePpYr9TH3uZY1r"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -1119,6 +1055,22 @@
       "duration_ms": 221280,
       "name": "United - Short Mix",
       "url": "https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/4R3t81cmGUQrTRFXTw7iI1"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "duration_ms": 209014,
+      "name": "Somebody Dance with Me",
+      "url": "https://open.spotify.com/track/7M2wk27EePpYr9TH3uZY1r"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -1183,6 +1135,54 @@
       "duration_ms": 215066,
       "name": "I Give You My Heart",
       "url": "https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Ten Top10 90s Hits",
+        "url": "https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz"
+      },
+      "artists": [
+        {
+          "name": "DJ Quicksilver",
+          "url": "https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "Bellissima - Radio Edit",
+      "url": "https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Another Night",
+        "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
+      },
+      "artists": [
+        {
+          "name": "Real McCoy",
+          "url": "https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/0ibYVniVLMJWvc3eNfYk8T"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Rough And Tough And Dangerous - The Singles 1994 - 1998",
+        "url": "https://open.spotify.com/album/0FXzH47HIVo1JoPHVT5i2N"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "Hyper Hyper",
+      "url": "https://open.spotify.com/track/2HTkjyB61A90e1sOziRJQc"
     }
   ],
   "unique_name": "90s Dance Party",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,404 likes - 46 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,506 likes - 46 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Awa adounia](https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg) | [Liya Ag Ablil](https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5), [Nadia Nid El Mourid](https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb), [Abdallah Ag Ahmed](https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS), [Mathias Vaguenez](https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d), [Sanou Ag Ahmed](https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY), [Yamina Nid El Mourid](https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS) | [Kel Tamasheq \(Deluxe Edition\)](https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH) | 4:44 |
-| 2 | [Never \(Lagos Never Gonna Be the Same\)](https://open.spotify.com/track/4aTcopxonBr4JVajnsGi6K) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Rejoice](https://open.spotify.com/album/061q5E43gIp25oJxVxvAav) | 3:53 |
+| 2 | [Never \(Lagos Never Gonna Be the Same\)](https://open.spotify.com/track/1Y1Sy4TnKyBaWStIKDJ77r) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Rejoice](https://open.spotify.com/album/2Boz0rJ8zfeoclEv7SHIFR) | 3:53 |
 | 3 | [Chant To Mother Earth](https://open.spotify.com/track/29hGEpz5e8binaL8xQT1EI) | [BLO](https://open.spotify.com/artist/6Occ6ZTaLDgVUjzpQMkTTq) | [Phases 1972\-1982](https://open.spotify.com/album/1b0BiKBuU7ibqv7GEtynD9) | 6:09 |
 | 4 | [Bargain](https://open.spotify.com/track/5YS2n7FHAGsEdMrtUzHbo9) | [Rob](https://open.spotify.com/artist/4bhBtxtDWGCSaRXztdrDMq) | [Make It Fast, Make It Slow](https://open.spotify.com/album/4x6UecIxC8wmIffb272emB) | 5:17 |
 | 5 | [Watch Your Life](https://open.spotify.com/track/2vbRZMSsenMBhpF6am4uRc) | [Itadi](https://open.spotify.com/artist/4VJPktEOBTcv5oRRXrPhne) | [Itadi](https://open.spotify.com/album/0FPxNka2LFpFgHTT5zCtRj) | 6:10 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 13 | [Wanna Do My Thing](https://open.spotify.com/track/5PHMByfnN7hGWSnZsUoomX) | [Matata](https://open.spotify.com/artist/3wM3kzh5jEJwnsCaJIVtwU) | [Feelin' Funky](https://open.spotify.com/album/2k25m9vcKrYhkTcRUYYzQg) | 3:07 |
 | 14 | [Tire Loma da Nigbehin](https://open.spotify.com/track/1106NpuH96tUmf53qlKsoA) | [Monomono](https://open.spotify.com/artist/6AmVniWakUqMZUBVc7zeK6) | [Tire Loma Da Nigbehin](https://open.spotify.com/album/1wmnnD0JYdybQhfmis8CxK) | 4:48 |
 | 15 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 |
-| 16 | [Secret Agent \- 2022 \- Remaster](https://open.spotify.com/track/2AjmSwDI5PqOUeAM32kBo3) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent \(2022 Remaster\)](https://open.spotify.com/album/7IShXowFqPNYwLaNIvmsph) | 5:18 |
+| 16 | [Secret Agent \(2022 \- Remaster\)](https://open.spotify.com/track/2iDBHgfEK3mVKO4z3EpLrm) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent \(2022 Remaster\)](https://open.spotify.com/album/1k9NLtqIhPF0rhcW2Kip27) | 5:18 |
 | 17 | [Keleya](https://open.spotify.com/track/22wOMwqWNjm49RCPyX8H5c) | [Moussa Doumbia](https://open.spotify.com/artist/2yRG7OVkS0IXvJfntYxHfV) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 6:42 |
 | 18 | [Love and Death](https://open.spotify.com/track/2EdcEOJf2V8xMOTO7q2gCN) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/4MTtvGnI74RyOmG5UrVZhf) | 6:55 |
 | 19 | [Gbomei Adesai](https://open.spotify.com/track/3aup2Wb74T0uWASlue8sqP) | [The Psychedelic Aliens](https://open.spotify.com/artist/7KJFSOY3DpBSS9yy8vCGWG) | [Psycho African Beat](https://open.spotify.com/album/1DIyUBpOICsZ9UuMn8Mmmj) | 3:08 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 45 | [In The Jungle \(Instrumental\)](https://open.spotify.com/track/4Maj54gxqVxtDkV7NVhuGA) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [Keep On Moving](https://open.spotify.com/album/5FdJf2mAyJnQ6h7eoC8alN) | 3:08 |
 | 46 | [You Are My Heart](https://open.spotify.com/track/5r2cbcTE0HhvRO2avP8GAh) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 3:13 |
 
-Snapshot ID: `MCwzYWY5YmNkM2FiOTdhM2VhYWQ2NWQyNTZjNjgzYTAwOTMyNjU0YzE5`
+Snapshot ID: `MCwwNDJmNjA1NDQyYjkxYjQ1ODNiYjViYmJlMmQyOGI1ZmU1ZTllMzFk`

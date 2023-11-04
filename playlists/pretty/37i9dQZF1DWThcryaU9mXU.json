@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 47990,
+  "num_followers": 48020,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTRiNzY1YzMxZjc0NDgwMzBhZjhkN2VmMGI4NGIwYzRjOTczN2Q0",
+  "snapshot_id": "MCw0MWIwMjcxMDY0NjQ0YjgzZTYxOGFhMTk2ZGEyMGI1NjQ1OTk2Yzdl",
   "tracks": [
     {
       "added_at": "2023-10-02 12:57:01",
@@ -163,38 +163,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "In the Skies",
-        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 464666,
-      "name": "A Fool No More",
-      "url": "https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "My Dearest Darling",
-      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "True To Yourself",
         "url": "https://open.spotify.com/album/6djxMkLPDJdk3N1bIExPNV"
       },
@@ -211,6 +179,22 @@
       "duration_ms": 456946,
       "name": "Lonely Bed",
       "url": "https://open.spotify.com/track/2glwN5raCeEn0EdjKrNw6i"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "My Dearest Darling",
+      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -295,22 +279,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "The Blues",
-        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 502973,
-      "name": "Lonely World",
-      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Give In Kind",
         "url": "https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW"
       },
@@ -323,6 +291,22 @@
       "duration_ms": 257440,
       "name": "Loneliest Road That I Know",
       "url": "https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "The Blues",
+        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 502973,
+      "name": "Lonely World",
+      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -803,6 +787,22 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 183120,
+      "name": "Lonesome Road Blues",
+      "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
         "name": "Right Kinda Wrong",
         "url": "https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 412920,
       "name": "Icepick Through My Heart",
       "url": "https://open.spotify.com/track/4dsTfxWKkUplwEZiJkVPYo"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 183120,
-      "name": "Lonesome Road Blues",
-      "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1015,22 +999,6 @@
       "duration_ms": 160853,
       "name": "You Put the Heart on Me",
       "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
-        "name": "The Essential Blue Archive: Why Should I Cry",
-        "url": "https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Johnson",
-          "url": "https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Friendless Blues",
-      "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1223,22 +1191,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q"
-      },
-      "artists": [
-        {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
-        }
-      ],
-      "duration_ms": 419306,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "So Far so Good",
         "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
       },
@@ -1251,6 +1203,22 @@
       "duration_ms": 233706,
       "name": "Low Down Dirty Blues",
       "url": "https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 419306,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1403,6 +1371,22 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
+        "name": "Down On My Knees",
+        "url": "https://open.spotify.com/album/4MVKaN7r9Wlxr0KyXP9RAa"
+      },
+      "artists": [
+        {
+          "name": "King Leo",
+          "url": "https://open.spotify.com/artist/24Y1QM5HxIVWItCw16bw1C"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Down On My Knees",
+      "url": "https://open.spotify.com/track/3soWDvvrdUZeeniNWxwPji"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
         "name": "The Best of the 5th Annual Brooklyn Folk Festival",
         "url": "https://open.spotify.com/album/2yTbT5DQqjSn3ly5oypYhw"
       },
@@ -1435,22 +1419,6 @@
       "duration_ms": 205870,
       "name": "Mistreated so Bad",
       "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
-        "name": "Down On My Knees",
-        "url": "https://open.spotify.com/album/4MVKaN7r9Wlxr0KyXP9RAa"
-      },
-      "artists": [
-        {
-          "name": "King Leo",
-          "url": "https://open.spotify.com/artist/24Y1QM5HxIVWItCw16bw1C"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Down On My Knees",
-      "url": "https://open.spotify.com/track/3soWDvvrdUZeeniNWxwPji"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1499,6 +1467,38 @@
       "duration_ms": 342677,
       "name": "Use As Needed",
       "url": "https://open.spotify.com/track/0jcyLI0xuoNn2ENh1Vvzxv"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Wrong Kind of Lovin",
+        "url": "https://open.spotify.com/album/5tdreJCS1nWRB72dF43IcX"
+      },
+      "artists": [
+        {
+          "name": "Dan Kearney",
+          "url": "https://open.spotify.com/artist/2vDDjafIuvRtW46fMvdOy6"
+        }
+      ],
+      "duration_ms": 320133,
+      "name": "Wrong Kind of Lovin",
+      "url": "https://open.spotify.com/track/1X7Dw4CtOV3nJcmPvrX2af"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Just The Big Three Trio",
+        "url": "https://open.spotify.com/album/7f1fwQkkUFI7nNeKLEINED"
+      },
+      "artists": [
+        {
+          "name": "The Big Three Trio",
+          "url": "https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Since My Baby Gone",
+      "url": "https://open.spotify.com/track/3usW1XSJR0B6t14znEAGJ9"
     }
   ],
   "unique_name": "Just Me and the Blues",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,244 likes - 197 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,611 likes - 197 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 73 | [The Valley](https://open.spotify.com/track/3ZhNK5Q3yW971UcRhKpC1R) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [The Valley](https://open.spotify.com/album/6dTJpHAJfG3B9jmE7rsolg) | 3:19 |
 | 74 | [Turtles All the Way Down](https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 3:08 |
 | 75 | [Born Again](https://open.spotify.com/track/217WnNJ3NuFB9dC8wncMPb) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:28 |
-| 76 | [Straight Up Sideways](https://open.spotify.com/track/4QJhHUCcaCPS0hO6XYFpHO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 2:56 |
+| 76 | [Straight Up Sideways](https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 2:56 |
 | 77 | [KMAG YOYO](https://open.spotify.com/track/54BYHlZdV2QsnoPPSnAK8t) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [KMAG YOYO \(& Other American Stories\)](https://open.spotify.com/album/1DZTkteQGTi9Ko7CwZKnWc) | 4:19 |
 | 78 | [Long White Line](https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 4:01 |
 | 79 | [Drunken Poet's Dream](https://open.spotify.com/track/2fS7XWfRXnje2uUSYCl8us) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Trouble In Mind](https://open.spotify.com/album/0c2k2ldJq0CNU1QpMFtufi) | 3:28 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 81 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 |
 | 82 | [Life of Sin](https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 2:26 |
 | 83 | [Butter](https://open.spotify.com/track/2HffKiqwE9cMKcRLwO03km) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Butter](https://open.spotify.com/album/6Rgrxb2rmHgJJE3RfDBQt9) | 3:27 |
-| 84 | [Dead Men Tell No Tales](https://open.spotify.com/track/3n1SVpFljd2w59JwWc3vAU) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber](https://open.spotify.com/album/5F2OkugZPCbjYKQvjUh5yM) | 3:03 |
+| 84 | [Dead Men Tell No Tales](https://open.spotify.com/track/20KE0WQNmYYYhI2U5coisY) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber](https://open.spotify.com/album/0WVRXw04iy4QN2EnmXx11I) | 3:04 |
 | 85 | [What Cowboys Do](https://open.spotify.com/track/7Hle5ryHW10GCpkE8pxlpx) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [All Night Party](https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR) | 3:50 |
 | 86 | [Revolution](https://open.spotify.com/track/5hSpfqVboiNEo4MCiy2VDG) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Revolution](https://open.spotify.com/album/4XVPDM5zdjNY6ovteechd6) | 3:10 |
 | 87 | [The Mercury](https://open.spotify.com/track/0vNTlunI1KuAEM9N1bqH13) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Turnpike Troubadours](https://open.spotify.com/album/46EPywakNshyqPm3KFUYpQ) | 3:43 |
@@ -177,7 +177,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 167 | [Goodbye Yesterday](https://open.spotify.com/track/04iseOYZpM3KCs70RMcdrj) | [Shaver](https://open.spotify.com/artist/0New046QPZ5XWHSKM6Rh24) | [Highway Of Life](https://open.spotify.com/album/4JnZDcTBPhJaSIzubpThXg) | 3:12 |
 | 168 | [Howlin at the Moon](https://open.spotify.com/track/6KkTEaHcD5rXG4cVjWjbWn) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [I Said a Prayer Twice for Both My Faces](https://open.spotify.com/album/6RtPOOl6JCef0oAp4MzSij) | 3:11 |
 | 169 | [Got Me in a Bind](https://open.spotify.com/track/7lliqDwZXHNTlybH9xVpKv) | [Rusty Tinder](https://open.spotify.com/artist/79s4Fgcxjwfw0qZzRzlWoB) | [Dear to You](https://open.spotify.com/album/6D8oAXAZESjYE011oxXC8M) | 3:32 |
-| 170 | [The Humbling River](https://open.spotify.com/track/69GE6yPZZldvqtgBHrKXxg) | [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [C Is For \(Please Insert Sophomoric Genitalia Reference Here\)](https://open.spotify.com/album/5dKl1Mg0MWV7m4Yhu76b9F) | 5:05 |
+| 170 | [The Humbling River](https://open.spotify.com/track/4RqukTe8L59wgiO6fzHvzf) | [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [C Is For \(Please Insert Sophomoric Genitalia Reference Here\)](https://open.spotify.com/album/3qJM9pOfASSLCxnT7Chp9H) | 5:05 |
 | 171 | [Sunrise](https://open.spotify.com/track/4TFVF1l5nU9wbfTiFXTpi4) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Mescalito](https://open.spotify.com/album/3R4SU0GLULP0QxIal7Fcr1) | 4:45 |
 | 172 | [After Hours](https://open.spotify.com/track/2H19fYF74dXESSE2ARzJPS) | [Brad Hatfield](https://open.spotify.com/artist/2Z5iQ23reHkZArqqSM27zj) | [Straight Up \- Volume 2](https://open.spotify.com/album/5OCX9P602VAXaGjfx0fpNf) | 4:13 |
 | 173 | [Frogman](https://open.spotify.com/track/0tZIR4O5WX47JBC1TCcxxY) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 3:38 |
@@ -193,10 +193,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 183 | [Little Drummer Boy \- 2004 Remaster](https://open.spotify.com/track/5jsRxwEiaUZlvATkajITkU) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 4:01 |
 | 184 | [Without Your Love](https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:51 |
 | 185 | [Wolves](https://open.spotify.com/track/48WgsmbLBu9emLSodjG0O5) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 4:32 |
-| 186 | [Green Valley](https://open.spotify.com/track/5RVMaBTIAr8PM2keeeZlnZ) | [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [Conditions Of My Parole](https://open.spotify.com/album/2gUufHW7CcgULEywXTQHk4) | 3:54 |
+| 186 | [Green Valley](https://open.spotify.com/track/4Tkj9L81NcKffRHi6L6bk1) | [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [Conditions Of My Parole](https://open.spotify.com/album/1ZIPAkFJ9oY4zJnvVljD58) | 3:54 |
 | 187 | [Baby I Lost My Way, \(But I'm Going Home\)](https://open.spotify.com/track/4sithGopG72uyw6LrLsgiu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 2:55 |
 | 188 | [Broken Window Serenade](https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 5:46 |
-| 189 | [Grand Canyon](https://open.spotify.com/track/5qxQ3jCwEMHCCZoc00tdLF) | [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [Money Shot](https://open.spotify.com/album/6MyJhSzVSOravLjL5hpFMk) | 5:57 |
+| 189 | [Grand Canyon](https://open.spotify.com/track/6TXS2cMfXY8oNZ20moIWoc) | [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [Money Shot](https://open.spotify.com/album/5Eq7sXh2Ifa9mp2ry25lxn) | 5:57 |
 | 190 | [I'd Die Without You](https://open.spotify.com/track/5MAWGXxVxFNig7swSJUTP5) | [P.M\. Dawn](https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL) | [The Bliss Album...?](https://open.spotify.com/album/2092uBCLDw7Off2zl7Es2j) | 4:10 |
 | 191 | [Lord Knows I Tried](https://open.spotify.com/track/7zKcfMgSincnabBwLLNsEH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [I Said a Prayer Twice for Both My Faces](https://open.spotify.com/album/6RtPOOl6JCef0oAp4MzSij) | 3:00 |
 | 192 | [Me and the Whiskey](https://open.spotify.com/track/6Bvh8a4YhNyqsafMVYlRrd) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Sonic Ranch](https://open.spotify.com/album/6FkihlChn5sSLKFAqsaqtU) | 4:32 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 196 | [Yellowstone Main Titles](https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 1:09 |
 | 197 | [Yellowstone Theme](https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:28 |
 
-Snapshot ID: `MCw0NmE3MDZhZGEyMmU2NTMxNGZjYzNhMWViNTU0MzBkZmM2OWIzOTU4`
+Snapshot ID: `MCxlNGVhMmE2ZDhiY2E4YWEwNzMzMmUzNmNiNGZkMmYyYTQwNjU3OTI5`

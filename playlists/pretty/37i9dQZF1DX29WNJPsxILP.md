@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Rap from the hoods of Dilli featuring Dakait, Sez on the beat
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,155 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,214 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 40 | [NCR Ke \(Original Song from "NCR Days"\)](https://open.spotify.com/track/0PHCoJBQyXpTci3lfy7i1s) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Escape Sequence](https://open.spotify.com/artist/2fZRHmeAZvkd3dDhEfWt8I) | [NCR Ke \(Original Song from "NCR Days"\)](https://open.spotify.com/album/3BCkXObf5upU3nKFAgQlmz) | 2:30 |
 | 41 | [Rishte](https://open.spotify.com/track/2RKQzkqmZvqGr1G328uocF) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:17 |
 | 42 | [11K](https://open.spotify.com/track/4q7ls1XOMHmZCvTYAqNhxZ) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 2:54 |
-| 43 | [Vision](https://open.spotify.com/track/7ofZEj1C0eRIvUFGfP1p6n) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Trapperx](https://open.spotify.com/artist/4lPuejLfxGcBAOW7T9b4mk) | [Vision](https://open.spotify.com/album/5j1Pzsq3CPv0RncydCxruK) | 2:53 |
+| 43 | [Vision](https://open.spotify.com/track/25yiXm2n2wqRLWrx45VASc) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Trapperx](https://open.spotify.com/artist/4lPuejLfxGcBAOW7T9b4mk) | [Vision](https://open.spotify.com/album/0N7CdOxDLpXLLHq5MngCRN) | 2:59 |
 | 44 | [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 |
 | 45 | [BAD GUY \(DG\)](https://open.spotify.com/track/0dTZ4voGuikJX6kI0a9v7g) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [BAD GUY \(DG\)](https://open.spotify.com/album/5oFzkhlE24nHE0Ld54UTdL) | 1:51 |
 | 46 | [Tu Tera Dekh](https://open.spotify.com/track/5LQWquv8c8OYCE30SlXLAy) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [Tu Tera Dekh](https://open.spotify.com/album/1xISjdoA7xWaEDkUGEXtL1) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 74 | [Haath Toh Laga](https://open.spotify.com/track/7GwEtrvRxKbf2E9dMiGxI6) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Haath Toh Laga](https://open.spotify.com/album/3dcAK5By2PRDtcZVJbq3Xn) | 2:27 |
 | 75 | [Saath Ya Khilaaf](https://open.spotify.com/track/3PpzBZMTrCuNx4TC6SZN69) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Saath Ya Khilaaf](https://open.spotify.com/album/5Y73P4JbAElupnQAZCStkR) | 3:34 |
 
-Snapshot ID: `MCwwN2U1YmU3MDFmOTExMTQxYTY0OTE4MjllMzQ4Njk0MWMyYzYyNmNj`
+Snapshot ID: `MCw4OTg1YTU0YmNlMDAwOThiMWNiNDRlYTUzYjM0MGFkMTJjMjNhYzBm`

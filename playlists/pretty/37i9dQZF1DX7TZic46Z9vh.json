@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 41742,
+  "num_followers": 41748,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmFmMzNjOGQ5NDk1NWI3MTg0MWY3ODBmMzYxOTZhMzQxMWYyYmEx",
+  "snapshot_id": "MCw5MzViNWY4YmUzYWRkYmZlOWJkMGJkMmZlNzQwNzJmNzcyZmFiYmFh",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -347,6 +347,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Del Sonido",
+          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
+        }
+      ],
+      "duration_ms": 173356,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/3AYFCwZNWpArhFGHJnJhjw"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Back",
         "url": "https://open.spotify.com/album/38o2ntxhlyxZlCM2WmfeDw"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 188395,
       "name": "Preludio de la Felicidad",
       "url": "https://open.spotify.com/track/5pPdMdO7P2V7fG2ELZbI8b"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Del Sonido",
-          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
-        }
-      ],
-      "duration_ms": 173356,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/3AYFCwZNWpArhFGHJnJhjw"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -495,6 +495,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Serie de Colecci\u00f3n 18 Aut\u00e9nticos \u00c9xitos Hit\u00b4s de Grupos, Vol. 2",
+        "url": "https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Del Sonido",
+          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
+        }
+      ],
+      "duration_ms": 115853,
+      "name": "In-a-Gadda-da-Vida",
+      "url": "https://open.spotify.com/track/27bwyWQYuTFwvvks3JkeF7"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Toncho Pilatos",
         "url": "https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 494471,
       "name": "La Ciudad Perd\u00edda",
       "url": "https://open.spotify.com/track/2HUStBRlw7k3zbEsAA7Aw4"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Serie de Colecci\u00f3n 18 Aut\u00e9nticos \u00c9xitos Hit\u00b4s de Grupos, Vol. 2",
-        "url": "https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Del Sonido",
-          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
-        }
-      ],
-      "duration_ms": 115853,
-      "name": "In-a-Gadda-da-Vida",
-      "url": "https://open.spotify.com/track/27bwyWQYuTFwvvks3JkeF7"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -751,6 +751,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
+        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
+      },
+      "artists": [
+        {
+          "name": "Los Soul Master's",
+          "url": "https://open.spotify.com/artist/4dlWy5TRLwDd04nALLTWfe"
+        }
+      ],
+      "duration_ms": 169665,
+      "name": "Libertad",
+      "url": "https://open.spotify.com/track/3oCXeYBiZODvdaXHranRHd"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Slitherama: Teen Trash From Psychedelic Tokyo '66 - '69 (Volume 3)",
         "url": "https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 204180,
       "name": "No Quiero Ya Volver",
       "url": "https://open.spotify.com/track/6Pv5pNSFNIO9FvOm1qGQ5F"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
-        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
-      },
-      "artists": [
-        {
-          "name": "Los Soul Master's",
-          "url": "https://open.spotify.com/artist/4dlWy5TRLwDd04nALLTWfe"
-        }
-      ],
-      "duration_ms": 169665,
-      "name": "Libertad",
-      "url": "https://open.spotify.com/track/3oCXeYBiZODvdaXHranRHd"
     },
     {
       "added_at": "2021-09-06 15:34:44",

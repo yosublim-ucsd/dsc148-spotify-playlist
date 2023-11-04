@@ -4,7 +4,7 @@
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-85 songs - 7 hr 4 min
+87 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 | 2019-03-22 | 2022-07-29 |
 | [Meritlhoana](https://open.spotify.com/track/2f3GwbaQBMbSrFFx0XzCfq) | [Morena Leraba](https://open.spotify.com/artist/2aUErDeR4aoZDvy9ZYMhzO) | [Meritlhoana](https://open.spotify.com/album/2BzAIEggWAPQPn6sZm2b7q) | 7:11 | 2023-02-03 |  |
 | [Message in a Hammer](https://open.spotify.com/track/4wTRV5h17Bo5cGJoTjq57y) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Message in a Hammer](https://open.spotify.com/album/3YZuvShbzzDdKf4qyR6Vcv) | 3:36 | 2022-05-12 |  |
-| [Never \(Lagos Never Gonna Be the Same\)](https://open.spotify.com/track/4aTcopxonBr4JVajnsGi6K) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Rejoice](https://open.spotify.com/album/061q5E43gIp25oJxVxvAav) | 3:53 | 2020-04-07 |  |
+| [Never \(Lagos Never Gonna Be the Same\)](https://open.spotify.com/track/1Y1Sy4TnKyBaWStIKDJ77r) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Rejoice](https://open.spotify.com/album/2Boz0rJ8zfeoclEv7SHIFR) | 3:53 | 2023-07-21 |  |
+| [Never \(Lagos Never Gonna Be the Same\)](https://open.spotify.com/track/4aTcopxonBr4JVajnsGi6K) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Rejoice](https://open.spotify.com/album/061q5E43gIp25oJxVxvAav) | 3:53 | 2020-04-07 | 2023-11-04 |
 | [Obaa Sima](https://open.spotify.com/track/0RleEAKmcUbJ3R7AK0dSfV) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/5rWdCCXgUf8Ptz1goEmLKC) | 5:38 | 2019-03-22 | 2022-07-29 |
 | [Obaa Sima](https://open.spotify.com/track/4LyxysVt5v3kkdJUSx8wvZ) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/2ERqie1S8nRnxh14keiTBu) | 5:38 | 2019-03-22 |  |
 | [Ohomi](https://open.spotify.com/track/63x2g8hqYpKJZ58oxglyhG) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The World Ends: Afro Rock & Psychedelia in 1970s Nigeria](https://open.spotify.com/album/34D88uX2koESycju2ROiAV) | 3:10 | 2019-03-22 | 2023-07-22 |
@@ -76,7 +77,8 @@
 | [Running](https://open.spotify.com/track/2TBhRXwBxfIJwhrB9gLlnn) | [Blackfoot](https://open.spotify.com/artist/2TI0KeX2tlQh8g6urDeufh) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:54 | 2019-03-22 |  |
 | [Secret Agent](https://open.spotify.com/track/2YvGLm7HGIRwzH1pgQDmRP) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent](https://open.spotify.com/album/6h1aeEO1kgBipcysl27xB7) | 5:20 | 2019-03-22 | 2022-07-29 |
 | [Secret Agent](https://open.spotify.com/track/3cEmHXnOZ25VECvzWTBjVg) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent](https://open.spotify.com/album/5C5xiAht5p8l8Z7oSJFebW) | 5:20 | 2019-03-22 | 2022-11-13 |
-| [Secret Agent \- 2022 \- Remaster](https://open.spotify.com/track/2AjmSwDI5PqOUeAM32kBo3) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent \(2022 Remaster\)](https://open.spotify.com/album/7IShXowFqPNYwLaNIvmsph) | 5:18 | 2019-03-22 |  |
+| [Secret Agent \(2022 \- Remaster\)](https://open.spotify.com/track/2iDBHgfEK3mVKO4z3EpLrm) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent \(2022 Remaster\)](https://open.spotify.com/album/1k9NLtqIhPF0rhcW2Kip27) | 5:18 | 2023-07-21 |  |
+| [Secret Agent \- 2022 \- Remaster](https://open.spotify.com/track/2AjmSwDI5PqOUeAM32kBo3) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent \(2022 Remaster\)](https://open.spotify.com/album/7IShXowFqPNYwLaNIvmsph) | 5:18 | 2019-03-22 | 2023-11-04 |
 | [She's A Dropout](https://open.spotify.com/track/3SOSAvBON7ZfpxPvNm3KJ1) | [The Apostles](https://open.spotify.com/artist/0yAP23o7hl2gwDjXxKdjki) | [Ivory Music Classics, Vol\. 1](https://open.spotify.com/album/3frHNk2EAU3GqMPYeHWpWk) | 3:11 | 2019-03-22 |  |
 | [Somebody's Gonna Lose or Win](https://open.spotify.com/track/6YnhY4SuFyx3gMgeyTlVdI) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [The World Ends: Afro Rock & Psychedelia in 1970s Nigeria](https://open.spotify.com/album/34D88uX2koESycju2ROiAV) | 3:09 | 2019-03-22 | 2023-07-22 |
 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 | 2019-03-22 |  |

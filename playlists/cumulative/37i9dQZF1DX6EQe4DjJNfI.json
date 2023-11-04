@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: YO\u00daN",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Chris MC",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 187629,
       "name": "5458",
       "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
@@ -1392,6 +1392,32 @@
       "duration_ms": 150848,
       "name": "LAMPEJOS",
       "url": "https://open.spotify.com/track/5ZNdTL3f4T3gbMuXCmTfT7"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e2ntico, Pt. 1",
+        "url": "https://open.spotify.com/album/7iGK5BUubDY6GZrxADD9Gy"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124090,
+      "name": "Lembrar de Voc\u00ea",
+      "url": "https://open.spotify.com/track/2svYjzzHXvUcW6dMJHm8qm"
     },
     {
       "album": {

@@ -466,10 +466,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 213400,
       "name": "Archangels Thunderbird",
       "url": "https://open.spotify.com/track/0oshIsMu5i5E2wTBIj9NxF"
+    },
+    {
+      "album": {
+        "name": "Yeti",
+        "url": "https://open.spotify.com/album/6hAV1FLshS1aiOuXT52pjw"
+      },
+      "artists": [
+        {
+          "name": "Amon D\u00fc\u00fcl II",
+          "url": "https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213400,
+      "name": "Archangels Thunderbird",
+      "url": "https://open.spotify.com/track/1Hpi1Vk1ByoqIljTyu8zTz"
     },
     {
       "album": {
@@ -3301,6 +3319,28 @@
     },
     {
       "album": {
+        "name": "Jonathan Richman & The Modern Lovers (Expanded Version)",
+        "url": "https://open.spotify.com/album/6Ll5mhBDRKoaiqxxXT1QRF"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Richman",
+          "url": "https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5"
+        },
+        {
+          "name": "The Modern Lovers",
+          "url": "https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284413,
+      "name": "Roadrunner (Once)",
+      "url": "https://open.spotify.com/track/7wj3PmmPSDuPcpoxFXCea2"
+    },
+    {
+      "album": {
         "name": "Jonathan Richman & The Modern Lovers (Expanded Edition)",
         "url": "https://open.spotify.com/album/58yLg31JUVwWoaiqD727YX"
       },
@@ -3330,7 +3370,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 284413,
       "name": "Roadrunner (Once)",
       "url": "https://open.spotify.com/track/63HEBa4dQwNFCjNYpykbXE"
@@ -3374,6 +3414,24 @@
     {
       "album": {
         "name": "Handsome (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/7xTBUyv6Vjk2NHjkb2Eurm"
+      },
+      "artists": [
+        {
+          "name": "Kilburn & The High Roads",
+          "url": "https://open.spotify.com/artist/3I97dteSoWkFBMy7C2TGSH"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146480,
+      "name": "Rough Kids",
+      "url": "https://open.spotify.com/track/1vQdyrwrqksdQMfvyPbpqN"
+    },
+    {
+      "album": {
+        "name": "Handsome (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/1IFkPHKS3pUgGJYPfzzqLv"
       },
       "artists": [
@@ -3402,7 +3460,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 146480,
       "name": "Rough Kids",
       "url": "https://open.spotify.com/track/6YFEfaiIMGFAJsJHbLSLUF"
@@ -3846,7 +3904,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 154000,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/1N7VlZoWl5EIa3XG2nK1tO"
@@ -3868,6 +3926,24 @@
       "duration_ms": 154000,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2eRmqmq8gS11QGaLWJDxdG"
+    },
+    {
+      "album": {
+        "name": "Volume 3",
+        "url": "https://open.spotify.com/album/1fuHPPzMhcQ0TfMhvZuVL0"
+      },
+      "artists": [
+        {
+          "name": "The Easybeats",
+          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155360,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/0ka5muthYaauVaS8Nuwl5q"
     },
     {
       "album": {

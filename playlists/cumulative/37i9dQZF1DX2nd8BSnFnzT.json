@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "VTQMV TOUR (LIVE)",
+        "url": "https://open.spotify.com/album/1d3WrKOjcpnDXaVKjkmI8A"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287908,
+      "name": "Agora Deixa - LIVE",
+      "url": "https://open.spotify.com/track/0k6g7j1v203m615OkO0YmJ"
+    },
+    {
+      "album": {
         "name": "AGORA DEIXA (LIVE)",
         "url": "https://open.spotify.com/album/5yRuRMgIs8lfgxT6KsYVp1"
       },
@@ -324,7 +342,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 287908,
       "name": "Agora Deixa - LIVE",
       "url": "https://open.spotify.com/track/5vN0nS5sDWg6eZraZoonBd"
@@ -2308,6 +2326,24 @@
     {
       "album": {
         "name": "Eu te amo voc\u00ea (Live Sala de Estar)",
+        "url": "https://open.spotify.com/album/3gIYxv8J959nvOH0MtCQeM"
+      },
+      "artists": [
+        {
+          "name": "Karen Jonz",
+          "url": "https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170374,
+      "name": "Eu te amo voc\u00ea (Live Sala de Estar)",
+      "url": "https://open.spotify.com/track/6W0lFjQTyYyHkszNlUWtrd"
+    },
+    {
+      "album": {
+        "name": "Eu te amo voc\u00ea (Live Sala de Estar)",
         "url": "https://open.spotify.com/album/6hrkcSV4mybnW4dbJd04hd"
       },
       "artists": [
@@ -2318,7 +2354,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 170375,
       "name": "Eu te amo voc\u00ea - Live Sala de Estar",
       "url": "https://open.spotify.com/track/4fCuJF71M3gcecekJPODWO"
@@ -2816,7 +2852,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 100600,
       "name": "HardCore e Festa",
       "url": "https://open.spotify.com/track/4PHrcMAJ81ePbgOevZKaOR"
@@ -7106,6 +7142,24 @@
       "duration_ms": 185373,
       "name": "UMA BAD UMA FARRA",
       "url": "https://open.spotify.com/track/4xTuJuYX6eoypL09xTxvIM"
+    },
+    {
+      "album": {
+        "name": "v \u00f8 l t a c r i a n \u00e7 a",
+        "url": "https://open.spotify.com/album/10mSwLFFuZ5f940TMGjBLF"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240001,
+      "name": "v \u00f8 l t a c r i a n \u00e7 a",
+      "url": "https://open.spotify.com/track/3tq4WqYbA7Rpt8fCI3Tw1V"
     },
     {
       "album": {

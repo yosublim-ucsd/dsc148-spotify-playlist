@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-290 songs - 18 hr 15 min
+291 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,8 +86,9 @@
 | [Fire](https://open.spotify.com/track/3u74mqUGokRUze14qa3gY2) | [Fruition](https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8) | [Fire](https://open.spotify.com/album/30n9vTAuxcLFJeG0P5lOD9) | 3:36 | 2021-12-17 | 2022-07-29 |
 | [Fire](https://open.spotify.com/track/7JDGQ1tmrKQCz9ptRTrt13) | [Fruition](https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8) | [Fire](https://open.spotify.com/album/1vcFateVTf5A6wFURkszHN) | 3:36 | 2022-07-22 |  |
 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 | 2021-12-17 |  |
+| [Five Dollars](https://open.spotify.com/track/17p9oO7chYLCkhddVgBRSa) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/2PemlzHYC7SUWk8HOus1jv) | 3:08 | 2023-10-20 |  |
 | [Five Dollars](https://open.spotify.com/track/3pDYH1sM23pIPU9JIqiTjT) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/6KZis8q01lE8XU6XzravkP) | 3:08 | 2021-12-17 | 2022-07-29 |
-| [Five Dollars](https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/6qjPSLr8oJHocV9Mt6Ax0m) | 3:08 | 2022-07-22 |  |
+| [Five Dollars](https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/6qjPSLr8oJHocV9Mt6Ax0m) | 3:08 | 2022-07-22 | 2023-11-04 |
 | [Fleet Foot](https://open.spotify.com/track/57ySi6fWZOIefsFmOnRqIY) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Don't Wake the Riot](https://open.spotify.com/album/3OTIQe9TKVBc8wR6JWhlQU) | 3:16 | 2022-07-22 |  |
 | [Fleet Foot](https://open.spotify.com/track/7nYYyGUvfPMTjjCwW0Zr0m) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Fleet Foot \- single](https://open.spotify.com/album/5PNFRSb0MbGgH8nWfvZ45c) | 3:16 | 2021-12-17 | 2022-07-29 |
 | [Glitter & Gold](https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 2:56 | 2022-07-22 |  |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4gqLJRpBq2Z.md) - [plain]
 
 > All the music from Barracuda Queens..\. now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,572 likes - 22 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,574 likes - 22 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rhythm Is A Dancer](https://open.spotify.com/track/1IWzfq3sLedGQ3fb2hAMBA) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [The Madman's Return](https://open.spotify.com/album/2TrNT4qm7qDIRTUVn9jBW4) | 5:32 |
+| 1 | [Rhythm Is a Dancer](https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [The Madman's Return](https://open.spotify.com/album/4XbUZbCiZynKWMCWFoNSbY) | 5:32 |
 | 2 | [Dolce Vita](https://open.spotify.com/track/6AsF1pBjFMIEMXuA8JgRag) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [ZYX Italo Disco Collection](https://open.spotify.com/album/58tXa8CpjYSGAJpUEhgKsb) | 7:31 |
 | 3 | [You've Got Me Falling](https://open.spotify.com/track/4E0Ztea9nHbIWjJTGvJFEb) | [Blanches](https://open.spotify.com/artist/5G9rJDotuVF6BoVc42I4GW), [Skylar](https://open.spotify.com/artist/2reUb4fkfA5x0tTIHmfOtd) | [You've Got Me Falling Mixpack](https://open.spotify.com/album/2RkpeLsqO6g1hkcPy4YmsN) | 3:09 |
 | 4 | [Dressed For Success](https://open.spotify.com/track/7dOyP04azUFikPvAkhRBeJ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 4:09 |
-| 5 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
+| 5 | [Alright](https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv) | 3:00 |
 | 6 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
 | 7 | [Missing](https://open.spotify.com/track/1LLYmUrNeb77HTwtr4e2Wr) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Amplified Heart](https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR) | 4:07 |
 | 8 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:22 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4gqLJRpBq2Z.md) - [plain]
 | 21 | [Block Rockin' Beats](https://open.spotify.com/track/6nGUM3Z0FNJZW9wbNj97Ig) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Brotherhood](https://open.spotify.com/album/7uqmBZKWSQY20q1EMrV8dt) | 4:54 |
 | 22 | [Panis Angelicus](https://open.spotify.com/track/4DCVBVcybvzYhSBI7Uyb8q) | [Adolf Fredrik Girls Choir](https://open.spotify.com/artist/2WLxI4rvr5ErulviUpsPp1) | [Lady Bird \- Soundtrack from the Motion Picture](https://open.spotify.com/album/6uFGiNNxdkOm03Nd3cEHxG) | 3:33 |
 
-Snapshot ID: `MCw5OTNkY2IzZWQ2ZmFhMjIwNjg4MTlhYjZiYWU0NjVkZmVkZjFjOGJi`
+Snapshot ID: `MCw5Njc3ZWYwZWJkYTI5YzA3NGU1MzRlOTg5YzAzNzFhYzYyN2U5MDhk`

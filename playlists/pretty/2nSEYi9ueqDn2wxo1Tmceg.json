@@ -6,8 +6,24 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzgwNSwzZTcxNGY1N2M5YWJlMTNiMjYzMTc1NmEyZjM1ZWRmZGEwYzRhMzE4",
+  "snapshot_id": "MzgwNiw3NjdjYmQ4N2I2NmRjNzdhOWY3NDJjNTU1OTM5ZDhmZDU2MDAwMzNl",
   "tracks": [
+    {
+      "added_at": "2023-11-03 10:52:43",
+      "album": {
+        "name": "I DES",
+        "url": "https://open.spotify.com/album/7i8J9PGYwzoNPCGU749rny"
+      },
+      "artists": [
+        {
+          "name": "King Creosote",
+          "url": "https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp"
+        }
+      ],
+      "duration_ms": 245306,
+      "name": "Ides",
+      "url": "https://open.spotify.com/track/6rFwweh36fKLVMWBiJXYPn"
+    },
     {
       "added_at": "2023-11-02 11:09:52",
       "album": {

@@ -4,7 +4,7 @@
 
 > get into the groove
 
-230 songs - 21 hr 25 min
+232 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Do You Remember](https://open.spotify.com/track/5pBhzfZr8BbdqEYonJqWvL) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [MC Roga](https://open.spotify.com/artist/1PyqNjeHsegT2hgQyX9kid) | [Rebirth](https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n) | 7:35 | 2022-12-05 |  |
 | [Don't Want It \- Fouk Remix](https://open.spotify.com/track/15uutBzggXQsR19xARHl3f) | [Henrik Villard](https://open.spotify.com/artist/6nEESP4x7kZ1zQGSaQ33TG), [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Don't Want It \(Fouk Remix\)](https://open.spotify.com/album/4n4sqDenZwDpJq9skJVTVJ) | 5:51 | 2022-09-15 | 2023-05-26 |
 | [Downstream](https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Downstream](https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z) | 2:55 | 2023-08-24 |  |
-| [Drive](https://open.spotify.com/track/2tjWqC7s6tKPl1nBFuHX0m) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Le Funk](https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec) | 3:59 | 2023-01-26 |  |
+| [Drive](https://open.spotify.com/track/2tjWqC7s6tKPl1nBFuHX0m) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Le Funk](https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec) | 3:59 | 2023-01-26 | 2023-11-04 |
+| [Drive](https://open.spotify.com/track/61k7UiVsYL4S19A2XgJYhi) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Le Funk](https://open.spotify.com/album/60BqgLIFbLMXQTBiTQqiyp) | 3:59 | 2023-11-02 |  |
 | [Dromedary Twist](https://open.spotify.com/track/5MfKKuC9XnxxSJYcbEC205) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Dromedary Twist](https://open.spotify.com/album/0p25gsEFsPMCDeyWzngtPF) | 6:09 | 2023-04-07 |  |
 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 | 2022-09-15 | 2023-07-08 |
 | [Emancipação \- Ron Trent Remix](https://open.spotify.com/track/66XwUl6vlH5XqGwjHI93OD) | [Diogo Strausz](https://open.spotify.com/artist/58HWl0aH0VFAKnxfiZdVzO), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Emancipação \(Ron Trent Remix\)](https://open.spotify.com/album/2px1kDZ3heXoSR6AFB8DGS) | 9:11 | 2022-09-15 | 2023-10-13 |
@@ -74,7 +75,8 @@
 | [For The People](https://open.spotify.com/track/4rHcrEa2KGBka5qLmJQUKX) | [Eddie C](https://open.spotify.com/artist/7fucM325lXZs0cfgV9dpS3) | [For The People](https://open.spotify.com/album/2lZl2dsLURPYeI46Lt9eiu) | 6:11 | 2022-09-15 | 2023-04-09 |
 | [Forever Whatever](https://open.spotify.com/track/1XMqiASp1EugE2Vzc7UmuH) | [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK) | [Trembala](https://open.spotify.com/album/3ZqhaGJ43PmogKRdwOX3w2) | 7:50 | 2022-10-13 |  |
 | [Fragments](https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Endless](https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG) | 4:03 | 2023-04-07 |  |
-| [Friday Night](https://open.spotify.com/track/0yKrmCbI4WYXetnEajaGw7) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [Le Funk](https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec) | 7:08 | 2023-01-26 |  |
+| [Friday Night](https://open.spotify.com/track/0yKrmCbI4WYXetnEajaGw7) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [Le Funk](https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec) | 7:08 | 2023-01-26 | 2023-11-04 |
+| [Friday Night](https://open.spotify.com/track/6vkPohD3nlDe7s0k09eoWT) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [Le Funk](https://open.spotify.com/album/60BqgLIFbLMXQTBiTQqiyp) | 7:08 | 2023-11-02 |  |
 | [Friday Service](https://open.spotify.com/track/1r2IC0yl0n06utA3gIcIjC) | [Kitchen Beats](https://open.spotify.com/artist/3Ev7LAm7ED8RS0A0puMYM9), [salameh](https://open.spotify.com/artist/6K6cnA1qYqXCmftC2hP9zw), [ruso](https://open.spotify.com/artist/4K0sQDP80cZ2I5SvVozpiC) | [Bread & Circuses](https://open.spotify.com/album/2NstuK7ULnLLr6ZycEeggf) | 3:47 | 2023-07-11 |  |
 | [Friki](https://open.spotify.com/track/3ZYOwmTAkBqbVVWkuerrGD) | [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Era E.P.](https://open.spotify.com/album/4Cxzpd11XkfbuA7TPs7cWJ) | 4:21 | 2022-09-15 | 2023-05-26 |
 | [Fruitless](https://open.spotify.com/track/78DKBZtIi968rlYrvTAINt) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t), [Kabbina](https://open.spotify.com/artist/09quqGQT73S32UhGAucXAf) | [Fruitless EP](https://open.spotify.com/album/6ROFvm3dAUknf2dy0fWwTA) | 6:19 | 2022-09-15 | 2023-05-26 |

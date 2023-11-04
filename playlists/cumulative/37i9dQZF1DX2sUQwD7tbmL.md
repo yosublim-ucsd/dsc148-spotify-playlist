@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-614 songs - 1 day 10 hr 41 min
+616 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-05-01 | 2022-10-19 |
 | [23](https://open.spotify.com/track/3GlGzfwUr7SQPsLC9WsOLJ) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/6JqgmFOlHCHv2gB6ETdGcH) | 2:44 | 2022-11-07 | 2023-09-30 |
 | [3 Nights](https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 2:57 | 2022-04-13 |  |
-| [A Kiss](https://open.spotify.com/track/69IosokH54HzpJZoFIIy74) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [A Kiss / Forever Always](https://open.spotify.com/album/1EovH6yGXTWQZolWuQdsWN) | 4:31 | 2023-09-29 |  |
+| [A Kiss](https://open.spotify.com/track/69IosokH54HzpJZoFIIy74) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [A Kiss / Forever Always](https://open.spotify.com/album/1EovH6yGXTWQZolWuQdsWN) | 4:31 | 2023-09-29 | 2023-11-04 |
 | [A Low](https://open.spotify.com/track/4hyAvXnUZwgOSDGf59fYTG) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Host](https://open.spotify.com/album/135aX76dOE47h7XVPuTzEb) | 4:03 | 2022-04-13 | 2022-04-21 |
 | [A\-Punk](https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 2:17 | 2021-06-04 | 2022-04-21 |
 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 | 2022-07-22 |  |
@@ -33,7 +33,7 @@
 | [Alameda](https://open.spotify.com/track/7h5VAXxxAm8lYi7vrTHRo6) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Alameda](https://open.spotify.com/album/7LgkvNyeL12xJmTVW6rfTX) | 2:41 | 2021-05-01 | 2022-04-13 |
 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 | 2021-05-01 | 2022-04-13 |
 | [Algorithms](https://open.spotify.com/track/0kac7CtVs9A8AZF8FHK2UE) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Algorithms](https://open.spotify.com/album/4RXegfKZ1n5kUOrAE3QuE0) | 3:09 | 2023-06-16 |  |
-| [All Day All Night](https://open.spotify.com/track/1dv9NZzzUeuMRwqqnsWbyW) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Daybreaker](https://open.spotify.com/album/5hqGibvfAVIp9plqmnflCg) | 3:51 | 2023-09-29 |  |
+| [All Day All Night](https://open.spotify.com/track/1dv9NZzzUeuMRwqqnsWbyW) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Daybreaker](https://open.spotify.com/album/5hqGibvfAVIp9plqmnflCg) | 3:51 | 2023-09-29 | 2023-11-04 |
 | [All Day All Night](https://open.spotify.com/track/2gzKrevrRv9ihRiDItYPBJ) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [All Day All Night](https://open.spotify.com/album/1xZeArCxOOHs2UHWu9Gnzm) | 3:51 | 2022-04-13 | 2022-04-20 |
 | [All I Think About Now](https://open.spotify.com/track/3NfqN997u9A3YAAafgzhIa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Head Carrier](https://open.spotify.com/album/5F9YYEKDxenkRpyuovdqZe) | 3:07 | 2022-10-14 | 2023-06-17 |
 | [All I Think About Now](https://open.spotify.com/track/5kMiMqkz9T8fwvWhAFgGNG) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Head Carrier](https://open.spotify.com/album/0CwsCKBeUxkgRi9LbdWl2x) | 3:07 | 2022-04-13 | 2022-10-13 |
@@ -137,7 +137,7 @@
 | [Cuff Your Jeans](https://open.spotify.com/track/71ygECRAwecbpqK5MYlpVq) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp) | 2:55 | 2021-05-01 | 2022-07-29 |
 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 | 2022-06-01 | 2023-10-26 |
 | [Cutie](https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:04 | 2023-10-13 |  |
-| [Daft Pretty Boys](https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Disappear Here](https://open.spotify.com/album/2YXl7mV4d30fEbwpVQ7YBQ) | 3:07 | 2021-05-01 |  |
+| [Daft Pretty Boys](https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Disappear Here](https://open.spotify.com/album/2YXl7mV4d30fEbwpVQ7YBQ) | 3:07 | 2021-05-01 | 2023-11-04 |
 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 | 2022-04-13 | 2023-09-30 |
 | [Damage Done](https://open.spotify.com/track/3KvuMuJ1cNI6BggtSXKixL) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Damage Done](https://open.spotify.com/album/5O4KNwSA44AvQ07jjQxRZf) | 3:45 | 2021-05-01 | 2022-04-14 |
 | [Dance In Room Song](https://open.spotify.com/track/1gJNVpd713qDQd0kNS0uoF) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Dance In Room Song](https://open.spotify.com/album/3FkUMOuiprjmmlnY1DmV1u) | 2:51 | 2021-05-01 | 2022-07-29 |
@@ -368,6 +368,7 @@
 | [Move](https://open.spotify.com/track/1Yr3ult5AjLxwYQ0bFxlQr) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Move](https://open.spotify.com/album/53Gw66ZyMyoIfO6oOI11m9) | 3:14 | 2022-04-13 | 2022-04-20 |
 | [Move to San Francisco](https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Move to San Francisco](https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw) | 3:01 | 2021-05-01 | 2022-07-29 |
 | [Mushroom](https://open.spotify.com/track/6bF20uauKV4HUXp5mKdx82) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Mushroom](https://open.spotify.com/album/2VVDnRJ9hsMcH8qLfPL4rf) | 2:46 | 2021-05-01 | 2022-04-14 |
+| [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 | 2023-11-03 |  |
 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 | 2022-04-15 | 2023-09-30 |
 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 | 2022-04-13 |  |
 | [Naive](https://open.spotify.com/track/29XbgaYB4Hs8vlLmpzkRgj) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Naïve](https://open.spotify.com/album/06XZphFaqEl3gTtQp8a3hb) | 3:26 | 2022-04-13 |  |
@@ -420,7 +421,7 @@
 | [out 4 a breather](https://open.spotify.com/track/4LSxhWoG9I6SQFMkd6X031) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [out 4 a breather](https://open.spotify.com/album/1pJdFDoGjolYy9eb2b1IIa) | 3:21 | 2022-04-13 | 2022-07-29 |
 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 | 2023-04-14 |  |
 | [Out Worn](https://open.spotify.com/track/0Bbtx1P8AXpCF3PH8Hul8N) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Collection](https://open.spotify.com/album/1NcmOmza86zn7wt02k9q74) | 4:35 | 2021-05-01 | 2022-04-14 |
-| [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 | 2022-04-13 | 2023-11-03 |
+| [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 | 2022-04-13 |  |
 | [palmtreedays\_1644.wav](https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [palmtreedays\_1644.wav](https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T) | 4:08 | 2023-10-05 |  |
 | [Panopticon](https://open.spotify.com/track/18x4IO5OzTlaQDupmGG9eg) | [Cloud Control](https://open.spotify.com/artist/5DCtsJfyBEzvZ9qN7jSA6j) | [Zone](https://open.spotify.com/album/7xivWFmWq3IYwj2oa0Ngyf) | 3:23 | 2021-05-01 | 2022-04-14 |
 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 | 2022-07-22 |  |
@@ -591,6 +592,7 @@
 | [Waiting on the Summer](https://open.spotify.com/track/5w6amHqMxl0yFEkhsZt0Tk) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Stereo Hype](https://open.spotify.com/album/4c6J2SkNIWpKJBPy2TKZlp) | 4:14 | 2021-05-01 | 2022-04-14 |
 | [Walcott](https://open.spotify.com/track/0BZY839qKXibapu4S0GYE2) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:41 | 2022-04-13 | 2022-04-26 |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2021-06-04 | 2023-09-30 |
+| [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-11-03 |  |
 | [Wavy Haze](https://open.spotify.com/track/2F9H5xuNoefIfv3IsmGU7r) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Wavy Haze](https://open.spotify.com/album/4bwp4Jx6yvzSVnoRqpHCTj) | 4:05 | 2021-05-01 | 2022-04-14 |
 | [We Bros](https://open.spotify.com/track/29BXSWZZ0rHJp0jCRUVcjO) | [WU LYF](https://open.spotify.com/artist/5mGTnJvTkLDN76DgXka5f0) | [Go Tell Fire To The Mountain](https://open.spotify.com/album/5ac0HnZc0pazs0t7lFUEm6) | 6:26 | 2022-04-13 | 2022-04-15 |
 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 | 2021-05-01 | 2023-09-30 |

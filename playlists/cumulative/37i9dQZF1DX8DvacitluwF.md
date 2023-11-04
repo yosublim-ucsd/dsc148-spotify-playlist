@@ -2,9 +2,9 @@
 
 ### [BlueZA](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE?si=OFuCTSgFTWKQJZwmSAiNNg">Kaien Cruz</a>
+> Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P?si=Zu4IeIfPRYi5bev6bAC\_fw">Rowlene</a>
 
-75 songs - 3 hr 59 min
+80 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [All Night](https://open.spotify.com/track/3y8MHPIIdUbbp5QozCbJ9G) | [Lastee](https://open.spotify.com/artist/02fHk4FBRa87bllGfMAf15), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [All Night](https://open.spotify.com/album/2XpBUiJMArDm0DdU5k2h6d) | 2:30 | 2023-10-12 |  |
 | [All the Noise](https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [All the Noise](https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D) | 4:09 | 2023-10-12 |  |
 | [ALL4U](https://open.spotify.com/track/72sdW7Bn1bcSzD1eoBVgBM) | [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [ALL4U](https://open.spotify.com/album/7xVPcDT7xrPrPPah89KQW6) | 2:37 | 2023-10-26 |  |
+| [ANOTHER DAY](https://open.spotify.com/track/5dBYom00qPTPPbMEosBt49) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL) | [ANOTHER DAY](https://open.spotify.com/album/5dvWUnnWGf6nOTmHyAyHci) | 3:04 | 2023-11-03 |  |
 | [As You Are \- A COLORS SHOW](https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [As You Are \- A COLORS SHOW](https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc) | 3:41 | 2023-10-12 | 2023-10-27 |
 | [Attention](https://open.spotify.com/track/0N8c3AlYRcgJ0RcCmZjbCV) | [Shalate](https://open.spotify.com/artist/52XowYt0U9ZWvAbKVZ0HaK) | [Love Is...](https://open.spotify.com/album/40XbmQcytzVV35HGy7bonG) | 2:50 | 2023-10-12 | 2023-10-20 |
 | [Back 2 U](https://open.spotify.com/track/45GqiF1tr66MeXBeJztwdX) | [Adrienne Foo](https://open.spotify.com/artist/5lsaKDXCs0VHVJ5UxMFqSA), [Phiwo](https://open.spotify.com/artist/1aMVkMfK9Wo0rd7TfBymHY) | [Back 2 U](https://open.spotify.com/album/2pvijmArToNkuu9VWUASxo) | 5:10 | 2023-10-20 |  |
@@ -26,6 +27,7 @@
 | [Conversation Pit](https://open.spotify.com/track/7J8kn3b5AiRGB5YpeZV5rT) | [Junetober](https://open.spotify.com/artist/6QHi3isAdNj5T8N7y3vu3G) | [ADMISSIONS of a DELUDED MIND](https://open.spotify.com/album/5dSISrJ00HBIXOVayw60jw) | 3:41 | 2023-10-12 |  |
 | [Don't Lie/See It Through \- A COLORS SHOW](https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Don't Lie/See It Through \- A COLORS SHOW](https://open.spotify.com/album/34hzV4C7eRph8hagPfplsS) | 5:38 | 2023-10-12 |  |
 | [Down](https://open.spotify.com/track/5PcO9uuhPX9PcdPC0SMDmz) | [Zinah](https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw), [Ta Joela](https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1) | [Tulipa](https://open.spotify.com/album/68I937NYViFxtNEAZyc6b9) | 3:11 | 2023-10-12 |  |
+| [DRINK CHAMPS](https://open.spotify.com/track/6krwmAVXbzAcGWVYhLCf8j) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [DRINK CHAMPS](https://open.spotify.com/album/1rsnNjPDTYFUtjtE95m2Ph) | 2:20 | 2023-11-03 |  |
 | [EBBS & FLOWS: Endlessly](https://open.spotify.com/track/7mgeMBOFtXugHlK0C27UXx) | [LANDMARQUE](https://open.spotify.com/artist/1IPbTwMsCPZBA97EBCYBYL), [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl) | [EBBS & FLOWS: Endlessly](https://open.spotify.com/album/5zuD21xL4m084eqTonEZ6b) | 3:05 | 2023-10-26 |  |
 | [Faded](https://open.spotify.com/track/6TJgXf6N6IQepcNXZVlIoW) | [Jemapelle James](https://open.spotify.com/artist/3j7tJ1MrdVZR6gLm0Xg0Zj) | [Faded](https://open.spotify.com/album/3ZINMS47XDb9RVdaAG9yYA) | 3:05 | 2023-10-12 | 2023-10-20 |
 | [Falling For You](https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Falling For You](https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm) | 3:19 | 2023-10-12 | 2023-10-20 |
@@ -58,12 +60,14 @@
 | [On My Mama](https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:04 | 2023-10-12 |  |
 | [On my way!](https://open.spotify.com/track/5gafkd7SV0YJZ3xriEJEqv) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [PINK PM](https://open.spotify.com/album/7Mwbp0ArZhIjOpRdzrGyb8) | 2:34 | 2023-10-12 |  |
 | [Only](https://open.spotify.com/track/0BWXrf3aW3ZLgComAYwCR2) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Only](https://open.spotify.com/album/0CS7QjPjgW2cJnLRv2Dc3f) | 2:39 | 2023-10-12 | 2023-10-26 |
+| [Only You \- A COLORS SHOW](https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Only You \- A COLORS SHOW](https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk) | 2:46 | 2023-11-03 |  |
 | [Paradise](https://open.spotify.com/track/5pBSxjuMqmm9CVPz8RIIPy) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 3:38 | 2023-10-26 |  |
 | [Paradise](https://open.spotify.com/track/6xb06ZbAIf45F9Vwiy44FY) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw) | 3:38 | 2023-10-26 | 2023-11-03 |
 | [Pillow Talk](https://open.spotify.com/track/1Necud0IeseT20zQBUg5l8) | [Malachi](https://open.spotify.com/artist/6DEiQRPzn93sZ3SS0PgiaS) | [Pillow Talk](https://open.spotify.com/album/4hlGB7lWS8cYFWZIhPiAVt) | 3:36 | 2023-10-12 | 2023-10-20 |
 | [PURPLE SLUSHIES](https://open.spotify.com/track/3igf2ZaBhLdgVi7hQLXI5Z) | [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [Therapy Is Cancelled](https://open.spotify.com/album/4nUOULl5gl3Dr0velwTNFs) | 4:01 | 2023-10-12 | 2023-10-20 |
 | [Range 95’](https://open.spotify.com/track/5f1hCTY2bQk6rVbr9N0AzG) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 2:59 | 2023-10-12 |  |
 | [She'll Be Ok](https://open.spotify.com/track/0jTkg3fBydDh9jLEFMzigq) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be Ok](https://open.spotify.com/album/0e6YzmXeaJawQCn44jlqyV) | 2:10 | 2023-10-12 |  |
+| [Show Me Love](https://open.spotify.com/track/39KMqRO39T7yjijC8Hbkkg) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Show Me Love](https://open.spotify.com/album/0GnipIQCgYKtWD6BP0xYie) | 3:13 | 2023-11-03 |  |
 | [Shows N Hoes](https://open.spotify.com/track/0sTAmXCitR7fOKkVUOZAzD) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Shows N Hoes](https://open.spotify.com/album/1YsHvmgHdbPy1td3LVNzAX) | 4:14 | 2023-10-12 | 2023-10-27 |
 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:07 | 2023-10-12 |  |
 | [So Lonely \- Tony Duardo Remix](https://open.spotify.com/track/29FIJcySX9HSKStH8fIvXV) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [So Lonely \(Tony Duardo Remix\)](https://open.spotify.com/album/7FwzPtg4AStHnXVtIF78Cw) | 3:49 | 2023-10-12 |  |
@@ -75,6 +79,7 @@
 | [Tender](https://open.spotify.com/track/6dAY1jZ9doJSFeHcPrz36U) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Tender](https://open.spotify.com/album/4Gp4JlzMRXKuH32Jee28D2) | 3:03 | 2023-10-12 |  |
 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 | 2023-10-12 |  |
 | [till forever ends](https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [little messages](https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN) | 2:56 | 2023-10-12 | 2023-10-20 |
+| [unavailable](https://open.spotify.com/track/0vZftmvBo1YcSkqocT3BUk) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [unavailable](https://open.spotify.com/album/2oFq1QGFW93X67u7ULSGiS) | 2:53 | 2023-11-03 |  |
 | [Until The Morning](https://open.spotify.com/track/2mI4R8Mafb3y6I1gytvkDe) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Until The Morning](https://open.spotify.com/album/5QGpibxEBGfcPjY4zS4uwf) | 2:58 | 2023-10-12 | 2023-10-27 |
 | [UNTIL THEN](https://open.spotify.com/track/7CEC52twRuSFUBa5HBzktn) | [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [UNTIL THEN](https://open.spotify.com/album/1eQRh0FTCzW9GElypAdW2Y) | 3:01 | 2023-10-12 | 2023-10-20 |
 | [Voodoo](https://open.spotify.com/track/2ryIzbmrbRWMfhelJiVcR8) | [Temgazi](https://open.spotify.com/artist/39YdCb2aOpgl34Ju2ge1lA) | [Voodoo](https://open.spotify.com/album/73hkRIHrOXz1RlVITE16mY) | 3:04 | 2023-10-12 | 2023-10-20 |

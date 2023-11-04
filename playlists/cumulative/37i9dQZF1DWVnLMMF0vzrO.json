@@ -2292,6 +2292,28 @@
     {
       "album": {
         "name": "New York, London, Paris, Munich",
+        "url": "https://open.spotify.com/album/1NYT6pqKJdfCPOKtbgqbLV"
+      },
+      "artists": [
+        {
+          "name": "M",
+          "url": "https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI"
+        },
+        {
+          "name": "Nick Launay",
+          "url": "https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296466,
+      "name": "Pop Muzik (12 Inch Version)",
+      "url": "https://open.spotify.com/track/43U1bCDTZAhhY1Y8mCkTG4"
+    },
+    {
+      "album": {
+        "name": "New York, London, Paris, Munich",
         "url": "https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0"
       },
       "artists": [
@@ -2310,7 +2332,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 296466,
       "name": "Pop Muzik - 12 Inch Version",
       "url": "https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm"

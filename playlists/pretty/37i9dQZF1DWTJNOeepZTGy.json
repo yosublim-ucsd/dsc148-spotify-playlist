@@ -1,12 +1,12 @@
 {
   "description": "As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.",
-  "num_followers": 261876,
+  "num_followers": 261931,
   "original_name": "Wine & Dine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDJhOTk2NTRmYTkyZTQxODMwNGMxZDA5MjFjMmY0ZGVkYzNlZjhi",
+  "snapshot_id": "MCxhMWRjMjJhODNlODRmYWY5ZWM3YjlmMWRlNjJmZjdhZWU3NWZlOWI1",
   "tracks": [
     {
       "added_at": "2022-05-24 13:35:26",
@@ -687,26 +687,6 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Illumination",
-        "url": "https://open.spotify.com/album/7dnGdy8zcBQtfXAJQBi0oM"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 467733,
-      "name": "Show Me the Way (feat. Raphael Saadiq)",
-      "url": "https://open.spotify.com/track/3d47DFYwKsWsXkwfaktsmk"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
         "name": "The Essential Isley Brothers",
         "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
       },
@@ -787,22 +767,6 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Live Radio City Music Hall 2003",
-        "url": "https://open.spotify.com/album/5wq0AUenn2o3RXoBelNsxu"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 769426,
-      "name": "Superstar - Live at Radio City Music Hall, New York - Feb. 12, 2003",
-      "url": "https://open.spotify.com/track/3pAiTAdDCvqWECwRmUlxvi"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
         "name": "The Essential Patti LaBelle",
         "url": "https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3"
       },
@@ -815,6 +779,22 @@
       "duration_ms": 300120,
       "name": "Love, Need And Want You",
       "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Live Radio City Music Hall 2003",
+        "url": "https://open.spotify.com/album/5wq0AUenn2o3RXoBelNsxu"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 769426,
+      "name": "Superstar - Live at Radio City Music Hall, New York - Feb. 12, 2003",
+      "url": "https://open.spotify.com/track/3pAiTAdDCvqWECwRmUlxvi"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -851,6 +831,22 @@
       "duration_ms": 317906,
       "name": "Lovin' You",
       "url": "https://open.spotify.com/track/1JPJQLSYAvPp4qnzC8Uk6Y"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Tony! Toni! Tone!",
+        "url": "https://open.spotify.com/album/3ER3DiMgMVNPJRS2UjwEiz"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Anniversary - Radio Edit",
+      "url": "https://open.spotify.com/track/2wmHH8Xc9P2RN6fGDH4ON6"
     }
   ],
   "unique_name": "Wine & Dine",

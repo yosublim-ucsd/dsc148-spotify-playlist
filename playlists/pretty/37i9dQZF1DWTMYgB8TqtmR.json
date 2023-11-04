@@ -1,12 +1,12 @@
 {
   "description": "It's Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 733417,
+  "num_followers": 733434,
   "original_name": "It's Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzNkMWRhNTI5MjkyNDU0MDcyYTcwYjE5N2VmMmMzY2UwZDg0OWYy",
+  "snapshot_id": "MCw5MmZiNjY1OGM4ZmE5YzYxYzI0ZjY3MDhjYmQxOTMxNmYyYjY2NTM4",
   "tracks": [
     {
       "added_at": "2023-11-02 23:00:00",
@@ -399,6 +399,22 @@
       "duration_ms": 200506,
       "name": "N\u00e4r festen tagit slut",
       "url": "https://open.spotify.com/track/5fEE0xGJCPFgZTHJycBddf"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 205483,
+      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
     },
     {
       "added_at": "2023-11-02 23:00:00",

@@ -4,7 +4,7 @@
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: Kim Jeong Won\(김정원\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-93 songs - 7 hr 49 min
+95 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,9 @@
 | [Family](https://open.spotify.com/track/7zYXGTdAyM2jJYCiKdWFld) | [YOONHAN](https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb) | [Sound for Pets](https://open.spotify.com/album/2AWEg21GlDU04LCnQVljtv) | 5:09 | 2023-09-13 |  |
 | [Feel My Rhythm \- Orchestra Version](https://open.spotify.com/track/7af1aCD9kJBI8YOCSh87lr) | [Seoul Philharmonic Orchestra](https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7) | [Feel My Rhythm \(Orchestra Version\)](https://open.spotify.com/album/1HOaPVpRI3AHhrQt9Kdr30) | 4:17 | 2023-09-13 |  |
 | [for such a gaze of wonder](https://open.spotify.com/track/2zB8eY7fsdK1Xon0fDtC0J) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [Esther Yoo](https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC), [James Southall](https://open.spotify.com/artist/58uaT9Z6K7C6A0Jx39jfFc) | [breathe](https://open.spotify.com/album/3k4ZMhg6a5jusVTEYGvOpi) | 4:27 | 2023-09-13 |  |
+| [Golden Age \- Orchestra Version](https://open.spotify.com/track/6DJJOcYKuk8hTunPSSaJPX) | [SM Classics TOWN Orchestra](https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF) | [Golden Age \(Orchestra Version\)](https://open.spotify.com/album/133OMTXDhV2XTREwQ23MrX) | 3:52 | 2023-11-03 |  |
 | [Goyescas \(Suite\): No\. 4, Quejas o la maja y el ruiseñor](https://open.spotify.com/track/6OHAz2t0UYmbMVvLQBQK9O) | [Enrique Granados](https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [Enrique Granados – Goyescas](https://open.spotify.com/album/75PVaNZ1N9kSQ085p5ABAs) | 6:52 | 2023-09-13 |  |
+| [Growl \- Orchestra Version](https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk) | [Seoul Philharmonic Orchestra](https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7) | [Growl \(Orchestra Version\)](https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR) | 4:04 | 2023-11-03 |  |
 | [Hijo De La Luna](https://open.spotify.com/track/1BQQAGPRlpEYJLy9pAofVV) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [Mystique](https://open.spotify.com/album/77QkGABj1W4jm5fQ5zCrfq) | 5:10 | 2023-09-13 |  |
 | [his days are like a passing shadow I](https://open.spotify.com/track/5AVrdzGQuarou1dHpnqJqQ) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU), [Jung Eun Hye](https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1), [Budapest Scoring Orchestra and Choir](https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ) | [psalms](https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX) | 4:14 | 2023-09-13 |  |
 | [Il Mare Calmo Della Sera](https://open.spotify.com/track/6dp5kRPh8uLwaPG8WcFLrD) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [PANORAMA](https://open.spotify.com/album/6jh3HKkQqHVBnxJ59AqE0i) | 4:43 | 2023-09-13 |  |

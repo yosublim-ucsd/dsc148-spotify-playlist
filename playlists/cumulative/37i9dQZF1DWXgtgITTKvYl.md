@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-116 songs - 10 hr 18 min
+117 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Danger](https://open.spotify.com/track/3UqvyqOpZI0AyYmpO0HEwS) | [Relent](https://open.spotify.com/artist/3BcuUq1rwq2xlcyab2w3lu) | [Heavy](https://open.spotify.com/album/6jnRsK6HHmSL12NuVL1ygi) | 3:48 | 2022-05-20 |  |
 | [Deep Waters](https://open.spotify.com/track/4NY0pyyRKObg9S58koRXDz) | [Port Noir](https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR) | [Deep Waters](https://open.spotify.com/album/1rleWJZprZvmlqv1fH8KLZ) | 3:29 | 2022-05-20 |  |
 | [Demons](https://open.spotify.com/track/5s51DrOIrHf7k8EtoqNUgN) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Demons](https://open.spotify.com/album/7bF7jvKnOsia2OcdNensBe) | 4:33 | 2022-05-20 |  |
-| [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/7xyvWSVkxaoLdSuEdgdhBe) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 5:50 | 2022-11-17 |  |
+| [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/2B3D38o8GaXnZo6DnTyZ2m) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Remember That You Will Die](https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw) | 5:50 | 2022-11-17 |  |
+| [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/7xyvWSVkxaoLdSuEdgdhBe) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 5:50 | 2022-11-17 | 2023-11-04 |
 | [EMINENT SLEAZE](https://open.spotify.com/track/0eAdGn6Eltul066nbNPpua) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [THE FUTURE BITES](https://open.spotify.com/album/76hVw7WdMkDylaMlW0X8Ol) | 3:52 | 2022-05-20 |  |
 | [EMINENT SLEAZE](https://open.spotify.com/track/4S9n0DUrSZWzBL3fooRlDD) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [THE FUTURE BITES \(Deluxe Edition\)](https://open.spotify.com/album/0tHQTsZepeMpMqgtBdaFRx) | 3:52 | 2022-05-20 | 2022-11-13 |
 | [EMINENT SLEAZE](https://open.spotify.com/track/0W9jxYrpe2iNedGr8fyAqQ) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [EMINENT SLEAZE](https://open.spotify.com/album/0ueqTF8GgMi9U9mAxCxJFs) | 3:52 | 2022-05-20 | 2022-07-29 |

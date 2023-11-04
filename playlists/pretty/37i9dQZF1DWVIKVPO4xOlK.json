@@ -1,12 +1,12 @@
 {
   "description": "Welcome to L.A. Lo que suena in the city of dreams. Cover: Fuerza Regida ",
-  "num_followers": 400557,
+  "num_followers": 400588,
   "original_name": "Rompiendo: Los Angeles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDM2OWI5OWJiNjQwZTMxOWI5ZTJkYWI2ZWRkMjAxZmZjMDVjMjAy",
+  "snapshot_id": "MCwyNmNkNTQxMmJjNjIxZmUwOGJmNWE1OGY3YTFhYzRhYjEyYjAyNjBi",
   "tracks": [
     {
       "added_at": "2023-10-24 18:11:26",
@@ -83,22 +83,18 @@
     {
       "added_at": "2023-10-24 18:11:26",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+        "name": "EVERYBODY GO TO THE DISCOTEK",
+        "url": "https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         }
       ],
-      "duration_ms": 172797,
-      "name": "QLONA",
-      "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
+      "duration_ms": 199946,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
     },
     {
       "added_at": "2023-10-24 18:11:26",
@@ -127,18 +123,22 @@
     {
       "added_at": "2023-10-24 18:11:26",
       "album": {
-        "name": "EVERYBODY GO TO THE DISCOTEK",
-        "url": "https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e"
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
       },
       "artists": [
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 199946,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
     },
     {
       "added_at": "2023-10-24 18:11:26",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-10-24 18:11:26",
       "album": {
+        "name": "El Guero Bastidas (En Vivo)",
+        "url": "https://open.spotify.com/album/4WzSs2BDthgpsLOyohIyPt"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 199092,
+      "name": "El Guero Bastidas - En Vivo",
+      "url": "https://open.spotify.com/track/0AfqrWVNOWmACxoGUjEl2N"
+    },
+    {
+      "added_at": "2023-10-24 18:11:26",
+      "album": {
         "name": "Cumbialicious",
         "url": "https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 185570,
       "name": "el paso",
       "url": "https://open.spotify.com/track/7HcQBE9ta9PGy54XbYr3dt"
-    },
-    {
-      "added_at": "2023-10-24 18:11:26",
-      "album": {
-        "name": "El Guero Bastidas (En Vivo)",
-        "url": "https://open.spotify.com/album/4WzSs2BDthgpsLOyohIyPt"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 199092,
-      "name": "El Guero Bastidas - En Vivo",
-      "url": "https://open.spotify.com/track/0AfqrWVNOWmACxoGUjEl2N"
     },
     {
       "added_at": "2023-10-24 18:11:26",

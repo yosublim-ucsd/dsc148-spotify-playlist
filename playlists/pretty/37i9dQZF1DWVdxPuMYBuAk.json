@@ -1,12 +1,12 @@
 {
   "description": "A new story begins...Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.",
-  "num_followers": 218828,
+  "num_followers": 218865,
   "original_name": "XO, Kitty Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTRhZWM5ZjUwNzhkNWUxZjRkZjAwYjliOThhYTg2ZTE1MGE3Yjgz",
+  "snapshot_id": "MCxmNjA3OGQxOTRmM2M4MTIwZGFmYjk0NGVjZTAwOWFmMjU2NDgyYjNj",
   "tracks": [
     {
       "added_at": "2023-07-07 00:17:35",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-07-07 00:17:35",
       "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    {
+      "added_at": "2023-07-07 00:17:35",
+      "album": {
         "name": "ODDINARY",
         "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
       },
@@ -352,7 +368,7 @@
       "added_at": "2023-07-07 00:17:35",
       "album": {
         "name": "Love Synonym #2 : Right for Us",
-        "url": "https://open.spotify.com/album/3lcR6erLOtS2klUZ5sH4Mf"
+        "url": "https://open.spotify.com/album/22hyTxJM7Yk8PdsgRtCEvl"
       },
       "artists": [
         {
@@ -362,7 +378,7 @@
       ],
       "duration_ms": 196982,
       "name": "BEST SHOT",
-      "url": "https://open.spotify.com/track/4Q0DVhfGXxUzzywcxcRw32"
+      "url": "https://open.spotify.com/track/3iGYolWfY6c7eOCX8YNDek"
     },
     {
       "added_at": "2023-07-07 00:17:35",

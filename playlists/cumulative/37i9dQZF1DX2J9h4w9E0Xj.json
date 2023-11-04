@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/0k0GPKeDSFDkxiSw2EnrHo"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135583,
+      "name": "SENSITIVE",
+      "url": "https://open.spotify.com/track/0AJkuCbVQRTrnyw02qvdJg"
+    },
+    {
+      "album": {
         "name": "SENSITIVE",
         "url": "https://open.spotify.com/album/0o8Bu11t3vEILxUdzLyyBx"
       },
@@ -954,7 +972,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 135583,
       "name": "SENSITIVE",
       "url": "https://open.spotify.com/track/7iOTB9EaWdIV7QmzDAGIce"

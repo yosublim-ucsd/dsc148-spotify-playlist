@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,508 likes - 55 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,531 likes - 55 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 16 | [The Double Bong Cloud \(Denial I\)](https://open.spotify.com/track/4dur4K6e2xvmjjDv1tg1V3) | [Deadbeat](https://open.spotify.com/artist/0rd7M5S6AdFkideaBtseOo) | [Kübler\-Ross Soliloquies](https://open.spotify.com/album/4ESDVIyRppgFvwQYvHodks) | 7:29 |
 | 17 | [Oak Bank](https://open.spotify.com/track/2BhhZLFulNmDsjPArUf6bu) | [Surgeon](https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM) | [Crash Recoil](https://open.spotify.com/album/074BDQSfufLOuL8qWsRsyg) | 6:36 |
 | 18 | [Someone Else’s Tune](https://open.spotify.com/track/3pImpd2JMnXAIXYarxYxNc) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [The Darker The Shadow The Brighter The Light](https://open.spotify.com/album/1RH7DhJJ0kUDm5zjv7KOzd) | 3:10 |
-| 19 | [Bad Bitch \(Body, Waist, Lips, Face\) \[with KenTheMan\]](https://open.spotify.com/track/5W5osxyWqlZIDL7gCC06va) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [German Engineering 1](https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP) | 2:42 |
+| 19 | [Bad Bitch \(Body, Waist, Lips, Face\) \(with KenTheMan\)](https://open.spotify.com/track/68MLGWFI3cMdMIw73nOJIn) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 2:42 |
 | 20 | [Ali Baba \(feat\. MFS & ralph\) \- Remix](https://open.spotify.com/track/3Gmwg6yc89O20kDpWSn06o) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 3:24 |
 | 21 | [Dating is in China \- UNIIQU3 Remix](https://open.spotify.com/track/1ok1Ki15i19iS2h4QdaEwm) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ), [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Dating is in China](https://open.spotify.com/album/3ZGCiyAu4rKCJ9HfXmEO9e) | 3:07 |
 | 22 | [Rebirth](https://open.spotify.com/track/5GgmKNy6HAHYmcKl8GkY9h) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Rebirth](https://open.spotify.com/album/55RXnI0dL2SdxhGH2eSQhY) | 4:56 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 54 | [ff31warning](https://open.spotify.com/track/3AR69u2fafHzTEHG8WAt5I) | [Gacha Bakradze](https://open.spotify.com/artist/6dZmlzI1H5SGdkQ8dWRY76) | [Pancakes](https://open.spotify.com/album/5NasoEOOCZ59qof3c0hdNP) | 3:08 |
 | 55 | [Ax Mr\. L.](https://open.spotify.com/track/1IsTjsZ93VVERHRD5jl1fL) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Revep](https://open.spotify.com/album/0nWCa0VuF2knFYgWrqyQJt) | 4:18 |
 
-Snapshot ID: `MCw3YWM5NzU4NjcwNmY5ZWM1ZDY3NTY0OGM2YTI4MTA0NzQxYTZhYjNm`
+Snapshot ID: `MCw2ZjE5YzFlMjQxZmQ3M2FmY2ZkOWY2YmY5ODZiNWU1Njc4ODFmMDg4`

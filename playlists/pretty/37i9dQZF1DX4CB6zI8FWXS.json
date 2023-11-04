@@ -1,12 +1,12 @@
 {
   "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Lucky Daye",
-  "num_followers": 86764,
+  "num_followers": 86801,
   "original_name": "Groovin' R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTlkNGZhYjI0ZjAyZjk2MjlhNDE4ZDExODkzOTZiNzBiNWVkOTEx",
+  "snapshot_id": "MCxjZjM0ZmU2ZjNmZTlhM2MxNGM4MzQwNzVmZTMzMTllODBkYWZjMGNm",
   "tracks": [
     {
       "added_at": "2023-11-02 16:00:00",
@@ -131,6 +131,26 @@
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-11-02 16:00:00",
+      "album": {
+        "name": "1738 (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 230293,
+      "name": "1738 (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H"
     },
     {
       "added_at": "2023-11-02 16:00:00",
@@ -819,8 +839,8 @@
     {
       "added_at": "2023-11-02 16:00:00",
       "album": {
-        "name": "Chaotic Good",
-        "url": "https://open.spotify.com/album/43futw0FUDOAttvAbgfntP"
+        "name": "CHAOTIC GOOD",
+        "url": "https://open.spotify.com/album/0hb3KiGteT3tGOUUImXE1P"
       },
       "artists": [
         {
@@ -833,8 +853,8 @@
         }
       ],
       "duration_ms": 157714,
-      "name": "I'm Up ft. YSO Blank",
-      "url": "https://open.spotify.com/track/4J2rF7PGTY4dRb3CSpaHwc"
+      "name": "I'm Up",
+      "url": "https://open.spotify.com/track/0GtvNm22KkVhM3S5K7ZOeM"
     },
     {
       "added_at": "2023-11-02 16:00:00",

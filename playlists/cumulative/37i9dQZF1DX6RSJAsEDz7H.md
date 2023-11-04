@@ -4,7 +4,7 @@
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-204 songs - 14 hr 8 min
+205 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Dance of the Vampires](https://open.spotify.com/track/3y3aIscR4N87VEtlUFYxyB) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Rids the World..of the Evil Curse of the Vampires \(Remastered\)](https://open.spotify.com/album/4ji4IweDLwzMnWgNhgP5Kc) | 3:25 | 2021-11-17 | 2022-07-29 |
 | [DI MI NOMBRE \- Cap.8: Éxtasis](https://open.spotify.com/track/2Sfl7odHUmG7qc8SbqUyzE) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:42 | 2021-12-18 |  |
 | [Diamond Mind \(with Nipsey Hussle & Ty Dolla $ign\)](https://open.spotify.com/track/6v9trAkgvJuexOnxQXum0h) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Diamond Mind \(with Nipsey Hussle & Ty Dolla $ign\)](https://open.spotify.com/album/2yfzOPiUFh8gNcFwHnmVPa) | 4:53 | 2022-02-04 |  |
-| [Disco Devil](https://open.spotify.com/track/11rkUMmEsekXm9CU6ToqQi) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Lee "Scratch" Perry Presents The Full Experience](https://open.spotify.com/album/7li2bmMf1yTcQtpbfm0Qfz) | 7:51 | 2021-11-17 |  |
+| [Disco Devil](https://open.spotify.com/track/11rkUMmEsekXm9CU6ToqQi) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Lee "Scratch" Perry Presents The Full Experience](https://open.spotify.com/album/7li2bmMf1yTcQtpbfm0Qfz) | 7:51 | 2021-11-17 | 2023-11-04 |
+| [Disco Devil](https://open.spotify.com/track/6vX22fwRmM4bI0WpWtAvuJ) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [The Best of Lee Perry](https://open.spotify.com/album/0xQx4gGOK2jReMCdGqUmno) | 7:51 | 2021-11-17 |  |
 | [Dominicana](https://open.spotify.com/track/372SsSoyYYRptlgurA8PEL) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [De Chamaquito Siempre Cabezu](https://open.spotify.com/album/4XKCDArETTHoRY0lUGzSRV) | 2:25 | 2021-12-18 |  |
 | [Dos Locos](https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Confesiones](https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e) | 4:06 | 2021-12-18 |  |
 | [Duro 2005](https://open.spotify.com/track/0pgS3J6Vyt1VKrUI0MUeNG) | [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI) | [Dimen5ión](https://open.spotify.com/album/0KhUcxGeOjOsGCodu9IaHj) | 2:21 | 2021-12-18 |  |

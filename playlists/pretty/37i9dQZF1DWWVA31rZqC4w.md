@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,232 likes - 153 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,269 likes - 153 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 7 | [Move into Me](https://open.spotify.com/track/5PBIfafBl1Rw9XfrfGWa7z) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Move into Me](https://open.spotify.com/album/7n1dgpn5WHNm41zhxreu0D) | 4:18 |
 | 8 | [Thrills and Chills](https://open.spotify.com/track/06MTnGHclwjxAr3BlCVm3e) | [Helene Smith](https://open.spotify.com/artist/74AYqXAXiSFQfpTAMA02Pg) | [Eccentric Soul: The Deep City Label](https://open.spotify.com/album/1DlBrwIBplonj2QZoMGGv5) | 2:40 |
 | 9 | [Bells in Santa Fe](https://open.spotify.com/track/1Knd3MtE5sEQMh6txcg0k0) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:37 |
-| 10 | [Love Potion No\. 9](https://open.spotify.com/track/6dLrSbDbxdg1QCJnqhBCAA) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Needles & Pins](https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0) | 2:03 |
+| 10 | [Love Potion Number Nine \(Stereo\)](https://open.spotify.com/track/5CQtxEKlKtiJO3C4knSASA) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Meet The Searchers](https://open.spotify.com/album/17v5EN6pWTWvexUKpZy9FX) | 2:05 |
 | 11 | [You'll miss me when I'm not around](https://open.spotify.com/track/0Sqh9dVJMFJRwz4K0jeoOR) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 2:41 |
 | 12 | [It's The Same Old Song](https://open.spotify.com/track/7d1ustAIlXG7ht5Q4IOv7s) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:46 |
 | 13 | [Trampoline](https://open.spotify.com/track/0lsRatBUs9HNIZAmoGABzk) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [MELT](https://open.spotify.com/album/3WSazrD65bFptRnMvnesVH) | 3:04 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 81 | [Hatefuck](https://open.spotify.com/track/0gt5VHaANRIy3V1yu3P4Mi) | [Cruel Youth](https://open.spotify.com/artist/4YrURxtCHtPBfNDmMNp7IG) | [+30mg](https://open.spotify.com/album/2ntnK4ifIfomRTAfgFLnP2) | 4:04 |
 | 82 | [Turn It Up](https://open.spotify.com/track/0gbFh1Mx2cTHWVnZp6IypI) | [KOLARS](https://open.spotify.com/artist/3tiDO34wzfyJdv8elYqKxj) | [Turn It Up](https://open.spotify.com/album/21kKD0Jlr5V0ARjg1oU8Br) | 3:14 |
 | 83 | [Die Alone](https://open.spotify.com/track/44KznBvzl9ZIbA8axQ0Xoj) | [Tony K](https://open.spotify.com/artist/6XSFTStLjHdlaHKXB4a9tO) | [Die Alone](https://open.spotify.com/album/3CeZrSH7sidGMrJV0LIoBV) | 2:32 |
-| 84 | [Interloper](https://open.spotify.com/track/5QFSiFgPpXBfdqT4jDpulB) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [You Will Not Die \(Deluxe Version\)](https://open.spotify.com/album/1jXzmeQ3KIYNvk9jureftg) | 4:09 |
+| 84 | [Interloper](https://open.spotify.com/track/71UddNQST8S1eSqTxfU1YR) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [You Will Not Die \(Deluxe Version\)](https://open.spotify.com/album/5dkYB7Z92StO6FCnw4Wivr) | 4:09 |
 | 85 | [Heavy, California](https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:04 |
 | 86 | [Crush \(It's Late, Just Stay\)](https://open.spotify.com/track/36S27uUd2IjlP3wLIy2lJK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [EP III](https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q) | 3:32 |
 | 87 | [Stole My Heart](https://open.spotify.com/track/4VbFfRNZJsVkQjmdZYJ2gN) | [Beasts With No Name](https://open.spotify.com/artist/4MQfGnVFIIP4oAcbyJlbKs) | [Pretty Fool](https://open.spotify.com/album/4OrQsxnuFstmAQtydUS0z6) | 3:24 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 152 | [Roller](https://open.spotify.com/track/0zFqjimE0Q6wk0OQVGu3rY) | [Quilt](https://open.spotify.com/artist/0S4yEUTvpxWhfXux925405) | [Plaza](https://open.spotify.com/album/0NEF1hzL7820zUVOU7n9Kj) | 4:14 |
 | 153 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 
-Snapshot ID: `MCxhMmM2MDc0Y2FmMDQwOTllNmJkZTFhMTFlNTUyYjZjZjVhYTFmNjZl`
+Snapshot ID: `MCwxZDA0MzBmMjMwZDg3ZTc4MzZhYmQyZDBjMTM1Nzg4ZmYwZjYwODlm`

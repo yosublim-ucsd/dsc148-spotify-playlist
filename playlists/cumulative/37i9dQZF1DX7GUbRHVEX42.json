@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 188853,
       "name": "(To Be) Young Gifted and Black",
       "url": "https://open.spotify.com/track/21YtaaAivXcpcFaYbTjgKP"
@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 277329,
       "name": "Silly Dub",
       "url": "https://open.spotify.com/track/0us5v91yXciDoDjqjzrEm0"
@@ -3707,6 +3707,42 @@
     },
     {
       "album": {
+        "name": "Dub Dem Silly",
+        "url": "https://open.spotify.com/album/55Ijjb38tEfQGBKtK42m4o"
+      },
+      "artists": [
+        {
+          "name": "Dennis Bovell",
+          "url": "https://open.spotify.com/artist/0xJuAKhVgEfuiEXjyLEuC6"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279760,
+      "name": "Silly Dub",
+      "url": "https://open.spotify.com/track/609w0Q2qbjVGWZo5yNKQX3"
+    },
+    {
+      "album": {
+        "name": "Trojan Classic Jamaican Sounds Since 1968",
+        "url": "https://open.spotify.com/album/2vitRjnvtWLL0Oq840faaE"
+      },
+      "artists": [
+        {
+          "name": "Janet Kay",
+          "url": "https://open.spotify.com/artist/4D6CqTx48E5t6aL411Gl3F"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229880,
+      "name": "Silly Games",
+      "url": "https://open.spotify.com/track/5lpBhfKen91mbHLPQYTiO0"
+    },
+    {
+      "album": {
         "name": "The DuBMASTER: The Essential Anthology",
         "url": "https://open.spotify.com/album/1rTGkgzDInt8ONKDZtCG6h"
       },
@@ -3718,7 +3754,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 237611,
       "name": "Silly Games",
       "url": "https://open.spotify.com/track/06mNAN5wsrhr14NJ6a7kua"
@@ -4378,6 +4414,24 @@
       "duration_ms": 198948,
       "name": "Time Is of Essence",
       "url": "https://open.spotify.com/track/6EseVHHBlvGNJnkhyyl4kH"
+    },
+    {
+      "album": {
+        "name": "Young, Gifted & Black",
+        "url": "https://open.spotify.com/album/0Vzuuk08qIyyAb8LQPQFRe"
+      },
+      "artists": [
+        {
+          "name": "Bob & Marcia",
+          "url": "https://open.spotify.com/artist/2AaKscnKxoLM7W3KT9yjtQ"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188853,
+      "name": "To Be Young Gifted and Black",
+      "url": "https://open.spotify.com/track/7GH08yfGT4cZx9HTSoPW8q"
     },
     {
       "album": {

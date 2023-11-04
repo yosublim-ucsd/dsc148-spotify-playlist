@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Remembering Charlie Robison.",
+  "description": "Texas' own Cody Johnson is taking over to celebrate the release of his new album \"Leather\"!",
   "name": "Heart Of Texas",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 319200,
       "name": "17",
       "url": "https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 201480,
       "name": "Ain't My Day",
       "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Beer, Bait and Ammo",
+        "url": "https://open.spotify.com/album/7eM2NVyKYavESvxkNxrE8T"
+      },
+      "artists": [
+        {
+          "name": "Kevin Fowler",
+          "url": "https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315924,
+      "name": "Beer, Bait and Ammo",
+      "url": "https://open.spotify.com/track/7irS1d9sepVtxIrGQKc0Vy"
+    },
+    {
+      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
@@ -656,6 +674,24 @@
       "duration_ms": 269920,
       "name": "Copperhead Road",
       "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+    },
+    {
+      "album": {
+        "name": "Lyle Lovett",
+        "url": "https://open.spotify.com/album/7uMTmBlPNpXh85cX2w41XE"
+      },
+      "artists": [
+        {
+          "name": "Lyle Lovett",
+          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171160,
+      "name": "Cowboy Man",
+      "url": "https://open.spotify.com/track/5OnywzRyf7oWKZUdpvXtlQ"
     },
     {
       "album": {
@@ -994,7 +1030,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 246803,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5"
@@ -1034,6 +1070,24 @@
       "duration_ms": 233685,
       "name": "February 28, 2016",
       "url": "https://open.spotify.com/track/6frDW68Xjjg6WRVvo0zZFk"
+    },
+    {
+      "album": {
+        "name": "Walking Distance",
+        "url": "https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196866,
+      "name": "Feelin' Good Again",
+      "url": "https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6"
     },
     {
       "album": {
@@ -1254,7 +1308,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 224027,
       "name": "Happier Alone",
       "url": "https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"
@@ -1468,7 +1522,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 176973,
       "name": "I Been to Georgia on a Fast Train",
       "url": "https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP"
@@ -1624,7 +1678,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
@@ -1660,7 +1714,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 281653,
       "name": "Interstate",
       "url": "https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc"
@@ -1714,7 +1768,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 201808,
       "name": "Just For The Record",
       "url": "https://open.spotify.com/track/50uI46R1kzo9thxADXIGQJ"
@@ -1786,7 +1840,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 208000,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0"
@@ -1822,7 +1876,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 296520,
       "name": "L.A. Freeway",
       "url": "https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz"
@@ -1866,6 +1920,24 @@
       "duration_ms": 169440,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6"
+    },
+    {
+      "album": {
+        "name": "Brand New Me",
+        "url": "https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk"
+      },
+      "artists": [
+        {
+          "name": "Cory Morrow",
+          "url": "https://open.spotify.com/artist/0XRBwgqB24RnxXi7BFYNxC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189413,
+      "name": "Lonesome",
+      "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
     },
     {
       "album": {
@@ -1931,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "I Got the Guns",
+        "url": "https://open.spotify.com/album/5EdH9V1WdL9hRKEqHKiD4N"
+      },
+      "artists": [
+        {
+          "name": "Roger Creager",
+          "url": "https://open.spotify.com/artist/1DyywGnuzXGEzlZMXBcc0j"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230746,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0cif0x9Pl03qzN02YiwCzm"
+    },
+    {
+      "album": {
         "name": "Lovin' Where It's Goin'",
         "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
       },
@@ -1967,6 +2057,28 @@
     },
     {
       "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
+      "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
+    },
+    {
+      "album": {
         "name": "Marfa Lights",
         "url": "https://open.spotify.com/album/24NOQ09OAx540cYX976EEo"
       },
@@ -1978,7 +2090,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 222400,
       "name": "Marfa Lights",
       "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
@@ -2097,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Mr. Bojangles",
+        "url": "https://open.spotify.com/album/48Pyc7crme2ofMCDnhsDwW"
+      },
+      "artists": [
+        {
+          "name": "Jerry Jeff Walker",
+          "url": "https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328146,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/51DLN9R1dIqkKnlRsz1kpg"
+    },
+    {
+      "album": {
         "name": "Lifers",
         "url": "https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J"
       },
@@ -2112,6 +2242,24 @@
       "duration_ms": 205333,
       "name": "Must Be The Whiskey",
       "url": "https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC"
+    },
+    {
+      "album": {
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183453,
+      "name": "My Heroes Have Always Been Cowboys",
+      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
     },
     {
       "album": {
@@ -2223,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "Del Rio, Tx 1959",
+        "url": "https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe"
+      },
+      "artists": [
+        {
+          "name": "Radney Foster",
+          "url": "https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210746,
+      "name": "Nobody Wins",
+      "url": "https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS"
+    },
+    {
+      "album": {
         "name": "Ain't Nothin' to It",
         "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
@@ -2277,6 +2443,24 @@
     },
     {
       "album": {
+        "name": "Just A Matter Of Time",
+        "url": "https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254613,
+      "name": "One More Goodbye",
+      "url": "https://open.spotify.com/track/1kUV3tBwWb6FIEJZutbPgX"
+    },
+    {
+      "album": {
         "name": "Americana Master Series: Best Of The Sugar Hill Years",
         "url": "https://open.spotify.com/album/7AxWYdtBO1dtumo6OoyQCg"
       },
@@ -2310,6 +2494,42 @@
       "duration_ms": 272733,
       "name": "Paint The Town Beige",
       "url": "https://open.spotify.com/track/6YYlOigshrUfgkBhsW36o6"
+    },
+    {
+      "album": {
+        "name": "Live At Gruene Hall",
+        "url": "https://open.spotify.com/album/5gcBoBcppTPSZZfgAPGiYF"
+      },
+      "artists": [
+        {
+          "name": "Jerry Jeff Walker",
+          "url": "https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259706,
+      "name": "Pickup Truck Song",
+      "url": "https://open.spotify.com/track/3PjbiaHYvqf58CuuZfL4oc"
+    },
+    {
+      "album": {
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220573,
+      "name": "Poncho & Lefty",
+      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
     },
     {
       "album": {
@@ -2620,7 +2840,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 157053,
       "name": "Shotgun Willie",
       "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
@@ -2710,7 +2930,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 353653,
       "name": "Somewhere Down in Texas",
       "url": "https://open.spotify.com/track/1kRlt3v0NI6OLhyMkZZAee"
@@ -2768,7 +2988,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 270800,
       "name": "Sunday Mornin' Comin' Down",
       "url": "https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK"
@@ -2919,6 +3139,24 @@
     },
     {
       "album": {
+        "name": "That's Texas",
+        "url": "https://open.spotify.com/album/4Mk6vJ6RJF1qy0F3Rcnyj8"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "That's Texas",
+      "url": "https://open.spotify.com/track/1sjHM1Gw4lAxmoCSK9M3l8"
+    },
+    {
+      "album": {
         "name": "The Gambler",
         "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
       },
@@ -2948,7 +3186,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 239763,
       "name": "The Highway Kind",
       "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"
@@ -2984,7 +3222,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 303000,
       "name": "The Road Goes On Forever",
       "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
@@ -3304,6 +3542,24 @@
       "duration_ms": 220586,
       "name": "White Trash Story",
       "url": "https://open.spotify.com/track/6h0FOQxhnq0iqVsf0I9WsZ"
+    },
+    {
+      "album": {
+        "name": "The Blue Light Live",
+        "url": "https://open.spotify.com/album/32kw0Q3HsL4Wv1xYlryLL5"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275106,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/5XlN58Ay3R3cE7P7c9XjaC"
     },
     {
       "album": {

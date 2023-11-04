@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,925 likes - 56 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,927 likes - 56 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,20 +22,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 12 | [Tala'a Al\-Badru 'Alayna](https://open.spotify.com/track/56mquX7ESE8e0TPVpnyd2V) | [Yusuf Islam](https://open.spotify.com/artist/5OC5mCMdUlT4F8H9knv2AD) | [The Life of the Last Prophet](https://open.spotify.com/album/0l8CT0Zhi8ZqFYqhgPLXuB) | 5:23 |
 | 13 | [Power of Soul](https://open.spotify.com/track/5YnyA2XqNiD0Rcrma0R0IU) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Power Of Soul](https://open.spotify.com/album/4blKLLF57DrHhUyxtaziZX) | 7:04 |
 | 14 | [Tezeta](https://open.spotify.com/track/3IJOlBSUMtJ2xfedPGLcLO) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 5:45 |
-| 15 | [You Are My Sunshine](https://open.spotify.com/track/7CpgcbEqRxOMAFelj7bZBa) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tell 'Em I'm Gone](https://open.spotify.com/album/7K3ZqU69hSFJjhIDuUrujP) | 3:13 |
+| 15 | [You Are My Sunshine](https://open.spotify.com/track/1djwPl8EbjUufDA4GPxB5K) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tell 'Em I'm Gone](https://open.spotify.com/album/5oGGhaNyVb2J7lWPctx9MO) | 3:13 |
 | 16 | [Bubu](https://open.spotify.com/track/4d7WDlyaMZvG7AFIG0XHJZ) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Obiaa!](https://open.spotify.com/album/3ryOYwvg9H8S0Kq779Tot7) | 5:54 |
 | 17 | [Hwa Heda](https://open.spotify.com/track/4oUUrNivoql0eder2WljEC) | [Cheba Wassila](https://open.spotify.com/artist/0NnO9ATVBWmHMYl3LY9S33) | [Music from Saharan Cellphones, Vol\. 2](https://open.spotify.com/album/6ZpWlc0Q1OM8VEjcsS2RPF) | 3:59 |
 | 18 | [Mouhamadou Bamba](https://open.spotify.com/track/5QdcVm85PHGVXtA14LoG59) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9), [Baobab\-Gouye\-Gui de Dakar](https://open.spotify.com/artist/396biTOuSgatR6cQxDFL2T) | [Mouhamadou Bamba](https://open.spotify.com/album/4h4yBxb4nKA2t7WH5GfXFe) | 6:35 |
 | 19 | [Mustt Mustt](https://open.spotify.com/track/3xSz5q0i3aTVD446ucans3) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Mustt Mustt \(Real World Gold\)](https://open.spotify.com/album/57ObW7qW6CN1CWLXV5DOGb) | 5:18 |
 | 20 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 |
-| 21 | [The Beloved](https://open.spotify.com/track/0QmRDEXxnZXID8Nmw4x1Ft) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/1pJxc3mr13IvtcT40cSZXN) | 4:51 |
+| 21 | [The Beloved](https://open.spotify.com/track/68Joa2fqSoneTbPYlWCxqJ) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/27glTwiq8qJBryD9w4SUdP) | 4:51 |
 | 22 | [Uzun İnce Bir Yoldayım](https://open.spotify.com/track/7jquDCB0srCKiBJp0GuUDx) | [Aşık Veysel](https://open.spotify.com/artist/7rVsiFwBEEmTNoStle68F3) | [Uzun İnce Bir Yoldayım \(Klasikler\)](https://open.spotify.com/album/4PtRKiZ8Y1pfWV9E8xl1o7) | 2:35 |
 | 23 | [Chemaa](https://open.spotify.com/track/68eRlRXEZk1iMr0AdW78jD) | [Kamel Messaoudi](https://open.spotify.com/artist/7yLOExurLKWUlj520esuAt) | [Chaâbi Algérien](https://open.spotify.com/album/1R7G7QAN1wENelHO8MikUm) | 4:34 |
 | 24 | [Al Sourah \(The Photo\)](https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX) | [Mohammed Wardi](https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU) | [Al Sourah \(The Photo\)](https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj) | 9:03 |
 | 25 | [Akaline](https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 5:04 |
 | 26 | [Abdel Kader \- Live à Bercy, Paris / 1998](https://open.spotify.com/track/35WrDt7pX6fg7JLJ2fkuaM) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV), [Faudel](https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ), [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Rock'n'Raï](https://open.spotify.com/album/3Jnmgp39WIXFLcPzUDsaRH) | 5:00 |
 | 27 | [Kimdi?](https://open.spotify.com/track/1Kxnp6VqY4xNIO561MQJ8b) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Yine Sensiz](https://open.spotify.com/album/2N5Cp0xZ2gm0QqMWRCALQB) | 4:23 |
-| 28 | [Allah Uya](https://open.spotify.com/track/5GhrRWZZez52XUAlZ3aHRE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 4:31 |
+| 28 | [Allah Uya](https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq) | 4:31 |
 | 29 | [Soundiata](https://open.spotify.com/track/4aDPFzgACQHXikR70sRs0S) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Sa golo \(Kar Kar\)](https://open.spotify.com/album/5N5b1Tukw9Byvyz3ssStHo) | 6:10 |
 | 30 | [Anar](https://open.spotify.com/track/7oaOJA5Ze1pjwD1G2FoXhh) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Sousoume Tamachek](https://open.spotify.com/album/0NjjaGa2PVAY22pi4B8nMM) | 6:36 |
 | 31 | [Al Hassidi Terei](https://open.spotify.com/track/4T86ekCWvGFiFxoa1fLssp) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:43 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 33 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
 | 34 | [Allah Wakbarr](https://open.spotify.com/track/0OZuyF5vpDnlugDqwUivf9) | [Ofo The Black Company](https://open.spotify.com/artist/0BX4K3xwLgIqMqza4yS8eI) | [Allah Wakbarr](https://open.spotify.com/album/0RSCRrXDarngfb85RoFR2i) | 3:32 |
 | 35 | [Kara Toprak](https://open.spotify.com/track/7KBwZWuhVfscYVgWMhazEW) | [Aşık Veysel](https://open.spotify.com/artist/7rVsiFwBEEmTNoStle68F3) | [Aşık Veysel Arşiv 1](https://open.spotify.com/album/11uWjOHcCLBGJTSHXoLlgE) | 8:37 |
-| 36 | [Diaraby \(with Ry Cooder\)](https://open.spotify.com/track/1WmRNq13XPvbmIRcZljM3D) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:26 |
+| 36 | [Diaraby \(with Ry Cooder\)](https://open.spotify.com/track/5nK18JPh71fznLrmiDT2wo) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:26 |
 | 37 | [Tarhatazed](https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH) | 7:27 |
 | 38 | [Duna ma yelema](https://open.spotify.com/track/6luGztVGxfGDfaqpONWUAS) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Maciré \(Kar Kar\)](https://open.spotify.com/album/3On4vsdEZhu65FuG6xXiQr) | 3:53 |
 | 39 | [Koroso](https://open.spotify.com/track/5PYkrbKgSbD9dIN8U8E1jf) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Hikima \- Creativity](https://open.spotify.com/album/6uFdhuYmW7Yei51ghA7Uh3) | 4:33 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 55 | [Dimming of the Day](https://open.spotify.com/track/4SWme0PjIFPTwXLyVWGgOI) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Acoustic Classics](https://open.spotify.com/album/0jCVyzxYUUOyKYYlBUjGV0) | 3:18 |
 | 56 | [Hum Allah Hum Allah Hum Allah](https://open.spotify.com/track/71DfiueMJMIs8D0djEgiyz) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Jewels Of Thought](https://open.spotify.com/album/4eqjbUVRGuA1iM9Gt1UhaV) | 15:10 |
 
-Snapshot ID: `MCxkMzAwZjRmMDgzODdmMjE4NDU4ZjY2YTYzZjEwMGVhZmFiYThhNDMw`
+Snapshot ID: `MCwwZDE5NjFhMmY5NWFhNzBmZDYxNjM4NWM2YjdlZDZiNzNiMzE5Y2Vk`

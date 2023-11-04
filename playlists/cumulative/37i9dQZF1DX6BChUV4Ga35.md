@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-117 songs - 4 hr 2 min
+118 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Horses](https://open.spotify.com/track/4gRZnsj0jNmToYbAYNccM2) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/6TkfhNkfCi1WKoXIhcJOII) | 3:16 | 2022-02-01 | 2022-07-29 |
 | [Horses](https://open.spotify.com/track/1Mnl0LoGhHREW3GqaR88DN) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Nicky Notes](https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b) | 3:16 | 2022-07-25 | 2022-11-13 |
 | [Horses](https://open.spotify.com/track/34Bu6OvstZDD2jUJ7M4N9C) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Nicky Notes](https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1) | [Blippi Tunes, Vol\. 1](https://open.spotify.com/album/4y8tx8PVyNSMZAjVn6OblN) | 3:16 | 2022-07-25 |  |
-| [How Much Is That Doggie in the Window?](https://open.spotify.com/track/6XMLnVTA2ZNLuucfwszh5s) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [30 Favorite Animal Songs for Kids](https://open.spotify.com/album/7tAxYAW3his1LuF2sFFvI7) | 1:13 | 2022-02-01 |  |
+| [How Much Is That Doggie in the Window?](https://open.spotify.com/track/5HpBSqnroZ84DuSt6rDb9L) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [100 All Time Children's Favorites](https://open.spotify.com/album/6WmugKz96O3UFtIgvZxUPw) | 1:13 | 2022-07-25 |  |
+| [How Much Is That Doggie in the Window?](https://open.spotify.com/track/6XMLnVTA2ZNLuucfwszh5s) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [30 Favorite Animal Songs for Kids](https://open.spotify.com/album/7tAxYAW3his1LuF2sFFvI7) | 1:13 | 2022-02-01 | 2023-11-04 |
 | [I Know A Chicken](https://open.spotify.com/track/3g1mTMwdLnJWsVBq2Od3h9) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 3:14 | 2022-02-01 |  |
 | [I'm A Cow](https://open.spotify.com/track/1WeI7KjHAp0X1vOPsNPFYO) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Hit Songs & Rarities](https://open.spotify.com/album/2Op3dWBKGOXkOOzSHxh3On) | 0:31 | 2022-02-01 | 2022-07-29 |
 | [I'm a Cow](https://open.spotify.com/track/1qFTAz02KIOglffJJ0R3wW) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Here Comes the Big Red Car](https://open.spotify.com/album/576st95zAvurKHUNm6GWNA) | 0:31 | 2022-07-25 |  |

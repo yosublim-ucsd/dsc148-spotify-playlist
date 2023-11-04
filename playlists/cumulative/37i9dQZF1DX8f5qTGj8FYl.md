@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-251 songs - 17 hr 17 min
+254 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Couple A Brownies](https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO) | [Soul Jazz Express](https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh) | [Soul Jazz Express](https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk) | 5:17 | 2020-11-13 |  |
 | [Curse of the Haggis](https://open.spotify.com/track/4OYjYFuyf71Sy7XCI0feR2) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [One of These Days](https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8) | 5:56 | 2020-11-13 |  |
 | [Dallas](https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Dallas](https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg) | 3:34 | 2020-11-13 |  |
-| [Did It Again](https://open.spotify.com/track/0YmQkGWoYcqCrX4ODkG3RB) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Did It Again](https://open.spotify.com/album/5mUX4i1livQVwMsiY3wnNh) | 4:07 | 2021-03-05 |  |
+| [Did It Again](https://open.spotify.com/track/0YmQkGWoYcqCrX4ODkG3RB) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Did It Again](https://open.spotify.com/album/5mUX4i1livQVwMsiY3wnNh) | 4:07 | 2021-03-05 | 2023-11-04 |
+| [Did It Again](https://open.spotify.com/track/5BKtywlUwpUUb9wAAqH7AN) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/0P3xpotuVfJghJHe4yLKqD) | 4:07 | 2023-08-04 |  |
 | [Do You Believe](https://open.spotify.com/track/7cmjo93UEPAgg8S69zX6Ca) | [Dr\. Delight](https://open.spotify.com/artist/5JSEvaXZzKFArz329teDzI) | [Got Me Like](https://open.spotify.com/album/4lC9Y6v4RbPxZxNLMh7RLY) | 3:45 | 2022-02-18 | 2022-04-21 |
 | [Do You Wanna Get Down](https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj) | [The Soul Snatchers](https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20) | [Scratch My Itch](https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs) | 3:59 | 2020-11-13 |  |
 | [Do You Wanna Get Down](https://open.spotify.com/track/51b2OImNAWqPyuMwVmrtSi) | [The Soul Snatchers](https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20) | [Scratch My Itch](https://open.spotify.com/album/0ryKBMqYvKYEL5Cu3PJKuw) | 3:59 | 2020-11-13 | 2022-04-21 |
@@ -135,7 +136,8 @@
 | [Just Funkin' Around](https://open.spotify.com/track/0XiZC42sXa3KdiaqM3rhu2) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Just Funkin' Around](https://open.spotify.com/album/4U47phHmbpHhaDKlc9inlu) | 4:07 | 2020-11-13 | 2022-04-21 |
 | [Just Like Me](https://open.spotify.com/track/6XBHv4SSNdf6Spz5cLo5Pw) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Style Meets Substance](https://open.spotify.com/album/22HqJmLEXYiQQnVriMJopN) | 4:20 | 2020-11-13 |  |
 | [Just Shake](https://open.spotify.com/track/5lOcbDk97jxKpvQfK0Pxuy) | [Vito Lalinga \(Vi Mode Inc\. Project\)](https://open.spotify.com/artist/07Z1hrMGpROTkdhqPI6UpM) | [Urban Night](https://open.spotify.com/album/44pq5WmybJ7QEqwLkeZeSZ) | 5:42 | 2021-02-12 |  |
-| [Kabuki](https://open.spotify.com/track/4SkVO7JGpsMclUhc8Kcwwf) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy) | 4:28 | 2023-08-04 |  |
+| [Kabuki](https://open.spotify.com/track/0GTNVTzaXx4B8BBid7KPF2) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/0P3xpotuVfJghJHe4yLKqD) | 4:28 | 2023-08-04 |  |
+| [Kabuki](https://open.spotify.com/track/4SkVO7JGpsMclUhc8Kcwwf) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy) | 4:28 | 2023-08-04 | 2023-11-04 |
 | [Kabuki](https://open.spotify.com/track/1CXowWtxmDJhS5EB3daVd2) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/44SAnz1tyckWug1tPnLrmZ) | 4:28 | 2021-05-28 | 2022-07-29 |
 | [Kashmir](https://open.spotify.com/track/5aEurCKzsfoo0nFHK6OPXT) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44) | [Our Kind of Movement](https://open.spotify.com/album/5AZNZXj3lW7M2jHj3IqI0q) | 3:55 | 2020-11-13 |  |
 | [Keb's Bucket](https://open.spotify.com/track/2xDpbCLvTF5jEKPK8w3B3z) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled and Fried](https://open.spotify.com/album/4LSIevKcUj7YbQZvJ7R2C0) | 3:30 | 2020-11-13 | 2022-04-21 |
@@ -199,7 +201,8 @@
 | [Shiny Boots](https://open.spotify.com/track/5cmB8ZZ9FDQ3D03BzRG5u0) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Piers Green](https://open.spotify.com/artist/2BD3op8zryBDr5nhRg2Pm8) | [Shiny Boots](https://open.spotify.com/album/6COvwsnQ4Qkzy8QjgRuhEd) | 4:33 | 2020-11-13 | 2022-07-17 |
 | [Since You Wonder](https://open.spotify.com/track/1hoRpaGSnypLeqiqByLtco) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Since You Wonder](https://open.spotify.com/album/1kjrunpZTsPJ41i2fGRlU7) | 3:57 | 2021-04-09 | 2022-04-21 |
 | [Sir Somebody](https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Sir Somebody](https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH) | 4:02 | 2021-11-26 |  |
-| [Sleep Depraved](https://open.spotify.com/track/4VDIqajjzfienIbv3zuu6o) | [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw) | [Sleep Depraved](https://open.spotify.com/album/5lZJfhuQGHwDcRJfktfRQK) | 4:17 | 2020-11-27 |  |
+| [Sleep Depraved](https://open.spotify.com/track/4VDIqajjzfienIbv3zuu6o) | [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw) | [Sleep Depraved](https://open.spotify.com/album/5lZJfhuQGHwDcRJfktfRQK) | 4:17 | 2020-11-27 | 2023-11-04 |
+| [Sleep Depraved](https://open.spotify.com/track/4KGPk8tcnfjwCGkyDDaVvp) | [WRD Trio](https://open.spotify.com/artist/3X7BXKZNdJxqDhkIxgwzCM), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER) | [The Hit](https://open.spotify.com/album/1dzSCG6nov0zLtT0Bckdl1) | 4:17 | 2023-08-04 |  |
 | [Smokeshow](https://open.spotify.com/track/0XLakrxjjKxuKzgCiSiggV) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smokeshow](https://open.spotify.com/album/41lISa0NJIZ5ftQ36VmZs3) | 4:02 | 2021-12-10 | 2023-06-16 |
 | [Smooth Move](https://open.spotify.com/track/6WFwC46XQapcmnToEcromu) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smooth Move](https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa) | 5:16 | 2020-11-13 |  |
 | [Soliloquy](https://open.spotify.com/track/1tfq45tFyHgq2ImK88yopM) | [Krispy & the Pooch](https://open.spotify.com/artist/2Aibp4rRO4mHmvBRkfK33Z) | [Soliloquy](https://open.spotify.com/album/5o1gURd5wKaniLghxjeyKd) | 2:50 | 2023-08-04 |  |

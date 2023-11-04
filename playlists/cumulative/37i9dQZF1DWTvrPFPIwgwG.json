@@ -833,6 +833,28 @@
     },
     {
       "album": {
+        "name": "Dono da Promessa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2nFGwCSljBIK7MWMyNa4AS"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357220,
+      "name": "Dono da Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1s4qZgWod9sm2XFWAlRYyk"
+    },
+    {
+      "album": {
         "name": "Ele Est\u00e1 Comigo",
         "url": "https://open.spotify.com/album/6ovBjw3WGaPnu2TxE9badP"
       },
@@ -870,7 +892,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 269183,
       "name": "Ele N\u00e3o Mudou",
       "url": "https://open.spotify.com/track/6ECXghsnWoGD85eOcuPWUX"
@@ -1342,7 +1364,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 319018,
       "name": "Eu Te Toquei - Ao Vivo",
       "url": "https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp"
@@ -1360,7 +1382,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 279028,
       "name": "Eu Vou na Frente",
       "url": "https://open.spotify.com/track/7IhoNVHiXR4PQcYkV0bEwp"
@@ -1640,7 +1662,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 296040,
       "name": "Imagine (Ao Vivo)",
       "url": "https://open.spotify.com/track/45cx88GPBhNOCBILzmaqlG"
@@ -1940,7 +1962,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 309754,
       "name": "Nas M\u00e3os do Oleiro",
       "url": "https://open.spotify.com/track/5t5P0QIe9BOtYRk2g9uKyK"
@@ -2710,7 +2732,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 423916,
       "name": "P\u00e1gina Virada - Ao Vivo",
       "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
@@ -3056,6 +3078,28 @@
       "duration_ms": 249262,
       "name": "Solu\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1brqBqEOkQOZwky1l2NgeB"
+    },
+    {
+      "album": {
+        "name": "Sorrir de Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qyXyrFRqldlBhK7XZVrIN"
+      },
+      "artists": [
+        {
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495754,
+      "name": "Sorrir de Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3U3raybFpZft0rT58YSPFe"
     },
     {
       "album": {

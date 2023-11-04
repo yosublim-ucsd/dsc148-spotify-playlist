@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-137 songs - 8 hr 59 min
+138 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Wig](https://open.spotify.com/track/0yj26qPypXRRG3QEfzcZT2) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/5flGecLa0gsN4RSOA2YIyn) | 3:40 | 2022-07-01 | 2023-02-15 |
 | [Wig](https://open.spotify.com/track/40n4caMKy5TSzxKtKOeKRp) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/16oQd9JhXxh1swlhdFzedL) | 3:40 | 2021-11-19 | 2022-07-29 |
 | [Wig](https://open.spotify.com/track/4HuRHiYqoQTsxqiAGbJNdI) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/5W5ECnqLf2p45cIojnvVmC) | 3:40 | 2023-01-27 |  |
-| [Witch Doktor](https://open.spotify.com/track/3ntelFceNINxt3xhEXhRc8) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Greatest Hits](https://open.spotify.com/album/4t09XQnmG7HufzESXNdWn4) | 6:46 | 2021-11-19 |  |
+| [Witch Doktor](https://open.spotify.com/track/3RsGqdtkBVxk8mWoERAIp1) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Strictly Rhythm The Definitive 30](https://open.spotify.com/album/5sGoSZWP5ZPArN6tSvpN8s) | 6:46 | 2023-07-14 |  |
+| [Witch Doktor](https://open.spotify.com/track/3ntelFceNINxt3xhEXhRc8) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Greatest Hits](https://open.spotify.com/album/4t09XQnmG7HufzESXNdWn4) | 6:46 | 2021-11-19 | 2023-11-04 |
 | [Work](https://open.spotify.com/track/3WXUvkBTSkZfMIsp8dKzvy) | [A.](https://open.spotify.com/artist/5Oi5eqLshqruHdSmWvJPdF), [Dr\. Bass & the Experiment](https://open.spotify.com/artist/1xKoV5VuDzJRiLnXBa1eNw) | [Work](https://open.spotify.com/album/4FiqaznOQwBo6C7oAA8oNH) | 2:10 | 2021-11-19 |  |
 | [Work Me Goddamit '96](https://open.spotify.com/track/5Nku82Esm5dmUVMSOBEU3p) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Old Skool Junkies](https://open.spotify.com/artist/3eKGOpNDud6NlcxJgHKn4w) | [Old Skool Junkies](https://open.spotify.com/album/5EKuhX3T8zd0XsGkOsv378) | 5:39 | 2021-11-19 |  |
 | [Work This Pussy \(Revised Mix\)](https://open.spotify.com/track/0T9h9HbgfuMzGZE9b0Fsfl) | [Angel X](https://open.spotify.com/artist/6OKQsKcXP50ebq9CznrfxF), [Sweet Pussy Pauline](https://open.spotify.com/artist/55Vj2oTeeBAe7hSc2tdJxT) | [LEGEND](https://open.spotify.com/album/4GBqE6VnmfTnINsgu56RuI) | 6:52 | 2021-11-19 |  |

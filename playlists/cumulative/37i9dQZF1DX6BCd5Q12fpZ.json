@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 187947,
       "name": "Love Shine a Light",
       "url": "https://open.spotify.com/track/0WdBh2BQOq9U7PMk6sWzMz"
@@ -2306,6 +2306,24 @@
     {
       "album": {
         "name": "SloMo (Eurovision's Dancebreak Edit)",
+        "url": "https://open.spotify.com/album/2p70qVsRMaCLKQidjdFq6z"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "SloMo (Eurovision's Dancebreak Edit)",
+      "url": "https://open.spotify.com/track/3eUSKY0b01xSAp354rVn8l"
+    },
+    {
+      "album": {
+        "name": "SloMo (Eurovision's Dancebreak Edit)",
         "url": "https://open.spotify.com/album/3nrVP8ljurMTI2cEv6ItJA"
       },
       "artists": [
@@ -2316,7 +2334,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-04",
       "duration_ms": 180000,
       "name": "SloMo - Eurovision's Dancebreak Edit",
       "url": "https://open.spotify.com/track/00rUx6vPpy0XbJer8BcoRn"
@@ -2536,6 +2554,24 @@
       "duration_ms": 180000,
       "name": "Tick Tock",
       "url": "https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56"
+    },
+    {
+      "album": {
+        "name": "Nana Banana / Toy / Bassa Sababa",
+        "url": "https://open.spotify.com/album/3Z87e0ryNk12ICdj3XPoaj"
+      },
+      "artists": [
+        {
+          "name": "Netta",
+          "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180230,
+      "name": "Toy",
+      "url": "https://open.spotify.com/track/4v0VS33GYfTje16Q0ArRx6"
     },
     {
       "album": {

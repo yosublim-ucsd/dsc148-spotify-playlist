@@ -1,13 +1,397 @@
 {
   "description": "A playlist oficial do Carona Podpah, Original Spotify com o <a href=\"spotify:show:1GLSDdk9CDEwziGNIlnb8a\">Podpah</a>",
-  "num_followers": 7943,
+  "num_followers": 7952,
   "original_name": "Carona Podpah com m\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTFiNWFiYmNjZWU4MzRiMjljMGFiMWNhMjU1YmRlYTE5MThkNmFl",
+  "snapshot_id": "MCxkNGY2YWFiMTkzNDA4MjM1ZDQ3ZDJiNzEwMmU2NjdmZWM1M2E5YmZk",
   "tracks": [
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "A Turma do Bal\u00e3o M\u00e1gico",
+        "url": "https://open.spotify.com/album/1GvtIjTCBLJMmObjG0an0h"
+      },
+      "artists": [
+        {
+          "name": "A Turma Do Bal\u00e3o M\u00e1gico",
+          "url": "https://open.spotify.com/artist/227JycdANvGMALjqUrdrp4"
+        },
+        {
+          "name": "F\u00e1bio Jr.",
+          "url": "https://open.spotify.com/artist/60iOwdF3A0p4pAwgUXMaWU"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "Amigos do Peito (Somos Amigos) (feat. F\u00e1bio Jr.)",
+      "url": "https://open.spotify.com/track/3REHIdGQ6oQVZ4xyH7vzPx"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "Toadas - Vol 1",
+        "url": "https://open.spotify.com/album/5oHU9iyTr0CGb5P3K68FdA"
+      },
+      "artists": [
+        {
+          "name": "Faf\u00e1 de Bel\u00e9m",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+        },
+        {
+          "name": "David Assayag",
+          "url": "https://open.spotify.com/artist/0ssk0iHind9J9R9tGJtiZk"
+        }
+      ],
+      "duration_ms": 420001,
+      "name": "Vermelho",
+      "url": "https://open.spotify.com/track/05SE1NOCFvgJsa28HRuTBk"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "Ax\u00e9 Anos 90",
+        "url": "https://open.spotify.com/album/0uwdiX1qq0e0rLeEfCVQxo"
+      },
+      "artists": [
+        {
+          "name": "Luiz Caldas",
+          "url": "https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "Tieta",
+      "url": "https://open.spotify.com/track/1bGMh6WV0Yv4U1Jh82s8Fx"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "Amar Amei",
+        "url": "https://open.spotify.com/album/6mcMB3o2zspkJvX9NjQhfh"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 217845,
+      "name": "Amar Amei",
+      "url": "https://open.spotify.com/track/3vqZC9Pp8ft72lkD6oauJl"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "De Volta Ao Planeta",
+        "url": "https://open.spotify.com/album/0j7IkGGOTpFMLIiLffhEkX"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 318626,
+      "name": "F\u00e1cil",
+      "url": "https://open.spotify.com/track/5rhijzoJmc7ZdnEgBS58Wh"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "Crazy World",
+        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "Quarto dos Livros (20 Anos; Live)",
+        "url": "https://open.spotify.com/album/7jmk1wr6sJdWCiQpw32iJ1"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "duration_ms": 215367,
+      "name": "Se Algum Dia Eu N\u00e3o Acordar (Live)",
+      "url": "https://open.spotify.com/track/3Mxh7s6EmaXbhE3pCbrOg0"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "Transpira\u00e7\u00e3o Cont\u00ednua Prolongada - Edi\u00e7\u00e3o Comemorativa",
+        "url": "https://open.spotify.com/album/0GBMhUusSjw9soVbVFRERp"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Te Levar Daqui",
+      "url": "https://open.spotify.com/track/5PJeu6pVwPzYynjOeGgxmV"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "Enema Of The State",
+        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "All The Small Things",
+      "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "Raimundos",
+        "url": "https://open.spotify.com/album/38aIZxDi10QSpizgMO6cKE"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        }
+      ],
+      "duration_ms": 254373,
+      "name": "Selim",
+      "url": "https://open.spotify.com/track/6xnPY0pNh5I7l4VOH62v6j"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 121886,
+      "name": "changes",
+      "url": "https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "A M\u00fasica Mais Triste do Ano",
+        "url": "https://open.spotify.com/album/4BqvXYL5UCaD47uQ7XjUUA"
+      },
+      "artists": [
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        },
+        {
+          "name": "Mazili",
+          "url": "https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4"
+        },
+        {
+          "name": "Moral",
+          "url": "https://open.spotify.com/artist/6jodHtDK8FJXH7PXyV551a"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "A M\u00fasica Mais Triste do Ano",
+      "url": "https://open.spotify.com/track/10IhhMK2kwyTHIlAZD8rMw"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/2A8A15YTJJEXGUNAJRKMPW"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Garota De Ipanema",
+      "url": "https://open.spotify.com/track/2vTDA7mOYWtuduCylWfiFd"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 285373,
+      "name": "Stayin Alive",
+      "url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "S\u00f3 Pra Contrariar",
+        "url": "https://open.spotify.com/album/4tV1Azuq28wckbq005s9aa"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3 Pra Contrariar",
+          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Essa Tal Liberdade",
+      "url": "https://open.spotify.com/track/3EjxAbEOH28icEK1ZFOUSh"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "Los Hermanos",
+        "url": "https://open.spotify.com/album/5cZ2ehOhB8ZQ0yCHJZyhlh"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos",
+          "url": "https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "Anna J\u00falia",
+      "url": "https://open.spotify.com/track/0aASUtDb1N96NJDwmWj5Gf"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "V.I.B.E.",
+        "url": "https://open.spotify.com/album/0dUTLlo7mTukUVVUry5wkJ"
+      },
+      "artists": [
+        {
+          "name": "Ls Jack",
+          "url": "https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX"
+        }
+      ],
+      "duration_ms": 248520,
+      "name": "Carla",
+      "url": "https://open.spotify.com/track/79f21uRzn79zWCxrsF17hj"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "Reden\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4j5DCqWtUEBoO1AFvgKjKF"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "Uma M\u00fasica",
+      "url": "https://open.spotify.com/track/5Bo0ayLXkp6ttsjCWJvOHJ"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "Reden\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4j5DCqWtUEBoO1AFvgKjKF"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "duration_ms": 216226,
+      "name": "Desde Quando Voc\u00ea Se Foi",
+      "url": "https://open.spotify.com/track/3Xx8DDgvddsYPnxTH2LXsd"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "Reden\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4j5DCqWtUEBoO1AFvgKjKF"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "duration_ms": 196906,
+      "name": "Algu\u00e9m Que Te Faz Sorrir",
+      "url": "https://open.spotify.com/track/1UYZWCuMG9N2do5ZnvWh9x"
+    },
+    {
+      "added_at": "2023-11-03 12:52:05",
+      "album": {
+        "name": "My Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
+    },
     {
       "added_at": "2023-10-27 14:05:28",
       "album": {

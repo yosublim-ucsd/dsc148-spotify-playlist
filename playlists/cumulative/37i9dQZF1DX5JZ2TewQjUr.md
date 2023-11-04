@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 東涌事發
 
-742 songs - 1 day 18 hr 0 min
+743 songs - 1 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,6 +663,7 @@
 | [淹悶](https://open.spotify.com/track/6KD65n0AXdg3kUueOgZlbo) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [淹悶](https://open.spotify.com/album/13VQfaM3XfpRL8FWWoYXea) | 3:01 | 2022-10-27 | 2023-03-18 |
 | [渡澗](https://open.spotify.com/track/02ZY4yT03JQ8kGnwztaWmn) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [渡澗](https://open.spotify.com/album/7djuyiU90mqDbVeqg6WXnE) | 3:31 | 2022-05-26 | 2022-06-10 |
 | [渣豆馬拉松](https://open.spotify.com/track/2jUAIjOUzJ1Hm3AESAUDlT) | [薛晉寧](https://open.spotify.com/artist/51gtz3TwZi8vKNM74TVYdP) | [渣豆馬拉松](https://open.spotify.com/album/0OFCzzS0VXNVWDFdh5aIQ5) | 3:02 | 2023-10-12 |  |
+| [溫飽藝術家Grounded](https://open.spotify.com/track/3uirvgoCuUj6dHsFKC4hEy) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [溫飽藝術家Grounded](https://open.spotify.com/album/0WAWOZlVkEwV9V7aIhcWzE) | 2:42 | 2023-11-02 |  |
 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 | 2023-01-05 | 2023-09-15 |
 | [無拘](https://open.spotify.com/track/0hzNJEBrLzyIzaUaXOmPiX) | [陳浩](https://open.spotify.com/artist/02B3n4s3tZqb73uiLoegXu) | [無拘](https://open.spotify.com/album/2pNP263g6TpbOUQD8EU5IH) | 3:34 | 2022-05-26 | 2022-06-10 |
 | [無貨](https://open.spotify.com/track/6eQkfMMehEm1Ic6kSBByTO) | [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [無貨](https://open.spotify.com/album/0qeGxttcYJuph4fwqmPaLG) | 2:01 | 2023-05-11 | 2023-09-01 |

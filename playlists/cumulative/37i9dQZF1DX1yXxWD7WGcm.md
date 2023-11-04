@@ -4,7 +4,7 @@
 
 > Les classiques du zouk\. Photo : Fanny J
 
-50 songs - 3 hr 29 min
+51 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Se Pa Pou dat](https://open.spotify.com/track/4tLvQ6fvnsWB6BGusXS03n) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Se Pa Pou Dat](https://open.spotify.com/album/0WT8Un2CLXF7CeALLeIOSn) | 5:41 | 2023-03-23 |  |
 | [Si Tu Veux De Moi](https://open.spotify.com/track/5J9z4IRglYvOll81jBjGje) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [African Bohemian](https://open.spotify.com/album/7zClNRNTGr4SShXmsgxda1) | 3:59 | 2023-03-23 |  |
 | [Siwo](https://open.spotify.com/track/0femCfvGe5cE3kyRnRd9jK) | [Jocelyne Beroard](https://open.spotify.com/artist/5YZXvHrAg6BE549FF4x6jB) | [Siwo](https://open.spotify.com/album/1rAvDlrzslwA4SEffA2rYv) | 4:29 | 2023-03-23 |  |
-| [Syé bwa](https://open.spotify.com/track/1mm94lmnVlbyrsa9PgSCvS) | [Kassav](https://open.spotify.com/artist/2vI858Cxtz915SlqYtlais) | [Vini Pou](https://open.spotify.com/album/4UD2qoE1duOinDCKhB83f6) | 4:38 | 2023-03-23 |  |
+| [Syé bwa](https://open.spotify.com/track/01l7fFEeJzWD2dnOIMYUOT) | [Kassav](https://open.spotify.com/artist/2vI858Cxtz915SlqYtlais) | [Syé bwa](https://open.spotify.com/album/1eEDOjnKdTTisQovSh2kiP) | 4:36 | 2023-03-23 |  |
+| [Syé bwa](https://open.spotify.com/track/1mm94lmnVlbyrsa9PgSCvS) | [Kassav](https://open.spotify.com/artist/2vI858Cxtz915SlqYtlais) | [Vini Pou](https://open.spotify.com/album/4UD2qoE1duOinDCKhB83f6) | 4:38 | 2023-03-23 | 2023-11-04 |
 | [Tu Kiffes Ca](https://open.spotify.com/track/4VjAINz190LKGIhlOyzbLh) | [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [Juste Moi \(Part 1\)](https://open.spotify.com/album/1V7J9Y5b9z2V8BVdkvTfEo) | 3:58 | 2023-03-23 |  |
 | [Turn Me Up](https://open.spotify.com/track/0mSQpFmTxOWszXXftJ7UEt) | [Willy Denzey](https://open.spotify.com/artist/1Fji4YKhqgzROcDJI15iNZ), [Prodyge Crew](https://open.spotify.com/artist/7A5fMLrJ1voYaYjZXs92Jg) | [Caribbean Selection](https://open.spotify.com/album/5Kojc994qKwaR1X4ayZbaH) | 4:36 | 2023-03-23 |  |
 | [Vini](https://open.spotify.com/track/5ClSFh5wvocS8bypi9nWNa) | [Nichols](https://open.spotify.com/artist/6rvJUax9W8BrBC6nL6Rl8W), [Marysa](https://open.spotify.com/artist/15g2YTZ5MPzw6mG5JMzMc5) | [Hot !](https://open.spotify.com/album/2c1DbufXlLIeakSnCjFD1I) | 3:48 | 2023-03-23 |  |
