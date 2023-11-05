@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic music. Cover: biskuwi",
-  "num_followers": 617826,
+  "num_followers": 617941,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTdlNWEwZjgzMzc5YjIzYjAwZWE3MTEwNDk3OWUxYzg0YTMzYWI5",
+  "snapshot_id": "MCwxYmI1ZTFmOTQwYWY5ZTBjZDBjNTQwNjQxNzI5YjgwY2E0MDZjMTc5",
   "tracks": [
     {
       "added_at": "2023-11-02 23:01:00",
@@ -164,8 +164,8 @@
           "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
         },
         {
-          "name": "Coiro",
-          "url": "https://open.spotify.com/artist/2uyyqpYgHqkMN7QwyVnFQ5"
+          "name": "coiro",
+          "url": "https://open.spotify.com/artist/1f68J2PZcUgqpOmQbkqcJY"
         }
       ],
       "duration_ms": 287775,
@@ -348,12 +348,12 @@
       },
       "artists": [
         {
-          "name": "Enda Gallery",
-          "url": "https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET"
-        },
-        {
           "name": "Nicon\u00e9",
           "url": "https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI"
+        },
+        {
+          "name": "Enda Gallery",
+          "url": "https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET"
         }
       ],
       "duration_ms": 309421,

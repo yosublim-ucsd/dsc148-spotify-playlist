@@ -4,7 +4,7 @@
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Jon Pardi
 
-295 songs - 16 hr 6 min
+296 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Home At Christmas](https://open.spotify.com/track/2tKqGOZgr4qOZDFBSoNfbO) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Home At Christmas](https://open.spotify.com/album/32bJejDDWMiRtYhdSKJeEN) | 3:49 | 2022-11-18 |  |
 | [Home for Christmas](https://open.spotify.com/track/4tVdkq3L2PcMF02jefpWC7) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Home for Christmas](https://open.spotify.com/album/5mIonJkuIe5Ewx325rSfeT) | 4:08 | 2022-11-04 |  |
 | [Hometown Christmas](https://open.spotify.com/track/4HGhHna9yutn4Aa7298rLz) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji) | [Hometown Christmas](https://open.spotify.com/album/5taK2HGYNh4F8MuOvJZv4I) | 3:51 | 2021-12-16 |  |
-| [Hurry Up Christmas](https://open.spotify.com/track/4bEAALwyWpypPXSG85C9I7) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/6f0xVeaoyY2X0mbjhJ60Ej) | 2:47 | 2023-10-27 |  |
+| [Hurry Up Christmas](https://open.spotify.com/track/4bEAALwyWpypPXSG85C9I7) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/6f0xVeaoyY2X0mbjhJ60Ej) | 2:47 | 2023-10-27 | 2023-11-05 |
+| [Hurry Up Christmas](https://open.spotify.com/track/5xSMrP8c9doImUxajUi882) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/1fLwyTyXwRYx387gZLPJx9) | 2:47 | 2023-10-27 |  |
 | [I Hope It Snows](https://open.spotify.com/track/1Tu2vqQl3Oo7HaQP1AS38G) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Naughty List](https://open.spotify.com/album/0BXmUn9V11LhVai6Ac6vb1) | 3:59 | 2021-12-16 |  |
 | [I Needed Christmas](https://open.spotify.com/track/0sw6GV1pKByCL0aP13IX4M) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [I Needed Christmas](https://open.spotify.com/album/74baR9ja7gPe3XNEmX25CR) | 3:39 | 2021-12-16 | 2022-10-08 |
 | [I Needed Christmas](https://open.spotify.com/track/4bGq0eDMT9t1uupNjQotk4) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [The Ultimate Christmas Collection](https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ) | 3:39 | 2022-12-09 | 2023-10-28 |

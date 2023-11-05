@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "eye/i",
+        "url": "https://open.spotify.com/album/6OoXzkufPUbjMPOs9Buei7"
+      },
+      "artists": [
+        {
+          "name": "MaMan",
+          "url": "https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "eye/i",
+      "url": "https://open.spotify.com/track/5CLdd5dwC917cnJpAThcrq"
+    },
+    {
+      "album": {
         "name": "FADE UP",
         "url": "https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. Cover: Yaeger
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,062 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,083 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 52 | [Jungle](https://open.spotify.com/track/2awBXPPzbOhux8MwSLozg9) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh), [Ladji Mouflet](https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm) | [Jungle](https://open.spotify.com/album/4bZ6u5RDYajHIfSenUNdwe) | 2:45 |
 | 53 | [LUKEY TY TY](https://open.spotify.com/track/3dJ2rRiGeXRmK3df5EoQfq) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [LUKEY TY TY](https://open.spotify.com/album/7i7IMaZAe5IamfpScpotin) | 1:53 |
 | 54 | [Too Close](https://open.spotify.com/track/0FlYCmQM5q3TcdvwRT53Tt) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Too Close](https://open.spotify.com/album/3WxC9B4azmE7Y4RpwPx39b) | 3:44 |
-| 55 | [Ride Or Die](https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ride Or Die](https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP) | 3:04 |
+| 55 | [Ride Or Die \(with Villano Antillano\)](https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ride Or Die \(with Villano Antillano\)](https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP) | 3:04 |
 | 56 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 |
 | 57 | [Stay Blessed](https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Stay Blessed](https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5) | 2:57 |
 | 58 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 78 | [MODERN JAM \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 |
 | 79 | [Boom Boom](https://open.spotify.com/track/4BID2xH9ckVVKRNTtcVluE) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ), [SKY LEON](https://open.spotify.com/artist/1ry1IbtMEE1MfHZJoDnaVT) | [Boom Boom](https://open.spotify.com/album/1b4ffSO1YHIGBhrlG5j6Ny) | 3:55 |
 | 80 | [Olympian](https://open.spotify.com/track/0CAyfEyFk3Ux8fF02Av8xF) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [Olympian](https://open.spotify.com/album/2svqZlPDI5XcyJLLDVtyYY) | 2:08 |
-| 81 | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [German Engineering 1](https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP) | 2:38 |
+| 81 | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/3puypQeebjOFKb9FeKdgAA) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 2:38 |
 | 82 | [Mile End \- A COLORS SHOW](https://open.spotify.com/track/6mASxVYgPVdBdtAFxZZO21) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Mile End \- A COLORS SHOW](https://open.spotify.com/album/0KrUum0XYaw2JEErYAxLBE) | 2:33 |
 | 83 | [Potential](https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Potential](https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp) | 1:34 |
 | 84 | [Gone \(Abebe Bikila\)](https://open.spotify.com/track/7FAudIc6pJYU91ELpQ655R) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Gone \(Abebe Bikila\)](https://open.spotify.com/album/18nylQsLYIMdHvNXgfPVuO) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [the moves](https://open.spotify.com/track/121Kzji5Fa2d1qUx7c5aDn) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [the moves](https://open.spotify.com/album/3ofgvl8eypgF4s6MTZLQkg) | 2:45 |
 | 100 | [DOA](https://open.spotify.com/track/5O6OvEmhWKKt6Jpkq4B4g3) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [CURB](https://open.spotify.com/album/4R9JE7rZGzc2kBzUKgfT5x) | 3:12 |
 
-Snapshot ID: `MCxjN2M0MWVlOGU4YTU3Mjk1YTIwODE0YjA5ZmIzYzE3NjQ5MWQ3YzAy`
+Snapshot ID: `MCw5MDAxYmQ4YTc5YzY5NDZmNmQ2NjQwMTljYWVhYjQ4OGI5Y2M1ZDg3`

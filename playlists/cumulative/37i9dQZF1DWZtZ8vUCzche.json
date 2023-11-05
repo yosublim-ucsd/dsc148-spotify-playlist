@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 261200,
       "name": "Hope There's Someone",
       "url": "https://open.spotify.com/track/6hNOgftznEOoTrermrc30D"
@@ -2254,6 +2254,24 @@
       "duration_ms": 338560,
       "name": "Inner City Blues (Make Me Wanna Holler)",
       "url": "https://open.spotify.com/track/5eCdoaEz2mwttV4fexFJdi"
+    },
+    {
+      "album": {
+        "name": "The Boatman's Call (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256120,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl"
     },
     {
       "album": {
@@ -4610,7 +4628,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
@@ -5270,6 +5288,24 @@
       "duration_ms": 325760,
       "name": "Stolen Car",
       "url": "https://open.spotify.com/track/7fj8gxs9E3xuTYJQd5pTjG"
+    },
+    {
+      "album": {
+        "name": "Black Cherry",
+        "url": "https://open.spotify.com/album/1W9jLuEBZvSoNZHsErjgkU"
+      },
+      "artists": [
+        {
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231453,
+      "name": "Strict Machine",
+      "url": "https://open.spotify.com/track/1SyOjtLqqqk2AVLZnRI3bk"
     },
     {
       "album": {

@@ -7396,10 +7396,32 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 188000,
       "name": "Sirens (feat. Sophie Powers)",
       "url": "https://open.spotify.com/track/0mRsuiV1DDTFCoig8O7Bga"
+    },
+    {
+      "album": {
+        "name": "Sirens (feat. Sophie Powers)",
+        "url": "https://open.spotify.com/album/6Aks7AMXw2jt1Ue5WZQCUQ"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Sirens (feat. Sophie Powers)",
+      "url": "https://open.spotify.com/track/4ssqA7CeDI5XmEh4Yez5H5"
     },
     {
       "album": {

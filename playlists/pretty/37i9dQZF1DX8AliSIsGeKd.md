@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: biskuwi
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,826 likes - 89 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,941 likes - 89 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 6 | [The House of House \- 1994 Remix by Thomas Schumacher](https://open.spotify.com/track/56Cf6TQ24vaSfum7KW3jKj) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [The House of House \(1994 Remix by Thomas Schumacher\)](https://open.spotify.com/album/3xdslxjDIK3hHNwgxTIJBP) | 4:33 |
 | 7 | [Arrival \- Paige Remix](https://open.spotify.com/track/3CvEllrmREzsOYtWqf3jg2) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w) | [Arrival \(Paige Remix\)](https://open.spotify.com/album/24C6CuaUA7oYC7mCpgH0Rk) | 7:29 |
 | 8 | [Loss Of Hope](https://open.spotify.com/track/3uRh0lyZPq3bxxjV9IhtnF) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Loss Of Hope](https://open.spotify.com/album/4A9A54iT0BtdOL3dXbRKY5) | 6:54 |
-| 9 | [Everything Is Yours](https://open.spotify.com/track/1Xy1Cv7iClxOaoSDpxqTab) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [Coiro](https://open.spotify.com/artist/2uyyqpYgHqkMN7QwyVnFQ5) | [Everything Is Yours](https://open.spotify.com/album/7p49YAWSQgXV18DhpuCMcI) | 4:47 |
+| 9 | [Everything Is Yours](https://open.spotify.com/track/1Xy1Cv7iClxOaoSDpxqTab) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [coiro](https://open.spotify.com/artist/1f68J2PZcUgqpOmQbkqcJY) | [Everything Is Yours](https://open.spotify.com/album/7p49YAWSQgXV18DhpuCMcI) | 4:47 |
 | 10 | [Illusions](https://open.spotify.com/track/3O8mYey47FBULcCK9pkXon) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Illusions](https://open.spotify.com/album/5HGX6eQ7du1wpxHBekpWwc) | 3:56 |
 | 11 | [Trust Again](https://open.spotify.com/track/6UtNK0tycnvtCAPtCHxZ5b) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Trust Again](https://open.spotify.com/album/2wLRd0zrL5bjo1gpDQ8VHP) | 3:50 |
 | 12 | [EPICA MAXIMA](https://open.spotify.com/track/1ln3mQQP4daxuTtvcJTSyP) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [OXYMOREWORKS](https://open.spotify.com/album/41E84NAYxLXdVsVW2cslo0) | 5:17 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 16 | [More Love \- Rampa &ME Remix](https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [More Love \(Rampa &ME Remix\)](https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC) | 6:11 |
 | 17 | [Gorah](https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Gorah](https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1) | 4:06 |
 | 18 | [Tool Time](https://open.spotify.com/track/4jk9wqr0eLDVj8YOCvPW2G) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Tool Time](https://open.spotify.com/album/0CCyuCdwa8hfG8U3pvVvuH) | 5:44 |
-| 19 | [House of Love](https://open.spotify.com/track/6ElurfirOqT72TO31NQtCp) | [Enda Gallery](https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET), [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [House of Love](https://open.spotify.com/album/3Jt6tt1pUmASvChPYGdEeq) | 5:09 |
+| 19 | [House of Love](https://open.spotify.com/track/6ElurfirOqT72TO31NQtCp) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Enda Gallery](https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET) | [House of Love](https://open.spotify.com/album/3Jt6tt1pUmASvChPYGdEeq) | 5:09 |
 | 20 | [Wild Life](https://open.spotify.com/track/5ZNUuiUgYJqYZ9XMOGvFZ8) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Wild Life / So Dope](https://open.spotify.com/album/4yQ5kSzvzJt4NXq9PI5K2N) | 4:28 |
 | 21 | [Moment of Silence](https://open.spotify.com/track/76rKisEd75lppU2EPgsPhM) | [Robin Schellenberg](https://open.spotify.com/artist/78Hy8NdjsX1EPvxZfOE4lE), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [Moment of Silence](https://open.spotify.com/album/2dBcQ06pG04IUCWjMEwGc9) | 6:14 |
 | 22 | [Deviated](https://open.spotify.com/track/3ZJMxZMwC4uIeAR4bdT4sy) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Deviated EP](https://open.spotify.com/album/64M8kZ1OvrKE4ugshp57Ez) | 5:57 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [Show Me A Sign \(Shermanology Remix\) \[feat\. Conquer Jones\]](https://open.spotify.com/track/4bWH7CQYWerk06TvOt4kKu) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Conquer Jones](https://open.spotify.com/artist/07QL1ZOB6Uq7ucRf6poEiW), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Show Me A Sign \(Shermanology Remix\) \[feat\. Conquer Jones\]](https://open.spotify.com/album/1ppi1rMwooZxaY9FuOjhuy) | 3:20 |
 | 89 | [Thirsty](https://open.spotify.com/track/2Buoe3DXKE5VL5w0JCeuQz) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [DJ Friendly](https://open.spotify.com/album/0wrBtOddeFuzNoYO6aLFlx) | 5:11 |
 
-Snapshot ID: `MCxjOTdlNWEwZjgzMzc5YjIzYjAwZWE3MTEwNDk3OWUxYzg0YTMzYWI5`
+Snapshot ID: `MCwxYmI1ZTFmOTQwYWY5ZTBjZDBjNTQwNjQxNzI5YjgwY2E0MDZjMTc5`

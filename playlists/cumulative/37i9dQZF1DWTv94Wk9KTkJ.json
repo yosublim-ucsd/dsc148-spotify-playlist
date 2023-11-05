@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Johnny '94 (Dillinja and Noise of Art & Double D Remixes)",
+        "url": "https://open.spotify.com/album/2SVkdeN8a1thITSWUX0Jd6"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jungle",
+          "url": "https://open.spotify.com/artist/4fYroVBAQIpEuFho2WtbYY"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388336,
+      "name": "Johnny '94 - Dillinja Remix",
+      "url": "https://open.spotify.com/track/5G6dkLyGx4RfSdHuRpwstI"
+    },
+    {
+      "album": {
         "name": "Johnny '94 (Dillinja And Noise Of Art & Double D Remixes)",
         "url": "https://open.spotify.com/album/6OfuMdD1LzXxlQj4qa3c0F"
       },
@@ -892,7 +910,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 388336,
       "name": "Johnny '94 - Dillinja Remix",
       "url": "https://open.spotify.com/track/6UDQgCyzXVkR7EnlfFwhhb"
@@ -1640,6 +1658,24 @@
     {
       "album": {
         "name": "R.I.P. (Remixes)",
+        "url": "https://open.spotify.com/album/7zxJfKfXTDl3b9RlAKhdRv"
+      },
+      "artists": [
+        {
+          "name": "Remarc",
+          "url": "https://open.spotify.com/artist/0nCxyI85p7XgWv2LLv4S9d"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390144,
+      "name": "R.I.P. - DJ Hype Remix",
+      "url": "https://open.spotify.com/track/1X6SSHGYYtJRltO5cdcT6l"
+    },
+    {
+      "album": {
+        "name": "R.I.P. (Remixes)",
         "url": "https://open.spotify.com/album/4ZALguItIEEddvq0gYjclZ"
       },
       "artists": [
@@ -1668,7 +1704,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 390144,
       "name": "R.I.P. - DJ Hype Remix",
       "url": "https://open.spotify.com/track/5MxfsO8miceiyxzZWhvnt7"

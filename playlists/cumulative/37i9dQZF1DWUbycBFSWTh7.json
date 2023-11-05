@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "2Sides (Crackazat Remix)",
+        "url": "https://open.spotify.com/album/5inqQ4aqL1gvoOzjwpPt5L"
+      },
+      "artists": [
+        {
+          "name": "Kid Fonque",
+          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
+        },
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317288,
+      "name": "2Sides - Crackazat Remix",
+      "url": "https://open.spotify.com/track/3p2UnuScyVx2C2bJkLDwD2"
+    },
+    {
+      "album": {
         "name": "333 EP",
         "url": "https://open.spotify.com/album/4X9pRIOXjqMJKYjb6ydtqJ"
       },
@@ -651,6 +673,28 @@
     },
     {
       "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/33EgYjk47pCO4bCm9MiUqU"
+      },
+      "artists": [
+        {
+          "name": "Eric Kupper",
+          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
+        },
+        {
+          "name": "K-Scope",
+          "url": "https://open.spotify.com/artist/2T97L7dln6ZjMY4GXmHhWn"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370041,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6WtNgaB5FNM3ZemfAVD5gx"
+    },
+    {
+      "album": {
         "name": "So Us Vol. 1",
         "url": "https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb"
       },
@@ -979,6 +1023,46 @@
     },
     {
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/0aTrq4Y3imaxgtvu5nFBA7"
+      },
+      "artists": [
+        {
+          "name": "Dirtytwo",
+          "url": "https://open.spotify.com/artist/7CVxeOQgRk6nROT4nkHhAi"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484178,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/6kH113rr1wRLEOe2wzno7H"
+    },
+    {
+      "album": {
+        "name": "Enchanted (Folamour Remix)",
+        "url": "https://open.spotify.com/album/6WlUwlOtLz4Xdj2HjGB2sM"
+      },
+      "artists": [
+        {
+          "name": "Job De Jong",
+          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334368,
+      "name": "Enchanted - Folamour Remix",
+      "url": "https://open.spotify.com/track/0ZsCcTEqN1nXVyzdZOnu27"
+    },
+    {
+      "album": {
         "name": "Enchanted (Folamour Remix)",
         "url": "https://open.spotify.com/album/5PMvjuuAtss3R20Q3Xg91R"
       },
@@ -994,10 +1078,28 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 334368,
       "name": "Enchanted - Folamour Remix",
       "url": "https://open.spotify.com/track/3TFwhBJnNz5hDNwCAjqhgG"
+    },
+    {
+      "album": {
+        "name": "Broadcite 100 Sampler #2",
+        "url": "https://open.spotify.com/album/1FBnW1mCH7a8fDo7qgy74O"
+      },
+      "artists": [
+        {
+          "name": "Trinidadian Deep",
+          "url": "https://open.spotify.com/artist/06gPN0VFClHWEefNwLEWmb"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387096,
+      "name": "Erotic Tonic",
+      "url": "https://open.spotify.com/track/66cAl7tcwJT9UQtRxW4Qfc"
     },
     {
       "album": {
@@ -1294,7 +1396,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 470427,
       "name": "Forever Whatever",
       "url": "https://open.spotify.com/track/1XMqiASp1EugE2Vzc7UmuH"
@@ -1470,6 +1572,24 @@
       "duration_ms": 359016,
       "name": "Good High",
       "url": "https://open.spotify.com/track/1SxO0Ah8zvoRwxq83RZqWk"
+    },
+    {
+      "album": {
+        "name": "Dekmantel Anniversary Series",
+        "url": "https://open.spotify.com/album/2JriIHEiDKJ60FnfxJnvqT"
+      },
+      "artists": [
+        {
+          "name": "Makam",
+          "url": "https://open.spotify.com/artist/2TOcbvWbyh2rWEKBdCwpUS"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265346,
+      "name": "Good to You",
+      "url": "https://open.spotify.com/track/0zuBTTsaoYyYmNhuiVsgSO"
     },
     {
       "album": {
@@ -1724,7 +1844,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 415974,
       "name": "Hurry Up [Ministry of Sound] - Kerri's Again Mix",
       "url": "https://open.spotify.com/track/12e8nS0AwEexYMPK2BfJ7Z"
@@ -2294,7 +2414,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 287219,
       "name": "Mayolo",
       "url": "https://open.spotify.com/track/6phAArzDBUtL4vek1VY7l0"
@@ -2690,7 +2810,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 331699,
       "name": "NY Disco",
       "url": "https://open.spotify.com/track/63yOUifcWAb8ijGT0uPWXd"
@@ -3233,6 +3353,28 @@
     },
     {
       "album": {
+        "name": "Seein You (Felipe Gordon Remixes)",
+        "url": "https://open.spotify.com/album/3UXYHy9lX7d88RSm2Eu6Zv"
+      },
+      "artists": [
+        {
+          "name": "Eli Escobar",
+          "url": "https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93"
+        },
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233846,
+      "name": "Seein You - Felipe Gordon Remix Edit",
+      "url": "https://open.spotify.com/track/01BtgJG1IPiGAeV6EclEcD"
+    },
+    {
+      "album": {
         "name": "Denouncing The Hypocrisy Of Our Time (Remixes)",
         "url": "https://open.spotify.com/album/4buqt6V1FP3nG1YRJ4kkhI"
       },
@@ -3366,7 +3508,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 417999,
       "name": "Slow Down - James Cole Remix",
       "url": "https://open.spotify.com/track/7IasAOphluLSAmgMtg9jYA"
@@ -3520,6 +3662,24 @@
     {
       "album": {
         "name": "Strobe Queen",
+        "url": "https://open.spotify.com/album/4alMhqlpv8mTNJpKRM5mmq"
+      },
+      "artists": [
+        {
+          "name": "Radio Slave",
+          "url": "https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311974,
+      "name": "Strobe Queen",
+      "url": "https://open.spotify.com/track/57Y0ex9NYhcCbM5dpGrM0o"
+    },
+    {
+      "album": {
+        "name": "Strobe Queen",
         "url": "https://open.spotify.com/album/3hOCGfnOSj3FCppaoyORLk"
       },
       "artists": [
@@ -3530,7 +3690,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 311974,
       "name": "Strobe Queen",
       "url": "https://open.spotify.com/track/5eQkvoZXhrs33aa0foQsnM"
@@ -3762,6 +3922,24 @@
       "duration_ms": 352727,
       "name": "The Personality",
       "url": "https://open.spotify.com/track/6VhHlgGyMJKLq9bwgLsjos"
+    },
+    {
+      "album": {
+        "name": "Blaque Katt - EP",
+        "url": "https://open.spotify.com/album/5u1liL4XlRb2RlPqtZKHDR"
+      },
+      "artists": [
+        {
+          "name": "Jovonn",
+          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387541,
+      "name": "The Piano Fix",
+      "url": "https://open.spotify.com/track/55nywSOIMylX4RHrsK5yPf"
     },
     {
       "album": {
@@ -4371,6 +4549,28 @@
     },
     {
       "album": {
+        "name": "Grand House EP",
+        "url": "https://open.spotify.com/album/2IyofV1Mealm8xxDyaay2d"
+      },
+      "artists": [
+        {
+          "name": "St. David",
+          "url": "https://open.spotify.com/artist/1t0FcS0U41EGNcCsMdkpXL"
+        },
+        {
+          "name": "Nu-Cleo",
+          "url": "https://open.spotify.com/artist/1OTbLrbY75v0D5AbIe0fJa"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400000,
+      "name": "Wet Dreams - Nu-Cleo Space Funk Remix",
+      "url": "https://open.spotify.com/track/5ojM4o4QbKi53jIWmzsVXt"
+    },
+    {
+      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/56tNvvH9GzTsPRhNuriPK0"
       },
@@ -4382,7 +4582,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 226046,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/2UXF6Sz2y6cYk1tF5f1X7U"

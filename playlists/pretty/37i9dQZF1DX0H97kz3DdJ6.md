@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 
 > as mais tristes do brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,107 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,112 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 4 | [Agora é Tarde](https://open.spotify.com/track/0yMBhmJB5Xkg3Q7rUhDigH) | [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Agora é Tarde](https://open.spotify.com/album/7HooGsyTkKvIp4nBQtenda) | 3:03 |
 | 5 | [Eu Tô Bem](https://open.spotify.com/track/5HR0ti4siqbTIr1BitbZ7d) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Eu Tô Bem](https://open.spotify.com/album/4uoVTixtQcytRqPUZ0qBKE) | 2:14 |
 | 6 | [Eu Sou um Fracasso](https://open.spotify.com/track/58hVOSkdd1jY6oVGcGkC60) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Eu Sou um Fracasso](https://open.spotify.com/album/3TFbaz1pFem6T3IdceMRRZ) | 2:31 |
-| 7 | [Nunca foi descaso \(feat\. Gab Ferreira\) \- Ao Vivo](https://open.spotify.com/track/5cdwRfJldwrKv6mrHvCR1r) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Papel de Carta \(Ao Vivo\)](https://open.spotify.com/album/6jOWkYdTXWt9p2nDzYLnFr) | 3:44 |
+| 7 | [Nunca foi descaso \(feat\. Gab Ferreira\) \(Ao Vivo\)](https://open.spotify.com/track/12Hk8aMqioAJfrZdU8M7a7) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Papel de Carta \(Ao Vivo\)](https://open.spotify.com/album/5MoQy12ZykKYRc1kNCaKPG) | 3:44 |
 | 8 | [Pesadelo](https://open.spotify.com/track/2ixbPjCUhkNIQeT61ipuOY) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Pesadelo](https://open.spotify.com/album/2Zyy3SOLa8fX0bublLyqCs) | 2:57 |
 | 9 | [Cinza e Preto](https://open.spotify.com/track/4mJ4xwuj2fC03WT32ET8O5) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Cinza e Preto](https://open.spotify.com/album/3pI5nKUspP8UIsc8rY0a9K) | 2:36 |
 | 10 | [Desabafo 2](https://open.spotify.com/track/6agB0DPOP79ZbxM9lhpKHR) | [Ken Dantas](https://open.spotify.com/artist/4GU4JgybQ0iFu3yIKGQ16b), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Desabafo 2](https://open.spotify.com/album/5tBe1WDz57CY9YMLC7FSnB) | 2:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 79 | [Que não te falte amor](https://open.spotify.com/track/4e8mbXLx3DRgLbTafPpNat) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Que não te falte amor](https://open.spotify.com/album/70YMa2rpfCE4LQ1Q7clQws) | 2:43 |
 | 80 | [Por Nós Dois](https://open.spotify.com/track/0vAa3jsBGC9u2orV5rJjxG) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Por Nós Dois](https://open.spotify.com/album/7FGoFdKxKxFjk4cYwY1bpL) | 2:58 |
 
-Snapshot ID: `MCxhYzMxNTZmMjMwZjc1YWQ3N2UxZGRjOWNkYWM2MTk3M2M3MGJiNDcz`
+Snapshot ID: `MCxmYjY5MGQzMWY0Nzg2NWI5MjliMDQxOTdhYTQzOGViZTg2ZmJkNTQx`

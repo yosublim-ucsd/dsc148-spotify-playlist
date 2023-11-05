@@ -1,12 +1,12 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Ala Vaikunthapurramuloo",
-  "num_followers": 304178,
+  "num_followers": 304409,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzBlOTc5YTFlMDcxY2I4ZDlkM2Y2YWNjNDUyZDExMGFlZjFhMTIy",
+  "snapshot_id": "MCw4NGIwYWQ0MjMzYjliOTA1OTc5NzViODQ4MmZmYzJkMmU3ZTk0M2U5",
   "tracks": [
     {
       "added_at": "2022-07-24 04:40:57",
@@ -405,26 +405,6 @@
       "url": "https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG"
     },
     {
-      "added_at": "2023-03-16 06:15:29",
-      "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/2g5BBeWGojbHAvFBTyAFIc"
-      },
-      "artists": [
-        {
-          "name": "S.P. Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
-        },
-        {
-          "name": "Sameera Bharadwaj",
-          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
-        }
-      ],
-      "duration_ms": 281723,
-      "name": "Enno Ratrulosthayi Remix Song",
-      "url": "https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM"
-    },
-    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "DJ",
@@ -443,6 +423,26 @@
       "duration_ms": 250680,
       "name": "Seeti Maar",
       "url": "https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS"
+    },
+    {
+      "added_at": "2023-03-16 06:15:29",
+      "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/2g5BBeWGojbHAvFBTyAFIc"
+      },
+      "artists": [
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+        }
+      ],
+      "duration_ms": 281723,
+      "name": "Enno Ratrulosthayi Remix Song",
+      "url": "https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -737,6 +737,22 @@
       "url": "https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS"
     },
     {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Jathi Ratnalu",
+        "url": "https://open.spotify.com/album/2EVWg8KlmiHE5tcjHxRzwA"
+      },
+      "artists": [
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        }
+      ],
+      "duration_ms": 184128,
+      "name": "Chitti",
+      "url": "https://open.spotify.com/track/6PQpG2HlVxuR6GwwWQX7XM"
+    },
+    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Race Gurram",
@@ -771,22 +787,6 @@
       "duration_ms": 364375,
       "name": "Life Of Ram",
       "url": "https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Jathi Ratnalu",
-        "url": "https://open.spotify.com/album/2EVWg8KlmiHE5tcjHxRzwA"
-      },
-      "artists": [
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        }
-      ],
-      "duration_ms": 184128,
-      "name": "Chitti",
-      "url": "https://open.spotify.com/track/6PQpG2HlVxuR6GwwWQX7XM"
     },
     {
       "added_at": "2023-01-11 20:52:12",
@@ -989,6 +989,42 @@
       "url": "https://open.spotify.com/track/2IbRKQwgiyvXY1yVq8GuA3"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Baahubali - The Beginning",
+        "url": "https://open.spotify.com/album/62FLwY6ofjIoyfTB4aY8Qo"
+      },
+      "artists": [
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "Deepu",
+          "url": "https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb"
+        }
+      ],
+      "duration_ms": 325891,
+      "name": "Dhivara",
+      "url": "https://open.spotify.com/track/0hFZn71Eyc8ajuQ2ax6bZW"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Care Of Kancharapalem",
+        "url": "https://open.spotify.com/album/6oD7OKpTjFwqh7RsgUE38p"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Asha Pasham",
+      "url": "https://open.spotify.com/track/1lrgvbZzsjatMee0Uk8o0P"
+    },
+    {
       "added_at": "2022-08-16 07:40:21",
       "album": {
         "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
@@ -1007,6 +1043,58 @@
       "duration_ms": 218808,
       "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
       "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Rangasthalam",
+        "url": "https://open.spotify.com/album/5XPaQZJdvu6IDQgf1zzmhP"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "duration_ms": 262122,
+      "name": "Yentha Sakkagunnave",
+      "url": "https://open.spotify.com/track/6nhLm8GEkkH9kunfqdAFcO"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Sarrainodu",
+        "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "duration_ms": 254399,
+      "name": "Athiloka Sundari",
+      "url": "https://open.spotify.com/track/7agbQBEJYIaKJ8lGVdq1bv"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "George Reddy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1036,85 +1124,17 @@
       },
       "artists": [
         {
-          "name": "Ramya Behara",
-          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+          "name": "Mohana Bhogaraju",
+          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
         },
         {
-          "name": "Deepu",
-          "url": "https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb"
+          "name": "L. V. Revanth",
+          "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
         }
       ],
-      "duration_ms": 325891,
-      "name": "Dhivara",
-      "url": "https://open.spotify.com/track/0hFZn71Eyc8ajuQ2ax6bZW"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Rangasthalam",
-        "url": "https://open.spotify.com/album/5XPaQZJdvu6IDQgf1zzmhP"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        }
-      ],
-      "duration_ms": 262122,
-      "name": "Yentha Sakkagunnave",
-      "url": "https://open.spotify.com/track/6nhLm8GEkkH9kunfqdAFcO"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "George Reddy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT"
-      },
-      "artists": [
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Bullet",
-      "url": "https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Sarrainodu",
-        "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
-      },
-      "artists": [
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        }
-      ],
-      "duration_ms": 254399,
-      "name": "Athiloka Sundari",
-      "url": "https://open.spotify.com/track/7agbQBEJYIaKJ8lGVdq1bv"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Care Of Kancharapalem",
-        "url": "https://open.spotify.com/album/6oD7OKpTjFwqh7RsgUE38p"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Asha Pasham",
-      "url": "https://open.spotify.com/track/1lrgvbZzsjatMee0Uk8o0P"
+      "duration_ms": 214517,
+      "name": "Manohari",
+      "url": "https://open.spotify.com/track/68rSALJuiiiJSOgL7DXdNg"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1135,26 +1155,6 @@
       "duration_ms": 193179,
       "name": "Pareshanura",
       "url": "https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Baahubali - The Beginning",
-        "url": "https://open.spotify.com/album/62FLwY6ofjIoyfTB4aY8Qo"
-      },
-      "artists": [
-        {
-          "name": "Mohana Bhogaraju",
-          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
-        },
-        {
-          "name": "L. V. Revanth",
-          "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
-        }
-      ],
-      "duration_ms": 214517,
-      "name": "Manohari",
-      "url": "https://open.spotify.com/track/68rSALJuiiiJSOgL7DXdNg"
     },
     {
       "added_at": "2023-08-07 09:11:28",

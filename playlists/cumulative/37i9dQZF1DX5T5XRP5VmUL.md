@@ -4,7 +4,7 @@
 
 > Dreaming of a white Christmas ✨❄️
 
-324 songs - 17 hr 44 min
+325 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2023-10-13 |  |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2023-10-13 |  |
 | [Like It's Christmas](https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Like It's Christmas](https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu) | 3:20 | 2023-10-13 |  |
-| [Little Drummer Boy](https://open.spotify.com/track/0GtaQ9DJkI7KEvRQCG6aqK) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Little Drummer Boy](https://open.spotify.com/album/1Qbu7yfsgiJKDc96hHe30t) | 2:52 | 2022-12-09 |  |
+| [Little Drummer Boy](https://open.spotify.com/track/0GtaQ9DJkI7KEvRQCG6aqK) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Little Drummer Boy](https://open.spotify.com/album/1Qbu7yfsgiJKDc96hHe30t) | 2:52 | 2022-12-09 | 2023-11-05 |
 | [Little Drummer Boy](https://open.spotify.com/track/3E3QIlYJikHymLrScKCynD) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Little Drummer Boy](https://open.spotify.com/album/1PnogosIABFgWFOVRwv6Aj) | 2:50 | 2021-12-24 | 2022-12-10 |
 | [Little Road to Bethlehem](https://open.spotify.com/track/122NEAKQMTs9o19ghyz5L9) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Don Brownrigg](https://open.spotify.com/artist/3is059epfwPYtkmzokUjPW) | [Little Road to Bethlehem](https://open.spotify.com/album/0NQLT0pT4KrGEQTQbr2QnB) | 2:49 | 2021-12-24 | 2023-06-01 |
 | [Little Road to Bethlehem](https://open.spotify.com/track/61BGiilYVYNXqwx8hgHwF5) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Don Brownrigg](https://open.spotify.com/artist/3is059epfwPYtkmzokUjPW) | [Little Road to Bethlehem](https://open.spotify.com/album/7st3j23d7T5dGL3qNuhJMw) | 2:49 | 2022-12-16 | 2023-10-14 |
@@ -314,6 +314,7 @@
 | [We'll Be Alright](https://open.spotify.com/track/4AXX2fes8GOdvuCUjadbmT) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [We'll Be Alright](https://open.spotify.com/album/4MEHD7eRexeF3cpIlauzM1) | 2:14 | 2022-10-29 |  |
 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/3Mtn0qUhUg0ykT0AKFkcWr) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [What Are You Doing New Year's Eve](https://open.spotify.com/album/0A3jVFaGT9SHplxTBzTQg4) | 1:55 | 2021-12-24 | 2023-10-14 |
 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/42DRM86n9XCMFrlgZQ0MZn) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [What Are You Doing New Year's Eve](https://open.spotify.com/album/0th0Dcu3NKB3LdlCZyQfZc) | 1:55 | 2021-12-24 | 2022-07-28 |
+| [What Are You Doing New Year's Eve?](https://open.spotify.com/track/4I8k8kj0EpsdrQXLlscgpF) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [What Are You Doing New Year's Eve?](https://open.spotify.com/album/4DPj2AE6aRUjDFMMSgfw9x) | 3:53 | 2023-10-27 |  |
 | [What Child Is This](https://open.spotify.com/track/0lEEDHdUyqVQKClt7cVUcF) | [Natalie MacMaster](https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t), [Donnell Leahy](https://open.spotify.com/artist/7zFuGV4X2lsYCF2QRZOCBu) | [A Celtic Family Christmas](https://open.spotify.com/album/5VK7arkKtcMJBTJOlB34cS) | 4:14 | 2021-12-24 | 2023-09-11 |
 | [What Child Is This](https://open.spotify.com/track/3xjspY9inGDfhKv6Ksl4D5) | [Natalie MacMaster](https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t), [Donnell Leahy](https://open.spotify.com/artist/7zFuGV4X2lsYCF2QRZOCBu) | [A Celtic Family Christmas](https://open.spotify.com/album/1Y6TIxPLTw9ZMPpRU3Qpry) | 4:14 | 2021-12-24 | 2022-07-28 |
 | [What Christmas Means To Me](https://open.spotify.com/track/5MPd7GzOkGRoFBaSqmqiSL) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:43 | 2023-10-13 |  |

@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Spiritual Cramp
 
-1,951 songs - 4 day 6 hr 50 min
+1,952 songs - 4 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1194,7 +1194,8 @@
 | [Not Afraid](https://open.spotify.com/track/1f8ZnfsP7Q4yazdcfEN2XK) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Not Afraid](https://open.spotify.com/album/6x3eMbLCQXQQmYraRYTGaL) | 3:14 | 2022-09-16 | 2022-11-12 |
 | [Not Alone](https://open.spotify.com/track/3Vg9LKQkkZP7gvrL4yFy0y) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Ride Or Die](https://open.spotify.com/album/3HAOHVDqAh5CyxGVye4G15) | 2:46 | 2023-03-31 | 2023-05-13 |
 | [Not Joking](https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [You Are Who You Hang Out With](https://open.spotify.com/album/5ti35p8028PSksErKRW415) | 3:18 | 2023-08-04 | 2023-09-30 |
-| [Not The 1975](https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw) | 3:18 | 2023-07-14 |  |
+| [Not The 1975](https://open.spotify.com/track/15sze1xMQqq3nkC2fH3vbh) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975 \(Acoustic\)](https://open.spotify.com/album/56a8vWZVQQeEmh1G1SBM10) | 3:18 | 2023-11-03 |  |
+| [Not The 1975](https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw) | 3:18 | 2023-07-14 | 2023-11-05 |
 | [NOT TODAY](https://open.spotify.com/track/08cnccQSKCljeUlyZVSCK4) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [NOT TODAY](https://open.spotify.com/album/3RoUi8w1jkr5Kgf4DItl2O) | 3:22 | 2022-04-01 | 2022-04-23 |
 | [nothing \(in my head\)](https://open.spotify.com/track/4PFn8XOYbV4zlWr4Jhu7XX) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [nothing \(in my head\)](https://open.spotify.com/album/42jJ257HJG8CNZdGGpj61K) | 3:05 | 2022-06-03 | 2022-07-16 |
 | [Nothing Is Perfect](https://open.spotify.com/track/1dxbQnO42DK5ApHpOMC8n2) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Nothing Is Perfect](https://open.spotify.com/album/79Y7o27OUTAiHwTnlxf4WW) | 3:30 | 2023-08-11 | 2023-10-14 |

@@ -4326,10 +4326,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 160875,
       "name": "fango",
       "url": "https://open.spotify.com/track/3APQiPVdWB5vf93osBexcJ"
+    },
+    {
+      "album": {
+        "name": "fango",
+        "url": "https://open.spotify.com/album/1qEimeBm5etPBheuPeEQNr"
+      },
+      "artists": [
+        {
+          "name": "dolcedormire",
+          "url": "https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160875,
+      "name": "fango",
+      "url": "https://open.spotify.com/track/3EzrI1ETE0U5XnU7J9utnU"
     },
     {
       "album": {
@@ -8937,7 +8955,7 @@
         },
         {
           "name": "Polvere",
-          "url": "https://open.spotify.com/artist/3NKj5gr7FA8TAdXgH6ZS3Z"
+          "url": "https://open.spotify.com/artist/3HOEaYO2o1Na9RpkAn5bLN"
         }
       ],
       "date_added": "2023-10-19",

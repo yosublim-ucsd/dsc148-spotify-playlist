@@ -4,14 +4,15 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: COBRAH
 
-150 songs - 10 hr 3 min
+153 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2021-10-15 |  |
 | [160 DOWN THE A406](https://open.spotify.com/track/1uFinqBJvAhyupYVcrUaAl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [160 DOWN THE A406](https://open.spotify.com/album/5Wu97Q2WeXdwFk6kXmF6mS) | 6:02 | 2022-06-03 | 2023-04-01 |
 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 | 2022-07-14 |  |
-| [Amber Rush](https://open.spotify.com/track/4AqvfnUyIfQoa4hIbEPYnt) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Amber Rush](https://open.spotify.com/album/7ahTHniOH0ml5SiymYAhmW) | 6:05 | 2021-10-15 |  |
+| [Amber Rush](https://open.spotify.com/track/0OvsbQdI2xvN7HXosDtfoJ) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Amber Rush](https://open.spotify.com/album/0nAGpiOiKPhWd8rYe7JdgF) | 6:05 | 2023-10-13 |  |
+| [Amber Rush](https://open.spotify.com/track/4AqvfnUyIfQoa4hIbEPYnt) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Amber Rush](https://open.spotify.com/album/7ahTHniOH0ml5SiymYAhmW) | 6:05 | 2021-10-15 | 2023-11-05 |
 | [And Groove \- Edit](https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [And Groove](https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt) | 3:25 | 2021-10-15 | 2022-07-15 |
 | [Atom Dancer](https://open.spotify.com/track/0wrqaql3DY9v8l0a4vnbaf) | [Hannah Holland](https://open.spotify.com/artist/3paxIyAbBuTSw8RDF22vHs) | [Tectonic](https://open.spotify.com/album/2RfoaoO9okjl9V7JBmLbAx) | 5:33 | 2022-07-14 |  |
 | [Atom Dancer](https://open.spotify.com/track/5HO4wndxqatWLclazWkwTO) | [Hannah Holland](https://open.spotify.com/artist/3paxIyAbBuTSw8RDF22vHs) | [Tectonic](https://open.spotify.com/album/2j6AzsZjb6DiLSsWC12eNV) | 5:33 | 2021-10-15 | 2022-11-09 |
@@ -26,7 +27,8 @@
 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 | 2021-10-15 |  |
 | [Celestial Sodomy](https://open.spotify.com/track/1WqXDdzkMhoD4LK3xk2oV1) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Celestial Sodomy](https://open.spotify.com/album/5eKRxFeuq5nAdoJTLf8NJv) | 3:20 | 2023-06-01 |  |
 | [Chaos in the Distance](https://open.spotify.com/track/2dNYZepmpo2RrnytcoZTrW) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Chaos in the Distance](https://open.spotify.com/album/2n9l0wW4X2UI1jWyipbkxF) | 6:12 | 2021-10-15 | 2022-06-04 |
-| [Cherubim](https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/3WlyBAG8AbL6E9C09KGU4w) | 3:22 | 2023-03-31 |  |
+| [Cherubim](https://open.spotify.com/track/0s3n92u9jI25xG2scjiD2e) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/7FjnK5gYOz1qRsAuDlGuqc) | 3:22 | 2023-10-13 |  |
+| [Cherubim](https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/3WlyBAG8AbL6E9C09KGU4w) | 3:22 | 2023-03-31 | 2023-11-05 |
 | [Clothes](https://open.spotify.com/track/1eyKaSc7PXJ9s0rKrMiNsX) | [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Start](https://open.spotify.com/album/7vzgWg4SKPLQaoQZh9B8ur) | 2:23 | 2023-06-20 | 2023-06-24 |
 | [Cocky](https://open.spotify.com/track/108H1bXtmIVHFkh2geKFt9) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/6n9US7BwG1k1A9AEX6DFie) | 4:50 | 2022-07-14 | 2023-04-30 |
 | [Cocky](https://open.spotify.com/track/3UwPb3pdpSN0cUxl4XGpO2) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/1G9wCQ0maje1EMpManZZ6M) | 4:50 | 2023-03-31 |  |
@@ -100,7 +102,8 @@
 | [LSDXOXO\_TRUTH OR DARE\_123 BPM](https://open.spotify.com/track/0pO8YwXGjixwYbEEaifaCL) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [TAKE ME A\_PART, THE REMIXES](https://open.spotify.com/album/5S5ZRw92uGjaWUlIDPIlPY) | 4:53 | 2023-06-20 | 2023-06-24 |
 | [Make U Stay](https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Make U Stay](https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL) | 3:20 | 2021-10-15 |  |
 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 | 2023-06-01 |  |
-| [Marlene](https://open.spotify.com/track/6baJdLkGaQ0T6Srg7B4ONS) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Marlene](https://open.spotify.com/album/6mBSueYh7UzUMr6XmEJ9OI) | 6:38 | 2021-10-15 |  |
+| [Marlene](https://open.spotify.com/track/6baJdLkGaQ0T6Srg7B4ONS) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Marlene](https://open.spotify.com/album/6mBSueYh7UzUMr6XmEJ9OI) | 6:38 | 2021-10-15 | 2023-11-05 |
+| [Marlene](https://open.spotify.com/track/79oTqgo2EgUkLQ5IYwTteW) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Marlene](https://open.spotify.com/album/5PylsVfO7Ykw9izPDqmdtr) | 6:38 | 2023-10-13 |  |
 | [Mañana](https://open.spotify.com/track/2un8Lsq9ngtBRa2HlGuPXE) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp) | [Mañana](https://open.spotify.com/album/5jkUwcsa1zE8AsAloYnfqA) | 3:46 | 2022-06-03 | 2023-04-01 |
 | [Murphy's Law \- Edit](https://open.spotify.com/track/7FRP87A2Bft7zMhFlI7j1n) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Murphy's Law](https://open.spotify.com/album/6H3LwHbVTu3wuabrTfDKCC) | 3:50 | 2021-10-15 | 2023-04-01 |
 | [Music Saved My Life](https://open.spotify.com/track/2XPixA82xnIiju7E0bgt4e) | [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo), [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor) | [Music Saved My Life](https://open.spotify.com/album/5MZqeTw9XvDNq8TgYq0AsO) | 3:44 | 2021-10-15 | 2023-04-01 |

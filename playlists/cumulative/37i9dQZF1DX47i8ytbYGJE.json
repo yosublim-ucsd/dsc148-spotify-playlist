@@ -4520,7 +4520,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 149584,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
@@ -4545,6 +4545,24 @@
     },
     {
       "album": {
+        "name": "Sun Records Originals: Flyin' Saucers Rock & Roll",
+        "url": "https://open.spotify.com/album/0bj7M9oajGqNlBM7H3CHIS"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149705,
+      "name": "Red Hot - Remastered 2022",
+      "url": "https://open.spotify.com/track/4xDt9STUARW0vyDbPCI9Yi"
+    },
+    {
+      "album": {
         "name": "The Sun Records Sound of Ray Smith (20 Rock 'n' Roll Classics)",
         "url": "https://open.spotify.com/album/70hhNeGlnCF5weOwOru5XK"
       },
@@ -4556,7 +4574,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 142615,
       "name": "Right Behind You Baby",
       "url": "https://open.spotify.com/track/1eI9gpxLg80Om4pirkr9oe"
@@ -4596,6 +4614,24 @@
       "duration_ms": 145093,
       "name": "Right Behind You Baby",
       "url": "https://open.spotify.com/track/7Loo3VIH2SYjFgpmdlUsG5"
+    },
+    {
+      "album": {
+        "name": "Sun Records Originals: Right Behind You Baby",
+        "url": "https://open.spotify.com/album/5vBRMV7CaTysZJHpMxLALv"
+      },
+      "artists": [
+        {
+          "name": "Ray Smith",
+          "url": "https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145093,
+      "name": "Right Behind You Baby - Remastered 2022",
+      "url": "https://open.spotify.com/track/4jk2DZ3AauTMTnjwnRPupc"
     },
     {
       "album": {

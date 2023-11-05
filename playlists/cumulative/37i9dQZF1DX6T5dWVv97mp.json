@@ -540,6 +540,24 @@
     {
       "album": {
         "name": "The Next Billion Years",
+        "url": "https://open.spotify.com/album/5Sf5A2qKMzaYJ8uCEX7hkx"
+      },
+      "artists": [
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281975,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/3LROkYNc2KxPqRhzHEWGke"
+    },
+    {
+      "album": {
+        "name": "The Next Billion Years",
         "url": "https://open.spotify.com/album/767oRJMFPLQLs4iALYepfp"
       },
       "artists": [
@@ -558,7 +576,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 281975,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/5BkUfb3kfquUlkHFQevUhn"

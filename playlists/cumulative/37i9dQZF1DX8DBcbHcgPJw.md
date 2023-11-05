@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Agapornis.
 
-425 songs - 21 hr 16 min
+426 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 | 2021-12-23 |  |
 | [Si Nos Vamos Ahora](https://open.spotify.com/track/5iq0EYWdPy832UAdvLO78h) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2), [RYH](https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R) | [Si Nos Vamos Ahora](https://open.spotify.com/album/72kD2RhgcaQxpHUmeEB7e6) | 2:17 | 2023-06-30 | 2023-08-30 |
 | [Si Te Vuelvo a Ver](https://open.spotify.com/track/60SCplQppNz0tJIIxf52EH) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [Mawi](https://open.spotify.com/artist/2oPc9LzQ7NP9DIqY70jubf) | [Si Te Vuelvo a Ver](https://open.spotify.com/album/5QkeaHYbkt3PcyvCiPzu3o) | 2:27 | 2022-05-06 | 2022-06-19 |
-| [Si Tu Supieras](https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si Tu Supieras](https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv) | 3:02 | 2021-12-23 |  |
+| [Si Tu Supieras](https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si Tu Supieras](https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv) | 3:02 | 2021-12-23 | 2023-11-05 |
 | [Sigue Bailando](https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Sigue Bailando](https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS) | 2:39 | 2021-12-23 | 2023-07-01 |
 | [Simplemente Amigos / Eclipse Total](https://open.spotify.com/track/09O1Ve5IytaVPzPGZlDe54) | [Damian Perez](https://open.spotify.com/artist/3mrlxgWaEt5MNjAoAq6IRy) | [Simplemente Amigos / Eclipse Total](https://open.spotify.com/album/1UYhKpS4A9rKS74h6ht9ug) | 3:24 | 2022-07-29 | 2022-08-07 |
 | [Sin Respuestas](https://open.spotify.com/track/3INVByGTLMiv8p3Jax1w98) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Sin Respuestas](https://open.spotify.com/album/4xvUV9yLopopHIJT9x70ig) | 2:49 | 2022-01-07 | 2022-06-08 |
@@ -418,6 +418,7 @@
 | [X un Chisme](https://open.spotify.com/track/3b7vIFw6HDe5p3t1HlVSt9) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [x Un Chisme](https://open.spotify.com/album/73Dovg8LWUxLWwS45Lj4lV) | 2:17 | 2023-09-01 | 2023-09-30 |
 | [Ya Fue](https://open.spotify.com/track/5oK9DaQ93OfKwGoTBEv87l) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La T](https://open.spotify.com/artist/3VeRIwuCVkaBUT9DOjvj3A), [la M](https://open.spotify.com/artist/1Eu8sMSmWx1RQI5lDra6M5) | [Ya Fue](https://open.spotify.com/album/08qxaTG7kPlbBEzz8BCBrz) | 3:13 | 2022-02-18 | 2022-07-29 |
 | [Ya Fue](https://open.spotify.com/track/4cOtPoRkhDVxmr1gaB0hDi) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Ya Fue](https://open.spotify.com/album/7j5vECyVgTxKOAaEtSUYAl) | 3:13 | 2022-07-22 | 2023-10-29 |
+| [Ya Fue](https://open.spotify.com/track/61mCcE6UJZyxKESDCPvrim) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Ya Fue](https://open.spotify.com/album/7HP4D9IXODFyFuJcOfJmDa) | 3:13 | 2023-10-27 |  |
 | [Ya Fue](https://open.spotify.com/track/5KcHM0MeRD80BSrsv7Ofas) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ) | [Ya Fue](https://open.spotify.com/album/7MDpxFAQsap0rcim87rxFg) | 2:06 | 2022-08-19 | 2022-08-23 |
 | [Ya No Llora](https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Ya No Llora](https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS) | 2:00 | 2021-12-23 |  |
 | [Ya No Me Busques Mas](https://open.spotify.com/track/35dWddcU7c8iyXqthtCabc) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Ya No Me Busques Mas](https://open.spotify.com/album/7oHtJXroOD0BzogndSZsYS) | 3:25 | 2022-01-03 | 2022-07-15 |

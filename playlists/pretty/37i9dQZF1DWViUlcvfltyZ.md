@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia\. Cover: Ibisco
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,589 likes - 65 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,611 likes - 65 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 48 | [FRANA](https://open.spotify.com/track/2iFvodhPAWaBcNGtk1rx7I) | [La Gabbia](https://open.spotify.com/artist/1VSD5ZQWKR9HeF3e2xCBiy) | [FRANA](https://open.spotify.com/album/6RtWwQlA3NYmZ7nUwIZWcI) | 3:00 |
 | 49 | [Satelliti](https://open.spotify.com/track/0mHgGcaO1VBp50XuTB1Avl) | [Gli Occhi Degli Altri](https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ) | [Scartaggi](https://open.spotify.com/album/06BUg0CBtQcPvXmAA8Uwx1) | 3:12 |
 | 50 | [orso](https://open.spotify.com/track/73AtLu6D34F9MBD7gDEnb7) | [SANTATERESA](https://open.spotify.com/artist/2PTv9Z4F73QVUNS8IWJGDz) | [orso](https://open.spotify.com/album/7ii0v1oYLS4CmGzNOcQR62) | 3:30 |
-| 51 | [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/track/63CV2MUMGNraD6LbmDk3aU) | [Alfonso Cheng](https://open.spotify.com/artist/67Ei8mhmeEmM3KAl4PX1hz), [Visconti](https://open.spotify.com/artist/5UZR9WTGdqLZHX8nRed9WL) | [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/album/6TqZM3iOYB1USiWyxvd17i) | 3:11 |
+| 51 | [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/track/63CV2MUMGNraD6LbmDk3aU) | [Alfonso Cheng](https://open.spotify.com/artist/67Ei8mhmeEmM3KAl4PX1hz), [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/album/6TqZM3iOYB1USiWyxvd17i) | 3:11 |
 | 52 | [Giro Classico](https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Giro Classico](https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3) | 3:24 |
 | 53 | [MANTRA](https://open.spotify.com/track/5OeXR8t6XNBJHabaybzknU) | [Isoladellerose](https://open.spotify.com/artist/0kLYaTmvi8RPAmOEgS2oRb) | [MANTRA](https://open.spotify.com/album/7LaUP7iIURuc6QPGSOPY2B) | 2:24 |
 | 54 | [C'est magique](https://open.spotify.com/track/7oynHAPhWJiIpRtyDQVLa2) | [\(+39\) 375\-649\-94\-64 My Telephone Number](https://open.spotify.com/artist/00xSgiKwSnRaE9zYqlRCoH) | [DEMO \#01](https://open.spotify.com/album/52hUlx8W1cnwA4G79nazsF) | 2:12 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 64 | [Acqua Bagnami](https://open.spotify.com/track/2cCxcIcuIRMRLEvDUrdHjN) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Acqua Bagnami](https://open.spotify.com/album/4BJj638K8ZAasjQw8YDEV5) | 5:08 |
 | 65 | [Medioriente](https://open.spotify.com/track/1DRTAkWNgNyjUknJ5zcXQE) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Medioriente / Miku五](https://open.spotify.com/album/2f31VolieJe7o0J9m1en3I) | 6:21 |
 
-Snapshot ID: `MCwzMGJlNmRhMzY1YzExNzBjNTU3OTc4ZmEzMGMyM2E0ZWQ0Zjc2MmM5`
+Snapshot ID: `MCw2MjNhNDE0MWRjZWVlNWQxMTRiNjYwN2JiYzA3ZWJkNDcwM2M3OGRl`

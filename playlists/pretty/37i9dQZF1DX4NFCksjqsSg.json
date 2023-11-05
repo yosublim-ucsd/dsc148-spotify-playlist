@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 27719,
+  "num_followers": 27733,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGFmZTY3MGRmNjdiZmU0NWM2ODc0YTVlNDU4YmQwNjkzMWUyNTdk",
+  "snapshot_id": "MCxlODYwYTAzY2MwNjJkMTNhOTcyZjU4N2FhMDA0YmYwY2NjNWY5MGY5",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -319,6 +319,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Fais comme l'oiseau",
+        "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "Une belle histoire",
+      "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Lapointe 1994-2006 N'importe qui",
         "url": "https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 242466,
       "name": "C'est z\u00e9ro",
       "url": "https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Fruit de ma r\u00e9cente nuit blanche",
-        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
-      },
-      "artists": [
-        {
-          "name": "Dany B\u00e9dar",
-          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Faire la paix avec l'amour",
-      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -399,6 +399,22 @@
       "duration_ms": 256760,
       "name": "Les yeux du coeur",
       "url": "https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Fruit de ma r\u00e9cente nuit blanche",
+        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
+      },
+      "artists": [
+        {
+          "name": "Dany B\u00e9dar",
+          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "Faire la paix avec l'amour",
+      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -515,22 +531,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Une femme avec toi - Single",
-        "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
-      },
-      "artists": [
-        {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "Une femme avec toi",
-      "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "1\u00e8re p\u00e9riode",
         "url": "https://open.spotify.com/album/7AukTabhSosvxYl4LvG62v"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 213293,
       "name": "Soirs de Scotch",
       "url": "https://open.spotify.com/track/38PausDDlmKd6jwriKyiyF"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Une femme avec toi - Single",
+        "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
+      },
+      "artists": [
+        {
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "Une femme avec toi",
+      "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -595,38 +611,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Je l'ai jamais dit \u00e0 personne",
-        "url": "https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Drapeau",
-          "url": "https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5"
-        }
-      ],
-      "duration_ms": 202848,
-      "name": "Je l'ai jamais dit \u00e0 personne",
-      "url": "https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Fais comme l'oiseau",
-        "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
-      },
-      "artists": [
-        {
-          "name": "Michel Fugain & Le Big Bazar",
-          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "Une belle histoire",
-      "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Aime-moi",
         "url": "https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 250973,
       "name": "Aime moi",
       "url": "https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Je l'ai jamais dit \u00e0 personne",
+        "url": "https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Drapeau",
+          "url": "https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5"
+        }
+      ],
+      "duration_ms": 202848,
+      "name": "Je l'ai jamais dit \u00e0 personne",
+      "url": "https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Si ce soir, Vol. 2",
-        "url": "https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 273973,
-      "name": "Qui a le droit... - Live \"Si ce soir\"",
-      "url": "https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Mes succ\u00e8s francophones 1",
         "url": "https://open.spotify.com/album/3UvMunvcUi84AkywMx0htO"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 319840,
       "name": "Je voudrais voir la mer",
       "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Si ce soir, Vol. 2",
+        "url": "https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 273973,
+      "name": "Qui a le droit... - Live \"Si ce soir\"",
+      "url": "https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Victoire (Radio Edit)",
-        "url": "https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6"
-      },
-      "artists": [
-        {
-          "name": "Shy'm",
-          "url": "https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B"
-        }
-      ],
-      "duration_ms": 196479,
-      "name": "Victoire - Radio Edit",
-      "url": "https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Volume un",
         "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 204493,
       "name": "Je reviendrai \u00e0 montr\u00e9al",
       "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Victoire (Radio Edit)",
+        "url": "https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6"
+      },
+      "artists": [
+        {
+          "name": "Shy'm",
+          "url": "https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B"
+        }
+      ],
+      "duration_ms": 196479,
+      "name": "Victoire - Radio Edit",
+      "url": "https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x"
     },
     {
       "added_at": "2020-04-07 15:18:18",

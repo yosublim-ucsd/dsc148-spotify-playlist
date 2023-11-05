@@ -6260,6 +6260,28 @@
     {
       "album": {
         "name": "Never B Mine",
+        "url": "https://open.spotify.com/album/6KO7OcN055J59wWSS3kZTO"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Kioto Bug",
+          "url": "https://open.spotify.com/artist/0i99tSK0Uhaagw5Y85epY3"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209655,
+      "name": "Never B Mine",
+      "url": "https://open.spotify.com/track/0bp1n629hFdAlF6CMl4WnD"
+    },
+    {
+      "album": {
+        "name": "Never B Mine",
         "url": "https://open.spotify.com/album/090uN4F14IQk0IRqzmnDAg"
       },
       "artists": [
@@ -6274,7 +6296,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 209655,
       "name": "Never B Mine",
       "url": "https://open.spotify.com/track/17NH8SZGxFPpfEEAoeo7eY"

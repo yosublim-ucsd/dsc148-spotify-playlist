@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,689 likes - 70 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,790 likes - 70 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 26 | [Retroworld](https://open.spotify.com/track/1ZXG5VB314386cqUk2MIru) | [Humantronic](https://open.spotify.com/artist/76hRRAuRxt9Ic0ljjHHoLQ) | [Retroworld EP](https://open.spotify.com/album/5UHJ8nskMFmTyCxVhwJEu9) | 5:55 |
 | 27 | [Time Of My Life \- Cherry \(UA\) Remix](https://open.spotify.com/track/6nCa2xyV6szWUq2mXi7gV2) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Cherry \(UA\)](https://open.spotify.com/artist/6xuIqCB0qedzXRYmj7fsGq) | [Time Of My Life \(Edit\) + Remixes](https://open.spotify.com/album/17NQzoUsxozpA9q0f45sVa) | 6:18 |
 | 28 | [I Don't Care \- Loft 15 A Mix](https://open.spotify.com/track/7zaZlHay4Odn9bqxQLgB9E) | [Triance](https://open.spotify.com/artist/0a4StSqrogGXGdYzV3GMRy) | [I Don't Care](https://open.spotify.com/album/2WaaeCOR2loQSDsTHjkd0t) | 5:48 |
-| 29 | [Apache \- Nusha Remix](https://open.spotify.com/track/5CHtVqIbKlNFHvrHEUNwaj) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Apache \(Nusha Remix\)](https://open.spotify.com/album/0QzWgGeyFEcy2gWFzZykDQ) | 6:06 |
+| 29 | [Apache \- Nusha Remix](https://open.spotify.com/track/3nx53u9SFSgFdxChE8nMrj) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Apache \(Nusha Remix\)](https://open.spotify.com/album/4RVzlhV7VQgp8hWO48lQMg) | 6:06 |
 | 30 | [Time Of My Life \- Edit](https://open.spotify.com/track/1fuOLh6glZaxNvDxU6vXp4) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Time Of My Life \(Edit\) + Remixes](https://open.spotify.com/album/17NQzoUsxozpA9q0f45sVa) | 3:54 |
 | 31 | [Red Wedding](https://open.spotify.com/track/6WO56O5QJgoSwDwOTsbIM9) | [SOURCE+RUMITZ](https://open.spotify.com/artist/07naaE7QfabZrVoPqsa0Lh) | [Red Wedding](https://open.spotify.com/album/2iyr07RGqSkTHIT5BI0Rvq) | 8:46 |
 | 32 | [Hangxiety](https://open.spotify.com/track/28f17VAedyfqKIx1MShnnG) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX), [Drea Perlon](https://open.spotify.com/artist/66z8ifbUF6uMEg6X44vXbw) | [Sound of Tomorrow](https://open.spotify.com/album/5xAXfZAzNCZVLXwciE2PtG) | 6:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 69 | [Dominator \- Rebūke Remix](https://open.spotify.com/track/6cKvyvg3sMnyZZsi8tgXMP) | [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dominator \(Rebūke Remix\)](https://open.spotify.com/album/7n6n1dLOtrxPa3HV29b1Vr) | 3:59 |
 | 70 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/1afHl4iHfqeQ5U0vnWYRCh) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The House Of House](https://open.spotify.com/album/6wz1BxyLMqtnziouqFnFtp) | 7:35 |
 
-Snapshot ID: `MCxjM2IyMTZlN2NiNDI5YTlmZDQxY2ExZDg4YmRkYmM5NzQ5MzdlYmZj`
+Snapshot ID: `MCw4NzY0ZjhhMGQzNDg3NTAwZTM3MTlmMzJiMWU4OGFmZjllMTk3ZTUz`

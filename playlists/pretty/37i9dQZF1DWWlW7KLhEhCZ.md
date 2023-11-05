@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Gaab, Mc Davi, Rodriguinho, Vulgo FK
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,441 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,457 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Conteúdo Exclusivo \(feat\. Pedro Lotto & Wey\)](https://open.spotify.com/track/2ECwRI68IyCh5La41hCw59) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Último Romântico Online](https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4) | 3:48 |
 | 75 | [Triptamina](https://open.spotify.com/track/0X8Hlp5uBjxnKHchFD8W6A) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h) | [Triptamina](https://open.spotify.com/album/3vrmD0UDdhvUuwV5N3foZi) | 2:55 |
 
-Snapshot ID: `MCw2N2VlODE2MzUwNTViMDE4YWNjNzFiZDczMDZhN2I3MDFhZWViODVh`
+Snapshot ID: `MCxmNTBiYmVhMDAyYzY2MjFlNDhlYjUyZDM0OTQwYWYxNThjNWUzNGQ3`

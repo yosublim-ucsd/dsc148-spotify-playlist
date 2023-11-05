@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-169 songs - 10 hr 30 min
+170 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Chor Bazari \(From "Love Aaj Kal "\)](https://open.spotify.com/track/6XE0MxTJdLWEePTCqAw5xr) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Love Aaj Kal](https://open.spotify.com/album/4u7WFjehsC5sUibLEOaqLf) | 4:17 | 2022-03-09 | 2023-03-16 |
 | [Coffee Ke Bahane](https://open.spotify.com/track/16OpfF6l2Q4yNm0saq2gBN) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [KavyaKriti](https://open.spotify.com/artist/1DHwrcQWDQhgbRg4BE9rgr) | [Coffee Ke Bahane](https://open.spotify.com/album/4GaUOWLIyCS4jn3mz4DU77) | 2:58 | 2023-08-30 | 2023-09-13 |
 | [Daaru Desi](https://open.spotify.com/track/0Ix6UEASd81AgtpqI39P5I) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Cocktail](https://open.spotify.com/album/5iLKGxWb2JqrgJqbcVkroS) | 4:29 | 2023-08-08 | 2023-10-28 |
-| [Daaru Desi \(From "Cocktail"\)](https://open.spotify.com/track/1R7ChEm1x3mGhDWXKnPSXn) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 4:29 | 2023-03-15 |  |
+| [Daaru Desi](https://open.spotify.com/track/5pAo2q7eVt65OSkwYgqhHl) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1y5h6GBXEgFjBDHThikj1w) | 4:29 | 2023-10-27 |  |
+| [Daaru Desi \(From "Cocktail"\)](https://open.spotify.com/track/1R7ChEm1x3mGhDWXKnPSXn) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 4:29 | 2023-03-15 | 2023-11-05 |
 | [Daayein Baayein](https://open.spotify.com/track/2f7Rmr904CGu8HRLfakm0Y) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM) | [Daayein Baayein \- Single](https://open.spotify.com/album/6LeVMwAkOPwOsphWbMMcLa) | 3:34 | 2023-02-13 | 2023-03-16 |
 | [Daayein Baayein](https://open.spotify.com/track/1wRU4dzyc2MkfJpQHJvyr3) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Daayein Baayein](https://open.spotify.com/album/1eokFcXKZQYKosrnKrJvyG) | 3:34 | 2023-02-13 | 2023-02-16 |
 | [Deewani](https://open.spotify.com/track/1pDvtLmrjzr5FSQItRLWxA) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Deewani](https://open.spotify.com/album/4gRgJLrR888KFtXndMZwox) | 2:54 | 2023-06-13 | 2023-09-29 |

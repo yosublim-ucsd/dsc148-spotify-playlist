@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Jason Aldean, Cody Johnson, Tyler Hubbard and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,724 likes - 81 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,051 likes - 81 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 15 | [I Got A Problem \(Full Length\)](https://open.spotify.com/track/63qGjVZEfHTUg3xesfx9Mp) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [I Got A Problem \(Full Length\)](https://open.spotify.com/album/6MqpZxRf0i3LXgyoEm3pOu) | 3:01 |
 | 16 | [Low Hangin' Fruit](https://open.spotify.com/track/5lpA8XtttBrwaGkzRxHWTn) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Weyerhaeuser Land / Low Hangin' Fruit](https://open.spotify.com/album/1w2YgLipGdCDkCsvUrRI3h) | 3:38 |
 | 17 | [Stuck In My Ways](https://open.spotify.com/track/52rfjtOfpGPQm0xuq0slE5) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: The Heartbreak](https://open.spotify.com/album/4mhjnMYRVvFA1YwSWOMdMA) | 2:55 |
-| 18 | [Room Full of Strangers](https://open.spotify.com/track/1RbwxDHGvVvIzPkkUGHVYE) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [Room Full of Strangers](https://open.spotify.com/album/4SQRlMopPqVfETQ3cXXEKc) | 3:31 |
+| 18 | [Room Full of Strangers](https://open.spotify.com/track/1RbwxDHGvVvIzPkkUGHVYE) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [Room Full of Strangers](https://open.spotify.com/album/4SQRlMopPqVfETQ3cXXEKc) | 3:32 |
 | 19 | [Take Me Home, Country Roads](https://open.spotify.com/track/2h5LAoOPMnDhQQkUuOFUGf) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Take Me Home, Country Roads](https://open.spotify.com/album/4PJxSZQAoTaPW8Rcnp9gN5) | 3:03 |
 | 20 | [Oil and Cattle](https://open.spotify.com/track/6a0nzVthBw7jP8KgIUMdSO) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [George Canyon](https://open.spotify.com/artist/5wGox9x2iVERIeTJIQnFeL), [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs), [Brad Johner](https://open.spotify.com/artist/5b5AFlyH7nbIJ2mfkeGmTm) | [The Compass Project \- West Album](https://open.spotify.com/album/7JeHFDRc4VSoH9aldSbgZj) | 3:42 |
 | 21 | [Mozambique](https://open.spotify.com/track/4glXMXiiOlJP4ZJmMZ1Yvu) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Mozambique / University Of Bourbon Street](https://open.spotify.com/album/1FOgVvIp41RW2dOkdm9Dwj) | 3:16 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 80 | [California Line](https://open.spotify.com/track/0OS7U2hR23djT3yxD6bXdj) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [California Line](https://open.spotify.com/album/7zKc7KZgx3trD0qmB1Z8xb) | 3:35 |
 | 81 | ['Til The Day One Does](https://open.spotify.com/track/7hOeEAhCGCOG6hzBWp54vO) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [Promiseland](https://open.spotify.com/album/44MP986oBgL08PtTWHgY2G) | 3:22 |
 
-Snapshot ID: `MCxhMzc2NmM2YjEwMTYyNTA4NDM1NWFlMWM4MTdjMTgwNDYxNDA0MTNl`
+Snapshot ID: `MCxjZGY5Zjk3N2ExMDQ0YTRjMzcyODUxOTEwYTc2NTMyODQwNjFhOGVk`

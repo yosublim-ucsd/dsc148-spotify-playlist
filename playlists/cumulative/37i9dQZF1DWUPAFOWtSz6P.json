@@ -1022,10 +1022,28 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 252080,
       "name": "Permanent Way",
       "url": "https://open.spotify.com/track/4ewgXAEfRGjay6kmYSfbfW"
+    },
+    {
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252080,
+      "name": "Permanent Way",
+      "url": "https://open.spotify.com/track/6gf9RW0DKG5GUZJcCMGSje"
     },
     {
       "album": {

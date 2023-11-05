@@ -692,10 +692,28 @@
       ],
       "date_added": "2019-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 217920,
       "name": "Say I'm Your No. 1",
       "url": "https://open.spotify.com/track/1SlaWDU54ToxvNsMeG5fsL"
+    },
+    {
+      "album": {
+        "name": "Princess",
+        "url": "https://open.spotify.com/album/7yc9fcfa5WipBmMVWvn7YT"
+      },
+      "artists": [
+        {
+          "name": "Princess",
+          "url": "https://open.spotify.com/artist/3SOJzMmtT76sVGfic3AW8g"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218999,
+      "name": "Say I'm Your Number One",
+      "url": "https://open.spotify.com/track/3bwBiaAOl6a94K1ydasapL"
     },
     {
       "album": {

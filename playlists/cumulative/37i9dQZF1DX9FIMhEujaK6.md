@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-150 songs - 11 hr 48 min
+151 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 | 2022-07-20 |  |
 | [Umbrella Sellers](https://open.spotify.com/track/5isutLrwjcSsYMSbnLl3QY) | [Jeff the Human](https://open.spotify.com/artist/5HMBaHOtIDqc7yUFFdJcU2) | [Umbrella Sellers](https://open.spotify.com/album/6FMHy4RLszA4eCprsZjCfg) | 4:58 | 2021-10-15 | 2022-07-29 |
 | [Unearth](https://open.spotify.com/track/1WOT5mxOjnf2HBKQN4Zmop) | [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86), [Harry Kosminski](https://open.spotify.com/artist/7bCMn3cDvGs8Ua8f2JICZa) | [Unearth](https://open.spotify.com/album/4ibg33M3ACiEIxGl0gWCWJ) | 2:57 | 2021-10-15 | 2022-07-10 |
-| [Vesta](https://open.spotify.com/track/04B0Ufpp6kZOkVHW7GCwOM) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Vesta](https://open.spotify.com/album/0oTPIwc4yuuLFOVMyoOWOy) | 4:31 | 2023-09-22 |  |
+| [Vesta](https://open.spotify.com/track/04B0Ufpp6kZOkVHW7GCwOM) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Vesta](https://open.spotify.com/album/0oTPIwc4yuuLFOVMyoOWOy) | 4:31 | 2023-09-22 | 2023-11-05 |
+| [Vesta](https://open.spotify.com/track/0fCUcQ4n4txZcZ5vv9UMcr) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Vesta](https://open.spotify.com/album/6fXa25F2g9vJ1QdAozvPSG) | 4:31 | 2023-10-20 |  |
 | [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 | 2021-10-15 |  |
 | [Wild Skies](https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Wild Skies](https://open.spotify.com/album/2I3UDjuD3c8Vjq0d0YYimm) | 3:24 | 2021-10-15 | 2023-05-28 |
 | [You \(1000 Beasts Remix\)](https://open.spotify.com/track/1TzakCl94k0i561dxoNZWs) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Elaine Malone](https://open.spotify.com/artist/5LHrdQzcsW8MCvaLNOlaqT) | [You \(1000 Beasts Remix\)](https://open.spotify.com/album/1XaAFaAtmfDiNi1t4vkIlP) | 3:43 | 2021-10-15 | 2022-07-29 |

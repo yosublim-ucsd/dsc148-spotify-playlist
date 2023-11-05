@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: blink\-182
 
-345 songs - 17 hr 4 min
+346 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/track/2sPlAS5w8wpAfbxL3l2Ljr) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/7tyN1gptSZOcv1PPELd7vU) | 2:19 | 2022-02-28 | 2023-07-07 |
 | [Miracle](https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Miracle](https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK) | 2:59 | 2023-10-19 |  |
 | [Missing Out](https://open.spotify.com/track/1jnldPFWWKVxYVQuaYzk1D) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Missing Out](https://open.spotify.com/album/0H0OyIb3wyliBmLFxiwr4T) | 2:58 | 2021-12-20 | 2022-06-15 |
-| [Mixed Emotions \(I Didn't Know How To Tell You What I Was Going Through\)](https://open.spotify.com/track/5tsBGhl0yosGxoj992WtjJ) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Mixed Emotions \(I Didn't Know How To Tell You What I Was Going Through\)](https://open.spotify.com/album/3iGGzFgQvqNXc9E6Qnyvol) | 4:09 | 2023-02-10 |  |
+| [Mixed Emotions \(I Didn't Know How To Tell You What I Was Going Through\)](https://open.spotify.com/track/5tsBGhl0yosGxoj992WtjJ) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Mixed Emotions \(I Didn't Know How To Tell You What I Was Going Through\)](https://open.spotify.com/album/3iGGzFgQvqNXc9E6Qnyvol) | 4:09 | 2023-02-10 | 2023-11-05 |
+| [Mixed Emotions \(I Didn’t Know How To Tell You What I Was Going Through\)](https://open.spotify.com/track/5oR7XZgDOI2G6gQcWzZ1Ol) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/7xObedXkIfaofJyf3QFhNF) | 4:09 | 2023-10-19 |  |
 | [Modern Love](https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Modern Love](https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy) | 3:14 | 2023-02-17 |  |
 | [molotov \[OK\]](https://open.spotify.com/track/6m0vqKogDYkJwwwpvNjyJT) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [molotov \[OK\]](https://open.spotify.com/album/1zV1jnwaCLWeXw8JiuaPSQ) | 2:16 | 2021-12-20 | 2022-01-15 |
 | [More Like A Crash](https://open.spotify.com/track/0kivfSdz7h9yFcEHQtXfl0) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/2DyMGVtYtOKtPtXovMEyf0) | 2:47 | 2023-05-15 |  |

@@ -4,7 +4,7 @@
 
 > Welcome to Indie Rock Club\. Cover: Arctic Monkeys
 
-249 songs - 14 hr 46 min
+250 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,8 @@
 | [Rest My Chemistry](https://open.spotify.com/track/4iLG33TT4HaVILLC0q4rEn) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/49agqemJmnDfTA8nqod1qy) | 5:00 | 2022-07-21 | 2022-07-29 |
 | [Rest My Chemistry](https://open.spotify.com/track/1zNeVf6Qk402L4Urb7CcG8) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/3YSlq716lXQhnFTxp6z4Tb) | 5:01 | 2022-07-21 | 2022-09-21 |
 | [Ride](https://open.spotify.com/track/0NsUvQVaWzxu1Sb8ou6sLv) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Best Of The Vines](https://open.spotify.com/album/1SyhRsDAEiQSc4en7Ljh40) | 2:35 | 2022-07-21 | 2022-07-29 |
-| [Rock & Roll Queen](https://open.spotify.com/track/75lw5aYrDq0TJsbkqCPRIJ) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Young For Eternity](https://open.spotify.com/album/3BHVEMienVRnrpWJJCJSgN) | 2:49 | 2022-01-18 |  |
+| [Rock & Roll Queen](https://open.spotify.com/track/3CLmZAW1fgpnRyVwUx4bbZ) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Young for Eternity](https://open.spotify.com/album/5tTubYK1AQxmixhWcwG5OR) | 2:49 | 2023-08-24 |  |
+| [Rock & Roll Queen](https://open.spotify.com/track/75lw5aYrDq0TJsbkqCPRIJ) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Young For Eternity](https://open.spotify.com/album/3BHVEMienVRnrpWJJCJSgN) | 2:49 | 2022-01-18 | 2023-11-05 |
 | [Rock & Roll Queen](https://open.spotify.com/track/1O5qBgWDXf19N75X7Bvilv) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Young For Eternity](https://open.spotify.com/album/1HkZWKsIED91NaG9PDEQt6) | 2:51 | 2021-12-03 | 2022-07-29 |
 | [Romantic Rights](https://open.spotify.com/track/0H1sKKRwENqAPNq2a0sZFO) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [You're A Woman, I'm A Machine](https://open.spotify.com/album/5yXPmeafzEeoQlVDLsAngy) | 3:15 | 2022-07-21 | 2022-07-29 |
 | [Ruby](https://open.spotify.com/track/0VhhaYztcRWc7PEjJCjr1g) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3Hrcrl4FUmt262YeNQJaTM) | 3:22 | 2022-01-18 | 2022-10-13 |

@@ -6668,10 +6668,32 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 425263,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/1ivSgjkWI950FQwAbnMNA1"
+    },
+    {
+      "album": {
+        "name": "Nickel Ride",
+        "url": "https://open.spotify.com/album/7pjUpRBKbp4WNkzjieSmLY"
+      },
+      "artists": [
+        {
+          "name": "Sano",
+          "url": "https://open.spotify.com/artist/6DbQX2GURCMS7mNyXR5Ndj"
+        },
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/77P4L0ksX9MRlxLdDuQdWc"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425263,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/2xji0EfdoWntVjqxRG8SRg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > HIPHOP 50!
 
-1,265 songs - 2 day 7 hr 50 min
+1,267 songs - 2 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,8 @@
 | [BOLT](https://open.spotify.com/track/0RflCR9n5gkkW34IINLQbq) | [Boogie dinero](https://open.spotify.com/artist/5sOVX1TzQHg85L624KEOIH) | [BOLT](https://open.spotify.com/album/6Big0eVQiuD0IcMZDc5Oio) | 2:27 | 2022-09-22 | 2022-10-14 |
 | [BON APPETIT \(DRILL REMIX\)](https://open.spotify.com/track/2zHfCMxLdfAsomeVfTqpxC) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Tropicalisera](https://open.spotify.com/album/0UQp20m1BlovpSh9zIowVB) | 2:33 | 2023-06-14 | 2023-07-14 |
 | [BONANZA](https://open.spotify.com/track/1L3pLzpYt4KuiUkBpdPDoz) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [BONANZA](https://open.spotify.com/album/6mcasYSlPLjXTrVpSfKKDH) | 2:27 | 2023-10-26 |  |
-| [Bonne Chance](https://open.spotify.com/track/0IFraQZiyPk6bMgU6rD6MD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Bonne Chance](https://open.spotify.com/album/0e722PKl6zvtleNzfm6PEE) | 2:10 | 2023-09-14 |  |
+| [Bonne Chance](https://open.spotify.com/track/0IFraQZiyPk6bMgU6rD6MD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Bonne Chance](https://open.spotify.com/album/0e722PKl6zvtleNzfm6PEE) | 2:10 | 2023-09-14 | 2023-11-05 |
+| [Bonne Chance](https://open.spotify.com/track/1VZnlucoeEU0164116nw27) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Bonne Chance](https://open.spotify.com/album/2XC5BN8Lhj2ktqAzAtBLZD) | 2:10 | 2023-11-02 |  |
 | [Born Broke](https://open.spotify.com/track/2ObcrH042x3Hen1H5BABrK) | [Aj B](https://open.spotify.com/artist/7HNexSRBLdVWgYldSK1EN4) | [Born Broke](https://open.spotify.com/album/0ZKUeRXG5KsGEASNvXj1tO) | 1:57 | 2023-03-23 | 2023-04-28 |
 | [Born To See](https://open.spotify.com/track/4wkgFotnvnXsc2wCcF84h5) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Born To See](https://open.spotify.com/album/0cxBgzlMarzIi2fS0VUbl8) | 2:36 | 2023-06-29 | 2023-08-11 |
 | [BORZ](https://open.spotify.com/track/7m5yy8LF2su0nvw9xrYzkz) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [BORZ](https://open.spotify.com/album/2TSw6JdtrxZRGKR9i4LHaQ) | 2:30 | 2022-11-17 | 2023-01-27 |
@@ -435,7 +436,7 @@
 | [GANGSHIT](https://open.spotify.com/track/05D3jh8aVFZUlPbx4mklmb) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [GANGSHIT](https://open.spotify.com/album/4zJTchJtdb10QwXkeLpEvJ) | 1:51 | 2022-02-25 | 2022-04-29 |
 | [Gangsta Party](https://open.spotify.com/track/69NCYTsKEPTzOIcPuTd9y2) | [Jiggz](https://open.spotify.com/artist/4vmyAixlpiovF3wJ5MSxfJ) | [Gangsta Party](https://open.spotify.com/album/6mVQenUS7FinIK57XJAcSb) | 2:22 | 2022-09-29 | 2022-11-04 |
 | [Gangster Syndrom](https://open.spotify.com/track/020wuMNnDUUn6SUlIFvoqf) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO) | [Gangster Syndrom](https://open.spotify.com/album/2AUtTwdq0G6WKkw2wqMJHQ) | 2:50 | 2023-04-27 | 2023-08-04 |
-| [Gangster Värld](https://open.spotify.com/track/5tSRpvyQVqT3Ck97yNCVv8) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Gangster Värld](https://open.spotify.com/album/3LIrW41gcm8QK5NQgEMk3e) | 2:32 | 2023-11-02 |  |
+| [Gangster Värld](https://open.spotify.com/track/5tSRpvyQVqT3Ck97yNCVv8) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Gangster Värld](https://open.spotify.com/album/3LIrW41gcm8QK5NQgEMk3e) | 2:32 | 2023-11-02 |  |
 | [GANNI](https://open.spotify.com/track/0tRdFyGUOWo2jInmnpx7zy) | [Loxell](https://open.spotify.com/artist/6jqOiXsSb8FanwnWtz6OZu) | [GANNI](https://open.spotify.com/album/3kcDXluFgXOsERNo46OYha) | 1:43 | 2023-02-23 | 2023-03-10 |
 | [Gas](https://open.spotify.com/track/77T996JlKleOyB1RAchTQr) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Gas](https://open.spotify.com/album/4rBij9sYNOfrBltR7rUYjN) | 2:53 | 2023-10-19 |  |
 | [GASA](https://open.spotify.com/track/799ixSjmA6VzLFYMulJism) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [GASA](https://open.spotify.com/album/00735GXhLT8zQUWsyjY6IH) | 2:41 | 2022-02-25 | 2022-03-26 |
@@ -783,7 +784,8 @@
 | [MILJON](https://open.spotify.com/track/72lbqkDare3MXxyaPHpSav) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [MILJON](https://open.spotify.com/album/1Hnq1gyRUNY5bGtr3QDcD3) | 2:31 | 2023-06-15 | 2023-09-08 |
 | [Milli](https://open.spotify.com/track/4c1vrofYNTaYrtAFzKQrTK) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [Milli](https://open.spotify.com/album/6CakrPkzkMk0W7KJwdugiG) | 2:07 | 2022-01-06 | 2022-03-25 |
 | [Million](https://open.spotify.com/track/7llI2gidaQmDzWFtxQzWSG) | [Aden x Asme](https://open.spotify.com/artist/1eX2QZGKv4RFxpDKUGxgm0), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Sista 12](https://open.spotify.com/album/1PSxZ7Mfbvn1yXWuoI5M2G) | 2:44 | 2021-12-16 | 2022-01-28 |
-| [Millions](https://open.spotify.com/track/6Mel5VQ8UQXDT4aetZvzWg) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Millions](https://open.spotify.com/album/3Xdn3e64AD2PB90zCsA7i0) | 2:01 | 2023-08-03 |  |
+| [Millions](https://open.spotify.com/track/2h5GOVxIHF4jJCvIGa8xIq) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Millions](https://open.spotify.com/album/3MAwZL5tB0PKU5DDcB0Ic4) | 2:01 | 2023-11-02 |  |
+| [Millions](https://open.spotify.com/track/6Mel5VQ8UQXDT4aetZvzWg) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Millions](https://open.spotify.com/album/3Xdn3e64AD2PB90zCsA7i0) | 2:01 | 2023-08-03 | 2023-11-05 |
 | [Millionz](https://open.spotify.com/track/05ho5WftsjIeuvCTYvepiU) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs) | [Millionz](https://open.spotify.com/album/616Iu6HKMWYke4PqqwKnCW) | 2:11 | 2022-02-15 | 2022-03-09 |
 | [MILLY](https://open.spotify.com/track/06HHolCxacIrz0nsK4APTv) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [MILLY](https://open.spotify.com/album/5RYmLEiBxdw2VP8s9Ebd3L) | 2:11 | 2022-10-13 | 2022-10-29 |
 | [Milly](https://open.spotify.com/track/3UjxSOYjAHZVYu7bfebKJ9) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Milly](https://open.spotify.com/album/5t0JJOfYML4rJrTuyvLSZB) | 2:11 | 2022-10-27 | 2022-11-18 |

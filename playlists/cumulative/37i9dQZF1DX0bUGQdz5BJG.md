@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Muscadine Bloodline
 
-1,734 songs - 3 day 21 hr 1 min
+1,735 songs - 3 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1619,7 +1619,8 @@
 | [Whatever It Takes](https://open.spotify.com/track/40saym889VuEyqhGcRqIGk) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Whatever It Takes](https://open.spotify.com/album/5LvTjV7ndC8F1xZVBPKDd9) | 2:49 | 2021-12-31 | 2022-02-26 |
 | [Whatever She Sees in Me](https://open.spotify.com/track/5AHnYt0v2PRUbCtbQFoJws) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Whatever She Sees in Me](https://open.spotify.com/album/38pm7sPwfWI6yE7V2R3xwI) | 3:09 | 2022-05-13 | 2022-07-09 |
 | [When I Get Home](https://open.spotify.com/track/0pYO30NBbEZTqLzHj1eWww) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [When I Get Home](https://open.spotify.com/album/5Vx9kDNjXzjDyeOVajPWLA) | 3:13 | 2022-06-10 | 2022-10-01 |
-| [When I Grow Up](https://open.spotify.com/track/03LEDclec1NH3Jrc0S79Ux) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [When I Grow Up](https://open.spotify.com/album/2o8wAedFff2tDyElIFpuIF) | 3:45 | 2023-09-22 |  |
+| [When I Grow Up](https://open.spotify.com/track/03LEDclec1NH3Jrc0S79Ux) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [When I Grow Up](https://open.spotify.com/album/2o8wAedFff2tDyElIFpuIF) | 3:45 | 2023-09-22 | 2023-11-05 |
+| [When I Grow Up](https://open.spotify.com/track/0aXdOKE2ISlEAEZIvUpjQy) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [When I Grow Up](https://open.spotify.com/album/4Ax2267OifhWCZUz38dMWw) | 3:45 | 2023-11-03 |  |
 | [When I Look Back](https://open.spotify.com/track/5Xpgw7Epf3rzuiWmCRDKtw) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [When I Look Back](https://open.spotify.com/album/23jxTU5ns84A9xxMZOai9B) | 2:59 | 2022-02-25 | 2022-04-23 |
 | [When I'm Drinkin'](https://open.spotify.com/track/0Pealr9QhZIQUSykNBAGdM) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [When I'm Drinkin'](https://open.spotify.com/album/3TqfexOmZx0IHHlPtuP7UC) | 3:22 | 2022-09-02 | 2023-01-06 |
 | [When It Wasn't](https://open.spotify.com/track/2T4lQflLAaLiyXe4nVLAFL) | [Wild Fire](https://open.spotify.com/artist/3R2bn1e34SskxOaoM4XmD2) | [When It Wasn't](https://open.spotify.com/album/0fhQxTXDGEB3ahvmWLas0W) | 2:49 | 2022-07-08 | 2022-09-10 |

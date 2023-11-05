@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "This is a Stick Up\u2026don't Make It a Murder",
+        "url": "https://open.spotify.com/album/4Sik3cj1yd7NilzGjI2u0B"
+      },
+      "artists": [
+        {
+          "name": "Hit The Lights",
+          "url": "https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189253,
+      "name": "Bodybag",
+      "url": "https://open.spotify.com/track/4iplm64dNcvu82IbBOqSnX"
+    },
+    {
+      "album": {
         "name": "While the City Sleeps, We Rule the Streets",
         "url": "https://open.spotify.com/album/0XgX5j5Ne4Tfw4oMdcoNQI"
       },
@@ -214,7 +232,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 198243,
       "name": "Cutthroat",
       "url": "https://open.spotify.com/track/4mcDGYrrPukWNhO44w4EUr"

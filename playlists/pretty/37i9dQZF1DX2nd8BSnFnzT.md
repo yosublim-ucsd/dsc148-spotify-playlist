@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Meu Funeral
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,211 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,216 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 6 | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/track/3Pa5IoNR5UdlVAV9jXP1kM) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz) | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/album/4lBsuqZrMDmgTgZwQaqLMd) | 3:14 |
 | 7 | [Outro Lugar \- Ao Vivo](https://open.spotify.com/track/4bsZ1px2MlpkIviocF4qFv) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [20 Anos \- Acústico](https://open.spotify.com/album/16okUPvniGJp4tXjeLBgLw) | 4:14 |
 | 8 | [Canção da Despedida](https://open.spotify.com/track/6X4TqBLTfYj11DLzEmWOi6) | [Reação Em Cadeia](https://open.spotify.com/artist/4pANXhF65AgL4mE9PybDJJ) | [Canção da Despedida](https://open.spotify.com/album/6tJVfCUBxlD6FODRlNqhXT) | 4:33 |
-| 9 | [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 |
+| 9 | [Stonehenge \(Live\)](https://open.spotify.com/track/4ZKiLTqCXQLvzzmnRu9LpY) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos; Live\)](https://open.spotify.com/album/7jmk1wr6sJdWCiQpw32iJ1) | 4:12 |
 | 10 | [v ø l t a c r i a n ç a](https://open.spotify.com/track/3tq4WqYbA7Rpt8fCI3Tw1V) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [v ø l t a c r i a n ç a](https://open.spotify.com/album/10mSwLFFuZ5f940TMGjBLF) | 4:00 |
 | 11 | [Musica Urbana](https://open.spotify.com/track/3IBGVjbsGYQxkpY9oNNpyG) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Capital Inicial 4.0 \(Deluxe\)](https://open.spotify.com/album/2Hd7jdiY7jTatb7DGiQZuv) | 6:10 |
 | 12 | [Culpa](https://open.spotify.com/track/1MO8oMHUeiHdoePEFfwkbh) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Conflitos](https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7) | 3:04 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 55 | [Pensando No Oceano](https://open.spotify.com/track/4r7Et3GKyFxbzwJqMU7Whs) | [Marcelo Nova](https://open.spotify.com/artist/3iveSsIHvm1TAWhJRJ2z58) | [As Cartas Que Eu Nunca Enviei](https://open.spotify.com/album/2uvRk0Wve4Ga73wA4ecbh4) | 4:38 |
 | 56 | [Tarde Demais](https://open.spotify.com/track/5amoazrtaLdXHIt7YVyuyX) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tarde Demais](https://open.spotify.com/album/39xDYbhw11PU3AaD8SRJ6E) | 3:48 |
 | 57 | [A Estátua](https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Diego Rox](https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg) | [A Estátua](https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK) | 3:27 |
-| 58 | [Agora Deixa \- LIVE](https://open.spotify.com/track/0k6g7j1v203m615OkO0YmJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [VTQMV TOUR \(LIVE\)](https://open.spotify.com/album/1d3WrKOjcpnDXaVKjkmI8A) | 4:47 |
+| 58 | [Agora Deixa \(LIVE\)](https://open.spotify.com/track/67uSrT1Wf3IVgJtWj8kDXy) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [VTQMV TOUR \(LIVE\)](https://open.spotify.com/album/0Mqi7qi7JaNWAVoVNemkyN) | 4:47 |
 | 59 | [Não Vá](https://open.spotify.com/track/6hurdo0fzNhApT20XVDAoV) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz), [Ivy Martins](https://open.spotify.com/artist/3476OGjD0Wy1AKp6wJ7xtV) | [Não Vá](https://open.spotify.com/album/67iqFpAbgZ1MjWKqCx9zR4) | 3:15 |
 | 60 | [Fala na Cara](https://open.spotify.com/track/0aPH5FHJaLkbHftmYyeWHj) | [Giovanna Moraes](https://open.spotify.com/artist/1NYYWX3yvMjUMkXRkgVKxb) | [Fala na Cara](https://open.spotify.com/album/14qtdt0FYJWQX00R2hBlun) | 3:46 |
 | 61 | [A Solução](https://open.spotify.com/track/78EuaQdCpwNwSvxqmQ3NnH) | [ocaradometal](https://open.spotify.com/artist/0t6psNf8w3CrGV64hyLjtK), [HeavyFuture](https://open.spotify.com/artist/4G217StpHjdclmtzE4Jxzw) | [A Solução](https://open.spotify.com/album/54C2e0EDNrsO6hAnUfVM45) | 6:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Berrini](https://open.spotify.com/track/0qbgGOjkWnWrjBj91QPTsV) | [Molho Negro](https://open.spotify.com/artist/51aX6xmdT0iMI1FNCONTzR) | [Berrini](https://open.spotify.com/album/3Y8jVYw1s5O5bHSdzMrr7N) | 3:09 |
 | 75 | [Primeiros Erros](https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Primeiros Erros](https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM) | 5:51 |
 
-Snapshot ID: `MCwyM2E5OTMwMWQ5ZTdlNDk3MzUyNzRkNWQ4ZGRlNzhhYWEwNDU1ZmZk`
+Snapshot ID: `MCwzMzZkZGZjNTYzMWY5Y2JlNDUxZWRmOTM2ZWUwYWUwNGYwZjY3NzMx`

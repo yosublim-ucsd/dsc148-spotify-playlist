@@ -4,7 +4,7 @@
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-666 songs - 2 day 5 hr 57 min
+667 songs - 2 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Bicstan](https://open.spotify.com/track/2xye1raSO8KLUD6DiX8DEW) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5J2NqsDqtVGCqb0bqQf3RU) | 4:45 | 2023-03-07 | 2023-09-27 |
 | [Bind That Bitch](https://open.spotify.com/track/3ebpXLD39hCZUHM5g9XczH) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 2:49 | 2022-01-07 | 2022-02-19 |
 | [Black Rave Culture](https://open.spotify.com/track/5GC1sO0S9cFUGqnhZ3kxDC) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture](https://open.spotify.com/album/0BBcuJVrHGYrisoIZa3Om9) | 3:25 | 2022-05-03 |  |
-| [Blimey \- Denham Audio Remix](https://open.spotify.com/track/6z234Ek3zfHWw45SVWOONV) | [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1), [Bruised Skies](https://open.spotify.com/artist/5oI1AdZtFwpLD5CabiZnyb), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Blimey](https://open.spotify.com/album/4Ur1Mpt3PJBfnGwFM0KaL6) | 6:43 | 2022-11-21 |  |
+| [Blimey \- Denham Audio Remix](https://open.spotify.com/track/6wPJh09QF84NTV0CTUXVAJ) | [Bruised Skies](https://open.spotify.com/artist/5oI1AdZtFwpLD5CabiZnyb), [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Blimey](https://open.spotify.com/album/2hIX2lw3Uy6Msu9OcPZUvC) | 6:43 | 2023-09-26 |  |
+| [Blimey \- Denham Audio Remix](https://open.spotify.com/track/6z234Ek3zfHWw45SVWOONV) | [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1), [Bruised Skies](https://open.spotify.com/artist/5oI1AdZtFwpLD5CabiZnyb), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Blimey](https://open.spotify.com/album/4Ur1Mpt3PJBfnGwFM0KaL6) | 6:43 | 2022-11-21 | 2023-11-05 |
 | [Bliss Machine](https://open.spotify.com/track/53dlTeqylLS8FOUgNSNXyb) | [Kloke](https://open.spotify.com/artist/2cggyYmdk2HP87tYGtw3La) | [FR005](https://open.spotify.com/album/5i7z3y3BkQK5N6lpYoJyyQ) | 6:31 | 2022-12-12 | 2023-03-25 |
 | [Blissful Ignorance \- Remix](https://open.spotify.com/track/5KIDmCi1sKjLCLUaL23R7Z) | [Cloud 9](https://open.spotify.com/artist/02AM03mK2DQTiDr33b87f6) | [Blissful Ignorance \(Tango Remix\) / Blissful Ignorance \(Remix\)](https://open.spotify.com/album/2GIglFvd4ley5MIhF8PJsQ) | 6:01 | 2023-09-26 |  |
 | [Blumen](https://open.spotify.com/track/7rlR585wgzoJsNQxf4TLRo) | [Qant](https://open.spotify.com/artist/2xiP0gexsjHlhdSXb46PKI) | [2K Thank You](https://open.spotify.com/album/7aILOFv8DpH6yBbGmlSrQX) | 6:00 | 2022-05-03 | 2022-06-18 |

@@ -1507,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Screaming Target",
+        "url": "https://open.spotify.com/album/00SL37vqaciIS4sS8WhetN"
+      },
+      "artists": [
+        {
+          "name": "Big Youth",
+          "url": "https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219706,
+      "name": "Screaming Target",
+      "url": "https://open.spotify.com/track/0KJiaXJha6yhlBjGZID13j"
+    },
+    {
+      "album": {
         "name": "Big Youth Speaks: Life Is Not an Easy Road",
         "url": "https://open.spotify.com/album/7xxG8iDbfmj6yiPFUA2B2Z"
       },
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 219706,
       "name": "Screaming Target",
       "url": "https://open.spotify.com/track/3MOAQQuIAzsGp13Ux9rEN9"
@@ -1987,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Ska Jam: The Rude Boy Mixtape",
+        "url": "https://open.spotify.com/album/2Mr8jBQeCqWMTBDMJfoXBk"
+      },
+      "artists": [
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192520,
+      "name": "Zion Gate Dub",
+      "url": "https://open.spotify.com/track/243ucbIZFFKFdIYQhfNNon"
+    },
+    {
+      "album": {
         "name": "30 Years of Dub Music on the Go",
         "url": "https://open.spotify.com/album/0kznl5dkzF6bOQU30BAe3F"
       },
@@ -1998,7 +2034,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 194666,
       "name": "Zion Gate Dub",
       "url": "https://open.spotify.com/track/1ipNNP3bwILX6W2nMa29S7"

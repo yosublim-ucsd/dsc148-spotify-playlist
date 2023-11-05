@@ -1016,6 +1016,24 @@
     {
       "album": {
         "name": "Fatou",
+        "url": "https://open.spotify.com/album/0AkYV0mq8RuPYk07G8221P"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232975,
+      "name": "Kanou",
+      "url": "https://open.spotify.com/track/7kaUgwfPiXLCek3AkzJGFu"
+    },
+    {
+      "album": {
+        "name": "Fatou",
         "url": "https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT"
       },
       "artists": [
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 233986,
       "name": "Kanou",
       "url": "https://open.spotify.com/track/43jFFMQlyY38tWloRAhdYy"
@@ -2190,6 +2208,24 @@
     {
       "album": {
         "name": "Fatou",
+        "url": "https://open.spotify.com/album/0AkYV0mq8RuPYk07G8221P"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210421,
+      "name": "Sonkolon",
+      "url": "https://open.spotify.com/track/30fDVObwlcnIxC5WWlaKh2"
+    },
+    {
+      "album": {
+        "name": "Fatou",
         "url": "https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT"
       },
       "artists": [
@@ -2200,7 +2236,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 210666,
       "name": "Sonkolon",
       "url": "https://open.spotify.com/track/7kwh4OBLLGc0Fvp5ENu7hm"

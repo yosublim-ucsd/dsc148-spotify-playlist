@@ -1196,6 +1196,24 @@
     {
       "album": {
         "name": "Forever EP",
+        "url": "https://open.spotify.com/album/3QapSgIlst2WK98toNaD0r"
+      },
+      "artists": [
+        {
+          "name": "Eddie Fowkes",
+          "url": "https://open.spotify.com/artist/5Ey248euTzDQqPi5DvbpUb"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329101,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2HhD9OZdNjHODz9fEaWCq1"
+    },
+    {
+      "album": {
+        "name": "Forever EP",
         "url": "https://open.spotify.com/album/1Os6AtLQRHLzdMgwlEQwER"
       },
       "artists": [
@@ -1206,7 +1224,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 329101,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0sPSHm2B6ECdQaBz4LWj7H"
@@ -3352,7 +3370,7 @@
     {
       "album": {
         "name": "Time Tunnel",
-        "url": "https://open.spotify.com/album/3CXgSnDsdKeV5h0niFoOxo"
+        "url": "https://open.spotify.com/album/1D6C7pSPvhW9BbKDk2ZwLa"
       },
       "artists": [
         {
@@ -3363,6 +3381,24 @@
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 478598,
+      "name": "Time Tunnel",
+      "url": "https://open.spotify.com/track/2iu3nu0aBkzZsCqCZJU3Eu"
+    },
+    {
+      "album": {
+        "name": "Time Tunnel",
+        "url": "https://open.spotify.com/album/3CXgSnDsdKeV5h0niFoOxo"
+      },
+      "artists": [
+        {
+          "name": "Brassica",
+          "url": "https://open.spotify.com/artist/2n2Ah4eslXpgZNFQPM1STG"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 478598,
       "name": "Time Tunnel - Original Mix",
       "url": "https://open.spotify.com/track/0Jp0FFk26Toy0tCwykaVNi"
@@ -3652,10 +3688,28 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 349285,
       "name": "Wild Life - Disco Mix",
       "url": "https://open.spotify.com/track/171eZVZOwpCU2wD0IiAz3p"
+    },
+    {
+      "album": {
+        "name": "Wild Life",
+        "url": "https://open.spotify.com/album/02LSPjSBlhU7sK8M5Ki9zW"
+      },
+      "artists": [
+        {
+          "name": "Radio Slave",
+          "url": "https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349285,
+      "name": "Wild Life - Disco Mix",
+      "url": "https://open.spotify.com/track/4zPfXAIzaFRgjlrAK01xrQ"
     },
     {
       "album": {

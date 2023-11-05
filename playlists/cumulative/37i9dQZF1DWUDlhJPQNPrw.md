@@ -4,7 +4,7 @@
 
 > things will get better soon\. for now, just listen and dream.
 
-148 songs - 6 hr 30 min
+149 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Reflections](https://open.spotify.com/track/52GgYnigt5XKncqm9sEjHw) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Reflections](https://open.spotify.com/album/3gJ78a3igJbhbBCE5uXeYG) | 2:36 | 2023-07-19 |  |
 | [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 | 2023-07-19 |  |
 | [Reggimi](https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ) | [Natalino Serafin](https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh) | [Reggimi](https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR) | 2:37 | 2023-07-19 |  |
-| [Reverie](https://open.spotify.com/track/2qmYLGvjNm4PlS1p786Xfr) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Reverie](https://open.spotify.com/album/69qZp1tfgNgDPU0M5PtO37) | 4:16 | 2023-07-19 |  |
+| [Reverie](https://open.spotify.com/track/2qmYLGvjNm4PlS1p786Xfr) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Reverie](https://open.spotify.com/album/69qZp1tfgNgDPU0M5PtO37) | 4:16 | 2023-07-19 | 2023-11-05 |
+| [Reverie](https://open.spotify.com/track/5kSaHTTJpneyJta1cCR0Nt) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Reverie](https://open.spotify.com/album/7qVBQTup9V8pFzH9w6nenn) | 4:16 | 2023-10-12 |  |
 | [Ruhevoll](https://open.spotify.com/track/3a29LVdJdkqOBNDFnbbqJN) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ruhevoll](https://open.spotify.com/album/3KxGRGWUmnauKY3wXDGqtV) | 2:19 | 2023-07-19 |  |
 | [Sanctum Sonar](https://open.spotify.com/track/3uxgJoFbUUUPEVnq00Jw8X) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Sanctum Sonar](https://open.spotify.com/album/2tXnv5H1XHnmOBb1HZy3N1) | 2:38 | 2023-07-19 |  |
 | [Seagull's Feathers](https://open.spotify.com/track/1UzBL7zD1kxJW2B2H3eaCf) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Seagull's Feathers](https://open.spotify.com/album/2OHdNwIAbyMWBAt3hGh81r) | 2:09 | 2023-07-19 |  |

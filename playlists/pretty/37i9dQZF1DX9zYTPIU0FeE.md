@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa?si=sBk9FMaTR6uCi2cDOz6lIw">Makaya McCraven</a> takes over Jazz NXT; a mix of personal and local favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,415 likes - 51 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,455 likes - 51 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

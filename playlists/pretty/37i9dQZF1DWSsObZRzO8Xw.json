@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: Elephant Gym",
-  "num_followers": 152058,
+  "num_followers": 152170,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTM2OGNlODc3ZjZjNzE0YzlhZmU4NzY4ODQ1ODNiYmQyZmI5ZjRl",
+  "snapshot_id": "MCw3MTA2NmE4NDRjM2MwYzU0ZDIzNjcxYWQ1ZmRkOTI3NGY1YmU3YTEz",
   "tracks": [
     {
       "added_at": "2023-08-29 04:07:33",
@@ -20,7 +20,7 @@
           "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
         }
       ],
-      "duration_ms": 496573,
+      "duration_ms": 497026,
       "name": "Your Hand In Mine",
       "url": "https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k"
     },
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Caballeros del Albedr\u00edo",
-        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/3DIA7RA1Ga6aYw7qdjU88m"
       },
       "artists": [
         {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+          "name": "Covet",
+          "url": "https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV"
         }
       ],
-      "duration_ms": 138400,
-      "name": "El Hombre P\u00e1nico",
-      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
+      "duration_ms": 280235,
+      "name": "firebird",
+      "url": "https://open.spotify.com/track/1MYCp8HhMJfQuYqiHruJ7N"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/3DIA7RA1Ga6aYw7qdjU88m"
+        "name": "Caballeros del Albedr\u00edo",
+        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
       },
       "artists": [
         {
-          "name": "Covet",
-          "url": "https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV"
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
         }
       ],
-      "duration_ms": 280235,
-      "name": "firebird",
-      "url": "https://open.spotify.com/track/1MYCp8HhMJfQuYqiHruJ7N"
+      "duration_ms": 138400,
+      "name": "El Hombre P\u00e1nico",
+      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "split",
-        "url": "https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN"
-      },
-      "artists": [
-        {
-          "name": "archipi\u00e9lagos",
-          "url": "https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d"
-        }
-      ],
-      "duration_ms": 225334,
-      "name": "minet",
-      "url": "https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Medium Bastard",
         "url": "https://open.spotify.com/album/2BIgyOi0OlKk5KZnFN6KEY"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 182813,
       "name": "Fiftzeen",
       "url": "https://open.spotify.com/track/4ZTs0vtv1Nesc71d9vsKIn"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "split",
+        "url": "https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN"
+      },
+      "artists": [
+        {
+          "name": "archipi\u00e9lagos",
+          "url": "https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d"
+        }
+      ],
+      "duration_ms": 225334,
+      "name": "minet",
+      "url": "https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Fontana Bella",
-        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "Voces iluminadas por sonrientes",
-      "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Lava Land",
         "url": "https://open.spotify.com/album/4ascPqnfGL1QlRlnu9gvzM"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 297000,
       "name": "Little Bubble, Where You Going?",
       "url": "https://open.spotify.com/track/5P9nqVXwUUMQeUCJJuCXAx"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "Voces iluminadas por sonrientes",
+      "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Gloss Drop",
-        "url": "https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR"
-      },
-      "artists": [
-        {
-          "name": "Battles",
-          "url": "https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA"
-        }
-      ],
-      "duration_ms": 377493,
-      "name": "Futura",
-      "url": "https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Get In Losers, We\u2019re Going to Eternal Damnation",
         "url": "https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 183286,
       "name": "Saint Loser",
       "url": "https://open.spotify.com/track/4E1L60kHbxTpsHx0AKocTF"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Gloss Drop",
+        "url": "https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR"
+      },
+      "artists": [
+        {
+          "name": "Battles",
+          "url": "https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA"
+        }
+      ],
+      "duration_ms": 377493,
+      "name": "Futura",
+      "url": "https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "The Occident",
-        "url": "https://open.spotify.com/album/11jPIR10T2GX93P5rsy4Mi"
-      },
-      "artists": [
-        {
-          "name": "Town Portal",
-          "url": "https://open.spotify.com/artist/1yYkeH8fDEJY4bJtlUseKK"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Bonus Trigger",
-      "url": "https://open.spotify.com/track/2SDtTQfwz93RMCGsgTuvPr"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "H/O",
         "url": "https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "M. Rueff",
-        "url": "https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH"
+        "name": "The Occident",
+        "url": "https://open.spotify.com/album/11jPIR10T2GX93P5rsy4Mi"
       },
       "artists": [
         {
-          "name": "Mylets",
-          "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
+          "name": "Town Portal",
+          "url": "https://open.spotify.com/artist/1yYkeH8fDEJY4bJtlUseKK"
         }
       ],
-      "duration_ms": 163412,
-      "name": "It's Not",
-      "url": "https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI"
+      "duration_ms": 187026,
+      "name": "Bonus Trigger",
+      "url": "https://open.spotify.com/track/2SDtTQfwz93RMCGsgTuvPr"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -1027,6 +1011,22 @@
       "duration_ms": 341613,
       "name": "ARUKAS",
       "url": "https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "M. Rueff",
+        "url": "https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH"
+      },
+      "artists": [
+        {
+          "name": "Mylets",
+          "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
+        }
+      ],
+      "duration_ms": 163412,
+      "name": "It's Not",
+      "url": "https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Imago",
-        "url": "https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt"
-      },
-      "artists": [
-        {
-          "name": "tortugan\u00f3nima",
-          "url": "https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR"
-        }
-      ],
-      "duration_ms": 258137,
-      "name": "Espejos Dorados",
-      "url": "https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Route One or Die",
         "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 298760,
       "name": "Cramm",
       "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Imago",
+        "url": "https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt"
+      },
+      "artists": [
+        {
+          "name": "tortugan\u00f3nima",
+          "url": "https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR"
+        }
+      ],
+      "duration_ms": 258137,
+      "name": "Espejos Dorados",
+      "url": "https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Land Wars",
-        "url": "https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb"
-      },
-      "artists": [
-        {
-          "name": "Land Wars",
-          "url": "https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Friends Suck",
-      "url": "https://open.spotify.com/track/42pO1zZememxps3eSEXfnp"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Alexander Supertramp",
         "url": "https://open.spotify.com/album/1zxkyKlgkOYdNGMu1JKeoj"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 277300,
       "name": "Alexander Supertramp",
       "url": "https://open.spotify.com/track/0EMVbySv8ObWdQwBLfqRis"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Land Wars",
+        "url": "https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb"
+      },
+      "artists": [
+        {
+          "name": "Land Wars",
+          "url": "https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "Friends Suck",
+      "url": "https://open.spotify.com/track/42pO1zZememxps3eSEXfnp"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "P\u00e1ramo",
-        "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
-      },
-      "artists": [
-        {
-          "name": "Def\u00f3rmica",
-          "url": "https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "Novelesco",
-      "url": "https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Psych!",
         "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 276551,
       "name": "Aquabus",
       "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "P\u00e1ramo",
+        "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
+      },
+      "artists": [
+        {
+          "name": "Def\u00f3rmica",
+          "url": "https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "Novelesco",
+      "url": "https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN"
     },
     {
       "added_at": "2023-08-29 04:07:33",

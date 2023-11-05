@@ -4,7 +4,7 @@
 
 > Le meilleur des années 90 en 90 titres.
 
-95 songs - 6 hr 36 min
+96 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 | 2023-07-26 |  |
 | [Se bastasse una canzone](https://open.spotify.com/track/7dp45uA0Ws4TadWaMwdIRw) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros](https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r) | 5:23 | 2023-07-26 |  |
 | [Sensualité](https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Sans plus attendre](https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt) | 3:52 | 2023-07-26 |  |
-| [Si la vie demande ça \- Version masterisée 2021](https://open.spotify.com/track/1Egxpv0vuL7TL7QrelWHzL) | [Native](https://open.spotify.com/artist/7gT2KvWoPu7TVaN1go8Prj) | [Native Story](https://open.spotify.com/album/4N13ap2KztQO25wymAzBwI) | 4:57 | 2023-07-26 |  |
+| [Si la vie demande ça \(Version masterisée 2021\)](https://open.spotify.com/track/0bvNKwSk0nxBaf9moIyIzy) | [Native](https://open.spotify.com/artist/7gT2KvWoPu7TVaN1go8Prj) | [Native \(Version masterisée 2021\)](https://open.spotify.com/album/4oJqKz15EIPBxCXM0STWEU) | 4:57 | 2023-07-26 |  |
+| [Si la vie demande ça \- Version masterisée 2021](https://open.spotify.com/track/1Egxpv0vuL7TL7QrelWHzL) | [Native](https://open.spotify.com/artist/7gT2KvWoPu7TVaN1go8Prj) | [Native Story](https://open.spotify.com/album/4N13ap2KztQO25wymAzBwI) | 4:57 | 2023-07-26 | 2023-11-05 |
 | [Si la vie demande ça \- Version masterisée 2021](https://open.spotify.com/track/3hYClPLgnc4Eu5GIU87Kkk) | [Native](https://open.spotify.com/artist/7gT2KvWoPu7TVaN1go8Prj) | [Native \(Version masterisée 2021\)](https://open.spotify.com/album/0RGmYbrYHKaW3ZevcbnHi6) | 4:57 | 2023-07-26 | 2023-11-03 |
 | [Simple et funky](https://open.spotify.com/track/0784emAlDLuQtgeL4QV4tJ) | [Alliance Ethnik](https://open.spotify.com/artist/2dZM3D9rBveK3dywr1WQkN) | [Simple et funky \(Edition Deluxe\)](https://open.spotify.com/album/3e3vBd28W76GroGOt8fsZN) | 3:41 | 2023-07-26 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2023-07-26 |  |

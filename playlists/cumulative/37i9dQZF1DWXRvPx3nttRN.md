@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-397 songs - 22 hr 26 min
+398 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,9 +73,10 @@
 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 | 2021-03-12 |  |
 | [Cool \- Acoustic](https://open.spotify.com/track/6F4nOE5Z6Il1fM8h3zkAlW) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [Cool \(Acoustic\)](https://open.spotify.com/album/1cW2o4hTXG4rczS46mynJM) | 2:51 | 2021-03-12 |  |
 | [Cool Kids \- Live from Spotify NYC](https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Spotify Sessions](https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf) | 3:21 | 2021-03-12 |  |
+| [Cosmic Empire \(Day 2 Demo\) \(Take 1\)](https://open.spotify.com/track/79h62Y1xkgFH11rSNMvv82) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary;Super Deluxe\)](https://open.spotify.com/album/1EFOYsAkyfwLkS5OPfobak) | 2:11 | 2023-10-23 |  |
 | [Cosmic Empire \- Day 2 Demo / Take 1](https://open.spotify.com/track/3M50AuTabW54Mc8Xey5Qlq) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary/Super Deluxe\)](https://open.spotify.com/album/0pDJt9M0HWkIs4vrTK6aC6) | 2:09 | 2022-04-22 | 2023-02-19 |
 | [Cosmic Empire \- Day 2 Demo / Take 1](https://open.spotify.com/track/3dbhRlMVh3tiz1NdBbMlTp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cosmic Empire/Run Of The Mill](https://open.spotify.com/album/47LKl381PkVTCkM3GD6U6w) | 2:09 | 2021-07-09 | 2022-07-29 |
-| [Cosmic Empire \- Day 2 Demo; Take 1](https://open.spotify.com/track/0lcQZ03nobpkiXGMFtPHhJ) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary;Super Deluxe\)](https://open.spotify.com/album/1HOUPV73m7qwWoYw7m9Y56) | 2:11 | 2022-12-29 |  |
+| [Cosmic Empire \- Day 2 Demo; Take 1](https://open.spotify.com/track/0lcQZ03nobpkiXGMFtPHhJ) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary;Super Deluxe\)](https://open.spotify.com/album/1HOUPV73m7qwWoYw7m9Y56) | 2:11 | 2022-12-29 | 2023-11-05 |
 | [Counting Stars \(Acoustic\) \[feat\. Corey Gray & Alexi Blue\]](https://open.spotify.com/track/6mq0Bv2ArWxlvP3BFZxSHq) | [Jake Coco](https://open.spotify.com/artist/6WyeyhNDpeIVbznnztFDQZ), [Corey Gray](https://open.spotify.com/artist/6TKKVFCBfak1kInOPl7hCz), [Alexi Blue](https://open.spotify.com/artist/754qtlcOAFIdkFAjxuPk34) | [Under the Covers, Vol\. 5](https://open.spotify.com/album/2M8WFkrGgKISu3jSXAtqLT) | 4:10 | 2021-03-12 |  |
 | [Dear Future Husband](https://open.spotify.com/track/2OdpaewWP74b0lJ97gfWMz) | [Ali Brustofski](https://open.spotify.com/artist/6KxBixTtWRYyojmIvlFvjD), [Knots](https://open.spotify.com/artist/1ahs5FR9XUKc56ATCW371b) | [Dear Future Husband](https://open.spotify.com/album/2sfwHqwFlq2NQFXGyC6ULL) | 2:54 | 2021-03-12 |  |
 | [Despacito](https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Despacito](https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3) | 2:50 | 2021-03-12 |  |

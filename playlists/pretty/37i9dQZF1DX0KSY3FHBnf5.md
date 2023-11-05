@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,909 likes - 132 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,062 likes - 132 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 93 | [Enigma](https://open.spotify.com/track/6sVsKes7vgD1XmNM3aAcDk) | [Depthscape](https://open.spotify.com/artist/4ELgf1YQ39tzJMhFgsTKh9) | [Enigma](https://open.spotify.com/album/0UFgH3aQpfZIig5TWqh26z) | 1:54 |
 | 94 | [Narrow Time](https://open.spotify.com/track/36P1BXZ8knkSBQwMzQ52oN) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Narrow Time](https://open.spotify.com/album/3eHE1Ic8VqFeZJZOFYsncG) | 4:19 |
 | 95 | [recalling memories that never existed](https://open.spotify.com/track/4Hc2TTFkRGXqZjBXKh4QL7) | [18FEARS](https://open.spotify.com/artist/3DjJgcdn3LP9xhKggrNFtV) | [recalling memories that never existed](https://open.spotify.com/album/42XqNmjILjNJTzHNDHShAw) | 2:06 |
-| 96 | [forgotten thoughts, but it's slowed & reverb](https://open.spotify.com/track/1TbF2VK8UEv0Y92YZHYw0O) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:52 |
+| 96 | [forgotten thoughts \- slowed & reverb](https://open.spotify.com/track/1TbF2VK8UEv0Y92YZHYw0O) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:52 |
 | 97 | [autumn days with you](https://open.spotify.com/track/6iJ5dTOgd0lsqbRoeHnFTw) | [Raynix](https://open.spotify.com/artist/4p8meLEzf4g5KrS0OxY3t3) | [autumn days with you \(remixes\)](https://open.spotify.com/album/7rtdIkWdd3F1UROzU042Mz) | 1:45 |
 | 98 | [milk cassette x.mp3 \(demo\) \(slowed + reverb\)](https://open.spotify.com/track/0QZMfHkSdCXeJpszp7peVR) | [analog\_mannequin](https://open.spotify.com/artist/5BnokxEB4VXeS1359upGtH) | [milk cassette x.mp3 \(demo\) \(slowed + reverb\)](https://open.spotify.com/album/0NC8YAvwPObW2CJkJMRJtL) | 3:44 |
 | 99 | [Distorted Reflection](https://open.spotify.com/track/1BKy0j97r7k1d4zxBatcbr) | [MrNotYet](https://open.spotify.com/artist/4iCgLge4R9IC6xVrL4HFPB) | [Distorted Reflection](https://open.spotify.com/album/4py69zfOw3lbxfnyoVOMaF) | 2:06 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 131 | [overthinking \- slowed + reverb](https://open.spotify.com/track/55ksh3dybC2OPCILeeGaIg) | [coldlakes](https://open.spotify.com/artist/3jxJQ1JkYdqHNGnvIoW0nI) | [overthinking \(slowed + reverb\)](https://open.spotify.com/album/5OGZhclLbyQXjGs8y9v2Ei) | 2:51 |
 | 132 | [lost](https://open.spotify.com/track/7sTqjmUu3ju7Dbcth2TjgU) | [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI) | [lost](https://open.spotify.com/album/4juhd8RDQF4ixb0T2cIVNM) | 2:02 |
 
-Snapshot ID: `MCw5NmYwMmNjNDcyYTk0Y2Q4MTk4MDUxNTBhNWNmNjliZDA0YWZjYjAx`
+Snapshot ID: `MCxmZjUxYWQzYzUxNWZjOWUwMjRjYTUwZDcxMWU4OWFjNTVkOTMxZjE2`

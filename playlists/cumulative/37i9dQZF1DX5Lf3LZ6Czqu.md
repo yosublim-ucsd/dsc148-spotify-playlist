@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-127 songs - 9 hr 33 min
+128 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Don't Give Up](https://open.spotify.com/track/2vnnaVWSugFKiiUQCR0ZlK) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H), [Dana Hawkins](https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Zac Zinger](https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J) | [Don't Give Up](https://open.spotify.com/album/7rnXDPgmb65BV6GAqLUooD) | 3:28 | 2023-03-03 |  |
 | [Dunia Duara](https://open.spotify.com/track/0LwSB5KbwWcDu1HbFip27U) | [Chris Buck](https://open.spotify.com/artist/6MKMSAadRiC0CB5D2vEtDn) | [3 Crows](https://open.spotify.com/album/7uGPN9GefcM4WEMhWAMcms) | 5:33 | 2021-05-04 |  |
 | [Earthguest](https://open.spotify.com/track/7wVAS3INpT4el1p6FJpY3x) | [Steroid Puppets](https://open.spotify.com/artist/1v39hJJ604GsEZWEqhrTko), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Earthguest](https://open.spotify.com/album/42bzv7lW3nN0jxt9ZG1ZVR) | 8:59 | 2022-05-20 |  |
-| [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv) | 5:50 | 2022-09-30 |  |
+| [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv) | 5:50 | 2022-09-30 | 2023-11-05 |
+| [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/2B3D38o8GaXnZo6DnTyZ2m) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Remember That You Will Die](https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw) | 5:50 | 2022-09-30 |  |
 | [Elemental](https://open.spotify.com/track/7pELXfqANfpuEgVQhL6kDS) | [Al Joseph](https://open.spotify.com/artist/21PirAYDy86Fxofydxphxu) | [Elemental](https://open.spotify.com/album/1Y8ixv209l76IYgFS0DHyN) | 7:10 | 2022-07-29 |  |
 | [Elysium](https://open.spotify.com/track/2QSPTVVCczdil3ixvn7OvR) | [Al Joseph](https://open.spotify.com/artist/21PirAYDy86Fxofydxphxu) | [All of Creation](https://open.spotify.com/album/4JnTiM4k8PskSpoT1ORTIa) | 4:38 | 2021-05-04 |  |
 | [Equilibrium](https://open.spotify.com/track/70WWLKQe224T8X3nhSKJZ8) | [Mansur Brown](https://open.spotify.com/artist/1ky3oGuE5XOsOzqiFEGwqR) | [Desta \- The Memories Between](https://open.spotify.com/album/3abIVvUTTjffmjEf49VeAI) | 3:59 | 2023-05-12 |  |

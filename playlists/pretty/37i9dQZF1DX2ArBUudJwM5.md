@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Juliana Gattas
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,403 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,399 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 39 | [Distraída](https://open.spotify.com/track/3tbD5rcDj4wAl9gLg5z42E) | [Faraonika](https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk), [Coghlan](https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg) | [Distraída](https://open.spotify.com/album/11AaRkvtuiD9NxBhCdoMwZ) | 2:42 |
 | 40 | [Éxodo Mental](https://open.spotify.com/track/1ZT6RqnorPxsQnQ2mzgwP1) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 3:16 |
 | 41 | [Bordes](https://open.spotify.com/track/0j8KXlqxtQrycQH78GPWw4) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Bordes](https://open.spotify.com/album/0UWOXpV26q2LYf6ThqQGT5) | 2:56 |
-| 42 | [Fuerte](https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Fuerte](https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5) | 3:49 |
-| 43 | [Canción Uno](https://open.spotify.com/track/3kMzTW1gBjzQ99oX1EzTpC) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk) | [Kawaii](https://open.spotify.com/album/3WMSVaZA9laNCvCbRK1aic) | 4:00 |
+| 42 | [Canción Uno](https://open.spotify.com/track/3kMzTW1gBjzQ99oX1EzTpC) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk) | [Kawaii](https://open.spotify.com/album/3WMSVaZA9laNCvCbRK1aic) | 4:00 |
+| 43 | [Fuerte](https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Fuerte](https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5) | 3:49 |
 | 44 | [A Berisso](https://open.spotify.com/track/6iulOMwuf00k2yA4Hmw85h) | [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF), [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Salve](https://open.spotify.com/album/2QJdf3e2En6DGh99jd3ZlJ) | 3:18 |
-| 45 | [POR TRES MONEDAS](https://open.spotify.com/track/56cCFw8FHk7W5Sj6kLYseJ) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [POR TRES MONEDAS](https://open.spotify.com/album/2HZRPWMv3X3yVv1QnIyZlT) | 3:53 |
-| 46 | [Blue Planet](https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Blue Planet](https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S) | 2:33 |
-| 47 | [Festejar](https://open.spotify.com/track/2Pl3nggNkBrthtJofSiPfh) | [Emme](https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW) | [Festejar](https://open.spotify.com/album/160XSHPMZFnnDpPH9sUxdY) | 3:48 |
+| 45 | [Festejar](https://open.spotify.com/track/2Pl3nggNkBrthtJofSiPfh) | [Emme](https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW) | [Festejar](https://open.spotify.com/album/160XSHPMZFnnDpPH9sUxdY) | 3:48 |
+| 46 | [POR TRES MONEDAS](https://open.spotify.com/track/56cCFw8FHk7W5Sj6kLYseJ) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [POR TRES MONEDAS](https://open.spotify.com/album/2HZRPWMv3X3yVv1QnIyZlT) | 3:53 |
+| 47 | [Blue Planet](https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Blue Planet](https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S) | 2:33 |
 | 48 | [Libre](https://open.spotify.com/track/7iiErQtUNjJgpKlMlAIEsF) | [Nina Vais](https://open.spotify.com/artist/0qVAQKgjUfw82KTe43p1tF) | [Libre](https://open.spotify.com/album/4etlu4cg4TYpsjpbFEht1e) | 3:57 |
 | 49 | [Invencible](https://open.spotify.com/track/57ZD0rQSin2Tg28Bx1jUxp) | [Jimena Lopez Chaplin](https://open.spotify.com/artist/08aspKTy15p0uOx8hOokKY) | [El Ruido de la Piara](https://open.spotify.com/album/1kDa9uU0TtQ8vjofZQpVeP) | 2:34 |
 | 50 | [El Estado de las Cosas Como Son](https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [El Estado de las Cosas Como Son](https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE) | 3:02 |
 
-Snapshot ID: `MCwzY2VhNzRiMjdmZTgyYjU0Yzk3ZmEyYTc0ODNhMjg4OTRmMjc5YjA4`
+Snapshot ID: `MCwyMGJmNzRhYjI5Mzc5MDI1ZTllYTVhN2Q1N2U3YjQzNWNmOWVlYTAy`

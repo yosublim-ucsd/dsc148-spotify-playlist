@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Johannes Albert
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,044 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,081 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 10 | [Is It Real](https://open.spotify.com/track/0XIq1VxtdNykPaoGLGEGoo) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Is It Real](https://open.spotify.com/album/3jf0Rvnzvs5v1pcfzSGaPP) | 3:06 |
 | 11 | [Chaos](https://open.spotify.com/track/26cZVpJOFxTweuxazYLorj) | [Deorbiting](https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr), [Ira Atari](https://open.spotify.com/artist/6xh4CCUrcNmMuODz3OKduD) | [Chaos](https://open.spotify.com/album/2UvQHB82C2ubSiIpLVbGEC) | 5:18 |
 | 12 | [Petit Jour](https://open.spotify.com/track/583rPY4dNkNk1ED40KAnht) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [A Bunch Of Random Songs](https://open.spotify.com/album/2eJhNaKLtPnYKsr9MDT6hn) | 1:52 |
-| 13 | [House of Love](https://open.spotify.com/track/6ElurfirOqT72TO31NQtCp) | [Enda Gallery](https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET), [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [House of Love](https://open.spotify.com/album/3Jt6tt1pUmASvChPYGdEeq) | 5:09 |
+| 13 | [House of Love](https://open.spotify.com/track/6ElurfirOqT72TO31NQtCp) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Enda Gallery](https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET) | [House of Love](https://open.spotify.com/album/3Jt6tt1pUmASvChPYGdEeq) | 5:09 |
 | 14 | [Echoes Of The Past](https://open.spotify.com/track/25yFIb4x438niHV77uRU8p) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi), [Local Suicide](https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0), [Dina Summer](https://open.spotify.com/artist/0s4dIi02iAv3SiJfBrNhHo) | [WUT](https://open.spotify.com/album/0ooPfXfXVfkv8WjcMkOjnE) | 5:42 |
 | 15 | [One Last Call](https://open.spotify.com/track/4JNzccE5ZScrztydSzruE1) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Lola Melita](https://open.spotify.com/artist/3tEXliVP7fJ9B0e1cJCsxI) | [One Last Call](https://open.spotify.com/album/6QSHLUdOOiWVjjt3KI30ei) | 2:38 |
 | 16 | [Shining](https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Shining](https://open.spotify.com/album/2h2rLM0aSmNe2QNLTZuoCd) | 3:34 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 33 | [Wasting Away](https://open.spotify.com/track/3pvmuDlh6Y8GRkLVYA22fH) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [Wasting Away](https://open.spotify.com/album/2YRAJGtWMaiwUfiPn0gTmy) | 7:00 |
 | 34 | [Skipping Like A Stone \(feat\. Beck\) \- Gerd Janson Remix](https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Skipping Like A Stone \(feat\. Beck\) \[Gerd Janson Remix\]](https://open.spotify.com/album/1sTGjuVWoBksS49T9pOp4b) | 3:05 |
 | 35 | [Let her go](https://open.spotify.com/track/3lorZ6d6wi7xwzjP0tT1q2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [LUCASV](https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB) | [Let her go](https://open.spotify.com/album/2cm797zjKrsntb3q2bfNKg) | 3:02 |
-| 36 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 |
+| 36 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 |
 | 37 | [OKALRIGHTISEEYOU](https://open.spotify.com/track/3PkRzJh41SCMUc2JRJXFR0) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [The Time](https://open.spotify.com/album/2wf89BqslFiWLJK0ZKHulS) | 2:34 |
 | 38 | [Parfaite](https://open.spotify.com/track/1fPvKAh8ZzVJ4yo25Wl1oi) | [Thor Rixon](https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX), [Elodie Gervaise](https://open.spotify.com/artist/6unop8bfA1nenk8F2DpWZB) | [Parfaite](https://open.spotify.com/album/5FP684jxUuq0q4luOBmN4L) | 4:18 |
 | 39 | [Deadbeat Gospel](https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [somedeadbeat](https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6) | [Deadbeat Gospel](https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH) | 4:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Summer Love \- Jan Blomqvist Remix](https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Summer Love \(Jan Blomqvist Remix\)](https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i) | 5:49 |
 | 75 | [Casualities \- YAME Remix](https://open.spotify.com/track/0pAX8suClIReqkFfrA5TsV) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [YAME](https://open.spotify.com/artist/21pXVnPnafVqqIFAaUb7XW), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Casualities \(Yame Remix\)](https://open.spotify.com/album/0RCa4DV10reH3RS8S4HDnB) | 6:54 |
 
-Snapshot ID: `MCw4ZTg4NDc2NmE5MWQ3ODhmOTkyNmFjOWIzOGJlZjY2NGY0YTFiMWMx`
+Snapshot ID: `MCxlYzJhZTIwOTA5ZTYwMTFmMTc5ZTg3YmU1YWFjNmU0YTE1MTljMmRi`

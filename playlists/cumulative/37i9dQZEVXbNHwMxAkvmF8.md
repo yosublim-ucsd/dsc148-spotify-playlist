@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-936 songs - 2 day 0 hr 59 min
+937 songs - 2 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [FÜGGŐ](https://open.spotify.com/track/2zzQFIe6kZ53LffgplVLSd) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [KINCUGI](https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk) | 3:20 | 2023-09-13 | 2023-09-29 |
 | [Gang John Lennon](https://open.spotify.com/track/1IP0VEcQ1FC4ruwDR9OK15) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Gang John Lennon](https://open.spotify.com/album/5eSw3gDhm21MWhUHE1ffM8) | 2:41 | 2023-10-27 |  |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2022-10-04 |
+| [Ganxsta Zolee Tehet Mindenről](https://open.spotify.com/track/7uVfJBixz1VViRCizlpr8L) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Ganxsta Zolee Tehet Mindenről](https://open.spotify.com/album/0SrCxMpHSTvng01kKn0JHm) | 5:04 | 2023-11-04 |  |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-13 |
 | [Gettó csirke](https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Gettó csirke](https://open.spotify.com/album/5uijWBrQElsbRaG2kOJxM4) | 2:16 | 2022-07-26 | 2023-07-27 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-08-13 | 2022-08-15 |
@@ -567,7 +568,7 @@
 | [Még Egyszer](https://open.spotify.com/track/5FCNUpLjSpMdb3dJV83EQi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Még Egyszer](https://open.spotify.com/album/5czNnCtX4HeOlSWmr0DoV5) | 2:36 | 2022-01-28 | 2022-02-26 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-05-31 |
 | [Na Csumi](https://open.spotify.com/track/44xRCZ5b6sWKtK1QdBgCie) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 1:56 | 2023-02-24 | 2023-03-02 |
-| [Nagy a zaj](https://open.spotify.com/track/03x6Xr8YYjQB1m7rmEIubA) | [Aza](https://open.spotify.com/artist/2WLKFllDVAhtb60gNHJGUH), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Nagy a zaj](https://open.spotify.com/album/4wJNylQFGcI1clSiiNuMbT) | 3:00 | 2023-10-21 |  |
+| [Nagy a zaj](https://open.spotify.com/track/03x6Xr8YYjQB1m7rmEIubA) | [Aza](https://open.spotify.com/artist/2WLKFllDVAhtb60gNHJGUH), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Nagy a zaj](https://open.spotify.com/album/4wJNylQFGcI1clSiiNuMbT) | 3:00 | 2023-10-21 | 2023-11-05 |
 | [NAGYKABÁT \(ne játszd az agyad\)](https://open.spotify.com/track/2E1E9HnhYHAbiwkBorPV1Q) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [IV](https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3) | 3:25 | 2023-06-02 | 2023-06-04 |
 | [NDA](https://open.spotify.com/track/38GBNKZUhfBkk3oNlWzRYd) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:15 | 2021-08-05 | 2021-08-06 |
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-07-18 |

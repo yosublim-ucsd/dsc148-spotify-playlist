@@ -5162,10 +5162,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 200171,
       "name": "Ordinary World",
       "url": "https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m"
+    },
+    {
+      "album": {
+        "name": "High Drama",
+        "url": "https://open.spotify.com/album/5wo36E64oDg53M1xWVyZ7d"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200171,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/73dLCr0dOQ9hORkFfvJjoK"
     },
     {
       "album": {
@@ -5450,10 +5468,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 199841,
       "name": "RUNNING UP THAT HILL",
       "url": "https://open.spotify.com/track/0IPux9AVDKm0OiJgqi8b4v"
+    },
+    {
+      "album": {
+        "name": "RUNNING UP THAT HILL",
+        "url": "https://open.spotify.com/album/3k5d8t2nSAr7saw6yqm5vC"
+      },
+      "artists": [
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199841,
+      "name": "RUNNING UP THAT HILL",
+      "url": "https://open.spotify.com/track/4NfjZe19Gsnm4pto3oJ8zb"
     },
     {
       "album": {

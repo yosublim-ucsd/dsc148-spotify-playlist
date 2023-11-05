@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Joy Anonymous
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,591 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,632 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [JOY \(Up The Street\)](https://open.spotify.com/track/5PFSQQxlsdUrR63J31spMv) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Up The Street\)](https://open.spotify.com/album/757FRJv2zPA021rfTPK7hr) | 3:57 |
+| 1 | [JOY \(Up The Street\)](https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Cult Classics](https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6) | 3:57 |
 | 2 | [Always Get Through To You](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 4:06 |
 | 3 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 |
 | 4 | [Ascending Into The Clouds \(feat\. Elisabeth Troy\) \- Edit](https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Elisabeth Troy](https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT) | [Ascending Into The Clouds \(feat\. Elisabeth Troy\) \[Edit\]](https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K) | 3:28 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 44 | [Its me \( g 8 \)](https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Its me \( g 8 \) / Oway \( f 7 \)](https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9) | 5:17 |
 | 45 | [Dive](https://open.spotify.com/track/7oZHQbGCwosUHL1vDE5qdI) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 4:18 |
 | 46 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
-| 47 | [You & I](https://open.spotify.com/track/0x2FCEwCQPBjy9DgyCNTAG) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [You & I](https://open.spotify.com/album/1pRGnxyrtGfMH4o0jihfyU) | 3:32 |
+| 47 | [You & I](https://open.spotify.com/track/3SqFOlaoUGG8DQLQ0pPkEU) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [You & I](https://open.spotify.com/album/6igefRN2lXM6pLTbtyFzAO) | 3:32 |
 | 48 | [gr etiquette](https://open.spotify.com/track/44pX2G3zFb5rvsqy6uaDeF) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [archive 09\-10](https://open.spotify.com/album/7CfTDwpSa8cWyk6GYIERv3) | 5:00 |
 | 49 | [SHiNE](https://open.spotify.com/track/0XkufxjDJOVdVtV0E6Gt78) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [SHiNE](https://open.spotify.com/album/0ZABn38ZUmVmSoi36yQj3M) | 5:44 |
 | 50 | [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 |

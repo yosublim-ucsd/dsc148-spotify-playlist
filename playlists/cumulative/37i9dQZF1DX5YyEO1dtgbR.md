@@ -4,7 +4,7 @@
 
 > Experimental electronic beyond the borders of tradition.
 
-121 songs - 9 hr 18 min
+124 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Efflorescence](https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2) | [Luke Sanger](https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG) | [Languid Gongue](https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s) | 5:30 | 2021-10-15 |  |
 | [Endless Tool](https://open.spotify.com/track/5Ov7EoWpEzoTOuEflf4Ix9) | [Gacha Bakradze](https://open.spotify.com/artist/6dZmlzI1H5SGdkQ8dWRY76) | [Endless Tool](https://open.spotify.com/album/0KHbmUaQNUPVdpb002HuaZ) | 4:26 | 2021-10-15 | 2022-07-29 |
 | [Endless Tool](https://open.spotify.com/track/5rDDpyOU9QDebInoHQjr4l) | [Gacha Bakradze](https://open.spotify.com/artist/6dZmlzI1H5SGdkQ8dWRY76) | [Obscure Languages](https://open.spotify.com/album/5b673Ugn0tsqzlfgZtebZp) | 4:26 | 2022-06-14 |  |
-| [Everything In Its Right Place](https://open.spotify.com/track/4hIjfcWeaUIg5JIgFsqyXj) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Everything In Its Right Place](https://open.spotify.com/album/0IyUMNyvIsMMm1v6WyQ2oQ) | 5:16 | 2021-10-15 |  |
+| [Everything In Its Right Place](https://open.spotify.com/track/0JHMC0yRspj8WLUHimDsI0) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Retrograde](https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs) | 5:16 | 2022-06-14 |  |
+| [Everything In Its Right Place](https://open.spotify.com/track/4hIjfcWeaUIg5JIgFsqyXj) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Everything In Its Right Place](https://open.spotify.com/album/0IyUMNyvIsMMm1v6WyQ2oQ) | 5:16 | 2021-10-15 | 2023-11-05 |
 | [Eœ \(Disk•Initiate\)](https://open.spotify.com/track/7C3vZyZBMcSvUqJsk2p1Xn) | [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [Eœ \(Disk•Initiate\)](https://open.spotify.com/album/6s7E7ojCndNUYt8mTF4JIv) | 3:01 | 2021-10-15 | 2022-06-15 |
 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-15 |  |
 | [Flickering Shadows](https://open.spotify.com/track/7p184ALKyLhtJb8IhmX8qy) | [Laughing Ears](https://open.spotify.com/artist/459p6MR7jigJ8AuqdSYMoj) | [Blood](https://open.spotify.com/album/4ONOBiVS1bbOzYo05uVgT8) | 4:39 | 2021-10-15 |  |
@@ -66,7 +67,8 @@
 | [In Flames](https://open.spotify.com/track/7tKquE5yFjw4p7Oev98FE8) | [Feral](https://open.spotify.com/artist/5DsrGhHrqGPbRsU93R9H5A) | [In Flames](https://open.spotify.com/album/5HEnjjuO3omOyLR158m9qi) | 3:29 | 2021-10-15 |  |
 | [Inlove2 \- Edit](https://open.spotify.com/track/5E2gMJ9KAbaVAscQ20N7Xk) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Inlove2](https://open.spotify.com/album/7L3eq511jN3Avxa2W4KLzP) | 4:06 | 2021-10-15 |  |
 | [Isolate](https://open.spotify.com/track/7wvqSQeFQlFrFnKmgWAyRy) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Pipe Up](https://open.spotify.com/album/6QmtaRvmjdTWtgy93EixQG) | 4:29 | 2021-10-15 | 2022-05-06 |
-| [It’s A Lot](https://open.spotify.com/track/73KoHFtH40JvEGCtFi0UIN) | [Krust](https://open.spotify.com/artist/6WPeOlm3f3UGoO1l6OPOUO) | [The Edge Of Everything](https://open.spotify.com/album/4DeB6ku3F7xSVhgqc4PxKO) | 1:52 | 2021-10-15 |  |
+| [It’s A Lot](https://open.spotify.com/track/0wZpU9weYE0BomxUdSCTgt) | [Krust](https://open.spotify.com/artist/6WPeOlm3f3UGoO1l6OPOUO) | [The Edge of Everything](https://open.spotify.com/album/28AlKDe5X9WlkqJSEYlbFJ) | 1:52 | 2022-06-14 |  |
+| [It’s A Lot](https://open.spotify.com/track/73KoHFtH40JvEGCtFi0UIN) | [Krust](https://open.spotify.com/artist/6WPeOlm3f3UGoO1l6OPOUO) | [The Edge Of Everything](https://open.spotify.com/album/4DeB6ku3F7xSVhgqc4PxKO) | 1:52 | 2021-10-15 | 2023-11-05 |
 | [Ivory Tower](https://open.spotify.com/track/6wbL5eyp7LerIEvebgtsb5) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Ivory Tower](https://open.spotify.com/album/22yVOJ4y3mYqQejQhZ9aRP) | 4:16 | 2021-10-15 | 2022-06-15 |
 | [JL](https://open.spotify.com/track/3dr8H5045j4GJXZOBy2ulI) | [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [JL](https://open.spotify.com/album/1GnwoWxWS0Z91hnlfaMrDM) | 6:00 | 2021-10-15 | 2022-05-06 |
 | [Lambert Rise](https://open.spotify.com/track/7txXvBBhA0YB5L3Bopg5e8) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Ambivalent](https://open.spotify.com/album/7dZYB94TjHB1Kub44SK9j9) | 6:34 | 2021-10-15 |  |
@@ -98,7 +100,8 @@
 | [Ringinglow Oscillation](https://open.spotify.com/track/6u9P4TywnzUBclpceGqlHE) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Dubs: Volume 1](https://open.spotify.com/album/2niP4AM8tXCckxfN3fX9du) | 3:58 | 2021-10-15 |  |
 | [Ritual](https://open.spotify.com/track/1fiLAzFX7J5cfsOqe5Hm3U) | [Arthur Hnatek](https://open.spotify.com/artist/7iKMlMMzSb9jVQDwygYlOT), [Taut](https://open.spotify.com/artist/414TcEcyOyBiJu8cRdKrxE) | [Ritual](https://open.spotify.com/album/3CJw1Ly9KaVZyZQCcLmump) | 4:27 | 2021-10-15 |  |
 | [Rotating In Unison](https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 5:01 | 2021-10-15 | 2022-06-15 |
-| [Roygbiv](https://open.spotify.com/track/06teMXvgw1V8HP3wIfoMUm) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Roygbiv](https://open.spotify.com/album/2l1FDimk3Ps9g404lYOsjr) | 5:08 | 2021-10-15 |  |
+| [Roygbiv](https://open.spotify.com/track/06teMXvgw1V8HP3wIfoMUm) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Roygbiv](https://open.spotify.com/album/2l1FDimk3Ps9g404lYOsjr) | 5:08 | 2021-10-15 | 2023-11-05 |
+| [Roygbiv](https://open.spotify.com/track/0jF2yeHcJLZyaKoow6Pwca) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Retrograde](https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs) | 5:08 | 2022-06-14 |  |
 | [Shafted](https://open.spotify.com/track/3S9qbZmAsQS1wAwafAV5mT) | [Cleyra](https://open.spotify.com/artist/6M4BbcSta78oGBZu6TtGyE) | [Shafted](https://open.spotify.com/album/0Ck52zaGqJB1cUUBs1O5E0) | 5:18 | 2021-10-15 |  |
 | [Shimmer and Glimmer](https://open.spotify.com/track/4ij6tfkN13bt1jfWGWXg9S) | [Chants](https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC) | [Poly Pointillism](https://open.spotify.com/album/66zkrppo8OPQq9kMhxhzp0) | 2:10 | 2021-10-15 | 2023-09-24 |
 | [Shimmer and Glimmer](https://open.spotify.com/track/4w7JDDgv13YI0ZiIwplRSy) | [Chants](https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC) | [Poly Pointillism](https://open.spotify.com/album/7zmMRLwzf3PPnzEBWI2cLi) | 2:10 | 2022-06-14 |  |

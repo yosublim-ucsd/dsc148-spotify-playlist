@@ -4,7 +4,7 @@
 
 > Pacific Northwest music breaking waves\.  Cover: <a href="spotify:artist:0y55D5fL0ywYdEpIQPbwJC">Livt</a>
 
-680 songs - 1 day 7 hr 37 min
+681 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [BALLERINAS](https://open.spotify.com/track/0IiIfoiauhTKTBQrmLGYUv) | [4nti.](https://open.spotify.com/artist/7t7QjpE8ZyifcCHdSuebge), [JENKO106](https://open.spotify.com/artist/2HEktPf7LuTmw2mz7vIYTb) | [BALLERINAS](https://open.spotify.com/album/4Kc5zvbjl9J7vsX7xnH5vW) | 2:38 | 2022-07-22 | 2022-08-20 |
 | [Banana Nut Fuchsia](https://open.spotify.com/track/54KC4ASI2hO6HPYwRmXxaK) | [Fountaine](https://open.spotify.com/artist/1B5fkMxWxc9A7joAcguqQT) | [Wisteria](https://open.spotify.com/album/289g7rWaTykxwn5TGTzwUC) | 3:31 | 2022-03-18 | 2022-04-02 |
 | [BASEMENT BREAKDOWN](https://open.spotify.com/track/29s2rm6gLIi9Ja07LWWcCn) | [Connect Zero](https://open.spotify.com/artist/3k8lBDenIm90lWaSpAYQeH), [D.Worthy](https://open.spotify.com/artist/3erKONJnV1kHT5ksWJLR7y) | [Thursday](https://open.spotify.com/album/150fETWcpRR0cCMoJUxAdx) | 3:28 | 2022-10-25 | 2023-01-14 |
-| [BBE](https://open.spotify.com/track/2cKUo7CyqYmny5qXvkTQku) | [Burdeaux](https://open.spotify.com/artist/1p2NeabusOsQV4orj4I9t1), [AprilFoolChild](https://open.spotify.com/artist/2opJ0Ui15QLmZJVoD3DeNY), [Otheni](https://open.spotify.com/artist/4Z1ClW4pYGRVjPc5v8taXE), [Jaz](https://open.spotify.com/artist/0YMxSEIMDGzx9kQFJUql2c) | [BBE](https://open.spotify.com/album/7zIbvfzPp4ncWBOcdxAWtc) | 3:05 | 2023-10-13 |  |
+| [BBE](https://open.spotify.com/track/6L25wPmGozoYL2u8cTm9QX) | [Burd Hauz](https://open.spotify.com/artist/00A09Fb55VCUhCJk2YQJuM), [AprilFoolChild](https://open.spotify.com/artist/2opJ0Ui15QLmZJVoD3DeNY), [Burdeaux](https://open.spotify.com/artist/1p2NeabusOsQV4orj4I9t1), [JAZ](https://open.spotify.com/artist/0L7e02l1pVpPXNKUyWTOP6), [Otheni](https://open.spotify.com/artist/4Z1ClW4pYGRVjPc5v8taXE) | [BBE](https://open.spotify.com/album/0TFFZA2Crsuiyxehi71wh8) | 3:08 | 2023-10-28 |  |
+| [BBE](https://open.spotify.com/track/2cKUo7CyqYmny5qXvkTQku) | [Burdeaux](https://open.spotify.com/artist/1p2NeabusOsQV4orj4I9t1), [AprilFoolChild](https://open.spotify.com/artist/2opJ0Ui15QLmZJVoD3DeNY), [Otheni](https://open.spotify.com/artist/4Z1ClW4pYGRVjPc5v8taXE), [Jaz](https://open.spotify.com/artist/0YMxSEIMDGzx9kQFJUql2c) | [BBE](https://open.spotify.com/album/7zIbvfzPp4ncWBOcdxAWtc) | 3:05 | 2023-10-13 | 2023-11-05 |
 | [be bye me](https://open.spotify.com/track/2m7OHL3rRlTVCpAKbY3JyV) | [Seiji](https://open.spotify.com/artist/7h8BjWoH0TC1Zf2HwAmdEe) | [we've always been hot](https://open.spotify.com/album/5YS6AAf8hmcMI6fYZq07kf) | 3:29 | 2022-12-02 | 2023-01-14 |
 | [Beat Drop](https://open.spotify.com/track/10DLpyqHKLi9txUHPZjkhF) | [Jarv Dee](https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u), [Bad Colours](https://open.spotify.com/artist/0x3KkCJuve7n51ThZGNAIX) | [Beat Drop](https://open.spotify.com/album/6RD0bjZAAj2yjBhTYGqWpu) | 4:14 | 2023-04-15 | 2023-07-19 |
 | [Beattle](https://open.spotify.com/track/7A7H28DSoMv1k80JAwu2zE) | [Lil Boof](https://open.spotify.com/artist/5F0TXqGLk4v8EAe0TZq0XC), [Glockboyz Teejaee](https://open.spotify.com/artist/59motq6sL51Qqx9KE29oJg) | [Beattle](https://open.spotify.com/album/5XhDVfp44lvQK0xp0g18iE) | 1:41 | 2022-03-18 | 2022-07-19 |

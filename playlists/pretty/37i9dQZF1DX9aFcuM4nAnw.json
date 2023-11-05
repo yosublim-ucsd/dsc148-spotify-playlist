@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 3350,
+  "num_followers": 3352,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGMyNDY2ZjIzNmEyYTI3Nzg1NzczNTYyZjE0ZjEzYmFhNjlhMGZl",
+  "snapshot_id": "MCwwNTVjOTAzMmU3NzZmODNlNTdkZDIzZjhiZjkzMTY2YTNiMmE5YWVh",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Lost Themes",
-        "url": "https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Music for an Empty Metropolis",
         "url": "https://open.spotify.com/album/06Wy4Ua6OmrTNqK4n7BZJo"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
+        "name": "Lost Themes",
+        "url": "https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9"
       },
       "artists": [
         {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
         }
       ],
-      "duration_ms": 203706,
-      "name": "Melancholia I",
-      "url": "https://open.spotify.com/track/5iH9BvzhJ10sfeCEIPoDLN"
+      "duration_ms": 284640,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -663,6 +647,22 @@
       "duration_ms": 256401,
       "name": "Sick Times",
       "url": "https://open.spotify.com/track/1kWsVllnOYVv84DpXxoWr3"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "Melancholia I",
+      "url": "https://open.spotify.com/track/5iH9BvzhJ10sfeCEIPoDLN"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -739,38 +739,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Lost Themes II",
-        "url": "https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 227626,
-      "name": "Utopian Facade",
-      "url": "https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Asleep And Well Hidden",
-        "url": "https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ"
-      },
-      "artists": [
-        {
-          "name": "Kammarheit",
-          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
-        }
-      ],
-      "duration_ms": 430986,
-      "name": "The Ruins And The Serene",
-      "url": "https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "The Detective (II)",
         "url": "https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 650213,
       "name": "dlp 2.1",
       "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Lost Themes II",
+        "url": "https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 227626,
+      "name": "Utopian Facade",
+      "url": "https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Asleep And Well Hidden",
+        "url": "https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ"
+      },
+      "artists": [
+        {
+          "name": "Kammarheit",
+          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
+        }
+      ],
+      "duration_ms": 430986,
+      "name": "The Ruins And The Serene",
+      "url": "https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/6N5cVdUFPXwrFdlAjlsRwA"
     },
     {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Cycles \"Cyclic Law's 10th Year Anniversary Label Sampler\"",
-        "url": "https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp"
-      },
-      "artists": [
-        {
-          "name": "ALLSEITS",
-          "url": "https://open.spotify.com/artist/3KEZRlZ6GtlMcK6ICypOAD"
-        }
-      ],
-      "duration_ms": 508630,
-      "name": "The Moment Before You Fall Asleep",
-      "url": "https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk"
-    },
-    {
       "added_at": "2022-09-03 03:45:57",
       "album": {
         "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
@@ -871,6 +855,22 @@
       "duration_ms": 160441,
       "name": "Kommissar Brenkstrupp (Main Titles)",
       "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Cycles \"Cyclic Law's 10th Year Anniversary Label Sampler\"",
+        "url": "https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp"
+      },
+      "artists": [
+        {
+          "name": "ALLSEITS",
+          "url": "https://open.spotify.com/artist/3KEZRlZ6GtlMcK6ICypOAD"
+        }
+      ],
+      "duration_ms": 508630,
+      "name": "The Moment Before You Fall Asleep",
+      "url": "https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk"
     },
     {
       "added_at": "2022-08-24 01:38:29",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Translucent Communion",
-        "url": "https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl"
-      },
-      "artists": [
-        {
-          "name": "Vestigial",
-          "url": "https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV"
-        }
-      ],
-      "duration_ms": 316840,
-      "name": "Anthropic Uncreation",
-      "url": "https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Gentlemen Take Polaroids",
         "url": "https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 244813,
       "name": "The Experience Of Swimming - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Translucent Communion",
+        "url": "https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl"
+      },
+      "artists": [
+        {
+          "name": "Vestigial",
+          "url": "https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV"
+        }
+      ],
+      "duration_ms": 316840,
+      "name": "Anthropic Uncreation",
+      "url": "https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Loneliness of Hidden Structures",
-        "url": "https://open.spotify.com/album/5zmFF4XK5jiz9i8yNvMyiS"
-      },
-      "artists": [
-        {
-          "name": "New Risen Throne",
-          "url": "https://open.spotify.com/artist/2PBztP9oVOgzWXiIrXONKi"
-        }
-      ],
-      "duration_ms": 554760,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Endessiah",
         "url": "https://open.spotify.com/album/2CJSxFuH7DhuiWweDbwBQH"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 366131,
       "name": "Vocerah",
       "url": "https://open.spotify.com/track/0MkIIsZx4D5fKp0pMZOEQr"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Loneliness of Hidden Structures",
+        "url": "https://open.spotify.com/album/5zmFF4XK5jiz9i8yNvMyiS"
+      },
+      "artists": [
+        {
+          "name": "New Risen Throne",
+          "url": "https://open.spotify.com/artist/2PBztP9oVOgzWXiIrXONKi"
+        }
+      ],
+      "duration_ms": 554760,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A"
     },
     {
       "added_at": "2022-07-06 17:58:03",

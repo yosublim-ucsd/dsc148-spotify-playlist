@@ -10186,7 +10186,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 160887,
       "name": "The Race",
       "url": "https://open.spotify.com/track/3cv2fSTYRr42WM90C9dswx"
@@ -10520,6 +10520,32 @@
       "duration_ms": 218250,
       "name": "Trust Fall",
       "url": "https://open.spotify.com/track/4jQZkLxVApMh4NPRWVSuP9"
+    },
+    {
+      "album": {
+        "name": "Tsunami (Gabry Ponte Remix)",
+        "url": "https://open.spotify.com/album/386j66irGFKDJCWC5KmWnR"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Borgeous",
+          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144360,
+      "name": "Tsunami (Gabry Ponte Remix)",
+      "url": "https://open.spotify.com/track/3wgHsBRNmHDI94vJf5ivpC"
     },
     {
       "album": {

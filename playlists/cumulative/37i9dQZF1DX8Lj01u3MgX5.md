@@ -4,7 +4,7 @@
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-76 songs - 6 hr 30 min
+78 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,9 +36,11 @@
 | [Cutie Pie](https://open.spotify.com/track/3kim6v8wY7HLPaNmw99SxD) | [One Way](https://open.spotify.com/artist/001aJOc7CSQVo3XzoLG4DK) | [Cutie Pie](https://open.spotify.com/album/0mxxWnON99ABmmeQdqX8Ds) | 5:28 | 2020-04-13 |  |
 | [Der Kommissar](https://open.spotify.com/track/0ROtxObpdDA25o5DriPSOk) | [After The Fire](https://open.spotify.com/artist/194g4SFwSSzyPtgkH7v3Cx) | [Radio Hits Of the '80s](https://open.spotify.com/album/4OhFkx7dTPfj0BXerfldyk) | 5:37 | 2020-04-13 |  |
 | [Din daa daa \- Original Version 1983](https://open.spotify.com/track/6IibbxjQER0Y1yKtS7wiQV) | [George Kranz](https://open.spotify.com/artist/0XLhfP0Nt0IYLLKqfWjnbb) | [Din daa daa](https://open.spotify.com/album/77drDlevpf61Fli55FKDal) | 4:11 | 2020-04-13 |  |
-| [Doctor Love](https://open.spotify.com/track/6G8s19BainATJIjqIwXcre) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [12" Master Series Vol\. 1](https://open.spotify.com/album/2Q0k4pZ92k6xI2tQbb4zqk) | 8:20 | 2020-04-13 |  |
+| [Doctor Love](https://open.spotify.com/track/6G8s19BainATJIjqIwXcre) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [12" Master Series Vol\. 1](https://open.spotify.com/album/2Q0k4pZ92k6xI2tQbb4zqk) | 8:20 | 2020-04-13 | 2023-11-05 |
+| [Doctor Love \(Unedited Version\)](https://open.spotify.com/track/3PX3zodPk4HvLjShbLOlTk) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [12" Master Series, Vol\. 1](https://open.spotify.com/album/2DEsdqKWomWTYlvBK68VZ2) | 8:20 | 2020-04-13 |  |
 | [Don't Wanna Fall in Love](https://open.spotify.com/track/6eozUVzr02EXMji1vuxgiP) | [Jane Child](https://open.spotify.com/artist/5JBif5ahOKFFVuEpHhrp8Y) | [Jane Child](https://open.spotify.com/album/7lctp9rkvSczgxQ7OGKQaO) | 4:07 | 2020-04-13 |  |
-| [Don't Waste Your Time](https://open.spotify.com/track/6HCAvDSaFft5KL0ozPFgLs) | [Yarbrough & Peoples](https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV) | [Be a Winner](https://open.spotify.com/album/473YExvg2r8Y82kiAFolOc) | 7:29 | 2020-04-13 |  |
+| [Don't Waste Your Time](https://open.spotify.com/track/6HCAvDSaFft5KL0ozPFgLs) | [Yarbrough & Peoples](https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV) | [Be a Winner](https://open.spotify.com/album/473YExvg2r8Y82kiAFolOc) | 7:29 | 2020-04-13 | 2023-11-05 |
+| [Don't Waste Your Time](https://open.spotify.com/track/7gHnHQwqH96HKVOtmGYmFL) | [Yarbrough & Peoples](https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV) | [Be a Winner](https://open.spotify.com/album/5ePEnyNhAhYDQxe9DOGKjP) | 7:29 | 2020-04-13 |  |
 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 | 2020-04-13 |  |
 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 | 2020-04-13 |  |
 | [Down Under](https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:42 | 2020-04-13 |  |

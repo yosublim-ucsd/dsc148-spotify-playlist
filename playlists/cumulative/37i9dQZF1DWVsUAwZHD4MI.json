@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Xtc (The Lost Scrolls)",
+        "url": "https://open.spotify.com/album/3Bf4rWvrvM5MT1pwNBPxUr"
+      },
+      "artists": [
+        {
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129169,
+      "name": "Horns",
+      "url": "https://open.spotify.com/track/0NPF9SWerJXZrOBP4TmHkm"
+    },
+    {
+      "album": {
         "name": "XTC (The Lost Scrolls)",
         "url": "https://open.spotify.com/album/0PBqzcm8XBZ873Ib5OWGdM"
       },
@@ -766,7 +784,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 129169,
       "name": "Horns",
       "url": "https://open.spotify.com/track/0rcyKRZTyfM0y6qmDPH548"
@@ -2069,6 +2087,28 @@
     },
     {
       "album": {
+        "name": "Cognition",
+        "url": "https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Used To This",
+      "url": "https://open.spotify.com/track/1iL5lMhZdMmVg34AM6xQxx"
+    },
+    {
+      "album": {
         "name": "Used to This",
         "url": "https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm"
       },
@@ -2084,7 +2124,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 226206,
       "name": "Used To This",
       "url": "https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v"

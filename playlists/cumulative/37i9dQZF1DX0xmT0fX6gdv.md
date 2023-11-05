@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4d8OiNWwKaA6MBPq0K06Xa">Mehmet Aslan</a>'s favorite tracks\. Updated regularly\. Curated by Mehmet Aslan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-186 songs - 15 hr 23 min
+187 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Sevince](https://open.spotify.com/track/28JN0yHdCLFCSNZmBsfjhJ) | [Erkin Koray](https://open.spotify.com/artist/4o3Nv2BAyoZkyGaRXv4rT3) | [Şaşkın](https://open.spotify.com/album/2e2sk01WXW88ywLy3Rasz2) | 5:16 | 2023-08-10 |  |
 | [Shadow in the Frame](https://open.spotify.com/track/1AB51lhrNtecjP7qrfQ4fI) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 5:16 | 2023-04-03 |  |
 | [She's Got A Gun \- Instrumental Club Mix / Remastered 2005](https://open.spotify.com/track/0KwSc45seVIWRH0Q5qmOJe) | [Yello](https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi) | [Claro Que Si \(Remastered 2005\)](https://open.spotify.com/album/7l1Fr59dIPSN0ZmaNRJFyY) | 4:01 | 2022-12-23 |  |
-| [Shizowaves](https://open.spotify.com/track/6SpprrswgwoIqn4yRgIFBq) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa) | [More Of That Frightful Oompty Boompty Music](https://open.spotify.com/album/1VlCcaQhG62osTrvRWjJVd) | 5:57 | 2023-03-10 |  |
+| [Shizowaves](https://open.spotify.com/track/3CkxbiJaK8QoSepZ3IGAlc) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa) | [More of That Frightful Oompty Boompty Music](https://open.spotify.com/album/6cogKlCA92dtR5dmcR2PNg) | 5:57 | 2023-10-18 |  |
+| [Shizowaves](https://open.spotify.com/track/6SpprrswgwoIqn4yRgIFBq) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa) | [More Of That Frightful Oompty Boompty Music](https://open.spotify.com/album/1VlCcaQhG62osTrvRWjJVd) | 5:57 | 2023-03-10 | 2023-11-05 |
 | [Sigarası Yaldızlı](https://open.spotify.com/track/3PAGmJCcncz6cVI84T5ATS) | [Oldu O Zaman](https://open.spotify.com/artist/4p1BfGY4c2ljreAkQf8KDz) | [Sigarası Yaldızlı/Mastika](https://open.spotify.com/album/6J2rLYIcmemJPnBRniMenF) | 3:21 | 2023-08-10 |  |
 | [Simple Man](https://open.spotify.com/track/05TGV98024AT3XEJggbfUc) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Popsicle Obstacle](https://open.spotify.com/album/3oQkuW371JRV2E917TSXIL) | 4:55 | 2023-10-18 |  |
 | [Snake Dancer](https://open.spotify.com/track/6lWRwWnjFewXoaoPc7r5ky) | [Mount Kismet](https://open.spotify.com/artist/53QfwKbYZqdndszqjX0oGK) | [Warmer Lanes](https://open.spotify.com/album/5Z64zVjQK6bQotixagykj0) | 5:10 | 2022-12-23 | 2023-08-11 |

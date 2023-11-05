@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Naomi Ivo
 
-2,730 songs - 6 day 23 hr 38 min
+2,732 songs - 6 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1657,7 +1657,8 @@
 | [Never Be Yours](https://open.spotify.com/track/4b3XpVEL0FuPWbBrrh1VWF) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [Never Be Yours](https://open.spotify.com/album/53X2f7MxXmcYtRUdKqCxpo) | 3:23 | 2023-11-02 |  |
 | [Never Ending Story](https://open.spotify.com/track/74YzXaZpvaMbxD3WUWSOd7) | [MY PANTS GETTING WET](https://open.spotify.com/artist/7Mbp8xyz7q6gDftc99v0Ej) | [Never Ending Story](https://open.spotify.com/album/1WupnhCwX4ZvDhsFnYCNLK) | 2:58 | 2023-03-23 | 2023-04-07 |
 | [Never Forget You](https://open.spotify.com/track/1f4SqQ8TfkwLRqzeP7mirN) | [Tyovan](https://open.spotify.com/artist/0LGA76Tw0bC7IrTTCMlHnV) | [Never Forget You](https://open.spotify.com/album/6tuQ5X1yYqCG1Jh26FBQnI) | 4:42 | 2023-07-21 | 2023-08-04 |
-| [Never Let U Go](https://open.spotify.com/track/2hn2sYUCSBY4wvaFJenitf) | [Revo Marty](https://open.spotify.com/artist/0j2PjDgskS5HrDs3qFaJkT), [Alya Zurayya](https://open.spotify.com/artist/3CPz3uIo3kPeMbMaSdGdzm) | [Never Let U Go](https://open.spotify.com/album/5KKzWTaDg025fh4pZwIprG) | 4:17 | 2023-11-02 |  |
+| [Never Let U Go](https://open.spotify.com/track/2hn2sYUCSBY4wvaFJenitf) | [Revo Marty](https://open.spotify.com/artist/0j2PjDgskS5HrDs3qFaJkT), [Alya Zurayya](https://open.spotify.com/artist/3CPz3uIo3kPeMbMaSdGdzm) | [Never Let U Go](https://open.spotify.com/album/5KKzWTaDg025fh4pZwIprG) | 4:17 | 2023-11-02 | 2023-11-05 |
+| [Never Let U Go](https://open.spotify.com/track/7JhaI9PyUKIJChzRpM3btt) | [Revo Marty](https://open.spotify.com/artist/0j2PjDgskS5HrDs3qFaJkT), [Alya Zurayya](https://open.spotify.com/artist/3CPz3uIo3kPeMbMaSdGdzm) | [X](https://open.spotify.com/album/3Ur4LEdLptOm4Z3S2OBcVW) | 4:17 | 2023-11-02 |  |
 | [NEVER M.I.A](https://open.spotify.com/track/5hE90nxYtWWdtRg6n96rL1) | [Fariszam](https://open.spotify.com/artist/5D77od8p9I7ehZu9g5cc2E) | [NEVER M.I.A](https://open.spotify.com/album/1aYbO76vIuDxzFEBHJ9bB7) | 3:32 | 2022-04-14 | 2022-04-29 |
 | [Never Tired of You](https://open.spotify.com/track/0BJtfe9mL26hyzoM0RgAK2) | [Rendika Rizky](https://open.spotify.com/artist/7K2gErJTsg9xYU9LejBEQG) | [Never Tired of You](https://open.spotify.com/album/6kw62P9CJjUAct6F4RKbDl) | 3:29 | 2022-11-24 | 2022-12-01 |
 | [Never Trust](https://open.spotify.com/track/4aFjhUKKXNpIFOZmLSJRUi) | [Cinco Monos](https://open.spotify.com/artist/0OyRczKXxWAVnDp7s1LyoJ) | [Never Trust](https://open.spotify.com/album/2y4ZUohRdTAKHRTnqUO85C) | 3:39 | 2023-06-01 | 2023-06-16 |
@@ -1735,6 +1736,7 @@
 | [One By One](https://open.spotify.com/track/1UJtWFHFTFPhD7ObFWcPBu) | [Will Mara](https://open.spotify.com/artist/5NxczTw9yZIX62WvzQ24mF) | [One By One](https://open.spotify.com/album/68lCxjCp5YnBDCMroaIYoN) | 4:24 | 2022-07-07 | 2022-08-06 |
 | [One Call](https://open.spotify.com/track/4J7ZSctC20MlKM1lNV1Vrr) | [Wevvss](https://open.spotify.com/artist/6zcbd2HfTX8pbqYqmXQkLI) | [One Call](https://open.spotify.com/album/5RPFL0bABYBIapogqMdu00) | 2:44 | 2022-11-24 | 2022-12-01 |
 | [One Dance](https://open.spotify.com/track/31PyTaXDdERSCHBM9ljnFo) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui) | [One Dance](https://open.spotify.com/album/7DJlQJfwIQn09vlzzWo9ka) | 2:28 | 2022-06-02 | 2022-06-24 |
+| [One Day](https://open.spotify.com/track/5sqEPsgV9fxymwoXfpYtF3) | [Darlene Lesmana](https://open.spotify.com/artist/0Y5J3KeS6eeONGh4PcfM7z) | [One Day](https://open.spotify.com/album/4BZJm1RSsA7F9ltztRlGJz) | 2:33 | 2023-11-02 |  |
 | [one day](https://open.spotify.com/track/5XITvV9UhsquzMKppwtIPm) | [Genesis](https://open.spotify.com/artist/2SPKWjIiLNftHDosel316s) | [one day](https://open.spotify.com/album/4SGbt7gZWFLpleHEuAcT4d) | 3:35 | 2022-03-18 | 2022-04-01 |
 | [One Day Without You](https://open.spotify.com/track/3ur1zuuqNuHhwGCYiZ0wxG) | [Eky Paratama](https://open.spotify.com/artist/1b05l619XmRpqo7WOYkusy), [Nathantania](https://open.spotify.com/artist/4RbKEhVQDaQcBwlMLxkb4v), [Jeremy Marcell V](https://open.spotify.com/artist/0HJkozLs69W7eSt9TKyf5U), [Hendry Santoso](https://open.spotify.com/artist/3NwP4M5DmRVhk1Ce5UIZkT) | [One Day Without You](https://open.spotify.com/album/2JTmqi3ypTO9HiMCYMlISi) | 3:20 | 2023-07-14 | 2023-07-28 |
 | [One Kiss](https://open.spotify.com/track/4Le9M3874eNntkmt4ObFeY) | [Nahtan](https://open.spotify.com/artist/7MVfnZqBCCMtY3ZN40hoX7), [Nostragic](https://open.spotify.com/artist/11hCOwlZ8ywuI1dLPESRki), [noirmoone](https://open.spotify.com/artist/6ZQcUhebv5I3Tbu2CPpOCS) | [Dear, Lovely Thing](https://open.spotify.com/album/1teDSiI32EljEhNfARPCkq) | 3:12 | 2023-06-15 | 2023-06-30 |

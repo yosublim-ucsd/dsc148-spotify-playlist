@@ -1706,7 +1706,7 @@
     {
       "album": {
         "name": "Man O To",
-        "url": "https://open.spotify.com/album/4EHthKssV78iSBlgIafIY6"
+        "url": "https://open.spotify.com/album/5zAwGdaVlQ3yf8vF5EIEOo"
       },
       "artists": [
         {
@@ -1717,6 +1717,24 @@
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 580406,
+      "name": "Man O To",
+      "url": "https://open.spotify.com/track/47ur3v3BkQwfTvvK4UOoV4"
+    },
+    {
+      "album": {
+        "name": "Man O To",
+        "url": "https://open.spotify.com/album/4EHthKssV78iSBlgIafIY6"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 580406,
       "name": "Man O To - Original Mix",
       "url": "https://open.spotify.com/track/1jk9NRyYFKPgfCX9BnW6yW"
@@ -2260,7 +2278,7 @@
     {
       "album": {
         "name": "Gidafi Na EP",
-        "url": "https://open.spotify.com/album/2RAVsnjwVCmJ119d4zIxje"
+        "url": "https://open.spotify.com/album/0MXLlCZMJJ40pfZY3dId2b"
       },
       "artists": [
         {
@@ -2275,6 +2293,28 @@
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 374684,
+      "name": "Timba (feat. Kazuyo Shionoiri)",
+      "url": "https://open.spotify.com/track/2tCvpvwVxUnyuvXx8kMyRz"
+    },
+    {
+      "album": {
+        "name": "Gidafi Na EP",
+        "url": "https://open.spotify.com/album/2RAVsnjwVCmJ119d4zIxje"
+      },
+      "artists": [
+        {
+          "name": "Kino Todo",
+          "url": "https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol"
+        },
+        {
+          "name": "Kazuyo Shionoiri",
+          "url": "https://open.spotify.com/artist/2KEaAh5rIGFJVNg043KiMz"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 374684,
       "name": "Timba feat. Kazuyo Shionoiri",
       "url": "https://open.spotify.com/track/7aRmU29IJvT4gZp6lUHU5m"

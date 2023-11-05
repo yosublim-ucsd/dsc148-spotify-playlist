@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW?si=\_fbG6IqYQpSWyW8\_P12\_3A"> Mellissa </a>
 
-618 songs - 1 day 6 hr 11 min
+619 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 | 2022-07-21 | 2022-11-04 |
 | [143](https://open.spotify.com/track/4TbphKYktZwuZyJ28PBC01) | [Iguocho](https://open.spotify.com/artist/7DrFOyOldSkiBk24TE2kcH) | [143](https://open.spotify.com/album/6jOa2qEeQcaR81max3uP2H) | 2:52 | 2022-06-30 | 2022-11-04 |
 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-17 | 2023-09-25 |
-| [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-09-21 |  |
+| [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 | 2023-11-03 |  |
+| [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-09-21 | 2023-11-05 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-23 | 2023-04-21 |
 | [233](https://open.spotify.com/track/3dGkKO2sp2lStUUzllh2Ig) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Charmaine 'L A](https://open.spotify.com/artist/0XbOSZeNvIJbqZrgdKypsP) | [The Sarz Academy Presents: Memories That Last Forever 2](https://open.spotify.com/album/7l1Ew4Exi14LMaosXJW6rf) | 2:13 | 2023-07-20 | 2023-10-05 |
 | [234](https://open.spotify.com/track/2zCzjoAute0BouO3IVo5eh) | [DJ Savy](https://open.spotify.com/artist/5OXVSxR4R3fhxUIO6nJnNf), [9t9](https://open.spotify.com/artist/0lw8ofupGRkY51uAAsdiW4), [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [234](https://open.spotify.com/album/7KLupsQWurAEG9XkDxRX5s) | 3:10 | 2023-01-27 | 2023-02-11 |

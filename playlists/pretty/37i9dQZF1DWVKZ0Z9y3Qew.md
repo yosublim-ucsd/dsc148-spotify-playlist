@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\.  Cover: <a href="spotify:artist:0y55D5fL0ywYdEpIQPbwJC">Livt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,195 likes - 55 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,223 likes - 55 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 31 | [Better](https://open.spotify.com/track/5b8CGGuHTJSgiIfd8T9GJX) | [Noah Coinflip](https://open.spotify.com/artist/1iWOBP5qQoMa21BtwYNfpF), [Anna Therese](https://open.spotify.com/artist/34mbv1yETE0Ca33sdSzzce), [B3lina](https://open.spotify.com/artist/4JhrsygJgbvQZzVT4ETcks) | [Funnel For The Heavens](https://open.spotify.com/album/6sVlw0559ZKCqZ06RYW6A3) | 3:43 |
 | 32 | [CHAMPAGNE](https://open.spotify.com/track/3NIX50sHAEFwIMFeoA6lVg) | [Blakk Soul](https://open.spotify.com/artist/0gZgdRddDWYxFHUf1BX89S) | [SLOW ME DOWN](https://open.spotify.com/album/2DHQZBnm0Div8yyaEZbdNo) | 3:58 |
 | 33 | [Matter Over Mind](https://open.spotify.com/track/4Dc0irvHHjcRaJlePYXCwl) | [Daizha](https://open.spotify.com/artist/3Rrg3qxCFC6sXCT8yIPjn6) | [Matter Over Mind](https://open.spotify.com/album/5uAfvxReve8YqfCxc3MqBb) | 2:44 |
-| 34 | [BBE](https://open.spotify.com/track/2cKUo7CyqYmny5qXvkTQku) | [Burdeaux](https://open.spotify.com/artist/1p2NeabusOsQV4orj4I9t1), [AprilFoolChild](https://open.spotify.com/artist/2opJ0Ui15QLmZJVoD3DeNY), [Otheni](https://open.spotify.com/artist/4Z1ClW4pYGRVjPc5v8taXE), [Jaz](https://open.spotify.com/artist/0YMxSEIMDGzx9kQFJUql2c) | [BBE](https://open.spotify.com/album/7zIbvfzPp4ncWBOcdxAWtc) | 3:05 |
+| 34 | [BBE](https://open.spotify.com/track/6L25wPmGozoYL2u8cTm9QX) | [Burd Hauz](https://open.spotify.com/artist/00A09Fb55VCUhCJk2YQJuM), [AprilFoolChild](https://open.spotify.com/artist/2opJ0Ui15QLmZJVoD3DeNY), [Burdeaux](https://open.spotify.com/artist/1p2NeabusOsQV4orj4I9t1), [JAZ](https://open.spotify.com/artist/0L7e02l1pVpPXNKUyWTOP6), [Otheni](https://open.spotify.com/artist/4Z1ClW4pYGRVjPc5v8taXE) | [BBE](https://open.spotify.com/album/0TFFZA2Crsuiyxehi71wh8) | 3:08 |
 | 35 | [Memory Lane](https://open.spotify.com/track/73gWcv6qHYk566eUNEs9Sa) | [Myke Bogan](https://open.spotify.com/artist/5BLrsIX3Uipmt9QAiZGYEl) | ['91 Lottery Pick](https://open.spotify.com/album/6g9wGAthBWFUZuJryiA2GB) | 3:00 |
 | 36 | [STOPIT!!](https://open.spotify.com/track/4w6ZuEOv4b44jgLNNIe4wH) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [STOPIT!!](https://open.spotify.com/album/7vUWNzS5R9h8bcXPEBMAsY) | 2:59 |
 | 37 | [I Can’t Go](https://open.spotify.com/track/2ujuFy73aDSLmt75L8MfOY) | [Ghoulavelii](https://open.spotify.com/artist/6nwEYQKFXGAKvwnUqZUd52), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [bleezus](https://open.spotify.com/album/12DSLXg8ki9qfo1C3Trovz) | 1:37 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 54 | [DX FREESTYLE](https://open.spotify.com/track/74Ceds2DwoSB3PIZ3xA24B) | [Kid Cambo](https://open.spotify.com/artist/4n9wn5OJVBp96xO2cAqVDf), [SuburbanTrapstar](https://open.spotify.com/artist/467zkq3yEhxHqSaXi6aUfL) | [KC CHRONICLES](https://open.spotify.com/album/4DA0mreqoWOuz0Ma1i3TYs) | 2:38 |
 | 55 | [Nann](https://open.spotify.com/track/1LSR4qQRrDaHVeDHQNi31H) | [Dyrect](https://open.spotify.com/artist/1dhCuRGoNbR8a8bhdY3UUs), [Drae Slapz](https://open.spotify.com/artist/1RKGcbu15VTqYNYMjyisNM), [Scooter Rogers](https://open.spotify.com/artist/6KKQAa1W5yArQ6Q31UFFcG) | [Nann](https://open.spotify.com/album/3EHesZZ4ZqLuc6eyUwo9bR) | 2:42 |
 
-Snapshot ID: `MCxhYmY2NzM2ODBlOTBlNTM2M2IyZjAxMWNiZTE0MWQ2OTYyOGY3M2Vm`
+Snapshot ID: `MCw5ZjcyNjcyNjY1ZGUzMjU5NDNjNzkxN2U3NDhjODJiOWVjNDg1ODFm`

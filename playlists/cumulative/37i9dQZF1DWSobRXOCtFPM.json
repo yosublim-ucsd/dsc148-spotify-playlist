@@ -1364,10 +1364,28 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 411461,
       "name": "Glide",
       "url": "https://open.spotify.com/track/0LwFDv8lo6CTYX8PJTkPTg"
+    },
+    {
+      "album": {
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/2kFatAysOie6efuToYfURj"
+      },
+      "artists": [
+        {
+          "name": "Dave Angel",
+          "url": "https://open.spotify.com/artist/2Fd3lWDA61b5dcoEwNvWuT"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411461,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/5PKHKT13ofjRrFCty1ECwO"
     },
     {
       "album": {
@@ -1994,10 +2012,32 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 370610,
       "name": "Intentionally - Carl Cox Remix",
       "url": "https://open.spotify.com/track/2CnbcGoBNtbSjgF8pYJ71Y"
+    },
+    {
+      "album": {
+        "name": "Intentionally",
+        "url": "https://open.spotify.com/album/7hvs9s04RTMT3N2hakn9fb"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370610,
+      "name": "Intentionally - Carl Cox Remix",
+      "url": "https://open.spotify.com/track/3BIlYx3GcANtn0WYMKRBiG"
     },
     {
       "album": {
@@ -4080,10 +4120,36 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 387096,
       "name": "Wait A Minute - Dixon Extension",
       "url": "https://open.spotify.com/track/2O2oWOUJM14dWhQNpkcSbD"
+    },
+    {
+      "album": {
+        "name": "Wait a Minute",
+        "url": "https://open.spotify.com/album/1BMlO7uf4ecNmDEFBSikBQ"
+      },
+      "artists": [
+        {
+          "name": "Radio Slave",
+          "url": "https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3"
+        },
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        },
+        {
+          "name": "Dixon",
+          "url": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387096,
+      "name": "Wait A Minute - Dixon Extension",
+      "url": "https://open.spotify.com/track/6A11icgW6M1sn2xdHVIuSi"
     },
     {
       "album": {

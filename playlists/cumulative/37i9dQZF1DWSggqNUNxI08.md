@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:69zPIMRgsZieOHFtHtvnj0">Yu Su</a>'s favorite tracks\. Updated regularly\. Curated by Yu Su\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-161 songs - 16 hr 47 min
+163 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Boys Cry](https://open.spotify.com/track/0zfEIfI1uIwInvPPfDIrpy) | [Local Artist](https://open.spotify.com/artist/0gsJgj7k1eMp55jA0Mpyxb) | [Touch Tone](https://open.spotify.com/album/78Ads0LCKHsq4N3vZsNQJq) | 5:35 | 2022-08-26 | 2023-04-01 |
 | [Brunela](https://open.spotify.com/track/6U7jhpXZ2ClCSVwvoyvb4R) | [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [Tongue](https://open.spotify.com/album/0MkmGLOt30qLXDQRNf5S2s) | 7:27 | 2023-08-25 |  |
 | [Burmstar \- Twin Mix](https://open.spotify.com/track/37MVF9zNff5JvP4aPiWmLr) | [House of Doors](https://open.spotify.com/artist/3z85hiyJnuYbtGHnJkrkGP) | [Starcave](https://open.spotify.com/album/0Y2JZ9oJR22dxCfxu49IHd) | 7:21 | 2022-04-18 | 2023-04-01 |
-| [Bushwa \- Smagghe & Cross Version](https://open.spotify.com/track/57oF6BtdUFLWnmjXADMEAn) | [Chez de Milo](https://open.spotify.com/artist/7jPSujSofbQnGDg3H2TFcp), [Smagghe & Cross](https://open.spotify.com/artist/4aLw2jqSywRPpArQOZD0UV) | [Bushwa EP](https://open.spotify.com/album/7yfArOEiLyTw8nOcTuA7lE) | 10:39 | 2023-08-25 |  |
+| [Bushwa \- Smagghe & Cross Version](https://open.spotify.com/track/3YedpyFKdLEgHnEOSQEMUi) | [Chez de Milo](https://open.spotify.com/artist/7jPSujSofbQnGDg3H2TFcp), [Smagghe & Cross](https://open.spotify.com/artist/4aLw2jqSywRPpArQOZD0UV) | [Bushwa EP](https://open.spotify.com/album/2PaX8QacOxTf3tT7H8MCI2) | 10:39 | 2023-08-25 |  |
+| [Bushwa \- Smagghe & Cross Version](https://open.spotify.com/track/57oF6BtdUFLWnmjXADMEAn) | [Chez de Milo](https://open.spotify.com/artist/7jPSujSofbQnGDg3H2TFcp), [Smagghe & Cross](https://open.spotify.com/artist/4aLw2jqSywRPpArQOZD0UV) | [Bushwa EP](https://open.spotify.com/album/7yfArOEiLyTw8nOcTuA7lE) | 10:39 | 2023-08-25 | 2023-11-05 |
 | [Cerca \- Original Mix](https://open.spotify.com/track/3Bw4Cb9gyZjeXcs7vjwNBY) | [Rizu X](https://open.spotify.com/artist/60IGzj32RF9CpYhLWOA0iX) | [Solidarity Forever Vol\. 3](https://open.spotify.com/album/0cxwcXQmXpC6FijuwpHtOw) | 3:46 | 2022-06-01 | 2023-04-01 |
 | [Charlev](https://open.spotify.com/track/6NzQ3sCgPlenO0eBxDSRJy) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Shelley's on Zenn\-La](https://open.spotify.com/album/66SQ6MmErubBKSzojD0HdO) | 8:27 | 2022-04-18 | 2023-04-01 |
 | [Cherry](https://open.spotify.com/track/7qdthSAP02SdvLGisBEVtI) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 5:55 | 2022-06-01 | 2023-04-01 |
@@ -82,7 +83,8 @@
 | [Houston We Have a Problem](https://open.spotify.com/track/3MXmUXRFXn4ydAVrYPV0N2) | [Genius Of Time](https://open.spotify.com/artist/1PyOgBv0gb5p75Y6iS6uM2) | [Drifting Back](https://open.spotify.com/album/1lCSbBxtNLzA8cdu8GnpI7) | 7:25 | 2022-04-18 | 2023-04-01 |
 | [Idol \- Prins Thomas Diskomiks](https://open.spotify.com/track/0TlwEnIiTM9KU9CLm8wGlX) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Panorama EP](https://open.spotify.com/album/7chkAhG5ThiQdr7ESj2EYK) | 8:31 | 2022-04-18 | 2023-04-01 |
 | [Inna Circle](https://open.spotify.com/track/3Xf4fcNQbjBZSuj0iQjIxw) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [All Hours](https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN) | 5:24 | 2022-04-18 | 2023-04-01 |
-| [Inner Rhythm \- Higher World Mix](https://open.spotify.com/track/2OciONxbClzOO48v7EeEa4) | [Exquisite Corpse](https://open.spotify.com/artist/6gstrxfobyKePO9egUPDLo) | [Between Rhythms I](https://open.spotify.com/album/1Ohs55A6Zqt2hK3iOiqgj1) | 8:10 | 2023-08-25 |  |
+| [Inner Rhythm \- Higher World Mix](https://open.spotify.com/track/2OciONxbClzOO48v7EeEa4) | [Exquisite Corpse](https://open.spotify.com/artist/6gstrxfobyKePO9egUPDLo) | [Between Rhythms I](https://open.spotify.com/album/1Ohs55A6Zqt2hK3iOiqgj1) | 8:10 | 2023-08-25 | 2023-11-05 |
+| [Inner Rhythm \- Higher World Mix](https://open.spotify.com/track/2in8sK3ePe7bUeYphpHspg) | [Exquisite Corpse](https://open.spotify.com/artist/6gstrxfobyKePO9egUPDLo) | [Between Rhythms I](https://open.spotify.com/album/2pi2CFmohwf8QLCEiIe9CI) | 8:10 | 2023-08-25 |  |
 | [Innocence](https://open.spotify.com/track/4zT54MxauLKKxBZwKxEnbv) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [All My Dreams / Innocence](https://open.spotify.com/album/31XysRt68aOpq8XmlgLT2y) | 6:27 | 2022-04-18 | 2023-04-01 |
 | [It's Time \(To Move Your Body\)](https://open.spotify.com/track/7dZeqjvrN3uWT5DKWwaVFM) | [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4) | [It's Time \(To Move Your Body\)](https://open.spotify.com/album/5rtqPft0DCNZKEsDlJQVBH) | 7:40 | 2023-03-31 | 2023-08-26 |
 | [IV](https://open.spotify.com/track/4UlMDpLOxR09Q5DmToWxZE) | [Chestnut People](https://open.spotify.com/artist/14JcRsBfqwxe1kiXVKevp2), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [Ludwig A.F.](https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5) | [Chestnut People](https://open.spotify.com/album/7JDUEtGiAmhgVf9AGjt2aL) | 4:44 | 2023-03-31 | 2023-08-26 |

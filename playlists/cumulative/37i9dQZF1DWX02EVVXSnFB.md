@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-155 songs - 10 hr 36 min
+156 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Dopamine](https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd) | 4:03 | 2022-03-23 | 2023-04-19 |
 | [Dopamine](https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt) | 4:03 | 2022-03-23 | 2022-10-13 |
 | [Ecstasy](https://open.spotify.com/track/5VERxHcc22yeUJoaHZzAcj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [ENERGY \(Deluxe\)](https://open.spotify.com/album/6wp1us3xBnYz5qldxrZXRf) | 5:03 | 2023-04-18 | 2023-09-29 |
-| [Emerald Acid \- Edit](https://open.spotify.com/track/4GBGhCETm1W6uFclNDR5N0) | [Paddy Chambers](https://open.spotify.com/artist/2rM11nGyYVlmm9LGF1p8Mx) | [Emerald Acid E.P](https://open.spotify.com/album/5EV07ut27slAvgMQUBg04T) | 3:52 | 2023-09-28 |  |
+| [Emerald Acid \- Edit](https://open.spotify.com/track/27DSG9kQjulz4EDVZGNf0N) | [Paddy Chambers](https://open.spotify.com/artist/2rM11nGyYVlmm9LGF1p8Mx) | [Emerald Acid E.P](https://open.spotify.com/album/7CHrv2K6x7ZlOvkp6FQQUR) | 3:52 | 2023-09-28 |  |
+| [Emerald Acid \- Edit](https://open.spotify.com/track/4GBGhCETm1W6uFclNDR5N0) | [Paddy Chambers](https://open.spotify.com/artist/2rM11nGyYVlmm9LGF1p8Mx) | [Emerald Acid E.P](https://open.spotify.com/album/5EV07ut27slAvgMQUBg04T) | 3:52 | 2023-09-28 | 2023-11-05 |
 | [EQUILIBRIUM](https://open.spotify.com/track/2GnhkfBcDsFdG1MQILHM3j) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [EQUILIBRIUM](https://open.spotify.com/album/5e3V72rf9cvVg8hMS5UvHH) | 4:49 | 2022-03-23 | 2023-04-19 |
 | [Fallin' Apart](https://open.spotify.com/track/2qKmnm0cEXnvD82C6Sr2hs) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Fallin' Apart](https://open.spotify.com/album/7LK33wpZ5LmLwWkCMxDXdp) | 2:04 | 2022-03-23 | 2023-04-19 |
 | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/track/0yU8ftsMI0LDMtee8TDsDR) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/album/0CttfgSuHvMSFKshmwa8vb) | 4:05 | 2022-03-23 | 2023-04-19 |

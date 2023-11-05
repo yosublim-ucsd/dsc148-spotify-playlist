@@ -536,6 +536,32 @@
     {
       "album": {
         "name": "Desperado",
+        "url": "https://open.spotify.com/album/6gK6sqXvnT0ZHNG5L1XXTd"
+      },
+      "artists": [
+        {
+          "name": "ARKADYAN",
+          "url": "https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI"
+        },
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        },
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407359,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/2hcsrCxx6PVrV21fAxt1k4"
+    },
+    {
+      "album": {
+        "name": "Desperado",
         "url": "https://open.spotify.com/album/1D24WkLNkBUzFWHLXBBIab"
       },
       "artists": [
@@ -558,7 +584,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 408000,
       "name": "Desperado - Vocal Mix",
       "url": "https://open.spotify.com/track/5SDO2GkFtXM0PD5jpymcBD"
@@ -1184,6 +1210,24 @@
     {
       "album": {
         "name": "Malawi",
+        "url": "https://open.spotify.com/album/7ixdpATJyqFtWGevSD7PJU"
+      },
+      "artists": [
+        {
+          "name": "SirYLL",
+          "url": "https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283421,
+      "name": "Malawi",
+      "url": "https://open.spotify.com/track/0cxZ9Fv1rYRavkbVvdwBT7"
+    },
+    {
+      "album": {
+        "name": "Malawi",
         "url": "https://open.spotify.com/album/03Wo3nvGfVpF0rxfRjy1ah"
       },
       "artists": [
@@ -1194,7 +1238,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 283421,
       "name": "Malawi",
       "url": "https://open.spotify.com/track/0uWQOZM4uKSIdAa0RJMpCT"
@@ -1907,6 +1951,28 @@
     },
     {
       "album": {
+        "name": "Somebody (Edit)",
+        "url": "https://open.spotify.com/album/294RRK6GjMAA3ezK8KTMxj"
+      },
+      "artists": [
+        {
+          "name": "Fahlberg",
+          "url": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
+        },
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223604,
+      "name": "Somebody - Edit",
+      "url": "https://open.spotify.com/track/6sGmDThWXd16RUqAI4VRFz"
+    },
+    {
+      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/6A6oGWjdOX6v40tZU9pW44"
       },
@@ -1922,7 +1988,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 223604,
       "name": "Somebody - Edit",
       "url": "https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3"
@@ -2318,10 +2384,32 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 504590,
       "name": "What To Do - &ME Remix",
       "url": "https://open.spotify.com/track/0RMQgXHIBTsAVcaS7qahLq"
+    },
+    {
+      "album": {
+        "name": "What to Do (Remixes)",
+        "url": "https://open.spotify.com/album/5YZFw1wuLL8CeSriTv4Q7w"
+      },
+      "artists": [
+        {
+          "name": "Guy Gerber",
+          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504590,
+      "name": "What To Do - &ME Remix",
+      "url": "https://open.spotify.com/track/3PpvhYXmJdfoxeXGWJmeas"
     },
     {
       "album": {

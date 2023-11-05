@@ -1362,10 +1362,28 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 379354,
       "name": "Impulse",
       "url": "https://open.spotify.com/track/2RxDjKBtUA7GtZ4LvFDhja"
+    },
+    {
+      "album": {
+        "name": "Perception EP",
+        "url": "https://open.spotify.com/album/1ZNzbSuiP4FqaDMm4JBDxx"
+      },
+      "artists": [
+        {
+          "name": "John Monkman",
+          "url": "https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379354,
+      "name": "Impulse",
+      "url": "https://open.spotify.com/track/357Z9pzQhR76XhT5iFcrAC"
     },
     {
       "album": {
@@ -1442,6 +1460,24 @@
     {
       "album": {
         "name": "Professional Laptop Conductor",
+        "url": "https://open.spotify.com/album/0tewLuhaCeOqViRUn6AWiS"
+      },
+      "artists": [
+        {
+          "name": "Dharma",
+          "url": "https://open.spotify.com/artist/4VFSqLDEGp8fp9E8EuWHmf"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362000,
+      "name": "Kernal Task Nightmare",
+      "url": "https://open.spotify.com/track/2FE0f3Upp8TBacZseAUJiO"
+    },
+    {
+      "album": {
+        "name": "Professional Laptop Conductor",
         "url": "https://open.spotify.com/album/6DjoLce7XdDc0q5wzXvFrJ"
       },
       "artists": [
@@ -1452,7 +1488,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 362000,
       "name": "Kernal Task Nightmare",
       "url": "https://open.spotify.com/track/6hcA0iqNR9fGqLhIpICCNr"

@@ -4,7 +4,7 @@
 
 > Bold tracks packing some serious swagger.
 
-189 songs - 10 hr 55 min
+190 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Dreamcatchers](https://open.spotify.com/track/66K0gSHdemfDspYgDgPrcf) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2) | 1:51 | 2023-03-10 |  |
 | [Dreamcatchers](https://open.spotify.com/track/7uXwbnpGfGRwlB7CWeC6Aw) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/0FRWio6Rx37fyPEBj5BmpI) | 1:51 | 2021-11-19 | 2022-07-29 |
 | [Electric Bones](https://open.spotify.com/track/0d909fyTumkG4JgC7kxTCm) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Electric Bones](https://open.spotify.com/album/66k9l9BgsvP7KDKkjWU6xX) | 3:12 | 2021-11-19 | 2023-11-04 |
-| [Electric Bones](https://open.spotify.com/track/1qVRnP3NeKUGkSS5KsQZzr) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Forgotten Pleasures](https://open.spotify.com/album/2y53uIU8txKLctaYpLTPqe) | 3:12 | 2023-03-10 |  |
+| [Electric Bones](https://open.spotify.com/track/1qVRnP3NeKUGkSS5KsQZzr) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Forgotten Pleasures](https://open.spotify.com/album/2y53uIU8txKLctaYpLTPqe) | 3:12 | 2023-03-10 | 2023-11-05 |
+| [Electric Bones](https://open.spotify.com/track/2P7s3YjIeYTpzfFG5sZzFG) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Forgotten Pleasures](https://open.spotify.com/album/3bZwjGGcZQ8dx0L5psGXEI) | 3:12 | 2023-03-10 |  |
 | [Everybody Walkin' This Land](https://open.spotify.com/track/54uKUgwc6BkXRIs3YWDAhb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Everybody Walkin' This Land](https://open.spotify.com/album/7LKWnW1twZg3M2HugzO4Qb) | 3:06 | 2021-11-19 | 2022-07-29 |
 | [Everybody Walkin' This Land](https://open.spotify.com/track/7LXLgoroFNCQQpMQt0tMA7) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Everybody Walkin' This Land](https://open.spotify.com/album/4JkTiX8mi8aEkAg8Pmal3c) | 3:06 | 2022-07-11 |  |
 | [Eyez](https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Eyez](https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4) | 3:40 | 2022-12-09 |  |

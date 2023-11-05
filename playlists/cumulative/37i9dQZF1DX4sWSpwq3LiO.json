@@ -29120,10 +29120,32 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 181079,
       "name": "Windspiel",
       "url": "https://open.spotify.com/track/5UvdAChDs1Rr0GYEkUMZma"
+    },
+    {
+      "album": {
+        "name": "DNA II",
+        "url": "https://open.spotify.com/album/7mlJEU7EAn7LqgBmLX8b2p"
+      },
+      "artists": [
+        {
+          "name": "Kris Steininger",
+          "url": "https://open.spotify.com/artist/0GJwTqQAbBrHQ44tXTJ1Sb"
+        },
+        {
+          "name": "Dario Lessing",
+          "url": "https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181079,
+      "name": "Windspiel",
+      "url": "https://open.spotify.com/track/3g3Xf5ANiiv91xwMsN8KJs"
     },
     {
       "album": {

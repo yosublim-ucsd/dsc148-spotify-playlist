@@ -4,7 +4,7 @@
 
 > Work or rest with these gems from the 80s.
 
-203 songs - 14 hr 37 min
+205 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Can't Stay Away from You](https://open.spotify.com/track/3JeTD3IfCntCx3nLSAv56U) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Let It Loose](https://open.spotify.com/album/1QFhYMcCFGK1pVVwStxf4x) | 3:55 | 2018-12-12 |  |
 | [Can't Stay Away from You](https://open.spotify.com/track/3RVFcKmgDFuYeYIdxBXK8K) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Anything For You](https://open.spotify.com/album/3XWGJ1AnLkMtCq3w5t8ETl) | 3:58 | 2018-12-12 | 2022-07-29 |
 | [Careless Whisper](https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 5:02 | 2018-12-12 |  |
-| [Contacting My Angel](https://open.spotify.com/track/3oy4xC2pSV0ieFvd7RAYAH) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Avalon Sunset](https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi) | 4:58 | 2018-12-12 |  |
+| [Contacting My Angel](https://open.spotify.com/track/3oy4xC2pSV0ieFvd7RAYAH) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Avalon Sunset](https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi) | 4:58 | 2018-12-12 | 2023-11-05 |
 | [Drive](https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City](https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO) | 3:54 | 2018-12-12 |  |
 | [Drive](https://open.spotify.com/track/1s4Mvh3jgFCJJijR53JIEx) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Complete Greatest Hits](https://open.spotify.com/album/6ooUxOl89UHr11ADJjGQlH) | 3:57 | 2018-12-12 | 2022-07-27 |
 | [Easter Parade](https://open.spotify.com/track/1tpmxprFpSPS7sOmFySmGl) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [A Walk Across The Rooftops](https://open.spotify.com/album/2UrSPDjccATKgu4CIxu8IV) | 4:34 | 2018-12-12 | 2022-07-29 |
@@ -52,6 +52,7 @@
 | [Englishman In New York](https://open.spotify.com/track/1pKn0aqTVilaBJDKWJ6Aaf) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun \(Expanded Edition\)](https://open.spotify.com/album/4NulPUAJ3mgNc7A0yohd2z) | 4:27 | 2018-12-12 | 2022-11-13 |
 | [Englishman In New York](https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 4:27 | 2018-12-12 |  |
 | [Euerybody's Got To Learn Sometime](https://open.spotify.com/track/0Cj5bxoNKUjF2pBEsyvCSH) | [The Korgis](https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3) | [The Korgis Best](https://open.spotify.com/album/4ZHy6lwP7dacMqbTR221oW) | 4:11 | 2018-12-12 | 2022-07-29 |
+| [Everybody's Got To Learn Sometime](https://open.spotify.com/track/1bP8oWk4crQOlwlG5DKeGY) | [The Korgis](https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3) | [...By Appointment](https://open.spotify.com/album/7on9pbqcvWOX46FjzuaumM) | 4:11 | 2018-12-12 |  |
 | [Everybody's Got To Learn Sometime](https://open.spotify.com/track/2PxyiPwogw6C9yu1jRgFiA) | [The Korgis](https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3) | [The Korgis Kollection](https://open.spotify.com/album/13sFIOMblyr8x7TwD546jN) | 4:11 | 2018-12-12 | 2023-03-19 |
 | [Exile](https://open.spotify.com/track/7DHYLGnhdmeladlQ0LM0Nf) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Stars](https://open.spotify.com/album/72w5kKwWOO5b065Flb8hv2) | 4:22 | 2018-12-12 | 2022-11-14 |
 | [Exile \- 2009 Remaster](https://open.spotify.com/track/7zNfdQ6CMDFTy5lpTuANdq) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Watermark \(2009 Remaster\)](https://open.spotify.com/album/0NJjvdOd3ULUTvoVFCCFJN) | 4:21 | 2018-12-12 |  |
@@ -72,6 +73,7 @@
 | [Has Anyone Ever Written Anything for You](https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:39 | 2018-12-12 |  |
 | [Haunt Me](https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 5:50 | 2018-12-12 |  |
 | [Haunt Me](https://open.spotify.com/track/647Fewb7o3mtM9qUTT9l2r) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/5FeiZwAMqXeirKjp60E03b) | 5:50 | 2018-12-12 | 2022-07-05 |
+| [Hold Me Now](https://open.spotify.com/track/43h4FonpCeaaURpFpiQsf9) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into the Gap \(Deluxe Edition\)](https://open.spotify.com/album/0Ev5WLJKbqwakkJlgGDcgo) | 4:46 | 2018-12-12 |  |
 | [Hold Me Now](https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into the Gap \(Deluxe Edition\)](https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX) | 4:46 | 2018-12-12 | 2023-11-04 |
 | [Hold Me Now](https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into The Gap](https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0) | 4:46 | 2018-12-12 | 2022-11-27 |
 | [Hold Me Now](https://open.spotify.com/track/1B1Y52ftMyCmgjPsEMQDqq) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into The Gap](https://open.spotify.com/album/0EKvjXCkgxeH6YjfN7ScYR) | 4:46 | 2018-12-12 | 2023-04-15 |
@@ -204,7 +206,7 @@
 | [Wild Theme](https://open.spotify.com/track/0RDDGPBOc9hgqQiBHvCBVi) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Local Hero](https://open.spotify.com/album/0xWqprLlB2Rjve0qQPoaaw) | 3:39 | 2018-12-12 | 2023-09-15 |
 | [Will You?](https://open.spotify.com/track/4PtZnR7nR4zUlSm1efYvry) | [Hazel O'Connor](https://open.spotify.com/artist/7Dwkme6QjRdS4dF4eNNJ5Y) | [Breaking Glass](https://open.spotify.com/album/02m7p5Qxr1RZld36bUBjVK) | 4:49 | 2018-12-12 | 2022-07-29 |
 | [With God On Our Side](https://open.spotify.com/track/2UesoZg57jd9tvS81tFOHa) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/30C3EQGiT0zJQAI37XR9R7) | 6:37 | 2018-12-12 | 2022-07-29 |
-| [With God On Our Side](https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 6:40 | 2018-12-12 |  |
+| [With God On Our Side](https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 6:40 | 2018-12-12 | 2023-11-05 |
 | [Woman In Chains](https://open.spotify.com/track/1S5UOWuhJMgjvenowpn47a) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Festa della Donna](https://open.spotify.com/album/4dbRGsd8TQWhAiSpKNNzs0) | 6:30 | 2018-12-12 | 2022-11-14 |
 | [Woman In Chains](https://open.spotify.com/track/1ydGjYPl6SkTBwy6yhRCJT) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [The Seeds Of Love](https://open.spotify.com/album/4M0DNIYXbpCdKnVV4LoD9X) | 6:30 | 2018-12-12 |  |
 | [Woman In Chains](https://open.spotify.com/track/5jmwL2MniQj9ldptIm1h1B) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [The Seeds Of Love](https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO) | 6:31 | 2018-12-12 | 2023-07-19 |

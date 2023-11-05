@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 65528,
+  "num_followers": 65568,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmY2NTk5NGUyMjc0NjJlYWI5YTMwZDljMzljNTlhOGE1N2U1YjIw",
+  "snapshot_id": "MCw0MDYzOWExOTRiMzkzNzcxYjMzMGE4NWJkNDQwMDRiOGQxZTQzYmI0",
   "tracks": [
     {
       "added_at": "2023-10-20 03:09:14",
@@ -707,6 +707,26 @@
     {
       "added_at": "2023-10-20 03:09:14",
       "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/7v5z2GBVV7qcIv3Amvn1l0"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/2W0VenqvlMW4c65YsxT5zu"
+    },
+    {
+      "added_at": "2023-10-20 03:09:14",
+      "album": {
         "name": "Zod\u00edaco",
         "url": "https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 172000,
       "name": "Sagit\u00e1rio",
       "url": "https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV"
-    },
-    {
-      "added_at": "2023-10-20 03:09:14",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/7v5z2GBVV7qcIv3Amvn1l0"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/2W0VenqvlMW4c65YsxT5zu"
     },
     {
       "added_at": "2023-10-20 03:09:14",

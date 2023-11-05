@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,131 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,142 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 16 | [Baby, We're Ascending](https://open.spotify.com/track/614NfZjf8rMY2bErgwhzR5) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 6:27 |
 | 17 | [2k Garage](https://open.spotify.com/track/00X8YRar9dwc5GB6kPOv9f) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Skylines \- Citylights](https://open.spotify.com/album/2DZy15GXtChjNiM5tH2hKV) | 5:21 |
 | 18 | [Turning My Head](https://open.spotify.com/track/3HG0bL6apxDTfjijRapnI2) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Turning My Head](https://open.spotify.com/album/7rRwW48AX1FwDvBl8Oalap) | 6:41 |
-| 19 | [Find Your Way Home](https://open.spotify.com/track/0WoxURnxMhMHVEZpK04KzU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 8:17 |
+| 19 | [Find Your Way Home](https://open.spotify.com/track/1yYoSZ9e1zE2zZlYEytggU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/3hkdqLvcp6vFYyHHw19NBu) | 8:17 |
 | 20 | [Forever Ravers \- Radio Edit](https://open.spotify.com/track/4UjxYMM2290d7KlCKVSOuQ) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [Speicher 112](https://open.spotify.com/album/4W6gWw1CAqb8W1l8TiiDcp) | 3:20 |
 | 21 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 |
 | 22 | [La Perla \- Edit](https://open.spotify.com/track/6CldyxMa4XuHWAhAlaPWmt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 3:46 |
-| 23 | [Apollo \- Original Mix](https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 7:00 |
+| 23 | [Apollo](https://open.spotify.com/track/7sNp24ekO02LkwhV7kBh3Z) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/5Plok6w5YeCXhdzXGSri4T) | 7:00 |
 | 24 | [Hundred Flowers Groove](https://open.spotify.com/track/5tW5MJ3uiziGFFgCQ2UZ8J) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Hundred Flowers](https://open.spotify.com/album/0GJeDLGTICRJY0cjWVAu6q) | 6:55 |
 | 25 | [Gary Mission](https://open.spotify.com/track/1udH7v82zd03uUlGNhzy9f) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [Loos In Twos \(NRG\)](https://open.spotify.com/album/6kOISrghqryTCzXFl877rx) | 5:00 |
 | 26 | [Cutie \- Edit](https://open.spotify.com/track/6ZKiCDG5v785d9aYTqkhhk) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 4:00 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 28 | [UK Lonely](https://open.spotify.com/track/05kR3vQUekEjBUZ4CKCufh) | [Or:la](https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf) | [UK Lonely](https://open.spotify.com/album/17NBJTFJiEa2sshzte7Dou) | 4:29 |
 | 29 | [Capacidades](https://open.spotify.com/track/1ykjMdqbt95Bu2BuPbAlUy) | [Nídia](https://open.spotify.com/artist/3BKX2WA8UjZgTIJ2juyQ7G) | [Não Fales Nela Que A Mentes](https://open.spotify.com/album/37k7KzGQIMEnoxD15qq4uL) | 2:27 |
 | 30 | [Night Drift](https://open.spotify.com/track/2LS6hBqhAXda0ckQDHMEBT) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Night Drift](https://open.spotify.com/album/6smxthEq12e5YqZyMSVWHz) | 3:11 |
-| 31 | [Hot Bot](https://open.spotify.com/track/5eeYXA1ZZBNRdwrJdCH9nD) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/7cFnHZSpmPQ2Ty6I5eoVOw) | 4:48 |
+| 31 | [Hot Bot](https://open.spotify.com/track/62gDPzHOh9oaJ3X1QBX3Fk) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/5M62pugy3965W3dz996J7w) | 4:48 |
 | 32 | [Busy](https://open.spotify.com/track/5aT1vzCTNvn9nbo82vMC8P) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ) | [Busy](https://open.spotify.com/album/3CGdkbZ0dOfCL06NDv7zGY) | 2:23 |
 | 33 | [1997](https://open.spotify.com/track/2f0lRSu8jgmghBGJHw60fO) | [Jossy Mitsu](https://open.spotify.com/artist/7BwNdOufmdK919y4NHtF2a) | [Planet J](https://open.spotify.com/album/2aGL2535GZrXsLdjygoYsq) | 5:56 |
 | 34 | [Entertnmnt](https://open.spotify.com/track/5aavkoG5D3zRmeLQdHn8cb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Entertnmnt](https://open.spotify.com/album/02fYzuPRdFf1ur1A4ORWgU) | 3:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 59 | [Talk Ur Talk](https://open.spotify.com/track/73Y2GXivOjrG8E5VFz52VI) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/1Cvn9YGFvcg46z4FG81Btr) | 3:49 |
 | 60 | [Radical Spectacular](https://open.spotify.com/track/0SMvgsGjYvbNUnLytP0VnO) | [Mor Elian](https://open.spotify.com/artist/4nLavg4nn48n7wwx2AIklZ) | [Radical Spectacular](https://open.spotify.com/album/1uXd0Gk3K9oV1TtEzjtAwo) | 6:30 |
 
-Snapshot ID: `MCxhNmEyNDYyMTFiM2YxNjEzOWQ4Y2EyYzcwOTY5MjM4MDJjZjVhNmJl`
+Snapshot ID: `MCw0MzBlMTY1NmI4MWQ5NDliOTFkYWFiMWFiNTFmODg3MmI5MmJlODZl`

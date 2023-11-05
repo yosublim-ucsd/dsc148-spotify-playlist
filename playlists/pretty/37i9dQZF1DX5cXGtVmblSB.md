@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,191 likes - 71 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,323 likes - 71 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 52 | [Ethereal in 528hz](https://open.spotify.com/track/2PiEsCiricooWn5a3CxuVU) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ethereal in 528hz](https://open.spotify.com/album/5pqypFlXKBTOfxIxB1KrP2) | 2:50 |
 | 53 | [Waves](https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 3:02 |
 | 54 | [Energy 396 Hz](https://open.spotify.com/track/1o8P0zMkhl9YsqFJbK8OoZ) | [Aster Mar](https://open.spotify.com/artist/55CdGRtywBf5eAehITb8IZ) | [Energy 396 Hz](https://open.spotify.com/album/7MmxsEdeci3fj7AXz3n1UN) | 2:58 |
-| 55 | [Stillhetens hav II](https://open.spotify.com/track/54i2pTD2lvgfgjYkwX7pmQ) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a), [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn), [Brueder Selke](https://open.spotify.com/artist/6dZ9mYuJ2VMbeokUIXuNHm) | [Månens hav](https://open.spotify.com/album/1QZDB6DjafFtK1FeSP2Lec) | 5:33 |
+| 55 | [Stillhetens hav II](https://open.spotify.com/track/5QTmRluv7xtC1I8Q25dWdB) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a), [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn), [Brueder Selke](https://open.spotify.com/artist/6dZ9mYuJ2VMbeokUIXuNHm) | [Månens hav](https://open.spotify.com/album/4ZjIhjLji31LSBvFtVmnBt) | 5:33 |
 | 56 | [Balanced 528 Hz](https://open.spotify.com/track/1V09Y3kNQs4zYE14SsjYn4) | [Airosa](https://open.spotify.com/artist/4CByXjHMoW0Gq2Y2tenlxY) | [Balanced 528 Hz](https://open.spotify.com/album/25RDaGNcDlU5TWEMWfqb3R) | 3:05 |
 | 57 | [Compass of Peace 528 Hz](https://open.spotify.com/track/3DTIsjo9y5o79xgRR90i4k) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Compass of Peace 528 Hz](https://open.spotify.com/album/7467l8lrE1EvSohK7cG8Ai) | 3:21 |
 | 58 | [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 70 | [By Candlelight](https://open.spotify.com/track/6KtdYGSfCIoAkiWkJ1qxDh) | [Zimdizi](https://open.spotify.com/artist/144HUlx66zGheUbx0092oN) | [Imagination](https://open.spotify.com/album/59ngJWf69ZTOcqluzAxTta) | 3:05 |
 | 71 | [Bird Whisperer \(Just Relax\)](https://open.spotify.com/track/4urSQCLVwqibeOXbh7fzrd) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Grace](https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT) | 3:48 |
 
-Snapshot ID: `MCw0MjdlYjUxZjg5MTlhZDRiNTliY2QzM2I4MDQ3YzkyMTU1ODI4NzY3`
+Snapshot ID: `MCxiYWQ0NDY0MjUzNDM3YjgxMTUzOGM5MTYwNDkzNjQ4YTM3NzRkY2Q5`

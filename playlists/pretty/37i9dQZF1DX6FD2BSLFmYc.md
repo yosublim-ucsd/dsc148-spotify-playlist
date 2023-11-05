@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,483 likes - 97 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,517 likes - 97 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 39 | [Somewhere In Goa](https://open.spotify.com/track/1IlzZ5wI1Jrbvhzi0huE8u) | [Mandala Ohm](https://open.spotify.com/artist/7DxNYkd18YNFvJnVJ8tSPu) | [Mandala Ohm](https://open.spotify.com/album/4DZVk0fgKgSEVvhM2Ks40D) | 3:28 |
 | 40 | [My Lotus](https://open.spotify.com/track/4k1YPLJ6s094uAR6CY2kgB) | [Bhramari](https://open.spotify.com/artist/7b2ZFUFfg5RnyozQzikhCg) | [My Lotus](https://open.spotify.com/album/1ABuUFMKeLuuyi5twSGwcR) | 2:10 |
 | 41 | [Ārōhaṇa](https://open.spotify.com/track/60jHNqUBMnj6mH5EqlxpTX) | [Glåsbird](https://open.spotify.com/artist/6bt0NrtqveKQvQJJv2cD5N) | [Himalaya](https://open.spotify.com/album/5EijZWbp7RKBckHZPqHspP) | 4:53 |
-| 42 | [Stillhetens hav II](https://open.spotify.com/track/54i2pTD2lvgfgjYkwX7pmQ) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a), [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn), [Brueder Selke](https://open.spotify.com/artist/6dZ9mYuJ2VMbeokUIXuNHm) | [Månens hav](https://open.spotify.com/album/1QZDB6DjafFtK1FeSP2Lec) | 5:33 |
+| 42 | [Stillhetens hav II](https://open.spotify.com/track/5QTmRluv7xtC1I8Q25dWdB) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a), [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn), [Brueder Selke](https://open.spotify.com/artist/6dZ9mYuJ2VMbeokUIXuNHm) | [Månens hav](https://open.spotify.com/album/4ZjIhjLji31LSBvFtVmnBt) | 5:33 |
 | 43 | [Pathways](https://open.spotify.com/track/0gC2mtPpH6neEY5OdF88ul) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Pathways](https://open.spotify.com/album/5jQOBLq9Oq2XLxyaruJCrI) | 4:18 |
 | 44 | [White Lotus](https://open.spotify.com/track/15HDi1beJ2txFyX2Cugg87) | [Vaishnavi Voyage](https://open.spotify.com/artist/6eS4n8Fr2GdJS3gF9WdvhD) | [White Lotus](https://open.spotify.com/album/6cbIfNUOSHiWug6rEbl26Y) | 2:05 |
 | 45 | [Happiness](https://open.spotify.com/track/0lJ5rRcxyYDFddnKptuyXQ) | [Nambara Nim](https://open.spotify.com/artist/3At7zeaoPY1lvcdRNioifv) | [Happiness](https://open.spotify.com/album/4yfV7rBQ4zDMOV5cOh9PBd) | 3:20 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 96 | [Hot Stone Massage](https://open.spotify.com/track/6ECjbXSjaUHBkAig0SipLD) | [Healing Oriental Spa Collection](https://open.spotify.com/artist/0LohrwJvGCI9TAxhXIDf2v) | [Asian Meditation and Relax \(Oriental Soothing Music, Yoga, Massage & Zen Spa\)](https://open.spotify.com/album/1j3G1QVFmF1twCSAA0zgL9) | 3:59 |
 | 97 | [Dream Birds](https://open.spotify.com/track/10XcNcTJsPmsnqjiI0aUeE) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Dream Birds](https://open.spotify.com/album/16PvXp8E8Sw3IxQRrokYq3) | 2:20 |
 
-Snapshot ID: `MCw0M2Y2MjJjZWRlYzVkYzcwYjQ3YjZiNjRlNzlhMGM1NDU1ODUyMWQ1`
+Snapshot ID: `MCw3OGFjNWJlOTc3M2I2NzVhNzIwNjE4MjE5NGM2ZjkyYzZjZmRkNGMy`

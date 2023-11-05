@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-213 songs - 12 hr 47 min
+214 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [She Will Sing](https://open.spotify.com/track/2yVpADjZg3DY4GlCYimH63) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [She Will Sing](https://open.spotify.com/album/6yA8sTOhnfBlYkrtem5w1t) | 3:44 | 2017-12-03 | 2022-07-29 |
 | [She Will Sing](https://open.spotify.com/track/4E8Zv4wFRUsFJtpnsoT01V) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [After the Rain](https://open.spotify.com/album/0QC20xJcjfb0QsFoPEmGyw) | 3:44 | 2017-12-03 | 2023-02-11 |
 | [Shine](https://open.spotify.com/track/3XwOaKFb6sH0K6BfNJ4VDq) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Shine \(Kygo Remix\)](https://open.spotify.com/album/6tUKtq2hrHaWVs5Qokzc1P) | 2:58 | 2017-12-03 | 2022-07-29 |
-| [Shine](https://open.spotify.com/track/2im8Pxe6JuPf6dhpxhl2nX) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0) | 3:02 | 2017-12-03 |  |
+| [Shine](https://open.spotify.com/track/2im8Pxe6JuPf6dhpxhl2nX) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0) | 3:02 | 2017-12-03 | 2023-11-05 |
+| [Shine](https://open.spotify.com/track/40N7Wlb7vjw5XRIo6XhlDr) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm \(Deluxe Version\)](https://open.spotify.com/album/1eS5FLI6q24t4wONeOzrj5) | 3:02 | 2017-12-03 |  |
 | [Shine](https://open.spotify.com/track/1z7ipCbtUKz3Nepd2r39bc) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before The Snowstorm](https://open.spotify.com/album/6X4lsAafU2WXiThVoO9kF4) | 3:02 | 2017-12-03 | 2022-11-13 |
 | [Slow Dance With The Devil](https://open.spotify.com/track/5gnqu97deHhh3MBfeJXXev) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [The Temple EP](https://open.spotify.com/album/6mFi7ayKBXA3tz9ucQ9mb9) | 3:27 | 2017-12-03 |  |
 | [So They Say](https://open.spotify.com/track/10RB3ZCBIKde2FAn0ba5wJ) | [Rukhsana Merrise](https://open.spotify.com/artist/51WveHy70ZoLyFjZVgM9bn) | [September Songs](https://open.spotify.com/album/5BAypjSQ8ggV9snAKmHInQ) | 2:56 | 2017-12-03 |  |

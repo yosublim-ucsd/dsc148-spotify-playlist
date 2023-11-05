@@ -4,13 +4,14 @@
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-101 songs - 4 hr 30 min
+103 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7 Heure Du Mat](https://open.spotify.com/track/5sVA72TQmjb4lqIt00jAaZ) | [Jacqueline Taieb](https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH) | [The French Mademoiselle](https://open.spotify.com/album/2iFYrUwMGHs4DwAJ94RxuW) | 2:18 | 2021-07-26 | 2022-10-18 |
 | [7 heures du matin](https://open.spotify.com/track/4CeHrAL1fGUi94RIk3Z2H2) | [Jacqueline Taieb](https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH) | [Jacqueline Taïeb](https://open.spotify.com/album/61emYO8kHDuDFWjKS2aELG) | 2:16 | 2022-06-28 |  |
-| [Aline](https://open.spotify.com/track/3Sju0jbR35bTfajNgbkgFy) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Best of \(Collector\)](https://open.spotify.com/album/5vp7Y6bJSUc2maDl3SFywe) | 2:50 | 2021-07-26 |  |
+| [Aline](https://open.spotify.com/track/3Sju0jbR35bTfajNgbkgFy) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Best of \(Collector\)](https://open.spotify.com/album/5vp7Y6bJSUc2maDl3SFywe) | 2:50 | 2021-07-26 | 2023-11-05 |
+| [Aline](https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 2:50 | 2022-06-28 |  |
 | [Belles belles belles](https://open.spotify.com/track/1Q6j1dx7pXzuLZLAexFWuQ) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Hommages](https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo) | 2:12 | 2022-06-28 |  |
 | [Belles belles belles](https://open.spotify.com/track/58A0ccFbVbjAoA07ENee7k) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Master Serie Vol 1](https://open.spotify.com/album/1NxQK1XBP8kUoIv990pCEw) | 2:14 | 2021-07-26 | 2022-07-29 |
 | [Belles Belles Belles](https://open.spotify.com/track/1TrzM2nhMXA2Y7sdqncXPE) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Belles, Belles, Belles](https://open.spotify.com/album/5AKROatvEzKMHX6p5KFvyB) | 2:14 | 2022-06-28 | 2022-11-13 |
@@ -27,7 +28,8 @@
 | [Comic Strip](https://open.spotify.com/track/5bfKQTXw30LJ7mR7onUQHb) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Double Best Of \- Comme Un Boomerang](https://open.spotify.com/album/3ikheuf2MSfLP17Gd3wjfu) | 2:09 | 2021-07-26 | 2022-07-29 |
 | [Comic Strip](https://open.spotify.com/track/4xP5cjA72WSiXNXql3glWS) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Initials B.B.](https://open.spotify.com/album/6kU0UT8xklbfy6Z5pXDtSU) | 2:10 | 2022-06-28 |  |
 | [Comic Strip](https://open.spotify.com/track/56mduKtQOrUXUuLF2YZ3wO) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Salut les copains](https://open.spotify.com/album/32ZEuOQRv2szpnEoCv24bv) | 2:12 | 2022-06-28 | 2022-11-13 |
-| [Comme un garçon](https://open.spotify.com/track/5ofzziyodcinKtsUghFLHK) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/1fFyiprMSDBSNeExoiIuTH) | 3:16 | 2022-06-28 |  |
+| [Comme un garçon](https://open.spotify.com/track/3ChTu8j7meZ1op8QtTMVfR) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/0K0bH9JWURyXFrSK4ZYmUM) | 3:16 | 2022-06-28 |  |
+| [Comme un garçon](https://open.spotify.com/track/5ofzziyodcinKtsUghFLHK) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/1fFyiprMSDBSNeExoiIuTH) | 3:16 | 2022-06-28 | 2023-11-05 |
 | [Comme un garçon](https://open.spotify.com/track/7lhFTUreHC51OsFHTGdy6c) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/65XVPzsge42MC6cOVXqo1q) | 3:16 | 2021-07-26 | 2022-07-29 |
 | [Comment te dire adieu \- Remasterisé en 2016](https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Comment te dire adieu \(Remasterisé en 2016\)](https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB) | 2:28 | 2021-07-26 |  |
 | [Céline](https://open.spotify.com/track/56Z7oxfgO0p1dfnd3OEKCX) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [CD Story](https://open.spotify.com/album/3kWiseg5CTaGdHbj5dPiXJ) | 3:05 | 2022-06-28 | 2022-11-13 |

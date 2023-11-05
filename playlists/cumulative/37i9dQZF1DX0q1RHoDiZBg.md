@@ -4,7 +4,7 @@
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-135 songs - 10 hr 26 min
+137 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/3XtzbjnUGMHUbHpw3yS46L) | [the ORIGINAL SEEKERS](https://open.spotify.com/artist/37uWXC5EdtnuuBUxDvWSoB) | [Back To Our Roots](https://open.spotify.com/album/0Aye9uEvEC6S6ngXg4w7p2) | 3:14 | 2023-07-27 |  |
 | [I'll Keep It With Mine](https://open.spotify.com/track/1QIEPuMvIJP5zJPLgwPL88) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/48F2kUB0xFkajs3zKUEzHv) | 3:17 | 2018-08-02 | 2022-07-29 |
 | [I'll Keep It With Mine](https://open.spotify.com/track/5yeK60qK7eN7UuCvfu8hvi) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:17 | 2018-08-02 |  |
-| [If Not for You \- 2014 Remaster](https://open.spotify.com/track/5zUP3RRw1vmZAsswtE3GrP) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 3:30 | 2018-08-02 |  |
+| [If Not for You \(2014 Remaster\)](https://open.spotify.com/track/04meQOdHsGUMmlgLHmq0Is) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 3:30 | 2023-09-22 |  |
+| [If Not for You \- 2014 Remaster](https://open.spotify.com/track/5zUP3RRw1vmZAsswtE3GrP) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 3:30 | 2018-08-02 | 2023-11-05 |
 | [If Not For You \- Remastered 2014](https://open.spotify.com/track/7ykaUgkdQWJLsMuOymTV2A) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:30 | 2018-08-02 | 2023-02-19 |
 | [If You've Gotta Go, Go Now \- Bonus Track](https://open.spotify.com/track/51jy98I9q9Nk1xyA0W4ZBg) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Subterranean Homesick Blues: A Tribute to Bob Dylan's 'Bringing It All Back Home'](https://open.spotify.com/album/6BpBxbGy2JgkkxiVoLDQg4) | 3:45 | 2018-08-02 |  |
 | [It Ain't Me Babe](https://open.spotify.com/track/0TDlaRlo5DnfW9LUfPvf3b) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Carryin' On With Johnny Cash And June Carter](https://open.spotify.com/album/5ZfjQcvHkndkcGsewUeVNM) | 3:03 | 2018-02-08 |  |
@@ -92,7 +93,8 @@
 | [My Back Pages](https://open.spotify.com/track/3pO0GSjRmIQYnJWANtrzjU) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Sidetracks](https://open.spotify.com/album/6QpicGbHE5NjXzHQHvHzlX) | 4:07 | 2018-08-02 |  |
 | [New Pony](https://open.spotify.com/track/13Vpcq8uIH235ulRNQv9tU) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Horehound](https://open.spotify.com/album/1nxECUyuIZF5JCrO9Xo2jO) | 3:56 | 2018-08-02 |  |
 | [New Pony](https://open.spotify.com/track/3zPtnhckq6bq36hqTaXW57) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Horehound](https://open.spotify.com/album/748kQyYY7WAP6fMSBjV7l8) | 3:56 | 2018-08-02 | 2022-07-29 |
-| [Nobody 'Cept You](https://open.spotify.com/track/2fvjzwM008TaNMFa4jINC9) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Written in Scars \(New Edition\)](https://open.spotify.com/album/0ROaXcCJvg74dnUHhm3GbF) | 3:12 | 2018-08-02 |  |
+| [Nobody 'Cept You](https://open.spotify.com/track/2fvjzwM008TaNMFa4jINC9) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Written in Scars \(New Edition\)](https://open.spotify.com/album/0ROaXcCJvg74dnUHhm3GbF) | 3:12 | 2018-08-02 | 2023-11-05 |
+| [Nobody 'Cept You](https://open.spotify.com/track/4bb8ik4mJghLfby9mfzwda) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Written in Scars](https://open.spotify.com/album/0ZX4BKTHRP1gKX043rPqFZ) | 3:12 | 2023-09-22 |  |
 | [Nobody 'Cept You](https://open.spotify.com/track/4hp2rh5GBr3G2EvclFZqOm) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Written in Scars \(Expanded Edition\)](https://open.spotify.com/album/1EtytHvVBFGTUQJrYLKTQk) | 3:12 | 2018-08-02 | 2022-11-13 |
 | [Nobody 'Cept You](https://open.spotify.com/track/6Q51bhCC3buPPpFps0yOdz) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Written In Scars](https://open.spotify.com/album/48iKSFFUuoGezDm5LR2kcY) | 3:12 | 2018-08-02 | 2022-07-29 |
 | [North Country Blues](https://open.spotify.com/track/3eoVxC9JXC79Ess36UJRwL) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:59 | 2018-08-02 |  |

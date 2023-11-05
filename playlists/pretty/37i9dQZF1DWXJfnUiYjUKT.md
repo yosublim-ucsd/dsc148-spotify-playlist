@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,848 likes - 98 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,862 likes - 98 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 24 | [Stray](https://open.spotify.com/track/3Cn7sqZOpHHgRAlC7ZHpxl) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:01 |
 | 25 | [Whose Rearview](https://open.spotify.com/track/2ap4uymOqE43iFdzSoUoRq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Highway Desperado](https://open.spotify.com/album/13LwHOvi9moGBu9Q9uYNpI) | 3:16 |
 | 26 | [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 |
-| 27 | [Nothing Lasts Forever](https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Nothing Lasts Forever](https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74) | 3:19 |
+| 27 | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74) | 3:19 |
 | 28 | [Mother Nature](https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Mother Nature](https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1) | 3:56 |
 | 29 | [Once then we'll be free](https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Once then we'll be free](https://open.spotify.com/album/4vIM3lUezeQRsuevPU1h4N) | 3:23 |
 | 30 | [On Your Side](https://open.spotify.com/track/02fkJ4Y3oLO0VOKjM3w7yW) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [On Your Side](https://open.spotify.com/album/6PfmuiUGdXa406AJtVDoCC) | 4:27 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 55 | [Phil Drummond \(feat\. Conway the Machine\)](https://open.spotify.com/track/0MZPezONUuxbQZGsWeFWra) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Flying High, Part 2](https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz) | 2:56 |
 | 56 | [Why I Believe](https://open.spotify.com/track/0CCTLv71lcdHmOl6C9Thxt) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Jesus Changed My Life](https://open.spotify.com/album/4yPOPMBZssCEEmShWCGTNB) | 4:18 |
 | 57 | [PANIC ATTACK](https://open.spotify.com/track/4WMuO95Swpnr2cShFGxmgI) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [PANIC ATTACK](https://open.spotify.com/album/6S0ICRskr52yiEGuLKounG) | 2:27 |
-| 58 | [dancingwithsomebawdy](https://open.spotify.com/track/4qKRrLTUuPn4wmESRqw26m) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [dancingwithsomebawdy](https://open.spotify.com/album/6V3WWXiykduElQoySTy9Y7) | 2:23 |
+| 58 | [dancinwitsomebawdy](https://open.spotify.com/track/4qKRrLTUuPn4wmESRqw26m) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [dancinwitsomebawdy](https://open.spotify.com/album/6V3WWXiykduElQoySTy9Y7) | 2:23 |
 | 59 | [Big Dog \(with Lil Wayne\)](https://open.spotify.com/track/4EKfEZ89t2DzU41RbsyFC6) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Big Dog](https://open.spotify.com/album/5N1Y4h6H1fiS7tIL0fPivM) | 4:13 |
 | 60 | [Asteroids](https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Asteroids](https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w) | 2:35 |
 | 61 | [Blacklight](https://open.spotify.com/track/2MkI9rQR1ZI2N36OgDzCpq) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Blacklight](https://open.spotify.com/album/2QnOSMlVbSkEHPfrZLoNuq) | 5:09 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 97 | [Rover!](https://open.spotify.com/track/0s9eWn090LdFQxKqkPLiH3) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [SUPERSTAR!](https://open.spotify.com/album/7rRQ0fz5cgm4y6BmahyXCs) | 2:31 |
 | 98 | [post\-traumatic stress](https://open.spotify.com/track/36UlMEFIqpCzMOQmjK2IL4) | [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z) | [post\-traumatic stress](https://open.spotify.com/album/70pj9H22oLhKupwGu61zkw) | 2:32 |
 
-Snapshot ID: `MCxlYzFlODYyNzA4MDljNTA3N2Q1YWUzMjQzNzU3ZGFhMmUyYzZkYjBl`
+Snapshot ID: `MCxhNWEwM2QzYzk1N2UyMzQ4NzM3NGVhNDg3ZTMzMTRiYWJlMDgxNjc4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Tim Lyre and Tay Iwar
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,639 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,675 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 25 | [Bad B](https://open.spotify.com/track/405M8OiaiMjWyJ92jF9uPF) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Osapa London](https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3) | 2:53 |
 | 26 | [Bow Down](https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:03 |
 | 27 | [Wetin Dey](https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Better Days / Wetin Dey](https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun) | 2:26 |
-| 28 | [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 |
+| 28 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 |
 | 29 | [National Anthem](https://open.spotify.com/track/3ZLMCJJnkpiHUN3XddMLd7) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [National Anthem](https://open.spotify.com/album/6T9xMNizbAiouk8CZlVwHy) | 3:16 |
 | 30 | [Reckless \(feat\. AYLØ\)](https://open.spotify.com/track/66Edhig6kHzI7LoyWxS5qy) | [H.O.M.A](https://open.spotify.com/artist/4D88aOR9IZ69deuxwFZHpc), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Reckless \(feat\. AYLØ\)](https://open.spotify.com/album/1b8LywlMLAXiIbucnvoLS9) | 3:11 |
 | 31 | [Do Not Disturb](https://open.spotify.com/track/0yiBLJp8JFeJU8DcJeuwjU) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Do Not Disturb](https://open.spotify.com/album/4sSm5RNKqNxeJEO6f5M7M9) | 2:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [In My Soul](https://open.spotify.com/track/3CMfurJL0T1OZPKU1RdYUc) | [Shalom Dubas](https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj) | [In My Soul](https://open.spotify.com/album/5XzrqHjTXVWn6WRnLVawep) | 3:02 |
 | 80 | [SHEGE](https://open.spotify.com/track/3XeQnvXkAXX6LVErx2F0vw) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [SHEGE](https://open.spotify.com/album/7ynX70WRFESVn0SSQR9iaH) | 2:16 |
 
-Snapshot ID: `MCwxYzhlMjY0N2Y0ZDljNjBiNTU5ZDczMjIwZmNhNTBjNWQwZWVjZmU1`
+Snapshot ID: `MCw4OWU4NDU4NDlmYzcxNGMxNjRmMjkzMWRlOTY1ZTZiNTBlYzJjMmE0`

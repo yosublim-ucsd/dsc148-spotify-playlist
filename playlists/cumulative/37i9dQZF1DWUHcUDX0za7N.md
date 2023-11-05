@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW?si=ZZ\-7962VTZGJ\-OfXUeyDEA"> Boj </a> , <a href="https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW?si=\-HJp6PnNSlOJRwRoa7SIlA"> Ajebutter22 </a>   and <a href="https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD?si=YLmRq\-KKRVyEZ7nHq5Nd\-g"> Show Dem Camp </a>
 
-304 songs - 14 hr 39 min
+305 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2 Fresh](https://open.spotify.com/track/51c4uJ7B9cxplMLPnPMoRt) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [2 Fresh](https://open.spotify.com/album/3yhOIQQoxiI51WPlUEbhvD) | 2:17 | 2023-09-14 | 2023-10-16 |
 | [234 \(PRBLMS\)](https://open.spotify.com/track/1uXvDZoNNJmXPNt6dGJ9fV) | [2AAB](https://open.spotify.com/artist/0INY0RufOyabGf8TT1hgRC), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [234 \(PRBLMS\)](https://open.spotify.com/album/5PYhGPNQLtnQSawhjaHzq3) | 2:59 | 2023-06-02 | 2023-06-11 |
 | [500 DEGREES](https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [500 DEGREES](https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A) | 2:10 | 2022-11-15 | 2022-11-25 |
-| [6am in Accra \- Freestyle](https://open.spotify.com/track/0foXd0m4rkk6yudp5bWf9m) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [6am in Accra \(Freestyle\)](https://open.spotify.com/album/2PvPnsNQfY1iq5FtJI9Owq) | 1:53 | 2023-10-13 |  |
+| [6am in Accra \- Freestyle](https://open.spotify.com/track/0foXd0m4rkk6yudp5bWf9m) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [6am in Accra \(Freestyle\)](https://open.spotify.com/album/2PvPnsNQfY1iq5FtJI9Owq) | 1:53 | 2023-10-13 | 2023-11-05 |
 | [ABDZ](https://open.spotify.com/track/2OfFoA6XkrNEh446a0Fotc) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a) | [ABDZ](https://open.spotify.com/album/47TF52P8mx6B365HJkxa44) | 2:49 | 2023-09-29 | 2023-10-13 |
 | [Account Balance](https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:33 | 2023-06-30 |  |
 | [Afro Jigga](https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 3:06 | 2022-06-09 | 2023-10-27 |
@@ -97,6 +97,7 @@
 | [Earth Song](https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP) | 3:03 | 2023-02-10 | 2023-06-03 |
 | [Egbon](https://open.spotify.com/track/2mfmd4yGuAyoblktI50Z3i) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Egbon](https://open.spotify.com/album/6TgR9zfNjqND5lRoOtFny3) | 3:14 | 2022-06-09 | 2022-10-30 |
 | [Elephant Man](https://open.spotify.com/track/7xfJXlI27KT0BbbAAIuT5o) | [Cobhams Asuquo](https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl) | [Elephant Man](https://open.spotify.com/album/2CG9eOhIFEh9SDraWK8Olm) | 2:46 | 2022-07-07 | 2022-12-09 |
+| [Enough](https://open.spotify.com/track/0W0Fx4N2tsxQqZUWdnQxdv) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhadriyun](https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3) | 2:51 | 2023-11-03 |  |
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/0EW6FrqEuVFwZ36k502Pwy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 3:01 | 2022-10-28 | 2022-11-11 |
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:01 | 2022-10-28 | 2023-10-30 |
 | [Fame \- A COLORS ENCORE](https://open.spotify.com/track/2QvH1FPHBBWRYA0K9X89le) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fame \- A COLORS ENCORE](https://open.spotify.com/album/2ftWbyBuXI9qbHG5GkeUlL) | 1:51 | 2022-10-14 | 2022-10-29 |

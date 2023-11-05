@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQHB0vBt1AG.md) - [plain]
 
 > <a href="spotify:artist:4nhvb6x9ZhPiYCzrHDNia9">Daphni</a>'s track IDs\. Updated regularly\. Curated by Daphni\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,745 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,749 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQHB0vBt1AG.md) - [plain]
 | 5 | [Always There](https://open.spotify.com/track/0vq5vqbGfNydG2XaSBVRxx) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 3:41 |
 | 6 | [Cutie](https://open.spotify.com/track/4JdUdTVkEDNFZtzyW8hBZH) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 6:24 |
 | 7 | [Slushy](https://open.spotify.com/track/7lfStwj48yuU2vYBbxgGaL) | [patten](https://open.spotify.com/artist/1ld2Kfp4s2LHg94Lby403n) | [Desire Path](https://open.spotify.com/album/3MpIP95ZEPbM3CO5ZQbqkB) | 4:01 |
-| 8 | [Pax \- Four Tet Remix](https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Steamin EP](https://open.spotify.com/album/0JnuWdbsS3j4NZByEybO2R) | 5:20 |
+| 8 | [Pax \- Four Tet Remix](https://open.spotify.com/track/58nf4EoJi4a6G2fSIlEwiX) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Steamin EP](https://open.spotify.com/album/4ysAWasuwq3X8qol6hO5e5) | 5:20 |
 | 9 | [Actions](https://open.spotify.com/track/1619vtTOWigTxoK9FyezDU) | [Kassian](https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx) | [Running In Your Area](https://open.spotify.com/album/6QPdEKgRbhnyQRvEAhqP6k) | 5:12 |
 | 10 | [Red Sky](https://open.spotify.com/track/7oEWZNifk5RQqwVIsjUuH4) | [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Red Sky](https://open.spotify.com/album/2Oz5O25E8HxRr9zmRgFjj9) | 7:51 |
 | 11 | [Law Laffeina El Ard](https://open.spotify.com/track/5fHwOPiyJ6fIMuJXN0kQfR) | [Maha](https://open.spotify.com/artist/18LWSRqUjdqlSaAD79HS4H) | [Orkos \(Habibi Funk 020\)](https://open.spotify.com/album/5B9zL3p7v0C63XsK1Can7P) | 6:16 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQHB0vBt1AG.md) - [plain]
 | 30 | [Heron Dance](https://open.spotify.com/track/6l00RwI1yq7Q8Hyca3zxzK) | [Ursula K\. Le Guin](https://open.spotify.com/artist/3hRkdmBB1EvPmixg8PYgAr), [Todd Barton](https://open.spotify.com/artist/4Yv2aRFFHcNIEkGibaVJUO) | [Music and Poetry of The Kesh](https://open.spotify.com/album/6yKhcghtEpS8fvW6SSdd6d) | 4:08 |
 | 31 | [O Nketsang?](https://open.spotify.com/track/3OjDd5JzGhYcxu0aORQKxk) | [Rex Rabanye](https://open.spotify.com/artist/59gjiT7gAiwtlNIR3KbgZD) | [Greatest Moments Of](https://open.spotify.com/album/1QQCKEDkhxEPsr4e0z65YO) | 6:44 |
 | 32 | [Right As The Sun Goes](https://open.spotify.com/track/1rrH8f3Ji0Ol6z7hUpyTSL) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Swerve](https://open.spotify.com/album/3YS8gpsP9zsgvWv9zsSNOg) | 6:46 |
-| 33 | [Emotinium](https://open.spotify.com/track/2dXBGKusFEVysXoBhv9hmZ) | [Roy of the Ravers](https://open.spotify.com/artist/1ZUMNqd7GkMq58qxvEzRSo) | [2 Late 4 Love](https://open.spotify.com/album/33kFSPu2d9DxTArFZ5NKeM) | 11:45 |
+| 33 | [Emotinium](https://open.spotify.com/track/6JvBKmGbRblvqJZLfuJS6L) | [Roy of the Ravers](https://open.spotify.com/artist/1ZUMNqd7GkMq58qxvEzRSo) | [2 Late 4 Love](https://open.spotify.com/album/3Rjeyn4U63jwwFgWeVwigH) | 11:45 |
 | 34 | [Fantasy \(Floating Points Remix\)](https://open.spotify.com/track/4RQyoVhwhBCqBxyAUbdFmk) | [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn), [Verushka](https://open.spotify.com/artist/5StY3t09rFBGADeZbkVyOC), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Musca \(Remixes\)](https://open.spotify.com/album/0xA0LmJkhEp0ARH1CeCku1) | 15:29 |
 | 35 | [Land Of Confusion](https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [Trax Classix](https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv) | 2:58 |
 | 36 | [Furu Djougou](https://open.spotify.com/track/2cdJBO7MCy4nvthEFcueqm) | [Kaba Blon](https://open.spotify.com/artist/3LOLZ74N22a2Inn6XWL17Z) | [Balani Show Super Hits \- Electronic Street Parties from Mali](https://open.spotify.com/album/7x1et2nWj52a343dHvTr5T) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQHB0vBt1AG.md) - [plain]
 | 49 | [Fuzzy Logic](https://open.spotify.com/track/4ubDv9q3yVbbGAoz9ZGRoh) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Fuzzy Logic](https://open.spotify.com/album/68wP91Oeg2JGajy5rOpFze) | 6:29 |
 | 50 | [Don't Know Why I Love You](https://open.spotify.com/track/2AvnRpYc8XlCC3luxrp8NA) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Any Way You Like It](https://open.spotify.com/album/0TZTsaJOuNHsXwC2Ox2K19) | 5:05 |
 
-Snapshot ID: `MCw1OGRkMTBjOTVkOWZlZmJiOTg0ZWFjZDlkMTBkNTI2MzhmMTU5ZmVj`
+Snapshot ID: `MCxhMTk0NjljODgzNDljY2FkNjVjM2NhM2FhYjE3MDkzOTkyODU0Yjgz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Sofía Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,334 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,394 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 36 | [Cinco Letras](https://open.spotify.com/track/2TVSNN2hGNYsOay9QWCnym) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 2:49 |
 | 37 | [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 |
 | 38 | [Viaje perfecto](https://open.spotify.com/track/5JNFL9oSbuiRQXsr3mSZNm) | [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [El Primogénito](https://open.spotify.com/album/0uYvYHqWWh0Vo0f6xzuPUV) | 3:22 |
-| 39 | [D15BLO](https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [D15BLO](https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ) | 3:09 |
+| 39 | [D15BLO](https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [D15BLO](https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ) | 2:49 |
 | 40 | [Trono](https://open.spotify.com/track/1uBz0mO47fYXXf3SlAYKjL) | [ELYSANIJ](https://open.spotify.com/artist/6xLvSuN3p2uD8IorXxYmHg) | [Trono](https://open.spotify.com/album/7r292e5RSHappxfFKXmjAv) | 3:29 |
 | 41 | [I\-95](https://open.spotify.com/track/0rNXLfPVaYX5uHH6kj7B21) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [I\-95](https://open.spotify.com/album/5n6w4FV4BevZTu0ma5WK0Z) | 3:15 |
 | 42 | [Rayo de Sol](https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Mamá Flor](https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz) | 3:20 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 48 | [¿Así Que Te Gusta Hacerte El Lou Reed?](https://open.spotify.com/track/3tv2PAwZArvekOqHojdsFo) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [El Sonido Del Éxtasis](https://open.spotify.com/album/1W8z2q9AdSAC9nzLOITY0N) | 4:05 |
 | 49 | [La Verdad](https://open.spotify.com/track/7onIiU1mi9YDbFzMsErUgw) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Mi Cautela](https://open.spotify.com/album/7i9Wby2FKiRw4RFz2WuF7I) | 4:02 |
 
-Snapshot ID: `MCw3Y2VmMmE3MDBmYTkwYmY0OWJhYWEyMDhmODhhMmNkYmRjMWVmNmFm`
+Snapshot ID: `MCw2ZDJlNWFmMjg4ZDhmNDE4MWQxNzNmNjUwZWQxZWY5ZTdlN2ZkY2U2`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 
 > The Most Popular Ambient Tracks in 2022\. Kaitlyn Aurelia Smith on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,431 likes - 100 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,444 likes - 100 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Knot of Spirit \- Synth Version](https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 10:19 |
-| 2 | [Golden Galactic](https://open.spotify.com/track/5UV4bOGPyQyF5hnWuel6Zv) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [Garden Gaia](https://open.spotify.com/album/1DgRx1LvQ06RX992m1yn5m) | 4:28 |
+| 2 | [Golden Galactic](https://open.spotify.com/track/2plwi78vkh7HlMri5WRDS0) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [Garden Gaia](https://open.spotify.com/album/6U6T8AUAPYNdGBbTr2QPOx) | 4:28 |
 | 3 | [There Were Bells](https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:52 |
 | 4 | [Right Right Right](https://open.spotify.com/track/6RpNhl6giVNAhZY2526QgZ) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 7:25 |
 | 5 | [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 | 41 | [Intorno allo schermo](https://open.spotify.com/track/6VzQf50Dq4klOk2JLvggSH) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Fermarsi](https://open.spotify.com/album/0NH403g4GLkOnVeLf3yorf) | 20:54 |
 | 42 | [Welcome](https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [7RAYS](https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx) | [Music For Psychedelic Therapy](https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH) | 6:22 |
 | 43 | [Wales, Land of Wonder](https://open.spotify.com/track/02FyLVYdZeToFCZj4TJ7HL) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Brian And Charles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4uCcxyNHo5l9YQc0nmtLn3) | 3:35 |
-| 44 | [Aparaquasynthe \- Remastered 2022](https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered 2022\)](https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6) | 5:51 |
+| 44 | [Aparaquasynthe \(Remastered\)](https://open.spotify.com/track/6OlM4VG2u07UKSdjK0kRmB) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered\)](https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54) | 5:51 |
 | 45 | [Silhouette](https://open.spotify.com/track/6oDoN0p3hXIb4LLZ8MhKFj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:33 |
 | 46 | [venus mist](https://open.spotify.com/track/6UEHWnyYNSTjgqxxJF84wQ) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:12 |
 | 47 | [TKATC](https://open.spotify.com/track/5hb4rFD4iNfqOlK1tHCHHt) | [The Kids and the Cosmos](https://open.spotify.com/artist/1GnsQ6UaPwvKaggXBOJUBy), [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [TKATC](https://open.spotify.com/album/2nfA8gAjH3snXaMXm4bMU0) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 | 99 | [ever, after](https://open.spotify.com/track/1bIZWsVJatlo8hBzn0IEdI) | [Project AER](https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP) | [after.](https://open.spotify.com/album/0lySn87GZkkmgPOInrnuC2) | 3:03 |
 | 100 | [All The Light They Cannot See](https://open.spotify.com/track/5yx4wEiqwftOWWArUes897) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/3Myx0XEGPjTmfWBTGKZ4F4) | 5:32 |
 
-Snapshot ID: `MCw3NzhiZDE2MjBjMTEwMzMxMGQwOTYzZTIxOTY3NTU4NTI2MmQ0MDc2`
+Snapshot ID: `MCw4MDM0MmY1ZjVjZmI1NTE1NzY0MDFjYmMyMzEzMDM4YTQ2ZTU5N2Q3`

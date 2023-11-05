@@ -4,14 +4,15 @@
 
 > Des chansons qui vous feront rire, vous et vos enfants
 
-29 songs - 1 hr 25 min
+30 songs - 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Baby Shark](https://open.spotify.com/track/5ygDXis42ncn6kYG14lEVG) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:20 | 2021-05-04 |  |
 | [Cerf, cerf, ouvre\-moi](https://open.spotify.com/track/0Qwwd3KLtWyJKKw2RmX09D) | [Vincent Malone](https://open.spotify.com/artist/5deGLIzMGQhnJcmW5eT1mf) | [Les plus jolies chansons de notre enfance](https://open.spotify.com/album/66o7YifnA9eCAI03d3k9UV) | 0:38 | 2021-05-04 |  |
+| [Cho ka ka o](https://open.spotify.com/track/1WH5Sl6SytHCcSjbQSWJj4) | [Annie Cordy](https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot) | [Tata yoyo](https://open.spotify.com/album/3eMAg9LwfpmO0lVr2Dl74E) | 3:00 | 2021-05-04 |  |
 | [Cho ka ka o](https://open.spotify.com/track/1LBV869yOrnIB1IGMOXptG) | [Annie Cordy](https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot) | [Les indispensables](https://open.spotify.com/album/3elYVEC4r8jn73Ekqk26mm) | 3:02 | 2021-05-04 | 2023-11-03 |
-| [Cho ka ka o](https://open.spotify.com/track/1RFaaBBHa67DqN4z6JvyJW) | [Annie Cordy](https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot) | [Inoubliable](https://open.spotify.com/album/2fU7jjJBncwQhSIwlnYLSm) | 3:02 | 2021-05-04 |  |
+| [Cho ka ka o](https://open.spotify.com/track/1RFaaBBHa67DqN4z6JvyJW) | [Annie Cordy](https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot) | [Inoubliable](https://open.spotify.com/album/2fU7jjJBncwQhSIwlnYLSm) | 3:02 | 2021-05-04 | 2023-11-05 |
 | [Dragostea Din Tei](https://open.spotify.com/track/4nnHlGaBwJHb1rBetqj0Yl) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/5Tz9AVbzCljIpaOs8TnJmt) | 3:33 | 2021-05-04 | 2023-10-17 |
 | [Dragostea Din Tei \- Original Italian Version](https://open.spotify.com/track/4rPLXgafE7QzpWGUPR2Nfy) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [Ma Ya Hi \(Dragostea Din Tei\) \[English Mixes\]](https://open.spotify.com/album/4NcEOn1YRrJIothAIuanTF) | 3:33 | 2021-05-04 |  |
 | [Dur dur d'être bébé](https://open.spotify.com/track/2vUXD6u34ZsSVsFQTjoqIB) | [Bébé Lilly](https://open.spotify.com/artist/6OsDjsYhaz0dF2Jy3adLl7) | [Dur Dur D'Etre Bébé](https://open.spotify.com/album/2EbNlZUy0cE2EXPZWCOa2M) | 3:16 | 2021-05-04 |  |

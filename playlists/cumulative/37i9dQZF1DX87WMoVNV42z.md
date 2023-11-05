@@ -4,7 +4,7 @@
 
 > Two brothers trying to make it as dancers open their own club, but their artistic drive soon clashes with the business, threatening their relationship\. Watch Dance Brothers Now On Netflix.
 
-37 songs - 2 hr 18 min
+38 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Gang Drone](https://open.spotify.com/track/4ycY3UYqgLOgeI1nZBVVJ9) | [Twwth](https://open.spotify.com/artist/0igNErCtblHMcfEnCopVhT) | [Dislocation](https://open.spotify.com/album/0Xi7oXPjJb19Vh8y9Utr6h) | 10:34 | 2023-05-09 |  |
 | [Gasoo Ei Breikkei](https://open.spotify.com/track/2rOJQl0dCaR5sk9hBn4NE8) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [Gasoo Ei Breikkei](https://open.spotify.com/album/5m7R7Uqm136FSlOOpEsJxF) | 2:05 | 2023-05-09 |  |
 | [Gonna Make You Sweat \(Everybody Dance Now\) \(feat\. Freedom Williams\)](https://open.spotify.com/track/36rXHqN7D1ETFhyKXXKs4w) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF), [Freedom Williams](https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR) | [Gonna Make You Sweat](https://open.spotify.com/album/5obiQeM3NZ4NMsoeVxNDxw) | 4:03 | 2023-05-09 |  |
-| [Gyoza](https://open.spotify.com/track/2IFhlThFS4uAfNDqW5Yz21) | [Sandhog](https://open.spotify.com/artist/4Bg70gCux7vzM1w08aUF37) | [Gyoza](https://open.spotify.com/album/3HEVj0qA8IEUN8xJgXwzJu) | 6:39 | 2023-05-09 |  |
+| [Gyoza](https://open.spotify.com/track/2IFhlThFS4uAfNDqW5Yz21) | [Sandhog](https://open.spotify.com/artist/4Bg70gCux7vzM1w08aUF37) | [Gyoza](https://open.spotify.com/album/3HEVj0qA8IEUN8xJgXwzJu) | 6:39 | 2023-05-09 | 2023-11-05 |
+| [Gyoza](https://open.spotify.com/track/4sCyFkIRKgjHmeJhGBI5fN) | [Sandhog](https://open.spotify.com/artist/4Bg70gCux7vzM1w08aUF37) | [Gyoza](https://open.spotify.com/album/7sHeIqCo0bRBYdOMDAV8MW) | 6:39 | 2023-05-09 |  |
 | [Is That It \- Mr\. Scruff Remix](https://open.spotify.com/track/5gNy8SRHd211ZspEeF8tRz) | [Hank Saunders](https://open.spotify.com/artist/3ef0VaW44AiVz2F5fO13Fx), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mr\. Scruff](https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip) | [Is That It \(Mr\. Scruff Remix\)](https://open.spotify.com/album/7EII23ScFejXk2YpRtnDJ5) | 2:38 | 2023-05-09 |  |
 | [Kaks toisillemme hellää](https://open.spotify.com/track/2XIzjBL0Y2vVrtwjRdlccg) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn), [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Kaks toisillemme hellää](https://open.spotify.com/album/0ZX0wXTcPIzWxmD0bNpTlJ) | 3:20 | 2023-05-09 |  |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/33z70kPS4Iwxyd1KKpxMQk) | [Susanna](https://open.spotify.com/artist/4ENNORrr0p2n5eaYl4ZXgG), [Susanna and the Magical Orchestra](https://open.spotify.com/artist/7xcuzgehBTI4gNLwItyw9i) | [Melody Mountain](https://open.spotify.com/album/0ha3inmn0oMYaQfJRgnTuf) | 5:08 | 2023-05-09 |  |

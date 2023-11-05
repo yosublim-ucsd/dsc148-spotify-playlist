@@ -1,12 +1,12 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 5805,
+  "num_followers": 5822,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzQ1ZTY2MDEwY2QwMDIxNzgwY2Q1OWIzZTZkNmQxOWQyMWYyNjRm",
+  "snapshot_id": "MCxmOTAwYjM1Y2RlNzYyNDQxZmNhOTE4YzVjNWMyYmFkNmZkNTU4ODMy",
   "tracks": [
     {
       "added_at": "2023-11-03 06:14:32",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "7+UP",
-        "url": "https://open.spotify.com/album/4C6ab9EwBiR8Y5adO9o6bQ"
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90"
       },
       "artists": [
         {
-          "name": "EL7Z UP",
-          "url": "https://open.spotify.com/artist/27xea8r2bsY7UlsbaRiwMQ"
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
         }
       ],
-      "duration_ms": 174133,
-      "name": "CHEEKY",
-      "url": "https://open.spotify.com/track/55uzraCUFDtQGFqDaJUoUr"
+      "duration_ms": 189533,
+      "name": "Lovin' Me",
+      "url": "https://open.spotify.com/track/63pHo56L4k2VLXqzt1shrK"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90"
+        "name": "7+UP",
+        "url": "https://open.spotify.com/album/4C6ab9EwBiR8Y5adO9o6bQ"
       },
       "artists": [
         {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+          "name": "EL7Z UP",
+          "url": "https://open.spotify.com/artist/27xea8r2bsY7UlsbaRiwMQ"
         }
       ],
-      "duration_ms": 189533,
-      "name": "Lovin' Me",
-      "url": "https://open.spotify.com/track/63pHo56L4k2VLXqzt1shrK"
+      "duration_ms": 174133,
+      "name": "CHEEKY",
+      "url": "https://open.spotify.com/track/55uzraCUFDtQGFqDaJUoUr"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "H1-KEY 2nd Mini Album [Seoul Dreaming]",
-        "url": "https://open.spotify.com/album/1J2t0ySjwCZNGelpARbw3d"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "SEOUL (Such a Beautiful City)",
-      "url": "https://open.spotify.com/track/0SRAuCAtprYCuoks38G5GU"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "Bon Voyage",
         "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "LOVE EFFECT",
-        "url": "https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz"
+        "name": "H1-KEY 2nd Mini Album [Seoul Dreaming]",
+        "url": "https://open.spotify.com/album/1J2t0ySjwCZNGelpARbw3d"
       },
       "artists": [
         {
-          "name": "ONF",
-          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
         }
       ],
-      "duration_ms": 172293,
-      "name": "Love Effect",
-      "url": "https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5"
+      "duration_ms": 189693,
+      "name": "SEOUL (Such a Beautiful City)",
+      "url": "https://open.spotify.com/track/0SRAuCAtprYCuoks38G5GU"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -507,6 +491,22 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
+        "name": "LOVE EFFECT",
+        "url": "https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Love Effect",
+      "url": "https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/3NYmAEOb5YrX22YWgWtHeC"
-      },
-      "artists": [
-        {
-          "name": "Ha Hyun Woo",
-          "url": "https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "\ub3cc\ub369\uc774",
-      "url": "https://open.spotify.com/track/1jCRPdDQvCA5kQXtrPFWPC"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
         "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 180320,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/3NYmAEOb5YrX22YWgWtHeC"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Woo",
+          "url": "https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "\ub3cc\ub369\uc774",
+      "url": "https://open.spotify.com/track/1jCRPdDQvCA5kQXtrPFWPC"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "HOODIE E BANBAJI",
-        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
-      },
-      "artists": [
-        {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
-        }
-      ],
-      "duration_ms": 189973,
-      "name": "HOODIE E BANBAJI",
-      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "Purple",
         "url": "https://open.spotify.com/album/7lqVInQc3l7SbnbZa2cpFJ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 211660,
       "name": "Yes I Am",
       "url": "https://open.spotify.com/track/3RqUX4U46H6TPdH30gPy4k"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "HOODIE E BANBAJI",
+        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "duration_ms": 189973,
+      "name": "HOODIE E BANBAJI",
+      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
     },
     {
       "added_at": "2023-11-03 06:14:32",

@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 283835,
+  "num_followers": 283989,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGYxMDNjOWRkMTFlMGZkOTNjMDY4OTAxMjMyZjJkMWVlNDU0OTA4",
+  "snapshot_id": "MCwxNTI2ZDA0MWU5MzM1ZGJjNWE1M2I2NTg5MDMzMzI4NDNjNjc2ZTRi",
   "tracks": [
     {
       "added_at": "2023-10-20 03:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Um banda um",
-        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
-      "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Toda Molhada (Casa do Sol) - Ao Vivo 25 Anos",
         "url": "https://open.spotify.com/album/3qDRvHE5ZYck86T7SrGdS1"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 275253,
       "name": "Toda Molhada (Casa do Sol) - Ao Vivo 25 Anos",
       "url": "https://open.spotify.com/track/1g6Ng6XKGC8ns0aWFS5Zun"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Um banda um",
+        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
+      "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Jah Bless",
-        "url": "https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB"
+        "name": "Frequ\u00eancia do Amor",
+        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
       },
       "artists": [
         {
-          "name": "Gaiuna",
-          "url": "https://open.spotify.com/artist/7DbjEZyIXYZy7q7563s90d"
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
         }
       ],
-      "duration_ms": 207345,
-      "name": "Jah Bless",
-      "url": "https://open.spotify.com/track/5WTkJOM7RYui9Fj7OGzWch"
+      "duration_ms": 161107,
+      "name": "Frequ\u00eancia do Amor",
+      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Frequ\u00eancia do Amor",
-        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
+        "name": "Jah Bless",
+        "url": "https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB"
       },
       "artists": [
         {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+          "name": "Gaiuna",
+          "url": "https://open.spotify.com/artist/7DbjEZyIXYZy7q7563s90d"
         }
       ],
-      "duration_ms": 161107,
-      "name": "Frequ\u00eancia do Amor",
-      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
+      "duration_ms": 207345,
+      "name": "Jah Bless",
+      "url": "https://open.spotify.com/track/5WTkJOM7RYui9Fj7OGzWch"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Sol da Meia-Noite",
         "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "O Que te Faz Viver",
         "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
       },
@@ -947,26 +947,6 @@
       "duration_ms": 230967,
       "name": "O Que te Faz Viver",
       "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Flying High",
-        "url": "https://open.spotify.com/album/75aD61Mdn46by45roKljUL"
-      },
-      "artists": [
-        {
-          "name": "Solano Jacob",
-          "url": "https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm"
-        },
-        {
-          "name": "Rafael Senegal",
-          "url": "https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK"
-        }
-      ],
-      "duration_ms": 242948,
-      "name": "Flying High",
-      "url": "https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -991,18 +971,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Se Joga",
-        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/75aD61Mdn46by45roKljUL"
       },
       "artists": [
         {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+          "name": "Solano Jacob",
+          "url": "https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm"
+        },
+        {
+          "name": "Rafael Senegal",
+          "url": "https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK"
         }
       ],
-      "duration_ms": 173269,
-      "name": "Se Joga",
-      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
+      "duration_ms": 242948,
+      "name": "Flying High",
+      "url": "https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "O Amor Venceu",
-        "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
       },
       "artists": [
         {
-          "name": "Luc DubWise",
-          "url": "https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 187884,
-      "name": "O Amor Venceu",
-      "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
+      "duration_ms": 228844,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1067,6 +1051,22 @@
       "duration_ms": 282560,
       "name": "Abre a Janela",
       "url": "https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "O Amor Venceu",
+        "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
+      },
+      "artists": [
+        {
+          "name": "Luc DubWise",
+          "url": "https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU"
+        }
+      ],
+      "duration_ms": 187884,
+      "name": "O Amor Venceu",
+      "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
     }
   ],
   "unique_name": "Praiana",

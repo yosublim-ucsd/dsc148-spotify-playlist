@@ -460,10 +460,28 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 140959,
       "name": "Beast",
       "url": "https://open.spotify.com/track/1cKataJtvqxPrW6C4nA1uS"
+    },
+    {
+      "album": {
+        "name": "Drama Queen",
+        "url": "https://open.spotify.com/album/0kMmfTz3OwAh73dSCN3FpW"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140959,
+      "name": "Beast",
+      "url": "https://open.spotify.com/track/3oW2oZPTc1AHOG1y0xCAIQ"
     },
     {
       "album": {

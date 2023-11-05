@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 844365,
+  "num_followers": 844428,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjI4MjY4MjI0OWUxNjY5ZmZjMTA4MTQwZjZjZmY2OGNhYTIwYTNj",
+  "snapshot_id": "MCw4NzY5MmVkYzRhMDI2ODQxM2UyNGNlMDlkYWJhZjkyMzhiZTIzMDc4",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "notre dame",
-        "url": "https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 258430,
-      "name": "notre dame",
-      "url": "https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "I Forget Where We Were",
         "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 213440,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "notre dame",
+        "url": "https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 258430,
+      "name": "notre dame",
+      "url": "https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Theatrics",
-        "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
-      },
-      "artists": [
-        {
-          "name": "Puzzle Muteson",
-          "url": "https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK"
-        }
-      ],
-      "duration_ms": 218332,
-      "name": "By Night",
-      "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 184869,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Theatrics",
+        "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
+      },
+      "artists": [
+        {
+          "name": "Puzzle Muteson",
+          "url": "https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK"
+        }
+      ],
+      "duration_ms": 218332,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "howling",
-        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "howling",
-      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "All We've Known",
         "url": "https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 242333,
       "name": "Homegrown",
       "url": "https://open.spotify.com/track/574uSIfe7tTBLCFjN38vij"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "howling",
+        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "howling",
+      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "No Burden",
+        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 175777,
+      "name": "...Familiar Place",
+      "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Anjunadeep 08",
         "url": "https://open.spotify.com/album/7ckNwltWINt80QWoGjN5Yy"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "No Burden",
-        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 175777,
-      "name": "...Familiar Place",
-      "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Open Season (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 150521,
       "name": "Bridge",
       "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Bare",
-        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 257582,
-      "name": "Awake Me",
-      "url": "https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Bare",
+        "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 257582,
+      "name": "Awake Me",
+      "url": "https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Lake Jons",
         "url": "https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1"
       },
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "For The Company",
-        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU"
       },
       "artists": [
         {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
         }
       ],
-      "duration_ms": 221706,
-      "name": "Seven Hours",
-      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
+      "duration_ms": 230589,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU"
+        "name": "For The Company",
+        "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
       },
       "artists": [
         {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
         }
       ],
-      "duration_ms": 230589,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP"
+      "duration_ms": 221706,
+      "name": "Seven Hours",
+      "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1223,26 +1223,6 @@
       "duration_ms": 189320,
       "name": "apathy",
       "url": "https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Rolling Thunder",
-        "url": "https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc"
-      },
-      "artists": [
-        {
-          "name": "Alberta Cross",
-          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
-        },
-        {
-          "name": "L'aupaire",
-          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
-        }
-      ],
-      "duration_ms": 241785,
-      "name": "Rolling Thunder",
-      "url": "https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1275,6 +1255,26 @@
       "duration_ms": 209585,
       "name": "The Grain",
       "url": "https://open.spotify.com/track/24At1pkaBi4P9PsbeeUttf"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Rolling Thunder",
+        "url": "https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc"
+      },
+      "artists": [
+        {
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        },
+        {
+          "name": "L'aupaire",
+          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+        }
+      ],
+      "duration_ms": 241785,
+      "name": "Rolling Thunder",
+      "url": "https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Mountain Whisper",
-        "url": "https://open.spotify.com/album/6ZaqWexNzUOpf4Dn1CXNq0"
-      },
-      "artists": [
-        {
-          "name": "Xavia",
-          "url": "https://open.spotify.com/artist/3nryYEIQnCTnBZ8OPmOd6i"
-        }
-      ],
-      "duration_ms": 274568,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/6q2VGul8D4SqtqoXePuq6j"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "hallow's eve",
         "url": "https://open.spotify.com/album/6LdgrA1mQmS4BfHVlqAPOU"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 133601,
       "name": "hallow's eve",
       "url": "https://open.spotify.com/track/257WCspICXPffkvdEvVaIP"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Mountain Whisper",
+        "url": "https://open.spotify.com/album/6ZaqWexNzUOpf4Dn1CXNq0"
+      },
+      "artists": [
+        {
+          "name": "Xavia",
+          "url": "https://open.spotify.com/artist/3nryYEIQnCTnBZ8OPmOd6i"
+        }
+      ],
+      "duration_ms": 274568,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/6q2VGul8D4SqtqoXePuq6j"
     },
     {
       "added_at": "2023-10-20 04:00:00",

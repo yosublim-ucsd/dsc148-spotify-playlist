@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Cecilia Toussaint en portada. ",
-  "num_followers": 1009067,
+  "num_followers": 1009134,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTNiNzNmZjNiM2RlYzkzMWE5MjNkMzk4YzQ2MjdhYjBlZDBmZWQ1",
+  "snapshot_id": "MCwyNjZkZmRjN2UzNzFjYWJiYzQ2Zjk3YzUyMzJhMTRiYTA3MWQyODEy",
   "tracks": [
     {
       "added_at": "2023-10-23 22:33:28",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-10-23 22:33:28",
       "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 157106,
-      "name": "El Microbito",
-      "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
-    },
-    {
-      "added_at": "2023-10-23 22:33:28",
-      "album": {
         "name": "Hijos del pueblo",
         "url": "https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 212560,
       "name": "Aunque no sea conmigo",
       "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
+    },
+    {
+      "added_at": "2023-10-23 22:33:28",
+      "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
+      },
+      "artists": [
+        {
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
+        }
+      ],
+      "duration_ms": 157106,
+      "name": "El Microbito",
+      "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
     },
     {
       "added_at": "2023-10-23 22:33:28",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-10-23 22:33:28",
       "album": {
+        "name": "D.D. Y Ponle Play",
+        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 174880,
+      "name": "Cada Vez Que Me Voy",
+      "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
+    },
+    {
+      "added_at": "2023-10-23 22:33:28",
+      "album": {
         "name": "Lamento Boliviano",
         "url": "https://open.spotify.com/album/4832tSPhuJCtT46DCaGiGR"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 243338,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/69xAODJbGD64reFIgp8MxX"
-    },
-    {
-      "added_at": "2023-10-23 22:33:28",
-      "album": {
-        "name": "D.D. Y Ponle Play",
-        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 174880,
-      "name": "Cada Vez Que Me Voy",
-      "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
     },
     {
       "added_at": "2023-10-23 22:33:28",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-10-23 22:33:28",
       "album": {
-        "name": "Elemento (Noches De Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
+        "name": "Calles de Talcahuano",
+        "url": "https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE"
       },
       "artists": [
         {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 223990,
-      "name": "Elemento - Noches De Sal\u00f3n",
-      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
+      "duration_ms": 226572,
+      "name": "Calles de Talcahuano",
+      "url": "https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX"
     },
     {
       "added_at": "2023-10-23 22:33:28",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-10-23 22:33:28",
       "album": {
-        "name": "Calles de Talcahuano",
-        "url": "https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE"
+        "name": "Elemento (Noches De Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
       },
       "artists": [
         {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 226572,
-      "name": "Calles de Talcahuano",
-      "url": "https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX"
+      "duration_ms": 223990,
+      "name": "Elemento - Noches De Sal\u00f3n",
+      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
     },
     {
       "added_at": "2023-10-23 22:33:28",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-10-23 22:33:28",
       "album": {
-        "name": "Un Segundo MTV Unplugged",
-        "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 326146,
-      "name": "Las Batallas/Rarotonga - MTV Unplugged",
-      "url": "https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF"
-    },
-    {
-      "added_at": "2023-10-23 22:33:28",
-      "album": {
         "name": "Aqui",
         "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 198560,
       "name": "De Mis Pasos",
       "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
+    },
+    {
+      "added_at": "2023-10-23 22:33:28",
+      "album": {
+        "name": "Un Segundo MTV Unplugged",
+        "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 326146,
+      "name": "Las Batallas/Rarotonga - MTV Unplugged",
+      "url": "https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF"
     },
     {
       "added_at": "2023-10-23 22:33:28",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-10-23 22:33:28",
       "album": {
-        "name": "V\u00edctimas",
-        "url": "https://open.spotify.com/album/4J21DOgMP48X3i1Bct05ON"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 238809,
-      "name": "V\u00edctimas",
-      "url": "https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6"
-    },
-    {
-      "added_at": "2023-10-23 22:33:28",
-      "album": {
         "name": "Nezayork",
         "url": "https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 154005,
       "name": "Nezayork",
       "url": "https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC"
+    },
+    {
+      "added_at": "2023-10-23 22:33:28",
+      "album": {
+        "name": "V\u00edctimas",
+        "url": "https://open.spotify.com/album/4J21DOgMP48X3i1Bct05ON"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 238809,
+      "name": "V\u00edctimas",
+      "url": "https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6"
     },
     {
       "added_at": "2023-10-23 22:33:28",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-10-23 22:33:28",
       "album": {
+        "name": "Mienten",
+        "url": "https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 277077,
+      "name": "Se\u00f1al",
+      "url": "https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W"
+    },
+    {
+      "added_at": "2023-10-23 22:33:28",
+      "album": {
         "name": "Sam El Bigot\u00f3n",
         "url": "https://open.spotify.com/album/034wKcuMzgFDMuu1pCjOeC"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 175065,
       "name": "Sam El Bigot\u00f3n",
       "url": "https://open.spotify.com/track/1cPaytgR4EP7GrUQ8RIEn6"
-    },
-    {
-      "added_at": "2023-10-23 22:33:28",
-      "album": {
-        "name": "Mienten",
-        "url": "https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 277077,
-      "name": "Se\u00f1al",
-      "url": "https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W"
     },
     {
       "added_at": "2023-10-23 22:33:28",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-10-23 22:33:28",
       "album": {
+        "name": "Bajo la Luna",
+        "url": "https://open.spotify.com/album/5x2yu1WZBvHROOW7p1iGCU"
+      },
+      "artists": [
+        {
+          "name": "Kerigma",
+          "url": "https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Bajo la Luna",
+      "url": "https://open.spotify.com/track/2oaYSIcpAq0iqiJ30W6C2L"
+    },
+    {
+      "added_at": "2023-10-23 22:33:28",
+      "album": {
         "name": "Que fue lo que Pas\u00f3",
         "url": "https://open.spotify.com/album/52lw9gZ6CxwOj0KLt5aJEW"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 209250,
       "name": "Que fue lo que Pas\u00f3",
       "url": "https://open.spotify.com/track/6e705fkOBUYIBAe7MVczDD"
-    },
-    {
-      "added_at": "2023-10-23 22:33:28",
-      "album": {
-        "name": "Bajo la Luna",
-        "url": "https://open.spotify.com/album/5x2yu1WZBvHROOW7p1iGCU"
-      },
-      "artists": [
-        {
-          "name": "Kerigma",
-          "url": "https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Bajo la Luna",
-      "url": "https://open.spotify.com/track/2oaYSIcpAq0iqiJ30W6C2L"
     }
   ],
   "unique_name": "La + Chingona",

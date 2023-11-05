@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-229 songs - 22 hr 57 min
+231 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Jaffar](https://open.spotify.com/track/2hDT5xo6bgpLnqra8OZH7R) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Jaffar](https://open.spotify.com/album/1gGWOsCs7X7Ve7oABfBpZk) | 8:22 | 2022-07-13 |  |
 | [Jordan](https://open.spotify.com/track/4bIXqc2fGtTHMq4aNFVjBC) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Jordan](https://open.spotify.com/album/73IkL6bBQTyRj2j26Ksry5) | 6:48 | 2022-05-19 | 2023-07-14 |
 | [Jungle Paradise](https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Visions 2 \(Departure\)](https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E) | 8:29 | 2023-10-05 |  |
-| [Kaleta](https://open.spotify.com/track/2ldNIVLYlSnxKGSlpud8bU) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1DTpdbbsif7gLrpSOGDfVE) | 4:30 | 2023-03-03 |  |
+| [Kaleta](https://open.spotify.com/track/2ldNIVLYlSnxKGSlpud8bU) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1DTpdbbsif7gLrpSOGDfVE) | 4:30 | 2023-03-03 | 2023-11-05 |
+| [Kaleta](https://open.spotify.com/track/7Me0K7S9Kpu3lNGk3k9SJZ) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1Ved6gJTWaDH1oLiJzMrKv) | 4:30 | 2023-10-23 |  |
 | [Kamili](https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kamili](https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG) | 3:46 | 2023-03-01 |  |
 | [Kaneba](https://open.spotify.com/track/01dnvO2H3SxeUxFgUtY7sM) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [mo'vibes \(Various Artists\)](https://open.spotify.com/album/41wFtS7hhKWuI5U3GQdvs3) | 7:16 | 2022-04-13 | 2023-04-21 |
 | [Kibo \- Mr ID Remix](https://open.spotify.com/track/0ZHX59bDXNHNEQucqqLV2e) | [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Mehdi Nassouli](https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [Kibo \(Mr ID Remix\)](https://open.spotify.com/album/0OblJgGu3q3w6wZZgyuQQX) | 6:41 | 2022-05-26 | 2023-09-04 |
@@ -134,7 +135,8 @@
 | [Luna \- Omary Remix](https://open.spotify.com/track/6oPYi7nKqZHKpRqjTsXafc) | [Ary Sya](https://open.spotify.com/artist/1BwQgYtqEnAUQI3RrbsMbC), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs) | [Luna](https://open.spotify.com/album/7s5hHH9wJVZmLzQZt55wgt) | 6:46 | 2023-03-03 |  |
 | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW) | 8:38 | 2022-04-13 | 2023-04-21 |
 | [Maktoub](https://open.spotify.com/track/3YLQqkq1qr9gecj09ltfcd) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Soul Of Winds](https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG) | 5:56 | 2023-03-07 |  |
-| [Malawi](https://open.spotify.com/track/0uWQOZM4uKSIdAa0RJMpCT) | [SirYLL](https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw) | [Malawi](https://open.spotify.com/album/03Wo3nvGfVpF0rxfRjy1ah) | 4:43 | 2023-03-09 |  |
+| [Malawi](https://open.spotify.com/track/0cxZ9Fv1rYRavkbVvdwBT7) | [SirYLL](https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw) | [Malawi](https://open.spotify.com/album/7ixdpATJyqFtWGevSD7PJU) | 4:43 | 2023-10-23 |  |
+| [Malawi](https://open.spotify.com/track/0uWQOZM4uKSIdAa0RJMpCT) | [SirYLL](https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw) | [Malawi](https://open.spotify.com/album/03Wo3nvGfVpF0rxfRjy1ah) | 4:43 | 2023-03-09 | 2023-11-05 |
 | [Malayou](https://open.spotify.com/track/0hT1vHRFdU5pcqs9D4cTjk) | [Da Mike](https://open.spotify.com/artist/6y47rh8rdNwWhWqJs8ondd), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Malayou](https://open.spotify.com/album/3NGlNwZ7brGUuqQ9Z0Fazy) | 7:21 | 2022-12-12 |  |
 | [Maneyama](https://open.spotify.com/track/3iqXIZ2kihfbHNfFJJYzI2) | [ReqTeq](https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Maneyama](https://open.spotify.com/album/5f6gUbbRKSt16q6zJIWe9L) | 4:40 | 2023-09-03 |  |
 | [Mathura](https://open.spotify.com/track/6LgavHPcUhWatD4vXcdeOb) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Mathura](https://open.spotify.com/album/6D77LAeB7DSHY3Tgq0hcPn) | 2:48 | 2023-05-18 |  |

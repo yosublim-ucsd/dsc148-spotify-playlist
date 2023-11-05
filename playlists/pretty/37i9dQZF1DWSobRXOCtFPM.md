@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,708 likes - 64 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,766 likes - 64 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 19 | [Corniche](https://open.spotify.com/track/3meaDVtgpm76O6RrJu9bKd) | [Misstress Barbara](https://open.spotify.com/artist/1Bhw1NGkIlsdVb8NXOymzk), [Paul Nazca](https://open.spotify.com/artist/4iLd6oVZU2tHBHlfxEuusQ) | [MBPN, Vol\. 1](https://open.spotify.com/album/1Hlt0D5yvOcIGCCdDc5kBJ) | 5:43 |
 | 20 | [Frame](https://open.spotify.com/track/03owGeQybSsnpreChFqoSq) | [Uncertain](https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm) | [Funk EP](https://open.spotify.com/album/363sAyWoJxfOLgrlmuesiM) | 6:01 |
 | 21 | [Voicemail \- Layton Giordani Remix](https://open.spotify.com/track/2Fm1CwqVf3TN0dlZSy0lyE) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Voicemail \(Layton Giordani Remix\)](https://open.spotify.com/album/2Nm01e295X9vBLH3g9FJBo) | 4:35 |
-| 22 | [Wait A Minute \- Dixon Extension](https://open.spotify.com/track/2O2oWOUJM14dWhQNpkcSbD) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [Wait A Minute \(Dixon Extension\)](https://open.spotify.com/album/2bkhNP3qpPZFAEK6me4hoT) | 6:27 |
+| 22 | [Wait A Minute \- Dixon Extension](https://open.spotify.com/track/6A11icgW6M1sn2xdHVIuSi) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [Wait a Minute](https://open.spotify.com/album/1BMlO7uf4ecNmDEFBSikBQ) | 6:27 |
 | 23 | [Self Inductance](https://open.spotify.com/track/2tAsOfI49k9BRLlQpAtPLr) | [DJ Dextro](https://open.spotify.com/artist/3ygZ5oQeymor1LlYuGV3FO) | [Illusion Of Touch EP](https://open.spotify.com/album/6H6U4SSfbOlNaXS7aiXDVT) | 5:26 |
 | 24 | [Release \- Tech Us Out Remix](https://open.spotify.com/track/23ugKR2aqOUQCNPzvXn2i2) | [Horatio](https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD), [Angelica de No](https://open.spotify.com/artist/5MINOFapmx47AHSzgeWAd4), [Tech Us Out](https://open.spotify.com/artist/4RYIvQkrR2g886yxR4ZYlM) | [Release](https://open.spotify.com/album/0ZWmp1nstHHDmZRpEGTFu5) | 7:02 |
 | 25 | [Activate](https://open.spotify.com/track/2OaNFUxX5RcGTzu4WbY0lK) | [Slam](https://open.spotify.com/artist/0Y0Kj7BOR5DM0UevuY7IvO) | [Activate EP](https://open.spotify.com/album/0FEUKiJyvP1kxSuK3fKn6A) | 5:38 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 56 | [Tomahawk](https://open.spotify.com/track/5sV5pp8JDNkh7CGgkRuztg) | [Aitor Ronda](https://open.spotify.com/artist/4Q6FHEKif7t06z6NGujL2D), [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Tomahawk](https://open.spotify.com/album/0CbheLrUB8byLWdFey98ju) | 5:41 |
 | 57 | [Malbiten](https://open.spotify.com/track/4hQN5kvT1djcKlvz9lgSnu) | [Charlie Thorstenson](https://open.spotify.com/artist/4z8CviapCGt8PluR1ORwbH) | [Malbiten EP](https://open.spotify.com/album/1D5WxILmPRYQyottQFjbDO) | 6:48 |
 | 58 | [Emerge \- Radio Edit](https://open.spotify.com/track/1pgjUzLh6CBpepDAB2N5f0) | [Uncertain](https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm) | [Punish \(Radio Edit\)](https://open.spotify.com/album/56jQtWPz60nhgqMMqU8ZQc) | 4:06 |
-| 59 | [Glide](https://open.spotify.com/track/0LwFDv8lo6CTYX8PJTkPTg) | [Dave Angel](https://open.spotify.com/artist/2Fd3lWDA61b5dcoEwNvWuT) | [Glide](https://open.spotify.com/album/7AgKj8XxTUILo8K6eyM91j) | 6:51 |
+| 59 | [Glide](https://open.spotify.com/track/5PKHKT13ofjRrFCty1ECwO) | [Dave Angel](https://open.spotify.com/artist/2Fd3lWDA61b5dcoEwNvWuT) | [Glide](https://open.spotify.com/album/2kFatAysOie6efuToYfURj) | 6:51 |
 | 60 | [Spice Dice](https://open.spotify.com/track/3J9rDij6z4TZmyC2mrysKz) | [Hollen](https://open.spotify.com/artist/3XyhZgjNCOB4onNVrbtYiB) | [Spice Dice](https://open.spotify.com/album/2ZHAWRs6UetusubJezCxp6) | 5:58 |
 | 61 | [Holding Me Now](https://open.spotify.com/track/42ilwbXdnZCNnQSfbPPhJX) | [Davide Carbone](https://open.spotify.com/artist/02lkYJwxBmJOYUhVbCrqmx), [Ungus Ungus Ungus](https://open.spotify.com/artist/6Q26VMrq6Y3s0SbCQ60JS6) | [Holding Me Now](https://open.spotify.com/album/0vtwBwS4ZHeBX3fMbgzyOK) | 4:02 |
 | 62 | [Silverfisken](https://open.spotify.com/track/6xxkx6lbMujoHAgJdSiB26) | [Charlie Thorstenson](https://open.spotify.com/artist/4z8CviapCGt8PluR1ORwbH) | [Malbiten EP](https://open.spotify.com/album/1D5WxILmPRYQyottQFjbDO) | 5:58 |
-| 63 | [Intentionally \- Carl Cox Remix](https://open.spotify.com/track/2CnbcGoBNtbSjgF8pYJ71Y) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Intentionally](https://open.spotify.com/album/6BZvZr6rHBJEOFABiAjqxz) | 6:10 |
+| 63 | [Intentionally \- Carl Cox Remix](https://open.spotify.com/track/3BIlYx3GcANtn0WYMKRBiG) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Intentionally](https://open.spotify.com/album/7hvs9s04RTMT3N2hakn9fb) | 6:10 |
 | 64 | [Cluster](https://open.spotify.com/track/2Bjbr5y63hEVubSpfPFbik) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \- EP](https://open.spotify.com/album/13n18iOU6x7D1gmEupfDF4) | 7:37 |
 
-Snapshot ID: `MCw3ODFjZDMxOWNkYTY2ZGJmZWQ4MzU1M2FmOTRjOTBiNDNlMGQxM2Fj`
+Snapshot ID: `MCw5MjQ0M2UzM2RmZmEzNjBjYjE2NWVkOGJjMzQ0ZWI1ODg2YjkxZmI4`

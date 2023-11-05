@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,280 likes - 80 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,405 likes - 80 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 39 | [Lorn and Loath](https://open.spotify.com/track/2fIMFAMxuJEwNBnsD1gI7l) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Fire in the White Stone](https://open.spotify.com/album/1ZSrG9WgZewjkbKTw1gwg6) | 7:35 |
 | 40 | [The Elm](https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Lunar Falls](https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3) | 3:30 |
 | 41 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 |
-| 42 | [Skugge](https://open.spotify.com/track/5E48z1EGgE93HoCpi94nzK) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn](https://open.spotify.com/album/5LNSX7ibqConJ2lAIM598L) | 6:38 |
+| 42 | [Skugge](https://open.spotify.com/track/6rDzCWPqu1HL68R17tTVlp) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Skugge](https://open.spotify.com/album/1bCZ0eqT2D5QvTE4NxoLS0) | 6:38 |
 | 43 | [A Hajnal Köszöntése](https://open.spotify.com/track/1zPWdZU3ffm5Knjn1rI0Uu) | [The Moon & The Nightspirit](https://open.spotify.com/artist/7hm6tfDbNUdRrz2hfRpJG3) | [Metanoia](https://open.spotify.com/album/3TnGjy4KW6dwCXtsKjod7D) | 5:56 |
 | 44 | [Østavind](https://open.spotify.com/track/27YMR1cUhUKWQavHL6ojOg) | [Kjell Braaten](https://open.spotify.com/artist/24APlr3M5upT8vsa6kpotC) | [Ferd](https://open.spotify.com/album/2G0OFHDsL5aAyyuCjAQeMl) | 3:13 |
 | 45 | [Räven](https://open.spotify.com/track/1tzL0ZN9RGFPROrFikLVZk) | [Hedningarna](https://open.spotify.com/artist/0Y5ldP4uHArYLgHdljfmAu) | [TRÄ](https://open.spotify.com/album/7cdb2iO13iwekXoOlYej94) | 4:52 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 73 | [Ruun II \- The Epitaph](https://open.spotify.com/track/2MSPBBEgmtqE7bUu8Kos6T) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Caravans to the Outer Worlds](https://open.spotify.com/album/4SQD8QqIgZKYEGraVPzxgo) | 5:37 |
 | 74 | [Leaving Valhalla](https://open.spotify.com/track/3Ehr8sErsyXW6ymhHyF3jk) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla \(Original Game Soundtrack\)](https://open.spotify.com/album/7FC2mWK1omHDkeTkDFMqEs) | 1:32 |
 | 75 | [Jólanótt](https://open.spotify.com/track/0LHxitnBVBbmRVqCZH8I74) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Jólanótt](https://open.spotify.com/album/212WacUd6V0YsXOcRAt3uk) | 3:25 |
-| 76 | [Fehu \- First Flight Of The White Raven LIVE](https://open.spotify.com/track/6aYm5c6blHJKXV5GptM6bC) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn \- First Flight of the White Raven](https://open.spotify.com/album/4yyj6YMX3clychfKehjlRr) | 5:28 |
+| 76 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/4JEFld1zyKtbLaKMwdRmTh) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/23ghp02cykc1CY2BWn74RR) | 5:28 |
 | 77 | [Jormungandr \- Vinland Edition](https://open.spotify.com/track/0QK4Q4hcwQTzbiWisvrv83) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Ragnarök](https://open.spotify.com/album/2OyNo7JIAxW8DhS2fLPAJ8) | 4:13 |
 | 78 | [Akva \- Live](https://open.spotify.com/track/5sCfp94Viu01VFQlNL1Zf2) | [KAUAN](https://open.spotify.com/artist/2QgzO1Z5XYu9zj3nOYsXUa) | [Akva \(Live\)](https://open.spotify.com/album/0vJfKqs1FC63IShbggiyyu) | 6:44 |
 | 79 | [Anaia](https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC) | [IANAI](https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh), [Client N](https://open.spotify.com/artist/4ItT2MdjEl4l5HrxkWT9QF) | [Sunir](https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA) | 6:38 |
 | 80 | [Isä Meidän](https://open.spotify.com/track/7rdSeeSS4JcYjUQtLSuRhZ) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Isä Meidän](https://open.spotify.com/album/63Hue96M6GYO6jc0QG4eWC) | 4:04 |
 
-Snapshot ID: `MCxjMDRhYTNkYjk3Nzg0MDIzZDU3OTUwZWE5Y2U3YzEzMTk2NzIxNmNj`
+Snapshot ID: `MCxmMjBjYWRmMWU4OTRhNTQzN2ExODFiMjFhZTgyZmFlZWRkYzE3NzEx`

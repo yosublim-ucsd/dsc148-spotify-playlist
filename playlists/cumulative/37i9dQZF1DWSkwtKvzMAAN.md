@@ -4,7 +4,7 @@
 
 > Funky blips and blops
 
-50 songs - 5 hr 20 min
+51 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Freak\-a\-Zoid](https://open.spotify.com/track/42UpH9fz5utv8tkvOgh5Qb) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [No Parking on the Dance Floor](https://open.spotify.com/album/67v1yz3SGvFEnQeTO8H6jP) | 8:05 | 2020-08-28 |  |
 | [Freaks Come Out at Night](https://open.spotify.com/track/1JKJZLqLUh0vlemaD3IfLe) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Escape \(Expanded Edition\)](https://open.spotify.com/album/0wXylkn9taeEjiiac1S2zU) | 4:44 | 2020-08-28 |  |
 | [Funn](https://open.spotify.com/track/3mCyWicf3WPPYyDQCibWW4) | [The Gunchback Boogie Band](https://open.spotify.com/artist/4oIIY392AXFfmOJH2y8fnC) | [Rare Preludes, Vol\. 3](https://open.spotify.com/album/0PHuEeLvtoLqwhJea7dLLA) | 5:36 | 2020-08-28 |  |
-| [Haven't Been Funked Enough \- Original Mix](https://open.spotify.com/track/2lbEarePBP4FL2v5wtb9kv) | [King Sporty & The Ex Tras](https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7) | [Haven't Been Funked Enough](https://open.spotify.com/album/3Qc2hu9ngTfwe2UvGL5LPc) | 6:42 | 2020-08-28 |  |
+| [Haven't Been Funked Enough](https://open.spotify.com/track/7cK9wftkiEx2ZXzu9VoPc0) | [King Sporty & The Ex Tras](https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7) | [Haven't Been Funked Enough](https://open.spotify.com/album/27gP8Ctl9VZrBsAeb7EghR) | 6:42 | 2020-08-28 |  |
+| [Haven't Been Funked Enough \- Original Mix](https://open.spotify.com/track/2lbEarePBP4FL2v5wtb9kv) | [King Sporty & The Ex Tras](https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7) | [Haven't Been Funked Enough](https://open.spotify.com/album/3Qc2hu9ngTfwe2UvGL5LPc) | 6:42 | 2020-08-28 | 2023-11-05 |
 | [Hydraulic Pump](https://open.spotify.com/track/1yehjrHYpbn3V2mmFqlSCJ) | [P\-Funk All Stars](https://open.spotify.com/artist/4jbdFVscwgzbzxNFmCHjGY) | [Urban Dancefloor Guerillas \(Expanded Edition\)](https://open.spotify.com/album/6fHGGxVizWx4zsW8yR7aAU) | 6:43 | 2020-08-28 |  |
 | [I Can't Wait](https://open.spotify.com/track/647q0KZHceDZTyLExHU0ue) | [Nu Shooz](https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu) | [I Can't Wait: Collected](https://open.spotify.com/album/3V2uj3rLi0Y6McyB4Tw84n) | 3:38 | 2020-08-28 |  |
 | [I Wonder If I Take You Home](https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT), [Full Force](https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2) | [Playlist: The Very Best Of Lisa Lisa & Cult Jam](https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG) | 6:44 | 2020-08-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 
 > <a href="https://www.instagram.com/pxssypalace/?hl=en">Pxssy Palace</a> creates a safe space for queer womxn, trans, non\-binary and intersex people of colour with their London\-based club night\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,188 likes - 46 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,219 likes - 46 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 6 | [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 |
 | 7 | [Bobolonga](https://open.spotify.com/track/3sWihNY9u8Lok8K2L73kQW) | [El Experimento \(Macgyver\)](https://open.spotify.com/artist/2061nJAmY52Z8zAVjGFkTv), [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc), [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV), [Gailen La Moyeta](https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir), [Paramba](https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi), [El Chuape](https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9), [Young Gatillo](https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD) | [Bobolonga](https://open.spotify.com/album/6fS58tert22xeJxEz1CGQF) | 3:35 |
 | 8 | [Hype Beast](https://open.spotify.com/track/6whBYdE8GepAR0X27SuYXo) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO), [Princess Precious](https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5) | [Snack Time](https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG) | 2:35 |
-| 9 | [Faceshopping](https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:56 |
+| 9 | [Faceshopping](https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:56 |
 | 10 | [Fierce](https://open.spotify.com/track/2XcsL72WPyN8lATbaPHUp3) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Fantasea](https://open.spotify.com/album/3cEIffjpBqKSWwpUFcCu5x) | 3:13 |
 | 11 | [Guap](https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 5:40 |
 | 12 | [Tight Up \(feat\. Red Rat\)](https://open.spotify.com/track/0rIZGjN9oQTyAwByKpeGBf) | [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO), [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Tight Up \(feat\. Red Rat\)](https://open.spotify.com/album/4atPUp52kt5lL8tKZcwFmx) | 3:21 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 45 | [Bling Bling](https://open.spotify.com/track/62NhZM0i7RrAThbBmb2vsQ) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Satisfaction Guaranteed](https://open.spotify.com/album/1LGNcwOY4Ro9eEDJwohBez) | 2:45 |
 | 46 | [IN THE AIR](https://open.spotify.com/track/63Nh9nDjrK0YB3BaMDN9v6) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [CRY 4 HELP](https://open.spotify.com/album/3a9TkAd9pVKebwqaGrQw0n) | 4:21 |
 
-Snapshot ID: `MCw4MDNkYTBlNWEyOWQ0ZWI2NzAzMGQxOGNkOWU0MmExYjkxYjYxMTQ1`
+Snapshot ID: `MCwwOTVhNmFiMDhiYTdkNDUyMjBkNTY1YTQwYWQ4OWY2MTI0ZjAzZWU1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,902 likes - 129 songs - 7 hr 21 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,901 likes - 130 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,5 +137,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 127 | [Eternity](https://open.spotify.com/track/0PqsrSUORNOsVyVH7jSlnM) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Eternity](https://open.spotify.com/album/0uVzoO0jamR1dQqDYA3sCY) | 3:20 |
 | 128 | [Make It Somehow](https://open.spotify.com/track/40fXArbSGm9YqflinCTQ4p) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Make It Somehow](https://open.spotify.com/album/4mzct5WjZtrgHnqzv55jEn) | 2:48 |
 | 129 | [Fever](https://open.spotify.com/track/4aonFWNn1hriqeEtXmMIRy) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ) | [Fever](https://open.spotify.com/album/1czheboLJFCb4lgJL2q4KK) | 2:40 |
+| 130 | [Wish You Were Here](https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Wish You Were Here](https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W) | 3:34 |
 
-Snapshot ID: `MTA1NDgsZjQxM2Y4YTAyMDQ2NTE1YjI2MDQ0ZTg1YmI0MzYyMTFlNzYyYzhmOA==`
+Snapshot ID: `MTA1NDksZmJiNDVlNTNlNDYzOGFlM2Q3MzhlNzExNzBkODRiZWEyOTU3NTM1Yw==`

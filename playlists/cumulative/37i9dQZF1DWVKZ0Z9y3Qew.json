@@ -1180,6 +1180,40 @@
     {
       "album": {
         "name": "BBE",
+        "url": "https://open.spotify.com/album/0TFFZA2Crsuiyxehi71wh8"
+      },
+      "artists": [
+        {
+          "name": "Burd Hauz",
+          "url": "https://open.spotify.com/artist/00A09Fb55VCUhCJk2YQJuM"
+        },
+        {
+          "name": "AprilFoolChild",
+          "url": "https://open.spotify.com/artist/2opJ0Ui15QLmZJVoD3DeNY"
+        },
+        {
+          "name": "Burdeaux",
+          "url": "https://open.spotify.com/artist/1p2NeabusOsQV4orj4I9t1"
+        },
+        {
+          "name": "JAZ",
+          "url": "https://open.spotify.com/artist/0L7e02l1pVpPXNKUyWTOP6"
+        },
+        {
+          "name": "Otheni",
+          "url": "https://open.spotify.com/artist/4Z1ClW4pYGRVjPc5v8taXE"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188184,
+      "name": "BBE",
+      "url": "https://open.spotify.com/track/6L25wPmGozoYL2u8cTm9QX"
+    },
+    {
+      "album": {
+        "name": "BBE",
         "url": "https://open.spotify.com/album/7zIbvfzPp4ncWBOcdxAWtc"
       },
       "artists": [
@@ -1202,7 +1236,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 185987,
       "name": "BBE",
       "url": "https://open.spotify.com/track/2cKUo7CyqYmny5qXvkTQku"

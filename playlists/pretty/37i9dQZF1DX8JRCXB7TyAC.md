@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,514 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,616 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 |
 | 50 | [Badmashan Ka Gaam](https://open.spotify.com/track/4iPqNt6wKhJUJXD5qm9bQu) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Badmashan Ka Gaam](https://open.spotify.com/album/6LND3ww5b7PjfvcOzXl7xv) | 2:24 |
 | 51 | [Aar Paar](https://open.spotify.com/track/6VwFxZXXIt0fpFqBm8oSZ7) | [Veer Sahu](https://open.spotify.com/artist/6WX30h7AXzPvJdBKxf2i0F) | [Aar Paar](https://open.spotify.com/album/1of1BnD9Wy9Si8ActYR4Sy) | 3:27 |
-| 52 | [Chora Gaam Ka](https://open.spotify.com/track/0yeDyNCGJvISdOsjox9Gnr) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY) | [Chora Gaam Ka](https://open.spotify.com/album/5xThnynFtoQBLacgNGXYrS) | 3:51 |
+| 52 | [Chora Gaam Ka](https://open.spotify.com/track/0zcGWOUvePGVGRjxQ0FC7h) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY) | [Chora Gaam Ka](https://open.spotify.com/album/6V3Qpx4kXCSnTnm4X47xrR) | 3:51 |
 | 53 | [Haryanvi Swag](https://open.spotify.com/track/3pnigHrG7LXFjnH3lbUcTz) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM), [Jerry](https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Haryanvi Swag](https://open.spotify.com/album/3PslA9S2V2vUDqRJo8z23C) | 2:23 |
 | 54 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 |
 | 55 | [Salute](https://open.spotify.com/track/6kk3T6M88cunWGspzNqlVr) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Salute](https://open.spotify.com/album/2jIIGk955mGc9fMIDuBa7I) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 59 | [Raosahab](https://open.spotify.com/track/1OkSGjNN37znjSZd7LwrzB) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Raosahab](https://open.spotify.com/album/64V6bH51CIBl9GLaxipZHK) | 2:52 |
 | 60 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 |
 
-Snapshot ID: `MCxiNzIyOTVmODBhYzAyOGZiYTI2OGFiOGUwNTQ2ZDM2OTc4Mzk2YjQ3`
+Snapshot ID: `MCwxYTQ5ZWQ4MWE1ZTJiNDM3MTczYmI5NmIzNDE3MWYwZWI0MmU4YTk3`

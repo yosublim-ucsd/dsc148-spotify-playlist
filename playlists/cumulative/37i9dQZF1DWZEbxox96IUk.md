@@ -4,7 +4,7 @@
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-61 songs - 4 hr 8 min
+62 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [C'est comme ça](https://open.spotify.com/track/3y9FzflARxBDRuARWGDWmq) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [The No Comprendo](https://open.spotify.com/album/3VnFLQ6pO9MSvVeKv5DHjY) | 4:54 | 2022-05-23 |  |
 | [C'est l'amour \(Version originale\)](https://open.spotify.com/track/4avt9wdU3AuLGSu4GFTsu0) | [Léopold Nord & Vous](https://open.spotify.com/artist/66M3IT7olPYfvGGRSfXQms) | [C'est L'amour](https://open.spotify.com/album/4EPeTd0isGRzAl6uZQSD1Y) | 3:24 | 2022-05-23 | 2023-10-21 |
 | [C'est l'amour \- Version originale](https://open.spotify.com/track/5fSpVOafE3DSUs0xztUf6k) | [Léopold Nord & Vous](https://open.spotify.com/artist/66M3IT7olPYfvGGRSfXQms) | [C'est l'amour](https://open.spotify.com/album/0bcoBIHzBtAmMavPXiXfgP) | 3:24 | 2022-05-23 |  |
-| [Capitaine abandonné](https://open.spotify.com/track/2wPIAbTLGirLSZwv0dndIp) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Le Best Of](https://open.spotify.com/album/1bVtBAQJUBWFjsXSDViOT8) | 3:51 | 2022-05-23 |  |
+| [Capitaine abandonné](https://open.spotify.com/track/2wPIAbTLGirLSZwv0dndIp) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Le Best Of](https://open.spotify.com/album/1bVtBAQJUBWFjsXSDViOT8) | 3:51 | 2022-05-23 | 2023-11-05 |
+| [Capitaine abandonné](https://open.spotify.com/track/38LHrcQIVbJJtS8H3xfCKn) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Incontournable Gold](https://open.spotify.com/album/0RPMT9OFkLNQMUjCxhlTlR) | 3:55 | 2022-05-23 |  |
 | [Chacun fait \(c'qui lui plait\)](https://open.spotify.com/track/5TpIQ1tVlPnm4SHObswUU6) | [Chagrin D'amour](https://open.spotify.com/artist/1LTi4SuPK0G9juYKxU6AAG) | [Chacun fait \(C'qui lui plait\)](https://open.spotify.com/album/0I18V9PWrPOG3JmOkLyysm) | 4:09 | 2022-05-23 |  |
 | [Chante](https://open.spotify.com/track/70uAATa6l9BHWfAMYFV28u) | [Les Forbans](https://open.spotify.com/artist/6d3BkI9bZouJ63vdkH3c4l) | [La Megacompil Des Forbans](https://open.spotify.com/album/0GHNIVRdIe9dnUFbod9g1x) | 2:58 | 2022-05-23 |  |
 | [Confidence pour confidence \- Version originale 1981](https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3) | [Jean Schultheis](https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W) | [Abracadabra](https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD) | 4:46 | 2022-05-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,155 likes - 184 songs - 13 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,339 likes - 184 songs - 13 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,7 +178,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 168 | [Don't Turn it Off \- Bella Boo Remix](https://open.spotify.com/track/4lJElmOrRO0egVyzyVuJd2) | [40 Thieves](https://open.spotify.com/artist/1MLdyxgahy0T5ZdTpe4Jnc), [Qzen](https://open.spotify.com/artist/20EM84j9V8c6AzgzRyvuFF), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Don't Turn it Off \(Session Victim & Bella Boo Remixes\)](https://open.spotify.com/album/6eBQ6LBEleBkQLhoMr337w) | 5:45 |
 | 169 | [Tell You What It Is \- Shermanology SoulTec Mix](https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is \(Shermanology SoulTec Mix\)](https://open.spotify.com/album/7GJ2eSxgOOjIbTm57N8HUV) | 3:39 |
 | 170 | [Nights On The Floor](https://open.spotify.com/track/19nY0DMvD2ajoY7cLczBw4) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Nights On The Floor](https://open.spotify.com/album/2QwmZ5GThwXVZ7SuLjUIFQ) | 7:05 |
-| 171 | [Dope \- Original Mix](https://open.spotify.com/track/5wElWRFQIzeE1YBe1gTIxp) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Dope](https://open.spotify.com/album/7zPgCo3kXvezF86DQw2ERZ) | 8:29 |
+| 171 | [Dope](https://open.spotify.com/track/1l2K4CLTVdxt3IHxVEYJQQ) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Dope](https://open.spotify.com/album/6bIUvka8xYxckAAbGwROrJ) | 8:29 |
 | 172 | [Stay Inside \(feat\. Liv.e\) \- Sandy Rivera Remix](https://open.spotify.com/track/5oFNZCGG0BX6EF2pGKsiQ1) | [JT Donaldson](https://open.spotify.com/artist/4sg0H3qltIBMe0G25XjwUN), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3) | [Stay Inside \(feat\. Liv.e\) \[Remixes\]](https://open.spotify.com/album/3KCWwGUT2EPhzHQ3t2ouEP) | 3:51 |
 | 173 | [what the hell is lofi house?](https://open.spotify.com/track/4LoUp759ZRqbpzXpryqyub) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [what the hell is lofi house?](https://open.spotify.com/album/0jnEIIGSChsF3129A2d3bv) | 5:42 |
 | 174 | [People](https://open.spotify.com/track/5Z7K4nCutR02UrKIDjY35k) | [MLiR](https://open.spotify.com/artist/1deVrxjIl8NdenVpoSUiKi) | [Swedish Lo\-Life EP](https://open.spotify.com/album/1tJnTAZH3tCdoniVCB4nPD) | 6:07 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 183 | [maracuya massage \- Sam Ruffillo Remix](https://open.spotify.com/track/4AgAhaqv9RA6q7JnnyCMdv) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [maracuya massage \(Sam Ruffillo Remix\)](https://open.spotify.com/album/2Onz56a71k0NIcqMR93wqu) | 4:11 |
 | 184 | [phases \(feat\. Kojey Radical\) \- P\-rallel Remix](https://open.spotify.com/track/0BUU2Sw6QrDyIVg4U6G3Gl) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [phases \(feat\. Kojey Radical\) \[P\-rallel Remix\]](https://open.spotify.com/album/5UMUOPkLKNKKfHIT9D9D4x) | 3:08 |
 
-Snapshot ID: `MCw4MDUwMjZhNjliY2ExOWQwNWVkNDM4MzUzNzAxZmMxYTdlMDJlNTZj`
+Snapshot ID: `MCw0NmNkYzFiZWY5ZGJhMjY1ZjIxYWFjMTQwZTM4MzM5Y2Q1ODRiNzNk`

@@ -1450,10 +1450,44 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 209480,
       "name": "Volare",
       "url": "https://open.spotify.com/track/7r3YaTG6mKqouTw09iCNnZ"
+    },
+    {
+      "album": {
+        "name": "In Harmony",
+        "url": "https://open.spotify.com/album/1ZG1NaOLmvDamnEhevAJkz"
+      },
+      "artists": [
+        {
+          "name": "Domenico Modugno",
+          "url": "https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI"
+        },
+        {
+          "name": "Franz Xaver Gruber",
+          "url": "https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y"
+        },
+        {
+          "name": "Aled Jones",
+          "url": "https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn"
+        },
+        {
+          "name": "Russell Watson",
+          "url": "https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK"
+        },
+        {
+          "name": "Tom Rainey",
+          "url": "https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209480,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/5MzDXB17CWraVOgA0igdL6"
     },
     {
       "album": {

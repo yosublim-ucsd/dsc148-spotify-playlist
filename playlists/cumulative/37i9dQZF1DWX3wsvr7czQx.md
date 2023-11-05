@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Duran Duran
 
-105 songs - 6 hr 47 min
+108 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,10 +74,13 @@
 | [Never Gonna Rain](https://open.spotify.com/track/6wlr3s1bhqNayqDNR2Wmnz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Never Gonna Rain](https://open.spotify.com/album/5D85XXgpIsodD6VJJ2bhia) | 3:17 | 2022-01-28 | 2022-03-12 |
 | [Newspaper Pane](https://open.spotify.com/track/6IseHnFfBqw6k0ACVshrzP) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Hey Clockface](https://open.spotify.com/album/5HwgDLgmrGk6rXd2UPWIsE) | 4:10 | 2021-10-22 | 2023-10-21 |
 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 | 2021-12-03 | 2022-02-26 |
-| [One Day Longer](https://open.spotify.com/track/7Fi5nCKmCDd29fdhdE60Qz) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [One Day Longer](https://open.spotify.com/album/34ygCQzhnvp9bwGX6HZlXt) | 4:07 | 2022-08-12 |  |
-| [One Hell Of A Life](https://open.spotify.com/track/0bQWgz0oobVeFcyG1oAhYd) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time \(The Hourglass Edition\)](https://open.spotify.com/album/65FrNv74cknKGNRLOUVmgM) | 5:23 | 2021-12-03 |  |
+| [One Day Longer](https://open.spotify.com/track/0vH2LlAYsYeTPjEp9mgNoC) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Songwriter](https://open.spotify.com/album/2jHrXoaw4ngQGU6dKp2f48) | 4:07 | 2022-08-12 |  |
+| [One Day Longer](https://open.spotify.com/track/7Fi5nCKmCDd29fdhdE60Qz) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [One Day Longer](https://open.spotify.com/album/34ygCQzhnvp9bwGX6HZlXt) | 4:07 | 2022-08-12 | 2023-11-05 |
+| [One Hell Of A Life](https://open.spotify.com/track/0bQWgz0oobVeFcyG1oAhYd) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time \(The Hourglass Edition\)](https://open.spotify.com/album/65FrNv74cknKGNRLOUVmgM) | 5:23 | 2021-12-03 | 2023-11-05 |
+| [One Hell Of A Life](https://open.spotify.com/track/226OTrOImSJWRSFtukFni8) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time \(The Hourglass Edition\)](https://open.spotify.com/album/6zuQwkKkMEJYPYhsMgYJMP) | 5:23 | 2021-12-03 |  |
 | [One Hell Of A Life](https://open.spotify.com/track/3td9rTUTQRbaBQ5mD7ZiTr) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time \(The Hourglass Edition\)](https://open.spotify.com/album/5QAf18dGZUv4X5FKc3T7i7) | 5:23 | 2021-12-03 | 2022-07-29 |
-| [One More Cup Of Coffee](https://open.spotify.com/track/2I6UEY3f6CQ1rsbpn3Cg7H) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time](https://open.spotify.com/album/06iDUt5q4pxGHcide19i7X) | 3:45 | 2021-10-29 |  |
+| [One More Cup Of Coffee](https://open.spotify.com/track/2I6UEY3f6CQ1rsbpn3Cg7H) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time](https://open.spotify.com/album/06iDUt5q4pxGHcide19i7X) | 3:45 | 2021-10-29 | 2023-11-05 |
+| [One More Cup Of Coffee](https://open.spotify.com/track/5dqUHvugSJOiPXqPkTCuMY) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time](https://open.spotify.com/album/04BIk4z6szD5cNpvmjOY5D) | 3:45 | 2021-10-29 |  |
 | [One More Time](https://open.spotify.com/track/5oD2dU9uXCuCLYKGeTYi7i) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [One More Time](https://open.spotify.com/album/0187WUsGIlSalPRu0BOu1y) | 3:58 | 2021-10-22 | 2022-05-07 |
 | [Panopticom \- Bright Side Mix](https://open.spotify.com/track/0DpMQVZpl0bsIlFbm5CS7V) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Panopticom \(Bright Side Mix\)](https://open.spotify.com/album/3vMQQGbY67Sj77bD6dT8zt) | 5:13 | 2023-01-06 |  |
 | [Precious Time](https://open.spotify.com/track/4U9OxFxU1rM1GixGF2MXRS) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Precious Time](https://open.spotify.com/album/6C6bBwceQNCXaNK78OPTKe) | 4:27 | 2021-10-22 | 2022-04-02 |

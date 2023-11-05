@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,734 likes - 28 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,748 likes - 28 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 4 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 |
 | 5 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
 | 6 | [Main Title And First Victim](https://open.spotify.com/track/1g10rYqM3jJQsWRnXCFcx7) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jaws \(The Collector's Edition Soundtrack\)](https://open.spotify.com/album/6qUytVWmtw4xh2tjCv39GE) | 3:26 |
-| 7 | [Theme from The Shining \- From The Shining](https://open.spotify.com/track/45EsuvNDt2juEytk79BZkB) | [Orlando Pops Orchestra](https://open.spotify.com/artist/5XH7RieKeVpt2zcr1yOMaS) | [Most Amazing Movie, Musical & TV Themes, Vol\. 4](https://open.spotify.com/album/6D5CjrqVr40B0wjL1Mf904) | 2:53 |
+| 7 | [THE SHINING](https://open.spotify.com/track/5CLs2ZsEMPVSEgWOD3sVFE) | [101 Strings Orchestra](https://open.spotify.com/artist/1sLpCr5xThZkGHLw4H0mNE) | [HORROR MOVIE BEST SELECTION \- FRIDAY THE 13TH \-](https://open.spotify.com/album/3YAiVfJ5pp30Sgq62GieHQ) | 2:55 |
 | 8 | [Epilogue \- The Pennywise Dance](https://open.spotify.com/track/3UJWTHeEruyf2rWAf518hf) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [IT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tVCAKqFXuBvDMO5Jh3dZF) | 0:36 |
 | 9 | [Theme from Twin Peaks \- Fire Walk with Me](https://open.spotify.com/track/6ov87ZmFzA62REV8KrbWXj) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [Twin Peaks: Fire Walk With Me \- Soundtrack](https://open.spotify.com/album/7KTThkarRqhJX5DVkDOo7Z) | 6:46 |
 | 10 | [Dracula\- The Beginning](https://open.spotify.com/track/00De7REGurYkmfrKAh6CU1) | [Wojciech Kilar](https://open.spotify.com/artist/6McH9ZlRL24gW6Bt4fpqad) | [Bram Stoker's Dracula: Original Motion Picture Soundtrack](https://open.spotify.com/album/4WDRuinnAhb1taYx3RNAxr) | 6:40 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 27 | [This is Halloween](https://open.spotify.com/track/1CYjYSg9sdtbBoxSf8uhFD) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:19 |
 | 28 | [The Twilight Zone \- Remastered 1992](https://open.spotify.com/track/2pdqaNUADr4vkmml8wveJd) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35), [Kevin Reeves](https://open.spotify.com/artist/3hXPNhCTXeyEnwwrXHpMNC), [Ron Furmanek](https://open.spotify.com/artist/7LrLiL3hiy4IDwbWH29vnG) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 2:36 |
 
-Snapshot ID: `MCw0MmNlZTNiNDk3N2FiM2YzZWY3OTUxZGYyMjkxYTU2ZjcxNmEzOWIy`
+Snapshot ID: `MCxkNGFmYzE1NTc0YjNlNDdkYWNlZTYxMjU0NDA4NWYzMTM2ZDAxYjAw`

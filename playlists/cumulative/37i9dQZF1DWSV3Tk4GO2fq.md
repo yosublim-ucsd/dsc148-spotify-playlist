@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1950s.
 
-314 songs - 14 hr 30 min
+315 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Broken Hearted Melody](https://open.spotify.com/track/5X4lsUAYrT5m0IyL6Xm8T5) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 2:23 | 2022-06-09 | 2022-11-18 |
 | [Broken Hearted Melody](https://open.spotify.com/track/43zIzwzVqI51alZlyKbKi4) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [The Magic Of Sarah Vaughan](https://open.spotify.com/album/2hTjOrY0sgLWBtvkxb1pcF) | 2:26 | 2022-06-09 |  |
 | [Buona Sera \- Remastered](https://open.spotify.com/track/0DXm5n7SBxCED9ssTvrx2J) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Capitol Collectors Series](https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG) | 3:07 | 2021-04-28 |  |
+| [Bye Bye Love](https://open.spotify.com/track/6OPMgzdjWaxR0P8mCql03S) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [All I Have to Do Is Dream](https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb) | 2:22 | 2022-06-09 |  |
 | [Bye Bye Love](https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:22 | 2022-06-09 | 2023-09-15 |
 | [Bye Bye Love](https://open.spotify.com/track/1j7HyD3cxyYw9bMFevxWyR) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | ["All I Do Is Dream" Everly Brothers](https://open.spotify.com/album/6c6lTSg4kIOMQ52CkTTUEx) | 2:24 | 2021-04-28 | 2022-07-29 |
 | [Calendar Girl](https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:39 | 2021-04-28 |  |
@@ -154,7 +155,7 @@
 | [Little Bitty Pretty One](https://open.spotify.com/track/6FMGHBZaYQY7oFS7vyZx8a) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT), [The Sharps](https://open.spotify.com/artist/3rFDVPRm6uqGHyxOr7glbG) | [Little Bitty Pretty One](https://open.spotify.com/album/4nYxAqSN5IKtwX1E1wJtTO) | 2:22 | 2022-06-09 |  |
 | [Little Darlin'](https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [The Best Of The Diamonds](https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM) | 2:09 | 2021-04-28 |  |
 | [Living Doll \- 2003 Remaster](https://open.spotify.com/track/3koJ1vDWEITIrfMlNaHIu3) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [Stronger Thru the Years](https://open.spotify.com/album/3rLfzxtnwQMHi16pLYdSFw) | 2:36 | 2021-04-28 | 2022-07-29 |
-| [Lollipop](https://open.spotify.com/track/1hFB1obL3dCyIDigkojSTm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl) | 2:10 | 2022-06-09 |  |
+| [Lollipop](https://open.spotify.com/track/1hFB1obL3dCyIDigkojSTm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl) | 2:10 | 2022-06-09 | 2023-11-05 |
 | [Lonely Boy](https://open.spotify.com/track/4kh2S9hRpPvoF9JkwZcYGN) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:31 | 2021-04-28 | 2022-11-13 |
 | [Lonely Teardrops](https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Lonely Teardrops](https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT) | 2:46 | 2021-04-28 |  |
 | [Lonesome Town \- 1990 Digital Remaster](https://open.spotify.com/track/56XoFI6v7kbGNdM8ALYWof) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [The Legendary Masters Series \(Volume 1\)](https://open.spotify.com/album/5R27t83T8Jhltww09lriMo) | 2:15 | 2021-04-28 |  |

@@ -1888,7 +1888,7 @@
     {
       "album": {
         "name": "Picturesque Matchstickable Messages from the Status Quo",
-        "url": "https://open.spotify.com/album/6GjmCt1jb9IiOTw106Xa4W"
+        "url": "https://open.spotify.com/album/7nZD9x7CWHtnvL0H7Gkrum"
       },
       "artists": [
         {
@@ -1899,6 +1899,24 @@
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 195773,
+      "name": "Pictures of Matchstick Men",
+      "url": "https://open.spotify.com/track/49Y63pCtLCOdbRBokfFxOt"
+    },
+    {
+      "album": {
+        "name": "Picturesque Matchstickable Messages from the Status Quo",
+        "url": "https://open.spotify.com/album/6GjmCt1jb9IiOTw106Xa4W"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 190600,
       "name": "Pictures of Matchstick Men - Mono Version",
       "url": "https://open.spotify.com/track/0MRs5O62wfDgf5cQKalrPq"

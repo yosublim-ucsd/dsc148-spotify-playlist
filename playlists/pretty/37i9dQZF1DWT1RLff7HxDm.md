@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,191 likes - 98 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,237 likes - 98 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 65 | [Feeling Good \- Live](https://open.spotify.com/track/3315kMG6PdeNdwKMGxNTxn) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Live at the Roxy](https://open.spotify.com/album/4H8vrtg99Qxjz7kwlC9yqw) | 3:52 |
 | 66 | [A Better Man](https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [Live 2014 \(Nighttrain To Budapest Farewell Tour\)](https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3) | 6:08 |
 | 67 | [Hideaway \- Live](https://open.spotify.com/track/2ITCE00HMJT7FzThIwpJkg) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Chris Barber](https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU) | [70th Birthday Concert \(Live\)](https://open.spotify.com/album/1vRKL1uMdXWFzFdiGRtd25) | 4:50 |
-| 68 | [Cold Black Night \- Live at VH1](https://open.spotify.com/track/7CqYhpvCsj0kyByDwyrtrs) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Cold Black Night \(Live at VH1\)](https://open.spotify.com/album/3rPGkz9zHgBj3Ctnk7JIhU) | 4:05 |
+| 68 | [Cold Black Night \(Live at VH1\)](https://open.spotify.com/track/4YTn5VVoRwySkVvlHOgTU1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Back to the Blues \(Deluxe Edition\)](https://open.spotify.com/album/0oy6FL21rdqKFlGEmJfuZp) | 4:05 |
 | 69 | [By My Lonesome \- Live](https://open.spotify.com/track/0RtMoXD1q8opjELLbBb45i) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [By My Lonesome \(Live\)](https://open.spotify.com/album/0CFKSo6uPyJ3xoQ2QZTeP7) | 2:32 |
 | 70 | [Gunslinger \- Live](https://open.spotify.com/track/3pU28LbuY6LpaAwHGehN8d) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Knows Diddley Live](https://open.spotify.com/album/2z1TNVOGgtg69QcZskgSdj) | 4:27 |
 | 71 | [Can't Let Go \- Live \(Remastered\)](https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I’m A Woman \[Live \(Remastered\)\]](https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0) | 5:52 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 97 | [Do You Wanna \- Live](https://open.spotify.com/track/4dHpgdH4HNPTDxOrTFKnhy) | [Vanja Sky](https://open.spotify.com/artist/11qCism35wezz8ve5s5hBq) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 3:35 |
 | 98 | [Backwater Blues \- Live](https://open.spotify.com/track/4ScrL9E0Ifv2dL1liFqnf7) | [Cedric Burnside Project](https://open.spotify.com/artist/0U8rq1DeTRYsLCHFm8aB0W) | [Backwater Blues \(Live\)](https://open.spotify.com/album/1acsrcWZZlLtWnzhHykdrU) | 4:37 |
 
-Snapshot ID: `MCwzMDE0ZTA3OGJjOTQ2NmE5MWVlZWQ0ZTkxNmUxMTEzZDE3M2ZjNDYw`
+Snapshot ID: `MCxiZDhkNjU5MWEwOWYyMDUxYWNhNGJiOThjZDY4Y2FjNjM2YmEzMDFh`

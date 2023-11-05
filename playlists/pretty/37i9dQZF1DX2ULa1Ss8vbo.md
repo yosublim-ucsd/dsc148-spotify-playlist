@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 
 > Songs from the old country: the essential traditional Irish ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,180 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,228 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 | 15 | [Grace](https://open.spotify.com/track/27Eoj5oSbu4rXUGU11PctX) | [Jim McCann](https://open.spotify.com/artist/2JubMFXFD0c3Ofhx6SdSOy) | [Ireland's Greatest Love Songs](https://open.spotify.com/album/1ugKkTnNyJk1xMCKLortYM) | 4:41 |
 | 16 | [Streets of London](https://open.spotify.com/track/2zwH1NlxBEpzVlvzXNHQso) | [Ralph McTell](https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG) | [Spiral Staircase \(Expanded Edition\)](https://open.spotify.com/album/1KNG7O89f5oHbvvI3eOMPv) | 4:08 |
 | 17 | [Curragh Of Kildare](https://open.spotify.com/track/3aA4NSYdryZqiGp3tV9MCB) | [Bert Jansch](https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D) | [Three Chord Trick](https://open.spotify.com/album/3mjzDTUEi3sABdt3Wb4udC) | 4:45 |
-| 18 | [The Wild Rover \- Live](https://open.spotify.com/track/4CzPn2Wa5UOrCm6Yo3ClQt) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Transatlantic Anthology \(Live\)](https://open.spotify.com/album/4MaAakVsMaOMtniv2gJLgt) | 3:10 |
+| 18 | [The Wild Rover \(Live\)](https://open.spotify.com/track/5FOjVfggAcbto0JP3YR778) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Dubliners \(Live;Bonus Track Edition\)](https://open.spotify.com/album/18YkQtYXD4lybEsKDAPcR5) | 3:13 |
 | 19 | [Down by the Sally Gardens](https://open.spotify.com/track/60OEb5MtEmmepJPUJtYvFW) | [Maura O'Connell](https://open.spotify.com/artist/2WkDGNlrAN48YIOi18jpEE) | [Transatlantic Sessions \- Series 2, Vol\. Three](https://open.spotify.com/album/2zviYEJfMBDVtoh9mz5SNq) | 3:45 |
 | 20 | [The Streets of London](https://open.spotify.com/track/3EkzGqK2uJrgiZDLXBMWUo) | [Liam Clancy](https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP) | [The Parting Glass \(The Very Best of Liam Clancy\)](https://open.spotify.com/album/5LL2dL3dChEHrcGLBYnqtn) | 4:01 |
 | 21 | [Black Velvet Band](https://open.spotify.com/track/3q8BOrmMePwxbyswncqYCl) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [Paddy Reilly Now](https://open.spotify.com/album/363k1Ot58qIRyLcKFFwa7E) | 3:47 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 | 31 | [Boolavogue](https://open.spotify.com/track/6dXBgGcBKxOeNQFWmBDTo2) | [Brendan Bowyer](https://open.spotify.com/artist/6CynFO9vn6MsOOdLptSPwg) | [Brendan Bowyer's Ireland](https://open.spotify.com/album/6GRzetvyCVfVLek5WANDRA) | 3:42 |
 | 32 | [The Foggy Dew](https://open.spotify.com/track/52bGJTusAslWsvpPguiFn6) | [The Wolfe Tones](https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau) | [25th Anniversary](https://open.spotify.com/album/7fTHb1SDietYPoesmOnDNh) | 3:27 |
 | 33 | [The Irish Rover](https://open.spotify.com/track/2K7lZQojcmdcrl7rkvY3mL) | [Ronnie Drew](https://open.spotify.com/artist/06Iyp8QTMuoS38jjgMYFx2) | [Pure Irish Pub Songs](https://open.spotify.com/album/7lYYpatEqemfpuOajr9w3a) | 2:58 |
-| 34 | [Ae Fond Kiss](https://open.spotify.com/track/0ZLiaBeYAa8kbQNKUXlg8C) | [Mary Black](https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA) | [The Best Of Mary Black Volume 2](https://open.spotify.com/album/7Bm2WiKtfjcD9qumuZmwrC) | 4:07 |
+| 34 | [Sonny](https://open.spotify.com/track/7LupDPRLSzv59dBkkuxMCO) | [Mary Black](https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Dolores Keane](https://open.spotify.com/artist/6nYVwBK8nCQCYlb7rA763B) | [Duets](https://open.spotify.com/album/2Q7wLG5eFud4DDSwSP36R5) | 4:11 |
 | 35 | [A Pair of Brown Eyes](https://open.spotify.com/track/32soEc9h0wDy1BEjV5egeh) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 5:01 |
 | 36 | [Weile Waila](https://open.spotify.com/track/5ECXINnJLnuZPBR87EULUh) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a), [Ronnie Drew](https://open.spotify.com/artist/06Iyp8QTMuoS38jjgMYFx2) | [Definitive Pub Songs Collection](https://open.spotify.com/album/0LUkfcP3XT922V0uhE3SDQ) | 2:24 |
 | 37 | [Marble Halls](https://open.spotify.com/track/1bWHNlvBDJYJDjviGeDT7G) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Shepherd Moons](https://open.spotify.com/album/3SkCmzvX7X6li6Ox0fzyaa) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 | 49 | [The Rose Of Tralee](https://open.spotify.com/track/5iPqNP3HIuyyOQmUkO1vYs) | [The Irish Tenors](https://open.spotify.com/artist/2QehFI9eDvwgtDxEharMPu) | [Live From Ellis Island](https://open.spotify.com/album/67UDn5SBqvaofJRqzJaIcJ) | 4:48 |
 | 50 | [James Connolly](https://open.spotify.com/track/1hoXIRlsnmnW6DP64mJmBM) | [Damien Dempsey](https://open.spotify.com/artist/0bmF1w9eyJrY4CHyjpTQOW) | [No Force On Earth](https://open.spotify.com/album/5NTLr7uctFVYnAIiPqVkfN) | 5:06 |
 
-Snapshot ID: `MCwzYmZkZjZjYmFiZmI0ZTQxY2I1MzM3YzE3NTFmZTlkZDBlZGEwMWZm`
+Snapshot ID: `MCxmMWQ5MTk1NDE5MGU1ZWU3NTQ2OWVjY2ZlMmFiM2M3MTNkODAzYjgy`

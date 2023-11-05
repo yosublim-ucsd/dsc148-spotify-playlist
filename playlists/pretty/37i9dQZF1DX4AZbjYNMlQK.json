@@ -1,12 +1,12 @@
 {
   "description": "Fresh Christmas songs para los d\u00edas festivos. Cover: DannyLux",
-  "num_followers": 283221,
+  "num_followers": 283227,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGU0OTg2MGJiNDMyMzA0N2NiMjRjNTc2ZDMzMGY3NzVkN2Q5ZmQ0",
+  "snapshot_id": "MCwwMmUzMjMyYzhjNWI2MWIwYTJlMzk3NDZlNzJiNTYxMjk0NTcxZmY5",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -43,18 +43,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "5 pa las 12",
-        "url": "https://open.spotify.com/album/6eVGO1kGK6UvJH59KtF300"
+        "name": "Lleg\u00f3 la Navidad",
+        "url": "https://open.spotify.com/album/4XqCASKfjF950apeiJkmmt"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Generacion Escogida",
+          "url": "https://open.spotify.com/artist/3zdXxojrGhIyEgKvHABKim"
+        },
+        {
+          "name": "Christian Nieves",
+          "url": "https://open.spotify.com/artist/6WRxocw99UTRWQyHgLhVuJ"
         }
       ],
-      "duration_ms": 173586,
-      "name": "5 pa las 12",
-      "url": "https://open.spotify.com/track/7uwcZL1mOd4u22md6i4tLD"
+      "duration_ms": 223695,
+      "name": "Lleg\u00f3 la Navidad",
+      "url": "https://open.spotify.com/track/0Biqb9UJEsimAKNSxTuJYM"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -91,26 +99,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Lleg\u00f3 la Navidad",
-        "url": "https://open.spotify.com/album/4XqCASKfjF950apeiJkmmt"
+        "name": "5 pa las 12",
+        "url": "https://open.spotify.com/album/6eVGO1kGK6UvJH59KtF300"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Generacion Escogida",
-          "url": "https://open.spotify.com/artist/3zdXxojrGhIyEgKvHABKim"
-        },
-        {
-          "name": "Christian Nieves",
-          "url": "https://open.spotify.com/artist/6WRxocw99UTRWQyHgLhVuJ"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 223695,
-      "name": "Lleg\u00f3 la Navidad",
-      "url": "https://open.spotify.com/track/0Biqb9UJEsimAKNSxTuJYM"
+      "duration_ms": 173586,
+      "name": "5 pa las 12",
+      "url": "https://open.spotify.com/track/7uwcZL1mOd4u22md6i4tLD"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Al Ni\u00f1o Dios",
-        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        }
-      ],
-      "duration_ms": 153182,
-      "name": "Al Ni\u00f1o Dios",
-      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Silent Night (English/Spanish Version)",
         "url": "https://open.spotify.com/album/0a0S7ADF3QllsUOARlp8AS"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 207816,
       "name": "Silent Night - English/Spanish Version",
       "url": "https://open.spotify.com/track/17a2eOhGG6DzhfDXsapqK1"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Al Ni\u00f1o Dios",
+        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "duration_ms": 153182,
+      "name": "Al Ni\u00f1o Dios",
+      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Una Navidad Sin Nieve",
-        "url": "https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 162346,
-      "name": "Una Navidad Sin Nieve",
-      "url": "https://open.spotify.com/track/44icGG2nMxjtgEkwcPKglA"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Al Mundo Paz",
         "url": "https://open.spotify.com/album/2DtZvoCBDFwW5mplsyxRoL"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Una Navidad Sin Nieve",
+        "url": "https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 162346,
+      "name": "Una Navidad Sin Nieve",
+      "url": "https://open.spotify.com/track/44icGG2nMxjtgEkwcPKglA"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Emmanuel Jingle Bell Rocks",
         "url": "https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 325397,
       "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
       "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Navidad Navidad",
+        "url": "https://open.spotify.com/album/0q3WxfSpGFRKBn060efmip"
+      },
+      "artists": [
+        {
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+        }
+      ],
+      "duration_ms": 142407,
+      "name": "Navidad Navidad",
+      "url": "https://open.spotify.com/track/1d22ht3d8DTsth5dUfbgwZ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -583,18 +599,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Navidad Navidad",
-        "url": "https://open.spotify.com/album/0q3WxfSpGFRKBn060efmip"
+        "name": "Regres\u00e9 Para Navidad",
+        "url": "https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe"
       },
       "artists": [
         {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        },
+        {
+          "name": "Belu Rodriguez Kuhn",
+          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
+        },
+        {
+          "name": "Sophiv",
+          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
         }
       ],
-      "duration_ms": 142407,
-      "name": "Navidad Navidad",
-      "url": "https://open.spotify.com/track/1d22ht3d8DTsth5dUfbgwZ"
+      "duration_ms": 167000,
+      "name": "Regres\u00e9 Para Navidad",
+      "url": "https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -639,26 +663,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Regres\u00e9 Para Navidad",
-        "url": "https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe"
+        "name": "Dime Navidad",
+        "url": "https://open.spotify.com/album/3c11HITsZe2IyDyb4tUg8K"
       },
       "artists": [
         {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
-        },
-        {
-          "name": "Belu Rodriguez Kuhn",
-          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
-        },
-        {
-          "name": "Sophiv",
-          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
+          "name": "Edurne",
+          "url": "https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Regres\u00e9 Para Navidad",
-      "url": "https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO"
+      "duration_ms": 159500,
+      "name": "Dime Navidad",
+      "url": "https://open.spotify.com/track/3pvbBrh49UPDa4UENRVT9f"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -679,22 +695,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
-      },
-      "artists": [
-        {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
-        }
-      ],
-      "duration_ms": 216038,
-      "name": "Nuestra Canci\u00f3n De Navidad",
-      "url": "https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Amor Navide\u00f1o",
         "url": "https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705"
       },
@@ -707,6 +707,30 @@
       "duration_ms": 225125,
       "name": "Santa Quiero",
       "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Mi Mejor Regalo",
+        "url": "https://open.spotify.com/album/5o46YcPUqnzB6QK4TRwD5C"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        },
+        {
+          "name": "Juan Jose Diaz",
+          "url": "https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz"
+        },
+        {
+          "name": "Victoria Montero",
+          "url": "https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3"
+        }
+      ],
+      "duration_ms": 177578,
+      "name": "Mi Mejor Regalo",
+      "url": "https://open.spotify.com/track/04KZnB9Gb8WCHF1AMaGzwj"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -739,26 +763,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Mi Mejor Regalo",
-        "url": "https://open.spotify.com/album/5o46YcPUqnzB6QK4TRwD5C"
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
       },
       "artists": [
         {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
-        },
-        {
-          "name": "Juan Jose Diaz",
-          "url": "https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz"
-        },
-        {
-          "name": "Victoria Montero",
-          "url": "https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3"
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
         }
       ],
-      "duration_ms": 177578,
-      "name": "Mi Mejor Regalo",
-      "url": "https://open.spotify.com/track/04KZnB9Gb8WCHF1AMaGzwj"
+      "duration_ms": 216038,
+      "name": "Nuestra Canci\u00f3n De Navidad",
+      "url": "https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -779,6 +795,22 @@
       "duration_ms": 260143,
       "name": "El Tamborilero",
       "url": "https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 187668,
+      "name": "Otra Navidad :(",
+      "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -863,6 +895,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "A\u00f1o Nuevo, Misma Soledad (Live)",
+        "url": "https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 213547,
+      "name": "A\u00f1o Nuevo, Misma Soledad - Live",
+      "url": "https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
@@ -911,34 +959,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+        "name": "Te Deseo Muy Felices Fiestas (Have Yourself a Merry Little Christmas)",
+        "url": "https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC"
       },
       "artists": [
         {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 187668,
-      "name": "Otra Navidad :(",
-      "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "A\u00f1o Nuevo, Misma Soledad (Live)",
-        "url": "https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 213547,
-      "name": "A\u00f1o Nuevo, Misma Soledad - Live",
-      "url": "https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu"
+      "duration_ms": 237869,
+      "name": "Te Deseo Muy Felices Fiestas - Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -955,22 +987,6 @@
       "duration_ms": 216000,
       "name": "Con Mi Coqueta",
       "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Te Deseo Muy Felices Fiestas (Have Yourself a Merry Little Christmas)",
-        "url": "https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 237869,
-      "name": "Te Deseo Muy Felices Fiestas - Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Santa",
-        "url": "https://open.spotify.com/album/5GVLfhHDPRPpHrUCMEY3vI"
-      },
-      "artists": [
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Santa",
-      "url": "https://open.spotify.com/track/6tApaHH8Tp58OQZIU9lFch"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Esta Navidad",
         "url": "https://open.spotify.com/album/3vmbZ0rnrXXdv5mhJLfGgQ"
       },
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Santa",
+        "url": "https://open.spotify.com/album/5GVLfhHDPRPpHrUCMEY3vI"
+      },
+      "artists": [
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/6tApaHH8Tp58OQZIU9lFch"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Somos Navidad",
         "url": "https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 181574,
       "name": "Mi Regalito Eres Tu",
       "url": "https://open.spotify.com/track/2EgcqhH32EIu8qlcuAnToy"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 255125,
-      "name": "Human Nature - En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
     },
     {
       "added_at": "2023-11-03 04:00:00",

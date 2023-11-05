@@ -4,7 +4,7 @@
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-156 songs - 8 hr 22 min
+157 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Oscillations](https://open.spotify.com/track/10iyrkqHdykjmBG9ZuiQKy) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4) | [Silver Apples](https://open.spotify.com/album/5A97TajaqQcTwiuFw3mZKt) | 2:47 | 2021-10-06 | 2022-07-29 |
 | [Over Under Sideways Down \- The Mono Album](https://open.spotify.com/track/07KYQySlrmE94gaLbhvp4X) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Roger the Engineer](https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc) | 2:22 | 2021-10-06 |  |
 | [Philosophy of the World](https://open.spotify.com/track/2WhRJwrsy57H5Mm1P3lykJ) | [The Shaggs](https://open.spotify.com/artist/5ixdD9E7P9r51AOcSInQbl) | [Philosophy of the World](https://open.spotify.com/album/0TzI1YcMAQVdQ4yUZuy7fA) | 2:57 | 2021-10-06 |  |
-| [Pictures of Matchstick Men \- Mono Version](https://open.spotify.com/track/0MRs5O62wfDgf5cQKalrPq) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Picturesque Matchstickable Messages from the Status Quo](https://open.spotify.com/album/6GjmCt1jb9IiOTw106Xa4W) | 3:10 | 2021-10-06 |  |
+| [Pictures of Matchstick Men](https://open.spotify.com/track/49Y63pCtLCOdbRBokfFxOt) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Picturesque Matchstickable Messages from the Status Quo](https://open.spotify.com/album/7nZD9x7CWHtnvL0H7Gkrum) | 3:15 | 2021-10-06 |  |
+| [Pictures of Matchstick Men \- Mono Version](https://open.spotify.com/track/0MRs5O62wfDgf5cQKalrPq) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Picturesque Matchstickable Messages from the Status Quo](https://open.spotify.com/album/6GjmCt1jb9IiOTw106Xa4W) | 3:10 | 2021-10-06 | 2023-11-05 |
 | [Piece of My Heart](https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:13 | 2021-10-06 |  |
 | [Piece of My Heart](https://open.spotify.com/track/3cCUAhulFXxN9CZRr5inpe) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Bang: The Bert Berns Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VkQxw6r5SdO4o4yHnNxL9) | 4:13 | 2021-10-06 | 2022-11-13 |
 | [Piece Of My Heart](https://open.spotify.com/track/1eujVQsT9v7ZTtvAkTEdZr) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis](https://open.spotify.com/album/5Q8xyuZtzaaC0DNZ0CHXwK) | 4:26 | 2021-10-06 | 2022-07-29 |

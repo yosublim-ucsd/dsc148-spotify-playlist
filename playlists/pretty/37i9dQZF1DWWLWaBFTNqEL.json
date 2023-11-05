@@ -1,12 +1,12 @@
 {
   "description": "All the best songs inspired by Street Fighter all in one place. ",
-  "num_followers": 9608,
+  "num_followers": 9659,
   "original_name": "Street Fighter Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTU2YWYwODRjZmVhMzU3ZDZmN2ZkOTc4YjhmMzA4YzZlODU4Njg1",
+  "snapshot_id": "MCw0YjBmYzFmNzI4MTgyZGNhNjEyM2IzYTE5ZmIzNzQ2N2NiYTAwNzky",
   "tracks": [
     {
       "added_at": "2023-08-21 18:42:38",
@@ -95,6 +95,26 @@
       "duration_ms": 216234,
       "name": "Childs Play (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/7GPstnufSTScEaw9dMxO9H"
+    },
+    {
+      "added_at": "2023-08-21 18:42:38",
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 216703,
+      "name": "Endless Fashion (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7"
     },
     {
       "added_at": "2023-08-21 18:42:38",

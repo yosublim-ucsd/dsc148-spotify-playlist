@@ -620,6 +620,24 @@
     {
       "album": {
         "name": "Harmony",
+        "url": "https://open.spotify.com/album/1SlMUjPhHFH6O4yHfBVJSG"
+      },
+      "artists": [
+        {
+          "name": "Fatima Hajji",
+          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419130,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/6pLYwOd3n19hAGy0su6Bb7"
+    },
+    {
+      "album": {
+        "name": "Harmony",
         "url": "https://open.spotify.com/album/3UHseKrKhDrmxq6ChCKTfy"
       },
       "artists": [
@@ -630,7 +648,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 419130,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/7DUfeAp6XPA5LycZb2szHu"
@@ -648,10 +666,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 360000,
       "name": "Hellfire",
       "url": "https://open.spotify.com/track/3VyCBpr1POQQmx8BqwgZiG"
+    },
+    {
+      "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/48IJdBCA98JVNWXqwkA24g"
+      },
+      "artists": [
+        {
+          "name": "Luciid",
+          "url": "https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Hellfire",
+      "url": "https://open.spotify.com/track/6yTWUKQcvGeNocIBSPTFmw"
     },
     {
       "album": {

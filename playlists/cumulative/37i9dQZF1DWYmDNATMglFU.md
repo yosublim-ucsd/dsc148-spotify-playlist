@@ -4,7 +4,7 @@
 
 > it's a generation ⛓ ft\. Teenage Joans
 
-664 songs - 1 day 9 hr 16 min
+666 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,8 @@
 | [No Point Pretending \(Song For Tour\)](https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Bears In Trees](https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2) | [No Point Pretending \(Song For Tour\)](https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp) | 2:59 | 2023-03-17 | 2023-09-02 |
 | [nobody's favorite person, not even my own](https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [nobody's favorite person, not even my own](https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b) | 2:11 | 2023-04-13 |  |
 | [NOT actin rite](https://open.spotify.com/track/7Iwh9fDTuiiLtN6tfU0RSa) | [JSTNXMLLR](https://open.spotify.com/artist/7Ibb0686FyhOvwYCuVa3CG) | [NOT actin rite](https://open.spotify.com/album/6n7aidZ2WpTzxT7CwjefSw) | 2:50 | 2022-08-11 | 2023-03-18 |
-| [Not The 1975](https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw) | 3:18 | 2023-07-13 |  |
+| [Not The 1975](https://open.spotify.com/track/15sze1xMQqq3nkC2fH3vbh) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975 \(Acoustic\)](https://open.spotify.com/album/56a8vWZVQQeEmh1G1SBM10) | 3:18 | 2023-11-03 |  |
+| [Not The 1975](https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw) | 3:18 | 2023-07-13 | 2023-11-05 |
 | [NOTHING LASTS FOREVER](https://open.spotify.com/track/2kOzx5IjzzR7qocdNM4j3j) | [BOXBOY](https://open.spotify.com/artist/2fqFwtlZfeARcbEVdXSwoM) | [NOTHING LASTS FOREVER](https://open.spotify.com/album/3r8wFIWyOeukTYjZhOZkb0) | 2:21 | 2022-03-25 | 2022-09-16 |
 | [NUMB](https://open.spotify.com/track/1BPBwKueIEMnUcbbs2te7B) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [NUMB](https://open.spotify.com/album/5KVfexccg4jLnnmbHfJZn0) | 1:52 | 2021-12-31 | 2022-01-08 |
 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 | 2021-12-31 | 2022-01-08 |
@@ -645,7 +646,8 @@
 | [Welcome to Paradise](https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:44 | 2021-12-31 | 2022-01-08 |
 | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 5:11 | 2021-12-31 | 2022-01-08 |
 | [Well I Hope Ur Happy](https://open.spotify.com/track/0BAwN4aylbMlgX10Gaaw8o) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Hell Is A Teenage Girl](https://open.spotify.com/album/7Dggd87vkUC1VsMmrUw4bZ) | 3:04 | 2023-04-20 | 2023-09-15 |
-| [We’re Not In Love Anymore \(feat\. Charlotte Sands\)](https://open.spotify.com/track/4OfaKFkToxzzi2G5MwYsyZ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [We’re Not In Love Anymore \(feat\. Charlotte Sands\)](https://open.spotify.com/album/0gW6CulhLzMtnZ5wbt2AfW) | 2:50 | 2023-08-17 |  |
+| [We’re Not In Love Anymore \(feat\. Charlotte Sands\)](https://open.spotify.com/track/2bKMeqQHJCGOHqBTp7oroT) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [I'm So Good At Being Alone?](https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN) | 2:50 | 2023-11-03 |  |
+| [We’re Not In Love Anymore \(feat\. Charlotte Sands\)](https://open.spotify.com/track/4OfaKFkToxzzi2G5MwYsyZ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [We’re Not In Love Anymore \(feat\. Charlotte Sands\)](https://open.spotify.com/album/0gW6CulhLzMtnZ5wbt2AfW) | 2:50 | 2023-08-17 | 2023-11-05 |
 | [What's Up?](https://open.spotify.com/track/46BV2Stvj9yJGw8gHAwHAU) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Graduating Life](https://open.spotify.com/album/7G2sRHP0Xd28Dx4OKjBkqg) | 2:21 | 2022-08-27 | 2022-11-18 |
 | [Wires Crossed](https://open.spotify.com/track/09ptkV4dUhzP9mAZP0QjvI) | [Cowboy Mugshot](https://open.spotify.com/artist/5thsoHnpZYZq587Po0NgUI) | [Wires Crossed](https://open.spotify.com/album/2xfITxrVpJ2huuzLOoGccV) | 2:46 | 2022-08-27 | 2022-09-30 |
 | [Wish You Were Here](https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 4:08 | 2022-02-18 | 2022-04-01 |

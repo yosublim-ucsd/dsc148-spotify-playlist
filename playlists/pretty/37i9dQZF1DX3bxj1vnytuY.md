@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,687 likes - 100 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,779 likes - 100 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 34 | [Amore](https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs) | [Amore](https://open.spotify.com/album/1RJyJUZKnRR5NUgMC8d6k6) | 6:23 |
 | 35 | [Take Care \- Maz Remix](https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Take Care \(Maz Remix\)](https://open.spotify.com/album/1A6cETJramuODrakRUSlWH) | 5:08 |
 | 36 | [White Desert](https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [White Desert](https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3) | 6:40 |
-| 37 | [Malawi](https://open.spotify.com/track/0uWQOZM4uKSIdAa0RJMpCT) | [SirYLL](https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw) | [Malawi](https://open.spotify.com/album/03Wo3nvGfVpF0rxfRjy1ah) | 4:43 |
+| 37 | [Malawi](https://open.spotify.com/track/0cxZ9Fv1rYRavkbVvdwBT7) | [SirYLL](https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw) | [Malawi](https://open.spotify.com/album/7ixdpATJyqFtWGevSD7PJU) | 4:43 |
 | 38 | [Kolowa \- Dr Feel Remix](https://open.spotify.com/track/71IOTNy23zkndKm8V7X39Y) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Kolowa](https://open.spotify.com/album/1kZGThqXqwXiJuEE3zlxue) | 7:14 |
 | 39 | [Hasta El Fin \- Radio Edit](https://open.spotify.com/track/6lc6OgZpWqwLdvSVOMFQNC) | [Max Zotti](https://open.spotify.com/artist/3po7iOEDHDHM8gnpoe7DY3), [Chris Bowl](https://open.spotify.com/artist/6W2r8LhTkqCheVZ17OVOzV) | [Hasta El Fin](https://open.spotify.com/album/5D5691C3I70vHqJX9w53qt) | 3:17 |
 | 40 | [Ese Soy Yo \- FNX Omar Remix](https://open.spotify.com/track/6X3OOJNZtxhDFh956b2OsN) | [Hallex M](https://open.spotify.com/artist/0f270Jn8Iq2r631GA5429f), [Floyd Lavine](https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw), [Afrosideral](https://open.spotify.com/artist/6gwlTwJNBRJ8l8phOAQCEI), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Ese Soy Yo](https://open.spotify.com/album/2Vpr8XJiX09cv173UUKPqH) | 7:34 |
 | 41 | [Maktoub](https://open.spotify.com/track/3YLQqkq1qr9gecj09ltfcd) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Soul Of Winds](https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG) | 5:56 |
-| 42 | [Kaleta](https://open.spotify.com/track/2ldNIVLYlSnxKGSlpud8bU) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1DTpdbbsif7gLrpSOGDfVE) | 4:30 |
+| 42 | [Kaleta](https://open.spotify.com/track/7Me0K7S9Kpu3lNGk3k9SJZ) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1Ved6gJTWaDH1oLiJzMrKv) | 4:30 |
 | 43 | [Dan Dale \- Ucha Remix](https://open.spotify.com/track/0RB5Epiaiewx4UdbInDDWD) | [Keyano](https://open.spotify.com/artist/3xEXhUZOzus3uL8jZ01rRH), [Ucha](https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3) | [Dan Dale \(Ucha Remix\)](https://open.spotify.com/album/3F43VMK42YJQvoAnGG7AzO) | 3:28 |
 | 44 | [Mathura](https://open.spotify.com/track/6LgavHPcUhWatD4vXcdeOb) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Mathura](https://open.spotify.com/album/6D77LAeB7DSHY3Tgq0hcPn) | 2:48 |
 | 45 | [Aya \- THEMBA's Herd Remix](https://open.spotify.com/track/3GpHjXjwvoohxCit270wwR) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [House Of Infinity](https://open.spotify.com/album/0CeWIUxQExtXOaDAfo1J6F) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Devran](https://open.spotify.com/track/1Br0AatwWHo8JojDNAVMWq) | [KHAIKHAN](https://open.spotify.com/artist/0EhNqmWsXRucbAgAKfac75), [Mtu](https://open.spotify.com/artist/6Ex7C22f4WX3VqVRNriiXf) | [Anadolu](https://open.spotify.com/album/5Sj7kUvO8nrmWbQDFv71MV) | 6:47 |
 | 100 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 |
 
-Snapshot ID: `MCwxMzNhZWQ1MTFmOGFlN2U1NzY1Y2RkY2VmYjNkZWJiMDRlYTA4ZmYx`
+Snapshot ID: `MCxjMGI3MzI0MGQ0YzEyMTJjODAwYmZhYWY4ZjM3MmY2MDVjZGIzMWEz`

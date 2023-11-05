@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Goldb.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,261 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,278 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Una Misión](https://open.spotify.com/track/1aQN41bEZmaT2nO7tchVGE) | [Bad7auro](https://open.spotify.com/artist/6Twtj5WY0EdQsDWdT5FOiY) | [Una Misión](https://open.spotify.com/album/2IGH6aFyAnlFxoOEBpkfGZ) | 2:57 |
 | 50 | [baddie artificial](https://open.spotify.com/track/4FZJDW6tH3gGNjL5BIs4kA) | [Oliver Enigma](https://open.spotify.com/artist/7wvZWIcQasZJ9lMaZTzYMg) | [baddie artificial](https://open.spotify.com/album/4LsQhNscOh4VvlIPpMhLcA) | 2:07 |
 
-Snapshot ID: `MCxiMmEzOGI4MjE0YmQ0NmRjMmNjOTA1YTE5ZmFlN2ZlN2Y5Mjc2NzFm`
+Snapshot ID: `MCw1ZjczMTU1M2IxYTBiNDJhMzAzOTI5YjEzZGE5YTgzZDExMjI3ZTU3`

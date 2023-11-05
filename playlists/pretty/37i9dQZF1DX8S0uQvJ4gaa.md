@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Kameron Marlowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,174,843 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175,419 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 10 | [Tails I Lose](https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:45 |
 | 11 | [Whiskey Bent \(feat\. Jelly Roll\)](https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:16 |
 | 12 | [Mississippi Or Me](https://open.spotify.com/track/5JDM1KbfvautHx2Il9DjMZ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Mississippi Or Me](https://open.spotify.com/album/4EFwitX1MR0jelaG29a7cs) | 3:30 |
-| 13 | [Tim + Faith](https://open.spotify.com/track/1sFe3bncgvZROAQsebpKaA) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Tim + Faith](https://open.spotify.com/album/3ln8DFI7SEUD5kJPddGEsc) | 3:50 |
+| 13 | [Tim + Faith](https://open.spotify.com/track/0gPsHNuKK5lsWpCqWwvxRX) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Tim + Faith](https://open.spotify.com/album/2ImzdPjUj4Ejjr1Qj5VZhv) | 3:50 |
 | 14 | [I'll Be A Bartender](https://open.spotify.com/track/5amuqAOkKdHenSjPaAUQXA) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [I'll Be A Bartender](https://open.spotify.com/album/4fnYR5Po3N0OsBpaCaKmKE) | 3:17 |
 | 15 | [Kiss Of Death](https://open.spotify.com/track/66UwsbwSTHbG5EPPHrCo9i) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Kiss Of Death](https://open.spotify.com/album/3tNYJylSZw5wiJEu1pekcZ) | 2:40 |
 | 16 | [Cowboy Back](https://open.spotify.com/track/671XjQmF7A0w5aN74AhNWt) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Cowboy Back](https://open.spotify.com/album/10QuywIUAjgUqvMKjM67n8) | 3:11 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 72 | [Luke Combs](https://open.spotify.com/track/4MEJ73SRDNLQSHpqTkdjm6) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY \(DELUXE\)](https://open.spotify.com/album/2GBaNzYtAW6NgOW4VHxnlq) | 3:13 |
 | 73 | [Always Gonna Be](https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Always Gonna Be](https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa) | 2:52 |
 | 74 | [Find Another Bar](https://open.spotify.com/track/5gq0IiJ86S2QpD3V4H9KhH) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Find Another Bar](https://open.spotify.com/album/4en5g5FBBXUbCKofgzYgUZ) | 3:02 |
-| 75 | [Kill Me](https://open.spotify.com/track/5pWgfYHRZuNctsKtWGDJ2E) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Kill Me](https://open.spotify.com/album/7iuVd42Ad5GoLpMw3XvwPT) | 2:43 |
+| 75 | [Kill Me](https://open.spotify.com/track/7en1V1qZzo6DtDDHdXg93z) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Kill Me](https://open.spotify.com/album/3RZlJhazwEhC0GqH4lYHVu) | 2:43 |
 | 76 | [Fall In Love With Me](https://open.spotify.com/track/56CmYOZ5YNtmuVUtY5W5jF) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Fall In Love With Me](https://open.spotify.com/album/67JHB0s8c5pbNELuRkl0E8) | 3:15 |
 | 77 | [I Know A Guy](https://open.spotify.com/track/6LCY0s8iDoooe8eMkdEQMu) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Side Effects Of The Heart](https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK) | 2:41 |
 | 78 | [Cab In A Solo](https://open.spotify.com/track/67tSyNccxstGL1kLSR0wIb) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Cab In A Solo](https://open.spotify.com/album/24vM6kihi4Hm94KOyvqZBW) | 3:45 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 94 | [Young Love & Saturday Nights](https://open.spotify.com/track/1MCUz8U559nGEN377EHHaY) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Young Love & Saturday Nights](https://open.spotify.com/album/5fTud1jSzcTEwm7I0j4BTu) | 3:15 |
 | 95 | [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 |
 | 96 | [The Reason I Stay](https://open.spotify.com/track/5t9emg56o3DdxYCVNcG1z4) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [First To Hit The Road](https://open.spotify.com/album/2VFKCs2fZCi08lcdg4Lf3Q) | 2:54 |
-| 97 | [Little Less Lonely](https://open.spotify.com/track/5lzi9kb10icgVpEDbqp0kL) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Little Less Lonely](https://open.spotify.com/album/2BGBn23kDpM9geI0nGNFkL) | 3:16 |
+| 97 | [Little Less Lonely](https://open.spotify.com/track/3xoFfxN2RfHqDNG64f9Amw) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Little Less Lonely](https://open.spotify.com/album/6P32qYBrXVjhE0ZLMdejSL) | 3:16 |
 | 98 | [Hey Whiskey](https://open.spotify.com/track/2Kw5QYMTLrRV7jpoE8YkMg) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Hey Whiskey](https://open.spotify.com/album/7bEvOn0bOFcr5eqvchRhOt) | 3:23 |
 | 99 | [Meant For Me](https://open.spotify.com/track/7Gt9tznlLCCe2gZoRzuLhD) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Along The Way](https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ) | 3:15 |
 | 100 | [Remember Us](https://open.spotify.com/track/1k0idEJ0uiXYxYkTFa3Al7) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Remember Us?](https://open.spotify.com/album/6aqxYkrdxD57QL2jJF17sk) | 3:29 |
 
-Snapshot ID: `MCw5ZGY5ODAxMWQ2NjVmNzY4YTZiODc5MGNiYjVkZmJlNmQwZWY1NzMx`
+Snapshot ID: `MCw5NzNmMjRjZTA0NmQ0YmJiZDM2MjBhODZmNjU4ZTA5ZWEwMWFmNjI4`

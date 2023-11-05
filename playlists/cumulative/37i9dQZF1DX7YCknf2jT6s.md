@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Joey Alexander
 
-1,147 songs - 3 day 20 hr 20 min
+1,149 songs - 3 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,7 +528,8 @@
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/1LkDZD8d6hWu3mMsMhTX1g) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [No Confusion \(feat\. Kojey Radical\)](https://open.spotify.com/album/1JIZ8ahbpr5CFTFRir5GPR) | 3:23 | 2022-11-04 | 2022-11-13 |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 3:23 | 2022-11-04 | 2023-01-28 |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/7pEAzggpyq4sjREdLBfcuX) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/album/6cEqbEv5wTsNkOGr7k3HTU) | 3:23 | 2022-08-26 | 2022-11-07 |
-| [Light Years](https://open.spotify.com/track/4M3TB3K2uietahnWZuzIZF) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 4:07 | 2023-10-13 |  |
+| [Light Years](https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB) | 4:07 | 2023-10-13 |  |
+| [Light Years](https://open.spotify.com/track/4M3TB3K2uietahnWZuzIZF) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 4:07 | 2023-10-13 | 2023-11-05 |
 | [Lights Away from Home](https://open.spotify.com/track/1MddW2SVQk0AklDHArtN3v) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [Lights Away from Home](https://open.spotify.com/album/3kGTTuz6VveX3AibqUxsHJ) | 4:51 | 2023-05-05 | 2023-08-12 |
 | [Like Him](https://open.spotify.com/track/5h6LeISR8TUp4hNdK7cADW) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [Like Him](https://open.spotify.com/album/68WPYZbyg71tCq3mfsjbQZ) | 6:55 | 2023-01-06 | 2023-01-28 |
 | [Limu, Limu, Lima](https://open.spotify.com/track/634sK2tugl3o7vXXilBJr3) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [The Swedish Songbook](https://open.spotify.com/album/505BfjZobC1dKVOMWqtRc8) | 4:38 | 2022-09-16 | 2023-03-11 |
@@ -608,7 +609,8 @@
 | [Moonlite](https://open.spotify.com/track/6exsN25IteWAKEIJPVvoZ8) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/2qSb34RjtmkdUso3qcd0D3) | 3:53 | 2021-12-23 | 2022-02-11 |
 | [Moonrays](https://open.spotify.com/track/4hOKiv3IxDdHzET866mkto) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo) | [Moonrays](https://open.spotify.com/album/2DTwEoibty7mpO57Z7dyL7) | 6:19 | 2022-10-21 | 2022-10-29 |
 | [Moradas](https://open.spotify.com/track/6setBDWQ0ErSwch2UG0pSS) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Frank Carlberg](https://open.spotify.com/artist/70vlidktezpl3h9TTZpqPe) | [Moradas](https://open.spotify.com/album/3beTlXv1QDKfIs2IKMEvMx) | 7:13 | 2023-05-05 | 2023-07-01 |
-| [Morning Of The Carnival](https://open.spotify.com/track/0Ap3NnGPsi3q9bmZBeOtHP) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/7BRTdya6UKyz9xLxjU0Hio) | 6:42 | 2023-06-16 |  |
+| [Morning Of The Carnival](https://open.spotify.com/track/0Ap3NnGPsi3q9bmZBeOtHP) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/7BRTdya6UKyz9xLxjU0Hio) | 6:42 | 2023-06-16 | 2023-11-05 |
+| [Morning Of The Carnival](https://open.spotify.com/track/3MoLzbreunW3f0AfXUH8ki) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/65WGqUztAtgLA6KLy9rcwJ) | 6:42 | 2023-06-16 |  |
 | [Morse Code](https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Noah Denton](https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9), [Raghav Mehrotra](https://open.spotify.com/artist/2OaPpcWxL1WlWaauI2NAV1), [Aidan McKeon](https://open.spotify.com/artist/6qaTtKeFbJy2rVupwowXpk), [Noah Wise](https://open.spotify.com/artist/556NfVDwwLw5tXinjmloMb) | [Morse Code](https://open.spotify.com/album/3IfDOB3CQ0a2CJt8iXrBVy) | 3:04 | 2022-01-14 | 2022-02-26 |
 | [Moshe](https://open.spotify.com/track/3JY0KovNSPcs48thjVAauQ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [UMDALI](https://open.spotify.com/album/3nXuL25LbboMeH2KfOE1U8) | 10:14 | 2021-12-23 | 2022-01-14 |
 | [Mother Stands for Comfort](https://open.spotify.com/track/5e7Cm6pTeymXvHKfsXyJMx) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Mother Stands For Comfort](https://open.spotify.com/album/3VMS5nN5sKgqt1GAvihrkt) | 4:07 | 2023-02-24 | 2023-03-18 |

@@ -4,11 +4,12 @@
 
 > Kaitlyn Aurelia Smith's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-21 songs - 1 hr 54 min
+22 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A man with two watches](https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Sollbruchstelle 1\-3](https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo) | 5:11 | 2023-01-10 |  |
+| [A man with two watches](https://open.spotify.com/track/1ppKZpK8PEtCl7W6zVKdhx) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Sollbruchstelle 3 \- Snacks of Carelessness](https://open.spotify.com/album/7xOrcmWfqW5iNwXe4waMJ5) | 5:11 | 2023-06-30 |  |
+| [A man with two watches](https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Sollbruchstelle 1\-3](https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo) | 5:11 | 2023-01-10 | 2023-11-05 |
 | [Apex](https://open.spotify.com/track/31LiF0lnvPa8De6aQyfaIu) | [Cool Maritime](https://open.spotify.com/artist/1B5MGDIt38Z6cUdghq8SaV) | [Big Earth Energy](https://open.spotify.com/album/2gP3nXTrmHvQV6jNmsnURy) | 4:31 | 2023-01-10 |  |
 | [appa wú wéi](https://open.spotify.com/track/5LBMIJujCC9L9LVjFWfXvk) | [Liila](https://open.spotify.com/artist/1ON7c4Ak8zPGZ1Zf3oG1f0) | [Sound Wonders: A Series of Epics](https://open.spotify.com/album/48HS17T60jMIBsS1CuFmO5) | 6:56 | 2023-01-10 |  |
 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 | 2023-01-10 |  |

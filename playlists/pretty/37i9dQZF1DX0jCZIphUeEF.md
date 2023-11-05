@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,645 likes - 66 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,662 likes - 66 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 5 | [Night @ The Black](https://open.spotify.com/track/6CH5Mx19zI1mrq4x38PASj) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM) | [Night @ The Black](https://open.spotify.com/album/0qqQKgFCRy84p4RgK3raGn) | 7:33 |
 | 6 | [Ride The Rhythm](https://open.spotify.com/track/26QHmNaxqN83kZeAXJf4Di) | [Z Factor](https://open.spotify.com/artist/6eqnoWlcUy3Al7eNBWeFno), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM) | [Ride the Rhythm](https://open.spotify.com/album/4qVehMmxkQm2FgIDFHPHxh) | 3:24 |
 | 7 | [Crush](https://open.spotify.com/track/69oXiXBdSLgPK9ayBdnE34) | [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Crush](https://open.spotify.com/album/6cgpRG3y1okC2TUt2mCeQr) | 4:35 |
-| 8 | [Mabrook](https://open.spotify.com/track/4MMQ8cSVcplsRDn4p4xXBH) | [AfterU](https://open.spotify.com/artist/2fNO3q7sugPNKqSD1ra9TE) | [Mabrook](https://open.spotify.com/album/1dZIvVpx8uhGxPObzU40FD) | 4:32 |
+| 8 | [Mabrook](https://open.spotify.com/track/7BoM86plh1H6huENnUGI9m) | [AfterU](https://open.spotify.com/artist/2fNO3q7sugPNKqSD1ra9TE) | [Mabrook](https://open.spotify.com/album/33TQe7U7t6skVSblF0dj3I) | 4:32 |
 | 9 | [Everytime I Try](https://open.spotify.com/track/34PInRTRBcSSJ9KgqavLpF) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg), [Cevin Fisher](https://open.spotify.com/artist/2KKgW6x86NOhIJnMlxFD1u) | [Everytime I Try](https://open.spotify.com/album/3ROBogrjbF22S3dvi53Ik2) | 3:36 |
 | 10 | [Pliva](https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Pliva](https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh) | 4:04 |
 | 11 | [I Know What You Want](https://open.spotify.com/track/0LxDqdOi2gOxHrmaFFLZVp) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Feelin'](https://open.spotify.com/album/6g67MU2G9JmsIvuXf0yY9x) | 3:31 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 23 | [Up for It](https://open.spotify.com/track/2CspMCk5jCYDQqJvUhhzHj) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 5:38 |
 | 24 | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 6:06 |
 | 25 | [Tribalica](https://open.spotify.com/track/30B5lQXuu4hUJXqSrX7IVR) | [FEX \(IT\)](https://open.spotify.com/artist/7vNtBWHGUqhiQ0D0S0bvlA) | [El Ritmo Del Alma](https://open.spotify.com/album/2lwYBEBpOHd2chXZ515VCq) | 3:05 |
-| 26 | [Kaleta](https://open.spotify.com/track/2ldNIVLYlSnxKGSlpud8bU) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1DTpdbbsif7gLrpSOGDfVE) | 4:30 |
+| 26 | [Kaleta](https://open.spotify.com/track/7Me0K7S9Kpu3lNGk3k9SJZ) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1Ved6gJTWaDH1oLiJzMrKv) | 4:30 |
 | 27 | [Tibet](https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tibet](https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK) | 6:43 |
 | 28 | [Show Me Love \- Emmaculate Remix](https://open.spotify.com/track/1Uh50JCkzmtXUZKBMAshYO) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Show Me Love \(Remixed by Emmaculate\)](https://open.spotify.com/album/3POv2LmAO0VZuUl4ExX6rC) | 6:01 |
 | 29 | [Messiah \- Edit](https://open.spotify.com/track/4BRPlCE7YYYlVzRzMwIesY) | [Brandon Markell Holmes](https://open.spotify.com/artist/49hxY3aryuNE1UJpuJ0YJf), [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH) | [Messiah](https://open.spotify.com/album/7yzm9oCXO5cVcbw2d6jwkc) | 4:38 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 47 | [Remember Me](https://open.spotify.com/track/36lYZjm25MiciLPbUUgt6w) | [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36) | [Remember Me](https://open.spotify.com/album/3jP2frJYvtUPw54MOjfkQ6) | 3:01 |
 | 48 | [Same Like Dope But Different](https://open.spotify.com/track/0GIPq4zQJPTlycINrUR0ST) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Same Like Dope But Different](https://open.spotify.com/album/6hWNRK4gZ1XuApm1XlPUsz) | 4:41 |
 | 49 | [Work \- Original Mix](https://open.spotify.com/track/4YmERu15RPaCWUAEBWtpBA) | [Nhan Solo](https://open.spotify.com/artist/1UhosJtmQlT9oJi38Zd2SU), [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36) | [Work](https://open.spotify.com/album/5twrWSneyeEXOLYmiFeR8N) | 5:57 |
-| 50 | [Drum Beat](https://open.spotify.com/track/3LJLtbvrfYUpFficL0gl5V) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Drum Beat](https://open.spotify.com/album/7fhdFXT7VAblxxOOeukdTX) | 5:16 |
+| 50 | [Drum Beat](https://open.spotify.com/track/2WtZN0dhZmfXsNYxBUkWKl) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Drum Beat](https://open.spotify.com/album/1JOlNpkTYoocZf7suVqSHD) | 5:16 |
 | 51 | [Save the Children](https://open.spotify.com/track/7JG9fgcKffwG4IcpBkZdEu) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [The Struggle / Save the Children](https://open.spotify.com/album/3OT5QWnp0XjpeZXT3k3HFD) | 5:35 |
 | 52 | [Exorce](https://open.spotify.com/track/4lM4b1cEY4YviftTR5DUCO) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Exorce EP](https://open.spotify.com/album/6NutlhlAx9Cu5Aci3D1qdE) | 6:52 |
 | 53 | [Karavane](https://open.spotify.com/track/49jrwKKNhC5TvU6W9NzFue) | [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Gio Israel](https://open.spotify.com/artist/0vMjghiQIFzwaoWNC5kQEr) | [Without Borders](https://open.spotify.com/album/2Fgzwt5QD6EFeApnyr1jzB) | 6:49 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 65 | [Bangalora](https://open.spotify.com/track/59GRvXZLg7H7DJZkw4D7TJ) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Bangalora](https://open.spotify.com/album/1JYRYOsPFkzC4DBU5RW28h) | 7:47 |
 | 66 | [Dame Rabia \- Amine K Remix](https://open.spotify.com/track/1K68lCTAxaIHgamh0wiJZI) | [Chelabôm](https://open.spotify.com/artist/08aeUwOG7EXNoJSob9mawV), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Buddha Bar by Amine K & Ravin](https://open.spotify.com/album/7Awsu0TzbHe1Wxt9cGg1EL) | 6:18 |
 
-Snapshot ID: `MCxiNzg1NmIyM2QwOGU0NmE1NTg2ZjFkZGJmYTM2MTRlMDMwMzU0ZTY1`
+Snapshot ID: `MCxjNTg2YWU0ZjA3MDZhMGQyMTQ4NjQ1OGY5NmNjZjJjNDQyMzE5MjU0`

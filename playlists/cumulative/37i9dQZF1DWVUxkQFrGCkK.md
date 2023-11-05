@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-332 songs - 1 day 1 hr 15 min
+333 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 | 2023-04-13 |  |
 | [Don't Truss ft\. Caitlyn Scarlett](https://open.spotify.com/track/3JO36unveXPBt4aeE8ezN7) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Don't Truss](https://open.spotify.com/album/1zfhDwtp0cUIpkIalHpCCG) | 3:45 | 2023-09-28 |  |
 | [Don't Turn it Off \- Bella Boo Remix](https://open.spotify.com/track/4lJElmOrRO0egVyzyVuJd2) | [40 Thieves](https://open.spotify.com/artist/1MLdyxgahy0T5ZdTpe4Jnc), [Qzen](https://open.spotify.com/artist/20EM84j9V8c6AzgzRyvuFF), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Don't Turn it Off \(Session Victim & Bella Boo Remixes\)](https://open.spotify.com/album/6eBQ6LBEleBkQLhoMr337w) | 5:45 | 2023-04-13 |  |
-| [Dope \- Original Mix](https://open.spotify.com/track/5wElWRFQIzeE1YBe1gTIxp) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Dope](https://open.spotify.com/album/7zPgCo3kXvezF86DQw2ERZ) | 8:29 | 2023-06-29 |  |
+| [Dope](https://open.spotify.com/track/1l2K4CLTVdxt3IHxVEYJQQ) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Dope](https://open.spotify.com/album/6bIUvka8xYxckAAbGwROrJ) | 8:29 | 2023-11-02 |  |
+| [Dope \- Original Mix](https://open.spotify.com/track/5wElWRFQIzeE1YBe1gTIxp) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Dope](https://open.spotify.com/album/7zPgCo3kXvezF86DQw2ERZ) | 8:29 | 2023-06-29 | 2023-11-05 |
 | [Downstream](https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Downstream](https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z) | 2:55 | 2023-08-24 |  |
 | [Eduardo made a new friend today](https://open.spotify.com/track/2FbPKlQ56pBpMFtKTV3zdi) | [Hosiannah](https://open.spotify.com/artist/0NJjvhC9pJiUNTK8OUkVIq) | [Eduardo made a new friend today](https://open.spotify.com/album/0qL0cfgq3HE7y7HLj4lKNN) | 3:13 | 2023-09-14 |  |
 | [efyo](https://open.spotify.com/track/5OMOf2Ouat5egNQZYplarl) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [efyo](https://open.spotify.com/album/4fbtnbXpdOJb4kXm3p2G6w) | 3:35 | 2023-04-20 |  |

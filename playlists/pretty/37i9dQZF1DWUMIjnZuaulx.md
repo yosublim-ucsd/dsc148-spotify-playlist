@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:4sgW8IRub0jAU29ecct87w">Anthony Brown & group therAPy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,190 likes - 100 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,265 likes - 100 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 8 | [I See Good](https://open.spotify.com/track/7ICspKZzvN08ubrSticzeo) | [Maurette Brown Clark](https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p) | [He Loves Me](https://open.spotify.com/album/3VTK913Y9CKv37VLjpPJq2) | 6:07 |
 | 9 | [I Love You](https://open.spotify.com/track/14eJGzC2IWvU1H4d1UzuZ9) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [I Love You](https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG) | 3:33 |
 | 10 | [Send It Down](https://open.spotify.com/track/5tVIywhdtlrN5UOI5kJVFY) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Send It Down](https://open.spotify.com/album/2UDNaZGx94UHwD9yeGkx9h) | 4:20 |
-| 11 | [Hold On \- Live](https://open.spotify.com/track/0aZegYIt9mnXiF6RaPQRa1) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Hold On \(Live\)](https://open.spotify.com/album/6jMmDumblqSTLXGRRbSuAg) | 3:52 |
+| 11 | [Hold On \- Live/Radio Edit](https://open.spotify.com/track/0aZegYIt9mnXiF6RaPQRa1) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Hold On \(Live/Radio Edit\)](https://open.spotify.com/album/6jMmDumblqSTLXGRRbSuAg) | 3:52 |
 | 12 | [Holy Hands](https://open.spotify.com/track/0fBm16QCdtqEvrcT3b9H7E) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Holy Hands](https://open.spotify.com/album/6BIfrz3Im2b1U1DgDPfI1x) | 3:24 |
 | 13 | [Yes I Do](https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [God Be Praised](https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i) | 3:33 |
 | 14 | [Always \(Father I Trust You\) \- Live](https://open.spotify.com/track/6qAjxwscwp306EDgLrtzut) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Always \(Father I Trust You\) \[Live\]](https://open.spotify.com/album/55LFoZNU0iTLD1q6lpHii3) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [One Day](https://open.spotify.com/track/1aWEgCat4z6MwWZHQEdwPT) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [One Day](https://open.spotify.com/album/2X56R8P00VmhcRKhc8CMmF) | 3:41 |
 | 100 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 
-Snapshot ID: `MCxlYmUwYjNiNmYzODE1OWNiMjQ3NTkyNjQ3NTI3YzE1NDk5NzZlMjAy`
+Snapshot ID: `MCxjNzI1ODE5ZDUzZGEyM2Q0Y2FjZmM2MzEyNzVmNTZlZGUyN2FmYmUw`

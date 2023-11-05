@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,851 likes - 79 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,879 likes - 79 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 40 | [One Fine Solstice](https://open.spotify.com/track/6qUOK7RqW5atuGMMAdSOoP) | [Frivolous](https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj) | [Meteorology](https://open.spotify.com/album/1UMr8nPkwRYIs5zS0Mbsc8) | 3:06 |
 | 41 | [Metaphysical](https://open.spotify.com/track/7Jje3VC334uK8q5lAquuO5) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL), [KONG.](https://open.spotify.com/artist/40PruyzvWcAJ1cEZG1mZ8H) | [Metaphysical](https://open.spotify.com/album/3r3mNtkVqo1X0TAdK4lz4g) | 6:12 |
 | 42 | [La Mezcla \- Original Mix](https://open.spotify.com/track/75kXKp2DHdZEYPv16N9r20) | [Michel Cleis](https://open.spotify.com/artist/3xRCzkcc1kranGVzx6foMG), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Mezcla](https://open.spotify.com/album/223yKVq2lPSvtoLMYjFeKh) | 12:12 |
-| 43 | [Bella](https://open.spotify.com/track/0TvRK8oISrIs7MVum2QldX) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Los Hermanos Del Alma EP](https://open.spotify.com/album/0BgsWj02pAVDFvTTeSsuFB) | 6:45 |
+| 43 | [Bella](https://open.spotify.com/track/2X4qoCJ5XVOPDiUf1E58gH) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Los Hermanos Del Alma EP](https://open.spotify.com/album/51xJhIh8iQUP7q5Gpsk5KH) | 6:45 |
 | 44 | [Apocalypse](https://open.spotify.com/track/7xNWF3TIV0pvYxpVAfBraJ) | [Dumming Dum](https://open.spotify.com/artist/01hg7l1HFSP3y7oSWg05mB) | [Apocalypse](https://open.spotify.com/album/5ACHqSwWKAmPEna4XHTl0p) | 3:46 |
 | 45 | [Guinea Pig \- DJ Koze Remix Vocal Variation](https://open.spotify.com/track/6IWLTWOa8hvLMJkzrS223B) | [Ben Watt](https://open.spotify.com/artist/4RIOH6XCUt1Xr8NLUj2u66), [Julia Biel](https://open.spotify.com/artist/0yVDB69ZMFp6w9iSKXz4J9) | [Buzzin' Fly Anthology, Vol\. 4, 2009\-2010](https://open.spotify.com/album/64LQJTm5FO2uqE7qzCehal) | 7:36 |
 | 46 | [Zurna](https://open.spotify.com/track/5Kl2LAN9eM6FQBodDXZeTC) | [Badbox](https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf) | [Zurna](https://open.spotify.com/album/5RzdvVQ7EY5WJW6SdXILld) | 7:11 |
@@ -74,18 +74,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 64 | [Despacio \- Extended Mix](https://open.spotify.com/track/37SjyasuhGd6h8akLcXIis) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Despacio](https://open.spotify.com/album/2bau9kVXdDwwC8KwQCPtae) | 5:10 |
 | 65 | [Wash Away](https://open.spotify.com/track/3QL6Q8HFEhAURfU5AqOBj7) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 5:14 |
 | 66 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 |
-| 67 | [M.I.T.T\. \- Original Mix](https://open.spotify.com/track/6kYECjwht2qnj3KT9y9Ufz) | [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2) | [Mach 2](https://open.spotify.com/album/1CvT2emvkVkyRfF7aMgLAO) | 12:04 |
+| 67 | [M.I.T.T.](https://open.spotify.com/track/3YpkOkDGJd7FObXEPsqacg) | [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2) | [Mach 2](https://open.spotify.com/album/5X4Bn59A7yi1vvxS9BFXcu) | 12:04 |
 | 68 | [A Jem Be](https://open.spotify.com/track/4MgTeDDJH4FjhaCIVwkix2) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Play EP](https://open.spotify.com/album/0f9gNyiCXF52T6xAgxzNIT) | 5:59 |
 | 69 | [Aman Aman](https://open.spotify.com/track/6YUrlco4SopSROwFJLQOuY) | [Scopelyser](https://open.spotify.com/artist/2EdSqpXiAxn9a8Qj7egvY5) | [Somoya EP](https://open.spotify.com/album/1pnZocy43xoV4IsGM49yAp) | 4:40 |
 | 70 | [Medieval](https://open.spotify.com/track/2BME859AuqQFpHSNvSpqWN) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 5:05 |
-| 71 | [Henna](https://open.spotify.com/track/1ObGyzfxrBrVSPNChYHRv1) | [Capoon](https://open.spotify.com/artist/6aO0WPJPV318xBCEVSJ5td) | [April EP](https://open.spotify.com/album/0cP1JVdGzZQTVV4WbbWt4P) | 6:19 |
+| 71 | [Henna](https://open.spotify.com/track/28GQ3bPbeW4UXJhqgE4irh) | [Capoon](https://open.spotify.com/artist/6aO0WPJPV318xBCEVSJ5td) | [April EP](https://open.spotify.com/album/1h685ErLqz0XTrWqyZSOBp) | 6:19 |
 | 72 | [Upon Burning Skies](https://open.spotify.com/track/0ImWqzGKxRkRD28Zlck86R) | [Sable Sheep](https://open.spotify.com/artist/4XaYCUxd6APqq2eMhOTm5R) | [Upon Burning Skies](https://open.spotify.com/album/5WANTczHKKfzfKSKTh28i3) | 8:24 |
 | 73 | [Rise And Fall](https://open.spotify.com/track/4zjDcQXCyGUOEXL1LiwELj) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 4:33 |
 | 74 | [Dark Song](https://open.spotify.com/track/4O2xx1GL1WIhqZIwIJauPY) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Dark Song](https://open.spotify.com/album/0qtcst9d8WgDNlhBCwtuGn) | 5:20 |
-| 75 | [Horizon Red](https://open.spotify.com/track/0PgOKL49AVmYzcdPCwpwng) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Horizon Red](https://open.spotify.com/album/5UAkI4o2tcyvoISpG0s9Wb) | 4:19 |
+| 75 | [Horizon Red](https://open.spotify.com/track/7mDuQlXi4UsXa5VmKGcm2U) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Horizon Red](https://open.spotify.com/album/5OH8W2ZKQwvjRvxhlzuSCc) | 4:19 |
 | 76 | [Flore Chico \(feat\. Chico Castillo\)](https://open.spotify.com/track/4KEuR4qFFiCfnXit0db0PQ) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Chico Castillo](https://open.spotify.com/artist/04I3DErk5AeYngYeVqRger) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 4:08 |
 | 77 | [L Train \- Interlude](https://open.spotify.com/track/3VauKqe12IMSG01zZZQ8Bh) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 0:52 |
 | 78 | [Two Zulu Men In Ibiza](https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Two Zulu Men In Ibiza EP](https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz) | 7:01 |
 | 79 | [Yes \- Club Version](https://open.spotify.com/track/1gcPomDSpxuRptrxDv9KNx) | [Chambray](https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO) | [Yes](https://open.spotify.com/album/0uDxZbREPCOFOjuT1CPlER) | 5:06 |
 
-Snapshot ID: `MCxhMGFjOTg1MThiNGM5MDQ5OGRjZDJlN2Y0ZDI4YmY4NGZmOWYyNTI3`
+Snapshot ID: `MCxlYjRkYjY2NDZjZDZkNmE2MjNhMzRiMzZkZGJmMDQ3ZTE3NDEyNjEz`

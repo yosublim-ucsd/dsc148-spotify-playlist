@@ -4,7 +4,7 @@
 
 > Rockabilly pioneers and revivalists\. Cover: Stray Cats
 
-369 songs - 14 hr 34 min
+371 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,11 +254,13 @@
 | [Ready Teddy](https://open.spotify.com/track/1bqTuo0PxNAhitHnHcTHzV) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 1:32 | 2020-10-11 | 2023-04-28 |
 | [Ready Teddy](https://open.spotify.com/track/5wbZ3sbWf4PppzZiRxkxou) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:06 | 2020-10-11 | 2023-04-28 |
 | [Red Headed Woman](https://open.spotify.com/track/25WJq089zZfqxfzHRbwkZq) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [The Legendary Sun Classics](https://open.spotify.com/album/0E8tCnwPe4rOHSRMzyIVpq) | 2:09 | 2020-10-11 | 2023-04-28 |
-| [Red Hot](https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [The Sun Records Sound of Billy Lee Riley \(20 Rockabilly Originals\)](https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk) | 2:29 | 2023-04-27 |  |
+| [Red Hot](https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [The Sun Records Sound of Billy Lee Riley \(20 Rockabilly Originals\)](https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk) | 2:29 | 2023-04-27 | 2023-11-05 |
 | [Red Hot](https://open.spotify.com/track/57mkcwZRCiQqvbsN4P5Tqw) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Rock 'N' Roll Legend: Billy Lee Riley](https://open.spotify.com/album/4tiXYCGhEcjUA0YMx3N4wz) | 2:30 | 2020-10-11 | 2023-04-28 |
-| [Right Behind You Baby](https://open.spotify.com/track/1eI9gpxLg80Om4pirkr9oe) | [Ray Smith](https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I) | [The Sun Records Sound of Ray Smith \(20 Rock 'n' Roll Classics\)](https://open.spotify.com/album/70hhNeGlnCF5weOwOru5XK) | 2:22 | 2020-10-11 |  |
+| [Red Hot \- Remastered 2022](https://open.spotify.com/track/4xDt9STUARW0vyDbPCI9Yi) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Sun Records Originals: Flyin' Saucers Rock & Roll](https://open.spotify.com/album/0bj7M9oajGqNlBM7H3CHIS) | 2:29 | 2023-04-27 |  |
+| [Right Behind You Baby](https://open.spotify.com/track/1eI9gpxLg80Om4pirkr9oe) | [Ray Smith](https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I) | [The Sun Records Sound of Ray Smith \(20 Rock 'n' Roll Classics\)](https://open.spotify.com/album/70hhNeGlnCF5weOwOru5XK) | 2:22 | 2020-10-11 | 2023-11-05 |
 | [Right Behind You Baby](https://open.spotify.com/track/4JlTgkHH7FFmw1XB5CBteM) | [Ray Smith](https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I) | [The Door to Sun Records: Rockabilly \(30 Boppin' Favorites\)](https://open.spotify.com/album/3aVNe9ZiCw7mca3Y4RM9hS) | 2:22 | 2020-10-11 | 2022-11-13 |
 | [Right Behind You Baby](https://open.spotify.com/track/7Loo3VIH2SYjFgpmdlUsG5) | [Ray Smith](https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I) | [So Young / Right Behind You Baby](https://open.spotify.com/album/1p3ZBDwFG1VjcapEAfn9tf) | 2:25 | 2020-10-11 | 2022-07-29 |
+| [Right Behind You Baby \- Remastered 2022](https://open.spotify.com/track/4jk2DZ3AauTMTnjwnRPupc) | [Ray Smith](https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I) | [Sun Records Originals: Right Behind You Baby](https://open.spotify.com/album/5vBRMV7CaTysZJHpMxLALv) | 2:25 | 2023-04-27 |  |
 | [Right Or Wrong](https://open.spotify.com/track/6yodxkUjWFbAE8VV4XkuDv) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [20 Rock 'N' Roll Hits](https://open.spotify.com/album/12uadrsBO9OStSXlXLV6cW) | 2:39 | 2020-10-11 | 2023-04-28 |
 | [Rip It Up](https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:21 | 2020-10-11 |  |
 | [Rip It Up](https://open.spotify.com/track/6xUxkmhGnzv5810XzAplE4) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [20 Rock 'N' Roll Hits](https://open.spotify.com/album/12uadrsBO9OStSXlXLV6cW) | 2:18 | 2020-10-11 | 2023-04-28 |

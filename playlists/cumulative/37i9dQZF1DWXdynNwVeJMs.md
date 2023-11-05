@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: Azmari
 
-191 songs - 16 hr 27 min
+192 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Reflet](https://open.spotify.com/track/7tNYzBbufvOtKyRcw0vPqd) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/4Y2YPVgmP5iwUVBmhA8vD1) | 5:42 | 2022-09-15 | 2023-06-24 |
 | [Reminiscence](https://open.spotify.com/track/27ijI4NwO9znLJJ7a776Uj) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:28 | 2022-10-07 |  |
 | [Reminiscence](https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:31 | 2022-09-15 | 2022-10-09 |
-| [Reminiscence \- Marc Mac Remix](https://open.spotify.com/track/7FX78izqEw284MLn5a6aNr) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI), [Marc Mac](https://open.spotify.com/artist/2iEvHAPa3A9WCngwRFhOu3) | [Reminiscence \(Marc Mac Remix\)](https://open.spotify.com/album/0zPPIk1UeEAXc40fbhTjkd) | 5:15 | 2023-10-20 |  |
+| [Reminiscence \- Marc Mac Remix](https://open.spotify.com/track/4CCW2vzqsGhk5XHvbdETJv) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI), [Marc Mac](https://open.spotify.com/artist/2iEvHAPa3A9WCngwRFhOu3) | [Lucid Lucia \- Remixes](https://open.spotify.com/album/02eFQoXoWdhTvzIeME77Cx) | 5:15 | 2023-10-20 |  |
+| [Reminiscence \- Marc Mac Remix](https://open.spotify.com/track/7FX78izqEw284MLn5a6aNr) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI), [Marc Mac](https://open.spotify.com/artist/2iEvHAPa3A9WCngwRFhOu3) | [Reminiscence \(Marc Mac Remix\)](https://open.spotify.com/album/0zPPIk1UeEAXc40fbhTjkd) | 5:15 | 2023-10-20 | 2023-11-05 |
 | [Rhymes On Our Mind](https://open.spotify.com/track/4Ry0Lk8vLR3avAZpYbw6tp) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Gulliver](https://open.spotify.com/album/6gMzMxSQ5zwlOtlfuEFo5h) | 5:59 | 2022-09-15 |  |
 | [Rhymes On Our Mind](https://open.spotify.com/track/6EJUuDETlcuLn76NNLc3Ey) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Rhymes On Our Mind](https://open.spotify.com/album/0rpq83kd4ptF8dTyBHu39b) | 5:59 | 2022-09-08 | 2022-09-25 |
 | [Rostfrei](https://open.spotify.com/track/6hmuL1lUUd10z0SxMANUO1) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [Klein Gevaarlijk Afval](https://open.spotify.com/album/3Mbm4tvDYbzC9FzaQ340LZ) | 2:31 | 2022-09-08 | 2023-10-07 |

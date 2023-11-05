@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 
 > Mellow out with this dub music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,556 likes - 53 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,594 likes - 53 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 | 2 | [Daphne](https://open.spotify.com/track/0X0zMRbHt3xuh3dNxY1WVh) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Underwater Dub](https://open.spotify.com/album/2O97JixmG3MtrHSe3rV0RZ) | 3:58 |
 | 3 | [Brothers and Sisters](https://open.spotify.com/track/2OLssDLdq7vwHOlhRe53Zy) | [Butch Cassidy Sound System](https://open.spotify.com/artist/5G63bkLymqmiaIkrUZExGG) | [Butches Brew](https://open.spotify.com/album/772bVEvhc7IUfBZALChmh6) | 4:35 |
 | 4 | [Vlinders \- Collignon Remix](https://open.spotify.com/track/49ST6EAK525PBdMXkzVa7m) | [KOFFIE](https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA), [COLLIGNON](https://open.spotify.com/artist/48OTFVKJ0VEviIC2leEbXp) | [Vlinders \(Collignon Remix\)](https://open.spotify.com/album/0DONJ6LO4vFjtijjjnGXGM) | 3:27 |
-| 5 | [Screaming Target](https://open.spotify.com/track/3MOAQQuIAzsGp13Ux9rEN9) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Screaming Target](https://open.spotify.com/album/0xpk3CbfeTZGLrHNTwFhsn) | 3:39 |
+| 5 | [Screaming Target](https://open.spotify.com/track/0KJiaXJha6yhlBjGZID13j) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Screaming Target](https://open.spotify.com/album/00SL37vqaciIS4sS8WhetN) | 3:39 |
 | 6 | [One Step Forward](https://open.spotify.com/track/2BX7M95kDw1NbmgZLgFl8H) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon \(Expanded Edition\)](https://open.spotify.com/album/7xlWX3qBfCI68LjswqlBH6) | 5:10 |
 | 7 | [King With A Crown](https://open.spotify.com/track/2swExCMWD0ujcVyejt8Pvx) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Koba Brown](https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75), [Addis Pablo](https://open.spotify.com/artist/3qp2x3V8TKROAYg3OlYceu) | [King With A Crown](https://open.spotify.com/album/6ba9mFdypEhOmvrLHt2vCk) | 2:39 |
 | 8 | [Ferocious](https://open.spotify.com/track/3aYXFRlQQmujy4UhrTOspP) | [Kosmo Sound](https://open.spotify.com/artist/55w8joyd87y5aaIix4xQBj) | [Fruit Of The Void](https://open.spotify.com/album/0UMI4uzrMRGjtGAWak26Em) | 4:44 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 | 23 | [Natty Dread A Weh She Want](https://open.spotify.com/track/5MXcMl4RWRLXRigOfuFEuT) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Skylarking \- The Best Of Horace Andy](https://open.spotify.com/album/60SXBpogTJ43eoYbCRqgSo) | 3:52 |
 | 24 | [Rockers Almighty Dub](https://open.spotify.com/track/7deOMfp7bDjTocSA0oZKLi) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Horace Andy Deluxe Edition](https://open.spotify.com/album/1OHdxeDzAr1MwrjtutQ33i) | 3:43 |
 | 25 | [White Rice Dub](https://open.spotify.com/track/2cqbNNonGbQE0zfF9HRLan) | [Jah Thomas](https://open.spotify.com/artist/6HlApAOH4X51mkur3KeMGr) | [Dub Massive Vol\. 1](https://open.spotify.com/album/5tiCR9iGhxWu8R4oqcKDzw) | 2:59 |
-| 26 | [Zion Gate Dub](https://open.spotify.com/track/1ipNNP3bwILX6W2nMa29S7) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [30 Years of Dub Music on the Go](https://open.spotify.com/album/0kznl5dkzF6bOQU30BAe3F) | 3:14 |
+| 26 | [Zion Gate Dub](https://open.spotify.com/track/243ucbIZFFKFdIYQhfNNon) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Ska Jam: The Rude Boy Mixtape](https://open.spotify.com/album/2Mr8jBQeCqWMTBDMJfoXBk) | 3:12 |
 | 27 | [Throw Away Your Gun \- 1991 Digital Remaster](https://open.spotify.com/track/65TNC2zSsAOnTcHcvZ1o76) | [Prince Far I](https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL) | [Dubwise](https://open.spotify.com/album/06PpN3LxxkiDYB5miBhUa2) | 4:23 |
 | 28 | [Bad Days Dub](https://open.spotify.com/track/5fUNBGKzM2Czt9f2Pd5wrM) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [The Scientist \- Scientific Dub](https://open.spotify.com/album/1NdhY0QEhlyGOZ3BzLGSWB) | 4:16 |
 | 29 | [Conquering Lion](https://open.spotify.com/track/14oeeDI2wQO396JduPaWpx) | [Yabby You](https://open.spotify.com/artist/2vKNIZgOzsdLs8W40OZ4X8) | [One Love, One Heart](https://open.spotify.com/album/4ZhtDrkN0vMmMR4VRpMsLs) | 3:21 |

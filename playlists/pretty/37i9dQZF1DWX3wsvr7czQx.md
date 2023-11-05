@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 
 > Icons only\. Cover: Duran Duran
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,665 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,697 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 14 | [Why Can't We Live Together](https://open.spotify.com/track/7fjju295nRrFMwK7bunuEL) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Why Can't We Live Together](https://open.spotify.com/album/3fGr7K47n7t7OYckvx3gpr) | 3:44 |
 | 15 | [Better With You](https://open.spotify.com/track/2eIiQ5mf0EEYWSfN5Pzxki) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Better With You](https://open.spotify.com/album/2hCIK1s0jAD2s9LBzXusT4) | 3:20 |
 | 16 | [Panopticom \- Bright Side Mix](https://open.spotify.com/track/0DpMQVZpl0bsIlFbm5CS7V) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Panopticom \(Bright Side Mix\)](https://open.spotify.com/album/3vMQQGbY67Sj77bD6dT8zt) | 5:13 |
-| 17 | [One Day Longer](https://open.spotify.com/track/7Fi5nCKmCDd29fdhdE60Qz) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [One Day Longer](https://open.spotify.com/album/34ygCQzhnvp9bwGX6HZlXt) | 4:07 |
+| 17 | [One Day Longer](https://open.spotify.com/track/0vH2LlAYsYeTPjEp9mgNoC) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Songwriter](https://open.spotify.com/album/2jHrXoaw4ngQGU6dKp2f48) | 4:07 |
 | 18 | [I'm In](https://open.spotify.com/track/0uVt1UqcssBjFCQogJCkoz) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [I'm In](https://open.spotify.com/album/306o3fqhgQdpZQiyqFu2Eb) | 5:05 |
 | 19 | [True To Yourself](https://open.spotify.com/track/3rYUollaaz3IHp94BiRzCx) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [True To Yourself](https://open.spotify.com/album/6Y9rVFJIoUVpFwjbXTe6rE) | 4:01 |
 | 20 | [Surrender To The Rhythm](https://open.spotify.com/track/1giGzzU08U4XCp5kRlJaev) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [Rusty](https://open.spotify.com/artist/66bIf61b6SKblDQ06KHrfA) | [The Resurrection Of Rust](https://open.spotify.com/album/4O3UZEJ5erCdxwq1UxYigP) | 3:41 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 32 | [Blue Bonnet Breeze](https://open.spotify.com/track/0wSRvzs3I0Dig07ejN2jiZ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 5:19 |
 | 33 | [Act of Love](https://open.spotify.com/track/3vW8oRO8aZ9XnkAvMABmaV) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Direction of the Heart](https://open.spotify.com/album/2HW50pzz8fOkfdauYGPNYb) | 4:02 |
 | 34 | [In Your Eyes \- Single Mix](https://open.spotify.com/track/0OSFYKf4XR55DaHt77SykL) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai), [Jeremy Wheatley](https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV) | [Northern Town / In Your Eyes](https://open.spotify.com/album/4rlDC3Az0mrX1WBRhLWVUM) | 3:20 |
-| 35 | [One Hell Of A Life](https://open.spotify.com/track/0bQWgz0oobVeFcyG1oAhYd) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time \(The Hourglass Edition\)](https://open.spotify.com/album/65FrNv74cknKGNRLOUVmgM) | 5:23 |
+| 35 | [One Hell Of A Life](https://open.spotify.com/track/226OTrOImSJWRSFtukFni8) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time \(The Hourglass Edition\)](https://open.spotify.com/album/6zuQwkKkMEJYPYhsMgYJMP) | 5:23 |
 | 36 | [For Her Love](https://open.spotify.com/track/0OKn63DGQ2kBRTo9BRfiEP) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:45 |
 | 37 | [Touchline](https://open.spotify.com/track/2AZVRikFuNWo0H8P85Xzmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Tears Of Hercules](https://open.spotify.com/album/2sjLgnR7JeVPRayrFoYjHs) | 3:55 |
 | 38 | [I Still Believe](https://open.spotify.com/track/2gnWpyn0nHoT11V7awaP5g) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [I Still Believe](https://open.spotify.com/album/3Jj21Z3ec4p5SwZU3lXshM) | 3:38 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 40 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 |
 | 41 | [Beautiful Sunshine](https://open.spotify.com/track/06vruaOv6AAjmL0lGhimEI) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [The Journey](https://open.spotify.com/album/5wqUZZr1E77YnRSBYD0Y5E) | 2:55 |
 | 42 | [Metal Water Wood](https://open.spotify.com/track/74xme6fG8qeC7BfwXiDa7j) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Ocean to Ocean](https://open.spotify.com/album/08dsnxebW6wZCu8NpmK3kn) | 4:00 |
-| 43 | [One More Cup Of Coffee](https://open.spotify.com/track/2I6UEY3f6CQ1rsbpn3Cg7H) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time](https://open.spotify.com/album/06iDUt5q4pxGHcide19i7X) | 3:45 |
+| 43 | [One More Cup Of Coffee](https://open.spotify.com/track/5dqUHvugSJOiPXqPkTCuMY) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time](https://open.spotify.com/album/04BIk4z6szD5cNpvmjOY5D) | 3:45 |
 | 44 | [Superwoman](https://open.spotify.com/track/0gi4tWDQihbUabJVqWxmfU) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:41 |
 | 45 | [Walls](https://open.spotify.com/track/4Re3AZ3OmQWxQHX0NtOzid) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Walls](https://open.spotify.com/album/5QDnUqAeP7Zq51NASyfri1) | 3:32 |
 | 46 | [Knockabout World](https://open.spotify.com/track/0UvVaQkRZZ5czIzkRM6quL) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [I Am Not a Dog on a Chain](https://open.spotify.com/album/3KefOuS57gTHRoA4C1yagu) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 49 | [Find My Way](https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:54 |
 | 50 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 |
 
-Snapshot ID: `MCw5NDNkYjUwYTdhMzJmMDVlZTRmODcxNDBkODc5ZDVlY2U5M2E5NTg0`
+Snapshot ID: `MCxhMWRhYzM4NjRhMDMxYTcxNTBiMmJlODNmMmVhMzk5YWM4MTEzZTQw`

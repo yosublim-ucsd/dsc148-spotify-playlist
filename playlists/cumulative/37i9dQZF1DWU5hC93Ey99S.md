@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-306 songs - 16 hr 50 min
+307 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [ghost \(feat\. HUMAN\)](https://open.spotify.com/track/1FBe5ufpstCna9qm0Y6q9U) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [HUMAN](https://open.spotify.com/artist/4rje1ago7T6xEn8SABCTIY) | [ghost \(feat\. HUMAN\)](https://open.spotify.com/album/3wIh99BbkbZ5DGOGxJ2bPR) | 3:56 | 2023-06-01 |  |
 | [ghost2](https://open.spotify.com/track/0DgyAyvFmYA232P4jWheGP) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/4PiQXqTTVf4PYb0na1NqMh) | 3:18 | 2023-06-15 |  |
 | [Gipsy](https://open.spotify.com/track/7mA03cPnG3UkLgf1ed87fI) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Haj](https://open.spotify.com/artist/05WNscDcYnsCEMH42h1ehL) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 4:28 | 2023-06-01 |  |
-| [Glow](https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G) | 3:13 | 2023-04-21 |  |
+| [Glow](https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G) | 3:13 | 2023-04-21 | 2023-11-05 |
+| [Glow](https://open.spotify.com/track/5SgJkK2j7HQXUAFl1wJ9HW) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/5EJiHGODG0BccM8YHsDTH1) | 3:13 | 2023-10-12 |  |
 | [Go home already](https://open.spotify.com/track/1R4Ut8EB0EyJFjCb3oNfWg) | [projektbau](https://open.spotify.com/artist/6zMFuvc7I8OgPAJj9jhSd4) | [Go home already](https://open.spotify.com/album/4wCyqkJydKakoAoXtqIAc5) | 2:13 | 2023-08-31 |  |
 | [God Is In The Soundwaves](https://open.spotify.com/track/51w0BMC24JALh8uzwRzjMB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7) | [God Is In The Soundwaves](https://open.spotify.com/album/20ssXnN1FKqAfIE6zSM8gQ) | 2:43 | 2023-10-26 |  |
 | [Gold](https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Gold](https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq) | 2:03 | 2023-04-13 |  |

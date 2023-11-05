@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-88 songs - 4 hr 48 min
+90 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,14 +37,16 @@
 | [Floating Upstreams](https://open.spotify.com/track/5vhAoUrsxJZfiHQK8Tpx1y) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 2:51 | 2022-10-13 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/5Q8mTbdEvMmVQYzTOOLm5j) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Fly Me To The Moon](https://open.spotify.com/album/0bb1f6yG83IWRTtyKRsDxZ) | 2:23 | 2022-10-13 | 2022-11-18 |
 | [From Now On](https://open.spotify.com/track/1Qu7rDnLl6yAIQy4c9cJoO) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [This Is Jazz \#9](https://open.spotify.com/album/2D2myh79CK6dKYUEIfMVsB) | 2:20 | 2022-10-13 |  |
-| [From The Mountains](https://open.spotify.com/track/0x7F5NIdGbQWiTb1G34e6H) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/7BRTdya6UKyz9xLxjU0Hio) | 8:20 | 2023-10-26 |  |
+| [From The Mountains](https://open.spotify.com/track/0x7F5NIdGbQWiTb1G34e6H) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/7BRTdya6UKyz9xLxjU0Hio) | 8:20 | 2023-10-26 | 2023-11-05 |
+| [From The Mountains](https://open.spotify.com/track/2vrav3XxztyyB5jnvg3IEH) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/65WGqUztAtgLA6KLy9rcwJ) | 8:20 | 2023-10-26 |  |
 | [From The Mountains](https://open.spotify.com/track/7evvPuIQkcJEPki0t5nkxd) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [From The Mountains](https://open.spotify.com/album/6eSbOxKBVFiUUF8iKSs9aB) | 8:20 | 2023-04-13 | 2023-11-04 |
 | [Golden Slumbers](https://open.spotify.com/track/553aXMKRk0Kh41QpvbuuFt) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6) | [Plays McCartney](https://open.spotify.com/album/7Fo8n4zfC54z0Yjgv8qVKY) | 2:43 | 2022-10-13 |  |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/0FzscnPl4utP0vONzitk5J) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [Have You Met Miss Jones?](https://open.spotify.com/album/6xpcssp9Q6hcgyC7upWVFo) | 2:24 | 2023-02-23 |  |
 | [Hazy](https://open.spotify.com/track/687knmd9df9s6TRLzRVEOZ) | [Gina Wahler](https://open.spotify.com/artist/2qYWM0svFgRslCfVj36xcC) | [Hazy](https://open.spotify.com/album/45XVtdfgbmjIOEl3lLZhc2) | 3:04 | 2022-10-13 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/2DNS7kGX6HZY4L64nStAld) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or) | [Cabin Fever](https://open.spotify.com/album/4OFna3RHjT4D2xgsrQBbXe) | 6:30 | 2022-10-13 |  |
 | [How High The Moon](https://open.spotify.com/track/62feEPkgAS1dAVN6EB06PQ) | [Erik Faelt](https://open.spotify.com/artist/1ML8LCQGl0s8S4IECHztk1) | [My Romance](https://open.spotify.com/album/08n5jSurl6yZPKmPlwr5Ru) | 3:02 | 2022-10-13 |  |
-| [I Can't Get Started](https://open.spotify.com/track/60leHFGR0dqQDVShBd0dhz) | [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Standards](https://open.spotify.com/album/7hMdnLLykOS0hLi1IaoYT9) | 6:01 | 2022-10-13 |  |
+| [I Can't Get Started](https://open.spotify.com/track/60leHFGR0dqQDVShBd0dhz) | [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Standards](https://open.spotify.com/album/7hMdnLLykOS0hLi1IaoYT9) | 6:01 | 2022-10-13 | 2023-11-05 |
+| [I Can't Get Started](https://open.spotify.com/track/7agPPJXP14osXy001r9kWN) | [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Standards](https://open.spotify.com/album/27JVfoJ1uq83yW1KYovrQO) | 6:01 | 2023-10-26 |  |
 | [I Should Care](https://open.spotify.com/track/24XjTCIq4WrhUvHtmUd4ju) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [I Should Care](https://open.spotify.com/album/2bZuqVCkXSbjGw5SgBb9cK) | 1:46 | 2023-02-02 | 2023-09-16 |
 | [In A Sentimental Mood](https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [In A Sentimental Mood](https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y) | 2:42 | 2022-10-13 |  |
 | [Just Friends](https://open.spotify.com/track/3tHg7ih7aOsHUSMEImsLhU) | [Jim Stolar](https://open.spotify.com/artist/5hWUYUBGBKYhVolIy0DC5O) | [Just Friends](https://open.spotify.com/album/7HTSR4JClDS0r16RrLpmKE) | 2:26 | 2022-10-13 |  |

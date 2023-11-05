@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-139 songs - 10 hr 25 min
+142 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [About Work The Dancefloor \- The Blessed Madonna Remix \(Edit\)](https://open.spotify.com/track/58uvwTRUJLYy7dCe4L052M) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [About Work The Dancefloor \(The Blessed Madonna Remix\)](https://open.spotify.com/album/1gb9PQawrh5AldGrdrlzxP) | 3:29 | 2021-03-01 | 2023-03-08 |
 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 | 2023-03-07 |  |
 | [All my friends know \- Anz Remix](https://open.spotify.com/track/1U6hIpPWukivILVMgkzpAp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 5:11 | 2022-03-08 | 2023-03-08 |
-| [Apollo \- Original Mix](https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 7:00 | 2023-03-07 |  |
+| [Apollo](https://open.spotify.com/track/7sNp24ekO02LkwhV7kBh3Z) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/5Plok6w5YeCXhdzXGSri4T) | 7:00 | 2023-03-07 |  |
+| [Apollo \- Original Mix](https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 7:00 | 2023-03-07 | 2023-11-05 |
 | [Are U Down](https://open.spotify.com/track/5UwR04Cke847W9Whoxx57s) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us / Are U Down](https://open.spotify.com/album/73rAUSm45jVN9L5oAtUaIV) | 4:17 | 2021-03-01 | 2023-03-08 |
 | [Attack](https://open.spotify.com/track/1Due9XdQ9PAJ4wzBNtWoq2) | [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [Project Ghost](https://open.spotify.com/album/0rJWzZcmEdFrPokYIYPtLm) | 3:40 | 2021-03-01 | 2023-01-07 |
 | [Attack](https://open.spotify.com/track/7wnxYjwm2gl9FjKAJQZEyg) | [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [PROJECT GHOST](https://open.spotify.com/album/7yxrXJ2KTLEniIiz5bZ4yM) | 3:40 | 2022-03-08 | 2023-03-08 |
@@ -46,7 +47,8 @@
 | [Feel](https://open.spotify.com/track/1iKW2yrouUd2E3tK4tj8Tu) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/2PqGGOZm4IPKiXzLZpJULH) | 4:37 | 2021-03-01 | 2022-07-29 |
 | [Feel](https://open.spotify.com/track/1mLBoCFmY9LPV8SlHzzCbV) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Feel](https://open.spotify.com/album/6Qoue7wn6cvMAanDsVRKID) | 4:37 | 2022-03-08 | 2022-11-13 |
 | [Feels Darker](https://open.spotify.com/track/11UMhOKrwShiukxOnRX2mp) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Feels Darker](https://open.spotify.com/album/0PNLjzbkEvzQBKYVwTgnNI) | 3:15 | 2023-03-07 |  |
-| [Find Your Way Home](https://open.spotify.com/track/0WoxURnxMhMHVEZpK04KzU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 8:17 | 2021-03-01 |  |
+| [Find Your Way Home](https://open.spotify.com/track/0WoxURnxMhMHVEZpK04KzU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 8:17 | 2021-03-01 | 2023-11-05 |
+| [Find Your Way Home](https://open.spotify.com/track/1yYoSZ9e1zE2zZlYEytggU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/3hkdqLvcp6vFYyHHw19NBu) | 8:17 | 2023-03-07 |  |
 | [Firefly](https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:18 | 2023-03-07 |  |
 | [Fluffy Clouds](https://open.spotify.com/track/46An1qrp2NBF7rP8CgmnpK) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Fluffy Clouds](https://open.spotify.com/album/3dWZLsrLsh8gcbnekWIg7H) | 5:44 | 2021-03-01 | 2023-03-08 |
 | [Follow](https://open.spotify.com/track/2XGh5hmwLX517lMBSvglwS) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Stay With Me](https://open.spotify.com/album/0kI8CjLFsSKL7xA2tSBZFa) | 5:37 | 2022-03-08 | 2023-03-08 |
@@ -66,7 +68,8 @@
 | [Hollow](https://open.spotify.com/track/1AL3QYWKnoUWHD8IvXx72j) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Hollow EP](https://open.spotify.com/album/6DIDW3h9nsJgVkWiCM3H4x) | 3:36 | 2021-03-01 | 2022-07-29 |
 | [Hollow](https://open.spotify.com/track/2J8YYqExy06PjSapXmm39f) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Hollow EP](https://open.spotify.com/album/2k0F2NkDj19iqUZ8c1SIwA) | 3:36 | 2022-03-08 | 2023-03-08 |
 | [Hot Bot](https://open.spotify.com/track/1XNJI7P60NskriC3NhEvzt) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/3uuE2MtcSMcgDVwrjUvRBZ) | 4:48 | 2021-03-01 | 2023-02-08 |
-| [Hot Bot](https://open.spotify.com/track/5eeYXA1ZZBNRdwrJdCH9nD) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/7cFnHZSpmPQ2Ty6I5eoVOw) | 4:48 | 2022-03-08 |  |
+| [Hot Bot](https://open.spotify.com/track/5eeYXA1ZZBNRdwrJdCH9nD) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/7cFnHZSpmPQ2Ty6I5eoVOw) | 4:48 | 2022-03-08 | 2023-11-05 |
+| [Hot Bot](https://open.spotify.com/track/62gDPzHOh9oaJ3X1QBX3Fk) | [Nite Fleit](https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5) | [Moogie](https://open.spotify.com/album/5M62pugy3965W3dz996J7w) | 4:48 | 2023-03-07 |  |
 | [Hot Evening](https://open.spotify.com/track/7l7tXEWUMfW5m5AE8vPfOB) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Hot Evening](https://open.spotify.com/album/7IZ79nalZzDtQhgtCR4Dp1) | 4:01 | 2023-03-07 |  |
 | [Hot Shot](https://open.spotify.com/track/35tqKg7rzhiqS6dL3LfOki) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Bklava \- EP](https://open.spotify.com/album/5vj3Ca8rK10V6Dy01hip5E) | 3:32 | 2021-03-01 | 2023-03-08 |
 | [Human Error Processor](https://open.spotify.com/track/2pvyBLVixnCOD6yq2mgieZ) | [Yazzus](https://open.spotify.com/artist/0KWutsZ75Y4GvjcPTFnKXU) | [Black Metropolis](https://open.spotify.com/album/7mxzclKV8bYCqLVbvdthMV) | 6:54 | 2023-03-07 |  |

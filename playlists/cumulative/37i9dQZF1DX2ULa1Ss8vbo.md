@@ -4,12 +4,12 @@
 
 > Songs from the old country: the essential traditional Irish ballads.
 
-75 songs - 4 hr 39 min
+77 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Pair of Brown Eyes](https://open.spotify.com/track/32soEc9h0wDy1BEjV5egeh) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 5:01 | 2019-03-14 |  |
-| [Ae Fond Kiss](https://open.spotify.com/track/0ZLiaBeYAa8kbQNKUXlg8C) | [Mary Black](https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA) | [The Best Of Mary Black Volume 2](https://open.spotify.com/album/7Bm2WiKtfjcD9qumuZmwrC) | 4:07 | 2022-07-13 |  |
+| [Ae Fond Kiss](https://open.spotify.com/track/0ZLiaBeYAa8kbQNKUXlg8C) | [Mary Black](https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA) | [The Best Of Mary Black Volume 2](https://open.spotify.com/album/7Bm2WiKtfjcD9qumuZmwrC) | 4:07 | 2022-07-13 | 2023-11-05 |
 | [An Dòrd Fienne \(Òrò Sè Do Bheatha Abhaile\)](https://open.spotify.com/track/3NhWg4dF7igTohuYOgr3AB) | [The Wolfe Tones](https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau) | [25th Anniversary](https://open.spotify.com/album/7fTHb1SDietYPoesmOnDNh) | 2:20 | 2019-03-14 |  |
 | [Arbour Hill](https://open.spotify.com/track/3dZpG1lCzOollQ3qrylOS0) | [Eugene McEldowney](https://open.spotify.com/artist/0PUpXAEPVuX0CShc4oGdwG) | [James Connolly \- The Irish Rebel](https://open.spotify.com/album/0y3rEtlF9sLwtzVfjUebxM) | 2:35 | 2019-03-14 |  |
 | [Black Velvet Band](https://open.spotify.com/track/1E2C8AILQ4dJydKYM9cFSz) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [The Best Of](https://open.spotify.com/album/3gTdmsL8kxatC6KYkFCOpE) | 3:46 | 2019-03-14 | 2022-07-29 |
@@ -46,6 +46,7 @@
 | [Raglan Road](https://open.spotify.com/track/66ia10eVRRx10XASRakso0) | [Luke Kelly](https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9) | [The Collection](https://open.spotify.com/album/4HLAl7nA1j0FHMnuF9o4tW) | 4:17 | 2019-03-14 |  |
 | [Ride On](https://open.spotify.com/track/4v7zlBmIQU4lszrokRt8yP) | [Christy Moore](https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ) | [Ride On](https://open.spotify.com/album/5Zah4fLbDN48as0KGmywh1) | 4:05 | 2019-03-14 |  |
 | [Scorn Not His Simplicity](https://open.spotify.com/track/1edRAAeWBUknvXMj9FlvIu) | [Luke Kelly](https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9) | [The Best of Luke Kelly](https://open.spotify.com/album/5NCrmdBxbvrlERv2VcYQks) | 3:37 | 2019-03-14 |  |
+| [Sonny](https://open.spotify.com/track/7LupDPRLSzv59dBkkuxMCO) | [Mary Black](https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Dolores Keane](https://open.spotify.com/artist/6nYVwBK8nCQCYlb7rA763B) | [Duets](https://open.spotify.com/album/2Q7wLG5eFud4DDSwSP36R5) | 4:11 | 2023-03-16 |  |
 | [Sonny](https://open.spotify.com/track/6xO1Egci5AmEX0nqrz7JGh) | [Mary Black](https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA), [Emmylou Harris & Dolores Keane](https://open.spotify.com/artist/2F5xYKmrB2BNGKTNbdY4lv) | [Twenty Five Years\-Twenty Five Songs](https://open.spotify.com/album/6w06lhQcIlyfGKEzQGF8FQ) | 4:09 | 2019-03-14 | 2022-07-29 |
 | [Spancil Hill](https://open.spotify.com/track/23gju7aYMKGkVu5SNWExPs) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Dubliners](https://open.spotify.com/album/2JaU7begujrJQaORvAnVwD) | 4:04 | 2019-03-14 |  |
 | [Spanish Lady](https://open.spotify.com/track/4Y5TDPW5UdcVHyGumdtRK5) | [The Kilkennys](https://open.spotify.com/artist/13BdFViz8xaH8K47sWS6ge), [Gerry Moloney Accordian](https://open.spotify.com/artist/3rsnPCoSoPQzH4CFODgELX) | [The Colour of Freedom](https://open.spotify.com/album/1jIZUFd7xC5k9xE8xAngYk) | 3:09 | 2019-03-14 |  |
@@ -73,7 +74,8 @@
 | [The Streets of London](https://open.spotify.com/track/3EkzGqK2uJrgiZDLXBMWUo) | [Liam Clancy](https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP) | [The Parting Glass \(The Very Best of Liam Clancy\)](https://open.spotify.com/album/5LL2dL3dChEHrcGLBYnqtn) | 4:01 | 2019-03-14 |  |
 | [The Time Has Come](https://open.spotify.com/track/11EhHpCJA9ztjUG13pVXjb) | [Christy Moore](https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ) | [The Time Has Come](https://open.spotify.com/album/2FYYQ2GMMzRtR6hGuxTjFb) | 3:19 | 2019-03-14 |  |
 | [The West's Awake](https://open.spotify.com/track/28JJX47fHJppvYapuoHeRr) | [Johnny McEvoy](https://open.spotify.com/artist/0wK5QhuLtbY2K4Rmm2FHE9) | [1916 Easter Rising \(Commemorative Collection\)](https://open.spotify.com/album/58MT6pI2o0dAiAkTUyo0a6) | 3:27 | 2019-03-14 |  |
-| [The Wild Rover \- Live](https://open.spotify.com/track/4CzPn2Wa5UOrCm6Yo3ClQt) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Transatlantic Anthology \(Live\)](https://open.spotify.com/album/4MaAakVsMaOMtniv2gJLgt) | 3:10 | 2023-03-16 |  |
+| [The Wild Rover \(Live\)](https://open.spotify.com/track/5FOjVfggAcbto0JP3YR778) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Dubliners \(Live;Bonus Track Edition\)](https://open.spotify.com/album/18YkQtYXD4lybEsKDAPcR5) | 3:13 | 2023-03-16 |  |
+| [The Wild Rover \- Live](https://open.spotify.com/track/4CzPn2Wa5UOrCm6Yo3ClQt) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Transatlantic Anthology \(Live\)](https://open.spotify.com/album/4MaAakVsMaOMtniv2gJLgt) | 3:10 | 2023-03-16 | 2023-11-05 |
 | [The Wild Rover \- Live](https://open.spotify.com/track/2YZxkxncqwdtAZWL1fi3zm) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Dubliners At Their Best](https://open.spotify.com/album/74l3GG47CU8mZwlMd7hbvO) | 3:11 | 2022-07-13 | 2022-11-13 |
 | [The Wild Rover \- Live](https://open.spotify.com/track/20TTcvoIoyFKZJTT730ZVw) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Dubliners \(Bonus Track Edition\)](https://open.spotify.com/album/14CsJA81k3sxsf3cCRztV5) | 3:13 | 2022-07-13 | 2023-11-04 |
 | [Thousands Are Sailing](https://open.spotify.com/track/0OVhZl9SaOLjLvYE6hcLGc) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 5:26 | 2019-03-14 |  |

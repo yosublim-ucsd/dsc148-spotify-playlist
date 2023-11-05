@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,369 likes - 54 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,387 likes - 54 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 10 | [Heat of the Moon \- Phairo's Lunar Eclipse Mix](https://open.spotify.com/track/1q7MXzLGZK2DqVNIF66VFh) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Phairo](https://open.spotify.com/artist/0ddHqZkNzQv7cmCGN6NwXY) | [Heat of the Moon \(Phairo's Lunar Eclipse Mix\)](https://open.spotify.com/album/3uERrl8jhKSyvA7NRviGPi) | 4:27 |
 | 11 | [Spilt T](https://open.spotify.com/track/0Ydb51PBSnzOkxfdIU6HWm) | [FELIXCW](https://open.spotify.com/artist/0pH0voqRBqWscSPfZ4FuHO) | [Spilt T](https://open.spotify.com/album/0QWE7QdmC42xARWgxXOJXC) | 4:27 |
 | 12 | [Simply Won't Do](https://open.spotify.com/track/6q41rWOFtGs0K63lm0tAPa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:26 |
-| 13 | [Xtina](https://open.spotify.com/track/2ybGkYUXKKJMN701QYwXff) | [Lxury](https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf) | [Total Eclipse](https://open.spotify.com/album/4l1bVe35t30CE6UJQEKcl4) | 4:50 |
+| 13 | [Xtina](https://open.spotify.com/track/3z7IkJWkJuRGeKUOs8ildv) | [Lxury](https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf) | [Total Eclipse](https://open.spotify.com/album/6PPO7q95rqHmKjXC3IJafZ) | 4:50 |
 | 14 | [Set The Roof](https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 4:28 |
 | 15 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 |
 | 16 | [WOI](https://open.spotify.com/track/2CISvEFIKOri1e92IMrWLA) | [efan](https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT) | [WOI](https://open.spotify.com/album/1gwWLLExGfmqXBrj3msIyO) | 5:00 |
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 47 | [My Body](https://open.spotify.com/track/1NISyNrwwO4ysIDadFQI1c) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Skreamizm 8](https://open.spotify.com/album/6shH7NYCoBoWks3ddtW848) | 5:29 |
 | 48 | [LOVE 4 LIFE](https://open.spotify.com/track/4fmMlfYmxRNdTEWXBJyaZa) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [LOVE 4 LIFE](https://open.spotify.com/album/0qr4l55ClUflNoMLfR8K8g) | 2:53 |
 | 49 | [In The Mood](https://open.spotify.com/track/3BqOGhCJD4qRD6xQjBeT0l) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Shake / In The Mood](https://open.spotify.com/album/6He6laSFhDHETaQaxulrtp) | 3:49 |
-| 50 | [Zip](https://open.spotify.com/track/5n94w4fog3OUFBpjlGaGCK) | [uu rhythm](https://open.spotify.com/artist/3Tywj0x7JTOMejtEwGGO2O) | [Zip](https://open.spotify.com/album/1nV3keL2Oy8HIkX1udOV01) | 4:17 |
+| 50 | [Zip](https://open.spotify.com/track/4aDG9AuAxM310HJPMeCEW8) | [uu rhythm](https://open.spotify.com/artist/3Tywj0x7JTOMejtEwGGO2O) | [Zip](https://open.spotify.com/album/0Z6x73vBEISKtPcMH2QoCH) | 4:17 |
 | 51 | [Green Dove](https://open.spotify.com/track/1LIj1SX2uO1TSIuQE6n26l) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Orange Blank / Green Dove](https://open.spotify.com/album/0zzY2VM8BciRo7PCegsuLf) | 6:03 |
 | 52 | [Intentions](https://open.spotify.com/track/2cPWsduk8bwppUN4HkXCRs) | [Frits Wentink](https://open.spotify.com/artist/6RU8a6xLRtKJckACb5wf5D) | [Remember That Feeling](https://open.spotify.com/album/6JYt3VwmbRL9zA8ooRUkkK) | 6:09 |
 | 53 | [I Like It](https://open.spotify.com/track/3UedDxQdGoEdw3cV5eLCJS) | [Madcliff](https://open.spotify.com/artist/4XVNXuvUEcareBngNTDDX5) | [Mad Cliff](https://open.spotify.com/album/0OxzPeW4hJ6GLOqGu4xKpN) | 3:56 |
 | 54 | [I Can't Help but Love](https://open.spotify.com/track/2svuSVmTq5WdHHVDBlobVS) | [David R\. Trask](https://open.spotify.com/artist/7G37dqQpR4pzSxS553aBJG) | [I Can't Help but Love](https://open.spotify.com/album/0IqxR7phNjVfHArCG7LEMR) | 3:39 |
 
-Snapshot ID: `MCxiMzJjMjdjYmM0Zjk3YmJlMTVkNmU1N2E0ZmI4ZjU5MTcxNzJlNzQ1`
+Snapshot ID: `MCxmY2E3NmNmMjI0MmIzODEzZTIzMTdlMmE4OTJkOWY4MTVmM2ExOWQ1`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-135 songs - 11 hr 51 min
+137 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Magic Workout](https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Magic Workout](https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7) | 5:35 | 2023-10-06 |  |
 | [Makana](https://open.spotify.com/track/5MckryuzcHvLAEd5i9qQTC) | [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Jismal](https://open.spotify.com/album/5zPHDz7xdtRB89hqstwsAr) | 4:18 | 2022-05-30 | 2023-10-07 |
 | [Malaparte \- Niklas Paschburg Rework](https://open.spotify.com/track/0sSN1juHiSPjkPJTOS5zpQ) | [Saycet](https://open.spotify.com/artist/0AKlaf8M1k8NjJp1uCOlTA), [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Malaparte \(Niklas Paschburg Rework\)](https://open.spotify.com/album/4GZbDmiszo83QMhjTsflgK) | 4:25 | 2022-05-30 | 2023-10-07 |
-| [Man O To \- Original Mix](https://open.spotify.com/track/1jk9NRyYFKPgfCX9BnW6yW) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [Man O To](https://open.spotify.com/album/4EHthKssV78iSBlgIafIY6) | 9:40 | 2023-10-06 |  |
+| [Man O To](https://open.spotify.com/track/47ur3v3BkQwfTvvK4UOoV4) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [Man O To](https://open.spotify.com/album/5zAwGdaVlQ3yf8vF5EIEOo) | 9:40 | 2023-10-06 |  |
+| [Man O To \- Original Mix](https://open.spotify.com/track/1jk9NRyYFKPgfCX9BnW6yW) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [Man O To](https://open.spotify.com/album/4EHthKssV78iSBlgIafIY6) | 9:40 | 2023-10-06 | 2023-11-05 |
 | [Maria](https://open.spotify.com/track/52vgt3qbfsDWSRhd1nXdgE) | [Orange Blossom](https://open.spotify.com/artist/0vAw8AfCObQgZlXRSRILOq) | [Under the Shade of Violets](https://open.spotify.com/album/4MqQc6bR7WZNXQlCAPA55n) | 5:23 | 2023-10-06 |  |
 | [Mariana Trench](https://open.spotify.com/track/1XDSbVUTJFpb8h4JDC5qPn) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG), [Khotton Palm](https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ) | [Mariana Trench](https://open.spotify.com/album/3TQVUSENZcfAoPyL7qAbge) | 4:23 | 2023-10-06 |  |
 | [Mechanical Turk \(Courtesy of Karpov not Kasparov\)](https://open.spotify.com/track/43a5eytnLzXlKdmf8JB9er) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa) | [Mechanical Turk](https://open.spotify.com/album/6xNhTNSuyjHaqx9e7rSI2w) | 8:55 | 2023-10-06 |  |
@@ -125,7 +126,8 @@
 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 | 2023-10-06 |  |
 | [Sumeru](https://open.spotify.com/track/2gL3yeSrVcdgYUgebT6TKN) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Kaybola \(Deluxe Version\)](https://open.spotify.com/album/1zqTrfdQyPehpQFeowfgIm) | 4:57 | 2023-10-06 |  |
 | [Teal](https://open.spotify.com/track/1uEPpZUFt02cmserTLrQaS) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [I Am Still Here](https://open.spotify.com/album/587BdfJd7CAjF1jgxVv1vi) | 6:51 | 2022-05-30 | 2023-10-07 |
-| [Timba feat\. Kazuyo Shionoiri](https://open.spotify.com/track/7aRmU29IJvT4gZp6lUHU5m) | [Kino Todo](https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol), [Kazuyo Shionoiri](https://open.spotify.com/artist/2KEaAh5rIGFJVNg043KiMz) | [Gidafi Na EP](https://open.spotify.com/album/2RAVsnjwVCmJ119d4zIxje) | 6:14 | 2023-10-06 |  |
+| [Timba \(feat\. Kazuyo Shionoiri\)](https://open.spotify.com/track/2tCvpvwVxUnyuvXx8kMyRz) | [Kino Todo](https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol), [Kazuyo Shionoiri](https://open.spotify.com/artist/2KEaAh5rIGFJVNg043KiMz) | [Gidafi Na EP](https://open.spotify.com/album/0MXLlCZMJJ40pfZY3dId2b) | 6:14 | 2023-10-06 |  |
+| [Timba feat\. Kazuyo Shionoiri](https://open.spotify.com/track/7aRmU29IJvT4gZp6lUHU5m) | [Kino Todo](https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol), [Kazuyo Shionoiri](https://open.spotify.com/artist/2KEaAh5rIGFJVNg043KiMz) | [Gidafi Na EP](https://open.spotify.com/album/2RAVsnjwVCmJ119d4zIxje) | 6:14 | 2023-10-06 | 2023-11-05 |
 | [Ttabla \- Musique de Fête, Vol\. 2](https://open.spotify.com/track/3TjKcuADUBqMZ7LnzSlvIA) | [TAXI KEBAB](https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy), [Musique de Fête](https://open.spotify.com/artist/5WSUo5rvcvi9uNBmnk947E) | [Ttabla \(Musique de Fête, Vol\. 2\)](https://open.spotify.com/album/3UqLlTztgBzTeL8eLymzTb) | 4:53 | 2022-05-30 | 2023-10-07 |
 | [Twilight \- O/Y Remix](https://open.spotify.com/track/1pZlsK4aphxzZz8iIDuAVP) | [Noema](https://open.spotify.com/artist/3jSvMIKT2Eo5mNvYN9ownN), [O/Y](https://open.spotify.com/artist/4VqH0mBvO9KUg195zWgfmB) | [Twilight](https://open.spotify.com/album/5B3kRobK9pvcXTl1SIMY4W) | 6:09 | 2023-10-06 |  |
 | [Two Shine Brighter](https://open.spotify.com/track/77YGSekMJbG5sA3nezxdmb) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Childish EP](https://open.spotify.com/album/3d65ZR2vntfRh0EY3eSMKI) | 6:06 | 2023-10-06 |  |

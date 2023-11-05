@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites. Cover: Bruce Springsteen",
-  "num_followers": 346889,
+  "num_followers": 347192,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2VlODU0ODQyOTZjYmU5NzFkMTdlYjE5ZWM3OGE0MDcwMzJmZjU1",
+  "snapshot_id": "MCwzMTI3MGFlYmUyYmVkZDg4MjE0NmJkN2U5ZTNhNTdlNmIzMmE4OGE2",
   "tracks": [
     {
       "added_at": "2022-03-04 19:14:07",
@@ -711,6 +711,10 @@
         "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
       },
       "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
         {
           "name": "Wings",
           "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"

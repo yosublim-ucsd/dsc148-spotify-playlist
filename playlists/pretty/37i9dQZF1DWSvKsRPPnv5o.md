@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,034 likes - 78 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,114 likes - 78 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 77 | [Wop It](https://open.spotify.com/track/73KXFBOZXWVbK6XBgvohZK) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [Wop It](https://open.spotify.com/album/6yktmgt5KT7bvcWMQLZJMI) | 1:52 |
 | 78 | [4Life](https://open.spotify.com/track/6VB1KfpJzVAnFvyeiCPC4f) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [4Life](https://open.spotify.com/album/0raGZNP4IH0KrI6qdpToQP) | 2:36 |
 
-Snapshot ID: `MCxmYmZkMDMyMzIxMjkwMTM4OWFhYzYwZGNkNzg4ZDZkZjk5YzRlZmJj`
+Snapshot ID: `MCwzZDNkNTUyZDk4ZWQ3NTNiNzRmMWNkZTg1MWVjZGY0NGEwNDEyM2Mw`

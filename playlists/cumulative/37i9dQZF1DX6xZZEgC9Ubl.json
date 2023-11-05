@@ -16781,6 +16781,24 @@
     },
     {
       "album": {
+        "name": "Worlds a Fuck",
+        "url": "https://open.spotify.com/album/1bwCPNJJwOvUxIL6C0etEm"
+      },
+      "artists": [
+        {
+          "name": "stack$",
+          "url": "https://open.spotify.com/artist/3LbI3jgW1i4L37xd9Sm0rJ"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180024,
+      "name": "Worlds a Fuck",
+      "url": "https://open.spotify.com/track/1bie3CEnQNnp0Qa5pph1py"
+    },
+    {
+      "album": {
         "name": "Emperor Road",
         "url": "https://open.spotify.com/album/4bg5HL2itZt0U9wb2oXPj5"
       },
@@ -16796,7 +16814,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 180001,
       "name": "Worlds A Fuck",
       "url": "https://open.spotify.com/track/6KOgmHp7R9ZXIemshIs1J5"

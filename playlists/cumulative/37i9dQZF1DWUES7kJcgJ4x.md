@@ -4,7 +4,7 @@
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-84 songs - 3 hr 30 min
+87 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,12 @@
 | [Bule, bule](https://open.spotify.com/track/1e5fCFpVSLlpDvUBv8U9zd) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Peerless 80 Aniversario \- 24 Éxitos](https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX) | 2:33 | 2021-01-18 | 2022-07-29 |
 | [Cerca de ti \- 2015 Remastered Version](https://open.spotify.com/track/3E03E8hqTwUBmkNcWqnC19) | [Las Chic](https://open.spotify.com/artist/17V3HR9eBXClxwY2oS0Foj) | [Bailando el chic \(Remasterizado 2015\)](https://open.spotify.com/album/3PoBHm7Eh5S0MAY42odJ3T) | 2:30 | 2021-01-18 |  |
 | [Chica Ye Ye](https://open.spotify.com/track/5hv3nMY3NKyDL7cSsrSYog) | [Concha Velasco](https://open.spotify.com/artist/65wHdzrkQGEUFBFLkte7WO) | [Cuentame](https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs) | 2:23 | 2021-01-18 |  |
-| [Comme un garçon](https://open.spotify.com/track/5ofzziyodcinKtsUghFLHK) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/1fFyiprMSDBSNeExoiIuTH) | 3:16 | 2021-01-18 |  |
+| [Comme un garçon](https://open.spotify.com/track/3ChTu8j7meZ1op8QtTMVfR) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/0K0bH9JWURyXFrSK4ZYmUM) | 3:16 | 2021-01-18 |  |
+| [Comme un garçon](https://open.spotify.com/track/5ofzziyodcinKtsUghFLHK) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/1fFyiprMSDBSNeExoiIuTH) | 3:16 | 2021-01-18 | 2023-11-05 |
 | [Comme un garçon](https://open.spotify.com/track/7lhFTUreHC51OsFHTGdy6c) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/65XVPzsge42MC6cOVXqo1q) | 3:16 | 2021-01-18 | 2022-07-29 |
-| [Datemi un martello](https://open.spotify.com/track/1AeiBuY3BSUiF3qm5g5NaN) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Come lei non c'e' nessuno](https://open.spotify.com/album/1qrNVv0IOFFmyff1kLJy4Q) | 2:49 | 2021-01-18 |  |
+| [Datemi un martello](https://open.spotify.com/track/1AeiBuY3BSUiF3qm5g5NaN) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Come lei non c'e' nessuno](https://open.spotify.com/album/1qrNVv0IOFFmyff1kLJy4Q) | 2:49 | 2021-01-18 | 2023-11-05 |
 | [Datemi un martello](https://open.spotify.com/track/3Zw6Chlu7EVxz55eQ6OX4G) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [raRità!](https://open.spotify.com/album/2hBiHrGYrmQIsxwvBOwwFf) | 2:49 | 2021-01-18 | 2023-04-04 |
+| [Datemi Un Martello](https://open.spotify.com/track/0t4P8xI6xjrDwGCWMdepk2) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [La Partita](https://open.spotify.com/album/473hYq2PWRq2Q4Trt4ZVPs) | 2:49 | 2021-01-18 |  |
 | [Datemi Un Martello](https://open.spotify.com/track/7c8pZpotK38DHT5M7zu2xR) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/5WTAc7on7wkTCB9RAUJLcC) | 2:49 | 2021-01-18 | 2022-07-29 |
 | [Dime Mi Amor](https://open.spotify.com/track/0OntImjbj7R9nZcWx4CkDv) | [Hilda Aguirre](https://open.spotify.com/artist/3OSm0uwQm0s67bllaGW80E) | [Jingle Jangle](https://open.spotify.com/album/4VO4juUpEGOsIxEmRrkwOC) | 2:02 | 2021-01-18 |  |
 | [Downtown](https://open.spotify.com/track/0mVTT4eqN3TbcieL6ShnDH) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Les Annees Petula](https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR) | 3:05 | 2021-01-18 | 2023-11-04 |
@@ -89,7 +91,8 @@
 | [Tómbola](https://open.spotify.com/track/35lfDNjMbqNU54SVwsesn6) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Canta con Marisol](https://open.spotify.com/album/0DqSFHn7l8lYqyAehQ2WGR) | 2:32 | 2021-01-18 |  |
 | [Tómbola](https://open.spotify.com/track/2NUTJK1BazWlFoHiRQzlTw) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Marisol\. La Pequeña Estrella](https://open.spotify.com/album/6w4u33Z6xVyAUJOnDNkmcT) | 2:32 | 2021-01-18 | 2022-07-29 |
 | [Tú No Eres Ye Yé \(Jägerlatein\)](https://open.spotify.com/track/1Za7ZDhPUshMp2MOTiFbKT) | [Blanca Aurora](https://open.spotify.com/artist/4PPSXsmdy7P9QBDuoBLJ7M) | [Tú No Eres Ye Yé](https://open.spotify.com/album/2DuHHwSXls32idFXEZkiI0) | 2:19 | 2021-01-18 |  |
-| [Ya Ya Twist \- Stereo Version](https://open.spotify.com/track/6DJP4Ulkd4gF7NXyB30EHz) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Les Annees Petula](https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR) | 2:12 | 2021-01-18 |  |
+| [Ya Ya Twist \- Remastered](https://open.spotify.com/track/1dxQEqo1bWQyh6r6txaUyS) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Petula Clark chante en français: Romeo \(Remastered\)](https://open.spotify.com/album/2nBLdbSMzq0L3j6xXLvDaO) | 2:12 | 2021-01-18 |  |
+| [Ya Ya Twist \- Stereo Version](https://open.spotify.com/track/6DJP4Ulkd4gF7NXyB30EHz) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Les Annees Petula](https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR) | 2:12 | 2021-01-18 | 2023-11-05 |
 | [Ya Ya Twist \- Ya Ya](https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 2:12 | 2021-01-18 | 2023-04-05 |
 | [Yo Lo Seguire \- \(I Will Follow Him\)](https://open.spotify.com/track/2bSGIbnr1Mwg8tQlbDMKP3) | [Emily Cranz](https://open.spotify.com/artist/6Sqy9l1z22tjcNC9lqVDbt) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:32 | 2021-01-18 |  |
 

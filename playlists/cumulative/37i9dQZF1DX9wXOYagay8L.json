@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems. Cover: <a href=\"https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg?si=Nqo9ZKGfR_2v9iKZZ_eypQ\">Phila Dlozi</a>",
+  "description": "Beautiful proudly South African gems. Cover: <a href=\"https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees?si=VX24Cnv8TjGEpyfOBW0wWA\">Mthandazo Gatya</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -4436,6 +4436,32 @@
       "duration_ms": 214041,
       "name": "Kuyabongwa",
       "url": "https://open.spotify.com/track/5126E37MXDlVwL3GNsFE81"
+    },
+    {
+      "album": {
+        "name": "KUYALUNGA",
+        "url": "https://open.spotify.com/album/6E6Vcd24pqKCTQbeEK3IHa"
+      },
+      "artists": [
+        {
+          "name": "Mthandazo Gatya",
+          "url": "https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees"
+        },
+        {
+          "name": "Thee Legacy",
+          "url": "https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX"
+        },
+        {
+          "name": "Mnqobi Yazo",
+          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238173,
+      "name": "KUYALUNGA",
+      "url": "https://open.spotify.com/track/5UwtI4FsIbqq9dP2Z8WNLi"
     },
     {
       "album": {
@@ -9072,7 +9098,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 289500,
       "name": "Thixo Wami",
       "url": "https://open.spotify.com/track/4txtAWhrRwxQeMXU87XG8O"

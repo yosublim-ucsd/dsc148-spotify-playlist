@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Songwriter",
+        "url": "https://open.spotify.com/album/2jHrXoaw4ngQGU6dKp2f48"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "One Day Longer",
+      "url": "https://open.spotify.com/track/0vH2LlAYsYeTPjEp9mgNoC"
+    },
+    {
+      "album": {
         "name": "One Day Longer",
         "url": "https://open.spotify.com/album/34ygCQzhnvp9bwGX6HZlXt"
       },
@@ -1260,7 +1278,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 247000,
       "name": "One Day Longer",
       "url": "https://open.spotify.com/track/7Fi5nCKmCDd29fdhdE60Qz"
@@ -1278,10 +1296,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 323480,
       "name": "One Hell Of A Life",
       "url": "https://open.spotify.com/track/0bQWgz0oobVeFcyG1oAhYd"
+    },
+    {
+      "album": {
+        "name": "Surrounded By Time (The Hourglass Edition)",
+        "url": "https://open.spotify.com/album/6zuQwkKkMEJYPYhsMgYJMP"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323480,
+      "name": "One Hell Of A Life",
+      "url": "https://open.spotify.com/track/226OTrOImSJWRSFtukFni8"
     },
     {
       "album": {
@@ -1314,10 +1350,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 225520,
       "name": "One More Cup Of Coffee",
       "url": "https://open.spotify.com/track/2I6UEY3f6CQ1rsbpn3Cg7H"
+    },
+    {
+      "album": {
+        "name": "Surrounded By Time",
+        "url": "https://open.spotify.com/album/04BIk4z6szD5cNpvmjOY5D"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225520,
+      "name": "One More Cup Of Coffee",
+      "url": "https://open.spotify.com/track/5dqUHvugSJOiPXqPkTCuMY"
     },
     {
       "album": {

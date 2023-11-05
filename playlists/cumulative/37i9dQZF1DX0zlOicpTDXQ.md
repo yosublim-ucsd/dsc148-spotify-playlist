@@ -4,7 +4,7 @@
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Lindsay Lohan in Falling for Christmas.
 
-74 songs - 3 hr 41 min
+75 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Mother Vodol is not Amused](https://open.spotify.com/track/69HsdkMdP5hnQiCvJjL3S0) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 4:13 | 2022-11-18 | 2022-11-23 |
 | [Nicholas Finds his Father](https://open.spotify.com/track/5vFcGNzpRIUu5DAbMdQmRj) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 3:45 | 2022-11-18 | 2022-11-23 |
 | [Noche de ¿paz? \(from the Netflix Film "Reviviendo la Navidad"\)](https://open.spotify.com/track/6Mi7pOAGx8wkCHeu7dmerb) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Noche de ¿paz? \(from the Netflix Film "Reviviendo la Navidad"\)](https://open.spotify.com/album/7KCzMJ14PhDEhjvzGDCTjz) | 2:06 | 2022-12-09 |  |
-| [O Christmas Tree](https://open.spotify.com/track/2CHoInODC6oz5nI76zea5D) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Happy Holidays](https://open.spotify.com/album/6uHTLp7MHyWuMR5zU63cQm) | 4:31 | 2022-11-18 |  |
+| [O Christmas Tree](https://open.spotify.com/track/2CHoInODC6oz5nI76zea5D) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Happy Holidays](https://open.spotify.com/album/6uHTLp7MHyWuMR5zU63cQm) | 4:31 | 2022-11-18 | 2023-11-05 |
+| [O Christmas Tree](https://open.spotify.com/track/2F27MVZ8bYuP0GXuXu2fFA) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Happy Holidays](https://open.spotify.com/album/1CHbNUmk6dE4I7bdKkEQGg) | 4:31 | 2022-11-18 |  |
 | [O Christmas Tree](https://open.spotify.com/track/2VsCE6ui7N4IRzGIGT7Di8) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [A Swingin' Christmas Featuring The Count Basie Big Band](https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j) | 3:27 | 2022-11-18 |  |
 | [O Holy Night \(From the Netflix Original "A California Christmas"\)](https://open.spotify.com/track/3pnmwhfvDzJtCVVpGug5Wo) | [Everly](https://open.spotify.com/artist/5QMHsP8RVHiuoiqhgOI6ud) | [O Holy Night \(From the Netflix Original "A California Christmas"\)](https://open.spotify.com/album/40XUWEzP3lS4i9jQzpAOOk) | 4:13 | 2022-11-18 |  |
 | [Presents Giving](https://open.spotify.com/track/0tBuMYiwCLfn7STyA1Smm6) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 2:40 | 2022-11-18 | 2022-11-23 |

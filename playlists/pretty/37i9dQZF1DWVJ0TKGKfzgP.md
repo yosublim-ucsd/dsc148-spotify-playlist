@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 
 > The best and finest 80s Funk\. Cover: Bootsy Collins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,290 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,415 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 39 | [Feel My Love](https://open.spotify.com/track/7w7D6vVWMiOSU36R6ynlki) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Stone Jam](https://open.spotify.com/album/7COD6hL6iPGejF8vX9DeuC) | 4:30 |
 | 40 | [Another Part of Me \- 2012 Remaster](https://open.spotify.com/track/21VCYxPZ8A2XpSNUyQCT3B) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 3:54 |
 | 41 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 |
-| 42 | [Let's Celebrate](https://open.spotify.com/track/3nf3xKlene4BpKqaCrdtwQ) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 5:33 |
+| 42 | [Let's Celebrate](https://open.spotify.com/track/3S9X1wYuzcISeZbdowhMnn) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/5YNJQp00hB4tUznV7zrAV2) | 5:33 |
 | 43 | [Rock Your World](https://open.spotify.com/track/6OaO3qEwCcLiUgIeg1cCyQ) | [Weeks & Co.](https://open.spotify.com/artist/5RVgCRheVivlGnWebsyzaR) | [Star Funk, Vol\. 1](https://open.spotify.com/album/69MSI2BPQ0bUCOwI8xgC69) | 8:03 |
 | 44 | [Here's to You](https://open.spotify.com/track/6kgxZIqVntV1hmM0IFFnhU) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Late Night Tales: Jamiroquai](https://open.spotify.com/album/4H1YAR9PLOFSz9ks2t17t3) | 5:09 |
 | 45 | [Never Give You Up](https://open.spotify.com/track/2SJW2HmmOJBVAE3slly9UM) | [Sharon Redd](https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY) | [Redd Hott](https://open.spotify.com/album/5QQcCN3epphmtJMAbx2IHw) | 7:33 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 97 | [She Can't Love You](https://open.spotify.com/track/3CX1FiiXSbvKjsXRYwApAP) | [Chemise](https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS) | [She Can't Love You](https://open.spotify.com/album/7dL0O0sGYCCXxI7FUo1sC5) | 5:25 |
 | 98 | [Heaven of My Life \- Full Length Album Mix](https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Miracles](https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r) | 5:38 |
 | 99 | [Walkin' The Line](https://open.spotify.com/track/32ZRHR67bss5cpB7Dw2kYb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Best Of ..Movin' & Changin'](https://open.spotify.com/album/70mFuD9TrIvjUoZN45R4M0) | 5:45 |
-| 100 | [Baby Love](https://open.spotify.com/track/6TyPeZdVWsgnCqHS6azkv5) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/59mwpuFNItrOg2gAbmdKEJ) | 5:53 |
+| 100 | [Baby Love](https://open.spotify.com/track/1S0U07ifPGgmXGvVmGzUWP) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/1caPDYrr1i3X12eYWh4UDl) | 5:53 |
 
-Snapshot ID: `MCxiOGNiOTc4ODYzZDhlMjAzYWYyMGVkZTMzMWMwMjQ3MDUyNmUwMTQ2`
+Snapshot ID: `MCxmMjU1OTgyMTNhZDEyMzk0ZThhNzA1Y2Q4N2ZjMDcxNjY2ZTRhMGVj`

@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 10796,
+  "num_followers": 10798,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2JiMGM1MzQ1ZmJkNmQzYzhlODhjZmFlOGVjYjA3OGZkMGYyOTVl",
+  "snapshot_id": "MCxlZDk5Y2UzMjAwMmJmYjUwMTNiOTRjZmRjNjg4ZDE5YWExY2QwMTk4",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
       "artists": [
         {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 209120,
-      "name": "Make It Move",
-      "url": "https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3"
+      "duration_ms": 243449,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/5RV340G9fvADcb7DGOK4ca"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
       },
       "artists": [
         {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
         }
       ],
-      "duration_ms": 243449,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/5RV340G9fvADcb7DGOK4ca"
+      "duration_ms": 209120,
+      "name": "Make It Move",
+      "url": "https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -397,6 +397,22 @@
       "url": "https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Booty And The Beast",
+        "url": "https://open.spotify.com/album/1uGPozOUYC2TvpVE3IlWQi"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "Sweet Goddess of Love and Beer",
+      "url": "https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR"
+    },
+    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Promised Land",
@@ -415,22 +431,6 @@
       "duration_ms": 181939,
       "name": "Going to the Party",
       "url": "https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Booty And The Beast",
-        "url": "https://open.spotify.com/album/1uGPozOUYC2TvpVE3IlWQi"
-      },
-      "artists": [
-        {
-          "name": "Popa Chubby",
-          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "Sweet Goddess of Love and Beer",
-      "url": "https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR"
     },
     {
       "added_at": "2020-12-01 05:01:00",

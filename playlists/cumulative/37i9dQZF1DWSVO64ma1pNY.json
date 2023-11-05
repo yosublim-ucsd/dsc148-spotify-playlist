@@ -420,7 +420,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 150924,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4llPBbY2ytrSn5z4wX1UKO"
@@ -532,6 +532,24 @@
       "duration_ms": 218560,
       "name": "Face to the Floor",
       "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
+    },
+    {
+      "album": {
+        "name": "The Lonely Position Of Neutral",
+        "url": "https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh"
+      },
+      "artists": [
+        {
+          "name": "TRUSTcompany",
+          "url": "https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP"
     },
     {
       "album": {
@@ -694,7 +712,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 234848,
       "name": "High Time",
       "url": "https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr"
@@ -1764,6 +1782,24 @@
       "duration_ms": 178000,
       "name": "When I Come Around",
       "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
+    },
+    {
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190133,
+      "name": "Who Needs Friends",
+      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
     },
     {
       "album": {

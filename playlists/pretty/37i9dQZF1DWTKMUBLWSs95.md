@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKMUBLWSs95.md) - [plain]
 
 > Discover new releases and rising artists from the classical world\. Cover: Erland Cooper
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,891 likes - 118 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,919 likes - 118 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKMUBLWSs95.md) - [plain]
 | 77 | [Mamma](https://open.spotify.com/track/75HnNeRjD1HzKnpMRuoaKV) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mamma](https://open.spotify.com/album/6o4CktR4yXJnpFqs9BDgpo) | 3:11 |
 | 78 | [Arise Lord into Thy Rest](https://open.spotify.com/track/5o4sgZrP65RcbsvG5K73zB) | [Dobrinka Tabakova](https://open.spotify.com/artist/1zLIRG57NYJF3ckNxrQLzp), [The Sixteen](https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS), [Julie Cooper](https://open.spotify.com/artist/5P6V0Avl5XEyxUwVAAzIPM), [Harry Christophers](https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu) | [A Watchful Gaze](https://open.spotify.com/album/4qKhAhh7J5diRFJ07nDjqy) | 5:47 |
 | 79 | [VENUS in Sunlight Grey](https://open.spotify.com/track/1vAUDGCObZGyxUxgh3rtl6) | [Julie Cooper](https://open.spotify.com/artist/3Orwjks4n4xieFN72XQDQa), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5), [Simon Hale](https://open.spotify.com/artist/6EkCcTprX3kMkjH5mbhCyh) | [Julie Cooper: VENUS in Sunlight Grey](https://open.spotify.com/album/56FKDpbyULonv8MK1dHeJD) | 4:07 |
-| 80 | [Zima](https://open.spotify.com/track/642zqDakl1ffk9M3vjYzWe) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Dreamscapes](https://open.spotify.com/album/5s3d1Fzwn0DTupeNktBJOF) | 4:18 |
+| 80 | [Zima](https://open.spotify.com/track/4DvxB3BugiAOrZYwlBsFFL) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Dreamscapes](https://open.spotify.com/album/3Gaacr4eyjCkjHGjyab36Y) | 4:18 |
 | 81 | [Symphony No\. 9 in D Minor, WAB 109 \(Nowak Edition\): II\. Scherzo\. Bewegt, lebhaft \- Trio\. Schnell](https://open.spotify.com/track/5RosK5bHAjgWlCH6Wbmi02) | [Anton Bruckner](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2), [Christian Thielemann](https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) | [Bruckner: Symphony No\. 9 in D Minor, WAB 109 \(Edition Nowak\)](https://open.spotify.com/album/2IVcpFjvVFN6hTUe0ypxdf) | 10:20 |
 | 82 | [Romance, Op\. 53: No\. 5](https://open.spotify.com/track/01Wtra76hWGRxIhF7JityY) | [Anton Arensky](https://open.spotify.com/artist/2DLKrW0pn180nOIjUWlTjm), [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Forgotten Melodies](https://open.spotify.com/album/33NwHpXn2hewQ3GwvruAUO) | 2:37 |
 | 83 | [Piano Concerto: II\. Languid Blues](https://open.spotify.com/track/3ctQF0EFNWBDiSSPxk4sxj) | [Errollyn Wallen](https://open.spotify.com/artist/6Vl4eGV594sQXxRQDMOSCw), [Rebeca Omordia](https://open.spotify.com/artist/6s4sUxjZ8mtRxIKvuaGtNL), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg), [John Andrews](https://open.spotify.com/artist/0f5UbEeb7kpkmGMEYNSEzJ) | [Piano Concerto: II\. Languid Blues](https://open.spotify.com/album/4Gr8BMQitpZmIkmHLTcYWY) | 11:26 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKMUBLWSs95.md) - [plain]
 | 117 | [All\-Night Vigil, Op\. 37: XV\. To Thee, Victorious Leader \(Greek chant\)](https://open.spotify.com/track/3UtECjqLsvARh20hWqH6XW) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [The Choir of King's College London](https://open.spotify.com/artist/1B95N9f9HtEL9D21OCaTkt), [Joseph Fort](https://open.spotify.com/artist/6AUNzEquhixahimXOf3ZEd) | [Rachmaninoff: Vespers \- All\-Night Vigil](https://open.spotify.com/album/2lzqCFnlVLlHuS5vOFypte) | 1:33 |
 | 118 | [Romantische Suite: III\. Intermezzo \(In sanfter Bewegung\)](https://open.spotify.com/track/02t7SzN1wAei88W0vmPM7c) | [Franz Schreker](https://open.spotify.com/artist/7ehgiWrLMRMQkrr5tQQB2P), [Konzerthausorchester Berlin](https://open.spotify.com/artist/5HxMHFsUWX0VqOlmsoGrTj), [Christoph Eschenbach](https://open.spotify.com/artist/0xfOM47aJ8EcFX7T6Ugr9W) | [Schreker: Romantische Suite: III\. Intermezzo \(In sanfter Bewegung\)](https://open.spotify.com/album/4wQcKGVE0WfuIVxDjIWEyJ) | 6:59 |
 
-Snapshot ID: `MCwzOTM3NTAyODdlNGMzYjAzNTk0OTZkYTMxYWMwNmEwZWEyOWE0ZmNk`
+Snapshot ID: `MCxlNjI0ZWI4MTMzMjlmZjY5MTBjOGNjNDc5MTJkMDE3YzE2NGY5OTY5`

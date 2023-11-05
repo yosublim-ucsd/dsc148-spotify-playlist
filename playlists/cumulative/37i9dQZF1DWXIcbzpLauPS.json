@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "DOGMA",
+        "url": "https://open.spotify.com/album/6TPRyXWXQuVfgmOO14xRno"
+      },
+      "artists": [
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232620,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/0phSq8JjgvNlRmFaGDbmlh"
+    },
+    {
+      "album": {
         "name": "Black Sheep",
         "url": "https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX"
       },
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 232620,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ"
@@ -12026,6 +12044,28 @@
     {
       "album": {
         "name": "Thank You, Again (feat. Phil Bozeman)",
+        "url": "https://open.spotify.com/album/686K2XWjthBsIxbSCcXjzm"
+      },
+      "artists": [
+        {
+          "name": "Spite",
+          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+        },
+        {
+          "name": "Phil Bozeman",
+          "url": "https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184830,
+      "name": "Thank You, Again (feat. Phil Bozeman)",
+      "url": "https://open.spotify.com/track/1gdNdUdDmVpwVV2c6LgOIW"
+    },
+    {
+      "album": {
+        "name": "Thank You, Again (feat. Phil Bozeman)",
         "url": "https://open.spotify.com/album/3JduUHfZtTYuYvn7WhfEG1"
       },
       "artists": [
@@ -12040,7 +12080,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 184830,
       "name": "Thank You, Again (feat. Phil Bozeman)",
       "url": "https://open.spotify.com/track/5dFc7LBIXNXdfOE6xBYN3i"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 
 > Reggae music for dogs that know what’s up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,704 likes - 52 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,700 likes - 52 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 | 17 | [World a Reggae \(Out in the Street They Call It Murder\)](https://open.spotify.com/track/3ApxpM5ghkdjWKhbrQaPLk) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Debut](https://open.spotify.com/album/2ja52hUBGscIKCIiJ4vWjz) | 3:57 |
 | 18 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/6TninIEIlo0F2c2Vy73hcx) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Human Race](https://open.spotify.com/album/35qoT4g2wmXFzvKRrvhJ1Y) | 4:09 |
 | 19 | [Me Love To Sing](https://open.spotify.com/track/0zbiazWau8UpMuQeawrjU3) | [The Hempolics](https://open.spotify.com/artist/6gTdfUDImVBjuPjAHZGHUS) | [Kiss, Cuddle & Torture Volume 1](https://open.spotify.com/album/2MbMJQctE97e6zF9h8X8cS) | 3:24 |
-| 20 | [Everything I Own \- 7" Mix](https://open.spotify.com/track/6om52tevyqVMvl1mWTtKPM) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own](https://open.spotify.com/album/510G90X1Ckki9sTPdwwYDW) | 3:44 |
+| 20 | [Everything I Own \(7'' Mix\)](https://open.spotify.com/track/4PfDS6wcDp7YvikkmbySak) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own](https://open.spotify.com/album/1yQvIiS4aFxcPhzyN7Gw2W) | 3:44 |
 | 21 | [No Money](https://open.spotify.com/track/7iKjwcwtWKvPItHxmPYQi6) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Romain Virgo](https://open.spotify.com/album/67tTLoSUvrnjq9wanpwt50) | 3:30 |
 | 22 | [Carnival Horns \(feat\. Julito Padron\)](https://open.spotify.com/track/6aQRHBPZdATF3ZDjAU1YV5) | [Mista Savona](https://open.spotify.com/artist/4Y6SrIz24cWZIWuG28CVgz), [Julito Padron](https://open.spotify.com/artist/7L4eF2PXCx5vYalJ0wj574) | [Havana Meets Kingston](https://open.spotify.com/album/0icwh2eJpzUu9HiTHF4MzL) | 4:16 |
 | 23 | [Living It Up](https://open.spotify.com/track/0Xd3LUIjRESt5rSAGzvAvA) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:00 |
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 | 49 | [Johnny B\. Goode \- 2002 Remaster](https://open.spotify.com/track/5uPYEStMW3KsXnnLV7iCTw) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN), [John Benitez](https://open.spotify.com/artist/04tkc4IcAn3q0zy1C6oWBI) | [Mama Africa](https://open.spotify.com/album/6iFMsJMHQ9zqty9vnRmycq) | 4:04 |
 | 50 | [Burn One](https://open.spotify.com/track/1u8fjvKyDliY5IXuJxDccK) | [Fortunate Youth](https://open.spotify.com/artist/53eTH57OzNJCKOohjcWMoB) | [Up\-Lifted EP](https://open.spotify.com/album/1zAMWUGeXjZGcJOzrUX3ok) | 3:19 |
 | 51 | [Red Sea Dub](https://open.spotify.com/track/1UowzBmHmTgvWW1kViLDLJ) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [Displaced Masters](https://open.spotify.com/album/0WTyiC4nrGXraWRJIj4HLq) | 4:41 |
-| 52 | [It Mek](https://open.spotify.com/track/2o9wtsml8XrdS67t1Y0RuR) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Double Dekker \(Expanded Version\)](https://open.spotify.com/album/7tt21btxenzyLsiI17qivz) | 2:34 |
+| 52 | [It Mek](https://open.spotify.com/track/2KLQHmIj0ncGRdnLbbqi9B) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:32 |
 
-Snapshot ID: `MCwxMWNkYzI1MzQ5ZjM0NGJkZWVmMGNlMDFjMzI1ODg2Nzc1Mjg3MDM2`
+Snapshot ID: `MCw2ZWQxYWJmYWI2MjRiZWJkNDdiNWIyYTcwODQzZjZhNzRhYmRkZjI1`

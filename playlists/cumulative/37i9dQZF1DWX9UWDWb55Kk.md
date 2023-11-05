@@ -4,7 +4,7 @@
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-433 songs - 1 day 3 hr 21 min
+434 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Bottle Episode](https://open.spotify.com/track/5N1RLbHEM7Q0Qo1achKzrY) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Bottle Episode](https://open.spotify.com/album/2nYI8TZegutcUWAvOYGoSP) | 4:39 | 2023-10-21 |  |
 | [Bounty](https://open.spotify.com/track/486TM1WRQHYRWCj5heYnVU) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [Cameo](https://open.spotify.com/album/3p4cI1NS8IGXwbg7DFowD7) | 3:15 | 2022-04-08 |  |
 | [Breathe For Me](https://open.spotify.com/track/0B9MMdHFOFFhqFVbVS8Irg) | [Attic Lights](https://open.spotify.com/artist/53I53JqO0ELxsVxEu9v1p4) | [Say You Love Me](https://open.spotify.com/album/0R1GkMTHWdc33OHicmxGSo) | 4:23 | 2021-09-01 |  |
-| [Burn \- Matador Remix](https://open.spotify.com/track/5AZXtxCeMSLM13vz07Osyf) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Matador](https://open.spotify.com/artist/0mkOml01ubShhJsFDyKdlm) | [Burn](https://open.spotify.com/album/7dyemaX0uVPZupR5VBans6) | 6:56 | 2021-09-01 |  |
+| [Burn \- Matador Remix](https://open.spotify.com/track/5AZXtxCeMSLM13vz07Osyf) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Matador](https://open.spotify.com/artist/0mkOml01ubShhJsFDyKdlm) | [Burn](https://open.spotify.com/album/7dyemaX0uVPZupR5VBans6) | 6:56 | 2021-09-01 | 2023-11-05 |
+| [Burn \- Matador Remix](https://open.spotify.com/track/5vW0mdltDh1aSFur31mhKn) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Matador](https://open.spotify.com/artist/0mkOml01ubShhJsFDyKdlm) | [Burn](https://open.spotify.com/album/7E0uy7v9z1md2EBoJCZsea) | 6:56 | 2021-09-01 |  |
 | [Butoh baby](https://open.spotify.com/track/3L7HGdt8alejIzzVKWsk3j) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [skins n slime](https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ) | 3:16 | 2022-11-24 |  |
 | [BWYRN](https://open.spotify.com/track/2EWeNRaZOWy87uTYx7QwNP) | [Fantasyluv](https://open.spotify.com/artist/0ADXdLkKzHptTccz47JK2r) | [BWYRN](https://open.spotify.com/album/1O4fluj4jeY2Ft8t6YAhuR) | 2:54 | 2023-10-21 |  |
 | [By This River \- 2004 Digital Remaster](https://open.spotify.com/track/13b87C9TNBFKJAi9YB4Rr8) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:03 | 2022-04-08 |  |

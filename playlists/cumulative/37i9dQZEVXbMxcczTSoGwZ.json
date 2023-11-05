@@ -955,6 +955,28 @@
     },
     {
       "album": {
+        "name": "AINA",
+        "url": "https://open.spotify.com/album/6SMovWc6E3Q8LdKk0fVKZh"
+      },
+      "artists": [
+        {
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+        },
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165341,
+      "name": "AINA",
+      "url": "https://open.spotify.com/track/7EjyrRhPCsUHfq1odGNajx"
+    },
+    {
+      "album": {
         "name": "Yks pullo / Aino",
         "url": "https://open.spotify.com/album/0yP3Ba2bzMxPObLUixaG6d"
       },
@@ -984,7 +1006,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 178619,
       "name": "Aino",
       "url": "https://open.spotify.com/track/4ahgBdpusrRaPyoH1Skh1h"
@@ -2641,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "R\u00c4PP\u00c4RI",
+        "url": "https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195204,
+      "name": "BISNESMIES",
+      "url": "https://open.spotify.com/track/30lI16LmESm66IZJ7MPIGl"
+    },
+    {
+      "album": {
         "name": "Bisnest\u00e4",
         "url": "https://open.spotify.com/album/4hE1piqP5uxQ53cAkLwL2E"
       },
@@ -2747,6 +2787,24 @@
     },
     {
       "album": {
+        "name": "R\u00c4PP\u00c4RI",
+        "url": "https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180042,
+      "name": "BLONDINA",
+      "url": "https://open.spotify.com/track/3Fq0id1BFWX3GoCeWdNh53"
+    },
+    {
+      "album": {
         "name": "BLONDINA",
         "url": "https://open.spotify.com/album/24IjEbb9JyuBNHDYdjJ8KM"
       },
@@ -2758,7 +2816,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 180042,
       "name": "BLONDINA",
       "url": "https://open.spotify.com/track/5V6MFVxOCtnBgw4JV4Yk59"
@@ -3586,7 +3644,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -4475,6 +4533,24 @@
     },
     {
       "album": {
+        "name": "Demoneista yst\u00e4vii",
+        "url": "https://open.spotify.com/album/2KfNKCtRsib5lzN9QbJsiS"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181007,
+      "name": "Demoneista yst\u00e4vii",
+      "url": "https://open.spotify.com/track/3rK7sL207zzuVPq5iX0qpM"
+    },
+    {
+      "album": {
         "name": "Den glider in",
         "url": "https://open.spotify.com/album/79u3dbg8nC7nzaLZIm5wXK"
       },
@@ -4644,6 +4720,24 @@
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
+    },
+    {
+      "album": {
+        "name": "R\u00c4PP\u00c4RI",
+        "url": "https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185942,
+      "name": "DIIPIMP\u00c4\u00c4",
+      "url": "https://open.spotify.com/track/6W6EenNBTNpQwmANwy3SFl"
     },
     {
       "album": {
@@ -5735,6 +5829,24 @@
     },
     {
       "album": {
+        "name": "Elizabeth Taylor",
+        "url": "https://open.spotify.com/album/7j3cZwlPz1hDljdfVqIz0F"
+      },
+      "artists": [
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186518,
+      "name": "Elizabeth Taylor",
+      "url": "https://open.spotify.com/track/1YAgvSwhwVyM7Fsck2CVUd"
+    },
+    {
+      "album": {
         "name": "Elokuu",
         "url": "https://open.spotify.com/album/5D0E5wOuwCFbixDP4ylQwd"
       },
@@ -6679,6 +6791,24 @@
     },
     {
       "album": {
+        "name": "R\u00c4PP\u00c4RI",
+        "url": "https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209677,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/1t4IbqfmQQoLHAocILr2Aj"
+    },
+    {
+      "album": {
         "name": "FAMOUS",
         "url": "https://open.spotify.com/album/1xujzA41aZ1udgc8FY7NIl"
       },
@@ -7220,7 +7350,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 147717,
       "name": "Fotogeeninen - Bonus Track",
       "url": "https://open.spotify.com/track/2WwAsPZ5eBwihvFv2uXGl4"
@@ -8394,7 +8524,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 206858,
       "name": "Haavcation",
       "url": "https://open.spotify.com/track/1YIPoktkEBmQhwdeEWZTEJ"
@@ -8412,7 +8542,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 188913,
       "name": "Haikailla",
       "url": "https://open.spotify.com/track/0WaM1Gm2pepIsQOGtUfEKG"
@@ -9542,7 +9672,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 188449,
       "name": "Huhhahhei",
       "url": "https://open.spotify.com/track/6FlgcrEoaGurTfbcSeqHVm"
@@ -9560,7 +9690,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 203709,
       "name": "Hukas",
       "url": "https://open.spotify.com/track/40SGFYkwJVWDfLD8tay2OI"
@@ -12004,7 +12134,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 158716,
       "name": "Just sillee",
       "url": "https://open.spotify.com/track/1qmWhud8dSCh1WxZnwaR2P"
@@ -12524,6 +12654,28 @@
       "duration_ms": 187113,
       "name": "Kaks",
       "url": "https://open.spotify.com/track/2dMNnJmCuOuokPJ9cUB2qC"
+    },
+    {
+      "album": {
+        "name": "Kaks nimee",
+        "url": "https://open.spotify.com/album/7ujUbQSvkWH3BFvvVwPXMY"
+      },
+      "artists": [
+        {
+          "name": "Lytt\u00e4",
+          "url": "https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn"
+        },
+        {
+          "name": "Tohtori Getto",
+          "url": "https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188130,
+      "name": "Kaks nimee",
+      "url": "https://open.spotify.com/track/50pA8yCdGu3vCn2ThG4ctV"
     },
     {
       "album": {
@@ -13851,6 +14003,24 @@
     },
     {
       "album": {
+        "name": "R\u00c4PP\u00c4RI",
+        "url": "https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191033,
+      "name": "KOITIT SOITTAA",
+      "url": "https://open.spotify.com/track/2v18va3oIWdfjXQMwoLFf8"
+    },
+    {
+      "album": {
         "name": "Koko Y\u00f6 (feat. JVG)",
         "url": "https://open.spotify.com/album/4N22YVi3uGbG787G61ukPH"
       },
@@ -14773,6 +14943,24 @@
     },
     {
       "album": {
+        "name": "R\u00c4PP\u00c4RI",
+        "url": "https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200858,
+      "name": "K\u00c4VELL\u00c4\u00c4N",
+      "url": "https://open.spotify.com/track/5nRvHcS144nOqGp672JfWw"
+    },
+    {
+      "album": {
         "name": "K\u00e4vi Miten K\u00e4vi",
         "url": "https://open.spotify.com/album/7Fz2E3SM0ikOMkzKCbeZO0"
       },
@@ -14976,7 +15164,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 130059,
       "name": "Lambo (feat. VJ)",
       "url": "https://open.spotify.com/track/0IJEnvu1p4OIzkY8UiQXCt"
@@ -16672,7 +16860,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 150487,
       "name": "Maailman ymp\u00e4ri",
       "url": "https://open.spotify.com/track/0Md23O27tBkiiuzsCTetpl"
@@ -17198,7 +17386,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 210481,
       "name": "Matkalla (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
       "url": "https://open.spotify.com/track/7y02QzrZEpEgvSngRB6Xhy"
@@ -18924,7 +19112,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 184515,
       "name": "Mua ei voi pelastaa",
       "url": "https://open.spotify.com/track/08mPohxtKuoyl97OQEq38I"
@@ -19604,6 +19792,24 @@
       "duration_ms": 167548,
       "name": "M\u00e4 en oo syntyny eilen",
       "url": "https://open.spotify.com/track/0OqJ43zScNu0mpxgbTFIxZ"
+    },
+    {
+      "album": {
+        "name": "R\u00c4PP\u00c4RI",
+        "url": "https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202773,
+      "name": "M\u00c4 EN VOI H\u00c4VII",
+      "url": "https://open.spotify.com/track/5fB4hLoPMGRtGbVAzDHQWi"
     },
     {
       "album": {
@@ -20367,6 +20573,24 @@
     },
     {
       "album": {
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248333,
+      "name": "Now And Then",
+      "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
+    },
+    {
+      "album": {
         "name": "Kaikella on tarkoitus",
         "url": "https://open.spotify.com/album/5c7vEnMo7HyLqefWPturgj"
       },
@@ -20668,6 +20892,24 @@
       "duration_ms": 184488,
       "name": "Oisko t\u00e4\u00e4 t\u00e4s",
       "url": "https://open.spotify.com/track/0uHbsPVRr12ERCABBWVbe0"
+    },
+    {
+      "album": {
+        "name": "Oispa Gasellit",
+        "url": "https://open.spotify.com/album/6hUNkCPx56b46p8Pta73Ia"
+      },
+      "artists": [
+        {
+          "name": "Teflon Brothers",
+          "url": "https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231137,
+      "name": "Oispa Gasellit",
+      "url": "https://open.spotify.com/track/6KWqTgvnmd5LHVJ0Zq1aWE"
     },
     {
       "album": {
@@ -21845,6 +22087,24 @@
     },
     {
       "album": {
+        "name": "R\u00c4PP\u00c4RI",
+        "url": "https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174825,
+      "name": "PATO",
+      "url": "https://open.spotify.com/track/1JLS2KpG4G5UXTV2WZznEf"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -22973,6 +23233,24 @@
     },
     {
       "album": {
+        "name": "Purjehtija",
+        "url": "https://open.spotify.com/album/4ChX26IMBE1mm5EIE4N9uA"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158321,
+      "name": "Purjehtija",
+      "url": "https://open.spotify.com/track/3NnWBahFgXNI7ICnETZEkP"
+    },
+    {
+      "album": {
         "name": "Purjeissa",
         "url": "https://open.spotify.com/album/0CM7n3rq1yJWeBH64EvKQo"
       },
@@ -23240,7 +23518,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 185007,
       "name": "Rajal (feat. ibe, Ares & Elastinen)",
       "url": "https://open.spotify.com/track/5grPmKSW7p7wxMzaje5SRP"
@@ -23810,6 +24088,24 @@
       "duration_ms": 182846,
       "name": "Riidell\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/4mcItNJ1SJgMimAEU78ir4"
+    },
+    {
+      "album": {
+        "name": "Riivattu",
+        "url": "https://open.spotify.com/album/7cnrjPQOj3DnDT6huBH3LH"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178649,
+      "name": "Riivattu",
+      "url": "https://open.spotify.com/track/2gcjIipD5EYkM7iizinyav"
     },
     {
       "album": {
@@ -25205,6 +25501,32 @@
     },
     {
       "album": {
+        "name": "Shanghain valot (feat. Spekti & Annika Eklund)",
+        "url": "https://open.spotify.com/album/1XOcR3UAmtEAOZT2nXHeSl"
+      },
+      "artists": [
+        {
+          "name": "DJ Oku Luukkainen",
+          "url": "https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao"
+        },
+        {
+          "name": "Spekti",
+          "url": "https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B"
+        },
+        {
+          "name": "Annika Eklund",
+          "url": "https://open.spotify.com/artist/4Mkkqyn486EFswOyka40ip"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175542,
+      "name": "Shanghain valot (feat. Spekti & Annika Eklund)",
+      "url": "https://open.spotify.com/track/5gdn1R6uPSpqlVS155bwLP"
+    },
+    {
+      "album": {
         "name": "she's all i wanna be",
         "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
       },
@@ -25434,7 +25756,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
@@ -25736,6 +26058,24 @@
       "duration_ms": 190740,
       "name": "Skene",
       "url": "https://open.spotify.com/track/0IghJnHZCrilFytSASVTri"
+    },
+    {
+      "album": {
+        "name": "R\u00c4PP\u00c4RI",
+        "url": "https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "SKYLINE",
+      "url": "https://open.spotify.com/track/6jkldxNLOsS2kVqMh8Uib4"
     },
     {
       "album": {
@@ -27206,7 +27546,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 179910,
       "name": "Syd\u00e4mii",
       "url": "https://open.spotify.com/track/2sa9m8OLLjWGBS96w8kR2d"
@@ -27426,7 +27766,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 171872,
       "name": "S\u00e4 et ole hullu - Vain el\u00e4m\u00e4\u00e4 kausi 14",
       "url": "https://open.spotify.com/track/1gn4yOS6xUYMtMf4F6ApAv"
@@ -27878,6 +28218,24 @@
       "duration_ms": 224246,
       "name": "Tarkotin sua",
       "url": "https://open.spotify.com/track/1oT5kXOMtvvVgoJzv5WoOV"
+    },
+    {
+      "album": {
+        "name": "R\u00c4PP\u00c4RI",
+        "url": "https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "TARVIIN JOTAIN",
+      "url": "https://open.spotify.com/track/4iEosyAX17uym9MYpCMSfQ"
     },
     {
       "album": {
@@ -28984,7 +29342,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 145035,
       "name": "Tunnettu Plugi",
       "url": "https://open.spotify.com/track/3K265QDIKTbM1MitKJdgOZ"
@@ -29086,7 +29444,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 242344,
       "name": "Tuonelan koivut (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
       "url": "https://open.spotify.com/track/1kVdiCJmRG8NCLMi5Wk1Ga"
@@ -30515,6 +30873,24 @@
     },
     {
       "album": {
+        "name": "R\u00c4PP\u00c4RI",
+        "url": "https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84857,
+      "name": "VENAA (mul on ongelma)",
+      "url": "https://open.spotify.com/track/184SCXHn6goKw51RgExVcQ"
+    },
+    {
+      "album": {
         "name": "W",
         "url": "https://open.spotify.com/album/3dt9Fr71O9wDXqCmkJcyj7"
       },
@@ -31388,10 +31764,28 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 156000,
       "name": "VYYHTI (ettiny aitoo rakkaut)",
       "url": "https://open.spotify.com/track/40uSGkDj9YubrDIihc28Ar"
+    },
+    {
+      "album": {
+        "name": "R\u00c4PP\u00c4RI",
+        "url": "https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "VYYHTI (ettiny aitoo rakkaut)",
+      "url": "https://open.spotify.com/track/5e63Mhaf4aY58OD8aY3zhJ"
     },
     {
       "album": {
@@ -31802,7 +32196,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 171886,
       "name": "WILLAIN (feat. ibe)",
       "url": "https://open.spotify.com/track/0Ch46DVttxlt7dNSkYcpZG"

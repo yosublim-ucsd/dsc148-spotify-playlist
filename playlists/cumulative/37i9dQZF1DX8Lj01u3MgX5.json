@@ -528,10 +528,28 @@
       ],
       "date_added": "2020-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 500200,
       "name": "Doctor Love",
       "url": "https://open.spotify.com/track/6G8s19BainATJIjqIwXcre"
+    },
+    {
+      "album": {
+        "name": "12\" Master Series, Vol. 1",
+        "url": "https://open.spotify.com/album/2DEsdqKWomWTYlvBK68VZ2"
+      },
+      "artists": [
+        {
+          "name": "First Choice",
+          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
+        }
+      ],
+      "date_added": "2020-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500169,
+      "name": "Doctor Love (Unedited Version)",
+      "url": "https://open.spotify.com/track/3PX3zodPk4HvLjShbLOlTk"
     },
     {
       "album": {
@@ -564,10 +582,28 @@
       ],
       "date_added": "2020-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 449960,
       "name": "Don't Waste Your Time",
       "url": "https://open.spotify.com/track/6HCAvDSaFft5KL0ozPFgLs"
+    },
+    {
+      "album": {
+        "name": "Be a Winner",
+        "url": "https://open.spotify.com/album/5ePEnyNhAhYDQxe9DOGKjP"
+      },
+      "artists": [
+        {
+          "name": "Yarbrough & Peoples",
+          "url": "https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV"
+        }
+      ],
+      "date_added": "2020-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449960,
+      "name": "Don't Waste Your Time",
+      "url": "https://open.spotify.com/track/7gHnHQwqH96HKVOtmGYmFL"
     },
     {
       "album": {

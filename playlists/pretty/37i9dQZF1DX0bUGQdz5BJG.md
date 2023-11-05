@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Muscadine Bloodline
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,860 likes - 203 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,979 likes - 203 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 9 | [Life With You](https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5) | [Kelsey Hart](https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb) | [Life With You](https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z) | 2:36 |
 | 10 | [Coffee With You](https://open.spotify.com/track/4d7liYeUlqk4wyWasJunZp) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Coffee With You](https://open.spotify.com/album/48wXki9TPYsiHvM81jZ1VF) | 3:27 |
 | 11 | [Red Dirt Church \(feat\. NEEDTOBREATHE\)](https://open.spotify.com/track/2Dm1IoIlLaa0rIjMBLfk0a) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [The Afterparty Deluxe](https://open.spotify.com/album/1w19pMaq0hP50uuhc8fHP4) | 2:58 |
-| 12 | [When I Grow Up](https://open.spotify.com/track/03LEDclec1NH3Jrc0S79Ux) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [When I Grow Up](https://open.spotify.com/album/2o8wAedFff2tDyElIFpuIF) | 3:45 |
+| 12 | [When I Grow Up](https://open.spotify.com/track/0aXdOKE2ISlEAEZIvUpjQy) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [When I Grow Up](https://open.spotify.com/album/4Ax2267OifhWCZUz38dMWw) | 3:45 |
 | 13 | [You Know](https://open.spotify.com/track/3yvjL28w3z8ebq5LScPuPO) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [You Know](https://open.spotify.com/album/1OnLScFK4XmZk02XVWfoQV) | 3:57 |
 | 14 | [Going Places](https://open.spotify.com/track/22OEoDUv3YfyfM38XTBqaS) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Going Places](https://open.spotify.com/album/0ezWIjtcWllbrCmSjXhQ0X) | 2:30 |
 | 15 | [Last Fall](https://open.spotify.com/track/17EdWmpQM7VMrJaYA7BJi3) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Last Fall](https://open.spotify.com/album/746cIlVvOicxEAG96F4ZPW) | 3:45 |
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 202 | [Just Like Us](https://open.spotify.com/track/3al1r7yWb8KoaX7IOCmwbX) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [Just Like Us](https://open.spotify.com/album/1GTIsu7qhVmm2j07hpaCnH) | 2:43 |
 | 203 | [Back to My Place](https://open.spotify.com/track/2dZPgMNCaguLPt3braiGj0) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Back to My Place](https://open.spotify.com/album/4DSt9zVyd8eLeQGLyOBz4s) | 4:22 |
 
-Snapshot ID: `MCwwOTY0NTFkYzVjZWRjYmU3MDIyNjg5MjU5N2Y1MzM2ZGM0N2FiYWFk`
+Snapshot ID: `MCxkYjBiMDM1ZGI3OTNkZjhjN2Y2YTBkMDc1MDRmMWUzNmJmYTE1NGMz`

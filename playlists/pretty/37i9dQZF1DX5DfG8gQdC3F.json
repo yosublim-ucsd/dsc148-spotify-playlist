@@ -1,12 +1,12 @@
 {
   "description": "New music from The Beatles, Majid Jordan, NAV, WILLOW and more.",
-  "num_followers": 350607,
+  "num_followers": 350650,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjYxYzc4MmFhNGEzODRiYmNiZWMwN2NlNGJmM2M3YTI0YTljM2U2",
+  "snapshot_id": "MCwxNjE3ZmRlYWUyMWJjMGE2MmIyYjRkMGI3NTY0N2M0MDk2ODc4ZWUz",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -279,7 +279,7 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Nothing Lasts Forever",
+        "name": "Nothing Lasts Forever (with Grimes)",
         "url": "https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74"
       },
       "artists": [
@@ -293,7 +293,7 @@
         }
       ],
       "duration_ms": 199183,
-      "name": "Nothing Lasts Forever",
+      "name": "Nothing Lasts Forever (with Grimes)",
       "url": "https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h"
     },
     {

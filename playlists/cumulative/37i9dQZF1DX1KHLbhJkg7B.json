@@ -2984,7 +2984,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 322346,
       "name": "It's Only Rock 'N' Roll (But I Like It)",
       "url": "https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh"
@@ -4570,7 +4570,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 271771,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
@@ -4816,10 +4816,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 225000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/0QoBtGuvBvCZirZiPPYxpB"
+      },
+      "artists": [
+        {
+          "name": "Noah Thompson",
+          "url": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/7HCpV8ksGTbXRRq91RceRl"
     },
     {
       "album": {
@@ -6196,6 +6214,24 @@
     {
       "album": {
         "name": "Stoned Cold Country",
+        "url": "https://open.spotify.com/album/6PgSzvNj12DBBaVbtky21W"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432040,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/5uckUDlg3DqRQeEXWBxKbo"
+    },
+    {
+      "album": {
+        "name": "Stoned Cold Country",
         "url": "https://open.spotify.com/album/2RGLCcJebUVtIIyHeffqSQ"
       },
       "artists": [
@@ -6206,7 +6242,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 432040,
       "name": "You Can't Always Get What You Want",
       "url": "https://open.spotify.com/track/6DsqyOvPEcasb72iQwxgPe"

@@ -5552,6 +5552,32 @@
     {
       "album": {
         "name": "Jubel",
+        "url": "https://open.spotify.com/album/5utEFGwsPHzj8N3mN2nb3X"
+      },
+      "artists": [
+        {
+          "name": "lusttqwe",
+          "url": "https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR"
+        },
+        {
+          "name": "Bexter",
+          "url": "https://open.spotify.com/artist/2rPNU3ZalATWC8af5XRWOG"
+        },
+        {
+          "name": "Egemen Kazan\u0131r",
+          "url": "https://open.spotify.com/artist/2NRUSasq9uE6t1RDdSpdXA"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208510,
+      "name": "Jubel",
+      "url": "https://open.spotify.com/track/7jw9VFUWk8HkX0owtg2qhy"
+    },
+    {
+      "album": {
+        "name": "Jubel",
         "url": "https://open.spotify.com/album/1OyFMLnshlXyukK5i7HPNT"
       },
       "artists": [
@@ -5596,7 +5622,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 208535,
       "name": "Jubel",
       "url": "https://open.spotify.com/track/4AdnFXiLwIAuHGWw7O7RVh"
@@ -12244,11 +12270,15 @@
         {
           "name": "David Guetta",
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
         }
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/1hRFVIy9As8OVRk8B7CrD5"
@@ -12270,7 +12300,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"

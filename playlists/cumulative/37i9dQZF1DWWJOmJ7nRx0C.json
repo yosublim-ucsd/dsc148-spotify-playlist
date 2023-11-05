@@ -644,7 +644,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 215318,
       "name": "All Things Must Change",
       "url": "https://open.spotify.com/track/6ZbOtXOG3ZA1c12r1KAOyT"
@@ -666,6 +666,24 @@
       "duration_ms": 215318,
       "name": "All Things Must Change",
       "url": "https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7"
+    },
+    {
+      "album": {
+        "name": "The Art Of Survival (Deluxe)",
+        "url": "https://open.spotify.com/album/24zUDdtHXjMPPFvNBK3yqg"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215318,
+      "name": "All Things Must Change",
+      "url": "https://open.spotify.com/track/7oXl7mUZPi6YThjvtsk2q1"
     },
     {
       "album": {
@@ -4380,10 +4398,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 178920,
       "name": "Devil You Know",
       "url": "https://open.spotify.com/track/2sKvfN6Kdjf9FA2yDWHQ6J"
+    },
+    {
+      "album": {
+        "name": "Devil You Know",
+        "url": "https://open.spotify.com/album/1JHMeaoUwnGzpen1EOSYie"
+      },
+      "artists": [
+        {
+          "name": "Tim Montana",
+          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Devil You Know",
+      "url": "https://open.spotify.com/track/3VfLRvfDdy7iXW057kPm2x"
     },
     {
       "album": {

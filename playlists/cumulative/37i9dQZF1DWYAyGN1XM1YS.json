@@ -736,10 +736,28 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 209266,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/0DHbBvRnc9SaiUJVYj6g48"
+    },
+    {
+      "album": {
+        "name": "Something to Write Home About",
+        "url": "https://open.spotify.com/album/0P1YuWWjYz6vnwizYv81Z3"
+      },
+      "artists": [
+        {
+          "name": "The Get Up Kids",
+          "url": "https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209266,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/7BqOaCe91KO42CrBFkXPYe"
     },
     {
       "album": {

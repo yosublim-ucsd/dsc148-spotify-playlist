@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 58248,
+  "num_followers": 58263,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTQyZGFkOGQyYzkyMzQ3MmY0ZmM2NDg5Zjg5ZjdmZjAzMGNkM2Vj",
+  "snapshot_id": "MCxiN2Q4ZTU3NTkyYjQ5YmYzNmNjYjA4MWM2ZTgzM2FlZjM2NDBhOWE5",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Grandes de la Musica Instrumental",
-        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
-      },
-      "artists": [
-        {
-          "name": "Tommy Rodriguez Y Su Saxofon Magico",
-          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
-        }
-      ],
-      "duration_ms": 113613,
-      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
-      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "...un poco mas.",
         "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 303893,
       "name": "Naila",
       "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Grandes de la Musica Instrumental",
+        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Rodriguez Y Su Saxofon Magico",
+          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
+        }
+      ],
+      "duration_ms": 113613,
+      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
+      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -271,6 +271,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
         "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 285386,
       "name": "2 Cartas",
       "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -423,22 +423,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Retazos",
-        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
-      },
-      "artists": [
-        {
-          "name": "Donna Pierrot",
-          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
-        }
-      ],
-      "duration_ms": 269080,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Para Ser Libre",
         "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 193332,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Retazos",
+        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
+      },
+      "artists": [
+        {
+          "name": "Donna Pierrot",
+          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
+        }
+      ],
+      "duration_ms": 269080,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -571,6 +571,26 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Voices from the Border",
+        "url": "https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Balderas Quartet",
+          "url": "https://open.spotify.com/artist/58qSHv8M0ELKIDSObDqEFH"
+        },
+        {
+          "name": "John Vince",
+          "url": "https://open.spotify.com/artist/5aPsi6G5Cs3dt1FnjkVYDF"
+        }
+      ],
+      "duration_ms": 443872,
+      "name": "Those People",
+      "url": "https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Fulgor",
         "url": "https://open.spotify.com/album/3hHdb3FvT0zU1eXrKmQOgS"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 178773,
       "name": "No Se que Pasa Entre T\u00fa y Yo",
       "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Voices from the Border",
-        "url": "https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Balderas Quartet",
-          "url": "https://open.spotify.com/artist/58qSHv8M0ELKIDSObDqEFH"
-        },
-        {
-          "name": "John Vince",
-          "url": "https://open.spotify.com/artist/5aPsi6G5Cs3dt1FnjkVYDF"
-        }
-      ],
-      "duration_ms": 443872,
-      "name": "Those People",
-      "url": "https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Daniel Wong Trio",
-        "url": "https://open.spotify.com/album/0cUyChxSDtRGlcl0gbaF2B"
-      },
-      "artists": [
-        {
-          "name": "Daniel Wong",
-          "url": "https://open.spotify.com/artist/1TekEtDI0YjvmOSnZJkY5J"
-        }
-      ],
-      "duration_ms": 230191,
-      "name": "Monk Around",
-      "url": "https://open.spotify.com/track/0elx5KQKvHmMkkFPYhBbc3"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Jazz Mariachi",
         "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 211026,
       "name": "Luna Taxque\u00f1a - Jazz Mariachi",
       "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Daniel Wong Trio",
+        "url": "https://open.spotify.com/album/0cUyChxSDtRGlcl0gbaF2B"
+      },
+      "artists": [
+        {
+          "name": "Daniel Wong",
+          "url": "https://open.spotify.com/artist/1TekEtDI0YjvmOSnZJkY5J"
+        }
+      ],
+      "duration_ms": 230191,
+      "name": "Monk Around",
+      "url": "https://open.spotify.com/track/0elx5KQKvHmMkkFPYhBbc3"
     },
     {
       "added_at": "2022-08-16 16:23:25",

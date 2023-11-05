@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Jon Pardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,882 likes - 145 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,154 likes - 145 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 117 | [I Saw Santa In A Bar](https://open.spotify.com/track/3CUyk3xqb7bzWkNex1WxQj) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Merry Christmas from Logan Mize](https://open.spotify.com/album/70p6hr2Byb7k372gg4d6YW) | 4:09 |
 | 118 | [White Christmas](https://open.spotify.com/track/5Bsd6tdp4EjyGDshA86OCC) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [White Christmas](https://open.spotify.com/album/6w9aACzIsQ3o1uNRkvXBEx) | 3:35 |
 | 119 | [Silver Bells \- Spotify Singles](https://open.spotify.com/track/2pR9egtFKNDMm18zGfif0l) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Silver Bells \(Spotify Singles\)](https://open.spotify.com/album/5nvYEOcMNKiZSfCISL4rzv) | 3:21 |
-| 120 | [Hurry Up Christmas](https://open.spotify.com/track/4bEAALwyWpypPXSG85C9I7) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/6f0xVeaoyY2X0mbjhJ60Ej) | 2:47 |
+| 120 | [Hurry Up Christmas](https://open.spotify.com/track/5xSMrP8c9doImUxajUi882) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/1fLwyTyXwRYx387gZLPJx9) | 2:47 |
 | 121 | [Naughty List](https://open.spotify.com/track/1J5EopouawvIwMCm5vswq4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Naughty List](https://open.spotify.com/album/0BXmUn9V11LhVai6Ac6vb1) | 3:47 |
 | 122 | [One More Christmas Eve](https://open.spotify.com/track/2kajkVFB384KV9inHOHrI0) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [One More Christmas Eve](https://open.spotify.com/album/3253ypVVhJNeMxWsjujwkt) | 4:40 |
 | 123 | [The Christmas Song](https://open.spotify.com/track/3V03Ik3QYBr18iDc5vHLLL) | [Josiah Siska](https://open.spotify.com/artist/0xRlqiatkqSzYyaAofNHlx) | [The Christmas Song](https://open.spotify.com/album/3hNhYhdqnzVfu8XBk4sbzT) | 3:53 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 144 | [Mary, Did You Know?](https://open.spotify.com/track/7ymcpXgVeTPd9W2desgjdZ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Mary, Did You Know?](https://open.spotify.com/album/2jtvfB4GlsYu2TjyoSmEzs) | 4:04 |
 | 145 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 |
 
-Snapshot ID: `MCwyYWJkYzU0ZmI0MDY2NGFiYTA2NmI5MmQ3Yzc4ZmZjMTcyYzU2M2M5`
+Snapshot ID: `MCw0YTJlMjYwMjJlMDk3NmQxMzA1NDdlMzcwYWQ2Y2U1ODNmNzZjNmQz`

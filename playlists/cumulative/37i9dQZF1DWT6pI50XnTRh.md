@@ -4,7 +4,7 @@
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-92 songs - 7 hr 29 min
+94 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,9 +51,10 @@
 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 3:32 | 2019-06-28 |  |
 | [Ohue \- Frankie Francis & Simbad Edit](https://open.spotify.com/track/0qrzPMBPV5A3l0vgsx5zQl) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Sofrito: Tropical Discotheque](https://open.spotify.com/album/1uugUCkc33jvhFUQ6KzAYt) | 5:34 | 2019-06-28 | 2022-07-29 |
 | [Ohue \- Frankie Francis & Simbad Edit](https://open.spotify.com/track/6mpWzzeF15T39cCZFCsvh0) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Sofrito: Tropical Discotheque](https://open.spotify.com/album/5AOELfqelmBhaAV5PsHHYr) | 5:34 | 2019-06-28 |  |
-| [Ojah Awake](https://open.spotify.com/track/6yy0X4T9CYKwcOyhm2DH9n) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Sunshine Day \- The Pye/Bronze Anthology](https://open.spotify.com/album/2VpVtGGkOyYPgqbI2i9y9u) | 4:52 | 2022-09-26 |  |
+| [Ojah Awake](https://open.spotify.com/track/6yy0X4T9CYKwcOyhm2DH9n) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Sunshine Day \- The Pye/Bronze Anthology](https://open.spotify.com/album/2VpVtGGkOyYPgqbI2i9y9u) | 4:52 | 2022-09-26 | 2023-11-05 |
 | [Ojah Awake](https://open.spotify.com/track/7hPCaFhX074AINbYi0ye71) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 4:52 | 2019-06-28 | 2023-11-04 |
 | [Ojah Awake](https://open.spotify.com/track/5XRkdF0BOrqlN3jV0pYNhy) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4LK4xmWEuNYYEn5oPrQUpD) | 4:54 | 2019-06-28 | 2022-08-10 |
+| [Ojah Awake](https://open.spotify.com/track/0rnDmgcZvn9WPsOPqHbt16) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4jklZxOxbnLsIdCCSTdn63) | 4:56 | 2022-09-26 |  |
 | [Pull Up To The Bumper](https://open.spotify.com/track/28aRF5Qb0TBKFFa0KIsufd) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/33i9WgfiYnTAlIsD06wkAF) | 4:41 | 2019-06-28 | 2022-07-29 |
 | [Pull Up To The Bumper](https://open.spotify.com/track/5VpDYLvj2R2D69irsL5Mra) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Fill The Dance Floor](https://open.spotify.com/album/5gc6mLkEYKdwD58QlODJED) | 4:41 | 2022-09-26 | 2022-11-14 |
 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 | 2019-06-28 |  |
@@ -83,8 +84,9 @@
 | [That's the Way I Like It](https://open.spotify.com/track/6q4WNR2hLjy57WkJ6kdUci) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Shake Your Booty](https://open.spotify.com/album/2BJL2ppNKnjuuYYzyrKVMT) | 3:05 | 2019-06-28 | 2022-07-29 |
 | [The Glow of Love](https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Glow of Love \(Original Album and Rare Tracks\)](https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye) | 6:13 | 2019-06-28 |  |
 | [The Hustle \- Original Mix](https://open.spotify.com/track/75PHqzep3Lf11sIYP5ps5q) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [The Hustle & The Best of Van McCoy](https://open.spotify.com/album/0QdIm38ml7jHplmYOqazbF) | 4:10 | 2019-06-28 |  |
-| [The Warrior](https://open.spotify.com/track/1wuo1nwM6jqJcGtu4MzAOW) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Sunshine Day \- The Pye/Bronze Anthology](https://open.spotify.com/album/2VpVtGGkOyYPgqbI2i9y9u) | 3:44 | 2022-09-26 |  |
+| [The Warrior](https://open.spotify.com/track/1wuo1nwM6jqJcGtu4MzAOW) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Sunshine Day \- The Pye/Bronze Anthology](https://open.spotify.com/album/2VpVtGGkOyYPgqbI2i9y9u) | 3:44 | 2022-09-26 | 2023-11-05 |
 | [The Warrior](https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 3:44 | 2019-06-28 | 2023-11-03 |
+| [The Warrior](https://open.spotify.com/track/5wY3a0tPSmZvdAxi9JfrRK) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4jklZxOxbnLsIdCCSTdn63) | 3:46 | 2022-09-26 |  |
 | [The Warrior](https://open.spotify.com/track/1yRixw5ysrrgR8a2ZeU806) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4LK4xmWEuNYYEn5oPrQUpD) | 3:47 | 2019-06-28 | 2022-08-09 |
 | [Theme From "Shaft"](https://open.spotify.com/track/05p7iaHeIZIkMU05xkwe1Z) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Disco Funky Para Bailar](https://open.spotify.com/album/46GEPH5eSaiGrhefPmPMdh) | 4:36 | 2022-09-26 | 2022-11-13 |
 | [Theme From Shaft](https://open.spotify.com/track/1VLLADzAWGr1IoeMPDLNDL) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [It's All In The Game](https://open.spotify.com/album/5ZMT0oGy8gXbBIxMY9q4ZW) | 4:40 | 2019-06-28 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-54 songs - 2 hr 43 min
+56 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 | 2023-09-22 |  |
 | [Chez Laurette](https://open.spotify.com/track/5wFRjYT36LES0ks92OeXyD) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Chez Laurette](https://open.spotify.com/album/0Jk7WSIVTnppDevKYjEpOv) | 3:29 | 2023-09-22 |  |
 | [Comme d'habitude](https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Hommages](https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo) | 4:09 | 2023-09-22 |  |
-| [Comme un garçon](https://open.spotify.com/track/5ofzziyodcinKtsUghFLHK) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/1fFyiprMSDBSNeExoiIuTH) | 3:16 | 2023-09-22 |  |
+| [Comme un garçon](https://open.spotify.com/track/3ChTu8j7meZ1op8QtTMVfR) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/0K0bH9JWURyXFrSK4ZYmUM) | 3:16 | 2023-09-22 |  |
+| [Comme un garçon](https://open.spotify.com/track/5ofzziyodcinKtsUghFLHK) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/1fFyiprMSDBSNeExoiIuTH) | 3:16 | 2023-09-22 | 2023-11-05 |
 | [Céline](https://open.spotify.com/track/6IgZ9zDxJ6H0IUQ6HKBa8A) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 3:06 | 2023-09-22 |  |
 | [D'aventures en aventures](https://open.spotify.com/track/5Dy32R8nCKyoPcLlfkwbNW) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [A La Vie, A L'Amour](https://open.spotify.com/album/1ShHXfJDZw4qbbr0t69rvs) | 3:30 | 2023-09-22 |  |
 | [Dis, quand reviendras\-tu? \(Version Mono\)](https://open.spotify.com/track/5dkyX0uoAJivoYVDg63Nk0) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [Dis, quand reviendras\-tu?](https://open.spotify.com/album/4y3CH1eDVuX6ILyAoVxMjA) | 2:54 | 2023-09-22 |  |
@@ -36,7 +37,8 @@
 | [La belle vie](https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO) | [Sacha Distel](https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz) | [Sacha Distel: Crooner](https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV) | 2:03 | 2023-09-22 |  |
 | [La bohème](https://open.spotify.com/track/2o0hVSbnkdvDDKKVNaUxnB) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [La Bohème \(Remastered 2014\)](https://open.spotify.com/album/3e3Nfe6qFPnmfxUtkBfYrj) | 4:05 | 2023-09-22 |  |
 | [La gadoue](https://open.spotify.com/track/01Jj7OZyAz2AmUPjT41tCC) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/3tZV6fFNYUXa3HUFaT7Xhz) | 2:54 | 2023-09-22 | 2023-11-04 |
-| [La gadoue](https://open.spotify.com/track/02vSEHTmzmS2Ha0CkLZy7n) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Les Annees Petula](https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR) | 2:54 | 2023-09-22 |  |
+| [La gadoue](https://open.spotify.com/track/02vSEHTmzmS2Ha0CkLZy7n) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Les Annees Petula](https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR) | 2:54 | 2023-09-22 | 2023-11-05 |
+| [La gadoue](https://open.spotify.com/track/3XGuA5n91mEOH9mDwf88cK) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/5vcS1aftWAi42Jw7I8UXWP) | 2:55 | 2023-09-22 |  |
 | [La madrague](https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:35 | 2023-09-22 |  |
 | [La montagne](https://open.spotify.com/track/6ninjFrpTv2rmMfrNFTRq7) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La montagne 1964](https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg) | 3:05 | 2023-09-22 |  |
 | [La plus Belle pour Aller Danser](https://open.spotify.com/track/1V8V3UYeX2Est81MMucvJC) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [A Nashville](https://open.spotify.com/album/1MmmmrUViWnOkzlxLTYQzq) | 2:29 | 2023-09-22 | 2023-11-04 |

@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 23845,
+  "num_followers": 23877,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWYyMjU4YWZkODI2MGEwN2JkMDcxOGU0MmY3OTllYjczY2ZjNzU5",
+  "snapshot_id": "MCxmZjIyYTA0ZGQ4NWRlMWFiNmQ1MGQ5YzgzNjA4N2UzMzQ4ZjJlNGYy",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -295,22 +295,6 @@
       "duration_ms": 176186,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "In the Skies",
-        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 464666,
-      "name": "A Fool No More",
-      "url": "https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -655,22 +639,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "All Blues'd Up: Songs of the Rolling Stones",
-        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 373000,
-      "name": "Ventilator Blues",
-      "url": "https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Tattoo (Remastered 2017)",
         "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
       },
@@ -683,6 +651,22 @@
       "duration_ms": 375681,
       "name": "Cradle Rock",
       "url": "https://open.spotify.com/track/0mew0kA2gBAqtEleoaDiK8"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "All Blues'd Up: Songs of the Rolling Stones",
+        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 373000,
+      "name": "Ventilator Blues",
+      "url": "https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -755,6 +739,22 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "In the Skies",
+        "url": "https://open.spotify.com/album/6t9AXiAHR0S6BFKzVYNTQB"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "duration_ms": 464666,
+      "name": "A Fool No More",
+      "url": "https://open.spotify.com/track/4h5r5YL1QXFiblkRUtTXCb"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "The Original Delta Blues (Mojo Workin': Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/3k3hqZqYl9XYgKC63wrKMq"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Ain't Enough Comin' In",
-        "url": "https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "It's My Own Fault",
-      "url": "https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "The Very Best Of Albert King",
         "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 192493,
       "name": "Blues Power",
       "url": "https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Ain't Enough Comin' In",
+        "url": "https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "It's My Own Fault",
+      "url": "https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU"
     }
   ],
   "unique_name": "Classic Blues Guitar",

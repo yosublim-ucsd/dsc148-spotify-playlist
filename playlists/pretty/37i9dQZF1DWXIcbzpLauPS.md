@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Hollow Front
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,511 likes - 90 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,668 likes - 90 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 40 | [Ultraviolet](https://open.spotify.com/track/4WQjkKYfMU5E6UI6WYzsok) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Abyss Pt I](https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4) | 3:54 |
 | 41 | [Salt \(feat\. Dayseeker\)](https://open.spotify.com/track/4giP4hSHWfO7LfvlG50Z44) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Salt \(feat\. Dayseeker\)](https://open.spotify.com/album/3aniEhGPueequKj0nUJzfP) | 3:27 |
 | 42 | [CODE MISTAKE](https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [CODE MISTAKE](https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl) | 2:45 |
-| 43 | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/track/5dFc7LBIXNXdfOE6xBYN3i) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/album/3JduUHfZtTYuYvn7WhfEG1) | 3:04 |
+| 43 | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/track/1gdNdUdDmVpwVV2c6LgOIW) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/album/686K2XWjthBsIxbSCcXjzm) | 3:04 |
 | 44 | [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 |
 | 45 | [In The Silence](https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 3:32 |
 | 46 | [Older Days](https://open.spotify.com/track/3DjsiMycLUIbFsSz7hKndD) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY), [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Older Days](https://open.spotify.com/album/7Ghh2ndfk0MxS1MxeiryQe) | 4:01 |
 | 47 | [HEAVY RAIN](https://open.spotify.com/track/13XqsUBoeSvcC5iZOMZaqS) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [HEAVY RAIN](https://open.spotify.com/album/5ugnVcdOzU6R94g0vJ00ih) | 3:54 |
 | 48 | [Dreamlike](https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dreamlike](https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW) | 3:28 |
 | 49 | [Best For You](https://open.spotify.com/track/0Fa9nx13nJ7CiZLRM3in1S) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Hope is a Cult](https://open.spotify.com/album/5lq3RYK2UtsoM0KWq0dDNk) | 3:41 |
-| 50 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 |
+| 50 | [Black Sheep](https://open.spotify.com/track/0phSq8JjgvNlRmFaGDbmlh) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6TPRyXWXQuVfgmOO14xRno) | 3:52 |
 | 51 | [Pushing The Pink Envelope](https://open.spotify.com/track/4hvDdBwERAE7KbDRqia8WS) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Pushing The Pink Envelope](https://open.spotify.com/album/1aQ0u8V9EOwE8ohlaFeHhm) | 4:11 |
 | 52 | [Strange Love](https://open.spotify.com/track/6YfmHEBb98Kw6C1dVj2dTY) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Strange Love](https://open.spotify.com/album/4AkjlJeSydf04Xi3uwYwW3) | 3:58 |
 | 53 | [Begin Again](https://open.spotify.com/track/6uCkCdWgzS2joEVTGnGSz9) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [The Seventh Sun](https://open.spotify.com/album/6D2PpsVWo0zfgWBflimEe1) | 3:35 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 89 | [away](https://open.spotify.com/track/4rNn6vx1vmzJfr894A5bM7) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [away](https://open.spotify.com/album/0TWnG9BOpdFeMZAKTWFVUT) | 4:22 |
 | 90 | [Reap](https://open.spotify.com/track/0sG0I67b53eGXCKryNCgmC) | [Shallowsky](https://open.spotify.com/artist/0OggfRsxbs119D8rf3rXvG) | [Reap](https://open.spotify.com/album/4cBmWgK6BWMuh5NakqcOIi) | 3:27 |
 
-Snapshot ID: `MCw5ZGI2ZTQwODkzOTNmNWNkOTc3MWI1YjAxZjIxMzFjYzJlNDFkMmFh`
+Snapshot ID: `MCxiZjg3MTcwN2JlZGNlYzUzNDRlMTFhNTNlNTIxNjIwNmY2YmU5ZWJj`

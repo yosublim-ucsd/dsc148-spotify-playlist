@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,279 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,302 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 70 | [Just Asking](https://open.spotify.com/track/6D1dL8RshXW9TkhqFRynx5) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just Asking](https://open.spotify.com/album/7pddbmgA9wlMn6HomsAe2d) | 2:29 |
 | 71 | [Don't Forget About Me](https://open.spotify.com/track/5qUujOsbcVq8oo3ndNET6e) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dream On](https://open.spotify.com/album/4EKA6cOPmM0VmjHigV03QH) | 3:06 |
 | 72 | [Alright](https://open.spotify.com/track/1MrUQX327aKDnOawrNnRUJ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:02 |
-| 73 | [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 |
+| 73 | [Chandelier](https://open.spotify.com/track/2mO2pVseoh8i0MRjkajuGj) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/6ZzJOsg3G90a3ASCT94KDm) | 5:13 |
 | 74 | [David](https://open.spotify.com/track/6LXSmPnZczqqzYqVFHupHW) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [White Noise EP](https://open.spotify.com/album/2ogVdcADw5gMNtKuccLQRw) | 3:52 |
 | 75 | [Innocent Fallacy](https://open.spotify.com/track/2P6KUtMod1AtEWqTzGMMJV) | [nuriveben](https://open.spotify.com/artist/1IIdVNdiJ3ooW3K3AW28tr) | [Innocent Fallacy](https://open.spotify.com/album/2brcj8KuBs3PiNRIouSyIJ) | 7:06 |
 | 76 | [Glass Shards](https://open.spotify.com/track/2ZJk9T8MQLZsBVFlePHXn3) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/4GyAthXR1rB5aTV4dY5DIP) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 99 | [On The Way There](https://open.spotify.com/track/1cwV9KDoWoL2espNeeibvb) | [RolledBack](https://open.spotify.com/artist/1XZkIY1rC0QNcjpSIdMCoU), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [On The Way There](https://open.spotify.com/album/47SYiqJbww6E7jwvXscLSR) | 2:25 |
 | 100 | [I Know](https://open.spotify.com/track/4NmVOfj6JSxruDVrYW46AL) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [I Know](https://open.spotify.com/album/4dYC2w3OZtkW5xynPq6Jk2) | 2:34 |
 
-Snapshot ID: `MCxkNGUzOWJmOWYwMGVkYTFjODhlYjgxZDE0ODg1ZGJkYTQxMTQyNmEz`
+Snapshot ID: `MCw5YWE0YzA4NmU5NWI1ZWRkMzZlYzhkM2I3NDBkYzcyNGMzM2VjM2Vi`

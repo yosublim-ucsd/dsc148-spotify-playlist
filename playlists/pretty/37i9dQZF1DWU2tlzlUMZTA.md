@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Where Bollywood meets the hood\. Cover: Badshah
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,284 likes - 31 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,292 likes - 31 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 21 | [Sher \(From "Selfiee"\)](https://open.spotify.com/track/7tO6bKdh9fzsTOP139HV3E) | [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Abhinav Shekhar](https://open.spotify.com/artist/7bBqAz65fp8BVnuHQTFgSQ) | [Sher \(From "Selfiee"\)](https://open.spotify.com/album/0G7PspTECvtldL1jfXUs0s) | 2:36 |
 | 22 | [Ghere](https://open.spotify.com/track/1Fg54KvZh02xX035gzsCVQ) | [Parag Chhabra](https://open.spotify.com/artist/6Yf6U4iCrJta8g2dX1Al2v), [Vivek Hariharan](https://open.spotify.com/artist/5KOvzkFqFQBE4r34ebiDXh), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez) | [An Action Hero](https://open.spotify.com/album/075Qjn7wO4dLd42tAjw1Er) | 3:29 |
 | 23 | [Phire Faqeera](https://open.spotify.com/track/7i5VhhLnimERnq9i7FM86Y) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Amrita Singh](https://open.spotify.com/artist/5ZVycSnntFQRyXFpO6TdsU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neelesh Mishra](https://open.spotify.com/artist/4kasDFSEK3OypP6vspQxjS) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BnRf8fttKY98wU5XTU6xN) | 5:41 |
-| 24 | [Paintra](https://open.spotify.com/track/3FbwHPeM5myHMTvOTi6ipl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Paintra \(From "Mukkabaaz"\) \- Single](https://open.spotify.com/album/5u6calkleLhJulsH9dEgZi) | 3:52 |
+| 24 | [Paintra](https://open.spotify.com/track/6OM09izdwxopg5S8lcnkM8) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Mukkabaaz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/295RTt8NECk6ze32H7m8wi) | 3:52 |
 | 25 | [Baby Ko Bass Pasand Hai](https://open.spotify.com/track/7fllsOe1cV2pTBzdbkgrX7) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Isheeta](https://open.spotify.com/artist/7BcWKKmwvuroPq4DkC1fxN), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Sultan](https://open.spotify.com/album/0tAi6H8acUKefYMIEuxcMA) | 4:13 |
 | 26 | [Nyaay Yuddh Dharm Yuddh](https://open.spotify.com/track/2OlLzyE9YtysMoOjA8KkHK) | [Nishant Singh](https://open.spotify.com/artist/07Pnq6qTXLN3hG449JAstv), [Jay Rajesh Arya](https://open.spotify.com/artist/6ylnONsh24bLFXi3HZA2Pr) | [Nyaay Yuddh Dharm Yuddh](https://open.spotify.com/album/1HAIYajWGoWi2syh7owPqg) | 2:22 |
 | 27 | [Paagal](https://open.spotify.com/track/4gyPGtExOjj1rsByKW33LR) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Paagal](https://open.spotify.com/album/0Qn1webMNo0WuEMjRdcrhW) | 2:49 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 30 | [The Humma Song \(From "OK Jaanu"\)](https://open.spotify.com/track/7Ck2si1vtgdPXdKGtWGGXr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [The Humma Song \(From "OK Jaanu"\)](https://open.spotify.com/album/3vJoUE05bg6Ki7BrzTOAPl) | 2:59 |
 | 31 | [Let's Nacho](https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:35 |
 
-Snapshot ID: `MCw2ZjYwMTY2YmM4MjlhZGU3ZjhlNTdkNDBmOWQwYTAwMzU2Zjg2NWNh`
+Snapshot ID: `MCwxNWMwMWFlYTQyNGNjZTRlYWEyNGZmNjBmNDFkNmU5ZTg5MmRiNTUy`

@@ -4,7 +4,7 @@
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-136 songs - 13 hr 35 min
+138 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,12 +73,14 @@
 | [I Want You \- Extended Mix](https://open.spotify.com/track/0JfPrwsBWNIJDoBwYshnId) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 8:30 | 2023-10-06 |  |
 | [I'll Follow](https://open.spotify.com/track/5XBdDciZykdjGyj699QDNM) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [I'll Follow](https://open.spotify.com/album/3f3RF6R0FwcWBqlYA23ttJ) | 6:44 | 2023-10-06 |  |
 | [Impressor](https://open.spotify.com/track/0lk02FURuh2PVbTuX23HL0) | [Arude](https://open.spotify.com/artist/3jvLVdebZznGhPcOcOFKd9), [Sincz](https://open.spotify.com/artist/64mrtk7R1AKw4AiUgCqKA6) | [Impressor](https://open.spotify.com/album/5gJEyMGTyavVkLJZ1b6cQv) | 6:57 | 2023-10-06 |  |
-| [Impulse](https://open.spotify.com/track/2RxDjKBtUA7GtZ4LvFDhja) | [John Monkman](https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f) | [Perception EP](https://open.spotify.com/album/7lB0BeuCQeU4RY7K1uwlcB) | 6:19 | 2023-03-27 |  |
+| [Impulse](https://open.spotify.com/track/2RxDjKBtUA7GtZ4LvFDhja) | [John Monkman](https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f) | [Perception EP](https://open.spotify.com/album/7lB0BeuCQeU4RY7K1uwlcB) | 6:19 | 2023-03-27 | 2023-11-05 |
+| [Impulse](https://open.spotify.com/track/357Z9pzQhR76XhT5iFcrAC) | [John Monkman](https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f) | [Perception EP](https://open.spotify.com/album/1ZNzbSuiP4FqaDMm4JBDxx) | 6:19 | 2023-10-06 |  |
 | [In Trance We Trust](https://open.spotify.com/track/329uZ0nLmCPALK5iyvYjbG) | [Chaim](https://open.spotify.com/artist/2XMpXAQ0B1J95en60YGE3V) | [In Trance We Trust](https://open.spotify.com/album/2MdkA9sb2GCGdMAUZ9QQaI) | 7:05 | 2022-07-23 | 2023-10-07 |
 | [Is This A Dream](https://open.spotify.com/track/4kY726LSgERqmlVqIopiIu) | [GIGEE](https://open.spotify.com/artist/7mqebOCOql0RKtn1bGUdOd) | [Mind Games](https://open.spotify.com/album/0mrnZGLX44FuZ0ivUFAGAo) | 4:24 | 2023-10-06 |  |
 | [Island Sakhalin](https://open.spotify.com/track/2lmCW9lvf7PwVEXLFPVOji) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [At The Edge Of The World](https://open.spotify.com/album/2VlTLha9eYrDQLceLURQbh) | 4:58 | 2022-07-23 | 2023-10-07 |
 | [Junglist](https://open.spotify.com/track/40E2w7AGNUFx4roieo6ekh) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [Junglist](https://open.spotify.com/album/7bk9B0wJbhPD3eCrPclPxB) | 3:30 | 2023-03-27 |  |
-| [Kernal Task Nightmare](https://open.spotify.com/track/6hcA0iqNR9fGqLhIpICCNr) | [Dharma](https://open.spotify.com/artist/4VFSqLDEGp8fp9E8EuWHmf) | [Professional Laptop Conductor](https://open.spotify.com/album/6DjoLce7XdDc0q5wzXvFrJ) | 6:02 | 2023-03-27 |  |
+| [Kernal Task Nightmare](https://open.spotify.com/track/2FE0f3Upp8TBacZseAUJiO) | [Dharma](https://open.spotify.com/artist/4VFSqLDEGp8fp9E8EuWHmf) | [Professional Laptop Conductor](https://open.spotify.com/album/0tewLuhaCeOqViRUn6AWiS) | 6:02 | 2023-10-06 |  |
+| [Kernal Task Nightmare](https://open.spotify.com/track/6hcA0iqNR9fGqLhIpICCNr) | [Dharma](https://open.spotify.com/artist/4VFSqLDEGp8fp9E8EuWHmf) | [Professional Laptop Conductor](https://open.spotify.com/album/6DjoLce7XdDc0q5wzXvFrJ) | 6:02 | 2023-03-27 | 2023-11-05 |
 | [Landa](https://open.spotify.com/track/4QKgq7twx3wHL3fS73WKHo) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:00 | 2023-03-27 |  |
 | [Lepiej nie mówmy nikomu](https://open.spotify.com/track/6Bw5TLTJbwONfD2li10UBb) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [Lepiej nie mówmy nikomu](https://open.spotify.com/album/659TQGieS3UFvTK6UyvEBz) | 5:45 | 2023-03-27 |  |
 | [Liquid Fantasy \- Club Remix](https://open.spotify.com/track/3Lr9Km1gicHy1EjjfY5WUG) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Vicky Who?](https://open.spotify.com/artist/0fj8NKbvzFH5LxS1h7Yr5I) | [Liquid Fantasy](https://open.spotify.com/album/1qkpQWUWtHprhuiVsGDz9p) | 7:42 | 2023-03-27 |  |

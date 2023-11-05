@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 
 > The official playlist for After Life, curated by Ricky Gervais\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,820 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,856 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 | 9 | [Lady Marmalade](https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Best Of Patti Labelle](https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub) | 3:55 |
 | 10 | [Will You Ever Love Yourself?](https://open.spotify.com/track/4R3GdFZdmY2ase6ULLCVtW) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 5:46 |
 | 11 | [A Gallant Gentleman](https://open.spotify.com/track/7MZM9KhwGQG8QJ4BycsnQn) | [We Lost The Sea](https://open.spotify.com/artist/7GVByFFfFJYCzK4d8ZyL6s) | [Departure Songs](https://open.spotify.com/album/2qYkNaEeAbiarc0rwkjkh3) | 6:04 |
-| 12 | [Into My Arms \- 2011 Remastered Version](https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 Remastered Version\)](https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A) | 4:16 |
+| 12 | [Into My Arms](https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 \- Remaster\)](https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv) | 4:16 |
 | 13 | [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 |
 | 14 | [Then the Quiet Explosion](https://open.spotify.com/track/1e0dFIlrgHaD5a2ud2AXEQ) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Oblivion Hymns](https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn) | 6:43 |
 | 15 | [Together Alone](https://open.spotify.com/track/5vsM2dLOcZRljhNgGj10lm) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Departure Songs](https://open.spotify.com/album/1F2MQNCmYXDcZyJVdbhNw9) | 7:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 | 49 | [Mandolin Wind](https://open.spotify.com/track/4sWZwY8RQfK6Fc2pYC7tN1) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:36 |
 | 50 | [From Both Sides Now](https://open.spotify.com/track/4e6Y85KHKWhn9EdguhfB6l) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [David Jaggs](https://open.spotify.com/artist/2M6D03CV5HO5J5lqOnNQRJ) | [Solo](https://open.spotify.com/album/6TKewkXqDeg8q2lqzNXTmZ) | 3:09 |
 
-Snapshot ID: `MCwzNDU3MWU5ZDM4OWZmNzBmYjU1ZDlkNmRkNmJhODFjNDQ2MmVhNjFm`
+Snapshot ID: `MCxiODQxODdhN2Y1YjRhNmIzNTE5ZTNmYjcxNzQwYTcyODNlOGQ3ZTk5`

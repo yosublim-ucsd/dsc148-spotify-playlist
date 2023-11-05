@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,743,987 likes - 216 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,744,007 likes - 216 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 30 | [Have A Little Faith In Me](https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Have A Little Faith In Me](https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz) | 3:17 |
 | 31 | [Muzzle of Bees \(with Jeff Tweedy\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/351445Kofxc3BN2T27beOv) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Muzzle of Bees \(with Jeff Tweedy\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ) | 4:11 |
 | 32 | [Sway](https://open.spotify.com/track/6lds2JtXd2CT4STg8zgl1P) | [Jake & Shelby](https://open.spotify.com/artist/0JdBmLuhVC8l8dE7f0rVjS) | [Sway](https://open.spotify.com/album/2wZKW8SsFWfxM4H9QYuHqq) | 2:27 |
-| 33 | [Here Comes the Sun \- Acoustic](https://open.spotify.com/track/41cpdd5Hvy577Ta7HV8FuV) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Here Comes the Sun \(Acoustic\)](https://open.spotify.com/album/431eyjZ99xg2q86X3aQA7h) | 3:08 |
+| 33 | [Here Comes the Sun \(Acoustic\)](https://open.spotify.com/track/3lPwqo8FXnhtEtlNINtySb) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Here Comes the Sun \(Acoustic\)](https://open.spotify.com/album/1NfFY21rAHnQkWY7cy8rEw) | 3:08 |
 | 34 | [Always Be My Baby](https://open.spotify.com/track/2hVaNGGvdvvzRPCK9BUZmA) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Josh Ottum](https://open.spotify.com/artist/0HuUZip4HsqYsjkq4qZ6NB) | [Always Be My Baby](https://open.spotify.com/album/5pjrFrxKA33xQWnj0UbfYp) | 4:14 |
 | 35 | [That Funny Feeling](https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [That Funny Feeling](https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr) | 6:40 |
 | 36 | [Don't Dream It's Over](https://open.spotify.com/track/6irzQ68l0WZxY4SHMAZSK9) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Don't Dream It's Over](https://open.spotify.com/album/7gCk3DHHivlyObqAfOwPGH) | 3:52 |
-| 37 | [Over The Rainbow](https://open.spotify.com/track/2YZD5noojQfehm2VbFAulS) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Over The Rainbow](https://open.spotify.com/album/3zqPNuhZEoyumkNoSDvTtx) | 4:18 |
+| 37 | [Over The Rainbow](https://open.spotify.com/track/6q5NmrRJTkSbaCn2dHUgaM) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Rufus Does Judy At Capitol Studios](https://open.spotify.com/album/78fV7bPXs3FWNJYnBH8PUz) | 4:18 |
 | 38 | [A Long December](https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [A Long December](https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt) | 4:20 |
 | 39 | [The Night We Met](https://open.spotify.com/track/4XgSJltrqGvZQaiUpcgfOi) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm), [Hope Morgan](https://open.spotify.com/artist/6PP1a619tR9xW3lHqSMmm5) | [The Night We Met](https://open.spotify.com/album/57M1iqr3AzXL4lobiMYUmi) | 3:58 |
 | 40 | [Moon River](https://open.spotify.com/track/13OUuQ24CKyR78aozd703T) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Moon River](https://open.spotify.com/album/5PjlCsVAEtcoxSD7fDPnK0) | 2:37 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 215 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 |
 | 216 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 |
 
-Snapshot ID: `MCw4MThhMDZhOWIyNTE3ZmU2YTJiZTc4N2NlNWExZjNkOGZmOWNlNTY2`
+Snapshot ID: `MCw5MjRlNmQ3ZmMyMTZmZjYzYTU1MjkwNDU3NWIxNDlmYWE5YzQ1NjNl`

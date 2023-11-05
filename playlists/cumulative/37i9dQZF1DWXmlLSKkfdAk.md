@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-316 songs - 19 hr 11 min
+318 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 | 2021-11-12 |  |
 | [Hello](https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o) | [Hello \(Adele Cover\)](https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW) | 3:50 | 2021-11-12 |  |
 | [here comes the sun](https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [here comes the sun](https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7) | 2:47 | 2021-11-12 |  |
-| [Here Comes the Sun \- Acoustic](https://open.spotify.com/track/41cpdd5Hvy577Ta7HV8FuV) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Here Comes the Sun \(Acoustic\)](https://open.spotify.com/album/431eyjZ99xg2q86X3aQA7h) | 3:08 | 2023-02-24 |  |
+| [Here Comes the Sun \(Acoustic\)](https://open.spotify.com/track/3lPwqo8FXnhtEtlNINtySb) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Here Comes the Sun \(Acoustic\)](https://open.spotify.com/album/1NfFY21rAHnQkWY7cy8rEw) | 3:08 | 2023-10-23 |  |
+| [Here Comes the Sun \- Acoustic](https://open.spotify.com/track/41cpdd5Hvy577Ta7HV8FuV) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Here Comes the Sun \(Acoustic\)](https://open.spotify.com/album/431eyjZ99xg2q86X3aQA7h) | 3:08 | 2023-02-24 | 2023-11-05 |
 | [Hey Ya \- solo version](https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [The Tip Jar Volume One](https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx) | 4:58 | 2021-11-12 |  |
 | [Hide Away \- Acoustic Version](https://open.spotify.com/track/0UCsrU37XWdbddPCTRG4Pj) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [Hide Away](https://open.spotify.com/album/2nluaXCp3OtbaBcEW0UbqO) | 3:31 | 2021-11-12 | 2022-01-06 |
 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-11-12 |  |
@@ -216,7 +217,8 @@
 | [On Fire \(Ingrid Andress Version\)](https://open.spotify.com/track/79z7tGjpNtsgHwZxYCb5EM) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [On Fire \(Ingrid Andress Version\)](https://open.spotify.com/album/65QH2YwXmAfBIjQLfotGHL) | 3:33 | 2023-09-15 |  |
 | [On The Road Again](https://open.spotify.com/track/12edTI3hWsltDAGguaFnqA) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [On The Road Again](https://open.spotify.com/album/5xeYkL33gjIyLa3wQbWuIQ) | 2:19 | 2021-11-12 | 2022-05-28 |
 | [Ordinary World](https://open.spotify.com/track/1Rzv9hwuNO1H7N947tD1e8) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Ordinary World](https://open.spotify.com/album/0yN19KuHWWvVMcaC7ygfIp) | 5:14 | 2021-11-12 | 2022-03-12 |
-| [Over The Rainbow](https://open.spotify.com/track/2YZD5noojQfehm2VbFAulS) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Over The Rainbow](https://open.spotify.com/album/3zqPNuhZEoyumkNoSDvTtx) | 4:18 | 2022-05-27 |  |
+| [Over The Rainbow](https://open.spotify.com/track/2YZD5noojQfehm2VbFAulS) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Over The Rainbow](https://open.spotify.com/album/3zqPNuhZEoyumkNoSDvTtx) | 4:18 | 2022-05-27 | 2023-11-05 |
+| [Over The Rainbow](https://open.spotify.com/track/6q5NmrRJTkSbaCn2dHUgaM) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Rufus Does Judy At Capitol Studios](https://open.spotify.com/album/78fV7bPXs3FWNJYnBH8PUz) | 4:18 | 2023-10-23 |  |
 | [Pompeii](https://open.spotify.com/track/7M288uc13UNSvwOSPfuEAL) | [Ark Rhodes](https://open.spotify.com/artist/3FOgrJd8jReZNmJ80a5PvO), [Savannah Outen](https://open.spotify.com/artist/0FcC38n7nTB9YS1xhFOKDX) | [Pompeii](https://open.spotify.com/album/3kJ5JBWRaoOgfz2alG0r5u) | 2:53 | 2021-11-12 |  |
 | [Rather Be](https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1) | 4:07 | 2021-11-12 | 2022-07-29 |
 | [Rather Be](https://open.spotify.com/track/1dRrzIe6iCMEOXtut9CHg1) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB) | 4:07 | 2022-07-27 | 2023-02-15 |

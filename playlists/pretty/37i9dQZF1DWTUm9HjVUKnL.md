@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,311 likes - 903 songs - 2 day 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,327 likes - 903 songs - 2 day 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -849,7 +849,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 839 | [Walking On A Dream \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5VxhB7hzV7rAR8YSjYPL8c) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Spotify Singles](https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur) | 3:57 |
 | 840 | [Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7d6W6Tn71IWbxe1K5oU808) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 3:26 |
 | 841 | [Shout Out to My Ex \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 2:43 |
-| 842 | [Fresh Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7DVgNcx4cNA1q2Eqoo0q6O) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Spotify Singles](https://open.spotify.com/album/6cy9FeU5iMICewZaY0Cuib) | 3:16 |
+| 842 | [Fresh Eyes \(Spotify Singles\)](https://open.spotify.com/track/0bJJw1WQ1TjiXHkOwhBoJu) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Spotify Singles \(Spotify Exclusive\)](https://open.spotify.com/album/2SJtePiXbTDlsxU4OKUa20) | 3:16 |
 | 843 | [All Time Low \(Spotify Singles\)](https://open.spotify.com/track/2vpkUX8pOMUFdbMQQE7gSY) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Spotify Singles \(Spotify Exclusive\)](https://open.spotify.com/album/2SJtePiXbTDlsxU4OKUa20) | 3:05 |
 | 844 | [The Falls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6RasuQ5G0sJNP0v5feNurh) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Spotify Singles](https://open.spotify.com/album/5XwtoYuub04Jp9e4HA6PNv) | 2:19 |
 | 845 | [Tonight I'll Be Staying Here With You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2a15kXT1K2oDf5Ejran3bH) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Spotify Singles](https://open.spotify.com/album/5XwtoYuub04Jp9e4HA6PNv) | 3:35 |
@@ -912,4 +912,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 902 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 903 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCw3YzY3YmRiZGQ1NDRlZTQwOTYxN2E0MjNjNjhhZjhhN2Y0ZDg4NDE2`
+Snapshot ID: `MCxkZmI0NzU3YjkyMzI0MmE1OWQ0MjE0N2Q3Njg0NDYzNDYyZGRhZDYw`

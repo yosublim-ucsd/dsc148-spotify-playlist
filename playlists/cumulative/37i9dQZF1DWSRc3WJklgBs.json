@@ -8454,7 +8454,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 267200,
       "name": "Half A World Away (feat. Sarah de Warren)",
       "url": "https://open.spotify.com/track/0Uyi3DHJMoGURtYihR6LAN"
@@ -25678,6 +25678,28 @@
       "duration_ms": 205266,
       "name": "You (feat. Sam Tompkins)",
       "url": "https://open.spotify.com/track/6Q0Dzn2dGVvq0KPKjl2BPC"
+    },
+    {
+      "album": {
+        "name": "You (feat. Seeb)",
+        "url": "https://open.spotify.com/album/6WEopWtR9ytzA1bCsdPjMP"
+      },
+      "artists": [
+        {
+          "name": "Svidden",
+          "url": "https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197683,
+      "name": "You (feat. Seeb)",
+      "url": "https://open.spotify.com/track/3dVGTB7npFPXJp4839bXNb"
     },
     {
       "album": {

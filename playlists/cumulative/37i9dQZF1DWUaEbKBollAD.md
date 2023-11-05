@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-64 songs - 7 hr 30 min
+66 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,9 +29,11 @@
 | [EYES](https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [EYES](https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO) | 3:32 | 2023-08-10 |  |
 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 | 2023-08-10 |  |
 | [Freie Sicht feat\. Acud \- Tal Fussman Remix](https://open.spotify.com/track/5jjM09V3op14MffQeJeXAN) | [Oberst & Buchner](https://open.spotify.com/artist/6c6I6loLZeoagmF9nfAXJw), [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb), [Acud](https://open.spotify.com/artist/6nkfC5ET7sPeZHTZN5X78N) | [Freie Sicht feat\. Acud](https://open.spotify.com/album/0DFeLHLXOOW6jCUB77FUq0) | 5:52 | 2023-08-10 |  |
-| [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 | 2023-08-10 |  |
+| [Future Dust](https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc) | 8:29 | 2023-10-13 |  |
+| [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 | 2023-08-10 | 2023-11-05 |
 | [Green Rework](https://open.spotify.com/track/6dDHMXEY5Vm2yXakvnwALO) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Green Rework](https://open.spotify.com/album/1qtJVVV0QmXTWzIv0FCif4) | 7:13 | 2023-08-10 |  |
-| [Himalaya](https://open.spotify.com/track/7vFdnywjtZrVLXplNl4Id6) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Himalaya EP](https://open.spotify.com/album/7LZKTkLR6aytEvpYRaHbB6) | 6:18 | 2023-08-10 |  |
+| [Himalaya](https://open.spotify.com/track/1xDo7ZRJGusfMXSrbkPA9N) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Himalaya EP](https://open.spotify.com/album/1hMcj58nfxMRslx8c25qmG) | 6:18 | 2023-10-13 |  |
+| [Himalaya](https://open.spotify.com/track/7vFdnywjtZrVLXplNl4Id6) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Himalaya EP](https://open.spotify.com/album/7LZKTkLR6aytEvpYRaHbB6) | 6:18 | 2023-08-10 | 2023-11-05 |
 | [Hollow](https://open.spotify.com/track/16vesqKrocX8YaTyZR0Mvq) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Hollow](https://open.spotify.com/album/01z46tluY9725bHJhs48in) | 3:27 | 2023-08-10 | 2023-09-07 |
 | [Holy Harmony](https://open.spotify.com/track/67iPIPYUDCW30vZ83lBR8J) | [Jonathan Goldman](https://open.spotify.com/artist/5KnTqREHfCARDD8im3isVg), [Sarah Benson](https://open.spotify.com/artist/3cJDJfF5k4i9OmE9QWPMSM) | [Holy Harmony](https://open.spotify.com/album/7yglOQYi1MFs7bBAY2OWXZ) | 1:12:00 | 2023-08-10 |  |
 | [Homologic \- Dubfire & Fedele Remix](https://open.spotify.com/track/3ybQK3RNlnLe1x4jc3lNhp) | [Emitr](https://open.spotify.com/artist/3K4Bvd2aKjgYkCJU6amTLN), [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI), [Fedele](https://open.spotify.com/artist/34gSgmoLZ10KRzLjouK868) | [Homologic \(Dubfire & Fedele Remix\)](https://open.spotify.com/album/44V06jzSd4Mvz6PkE3GV3S) | 6:34 | 2023-08-10 |  |

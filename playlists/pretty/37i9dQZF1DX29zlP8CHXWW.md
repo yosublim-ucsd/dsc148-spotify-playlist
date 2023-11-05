@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 
 > Check out some of the songs from the <a href="https://www.passion2023.com/"> Passion 2023 </a> conference.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,407 likes - 42 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,480 likes - 42 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 | 41 | [First Love \- Live](https://open.spotify.com/track/3rqhtNTYBbUxQ2j4NaG0Qx) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Blessing \(Live\)](https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b) | 9:16 |
 | 42 | [Christ Our King \- Live From Camp](https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 6:05 |
 
-Snapshot ID: `MCxhYWQ0YTY4NTA5NjhjOTI0MzE4ZWEwNjVlNDU2Y2U4YTllMDU0OWJh`
+Snapshot ID: `MCxkNWJhMzZlODk2ODlhZGQzMWQ2ODQyMGZiMzEwZDk1MzQwNWRlY2U1`

@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-520 songs - 1 day 19 hr 56 min
+521 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Reckoning](https://open.spotify.com/track/1buW5npL9yzCtw3fvamsoW) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Reckoning](https://open.spotify.com/album/177OdXL4rE3lvChBEEgnLb) | 3:14 | 2021-12-16 | 2022-11-03 |
 | [Reckoning](https://open.spotify.com/track/5e0pRiSDnhdsJebJCoQAbH) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Reckoning](https://open.spotify.com/album/0JPEpzWA24I3nxgIGFX6uZ) | 3:14 | 2022-02-10 |  |
 | [Redención \(feat\. Angá Díaz, Amadito Valdés, Carlos González & Manuel Galbán\)](https://open.spotify.com/track/7zJ4CxDxMHaO6fIHey0iMG) | [Orlando "Cachaíto" López](https://open.spotify.com/artist/46NzAs7obt30YFHdDt0O2m), [Angá Diaz](https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz), [Amadito Valdés](https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D), [Carlos Gonzalez](https://open.spotify.com/artist/4yBGwLykrZ7TsKLIepDxYJ), [Manuel Galbán](https://open.spotify.com/artist/5uG50qso5XAfxs6BeXdnld) | [Cachaito](https://open.spotify.com/album/6ZJvZAcBuJjkuq2KZHJYCS) | 4:50 | 2022-04-01 | 2023-11-03 |
+| [Redención \(feat\. Angá Díaz, Amadito Valdés, Carlos González & Manuel Galbán\)](https://open.spotify.com/track/4NN5IrRr7sji3QimhwzZcr) | [Orlando "Cachaíto" López](https://open.spotify.com/artist/46NzAs7obt30YFHdDt0O2m), [Angá Diaz](https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz), [Amadito Valdés](https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D), [Carlos Gonzalez](https://open.spotify.com/artist/4yBGwLykrZ7TsKLIepDxYJ), [Manuel Galbán](https://open.spotify.com/artist/5uG50qso5XAfxs6BeXdnld) | [Cachaito](https://open.spotify.com/album/46lsKMxwjR0uLeTZJl6gFn) | 4:50 | 2022-04-01 |  |
 | [Refractions](https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Refractions](https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe) | 3:37 | 2021-12-16 |  |
 | [Relationships](https://open.spotify.com/track/4yIXHZyba42VV7gCpec6h4) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Meditations](https://open.spotify.com/album/19SzhIssFZJ5pPHmZuJOWK) | 5:13 | 2021-12-16 |  |
 | [Repurposing 1 D L W](https://open.spotify.com/track/2z6MdFZ4GGK2WinGqvtCG4) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Christopher Dell](https://open.spotify.com/artist/2Q5s4iYdCXKILxmqPjBfer), [Christian Lillinger](https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26), [Jonas Westergaard](https://open.spotify.com/artist/367P7Sb8eJw6mRwH9wBG9P) | [Repurposing 1 D L W](https://open.spotify.com/album/5qXbFbCDxQqEIZBe8OWLrl) | 3:16 | 2021-12-16 | 2022-07-29 |
@@ -413,7 +414,7 @@
 | [Stilo](https://open.spotify.com/track/3tBTtLW2GhWdwV42EQkBLO) | [Anthony Bruno](https://open.spotify.com/artist/1xHTfW0mULQmn6CM9f2wvN) | [Stilo](https://open.spotify.com/album/2rfVcCqLV42c7FCOyLSIm9) | 3:09 | 2021-12-16 |  |
 | [Stonehouse](https://open.spotify.com/track/1ZL4KD9Lk08xuqwe8ynleU) | [Girls in Airports](https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr) | [Dive](https://open.spotify.com/album/0CP956nwKDWk9bRqLslqSw) | 3:54 | 2022-02-10 |  |
 | [Stonehouse](https://open.spotify.com/track/3lGgUdlzMIRskPzQKGTBRq) | [Girls in Airports](https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr) | [Dive](https://open.spotify.com/album/4oTKA7yUp8h6cQorbIhsAz) | 3:54 | 2021-12-16 | 2022-07-29 |
-| [Stoplight](https://open.spotify.com/track/21qFaiN2O06j08MVK13xnG) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [bastrd](https://open.spotify.com/artist/3EKL8aG8iLGwooE3FAfGrb) | [Stoplight](https://open.spotify.com/album/61NY1EKzeDq5F0rcHjKn3v) | 2:04 | 2021-12-16 |  |
+| [Stoplight](https://open.spotify.com/track/21qFaiN2O06j08MVK13xnG) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [bastrd](https://open.spotify.com/artist/3EKL8aG8iLGwooE3FAfGrb) | [Stoplight](https://open.spotify.com/album/61NY1EKzeDq5F0rcHjKn3v) | 2:04 | 2021-12-16 | 2023-11-05 |
 | [Strasbourg / St\. Denis](https://open.spotify.com/track/62VWmsNoDmqT0Mj9oHHFVh) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 4:38 | 2022-04-01 |  |
 | [Street Fighter Mas](https://open.spotify.com/track/42HCaQAAihJZBY12wIZvyR) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Heaven and Earth](https://open.spotify.com/album/4gqOopeAEc1uZ392BBAWEd) | 5:58 | 2021-12-16 | 2021-12-22 |
 | [Stronger](https://open.spotify.com/track/0DMmuamiQ9tRdXfFLrEADn) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Stronger](https://open.spotify.com/album/04Zzn0UXThAN51aO82Csk3) | 3:03 | 2021-12-21 |  |

@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Megan The Stallion, Jeezy and more\. Cover: NAV
 
-3,907 songs - 7 day 14 hr 30 min
+3,908 songs - 7 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2393,6 +2393,7 @@
 | [No Vaccine](https://open.spotify.com/track/5wCKgaHeNlDKXLbV4tJ8P3) | [Madmarcc](https://open.spotify.com/artist/3o6rIhI1Ahunc62U1tx6tg) | [No Vaccine](https://open.spotify.com/album/4z7Jc8pz7ZfLcd4Ldaosxt) | 2:03 | 2022-01-21 | 2022-02-05 |
 | [No Weakness](https://open.spotify.com/track/6kwz9zbK7jHImhFwy25yn2) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 3:24 | 2023-03-31 | 2023-04-15 |
 | [Noble \(feat\. Rick Ross & Sy Ari Da Kid\)](https://open.spotify.com/track/33tz7aKRSvijibEnrAlFn8) | [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Sy Ari Da Kid](https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0) | [Don D.O.L.L.A.](https://open.spotify.com/album/6BiSoI4dAFqHJUdTi9UYc1) | 2:52 | 2023-08-18 | 2023-08-26 |
+| [NOBU](https://open.spotify.com/track/7kQ0dKyEQkYTWqJUEf7Hx8) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Kill Jasper](https://open.spotify.com/artist/3Hxle1ifo8pdsakQ06MMUH) | [NOBU](https://open.spotify.com/album/5dANQ6jJJcwGZ5KqqYFk4d) | 2:35 | 2023-11-03 |  |
 | [Non Judgmental](https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Non Judgmental](https://open.spotify.com/album/2uGbuQOjYFe03bOXUCcLKj) | 3:02 | 2022-02-11 | 2022-02-26 |
 | [NONCHALANT \(feat\. Mamii\)](https://open.spotify.com/track/2mz9mssxUxuUdBBiMWXdIF) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Mamii](https://open.spotify.com/artist/0QPC36N4aQVrUp0NzaSXHI) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 3:24 | 2022-06-17 | 2022-06-25 |
 | [Not Average](https://open.spotify.com/track/5c17nOEQCoClTIxTZW3PQZ) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [Not Average](https://open.spotify.com/album/73HT2tePpLuaUps2WZJ7QG) | 2:37 | 2023-08-25 | 2023-09-02 |

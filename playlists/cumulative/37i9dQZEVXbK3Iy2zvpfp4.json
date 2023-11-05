@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 80271,
       "name": "AREAMATE MIZ",
       "url": "https://open.spotify.com/track/6A3uNmMItYREVU0mKY84DO"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -2448,7 +2448,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 104013,
       "name": "BAIXO",
       "url": "https://open.spotify.com/track/0rb7HcBkdMPp04ybHBfX41"
@@ -4372,7 +4372,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 189090,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
@@ -7806,7 +7806,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 130093,
       "name": "Explosion Ech poleczko - DNSQ Remix",
       "url": "https://open.spotify.com/track/3QHZAr43uvIGpWfJAHhFX3"
@@ -8388,6 +8388,24 @@
       "duration_ms": 131181,
       "name": "First Light",
       "url": "https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S"
+    },
+    {
+      "album": {
+        "name": "Five Nights at Freddy's",
+        "url": "https://open.spotify.com/album/1dq5N7M7pxFso51oa79BTI"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165831,
+      "name": "Five Nights at Freddy's",
+      "url": "https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE"
     },
     {
       "album": {
@@ -12376,7 +12394,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 152608,
       "name": "It's a Fine Day",
       "url": "https://open.spotify.com/track/4y4g8oUhA6SODQzbKY7GVp"
@@ -13578,7 +13596,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 190588,
       "name": "Kr\u00e1lovstv\u00ed",
       "url": "https://open.spotify.com/track/1BE9PBZnXNbc6xh8jdbC7i"
@@ -16446,7 +16464,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 172128,
       "name": "Moja Fam",
       "url": "https://open.spotify.com/track/4ANxgDK1X5GhO14ckzoeQl"
@@ -30350,6 +30368,24 @@
       "duration_ms": 179969,
       "name": "\u041b\u0435\u0442\u043e \u0438 \u0430\u0440\u0431\u0430\u043b\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/7mYmtek30a7CtL93thnvaG"
+    },
+    {
+      "album": {
+        "name": "\u0414\u0436\u0430\u0433\u0430-\u0434\u0436\u0430\u0433\u0430",
+        "url": "https://open.spotify.com/album/5bqf6dvtEfpmc9IqM2wSLz"
+      },
+      "artists": [
+        {
+          "name": "Katya Lel",
+          "url": "https://open.spotify.com/artist/3NguMMTDTItRbe2E2PZrJ2"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223190,
+      "name": "\u041c\u043e\u0439 \u043c\u0430\u0440\u043c\u0435\u043b\u0430\u0434\u043d\u044b\u0439 (\u042f \u043d\u0435 \u043f\u0440\u0430\u0432\u0430)",
+      "url": "https://open.spotify.com/track/1Hg0KhBCuME4PgsTYMBK9y"
     },
     {
       "album": {

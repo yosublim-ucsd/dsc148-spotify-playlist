@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:5yCOPpDHEQxwSJJL2LAqLj">Mack Brock</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,083 likes - 99 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,187 likes - 99 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 21 | [Visions](https://open.spotify.com/track/0v3IjsHUg6MAQMZ9Ur7x2Y) | [Jaime Jamgochian](https://open.spotify.com/artist/589zPmnl9UayJxgJAyEmpo), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Visions](https://open.spotify.com/album/1blH7fTeNCvw8VmLRhsLG3) | 4:02 |
 | 22 | [Your Touch](https://open.spotify.com/track/0dmbB1PmvW9tJYqXZCU7d9) | [Aline Souza](https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI) | [Your Touch](https://open.spotify.com/album/2a1NqrWwkUWSCLiis2Hq8P) | 4:09 |
 | 23 | [Take It Away](https://open.spotify.com/track/0ziTup6jHMwKiCYKKWbRO4) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [Take It Away](https://open.spotify.com/album/5xvyzVFlhsOGOUtzH42Qyr) | 3:07 |
-| 24 | [Begin Again](https://open.spotify.com/track/1b4w6eVd2oGYjIDZx737P7) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6), [Kristen Sangary](https://open.spotify.com/artist/4LNYMNdDRDYKIB9rk8gY8K), [SUNGOLD](https://open.spotify.com/artist/2hUpzJumCMeLzXdxnxkZ6E) | [Begin Again](https://open.spotify.com/album/2lkjKKKGAvbn2tjuVa2ToS) | 3:07 |
+| 24 | [Begin Again](https://open.spotify.com/track/3UJCJnJNQ9LQYFurAMTBZc) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6), [Kristen Sangary](https://open.spotify.com/artist/4LNYMNdDRDYKIB9rk8gY8K), [SUNGOLD](https://open.spotify.com/artist/2hUpzJumCMeLzXdxnxkZ6E) | [Lost On Me](https://open.spotify.com/album/3jISEw2vtj2ckkBt7f5OQu) | 3:07 |
 | 25 | [Jesus is Lord](https://open.spotify.com/track/7rnj8AqnaWMo6U8SfoENBG) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Jesus is Lord](https://open.spotify.com/album/2yWzgqKFM4QjkBOfXTrrFz) | 3:36 |
 | 26 | [Angels \- Original Vocal Mix](https://open.spotify.com/track/1od7YOxcc8N7ndCXV7hMdj) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Angels](https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG) | 4:03 |
 | 27 | [I See Good](https://open.spotify.com/track/7ICspKZzvN08ubrSticzeo) | [Maurette Brown Clark](https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p) | [He Loves Me](https://open.spotify.com/album/3VTK913Y9CKv37VLjpPJq2) | 6:07 |
 | 28 | [Grace \(feat\. Kierra Sheard\-Kelly\)](https://open.spotify.com/track/0tXgfxKBnI3iDI6GaDRrIk) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Kierra Sheard\-Kelly](https://open.spotify.com/artist/7k9QU2u4MTwjc6pHZoo9po) | [Affirmations](https://open.spotify.com/album/7nsuo2vcsPXDQdCQBY6SYv) | 5:37 |
 | 29 | [We Adore You \- Live](https://open.spotify.com/track/1JolrZmZv9Xr0llFLPdtBE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 8:19 |
-| 30 | [Hold On \- Live](https://open.spotify.com/track/0aZegYIt9mnXiF6RaPQRa1) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Hold On \(Live\)](https://open.spotify.com/album/6jMmDumblqSTLXGRRbSuAg) | 3:52 |
+| 30 | [Hold On \- Live/Radio Edit](https://open.spotify.com/track/0aZegYIt9mnXiF6RaPQRa1) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Hold On \(Live/Radio Edit\)](https://open.spotify.com/album/6jMmDumblqSTLXGRRbSuAg) | 3:52 |
 | 31 | [Worship Of My Heart](https://open.spotify.com/track/6WrbAoqgllPLCkNZUm0qSs) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Of My Heart](https://open.spotify.com/album/3C0uaYSWDa8xNTUE9TvTVP) | 8:06 |
 | 32 | [One of a Kind God](https://open.spotify.com/track/5qbGymKKmvcfjE5yNXDYOU) | [Jay Todd](https://open.spotify.com/artist/5MsEDRnwrD69LtmZuBtu3A), [Benita Jones](https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S) | [One of a Kind God](https://open.spotify.com/album/3KKRxC2pkLJNh1AeU4D9wu) | 9:30 |
 | 33 | [Sounds Of Many Waters](https://open.spotify.com/track/17KHqvA0xhvnbBqJ0l3kBB) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Sounds Of Many Waters](https://open.spotify.com/album/2hoD5ioNgzA7YJUR1hRF1P) | 4:23 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Steady](https://open.spotify.com/track/6gGfORW04FjcMSn2u8zgHH) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Steady](https://open.spotify.com/album/2EWfsVbf3AwGAovgE7e5W2) | 3:46 |
 | 99 | [closer still](https://open.spotify.com/track/64YoJxyHwgBbrlvcKcE5tC) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR), [ISAI](https://open.spotify.com/artist/3od4hzDFA7cSnG8Ne7vsTD) | [closer still](https://open.spotify.com/album/56G4KGyNIq6EN5QDStqEpt) | 3:52 |
 
-Snapshot ID: `MCxkNWQyYWE2NDJlOTU3M2E5ZDhiNmFhNzdiZTBkMzExNzFiYWE3MzUw`
+Snapshot ID: `MCxiNTdlZDg1MzRlOWI5MTIzNTNlMjA0ZmUxNzg5YmY2YzNlNWQ4NjZm`

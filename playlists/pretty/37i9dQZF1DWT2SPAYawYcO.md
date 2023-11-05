@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: The Beatles!
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,911 likes - 79 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,953 likes - 79 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 34 | [Let's Duet](https://open.spotify.com/track/2Qv6kpmcHfEIYouKakn8HV) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Let's Duet](https://open.spotify.com/album/1DDTtecaPf9zmBBtsCwQyr) | 2:52 |
 | 35 | [Good Life](https://open.spotify.com/track/3XuXPM1IPs5STXrehA60Cw) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [Good Life](https://open.spotify.com/album/4uLJamDlRZjcd5QucKgq6n) | 3:02 |
 | 36 | [I Love Making Bad Boys Cry](https://open.spotify.com/track/5LxrXfUFQV3JfWJLcCrH29) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [I Love Making Bad Boys Cry](https://open.spotify.com/album/46Gq9avMetlmFdWLXbLy9n) | 2:21 |
-| 37 | [Nothing Lasts Forever](https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Nothing Lasts Forever](https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74) | 3:19 |
+| 37 | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74) | 3:19 |
 | 38 | [Little Red Jumpsuit](https://open.spotify.com/track/7bB6EexB9VgWvCMscC3yhk) | [Kingswood](https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5) | [The Tale of G.C.Townes](https://open.spotify.com/album/5NOSIjA8OiSPbs5Zx1yObn) | 3:47 |
 | 39 | [Abdicating](https://open.spotify.com/track/4QLwVOwbVzu2HrCzTPiOUx) | [Horrorshow](https://open.spotify.com/artist/4sL6dLwItg7ppqj4NwEQr6), [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE) | [Abdicating](https://open.spotify.com/album/3Kkk5Anv2PBF2tRVWkjH4W) | 3:05 |
 | 40 | [fight or flight](https://open.spotify.com/track/4HLgLWqVYZTjCbakheLHW5) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [fight or flight](https://open.spotify.com/album/2ocV2GxroahFZFkUOYUFuF) | 3:16 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 78 | [Tomorrow 1988](https://open.spotify.com/track/5fwbWqLQnR4AgcPL74E3hD) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV) | [Tomorrow 1988](https://open.spotify.com/album/3CcBPtlS6kvpmZB3hTRDZN) | 3:08 |
 | 79 | [Waves](https://open.spotify.com/track/4dU67U4sR9XGrmrZVM0EjF) | [ENOLA](https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB) | [All Is Forgiven](https://open.spotify.com/album/7COYNYmGjWNc59laFxaSql) | 4:27 |
 
-Snapshot ID: `MCwxMzg4N2JiOTYxNGZhNDBkNzkxODI2N2IxNjA3MGUzOTQxMDhjZmI2`
+Snapshot ID: `MCxjNWIyMzI4NDJjZmRmNDU1ZWM4ZTFhMzU3OGZkN2VmMTFiYTVkZDg1`

@@ -4,7 +4,7 @@
 
 > Get up\. Stand up\. Be the revolution.
 
-152 songs - 8 hr 38 min
+154 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Election Year, Pt\. 1](https://open.spotify.com/track/7epVTPb3PIFW56MqFkqHYK) | [KillRadio](https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr) | [Election Year, Pt\. 1](https://open.spotify.com/album/67VTZ5lbwheDEkSfTv1noT) | 4:08 | 2020-09-18 | 2022-07-28 |
 | [Feed the Pressure](https://open.spotify.com/track/4VeMp9BOspHpUEiD3SMww0) | [Fear No Empire](https://open.spotify.com/artist/3LwnLoAjOLhXnEyyQqCDuk) | [Feed the Pressure](https://open.spotify.com/album/0q31Sx2CEYhhUwX4eZZIad) | 2:58 | 2020-10-30 | 2022-07-18 |
 | [Feel Invincible](https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:49 | 2020-08-19 |  |
-| [Forever](https://open.spotify.com/track/4KsMTsVpgVRQvPKhYkm0ff) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Forever](https://open.spotify.com/album/0aLxkTiBf1CQC726cDBA7m) | 2:51 | 2020-08-19 |  |
+| [Forever](https://open.spotify.com/track/4KsMTsVpgVRQvPKhYkm0ff) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Forever](https://open.spotify.com/album/0aLxkTiBf1CQC726cDBA7m) | 2:51 | 2020-08-19 | 2023-11-05 |
 | [Fuck Authority](https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 3:16 | 2020-08-19 |  |
 | [Give In](https://open.spotify.com/track/1PnpENYXi7nYMRsJq6nU3k) | [NEW LANGUAGE](https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL) | [Give In](https://open.spotify.com/album/6o1EM7uwLSqveoOTmvaAwL) | 3:28 | 2020-08-19 | 2022-07-29 |
 | [Go to War](https://open.spotify.com/track/5QurHLKbBbc7h6keRqhTpc) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Go to War](https://open.spotify.com/album/3YIBazKSFKwGjV4MdbBRWQ) | 4:05 | 2020-08-19 | 2022-07-29 |
@@ -72,6 +72,7 @@
 | [Icky Thump](https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:14 | 2022-07-01 |  |
 | [Icky Thump](https://open.spotify.com/track/7aBAo2pO8LvrN8mGba7MvA) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/77dc8fS3O8FaQjhbNASpgM) | 4:14 | 2020-08-19 | 2022-07-29 |
 | [Identity](https://open.spotify.com/track/6xDpjffkQ4daA6AiR7F15m) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Identity](https://open.spotify.com/album/2mSUgkKR7P3t1Ce2OIh7WL) | 3:36 | 2020-08-19 | 2022-07-29 |
+| [JU$T \(feat\. Pharrell Williams & Zack de la Rocha\)](https://open.spotify.com/track/0YdjfAmUyxF4Dh0HNEhmoI) | [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RTJ4](https://open.spotify.com/album/74LenWKjMdGa2qJiI1sxwT) | 3:25 | 2023-06-23 |  |
 | [JU$T \(feat\. Pharrell Williams & Zack de la Rocha\)](https://open.spotify.com/track/10vS4ZLi4XWlIsNXSQXgqh) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RTJ4](https://open.spotify.com/album/6cx4GVNs03Pu4ZczRnWiLd) | 3:25 | 2022-07-01 | 2023-11-02 |
 | [Justice](https://open.spotify.com/track/58RS7zR33lYpeMD5zhhfPy) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Justice](https://open.spotify.com/album/0pdFrxKyMQKf8b75qZv6kO) | 3:01 | 2022-07-01 |  |
 | [Justice](https://open.spotify.com/track/5BV0OLRemswcGOPbfcG2w4) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Justice](https://open.spotify.com/album/0YVderqtiI3A2Nqu91ciSN) | 3:01 | 2020-08-19 | 2022-07-29 |
@@ -92,7 +93,7 @@
 | [Mirrors](https://open.spotify.com/track/4oFyfXZgrirMQCwjhXGnj6) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1) | 3:06 | 2020-08-19 | 2022-08-25 |
 | [Music in My Head](https://open.spotify.com/track/4K5DVRPZZ1ODCwHSNhIshu) | [KillRadio](https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr) | [Election Year](https://open.spotify.com/album/4pT7zvZRbbZa20c3JVbIAI) | 3:23 | 2021-04-16 | 2022-06-01 |
 | [N.I.G.G.a\. \(Not OK\)](https://open.spotify.com/track/3GgT9XmJMThUxcRYaI58Kg) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Cat & Mouse](https://open.spotify.com/album/5qEZVA8hye6yQrSXZY5WGO) | 3:54 | 2022-01-14 | 2022-05-31 |
-| [National Anthem](https://open.spotify.com/track/0A216B18ZRLYOrFVBeFbt4) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [STAINS](https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG) | 2:27 | 2022-07-01 |  |
+| [National Anthem](https://open.spotify.com/track/0A216B18ZRLYOrFVBeFbt4) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [STAINS](https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG) | 2:27 | 2022-07-01 | 2023-11-05 |
 | [National Anthem](https://open.spotify.com/track/17DPxC2PVZH80od1vFvW2t) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [National Anthem](https://open.spotify.com/album/7pqXY4C7TOgZPfaz9q4Kxt) | 2:28 | 2020-08-19 | 2022-07-29 |
 | [None Of The Above](https://open.spotify.com/track/0qochh4sUrYpilQZKTtutC) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/3Ubxq3xl0xzgKTyetggqbm) | 3:34 | 2020-08-19 | 2022-07-27 |
 | [None Of The Above](https://open.spotify.com/track/20rgXJLz47hMoQUOP218ll) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:34 | 2023-06-23 |  |
@@ -137,6 +138,7 @@
 | [The Disease](https://open.spotify.com/track/6XAwcgNG3ZC0IySBXYlqmi) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:55 | 2022-11-04 |  |
 | [The Disease](https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Disease](https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx) | 2:55 | 2020-08-19 | 2023-05-04 |
 | [The Doomed](https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Eat The Elephant](https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op) | 4:41 | 2022-07-01 | 2023-11-04 |
+| [The Doomed](https://open.spotify.com/track/4D07vsUEpOoMO1LmFknt3D) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Eat The Elephant](https://open.spotify.com/album/7nnNLD5cv828YSFxXaezRm) | 4:41 | 2023-06-23 |  |
 | [The Doomed](https://open.spotify.com/track/54RaEDwHbCJKMdDq68EyKE) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [The Doomed](https://open.spotify.com/album/4uHOQCxpSE2W3U7uaTd6Mg) | 4:41 | 2020-08-19 | 2022-07-28 |
 | [The Kids Aren't Alright](https://open.spotify.com/track/4sQJXbtxwoKHG7PwMRJ0Ig) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/7rgq4mAjZOPGVJCRF56FU4) | 2:59 | 2020-08-19 | 2022-07-29 |
 | [The Kids Aren't Alright](https://open.spotify.com/track/0afY9n0phK2vvkwxywrECH) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [1990s Mix\-Tape](https://open.spotify.com/album/1pjdiSeAmHA1WvKJvJ4qai) | 2:59 | 2022-11-04 | 2022-11-13 |

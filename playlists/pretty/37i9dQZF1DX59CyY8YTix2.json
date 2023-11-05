@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmQxMmVlNGJmZDQ5NjEzNTUwYjEwZTc1Yjk1YWI0MDYxOWYzODdm",
+  "snapshot_id": "MCxiZjdkZDM5ZTRiNWIwZDdiMGU0MDdkNjE3ZDAzYjZjZGY5MGUxZDcy",
   "tracks": [
     {
       "added_at": "2023-11-02 15:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-11-02 15:00:00",
       "album": {
-        "name": "\u79c1\u306f\u732b\u306e\u76ee",
-        "url": "https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "\u79c1\u306f\u732b\u306e\u76ee",
-      "url": "https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd"
-    },
-    {
-      "added_at": "2023-11-02 15:00:00",
-      "album": {
         "name": "\u5922\u3092\u307f\u305b\u3066",
         "url": "https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 324184,
       "name": "\u5922\u3092\u307f\u305b\u3066",
       "url": "https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID"
+    },
+    {
+      "added_at": "2023-11-02 15:00:00",
+      "album": {
+        "name": "\u79c1\u306f\u732b\u306e\u76ee",
+        "url": "https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "\u79c1\u306f\u732b\u306e\u76ee",
+      "url": "https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd"
     },
     {
       "added_at": "2023-11-02 15:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-02 15:00:00",
       "album": {
-        "name": "you n me",
-        "url": "https://open.spotify.com/album/4ysSkJfyOvJ8QEj0FGhIHw"
-      },
-      "artists": [
-        {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
-        }
-      ],
-      "duration_ms": 268398,
-      "name": "you n me",
-      "url": "https://open.spotify.com/track/0rcm0k91Fhlh9AK8pbWbU0"
-    },
-    {
-      "added_at": "2023-11-02 15:00:00",
-      "album": {
         "name": "Bye-Bye Show",
         "url": "https://open.spotify.com/album/3kL7hk71Spv76STO0skLct"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 281892,
       "name": "Bye-Bye Show",
       "url": "https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA"
+    },
+    {
+      "added_at": "2023-11-02 15:00:00",
+      "album": {
+        "name": "you n me",
+        "url": "https://open.spotify.com/album/4ysSkJfyOvJ8QEj0FGhIHw"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "duration_ms": 268398,
+      "name": "you n me",
+      "url": "https://open.spotify.com/track/0rcm0k91Fhlh9AK8pbWbU0"
     },
     {
       "added_at": "2023-11-02 15:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-11-02 15:00:00",
       "album": {
-        "name": "BiSH THE BEST",
-        "url": "https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3"
-      },
-      "artists": [
-        {
-          "name": "BiSH",
-          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
-        }
-      ],
-      "duration_ms": 269200,
-      "name": "\u30d7\u30ed\u30df\u30b9\u30b6\u30b9\u30bf\u30fc \u201923",
-      "url": "https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc"
-    },
-    {
-      "added_at": "2023-11-02 15:00:00",
-      "album": {
         "name": "Burn The Fire",
         "url": "https://open.spotify.com/album/01F2KOw5jXOkJDBAeDLAWs"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 235637,
       "name": "Burn The Fire",
       "url": "https://open.spotify.com/track/6FqxaTZhLuGWc89hc9ZOMe"
+    },
+    {
+      "added_at": "2023-11-02 15:00:00",
+      "album": {
+        "name": "BiSH THE BEST",
+        "url": "https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3"
+      },
+      "artists": [
+        {
+          "name": "BiSH",
+          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
+        }
+      ],
+      "duration_ms": 269200,
+      "name": "\u30d7\u30ed\u30df\u30b9\u30b6\u30b9\u30bf\u30fc \u201923",
+      "url": "https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc"
     },
     {
       "added_at": "2023-11-02 15:00:00",

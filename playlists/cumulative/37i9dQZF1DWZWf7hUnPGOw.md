@@ -4,7 +4,7 @@
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-258 songs - 15 hr 43 min
+259 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,8 @@
 | [Slow Down](https://open.spotify.com/track/0uk3W9Y15pFlwHC5xbYLcZ) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/6hgC7Jlj5suK4bR4F7RYTc) | 3:11 | 2022-07-22 |  |
 | [Slow Down](https://open.spotify.com/track/3DYFO4M2ygUYpXLzSbCOOr) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/4beiEpxAm9hGTRYGgdOdyS) | 3:11 | 2022-07-22 | 2022-10-14 |
 | [Slow Rolling](https://open.spotify.com/track/0opZ2lJotg4BBokS9S5QPp) | [Ocha la Rocha](https://open.spotify.com/artist/3aYqKgh8yPcgHgvGrtiKbG) | [Ocha Scores](https://open.spotify.com/album/5neD4cM7aAEPaSv0pTDPZF) | 2:54 | 2022-07-22 |  |
-| [So Happy It Hurts](https://open.spotify.com/track/6RZNw4khjjd6mehiLQ6Ztz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:35 | 2023-09-07 |  |
+| [So Happy It Hurts](https://open.spotify.com/track/3pwyxtKttUfugQybBFkJrJ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/4UTnmsmUfpex7nAxmrtaFt) | 3:35 | 2023-09-25 |  |
+| [So Happy It Hurts](https://open.spotify.com/track/6RZNw4khjjd6mehiLQ6Ztz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:35 | 2023-09-07 | 2023-11-05 |
 | [So Long Pretty Baby](https://open.spotify.com/track/2rMaLemAw1DhXoyLMjKlOB) | [Tenderfoot](https://open.spotify.com/artist/0cAed9YivTN7Yq2BnjRNyt) | [To Be Young](https://open.spotify.com/album/3lXYDEXGf78jrHbshOeTsX) | 2:52 | 2022-07-22 |  |
 | [Soft Dark Nothing](https://open.spotify.com/track/4SQ6Gk4a6QlPJrov5fD5Uu) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Arcadia](https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye) | 3:17 | 2022-07-22 |  |
 | [Soft Dark Nothing](https://open.spotify.com/track/52VI5ojStZshVlSLkNw73q) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Arcadia](https://open.spotify.com/album/701VQaTFIAVNkfLuR4oFFv) | 3:17 | 2022-07-22 | 2022-07-29 |

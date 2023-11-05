@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: ericdoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,554 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,543 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [dancingwithsomebawdy](https://open.spotify.com/track/4qKRrLTUuPn4wmESRqw26m) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [dancingwithsomebawdy](https://open.spotify.com/album/6V3WWXiykduElQoySTy9Y7) | 2:23 |
+| 1 | [dancinwitsomebawdy](https://open.spotify.com/track/4qKRrLTUuPn4wmESRqw26m) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [dancinwitsomebawdy](https://open.spotify.com/album/6V3WWXiykduElQoySTy9Y7) | 2:23 |
 | 2 | [sins \(let me in\)](https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [sins \(let me in\)](https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg) | 2:08 |
 | 3 | [Moving Forward](https://open.spotify.com/track/4kO9Q1jUCLhuuWOQs3hBa3) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [January Never Dies](https://open.spotify.com/album/3KfVspuHZTMj8eg5wAH5t1) | 3:25 |
 | 4 | [A LA CARTE \(feat\. brakence\)](https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [Driver](https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Driver](https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4) | 2:45 |
 | 100 | [love that 4 u](https://open.spotify.com/track/7ulWHAI8brxFTmunoAqRCz) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE), [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [frenemy](https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU) | 4:19 |
 
-Snapshot ID: `MCxhMTUwOTVlZGUyYzgzYTgxYWMyMDQzNDY4MTYyY2ZkNWY0NjBkZTRh`
+Snapshot ID: `MCw0NzkyZWUyZjIxMDI1ZmMwYmYwM2ZlNzg1YTBmZGMxYWYyYzE5NGEw`

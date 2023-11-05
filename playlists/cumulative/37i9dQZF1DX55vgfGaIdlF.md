@@ -4,7 +4,7 @@
 
 > Slow down with these late night jams.
 
-96 songs - 6 hr 36 min
+98 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Fifteen](https://open.spotify.com/track/1OlwtyN0NVdM09ZShssxn0) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Embrace](https://open.spotify.com/album/5QyUeIHvdbk6XEZZPVAF67) | 5:00 | 2022-07-29 | 2023-04-04 |
 | [Fifteen](https://open.spotify.com/track/4p52YEYBTklpEwx9w1QHBo) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Trax 7 The Slow Wave](https://open.spotify.com/album/2qNMNlwlXYpmuY4tKSlplO) | 5:00 | 2022-11-11 | 2022-11-13 |
 | [Fifteen](https://open.spotify.com/track/5nUedhPTdQT1F1tunbMHQj) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Trax 7 \- The Slow Wave](https://open.spotify.com/album/5av3f0kW78Pm3gQoQ1Uz1z) | 5:00 | 2015-02-23 | 2022-07-29 |
-| [Fifteen \(feat\. Chela\)](https://open.spotify.com/track/0UhvIPiieSHufcul1eUSw9) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Embrace](https://open.spotify.com/album/04TT3EIMPbSXgulCp8aXcL) | 5:00 | 2023-04-04 |  |
+| [Fifteen \(feat\. Chela\)](https://open.spotify.com/track/0UhvIPiieSHufcul1eUSw9) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Embrace](https://open.spotify.com/album/04TT3EIMPbSXgulCp8aXcL) | 5:00 | 2023-04-04 | 2023-11-05 |
+| [Fifteen \(feat\. Chela\)](https://open.spotify.com/track/1s3TagCdN5LJc5EAIl9BpA) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Chela](https://open.spotify.com/artist/1f4H4i3FmalnzLcflKdfkv) | [Embrace](https://open.spotify.com/album/41JxPbrsjN0ra5CjVGXQl5) | 5:00 | 2023-11-05 |  |
 | [Gold](https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 4:45 | 2023-06-23 |  |
 | [Gold](https://open.spotify.com/track/03qDVofuUUQSsSQCLWX0eF) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v) | 4:45 | 2022-07-29 | 2023-06-23 |
 | [Gold](https://open.spotify.com/track/1oPenAfTz9oa1RWNBGy0tO) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/4TqioMediFf2UaseMoxGgK) | 4:45 | 2015-02-23 | 2022-07-29 |
@@ -68,8 +69,9 @@
 | [Pendulum](https://open.spotify.com/track/06d5qOLownLafrcQ8CvZU2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [LP1](https://open.spotify.com/album/5VqGGKeWpIBRFh4M4XmqDK) | 4:58 | 2015-02-23 | 2022-07-29 |
 | [Pendulum](https://open.spotify.com/track/4SMtnpWk1iFjunTtVpeR2y) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [LP1](https://open.spotify.com/album/070rEVRV6FWywkncMWLhs6) | 4:58 | 2022-07-29 |  |
 | [Permission to Love](https://open.spotify.com/track/0agehDrq7ZHos1Di3Gv4Co) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Permission to Love](https://open.spotify.com/album/3fpXhhd88gEzvuizGINIXa) | 4:24 | 2015-02-23 | 2022-07-29 |
-| [Permission To Love](https://open.spotify.com/track/13V90m5e1r9MEPZJS1LFGH) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Permission To Love](https://open.spotify.com/album/5XS3fM0wq5jHOOd0JNt97o) | 4:24 | 2022-07-29 |  |
+| [Permission To Love](https://open.spotify.com/track/13V90m5e1r9MEPZJS1LFGH) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Permission To Love](https://open.spotify.com/album/5XS3fM0wq5jHOOd0JNt97o) | 4:24 | 2022-07-29 | 2023-11-05 |
 | [Permission To Love](https://open.spotify.com/track/2tIohDVEQZ2yVSpcL7UK0I) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Hayden James](https://open.spotify.com/album/6yRdz0bei02yHEU4NTTtp7) | 4:24 | 2022-11-12 | 2022-11-13 |
+| [Permission To Love](https://open.spotify.com/track/4R11ORTv2NY7mHyiWq8P7c) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Permission To Love](https://open.spotify.com/album/2SzSoznAcqjkYlMcimfaxi) | 4:24 | 2023-11-05 |  |
 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 | 2015-02-23 |  |
 | [Remember Me In Every Cloud Of Gold](https://open.spotify.com/track/3MKwthwXWWInikFeoS9GGg) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl), [Kwamie Liv](https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg) | [Remember Me In Every Cloud Of Gold](https://open.spotify.com/album/1Dlpz9IqmHUo0Q0qngVGI0) | 3:11 | 2015-07-28 | 2022-07-29 |
 | [Remember Me in Every Cloud of Gold](https://open.spotify.com/track/2no2tImTgO1fcjerEu32fz) | [Kwamie Liv](https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg), [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [Gold Coast \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O8mk6LRxv8ud1WynNWIm3) | 3:10 | 2022-07-29 |  |

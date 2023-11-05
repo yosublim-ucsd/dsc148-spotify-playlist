@@ -284,7 +284,7 @@
     {
       "album": {
         "name": "Abhay Nayampally",
-        "url": "https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN"
+        "url": "https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga"
       },
       "artists": [
         {
@@ -303,6 +303,32 @@
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 363000,
+      "name": "Ballad Of Krishna (feat. Sandeep Chowta & thommyknoles)",
+      "url": "https://open.spotify.com/track/3zxYkGwyk2ZXzFI6r72NlM"
+    },
+    {
+      "album": {
+        "name": "Abhay Nayampally",
+        "url": "https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN"
+      },
+      "artists": [
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        },
+        {
+          "name": "Sandeep Chowta",
+          "url": "https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy"
+        },
+        {
+          "name": "thommyknoles",
+          "url": "https://open.spotify.com/artist/6ow5uPEmTf2syuovBlfibt"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 363000,
       "name": "Ballad Of Krishna (feat. Sandeep Chowta & thommyknoles)",
       "url": "https://open.spotify.com/track/5JE4bVp3peKYimBL6FtXiE"
@@ -732,7 +758,7 @@
     {
       "album": {
         "name": "Abhay Nayampally",
-        "url": "https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN"
+        "url": "https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga"
       },
       "artists": [
         {
@@ -743,6 +769,24 @@
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Ex-Animo",
+      "url": "https://open.spotify.com/track/11eiYSPEAaifhDMswWLpdy"
+    },
+    {
+      "album": {
+        "name": "Abhay Nayampally",
+        "url": "https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN"
+      },
+      "artists": [
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 204800,
       "name": "Ex-Animo",
       "url": "https://open.spotify.com/track/5msnjQgoFGir5Wn9NFIMmm"
@@ -844,10 +888,36 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 343010,
       "name": "Hues (feat. Seb Read & Sandeep Chowta)",
       "url": "https://open.spotify.com/track/0T80o0Ah5dUVZMsX710Fn0"
+    },
+    {
+      "album": {
+        "name": "Abhay Nayampally",
+        "url": "https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga"
+      },
+      "artists": [
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        },
+        {
+          "name": "Sandeep Chowta",
+          "url": "https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy"
+        },
+        {
+          "name": "Seb Read",
+          "url": "https://open.spotify.com/artist/5IdebZbdwhXbLRj9dVVPOR"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343010,
+      "name": "Hues (feat. Seb Read & Sandeep Chowta)",
+      "url": "https://open.spotify.com/track/6sQVBmXclpJicLCPM2hZ6G"
     },
     {
       "album": {

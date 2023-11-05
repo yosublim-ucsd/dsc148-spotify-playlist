@@ -1772,10 +1772,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 117800,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/2MF70gFS4vaRw2E4lVOI5B"
+    },
+    {
+      "album": {
+        "name": "Here Comes the Duke",
+        "url": "https://open.spotify.com/album/5Aob76ooSb45t1VqRyVRpq"
+      },
+      "artists": [
+        {
+          "name": "The Gladiators",
+          "url": "https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118106,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/3u8g1boSdChU9mqIER48XU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soft music to calm down cats, kittens and their humans.
 
-113 songs - 7 hr 28 min
+114 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Spiritual Echoes](https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Spiritual Echoes](https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu) | 2:44 | 2023-09-20 |  |
 | [Spook's Ditty](https://open.spotify.com/track/50UO61QfF5DuAkegNrFzOv) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Spook's Ditty](https://open.spotify.com/album/4BNnFQGH2sQxxQZBxSuQxI) | 1:55 | 2020-01-10 | 2023-05-20 |
 | [Stella](https://open.spotify.com/track/7FL7qe9NM0pbyGcHDmk6gl) | [Theo Adagio](https://open.spotify.com/artist/0hXbvfASKCsYIP7qG9iN4K) | [Stella](https://open.spotify.com/album/58g81HwmLEhx1mdwhuH7xB) | 2:16 | 2023-10-16 |  |
-| [Stillhetens hav II](https://open.spotify.com/track/54i2pTD2lvgfgjYkwX7pmQ) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a), [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn), [Brueder Selke](https://open.spotify.com/artist/6dZ9mYuJ2VMbeokUIXuNHm) | [Månens hav](https://open.spotify.com/album/1QZDB6DjafFtK1FeSP2Lec) | 5:33 | 2023-07-03 |  |
+| [Stillhetens hav II](https://open.spotify.com/track/54i2pTD2lvgfgjYkwX7pmQ) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a), [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn), [Brueder Selke](https://open.spotify.com/artist/6dZ9mYuJ2VMbeokUIXuNHm) | [Månens hav](https://open.spotify.com/album/1QZDB6DjafFtK1FeSP2Lec) | 5:33 | 2023-07-03 | 2023-11-05 |
+| [Stillhetens hav II](https://open.spotify.com/track/5QTmRluv7xtC1I8Q25dWdB) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a), [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn), [Brueder Selke](https://open.spotify.com/artist/6dZ9mYuJ2VMbeokUIXuNHm) | [Månens hav](https://open.spotify.com/album/4ZjIhjLji31LSBvFtVmnBt) | 5:33 | 2023-10-16 |  |
 | [Strings Of Serenity](https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Strings Of Serenity](https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX) | 2:51 | 2023-05-19 |  |
 | [Submerged in Silence](https://open.spotify.com/track/7COIgCvwUIdWjmhp8OQXQa) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Submerged in Silence](https://open.spotify.com/album/5EYkzqyUfnfS65SdfSAIRw) | 3:14 | 2023-10-16 |  |
 | [The Heritage](https://open.spotify.com/track/66AA3dPMsQt3C0h9zUGejQ) | [Logan Ronfeld](https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9) | [The Heritage](https://open.spotify.com/album/6w1fsIcKWcNijRIEuXl60k) | 3:36 | 2023-07-03 |  |

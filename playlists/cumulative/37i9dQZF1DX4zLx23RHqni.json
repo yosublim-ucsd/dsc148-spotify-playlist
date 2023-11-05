@@ -850,7 +850,7 @@
     {
       "album": {
         "name": "Two",
-        "url": "https://open.spotify.com/album/1Oiggp6OzsfJfSaBtzrQxN"
+        "url": "https://open.spotify.com/album/5JxFHpsi6R7domKdfu2RkM"
       },
       "artists": [
         {
@@ -865,6 +865,28 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 184999,
+      "name": "Nenjodu (Live Jazz Version)",
+      "url": "https://open.spotify.com/track/16y9QTSXhVKLbNZtiGjNtk"
+    },
+    {
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/1Oiggp6OzsfJfSaBtzrQxN"
+      },
+      "artists": [
+        {
+          "name": "Vishal - Aditya",
+          "url": "https://open.spotify.com/artist/18Gn0S8ERNbuv5GA8FB0xT"
+        },
+        {
+          "name": "Vishal Ramakrishnan",
+          "url": "https://open.spotify.com/artist/1KSeWs9MdFRE8H5jDa3ojg"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 184999,
       "name": "Nenjodu (Live Jazz Version)",
       "url": "https://open.spotify.com/track/7iFRWJk0FqjzEqAL8hDGVL"
@@ -952,10 +974,36 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 210104,
       "name": "Nin Kannil - Ambient Version (feat. Nikhil Mathew)",
       "url": "https://open.spotify.com/track/2ZJEID5SahUchMMHNVJpzS"
+    },
+    {
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/5JxFHpsi6R7domKdfu2RkM"
+      },
+      "artists": [
+        {
+          "name": "Vishal - Aditya",
+          "url": "https://open.spotify.com/artist/18Gn0S8ERNbuv5GA8FB0xT"
+        },
+        {
+          "name": "Vishal Ramakrishnan",
+          "url": "https://open.spotify.com/artist/1KSeWs9MdFRE8H5jDa3ojg"
+        },
+        {
+          "name": "Nikhil mathew",
+          "url": "https://open.spotify.com/artist/75IXbZzUYShK1S4MKcnXbb"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210104,
+      "name": "Nin Kannil - Ambient Version (feat. Nikhil Mathew)",
+      "url": "https://open.spotify.com/track/2wRLunksIKll4stq6xZNoY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,504,147 likes - 126 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,504,708 likes - 126 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 11 | [Blackberry Winter](https://open.spotify.com/track/13WAHJVd17J6hN64YWVhSN) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Blackberry Winter](https://open.spotify.com/album/0ZZvwmKr1BLxfveRtFucqt) | 4:51 |
 | 12 | [Theme For Leon](https://open.spotify.com/track/1PdnJncOIXLLHOjWq6zQBE) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Theme for Leon](https://open.spotify.com/album/587RQMxWOa3jkQKFQt9tKw) | 6:08 |
 | 13 | [Naoko](https://open.spotify.com/track/0pH2mn7degF1qlAYpLubbi) | [Sebastian Gahler](https://open.spotify.com/artist/3CfwkW9rDM1yyEuPRRBG5W) | [Two Moons](https://open.spotify.com/album/5WqSroZVa6CgzK1vClUSYc) | 6:23 |
-| 14 | [Theme for Ernie](https://open.spotify.com/track/6T0wTF7RhPphuQxhappP2u) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ) | [Theme for Ernie](https://open.spotify.com/album/4GuZjxfEnM6RDYTUBmEdNh) | 5:02 |
+| 14 | [Theme for Ernie](https://open.spotify.com/track/50bWB9cTQL9YULxHLPQap1) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ) | [Presence](https://open.spotify.com/album/0IeNYNND4FGLOpTSAV4UJq) | 5:02 |
 | 15 | [But Beautiful](https://open.spotify.com/track/4zrbbrx6AJ5vSltmwj93eX) | [David Ake](https://open.spotify.com/artist/4NxCS4PdhvZcYqSqs0zsa0) | [Green Thumb](https://open.spotify.com/album/0jemo6vMv68syQb1NrTFpY) | 5:17 |
 | 16 | [Never Let Me Go](https://open.spotify.com/track/6VC6di6QOdHb4D9nxrufra) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Never Let Me Go](https://open.spotify.com/album/5VrAw3xklXBNIGVelKK2pG) | 5:23 |
 | 17 | [Fugitive Ritual, Selah](https://open.spotify.com/track/31ZHADyvTbyRgQVw1u2SSW) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The 7th Hand](https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD) | 5:47 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 125 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 |
 | 126 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
 
-Snapshot ID: `MCw0NzM5NzU3MTNjMDVhNDEwMmVlMGQ4N2JiNGYyMzRhYTg1MDdmZDA3`
+Snapshot ID: `MCxiMDhhZGZmNWQ1ZWViZTQ0NTExNDNiYjBlODQ2Y2M4MTNiYmMzZWE1`

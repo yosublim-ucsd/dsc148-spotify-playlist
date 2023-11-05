@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkU1Q0FTEV.md) - [plain]
 
 > <a href="spotify:artist:6jZSXmTCxZhFfYELtp78Ci">Fatima Hajji</a>'s favorite tracks\. Updated regularly\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,067 likes - 48 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,140 likes - 48 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Harmony](https://open.spotify.com/track/7DUfeAp6XPA5LycZb2szHu) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Harmony](https://open.spotify.com/album/3UHseKrKhDrmxq6ChCKTfy) | 6:59 |
+| 1 | [Harmony](https://open.spotify.com/track/6pLYwOd3n19hAGy0su6Bb7) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Harmony](https://open.spotify.com/album/1SlMUjPhHFH6O4yHfBVJSG) | 6:59 |
 | 2 | [Different Power](https://open.spotify.com/track/6BPwVncC5qPQ3i3nv3AT8b) | [STORM](https://open.spotify.com/artist/1atOL5ZdWQS8elntF1tByP) | [Different Power](https://open.spotify.com/album/6XEC1rYz9Z5URDS2K6LdGe) | 5:36 |
 | 3 | [AC130](https://open.spotify.com/track/6xUHsQMHmN8HvBygDTXD45) | [MICH](https://open.spotify.com/artist/2wMItAjHJ1Y9okywkmZRjq), [CORTES](https://open.spotify.com/artist/5y7Sz4iE6rV8aFeht0CK6M), [INNERGATE RECORDS](https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9) | [AC130](https://open.spotify.com/album/6bIn8rG8n82QCsFxV2rYTZ) | 5:53 |
 | 4 | [Sky Walker](https://open.spotify.com/track/16qJHC1EXtLvEh3I1Oqw8O) | [PISAPIA \(IT\)](https://open.spotify.com/artist/6wBqeigBUFAIAnPuBQl071) | [Sky Walker](https://open.spotify.com/album/7MXRxfBiojCjoIsMzAFvoP) | 5:30 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkU1Q0FTEV.md) - [plain]
 | 23 | [Distorted Emotions](https://open.spotify.com/track/3hD2li014cgOZvElEBs7eu) | [TØM VOLT](https://open.spotify.com/artist/6zyMRp3lfKarTevCEIkl0D) | [100th Release](https://open.spotify.com/album/0JBPwa5yvwZjfOq6V0FNCs) | 6:19 |
 | 24 | [Bite](https://open.spotify.com/track/4qBwEoLZ7ZenEjTaeWI8ti) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Bite](https://open.spotify.com/album/5G4Qhpn0a1Og8JBXvNOFn5) | 6:03 |
 | 25 | [Audio Bully \- Original](https://open.spotify.com/track/0Ciw69hmW6qFS4Upf6rgr8) | [ANSBRO](https://open.spotify.com/artist/1zSOxtMarFja6UNU9ZZWFu) | [Into The Flood EP](https://open.spotify.com/album/60rDmfisntOOjNMjMNsuYZ) | 5:20 |
-| 26 | [Hellfire](https://open.spotify.com/track/3VyCBpr1POQQmx8BqwgZiG) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Hellfire](https://open.spotify.com/album/53jsEwUmQ41VRINewRW4te) | 6:00 |
+| 26 | [Hellfire](https://open.spotify.com/track/6yTWUKQcvGeNocIBSPTFmw) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Hellfire](https://open.spotify.com/album/48IJdBCA98JVNWXqwkA24g) | 6:00 |
 | 27 | [Gier \- Original Mix](https://open.spotify.com/track/1g0BGueeHWy8fSlBTv5DRA) | [Sandro Muré](https://open.spotify.com/artist/584kmgeEzXMEgWCshfQuvt) | [Ghost Filter](https://open.spotify.com/album/38ksqvFCm8mMvLFqFm8vOR) | 6:04 |
 | 28 | [Die Kraft](https://open.spotify.com/track/3ExHiPbVqORhwC45oKT0VN) | [Lewis Latham](https://open.spotify.com/artist/6HfFWWo77g1hBbcGJTCv97) | [Die Kraft](https://open.spotify.com/album/06xORjT0wIyBOg7FVzJ8Rc) | 4:15 |
 | 29 | [The Aftermath](https://open.spotify.com/track/1eRVsFpFd4NfHG2ll5QneP) | [DYEN](https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A) | [The Aftermath](https://open.spotify.com/album/44YoEUJNCcfuWE4djjgf2v) | 7:06 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkU1Q0FTEV.md) - [plain]
 | 47 | [Rampage](https://open.spotify.com/track/2RW8O7yekBD6mTBoMsvktp) | [Bollmann](https://open.spotify.com/artist/04nitrWzNI2hXUvvrf405C) | [01010100 Various Artists 001](https://open.spotify.com/album/58PTUcZqxo1bOMhMAEMveW) | 7:10 |
 | 48 | [Little Bit Louder](https://open.spotify.com/track/4TynwUbJxEblHvVUwg7Kh8) | [ACOR](https://open.spotify.com/artist/41OompGt7NZ866pUv4E8BK) | [Resurrection](https://open.spotify.com/album/1BK63V0nOAD7xK4J6XryYo) | 5:05 |
 
-Snapshot ID: `MCxjMDQwYmE0YjJjYjU2ODgxZGU0MDg0MzhkZjRjMWViYjY3MWNlNDEy`
+Snapshot ID: `MCw0Yzg2Nzk3OTRiZmY4NTU1OTliNGIxNGIzZmVlNmJmYzAzMjE1MDgz`

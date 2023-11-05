@@ -4,7 +4,7 @@
 
 > That's that big energy\. Cover: David Guetta, Ayra Starr, Lil Durk
 
-144 songs - 7 hr 0 min
+145 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [the moves](https://open.spotify.com/track/121Kzji5Fa2d1qUx7c5aDn) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [the moves](https://open.spotify.com/album/3ofgvl8eypgF4s6MTZLQkg) | 2:45 | 2023-08-18 | 2023-09-02 |
 | [Toma](https://open.spotify.com/track/1PohtBS9n9YCwubzQAFkki) | [Fafa Khan](https://open.spotify.com/artist/4TtWW9JEksSAem0tGrAYsP), [Zairah](https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b) | [Toma](https://open.spotify.com/album/5NvAJsrQ8T819kkhGXN3u4) | 2:38 | 2023-08-18 | 2023-09-02 |
 | [Tour](https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:52 | 2023-09-02 |  |
-| [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [German Engineering 1](https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP) | 2:38 | 2023-08-18 |  |
+| [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/3puypQeebjOFKb9FeKdgAA) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 2:38 | 2023-10-27 |  |
+| [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [German Engineering 1](https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP) | 2:38 | 2023-08-18 | 2023-11-05 |
 | [Unfollow Me](https://open.spotify.com/track/3ATtfA96hbQx3RS6FkhZ5N) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Unfollow Me](https://open.spotify.com/album/0gjIVN0S5uQ5sDZZYKAMIQ) | 2:09 | 2023-08-18 | 2023-09-02 |
 | [Village Ram](https://open.spotify.com/track/3Qr9NEEeMSac6uCUm8H1WL) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Lady Lava](https://open.spotify.com/artist/3WJps7HNM1yNBed5t6ptQJ) | [Village Ram](https://open.spotify.com/album/4gJEaLS5yTPYvvT5sCzKJd) | 2:36 | 2023-09-15 |  |
 | [Vuki Vuki](https://open.spotify.com/track/44NsSvtQGQHGNxVcckgO1J) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Vuki Vuki](https://open.spotify.com/album/2cnVmcXFf3a2jzclTjn9MI) | 1:58 | 2023-09-02 |  |

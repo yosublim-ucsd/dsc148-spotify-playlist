@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-291 songs - 18 hr 18 min
+292 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [It Feels Good](https://open.spotify.com/track/3XwxEVxE7Z1w8gmvCh4fOF) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Spark](https://open.spotify.com/album/6jUadvmd8sF6uU4lF2E8Ho) | 2:39 | 2022-07-22 | 2023-06-17 |
 | [It Feels Good](https://open.spotify.com/track/0WpeWBfFMp56vgpo4lMG5z) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [It Feels Good](https://open.spotify.com/album/6zFQbhCyLdxMvcKJAJw9mL) | 2:41 | 2021-12-17 | 2022-07-29 |
 | [It Runs Together](https://open.spotify.com/track/55b9agxjfRMKHdFOYewTij) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [It Runs Together](https://open.spotify.com/album/7lMStVkckd5fHWzzhdsZ6N) | 3:22 | 2021-12-17 |  |
-| [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS) | 5:22 | 2022-11-04 |  |
+| [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/001c1daR1pFdqfpe1vAWzh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/1GCjwU2CejKwooZG68QBqb) | 5:22 | 2023-10-20 |  |
+| [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS) | 5:22 | 2022-11-04 | 2023-11-05 |
 | [I’m a Raven \(Shake Children\)](https://open.spotify.com/track/0fXMFBprRtdpOhA8fIcxPs) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Lateness of Dancers](https://open.spotify.com/album/5K7VYgm2UUdIdis8H3zMhA) | 2:50 | 2021-12-17 | 2022-07-29 |
 | [I’m a Raven \(Shake Children\)](https://open.spotify.com/track/50ekLb1wXqwCalbH4onfGU) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Lateness of Dancers](https://open.spotify.com/album/7MwUlRv3S9pM6pCJPVYRCV) | 2:50 | 2022-07-22 |  |
 | [Jack of Diamonds](https://open.spotify.com/track/2q7WMhP5z4P5vF4Z7aztNQ) | [Scott H\. Biram](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf) | [Nothin' But Blood](https://open.spotify.com/album/1uPGBP7oekFZSUgik5AKv7) | 4:12 | 2021-12-17 | 2022-04-29 |

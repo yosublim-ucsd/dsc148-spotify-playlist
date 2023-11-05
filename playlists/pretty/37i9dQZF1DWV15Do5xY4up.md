@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 
 > Float away to the weightless sound of breakbeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,817 likes - 73 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,821 likes - 73 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 7 | [Pungent Method](https://open.spotify.com/track/1h5JayKI2fkVMGL0GRnZVX) | [Adam Pits](https://open.spotify.com/artist/0vrrcYDODaghHDyxGZCIis) | [Pungent Method](https://open.spotify.com/album/0xTs0LzMADcPxIGpESbVMj) | 5:25 |
 | 8 | [Heyoka](https://open.spotify.com/track/17cVuIl1z18wO2cZda3sxA) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Lager Beers EP](https://open.spotify.com/album/5izcjEZQUvnhfeLWM67n72) | 4:13 |
 | 9 | [Lovin U](https://open.spotify.com/track/5NS2mvyyimFo4GStYcjrL1) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Falling In Love](https://open.spotify.com/album/2ZXNASZ0miJJPHZMRzrRLh) | 5:08 |
-| 10 | [Skylab District](https://open.spotify.com/track/5N9ORjMVySSfAbW3NbEHeX) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Skylab District](https://open.spotify.com/album/4F4MP8Ifyv38AiLHPeKHUw) | 3:37 |
+| 10 | [Skylab District](https://open.spotify.com/track/6qq6zcWNuEiHr2EAjDphCj) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Skylab District](https://open.spotify.com/album/6IuZGPDhRwO1vDHZ4rc6eD) | 3:37 |
 | 11 | [Sapphire Eyes](https://open.spotify.com/track/1AuKIQy8e7ifqsSAbPSJ10) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Sapphire Eyes](https://open.spotify.com/album/1NiKOW5Z6EdvWPe7y5BIUd) | 4:05 |
 | 12 | [Let's Just](https://open.spotify.com/track/7Hhh4rWZsmxkjPSwy1rZy8) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Let's Just / Can't Explain](https://open.spotify.com/album/5ee6SpqyfbCulNqfhgWdu4) | 2:58 |
 | 13 | [Test Flight](https://open.spotify.com/track/5b9ifBWB1LQFNwnpwN7Tj5) | [Adam Fielding](https://open.spotify.com/artist/2COKeWJbqMc39mh0sFwnvE) | [Nocturnal Transmission](https://open.spotify.com/album/6ZHilzMuJjTaQTKN1HPk48) | 6:14 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 29 | [I'm Not Afraid \- 1\-800 Girls Remix](https://open.spotify.com/track/7i4rfYbOXoU4PRX0H8VTgA) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ), [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [I'm Not Afraid \(1\-800 GIRLS Remix\)](https://open.spotify.com/album/05VMC6G0wYMwmpHTa1Ajpn) | 5:44 |
 | 30 | [System](https://open.spotify.com/track/27PHqfRUFY91oZw7msSqTp) | [AKA ORANGE](https://open.spotify.com/artist/0Hz1vYMsVy0WzWhng1HxlT) | [System](https://open.spotify.com/album/4wVMMGYCNaqHBdts3Kx9ti) | 3:46 |
 | 31 | [Get Impetuous](https://open.spotify.com/track/1836eqyYDqqecU5hjTg18D) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [How The Dogs Chill, Vol.1](https://open.spotify.com/album/12KUsz5VGp0SNjfXPxNVjE) | 5:31 |
-| 32 | [Heroes](https://open.spotify.com/track/1vJBXX0MaI9a5k0fWUZXcj) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td) | [Foundation](https://open.spotify.com/album/1jb6eS8NrJUOvNLIfwRPZ6) | 5:06 |
+| 32 | [Heroes](https://open.spotify.com/track/5GWcMCqaznmOurQ7pmka2M) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td) | [Foundation](https://open.spotify.com/album/4dMlAlylifEEzRZTqR6jkr) | 5:06 |
 | 33 | [This Side Of Paradise](https://open.spotify.com/track/2jdLk1AMrWbGQBylWI025A) | [kanyalang!](https://open.spotify.com/artist/7eb7C0cWi2Cx4rNJbKOIV6) | [Sometimes I Feel Weird](https://open.spotify.com/album/0DiwLN0euVsSaseXort5cE) | 5:33 |
 | 34 | [Crystl](https://open.spotify.com/track/0192xbT2oFC7xavnkmeaSE) | [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Crystl](https://open.spotify.com/album/5cYljOzv2FVtiHWIP05P09) | 5:16 |
 | 35 | [Dragonrush](https://open.spotify.com/track/1CJiYBn5UJrgwpqEse5TkX) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Lone X KETTAMA](https://open.spotify.com/album/3JRLIJYBAbD6RV1hkb3NKv) | 5:56 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 72 | [VTOPIA](https://open.spotify.com/track/5sV6YuXW0Cherbpb6PEpTo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [VTOPIA](https://open.spotify.com/album/50iCpCLAmZjZIZAdobVL5H) | 6:22 |
 | 73 | [Time](https://open.spotify.com/track/5CdnchxvwLJUonYfcDbgB0) | [Stanton Warriors](https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R) | [Time](https://open.spotify.com/album/2JQtRaELiP5PODbtSBa31y) | 4:07 |
 
-Snapshot ID: `MCw5NDRiOGI1NWI4NGZjN2RmMTMzYjFjYWE1MjkzYmQwZWM2ZmU0ZWZj`
+Snapshot ID: `MCxlZTM3NGVlZjQ0Y2Q1YTllMzYzOWU5OWFjMzNlYzdlYzFmYTE4ZWRl`

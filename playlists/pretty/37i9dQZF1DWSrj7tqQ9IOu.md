@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Alice et Moi
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,043 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,042 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [HOW STRANGE?](https://open.spotify.com/track/4IQw9pS2PfMsYYeTkZ5CGy) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [HOW STRANGE?](https://open.spotify.com/album/29KjlAdATsp7XF6Pp08fXa) | 2:57 |
 | 50 | [Cinéma](https://open.spotify.com/track/6KXJymOSI776EMEgY96JbP) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO), [Zahia Dehar](https://open.spotify.com/artist/5b6Y4VfGSc8rw3XA7PZPDh) | [Rien De Personnel](https://open.spotify.com/album/5kO9QAxCNOKUwSQuvi4KAO) | 3:09 |
 
-Snapshot ID: `MCxlNWYwZGVhZGNkNDc2NWY3YTNmNmNhMTAxNTFkMzZlMmYxOGIwOTZi`
+Snapshot ID: `MCwzMDg0Zjc5NmM4NGE0MzRkYWViNDMwMDdkOGFkY2NiZGE5NjJiYjEy`

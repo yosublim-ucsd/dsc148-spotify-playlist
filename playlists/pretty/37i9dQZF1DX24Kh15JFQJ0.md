@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Reba McEntire
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,487 likes - 181 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,528 likes - 181 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 41 | [Altitude](https://open.spotify.com/track/6q91dRcubenCmtWe0tO6ud) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Altitude](https://open.spotify.com/album/7uV1GtfAMIfz1mROOYTgZR) | 3:47 |
 | 42 | [Plans](https://open.spotify.com/track/243xVaJ0uGwvzFpZS3EXxc) | [FIREROSE](https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Plans](https://open.spotify.com/album/6bPToqWK7UeSk6rvI2wEAq) | 3:39 |
 | 43 | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp), [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F) | 2:52 |
-| 44 | [Left Their Mark](https://open.spotify.com/track/3gKV0u3ypKPmA7dic5QbGd) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/6gx1ygsB7Y8RD30o6QItqg) | 3:55 |
+| 44 | [Left Their Mark](https://open.spotify.com/track/1ivKjWTRL02kRtBwbjMLCz) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/5JZgtLCQxZsuFxLtUZzkRk) | 3:55 |
 | 45 | [Tennessee Is A Great State Of Mine](https://open.spotify.com/track/6GbKzazubOXElqLC1wNFU3) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Tennessee Is A Great State Of Mine](https://open.spotify.com/album/65BnbeywsIzrzfkgmGeGl7) | 2:54 |
 | 46 | [Don’t Make Me Have To Come Down There](https://open.spotify.com/track/09KvWJRQrqRaTxvNNtJFc7) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Don’t Make Me Have To Come Down There](https://open.spotify.com/album/57sOqzRyTNjSiHUIDviHwN) | 3:42 |
 | 47 | [Love & Happiness](https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI) | [Kimmie Rhodes](https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Picture In a Frame \(Deluxe Edition\)](https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3) | 4:46 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 101 | [Tiger By The Tail](https://open.spotify.com/track/7jRNqtVCBvXa1XzJJCqwng) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Don't Know A Thing About Love: The Songs of Harlan Howard](https://open.spotify.com/album/4lO42iHAoge8T139BkRc8S) | 2:24 |
 | 102 | [Love Is A Drug](https://open.spotify.com/track/58y6xP2i8ZqOOESY07JVgQ) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Love Is A Drug / I Wish It Would Rain](https://open.spotify.com/album/7gbG82sQF8gfbnCFXFpJS7) | 2:58 |
 | 103 | [Road to Abilene](https://open.spotify.com/track/45ydzAYHp2rMDSJ74MLavY) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [100 Proof Neon](https://open.spotify.com/album/02B2WEMDla9LbPR9Jg1BZG) | 4:00 |
-| 104 | [Amazed \- The Frontmen Edition](https://open.spotify.com/track/22gWPIZabvlWJz6ZTQUYA1) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/6gx1ygsB7Y8RD30o6QItqg) | 4:00 |
+| 104 | [Amazed \(The Frontmen Edition\)](https://open.spotify.com/track/4EcquOdwHuLw31NMjbuYSn) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/5JZgtLCQxZsuFxLtUZzkRk) | 4:00 |
 | 105 | [Ain't No Use \- From The Vault](https://open.spotify.com/track/50aKHapLGhTMwUhWTvQkkn) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life \(35th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7GN562ELq8Sfvy7RruWk7U) | 2:58 |
 | 106 | [Saltwater Cowboy](https://open.spotify.com/track/2zJEa1T4mpFdoCvUNTo59a) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Saltwater Cowboy](https://open.spotify.com/album/1j8ubAkNpMdJs8qUmvIB17) | 2:49 |
 | 107 | [10\-4](https://open.spotify.com/track/13JH4T5Vwy9bZ9g2Yene4Y) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji), [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [Bad Case of the Good Ole Boy](https://open.spotify.com/album/0Ns3824RcYOCJzq2VZdiVP) | 3:07 |
@@ -177,7 +177,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 167 | [Ain't No Closing Me Down](https://open.spotify.com/track/533NPX0rqjQOc7yUxRqqVi) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Ain't No Closing Me Down](https://open.spotify.com/album/5Ivo31OchF58n5liIvZrEd) | 3:16 |
 | 168 | [A Million and One](https://open.spotify.com/track/6298i3fOw3l5rmtR462TFe) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [A Million and One](https://open.spotify.com/album/2ITnWh4L3RKZdnQN0R6TcC) | 2:38 |
 | 169 | [One Day](https://open.spotify.com/track/6VJnUbSvalXgjt1iw0XZrk) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN), [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [One Day](https://open.spotify.com/album/3GxxNTSZsO1E2TrhWzhMWg) | 3:17 |
-| 170 | [Going Out Like This](https://open.spotify.com/track/1HyY2kBqyd7uHtX0oitoJ0) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [God, Family, Country \(Deluxe Edition\)](https://open.spotify.com/album/1nGxSALyfv0Wq8CWZpIVnZ) | 3:29 |
+| 170 | [Going Out Like This](https://open.spotify.com/track/7BwU032VTOQawedyw4Ohtq) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [God, Family, Country \(Deluxe Edition\)](https://open.spotify.com/album/5rE2C8x89VQpLnSyxHdRWv) | 3:29 |
 | 171 | [This is Where the End Starts Feat\. Haley Vassar](https://open.spotify.com/track/6bUjoKsbk81P0w7lJmaX9I) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6), [Haley Vassar](https://open.spotify.com/artist/7ILb0lzos2z2vJu8csvkBU) | [Stripped Down](https://open.spotify.com/album/5V0zJI8m8VTOagqo5BWhTd) | 3:15 |
 | 172 | [The Slow Lane](https://open.spotify.com/track/46RjasCR1TcTphfY32VB7f) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Life On the Flip Side](https://open.spotify.com/album/0ne63EVUZXiNCCPsi9n9Sc) | 4:10 |
 | 173 | [I'd Take Another One of Those](https://open.spotify.com/track/4S80ssHGKWJmm5SR3EQFbJ) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [I'd Take Another One of Those](https://open.spotify.com/album/3UwtQR77UKz5BwyZwskvv0) | 3:32 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 180 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 |
 | 181 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 |
 
-Snapshot ID: `MCxjOWEzYmQyYWU3ZDM4ZWQ2Y2MyNTUzNDM2ZjYzYTNhZmFlYTczMDdj`
+Snapshot ID: `MCw1NGEyNjc4NjY5MjlmNGQxZjEzMmRhZjljMTRjZTk5M2EzM2QxNGE3`

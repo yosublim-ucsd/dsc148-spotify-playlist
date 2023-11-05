@@ -1,12 +1,12 @@
 {
   "description": "Reggae music for dogs that know what\u2019s up.",
-  "num_followers": 7704,
+  "num_followers": 7700,
   "original_name": "Bow Wow Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWNkYzI1MzQ5ZjM0NGJkZWVmMGNlMDFjMzI1ODg2Nzc1Mjg3MDM2",
+  "snapshot_id": "MCw2ZWQxYWJmYWI2MjRiZWJkNDdiNWIyYTcwODQzZjZhNzRhYmRkZjI1",
   "tracks": [
     {
       "added_at": "2020-01-10 05:01:00",
@@ -328,7 +328,7 @@
       "added_at": "2020-01-10 05:01:00",
       "album": {
         "name": "Everything I Own",
-        "url": "https://open.spotify.com/album/510G90X1Ckki9sTPdwwYDW"
+        "url": "https://open.spotify.com/album/1yQvIiS4aFxcPhzyN7Gw2W"
       },
       "artists": [
         {
@@ -337,8 +337,8 @@
         }
       ],
       "duration_ms": 224693,
-      "name": "Everything I Own - 7\" Mix",
-      "url": "https://open.spotify.com/track/6om52tevyqVMvl1mWTtKPM"
+      "name": "Everything I Own (7'' Mix)",
+      "url": "https://open.spotify.com/track/4PfDS6wcDp7YvikkmbySak"
     },
     {
       "added_at": "2020-01-10 05:01:00",
@@ -939,22 +939,18 @@
     {
       "added_at": "2020-01-10 05:01:00",
       "album": {
-        "name": "Double Dekker (Expanded Version)",
-        "url": "https://open.spotify.com/album/7tt21btxenzyLsiI17qivz"
+        "name": "Intensified",
+        "url": "https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa"
       },
       "artists": [
         {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
-        },
-        {
-          "name": "ACES",
-          "url": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+          "name": "Desmond Dekker & The Aces",
+          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
         }
       ],
-      "duration_ms": 154573,
+      "duration_ms": 152251,
       "name": "It Mek",
-      "url": "https://open.spotify.com/track/2o9wtsml8XrdS67t1Y0RuR"
+      "url": "https://open.spotify.com/track/2KLQHmIj0ncGRdnLbbqi9B"
     }
   ],
   "unique_name": "Bow Wow Reggae",

@@ -2034,10 +2034,28 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 431133,
       "name": "Nijaay",
       "url": "https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D"
+    },
+    {
+      "album": {
+        "name": "Made in Dakar",
+        "url": "https://open.spotify.com/album/42oYfuID95AxYWA0jduZCo"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Baobab",
+          "url": "https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434986,
+      "name": "Nijaay",
+      "url": "https://open.spotify.com/track/09Fm7uCNugdcI9bitG6Ype"
     },
     {
       "album": {

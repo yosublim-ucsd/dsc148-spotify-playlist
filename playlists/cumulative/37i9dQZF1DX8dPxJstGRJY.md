@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-70 songs - 4 hr 37 min
+71 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [To Believe](https://open.spotify.com/track/7cA6XIZ5VD67qmIhwDTQeM) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [Dream With Me](https://open.spotify.com/album/4DELT3MlaCsncDA5KODmKo) | 4:27 | 2021-09-24 |  |
 | [To Make You Feel My Love](https://open.spotify.com/track/66z75O6SUOQxZnS7Spbp95) | [The Serenad3](https://open.spotify.com/artist/23r9OdwRI1XKiYES6p68gu) | [Romantic Serenade](https://open.spotify.com/album/4HPSlAA3McPFOUU41U5AfQ) | 3:43 | 2021-09-24 |  |
 | [Veni Creator Spiritus](https://open.spotify.com/track/6K1z9GdRDtg4wrclq649lZ) | [Juliette Pochin](https://open.spotify.com/artist/4UD32JlXGLthCDSEkkB5sV), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Poor Clare Sisters Arundel](https://open.spotify.com/artist/2yEndu1Rs4a7uBoFUSZPla) | [Light for the World](https://open.spotify.com/album/5hBu1cttYYkclsdxeKzKRy) | 2:13 | 2021-09-24 |  |
-| [Volare](https://open.spotify.com/track/7r3YaTG6mKqouTw09iCNnZ) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI), [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Tom Rainey](https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy) | [In Harmony](https://open.spotify.com/album/2QjdcIMXEny95djxh7lEN8) | 3:29 | 2021-09-24 |  |
+| [Volare](https://open.spotify.com/track/7r3YaTG6mKqouTw09iCNnZ) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI), [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Tom Rainey](https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy) | [In Harmony](https://open.spotify.com/album/2QjdcIMXEny95djxh7lEN8) | 3:29 | 2021-09-24 | 2023-11-05 |
+| [Volare](https://open.spotify.com/track/5MzDXB17CWraVOgA0igdL6) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI), [Franz Xaver Gruber](https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y), [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Tom Rainey](https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy) | [In Harmony](https://open.spotify.com/album/1ZG1NaOLmvDamnEhevAJkz) | 3:29 | 2023-06-30 |  |
 | [We Will Meet Once Again \(with Andrea Bocelli\)](https://open.spotify.com/track/28hIO3sitQKgRPbQ61x6bS) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Bridges \(Deluxe\)](https://open.spotify.com/album/70406c1Pa2F3BQscpLiUME) | 3:55 | 2021-09-24 |  |
 | [What a Wonderful World](https://open.spotify.com/track/6ZcTsXUmJcCtVtgbxVIzPn) | [Lexi Walker](https://open.spotify.com/artist/6C2Jmyv6fdiRAbcadxmNtS), [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Inspire](https://open.spotify.com/album/1Uh9wfpuVzpoVoAFrTV6x2) | 4:28 | 2021-09-24 |  |
 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 | 2022-09-09 | 2023-07-01 |

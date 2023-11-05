@@ -4,7 +4,7 @@
 
 > new gems by artists carving their own lane\. Cover: Yaeger
 
-1,004 songs - 2 day 7 hr 15 min
+1,005 songs - 2 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,7 +714,7 @@
 | [Retro Girl](https://open.spotify.com/track/2Cm6XACcXcaHplXUSaSpvi) | [Offbeat Smitty](https://open.spotify.com/artist/3sP56Xf8Ph0znFbBVcYtiH) | [Retro Girl](https://open.spotify.com/album/4wm6n8jjGKthUImg9Akfb9) | 2:21 | 2022-02-18 | 2022-03-05 |
 | [Reverse Cowgirl](https://open.spotify.com/track/0mnSFL2zZBAJZccvURgWlD) | [Big Spoon](https://open.spotify.com/artist/7m2Avw3mSGM7DnmQVDOwQ5), [Honey Larochelle](https://open.spotify.com/artist/5MximdP80OJjCsC3bfCkZc) | [Reverse Cowgirl](https://open.spotify.com/album/0bZNEkrp6449Lz88O8spLx) | 3:03 | 2022-06-10 | 2022-08-13 |
 | [Rich](https://open.spotify.com/track/69Fxo98uVzdxZn9ACnmyYZ) | [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Just for Now](https://open.spotify.com/album/7hxWom7mIwyfIM7ctziEqy) | 1:47 | 2022-03-25 | 2022-04-23 |
-| [Ride Or Die](https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ride Or Die](https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP) | 3:04 | 2023-06-23 |  |
+| [Ride Or Die \(with Villano Antillano\)](https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ride Or Die \(with Villano Antillano\)](https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP) | 3:04 | 2023-06-23 |  |
 | [RIDE WITH ME](https://open.spotify.com/track/1TJOIVjPHbnqloF9pvDOf6) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [RIDE WITH ME](https://open.spotify.com/album/5tY1nlCQNEqmtXmTxgblRc) | 2:57 | 2022-11-11 | 2023-02-18 |
 | [Ring Ring](https://open.spotify.com/track/32BXY1XXmu2BGd7BC4b7ea) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Ring Ring](https://open.spotify.com/album/4T4lGbimAUcj50Zr7kSZ7h) | 2:43 | 2023-06-16 | 2023-08-26 |
 | [RISEXFALL](https://open.spotify.com/track/6BJExJ768O2fJOimiRidl6) | [RUNXGUN](https://open.spotify.com/artist/4o5J4GkzULwVnupOfcmRPI), [Kid Kold](https://open.spotify.com/artist/6igqpK05GtVQi9w4MSTWnt) | [RISEXFALL](https://open.spotify.com/album/67SZ2lE6WboUYhx682xI5w) | 2:55 | 2022-11-18 | 2022-12-03 |
@@ -904,7 +904,8 @@
 | [Touché](https://open.spotify.com/track/3kjBpFB5bLhWWC1OTJhMMU) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Touché](https://open.spotify.com/album/07Ac7pyVYbY3dHCrAwxbFG) | 2:43 | 2022-08-05 | 2022-11-19 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-23 | 2023-08-19 |
 | [Tragedy](https://open.spotify.com/track/6pCkuandJvtLZzcOXS2CJu) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Tragedy](https://open.spotify.com/album/5rtzuc9i65JU8u90cOOFPr) | 2:44 | 2023-03-03 | 2023-03-25 |
-| [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [German Engineering 1](https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP) | 2:38 | 2023-08-04 |  |
+| [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/3puypQeebjOFKb9FeKdgAA) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 2:38 | 2023-10-27 |  |
+| [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [German Engineering 1](https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP) | 2:38 | 2023-08-04 | 2023-11-05 |
 | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/7bdv0SJlscsRqi6giDwcLp) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/album/7wyYuu1EwLTHzqJuDtqBnZ) | 2:38 | 2023-07-07 | 2023-08-08 |
 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-04-21 | 2023-07-15 |
 | [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-04-14 | 2023-05-13 |

@@ -1288,6 +1288,24 @@
     {
       "album": {
         "name": "Destination",
+        "url": "https://open.spotify.com/album/0gMnriXEyTO9VDv9Dk32QJ"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205984,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/5hzWqytXNxnHaeLegfBz3Q"
+    },
+    {
+      "album": {
+        "name": "Destination",
         "url": "https://open.spotify.com/album/24GIGuQ9e4zLdL8fFBhEuf"
       },
       "artists": [
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 205984,
       "name": "Destination",
       "url": "https://open.spotify.com/track/62eI2hOnUOkiHMtACKkqq2"
@@ -1974,6 +1992,24 @@
     {
       "album": {
         "name": "Handy Work",
+        "url": "https://open.spotify.com/album/0OcCBzJTOq6jsqoKbahPtq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371250,
+      "name": "Handy Work",
+      "url": "https://open.spotify.com/track/0695hoA5qD0zkIqMxhAbIy"
+    },
+    {
+      "album": {
+        "name": "Handy Work",
         "url": "https://open.spotify.com/album/2G67wbm29gUteqjfqEFxhL"
       },
       "artists": [
@@ -1984,7 +2020,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 371250,
       "name": "Handy Work",
       "url": "https://open.spotify.com/track/1AXDyDxGiXpAUQb5UmTLu8"
@@ -2182,6 +2218,28 @@
     {
       "album": {
         "name": "Inside My Mind",
+        "url": "https://open.spotify.com/album/13TtvPDy8LnsMFV1NBXaKC"
+      },
+      "artists": [
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        },
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209763,
+      "name": "Inside My Mind",
+      "url": "https://open.spotify.com/track/0Hmx0QkNOUiknki09OuoC4"
+    },
+    {
+      "album": {
+        "name": "Inside My Mind",
         "url": "https://open.spotify.com/album/0vE2iJeMSfo7Q3J2b4esej"
       },
       "artists": [
@@ -2196,7 +2254,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 209763,
       "name": "Inside My Mind",
       "url": "https://open.spotify.com/track/3vl8JYvFMneZNXSGvMjrZI"
@@ -2803,6 +2861,28 @@
     },
     {
       "album": {
+        "name": "Nywtf (feat. Mikhail Beltran)",
+        "url": "https://open.spotify.com/album/1xiDEFjzO0Il22pdIk3oo7"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Mikhail Beltran",
+          "url": "https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346666,
+      "name": "NYWTF (feat. Mikhail Beltran) - Extended",
+      "url": "https://open.spotify.com/track/0ZIKaQSGwLOoXydXAbgyIy"
+    },
+    {
+      "album": {
         "name": "NYWTF",
         "url": "https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj"
       },
@@ -2818,7 +2898,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 346666,
       "name": "NYWTF feat. Mikhail Beltran - Extended",
       "url": "https://open.spotify.com/track/5p0VT1dh3lG8WXpzMe0Bqb"
@@ -4190,10 +4270,32 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 390476,
       "name": "We Will Forgive Ourselves - MK Dub",
       "url": "https://open.spotify.com/track/1iZtXObHD0IQjLF8iIto11"
+    },
+    {
+      "album": {
+        "name": "We Will Forgive Ourselves (Remixes)",
+        "url": "https://open.spotify.com/album/13Xnn3J6TuOdvUE7ywp38r"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390476,
+      "name": "We Will Forgive Ourselves - MK Dub",
+      "url": "https://open.spotify.com/track/6me8qFVKAY7UiZSKGwR7gI"
     },
     {
       "album": {

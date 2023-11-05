@@ -1,29 +1,13 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 713374,
+  "num_followers": 713794,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjFkODM5YmJiZGMxMWRiOGJjNDI3ZTNjNzAzNWM5NjQ1YzdkMmFl",
+  "snapshot_id": "MCwyODI3ZmEyYjI0Yjg2NGM5OTczMTMxMzk1MDdlMTUzNDZjMjliYzBk",
   "tracks": [
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
-        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Christmas Tree",
-      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
-    },
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 210928,
       "name": "Stay Alive (Prod. SUGA of BTS)",
       "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
+        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Christmas Tree",
+      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
     },
     {
       "added_at": "2023-08-16 08:28:23",
@@ -95,22 +95,6 @@
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/66sBTYlkaiyBwf4fhbIHlZ"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
-        "url": "https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 214258,
-      "name": "Sweet Night",
-      "url": "https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC"
     },
     {
       "added_at": "2023-08-16 08:28:23",
@@ -199,18 +183,18 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
-        "name": "Hotel del Luna (Original Television Soundtrack) Pt.3",
-        "url": "https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y"
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
+        "url": "https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 209482,
-      "name": "\uadf8\ub300\ub77c\ub294 \uc2dc",
-      "url": "https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl"
+      "duration_ms": 214258,
+      "name": "Sweet Night",
+      "url": "https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC"
     },
     {
       "added_at": "2023-08-16 08:28:23",
@@ -235,6 +219,22 @@
       "duration_ms": 196549,
       "name": "For You",
       "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
+        "name": "Hotel del Luna (Original Television Soundtrack) Pt.3",
+        "url": "https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "\uadf8\ub300\ub77c\ub294 \uc2dc",
+      "url": "https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl"
     },
     {
       "added_at": "2023-08-16 08:28:23",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
-        "name": "Twenty-Five Twenty-One OST Part 3",
-        "url": "https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 214851,
-      "name": "Very, Slowly",
-      "url": "https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
         "name": "Hometown Cha-Cha-Cha, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 254771,
       "name": "Here Always",
       "url": "https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 3",
+        "url": "https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 214851,
+      "name": "Very, Slowly",
+      "url": "https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H"
     },
     {
       "added_at": "2023-08-16 08:28:23",

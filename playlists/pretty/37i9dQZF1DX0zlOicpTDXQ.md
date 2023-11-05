@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Lindsay Lohan in Falling for Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,240 likes - 48 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,254 likes - 48 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 | 41 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/3zwjeUjzAm3rwojZNj05P6) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sounds Of The Season](https://open.spotify.com/album/4iryAPVDKPc8OeXghdQhBd) | 4:27 |
 | 42 | [12 Days of Christmas \(feat\. Aloe Blacc\)](https://open.spotify.com/track/0bEDa562DIK9plDxrVTg6N) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [A Bad Moms Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ym9lRObWTXBDZafXmqwm6) | 2:05 |
 | 43 | [A Story About Letters](https://open.spotify.com/track/5ajzF3VX52mCkBupgteij1) | [Alfonso G\. Aguilar](https://open.spotify.com/artist/0zPsPfHcjbQzlb6gVAa0QM) | [Klaus \(Music from the Netflix film\)](https://open.spotify.com/album/3pxQp1SCC1fUggunoo2Kb5) | 1:38 |
-| 44 | [O Christmas Tree](https://open.spotify.com/track/2CHoInODC6oz5nI76zea5D) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Happy Holidays](https://open.spotify.com/album/6uHTLp7MHyWuMR5zU63cQm) | 4:31 |
+| 44 | [O Christmas Tree](https://open.spotify.com/track/2F27MVZ8bYuP0GXuXu2fFA) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Happy Holidays](https://open.spotify.com/album/1CHbNUmk6dE4I7bdKkEQGg) | 4:31 |
 | 45 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 |
 | 46 | [Santa Knows Your Secrets](https://open.spotify.com/track/14WUlHavhcV5P5vzO6RgvP) | [Nightheart](https://open.spotify.com/artist/5sDp3kjXQBm84x86UcbHzd) | [Horselake Road](https://open.spotify.com/album/27dn8hCj3yiiqC1m7qOsrG) | 4:33 |
 | 47 | [A Christmas Thing \(aka Quince Ballad\)](https://open.spotify.com/track/7oiVBBQVuVeR8vNQT9ip1n) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |
 | 48 | [Feliz Navidad Mi Amor](https://open.spotify.com/track/2R9qvrvVCmjbDWJt20W7XR) | [Jasmine Lopez](https://open.spotify.com/artist/0UciHsr8qC3FQYNswRPLmd) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |
 
-Snapshot ID: `MCw3ZTBjYmE2ZjA1YjcxZWQzYjJiN2U0YjBlZDcwNWQwYzg5NjgzZTMy`
+Snapshot ID: `MCw0NTM4OWI2ZDRhMzE2Y2ZjN2MzOTI3ZjUzYjhlZDJiMmExNjQ5OWQ4`

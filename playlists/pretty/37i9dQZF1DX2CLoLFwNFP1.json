@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30753,
+  "num_followers": 30798,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmJlNDkyYTE2MGVlZDU1ZTUwYTE3NjJkMDcwY2I5OGU1ZjE3NmEw",
+  "snapshot_id": "MCw1OGM3OGZmMjNlYTM0NjQzM2UyNDRjYjgyMTZjYTA1NjVmNzcwYTk1",
   "tracks": [
     {
       "added_at": "2023-11-03 05:32:22",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
-        "name": "Think",
-        "url": "https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA"
-      },
-      "artists": [
-        {
-          "name": "REDDY",
-          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 231222,
-      "name": "Think (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9"
-    },
-    {
-      "added_at": "2023-11-03 05:32:22",
-      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/1s1EHjXGkOQaCPl2iY359n"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 176986,
       "name": "Trip",
       "url": "https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "Think",
+        "url": "https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA"
+      },
+      "artists": [
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 231222,
+      "name": "Think (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
         "name": "SLAY HOUSE REMIX",
         "url": "https://open.spotify.com/album/1nXs500bOOyoZJiLjQvD0b"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 459853,
       "name": "BLUE CHECK REMIX (Feat. Blase, 365LIT, JUPITER, KHAN, XINSAYNE, Roh Yun Ha, sokodomo, KOALA, Jambino, Lee Young Ji, Chillin Homie, NSW yoon)",
       "url": "https://open.spotify.com/track/2mqnyDbLObaEBnvGv5Ok5Z"
-    },
-    {
-      "added_at": "2023-11-03 05:32:22",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -2004,9 +2004,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 210344,
-      "name": "I Don\u2019t Disappoint",
-      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
+      "duration_ms": 163531,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -2020,9 +2020,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 163531,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
+      "duration_ms": 210344,
+      "name": "I Don\u2019t Disappoint",
+      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
     },
     {
       "added_at": "2023-11-03 05:32:22",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-11-03 05:32:22",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 236919,
-      "name": "The Truth Is",
-      "url": "https://open.spotify.com/track/4EzqNvmGUyGAqiAOivsydr"
-    },
-    {
-      "added_at": "2023-11-03 05:32:22",
-      "album": {
         "name": "RUN IT",
         "url": "https://open.spotify.com/album/7JHRCbkBq50DaM1tBRSa0c"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 191187,
       "name": "RUN IT",
       "url": "https://open.spotify.com/track/3sznlAy0sce8la6GVzhnKU"
+    },
+    {
+      "added_at": "2023-11-03 05:32:22",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 236919,
+      "name": "The Truth Is",
+      "url": "https://open.spotify.com/track/4EzqNvmGUyGAqiAOivsydr"
     },
     {
       "added_at": "2023-11-03 05:32:22",

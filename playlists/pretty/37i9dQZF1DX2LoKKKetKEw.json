@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:3VY7IlU2547DIC1ca88lRH\">CalledOut Music</a>",
-  "num_followers": 67176,
+  "num_followers": 67281,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWM0MmQwMTVmMzNlZDQxN2M2YmRlZTM4ZTUxMmUyMjBmMmJmYmE1",
+  "snapshot_id": "MCwxNzEzOGU0OTIzMTRmNmI3YmI3NDM5YjZmNzZiZDQ1YzE4YjllMjc4",
   "tracks": [
     {
       "added_at": "2023-10-24 09:35:41",
@@ -735,18 +735,26 @@
     {
       "added_at": "2023-10-24 09:35:41",
       "album": {
-        "name": "My Dey",
-        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
+        "name": "Easy!",
+        "url": "https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU"
       },
       "artists": [
         {
           "name": "Rehmahz",
           "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Bridge Music",
+          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 131065,
-      "name": "My Dey",
-      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
+      "duration_ms": 165813,
+      "name": "Easy!",
+      "url": "https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj"
     },
     {
       "added_at": "2023-10-24 09:35:41",
@@ -863,26 +871,18 @@
     {
       "added_at": "2023-10-24 09:35:41",
       "album": {
-        "name": "Easy!",
-        "url": "https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU"
+        "name": "My Dey",
+        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
       },
       "artists": [
         {
           "name": "Rehmahz",
           "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "Bridge Music",
-          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 165813,
-      "name": "Easy!",
-      "url": "https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj"
+      "duration_ms": 131065,
+      "name": "My Dey",
+      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
     },
     {
       "added_at": "2023-10-24 09:35:41",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-10-24 09:35:41",
       "album": {
+        "name": "My Back",
+        "url": "https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 203860,
+      "name": "My Back",
+      "url": "https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN"
+    },
+    {
+      "added_at": "2023-10-24 09:35:41",
+      "album": {
         "name": "Authentic",
         "url": "https://open.spotify.com/album/2VWuSbbTf2jV4TFaT8C8OX"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 130856,
       "name": "Authentic",
       "url": "https://open.spotify.com/track/29Z3FVYbkAkrP5fIPHQGfR"
-    },
-    {
-      "added_at": "2023-10-24 09:35:41",
-      "album": {
-        "name": "My Back",
-        "url": "https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 203860,
-      "name": "My Back",
-      "url": "https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN"
     },
     {
       "added_at": "2023-10-24 09:35:41",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-10-24 09:35:41",
       "album": {
-        "name": "I am Loved",
-        "url": "https://open.spotify.com/album/4qJDN4ldOlLXyultmtivtL"
-      },
-      "artists": [
-        {
-          "name": "Uchenna",
-          "url": "https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 168932,
-      "name": "I am Loved",
-      "url": "https://open.spotify.com/track/590d44i18y3y04nVzXFnoJ"
-    },
-    {
-      "added_at": "2023-10-24 09:35:41",
-      "album": {
         "name": "On God",
         "url": "https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 224000,
       "name": "On God",
       "url": "https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK"
+    },
+    {
+      "added_at": "2023-10-24 09:35:41",
+      "album": {
+        "name": "I am Loved",
+        "url": "https://open.spotify.com/album/4qJDN4ldOlLXyultmtivtL"
+      },
+      "artists": [
+        {
+          "name": "Uchenna",
+          "url": "https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 168932,
+      "name": "I am Loved",
+      "url": "https://open.spotify.com/track/590d44i18y3y04nVzXFnoJ"
     },
     {
       "added_at": "2023-10-24 09:35:41",
@@ -1275,8 +1275,8 @@
     {
       "added_at": "2023-10-24 09:35:41",
       "album": {
-        "name": "Oluwa",
-        "url": "https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p"
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/4LcOFetnZSjygsBtwUXpAY"
       },
       "artists": [
         {
@@ -1284,13 +1284,13 @@
           "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
         },
         {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+          "name": "Churemi",
+          "url": "https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO"
         }
       ],
-      "duration_ms": 160528,
-      "name": "Oluwa",
-      "url": "https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx"
+      "duration_ms": 116066,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/1EC2uXIP0AYROl8EbWKiWq"
     },
     {
       "added_at": "2023-10-24 09:35:41",
@@ -1483,8 +1483,8 @@
     {
       "added_at": "2023-10-24 09:35:41",
       "album": {
-        "name": "Johnny",
-        "url": "https://open.spotify.com/album/4LcOFetnZSjygsBtwUXpAY"
+        "name": "Oluwa",
+        "url": "https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p"
       },
       "artists": [
         {
@@ -1492,13 +1492,13 @@
           "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
         },
         {
-          "name": "Churemi",
-          "url": "https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO"
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
         }
       ],
-      "duration_ms": 116066,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/1EC2uXIP0AYROl8EbWKiWq"
+      "duration_ms": 160528,
+      "name": "Oluwa",
+      "url": "https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx"
     },
     {
       "added_at": "2023-10-24 09:35:41",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2023-10-24 09:35:41",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0BD9WVtDVVywYDuKvD5FWy"
-      },
-      "artists": [
-        {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
-        },
-        {
-          "name": "Rae Rae",
-          "url": "https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo"
-        }
-      ],
-      "duration_ms": 201599,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/1RhhWmeGXnBzhgQMvABtVO"
-    },
-    {
-      "added_at": "2023-10-24 09:35:41",
-      "album": {
         "name": "Savior",
         "url": "https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs"
       },
@@ -1699,6 +1679,22 @@
       "duration_ms": 153473,
       "name": "Savior",
       "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
+    },
+    {
+      "added_at": "2023-10-24 09:35:41",
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/4IPg0TIXt2teKZxvxnjJHr"
+      },
+      "artists": [
+        {
+          "name": "Konola",
+          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
+        }
+      ],
+      "duration_ms": 196530,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/4yf7zNinhajeShvOXAHMuZ"
     },
     {
       "added_at": "2023-10-24 09:35:41",
@@ -1727,18 +1723,22 @@
     {
       "added_at": "2023-10-24 09:35:41",
       "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/4IPg0TIXt2teKZxvxnjJHr"
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0BD9WVtDVVywYDuKvD5FWy"
       },
       "artists": [
         {
-          "name": "Konola",
-          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Rae Rae",
+          "url": "https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo"
         }
       ],
-      "duration_ms": 196530,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/4yf7zNinhajeShvOXAHMuZ"
+      "duration_ms": 201599,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1RhhWmeGXnBzhgQMvABtVO"
     },
     {
       "added_at": "2023-10-24 09:35:41",
@@ -1755,30 +1755,6 @@
       "duration_ms": 165642,
       "name": "Mercy (Sho Mo)",
       "url": "https://open.spotify.com/track/1DFe5m3909enzcdrHNrSXY"
-    },
-    {
-      "added_at": "2023-10-24 09:35:41",
-      "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL"
-      },
-      "artists": [
-        {
-          "name": "Dj Horphuray",
-          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
-        },
-        {
-          "name": "Sammy Hart",
-          "url": "https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv"
-        },
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 210291,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd"
     },
     {
       "added_at": "2023-10-24 09:35:41",
@@ -1803,6 +1779,30 @@
       "duration_ms": 217959,
       "name": "NEVER FORGET",
       "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
+    },
+    {
+      "added_at": "2023-10-24 09:35:41",
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL"
+      },
+      "artists": [
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        },
+        {
+          "name": "Sammy Hart",
+          "url": "https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 210291,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd"
     },
     {
       "added_at": "2023-10-24 09:35:41",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-10-24 09:35:41",
       "album": {
-        "name": "Glad",
-        "url": "https://open.spotify.com/album/7mITioX67rSM0jokGL3XSI"
-      },
-      "artists": [
-        {
-          "name": "JOSHUA LAZER",
-          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
-        }
-      ],
-      "duration_ms": 121067,
-      "name": "Glad",
-      "url": "https://open.spotify.com/track/1A6LVS7FbihjjlJVb9VLP4"
-    },
-    {
-      "added_at": "2023-10-24 09:35:41",
-      "album": {
         "name": "Only",
         "url": "https://open.spotify.com/album/2PmXOqX60yjlQ52f1ZUuQw"
       },
@@ -1991,22 +1975,6 @@
     {
       "added_at": "2023-10-24 09:35:41",
       "album": {
-        "name": "Never Leave Me (Amapiano Remix)",
-        "url": "https://open.spotify.com/album/77S0G5BQrMjwa9tUi7KosI"
-      },
-      "artists": [
-        {
-          "name": "Sarah T\u00e9ibo",
-          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
-        }
-      ],
-      "duration_ms": 211184,
-      "name": "Never Leave Me - Amapiano Remix",
-      "url": "https://open.spotify.com/track/0eh2R4p0kOY1UEvBSZYPsE"
-    },
-    {
-      "added_at": "2023-10-24 09:35:41",
-      "album": {
         "name": "TOTORI (The Name of Jesus)",
         "url": "https://open.spotify.com/album/2kUPjp8CwTRXMWnzaiemdT"
       },
@@ -2023,6 +1991,38 @@
       "duration_ms": 204648,
       "name": "TOTORI (The Name of Jesus)",
       "url": "https://open.spotify.com/track/6C2YHtc0mW29XBFRTIFuAZ"
+    },
+    {
+      "added_at": "2023-10-24 09:35:41",
+      "album": {
+        "name": "Never Leave Me (Amapiano Remix)",
+        "url": "https://open.spotify.com/album/77S0G5BQrMjwa9tUi7KosI"
+      },
+      "artists": [
+        {
+          "name": "Sarah T\u00e9ibo",
+          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
+        }
+      ],
+      "duration_ms": 211184,
+      "name": "Never Leave Me - Amapiano Remix",
+      "url": "https://open.spotify.com/track/0eh2R4p0kOY1UEvBSZYPsE"
+    },
+    {
+      "added_at": "2023-10-24 09:35:41",
+      "album": {
+        "name": "Glad",
+        "url": "https://open.spotify.com/album/7mITioX67rSM0jokGL3XSI"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "duration_ms": 121067,
+      "name": "Glad",
+      "url": "https://open.spotify.com/track/1A6LVS7FbihjjlJVb9VLP4"
     }
   ],
   "unique_name": "AfroGospel",

@@ -1,12 +1,12 @@
 {
   "description": "Listen to <a href=\"spotify:artist:3ABaec4jjl95VqmG1iD4k2\">Green Velvet</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 55024,
+  "num_followers": 55053,
   "original_name": "Green Velvet's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDMxYzlmYjQzZDRlYmIwNjdkZjAwODlkNzBmODk4ODJlODYyODRm",
+  "snapshot_id": "MCwwZjA5NDBkOGNkZGMxNDhlM2RmZTgzMTRkOTc0YWNhZWNlMGRhMjhj",
   "tracks": [
     {
       "added_at": "2023-10-18 20:03:24",
@@ -580,7 +580,7 @@
       "added_at": "2023-10-18 20:03:24",
       "album": {
         "name": "Bocat (Michael Bibi Remix)",
-        "url": "https://open.spotify.com/album/7eFCcNOJPqwfcHfdfygATF"
+        "url": "https://open.spotify.com/album/2fqJtOq1kD7ARdaCXw52b8"
       },
       "artists": [
         {
@@ -598,7 +598,7 @@
       ],
       "duration_ms": 367086,
       "name": "Bocat - Michael Bibi Remix",
-      "url": "https://open.spotify.com/track/1pea4MX31SSMy0PeQsme33"
+      "url": "https://open.spotify.com/track/32eqGAgvDMAucaoD7es7uv"
     },
     {
       "added_at": "2023-10-18 20:03:24",
@@ -948,7 +948,7 @@
       "added_at": "2023-10-18 20:03:24",
       "album": {
         "name": "Mode EP",
-        "url": "https://open.spotify.com/album/7d6UzEtMcgtLzTczhuaMk1"
+        "url": "https://open.spotify.com/album/32JmvGGg1AhLhE9oiEdkYV"
       },
       "artists": [
         {
@@ -962,7 +962,7 @@
       ],
       "duration_ms": 440106,
       "name": "Mode - Richy Ahmed Remix",
-      "url": "https://open.spotify.com/track/7LNBV0CoqYKjZUTbyGJH6v"
+      "url": "https://open.spotify.com/track/09H8mDUqHwZKmsS8vkDBNq"
     },
     {
       "added_at": "2023-10-18 20:03:24",
@@ -1039,17 +1039,13 @@
     {
       "added_at": "2023-10-18 20:03:24",
       "album": {
-        "name": "Remixes From The Other Side",
-        "url": "https://open.spotify.com/album/4JlKhvgS86NmWsQlQ5BGq0"
+        "name": "Remixes from the Other Side",
+        "url": "https://open.spotify.com/album/78yOLtEKbVRNVSJz0WhMiP"
       },
       "artists": [
         {
           "name": "Damian Lazarus & The Ancient Moons",
           "url": "https://open.spotify.com/artist/6eWDcQUkr1JSLQLn5j6dsc"
-        },
-        {
-          "name": "Damian Lazarus",
-          "url": "https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv"
         },
         {
           "name": "&ME",
@@ -1058,7 +1054,7 @@
       ],
       "duration_ms": 467000,
       "name": "Vermillion - &ME Remix",
-      "url": "https://open.spotify.com/track/14sXAzJk59scwHtuQjOIlM"
+      "url": "https://open.spotify.com/track/5poB9r3digG4nZyLzDfkPr"
     },
     {
       "added_at": "2023-10-18 20:03:24",
@@ -1096,7 +1092,7 @@
       "added_at": "2023-10-18 20:03:24",
       "album": {
         "name": "The Biggest Heart / Halomot",
-        "url": "https://open.spotify.com/album/1Uwd9aK3LKSVz5ECsCLvhW"
+        "url": "https://open.spotify.com/album/6qEg9C06Zw3LZkWJ3ogomC"
       },
       "artists": [
         {
@@ -1106,7 +1102,7 @@
       ],
       "duration_ms": 531594,
       "name": "The Biggest Heart",
-      "url": "https://open.spotify.com/track/22Sh3XuGWd2kGbMJgSpE5T"
+      "url": "https://open.spotify.com/track/2dRjN943r7OheWoXZwPprz"
     },
     {
       "added_at": "2023-10-18 20:03:24",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2023-10-18 20:03:24",
       "album": {
-        "name": "Soul Clap Social Experiment Sampler Part 2",
-        "url": "https://open.spotify.com/album/31glV4B2Xhgkeo99Q7ZGPv"
+        "name": "Musique Noire (Remixes)",
+        "url": "https://open.spotify.com/album/5MPg99ewuO8Rwh4cjH4Vns"
       },
       "artists": [
         {
-          "name": "Jonny White, James Teej, Jamie Jones",
-          "url": "https://open.spotify.com/artist/491V4kaPpsengqzkreSoXm"
+          "name": "Jonny White",
+          "url": "https://open.spotify.com/artist/7w7S768blOKQCetrhOOGgp"
+        },
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
         }
       ],
       "duration_ms": 345600,
-      "name": "Musique Noire - Jamie Jones In Out Edit",
-      "url": "https://open.spotify.com/track/3kWwoy7YplmupGFwxTk192"
+      "name": "Musique Noire - Jamie Jones' In & Out Edit",
+      "url": "https://open.spotify.com/track/2DOHxQq9OJX8z5qMX4DW8R"
     },
     {
       "added_at": "2023-10-18 20:03:24",

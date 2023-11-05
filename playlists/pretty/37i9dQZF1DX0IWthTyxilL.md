@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 
 > Sons da floresta para inspirar seus dia ou noite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,307 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,330 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 | 49 | [Rain & The Rainforest](https://open.spotify.com/track/0i2QIV9Lku6x5zQkN7DZpn) | [Fictional Athmosphere](https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:13 |
 | 50 | [Jungle, Day \- Afternoon Jungle Ambience: Heavy Birds, Insects, Foreign Forests, Jungles & Swamps](https://open.spotify.com/track/5W3ORIYUu2eXASNHbVwzTC) | [Sound Effects Library](https://open.spotify.com/artist/6BzziB95IQ1jfkr7GHCfl3) | [Jungles & Forests: Sound Effects](https://open.spotify.com/album/3cNjWCQje5rTOJa6rj3pIg) | 2:02 |
 
-Snapshot ID: `MCw1YTFiOTgzZDc0ZjU5YTZmNjEyZjY5ZWZiOTRjMjVjYjUwODZmZmIx`
+Snapshot ID: `MCxjZDE2ZDk5MGVhODMyNjRjMWMyOWRkNjMzNWNhMDA4ZjVkYWFjYWM5`

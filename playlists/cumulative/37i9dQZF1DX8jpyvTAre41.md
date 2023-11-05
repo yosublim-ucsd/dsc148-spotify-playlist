@@ -4,7 +4,7 @@
 
 > The biggest songs in today's Rock scene\. Cover: TALK
 
-718 songs - 1 day 16 hr 45 min
+721 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,8 @@
 | [Lady Of The Lake](https://open.spotify.com/track/6yd4ITFNoDmZlwLVn6Z9TF) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Lady Of The Lake](https://open.spotify.com/album/3tsFExvmbleMDeTBvYrT46) | 5:06 | 2023-02-24 | 2023-04-09 |
 | [Ladybug](https://open.spotify.com/track/3Xokw1dgXW1kAEPcMpVWoe) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Ladybug](https://open.spotify.com/album/0k3L1wx1gsIGQPcCJvAQMT) | 2:45 | 2023-05-19 |  |
 | [Landmine](https://open.spotify.com/track/4YjTwBC1T231kB5AEOK8vf) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/4wiL1pYcgXSvhbaGuM1Xxo) | 3:04 | 2023-07-28 |  |
-| [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-09-29 |  |
+| [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-09-29 | 2023-11-05 |
+| [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-11-03 |  |
 | [Laundry Pile](https://open.spotify.com/track/1GBJZjpI8V0EBBcmWKsy1y) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Laundry Pile](https://open.spotify.com/album/0M3Ne9BhtOKhQsB6RB43Vv) | 3:21 | 2023-05-19 | 2023-07-01 |
 | [Lead Me](https://open.spotify.com/track/1mPVcxe35dmGgiwMKNQjeg) | [Jayli Wolf](https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx) | [Lead Me](https://open.spotify.com/album/5jyCgPqRxR4TekPCa5LJNJ) | 2:18 | 2021-12-31 | 2022-09-10 |
 | [Lemonade](https://open.spotify.com/track/5Lzgqi5hbNZx4GJUkrPFZM) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE), [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [Lemonade](https://open.spotify.com/album/2pYYBjtaQ46GLeV3B4PzcU) | 2:30 | 2022-05-27 | 2022-11-26 |
@@ -629,7 +630,8 @@
 | [These Are the Ways](https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:56 | 2022-04-01 | 2022-04-16 |
 | [Think Fast \(feat\. Weezer\)](https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:42 | 2023-07-07 |  |
 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 | 2022-09-30 | 2022-12-10 |
-| [Those Days](https://open.spotify.com/track/6q0SkdXeeUsUqBhkxNZ911) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp) | 3:39 | 2023-04-21 |  |
+| [Those Days](https://open.spotify.com/track/5ZQSKzxwW86JEosVUWDoRm) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb) | 3:39 | 2023-11-03 |  |
+| [Those Days](https://open.spotify.com/track/6q0SkdXeeUsUqBhkxNZ911) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp) | 3:39 | 2023-04-21 | 2023-11-05 |
 | [Time Won't Heal](https://open.spotify.com/track/1aJhRwvIn8ISOxXhJcLm6M) | [Like Pacific](https://open.spotify.com/artist/5VKmfBc2pR80IxYoC1gHyH) | [Control My Sanity](https://open.spotify.com/album/7HVWMQtV424Ab3b0IBKyda) | 3:01 | 2021-12-31 | 2022-01-15 |
 | [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-19 | 2022-10-15 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-02 | 2022-10-22 |
@@ -715,7 +717,8 @@
 | [Yeah, I Like You](https://open.spotify.com/track/6kNOYOpdMy0w67fC4XPc0q) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Yeah, I Like You](https://open.spotify.com/album/0vlDeWXsRPN0GZkdIoykfT) | 4:24 | 2022-07-01 | 2022-12-24 |
 | [Yippie Ki Yay](https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Yippie Ki Yay](https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1) | 4:26 | 2023-03-24 |  |
 | [You](https://open.spotify.com/track/64oJZbt8DzFfoLK6YOUHA9) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Changes](https://open.spotify.com/album/51Oc9zA07RUPajQqvFUQib) | 2:59 | 2021-12-31 | 2022-04-16 |
-| [You Can Let Go](https://open.spotify.com/track/3b7NzG7D7l3ZuLfEYiPZKL) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe) | 3:06 | 2023-06-23 |  |
+| [You Can Let Go](https://open.spotify.com/track/3b7NzG7D7l3ZuLfEYiPZKL) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe) | 3:06 | 2023-06-23 | 2023-11-05 |
+| [You Can Let Go](https://open.spotify.com/track/4FstNW0yCDSX82nhcCAkZL) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 3:06 | 2023-11-03 |  |
 | [You Can Let Go](https://open.spotify.com/track/4hB9ZXHn35AS2oZaS7oeKl) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [You Can Let Go](https://open.spotify.com/album/5kC54Lqi95lrT1DRFCLtd2) | 3:06 | 2023-03-10 | 2023-06-24 |
 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 | 2022-08-26 | 2023-02-18 |
 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 | 2022-08-05 | 2023-05-16 |

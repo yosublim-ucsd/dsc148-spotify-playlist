@@ -1839,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "Peace Out",
+        "url": "https://open.spotify.com/album/4bSC4fDk7rHdOTWouM16AN"
+      },
+      "artists": [
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133240,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1NSGTSP27TtNSloJeax16H"
+    },
+    {
+      "album": {
         "name": "The Best of Trojan Soul Reggae Vol. 1",
         "url": "https://open.spotify.com/album/6tj67ZqFEtgjFc7iWZsnlX"
       },
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 134573,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1kNg40C5pivfy1Npv5JT9G"
@@ -11270,10 +11288,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 204320,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/1kgVP5FcsXQjXVGO57HLCT"
+    },
+    {
+      "album": {
+        "name": "Play Me Sweet and Nice",
+        "url": "https://open.spotify.com/album/0nX8xS1QkhWaHGKCgbZacn"
+      },
+      "artists": [
+        {
+          "name": "Marcia Griffiths",
+          "url": "https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204533,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/4Syz1PCBRXy9oAt5R3hEPu"
     },
     {
       "album": {
@@ -17393,6 +17429,24 @@
     },
     {
       "album": {
+        "name": "Early Dekker",
+        "url": "https://open.spotify.com/album/0tCUZ28lEp4k43hfG7WHoo"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146239,
+      "name": "Honour Your Mother and Father",
+      "url": "https://open.spotify.com/track/2O4aXPntumZe59vCqMKnv2"
+    },
+    {
+      "album": {
         "name": "Anthology: Israelites 1963-1999",
         "url": "https://open.spotify.com/album/4uuRzNd7cWVoM3d44W7X6J"
       },
@@ -17430,7 +17484,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 145480,
       "name": "Honour Your Mother and Father",
       "url": "https://open.spotify.com/track/4bNHfjoowNCk15XxRp8P6X"
@@ -24263,6 +24317,24 @@
     },
     {
       "album": {
+        "name": "AfroCubism",
+        "url": "https://open.spotify.com/album/2xeis5rXeObCoxaSVqQd5E"
+      },
+      "artists": [
+        {
+          "name": "AfroCubism",
+          "url": "https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335133,
+      "name": "Mali Cuba",
+      "url": "https://open.spotify.com/track/7kAzkQJvYvLQMZS77an8Bk"
+    },
+    {
+      "album": {
         "name": "Afrocubism",
         "url": "https://open.spotify.com/album/7qXvKyPmjYWye72ZTIrihK"
       },
@@ -24274,7 +24346,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 338386,
       "name": "Mali-Cuba",
       "url": "https://open.spotify.com/track/49tM6cyd8uKkL3eEpKnO7g"
@@ -31262,7 +31334,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 133240,
       "name": "Reggae Merengue",
       "url": "https://open.spotify.com/track/0fzHYp3K1F1JKyQJM3Xy21"
@@ -31310,6 +31382,24 @@
       "duration_ms": 134480,
       "name": "Reggae Merengue",
       "url": "https://open.spotify.com/track/5tG3YpxhsXIAU7svGIp6SP"
+    },
+    {
+      "album": {
+        "name": "Gay Jamaica Independence Time (Expanded Version)",
+        "url": "https://open.spotify.com/album/3zwV3Rm18Nf5QuJr2OlxB5"
+      },
+      "artists": [
+        {
+          "name": "Tommy McCook & The Supersonics",
+          "url": "https://open.spotify.com/artist/5xzlboNkAVZ2xS14qfGBv2"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134480,
+      "name": "Reggae Merengue",
+      "url": "https://open.spotify.com/track/2nYvF5Dc4rqdR8JzWAOYmY"
     },
     {
       "album": {
@@ -36179,6 +36269,32 @@
     },
     {
       "album": {
+        "name": "Independence Jump Up Calypso (Expanded Version)",
+        "url": "https://open.spotify.com/album/4EHSJ5SU94YaQfe019A0zE"
+      },
+      "artists": [
+        {
+          "name": "Count Lasher",
+          "url": "https://open.spotify.com/artist/0J2rvUNb5LPOFUV3aWY6Xl"
+        },
+        {
+          "name": "Lynn Tait",
+          "url": "https://open.spotify.com/artist/3jBrsrxrEl1fJIRLeaotk5"
+        },
+        {
+          "name": "The Baba Brooks Band",
+          "url": "https://open.spotify.com/artist/2CvWN4mkeo5qpINkGALdgQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "The Weed (aka Man Pyabba)",
+      "url": "https://open.spotify.com/track/0Tkx83V2dtcLZPVTVEiC0D"
+    },
+    {
+      "album": {
         "name": "Independence Jump Up Calypso",
         "url": "https://open.spotify.com/album/2dfghX8adIwzkl4LwWLoRE"
       },
@@ -36198,7 +36314,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 179026,
       "name": "The Weed (Man Pyabba)",
       "url": "https://open.spotify.com/track/6vFcUp67PGMjZdSKvney6Y"
@@ -38508,10 +38624,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 170946,
       "name": "Watermelon Man",
       "url": "https://open.spotify.com/track/0q7uiOjRspozHz3RLTHinz"
+    },
+    {
+      "album": {
+        "name": "Memorial Album",
+        "url": "https://open.spotify.com/album/4FsOCWZJexquwQ1ZRsZt2L"
+      },
+      "artists": [
+        {
+          "name": "The Baba Brooks Orchestra",
+          "url": "https://open.spotify.com/artist/1fB0xTVV3oAtjiEwBy2J7q"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169066,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/08blkN1VH11P3tEjAqTOiO"
     },
     {
       "album": {

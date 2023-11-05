@@ -1424,7 +1424,7 @@
     {
       "album": {
         "name": "Ciao",
-        "url": "https://open.spotify.com/album/54N3zI6n5WzpAe7PXUyGuF"
+        "url": "https://open.spotify.com/album/7oFHqkWQ8oD9WE0OttidjJ"
       },
       "artists": [
         {
@@ -1439,6 +1439,28 @@
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178105,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/0j0UjKoSgmyacWQgo08iYL"
+    },
+    {
+      "album": {
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/54N3zI6n5WzpAe7PXUyGuF"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        },
+        {
+          "name": "Spencer Ludwig",
+          "url": "https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 178105,
       "name": "Ciao",
       "url": "https://open.spotify.com/track/5m7iT2XPqtkRDPoDNF5TRG"
@@ -1708,8 +1730,8 @@
           "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
         },
         {
-          "name": "Brian Vaulx",
-          "url": "https://open.spotify.com/artist/7hH6r8mrVmYwI0vn2Q8cBH"
+          "name": "Brian V",
+          "url": "https://open.spotify.com/artist/6ObMgQRnI1cLjph8g5rnMl"
         }
       ],
       "date_added": "2023-11-03",
@@ -1766,7 +1788,7 @@
     {
       "album": {
         "name": "Dance With You (The Comeback)",
-        "url": "https://open.spotify.com/album/2nN3SvOwvL9p98jt1fPnKp"
+        "url": "https://open.spotify.com/album/0PWvszHaP2avjzU1Px2keL"
       },
       "artists": [
         {
@@ -1777,6 +1799,24 @@
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 164493,
+      "name": "Dance With You (The Comeback)",
+      "url": "https://open.spotify.com/track/0Gk5WXtYKSD1wQ000qx0en"
+    },
+    {
+      "album": {
+        "name": "Dance With You (The Comeback)",
+        "url": "https://open.spotify.com/album/2nN3SvOwvL9p98jt1fPnKp"
+      },
+      "artists": [
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 164493,
       "name": "Dance With You (The Comeback)",
       "url": "https://open.spotify.com/track/1ilkppSXMza88ER3LRG05B"
@@ -8314,10 +8354,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 217942,
       "name": "You Might Like It",
       "url": "https://open.spotify.com/track/1HWLCLhGLceXLdukbTZpTF"
+    },
+    {
+      "album": {
+        "name": "Mystical Magical Rhythmical Radical Ride",
+        "url": "https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217942,
+      "name": "You Might Like It",
+      "url": "https://open.spotify.com/track/6LMl9QAQ1EE40bntVJXuAi"
     },
     {
       "album": {

@@ -1596,10 +1596,28 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 204914,
       "name": "Timebomb Zone",
       "url": "https://open.spotify.com/track/2sifRHahNmhTR7a3BjKc9u"
+    },
+    {
+      "album": {
+        "name": "No Tourists",
+        "url": "https://open.spotify.com/album/53McTme1ugOjYfqMMmyZre"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204914,
+      "name": "Timebomb Zone",
+      "url": "https://open.spotify.com/track/3Bh7XsEU3ITiT5t1tefc04"
     },
     {
       "album": {

@@ -3068,6 +3068,24 @@
     {
       "album": {
         "name": "Endling",
+        "url": "https://open.spotify.com/album/6Y5phc55G93rszSCghQace"
+      },
+      "artists": [
+        {
+          "name": "Kvelertak",
+          "url": "https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231159,
+      "name": "Fedrekult",
+      "url": "https://open.spotify.com/track/1DgiDbmQoKBd0Zddm7PSgw"
+    },
+    {
+      "album": {
+        "name": "Endling",
         "url": "https://open.spotify.com/album/5LlLDIoYFzmH7CLK8jI2YA"
       },
       "artists": [
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 231159,
       "name": "Fedrekult",
       "url": "https://open.spotify.com/track/6USwgMF3VBSKMe14P0TJb4"
@@ -4972,10 +4990,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 187291,
       "name": "Lowest In Me",
       "url": "https://open.spotify.com/track/1cdCfqSwdXM0BQEDy5Fc7M"
+    },
+    {
+      "album": {
+        "name": "Confessions Of The Fallen",
+        "url": "https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187291,
+      "name": "Lowest In Me",
+      "url": "https://open.spotify.com/track/1jzXxq516d0bM1E7ThLAiR"
     },
     {
       "album": {

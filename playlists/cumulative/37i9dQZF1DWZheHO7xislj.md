@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-357 songs - 23 hr 7 min
+358 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Come into My Life \(Radio Mix\)](https://open.spotify.com/track/0cpTfK32V7XdCoOkPJI2kO) | [Joyce Sims](https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ) | [Come into My Life: The Very Best of Joyce Sims](https://open.spotify.com/album/73n6TRu2pLwThwpXZiIxdP) | 3:47 | 2023-01-09 | 2023-06-28 |
 | [Come On Train \- Original Mix](https://open.spotify.com/track/7sa9QlfY9MUYT2ysod85Rz) | [Don Thomas](https://open.spotify.com/artist/2P9UdbP8tHeUrz9gKuGu2y) | [Come On Train](https://open.spotify.com/album/1nEliK62SZTygH2Nm3bryF) | 3:16 | 2023-01-09 |  |
 | [Come to Mama](https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Tellin' It](https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ) | 2:58 | 2023-06-27 |  |
+| [Come To My Door \- Acoustic Version](https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End](https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW) | 4:38 | 2023-08-15 |  |
 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 | 2023-06-27 |  |
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2023-06-27 | 2023-10-12 |
 | [Compared to What](https://open.spotify.com/track/6HwUwxon7QjBIf75SCz2QD) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Wake Up!](https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP) | 6:26 | 2023-06-27 |  |
@@ -120,7 +121,7 @@
 | [Have A Heart](https://open.spotify.com/track/3krDSP5K5hAKEIOXuxXXH2) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Boss Man](https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK) | 3:10 | 2023-01-09 |  |
 | [He Called Me Baby](https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Stand By Your Man](https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r) | 3:33 | 2023-06-27 |  |
 | [Heart of Gold](https://open.spotify.com/track/36X97rcBwZSa79eNfM1kKN) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp) | 3:03 | 2023-06-27 |  |
-| [Hercules](https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is](https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg) | 4:09 | 2023-01-09 |  |
+| [Hercules](https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is](https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg) | 4:09 | 2023-01-09 | 2023-11-05 |
 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 | 2023-06-27 |  |
 | [Hold On! I'm A Comin' \- LP/Single Version](https://open.spotify.com/track/5wnzbplqelpAyBSkA56m3I) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Stax\-Volt: The Complete Singles 1959\-1968](https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH) | 2:35 | 2023-01-09 | 2023-06-28 |
 | [Holding On](https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Take Me To The Alley](https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ) | 4:14 | 2023-01-09 |  |

@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-505 songs - 1 day 7 hr 33 min
+506 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [Killing Time](https://open.spotify.com/track/5Y15AQnjSQwX5790ZP8OJm) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 5:12 | 2022-09-01 | 2022-09-16 |
 | [LA FINE](https://open.spotify.com/track/6DPE8tGV9lzKALNnvuY9dS) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [LA FINE](https://open.spotify.com/album/5eZ98aKCgAQmEYNtueCoJK) | 3:20 | 2022-12-15 |  |
 | [Land of Smile](https://open.spotify.com/track/6lTBuxszarD3vejf6yMBnJ) | [The Young Wolf](https://open.spotify.com/artist/1D9YuAgk4GI9co3rvv5b1Y) | [Land of Smile](https://open.spotify.com/album/03C3715uWzXOjOuQIIdrbu) | 4:22 | 2022-05-06 | 2022-05-20 |
-| [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-09-28 |  |
+| [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-09-28 | 2023-11-05 |
+| [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-10-27 |  |
 | [Last Call](https://open.spotify.com/track/0H8qdtJRkD6UcodZBdhEw4) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ), [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [Last Call](https://open.spotify.com/album/0fMQ9pIlz9E9Po9PviHWxb) | 2:46 | 2023-05-25 | 2023-06-02 |
 | [Leave Me Be](https://open.spotify.com/track/7Cz87d89aHhnk3MmGAG3L3) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum \(Deluxe Edition\)](https://open.spotify.com/album/61fYGxrlD51FLZGWSlX68q) | 3:33 | 2022-06-30 | 2022-09-30 |
 | [Leech](https://open.spotify.com/track/213FfJIwavzYZrAXa2nNL5) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Leech](https://open.spotify.com/album/4xnqnQAzwMK6gZsuPTojvU) | 3:50 | 2022-05-26 | 2022-06-17 |

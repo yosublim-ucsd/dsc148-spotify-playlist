@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Ain't Got Nothin' Figured Out",
+        "url": "https://open.spotify.com/album/0oTaygkYZPGj8dOvRqW6IB"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205396,
+      "name": "Ain't Got Nothin' Figured Out",
+      "url": "https://open.spotify.com/track/7K8Rw4AUsIVPGSBdzII44L"
+    },
+    {
+      "album": {
         "name": "All for You",
         "url": "https://open.spotify.com/album/1HNGz1Ltvn2pM559lKcDyW"
       },
@@ -1191,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "Down with You",
+        "url": "https://open.spotify.com/album/6NrOQKsvkxcCDIOsnHJyEa"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210050,
+      "name": "Down with You",
+      "url": "https://open.spotify.com/track/400SwUtzaJ3Ge8gqBU7Qdt"
+    },
+    {
+      "album": {
         "name": "Down With You - Single",
         "url": "https://open.spotify.com/album/6rDY8B4Q1F3ZBhb7mmfMdT"
       },
@@ -1718,7 +1754,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 203912,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K"
@@ -3422,10 +3458,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 177440,
       "name": "Pressure Drop",
       "url": "https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg"
+    },
+    {
+      "album": {
+        "name": "Reggae Greats - Toots & The Maytals",
+        "url": "https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "Pressure Drop - Single Version",
+      "url": "https://open.spotify.com/track/2GImcOxFZ0GP49rmPnPOjT"
     },
     {
       "album": {
@@ -4216,7 +4270,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 214480,
       "name": "Space and Time",
       "url": "https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf"

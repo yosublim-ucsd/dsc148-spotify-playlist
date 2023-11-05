@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-213 songs - 14 hr 55 min
+214 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Better Off Dead \(feat\. Nikki Lane\)](https://open.spotify.com/track/578IWecGEFe6XkbAd6iDis) | [Boulevards](https://open.spotify.com/artist/1OO2uAMcUCXUkFzDdsr7x7), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Better Off Dead](https://open.spotify.com/album/6LrcNG6dzsOjFB1gctkn7Z) | 4:09 | 2021-11-19 | 2022-07-29 |
 | [Bewise](https://open.spotify.com/track/0F95zronVQU2C77EN15kny) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Bewise](https://open.spotify.com/album/1EeQWZK8nAfOHHXe95DlTc) | 3:43 | 2021-07-30 |  |
 | [Black Rhythm Happening](https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Black Rhythm Happening](https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz) | 3:34 | 2021-10-29 |  |
-| [Boots In Place](https://open.spotify.com/track/2R9P0B1TsHzLTMrGQb9JGE) | [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [George Porter Jr.](https://open.spotify.com/artist/2KDZHHE0Ca7LVqpzUH7y8a), [Floki Sessions](https://open.spotify.com/artist/601FZXyKDoyE6gWYNNWOWj), [Erica Falls](https://open.spotify.com/artist/4W3Re8hcwf5DvvqaKjV0eR), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Nikki Glaspie](https://open.spotify.com/artist/6qHV34ZuWE31v0NihuQbWv) | [Boots In Place](https://open.spotify.com/album/592HLqXY8YKBQ97UwXTDcg) | 4:15 | 2023-04-28 |  |
+| [Boots In Place](https://open.spotify.com/track/2R9P0B1TsHzLTMrGQb9JGE) | [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [George Porter Jr.](https://open.spotify.com/artist/2KDZHHE0Ca7LVqpzUH7y8a), [Floki Sessions](https://open.spotify.com/artist/601FZXyKDoyE6gWYNNWOWj), [Erica Falls](https://open.spotify.com/artist/4W3Re8hcwf5DvvqaKjV0eR), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Nikki Glaspie](https://open.spotify.com/artist/6qHV34ZuWE31v0NihuQbWv) | [Boots In Place](https://open.spotify.com/album/592HLqXY8YKBQ97UwXTDcg) | 4:15 | 2023-04-28 | 2023-11-05 |
+| [Boots In Place](https://open.spotify.com/track/47gSXRSECjAFpKvnDjw5iG) | [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [George Porter Jr.](https://open.spotify.com/artist/2KDZHHE0Ca7LVqpzUH7y8a), [Floki Sessions](https://open.spotify.com/artist/601FZXyKDoyE6gWYNNWOWj), [Erica Falls](https://open.spotify.com/artist/4W3Re8hcwf5DvvqaKjV0eR), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Nikki Glaspie](https://open.spotify.com/artist/6qHV34ZuWE31v0NihuQbWv) | [Boots In Place](https://open.spotify.com/album/2uZfLhsFZuy6TSzROA5Oup) | 4:15 | 2023-04-28 |  |
 | [Brand New Day](https://open.spotify.com/track/50kcNzbEiu0nlSKTGAJe9W) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Brand New Day](https://open.spotify.com/album/0Whv0ihThqPDFw9WBgk8fG) | 3:59 | 2021-08-06 | 2022-07-29 |
 | [Brand New Day](https://open.spotify.com/track/6162qDKnzcPSOh1NcqoLM3) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Break the Wall](https://open.spotify.com/album/0EF3hnwr3Go8xCwBxC7gcE) | 3:59 | 2021-08-06 |  |
 | [Bump The Man \- Live](https://open.spotify.com/track/0Bwy62vMCaxtEdgRCh4jh5) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Bump The Man \(Live\)](https://open.spotify.com/album/1av1bz04u2EpaydQ5ecCpa) | 4:51 | 2023-04-07 |  |

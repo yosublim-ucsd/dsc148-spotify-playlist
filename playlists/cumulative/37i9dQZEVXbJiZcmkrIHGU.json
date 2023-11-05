@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 152586,
       "name": "1000 Mal",
       "url": "https://open.spotify.com/track/3FkKvUfVnxmxdHrXwuI5vx"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 146367,
       "name": "Airplanes",
       "url": "https://open.spotify.com/track/2LCoh1sop5AYzRBVDHFoiK"
@@ -1890,6 +1890,28 @@
       "duration_ms": 162370,
       "name": "Alexander III.",
       "url": "https://open.spotify.com/track/5joadQZj2gsjiazjynPY2X"
+    },
+    {
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/14QsrnG8duxSLezdqnxHcU"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190953,
+      "name": "All Eyez On Me",
+      "url": "https://open.spotify.com/track/001TLpmtuQMWJYyE7q9ayM"
     },
     {
       "album": {
@@ -2780,7 +2802,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2930,6 +2952,28 @@
       "duration_ms": 156083,
       "name": "Are You Entertained (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
+    },
+    {
+      "album": {
+        "name": "ARKHAM ASYLUM",
+        "url": "https://open.spotify.com/album/0gTMQhUPWbhcYHa3SlN7vl"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Joker Bra",
+          "url": "https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "ARKHAM ASYLUM",
+      "url": "https://open.spotify.com/track/35wU7QXdrqu5FTC4fMzR90"
     },
     {
       "album": {
@@ -8229,6 +8273,32 @@
     },
     {
       "album": {
+        "name": "Crash Dummy",
+        "url": "https://open.spotify.com/album/1ob5JbhZ4KhzKdq0HZZwDG"
+      },
+      "artists": [
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        },
+        {
+          "name": "Monk",
+          "url": "https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE"
+        },
+        {
+          "name": "Ion Miles",
+          "url": "https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172136,
+      "name": "Crash Dummy",
+      "url": "https://open.spotify.com/track/3wlFVKpDLDADlWXTNl9gGN"
+    },
+    {
+      "album": {
         "name": "Benzo Diaries",
         "url": "https://open.spotify.com/album/0HbiTa5jQDKUGTitnI84p1"
       },
@@ -11372,7 +11442,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 119120,
       "name": "ecstacy (slowed)",
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
@@ -12624,6 +12694,24 @@
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
+    },
+    {
+      "album": {
+        "name": "F* I Love It",
+        "url": "https://open.spotify.com/album/07YXgnm6ewRGA8mC4r5Twz"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150937,
+      "name": "F* I Love It",
+      "url": "https://open.spotify.com/track/2BJ1d7uqsVIy5Dfi8hiMhy"
     },
     {
       "album": {
@@ -14294,6 +14382,24 @@
       "duration_ms": 155041,
       "name": "FYM",
       "url": "https://open.spotify.com/track/0e5N4nfdmFiPvdXuEIqxx5"
+    },
+    {
+      "album": {
+        "name": "F\u00fchlst du",
+        "url": "https://open.spotify.com/album/62GUjlJg6JvI7rKBcy8q9T"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "F\u00fchlst du",
+      "url": "https://open.spotify.com/track/5cHPMo64nOHGBORMiHRAHk"
     },
     {
       "album": {
@@ -18962,7 +19068,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 141318,
       "name": "In deinen Armen",
       "url": "https://open.spotify.com/track/6XVSsVuzVUZ2zgRWB5xwef"
@@ -18996,6 +19102,36 @@
       "duration_ms": 145035,
       "name": "IN DER HOOD (feat. KALIM)",
       "url": "https://open.spotify.com/track/3FD8Nbl0UdmbctMAKSwyqH"
+    },
+    {
+      "album": {
+        "name": "Blaue Stunden",
+        "url": "https://open.spotify.com/album/1DndcvOnocioZ39IRv5xp3"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Trettmann",
+          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179335,
+      "name": "In der Nacht",
+      "url": "https://open.spotify.com/track/04g4813XfiSFRpfD1eo67d"
     },
     {
       "album": {
@@ -20366,6 +20502,24 @@
       "duration_ms": 144400,
       "name": "KATASTROF",
       "url": "https://open.spotify.com/track/2dQOLMtsC7x9lsLXnQ2o7z"
+    },
+    {
+      "album": {
+        "name": "Katile",
+        "url": "https://open.spotify.com/album/73kFkLJPBKlhv340tvCllj"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Katile",
+      "url": "https://open.spotify.com/track/4mFDARNcAMmqq4qwTbIFjJ"
     },
     {
       "album": {
@@ -24746,7 +24900,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 147960,
       "name": "MAXIMUM RIZZ",
       "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
@@ -28741,6 +28895,24 @@
     },
     {
       "album": {
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248333,
+      "name": "Now And Then",
+      "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -29518,6 +29690,46 @@
       "duration_ms": 183500,
       "name": "ON FIRE (feat. Ricky Rich)",
       "url": "https://open.spotify.com/track/63oIpOHmjQ41v3bCJ8Ewl2"
+    },
+    {
+      "album": {
+        "name": "LOVELINE EP \ud83d\udc94",
+        "url": "https://open.spotify.com/album/4nWp5yeh1jfCgTDnsYALlC"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "On Fire \ud83d\udd25",
+      "url": "https://open.spotify.com/track/5DD9Y2IEZAvkUMpnVqg4gm"
+    },
+    {
+      "album": {
+        "name": "On Ira",
+        "url": "https://open.spotify.com/album/5OId2gN3v8HsMBBmVLQTJ2"
+      },
+      "artists": [
+        {
+          "name": "Dante YN",
+          "url": "https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp"
+        },
+        {
+          "name": "Squidji",
+          "url": "https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156395,
+      "name": "On Ira",
+      "url": "https://open.spotify.com/track/565OBXlZlMmtddb3I2yxBn"
     },
     {
       "album": {
@@ -34907,6 +35119,24 @@
     },
     {
       "album": {
+        "name": "LOVELINE EP \ud83d\udc94",
+        "url": "https://open.spotify.com/album/4nWp5yeh1jfCgTDnsYALlC"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175529,
+      "name": "Shawty \ud83d\udc25",
+      "url": "https://open.spotify.com/track/2xCi2mvTrSAB64mjCn4STs"
+    },
+    {
+      "album": {
         "name": "she's all i wanna be",
         "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
       },
@@ -35178,7 +35408,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 151319,
       "name": "Sie wei\u00df (feat. Mero)",
       "url": "https://open.spotify.com/track/6JUeZ04YG6WIy937AgIPsR"
@@ -37346,7 +37576,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 139234,
       "name": "Superstars",
       "url": "https://open.spotify.com/track/3dgOu83QnvkooEa4Jz2Msr"
@@ -37534,7 +37764,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 135302,
       "name": "TABU.",
       "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
@@ -41532,7 +41762,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 118000,
       "name": "WE THE HOTTEST IN HERE",
       "url": "https://open.spotify.com/track/0N9RX5PKyLlOKklH5bYtNH"
@@ -41652,7 +41882,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 180173,
       "name": "Weiche Kissen",
       "url": "https://open.spotify.com/track/0sMxLURdmbU8vOlCbDxyfC"

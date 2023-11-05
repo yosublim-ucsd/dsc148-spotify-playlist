@@ -1738,6 +1738,24 @@
     {
       "album": {
         "name": "Dope",
+        "url": "https://open.spotify.com/album/6bIUvka8xYxckAAbGwROrJ"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509226,
+      "name": "Dope",
+      "url": "https://open.spotify.com/track/1l2K4CLTVdxt3IHxVEYJQQ"
+    },
+    {
+      "album": {
+        "name": "Dope",
         "url": "https://open.spotify.com/album/7zPgCo3kXvezF86DQw2ERZ"
       },
       "artists": [
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 509226,
       "name": "Dope - Original Mix",
       "url": "https://open.spotify.com/track/5wElWRFQIzeE1YBe1gTIxp"

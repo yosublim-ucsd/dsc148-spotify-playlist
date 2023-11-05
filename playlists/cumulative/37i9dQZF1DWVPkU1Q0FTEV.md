@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6jZSXmTCxZhFfYELtp78Ci">Fatima Hajji</a>'s favorite tracks\. Updated regularly\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-74 songs - 6 hr 49 min
+76 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,10 @@
 | [Fxck](https://open.spotify.com/track/4WUa4xnXRX1grjrTfjClEg) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Fxck EP](https://open.spotify.com/album/0RNAwHAYNPfIvvn8wDOarv) | 6:16 | 2023-09-22 |  |
 | [Fxck Off](https://open.spotify.com/track/5vbC20Xe6wbHy4mqRGTC1W) | [Veseli](https://open.spotify.com/artist/50s52gIdkQNpkt7iKWrvjY) | [Rave Series, Pt\. 2](https://open.spotify.com/album/4YMJG3cWG3tpcuRAYtZUYL) | 5:36 | 2023-09-22 |  |
 | [Gier \- Original Mix](https://open.spotify.com/track/1g0BGueeHWy8fSlBTv5DRA) | [Sandro Muré](https://open.spotify.com/artist/584kmgeEzXMEgWCshfQuvt) | [Ghost Filter](https://open.spotify.com/album/38ksqvFCm8mMvLFqFm8vOR) | 6:04 | 2023-09-22 |  |
-| [Harmony](https://open.spotify.com/track/7DUfeAp6XPA5LycZb2szHu) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Harmony](https://open.spotify.com/album/3UHseKrKhDrmxq6ChCKTfy) | 6:59 | 2023-06-29 |  |
-| [Hellfire](https://open.spotify.com/track/3VyCBpr1POQQmx8BqwgZiG) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Hellfire](https://open.spotify.com/album/53jsEwUmQ41VRINewRW4te) | 6:00 | 2023-06-29 |  |
+| [Harmony](https://open.spotify.com/track/6pLYwOd3n19hAGy0su6Bb7) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Harmony](https://open.spotify.com/album/1SlMUjPhHFH6O4yHfBVJSG) | 6:59 | 2023-09-22 |  |
+| [Harmony](https://open.spotify.com/track/7DUfeAp6XPA5LycZb2szHu) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Harmony](https://open.spotify.com/album/3UHseKrKhDrmxq6ChCKTfy) | 6:59 | 2023-06-29 | 2023-11-05 |
+| [Hellfire](https://open.spotify.com/track/3VyCBpr1POQQmx8BqwgZiG) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Hellfire](https://open.spotify.com/album/53jsEwUmQ41VRINewRW4te) | 6:00 | 2023-06-29 | 2023-11-05 |
+| [Hellfire](https://open.spotify.com/track/6yTWUKQcvGeNocIBSPTFmw) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Hellfire](https://open.spotify.com/album/48IJdBCA98JVNWXqwkA24g) | 6:00 | 2023-09-22 |  |
 | [Hybrid Boom](https://open.spotify.com/track/01Uf0wEBvU5trPVFauh5wh) | [PISAPIA \(IT\)](https://open.spotify.com/artist/6wBqeigBUFAIAnPuBQl071) | [Bomb Ass Bass](https://open.spotify.com/album/4xwpZVzialmHn12IeOnZtw) | 4:44 | 2023-06-29 |  |
 | [It's My Beat](https://open.spotify.com/track/5Q70EWz2ZBoxMbaPRe7jvV) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR), [NYCO](https://open.spotify.com/artist/6qGPRvyYVYsn8CuD9kX2jP), [JSTN](https://open.spotify.com/artist/6eGp2AIQ3TjdRZ7uxdbaY2) | [It's My Beat](https://open.spotify.com/album/4JWIOoyDyAkeJ3py0ySleT) | 5:19 | 2023-06-29 |  |
 | [Just A Dream](https://open.spotify.com/track/2U4sN4eCHBa2wsiMi9hRoD) | [F I I S H I R](https://open.spotify.com/artist/2Cl6A70X4bUBdw6s1vMDAe) | [The Drug EP](https://open.spotify.com/album/6Tk5Awv0RMGNgFQuKDqfKA) | 6:21 | 2023-09-22 |  |

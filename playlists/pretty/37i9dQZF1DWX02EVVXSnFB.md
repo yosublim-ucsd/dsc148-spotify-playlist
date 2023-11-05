@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,583 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,599 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 28 | [Award Tour \(feat\. Trugoy The Dove\)](https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Trugoy The Dove](https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0) | [Midnight Marauders](https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5) | 3:46 |
 | 29 | [Young Guns \(Go for It!\)](https://open.spotify.com/track/3PS1Q0c2VNKQMIiUusjlFf) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 3:56 |
 | 30 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [McFadden & Whitehead](https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs) | 7:00 |
-| 31 | [Emerald Acid \- Edit](https://open.spotify.com/track/4GBGhCETm1W6uFclNDR5N0) | [Paddy Chambers](https://open.spotify.com/artist/2rM11nGyYVlmm9LGF1p8Mx) | [Emerald Acid E.P](https://open.spotify.com/album/5EV07ut27slAvgMQUBg04T) | 3:52 |
+| 31 | [Emerald Acid \- Edit](https://open.spotify.com/track/27DSG9kQjulz4EDVZGNf0N) | [Paddy Chambers](https://open.spotify.com/artist/2rM11nGyYVlmm9LGF1p8Mx) | [Emerald Acid E.P](https://open.spotify.com/album/7CHrv2K6x7ZlOvkp6FQQUR) | 3:52 |
 | 32 | [I Can Make It Better](https://open.spotify.com/track/7w78Zzs19Mm0hyq9BfAvRq) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [The Complete Solar Hit Singles Collection](https://open.spotify.com/album/5BAfhvuiUfuxrVUHfF00SB) | 7:16 |
 | 33 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 |
 | 34 | [Berimbau/Consolacao](https://open.spotify.com/track/0MXqOC0FqPTa3RTeTPY8oq) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Gracinha Leporace](https://open.spotify.com/artist/4b53XvC9wtlLs8KOLEBkr6) | [Timeless](https://open.spotify.com/album/4sceISkCvRuDbd74AtKeEH) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 49 | [Ya Mama](https://open.spotify.com/track/2jeKsuGqjv5dPbM15V9Kn8) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between The Gutter And The Stars](https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst) | 5:38 |
 | 50 | [Confidence](https://open.spotify.com/track/3xwiyXuh6KLBCQhRfQqXa3) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third](https://open.spotify.com/album/4zG3uvykSITw9ZRfkL6h0V) | 3:14 |
 
-Snapshot ID: `MCw3M2E3MTI0M2I3OTQ4ZWNhMmI1OGQ3MjFmZmE1NGM5MTUzOWVlYjFi`
+Snapshot ID: `MCwyNDhhNjkwOTFhOGU3OTI4MDA2YmUzNDU3NTM0NzQ0MjkxZTkyZDg2`

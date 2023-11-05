@@ -4,7 +4,7 @@
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-172 songs - 14 hr 53 min
+173 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Mustt Mustt](https://open.spotify.com/track/3xSz5q0i3aTVD446ucans3) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Mustt Mustt \(Real World Gold\)](https://open.spotify.com/album/57ObW7qW6CN1CWLXV5DOGb) | 5:18 | 2021-10-21 |  |
 | [Nawaza Hai](https://open.spotify.com/track/3ufmF7hTQHvky89sVw5oN4) | [Salman Amjad Amanat Ali Khan](https://open.spotify.com/artist/4ALYs4SJTcFPzvlW2quWi0) | [Nawaza Hai](https://open.spotify.com/album/6IFyVP3I3Ul0rvCxBRa6m9) | 5:13 | 2022-04-18 | 2022-10-07 |
 | [Neighborhood](https://open.spotify.com/track/1MqxAzd8MOFxrMlu5Ixw4l) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Neighborhood](https://open.spotify.com/album/6OYqRcMMr0B5XVUhzcgJZf) | 2:48 | 2023-03-06 | 2023-03-14 |
-| [Nijaay](https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/5T2htXMWcRmuYQdoHJEgi9) | 7:11 | 2021-10-21 |  |
+| [Nijaay](https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/5T2htXMWcRmuYQdoHJEgi9) | 7:11 | 2021-10-21 | 2023-11-05 |
+| [Nijaay](https://open.spotify.com/track/09Fm7uCNugdcI9bitG6Ype) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/42oYfuID95AxYWA0jduZCo) | 7:14 | 2023-04-17 |  |
 | [No One But You](https://open.spotify.com/track/0dXB28kP8XMuyeLo4mUKuv) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [No One But You](https://open.spotify.com/album/6DTSx1BOMwmneXNSsvgZux) | 3:04 | 2022-04-04 | 2022-04-18 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2023-03-06 | 2023-03-14 |
 | [Noor\-E\-Ilahi](https://open.spotify.com/track/0haStQZr8cgw5jU121JSeA) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Noor\-E\-Ilahi \- Single](https://open.spotify.com/album/4tr24T6sT0z1VDjbTlaxBV) | 6:09 | 2022-04-18 | 2022-10-07 |

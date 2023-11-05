@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Graham Barham
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,420 likes - 172 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,455 likes - 172 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TWO BROKE HEARTS](https://open.spotify.com/track/1cr011JYf3xTu3rYRUK6io) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [TWO BROKE HEARTS](https://open.spotify.com/album/36H4r65rax4ptGYfds64nC) | 3:17 |
 | 2 | [Painted Him Perfect](https://open.spotify.com/track/6eAN9q9pNr43bJE7RxVSDG) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [All I've Ever Known](https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE) | 3:10 |
-| 3 | [Along For The Ride](https://open.spotify.com/track/5cY2DkoSx8XXiyLJrMzMpc) | [Jordan Harvey](https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW) | [It Is What It Is](https://open.spotify.com/album/6brYqTLZzsYeQsuwYgiT9F) | 2:51 |
+| 3 | [Along For The Ride](https://open.spotify.com/track/1A4uDEzD3VWQihItCaeVE9) | [Jordan Harvey](https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW) | [It Is What It Is](https://open.spotify.com/album/3rSJUChPaIyGXpQ2iHPTxb) | 2:51 |
 | 4 | [More or Less](https://open.spotify.com/track/53PCMZmgBA739sanZsNU0x) | [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [More or Less](https://open.spotify.com/album/3twjUH5CABauFgk6YcRC3u) | 3:09 |
 | 5 | [Record High](https://open.spotify.com/track/7KTouudlySEWXOWHAuFAFv) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Record High](https://open.spotify.com/album/7sbj8haNKScqrV1B4Q4EGY) | 3:28 |
 | 6 | [DiCaprio](https://open.spotify.com/track/230mQ7KfcuqKWuxg63gd9m) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [DiCaprio](https://open.spotify.com/album/1KyFMUwcZZVKQuxgoeuLYM) | 3:06 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 26 | [Memories](https://open.spotify.com/track/180x7QSS94PEVrJnLMYTV2) | [Jordan Rager](https://open.spotify.com/artist/4XoYsecWoLIoV66HEbt365) | [Memories](https://open.spotify.com/album/2RIyH2pNBgdBkdudi7FXFt) | 3:11 |
 | 27 | [Tennessee’s Waiting](https://open.spotify.com/track/7IvzjFp53lsHrQzTiBsATg) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Tennessee's Waiting](https://open.spotify.com/album/7M5V96Xw8tnHAFwdjAkPWb) | 3:09 |
 | 28 | [I Hate Airplanes](https://open.spotify.com/track/14ZSuAaYFhkzndL7dl3dMe) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [I Hate Airplanes](https://open.spotify.com/album/04Esw3tpeyec7D9zxmEq7r) | 3:04 |
-| 29 | [Lonely Outta You](https://open.spotify.com/track/4K6Hx75Blpyb7ERrkhfBuv) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Lonely Outta You](https://open.spotify.com/album/0QmiHb5sXcfNzr0j07KKOB) | 3:16 |
+| 29 | [Lonely Outta You](https://open.spotify.com/track/3QcKr4901M5cLaJiQfYq5p) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Lonely Outta You](https://open.spotify.com/album/7FX8PhAUzhW5Z3SV5M8Tk8) | 3:16 |
 | 30 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 |
 | 31 | [FLA](https://open.spotify.com/track/3OfHJVlzplAfCYjLsYOIVO) | [Jake Slaton](https://open.spotify.com/artist/1gxVEPVnQD8yWtdeSVGDAx) | [FLA](https://open.spotify.com/album/6HYSYFgaJvuFzZykNkjdqU) | 3:11 |
 | 32 | [Me Or My Hometown](https://open.spotify.com/track/3Pfbtcb3ZWJgZ0qExAapzq) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Me Or My Hometown](https://open.spotify.com/album/72SbgvMWSRI5S5PzlcDdHN) | 3:28 |
@@ -64,14 +64,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 54 | [Laid Back](https://open.spotify.com/track/2Q6u01A9qrtBnKEmwD9QOM) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC) | 2:51 |
 | 55 | [Wish You Wouldn’t](https://open.spotify.com/track/1FFiFJaKHSJ6w3ucont3Br) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me: The Way I Feel \(Deluxe Edition\)](https://open.spotify.com/album/6SEog5NExgkEGFiUZw7AYF) | 3:15 |
 | 56 | [Know Ya](https://open.spotify.com/track/5Fg0HlaYmQEcfeN8YoYbgV) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Know Ya](https://open.spotify.com/album/1rW2XLmrFBksfkmxRSIPuj) | 2:43 |
-| 57 | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/track/4N4HucJ3hNKQq1fOy1uH1B) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [The Other Half](https://open.spotify.com/album/6cmoD6nJ4anqACfPpuPjtE) | 2:40 |
+| 57 | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/track/1mMQ0DVUR47ASts0GJjGqq) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Tennessee's Waiting](https://open.spotify.com/album/7M5V96Xw8tnHAFwdjAkPWb) | 2:40 |
 | 58 | [Love You a Little Bit](https://open.spotify.com/track/5U8jzduwcqML3oi3yY1wDP) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY \(DELUXE\)](https://open.spotify.com/album/2GBaNzYtAW6NgOW4VHxnlq) | 3:30 |
 | 59 | [Front Row Seat](https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Front Row Seat](https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2) | 2:52 |
 | 60 | [Mirror Mirror](https://open.spotify.com/track/5wPtqoXt8zNzahGo8ddVBz) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Mirror Mirror](https://open.spotify.com/album/2piO0gBC50BNPmipi0ngdg) | 3:28 |
 | 61 | [One Thing Figured Out](https://open.spotify.com/track/1GQxXDTwzQ9mGr9JH7PO1o) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [One Thing Figured Out](https://open.spotify.com/album/4gNkJ3etw5sNTT52YhsNek) | 3:37 |
 | 62 | [Second Guessing](https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um) | [Griffen Palmer](https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ) | [Second Guessing](https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD) | 3:09 |
 | 63 | [Over the Weekend](https://open.spotify.com/track/14rwllmMI8akokL4gQPLIN) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8), [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Over the Weekend](https://open.spotify.com/album/4LZNKWl3QV2ByeYItaYaec) | 3:30 |
-| 64 | [Hate Me](https://open.spotify.com/track/3ICvHsbfVNSw0lYsPq81ao) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [Hate Me](https://open.spotify.com/album/2cO5M6ZN4NoPNppgOAsFuN) | 2:54 |
+| 64 | [Hate Me](https://open.spotify.com/track/6zOqmGjID2yYioGGehfxkN) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [Hate Me](https://open.spotify.com/album/05CMFHnlo2qflbiqhhMM9A) | 2:54 |
 | 65 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 |
 | 66 | [When You Don't](https://open.spotify.com/track/7ImYS5oswVxcksD3VCG6dz) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [Leave Us In A Memory](https://open.spotify.com/album/0ohrkH1X8tQDz72jvCQ0HO) | 3:33 |
 | 67 | [Best Worst Ex](https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Best Worst Ex](https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL) | 2:44 |
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 99 | [Lucky Me](https://open.spotify.com/track/70DnlRCu1lCKuIvcrvQoq6) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Dreamers](https://open.spotify.com/album/2gyLkzfqDT1HfqEo9sv04a) | 3:35 |
 | 100 | [Heavenly](https://open.spotify.com/track/0fx1Oyto2wN6gLenluWyYJ) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Heavenly](https://open.spotify.com/album/2M5Y6YoELhOhQcgY1nGL9X) | 3:12 |
 | 101 | [Love Takes Time](https://open.spotify.com/track/01YA6z2H4vYzQ9XLlrE3Qt) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Jonathan Hutcherson](https://open.spotify.com/album/2H4lPoj1CgW9dK3DukPdGh) | 2:39 |
-| 102 | [When I Get Home](https://open.spotify.com/track/0pYO30NBbEZTqLzHj1eWww) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [When I Get Home](https://open.spotify.com/album/5Vx9kDNjXzjDyeOVajPWLA) | 3:13 |
+| 102 | [When I Get Home](https://open.spotify.com/track/0dCt91Yon7qzI71mfZ8bBr) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [When I Get Home](https://open.spotify.com/album/4ahodXXuSXTtIAS5Ellh1n) | 3:13 |
 | 103 | [Started Right Here](https://open.spotify.com/track/7AdMQLG4UbBQF6RNFs57IT) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/113bFdIiv0jfchW7SKyBa8) | 2:45 |
 | 104 | [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 |
 | 105 | [Pretty Damn Close](https://open.spotify.com/track/4GEP4c32r8w23n7vOTrSUD) | [Lexie Hayden](https://open.spotify.com/artist/6zYd6Vq5ssXgIhxm1DTGWh) | [Pretty Damn Close](https://open.spotify.com/album/3Bgy4hqtatQewljCLoW9Ob) | 3:45 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 171 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 |
 | 172 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 |
 
-Snapshot ID: `MCw0Nzk1ZDlmYjI1ODNjODI1NzU2YTA2MjhkM2RkZTBjMjAyYjUwODU4`
+Snapshot ID: `MCw5NWQ4NjI2Zjc1MTc4MTg2ZDdkOTA3MWNiMDA0YjUwYTc0MzcxZjlj`

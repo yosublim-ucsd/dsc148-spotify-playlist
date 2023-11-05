@@ -34,10 +34,28 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 156000,
       "name": "7 PM",
       "url": "https://open.spotify.com/track/3hvINUpTXUW5S00E0TwPn3"
+    },
+    {
+      "album": {
+        "name": "7:00 PM",
+        "url": "https://open.spotify.com/album/4qqCIN75XNap1XsJEuMdEH"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "7:00 PM",
+      "url": "https://open.spotify.com/track/4OfifSqm1D9waYSR9dNMbu"
     },
     {
       "album": {
@@ -2398,6 +2416,24 @@
     {
       "album": {
         "name": "W El 7al Eh",
+        "url": "https://open.spotify.com/album/5QozLcTAMMizJNSl8G3iqA"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179284,
+      "name": "W El 7al Eh",
+      "url": "https://open.spotify.com/track/5uz5RuH7joyHiwk17HXlOj"
+    },
+    {
+      "album": {
+        "name": "W El 7al Eh",
         "url": "https://open.spotify.com/album/4BopfUXJgJhEUYefSdOXHs"
       },
       "artists": [
@@ -2408,7 +2444,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 179284,
       "name": "W El 7al Eh",
       "url": "https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB"

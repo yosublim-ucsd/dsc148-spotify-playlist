@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: Dana and Alden
 
-167 songs - 11 hr 0 min
+168 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,10 +81,11 @@
 | [Knocked Down](https://open.spotify.com/track/6eqB9nHqFg5lXl0R4KJOfn) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Asher Kosher](https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6), [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP) | [Knocked Down](https://open.spotify.com/album/7Aaay06Qqs7PTimOjKuIFC) | 3:35 | 2023-09-21 |  |
 | [Last Words](https://open.spotify.com/track/3khWqd9n9x6U7UMDlXWxbm) | [NO ZU](https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P) | [Last Words](https://open.spotify.com/album/11rsTNOr3mFKfGJ0JjtSJy) | 5:09 | 2023-09-21 |  |
 | [Let's Go to Trader Joe's](https://open.spotify.com/track/0z5l7DO1gTxysQagz2ze8M) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [Cinya Khan](https://open.spotify.com/artist/7nv9u1rH0xrKytpgKfDKfz) | [Quiet Music For Young People](https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm) | 2:36 | 2023-08-14 |  |
-| [Light Years](https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB) | 4:07 | 2023-10-12 | 2023-10-14 |
-| [Light Years](https://open.spotify.com/track/4M3TB3K2uietahnWZuzIZF) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 4:07 | 2023-10-12 |  |
+| [Light Years](https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB) | 4:07 | 2023-10-12 |  |
+| [Light Years](https://open.spotify.com/track/4M3TB3K2uietahnWZuzIZF) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 4:07 | 2023-10-12 | 2023-11-05 |
+| [Listen To The Sky](https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl) | 2:52 | 2023-10-19 |  |
 | [Listen To The Sky](https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u) | 2:52 | 2023-09-14 | 2023-10-16 |
-| [Listen To The Sky](https://open.spotify.com/track/5Hp5ffZ2NOFuJCGuJ04psW) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 2:52 | 2023-10-12 |  |
+| [Listen To The Sky](https://open.spotify.com/track/5Hp5ffZ2NOFuJCGuJ04psW) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 2:52 | 2023-10-12 | 2023-11-05 |
 | [Lost in a Bed of Flowers](https://open.spotify.com/track/6jKRORjRyncMFPyMxsYyp1) | [Zen in Space](https://open.spotify.com/artist/3tCapIBvPdztdjuCnoout6) | [Between the Abstract](https://open.spotify.com/album/08RkTLcmCy8RvbLD4MacKZ) | 5:57 | 2023-08-17 | 2023-09-29 |
 | [Loverboy](https://open.spotify.com/track/4WhxZNWqt4rzXf6ctk73CY) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [The Height Of Love](https://open.spotify.com/album/5I5F5oznREIBNiyl1f4ZuO) | 5:23 | 2023-08-10 | 2023-09-15 |
 | [Marching Band \(feat\. Masego\)](https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Marching Band \(feat\. Masego\)](https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt) | 4:44 | 2023-08-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 
 > Bold tracks packing some serious swagger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,354,064 likes - 112 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,354,127 likes - 112 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 89 | [Leadfoot](https://open.spotify.com/track/2CTO2pyypknKNa46wo8spU) | [No Sinner](https://open.spotify.com/artist/4tU4lol6tCmomJNksFxR5z) | [Old Habits Die Hard \(Deluxe Edition\)](https://open.spotify.com/album/28l8N6Bf0S9pH3aoibpmYO) | 4:05 |
 | 90 | [Oh No](https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Magic Valley](https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL) | 3:41 |
 | 91 | [Glitter & Gold](https://open.spotify.com/track/1aJtyIMev4kW8IMUxOjn1Y) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Dull Drums \- EP](https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf) | 2:56 |
-| 92 | [Electric Bones](https://open.spotify.com/track/1qVRnP3NeKUGkSS5KsQZzr) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Forgotten Pleasures](https://open.spotify.com/album/2y53uIU8txKLctaYpLTPqe) | 3:12 |
+| 92 | [Electric Bones](https://open.spotify.com/track/2P7s3YjIeYTpzfFG5sZzFG) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Forgotten Pleasures](https://open.spotify.com/album/3bZwjGGcZQ8dx0L5psGXEI) | 3:12 |
 | 93 | [My Babe](https://open.spotify.com/track/5skNyajERDfPHvKNdzSpRU) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [My Babe](https://open.spotify.com/album/4bdKuZONP3UEQuLAHvmlTP) | 2:18 |
 | 94 | [Trouble in Mind](https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:42 |
 | 95 | [I Feel Your Love \- Director's Cut](https://open.spotify.com/track/2H1dRtNUitddC5lt07W3Pp) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/2hGp4zeWcLdeQ0iq7Uj52Q) | 2:53 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 111 | [Moonlight](https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c) | [Jeremiah Tall](https://open.spotify.com/artist/11mBQlqUJqZCgqLCKQdhSP) | [Where the Lore Began](https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9) | 1:51 |
 | 112 | [Bad Things](https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Jace Everett](https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE) | 2:44 |
 
-Snapshot ID: `MCwxOTNjNDZjNDFmOGViZGVlOWFjMWFmMWZlZjQxNTY2YTJkYmQ1ZGFk`
+Snapshot ID: `MCw2NTc3OTc2NzQ3MDk2OGNiMWJhMjQwZmM5YzgyNTM5MWQ2NTA4NzVh`

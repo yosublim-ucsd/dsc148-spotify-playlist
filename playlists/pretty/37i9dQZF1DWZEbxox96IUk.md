@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,304 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,368 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 18 | [Le bal masqué](https://open.spotify.com/track/6mB2CTqOIiF18RFSGBJM4X) | [La Compagnie Créole](https://open.spotify.com/artist/4GFqys2YA5hdCl4P2pdX3h) | [Best Of: C'est bon pour le moral !](https://open.spotify.com/album/7BzFMQvwZtV39KOsGT4Ltl) | 5:09 |
 | 19 | [Les lacs du Connemara](https://open.spotify.com/track/3vHswuqTNO0hIiW6am0tKB) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Les Lacs Du Connemara](https://open.spotify.com/album/3pTPQbaS5vKxke6Edvnlen) | 6:03 |
 | 20 | [Confidence pour confidence \- Version originale 1981](https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3) | [Jean Schultheis](https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W) | [Abracadabra](https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD) | 4:46 |
-| 21 | [Capitaine abandonné](https://open.spotify.com/track/2wPIAbTLGirLSZwv0dndIp) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Le Best Of](https://open.spotify.com/album/1bVtBAQJUBWFjsXSDViOT8) | 3:51 |
+| 21 | [Capitaine abandonné](https://open.spotify.com/track/38LHrcQIVbJJtS8H3xfCKn) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Incontournable Gold](https://open.spotify.com/album/0RPMT9OFkLNQMUjCxhlTlR) | 3:55 |
 | 22 | [Paris Latino \- Original Version 1983](https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs) | [Bandolero](https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB) | [Best of Bandolero \(Le meilleur des années 80\)](https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX) | 4:03 |
 | 23 | [Le coup de folie](https://open.spotify.com/track/7nWMVmzfodNQ5Ezj29yJ3S) | [Thierry Pastor](https://open.spotify.com/artist/2pwVe1rARBwb9VVjcL8XpH) | [Le coup de folie](https://open.spotify.com/album/1PzNZnVIDlvl4GDtCb6E3K) | 3:37 |
 | 24 | [Marcia Baïla](https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Rita Mitsouko](https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k) | 5:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 59 | [Pour le plaisir](https://open.spotify.com/track/3UbjLaV37WezwuvT2pdsIL) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 3:48 |
 | 60 | [Tes états d'âme Eric](https://open.spotify.com/track/41OT0gmF3Ku5BAo06uoKvN) | [Luna Parker](https://open.spotify.com/artist/6JWjzo212lkYEtlowpF2sK) | [Felin Pour L'Autre](https://open.spotify.com/album/3yw7s4ANFbfPw4uYFVjvW0) | 3:30 |
 
-Snapshot ID: `MCw0YzY3NjYyMzAyMmQwMmQ0MjA3MjIxYTBkYTBjZWI5YzVmMzEzNmRl`
+Snapshot ID: `MCwzZWE3MWNkY2M4Nzc1YjYxMjBhN2FiZDhiZDRiYTljNWJiYjk1NjA0`

@@ -2268,7 +2268,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 225033,
       "name": "Weirdo",
       "url": "https://open.spotify.com/track/0aIj36K0tuJIt6kpN4Jbtq"
@@ -2290,6 +2290,24 @@
       "duration_ms": 225033,
       "name": "Weirdo",
       "url": "https://open.spotify.com/track/0wJyNSjuL5KU2HHjwwH1Kb"
+    },
+    {
+      "album": {
+        "name": "Inside Voices / Outside Voices",
+        "url": "https://open.spotify.com/album/1Ct0Q2DpQ7TjqdG3Ys453S"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225033,
+      "name": "Weirdo",
+      "url": "https://open.spotify.com/track/140FZc81yT89NfXsooPWWW"
     },
     {
       "album": {

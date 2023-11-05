@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: AMÉM
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,691 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,886 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 72 | [Rude Cruz \(Ao Vivo\)](https://open.spotify.com/track/583p2yhPa1VqXQiPH0yGzb) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS), [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [Rude Cruz \(Ao Vivo\)](https://open.spotify.com/album/1R8t64G5z3pRiAzlDSeA6C) | 5:03 |
 | 73 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 |
 | 74 | [Quem Sou](https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK) | [PEDRAZUL](https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA), [Antônio](https://open.spotify.com/artist/3XlPRhG9w1NMCPvS1f4dW5), [Jaqueline Nobre](https://open.spotify.com/artist/4Ho1MOw0lfdAfXvH4DVJXd) | [Quem Sou](https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj) | 4:30 |
-| 75 | [Me Enche de Amor \- Acústico](https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Bekah Costa](https://open.spotify.com/artist/5zotODPIeTAfTLEDkZuhSK) | [Me Enche de Amor \(Acústico\)](https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f) | 5:09 |
-| 76 | [Ele É Exaltado \- Acústico](https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1) | [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs), [Tavinho](https://open.spotify.com/artist/036P0vXkdyvd37jZ7FbpZW) | [Ele É Exaltado \(Acústico\)](https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI) | 2:15 |
-| 77 | [Nada vai me separar \(Acústico\)](https://open.spotify.com/track/3lvW6YlRwTIhRkrFsqpXyD) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Nada vai me separar \(Acústico\)](https://open.spotify.com/album/2LEQUVyuNA0EveW6JSeIGw) | 4:38 |
+| 75 | [Nada vai me separar \(Acústico\)](https://open.spotify.com/track/3lvW6YlRwTIhRkrFsqpXyD) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Nada vai me separar \(Acústico\)](https://open.spotify.com/album/2LEQUVyuNA0EveW6JSeIGw) | 4:38 |
+| 76 | [Me Enche de Amor \- Acústico](https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Bekah Costa](https://open.spotify.com/artist/5zotODPIeTAfTLEDkZuhSK) | [Me Enche de Amor \(Acústico\)](https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f) | 5:09 |
+| 77 | [Ele É Exaltado \- Acústico](https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1) | [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs), [Tavinho](https://open.spotify.com/artist/036P0vXkdyvd37jZ7FbpZW) | [Ele É Exaltado \(Acústico\)](https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI) | 2:15 |
 | 78 | [Além do Rio](https://open.spotify.com/track/5sqGOZkwV4UZkZGzJ9srrK) | [Laura Siderac](https://open.spotify.com/artist/2IBBRq3EVSXhA92tT5LAUl), [Jader Santos](https://open.spotify.com/artist/0LgOPOdCNpAxAkFWiliKpx), [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e) | [Além do Rio](https://open.spotify.com/album/0ClOudFFEe8XqjDnFJxQyS) | 4:11 |
 | 79 | [Eu Me Rendo \(I Surrender\) \- Acústico](https://open.spotify.com/track/2WGlHxK3Cwd7bEIT9D0dAY) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Acústico Mergulhar](https://open.spotify.com/album/6pIY0cvrF5FrOtBHoPtInI) | 6:14 |
 | 80 | [Alguém Como Eu](https://open.spotify.com/track/6kbcLo1Sgi5OjzEvtdgxyy) | [Guilherme Leite](https://open.spotify.com/artist/4OPDva5P2NCD4ssE52yMXb), [Nalú](https://open.spotify.com/artist/0YaxG7PCq40nc8tKcMkrgx) | [Alguém Como Eu](https://open.spotify.com/album/6gO3nrarrqWVwBYDnjTjrr) | 4:13 |
 
-Snapshot ID: `MCxkNDY1ZjMzZmIzNmJmMWY2MzkzYWJmNTc3NmUwZjJkZWFkYTdlYWQ1`
+Snapshot ID: `MCxjOWNjZTM3NjJiNGI1MjMyOTU4YzY1NWFhNDRmYmExNjAxNWNlOTZm`

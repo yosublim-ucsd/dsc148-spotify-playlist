@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 5934,
+  "num_followers": 5951,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDNlY2JmNGZhOTU2M2Y3NTQwMThkNmRkODM0YTMzOTk3YmI5OTMz",
+  "snapshot_id": "MCxjMDg1ODU5YTkyNTc1NDVmZmQ1MzhhM2YzYTM0MGUxMDBhZGUxMTU5",
   "tracks": [
     {
       "added_at": "2023-11-02 23:00:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "The Returner",
-        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
+        "name": "Love Is A Place",
+        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
         }
       ],
-      "duration_ms": 230920,
-      "name": "The Returner",
-      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
+      "duration_ms": 185542,
+      "name": "Love Is A Place",
+      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Love Is A Place",
-        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
       },
       "artists": [
         {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 185542,
-      "name": "Love Is A Place",
-      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
+      "duration_ms": 230920,
+      "name": "The Returner",
+      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/2m4JpjrTwYc9qGASbsbrJT"
-      },
-      "artists": [
-        {
-          "name": "The Golden Glows",
-          "url": "https://open.spotify.com/artist/5CMKkypfO8LrvYHEoTment"
-        }
-      ],
-      "duration_ms": 207167,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/4sf3h7pItFhKub8I57Tl04"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
         "name": "Driving Like A Dream Car Should",
         "url": "https://open.spotify.com/album/0PUtR0ic8SMHYtj6CF77cQ"
       },
@@ -835,18 +819,34 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Nighttime Walk",
-        "url": "https://open.spotify.com/album/6B3IT89Ihbf3s3SPkLlz48"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/2m4JpjrTwYc9qGASbsbrJT"
       },
       "artists": [
         {
-          "name": "Mercy John",
-          "url": "https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ"
+          "name": "The Golden Glows",
+          "url": "https://open.spotify.com/artist/5CMKkypfO8LrvYHEoTment"
         }
       ],
-      "duration_ms": 336904,
-      "name": "Nighttime Walk",
-      "url": "https://open.spotify.com/track/4xWwLMuE6SfoqvtWpSgoyO"
+      "duration_ms": 207167,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/4sf3h7pItFhKub8I57Tl04"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
+        "name": "For The Better Of Me",
+        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
+      },
+      "artists": [
+        {
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+        }
+      ],
+      "duration_ms": 230431,
+      "name": "For The Better Of Me",
+      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
     }
   ],
   "unique_name": "Route Americana",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-183 songs - 18 hr 22 min
+184 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Adventures of Dama \- Gorge Rework](https://open.spotify.com/track/2IhAnVqvBv2JWvMsh3zPES) | [Cybordelics](https://open.spotify.com/artist/6oA7ZIJ36hYM0DnXndMlII), [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Adventures of Dama 2022](https://open.spotify.com/album/4nZ4TdGq90n6M6CW0a7oG8) | 8:09 | 2022-09-16 |  |
 | [Amber](https://open.spotify.com/track/43cvd7nBhsfPYW1yBVVtqI) | [Co\-Fusion](https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT) | [Dance with the Robots](https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC) | 6:59 | 2023-03-03 |  |
 | [Andromeda Mission](https://open.spotify.com/track/7EKpyfbmopbXMaMLW9QEd3) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 7:55 | 2022-09-16 |  |
-| [Apache \- Nusha Remix](https://open.spotify.com/track/5CHtVqIbKlNFHvrHEUNwaj) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Apache \(Nusha Remix\)](https://open.spotify.com/album/0QzWgGeyFEcy2gWFzZykDQ) | 6:06 | 2023-05-05 |  |
+| [Apache \- Nusha Remix](https://open.spotify.com/track/3nx53u9SFSgFdxChE8nMrj) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Apache \(Nusha Remix\)](https://open.spotify.com/album/4RVzlhV7VQgp8hWO48lQMg) | 6:06 | 2023-10-27 |  |
+| [Apache \- Nusha Remix](https://open.spotify.com/track/5CHtVqIbKlNFHvrHEUNwaj) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Apache \(Nusha Remix\)](https://open.spotify.com/album/0QzWgGeyFEcy2gWFzZykDQ) | 6:06 | 2023-05-05 | 2023-11-05 |
 | [Are Am Eye? \- Roger Shah & Cores Short Edit](https://open.spotify.com/track/6SoOlvrcw4GhmQoq9araKD) | [Commander Tom](https://open.spotify.com/artist/1mlDy7thi2GGZ5ybFxjnmd), [Cores](https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M), [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI) | [Are Am Eye? Roger Shah & Cores Remix](https://open.spotify.com/album/1sdYiS8ZuS0NmT6o9uyezT) | 3:32 | 2022-09-16 |  |
 | [Artefact](https://open.spotify.com/track/33QwWRC57OnQSkmAvrvjJI) | [Moritz Sachse](https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3) | [VA: CAELUM](https://open.spotify.com/album/77IT6pLjTXeFxzSn1VndEN) | 7:03 | 2023-05-26 | 2023-07-15 |
 | [Astronautin \- Boris Brejcha Remix](https://open.spotify.com/track/4Z9JnhS9cd1Qd0BJ7nii4D) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Boavista Remixes](https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa) | 8:15 | 2022-09-16 | 2022-10-28 |

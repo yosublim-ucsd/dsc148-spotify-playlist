@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,694 likes - 85 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,695 likes - 85 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 36 | [Slow Walk](https://open.spotify.com/track/2NGcaUYRGMjq1g07vShB0y) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Easy Listening Blues](https://open.spotify.com/album/083njrfyh2zU4X0W4zLu1f) | 3:15 |
 | 37 | [I'm So Lonely](https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [Simple Truths](https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY) | 4:40 |
 | 38 | [Still Blue](https://open.spotify.com/track/2ZoFDmNwXTSK3zgOayk63v) | [Long John Hunter](https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW) | [Ride With Me](https://open.spotify.com/album/5coZhDRNQ6Tntf3EVbmCDk) | 7:02 |
-| 39 | [A Fool No More](https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 7:44 |
+| 39 | [A Fool No More](https://open.spotify.com/track/4h5r5YL1QXFiblkRUtTXCb) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/6t9AXiAHR0S6BFKzVYNTQB) | 7:44 |
 | 40 | [A Man and the Blues](https://open.spotify.com/track/6fT85JDHqhkQv26CW7apxG) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Slow Blues \- 25 Rare Blues Tracks](https://open.spotify.com/album/5IQlmcuc8I8RlY4h9ELihB) | 6:21 |
 | 41 | [Midnight Blues](https://open.spotify.com/track/2n5LevrNK3JbN1WWtXuLD6) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 4:58 |
 | 42 | [Rambling On My Mind](https://open.spotify.com/track/2xIe93Xlp05jX2rSvTY56i) | [Tab Benoit](https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB) | [Nice And Warm](https://open.spotify.com/album/2Qswbfz2bk23yZwS546NoG) | 5:09 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 84 | [I Love to Sing the Blues](https://open.spotify.com/track/5aBTkEM1vy7GaLeNH4ZBsq) | [Eb Davis Blues Band](https://open.spotify.com/artist/5EFzsijVGUq2VWklM2fxgK) | [Good Time Blues](https://open.spotify.com/album/0G4CO1qvIODlarbiaMOcEa) | 5:35 |
 | 85 | [When My Heart Beats Like a Hammer](https://open.spotify.com/track/7cBSTKsHmyjqp5euTS5yCM) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 7:09 |
 
-Snapshot ID: `MCw4NDE4OWQ0OThiYjM1NjZiMmZlZDMyYzE0ODE4N2I0OGI2ZTA3ZmY5`
+Snapshot ID: `MCw3Zjc2NzE3MDc0MmRkN2VhMGFmOWQxNjM5MzM0MzNmNTQ5NzY2Y2Fi`

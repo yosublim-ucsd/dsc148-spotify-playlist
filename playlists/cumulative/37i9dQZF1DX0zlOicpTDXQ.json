@@ -836,10 +836,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 271087,
       "name": "O Christmas Tree",
       "url": "https://open.spotify.com/track/2CHoInODC6oz5nI76zea5D"
+    },
+    {
+      "album": {
+        "name": "Happy Holidays",
+        "url": "https://open.spotify.com/album/1CHbNUmk6dE4I7bdKkEQGg"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271087,
+      "name": "O Christmas Tree",
+      "url": "https://open.spotify.com/track/2F27MVZ8bYuP0GXuXu2fFA"
     },
     {
       "album": {

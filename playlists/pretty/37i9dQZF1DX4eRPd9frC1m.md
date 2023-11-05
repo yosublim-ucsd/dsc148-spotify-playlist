@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,585,762 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,585,973 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 61 | [TIKTOK](https://open.spotify.com/track/3nJxqghn6qVTWNzYa5Syc7) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [TIKTOK](https://open.spotify.com/album/4cmm7HDh19mkyFit9wb2c3) | 2:30 |
 | 62 | [Burn Up The Floor](https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Jantsen](https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg) | [Rainbow Brain](https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8) | 3:46 |
 | 63 | [NEW WIP](https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [NEW WIP](https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn) | 3:06 |
-| 64 | [REDLIGHT \- VIP](https://open.spotify.com/track/76peqTD79xDzySA3SyWzs5) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [REDLIGHT \(VIP\)](https://open.spotify.com/album/5mczOUN0PKncHlSTvX8vVA) | 3:19 |
-| 65 | [Trenches](https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Trenches](https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4) | 2:49 |
+| 64 | [Trenches](https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Trenches](https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4) | 2:49 |
+| 65 | [REDLIGHT \- VIP](https://open.spotify.com/track/76peqTD79xDzySA3SyWzs5) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [REDLIGHT \(VIP\)](https://open.spotify.com/album/5mczOUN0PKncHlSTvX8vVA) | 3:19 |
 | 66 | [NO FEAR](https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [NO FEAR](https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D) | 2:54 |
 | 67 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 |
 | 68 | [Valley Of Violence](https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Valley Of Violence](https://open.spotify.com/album/3fblenkjskYmPpOOAm58My) | 3:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Mawlee \(feat\. Young Buck & DJ Afterthought\)](https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Mawlee \(feat\. Young Buck & DJ Afterthought\)](https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY) | 2:58 |
 | 75 | [The Pit](https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [The Pit](https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3) | 2:32 |
 
-Snapshot ID: `MCw3NDY1Y2I5YTc5ODE5OGQwN2FjY2Y0MjY1YWZhY2Y0ZjgyNWUwNjcy`
+Snapshot ID: `MCxjNTkyNzRmN2EyZjUyZmUxOTQ5NGQwNjExNWE5YjkxMmJiMTc1MmMz`

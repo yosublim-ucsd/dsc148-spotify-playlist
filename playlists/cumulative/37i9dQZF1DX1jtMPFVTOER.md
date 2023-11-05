@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-506 songs - 1 day 6 hr 2 min
+507 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [famous](https://open.spotify.com/track/5yQHS6qpgBiNte7o22xBsX) | [Samwyse](https://open.spotify.com/artist/6HM4BW3z7SCMg0hxUx5Pz3), [The Adoni](https://open.spotify.com/artist/2FE0a7TnyZHfLjcWqTdnBK) | [famous](https://open.spotify.com/album/67lHrhwY6nG0oBHGDAkemp) | 2:30 | 2022-11-11 | 2023-08-19 |
 | [Fantasy](https://open.spotify.com/track/59fIYH3h8H8ilm9ALt2NUl) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Fantasy](https://open.spotify.com/album/7ylSy5FAToYyzkH36QBHSQ) | 3:54 | 2021-11-12 | 2022-02-19 |
 | [Far From Here](https://open.spotify.com/track/63jeZf8ae05NB2AKpSURk9) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Far From Here](https://open.spotify.com/album/31INlZI8RSHleg9Tiq5aF1) | 4:27 | 2023-02-17 | 2023-04-15 |
-| [Feel It Comin \- Single Version](https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Feel It Comin](https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h) | 3:25 | 2022-09-23 |  |
+| [Feel It Comin \(Single Version\)](https://open.spotify.com/track/0i5zc1yASsbEXUXFsqvgGY) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul \(Deluxe\)](https://open.spotify.com/album/41KI9nUWYRQDxXfgfbX5Zz) | 3:25 | 2022-11-18 |  |
+| [Feel It Comin \- Single Version](https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Feel It Comin](https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h) | 3:25 | 2022-09-23 | 2023-11-05 |
 | [Feet Down South](https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Spoon](https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq) | 6:29 | 2022-09-23 |  |
 | [Fever](https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Hindi Zahra](https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S) | [Black Radio \(Deluxe Edition\)](https://open.spotify.com/album/6pGglD9IbzeSEze9FHyl8C) | 6:48 | 2022-11-11 | 2023-09-23 |
 | [Find Your Peace \(feat\. Common, Robert Glasper & Jean Baylor\) \- Single Edit](https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Jean Baylor](https://open.spotify.com/artist/2GFqj9ZTbvZNr0RYU9izAa) | [Find Your Peace \(feat\. Common, Robert Glasper & Jean Baylor\)](https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN) | 4:30 | 2023-09-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 
 > Best of Jazz music from Bollywood\. Cover \- A R Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,965 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,007 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 | 34 | [Lakeerein \(From "Lakiro"\)](https://open.spotify.com/track/3SW24LTlkClDb4blnDt1kK) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Parth Bharat Thakkar](https://open.spotify.com/artist/0NilspPVgbgzAJrUgLRgt5) | [Lakeerein \(From "Lakiro"\)](https://open.spotify.com/album/1CHum64PgfDwW3KTOWzcj6) | 4:02 |
 | 35 | [Dancing In The Sun](https://open.spotify.com/track/0QqmbaEYVb99lPCxPRWkD4) | [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3) | [Thappad](https://open.spotify.com/album/1YTq9ITQJ3Mj4uMj3GECDM) | 3:49 |
 | 36 | [Tu Saamane Hai](https://open.spotify.com/track/1JZSGul5gS4mfn29YXcBql) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE), [Parth Bharat Thakkar](https://open.spotify.com/artist/0NilspPVgbgzAJrUgLRgt5) | [Lakiro \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6POpCM7SN0TYVqPOLw7Me4) | 4:24 |
-| 37 | [Old School Girl](https://open.spotify.com/track/1lpuzTi4BcTejXCPoX5iIs) | [Anmol Malik](https://open.spotify.com/artist/1NuyYLdcAzg9EmaLxMkKZE) | [Tanu Weds Manu Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66GxOwfWVlbVRPwoi5dbhd) | 3:39 |
+| 37 | [Old School Girl](https://open.spotify.com/track/2bE2CtLUq11nzKmjlfKNNW) | [Anmol Malik](https://open.spotify.com/artist/1NuyYLdcAzg9EmaLxMkKZE) | [Tanu Weds Manu Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hBLzo3vvwzodZFLpWALwC) | 3:39 |
 | 38 | [Kya Hai Mohabbat](https://open.spotify.com/track/3vvjYrPF4aC0UwPL7plyXj) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ekk Deewana Tha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7u8VFwwX4grIUnuHriflDf) | 4:27 |
 | 39 | [Sheher Mera](https://open.spotify.com/track/3kOLqjLsi37ou3njSIncAN) | [Thomson Andrews](https://open.spotify.com/artist/2m9a8Cd9J0l2ReAQ6kg8LB) | [One By Two](https://open.spotify.com/album/5fTPuyqM8hWFaKlhyYdwyR) | 3:33 |
 | 40 | [Jab Bhi Ciggaret \- Jazz](https://open.spotify.com/track/7xnGvhwhIjW2EqXRSTouQd) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [No Smoking \(Original Motion Pictures Soundtrack\)](https://open.spotify.com/album/1O1DsbhUtzhofd7mWH983E) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 | 49 | [Idhar Gire](https://open.spotify.com/track/4gAAt4041Zpo142naT8xdR) | [Sowmya Raoh](https://open.spotify.com/artist/1tspa3CEV2XqEDsgehaNBz) | [Saheb Biwi aur Gangster Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UrGeGBrxGetsQwqjMi8Qa) | 4:22 |
 | 50 | [Dil Jahan Pe Le Chala \(Amit Trivedi\)](https://open.spotify.com/track/78JKBkqF3siJDIrX0mnXTh) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 3:53 |
 
-Snapshot ID: `MCw2M2RlNjczNDgxMGRiMjg5YWM3ZDhiZTRjYjRmZThjZWQyZDE4YTQ4`
+Snapshot ID: `MCw3OTZlODM4YjNmOGI1ZTgxNjkyM2I0YzAzZjZiNjhmY2FiMzQ1MGVi`

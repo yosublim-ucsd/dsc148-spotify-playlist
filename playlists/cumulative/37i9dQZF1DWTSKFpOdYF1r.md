@@ -4,11 +4,12 @@
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-251 songs - 16 hr 41 min
+252 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24 Hour Party People](https://open.spotify.com/track/6hI8qP6AkRc3e965iqICG8) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Greatest Hits](https://open.spotify.com/album/12SBnLcfE8JNQInySNPxVa) | 4:39 | 2022-01-17 | 2022-05-29 |
+| [99 Luftballons](https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:51 | 2022-11-17 |  |
 | [99 Luftballons](https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF) | 3:52 | 2022-05-30 | 2023-11-04 |
 | [A Forest](https://open.spotify.com/track/0T6kwiueP62ten2KLLmQS4) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/7hhojBmp7o620ZSq1eP9a8) | 5:54 | 2021-11-17 | 2022-07-29 |
 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 | 2022-05-30 |  |
@@ -53,7 +54,7 @@
 | [Cloudbusting](https://open.spotify.com/track/5cS2MR8ZXazew7H3W0Wpzr) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Whole Story](https://open.spotify.com/album/0o7IgUEAoOGzsolQgLpnTK) | 5:10 | 2022-05-30 | 2022-07-29 |
 | [Cloudbusting \- 2018 Remaster](https://open.spotify.com/track/0cuMpt0w9ahbhJl0R2fbkY) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:09 | 2022-05-30 | 2022-12-28 |
 | [Crash](https://open.spotify.com/track/2yZxK7LuQFcNOlMy6s2zwO) | [The Primitives](https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 2:31 | 2021-11-17 | 2022-07-27 |
-| [Crash](https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi) | [The Primitives](https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA) | [Lovely](https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR) | 2:31 | 2022-05-30 |  |
+| [Crash](https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi) | [The Primitives](https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA) | [Lovely](https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR) | 2:31 | 2022-05-30 | 2023-11-05 |
 | [Crash](https://open.spotify.com/track/7COcoiWy4fuz0nH2v8BkRD) | [The Primitives](https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA) | [Best Of](https://open.spotify.com/album/17BSRPsfwXoQwwGoRVHPBw) | 2:32 | 2021-11-17 | 2022-07-29 |
 | [Dancing With Myself](https://open.spotify.com/track/0USXb7vV2uLFdhjBmxAIgk) | [Generation X](https://open.spotify.com/artist/1inWec2E2UgfzMAhwjgTXe) | [Essential](https://open.spotify.com/album/1Bf47w75V2giX3bJClxHH5) | 3:19 | 2021-11-17 | 2022-07-18 |
 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 | 2022-05-30 |  |
@@ -114,7 +115,7 @@
 | [I Love a Man In a Uniform](https://open.spotify.com/track/1J29QeogPD0TRdjLfJ7lv0) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 4:07 | 2021-11-17 | 2022-07-28 |
 | [I Love You, Suzanne](https://open.spotify.com/track/2AMpUK6zPcSecPvDWpuAHs) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 3:16 | 2021-11-17 | 2022-07-29 |
 | [I Love You, Suzanne](https://open.spotify.com/track/75ZIcqlga3HJf5IT3UFinx) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New Sensations](https://open.spotify.com/album/0H1QdJdBc1roGFZ6g2U9Dx) | 3:17 | 2022-09-29 | 2022-11-13 |
-| [I Melt With You \- Rerecorded](https://open.spotify.com/track/78ocJAEFOYKVjYgXZ8fggD) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [Pillow Lips](https://open.spotify.com/album/6u6RKwjKjNbfSBMDgg83sv) | 3:55 | 2022-05-30 |  |
+| [I Melt With You \- Rerecorded](https://open.spotify.com/track/78ocJAEFOYKVjYgXZ8fggD) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [Pillow Lips](https://open.spotify.com/album/6u6RKwjKjNbfSBMDgg83sv) | 3:55 | 2022-05-30 | 2023-11-05 |
 | [I Travel](https://open.spotify.com/track/3GRyWgNPX5rBdh0VQctl5P) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Celebration](https://open.spotify.com/album/2qZWHbe01j8rYosUcL8Caq) | 4:02 | 2021-11-17 | 2022-05-17 |
 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 | 2022-05-30 |  |
 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/5YB9pnmgrL03yMDXzIFnni) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 4:53 | 2021-11-17 | 2022-07-25 |
@@ -140,7 +141,7 @@
 | [Lorelei](https://open.spotify.com/track/1MwGbyzRmPXWABLIdW8tzG) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi) | 3:43 | 2021-11-17 | 2022-07-29 |
 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 | 2022-09-29 | 2022-11-13 |
 | [Love & Pride](https://open.spotify.com/track/3oGcHyoXwBMIAXkgIzLoQn) | [King](https://open.spotify.com/artist/3ckiHuEKcXHXV0QOkCdCki) | [Steps In Time](https://open.spotify.com/album/7dTQ7PhsaV6a6AeGV9l97N) | 3:21 | 2022-09-29 | 2022-11-12 |
-| [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 | 2021-11-17 | 2023-09-06 |
+| [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 | 2021-11-17 |  |
 | [Love Buzz](https://open.spotify.com/track/4LzM58Gzcc0Wumj4djK1mX) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach: Deluxe Edition](https://open.spotify.com/album/2Lfy46M23IUeiDATnra0Bl) | 3:35 | 2021-11-17 | 2022-07-27 |
 | [Love Buzz](https://open.spotify.com/track/4AkFvW4VdNDNmVXehylmrr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach \(Deluxe Edition\)](https://open.spotify.com/album/0CqchZDaOxckvjnKKfJh1w) | 3:35 | 2022-09-29 | 2022-11-13 |
 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 | 2022-05-30 |  |

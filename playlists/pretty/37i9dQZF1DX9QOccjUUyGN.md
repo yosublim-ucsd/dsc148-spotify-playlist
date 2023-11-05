@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Mac Júlia
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,665 likes - 73 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,663 likes - 73 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 72 | [BEM MELHOR](https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 5:17 |
 | 73 | [TEMPESTADE](https://open.spotify.com/track/3TZGXZR6KHM60DNopOEgLl) | [Sanza](https://open.spotify.com/artist/1pZd0nOX7NMmayahF3Xalx), [Nova Alquimia](https://open.spotify.com/artist/00x2suT0e9HNLRhSRyLw3m), [Dumas](https://open.spotify.com/artist/2tvSJaPwUVWy86RWnlZGs1), [Sanak](https://open.spotify.com/artist/4gtGDgSatYQc0li6HIc3dt), [GAUD](https://open.spotify.com/artist/3FAOMbLcVdpwUZFkjErzBt) | [TEMPESTADE](https://open.spotify.com/album/5lUsHZqJN7vGd8AKohAgEu) | 3:07 |
 
-Snapshot ID: `MCwwNDJjNWM3MzFiYjk5ODFlOWFiOWI4MGE2OTAwMDM1MWI4NWQ2ZjA1`
+Snapshot ID: `MCw1Nzk5MTMzZGMzOWU2MjYxOTUyNzM2MTEwOWQ0YTJlMDM0Y2JmNGQz`

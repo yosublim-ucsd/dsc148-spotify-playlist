@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 
 > Chill, beachy tunes to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,503 likes - 87 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,500 likes - 87 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 23 | [No Hard Feelings](https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 3:11 |
 | 24 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 |
 | 25 | [Wagon Wheel](https://open.spotify.com/track/2XgGdD5d2MW4RNx8KnIjVh) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/71oM4BPgOOgdwTYJeUPush) | 3:52 |
-| 26 | [Mimosas](https://open.spotify.com/track/3HyDZ8rB0Wh6yF6q7PBa1r) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/088ajVZOaklrQJP9k2IO2Q) | 3:03 |
+| 26 | [Mimosas](https://open.spotify.com/track/4qK2dwwOMhM5glUsgk9BwJ) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/6v0nKIJz5dP5iZWGClu2JH) | 3:03 |
 | 27 | [See You Next Summer](https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [See You Next Summer](https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y) | 2:37 |
 | 28 | [Bama Breeze](https://open.spotify.com/track/2Ql3AOQedeK5gFq8tM1tIY) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Take the Weather with You](https://open.spotify.com/album/5ysuQGWbJTDZZHULZIs1F0) | 3:11 |
 | 29 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 71 | [Rum and Somethin'](https://open.spotify.com/track/2hQlaOq4JjuNOBED6ifrpy) | [Donny Brewer](https://open.spotify.com/artist/4nI1bYqONqWFnHPlSL9k35), [Barefoot Reggie Starrett](https://open.spotify.com/artist/6wTIInreofRYzDxP0kT37D) | [Winnebago Tapes, Vol\. 1](https://open.spotify.com/album/7Jx7qyak7RLTLKwMxizqQI) | 3:07 |
 | 72 | [Gulf Coast Girl](https://open.spotify.com/track/2YFKozNtk7Ml6GRoSxgk1k) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y), [The Pelicanaires](https://open.spotify.com/artist/4lJWC8RyDAtoGfu52FMXrS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Gulf Coast Girl](https://open.spotify.com/album/2t7XCwrLBrhMghLGCWb8Xm) | 3:45 |
 | 73 | [Coast](https://open.spotify.com/track/0EP9x1QUdcadJpBU7UQbms) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 3:50 |
-| 74 | [Eyes On You \(feat\. Chase Rice\)](https://open.spotify.com/track/7HM8TbCagVN3nrfF2UshfP) | [Positive Vibrations](https://open.spotify.com/artist/4HK4FOF99boN9AaOtLdkMb), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Eyes On You \(feat\. Chase Rice\)](https://open.spotify.com/album/6AN0tipaUtM5wPqYreXc76) | 3:20 |
+| 74 | [Eyes On You \(feat\. Chase Rice\)](https://open.spotify.com/track/2yDIvB2B91mIlv6XuidEuF) | [Positive Vibrations](https://open.spotify.com/artist/4HK4FOF99boN9AaOtLdkMb), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Eyes On You \(feat\. Chase Rice\)](https://open.spotify.com/album/1s0m2fZk3AnJXT5lstxXD8) | 3:20 |
 | 75 | [The Rest of It's Mine](https://open.spotify.com/track/2Bj7YGVBtjbVrWhhSRVwaj) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX), [Paul Overstreet](https://open.spotify.com/artist/3ylJ2aEWS2QkIj4XPiC28z) | [The Rest of It's Mine](https://open.spotify.com/album/6sCKgnzpFAqnJbGFZUFGl2) | 3:33 |
 | 76 | [Señorita](https://open.spotify.com/track/2eQYv5UJAjtXraIVzy2ZH7) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:00 |
 | 77 | [Waves](https://open.spotify.com/track/1NqxPghuptyRlGwKOZANG4) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Waves](https://open.spotify.com/album/0cFNX1KyyhJWqryF4ofYM0) | 3:29 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 86 | [Waves](https://open.spotify.com/track/1q3bxSdQF660hnNnNVtYwP) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [American Soul Summer \(Deluxe Edition\)](https://open.spotify.com/album/06PwRq6kGK8gE8mbu7yb6O) | 3:26 |
 | 87 | [Gettin' Down in a Pirate Town](https://open.spotify.com/track/0HbInFeaBStCiH4BJc6o1q) | [Jesse Rice](https://open.spotify.com/artist/053e8lWzA8BFhruid11TKQ) | [The Pirate Sessions](https://open.spotify.com/album/3AD64aLvBqR67GUefFM9Wj) | 4:16 |
 
-Snapshot ID: `MCwxZjkxZjZhOTBiOWU1MDc1MTJjYjM5ODc2YTEzZjg3YWM2ZjAxYjc1`
+Snapshot ID: `MCw3YTdmZmRiYzFiZDY1NzM3ZDM3OWI3MDM5YmE3ZjI3NjMxNDlhYjUx`

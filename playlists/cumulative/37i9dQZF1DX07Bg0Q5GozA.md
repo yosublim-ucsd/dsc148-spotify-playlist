@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Johannes Albert
 
-526 songs - 1 day 12 hr 22 min
+527 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Hollow](https://open.spotify.com/track/5SOmkWOL2ODA3ZY2Y5B4SM) | [Kaleida](https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX) | [Hollow](https://open.spotify.com/album/3DlDSdRo6uSnTzNzlj5B2Z) | 3:35 | 2023-09-28 | 2023-11-03 |
 | [Hot Evening](https://open.spotify.com/track/7l7tXEWUMfW5m5AE8vPfOB) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Hot Evening](https://open.spotify.com/album/7IZ79nalZzDtQhgtCR4Dp1) | 4:01 | 2023-03-02 | 2023-04-14 |
 | [Hot Sauce](https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Hot Sauce](https://open.spotify.com/album/5ue0WkGZRaNZ3LlguPyzqy) | 3:10 | 2023-02-23 | 2023-05-19 |
-| [House of Love](https://open.spotify.com/track/6ElurfirOqT72TO31NQtCp) | [Enda Gallery](https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET), [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [House of Love](https://open.spotify.com/album/3Jt6tt1pUmASvChPYGdEeq) | 5:09 | 2023-11-02 |  |
+| [House of Love](https://open.spotify.com/track/6ElurfirOqT72TO31NQtCp) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Enda Gallery](https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET) | [House of Love](https://open.spotify.com/album/3Jt6tt1pUmASvChPYGdEeq) | 5:09 | 2023-11-02 |  |
 | [How I Feel](https://open.spotify.com/track/5EtsAKJgceaLk9X6OfU0xB) | [Joyce Muniz](https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L), [Play Paul](https://open.spotify.com/artist/7lIIilMB5xwbRUeZY6QfuQ) | [How I Feel](https://open.spotify.com/album/0Zh0qIHtYQJNOI1ixL8Kcs) | 2:59 | 2023-03-30 | 2023-06-23 |
 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 | 2023-08-24 | 2023-10-20 |
 | [How Music Makes You Feel Better \- Edit](https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [How Music Makes You Feel Better](https://open.spotify.com/album/4mUY2PlUa8qducN1OyWu4w) | 3:21 | 2023-09-28 |  |
@@ -488,7 +488,8 @@
 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 | 2023-02-24 | 2023-07-21 |
 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-23 | 2023-02-27 |
 | [Twennies \- The Knocks Remix](https://open.spotify.com/track/2udzkXs8wSPiRNDmzomieS) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Twennies \(The Knocks Remix\)](https://open.spotify.com/album/7kspnaid8DF0EbhsIVyv86) | 4:08 | 2022-12-15 | 2023-03-10 |
-| [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-13 |  |
+| [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 | 2023-11-02 |  |
+| [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-13 | 2023-11-05 |
 | [Under the Moon](https://open.spotify.com/track/7JyZjlTWvCMJcbimNOAOkC) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Under the Moon](https://open.spotify.com/album/7fn5WEWdDR10ccAxgsrMKp) | 2:52 | 2023-08-24 | 2023-10-13 |
 | [Under the Stars \- Ray Mang Remix](https://open.spotify.com/track/3P9IInpHAewgv4C4JQaQxK) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Out of Town \(The Remixes\)](https://open.spotify.com/album/5ZxRzo6FnmbsR4Y5EiDjdU) | 9:35 | 2022-12-30 | 2023-01-02 |
 | [Unity \- Agar Agar Remix](https://open.spotify.com/track/6VTSDSzkuyFYs8DxIKd8gB) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj), [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [Unity \(Agar Agar Remix\)](https://open.spotify.com/album/2vJKrrqbLh6c8kqvYTXM7K) | 4:29 | 2023-01-05 | 2023-01-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,122 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,177 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 9 | [Money is A Must](https://open.spotify.com/track/6XBjoQyHpxdNxkLKZb4j9u) | [Vibez Inc](https://open.spotify.com/artist/6Pq8bOPyCrqbKg02JE1jlu), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Money is A Must](https://open.spotify.com/album/4256OlluZzbCNTEngtqnZJ) | 2:51 |
 | 10 | [23](https://open.spotify.com/track/7EqoATlXAKNwzv45LAlqRt) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 4:05 |
 | 11 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 |
-| 12 | [BLESSINGS](https://open.spotify.com/track/5l2a0rOc4A8fuy4TEDH3Ex) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [BLESSINGS](https://open.spotify.com/album/4BiiOopVTUJhsAP54UyiXk) | 2:41 |
+| 12 | [BLESSING$](https://open.spotify.com/track/5l2a0rOc4A8fuy4TEDH3Ex) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [BLESSING$](https://open.spotify.com/album/4BiiOopVTUJhsAP54UyiXk) | 2:41 |
 | 13 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 |
 | 14 | [Running](https://open.spotify.com/track/21MSFhrfJzZOYUnKqNdkQr) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Haeven](https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H) | [Running](https://open.spotify.com/album/1EbYyDICzqwkKP79qtnERw) | 3:12 |
 | 15 | [Blessings \- Remix](https://open.spotify.com/track/4yl5K1GQx8a5L5n5xzgCX5) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Blessings \(Remix\)](https://open.spotify.com/album/7pnIuSwrbrjrkl1kWhlFXq) | 3:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 79 | [Gone Far](https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gone Far](https://open.spotify.com/album/18Q01D7GFl85NruCnXalNO) | 2:28 |
 | 80 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 |
 
-Snapshot ID: `MCwzZTc4MjI4MzA5YTIxNDMwM2ExMzZhNjRlNjhmMDQ5MjlhYWYzYzE3`
+Snapshot ID: `MCw1NTJiNTIxNDdhNWIzYjUwZDdmNTIxMmFjNjk1MDI4Nzg3ODgxNzY5`

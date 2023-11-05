@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Marshmello & Anuel AA
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,819 likes - 202 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,861 likes - 202 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 201 | [Camino a Neptuno](https://open.spotify.com/track/5xBCigex5TpSjOlHcuBzmv) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [CÓDIGOS](https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe) | 2:50 |
 | 202 | [Como Era Antes](https://open.spotify.com/track/6zNYKyc4fCXpa1afWupnSE) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [WE$T DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq) | [CÓDIGOS](https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe) | 3:14 |
 
-Snapshot ID: `MCxjMzkzOTI5Y2NkZTQxZjcxMjE5ZWVkNTFlZWQ4NTY5YjM0NzZjZTZi`
+Snapshot ID: `MCw4ZDc4NThiZDg3YmY4NTFhMzE5OTE0NGRhYzAzMzBmODZlNmMxY2I0`

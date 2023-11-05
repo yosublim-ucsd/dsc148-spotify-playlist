@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Joy Anonymous
 
-831 songs - 2 day 11 hr 3 min
+833 songs - 2 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,8 @@
 | [JOY \(God Only Knows\)](https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(God Only Knows\)](https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU) | 4:26 | 2023-01-16 | 2023-09-15 |
 | [JOY \(I Did You Wrong\)](https://open.spotify.com/track/31ZBEAVjrABh1eSSDYPnRc) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(I Did You Wrong\)](https://open.spotify.com/album/5a929ZHQr9ctGnhlnfWjra) | 3:08 | 2023-09-28 |  |
 | [JOY \(In Me All The Time\)](https://open.spotify.com/track/0cKYdxOPGO60h2c4DHbp7d) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(In Me All The Time\)](https://open.spotify.com/album/1wgSgebPc22KAzCsVcCPMG) | 3:42 | 2023-10-20 |  |
-| [JOY \(Up The Street\)](https://open.spotify.com/track/5PFSQQxlsdUrR63J31spMv) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Up The Street\)](https://open.spotify.com/album/757FRJv2zPA021rfTPK7hr) | 3:57 | 2023-11-03 |  |
+| [JOY \(Up The Street\)](https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Cult Classics](https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6) | 3:57 | 2023-11-03 |  |
+| [JOY \(Up The Street\)](https://open.spotify.com/track/5PFSQQxlsdUrR63J31spMv) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Up The Street\)](https://open.spotify.com/album/757FRJv2zPA021rfTPK7hr) | 3:57 | 2023-11-03 | 2023-11-05 |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-06-30 | 2022-09-23 |
 | [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 4:01 | 2021-11-24\* | 2022-04-02 |
 | [Kahan \(Last Year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(Last Year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 | 2021-11-24\* | 2021-12-27 |
@@ -827,7 +828,8 @@
 | [Yeah You!](https://open.spotify.com/track/1xvdiXKSEcCVbQvSzYzWyS) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [CLUB E.A.S.E\. \- \#1](https://open.spotify.com/album/2PtxIwsexEdZQ1scVU32Kl) | 5:19 | 2023-08-04 |  |
 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 | 2021-11-24\* | 2022-03-11 |
 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 | 2023-01-20 | 2023-06-02 |
-| [You & I](https://open.spotify.com/track/0x2FCEwCQPBjy9DgyCNTAG) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [You & I](https://open.spotify.com/album/1pRGnxyrtGfMH4o0jihfyU) | 3:32 | 2023-10-13 |  |
+| [You & I](https://open.spotify.com/track/0x2FCEwCQPBjy9DgyCNTAG) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [You & I](https://open.spotify.com/album/1pRGnxyrtGfMH4o0jihfyU) | 3:32 | 2023-10-13 | 2023-11-05 |
+| [You & I](https://open.spotify.com/track/3SqFOlaoUGG8DQLQ0pPkEU) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [You & I](https://open.spotify.com/album/6igefRN2lXM6pLTbtyFzAO) | 3:32 | 2023-11-03 |  |
 | [You Ain't No Celebrity](https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:33 | 2023-08-10 |  |
 | [You Can Do It](https://open.spotify.com/track/74usZNReO4g4j5aZ0yAmBw) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/4gugFhu1ub505iAzsuhZJi) | 3:48 | 2021-11-24\* | 2022-05-27 |
 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 | 2022-01-12 | 2022-05-06 |

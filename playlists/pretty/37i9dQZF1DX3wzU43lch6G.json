@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 103315,
+  "num_followers": 103322,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjEyZjk4N2NlNGMxNDZkZTEyMzVjZjhhMTMyNzJlMTk3NzkwZGFj",
+  "snapshot_id": "MCw0YTRjZmE2NzUzYzAzMTliNGRkY2M5ZTE3ZTdkZDE4Yzk4ZmRjM2U4",
   "tracks": [
     {
       "added_at": "2023-08-31 21:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "Nokta",
+        "url": "https://open.spotify.com/album/7qU1wsdRbnLXCkNEjotc2p"
+      },
+      "artists": [
+        {
+          "name": "Ersay \u00dcner",
+          "url": "https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB"
+        }
+      ],
+      "duration_ms": 215417,
+      "name": "Tatl\u0131m Tatl\u0131m",
+      "url": "https://open.spotify.com/track/3Aom5X5c2JynUHtSpnqNIG"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "G\u00fcne\u015fe Dokundum (Deep Mix)",
         "url": "https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 150000,
       "name": "G\u00fcne\u015fe Dokundum - Deep Mix",
       "url": "https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "Nokta",
-        "url": "https://open.spotify.com/album/7qU1wsdRbnLXCkNEjotc2p"
-      },
-      "artists": [
-        {
-          "name": "Ersay \u00dcner",
-          "url": "https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB"
-        }
-      ],
-      "duration_ms": 215417,
-      "name": "Tatl\u0131m Tatl\u0131m",
-      "url": "https://open.spotify.com/track/3Aom5X5c2JynUHtSpnqNIG"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Her Yerde Sen",
-        "url": "https://open.spotify.com/album/2Ml6sEJFjQybCQ8Y4c3Gq0"
+        "name": "Sonsuza Kadar",
+        "url": "https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0"
       },
       "artists": [
         {
-          "name": "Zeynep Bast\u0131k",
-          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
+          "name": "Kalben",
+          "url": "https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV"
         }
       ],
-      "duration_ms": 219664,
-      "name": "Her Yerde Sen",
-      "url": "https://open.spotify.com/track/1L8breHwaAapLwp7tcIPF9"
+      "duration_ms": 177661,
+      "name": "Ben Her Zaman Sana A\u015f\u0131kt\u0131m",
+      "url": "https://open.spotify.com/track/4CWwQBDEI444gJh9rSg6iB"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Sonsuza Kadar",
-        "url": "https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0"
+        "name": "Her Yerde Sen",
+        "url": "https://open.spotify.com/album/2Ml6sEJFjQybCQ8Y4c3Gq0"
       },
       "artists": [
         {
-          "name": "Kalben",
-          "url": "https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV"
+          "name": "Zeynep Bast\u0131k",
+          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
         }
       ],
-      "duration_ms": 177661,
-      "name": "Ben Her Zaman Sana A\u015f\u0131kt\u0131m",
-      "url": "https://open.spotify.com/track/4CWwQBDEI444gJh9rSg6iB"
+      "duration_ms": 219664,
+      "name": "Her Yerde Sen",
+      "url": "https://open.spotify.com/track/1L8breHwaAapLwp7tcIPF9"
     },
     {
       "added_at": "2023-08-31 21:00:00",

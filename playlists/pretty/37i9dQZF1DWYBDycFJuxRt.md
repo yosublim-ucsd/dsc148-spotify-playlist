@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Kvi Baba + AKLO + KEIJU \*👉 <a href="https://spice.eplus.jp/articles/323469?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,868 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,887 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Star Racer](https://open.spotify.com/track/2vmhF3qaUL132kYWk6Zyhr) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [Star Racer](https://open.spotify.com/album/5LkUhnSF4aRCBkwJFMLwLD) | 2:29 |
 | 80 | [Call From Wife](https://open.spotify.com/track/50VvTHedGHkdxtBY3jwUe2) | [Sloppy Disk](https://open.spotify.com/artist/5IEl2TsgM9jO0kkapS5RtB), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN) | [So Sloppy Vol.1](https://open.spotify.com/album/6GVdnlARdw1ZgoFCWXqQ41) | 3:51 |
 
-Snapshot ID: `MCw5NDJhNTE2MmY5MDk0ZWI0ZGM4NmE5MTE5NDAzMzEwNDUwNjI4Y2Yx`
+Snapshot ID: `MCwxMzk3YjJkYzE0MWFhNWVjZWExODZhNGI5ODBiMTY2ZjJmZTdlOTc1`

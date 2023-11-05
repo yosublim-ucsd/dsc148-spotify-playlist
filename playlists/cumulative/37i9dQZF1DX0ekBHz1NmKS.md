@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-850 songs - 1 day 20 hr 57 min
+851 songs - 1 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,8 +725,9 @@
 | [Take A Chance On Me](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 | 2023-10-05 |  |
 | [Tappat \- Spotify Singles](https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Tappat \- Spotify Singles](https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW) | 2:30 | 2022-09-29 | 2023-10-06 |
 | [Tar det som det kommer](https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Tar det som det kommer](https://open.spotify.com/album/2YWizNtuqlm7GiBu6b68LU) | 3:27 | 2022-04-07 | 2022-11-08 |
+| [Taste Of Heaven](https://open.spotify.com/track/2ByE2T6q6xsJ4540xka3pz) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [Taste Of Heaven](https://open.spotify.com/album/0Cbt2xiCAc1vjTCHnPdFDG) | 2:50 | 2023-11-03 |  |
 | [Taxin](https://open.spotify.com/track/6fVsYWoMw8kR0pudjjEUb0) | [Broder Jakob](https://open.spotify.com/artist/6O55JxNwObW4tmmL0jO9zy) | [Taxin](https://open.spotify.com/album/4z5n7zYUidCJA6enyihZ6F) | 2:53 | 2022-05-05 | 2022-07-23 |
-| [Teach Me](https://open.spotify.com/track/69C61BkstEREBdizQrgbQi) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Teach Me](https://open.spotify.com/album/1G5PjW6Cy80XPTmyRr2nyv) | 2:40 | 2023-10-20 |  |
+| [Teach Me](https://open.spotify.com/track/69C61BkstEREBdizQrgbQi) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Teach Me](https://open.spotify.com/album/1G5PjW6Cy80XPTmyRr2nyv) | 2:40 | 2023-10-20 | 2023-11-05 |
 | [Tears](https://open.spotify.com/track/1KEXV4nhFG7lkOU7qqiQyi) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [What They'll Say About Us](https://open.spotify.com/album/4mdAcPpvearpFuQm4VZc6a) | 2:32 | 2021-12-16 | 2022-03-11 |
 | [Tears Are In Your Eyes](https://open.spotify.com/track/0ncmKS7QC4FIviZKZnIpXn) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Too Late for Edelweiss](https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS) | 4:07 | 2022-10-06 | 2022-11-08 |
 | [Tears Are In Your Eyes](https://open.spotify.com/track/7b9HJ8BAhLnl0FSRjXhQs1) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Tears Are In Your Eyes](https://open.spotify.com/album/198la3NlzDy41m0FRb5YoF) | 4:07 | 2022-09-08 | 2022-10-06 |

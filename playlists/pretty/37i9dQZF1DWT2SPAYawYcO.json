@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: The Beatles!",
-  "num_followers": 366911,
+  "num_followers": 366953,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzg4N2JiOTYxNGZhNDBkNzkxODI2N2IxNjA3MGUzOTQxMDhjZmI2",
+  "snapshot_id": "MCxjNWIyMzI4NDJjZmRmNDU1ZWM4ZTFhMzU3OGZkN2VmMTFiYTVkZDg1",
   "tracks": [
     {
       "added_at": "2023-11-03 09:51:51",
@@ -627,7 +627,7 @@
     {
       "added_at": "2023-11-03 09:51:51",
       "album": {
-        "name": "Nothing Lasts Forever",
+        "name": "Nothing Lasts Forever (with Grimes)",
         "url": "https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74"
       },
       "artists": [
@@ -641,7 +641,7 @@
         }
       ],
       "duration_ms": 199183,
-      "name": "Nothing Lasts Forever",
+      "name": "Nothing Lasts Forever (with Grimes)",
       "url": "https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h"
     },
     {

@@ -1032,7 +1032,7 @@
     {
       "album": {
         "name": "End of an era",
-        "url": "https://open.spotify.com/album/5psFkUUBPPrN1yPoHOUPDy"
+        "url": "https://open.spotify.com/album/69O127HG873N3FqicFWCWe"
       },
       "artists": [
         {
@@ -1043,6 +1043,24 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186129,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/3FfvJzsIj69F8aZopaHyvY"
+    },
+    {
+      "album": {
+        "name": "End of an era",
+        "url": "https://open.spotify.com/album/5psFkUUBPPrN1yPoHOUPDy"
+      },
+      "artists": [
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 186129,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/63zxu4C2P5QZeXbn5ShjVB"
@@ -2084,7 +2102,7 @@
     {
       "album": {
         "name": "Remade In Misery",
-        "url": "https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1"
+        "url": "https://open.spotify.com/album/1Uf494OVdGpxqdUgzdrVDv"
       },
       "artists": [
         {
@@ -2095,6 +2113,24 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201395,
+      "name": "Your Turn",
+      "url": "https://open.spotify.com/track/3lbSzmDQJNQBxxVtXk0bR8"
+    },
+    {
+      "album": {
+        "name": "Remade In Misery",
+        "url": "https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 201395,
       "name": "Your Turn",
       "url": "https://open.spotify.com/track/505msJKoWzFTOua6Gdx0hl"

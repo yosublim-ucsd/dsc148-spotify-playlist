@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 247160,
       "name": "Ae Fond Kiss",
       "url": "https://open.spotify.com/track/0ZLiaBeYAa8kbQNKUXlg8C"
@@ -697,6 +697,32 @@
     },
     {
       "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/2Q7wLG5eFud4DDSwSP36R5"
+      },
+      "artists": [
+        {
+          "name": "Mary Black",
+          "url": "https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        },
+        {
+          "name": "Dolores Keane",
+          "url": "https://open.spotify.com/artist/6nYVwBK8nCQCYlb7rA763B"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251093,
+      "name": "Sonny",
+      "url": "https://open.spotify.com/track/7LupDPRLSzv59dBkkuxMCO"
+    },
+    {
+      "album": {
         "name": "Twenty Five Years-Twenty Five Songs",
         "url": "https://open.spotify.com/album/6w06lhQcIlyfGKEzQGF8FQ"
       },
@@ -1219,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "The Dubliners (Live;Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/18YkQtYXD4lybEsKDAPcR5"
+      },
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "The Wild Rover (Live)",
+      "url": "https://open.spotify.com/track/5FOjVfggAcbto0JP3YR778"
+    },
+    {
+      "album": {
         "name": "The Transatlantic Anthology (Live)",
         "url": "https://open.spotify.com/album/4MaAakVsMaOMtniv2gJLgt"
       },
@@ -1230,7 +1274,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 190466,
       "name": "The Wild Rover - Live",
       "url": "https://open.spotify.com/track/4CzPn2Wa5UOrCm6Yo3ClQt"

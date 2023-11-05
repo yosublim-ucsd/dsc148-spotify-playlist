@@ -952,7 +952,7 @@
     {
       "album": {
         "name": "Emerald Acid E.P",
-        "url": "https://open.spotify.com/album/5EV07ut27slAvgMQUBg04T"
+        "url": "https://open.spotify.com/album/7CHrv2K6x7ZlOvkp6FQQUR"
       },
       "artists": [
         {
@@ -963,6 +963,24 @@
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232695,
+      "name": "Emerald Acid - Edit",
+      "url": "https://open.spotify.com/track/27DSG9kQjulz4EDVZGNf0N"
+    },
+    {
+      "album": {
+        "name": "Emerald Acid E.P",
+        "url": "https://open.spotify.com/album/5EV07ut27slAvgMQUBg04T"
+      },
+      "artists": [
+        {
+          "name": "Paddy Chambers",
+          "url": "https://open.spotify.com/artist/2rM11nGyYVlmm9LGF1p8Mx"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 232695,
       "name": "Emerald Acid - Edit",
       "url": "https://open.spotify.com/track/4GBGhCETm1W6uFclNDR5N0"

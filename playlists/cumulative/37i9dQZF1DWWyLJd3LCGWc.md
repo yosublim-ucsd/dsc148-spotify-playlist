@@ -4,7 +4,7 @@
 
 > <a href="https://www.instagram.com/pxssypalace/?hl=en">Pxssy Palace</a> creates a safe space for queer womxn, trans, non\-binary and intersex people of colour with their London\-based club night\. This is their sound of Pride.
 
-61 songs - 3 hr 43 min
+62 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Conjurer](https://open.spotify.com/track/68FahUPlACGIvG3CYjMs9M) | [BEARCAT](https://open.spotify.com/artist/78FV10vQ4A7bDAvR6oPBjr) | [Spell](https://open.spotify.com/album/4vDniXqeQPnnDRJDGk13Lu) | 3:09 | 2021-06-01 |  |
 | [Decline Him](https://open.spotify.com/track/3Wa96y3cQWjIX9gN2dTb5t) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Transphobic](https://open.spotify.com/album/2vkSCPeqGqr2iCDZEbtieZ) | 3:33 | 2021-06-01 |  |
 | [Deepthroat](https://open.spotify.com/track/5cXtT63OTadsjqfRkm5Dwd) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Cum Cake](https://open.spotify.com/album/5ATRiVbJcsarm1ndaI0DY9) | 3:19 | 2021-06-01 |  |
-| [Faceshopping](https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:56 | 2021-06-01 |  |
+| [Faceshopping](https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:56 | 2021-06-01 | 2023-11-05 |
 | [Faceshopping](https://open.spotify.com/track/2rN1ODOsaNfYu782rw36jR) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:56 | 2021-06-01 | 2022-07-29 |
+| [Faceshopping](https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:56 | 2021-06-01 |  |
 | [Fierce](https://open.spotify.com/track/0O8cjpT4jO3ngCdkxf9726) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Fantasea](https://open.spotify.com/album/2Nj39YNwq6SDzLBM6gVumD) | 3:13 | 2021-06-01 | 2023-05-24 |
 | [Fierce](https://open.spotify.com/track/2XcsL72WPyN8lATbaPHUp3) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Fantasea](https://open.spotify.com/album/3cEIffjpBqKSWwpUFcCu5x) | 3:13 | 2021-06-01 |  |
 | [Foreva](https://open.spotify.com/track/5mwQ8wQElaMO1joDd5vtwd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Gangsta Bitch Music Vol 1](https://open.spotify.com/album/4hRSrC7bRqBqDDSfhe5qRO) | 3:22 | 2021-06-01 |  |

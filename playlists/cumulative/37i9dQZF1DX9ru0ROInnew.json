@@ -1831,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "Esclava",
+        "url": "https://open.spotify.com/album/7gTRUB0jGOXCFHzOfsVA4g"
+      },
+      "artists": [
+        {
+          "name": "rampensauu",
+          "url": "https://open.spotify.com/artist/6TdQ6W1OlXVYcfnYVXRExR"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281734,
+      "name": "Esclava",
+      "url": "https://open.spotify.com/track/2mubrV7Ipt3HoRWHnjqq3L"
+    },
+    {
+      "album": {
         "name": "Esclava (Remix)",
         "url": "https://open.spotify.com/album/6GxBEtAcmNELV0eaviCqlr"
       },
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 281568,
       "name": "Esclava (Remix) [feat. Bryant Myers, Anonimus & Almighty]",
       "url": "https://open.spotify.com/track/4is8Zde1EvRRTkhXQKdk0K"

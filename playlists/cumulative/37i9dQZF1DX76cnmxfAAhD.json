@@ -7215,6 +7215,24 @@
     },
     {
       "album": {
+        "name": "Women in Technology",
+        "url": "https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq"
+      },
+      "artists": [
+        {
+          "name": "White Town",
+          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259893,
+      "name": "Your Woman",
+      "url": "https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr"
+    },
+    {
+      "album": {
         "name": "Women In Technology",
         "url": "https://open.spotify.com/album/3Xp1KG3G31VGZgV8JpMSX6"
       },
@@ -7244,7 +7262,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 259893,
       "name": "Your Woman",
       "url": "https://open.spotify.com/track/4Iy6Iall9dl6ch8jtGmVbx"

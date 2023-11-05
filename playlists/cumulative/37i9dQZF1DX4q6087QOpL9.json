@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "Act Like You Know",
+        "url": "https://open.spotify.com/album/0Vz5zwWx4yxpkIzBv9ayst"
+      },
+      "artists": [
+        {
+          "name": "DJ Pope",
+          "url": "https://open.spotify.com/artist/0pcXybmnJaiSm2QDhGylq8"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347317,
+      "name": "Act Like You Know",
+      "url": "https://open.spotify.com/track/5aJolgnSFg45tZ9kIIBMB5"
+    },
+    {
+      "album": {
         "name": "T. Williams - EP",
         "url": "https://open.spotify.com/album/18jM8fMBY5MX7uS9toKDFj"
       },
@@ -104,10 +122,36 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 369866,
       "name": "Afric",
       "url": "https://open.spotify.com/track/3K4qw8z8Xi8JZk2LhGFSoL"
+    },
+    {
+      "album": {
+        "name": "African Spirits / Tribes (Fred P Interpretation)",
+        "url": "https://open.spotify.com/album/62sxt5o7yzUKTH5aLV2Gqh"
+      },
+      "artists": [
+        {
+          "name": "Nicola Conte",
+          "url": "https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB"
+        },
+        {
+          "name": "Gianluca Petrella",
+          "url": "https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc"
+        },
+        {
+          "name": "Fred P",
+          "url": "https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 718048,
+      "name": "African Spirits - Fred P Interpretation",
+      "url": "https://open.spotify.com/track/1tSili6kQNoNpCC9rEcqlr"
     },
     {
       "album": {
@@ -318,6 +362,32 @@
       "duration_ms": 266273,
       "name": "Bring Me Joy",
       "url": "https://open.spotify.com/track/6Divhr8qzx944oINsXthUM"
+    },
+    {
+      "album": {
+        "name": "Can\u2019t Stop (Dennis F\u2019s Falling 4 U Mix Edit)",
+        "url": "https://open.spotify.com/album/6aJHmzrFn7rr0zKQncSGCC"
+      },
+      "artists": [
+        {
+          "name": "Reel People",
+          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
+        },
+        {
+          "name": "Angela Johnson",
+          "url": "https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w"
+        },
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265493,
+      "name": "Can\u2019t Stop - Dennis F\u2019s Falling 4 U Mix Edit",
+      "url": "https://open.spotify.com/track/29Ux17YJDtzAJSlz5MWTTs"
     },
     {
       "album": {
@@ -868,7 +938,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 369946,
       "name": "Elements",
       "url": "https://open.spotify.com/track/2pcBpS2hW2sxgFA61D3OVC"
@@ -1153,6 +1223,28 @@
     },
     {
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/0aBn2yFmfeYbfhEYpFMEy9"
+      },
+      "artists": [
+        {
+          "name": "ADO",
+          "url": "https://open.spotify.com/artist/2OAEsMvEXwG6AQQ7lHkHZ4"
+        },
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264552,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/7z7YdeM87GplcOag7m08tb"
+    },
+    {
+      "album": {
         "name": "Get Down (feat. Kenny Dope, DJ Sneak, Terry Hunter, Tara McDonald) [Pt. 1]",
         "url": "https://open.spotify.com/album/46AATm4VBOMkOoljqYBQl0"
       },
@@ -1198,7 +1290,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 346000,
       "name": "Get Down - Kenny Dope Mix",
       "url": "https://open.spotify.com/track/4hamb79gdDbISgt3UPpXcx"
@@ -1268,7 +1360,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 487773,
       "name": "Glad I Found You - Scott Wozniak Vocal Mix",
       "url": "https://open.spotify.com/track/6bo7IFO1394OXEJGcG284e"
@@ -1517,6 +1609,32 @@
     },
     {
       "album": {
+        "name": "Highways",
+        "url": "https://open.spotify.com/album/1iICsAza05q2fnEm4aHezr"
+      },
+      "artists": [
+        {
+          "name": "Akabu",
+          "url": "https://open.spotify.com/artist/1wLsQhBKNjZOd8NdXY4kTC"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        },
+        {
+          "name": "Jinadu",
+          "url": "https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409090,
+      "name": "Highways - Dave Lee Medusa Mix",
+      "url": "https://open.spotify.com/track/5b2Mjf5TQ7ZqlMHik968cn"
+    },
+    {
+      "album": {
         "name": "Lifestyle2 - Dance Grooves Vol 1 (Budget Version)",
         "url": "https://open.spotify.com/album/6Y9kELm8endQXLmFnwHiBH"
       },
@@ -1642,7 +1760,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 410348,
       "name": "I (Sean McCabe Remix)",
       "url": "https://open.spotify.com/track/3aMCxBSFfMWrhfT0IhsU1b"
@@ -1664,6 +1782,36 @@
       "duration_ms": 410348,
       "name": "I - Sean McCabe Remix",
       "url": "https://open.spotify.com/track/2Krq49k8Nvxxuanui53S1v"
+    },
+    {
+      "album": {
+        "name": "I Believe (feat. Suzanne Palmer) [Harry Romero Remix]",
+        "url": "https://open.spotify.com/album/0RiIDm7CictkRfABiEBAKf"
+      },
+      "artists": [
+        {
+          "name": "Mark Picchiotti",
+          "url": "https://open.spotify.com/artist/6mfoAawlriO9xRqOQGAIfM"
+        },
+        {
+          "name": "The Absolute",
+          "url": "https://open.spotify.com/artist/1aOiGe2A7ZbcERjyQyXTZs"
+        },
+        {
+          "name": "Suzanne Palmer",
+          "url": "https://open.spotify.com/artist/2bAFYlcHVIgnOLqxDk212U"
+        },
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360020,
+      "name": "I Believe (feat. Suzanne Palmer) - Harry's Deep In Jersey Dub",
+      "url": "https://open.spotify.com/track/6yJrrz04J7LZTb9hHW1fhE"
     },
     {
       "album": {
@@ -1787,6 +1935,28 @@
     },
     {
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
+      },
+      "artists": [
+        {
+          "name": "Leroy Styles",
+          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
+        },
+        {
+          "name": "Mister Vi",
+          "url": "https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596157,
+      "name": "I'm A Blessed Man",
+      "url": "https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA"
+    },
+    {
+      "album": {
         "name": "There Is Soul in My House",
         "url": "https://open.spotify.com/album/0mtSczfPaltwZlDzGEwD0M"
       },
@@ -1828,6 +1998,24 @@
       "duration_ms": 392640,
       "name": "I'm Gonna Miss You (feat. K.T. Brooks)",
       "url": "https://open.spotify.com/track/0vuDLKz7yeNhmIpSDJ1Gz4"
+    },
+    {
+      "album": {
+        "name": "One Starry Night",
+        "url": "https://open.spotify.com/album/2A7TtLvMmgHy9UqK0dkGsz"
+      },
+      "artists": [
+        {
+          "name": "Kevin Yost",
+          "url": "https://open.spotify.com/artist/1FPV5yJGV2urezFSaXrYDV"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419000,
+      "name": "If She Only Knew",
+      "url": "https://open.spotify.com/track/4uYEhYjwMCPCuqPbUz6MOm"
     },
     {
       "album": {
@@ -2050,7 +2238,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 440500,
       "name": "Kathy Brown Happy People Knee Deep's to L.B. Dub - Knee Deep's to L.B. Dub",
       "url": "https://open.spotify.com/track/6vQ92IeQktoyuy4wwalsp6"
@@ -2194,10 +2382,40 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 381386,
       "name": "Let's Do It Again - Kenny Dope O'gutta Remix",
       "url": "https://open.spotify.com/track/458Ky1y8fOO2ahnH4xEYO6"
+    },
+    {
+      "album": {
+        "name": "Listen To This Drum (Turbojazz & Sean McCabe Remixes)",
+        "url": "https://open.spotify.com/album/4eksxhNnQ4TZHhEoiG9TB7"
+      },
+      "artists": [
+        {
+          "name": "Diephuis",
+          "url": "https://open.spotify.com/artist/7IJuhai74EqbgF8Uncnvi3"
+        },
+        {
+          "name": "Turbojazz",
+          "url": "https://open.spotify.com/artist/2T6qQFm2LfdVTSTTBTwPBB"
+        },
+        {
+          "name": "Sean McCabe",
+          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
+        },
+        {
+          "name": "Ursula Rucker",
+          "url": "https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259838,
+      "name": "Listen To This Drum - Turbojazz & Sean McCabe Remix Edit",
+      "url": "https://open.spotify.com/track/6YgKtrXaRXcTP6NfDENdSp"
     },
     {
       "album": {
@@ -2216,7 +2434,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 259200,
       "name": "Love & Happiness (Yemaya Y Och\u00f9n) (feat. India) (Dream Sequence)",
       "url": "https://open.spotify.com/track/3CbDRuzh7MBjT4GiM8DFUM"
@@ -2436,7 +2654,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 384012,
       "name": "Momma's Groove",
       "url": "https://open.spotify.com/track/2O5UhR6BHFlDuGSBPiK0Wi"
@@ -2586,10 +2804,28 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 401280,
       "name": "My Joy",
       "url": "https://open.spotify.com/track/6BAy2YYShXOT8JZomHOGJn"
+    },
+    {
+      "album": {
+        "name": "No Politics",
+        "url": "https://open.spotify.com/album/2rGknRc712pRAvQUmkGHTh"
+      },
+      "artists": [
+        {
+          "name": "Quentin Harris",
+          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401280,
+      "name": "My Joy",
+      "url": "https://open.spotify.com/track/6aaro20kA8AVLzsOOrPWio"
     },
     {
       "album": {
@@ -2616,6 +2852,32 @@
       "duration_ms": 508266,
       "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
       "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
+    },
+    {
+      "album": {
+        "name": "(un)Reliable Recordings Presents: New Things Remixes",
+        "url": "https://open.spotify.com/album/6s7tgDqfY7bsaKT3WSCOlF"
+      },
+      "artists": [
+        {
+          "name": "Michal Martyniuk",
+          "url": "https://open.spotify.com/artist/4pkzD9szYtQ8bBbUqTD0BC"
+        },
+        {
+          "name": "Eric Kupper",
+          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
+        },
+        {
+          "name": "YaniKa",
+          "url": "https://open.spotify.com/artist/1bQgRbaK4120BXwW3LbVTZ"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377069,
+      "name": "New Things (Eric Kupper Remix)",
+      "url": "https://open.spotify.com/track/21MaZOysLgNhO0MjWezOiX"
     },
     {
       "album": {
@@ -2734,7 +2996,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 463320,
       "name": "Poor People (Big Room Mix)",
       "url": "https://open.spotify.com/track/3CYhbioAH5j4AHKwW0N9oL"
@@ -2774,7 +3036,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 389066,
       "name": "Pride - Main Mix",
       "url": "https://open.spotify.com/track/51l17BzbgSXv4kEdQdzABO"
@@ -3084,6 +3346,28 @@
       "duration_ms": 413200,
       "name": "Take a Stand - Blaze Shelter Mix",
       "url": "https://open.spotify.com/track/7xsfE9vCuyXqKY2jtxgGYn"
+    },
+    {
+      "album": {
+        "name": "Testify (Urban Blues Project present Jay Williams)",
+        "url": "https://open.spotify.com/album/162yn9UxDQfAM1w8CNaYrH"
+      },
+      "artists": [
+        {
+          "name": "Urban Blues Project",
+          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
+        },
+        {
+          "name": "Jay Williams",
+          "url": "https://open.spotify.com/artist/2aR7Liq6qXllMrLVZJpYlR"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509237,
+      "name": "Testify (Urban Blues Project present Jay Williams) - The U.B.P. Sunday Vocal",
+      "url": "https://open.spotify.com/track/3yhzQOEmEKRYQ0Vd9MraHD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Yoss Bones y Dharius en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,576 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,637 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 3 | [De Oro](https://open.spotify.com/track/39vbXhdllt7Npz6Ym9ekfB) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [De Oro](https://open.spotify.com/album/0UYD1YeqrWOe2aSx1vvgsk) | 2:47 |
 | 4 | [Huéspedes](https://open.spotify.com/track/1mPF3G23BgqdNjHdXtyX9i) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Jam Baxter](https://open.spotify.com/artist/6ST2sHlQoWYjxkIVnuW2mr) | [Huéspedes](https://open.spotify.com/album/1w7kDlcGPcwLgX4BnrExmk) | 4:36 |
 | 5 | [Melancólicos](https://open.spotify.com/track/08oK0PA2snKyuURSJq8cnP) | [Abram](https://open.spotify.com/artist/77JcIMJmNJpBchsYdXyeae), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [SIRIAN](https://open.spotify.com/artist/2VdT0FWo6kAW0UdNGSB9eF) | [Melancólicos](https://open.spotify.com/album/4CkNFb3361xzBBnlCh6TY0) | 4:00 |
-| 6 | [MAMITA](https://open.spotify.com/track/12aPSqJT6ECU9Wq6rG8sQU) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [MAMITA](https://open.spotify.com/album/2aXtUydfywc4SNl3g0UlWF) | 3:03 |
+| 6 | [MAMITA](https://open.spotify.com/track/6ug0Fl5Hqq3vTzb161NZri) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [MAMITA](https://open.spotify.com/album/0cgEM3YLRPuYOd3MIMSoX9) | 3:03 |
 | 7 | [En La Calle](https://open.spotify.com/track/10hrydo6Lzikx92sQI025W) | [Pedro Peligro](https://open.spotify.com/artist/5uOhG1IBVMazk6iP2xK1fj), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [En La Calle](https://open.spotify.com/album/1sdlYzUj8vYzzVuheawjqe) | 3:57 |
 | 8 | [Medicina Fina](https://open.spotify.com/track/1OxCK5W8UqpAGSCSLOa6zo) | [Neblinna](https://open.spotify.com/artist/7H0rcOJgD1nrdMrH9cdHmL), [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [En Tu Area](https://open.spotify.com/artist/73hhnQICS1EOzyLnnLA2gN) | [Medicina Fina](https://open.spotify.com/album/2TWt9tQmmxkBDxkv8XHHjC) | 2:35 |
 | 9 | [FUCK EL POLICE \- REMIX](https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [FUCK EL POLICE \(REMIX\)](https://open.spotify.com/album/5c5xfOQXKfJBHXNj1iAO5s) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 99 | [Morena 420](https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Morena 420](https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC) | 3:56 |
 | 100 | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/album/1Z3NkOHY0rbefHDkIttPhP) | 2:30 |
 
-Snapshot ID: `MCw1NDRiZjNjZjg3MDk1OWE0YzVmNWYyYjQ0ZTgxNzI3ZmRiZDVjMDcw`
+Snapshot ID: `MCxmODU3NmI1NjY0NThiZjYyYjdkYjUxYTg2ZTI4YmYyMTc2ZWQ1Yzdi`

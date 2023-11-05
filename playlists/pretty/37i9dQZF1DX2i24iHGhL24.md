@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,629 likes - 86 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,799 likes - 86 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 27 | [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 |
 | 28 | [God Is A Woman \- Yours Truly: 2018](https://open.spotify.com/track/4LnBzQTbIJ3rCdXxs44R9S) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [God Is A Woman \(Yours Truly: 2018\)](https://open.spotify.com/album/3hrJkq3kDZhsUhFq5eMxbJ) | 3:37 |
 | 29 | [Believe](https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Believe](https://open.spotify.com/album/6Q3yJG9z24SwouL3qsZkOm) | 4:12 |
-| 30 | [RUNNING UP THAT HILL](https://open.spotify.com/track/0IPux9AVDKm0OiJgqi8b4v) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [RUNNING UP THAT HILL](https://open.spotify.com/album/4b0lmXRVg3jpRkrLS49yeg) | 3:19 |
+| 30 | [RUNNING UP THAT HILL](https://open.spotify.com/track/4NfjZe19Gsnm4pto3oJ8zb) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [RUNNING UP THAT HILL](https://open.spotify.com/album/3k5d8t2nSAr7saw6yqm5vC) | 3:19 |
 | 31 | [Forever Young](https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Forever Young \(From The McDonald's Christmas Advert 2020\)](https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw) | 2:58 |
 | 32 | [You Broke Me First](https://open.spotify.com/track/2xKy8HbpMFgHV2xZhpQf12) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [You Broke Me First](https://open.spotify.com/album/4bpL1S1jMzH9OlPWVSoaue) | 2:40 |
 | 33 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 43 | [If Your Man Only Knew](https://open.spotify.com/track/7H8kBmya327d7KTXsbln2v) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [If Your Man Only Knew](https://open.spotify.com/album/0D7hzGTfLWhIi20HeWzfZn) | 2:58 |
 | 44 | [Solar Power \- Spotify Singles](https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Spotify Singles](https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB) | 2:29 |
 | 45 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve) | 3:08 |
-| 46 | [Ordinary World](https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 3:20 |
+| 46 | [Ordinary World](https://open.spotify.com/track/73dLCr0dOQ9hORkFfvJjoK) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/5wo36E64oDg53M1xWVyZ7d) | 3:20 |
 | 47 | [Don't Dream It's Over](https://open.spotify.com/track/20AJoXd1SjRLmoyCNFjAKm) | [Amanda Jackson Band](https://open.spotify.com/artist/1rsnYoKcEZ9G1DdqSGzoYm) | [Ocean](https://open.spotify.com/album/5bzQOredYZZ0gV4bRNbg0P) | 4:23 |
 | 48 | [Wrecking Ball](https://open.spotify.com/track/4blEH2R5HZHTsZapNlvApV) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Wrecking Ball](https://open.spotify.com/album/3j2WcjsXEb4wMJqUFSfW95) | 3:33 |
 | 49 | [Nothing Compares 2 U](https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Nothing Compares 2 U](https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP) | 4:19 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 85 | [so into you \- Spotify Singles](https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 2:53 |
 | 86 | [Kiss Me](https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Kiss Me](https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN) | 2:28 |
 
-Snapshot ID: `MCxlZTZkODc0YzY5OTMyNDJlNmM3Yjg1MjEwNWE4ODcxMzgyNTJmZTUw`
+Snapshot ID: `MCwwMzVkODk3MjI0YzY3OGI2ZTgyYTQ0N2NjMDAwM2VlY2EyZjJiNDcw`

@@ -140,7 +140,7 @@
     {
       "album": {
         "name": "Apollo EP",
-        "url": "https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O"
+        "url": "https://open.spotify.com/album/5Plok6w5YeCXhdzXGSri4T"
       },
       "artists": [
         {
@@ -151,6 +151,24 @@
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 420684,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/7sNp24ekO02LkwhV7kBh3Z"
+    },
+    {
+      "album": {
+        "name": "Apollo EP",
+        "url": "https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 420684,
       "name": "Apollo - Original Mix",
       "url": "https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN"
@@ -720,10 +738,28 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 497137,
       "name": "Find Your Way Home",
       "url": "https://open.spotify.com/track/0WoxURnxMhMHVEZpK04KzU"
+    },
+    {
+      "album": {
+        "name": "She's Calling EP",
+        "url": "https://open.spotify.com/album/3hkdqLvcp6vFYyHHw19NBu"
+      },
+      "artists": [
+        {
+          "name": "Octo Octa",
+          "url": "https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497137,
+      "name": "Find Your Way Home",
+      "url": "https://open.spotify.com/track/1yYoSZ9e1zE2zZlYEytggU"
     },
     {
       "album": {
@@ -1092,10 +1128,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 288750,
       "name": "Hot Bot",
       "url": "https://open.spotify.com/track/5eeYXA1ZZBNRdwrJdCH9nD"
+    },
+    {
+      "album": {
+        "name": "Moogie",
+        "url": "https://open.spotify.com/album/5M62pugy3965W3dz996J7w"
+      },
+      "artists": [
+        {
+          "name": "Nite Fleit",
+          "url": "https://open.spotify.com/artist/1yVtpTbLBVQ2FykO9CETC5"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288750,
+      "name": "Hot Bot",
+      "url": "https://open.spotify.com/track/62gDPzHOh9oaJ3X1QBX3Fk"
     },
     {
       "album": {

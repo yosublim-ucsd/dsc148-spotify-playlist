@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: JeBel
 
-407 songs - 20 hr 7 min
+408 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Come nevicando](https://open.spotify.com/track/7v7OHQ2N49DhiEIQcj9O80) | [Safe](https://open.spotify.com/artist/3RsNxzXZG5MAwpXPf4X24s), [Jack Sapienza](https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K) | [Come nevicando](https://open.spotify.com/album/7HTq4YrBhejxyxsPgYBtSR) | 2:01 | 2022-05-05 | 2023-01-20 |
 | [Come se ballassimo](https://open.spotify.com/track/6vqp7l8bvamjZoihR5lu9b) | [Bye.Tide](https://open.spotify.com/artist/30Ufi67H57YMdnKTV5wNJH) | [Come se ballassimo](https://open.spotify.com/album/3v8tPkwbNPtq6rPFIo7ywg) | 3:40 | 2022-05-05 | 2022-06-10 |
 | [Come se Ballassimo](https://open.spotify.com/track/4aLp3lEAzKtMMbpYICQYEZ) | [Etta Jungle](https://open.spotify.com/artist/4qx8XNik3zFtPhaiIqwiMR) | [Come se Ballassimo](https://open.spotify.com/album/7gmsfsBP15wDEcQXqwUnQA) | 3:04 | 2023-03-30 | 2023-05-05 |
-| [Come si fa \(feat\. Mecna\)](https://open.spotify.com/track/0fsVkQHvaOq1dxW1MMfGHV) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Aurora Boreale](https://open.spotify.com/album/0BywUWtRfCZXLRjrl53PFx) | 3:13 | 2023-10-12 |  |
+| [Come si fa \(feat\. Mecna\)](https://open.spotify.com/track/0fsVkQHvaOq1dxW1MMfGHV) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Aurora Boreale](https://open.spotify.com/album/0BywUWtRfCZXLRjrl53PFx) | 3:13 | 2023-10-12 | 2023-11-05 |
+| [Come si fa \(feat\. Mecna\)](https://open.spotify.com/track/3djhLlGIgNz63lhDplcW85) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Aurora Boreale](https://open.spotify.com/album/3oh4nZNcAzLtV6KKBohGfK) | 3:13 | 2023-11-02 |  |
 | [Come sta il gatto](https://open.spotify.com/track/6VZFonwEjQz2bH05rJXb8x) | [DARJO](https://open.spotify.com/artist/0OtDutNd8CG5HKJ3KK3OHX), [WIBE](https://open.spotify.com/artist/0uQT0wIvCJeDWafAHL5IE1), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [+0881](https://open.spotify.com/album/1IT9xUZiobsYQeaBO6Wq6W) | 2:38 | 2022-06-02 | 2022-07-29 |
 | [Come un Film](https://open.spotify.com/track/39XNBtQcyOgyWEIbreIe8u) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu) | [Come un Film](https://open.spotify.com/album/3h9WDTPIEOddGaxoAW9yeA) | 2:41 | 2022-05-12 | 2022-09-30 |
 | [Come, come](https://open.spotify.com/track/1NE7ctDmeMclZuMNYY5o3j) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Come, come](https://open.spotify.com/album/6Z8sLwQzzZq9GZxMydfDM5) | 2:31 | 2022-05-05 | 2022-05-27 |

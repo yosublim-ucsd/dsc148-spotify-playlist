@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Jayli Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,734 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,738 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 43 | [Where My Girls At](https://open.spotify.com/track/6P2P7BRXglUXZXZoXrz6YN) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Where My Girls At](https://open.spotify.com/album/60uul0uNlvOJ4joAbQuXQz) | 2:28 |
 | 44 | [Guilt Trip](https://open.spotify.com/track/4HJVEuX0FP2BbRM9NbEBUC) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Guilt Trip](https://open.spotify.com/album/6tm4o7aC0NDNsdADWRT0N7) | 3:09 |
 | 45 | [Crossroads](https://open.spotify.com/track/4lo2y3hyTLu9rDeJzijfy8) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Crossroads](https://open.spotify.com/album/01pwO1R3JuwJBImA2gTG7B) | 2:40 |
-| 46 | [Tim + Faith](https://open.spotify.com/track/1sFe3bncgvZROAQsebpKaA) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Tim + Faith](https://open.spotify.com/album/3ln8DFI7SEUD5kJPddGEsc) | 3:50 |
+| 46 | [Tim + Faith](https://open.spotify.com/track/0gPsHNuKK5lsWpCqWwvxRX) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Tim + Faith](https://open.spotify.com/album/2ImzdPjUj4Ejjr1Qj5VZhv) | 3:50 |
 | 47 | [2AM](https://open.spotify.com/track/6lRRwsfmMLBUPiGLYTtWBb) | [Liyah Katana](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [8](https://open.spotify.com/album/5EkUPC1lK59jm0O0y1jswQ) | 2:37 |
 | 48 | [Taking Control](https://open.spotify.com/track/2nuzUJCQ5iWY80FsyUJtk6) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Taking Control](https://open.spotify.com/album/31zEM8HglrCkirKLaxmkkz) | 3:31 |
 | 49 | [Polymorphe](https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Oniromancie](https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI) | 3:36 |
 | 50 | [Kept You In My Pocket](https://open.spotify.com/track/1ocAFOuadjV6zVO20WuJDu) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq) | [Kept You In My Pocket](https://open.spotify.com/album/0WRQ2owaWFOfoEG6Y9UYKn) | 3:16 |
 
-Snapshot ID: `MCwyZGQyYjE5ZTUxMzkzYjdkOWJjODVhOWMxNDk4OGJkMzZjNmJmYzBi`
+Snapshot ID: `MCw3NjVhZWMzNWVmYTYzNzllZWY2MzY1ODhiZTU5YWU3N2E0NWI1MmI0`

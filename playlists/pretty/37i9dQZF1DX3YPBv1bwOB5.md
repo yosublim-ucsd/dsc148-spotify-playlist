@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YPBv1bwOB5.md) - [plain]
 
 > Own your power\. Listen to the music from and inspired by Rustin, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2 likes - 45 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6 likes - 45 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YPBv1bwOB5.md) - [plain]
 | 44 | [Didn't It Rain](https://open.spotify.com/track/4DHltCMNPkc7a2Vx5xAhJU) | [Tonya Boyd\-Cannon](https://open.spotify.com/artist/1ZwCt7hd76oczrXCoe5wVH) | [Rustin \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B) | 2:42 |
 | 45 | [The Knowing](https://open.spotify.com/track/0PIc95qmfynWbbWQCf3ZXL) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Rustin \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B) | 4:31 |
 
-Snapshot ID: `MCw4MjJmNTUyMDZlMDdhZjE0ZGI0ODI3NzQwZjUyYzQ1Njc3ODNlZTQw`
+Snapshot ID: `MCw2MWIxMmM0YTQwZGZjZGVhOTFkZWViYTA1YjVhOTU0NGY5MDRmOTQw`

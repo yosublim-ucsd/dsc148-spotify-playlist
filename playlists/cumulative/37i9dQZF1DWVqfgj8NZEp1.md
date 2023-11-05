@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-297 songs - 1 day 3 hr 31 min
+298 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,8 @@
 | [Theme For Ernie](https://open.spotify.com/track/0XXHKJqxoDfr5dzmqFlTVO) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Altitude](https://open.spotify.com/album/6oCVoCOJDG6LH3njz2ej4A) | 5:04 | 2020-10-09 | 2022-07-29 |
 | [Theme for Ernie](https://open.spotify.com/track/5duSC0GiQTYs2fdYnS4Qx5) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Altitude](https://open.spotify.com/album/6PXMUQ2FQ4TY34Fr7wFQ3K) | 5:04 | 2022-06-30 | 2023-01-03 |
 | [Theme for Ernie](https://open.spotify.com/track/6FTyd72Hx3B9jRogHKCty1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Strings](https://open.spotify.com/album/6oaOeKa70xXJ1QIMBerp3N) | 7:14 | 2021-09-24 | 2022-05-03 |
-| [Theme for Ernie](https://open.spotify.com/track/6T0wTF7RhPphuQxhappP2u) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ) | [Theme for Ernie](https://open.spotify.com/album/4GuZjxfEnM6RDYTUBmEdNh) | 5:02 | 2023-08-03 |  |
+| [Theme for Ernie](https://open.spotify.com/track/50bWB9cTQL9YULxHLPQap1) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ) | [Presence](https://open.spotify.com/album/0IeNYNND4FGLOpTSAV4UJq) | 5:02 | 2023-10-24 |  |
+| [Theme for Ernie](https://open.spotify.com/track/6T0wTF7RhPphuQxhappP2u) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ) | [Theme for Ernie](https://open.spotify.com/album/4GuZjxfEnM6RDYTUBmEdNh) | 5:02 | 2023-08-03 | 2023-11-05 |
 | [Theme For Leon](https://open.spotify.com/track/1PdnJncOIXLLHOjWq6zQBE) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Theme for Leon](https://open.spotify.com/album/587RQMxWOa3jkQKFQt9tKw) | 6:08 | 2022-02-24 |  |
 | [There'll Be Other Times](https://open.spotify.com/track/13CZCdBlWMmulnz3VV2yjv) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [The Art of Intimacy, Vol\. 2: His Muse](https://open.spotify.com/album/1n106LRjOdLx8hJGpnNKPo) | 6:08 | 2023-03-09 |  |
 | [There's No Place For Me \- Live](https://open.spotify.com/track/48PojLpjonNmPElm0ntohW) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:20 | 2022-10-20 |  |

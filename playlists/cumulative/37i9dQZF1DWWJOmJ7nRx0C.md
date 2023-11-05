@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Dirty Honey
 
-1,010 songs - 2 day 12 hr 31 min
+1,012 songs - 2 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Alkaline](https://open.spotify.com/track/3TgG7j2pQTuRGXbmgR1QYw) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Alkaline](https://open.spotify.com/album/2NSI6KShPfoYeYVs89G2fA) | 3:34 | 2021-07-20 | 2022-02-19 |
 | [All Down Hill from Here](https://open.spotify.com/track/7x6FlXOGhl9xaynFFbPwBx) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [All Down Hill from Here](https://open.spotify.com/album/2vHbDoCINCZlcI6ZGX5yF3) | 4:37 | 2021-08-20 | 2022-03-12 |
 | [All I Really Know](https://open.spotify.com/track/5JjTtaOLyq48joyhVX3ksj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone \(Deluxe\)](https://open.spotify.com/album/7pRVr7VwQCl5ocbCVIqsXz) | 3:34 | 2021-12-10 | 2022-04-16 |
-| [All Things Must Change](https://open.spotify.com/track/6ZbOtXOG3ZA1c12r1KAOyT) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival \(Deluxe\)](https://open.spotify.com/album/4gTXzawhT3uxfHY64KAqSq) | 3:35 | 2023-08-25 |  |
+| [All Things Must Change](https://open.spotify.com/track/6ZbOtXOG3ZA1c12r1KAOyT) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival \(Deluxe\)](https://open.spotify.com/album/4gTXzawhT3uxfHY64KAqSq) | 3:35 | 2023-08-25 | 2023-11-05 |
 | [All Things Must Change](https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [All Things Must Change](https://open.spotify.com/album/3DnCKQ3Evs7NMykpdflNmm) | 3:35 | 2023-05-05 | 2023-07-01 |
+| [All Things Must Change](https://open.spotify.com/track/7oXl7mUZPi6YThjvtsk2q1) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival \(Deluxe\)](https://open.spotify.com/album/24zUDdtHXjMPPFvNBK3yqg) | 3:35 | 2023-11-03 |  |
 | [Alone Again](https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Alone Again](https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq) | 3:48 | 2021-08-20 | 2022-01-22 |
 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 | 2023-10-06 |  |
 | [American Dream](https://open.spotify.com/track/1Fl5pNT0nM667ugiC08mPd) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW), [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [American Dream](https://open.spotify.com/album/52EG4cU5zsXOZZrKRl2ixV) | 3:05 | 2022-02-18 | 2022-10-22 |
@@ -240,7 +241,8 @@
 | [Devastate](https://open.spotify.com/track/7vxqsIF0X2BrYKazuIWzoh) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Extrovert](https://open.spotify.com/album/2rv0XADiy2bRhJ2ROPAqFy) | 3:32 | 2023-04-28 | 2023-09-16 |
 | [Devil](https://open.spotify.com/track/6REIaFxddyAZI2MjmlSHOW) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Mourning](https://open.spotify.com/album/4xAVywnk3mapIPdtXEefro) | 3:23 | 2022-10-21 | 2022-12-17 |
 | [Devil That You Know](https://open.spotify.com/track/5Gq2lezOCHN5rIqIlUkvJ7) | [NHC](https://open.spotify.com/artist/5NkZhEvaFqUeNVwXseoeS3) | [Devil That You Know / Lazy Eyes](https://open.spotify.com/album/6cpjKpQiWtvoDV4gWqARFb) | 3:15 | 2021-11-12 | 2022-01-22 |
-| [Devil You Know](https://open.spotify.com/track/2sKvfN6Kdjf9FA2yDWHQ6J) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Devil You Know](https://open.spotify.com/album/5HMTkM7veGMMg8sxammkYr) | 2:58 | 2023-09-15 |  |
+| [Devil You Know](https://open.spotify.com/track/2sKvfN6Kdjf9FA2yDWHQ6J) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Devil You Know](https://open.spotify.com/album/5HMTkM7veGMMg8sxammkYr) | 2:58 | 2023-09-15 | 2023-11-05 |
+| [Devil You Know](https://open.spotify.com/track/3VfLRvfDdy7iXW057kPm2x) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Devil You Know](https://open.spotify.com/album/1JHMeaoUwnGzpen1EOSYie) | 2:58 | 2023-11-03 |  |
 | [Dial Tone](https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Dial Tone](https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV) | 3:20 | 2023-05-19 | 2023-09-16 |
 | [Diary Of A Masochist](https://open.spotify.com/track/1WvNXN1ctrGptr5vd9wHKO) | [The Requiem](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [Diary Of A Masochist / I'll Be Late For My Funeral](https://open.spotify.com/album/78KQ6bkEiQQObKd5moVdBN) | 3:11 | 2023-09-01 |  |
 | [Die Another Day](https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Jackpot Juicer](https://open.spotify.com/album/6c5mEBiGZdHm0lnzvlbXVW) | 3:41 | 2022-07-29 | 2023-01-21 |

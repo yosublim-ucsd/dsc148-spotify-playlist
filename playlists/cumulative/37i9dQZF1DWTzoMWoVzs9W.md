@@ -4,7 +4,7 @@
 
 > Listen to all of her hits right here!
 
-70 songs - 3 hr 28 min
+71 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Sim ou não \(Participação especial de Maluma\)](https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sim ou não \(Participação especial de Maluma\)](https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b) | 3:26 | 2023-09-08 |  |
 | [SIMPLY THE BEST](https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [SIMPLY THE BEST](https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ) | 3:56 | 2023-09-08 |  |
 | [Some que ele vem atrás](https://open.spotify.com/track/2qD7VoDYcrAPY0cVEfpsR5) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Some que ele vem atrás](https://open.spotify.com/album/1GjVoPUvfzc1b76xa0stUI) | 3:14 | 2023-09-08 |  |
-| [Sua Cara](https://open.spotify.com/track/3XfsA0zVsrPkVkaDDEr73B) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Know No Better](https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC) | 2:47 | 2023-09-08 |  |
+| [Sua Cara](https://open.spotify.com/track/13yoOJTOL7dAfUMGvfJhBU) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Major Lazer Essentials](https://open.spotify.com/album/2HgfRoTq6OG0AsoJQLsyUQ) | 2:47 | 2023-10-24 |  |
+| [Sua Cara](https://open.spotify.com/track/3XfsA0zVsrPkVkaDDEr73B) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Know No Better](https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC) | 2:47 | 2023-09-08 | 2023-11-05 |
 | [TODO O NADA](https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:28 | 2023-09-08 |  |
 | [Tudo Nosso](https://open.spotify.com/track/7AvI51GbzvE9wjrgWMzuNb) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Tudo Nosso](https://open.spotify.com/album/6xcrdorn4fRqfrIzYhJijU) | 2:48 | 2023-09-08 |  |
 | [Turn It Up](https://open.spotify.com/track/3912zNANDuLatGYzGSobcE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:39 | 2023-09-08 |  |

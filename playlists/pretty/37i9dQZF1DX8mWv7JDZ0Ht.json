@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Jota.p\u00ea",
-  "num_followers": 433752,
+  "num_followers": 433793,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MThmNzkyM2EyZjQ5YzhjYzQwYmM0Y2Y3OTNhZTUzYjI4OTZjNTZk",
+  "snapshot_id": "MCw1MWI5MzAxOWI4OWViNjE3ZmYxNTIwM2Y2YjgzOGUyNjVjMDM4Mzg0",
   "tracks": [
     {
       "added_at": "2023-10-27 03:00:00",
@@ -307,18 +307,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Roupa Branca",
-        "url": "https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC"
+        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
       "artists": [
         {
-          "name": "Sued Nunes",
-          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 147770,
-      "name": "Roupa Branca",
-      "url": "https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC"
+      "duration_ms": 230772,
+      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -343,22 +347,18 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
+        "name": "Roupa Branca",
+        "url": "https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
         }
       ],
-      "duration_ms": 230772,
-      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+      "duration_ms": 147770,
+      "name": "Roupa Branca",
+      "url": "https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -435,42 +435,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Durar (Uma vida com voc\u00ea) [with TIAGO IORC]",
-        "url": "https://open.spotify.com/album/430iYZPfCsaNzNMxihU9cT"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 199618,
-      "name": "Durar (Uma vida com voc\u00ea) [with TIAGO IORC]",
-      "url": "https://open.spotify.com/track/3Ywf2aS3WBZOmND8yrE0ZF"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Vem Meu Amor",
-        "url": "https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 155738,
-      "name": "Vem Meu Amor",
-      "url": "https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Quase Amor",
         "url": "https://open.spotify.com/album/3WGeOlYSDU8mYhWsz2wWcp"
       },
@@ -491,6 +455,42 @@
       "duration_ms": 151616,
       "name": "Quase Amor",
       "url": "https://open.spotify.com/track/46U95V5hKnM6tM12lOuAOi"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Vem Meu Amor",
+        "url": "https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 155738,
+      "name": "Vem Meu Amor",
+      "url": "https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Durar (Uma vida com voc\u00ea) [with TIAGO IORC]",
+        "url": "https://open.spotify.com/album/430iYZPfCsaNzNMxihU9cT"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 199618,
+      "name": "Durar (Uma vida com voc\u00ea) [with TIAGO IORC]",
+      "url": "https://open.spotify.com/track/3Ywf2aS3WBZOmND8yrE0ZF"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -543,38 +543,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Pausa",
-        "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
-      },
-      "artists": [
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Pausa",
-      "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Vida + leve",
         "url": "https://open.spotify.com/album/2yd1DMCQyulyfU8Z9Zehf1"
       },
@@ -599,6 +567,38 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "Pausa",
+        "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Pausa",
+      "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "M\u00faltipla",
         "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
       },
@@ -615,18 +615,26 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "n\u00f3sdois",
-        "url": "https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe"
+        "name": "Eu S\u00f3 Penso em N\u00f3s",
+        "url": "https://open.spotify.com/album/3ZblEbMh2FbTGClnIgx92h"
       },
       "artists": [
         {
-          "name": "N\u00f3s Dois",
-          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
         }
       ],
-      "duration_ms": 163815,
-      "name": "Juntin",
-      "url": "https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ"
+      "duration_ms": 180000,
+      "name": "Eu S\u00f3 Penso em N\u00f3s",
+      "url": "https://open.spotify.com/track/3sQuO4jLsCnCSva4eXiPap"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -663,6 +671,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "n\u00f3sdois",
+        "url": "https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s Dois",
+          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
+        }
+      ],
+      "duration_ms": 163815,
+      "name": "Juntin",
+      "url": "https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Me Leve",
         "url": "https://open.spotify.com/album/0pVL5tARzVQhDtb4DmS9Sr"
       },
@@ -675,30 +699,6 @@
       "duration_ms": 225833,
       "name": "Me Leve",
       "url": "https://open.spotify.com/track/0s5nDuDC0o4zCf1z2nhaQK"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Eu S\u00f3 Penso em N\u00f3s",
-        "url": "https://open.spotify.com/album/3ZblEbMh2FbTGClnIgx92h"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Noemi Leal",
-          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Eu S\u00f3 Penso em N\u00f3s",
-      "url": "https://open.spotify.com/track/3sQuO4jLsCnCSva4eXiPap"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "N\u00e3o Me Chame Mais De Ex",
+        "url": "https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        },
+        {
+          "name": "Kamilla Maria",
+          "url": "https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c"
+        }
+      ],
+      "duration_ms": 148330,
+      "name": "N\u00e3o Me Chame Mais De Ex",
+      "url": "https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Coisas De Voc\u00ea",
         "url": "https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE"
       },
@@ -767,30 +787,6 @@
       "duration_ms": 197802,
       "name": "Coisas De Voc\u00ea",
       "url": "https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Desconectar",
-        "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
-      },
-      "artists": [
-        {
-          "name": "Gu",
-          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
-        },
-        {
-          "name": "Bufal\u00f4",
-          "url": "https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0"
-        },
-        {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Desconectar",
-      "url": "https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -827,6 +823,30 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "Desconectar",
+        "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
+      },
+      "artists": [
+        {
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
+        },
+        {
+          "name": "Bufal\u00f4",
+          "url": "https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0"
+        },
+        {
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Desconectar",
+      "url": "https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Sonhos & Ilus\u00f5es (acoustic)",
         "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 231250,
       "name": "Sonhos & Ilus\u00f5es - acoustic",
       "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "N\u00e3o Me Chame Mais De Ex",
-        "url": "https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        },
-        {
-          "name": "Kamilla Maria",
-          "url": "https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c"
-        }
-      ],
-      "duration_ms": 148330,
-      "name": "N\u00e3o Me Chame Mais De Ex",
-      "url": "https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Coisas De Voc\u00ea",
-        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "Virginiana",
-      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Tom Jobim",
         "url": "https://open.spotify.com/album/5HczYawk4wKPp5nXP36s6P"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 182857,
       "name": "Tom Jobim",
       "url": "https://open.spotify.com/track/2pk99nZzZMkUBOhEUoMgH4"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Coisas De Voc\u00ea",
+        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "Virginiana",
+      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pascual",
-          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 167424,
-      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Lindo Dom",
         "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
       },
@@ -1011,18 +991,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Primeiro Bom Dia",
-        "url": "https://open.spotify.com/album/05x9tfi2dUqNtsOuFOToWF"
+        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
       },
       "artists": [
         {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 133770,
-      "name": "Primeiro Bom Dia",
-      "url": "https://open.spotify.com/track/0pAfPb9PMGcLoWpsPh1wB0"
+      "duration_ms": 167424,
+      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1055,6 +1039,22 @@
       "duration_ms": 191862,
       "name": "sempre com voc\u00ea",
       "url": "https://open.spotify.com/track/5VHdxkb3y2gq8kzxKAGdOZ"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Primeiro Bom Dia",
+        "url": "https://open.spotify.com/album/05x9tfi2dUqNtsOuFOToWF"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        }
+      ],
+      "duration_ms": 133770,
+      "name": "Primeiro Bom Dia",
+      "url": "https://open.spotify.com/track/0pAfPb9PMGcLoWpsPh1wB0"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Ser Eu",
-        "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
-      },
-      "artists": [
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 161828,
-      "name": "Ser Eu",
-      "url": "https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "No Passo da Saudades",
         "url": "https://open.spotify.com/album/0729bsCZ4g6R5JeuVpoUsj"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Melodram\u00e1tico",
-        "url": "https://open.spotify.com/album/0uu6hlbdqlBp6dqTQ7TBRw"
+        "name": "Ser Eu",
+        "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
       },
       "artists": [
         {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Melodram\u00e1tico",
-      "url": "https://open.spotify.com/track/1fn9Ca7f5FdrZ5E6JUVh9s"
+      "duration_ms": 161828,
+      "name": "Ser Eu",
+      "url": "https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1187,6 +1171,22 @@
       "duration_ms": 182086,
       "name": "Um Brinde A Vida",
       "url": "https://open.spotify.com/track/368jIb4IpHgNiYmVG2J4PD"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Melodram\u00e1tico",
+        "url": "https://open.spotify.com/album/0uu6hlbdqlBp6dqTQ7TBRw"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Melodram\u00e1tico",
+      "url": "https://open.spotify.com/track/1fn9Ca7f5FdrZ5E6JUVh9s"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "PLENA TER\u00c7A FEIRA",
+        "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Coelho",
+          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
+        },
+        {
+          "name": "Julie Ramos",
+          "url": "https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV"
+        }
+      ],
+      "duration_ms": 187982,
+      "name": "PLENA TER\u00c7A FEIRA",
+      "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Como Tinha Que Ser",
         "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 154603,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "PLENA TER\u00c7A FEIRA",
-        "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Coelho",
-          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
-        },
-        {
-          "name": "Julie Ramos",
-          "url": "https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV"
-        }
-      ],
-      "duration_ms": 187982,
-      "name": "PLENA TER\u00c7A FEIRA",
-      "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "Ideias Sobre Voc\u00ea",
+        "url": "https://open.spotify.com/album/6Qr4XXaE4RBCqxknr5XH4Y"
+      },
+      "artists": [
+        {
+          "name": "Helena Novais",
+          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "Incompar\u00e1vel",
+      "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Sincero",
         "url": "https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 169275,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Ideias Sobre Voc\u00ea",
-        "url": "https://open.spotify.com/album/6Qr4XXaE4RBCqxknr5XH4Y"
-      },
-      "artists": [
-        {
-          "name": "Helena Novais",
-          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "Incompar\u00e1vel",
-      "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
     },
     {
       "added_at": "2023-10-27 03:00:00",

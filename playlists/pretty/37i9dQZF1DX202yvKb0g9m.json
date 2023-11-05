@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 106461,
+  "num_followers": 106524,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGE0M2Q1ZmViMmM0OGYwOWQ5NzA2OWE3MWJjNDk2NjhkMTQwY2Y3",
+  "snapshot_id": "MCwzMGI1ZDE1ODE1OWI5YTA0ZDFmMjMwODFiMzZlMWEwNzQyOTc5OTll",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Alientronic",
-        "url": "https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy"
-      },
-      "artists": [
-        {
-          "name": "Ellen Allien",
-          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
-        }
-      ],
-      "duration_ms": 382531,
-      "name": "Bowie in Harmony",
-      "url": "https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "In Gold",
         "url": "https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 379695,
       "name": "Sumo Acid Crew",
       "url": "https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Alientronic",
+        "url": "https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy"
+      },
+      "artists": [
+        {
+          "name": "Ellen Allien",
+          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
+        }
+      ],
+      "duration_ms": 382531,
+      "name": "Bowie in Harmony",
+      "url": "https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -655,6 +655,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Higher State of Consciousness",
+        "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
+      },
+      "artists": [
+        {
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
+        }
+      ],
+      "duration_ms": 377960,
+      "name": "Higher State of Consciousness (Tweekin Acid Funk)",
+      "url": "https://open.spotify.com/track/6cJ3yBgG1VzRpf4xrKsfB8"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Adventures in Acid Boogie, Vol.2",
         "url": "https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Better Living Through Chemistry",
-        "url": "https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 349493,
-      "name": "Everybody Needs A 303",
-      "url": "https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Box Energy",
         "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 370306,
       "name": "Box Energy",
       "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Better Living Through Chemistry",
+        "url": "https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 349493,
+      "name": "Everybody Needs A 303",
+      "url": "https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -831,22 +847,6 @@
       "duration_ms": 205733,
       "name": "Acid Bit (feat. Addison Groove)",
       "url": "https://open.spotify.com/track/42sGvNzcCsaoqSWXjJy8nh"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Higher State of Consciousness",
-        "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
-      },
-      "artists": [
-        {
-          "name": "Josh Wink",
-          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
-        }
-      ],
-      "duration_ms": 377960,
-      "name": "Higher State of Consciousness (Tweekin Acid Funk)",
-      "url": "https://open.spotify.com/track/6cJ3yBgG1VzRpf4xrKsfB8"
     }
   ],
   "unique_name": "303 Classics",

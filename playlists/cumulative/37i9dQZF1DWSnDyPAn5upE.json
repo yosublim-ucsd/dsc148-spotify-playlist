@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "\u00c1TTA",
+        "url": "https://open.spotify.com/album/4QHM0MaR2dPDWIaKhTt7hd"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313040,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/7C1Y2bK9EDjcL75tkr2hzI"
+    },
+    {
+      "album": {
         "name": "Grass Grow",
         "url": "https://open.spotify.com/album/7GGr2hRdoaTawzAJz32Qtl"
       },
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 314036,
       "name": "L\u00e4mp\u00f6",
       "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"

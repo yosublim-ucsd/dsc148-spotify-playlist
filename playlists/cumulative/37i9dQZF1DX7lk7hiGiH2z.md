@@ -4,7 +4,7 @@
 
 > Süßes sonst gibt's Saures! 🎃
 
-135 songs - 6 hr 27 min
+136 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Hexentanz](https://open.spotify.com/track/1neJ0rILtJuhFx6qFQM14S) | [Kinderchor Canzonetta Berlin](https://open.spotify.com/artist/2hPcTWItqk71rEzyaHQn7R), [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Schau meine Hexe: Die schönsten Hexenlieder](https://open.spotify.com/album/0JEGG0YOqBir077LMClwRp) | 3:03 | 2023-10-16 |  |
 | [Hexentanz](https://open.spotify.com/track/1Ov76jLEZQsmTbPgqEFW4R) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Discobär & Hexentanz](https://open.spotify.com/album/0usnfP6OACQXsJ2HtLFrx1) | 3:15 | 2023-10-16 |  |
 | [Hu Ha Halloween](https://open.spotify.com/track/4r8pkG3FfuYGFTHYtb2az9) | [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Im Land der bunten Fantasie \- Lieder zum Tanzen, Träumen und Mitsingen](https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn) | 2:36 | 2023-08-31 |  |
-| [Hui Buh \- Das Schlossgespenst](https://open.spotify.com/track/74skypXEi8IWrHoXZZ8sw8) | [Michael Schanze](https://open.spotify.com/artist/3qZlcxiBZnekq0NeAnPLy4), [Hans Clarin](https://open.spotify.com/artist/6i6Rf2vtI1fQ4E9oXx6oZX) | [Danke Rudi!](https://open.spotify.com/album/0PaCAksrWV8EIPLMdYmGAe) | 3:12 | 2023-10-16 |  |
+| [Hui Buh \- Das Schlossgespenst](https://open.spotify.com/track/74skypXEi8IWrHoXZZ8sw8) | [Michael Schanze](https://open.spotify.com/artist/3qZlcxiBZnekq0NeAnPLy4), [Hans Clarin](https://open.spotify.com/artist/6i6Rf2vtI1fQ4E9oXx6oZX) | [Danke Rudi!](https://open.spotify.com/album/0PaCAksrWV8EIPLMdYmGAe) | 3:12 | 2023-10-16 | 2023-11-05 |
+| [Hui Buh \- Das Schlossgespenst](https://open.spotify.com/track/2IfG2i43XLsSLTYROFQP06) | [Michael Schanze & Hans Clarin](https://open.spotify.com/artist/0DC85tC7cITKlQeVSc20fe) | [Danke Rudi!](https://open.spotify.com/album/4LjSDj6F2FDHAoPp6miVwA) | 3:12 | 2023-10-30 |  |
 | [Hui Hui Hui \- Ich bin der Wind](https://open.spotify.com/track/3Wal8NEzMPBFpGjScxlGT7) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Laternen\- und Herbstlieder](https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn) | 1:33 | 2023-08-31 | 2023-10-17 |
 | [Hörst du die Regenwürmer husten](https://open.spotify.com/track/6BMiwUZ69Paj0vOzJynqGP) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Kita \- EP](https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v) | 3:07 | 2023-09-04 | 2023-10-17 |
 | [Ich bleib hier \(feat\. Lina Larissa Strahl\)](https://open.spotify.com/track/64W6MhqnoDBXrLMnM5d1Hp) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Lina Larissa Strahl](https://open.spotify.com/artist/2SXsxS4gv0ZHIZQ0kU3GDk) | [Bibi und Tina: VOLL VERHEXT! \(Der Original\-Soundtrack zum Kinofilm\)](https://open.spotify.com/album/5CXxYkRdKPyE7tWGmqZZOP) | 2:59 | 2023-06-28 | 2023-10-17 |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 15663,
+  "num_followers": 15693,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjU0NzMyMGNkYWM0MDY2MTdkNDFkZTdmMGJiMmEyNDkyOTQ2NzM5",
+  "snapshot_id": "MCw3YjBhYWU3NTgwNDM1NWZjMTNmYjJiNzUzOTE3NjM3ZTQ1NzYyNDM2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Dark Lane Demo Tapes",
+        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1I55Ea0zVoSKs6MqW7DQ3i"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Turks",
         "url": "https://open.spotify.com/album/2nfOFXxNyf61geA17cW6e6"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 161377,
       "name": "Turks (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Dark Lane Demo Tapes",
-        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1I55Ea0zVoSKs6MqW7DQ3i"
     },
     {
       "added_at": "2022-10-01 16:00:00",

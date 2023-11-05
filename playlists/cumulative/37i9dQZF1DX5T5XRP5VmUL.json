@@ -3316,7 +3316,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 172186,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/0GtaQ9DJkI7KEvRQCG6aqK"
@@ -5710,6 +5710,24 @@
       "duration_ms": 115375,
       "name": "What Are You Doing New Year's Eve",
       "url": "https://open.spotify.com/track/42DRM86n9XCMFrlgZQ0MZn"
+    },
+    {
+      "album": {
+        "name": "What Are You Doing New Year's Eve?",
+        "url": "https://open.spotify.com/album/4DPj2AE6aRUjDFMMSgfw9x"
+      },
+      "artists": [
+        {
+          "name": "Bestfriend",
+          "url": "https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233846,
+      "name": "What Are You Doing New Year's Eve?",
+      "url": "https://open.spotify.com/track/4I8k8kj0EpsdrQXLlscgpF"
     },
     {
       "album": {

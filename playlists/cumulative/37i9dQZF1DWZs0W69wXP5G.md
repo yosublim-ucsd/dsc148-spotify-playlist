@@ -4,7 +4,7 @@
 
 > Everything Broadway\-adjacent\. Cover: Ryan Gosling in Barbie
 
-147 songs - 8 hr 46 min
+148 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Another day in America \(with Ozuna\)](https://open.spotify.com/track/0SRBovIdW5xMxuw7ZR9pHz) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Another day in America \(with Ozuna\)](https://open.spotify.com/album/5xeu1LWvPrYWnWuyLXRcRW) | 2:47 | 2022-08-12 |  |
 | [Awe Of Her](https://open.spotify.com/track/2jbawahJUqTV2LuWQoRpJz) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE) | [Grow](https://open.spotify.com/album/6eHRbnNQfCYTOL2biwnl4e) | 2:45 | 2022-08-12 | 2023-04-29 |
 | [Be the Light](https://open.spotify.com/track/1aCON8w8JozezoG1xbL6ou) | [Griffin Matthews](https://open.spotify.com/artist/1iZnRB3xKHWnMkUeEAM8xu), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Emma Hunton](https://open.spotify.com/artist/2AaAHKo5kfPhzIrSFFZhVs), [Witness Uganda Ensemble](https://open.spotify.com/artist/4GFmNcKQBCgyiqUaIu3jTg) | [Witness Uganda \(An American Musical\)](https://open.spotify.com/album/7rWdiSjY8poMBaJHXkLXil) | 5:20 | 2022-08-12 |  |
-| [Beast](https://open.spotify.com/track/1cKataJtvqxPrW6C4nA1uS) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Beast](https://open.spotify.com/album/5E3kloxkrwiq2MlJ1gUHpw) | 2:20 | 2023-09-12 |  |
+| [Beast](https://open.spotify.com/track/1cKataJtvqxPrW6C4nA1uS) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Beast](https://open.spotify.com/album/5E3kloxkrwiq2MlJ1gUHpw) | 2:20 | 2023-09-12 | 2023-11-05 |
+| [Beast](https://open.spotify.com/track/3oW2oZPTc1AHOG1y0xCAIQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Drama Queen](https://open.spotify.com/album/0kMmfTz3OwAh73dSCN3FpW) | 2:20 | 2023-10-20 |  |
 | [Beauty and the Beast](https://open.spotify.com/track/3I3QV9fD0CQdnekEPNgYIk) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Beauty and the Beast: A 30th Celebration \(Original Soundtrack\)](https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N) | 2:57 | 2022-12-16 |  |
 | [Belle](https://open.spotify.com/track/1SSyCUkZvRADNdol04UqmE) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Rizwan Manji](https://open.spotify.com/artist/4mz7AGZHijxHC1fc6bGfYn) | [Beauty and the Beast: A 30th Celebration \(Original Soundtrack\)](https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N) | 5:18 | 2022-12-16 |  |
 | [Boho Days](https://open.spotify.com/track/7k5agf3Bo48jyzXrvrMuhb) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Robin de Jesus](https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32), [Alexandra Shipp](https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 1:28 | 2022-08-12 |  |

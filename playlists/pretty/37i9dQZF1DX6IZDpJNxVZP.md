@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,495 likes - 130 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,510 likes - 130 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 103 | [We Love Halloween](https://open.spotify.com/track/40WjfvGm7cMJHdElsDwAVG) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Boo! It's Halloween](https://open.spotify.com/album/6fWfpZA7c3puk13L7YfIt2) | 2:00 |
 | 104 | [Skeleton Inside!](https://open.spotify.com/track/5RYJpJXyhU4jxB5JPMKX7Q) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [Kooky Spooky..\. In Stereo!](https://open.spotify.com/album/1V2nJyNQSsEDRhP8xOOSDv) | 4:23 |
 | 105 | [This Is Halloween](https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:16 |
-| 106 | [The Simpsons \- Halloween Special Theme \(Instrumental Mix\)](https://open.spotify.com/track/1cOvOe6N00MmFTst5j2Eny) | [The Evolved](https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt) | [Halloween Pre Game \- Get Ready for the Party of the Year! \(Halloween Party Mix\)](https://open.spotify.com/album/2jFAFh8rHf6bBCTR6trTXB) | 1:24 |
+| 106 | [The Simpsons \- Halloween Special Theme \(Instrumental Mix\)](https://open.spotify.com/track/1cOvOe6N00MmFTst5j2Eny) | [The Evolved](https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt) | [Halloween Pre Game \- Get Ready for the Party of the Year!](https://open.spotify.com/album/2jFAFh8rHf6bBCTR6trTXB) | 1:24 |
 | 107 | [Purple People Eater](https://open.spotify.com/track/4qfZboSJ2RvQ1L1f1FmV2q) | [Kids Beat](https://open.spotify.com/artist/1tZqDZy9Alk30gH9hHbBUe) | [10 Best Halloween Songs 4 Kids](https://open.spotify.com/album/7bo6w5NffPhxBu5sSHVSLB) | 2:14 |
 | 108 | [Chocolate](https://open.spotify.com/track/2Ur5ADNf6q89b3HsEiE9LU) | [Mil's Trills](https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj), [Amelia Robinson](https://open.spotify.com/artist/4OqIoFW3JcA73jTeS8bMVK) | [Everyone Together Now!](https://open.spotify.com/album/15zXp1K6Q2RlZxBhuBC9sK) | 3:38 |
 | 109 | [Monster Boogie](https://open.spotify.com/track/77gQppy2SLAQGqMB1LTXX9) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [The Best Of The Laurie Berkner Band](https://open.spotify.com/album/4XbuNhXriszF4L1V4mYBfV) | 1:19 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 129 | [Casper The Friendly Ghost](https://open.spotify.com/track/19GKm4dDOz44DRH3OycKJk) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Bestest Kids Halloween Songs Ever](https://open.spotify.com/album/1xkWTua1mHxl3ZDP5E6VCm) | 1:22 |
 | 130 | [Witch Doctor](https://open.spotify.com/track/2Eyv5QwBHpWIJFOzIXKnm0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 2:25 |
 
-Snapshot ID: `MCwwZTliYjM1ODQ3MjU2MzE0OTcxODdjYWU3ZmZjMjc0OWM4Njg5MjJi`
+Snapshot ID: `MCw2MGE3YzE0MWM0OWE5ZDU2YTc4OGU1YTE4MTk5N2ZiNTNiZTI1Y2Vj`

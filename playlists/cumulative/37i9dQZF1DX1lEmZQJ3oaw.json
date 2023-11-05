@@ -724,10 +724,28 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 219022,
       "name": "Old School Girl",
       "url": "https://open.spotify.com/track/1lpuzTi4BcTejXCPoX5iIs"
+    },
+    {
+      "album": {
+        "name": "Tanu Weds Manu Returns (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0hBLzo3vvwzodZFLpWALwC"
+      },
+      "artists": [
+        {
+          "name": "Anmol Malik",
+          "url": "https://open.spotify.com/artist/1NuyYLdcAzg9EmaLxMkKZE"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219022,
+      "name": "Old School Girl",
+      "url": "https://open.spotify.com/track/2bE2CtLUq11nzKmjlfKNNW"
     },
     {
       "album": {

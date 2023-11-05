@@ -786,6 +786,24 @@
     {
       "album": {
         "name": "Fly Life Xtra",
+        "url": "https://open.spotify.com/album/1tk1YlhcVEp7Dms7bakfyU"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 559306,
+      "name": "Fly Life Xtra",
+      "url": "https://open.spotify.com/track/1Udv3FO6un09qd9Tn9VCat"
+    },
+    {
+      "album": {
+        "name": "Fly Life Xtra",
         "url": "https://open.spotify.com/album/5UDpaxBq7aNAzCH6VKnJMf"
       },
       "artists": [
@@ -796,7 +814,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 559306,
       "name": "Fly Life Xtra",
       "url": "https://open.spotify.com/track/7bxfgaNE1SbkLvzWr0S9Ku"

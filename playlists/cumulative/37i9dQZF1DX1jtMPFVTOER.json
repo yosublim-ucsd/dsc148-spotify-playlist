@@ -3287,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "Black Acid Soul (Deluxe)",
+        "url": "https://open.spotify.com/album/41KI9nUWYRQDxXfgfbX5Zz"
+      },
+      "artists": [
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205685,
+      "name": "Feel It Comin (Single Version)",
+      "url": "https://open.spotify.com/track/0i5zc1yASsbEXUXFsqvgGY"
+    },
+    {
+      "album": {
         "name": "Feel It Comin",
         "url": "https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h"
       },
@@ -3298,7 +3316,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 205685,
       "name": "Feel It Comin - Single Version",
       "url": "https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF"

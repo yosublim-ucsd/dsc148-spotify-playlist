@@ -1,12 +1,12 @@
 {
   "description": "HIPHOP 50!",
-  "num_followers": 320183,
+  "num_followers": 320269,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmQzYTM1NmZiNjA4ZmU4YjhlMDNmNjU4MjVkYWUzYjQ1NTUwY2Nj",
+  "snapshot_id": "MCxkYmRmMDA0ODZlY2VlZjg2MGUxZTQxYmRiODc1NDA2ZDE4ZjZmZmNk",
   "tracks": [
     {
       "added_at": "2023-11-02 23:00:00",
@@ -87,6 +87,22 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
+        "name": "\u00d6verallt",
+        "url": "https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 125092,
+      "name": "\u00d6verallt",
+      "url": "https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
       },
@@ -150,6 +166,10 @@
         {
           "name": "Dani M",
           "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Le Winter",
+          "url": "https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR"
         }
       ],
       "duration_ms": 152932,
@@ -227,22 +247,6 @@
       "duration_ms": 158830,
       "name": "Action (feat. Guleed)",
       "url": "https://open.spotify.com/track/5beUxQ0Hjyx3xUEzQpnKDY"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
-        "name": "\u00d6verallt",
-        "url": "https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 125092,
-      "name": "\u00d6verallt",
-      "url": "https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -364,7 +368,7 @@
       "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Bonne Chance",
-        "url": "https://open.spotify.com/album/0e722PKl6zvtleNzfm6PEE"
+        "url": "https://open.spotify.com/album/2XC5BN8Lhj2ktqAzAtBLZD"
       },
       "artists": [
         {
@@ -378,7 +382,7 @@
       ],
       "duration_ms": 130000,
       "name": "Bonne Chance",
-      "url": "https://open.spotify.com/track/0IFraQZiyPk6bMgU6rD6MD"
+      "url": "https://open.spotify.com/track/1VZnlucoeEU0164116nw27"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -940,7 +944,7 @@
       "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "Millions",
-        "url": "https://open.spotify.com/album/3Xdn3e64AD2PB90zCsA7i0"
+        "url": "https://open.spotify.com/album/3MAwZL5tB0PKU5DDcB0Ic4"
       },
       "artists": [
         {
@@ -954,7 +958,7 @@
       ],
       "duration_ms": 121263,
       "name": "Millions",
-      "url": "https://open.spotify.com/track/6Mel5VQ8UQXDT4aetZvzWg"
+      "url": "https://open.spotify.com/track/2h5GOVxIHF4jJCvIGa8xIq"
     },
     {
       "added_at": "2023-11-02 23:00:00",

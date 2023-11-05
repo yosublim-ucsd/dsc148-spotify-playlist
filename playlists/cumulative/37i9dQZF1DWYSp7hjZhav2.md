@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-144 songs - 13 hr 12 min
+146 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Bloom](https://open.spotify.com/track/5DpUcOaS5yCkQ424XumkwX) | [James Harcourt](https://open.spotify.com/artist/0vClj7nDFd3J6mRKNmdZ0O) | [Siamese Anthology V \(Part 4/4\)](https://open.spotify.com/album/4GIdTRKiMGRATYQ2uJ9Imy) | 7:43 | 2023-03-23 |  |
 | [Blue Violet](https://open.spotify.com/track/1vFamdetUBxidfNQmOd2vk) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Portrait with Firewood](https://open.spotify.com/album/3ngcrybWz1fUixAjS1ggl3) | 8:40 | 2023-02-15 |  |
 | [Carte Blanche \- Alternative Dub Version](https://open.spotify.com/track/47EQgnnkKHkLh6igAw5bmD) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Carte Blanche](https://open.spotify.com/album/2OC1mqKWM8vMUAe8rZpQCU) | 5:03 | 2022-10-05 | 2023-08-01 |
-| [Charly Charly](https://open.spotify.com/track/4t8qKTT7CW4DguACF8x6YW) | [Citizen Kain](https://open.spotify.com/artist/4WRWFxbK0DKYIpHcScsnAE) | [Ellum Sampler Volume 2](https://open.spotify.com/album/2OmhjTixPTCtdlVMCuQB2c) | 7:22 | 2022-10-05 |  |
+| [Charly Charly](https://open.spotify.com/track/3A6COoIblAtsAdwXsoEvco) | [Citizen Kain](https://open.spotify.com/artist/4WRWFxbK0DKYIpHcScsnAE) | [Ellum Sampler Vol\. 2](https://open.spotify.com/album/5eQEzjAAgRDbXdKpxyUWuj) | 7:22 | 2023-08-31 |  |
+| [Charly Charly](https://open.spotify.com/track/4t8qKTT7CW4DguACF8x6YW) | [Citizen Kain](https://open.spotify.com/artist/4WRWFxbK0DKYIpHcScsnAE) | [Ellum Sampler Volume 2](https://open.spotify.com/album/2OmhjTixPTCtdlVMCuQB2c) | 7:22 | 2022-10-05 | 2023-11-05 |
 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-10-05 | 2022-11-26 |
 | [Cherry](https://open.spotify.com/track/7qdthSAP02SdvLGisBEVtI) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 5:55 | 2022-11-07 | 2023-08-01 |
 | [Chordial](https://open.spotify.com/track/44OT4QbPqu2ZLXVkVSW6VG) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:42 | 2023-08-14 |  |
@@ -68,7 +69,8 @@
 | [Galactic Highways](https://open.spotify.com/track/6k3EWtjkh3aAGVodMgk8fv) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Galactic Highways](https://open.spotify.com/album/59XJByKOEnmxePXKvKfTmY) | 5:57 | 2023-06-08 | 2023-08-01 |
 | [Gamma](https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Gamma](https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C) | 6:21 | 2022-10-05 |  |
 | [Ghosts Again \- Massano Remix](https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Ghosts Again \(Remixes\)](https://open.spotify.com/album/24fKIcwvP22B7F4q96jL12) | 6:42 | 2023-07-31 |  |
-| [Glow](https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G) | 3:13 | 2023-06-08 |  |
+| [Glow](https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G) | 3:13 | 2023-06-08 | 2023-11-05 |
+| [Glow](https://open.spotify.com/track/5SgJkK2j7HQXUAFl1wJ9HW) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/5EJiHGODG0BccM8YHsDTH1) | 3:13 | 2023-08-31 |  |
 | [Great Southern Land](https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6) | 4:15 | 2023-06-08 | 2023-08-12 |
 | [Great Southern Land](https://open.spotify.com/track/3kvZ95Je92gWoXF1E9aFQM) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/0BysOODMvw4P7nfZgLoNde) | 4:15 | 2023-07-31 |  |
 | [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 | 2022-10-05 |  |

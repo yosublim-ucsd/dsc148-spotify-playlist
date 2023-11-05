@@ -712,10 +712,28 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 3246640,
       "name": "Mahamrutyunjay Mantra 108 Times",
       "url": "https://open.spotify.com/track/0XQmuCw3Etp4fbK6Q30uSp"
+    },
+    {
+      "album": {
+        "name": "Mahamrutyunjay Mantra 108 Times",
+        "url": "https://open.spotify.com/album/1KQEkqGKhoTwlwFFIUk8BQ"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3246640,
+      "name": "Mahamrutyunjay Mantra 108 Times",
+      "url": "https://open.spotify.com/track/3CWsh93PVnrrjJrJMEmyfY"
     },
     {
       "album": {
@@ -774,6 +792,24 @@
     {
       "album": {
         "name": "Mool Mantra",
+        "url": "https://open.spotify.com/album/2b43h4vZZCweigNYEXgMyH"
+      },
+      "artists": [
+        {
+          "name": "Ananya Bhowmick",
+          "url": "https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465572,
+      "name": "Mool Mantra",
+      "url": "https://open.spotify.com/track/1EclpRACeW8C4kfNQMth8M"
+    },
+    {
+      "album": {
+        "name": "Mool Mantra",
         "url": "https://open.spotify.com/album/68mN6PReyeJfWydMrMSOBl"
       },
       "artists": [
@@ -820,7 +856,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 465572,
       "name": "Mool Mantra",
       "url": "https://open.spotify.com/track/79n8AuJG3hP5DFCQTiB78h"

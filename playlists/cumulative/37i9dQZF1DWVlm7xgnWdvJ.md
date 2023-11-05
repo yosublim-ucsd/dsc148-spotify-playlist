@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-125 songs - 11 hr 43 min
+126 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Like It Is](https://open.spotify.com/track/2hFjxLPeeBZrvLb302MKLj) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Disco Volante EP](https://open.spotify.com/album/3F98dsHSClqD3929v1B6S2) | 5:55 | 2022-12-20 |  |
 | [Love Ain't Over \- Club Edit](https://open.spotify.com/track/1QYkx8JV0E6eEXoD1q49dD) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Love Ain't Over](https://open.spotify.com/album/51oTex9Ozpd3DfpUhymt9w) | 5:38 | 2022-12-20 |  |
 | [Love Love Love \- Soft rocks remix](https://open.spotify.com/track/7LAbTarTvsS21Q0aKNchuq) | [Low Motion Disco](https://open.spotify.com/artist/0jSIcdNjvPBgxYy7r9LCOw), [Soft Rocks](https://open.spotify.com/artist/29Ord7DT8GltikFWvOytTa) | [Love Love Love](https://open.spotify.com/album/18Na0ZWzx7nIErz2rhjOwO) | 6:50 | 2023-05-02 | 2023-06-09 |
-| [Lovefool](https://open.spotify.com/track/1UjbMmN5yti1uyZQCuhaBI) | [Juan Yarin](https://open.spotify.com/artist/0cPgP2pYS8lmkzxiJc0hO7) | [Lovefool](https://open.spotify.com/album/0DeLusvmxOjBZqBjSU15yN) | 6:57 | 2023-03-15 |  |
+| [Lovefool](https://open.spotify.com/track/1UjbMmN5yti1uyZQCuhaBI) | [Juan Yarin](https://open.spotify.com/artist/0cPgP2pYS8lmkzxiJc0hO7) | [Lovefool](https://open.spotify.com/album/0DeLusvmxOjBZqBjSU15yN) | 6:57 | 2023-03-15 | 2023-11-05 |
+| [Lovefool](https://open.spotify.com/track/1ccSaqv3pRFBGsrjM2l1pe) | [Juan Yarin](https://open.spotify.com/artist/0cPgP2pYS8lmkzxiJc0hO7) | [Lovefool](https://open.spotify.com/album/3x42Or4zo3r7B7geCDfOXZ) | 6:57 | 2023-10-06 |  |
 | [Manicumbi](https://open.spotify.com/track/4krFTTwq6VAFDZ3P419E8f) | [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Vuelo Nocturno](https://open.spotify.com/album/256r81ENnMGjkDukVfuEUP) | 6:44 | 2022-12-20 |  |
 | [Matrix \- Sofia Kourtesis Remix](https://open.spotify.com/track/5hjiRNGMYjihPgvNl12W0A) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Matrix \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/3GWAJo3AAQVbQjaBVgEVcn) | 6:44 | 2022-12-20 |  |
 | [Merchants \- Sofia Kourtesis Remix](https://open.spotify.com/track/520mMFaIht3gpQTDKFWV9q) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Merchants \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/33RTfD7VivJU7thDW1w9qj) | 4:40 | 2023-04-11 | 2023-09-09 |

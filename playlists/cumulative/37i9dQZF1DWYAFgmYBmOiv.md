@@ -4,7 +4,7 @@
 
 > pov: the playlist to the bat mitzvah you were so NOT invited to, curated by Sammi Cohen.
 
-179 songs - 10 hr 55 min
+180 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [This Year](https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:52 | 2023-08-29 |  |
 | [TOY](https://open.spotify.com/track/63ZGMALO7SgWZD7UoYpZaJ) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [TOY](https://open.spotify.com/album/7iBjDjhBf5eijDWqIQkoSU) | 3:50 | 2023-08-29 |  |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2023-08-29 |  |
-| [Valley of the Dolls](https://open.spotify.com/track/5gmRgeec1UtQJ9MYxVhDxC) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [I Don't Want: The Gold Fire Sessions](https://open.spotify.com/album/4GbH15Qw21Mwgj5YHyuAu8) | 4:16 | 2023-08-29 |  |
+| [Valley of the Dolls](https://open.spotify.com/track/5gmRgeec1UtQJ9MYxVhDxC) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [I Don't Want: The Gold Fire Sessions](https://open.spotify.com/album/4GbH15Qw21Mwgj5YHyuAu8) | 4:16 | 2023-08-29 | 2023-11-05 |
+| [Valley of the Dolls](https://open.spotify.com/track/5sdrGdT7bxgfLMEoNf8XNj) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [I Don't Want: The Gold Fire Sessions](https://open.spotify.com/album/0YT5IhLx3P3sOrozDYIvwG) | 4:16 | 2023-09-01 |  |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-01 |  |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-08-29 | 2023-09-11 |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2023-08-29 |  |

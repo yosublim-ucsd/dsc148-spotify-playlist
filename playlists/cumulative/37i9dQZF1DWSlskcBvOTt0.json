@@ -483,6 +483,28 @@
     },
     {
       "album": {
+        "name": "Amandla",
+        "url": "https://open.spotify.com/album/4KUQbiQ4UUjm5lcN0pX2Ah"
+      },
+      "artists": [
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370862,
+      "name": "Amandla",
+      "url": "https://open.spotify.com/track/16nstjbrIeh0HA4MkiOvqY"
+    },
+    {
+      "album": {
         "name": "Amanecer",
         "url": "https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP"
       },
@@ -926,7 +948,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 230082,
       "name": "Bad Love - Antdot & Maz Remix",
       "url": "https://open.spotify.com/track/1OzMejgdMtjfTdlS5iQHud"
@@ -1988,7 +2010,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 435653,
       "name": "Colorblind - WhoMadeWho Remix",
       "url": "https://open.spotify.com/track/1dZybfK5AztMba3tqDvT7O"
@@ -2382,7 +2404,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Desert Walk",
       "url": "https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY"
@@ -3815,6 +3837,28 @@
     },
     {
       "album": {
+        "name": "Gorah",
+        "url": "https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Gorah",
+      "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
+    },
+    {
+      "album": {
         "name": "Madres",
         "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
       },
@@ -4098,7 +4142,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 259672,
       "name": "Horizon Red",
       "url": "https://open.spotify.com/track/0PgOKL49AVmYzcdPCwpwng"
@@ -7726,7 +7770,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 469596,
       "name": "Power",
       "url": "https://open.spotify.com/track/2fHtXQkRN2Mwp6nFTSxH9q"
@@ -8792,7 +8836,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 223604,
       "name": "Somebody - Edit",
       "url": "https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3"

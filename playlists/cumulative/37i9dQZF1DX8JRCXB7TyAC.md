@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-68 songs - 3 hr 24 min
+69 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Banda 2 Numbri](https://open.spotify.com/track/0U1QaF0SEwqSugoqMrOu1k) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB), [R K Crew](https://open.spotify.com/artist/6QQcSyntyILnDWvSZmnoVT) | [Banda 2 Numbri](https://open.spotify.com/album/7dkaPHQKE9BrttpGDcGkQr) | 2:49 | 2023-07-24 |  |
 | [Binde](https://open.spotify.com/track/3dduicyXRRc56JhQyWvNPj) | [Sapna Choudhary](https://open.spotify.com/artist/5WYVZzKOZMUn4pNY9gy2BM), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Binde](https://open.spotify.com/album/3GLVHpysgsLtisASRLPmWt) | 2:19 | 2023-07-24 | 2023-08-31 |
 | [Chora Baba Ka](https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Chora Baba Ka](https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS) | 2:55 | 2023-10-20 |  |
-| [Chora Gaam Ka](https://open.spotify.com/track/0yeDyNCGJvISdOsjox9Gnr) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY) | [Chora Gaam Ka](https://open.spotify.com/album/5xThnynFtoQBLacgNGXYrS) | 3:51 | 2023-07-24 |  |
+| [Chora Gaam Ka](https://open.spotify.com/track/0yeDyNCGJvISdOsjox9Gnr) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY) | [Chora Gaam Ka](https://open.spotify.com/album/5xThnynFtoQBLacgNGXYrS) | 3:51 | 2023-07-24 | 2023-11-05 |
+| [Chora Gaam Ka](https://open.spotify.com/track/0zcGWOUvePGVGRjxQ0FC7h) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY) | [Chora Gaam Ka](https://open.spotify.com/album/6V3Qpx4kXCSnTnm4X47xrR) | 3:51 | 2023-10-20 |  |
 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 | 2023-10-09 |  |
 | [Convoy](https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Convoy](https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg) | 4:35 | 2023-10-20 |  |
 | [Declare](https://open.spotify.com/track/3wiHYkijyJp1yqq4qIAQ6I) | [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf), [Komal Choudhary](https://open.spotify.com/artist/42TuhqUBzIpywk1h4QlUyT), [Biru Kataria,Fiza Choudhary](https://open.spotify.com/artist/5LS1kuFh0mMZLe7t7n75wH) | [Declare](https://open.spotify.com/album/3qIl0JOhAkbLNjoAq9qWew) | 3:17 | 2023-07-24 |  |

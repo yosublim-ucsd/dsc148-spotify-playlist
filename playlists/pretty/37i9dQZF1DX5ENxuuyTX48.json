@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Paul Partohap, Arthur Miguel, D Gerrard, Nathan Hartono, Rizal Rasid\n",
-  "num_followers": 16871,
+  "num_followers": 16893,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGI3Mjg5MDAzODk0ODJhYjZlZTJiZGRhNjY1MzdkYzM2YmMyY2Ex",
+  "snapshot_id": "MCw3YWY1NjM4OThlMDlmMGFmOGM2ZGNkMDdmMTEyZGIxYzM2MzViOTdl",
   "tracks": [
     {
       "added_at": "2023-11-02 17:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-11-02 17:00:00",
       "album": {
-        "name": "terima kasih",
-        "url": "https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20"
-      },
-      "artists": [
-        {
-          "name": "Hal",
-          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "terima kasih",
-      "url": "https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu"
-    },
-    {
-      "added_at": "2023-11-02 17:00:00",
-      "album": {
         "name": "Tutur Batin",
         "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2023-11-02 17:00:00",
       "album": {
+        "name": "Senja Teduh Pelita",
+        "url": "https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 270640,
+      "name": "Senja Teduh Pelita",
+      "url": "https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs"
+    },
+    {
+      "added_at": "2023-11-02 17:00:00",
+      "album": {
         "name": "Manusia",
         "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 210801,
       "name": "Ada",
       "url": "https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK"
-    },
-    {
-      "added_at": "2023-11-02 17:00:00",
-      "album": {
-        "name": "Senja Teduh Pelita",
-        "url": "https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 270640,
-      "name": "Senja Teduh Pelita",
-      "url": "https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs"
     },
     {
       "added_at": "2023-11-02 17:00:00",
@@ -871,6 +855,22 @@
       "duration_ms": 246225,
       "name": "Malampagi",
       "url": "https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy"
+    },
+    {
+      "added_at": "2023-11-02 17:00:00",
+      "album": {
+        "name": "Confession No.1",
+        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 251454,
+      "name": "Terima Kasih Cinta",
+      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
     }
   ],
   "unique_name": "OTW ",

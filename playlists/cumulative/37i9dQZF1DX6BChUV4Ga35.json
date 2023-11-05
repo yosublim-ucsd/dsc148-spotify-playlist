@@ -124,10 +124,28 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 73363,
       "name": "Alice the Camel",
       "url": "https://open.spotify.com/track/2dk2vm31RI9Z8VB2xfZagV"
+    },
+    {
+      "album": {
+        "name": "Animal Songs",
+        "url": "https://open.spotify.com/album/4i4P9o5YtTM7ziiTBpHaW9"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73363,
+      "name": "Alice the Camel",
+      "url": "https://open.spotify.com/track/6N1hxicCMjYE4hUP7UETLz"
     },
     {
       "album": {
@@ -1179,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Baby's Best: Toddler Tunes",
+        "url": "https://open.spotify.com/album/2so9C6ZdIDdwRlFRAZOOfe"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73346,
+      "name": "How Much Is That Doggie in the Window?",
+      "url": "https://open.spotify.com/track/1aY4mQnVzo2xNLi2RhNDM5"
+    },
+    {
+      "album": {
         "name": "100 All Time Children's Favorites",
         "url": "https://open.spotify.com/album/6WmugKz96O3UFtIgvZxUPw"
       },
@@ -1190,7 +1226,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 73346,
       "name": "How Much Is That Doggie in the Window?",
       "url": "https://open.spotify.com/track/5HpBSqnroZ84DuSt6rDb9L"

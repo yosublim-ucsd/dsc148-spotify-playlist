@@ -30962,10 +30962,32 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 257931,
       "name": "Never Let U Go",
       "url": "https://open.spotify.com/track/2hn2sYUCSBY4wvaFJenitf"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/3Ur4LEdLptOm4Z3S2OBcVW"
+      },
+      "artists": [
+        {
+          "name": "Revo Marty",
+          "url": "https://open.spotify.com/artist/0j2PjDgskS5HrDs3qFaJkT"
+        },
+        {
+          "name": "Alya Zurayya",
+          "url": "https://open.spotify.com/artist/3CPz3uIo3kPeMbMaSdGdzm"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257931,
+      "name": "Never Let U Go",
+      "url": "https://open.spotify.com/track/7JhaI9PyUKIJChzRpM3btt"
     },
     {
       "album": {
@@ -32416,6 +32438,24 @@
       "duration_ms": 148500,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/31PyTaXDdERSCHBM9ljnFo"
+    },
+    {
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/4BZJm1RSsA7F9ltztRlGJz"
+      },
+      "artists": [
+        {
+          "name": "Darlene Lesmana",
+          "url": "https://open.spotify.com/artist/0Y5J3KeS6eeONGh4PcfM7z"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153301,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/5sqEPsgV9fxymwoXfpYtF3"
     },
     {
       "album": {

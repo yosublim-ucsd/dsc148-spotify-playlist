@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-429 songs - 1 day 5 hr 46 min
+430 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [L'etoile](https://open.spotify.com/track/7IvdJ01TBvQHtD5inw52lG) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Du Nord](https://open.spotify.com/album/50MjjfEEI1EayrtiSIYf3y) | 3:59 | 2020-11-20 | 2022-07-28 |
 | [Labyrinthine](https://open.spotify.com/track/78crZjUoVtj9ebTpsWuquw) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/1rMSF8WzsF016bhkREx45l) | 4:32 | 2021-02-06 | 2021-02-12 |
 | [Ladies and Gentlemen, Boys and Girls](https://open.spotify.com/track/05evDaMKv7HFTh5pCgQOQ1) | [Georg Holm](https://open.spotify.com/artist/4OU61rumTw5SE0j6mSbxI9), [Orri Páll Dýrason](https://open.spotify.com/artist/36klGB7wO2STxR7BVKS0z9), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo) | [Circe \(Music Composed for "The Show of Shows"\)](https://open.spotify.com/album/3IukcW0m2lrgz9dV49pxZA) | 8:05 | 2020-12-04 | 2020-12-11 |
+| [Late](https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6) | 3:18 | 2023-10-20 |  |
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2022-07-22 | 2023-11-03 |
 | [Late](https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Late](https://open.spotify.com/album/5t53hTakFJn6VnwBQnfd5f) | 3:18 | 2021-11-28 | 2022-07-29 |
 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Le Jardin de Monsieur Monet](https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI) | 5:13 | 2021-08-28 |  |
@@ -422,7 +423,7 @@
 | [What Gently Flutters](https://open.spotify.com/track/7z8IVlpwHziC0bFq4gZMxT) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Bryan Senti](https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR) | [What Gently Flutters](https://open.spotify.com/album/3iMEn4oNhkAj70YRaJGMWJ) | 2:08 | 2021-10-19 | 2023-01-11 |
 | [Where Do We Go from Here](https://open.spotify.com/track/1X0X6BC5drvd3cnh3bCrXf) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go from Here](https://open.spotify.com/album/3ZUvUjlINbO7bm2i7hwPUZ) | 2:25 | 2021-01-17 | 2022-07-07 |
 | [Where Do We Go from Here](https://open.spotify.com/track/3aht08JlnWhD5A0MpIfU0T) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go from Here](https://open.spotify.com/album/54bf3kCXzdccCdrWnjV9cS) | 2:25 | 2022-07-22 | 2022-07-30 |
-| [Where Do We Go From Here](https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go From Here](https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU) | 2:25 | 2023-03-24 |  |
+| [Where Do We Go From Here](https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go From Here](https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU) | 2:25 | 2023-03-24 | 2023-11-05 |
 | [Whispering House](https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:52 | 2023-10-06 |  |
 | [Whispers](https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq), [Jake Lowe](https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n) | [Whispers](https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS) | 2:50 | 2020-10-30 |  |
 | [Wholeness and the Implicate Order](https://open.spotify.com/track/3JuFH3tVsj4n8tI1vuGwRK) | [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ) | [Wholeness and the Implicate Order](https://open.spotify.com/album/7L7Xxd7GQZrtHgt7hNFp5d) | 5:46 | 2020-10-21 | 2022-07-16 |

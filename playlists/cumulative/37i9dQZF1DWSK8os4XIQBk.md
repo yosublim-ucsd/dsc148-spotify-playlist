@@ -4,7 +4,7 @@
 
 > Nothing but the best in modern country music\. Cover: Owen Riegling
 
-583 songs - 1 day 7 hr 32 min
+584 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [For What It’s Worth \(feat\. Alana Springsteen\)](https://open.spotify.com/track/5b4n4Lp2ZAPDGO9nQM5IHR) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [For What It’s Worth \(feat\. Alana Springsteen\)](https://open.spotify.com/album/1pr7LMNaajjMMWnGjU9pM9) | 2:56 | 2023-02-17 | 2023-03-11 |
 | [Found It In You](https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It In You](https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI) | 3:03 | 2022-06-17 | 2022-09-17 |
 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 | 2021-12-31 | 2022-03-12 |
-| [Friends Like That](https://open.spotify.com/track/0ps3Ti2Q1gHbW2l6xW8EXG) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Man of Few Words](https://open.spotify.com/album/0DSD4h4QySpKW9ysyxx8be) | 3:06 | 2023-07-21 |  |
+| [Friends Like That](https://open.spotify.com/track/0ps3Ti2Q1gHbW2l6xW8EXG) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Man of Few Words](https://open.spotify.com/album/0DSD4h4QySpKW9ysyxx8be) | 3:06 | 2023-07-21 | 2023-11-05 |
+| [Friends Like That](https://open.spotify.com/track/0s8XDcxja9874FZvKo4IGO) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Friends Like That](https://open.spotify.com/album/1jktyxNVwYBwiARCZCsXBA) | 3:06 | 2023-11-03 |  |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-11 | 2022-05-07 |
 | [Get Rich Or Drunk Trying](https://open.spotify.com/track/1cwPxz4iIWoqWrdtmy7CUv) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Stray Dog](https://open.spotify.com/album/1S4RLMaMM74SVgNYaBP5d2) | 5:20 | 2023-05-05 | 2023-05-13 |
 | [Get to Gettin’ Gone](https://open.spotify.com/track/0Zp0Q7p94hUim8q07dXeN1) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Get to Gettin’ Gone](https://open.spotify.com/album/3b13DQUYaS5PvsM58BYv6Q) | 3:02 | 2022-12-23 | 2023-03-18 |

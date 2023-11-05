@@ -4,7 +4,7 @@
 
 > Where Bollywood meets the hood\. Cover: Badshah
 
-52 songs - 1 hr 51 min
+53 songs - 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Let's Nacho](https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:35 | 2023-02-15 |  |
 | [Nyaay Yuddh Dharm Yuddh](https://open.spotify.com/track/2OlLzyE9YtysMoOjA8KkHK) | [Nishant Singh](https://open.spotify.com/artist/07Pnq6qTXLN3hG449JAstv), [Jay Rajesh Arya](https://open.spotify.com/artist/6ylnONsh24bLFXi3HZA2Pr) | [Nyaay Yuddh Dharm Yuddh](https://open.spotify.com/album/1HAIYajWGoWi2syh7owPqg) | 2:22 | 2023-02-15 |  |
 | [Paagal](https://open.spotify.com/track/4gyPGtExOjj1rsByKW33LR) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Paagal](https://open.spotify.com/album/0Qn1webMNo0WuEMjRdcrhW) | 2:49 | 2023-02-15 |  |
-| [Paintra](https://open.spotify.com/track/3FbwHPeM5myHMTvOTi6ipl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Paintra \(From "Mukkabaaz"\) \- Single](https://open.spotify.com/album/5u6calkleLhJulsH9dEgZi) | 3:52 | 2023-02-15 |  |
+| [Paintra](https://open.spotify.com/track/3FbwHPeM5myHMTvOTi6ipl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Paintra \(From "Mukkabaaz"\) \- Single](https://open.spotify.com/album/5u6calkleLhJulsH9dEgZi) | 3:52 | 2023-02-15 | 2023-11-05 |
+| [Paintra](https://open.spotify.com/track/6OM09izdwxopg5S8lcnkM8) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Mukkabaaz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/295RTt8NECk6ze32H7m8wi) | 3:52 | 2023-10-26 |  |
 | [Paisa Hai Toh](https://open.spotify.com/track/5kwldaZvtbiTmRYsmlyxAN) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op) | [Farzi \(Original Series Soundtrack\)](https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz) | 3:08 | 2023-02-15 |  |
 | [Phire Faqeera](https://open.spotify.com/track/2CwpgIBBCxe4xkba5LhsYo) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Amrita Singh](https://open.spotify.com/artist/5ZVycSnntFQRyXFpO6TdsU), [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3k1WMGUrn1raJVWoGrNPww) | 5:41 | 2023-02-15 | 2023-07-22 |
 | [Phire Faqeera](https://open.spotify.com/track/7i5VhhLnimERnq9i7FM86Y) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Amrita Singh](https://open.spotify.com/artist/5ZVycSnntFQRyXFpO6TdsU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neelesh Mishra](https://open.spotify.com/artist/4kasDFSEK3OypP6vspQxjS) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BnRf8fttKY98wU5XTU6xN) | 5:41 | 2023-07-10 |  |

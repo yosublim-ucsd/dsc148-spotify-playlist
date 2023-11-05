@@ -4,7 +4,7 @@
 
 > Reggae music for dogs that know what’s up.
 
-95 songs - 5 hr 53 min
+96 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Carnival Horns](https://open.spotify.com/track/6QkMomU6O9OQ0ZXtY4kAz7) | [Mista Savona](https://open.spotify.com/artist/4Y6SrIz24cWZIWuG28CVgz) | [Havana Meets Kingston](https://open.spotify.com/album/528X0ChTANFhSOJWXOLHsy) | 4:22 | 2020-01-10 | 2022-07-29 |
 | [Carnival Horns \(feat\. Julito Padron\)](https://open.spotify.com/track/6aQRHBPZdATF3ZDjAU1YV5) | [Mista Savona](https://open.spotify.com/artist/4Y6SrIz24cWZIWuG28CVgz), [Julito Padron](https://open.spotify.com/artist/7L4eF2PXCx5vYalJ0wj574) | [Havana Meets Kingston](https://open.spotify.com/album/0icwh2eJpzUu9HiTHF4MzL) | 4:16 | 2020-01-10 |  |
 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 | 2020-01-10 |  |
-| [Everything I Own \- 7" Mix](https://open.spotify.com/track/6om52tevyqVMvl1mWTtKPM) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own](https://open.spotify.com/album/510G90X1Ckki9sTPdwwYDW) | 3:44 | 2020-01-10 |  |
+| [Everything I Own \(7'' Mix\)](https://open.spotify.com/track/4PfDS6wcDp7YvikkmbySak) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own](https://open.spotify.com/album/1yQvIiS4aFxcPhzyN7Gw2W) | 3:44 | 2020-01-10 |  |
+| [Everything I Own \- 7" Mix](https://open.spotify.com/track/6om52tevyqVMvl1mWTtKPM) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own](https://open.spotify.com/album/510G90X1Ckki9sTPdwwYDW) | 3:44 | 2020-01-10 | 2023-11-05 |
 | [Faithful \- Dub](https://open.spotify.com/track/3LpLz6kX8UFRdPOCpkmiYo) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Kemar McGregor](https://open.spotify.com/artist/0G5z52KM4U0E3I7JruO9o5), [Stephan Warren](https://open.spotify.com/artist/0MBBDSlyevJqzNA1KdbakM) | [Dub Side Of Etana](https://open.spotify.com/album/7L9ugvoprZ9Om4AAlFKDcL) | 3:59 | 2020-01-10 |  |
 | [Hail H.I.M \- 2002 Remastered Version](https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Hail H.I.M](https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg) | 4:15 | 2020-01-10 |  |
 | [Hail H.I.M.](https://open.spotify.com/track/1pVbmMQzdUF1qPYE2ZyoDg) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Best Of The Fittest](https://open.spotify.com/album/2U1Mibfop24jnRldVdnkC6) | 4:15 | 2020-01-10 | 2022-07-29 |
@@ -31,7 +32,7 @@
 | [I'm Still in Love with You \(feat\. Sasha\)](https://open.spotify.com/track/5lJx5eiSahFfsqkMJVlkDN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY), [Jeremy Harding](https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0), [Murray Elias](https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL) | [Dutty Rock \(20th Anniversary\)](https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV) | 4:33 | 2020-01-10 |  |
 | [It Mek](https://open.spotify.com/track/6JqjhpgxgoCYSBQ4PzIEn9) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Intensified](https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy) | 2:32 | 2020-01-10 | 2023-11-04 |
 | [It Mek](https://open.spotify.com/track/4UjAUBivCvCFc5La3N4FS2) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:33 | 2020-01-10 | 2023-11-04 |
-| [It Mek](https://open.spotify.com/track/2o9wtsml8XrdS67t1Y0RuR) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Double Dekker \(Expanded Version\)](https://open.spotify.com/album/7tt21btxenzyLsiI17qivz) | 2:34 | 2020-01-10 |  |
+| [It Mek](https://open.spotify.com/track/2o9wtsml8XrdS67t1Y0RuR) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Double Dekker \(Expanded Version\)](https://open.spotify.com/album/7tt21btxenzyLsiI17qivz) | 2:34 | 2020-01-10 | 2023-11-05 |
 | [It Mek](https://open.spotify.com/track/2KLQHmIj0ncGRdnLbbqi9B) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:32 | 2020-01-10 |  |
 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/5LOO5nwxH6G2RnvwNRFaZT) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Je suis venu te dire que je m'en vais](https://open.spotify.com/album/3PqRvIcIg1jSNybXYKT0Nw) | 4:09 | 2020-01-10 | 2023-09-04 |
 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/6TninIEIlo0F2c2Vy73hcx) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Human Race](https://open.spotify.com/album/35qoT4g2wmXFzvKRrvhJ1Y) | 4:09 | 2020-01-10 |  |

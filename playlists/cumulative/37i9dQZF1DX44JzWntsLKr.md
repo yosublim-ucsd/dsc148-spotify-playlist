@@ -4,7 +4,7 @@
 
 > Every Monbebe's HERO.
 
-156 songs - 8 hr 28 min
+160 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,9 +34,11 @@
 | [Blind](https://open.spotify.com/track/26AqSoEgtHfqpWIwj7uuVk) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2 <GUILTY>](https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl) | 3:31 | 2021-12-09 |  |
 | [Blow Your Mind](https://open.spotify.com/track/0av3641PFyw7SS5rWbzYff) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 2:10 | 2021-12-09 | 2023-11-04 |
 | [Blow Your Mind](https://open.spotify.com/track/6SO6S7rEE1fMYRFYSw9xuW) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs) | 2:10 | 2023-06-21 |  |
-| [Breathe](https://open.spotify.com/track/0ovdVUlmpwFABG7D7xsUb8) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 2:22 | 2022-04-28 |  |
+| [Breathe](https://open.spotify.com/track/0ovdVUlmpwFABG7D7xsUb8) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 2:22 | 2022-04-28 | 2023-11-05 |
+| [Breathe](https://open.spotify.com/track/4QqozqxrWE5YIzbJUALuPw) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHAPE OF LOVE](https://open.spotify.com/album/7KncCixIi7xhPSYBHGMm3q) | 2:22 | 2023-06-21 |  |
 | [Breathe For You](https://open.spotify.com/track/03XXbMFb0v4Yb4u26oJELG) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Breathe For You](https://open.spotify.com/album/2P8qHjgJpt3OQhr0hcHJcx) | 3:33 | 2021-12-09 |  |
-| [Burning Up \(feat\. R3HAB\)](https://open.spotify.com/track/5fw5CY7DwCTw4Jef87yUNv) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 3:20 | 2022-04-28 |  |
+| [Burning Up \(feat\. R3HAB\)](https://open.spotify.com/track/0Rb6T3b7j7cYDmGP9oZbcL) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [SHAPE OF LOVE](https://open.spotify.com/album/7KncCixIi7xhPSYBHGMm3q) | 3:20 | 2023-06-21 |  |
+| [Burning Up \(feat\. R3HAB\)](https://open.spotify.com/track/5fw5CY7DwCTw4Jef87yUNv) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 3:20 | 2022-04-28 | 2023-11-05 |
 | [Calm Down](https://open.spotify.com/track/6rYoO4mP8czbTTyOz4BAzm) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHINE FOREVER](https://open.spotify.com/album/3rrZlvTQ6Bxvz7Kzxjkagj) | 3:06 | 2021-12-09 |  |
 | [Carry on](https://open.spotify.com/track/0QOLYRdOahFvQkWJkrm1eQ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Phenomenon](https://open.spotify.com/album/6APn2IbS6uJSVauXAQlQXk) | 3:39 | 2021-12-09 |  |
 | [Chaotic](https://open.spotify.com/track/4yGRanEl6SCBuUsmprGhZH) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:35 | 2021-12-09 |  |
@@ -87,7 +89,8 @@
 | [Love Killa](https://open.spotify.com/track/4hxNs73449mNhfLIvAC9zz) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:02 | 2021-12-09 |  |
 | [LOVE U](https://open.spotify.com/track/1RWlEElordcRjV8qNjgKxw) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 2:40 | 2021-12-09 |  |
 | [Magnetic](https://open.spotify.com/track/4ZtiN13yPgoDtQB8TkIrv1) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Magnetic](https://open.spotify.com/album/7p7sMoHzbLumNCUaW2mRIu) | 3:06 | 2021-12-09 |  |
-| [Mercy](https://open.spotify.com/track/3k9tiwbGNmznma8hCuLMhp) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:10 | 2021-12-09 |  |
+| [Mercy](https://open.spotify.com/track/0dKwCfn6KgQhUkx2EDmtcX) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/1LZMbVQYkhpgVixUv0q7cP) | 3:10 | 2023-06-21 |  |
+| [Mercy](https://open.spotify.com/track/3k9tiwbGNmznma8hCuLMhp) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:10 | 2021-12-09 | 2023-11-05 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/3wci4gJBHXHzpHyDHm0xj6) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 2:46 | 2021-12-09 |  |
 | [MISBEHAVE](https://open.spotify.com/track/7hemsIJRQ45qEFCrBUtabJ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 3:24 | 2021-12-09 |  |
 | [Miss You](https://open.spotify.com/track/3TYvJKmqwPmFvVONerbnlg) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:18 | 2021-12-09 |  |
@@ -101,7 +104,8 @@
 | [Now or Never](https://open.spotify.com/track/5trVbkxq7o5UtqHWVTu5ro) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CODE](https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ) | 3:11 | 2021-12-09 |  |
 | [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 | 2022-11-21 |  |
 | [Oi](https://open.spotify.com/track/0zwI1aFLA85Ux0wM9vZjjY) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:11 | 2021-12-09 |  |
-| [One Day](https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One Day](https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ) | 2:26 | 2021-12-09 |  |
+| [One Day](https://open.spotify.com/track/1EFp3r8qhj1MKmRaWEZOx6) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs) | 2:26 | 2023-06-21 |  |
+| [One Day](https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One Day](https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ) | 2:26 | 2021-12-09 | 2023-11-05 |
 | [Party Time](https://open.spotify.com/track/2t9tdvke67nevmj0sGMqF0) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:10 | 2021-12-09 |  |
 | [Perfect Girl](https://open.spotify.com/track/21ywLifMY5LlvVn1lbnLhT) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [RUSH DIGITAL REPACKAGE “HERO”](https://open.spotify.com/album/0rsnG5TJ9jv9XuLgri1E77) | 3:39 | 2021-12-09 |  |
 | [Play It Cool](https://open.spotify.com/track/0gxkqxGiLg1ylKzgToCcHY) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:06 | 2021-12-09 |  |

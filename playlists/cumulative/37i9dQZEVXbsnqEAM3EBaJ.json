@@ -676,7 +676,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 92564,
       "name": "Alabama Song - Live 1968",
       "url": "https://open.spotify.com/track/0xreRyss0BadDkBWX5mGRN"
@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 686000,
       "name": "Budapest - Live - Remastered 2023",
       "url": "https://open.spotify.com/track/0rjwoRP5XV7SMSj38sq1bR"
@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 160500,
       "name": "Call Your Name - Andromedik Remix",
       "url": "https://open.spotify.com/track/2ktvmX53byZmws2q2qMRiI"
@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 313440,
       "name": "Camino Rojo",
       "url": "https://open.spotify.com/track/2vSDWfYF4ZbJlAs9k4SGcE"
@@ -3162,7 +3162,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 375447,
       "name": "Code of Life - Live at the AFAS Live",
       "url": "https://open.spotify.com/track/3rYrPc3LSpgCsECFby8LVI"
@@ -5390,7 +5390,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 230256,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ"
@@ -5980,6 +5980,24 @@
       "duration_ms": 384706,
       "name": "Get Up, Stand Up - Live At The Sundown Theatre, Edmonton, UK / May 1973",
       "url": "https://open.spotify.com/track/1T9ixkQTfQ8H00O6Na0KxL"
+    },
+    {
+      "album": {
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/6eV4BZmfN0QvTmqBQlz73W"
+      },
+      "artists": [
+        {
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236626,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3SwBQzQu86QW9KH9XDv7z0"
     },
     {
       "album": {
@@ -7086,7 +7104,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 209610,
       "name": "Hojas de t\u00e9 - 2023",
       "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
@@ -8458,7 +8476,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 240756,
       "name": "Infinite Night Terror",
       "url": "https://open.spotify.com/track/1q3ktDemgD0vPUv4BEPHwJ"
@@ -8566,7 +8584,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 169533,
       "name": "Insatiable - BLVCK CROWZ Remix",
       "url": "https://open.spotify.com/track/1Az1YG8U4nuNuNLnfALqas"
@@ -8668,7 +8686,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 214000,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
@@ -10118,7 +10136,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 222226,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/01aD8yamjTucFoioAMzrFU"
@@ -10682,6 +10700,24 @@
       "duration_ms": 228333,
       "name": "Lwonesome Tonight",
       "url": "https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Medicina",
+        "url": "https://open.spotify.com/album/0nPqXBvJzhhaowJRXaArdD"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321793,
+      "name": "Madre Agua",
+      "url": "https://open.spotify.com/track/1Q6bxB00j7GZdm484jxovF"
     },
     {
       "album": {
@@ -11734,7 +11770,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 176529,
       "name": "Naughty Girl",
       "url": "https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD"
@@ -13302,7 +13338,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 312794,
       "name": "Poundcake - 2023 Remaster",
       "url": "https://open.spotify.com/track/6d1hDAXExukAggcf12nBj2"
@@ -16358,7 +16394,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 187236,
       "name": "Swan Lake Op. 20 Intermezzo (Piano arrangement by K. Kornienko)",
       "url": "https://open.spotify.com/track/0k6Fm91QhT7PxPlnWE8TsO"
@@ -16574,6 +16610,28 @@
       "duration_ms": 243435,
       "name": "Tania",
       "url": "https://open.spotify.com/track/4V20WzU9yI3Zrvbgkrcvmq"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Nutcracker - March & Waltz of the Flowers - slowed + reverb",
+        "url": "https://open.spotify.com/album/1GlPV5EVv3QDTIdOajoiED"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Classical Slowed + Reverb",
+          "url": "https://open.spotify.com/artist/5KXpXnDelYc8HLAAVbtIzk"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "Tchaikovsky: The Nutcracker - March - slowed + reverb",
+      "url": "https://open.spotify.com/track/1khcaMXCNlUovJIf2TMlP4"
     },
     {
       "album": {
@@ -17102,6 +17160,32 @@
       "duration_ms": 286167,
       "name": "The Last Remnant",
       "url": "https://open.spotify.com/track/4KPoIuoi3CGWeDcHv290mg"
+    },
+    {
+      "album": {
+        "name": "Geese Attack!!!",
+        "url": "https://open.spotify.com/album/4uTvZveUEtehdRDMfz1rzG"
+      },
+      "artists": [
+        {
+          "name": "The Seafloor Cinema",
+          "url": "https://open.spotify.com/artist/39a4hGdTS669oJBra6j9Ru"
+        },
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        },
+        {
+          "name": "Aaron Pauley",
+          "url": "https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283800,
+      "name": "The Lesson (.44 Magnum) [feat. Aaron Pauley]",
+      "url": "https://open.spotify.com/track/7cWcJnDpRdfVGgbg56Z0No"
     },
     {
       "album": {
@@ -18746,7 +18830,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 456485,
       "name": "Us and Them",
       "url": "https://open.spotify.com/track/0RZicklCcsEWF4jodu8QD2"
@@ -18830,7 +18914,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 173209,
       "name": "Velas Ciegas",
       "url": "https://open.spotify.com/track/6FXyXeis8xGewrxuAZd0Rc"
@@ -19360,7 +19444,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 275564,
       "name": "We Love You Moar (feat. Pussy Riot)",
       "url": "https://open.spotify.com/track/37pQPRmfsWA9HM7xMM6yXv"
@@ -19662,7 +19746,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 309400,
       "name": "When You're Gone - Paris Demo",
       "url": "https://open.spotify.com/track/1ZTMDYbT0BG43f07S5yrRR"
@@ -20346,7 +20430,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 178053,
       "name": "Your Move",
       "url": "https://open.spotify.com/track/7zgAvKRTfhUMHCv2s5Dgf5"

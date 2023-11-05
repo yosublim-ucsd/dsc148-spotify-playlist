@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Angie K
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,206 likes - 112 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,215 likes - 112 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [That Kinda Night](https://open.spotify.com/track/3uAS0qo2n4AoVpTqVTj6Qn) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [That Kinda Night](https://open.spotify.com/album/0CgVsOyazunVFsXFNDdEg5) | 2:50 |
-| 2 | [Somebody Else's Whiskey](https://open.spotify.com/track/7vyBCh6EII2AB4Z2Q08o9U) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Getcha Some](https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU) | 3:54 |
+| 2 | [Somebody Else's Whiskey](https://open.spotify.com/track/5duD8BLFr2MEvl7IN4g2Li) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ) | 3:53 |
 | 3 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 |
 | 4 | [LA LLUVIA \(with Jordyn Shellhart\)](https://open.spotify.com/track/2OSkxJooTe20Djkvepb7QT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:33 |
 | 5 | [Desert Rain](https://open.spotify.com/track/54uGAxFnjUCk0ySobH4kPL) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Frontera](https://open.spotify.com/album/199sZ1Ykrzexpnrlxfx9tM) | 3:25 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 13 | [Luz Prendida](https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luz Prendida](https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C) | 2:53 |
 | 14 | [Homesick](https://open.spotify.com/track/7esySixzBv7n9uM259kLeP) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Homesick](https://open.spotify.com/album/7BZblgdX1lrGf0sdu0MG3P) | 3:24 |
 | 15 | [Getaway](https://open.spotify.com/track/4WXOMShFoM0V05dDSC5dkR) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Getaway](https://open.spotify.com/album/0hxe8OBCWXDjgCfTCUjm1p) | 3:27 |
-| 16 | [Country'd Look Good On You](https://open.spotify.com/track/6d7k8PoVEnBgwBsPvKsubp) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Country'd Look Good On You](https://open.spotify.com/album/1GfpqxHYA7uOiIw3jA0jVO) | 3:22 |
+| 16 | [Country’d Look Good On You](https://open.spotify.com/track/5P0UWGrUs2BsJye2taYTFQ) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ) | 3:21 |
 | 17 | [Why She Gotta Be Like That \(feat\. Gusi\)](https://open.spotify.com/track/5d1wYRM60TAJQYM1fEUI9W) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Why She Gotta Be Like That \(feat\. Gusi\)](https://open.spotify.com/album/3P171dDIY1NOjmMdQqH3Uz) | 2:51 |
 | 18 | [Me Vale Madre](https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Me Vale Madre](https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92) | 2:20 |
 | 19 | [Mi Casa \- We Bought a House \- Spanish Version](https://open.spotify.com/track/1v61YJhvATuIWMRARRhKbh) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Mi Casa \(We Bought a House \- Spanish Version\)](https://open.spotify.com/album/480wf3uDfOScBJsnco9vku) | 3:04 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 44 | [Island of Heaven](https://open.spotify.com/track/0N3chwzAmCThKkFm6Hx6Y7) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Island of Heaven](https://open.spotify.com/album/7rRPMkwHsePa5fKYfb9zOW) | 3:21 |
 | 45 | [Hell in a Handbag](https://open.spotify.com/track/3e9ZP37G8w1q1v71bEpeaw) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:24 |
 | 46 | [La Prisión De Folsom \(Folsom Prison Blues\) \- Live At Folsom Prison](https://open.spotify.com/track/6h23gt9orDwsnjl2R1MGpN) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Tigres Del Norte At Folsom Prison \(Original Soundtrack/Live\)](https://open.spotify.com/album/3vEowTdZIpdcVdbLlqZc6q) | 3:19 |
-| 47 | [Late](https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Getcha Some](https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU) | 3:52 |
+| 47 | [Late](https://open.spotify.com/track/6l1OCMAfxY4VjK2XXcxsbE) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ) | 3:52 |
 | 48 | [Juntos en Tu Cama](https://open.spotify.com/track/4g7ZMgMMZA2WPpnaeNK80l) | [8 Segundos](https://open.spotify.com/artist/5f5Wlazt9jmI75fK5nPpd6) | [Vaquero Arrepentido](https://open.spotify.com/album/60l7sli9oBPRzNGCh1rXJI) | 2:57 |
 | 49 | [Lost in the Middle of Nowhere \(feat\. Becky G\) \(Spanish Remix\)](https://open.spotify.com/track/6pNeLrBdPEkUG3f1jbrMG9) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lost in the Middle of Nowhere \(feat\. Becky G\) \(Spanish Remix\)](https://open.spotify.com/album/6UheMHszVb1bG2O5AB7lkI) | 3:09 |
 | 50 | [Honky Tonk Education](https://open.spotify.com/track/2e0heBxxDYvsw8MMPhg88z) | [Michael Salgado](https://open.spotify.com/artist/3KIX7sAMvFDFFPYubKRZ5w) | [Honky Tonk Education](https://open.spotify.com/album/3q9oBglyQUUUmzva0mvU5Y) | 3:26 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 111 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
 | 112 | [Tonto](https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP) | [Country Pop Latino](https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm) | 3:00 |
 
-Snapshot ID: `MCw5MjI5M2Y3ZTg1YjY5ZjUwMWU4YzUzYzkzMGY3NTc2MTBhMGRmN2M0`
+Snapshot ID: `MCw2NTU5NzJiMTNhYzZiNTI4N2Y2NmI3N2U2MDBjY2VmOTlkMzA1MjU0`

@@ -4,7 +4,7 @@
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-201 songs - 12 hr 47 min
+202 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [At The Break Of Dawn \(feat\. Elize Ryd\)](https://open.spotify.com/track/51E3xyTuzOSZYbOduba6Oz) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [At The Break Of Dawn \(feat\. Elize Ryd\)](https://open.spotify.com/album/5mW0s9ENNK7tkcptmJve9o) | 3:31 | 2021-12-15 | 2022-07-07 |
 | [Baptize](https://open.spotify.com/track/68RUydoqlDT60rsirSIJWR) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Baptize](https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL) | 2:49 | 2021-12-15 | 2022-07-28 |
 | [Bear the Cross](https://open.spotify.com/track/0KU8BYpNr112tz68grzVVp) | [Poisonblack](https://open.spotify.com/artist/1mBXJUab9jbcHhYxMuWbxO) | [A Dead Heavy Day](https://open.spotify.com/album/1Nt7VK5YdHhI1ZeCq15RxK) | 3:50 | 2021-12-15 | 2022-07-26 |
-| [Beyond](https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Beyond](https://open.spotify.com/album/2kSlibngBZgGOUGIdcuSg5) | 4:17 | 2023-08-17 |  |
+| [Beyond](https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 4:17 | 2023-10-25 |  |
+| [Beyond](https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Beyond](https://open.spotify.com/album/2kSlibngBZgGOUGIdcuSg5) | 4:17 | 2023-08-17 | 2023-11-05 |
 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 | 2021-12-15 | 2022-07-29 |
 | [Black Betty](https://open.spotify.com/track/10AveWzlmt1Dkh9mhsV2KZ) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Throttle Junkies](https://open.spotify.com/album/3cQfgNWRUTa3vCimkzVIr0) | 2:39 | 2022-10-18 | 2022-11-13 |
 | [Black Betty](https://open.spotify.com/track/7sWQ1HYrGBrYbs460rfDzA) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Throttle Junkies](https://open.spotify.com/album/6g4J1iyCcPffhuB5Ei4srs) | 2:39 | 2021-12-15 | 2022-07-29 |

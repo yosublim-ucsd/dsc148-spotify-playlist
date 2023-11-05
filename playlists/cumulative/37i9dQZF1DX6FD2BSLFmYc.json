@@ -1824,10 +1824,36 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 333600,
       "name": "Stillhetens hav II",
       "url": "https://open.spotify.com/track/54i2pTD2lvgfgjYkwX7pmQ"
+    },
+    {
+      "album": {
+        "name": "M\u00e5nens hav",
+        "url": "https://open.spotify.com/album/4ZjIhjLji31LSBvFtVmnBt"
+      },
+      "artists": [
+        {
+          "name": "Vargkvint",
+          "url": "https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a"
+        },
+        {
+          "name": "Jakob Lindhagen",
+          "url": "https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn"
+        },
+        {
+          "name": "Brueder Selke",
+          "url": "https://open.spotify.com/artist/6dZ9mYuJ2VMbeokUIXuNHm"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333600,
+      "name": "Stillhetens hav II",
+      "url": "https://open.spotify.com/track/5QTmRluv7xtC1I8Q25dWdB"
     },
     {
       "album": {

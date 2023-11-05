@@ -7012,7 +7012,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [추억의 록 발라드](/playlists/pretty/37i9dQZF1DX53hLvTvX3eQ.md)
 - [카지노\(Big Bet\)](/playlists/pretty/37i9dQZF1DX5UGBQjvGtvy.md)
 - [토토가! 추억의 댄스 뮤직](/playlists/pretty/37i9dQZF1DX4Pm0RFqsA0C.md)
-- [포근 편안 폭신](/playlists/pretty/37i9dQZF1DWSvk1AxYsbvo.md)
+- [포근 편안 폭신 \(Cozy K\-Pop\)](/playlists/pretty/37i9dQZF1DWSvk1AxYsbvo.md)
 - [퓨전 국악 \(Fusion Korean National\)](/playlists/pretty/37i9dQZF1DXbqEesmXsTTO.md)
 - [행복을 드려요 \(K\-Pop Happy Songs\)](/playlists/pretty/37i9dQZF1DX2l1BM6ggRui.md)
 - [힐링 힙합](/playlists/pretty/37i9dQZF1DWZiWafrEIdA8.md)

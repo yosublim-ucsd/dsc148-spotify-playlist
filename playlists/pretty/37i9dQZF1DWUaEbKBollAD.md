@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,726 likes - 55 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,735 likes - 55 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 21 | [Tomorrow](https://open.spotify.com/track/7cgc7LsayrPtYm732w24Nb) | [Bapper Berny](https://open.spotify.com/artist/2BnQfcyNz4DoZdZZ1OiDqP) | [Psytrance Illusions](https://open.spotify.com/album/39D8OJEixStOiwQAKolaSe) | 2:24 |
 | 22 | [Shiver](https://open.spotify.com/track/4AzIEXbsTGHbEJzKEuSND5) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Let The Mystery Be EP](https://open.spotify.com/album/5Ad9GU35famqDHUXkKm66K) | 6:28 |
 | 23 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 |
-| 24 | [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 |
+| 24 | [Future Dust](https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc) | 8:29 |
 | 25 | [Killer Machine](https://open.spotify.com/track/6Y0s43nhtwwjhkbkMFOgE6) | [Indra](https://open.spotify.com/artist/3sH57C4p0KSpzkh5uY0bK6) | [Killer Machine](https://open.spotify.com/album/5tbyLz98nz0uYmfgdSZnwu) | 6:30 |
 | 26 | [Green Rework](https://open.spotify.com/track/6dDHMXEY5Vm2yXakvnwALO) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Green Rework](https://open.spotify.com/album/1qtJVVV0QmXTWzIv0FCif4) | 7:13 |
 | 27 | [Romba](https://open.spotify.com/track/6Yb1HE6Da4Z9UMhgVYXRbh) | [Laroz](https://open.spotify.com/artist/37VopouYOyLqeH34jEZ7W9), [Matara](https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Nidze](https://open.spotify.com/album/6FvRbxYYNGhiFaduk88vhi) | 7:15 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 39 | [EYES](https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [EYES](https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO) | 3:32 |
 | 40 | [Wachaka](https://open.spotify.com/track/66fPvJebZWxlDF5x3ZwcjK) | [CIOZ](https://open.spotify.com/artist/43B3rN5TKnZLpfusky1fnp), [Ryan Murgatroyd](https://open.spotify.com/artist/3eWIVs6R1YgnA5FZSI3xiU) | [Be One Wachaka](https://open.spotify.com/album/42TFcA37URBMWHAUniIJPM) | 7:17 |
 | 41 | [Shiver](https://open.spotify.com/track/02KyBO8Rkzhs65K9VKmMpQ) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 4:35 |
-| 42 | [Himalaya](https://open.spotify.com/track/7vFdnywjtZrVLXplNl4Id6) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Himalaya EP](https://open.spotify.com/album/7LZKTkLR6aytEvpYRaHbB6) | 6:18 |
+| 42 | [Himalaya](https://open.spotify.com/track/1xDo7ZRJGusfMXSrbkPA9N) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Himalaya EP](https://open.spotify.com/album/1hMcj58nfxMRslx8c25qmG) | 6:18 |
 | 43 | [Satori](https://open.spotify.com/track/17SCJbXeu121LBiittnXTI) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:19 |
 | 44 | [Underwater](https://open.spotify.com/track/5X0Jg0pte4sHFIaSHa1sXL) | [BOg](https://open.spotify.com/artist/7FldCwBXVtA0TFbqxvaKZY), [19:26](https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Underwater](https://open.spotify.com/album/2d8RWfMRjbjRRHIlIif6k0) | 5:45 |
 | 45 | [Racos](https://open.spotify.com/track/5dRF9o0qHnXWcjwL01H7yj) | [Corpino](https://open.spotify.com/artist/3aZMsfIeWGsIacqszip923), [T.M.A](https://open.spotify.com/artist/2byiSAqYCxVFaUmm0KxiIe) | [Racos](https://open.spotify.com/album/5PSU21vZRXiUoArUwTHKIf) | 7:21 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 54 | [The Feeling](https://open.spotify.com/track/2ex7NzlDpZ7uIqVd6sQIX4) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [The Feeling](https://open.spotify.com/album/6pEhtURKta65mrPTSKBn7e) | 8:32 |
 | 55 | [Shiva Manas Puja](https://open.spotify.com/track/7spGN3NecAk8fm5CARxL0X) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 5:58 |
 
-Snapshot ID: `MCw0NGRmZjY2ZjcyYTg1M2JiZjgwMGM0ZGVjNzRjOTliN2YyMjZmYTQ1`
+Snapshot ID: `MCw0NTAxYjk5ZGM1MGY4ZWM5ZmU3ZGJmNWYwNmUyOGZmNzg5YjJhYmM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,887 likes - 69 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,928 likes - 69 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 29 | [Der Kommissar](https://open.spotify.com/track/0ROtxObpdDA25o5DriPSOk) | [After The Fire](https://open.spotify.com/artist/194g4SFwSSzyPtgkH7v3Cx) | [Radio Hits Of the '80s](https://open.spotify.com/album/4OhFkx7dTPfj0BXerfldyk) | 5:37 |
 | 30 | [I Didn't Mean To Turn You On](https://open.spotify.com/track/7EejjSh1WDrm81z0u3Fhmk) | [Cherrelle](https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4) | [Fragile](https://open.spotify.com/album/6jb40W1fi6E9OMh9YBEzc1) | 7:03 |
 | 31 | [Din daa daa \- Original Version 1983](https://open.spotify.com/track/6IibbxjQER0Y1yKtS7wiQV) | [George Kranz](https://open.spotify.com/artist/0XLhfP0Nt0IYLLKqfWjnbb) | [Din daa daa](https://open.spotify.com/album/77drDlevpf61Fli55FKDal) | 4:11 |
-| 32 | [Doctor Love](https://open.spotify.com/track/6G8s19BainATJIjqIwXcre) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [12" Master Series Vol\. 1](https://open.spotify.com/album/2Q0k4pZ92k6xI2tQbb4zqk) | 8:20 |
+| 32 | [Doctor Love \(Unedited Version\)](https://open.spotify.com/track/3PX3zodPk4HvLjShbLOlTk) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [12" Master Series, Vol\. 1](https://open.spotify.com/album/2DEsdqKWomWTYlvBK68VZ2) | 8:20 |
 | 33 | [Don't Wanna Fall in Love](https://open.spotify.com/track/6eozUVzr02EXMji1vuxgiP) | [Jane Child](https://open.spotify.com/artist/5JBif5ahOKFFVuEpHhrp8Y) | [Jane Child](https://open.spotify.com/album/7lctp9rkvSczgxQ7OGKQaO) | 4:07 |
-| 34 | [Don't Waste Your Time](https://open.spotify.com/track/6HCAvDSaFft5KL0ozPFgLs) | [Yarbrough & Peoples](https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV) | [Be a Winner](https://open.spotify.com/album/473YExvg2r8Y82kiAFolOc) | 7:29 |
+| 34 | [Don't Waste Your Time](https://open.spotify.com/track/7gHnHQwqH96HKVOtmGYmFL) | [Yarbrough & Peoples](https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV) | [Be a Winner](https://open.spotify.com/album/5ePEnyNhAhYDQxe9DOGKjP) | 7:29 |
 | 35 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
 | 36 | [Down Under](https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:42 |
 | 37 | [Encore](https://open.spotify.com/track/48ifRcXHbUjc1moUjJcwhx) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Preppie \(Expanded Edition\)](https://open.spotify.com/album/1p5T4GozRHLUxtaLN46sLz) | 5:19 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 68 | [Sucker M.C.'s \(Krush\-Groove 1\)](https://open.spotify.com/track/3hx5R8nOKu5zvhlfDNSIQC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 3:09 |
 | 69 | [The Show](https://open.spotify.com/track/3umJExJml0XrE3BcGtAoCU) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Doug E\. Fresh](https://open.spotify.com/artist/7xN8vFwslE67EC3DhgB9Ip) | [Dame Dash Presents Paid In Full / Dream Team](https://open.spotify.com/album/6cea3Mk3rvbeqZFqSt7TEy) | 4:26 |
 
-Snapshot ID: `MCxlOWRlYjkyMDVmMzU2ZmM5MzczYzFhNjliODgyZGIyNDNmMTZjMmY1`
+Snapshot ID: `MCxiZDViYzhiNjkyMDk1YzE5YjE4ZmVmNmM5MjFkMzk0MDk1OWI3YjYx`

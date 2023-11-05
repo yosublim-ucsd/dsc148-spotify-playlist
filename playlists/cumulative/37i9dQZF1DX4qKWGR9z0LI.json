@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 240293,
       "name": "Ella Lo Que Quiere Es Salsa (feat. Voltio & Jowell y Randy)",
       "url": "https://open.spotify.com/track/6l9iRzgakAc5U82eVbt8ow"
@@ -1834,6 +1834,32 @@
       "duration_ms": 173654,
       "name": "Incomparable (feat. El Revul\u00fa)",
       "url": "https://open.spotify.com/track/65MT3EZxqOxnLhiGo9VqIe"
+    },
+    {
+      "album": {
+        "name": "Incomprendido",
+        "url": "https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179890,
+      "name": "Incomprendido",
+      "url": "https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl"
     },
     {
       "album": {
@@ -2912,7 +2938,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 213000,
       "name": "Pa'lante y Pa'tras - Remix",
       "url": "https://open.spotify.com/track/0j1Fh9m0wZbvTIl8xIlSKH"
@@ -4580,7 +4606,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 257614,
       "name": "V\u00edctimas las Dos",
       "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"

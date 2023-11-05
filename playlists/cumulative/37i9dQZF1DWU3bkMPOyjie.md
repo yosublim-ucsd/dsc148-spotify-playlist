@@ -4,7 +4,7 @@
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 25 years.
 
-124 songs - 7 hr 14 min
+126 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Black Betty \- Edit](https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Tonight Alright](https://open.spotify.com/album/5WqHoLszhaCZHgtTebMx8X) | 3:25 | 2020-08-18 |  |
 | [Body Talks \(feat\. Kesha\)](https://open.spotify.com/track/71hhuJLNpxBQLSbbQ6ZWr4) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [YOUNG&DANGEROUS](https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g) | 2:57 | 2020-08-18 |  |
 | [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 | 2020-08-18 |  |
-| [Constructive Summer \- 2018 \- Remaster](https://open.spotify.com/track/5if6bRlufL1WxJESt3vZzt) | [The Hold Steady](https://open.spotify.com/artist/3qkZBMz5JgmRN9u5wwhRC6) | [Stay Positive \(Deluxe Edition\)](https://open.spotify.com/album/43vkSl8wNFKia9CeZWYYTu) | 2:55 | 2020-08-18 |  |
+| [Constructive Summer \(2018 \- Remaster\)](https://open.spotify.com/track/0rsODYjFQflgdW3uNeXYnB) | [The Hold Steady](https://open.spotify.com/artist/3qkZBMz5JgmRN9u5wwhRC6) | [Stay Positive \(Deluxe Edition\)](https://open.spotify.com/album/3PDZgaB423KMLVEq8SScS9) | 2:55 | 2023-08-17 |  |
+| [Constructive Summer \- 2018 \- Remaster](https://open.spotify.com/track/5if6bRlufL1WxJESt3vZzt) | [The Hold Steady](https://open.spotify.com/artist/3qkZBMz5JgmRN9u5wwhRC6) | [Stay Positive \(Deluxe Edition\)](https://open.spotify.com/album/43vkSl8wNFKia9CeZWYYTu) | 2:55 | 2020-08-18 | 2023-11-05 |
 | [Country Girl](https://open.spotify.com/track/2k1ITEDrXY9QHHvyC5APqo) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Riot City Blues \(Expanded Edition\)](https://open.spotify.com/album/0KOb9PyzihUkHcoA9Xqx7c) | 4:31 | 2020-08-18 |  |
 | [Crazy Bitch](https://open.spotify.com/track/5XfQTbialQHn9PhDb0p85H) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/7JzpvpbhqCCS4f54rkU1yV) | 3:24 | 2020-08-18 | 2023-06-03 |
 | [Cruel Summer](https://open.spotify.com/track/2KZIFxPPqWsaDQLGTJGmhC) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Misfits & Mistakes: Singles, B\-sides & Strays 2007–2023](https://open.spotify.com/album/4x9b7TLR0LGq2nSBqMITI9) | 2:50 | 2023-08-17 |  |
@@ -126,7 +127,8 @@
 | [Times Like These](https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:25 | 2023-06-02 |  |
 | [Tonight the Moonlight Let Me Down](https://open.spotify.com/track/2o8SO1ORcZmNh93M0xqIb7) | [Black Star Riders](https://open.spotify.com/artist/1COfrboArH3tNjlhFsG5ys) | [Another State of Grace](https://open.spotify.com/album/7pDnhv0FGExOmxoaXWd4nJ) | 3:54 | 2020-08-18 |  |
 | [Walkin' On The Sun](https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Fush Yu Mang \(20th Anniversary Edition\)](https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt) | 3:27 | 2020-08-18 |  |
-| [Walking Barefoot](https://open.spotify.com/track/3fHVOcAV12GY8nOjWA8OUh) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [Free All Angels](https://open.spotify.com/album/1V9N1HV53xOfL2ebYXxkOu) | 4:14 | 2020-08-18 |  |
+| [Walking Barefoot](https://open.spotify.com/track/3fHVOcAV12GY8nOjWA8OUh) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [Free All Angels](https://open.spotify.com/album/1V9N1HV53xOfL2ebYXxkOu) | 4:14 | 2020-08-18 | 2023-11-05 |
+| [Walking Barefoot](https://open.spotify.com/track/2RuVtgxbdJp0YSM7OdxXP1) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [Free All Angels](https://open.spotify.com/album/4jz1np59eWO1ErBVPk1PZS) | 4:14 | 2023-08-17 |  |
 | [Wheels](https://open.spotify.com/track/3KsatAMRt1a7iryhWt5I8U) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:38 | 2020-08-18 | 2023-06-03 |
 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 | 2020-08-18 |  |
 | [Woman](https://open.spotify.com/track/2pcwmk8c1pTYwX0COSVX52) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/0NV96Rqo10ytbCHlR14E8r) | 2:55 | 2020-08-18 | 2022-07-29 |

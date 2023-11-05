@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-328 songs - 22 hr 2 min
+329 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Long Road Ahead](https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Long Road Ahead](https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2) | 3:22 | 2023-08-25 |  |
 | [Louise](https://open.spotify.com/track/4LsjSfG35HjxANSGntQElK) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Louise](https://open.spotify.com/album/7a159bQme0ps4IGS1bfBPg) | 3:39 | 2023-07-28 | 2023-09-23 |
 | [Love At First Sight](https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Love At First Sight](https://open.spotify.com/album/17mDEDwEP1Stx3Rf1BxuDF) | 3:28 | 2022-02-18 |  |
-| [Love Is All](https://open.spotify.com/track/1VdINjKve1zyYptgIWLdJd) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Love Is All](https://open.spotify.com/album/2TtprEnpsHFvtHa6pmdhCj) | 3:40 | 2023-07-21 |  |
+| [Love Is All](https://open.spotify.com/track/1VdINjKve1zyYptgIWLdJd) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Love Is All](https://open.spotify.com/album/2TtprEnpsHFvtHa6pmdhCj) | 3:40 | 2023-07-21 | 2023-11-05 |
+| [Love Is All](https://open.spotify.com/track/3p0vfHAh2O2Rws5xPQJQho) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [The Fatalist](https://open.spotify.com/album/33ihKi0yijzptTHMNHXTNB) | 3:40 | 2023-07-21 |  |
 | [Love Letter To The Blues \- Bonus Track](https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:53 | 2023-03-03 |  |
 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2022-09-30 |  |
 | [Lucky Guy](https://open.spotify.com/track/6MBT2rtlyXmTcZqYEAvmjL) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 4:32 | 2021-04-13 | 2022-04-23 |

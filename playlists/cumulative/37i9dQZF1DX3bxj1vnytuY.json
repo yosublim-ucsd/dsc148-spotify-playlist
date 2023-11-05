@@ -2376,10 +2376,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 270120,
       "name": "Kaleta",
       "url": "https://open.spotify.com/track/2ldNIVLYlSnxKGSlpud8bU"
+    },
+    {
+      "album": {
+        "name": "Kaleta",
+        "url": "https://open.spotify.com/album/1Ved6gJTWaDH1oLiJzMrKv"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270120,
+      "name": "Kaleta",
+      "url": "https://open.spotify.com/track/7Me0K7S9Kpu3lNGk3k9SJZ"
     },
     {
       "album": {
@@ -2810,6 +2828,24 @@
     {
       "album": {
         "name": "Malawi",
+        "url": "https://open.spotify.com/album/7ixdpATJyqFtWGevSD7PJU"
+      },
+      "artists": [
+        {
+          "name": "SirYLL",
+          "url": "https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283421,
+      "name": "Malawi",
+      "url": "https://open.spotify.com/track/0cxZ9Fv1rYRavkbVvdwBT7"
+    },
+    {
+      "album": {
+        "name": "Malawi",
         "url": "https://open.spotify.com/album/03Wo3nvGfVpF0rxfRjy1ah"
       },
       "artists": [
@@ -2820,7 +2856,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 283421,
       "name": "Malawi",
       "url": "https://open.spotify.com/track/0uWQOZM4uKSIdAa0RJMpCT"

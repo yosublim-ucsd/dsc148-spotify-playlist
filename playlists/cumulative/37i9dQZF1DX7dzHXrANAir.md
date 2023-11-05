@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-265 songs - 19 hr 21 min
+266 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Genesis](https://open.spotify.com/track/3l3ahfNRJqe58020fZz10w) | [David A\. Molina](https://open.spotify.com/artist/6OmPjTPiNJ2IGNjcgg3Oug) | [Genesis](https://open.spotify.com/album/0Ruw6EAFove5eAZrf7cU6l) | 3:58 | 2023-10-20 | 2023-11-04 |
 | [Geneva](https://open.spotify.com/track/1LdM2sf8oIuxeo45egJupT) | [Superpoze](https://open.spotify.com/artist/1iQhd9xO2v82j0dBbt4tHz) | [Geneva](https://open.spotify.com/album/1RcopfYKcxb1fLgjtrGLs5) | 5:02 | 2022-03-25 | 2022-04-20 |
 | [Ghosts \- Live with ONL](https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY) | [Rone](https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq), [Dirk Brossé](https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo) | [L\(oo\)ping \[Live with ONL\]](https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O) | 5:12 | 2023-06-16 |  |
-| [Glass \- Solo Piano](https://open.spotify.com/track/0a4GdJi2TAYv2GvwX5svhK) | [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [Glass \(Solo Piano\)](https://open.spotify.com/album/1xS6uWpQd5FaZ086sq0FsX) | 6:15 | 2022-03-18 |  |
+| [Glass \- Solo Piano](https://open.spotify.com/track/0a4GdJi2TAYv2GvwX5svhK) | [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [Glass \(Solo Piano\)](https://open.spotify.com/album/1xS6uWpQd5FaZ086sq0FsX) | 6:15 | 2022-03-18 | 2023-11-05 |
 | [Gleam \- Stilhed Rework](https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu) | [Infralyd](https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt), [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Gleam \(Stilhed Rework\)](https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB) | 4:01 | 2022-03-25 | 2023-08-27 |
 | [Glühwürmchen](https://open.spotify.com/track/477kAeGQunBZ16ayZmTWJT) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Glühwürmchen](https://open.spotify.com/album/4hCUhAjYSwgi5oELIDemgD) | 3:56 | 2021-12-10 | 2022-01-25 |
 | [Gnossienne N°3 \(Variation\)](https://open.spotify.com/track/4CFmGRGcMY9OP4XESg8CqM) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Classical Garden](https://open.spotify.com/album/5hSeTmPGplQl7AvLjPzEqS) | 3:35 | 2022-05-27 | 2022-10-11 |
@@ -232,6 +232,7 @@
 | [Stars as Eyes \- Foam and Sand Rework](https://open.spotify.com/track/554PUKsVbNU38ljA1p65OE) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Stars as Eyes \(Foam and Sand Rework\)](https://open.spotify.com/album/1iSjVqPEIpQO8uo75ZfMlC) | 4:00 | 2022-03-25 | 2022-07-27 |
 | [Step Step Step](https://open.spotify.com/track/0IVVjhVDmwhH0utEnVetFl) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9), [Aisha Burns](https://open.spotify.com/artist/1AZoAl5rMnZWGNPGr88krQ), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Jason Treuting](https://open.spotify.com/artist/3vo9pILdfmYRxSiC21bMnT) | [Step Step Step](https://open.spotify.com/album/55h9YjJXPitJJOXPUSQy9p) | 4:01 | 2023-04-14 | 2023-07-31 |
 | [Stillness \(Reworked\)](https://open.spotify.com/track/17IbDcL196PgvTVrcUDut1) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Stillness \(Reworked\)](https://open.spotify.com/album/33EbSiklkodrOqpCZn1JQD) | 3:30 | 2023-03-10 | 2023-03-18 |
+| [Stillness \- Reworked](https://open.spotify.com/track/38e2GidL9UTv430biHt3a5) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Stillness \(Reworked\)](https://open.spotify.com/album/43FhNhRPe70SCy4NuEQuy1) | 3:30 | 2023-10-20 |  |
 | [Stone Stairs](https://open.spotify.com/track/0tjlqNVncu5dZ2Snz0jAJ3) | [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp), [Her Ensemble](https://open.spotify.com/artist/60LMcgWPaQLRwx8dZicM3z) | [Play Echoes](https://open.spotify.com/album/5hLbP2i4QeWU8twh9L9u6w) | 3:20 | 2022-11-18 | 2022-12-03 |
 | [Super Hexacordum \- Ensemb7e Version](https://open.spotify.com/track/6aL3anr4gLkHiPi9TM1PpJ) | [Chapelier Fou](https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd) | [Ensemb7e](https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU) | 5:18 | 2022-04-15 | 2022-07-29 |
 | [Synchronised Valve](https://open.spotify.com/track/3QuKpOxqvF5PTBANxKtx6p) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Synchronised Valve](https://open.spotify.com/album/725dZKUCaDY1QFjdoj0WYh) | 4:06 | 2021-12-10 | 2022-04-02 |

@@ -4,7 +4,7 @@
 
 > Discover new releases and rising artists from the classical world\. Cover: Erland Cooper
 
-127 songs - 9 hr 34 min
+128 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Winter Light](https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Roberto Sorrentino](https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH) | [Gjeilo: Winter Light](https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR) | 2:50 | 2023-08-18 |  |
 | [WTC 9/11: I\. 9/11/01](https://open.spotify.com/track/0mIMV6fYaS5kqXAqaOICPb) | [Steve Reich](https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo), [Mivos Quartet](https://open.spotify.com/artist/4K3g1qJ73PGZgIQgAcgjQj) | [Steve Reich: The String Quartets](https://open.spotify.com/album/0amlo8GN6h7ChMUJvRpHbM) | 3:38 | 2023-03-03 |  |
 | [Württemberg Sonatas / Sonata No\. 3 in E Minor, H\. 33: I\. Allegro](https://open.spotify.com/track/26x7jjMJoZIljbxPNR053C) | [Carl Philipp Emanuel Bach](https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb), [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [C.P.E\. Bach: Württemberg Sonatas / Sonata No\. 3 in E Minor, H\. 33: I\. Allegro](https://open.spotify.com/album/0RKflaotF1cIJewQc9gM3u) | 6:01 | 2023-06-09 |  |
-| [Zima](https://open.spotify.com/track/642zqDakl1ffk9M3vjYzWe) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Dreamscapes](https://open.spotify.com/album/5s3d1Fzwn0DTupeNktBJOF) | 4:18 | 2023-03-03 |  |
+| [Zima](https://open.spotify.com/track/4DvxB3BugiAOrZYwlBsFFL) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Dreamscapes](https://open.spotify.com/album/3Gaacr4eyjCkjHGjyab36Y) | 4:18 | 2023-10-06 |  |
+| [Zima](https://open.spotify.com/track/642zqDakl1ffk9M3vjYzWe) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Dreamscapes](https://open.spotify.com/album/5s3d1Fzwn0DTupeNktBJOF) | 4:18 | 2023-03-03 | 2023-11-05 |
 | [協奏的変奏曲 ニ長調 Op\. 17](https://open.spotify.com/track/6WneainaytyKYXAgHyKTz4) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Haruma Sato](https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk), [久末 航](https://open.spotify.com/artist/4F682tC1bLChNJpYReJL78) | [Mendelssohn: Variations Concertantes, Op\. 17](https://open.spotify.com/album/38QqAYKcPRnpQiTXtBBBsz) | 9:02 | 2023-03-22 |  |
 
 \*This playlist was first scraped on 2023-03-04. Prior content cannot be recovered.

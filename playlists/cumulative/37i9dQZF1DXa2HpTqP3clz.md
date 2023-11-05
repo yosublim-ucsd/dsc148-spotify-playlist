@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-487 songs - 1 day 5 hr 18 min
+488 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Gamblers & Gypsies](https://open.spotify.com/track/0PYBy1h8hVeiripF1Q3knS) | [Andrew Crawford](https://open.spotify.com/artist/3E6LMXGg2UtOW7LaC4OHgN), [Brandi Colt](https://open.spotify.com/artist/1oLt02QuYf0O5BDxoMGzCp), [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [Gamblers & Gypsies](https://open.spotify.com/album/5Yi77gsNaeSxodKrjVkCoS) | 3:36 | 2023-01-27 | 2023-03-22 |
 | [Get Me Home](https://open.spotify.com/track/4CrGndV7IYAnJ1HBPcB4YB) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Get Me Home](https://open.spotify.com/album/46KMY0jta6wButycFuRQKw) | 3:42 | 2021-12-17 | 2022-07-22 |
 | [Get On Board](https://open.spotify.com/track/6ImWTo17mrxnY2kTqii3yt) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [Get On Board](https://open.spotify.com/album/54ToTgFhPw6pqVDGxI5XPN) | 2:59 | 2021-12-17 | 2022-04-21 |
-| [Getaway](https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6) | [Katelyn Ingardia](https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI) | [Getaway](https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG) | 3:36 | 2023-08-18 |  |
+| [Getaway](https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6) | [Katelyn Ingardia](https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI) | [Getaway](https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG) | 3:36 | 2023-08-18 | 2023-11-05 |
 | [Gettin' Gone](https://open.spotify.com/track/07JhanX2lEKBgOm25AZ7xM) | [Mason Via](https://open.spotify.com/artist/23Q1PNqXqh9dzm8op1vOHi) | [Gettin' Gone](https://open.spotify.com/album/1Kly2Aoh3Gw33yJN6D1pi6) | 2:23 | 2022-04-22 | 2022-07-15 |
 | [Gloryland](https://open.spotify.com/track/20oWelhclb7W9stxy1Yzcs) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Gloryland](https://open.spotify.com/album/2UllrCRpe59ore8RCzcVD7) | 4:12 | 2022-04-08 | 2022-07-28 |
 | [Gloryland](https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex) | 4:12 | 2022-07-22 | 2023-08-26 |
@@ -195,6 +195,7 @@
 | [How It Ends](https://open.spotify.com/track/0QNGlcB83H133AoEFggtRP) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [How It Ends](https://open.spotify.com/album/2FftzfiRpzlPwSXpKgisJi) | 3:19 | 2022-04-22 | 2022-09-03 |
 | [Hummingbird](https://open.spotify.com/track/4DlXQQanDfpRKxUSMOsxmL) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Hummingbird](https://open.spotify.com/album/7q9msRiLtqEhNAfBmyHc2e) | 3:45 | 2022-07-15 | 2022-08-30 |
 | [I Am the River Wild](https://open.spotify.com/track/3HNTb1lNI3mkynvKFPynWE) | [Jeremy Garrett](https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14) | [River Wild](https://open.spotify.com/album/7Bbg0C1LQvaIQc3PpELsL6) | 4:27 | 2022-03-25 | 2022-07-08 |
+| [I Call Her Sunshine](https://open.spotify.com/track/4MthZhAN8rpEhf7kzdDeSM) | [The Kody Norris Show](https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha) | [Rhinestone Revival](https://open.spotify.com/album/6WA5xRfslGXUYeytafpyeZ) | 2:53 | 2023-10-27 |  |
 | [I Choose You](https://open.spotify.com/track/3HZa4UGKNwOjwRTQMpbdiB) | [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [Bad For You](https://open.spotify.com/album/7i5eFTzw91j6jZS46BFxgl) | 3:04 | 2023-05-15 |  |
 | [I Could Get Used to This](https://open.spotify.com/track/4b1DeHoA9huGEvRofgk6ih) | [Tim Raybon Band](https://open.spotify.com/artist/5uvZdQTX9FuYQu0shFfGm3) | [I Could Get Used to This](https://open.spotify.com/album/6BZugxwnCajSLG9uPbIwjW) | 2:47 | 2023-08-18 |  |
 | [I Didn't Know](https://open.spotify.com/track/1WY61GDPcSH0ohBja4JSZG) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [I Didn't Know](https://open.spotify.com/album/1bFjnKUxASvIxO6j2Pasjg) | 4:00 | 2022-01-21 | 2022-07-29 |

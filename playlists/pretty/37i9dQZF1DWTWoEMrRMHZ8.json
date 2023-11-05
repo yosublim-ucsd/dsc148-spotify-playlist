@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Bryan Behr",
-  "num_followers": 345910,
+  "num_followers": 345989,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWUwMmE2YzhiZjgxOWNhOGU0MTlkYTEwM2QyNmM0ZmNmZGFkYWE1",
+  "snapshot_id": "MCwwNTFiYWIyYTY4NmY3ZmRjNzJjMDNmODE3MjdmMmNlNGQ0MzcwYjUz",
   "tracks": [
     {
       "added_at": "2023-11-03 06:00:20",
@@ -751,6 +751,26 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
+        "name": "Sonas Sessions (Live Session)",
+        "url": "https://open.spotify.com/album/6F8v6e4TlUZ8oTv5IQpgMJ"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Sonast\u00e9rio",
+          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
+        }
+      ],
+      "duration_ms": 220990,
+      "name": "Cara a Cara (Live Session)",
+      "url": "https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 283557,
       "name": "Nu Com a Minha M\u00fasica",
       "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Sonas Sessions (Live Session)",
-        "url": "https://open.spotify.com/album/6F8v6e4TlUZ8oTv5IQpgMJ"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
-          "name": "Sonast\u00e9rio",
-          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
-        }
-      ],
-      "duration_ms": 220990,
-      "name": "Cara a Cara (Live Session)",
-      "url": "https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Nu Com a Minha M\u00fasica",
-        "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Quase um Segundo",
-      "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Me Chama De Gato Que Eu Sou Sua",
         "url": "https://open.spotify.com/album/6UZpK4jB5MYVYJpwwi2mbP"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 234013,
       "name": "Camelo Azul",
       "url": "https://open.spotify.com/track/0VNECwUMDCBv5nykInHDc8"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Nu Com a Minha M\u00fasica",
+        "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Quase um Segundo",
+      "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Esse Amor Chegou",
-        "url": "https://open.spotify.com/album/1rM9Zl5kCjZ8GwnwbetxJh"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 152801,
-      "name": "Esse Amor Chegou",
-      "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Oswaldo Montenegro e Orquestra",
         "url": "https://open.spotify.com/album/1MtecGxFiRth68STj2JSHf"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 168162,
       "name": "A Lista",
       "url": "https://open.spotify.com/track/47Tc85pV7z2ivBetN14Y8t"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Esse Amor Chegou",
+        "url": "https://open.spotify.com/album/1rM9Zl5kCjZ8GwnwbetxJh"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 152801,
+      "name": "Esse Amor Chegou",
+      "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Querer Bem",
-        "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
-      },
-      "artists": [
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Roberto Mendes",
-          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
-        }
-      ],
-      "duration_ms": 194752,
-      "name": "Querer Bem",
-      "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Aqui em Casa (Ep 02)",
         "url": "https://open.spotify.com/album/55d26HxQZEQLu4Kny8Ce6B"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 205360,
       "name": "Porto",
       "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Querer Bem",
+        "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
+      },
+      "artists": [
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Roberto Mendes",
+          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
+        }
+      ],
+      "duration_ms": 194752,
+      "name": "Querer Bem",
+      "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1627,6 +1627,42 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
+        "name": "Luzes Acesas",
+        "url": "https://open.spotify.com/album/4Aojd3P8XyqqeIIughof7q"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+        },
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Luzes Acesas",
+      "url": "https://open.spotify.com/track/71HTMsndB7kzP2M2v0ZJTw"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Espelho",
+        "url": "https://open.spotify.com/album/5zn0vUxrEK2ffmPFKl41Nw"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "duration_ms": 131192,
+      "name": "Espelho",
+      "url": "https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
         "name": "Maria da Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7FBBiF5exdX9sbzEkiwXar"
       },
@@ -1647,6 +1683,26 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
+        "name": "Francamente",
+        "url": "https://open.spotify.com/album/1sSFicsxjfLnQUsMsgIKNJ"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Camilla Faustino",
+          "url": "https://open.spotify.com/artist/6cjVoEsNpH6spV5gBn1PFs"
+        }
+      ],
+      "duration_ms": 132495,
+      "name": "Francamente",
+      "url": "https://open.spotify.com/track/5w9WpqDpzCJVdLCzYsashs"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1663,22 +1719,6 @@
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Espelho",
-        "url": "https://open.spotify.com/album/5zn0vUxrEK2ffmPFKl41Nw"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        }
-      ],
-      "duration_ms": 131192,
-      "name": "Espelho",
-      "url": "https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1707,6 +1747,22 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
+        "name": "Errante",
+        "url": "https://open.spotify.com/album/6vrGTfdekueBX6lV9YJpSn"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 290141,
+      "name": "Pra Lhe Dizer",
+      "url": "https://open.spotify.com/track/3JFCXwHB6uc1K4A5GtFnW3"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
         "name": "A Vida N\u00e3o \u00c9 Bela",
         "url": "https://open.spotify.com/album/7AYUKZDi4MWzQSnCzl3r0d"
       },
@@ -1723,6 +1779,46 @@
       "duration_ms": 159683,
       "name": "As Solid\u00f5es",
       "url": "https://open.spotify.com/track/7iqA3zeTLdSCTRgdse2fIw"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Compacto de Ver\u00e3o Deluxe",
+        "url": "https://open.spotify.com/album/7GHSeBVVAecveSEHFIFyqG"
+      },
+      "artists": [
+        {
+          "name": "Alulu Paranhos",
+          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
+        },
+        {
+          "name": "Reurbana",
+          "url": "https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev"
+        }
+      ],
+      "duration_ms": 152178,
+      "name": "Estrelas do Mar",
+      "url": "https://open.spotify.com/track/0ssfbmpWDArLf9FJOr7Ckw"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Doce Carnaval",
+        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
+      },
+      "artists": [
+        {
+          "name": "Alexia Bomtempo",
+          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
+        },
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "Banho de Cheiro",
+      "url": "https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1759,114 +1855,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Francamente",
-        "url": "https://open.spotify.com/album/1sSFicsxjfLnQUsMsgIKNJ"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Camilla Faustino",
-          "url": "https://open.spotify.com/artist/6cjVoEsNpH6spV5gBn1PFs"
-        }
-      ],
-      "duration_ms": 132495,
-      "name": "Francamente",
-      "url": "https://open.spotify.com/track/5w9WpqDpzCJVdLCzYsashs"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Sambur\u00e1",
-        "url": "https://open.spotify.com/album/6meKDPHVhWTjSXPlr9JOqg"
-      },
-      "artists": [
-        {
-          "name": "Os Fugitivos",
-          "url": "https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Absurdo",
-      "url": "https://open.spotify.com/track/27D2NN2jAY8FR9Y3YPdGN2"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Errante",
-        "url": "https://open.spotify.com/album/6vrGTfdekueBX6lV9YJpSn"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 290141,
-      "name": "Pra Lhe Dizer",
-      "url": "https://open.spotify.com/track/3JFCXwHB6uc1K4A5GtFnW3"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Compacto de Ver\u00e3o Deluxe",
-        "url": "https://open.spotify.com/album/7GHSeBVVAecveSEHFIFyqG"
-      },
-      "artists": [
-        {
-          "name": "Alulu Paranhos",
-          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
-        }
-      ],
-      "duration_ms": 152178,
-      "name": "Estrelas do Mar",
-      "url": "https://open.spotify.com/track/0ssfbmpWDArLf9FJOr7Ckw"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Doce Carnaval",
-        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
-      },
-      "artists": [
-        {
-          "name": "Alexia Bomtempo",
-          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
-        },
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "Banho de Cheiro",
-      "url": "https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Samba De Uma Nota S\u00f3",
-        "url": "https://open.spotify.com/album/5UJysUQRZYDAXoSYRS6tIB"
-      },
-      "artists": [
-        {
-          "name": "\u00c1urea Martins",
-          "url": "https://open.spotify.com/artist/2IhXQoBqrZnxbQgLlnEQuh"
-        },
-        {
-          "name": "Jo\u00e3o Senise",
-          "url": "https://open.spotify.com/artist/617AppPP43Nj0YZozgZnbb"
-        }
-      ],
-      "duration_ms": 209080,
-      "name": "Samba De Uma Nota S\u00f3",
-      "url": "https://open.spotify.com/track/6j1lMk13h5XXJ12aFKS94T"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Eternos Ver\u00f5es",
         "url": "https://open.spotify.com/album/39oC7XgpVOl6d07rbxhuFp"
       },
@@ -1887,22 +1875,38 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Luzes Acesas",
-        "url": "https://open.spotify.com/album/4Aojd3P8XyqqeIIughof7q"
+        "name": "Sambur\u00e1",
+        "url": "https://open.spotify.com/album/6meKDPHVhWTjSXPlr9JOqg"
       },
       "artists": [
         {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
-        },
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+          "name": "Os Fugitivos",
+          "url": "https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg"
         }
       ],
-      "duration_ms": 196640,
-      "name": "Luzes Acesas",
-      "url": "https://open.spotify.com/track/71HTMsndB7kzP2M2v0ZJTw"
+      "duration_ms": 244500,
+      "name": "Absurdo",
+      "url": "https://open.spotify.com/track/27D2NN2jAY8FR9Y3YPdGN2"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Samba De Uma Nota S\u00f3",
+        "url": "https://open.spotify.com/album/5UJysUQRZYDAXoSYRS6tIB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1urea Martins",
+          "url": "https://open.spotify.com/artist/2IhXQoBqrZnxbQgLlnEQuh"
+        },
+        {
+          "name": "Jo\u00e3o Senise",
+          "url": "https://open.spotify.com/artist/617AppPP43Nj0YZozgZnbb"
+        }
+      ],
+      "duration_ms": 209080,
+      "name": "Samba De Uma Nota S\u00f3",
+      "url": "https://open.spotify.com/track/6j1lMk13h5XXJ12aFKS94T"
     },
     {
       "added_at": "2023-11-03 06:00:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,626 likes - 217 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,705 likes - 217 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 37 | [I Love The Rain The Most](https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN) | 4:38 |
 | 38 | [Give You My Love](https://open.spotify.com/track/1le4AShk5pZ1KTswuwdpvc) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 5:24 |
 | 39 | [Come Back to Me](https://open.spotify.com/track/1WUCyuyCihAz4nXD5kgOms) | [3 One Oh](https://open.spotify.com/artist/0LeWcad3qLZOVYNxm5pG7e) | [Come Back to Me](https://open.spotify.com/album/50WassgZwHALKp2tIHsjUg) | 3:16 |
-| 40 | [So Happy It Hurts](https://open.spotify.com/track/6RZNw4khjjd6mehiLQ6Ztz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:35 |
+| 40 | [So Happy It Hurts](https://open.spotify.com/track/3pwyxtKttUfugQybBFkJrJ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/4UTnmsmUfpex7nAxmrtaFt) | 3:35 |
 | 41 | [What a Time to Be Alive](https://open.spotify.com/track/2wpc0OnkylBzNahTxZ5ERc) | [The Guest and the Host](https://open.spotify.com/artist/5btUhGNTcEvv2W2NcsKndH) | [Songs from Mirror Wall](https://open.spotify.com/album/5BPFrjkerwTdVXZ6PIoOSj) | 3:41 |
 | 42 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 |
 | 43 | [Let Love](https://open.spotify.com/track/7hDCguTgcPgprkacs8z3U1) | [Lincoln Grounds](https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D), [Charley Stefl](https://open.spotify.com/artist/58ESWpDuC4nPaXDJKMjVBJ) | [Way Down The Road](https://open.spotify.com/album/4IeR1815fI0sK8qLz1OVNf) | 2:37 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 216 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 217 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MCxiMTkwYzFjYzJjYmYyY2IwYTIzNmZmMmRhYzcyZTRhNDkzMWEwYWI5`
+Snapshot ID: `MCxjNzBkNTI5ZWMxNDIzZmI0NjBmZTI3MzM4M2U5ZjJiZDBlZWJjNWRh`

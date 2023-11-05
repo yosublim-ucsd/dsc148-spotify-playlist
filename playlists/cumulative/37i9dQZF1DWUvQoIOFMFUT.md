@@ -4,7 +4,7 @@
 
 > Breathe deep and release that pressure.
 
-159 songs - 10 hr 2 min
+160 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Cartoon People](https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Cartoon People](https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT) | 3:33 | 2021-10-14 |  |
 | [Casio](https://open.spotify.com/track/6C3RGG9kc1ojBoMsatHdfH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Kxrn](https://open.spotify.com/artist/7x5msB6JYdzIFNvmkMPXFs) | [A World Without Snooze, Vol\. 2](https://open.spotify.com/album/3Xr78pqMlMMeLMn3kQDYr2) | 2:08 | 2021-10-14 |  |
 | [Casio](https://open.spotify.com/track/7jxWcSWwgWEP9SNJ8ahuSc) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Kxrn](https://open.spotify.com/artist/7x5msB6JYdzIFNvmkMPXFs) | [A World Without Snooze, Vol\. 2](https://open.spotify.com/album/2sbhc8e9kxPt4Lk7tmemeH) | 2:08 | 2021-10-14 | 2022-10-19 |
-| [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 | 2021-10-14 |  |
+| [Chandelier](https://open.spotify.com/track/2mO2pVseoh8i0MRjkajuGj) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/6ZzJOsg3G90a3ASCT94KDm) | 5:13 | 2023-03-27 |  |
+| [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 | 2021-10-14 | 2023-11-05 |
 | [Chewing Cotton Wool](https://open.spotify.com/track/2qRRVF41NynV0FRHJKaYjM) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/0vdb79nBrtdF8sozFxRzDw) | 3:29 | 2021-10-14 | 2022-07-29 |
 | [Chewing Cotton Wool](https://open.spotify.com/track/3XxI16XYIjNhbvMFSN6Mlg) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 3:29 | 2021-10-14 |  |
 | [Circles](https://open.spotify.com/track/3k6ynBjbzR70nAYoFDXVta) | [WILDES](https://open.spotify.com/artist/0ypTT9UqAU5sZpPo5JZmjR) | [Let You Go EP](https://open.spotify.com/album/1SiqAx9GPzydcyjRUlIQgt) | 4:18 | 2021-10-14 | 2022-11-14 |

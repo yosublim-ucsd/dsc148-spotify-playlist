@@ -7793,6 +7793,24 @@
     },
     {
       "album": {
+        "name": "Not The 1975 (Acoustic)",
+        "url": "https://open.spotify.com/album/56a8vWZVQQeEmh1G1SBM10"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/15sze1xMQqq3nkC2fH3vbh"
+    },
+    {
+      "album": {
         "name": "Not The 1975",
         "url": "https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw"
       },
@@ -7804,7 +7822,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5"
@@ -11883,6 +11901,28 @@
     },
     {
       "album": {
+        "name": "I'm So Good At Being Alone?",
+        "url": "https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170353,
+      "name": "We\u2019re Not In Love Anymore (feat. Charlotte Sands)",
+      "url": "https://open.spotify.com/track/2bKMeqQHJCGOHqBTp7oroT"
+    },
+    {
+      "album": {
         "name": "We\u2019re Not In Love Anymore (feat. Charlotte Sands)",
         "url": "https://open.spotify.com/album/0gW6CulhLzMtnZ5wbt2AfW"
       },
@@ -11898,7 +11938,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 170353,
       "name": "We\u2019re Not In Love Anymore (feat. Charlotte Sands)",
       "url": "https://open.spotify.com/track/4OfaKFkToxzzi2G5MwYsyZ"

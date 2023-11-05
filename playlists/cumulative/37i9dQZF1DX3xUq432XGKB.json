@@ -170,6 +170,28 @@
     {
       "album": {
         "name": "Bad Days",
+        "url": "https://open.spotify.com/album/7JzhxIjvSsacGn7ereB4WO"
+      },
+      "artists": [
+        {
+          "name": "Lee Wells",
+          "url": "https://open.spotify.com/artist/0Q9UEU4EuF5eSWSMeIxCtX"
+        },
+        {
+          "name": "Monoky",
+          "url": "https://open.spotify.com/artist/35fqprYtwqebSkrjHVXfxw"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375240,
+      "name": "Bad Days",
+      "url": "https://open.spotify.com/track/6xGmqj6RSKnK3of7pkllWY"
+    },
+    {
+      "album": {
+        "name": "Bad Days",
         "url": "https://open.spotify.com/album/7FlFMF1mmthW4aUhgpcIUi"
       },
       "artists": [
@@ -184,7 +206,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 375240,
       "name": "Bad Days",
       "url": "https://open.spotify.com/track/5doqdwpcmiAjHT423NS7qa"
@@ -1412,7 +1434,7 @@
     {
       "album": {
         "name": "Gold Teeth",
-        "url": "https://open.spotify.com/album/2Ow5Z07VA7maRIXfNRolex"
+        "url": "https://open.spotify.com/album/4r4Mgrost9naXOoWtLKJFR"
       },
       "artists": [
         {
@@ -1423,6 +1445,24 @@
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 334560,
+      "name": "Gold Teeth",
+      "url": "https://open.spotify.com/track/0xxRT4tFluHiKNdyjNvYz5"
+    },
+    {
+      "album": {
+        "name": "Gold Teeth",
+        "url": "https://open.spotify.com/album/2Ow5Z07VA7maRIXfNRolex"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 334560,
       "name": "Gold Teeth",
       "url": "https://open.spotify.com/track/5Xnk7cBC8PX20HZurxdWbY"
@@ -2757,6 +2797,28 @@
     },
     {
       "album": {
+        "name": "This Is the Sound",
+        "url": "https://open.spotify.com/album/4O30VW31P6zUNxdrTKog4H"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192401,
+      "name": "This Is The Sound",
+      "url": "https://open.spotify.com/track/5JsIQ66sNFViii1ECZvtUp"
+    },
+    {
+      "album": {
         "name": "This Is The Sound",
         "url": "https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u"
       },
@@ -2772,7 +2834,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 192401,
       "name": "This Is The Sound",
       "url": "https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj"

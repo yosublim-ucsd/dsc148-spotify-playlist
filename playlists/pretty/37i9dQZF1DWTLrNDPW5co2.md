@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: COBRAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,833 likes - 65 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,867 likes - 65 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 13 | [Fuck It!](https://open.spotify.com/track/4GTa4r47RMGgVzESGRmEul) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Fuck It!](https://open.spotify.com/album/1snDRRO46ItFbvq8OyNvo2) | 3:41 |
 | 14 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 |
 | 15 | [Prada](https://open.spotify.com/track/7I8UTLiBA1ptFm04WulwhH) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 2:43 |
-| 16 | [Cherubim](https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/3WlyBAG8AbL6E9C09KGU4w) | 3:22 |
+| 16 | [Cherubim](https://open.spotify.com/track/0s3n92u9jI25xG2scjiD2e) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/7FjnK5gYOz1qRsAuDlGuqc) | 3:22 |
 | 17 | [Slay 4 Me \(feat\. Jesse Fields\) \- Edit](https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [It's Giving EP](https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ) | 3:39 |
 | 18 | [Sweat](https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Sweat](https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs) | 3:20 |
 | 19 | [J'adore](https://open.spotify.com/track/3ZspQSOFcZZfRZhNoYDPLs) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [J'adore](https://open.spotify.com/album/1WUIUtEcyOdIjnjosifXK0) | 3:02 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 48 | [GLAMOUR Riddim](https://open.spotify.com/track/61gAlsx885y2RvpPwwcJo0) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [love has never been a popular movement.](https://open.spotify.com/album/3S3okSECqppR83HJYWGoxY) | 5:48 |
 | 49 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
 | 50 | [Cocky](https://open.spotify.com/track/3UwPb3pdpSN0cUxl4XGpO2) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/1G9wCQ0maje1EMpManZZ6M) | 4:50 |
-| 51 | [Amber Rush](https://open.spotify.com/track/4AqvfnUyIfQoa4hIbEPYnt) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Amber Rush](https://open.spotify.com/album/7ahTHniOH0ml5SiymYAhmW) | 6:05 |
+| 51 | [Amber Rush](https://open.spotify.com/track/0OvsbQdI2xvN7HXosDtfoJ) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Amber Rush](https://open.spotify.com/album/0nAGpiOiKPhWd8rYe7JdgF) | 6:05 |
 | 52 | [Str8 Acting](https://open.spotify.com/track/7g1R3Hd3BmYtTE1j4Jlsyi) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/3kfoQafwQQuUkr3MCSalLS) | 3:55 |
 | 53 | [Hip Hop Spa](https://open.spotify.com/track/4pA0yTeV9l0aSwXX593ZBN) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Genre\-Specific Xperience](https://open.spotify.com/album/3SHUtCuskxWnDgBHhupzaF) | 4:24 |
 | 54 | [He Is the Voice I Hear](https://open.spotify.com/track/0bC0IHtRUfM82mozT9cjCh) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [He Is the Voice I Hear](https://open.spotify.com/album/76LFRQ0iWwIJLvdyxL6CzK) | 10:29 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 59 | [IN IN IN](https://open.spotify.com/track/3APSXl8dTTumv9L1HHpCCV) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 3:17 |
 | 60 | [Celestial Sodomy](https://open.spotify.com/track/1WqXDdzkMhoD4LK3xk2oV1) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Celestial Sodomy](https://open.spotify.com/album/5eKRxFeuq5nAdoJTLf8NJv) | 3:20 |
 | 61 | [Red Plum](https://open.spotify.com/track/0R0dUadXGacI5Hy9W02SUf) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Heart Ego](https://open.spotify.com/album/4BQMPV1sdn3KNsza25QxRX) | 3:42 |
-| 62 | [Marlene](https://open.spotify.com/track/6baJdLkGaQ0T6Srg7B4ONS) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Marlene](https://open.spotify.com/album/6mBSueYh7UzUMr6XmEJ9OI) | 6:38 |
+| 62 | [Marlene](https://open.spotify.com/track/79oTqgo2EgUkLQ5IYwTteW) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Marlene](https://open.spotify.com/album/5PylsVfO7Ykw9izPDqmdtr) | 6:38 |
 | 63 | [Obliterate](https://open.spotify.com/track/12bWYZA94k9TyxAVQ5aBQ5) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [To Breathe Underwater](https://open.spotify.com/album/2lL7bjuc1QrmCYFuJb1fng) | 3:33 |
 | 64 | [Stable](https://open.spotify.com/track/1817ydt1CL3eGGYELfOJ4m) | [gayphextwin](https://open.spotify.com/artist/47dyK0Chuion8ciGWDZuxa) | [Spiro](https://open.spotify.com/album/5SDYui91J517bJCwP879gS) | 4:08 |
 | 65 | [Raw Silk Uncut Wood](https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Raw Silk Uncut Wood](https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY) | 10:00 |
 
-Snapshot ID: `MCwxYTg4MjNjZTg5ZDEwYWNhMjgxMTg0MTk3ZDhkYWI3MWNjN2VmODM0`
+Snapshot ID: `MCwwYWI0OGIxNzQ3Y2U1YTE1Yjg0MjljNjI2YzE1OTYzNjY2MDBkNTkw`

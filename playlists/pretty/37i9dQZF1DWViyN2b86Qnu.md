@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > <a href="http://spotify.com/transvisibility">Take action to support the transgender community.</a> Cover: Cry Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,513 likes - 65 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,530 likes - 65 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 26 | [Money](https://open.spotify.com/track/0E0tfiXIW7SDC579Z03lIi) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [ORO, PLATA, MATA](https://open.spotify.com/album/6O8Q2Eqh9EKRUKrkdRZJpv) | 3:35 |
 | 27 | [Flor de piel](https://open.spotify.com/track/2yl80UjeK76D1QE17hDDPv) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a), [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [Flor de piel](https://open.spotify.com/album/5PAtTXm3sZDzakXru1NHbu) | 2:35 |
 | 28 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
-| 29 | [Spell For Nature](https://open.spotify.com/track/6niV6x6Cr37SM7zT5vd8Qi) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 4:03 |
+| 29 | [Spell For Nature](https://open.spotify.com/track/4gaoWqNl4GLcJHIeryIKjP) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/3hkdqLvcp6vFYyHHw19NBu) | 4:03 |
 | 30 | [Bliss](https://open.spotify.com/track/4ORcdppFxWA1jyIIP7l1v5) | [T\. Thomason](https://open.spotify.com/artist/4qW3B9lAaefCiA5m5fUAZg) | [T\. Thomason](https://open.spotify.com/album/0o29cHRDEWbG1ojTtJmsiC) | 3:00 |
 | 31 | [Lolo 13](https://open.spotify.com/track/5YGVoookgrVr9Zyw615G1Q) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [At War With The Silverfish](https://open.spotify.com/album/1D5mBLxOJpg426RflIyFAf) | 2:41 |
 | 32 | [Forever In Sunset](https://open.spotify.com/track/7ofb8SMiE4pDit5ewXNArn) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [All Of Us Flames](https://open.spotify.com/album/5vO3cJcNAgBv91ADrMnc8l) | 4:22 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 64 | [Snow Globe](https://open.spotify.com/track/0HIgjxzpOhYH63sSu8Fy3f) | [Reggii](https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP) | [Snow Globe](https://open.spotify.com/album/3fkg3Lc4FhrTwzkDVnquzo) | 3:23 |
 | 65 | [Rendezvous](https://open.spotify.com/track/5UNRCb1mKJHiU6iQlGlKuv) | [Miss Benny](https://open.spotify.com/artist/4tcbyfp5CTM0m9AQYGduIX) | [Rendezvous](https://open.spotify.com/album/7jWbadSB4MhmBmt5ZgpW1e) | 3:16 |
 
-Snapshot ID: `MCxjMjQ4ZGI4NGM2Y2FmMTYwMTk4NGE2ZWMyNDViMjU3ODEyYTNiNjZi`
+Snapshot ID: `MCxiMGUwZDNjMjEyNjFhMzVlZmI0ODZhNTU4NTJhMDE5ODU2ZGY4ZjM4`

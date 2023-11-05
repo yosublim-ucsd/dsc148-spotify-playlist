@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 
 > Experimental electronic beyond the borders of tradition.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,794 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,810 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 28 | [Total Reality, Total Chaos \(Part II\)](https://open.spotify.com/track/5AV0WvpgjbVfBddrcxnlXd) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8) | [Total Reality, Total Chaos](https://open.spotify.com/album/4EaLkzfVkLqVNOic2UZr4N) | 16:19 |
 | 29 | [Hoshikuzu Tenboudai](https://open.spotify.com/track/2vLy8pWoJemAkTnOooW7fT) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [Yasuragi Land](https://open.spotify.com/album/1hbAeHIVlpRC9xzgT2sqDi) | 2:35 |
 | 30 | [Life's Eye](https://open.spotify.com/track/3zqINXbmbLNmp7uO6gXOtj) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [LP2](https://open.spotify.com/album/55sCnDa3AJX3CeSM0pSO8e) | 4:14 |
-| 31 | [Roygbiv](https://open.spotify.com/track/06teMXvgw1V8HP3wIfoMUm) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Roygbiv](https://open.spotify.com/album/2l1FDimk3Ps9g404lYOsjr) | 5:08 |
+| 31 | [Roygbiv](https://open.spotify.com/track/0jF2yeHcJLZyaKoow6Pwca) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Retrograde](https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs) | 5:08 |
 | 32 | [Black Rainbow](https://open.spotify.com/track/35fdFuD916UVSJ9BBAlMt4) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Black Rainbow / Moonlight](https://open.spotify.com/album/3OJZNp1l2uBQWXa0YTujmA) | 4:32 |
 | 33 | [Nychthemera in A Major](https://open.spotify.com/track/1VXkNxE0szN2MNsk4x7P8C) | [Time Binding Ensemble](https://open.spotify.com/artist/3J38y27gYbg3Nea2kHAOsC) | [Nothing New Under the Sun](https://open.spotify.com/album/1jfzhXPBdOKHgWN8NyIZPt) | 3:40 |
 | 34 | [Copacetia](https://open.spotify.com/track/1VEO3XUn4W2dCCB0mCA5DG) | [Ochre](https://open.spotify.com/artist/0OmHDBh5styCXDWKwz58Ts) | [Lemodie \(15th Anniversary Edition\)](https://open.spotify.com/album/6vmNIGqZ4J7UGGIbAMpt8o) | 6:39 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 46 | [Node](https://open.spotify.com/track/3nl1xQyRdjGkc85I92EBac) | [Rhombus Index](https://open.spotify.com/artist/0Uld6wwtj0uNmhItPuZp2H) | [Planar EP](https://open.spotify.com/album/0d9VoYD8bZjuLMImq5Pqbh) | 7:24 |
 | 47 | [On\-Line](https://open.spotify.com/track/356mCkfTkc75lPlPxAsKFU) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Torus / On\-Line](https://open.spotify.com/album/1hIdgjyTLTzxUb2KuoFoHP) | 3:53 |
 | 48 | [Trouble](https://open.spotify.com/track/6nhUxgNa071Y79ihXy8K1c) | [Friz07](https://open.spotify.com/artist/39HPoPdSDDc9nJO6d3mOZR) | [Save The Night \- House: Trouble](https://open.spotify.com/album/4WyBZhrBG7FJTKXFRBLRf6) | 7:13 |
-| 49 | [Everything In Its Right Place](https://open.spotify.com/track/4hIjfcWeaUIg5JIgFsqyXj) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Everything In Its Right Place](https://open.spotify.com/album/0IyUMNyvIsMMm1v6WyQ2oQ) | 5:16 |
+| 49 | [Everything In Its Right Place](https://open.spotify.com/track/0JHMC0yRspj8WLUHimDsI0) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Retrograde](https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs) | 5:16 |
 | 50 | [Parenthesis](https://open.spotify.com/track/4oSjtDkvYK0mEVJb6m3Y0U) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa) | [Parenthesis](https://open.spotify.com/album/5dKEV7dfFbH6YU5FOQBYmg) | 3:12 |
 | 51 | [Cosmic Serpent \- Dub](https://open.spotify.com/track/38mnl6h9zf6ByndcoRkujW) | [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy) | [O! Versions](https://open.spotify.com/album/3VTa5w9IrSNqd1MxejXFlu) | 5:46 |
 | 52 | [Danza De Los Voladores](https://open.spotify.com/track/1r9R3iy3SjeFXlDgeuxzo8) | [Marco Shuttle](https://open.spotify.com/artist/2DqPerh6whhlts8Pb0BUJi) | [Cobalt Desert Oasis](https://open.spotify.com/album/5CF51zMpCiEKUReRLJyoDb) | 4:47 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 70 | [Deine Augen](https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/4P7MM9wLkv3pZIeA79ti8N) | 5:16 |
 | 71 | [Clouded Temper \| Small Steps](https://open.spotify.com/track/3V0M0Sw0xNb6p4k8gxhAex) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [A Violet Sleep EP](https://open.spotify.com/album/2Sean6tGeNquVJS5jIHxMn) | 7:03 |
 | 72 | [Sympathetic Cycle](https://open.spotify.com/track/7tX0JrCDjtYJRKjeFz7SNH) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [A Violet Sleep EP](https://open.spotify.com/album/2Sean6tGeNquVJS5jIHxMn) | 5:01 |
-| 73 | [It’s A Lot](https://open.spotify.com/track/73KoHFtH40JvEGCtFi0UIN) | [Krust](https://open.spotify.com/artist/6WPeOlm3f3UGoO1l6OPOUO) | [The Edge Of Everything](https://open.spotify.com/album/4DeB6ku3F7xSVhgqc4PxKO) | 1:52 |
+| 73 | [It’s A Lot](https://open.spotify.com/track/0wZpU9weYE0BomxUdSCTgt) | [Krust](https://open.spotify.com/artist/6WPeOlm3f3UGoO1l6OPOUO) | [The Edge of Everything](https://open.spotify.com/album/28AlKDe5X9WlkqJSEYlbFJ) | 1:52 |
 | 74 | [I'll be 20 when I'm 40](https://open.spotify.com/track/4x47gRjGYRRiDGhbdtpnCs) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Patrimony](https://open.spotify.com/album/7olQu6AkixLOum1nfMkZvf) | 5:13 |
 | 75 | [Those Tears of Hutton](https://open.spotify.com/track/49WbV4XtJ5QWJd2m5UrwSg) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [This Moment of Silence](https://open.spotify.com/album/6Zj6qfpTfQCmlyajevOM8z) | 6:15 |
 
-Snapshot ID: `MCw0Y2VlNTUwMzAxYzZkOTYwNTgxZDcyZTc5YzhlNmFiZDE4YmRhOWZl`
+Snapshot ID: `MCwzZjNlZDdhMDNkZjUzMDU4NmJjY2FkMGE4NmM0Y2VjOWYzZDdmYmQw`

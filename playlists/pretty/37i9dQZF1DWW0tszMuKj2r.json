@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ca\u00f1onazos salseros para persignar la pista de baile!",
-  "num_followers": 48989,
+  "num_followers": 49053,
   "original_name": "Salsa Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODRiOWVlZDlhMmIxMWUyODZkN2I0ZWM4YzI2MmYxYmY5YzMwMjhk",
+  "snapshot_id": "MCwyMGRhNTA4MGQxZDdkMTMwYzVkODM5ZGU1Nzg2ZWVkN2E3OGY1MmUx",
   "tracks": [
     {
       "added_at": "2022-12-30 20:26:55",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
-      },
-      "artists": [
-        {
-          "name": "Max Torres",
-          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
-        }
-      ],
-      "duration_ms": 264312,
-      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Exitos Y Mas Exitos",
         "url": "https://open.spotify.com/album/0ZiO84WuLFyD21W4lq62LO"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 306960,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/0DrNa6Ol75djsKlw67TABQ"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
+      },
+      "artists": [
+        {
+          "name": "Max Torres",
+          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
+        }
+      ],
+      "duration_ms": 264312,
+      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
+        "name": "Dispuesto a Todo",
+        "url": "https://open.spotify.com/album/0YEU0pTqI6vcWHJ6EgBbaY"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "duration_ms": 285001,
+      "name": "Pa Que Me Llamas - Salsa",
+      "url": "https://open.spotify.com/track/5lC7UYPXpj6uMkwh6qKPFl"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
         "name": "Salsa Sabrosa",
         "url": "https://open.spotify.com/album/4dYs67b6TGJLSmh8WbW0Zt"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 296040,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/7x755UIRuKP7ZpaVvHdgN1"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "En Trance",
-      "url": "https://open.spotify.com/track/10Gj7A5eU44xIgdPuD5vhj"
     },
     {
       "added_at": "2022-12-30 20:26:55",

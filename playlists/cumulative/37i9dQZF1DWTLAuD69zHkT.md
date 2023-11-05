@@ -4,12 +4,13 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-98 songs - 7 hr 16 min
+99 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 O'Clock In The Morning Blues](https://open.spotify.com/track/7HbnGDwIxqv4AQ64QuLljx) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Bold Soul Sister: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/3o9NHT9ox7Is7ZzQXm2OE9) | 2:39 | 2022-07-13 |  |
-| [A Fool No More](https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 7:44 | 2022-07-13 |  |
+| [A Fool No More](https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 7:44 | 2022-07-13 | 2023-11-05 |
+| [A Fool No More](https://open.spotify.com/track/4h5r5YL1QXFiblkRUtTXCb) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/6t9AXiAHR0S6BFKzVYNTQB) | 7:44 | 2023-08-23 |  |
 | [A Man and the Blues](https://open.spotify.com/track/6fT85JDHqhkQv26CW7apxG) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Slow Blues \- 25 Rare Blues Tracks](https://open.spotify.com/album/5IQlmcuc8I8RlY4h9ELihB) | 6:21 | 2022-07-13 |  |
 | [A New Leaf](https://open.spotify.com/track/6EdBagK4kqITdw34mBzTof) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 2:30 | 2023-02-24 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/1ebftgRZcnctL8GpBu0nu8) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 3:20 | 2022-07-13 |  |

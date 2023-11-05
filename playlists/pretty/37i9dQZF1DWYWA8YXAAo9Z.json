@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 48508,
+  "num_followers": 48545,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDczY2FkOGJhZTUzMzYwOTcwMzBkZjJjZDBkZjIyNjBmZGZhMzNk",
+  "snapshot_id": "MCxiMWE0ZmY4OWZlYjVmYWY4MzQ2MjdkMDQ0MWYwMjhiZDhkYTFlOWNl",
   "tracks": [
     {
       "added_at": "2023-10-02 13:18:34",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Wander Into",
+        "url": "https://open.spotify.com/album/2znnC4ARtEUM54724LlMoa"
+      },
+      "artists": [
+        {
+          "name": "Ann Annie",
+          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "Wander Into",
+      "url": "https://open.spotify.com/track/5xOv6ER7scPxk1LIIYFoLv"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Secret Garden",
         "url": "https://open.spotify.com/album/7Lhvt5nCdHqiKy07HgDWFd"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Wander Into",
-        "url": "https://open.spotify.com/album/2znnC4ARtEUM54724LlMoa"
+        "name": "Generative Ambient Vol 1: Modular Synth Instrumentals",
+        "url": "https://open.spotify.com/album/4ggW8kXcgYFxKOtiApiqry"
       },
       "artists": [
         {
-          "name": "Ann Annie",
-          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
+          "name": "PalKid",
+          "url": "https://open.spotify.com/artist/0q9Ts8UgxT6USu2ElZgsqW"
         }
       ],
-      "duration_ms": 353000,
-      "name": "Wander Into",
-      "url": "https://open.spotify.com/track/5xOv6ER7scPxk1LIIYFoLv"
+      "duration_ms": 139847,
+      "name": "Cloudwalker",
+      "url": "https://open.spotify.com/track/2gLhikHEeRFCjvOM5Li9NR"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -643,22 +659,6 @@
       "duration_ms": 316786,
       "name": "Deine Augen",
       "url": "https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Generative Ambient Vol 1: Modular Synth Instrumentals",
-        "url": "https://open.spotify.com/album/4ggW8kXcgYFxKOtiApiqry"
-      },
-      "artists": [
-        {
-          "name": "PalKid",
-          "url": "https://open.spotify.com/artist/0q9Ts8UgxT6USu2ElZgsqW"
-        }
-      ],
-      "duration_ms": 139847,
-      "name": "Cloudwalker",
-      "url": "https://open.spotify.com/track/2gLhikHEeRFCjvOM5Li9NR"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI"
-      },
-      "artists": [
-        {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Circle 18",
-      "url": "https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Being There (Ambient)",
         "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
       },
@@ -771,18 +751,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Sollbruchstelle 1-3",
-        "url": "https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo"
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI"
       },
       "artists": [
         {
-          "name": "Jas Shaw",
-          "url": "https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV"
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
         }
       ],
-      "duration_ms": 311548,
-      "name": "A man with two watches",
-      "url": "https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu"
+      "duration_ms": 168000,
+      "name": "Circle 18",
+      "url": "https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -855,22 +839,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "cells_",
-        "url": "https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv"
-      },
-      "artists": [
-        {
-          "name": "DARK",
-          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
-        }
-      ],
-      "duration_ms": 145376,
-      "name": "cells_",
-      "url": "https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "My Birthday Suit",
         "url": "https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX"
       },
@@ -903,6 +871,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "cells_",
+        "url": "https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv"
+      },
+      "artists": [
+        {
+          "name": "DARK",
+          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
+        }
+      ],
+      "duration_ms": 145376,
+      "name": "cells_",
+      "url": "https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "The landscape has become a bed",
         "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
       },
@@ -919,22 +903,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "The Last Wave",
-        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
-      },
-      "artists": [
-        {
-          "name": "Ibukun Sunday",
-          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Last Earth",
-      "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Tide Pools",
         "url": "https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH"
       },
@@ -947,6 +915,22 @@
       "duration_ms": 268043,
       "name": "Tide Pools",
       "url": "https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "The Last Wave",
+        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
+      },
+      "artists": [
+        {
+          "name": "Ibukun Sunday",
+          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Last Earth",
+      "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1083,22 +1067,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Interlude 03",
-        "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
-      },
-      "artists": [
-        {
-          "name": "Farsi",
-          "url": "https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Interlude 03",
-      "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm"
       },
@@ -1111,6 +1079,22 @@
       "duration_ms": 216000,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Interlude 03",
+        "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
+      },
+      "artists": [
+        {
+          "name": "Farsi",
+          "url": "https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Interlude 03",
+      "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1135,22 +1119,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Sleep to Dream",
-        "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
-      },
-      "artists": [
-        {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
-        }
-      ],
-      "duration_ms": 263142,
-      "name": "Sleep to Dream",
-      "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Mirror Ensemble",
         "url": "https://open.spotify.com/album/23mBqaNaTe05zZM8oQXtag"
       },
@@ -1163,6 +1131,22 @@
       "duration_ms": 235000,
       "name": "Rose Water",
       "url": "https://open.spotify.com/track/6AEXBSliph7nngKCqahlV5"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Sleep to Dream",
+        "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+        }
+      ],
+      "duration_ms": 263142,
+      "name": "Sleep to Dream",
+      "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1271,18 +1255,34 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "One Last Glimpse",
-        "url": "https://open.spotify.com/album/4iEqB4pq7daniE9TK4qPXS"
+        "name": "Good Sound",
+        "url": "https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF"
       },
       "artists": [
         {
-          "name": "Caldera",
-          "url": "https://open.spotify.com/artist/4Nhu6YZ1PktzEW8MnDGI4V"
+          "name": "Jstory",
+          "url": "https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji"
         }
       ],
-      "duration_ms": 517599,
-      "name": "Plant Memory",
-      "url": "https://open.spotify.com/track/4hTgQoWtIWyZMPkKteRJpJ"
+      "duration_ms": 251009,
+      "name": "Particulator",
+      "url": "https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Wing Pinger",
+        "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
+      },
+      "artists": [
+        {
+          "name": "Scanner",
+          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
+        }
+      ],
+      "duration_ms": 511730,
+      "name": "Wing Pinger 01",
+      "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
     }
   ],
   "unique_name": "Modular Synths",

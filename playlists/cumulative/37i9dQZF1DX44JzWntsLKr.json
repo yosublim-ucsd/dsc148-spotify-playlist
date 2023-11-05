@@ -492,10 +492,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 142173,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0ovdVUlmpwFABG7D7xsUb8"
+    },
+    {
+      "album": {
+        "name": "SHAPE OF LOVE",
+        "url": "https://open.spotify.com/album/7KncCixIi7xhPSYBHGMm3q"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142173,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4QqozqxrWE5YIzbJUALuPw"
     },
     {
       "album": {
@@ -518,6 +536,28 @@
     {
       "album": {
         "name": "SHAPE OF LOVE",
+        "url": "https://open.spotify.com/album/7KncCixIi7xhPSYBHGMm3q"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200426,
+      "name": "Burning Up (feat. R3HAB)",
+      "url": "https://open.spotify.com/track/0Rb6T3b7j7cYDmGP9oZbcL"
+    },
+    {
+      "album": {
+        "name": "SHAPE OF LOVE",
         "url": "https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu"
       },
       "artists": [
@@ -532,7 +572,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 200426,
       "name": "Burning Up (feat. R3HAB)",
       "url": "https://open.spotify.com/track/5fw5CY7DwCTw4Jef87yUNv"
@@ -1456,6 +1496,24 @@
     {
       "album": {
         "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/1LZMbVQYkhpgVixUv0q7cP"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190586,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0dKwCfn6KgQhUkx2EDmtcX"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
         "url": "https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII"
       },
       "artists": [
@@ -1466,7 +1524,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 190586,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/3k9tiwbGNmznma8hCuLMhp"
@@ -1711,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146096,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/1EFp3r8qhj1MKmRaWEZOx6"
+    },
+    {
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ"
       },
@@ -1722,7 +1798,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 146096,
       "name": "One Day",
       "url": "https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI"

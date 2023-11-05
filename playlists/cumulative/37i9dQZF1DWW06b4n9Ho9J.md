@@ -4,7 +4,7 @@
 
 > Editors' picks of the best indie tracks this year\. Cover: Japanese Breakfast
 
-147 songs - 8 hr 33 min
+148 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [I See You Sometimes](https://open.spotify.com/track/1E9oCoLMhffbcovDHF9bH5) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [I See You Sometimes](https://open.spotify.com/album/6173eST6eRM4yM0Xd7x503) | 3:05 | 2021-12-01 | 2023-02-03 |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2021-12-01 |  |
 | [Invisible Fence](https://open.spotify.com/track/5ziFqEEcLfe7G6MdrnCLy8) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [MOTOR FUNCTION](https://open.spotify.com/album/0ZjQWZDaXkxLgncA7RSbsS) | 2:35 | 2021-12-01 |  |
-| [It's a good day \(to fight the system\)](https://open.spotify.com/track/29pn29WZFkunYdDSv5w1Ta) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 3:17 | 2021-12-01 |  |
+| [It's a good day \(to fight the system\)](https://open.spotify.com/track/29pn29WZFkunYdDSv5w1Ta) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 3:17 | 2021-12-01 | 2023-11-05 |
+| [It's a good day \(to fight the system\)](https://open.spotify.com/track/4dxd3tUsKT52EMboYtceOQ) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/0THOsldcM5URR7idU1FTmc) | 3:17 | 2021-12-01 |  |
 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 | 2021-12-01 |  |
 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/3XnpvaKBaEhdzDbLdIhcKs) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/60XvBfx16DrRu5GKrH4E5E) | 2:53 | 2021-12-01 | 2022-07-29 |
 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 2:53 | 2021-12-01 |  |

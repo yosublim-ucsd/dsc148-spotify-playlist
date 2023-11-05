@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Westside Gunn",
-  "num_followers": 1617573,
+  "num_followers": 1617600,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmRhMTEyZjE1YjEzNDY0MWUyZTUwYzg4Y2ZhZTg2NDJiMWZkOTRj",
+  "snapshot_id": "MCw1YjdlMTY3ZDgyOGNhMGNhYjIxZTA4ZWJiZDAyY2U4MTUyNGJhNDMz",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "SUNDAY DINNER",
+        "url": "https://open.spotify.com/album/43C9qcFuylC5QjGspwpqTl"
+      },
+      "artists": [
+        {
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "TWO SIDES",
+      "url": "https://open.spotify.com/track/50bZ9l5bg1jgoglj6qgy8J"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
         "url": "https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 155003,
       "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
       "url": "https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "SUNDAY DINNER",
-        "url": "https://open.spotify.com/album/43C9qcFuylC5QjGspwpqTl"
-      },
-      "artists": [
-        {
-          "name": "Nick Grant",
-          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "TWO SIDES",
-      "url": "https://open.spotify.com/track/50bZ9l5bg1jgoglj6qgy8J"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Flying High, Part 2",
+        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Vertigo (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "California Poppy 3",
         "url": "https://open.spotify.com/album/2rQcJDMTU24dEnylHwZX9q"
       },
@@ -887,6 +907,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Dead Men (feat. Cozz)",
+        "url": "https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O"
+      },
+      "artists": [
+        {
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        },
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        }
+      ],
+      "duration_ms": 171989,
+      "name": "Dead Men (feat. Cozz)",
+      "url": "https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Start Finish Repeat",
         "url": "https://open.spotify.com/album/0jFuO3558SHKGCMOiGyU8n"
       },
@@ -907,26 +947,6 @@
       "duration_ms": 186136,
       "name": "Houston BBQ (feat. Bun B)",
       "url": "https://open.spotify.com/track/1BOdSKk6qnTUMY3AV0hayh"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Dead Men (feat. Cozz)",
-        "url": "https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O"
-      },
-      "artists": [
-        {
-          "name": "408 Darwin",
-          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
-        },
-        {
-          "name": "Cozz",
-          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
-        }
-      ],
-      "duration_ms": 171989,
-      "name": "Dead Men (feat. Cozz)",
-      "url": "https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -975,22 +995,6 @@
       "duration_ms": 187220,
       "name": "That's Tuff!",
       "url": "https://open.spotify.com/track/0c2DtieVbDxUUf1lxpBJLX"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Roc-A-Fella Y'all",
-        "url": "https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 299703,
-      "name": "Roc-A-Fella Y'all",
-      "url": "https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp"
     }
   ],
   "unique_name": "Spilled Ink",

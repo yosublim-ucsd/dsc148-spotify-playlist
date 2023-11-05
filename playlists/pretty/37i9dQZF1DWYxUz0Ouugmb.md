@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Naura Ayu
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,864 likes - 49 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,874 likes - 49 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 43 | [Cara Mencintaimu](https://open.spotify.com/track/4MrfQarlWb9JspRGRVki2x) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Cara Mencintaimu](https://open.spotify.com/album/5wmdiXrcZzB9frQXrzpuAF) | 4:32 |
 | 44 | [Jakarta Hari Ini](https://open.spotify.com/track/3OarBmsAVPJG42EVPWkTwh) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Get Closer with For Revenge](https://open.spotify.com/album/6S5wissFJVU7kyPv6O4sqd) | 3:37 |
 | 45 | [to be with me](https://open.spotify.com/track/5OB6BoRXGsHSLxS6SOWSB5) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [wonder in time](https://open.spotify.com/album/4rp85WPCI7BXYvDzEU5AgB) | 3:39 |
-| 46 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 |
+| 46 | [terima kasih](https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ) | 3:24 |
 | 47 | [Menikmati Sedih](https://open.spotify.com/track/2heuYHKwBHBPlZXwBzgPKR) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Menikmati Sedih](https://open.spotify.com/album/6YvHggy1I85hyUcPw2uXpZ) | 4:06 |
 | 48 | [Amin Kita Beda](https://open.spotify.com/track/6cHeFykKTpMpWfGG1T6SbG) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/1H1E64YHp6JOoKxKjwmQqm) | 4:07 |
 | 49 | [Cinta Air Mata](https://open.spotify.com/track/1Mhevyt2cl5lvG3htZoK7a) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Air Mata](https://open.spotify.com/album/7LdARvPk1Wms5pKXqP5UUp) | 4:39 |
 
-Snapshot ID: `MCw5M2I5NTU4M2E2Y2UxNmQxOThiY2EyMWM5NTFlZDQ2YmMyYWJmYWRh`
+Snapshot ID: `MCw0OTU2ZjIyNjkxMjUyMmJkN2FkMWQ5Y2JkZmFkMWEzNWViNjlkZmJh`

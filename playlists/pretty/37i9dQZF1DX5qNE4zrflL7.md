@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,057 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,136 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 47 | [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 |
 | 48 | [Can't Find My Way Home](https://open.spotify.com/track/3VyJGPYr2DF9gdBNosSao4) | [Blind Faith](https://open.spotify.com/artist/5GUVj2b1lJ4DolQyHlzyaO) | [Blind Faith](https://open.spotify.com/album/6xmPL0CddWADJTJkJZkrl2) | 3:16 |
 | 49 | [Debora](https://open.spotify.com/track/5ADiy8c2ir9ewoKnsGWrYs) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Get It On: The Collection](https://open.spotify.com/album/3NvakF8DkALyWdzQabFo1S) | 3:07 |
-| 50 | [Pictures of Matchstick Men \- Mono Version](https://open.spotify.com/track/0MRs5O62wfDgf5cQKalrPq) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Picturesque Matchstickable Messages from the Status Quo](https://open.spotify.com/album/6GjmCt1jb9IiOTw106Xa4W) | 3:10 |
+| 50 | [Pictures of Matchstick Men](https://open.spotify.com/track/49Y63pCtLCOdbRBokfFxOt) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Picturesque Matchstickable Messages from the Status Quo](https://open.spotify.com/album/7nZD9x7CWHtnvL0H7Gkrum) | 3:15 |
 | 51 | [Zig Zag Wanderer](https://open.spotify.com/track/1F7euzYeo32NncoyEBo63v) | [Captain Beefheart & His Magic Band](https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw) | [Safe As Milk](https://open.spotify.com/album/0DFhGsFKG7G58cke33GlAh) | 2:38 |
 | 52 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
 | 53 | [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 79 | [The Hedgehog's Song \- 2010 Remaster](https://open.spotify.com/track/7IyDLBtIXS2EKZEt8trS03) | [The Incredible String Band](https://open.spotify.com/artist/0tQzBYPjAardhWpGkqVdNW) | [The 5000 Spirits Or The Layers Of The Onion](https://open.spotify.com/album/3htu0UsV5JuouSfugMHNgS) | 3:27 |
 | 80 | [Philosophy of the World](https://open.spotify.com/track/2WhRJwrsy57H5Mm1P3lykJ) | [The Shaggs](https://open.spotify.com/artist/5ixdD9E7P9r51AOcSInQbl) | [Philosophy of the World](https://open.spotify.com/album/0TzI1YcMAQVdQ4yUZuy7fA) | 2:57 |
 
-Snapshot ID: `MCw5NDA3Y2Q0Nzg1NzYzYTlmZDI4YjJjMTIzODk1ZWViMzg3OTJjNGU4`
+Snapshot ID: `MCw2MzA0ZmEyOGM1MDRiYjc1YmM3MDQ4YzU0NGNlNzk3NGQ1NDE1OWQy`

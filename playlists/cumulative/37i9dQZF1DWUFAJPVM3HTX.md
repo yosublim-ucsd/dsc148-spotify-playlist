@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv?si=Dtfw4jkmT1\-06BCtssgYtA">Lekan</a>\. Updates every Wednesday.
 
-1,846 songs - 3 day 23 hr 5 min
+1,847 songs - 3 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [1440](https://open.spotify.com/track/2fbS0Ka9up4KbcndDi189l) | [Public Goods](https://open.spotify.com/artist/4cQuovzAeCxbyJV7EAsh3l), [Mighloe](https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov), [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [1440](https://open.spotify.com/album/5i8kFjodwBmEKTTc698oEV) | 3:22 | 2022-07-01 | 2022-08-20 |
 | [180](https://open.spotify.com/track/5N9A8wilLIbrNAKBKdDuMi) | [Brenzy](https://open.spotify.com/artist/6G6qP0sP4oPveQ4bzizz4Z) | [180](https://open.spotify.com/album/56sMZ13E5jK2SgAxP4ctvO) | 2:58 | 2022-02-02 | 2022-03-24 |
 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-25 | 2023-09-25 |
-| [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-08-25 |  |
+| [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 | 2023-08-25 |  |
+| [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-08-25 | 2023-11-05 |
 | [21 Days](https://open.spotify.com/track/2tNdQSjqMzdDnUbvhjjnrK) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [21 Days](https://open.spotify.com/album/46GpnPx6tFwdC5mCVCrP0M) | 2:39 | 2022-04-27 | 2022-06-17 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-22 | 2023-08-04 |
 | [2AM](https://open.spotify.com/track/6lRRwsfmMLBUPiGLYTtWBb) | [Liyah Katana](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [8](https://open.spotify.com/album/5EkUPC1lK59jm0O0y1jswQ) | 2:37 | 2023-10-03 |  |

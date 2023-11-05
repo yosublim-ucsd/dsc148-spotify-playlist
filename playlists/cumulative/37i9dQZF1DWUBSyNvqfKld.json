@@ -242,10 +242,28 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 191000,
       "name": "HF2",
       "url": "https://open.spotify.com/track/0Bzj52BquYOISLOz4ABHdp"
+    },
+    {
+      "album": {
+        "name": "Mutated Battle Breaks Vol. 3",
+        "url": "https://open.spotify.com/album/0mRyiWWhP3JOYbCCfkHPe9"
+      },
+      "artists": [
+        {
+          "name": "Mark Broom",
+          "url": "https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "HF2",
+      "url": "https://open.spotify.com/track/2WFY0egXFANmIh6cD6wc9m"
     },
     {
       "album": {

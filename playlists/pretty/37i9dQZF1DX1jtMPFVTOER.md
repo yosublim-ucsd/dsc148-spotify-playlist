@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,578 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,601 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 62 | [Woe Is Me](https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Woe Is Me](https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX) | 3:40 |
 | 63 | [Uknowhut?](https://open.spotify.com/track/6SuCQ2rCH0r91ji3eFXsnP) | [Stik Figa](https://open.spotify.com/artist/2EOYzFWSEZyYkMfWq7K6nj), [The Expert](https://open.spotify.com/artist/6Bz1kYQZJKvxEC9syJjsqS), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Uknowhut?](https://open.spotify.com/album/75VwxVOIFP3ECDPj8BxQtX) | 2:26 |
 | 64 | [From A Lover](https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 2:55 |
-| 65 | [Feel It Comin \- Single Version](https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Feel It Comin](https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h) | 3:25 |
+| 65 | [Feel It Comin \(Single Version\)](https://open.spotify.com/track/0i5zc1yASsbEXUXFsqvgGY) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul \(Deluxe\)](https://open.spotify.com/album/41KI9nUWYRQDxXfgfbX5Zz) | 3:25 |
 | 66 | [Sugar Coating \- Edit](https://open.spotify.com/track/4dQi75NfxBM2XrUQCmCKfP) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Sugar Coating](https://open.spotify.com/album/1VKV9JOtOEbfWEKHAxvXBb) | 3:10 |
 | 67 | [All The Same](https://open.spotify.com/track/7mVDDe0DVooFn6G8dWdO85) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [All The Same](https://open.spotify.com/album/647eOV9vqw5QiTbbfYw5i5) | 3:28 |
 | 68 | [Going Up](https://open.spotify.com/track/2Lvs7JeQfuvLH0cPy6cOrV) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5), [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Going Up](https://open.spotify.com/album/2kivzwBTUYqNdR5l6WVbQk) | 6:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Shine](https://open.spotify.com/track/4ZVNCrYStmGn546kpAS1I2) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Shine](https://open.spotify.com/album/6RefKEwQv3tidPWBr4mBQ0) | 3:38 |
 | 100 | [you said...](https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [you said...](https://open.spotify.com/album/77L359klVW9v2ODUWvNPF5) | 2:14 |
 
-Snapshot ID: `MCxlNTM0YjMyNzU4MGJmZTMxN2NjMTIxZmJjNjFhZmVhYmFjMDgyN2Rm`
+Snapshot ID: `MCxjZDM4NWE5NmIyMjQ2OTFhYzM2ZTFkNjlhZmEwMzQyOWNjMGM4MjU3`

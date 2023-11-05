@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-230 songs - 14 hr 14 min
+231 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 | 2022-07-14 | 2023-09-01 |
 | [Bluebelle mountain](https://open.spotify.com/track/7dCjkIv4HK8V8QxfTVQWCa) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right pt\. II](https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK) | 3:20 | 2021-12-02 | 2022-07-29 |
 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 | 2023-04-27 |  |
+| [Border](https://open.spotify.com/track/31KepypEknlgoYnBwxR36s) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [Fredsvenn](https://open.spotify.com/album/6zm3WOslNglQXQNuJT0Tt5) | 4:01 | 2023-11-04 |  |
 | [Both Sides Now](https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities 2](https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH) | 3:52 | 2023-09-21 |  |
 | [Boy from the North](https://open.spotify.com/track/517ubeor9CZCN27nif3Bev) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 4:44 | 2021-12-02 | 2022-07-29 |
 | [Boy Tied In A Knot](https://open.spotify.com/track/0D6sECAN11gZwLV2LJWrKM) | [Mylder](https://open.spotify.com/artist/2il8lJz1YxlB2QJpvznBGF) | [Boy Tied In A Knot](https://open.spotify.com/album/2BRAJOVMfYuXRbbCGQmtK2) | 3:04 | 2023-09-28 | 2023-10-06 |
@@ -57,7 +58,7 @@
 | [Coming Home](https://open.spotify.com/track/3Ies4YqUvwKGY8TxKmxicZ) | [Lucky Lips](https://open.spotify.com/artist/57wRcXzsm02wA9Vh0yeJkb) | [Coming Home](https://open.spotify.com/album/2bZ5sNOSfy5NOOq69D1IIg) | 4:49 | 2021-12-02 | 2022-07-21 |
 | [Crystals](https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:03 | 2022-03-24 |  |
 | [Dark](https://open.spotify.com/track/2nfUcAyXnCs7VaedrWsbqI) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/5eq6sWxCUtIKSFZaLPmIO8) | 3:13 | 2021-12-02 | 2022-04-21 |
-| [Dark](https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:13 | 2022-07-14 |  |
+| [Dark](https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:13 | 2022-07-14 | 2023-11-05 |
 | [Darkest Night](https://open.spotify.com/track/0WjjBxrfnjtW8c2WSHZDJF) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Darkest Night](https://open.spotify.com/album/38Zutwd997e5hLl2565HfV) | 2:45 | 2023-10-05 |  |
 | [Dead Of The Night](https://open.spotify.com/track/5uwd5yUWXV4AtPCBIdz0WB) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Dead Of The Night](https://open.spotify.com/album/5cyHGjBQvgZv3zHK2Q1y71) | 10:07 | 2021-12-02 | 2022-07-29 |
 | [Demo of a One Night Stand \- Live](https://open.spotify.com/track/1RE5F9AkTYPQzcglYbd5K2) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Acoustic Session – Live in Oslo](https://open.spotify.com/album/0tBtWCAAGMGs7aV3NjRrOS) | 2:43 | 2022-05-26 | 2022-07-28 |

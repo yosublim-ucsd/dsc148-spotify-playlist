@@ -598,6 +598,28 @@
     {
       "album": {
         "name": "Eyes On You (feat. Chase Rice)",
+        "url": "https://open.spotify.com/album/1s0m2fZk3AnJXT5lstxXD8"
+      },
+      "artists": [
+        {
+          "name": "Positive Vibrations",
+          "url": "https://open.spotify.com/artist/4HK4FOF99boN9AaOtLdkMb"
+        },
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200866,
+      "name": "Eyes On You (feat. Chase Rice)",
+      "url": "https://open.spotify.com/track/2yDIvB2B91mIlv6XuidEuF"
+    },
+    {
+      "album": {
+        "name": "Eyes On You (feat. Chase Rice)",
         "url": "https://open.spotify.com/album/6AN0tipaUtM5wPqYreXc76"
       },
       "artists": [
@@ -612,7 +634,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 200866,
       "name": "Eyes On You (feat. Chase Rice)",
       "url": "https://open.spotify.com/track/7HM8TbCagVN3nrfF2UshfP"
@@ -1290,10 +1312,28 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 183453,
       "name": "Mimosas",
       "url": "https://open.spotify.com/track/3HyDZ8rB0Wh6yF6q7PBa1r"
+    },
+    {
+      "album": {
+        "name": "27861",
+        "url": "https://open.spotify.com/album/6v0nKIJz5dP5iZWGClu2JH"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183453,
+      "name": "Mimosas",
+      "url": "https://open.spotify.com/track/4qK2dwwOMhM5glUsgk9BwJ"
     },
     {
       "album": {

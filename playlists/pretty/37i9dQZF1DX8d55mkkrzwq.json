@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjdmNmY1OWI3YTZiYjllYzI2MzA5Zjc1NDE3YmQzYTk4YTZjYTE2",
+  "snapshot_id": "MCwxNTkwMWJmYTFkNDRlODE2ZGQ3NmZkMzNmMjVlMzZiMmM0MzllNDdi",
   "tracks": [
     {
       "added_at": "2023-09-14 08:57:47",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-09-14 08:57:47",
       "album": {
+        "name": "Honeysuckle & Lightning Bugs",
+        "url": "https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "duration_ms": 200593,
+      "name": "The Git Up",
+      "url": "https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm"
+    },
+    {
+      "added_at": "2023-09-14 08:57:47",
+      "album": {
         "name": "The Slide Album",
         "url": "https://open.spotify.com/album/3KoYKWvKJrI6T0n5D5PTCS"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 90277,
       "name": "Head, Shoulders, Knees and Toes",
       "url": "https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu"
-    },
-    {
-      "added_at": "2023-09-14 08:57:47",
-      "album": {
-        "name": "Honeysuckle & Lightning Bugs",
-        "url": "https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12"
-      },
-      "artists": [
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
-        }
-      ],
-      "duration_ms": 200593,
-      "name": "The Git Up",
-      "url": "https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm"
     },
     {
       "added_at": "2023-09-14 08:57:47",

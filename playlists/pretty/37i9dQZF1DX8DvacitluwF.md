@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P?si=Zu4IeIfPRYi5bev6bAC\_fw">Rowlene</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,110 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,157 likes - 55 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 54 | [On it](https://open.spotify.com/track/0tx9XxpGK0tPusehiixbMd) | [Cindii Masina](https://open.spotify.com/artist/4mh4cMpsxH7elAqheOtTf5) | [Love Fictioned](https://open.spotify.com/album/0pETiaM7mnLFyDbQKJXyoN) | 2:51 |
 | 55 | [Friends](https://open.spotify.com/track/2nhyCoUnpb9hea8f95iK4K) | [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Friends](https://open.spotify.com/album/6LGd6l4RhmR8hh99nPdLbK) | 3:18 |
 
-Snapshot ID: `MCwwNGRmMTBlYzNiMDI2NzgzMTJjNDExM2E0YmY5Mzk5Y2ViMDI1N2Qw`
+Snapshot ID: `MCxiOTJmNGYxNTZmYmYxMTRmZmM2NzY1ZTJmMDhiMWI3NGU5NzE3OTVi`

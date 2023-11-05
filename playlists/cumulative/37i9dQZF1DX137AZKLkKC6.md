@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Shakira & Fuerza Regida
 
-186 songs - 9 hr 33 min
+187 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Se Me Va La Vida](https://open.spotify.com/track/0HkQBh6OMP3UajE2xP66Eo) | [Lukas Bloom](https://open.spotify.com/artist/4F0AboKMXsJaZXtzTTAuvX) | [Se Me Va La Vida](https://open.spotify.com/album/3lA4BMOGbeLkEIKwd4sPij) | 2:43 | 2023-06-23 | 2023-07-15 |
 | [Se Te Nota](https://open.spotify.com/track/74jl7R6kG4lfiHY85ay9O1) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Se Te Nota](https://open.spotify.com/album/6tlScITlYfHc5raKEydO1F) | 3:05 | 2022-08-12 |  |
 | [Si Dios Perdona](https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Si Dios Perdona](https://open.spotify.com/album/70fClqkoidHfZivofJHZmc) | 3:00 | 2023-09-15 |  |
-| [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/track/3F0M7Ug02v7jsA0WTooFHz) | [Adriana Bottina](https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO) | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/album/1IIkANQG0n9nmNBpeF3huX) | 2:59 | 2023-09-29 |  |
+| [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/track/3F0M7Ug02v7jsA0WTooFHz) | [Adriana Bottina](https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO) | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/album/1IIkANQG0n9nmNBpeF3huX) | 2:59 | 2023-09-29 | 2023-11-05 |
+| [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/track/5i5OIawLy7YP0mq2S8eOMN) | [Adriana Bottina](https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO) | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/album/5f9qt2svDGSn6zZ6bOwNaI) | 2:59 | 2023-10-18 |  |
 | [Si Me Ven Llorando](https://open.spotify.com/track/5v6eE5Wn65VSoBiJnOUyTm) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Si Me Ven Llorando](https://open.spotify.com/album/7mHFFCcfWQiOQL9iRMb2g6) | 2:43 | 2022-08-12 |  |
 | [Si Supieras](https://open.spotify.com/track/7cZB9m0xJlmHtAPx981dsC) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [Si Supieras](https://open.spotify.com/album/0Oi2DcpQozGUnvWbx9OZA0) | 3:24 | 2022-08-26 | 2023-09-30 |
 | [Sin Ropa Eres Mía](https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Sin Ropa Eres Mía](https://open.spotify.com/album/3uAysXq7cISny7dDI93JRO) | 2:40 | 2022-08-12 |  |

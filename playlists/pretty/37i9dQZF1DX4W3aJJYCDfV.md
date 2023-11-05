@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from The Beatles, Cat Burns, Joy Anonymous and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,206 likes - 117 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,612 likes - 117 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 24 | [Someone Else](https://open.spotify.com/track/02BJ4G2eSGqO1vrTm8ZCEl) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Someone Else](https://open.spotify.com/album/4DfM93jNdKl5BFua7cPGfl) | 2:57 |
 | 25 | [Take 2](https://open.spotify.com/track/0bsavYnhsNlnYMSSaJ9Tjn) | [Akz](https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Take 2](https://open.spotify.com/album/1SC3uDFEsr2oS5VmeyTAvA) | 2:47 |
 | 26 | [fight or flight](https://open.spotify.com/track/4HLgLWqVYZTjCbakheLHW5) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [fight or flight](https://open.spotify.com/album/2ocV2GxroahFZFkUOYUFuF) | 3:16 |
-| 27 | [Nothing Lasts Forever](https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Nothing Lasts Forever](https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74) | 3:19 |
+| 27 | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74) | 3:19 |
 | 28 | [Spend the Night](https://open.spotify.com/track/2pijntqdV2Jmo8hHRPgVEk) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [Spend the Night](https://open.spotify.com/album/6l5X2akwgdy88kZNErEyDn) | 2:45 |
 | 29 | [Brilliant Mind II](https://open.spotify.com/track/1XOkwSEuFloCRyxQdTJS1h) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Brilliant Mind II](https://open.spotify.com/album/3fBsD931UHRVPRFJZD3MDF) | 2:49 |
 | 30 | [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 53 | [Silence Of Love](https://open.spotify.com/track/4oqrBk9A3WoouuMTDKGERh) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Silence Of Love](https://open.spotify.com/album/00UQmxp15bECetcjau5hTO) | 4:10 |
 | 54 | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm) | 3:50 |
 | 55 | [Look Ma, No Brains!](https://open.spotify.com/track/0Xs1aDAUmp3W6If2y5JQMK) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Look Ma, No Brains!](https://open.spotify.com/album/2alV6LwgUWGExud9ntcugb) | 2:03 |
-| 56 | [Weeping Willow](https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sosa](https://open.spotify.com/artist/314ehmekxo7jcyjq69j30E) | [Weeping Willow](https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD) | 3:35 |
+| 56 | [Weeping Willow](https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Weeping Willow](https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD) | 3:35 |
 | 57 | [Starfish](https://open.spotify.com/track/0otVqsef9Fz1mMNrHQW9lq) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Starfish](https://open.spotify.com/album/3i5JbdlvR9muS8QkK7Sj39) | 2:42 |
 | 58 | [Kinks](https://open.spotify.com/track/6biOWQ7B2x5VDxfZrQxg44) | [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT), [QUIN](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) | [Kinks](https://open.spotify.com/album/38xAsoxCRO7zuPsGfZi4Wv) | 3:33 |
 | 59 | [Ghetto Funk](https://open.spotify.com/track/1cIzUkax6X8tFi1VdgUqzu) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Ghetto Funk](https://open.spotify.com/album/7hHzqmQg7Ef5lAqev5l2Qu) | 2:33 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 107 | [Questions](https://open.spotify.com/track/4Gq6ruTtfDqTKefRHUaMC6) | [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Aaron Pfeiffer](https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF) | [Questions](https://open.spotify.com/album/0w2uyw9D1gy3ZV7aqTZ0jm) | 3:02 |
 | 108 | [RAH](https://open.spotify.com/track/7ozlap2QBDB6ByllrWshLz) | [EI8HT](https://open.spotify.com/artist/70rSvlI9SRspEr0C84bJ5Q) | [RAH](https://open.spotify.com/album/4SyI3DeG10XscMhPxpdoKP) | 3:25 |
 | 109 | [Once then we'll be free](https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Once then we'll be free](https://open.spotify.com/album/4vIM3lUezeQRsuevPU1h4N) | 3:23 |
-| 110 | [Peach](https://open.spotify.com/track/0OPVKeNzdYcGgXkAckZTSZ) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Peach](https://open.spotify.com/album/11QcVnZQgq8VYRQ7rXJJ7C) | 3:30 |
+| 110 | [Peach](https://open.spotify.com/track/0OPVKeNzdYcGgXkAckZTSZ) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Peach](https://open.spotify.com/album/11QcVnZQgq8VYRQ7rXJJ7C) | 3:02 |
 | 111 | [Fingerlickin' Goodness](https://open.spotify.com/track/2QyDW2O9bISuK7nvZEeeMY) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Isn't That Sweet](https://open.spotify.com/album/37j8XZS9Wh9eMBXuyy513D) | 3:18 |
 | 112 | [Therapy](https://open.spotify.com/track/1sLu81xmIKRbm5NsQeOCi9) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [Therapy](https://open.spotify.com/album/2Gyk9FHlE5QmTKH5P1mrsn) | 6:01 |
 | 113 | [In The Dark \- Radio Edit](https://open.spotify.com/track/4Gb2ic3lEMSnp5GLZXK8uC) | [UNREFINED](https://open.spotify.com/artist/0WLgZ6t9LyYpHU8Rpnf6av) | [In The Dark \(Radio Edit\)](https://open.spotify.com/album/6ysAW4tBFasQqJaT7fcZdy) | 2:37 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 116 | [Thunder](https://open.spotify.com/track/4o2d35Wt5bSONtEry13b9C) | [Sunburn](https://open.spotify.com/artist/16BNZHiTlD6vCCWewqSNUy) | [Thunder](https://open.spotify.com/album/5sXsxApr7oIRx9jNfsmGNH) | 3:10 |
 | 117 | [End Of The World](https://open.spotify.com/track/4up9cZOgCa0T7i8IQU0JuT) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Otherness \- Side A \(Storm\)](https://open.spotify.com/album/2z0tcLf51fmNNGyuparjbO) | 4:00 |
 
-Snapshot ID: `MCwxYTViODY5NzNjNmQ5OWU4MTBmNzUzYWU1OWQ4YTZjNGQzODA0MDJl`
+Snapshot ID: `MCwzNmZiZDIxZDRjNzE5MGVhODA5NDljZGE1NTAyNDI0Yzk0MzBlODU4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: King Lil G & Young Drummer Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,925 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,989 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 28 | [Cowboy Killer](https://open.spotify.com/track/5SGWCqheDXPlYnv9aQs795) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 2:22 |
 | 29 | [Need That](https://open.spotify.com/track/6Mlt51MMwu5wg0f11BynCE) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Need That](https://open.spotify.com/album/1fbUmxGfHJQhvr2Va02YaW) | 2:30 |
 | 30 | [This Is What I Need](https://open.spotify.com/track/174sKBWy1cMVxUapeaD1SC) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Muriel](https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov) | [This Is What I Need](https://open.spotify.com/album/5xlnkITJKmXqDETUJB9qQw) | 2:14 |
-| 31 | [John Gotti \(feat\. Chunks\)](https://open.spotify.com/track/2aJHkplaxZaO4ERusqANdK) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo), [Chunks](https://open.spotify.com/artist/43EFGDxwTeEgR2qzw9i8Re) | [John Gotti \(feat\. Chunks\)](https://open.spotify.com/album/4YK1V7pLeQ1Kd28Zkm45Vh) | 3:16 |
-| 32 | [Ran It Up](https://open.spotify.com/track/7KSQcZeFYQlF8lugakrTV3) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Be Right Back](https://open.spotify.com/album/4HttlJdK5FmQkrcSZZip4n) | 1:26 |
+| 31 | [Ran It Up](https://open.spotify.com/track/7KSQcZeFYQlF8lugakrTV3) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Be Right Back](https://open.spotify.com/album/4HttlJdK5FmQkrcSZZip4n) | 1:26 |
+| 32 | [John Gotti \(feat\. Chunks\)](https://open.spotify.com/track/2aJHkplaxZaO4ERusqANdK) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo), [Chunks](https://open.spotify.com/artist/43EFGDxwTeEgR2qzw9i8Re) | [John Gotti \(feat\. Chunks\)](https://open.spotify.com/album/4YK1V7pLeQ1Kd28Zkm45Vh) | 3:16 |
 | 33 | [Ww3](https://open.spotify.com/track/40fS9HNRLevyJewxseOioF) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD) | [For the Hood](https://open.spotify.com/album/72Qs7WVuNMwizR3mI6vEME) | 2:36 |
 | 34 | [Stop Cry'n](https://open.spotify.com/track/0yf28sQY66U44MITXsz6Fm) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Stop Cry'n](https://open.spotify.com/album/6BxbrYbOSW2YbccOMCuX5q) | 2:20 |
 | 35 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 49 | [Props](https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP) | 2:54 |
 | 50 | [Toxic](https://open.spotify.com/track/0aS10pGB1AyvV8YKlModuD) | [BELLA](https://open.spotify.com/artist/7DmOVfbnFeAOA3Fujc3Toe) | [Abandoned Love](https://open.spotify.com/album/4NB6CVW0MxLuMwKz9emUPK) | 3:20 |
 
-Snapshot ID: `MCwwMGNiNmRjMGU4YzQxMTI1NjJiM2Q3N2Y5Mjc2NzgyNDIyYWM3YzQ5`
+Snapshot ID: `MCw1ZDc4YTlkNDM3MGYxZmRmNWVlOGMwMmI1ZTI0M2MzMTI5ZDVjMjUw`

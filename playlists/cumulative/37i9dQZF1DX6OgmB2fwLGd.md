@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Lay Bankz
 
-858 songs - 1 day 11 hr 23 min
+859 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui) | 2:40 | 2022-07-16 | 2022-12-02 |
 | [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/07NgzcfZh94EiueKm5KiT4) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/5jBQATS4iLhsYP7pGhdAcp) | 2:40 | 2022-07-16 | 2023-05-06 |
 | [NO TRENDS](https://open.spotify.com/track/7oAN2D1k9Qz8qh2JaNcZrj) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [NO TRENDS](https://open.spotify.com/album/2KVi5YBlC0Gh0NiMKDZSpK) | 2:31 | 2021-11-04 | 2022-04-27 |
+| [NOBU](https://open.spotify.com/track/7kQ0dKyEQkYTWqJUEf7Hx8) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Kill Jasper](https://open.spotify.com/artist/3Hxle1ifo8pdsakQ06MMUH) | [NOBU](https://open.spotify.com/album/5dANQ6jJJcwGZ5KqqYFk4d) | 2:35 | 2023-11-03 |  |
 | [NODA](https://open.spotify.com/track/67yPNZ1tsrQGbHvCs5m8Od) | [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [NODA](https://open.spotify.com/album/4DrrcT0x8ctTmOge6rgJTh) | 2:52 | 2023-06-30 | 2023-10-21 |
 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 | 2022-09-07 | 2023-07-15 |
 | [Not A Beanie](https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Not A Beanie](https://open.spotify.com/album/4F1YoKwWwbDBWq4qSgOz8v) | 2:16 | 2023-03-17 | 2023-07-29 |

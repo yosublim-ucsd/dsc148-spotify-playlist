@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-120 songs - 11 hr 52 min
+123 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Dancing Cliché](https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Cliché](https://open.spotify.com/album/0KXXLq1rUjATTps8cptlrH) | 2:32 | 2023-07-27 | 2023-08-24 |
 | [Deep Inside \- Edit](https://open.spotify.com/track/1GHae878N0DGFm8XCpFBzy) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(Remixes\)](https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs) | 3:37 | 2023-05-31 | 2023-08-24 |
 | [Dice](https://open.spotify.com/track/6pK1dCN0zuT6Rkf0rqA7AI) | [DJ Wady](https://open.spotify.com/artist/2yRUlvlTqfWQHTriEoeR55), [Afroloko](https://open.spotify.com/artist/4xYh2GHr8Vj2lmNmbfBcsU) | [Dice](https://open.spotify.com/album/0FrXYHZpNdgwGO7fLjFVyq) | 6:15 | 2022-08-01 | 2023-05-11 |
-| [Drum Beat](https://open.spotify.com/track/3LJLtbvrfYUpFficL0gl5V) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Drum Beat](https://open.spotify.com/album/7fhdFXT7VAblxxOOeukdTX) | 5:16 | 2022-09-08 |  |
+| [Drum Beat](https://open.spotify.com/track/2WtZN0dhZmfXsNYxBUkWKl) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Drum Beat](https://open.spotify.com/album/1JOlNpkTYoocZf7suVqSHD) | 5:16 | 2023-11-03 |  |
+| [Drum Beat](https://open.spotify.com/track/3LJLtbvrfYUpFficL0gl5V) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Drum Beat](https://open.spotify.com/album/7fhdFXT7VAblxxOOeukdTX) | 5:16 | 2022-09-08 | 2023-11-05 |
 | [Enkama](https://open.spotify.com/track/4J7hX1VqoUlnQLaouqsPQg) | [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Eduardo Vargas](https://open.spotify.com/artist/6ZoNlWDHPdMGmrAkokxT7E) | [Enkama](https://open.spotify.com/album/6OUf7B8gAItm9pJvJPmLbm) | 5:22 | 2022-09-08 |  |
 | [Ethnofunk \- Original Mix](https://open.spotify.com/track/6yJvNerWoLWUvtzTBWyJ70) | [Solomon King](https://open.spotify.com/artist/2zdihSWiK6y2hyOb8SFXA6) | [Dj Chus Balearica 2010 the Night \(Part 2\)](https://open.spotify.com/album/1AWZutEjbgiKxATV6R4zZQ) | 7:12 | 2023-08-23 |  |
 | [Everytime I Try](https://open.spotify.com/track/34PInRTRBcSSJ9KgqavLpF) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg), [Cevin Fisher](https://open.spotify.com/artist/2KKgW6x86NOhIJnMlxFD1u) | [Everytime I Try](https://open.spotify.com/album/3ROBogrjbF22S3dvi53Ik2) | 3:36 | 2023-10-04 |  |
@@ -63,12 +64,14 @@
 | [Infinite](https://open.spotify.com/track/2ADIx3mKqYxEwa6mtaMEPT) | [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB) | [Infinite](https://open.spotify.com/album/1T5qmCtYT6lrjIHcCyu9Aa) | 7:09 | 2022-08-01 |  |
 | [Is Killing Me \- Origianl Mix](https://open.spotify.com/track/7yov6F8T2Lnr9PH42Q1geT) | [Nick & Danny Chatelain](https://open.spotify.com/artist/15MRGeJadRRoZSZZg1Me3V) | [Is Killing Me](https://open.spotify.com/album/0QxxjYQfxMZPSVxV5YAj79) | 9:25 | 2022-08-01 | 2023-05-11 |
 | [Jubilo](https://open.spotify.com/track/7JaSJ1Cj9jiy3rowAXi3LO) | [Danny Serrano](https://open.spotify.com/artist/3kerdbIX1DaNMNBcgvKtDR) | [Alegria](https://open.spotify.com/album/5bIyqCvyf8UUDBL0CTDogr) | 6:51 | 2023-08-23 |  |
-| [Kaleta](https://open.spotify.com/track/2ldNIVLYlSnxKGSlpud8bU) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1DTpdbbsif7gLrpSOGDfVE) | 4:30 | 2023-05-10 |  |
+| [Kaleta](https://open.spotify.com/track/2ldNIVLYlSnxKGSlpud8bU) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1DTpdbbsif7gLrpSOGDfVE) | 4:30 | 2023-05-10 | 2023-11-05 |
+| [Kaleta](https://open.spotify.com/track/7Me0K7S9Kpu3lNGk3k9SJZ) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1Ved6gJTWaDH1oLiJzMrKv) | 4:30 | 2023-11-03 |  |
 | [Karavane](https://open.spotify.com/track/49jrwKKNhC5TvU6W9NzFue) | [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Gio Israel](https://open.spotify.com/artist/0vMjghiQIFzwaoWNC5kQEr) | [Without Borders](https://open.spotify.com/album/2Fgzwt5QD6EFeApnyr1jzB) | 6:49 | 2022-08-01 |  |
 | [Let No Man Put Asunder \- Dam Swindle Remix](https://open.spotify.com/track/5nyWYE1Ld3Gr3xbFUMIbVP) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Dam Swindle x Salsoul Reworks Vol\. 1](https://open.spotify.com/album/1axQNdwJ7JJ4yjmQ4ryPzf) | 7:34 | 2022-08-01 | 2023-05-11 |
 | [Live Your Life With Me](https://open.spotify.com/track/47zSPTI5vFCfH2ld5lO01u) | [Corrina Joseph](https://open.spotify.com/artist/4U8tctx9dLNEwTm7PTnEjy) | [Live Your Life With Me](https://open.spotify.com/album/5Qc4nQJsaZt1bSCqEB3shw) | 6:20 | 2023-08-23 |  |
 | [Lovely Day \(Deep Soul Mix\)](https://open.spotify.com/track/591N75XjzRms0Cvcm9qSRw) | [Ministry Of Funk](https://open.spotify.com/artist/4aKFcoj4sJdQ9GLSMKKfL5) | [Soul Grooves](https://open.spotify.com/album/1yv6X3GBXHTc5mZxh9xEuZ) | 3:12 | 2022-08-01 |  |
-| [Mabrook](https://open.spotify.com/track/4MMQ8cSVcplsRDn4p4xXBH) | [AfterU](https://open.spotify.com/artist/2fNO3q7sugPNKqSD1ra9TE) | [Mabrook](https://open.spotify.com/album/1dZIvVpx8uhGxPObzU40FD) | 4:32 | 2023-11-03 |  |
+| [Mabrook](https://open.spotify.com/track/4MMQ8cSVcplsRDn4p4xXBH) | [AfterU](https://open.spotify.com/artist/2fNO3q7sugPNKqSD1ra9TE) | [Mabrook](https://open.spotify.com/album/1dZIvVpx8uhGxPObzU40FD) | 4:32 | 2023-11-03 | 2023-11-05 |
+| [Mabrook](https://open.spotify.com/track/7BoM86plh1H6huENnUGI9m) | [AfterU](https://open.spotify.com/artist/2fNO3q7sugPNKqSD1ra9TE) | [Mabrook](https://open.spotify.com/album/33TQe7U7t6skVSblF0dj3I) | 4:32 | 2023-11-03 |  |
 | [Mafana \- Marco Lys Remix](https://open.spotify.com/track/5xS9qcXWmDo9hF5rlRxSED) | [Chris Geka](https://open.spotify.com/artist/5lQDyoSLDFj5uTkI5JPczu), [Tecca](https://open.spotify.com/artist/0J7Kqmrp3SxJlw2Ce1o1EJ), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Mafana, Craygnos](https://open.spotify.com/album/5AxY2v9FjYIIsLH7yr3fqq) | 6:31 | 2022-08-01 | 2023-08-24 |
 | [Mafqoud \- DJ Chus Remix](https://open.spotify.com/track/3dFvXuCrkC0sgCJUrw6KF9) | [Ramy Mishriky](https://open.spotify.com/artist/5YPnzmq0y55OzDVZl6lazT), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Mafqoud \- DJ Chus Remix](https://open.spotify.com/album/0Ldq3I9JLNO1M5bu8wLHNo) | 4:19 | 2022-09-08 | 2023-08-24 |
 | [Man with Guitar](https://open.spotify.com/track/53p0TinwZZ3KGhmMRwJftz) | [Man With Guitar](https://open.spotify.com/artist/2kAN180iKI5DJbyksuTnE0) | [Man with Guitar](https://open.spotify.com/album/1oOESBEBhi3uJ7jPyImkhY) | 5:58 | 2023-05-31 | 2023-08-24 |

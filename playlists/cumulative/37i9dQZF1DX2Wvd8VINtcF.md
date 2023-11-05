@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-942 songs - 2 day 4 hr 16 min
+943 songs - 2 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,7 +811,8 @@
 | [Take My Soul](https://open.spotify.com/track/2Qe6S4Xy5rS2Vidoaxp6b0) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Days Before Grace](https://open.spotify.com/album/6Hkf54OpfrK7PGlab7OB1J) | 5:01 | 2023-09-07 |  |
 | [TALL GRASS](https://open.spotify.com/track/15gjWTwhMqWC5U2BXzYMPJ) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [TALL GRASS](https://open.spotify.com/album/7bdOwVxARtsy2LVwbpWwVE) | 2:48 | 2023-10-26 | 2023-11-03 |
 | [Taxi](https://open.spotify.com/track/4LDMTLuB6W6N0ONiRtrkCw) | [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay), [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Phine Friends](https://open.spotify.com/album/4RAq2PncKPp0Blv8Mvke2y) | 3:04 | 2023-03-17 | 2023-05-12 |
-| [Teach Me](https://open.spotify.com/track/69C61BkstEREBdizQrgbQi) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Teach Me](https://open.spotify.com/album/1G5PjW6Cy80XPTmyRr2nyv) | 2:40 | 2023-10-19 |  |
+| [Teach Me](https://open.spotify.com/track/1Ao0v7s8d9IvlkiiTLLNdW) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Teach Me](https://open.spotify.com/album/7Lq1yzAH6bOAe3EzUujCpD) | 2:40 | 2023-11-02 |  |
+| [Teach Me](https://open.spotify.com/track/69C61BkstEREBdizQrgbQi) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Teach Me](https://open.spotify.com/album/1G5PjW6Cy80XPTmyRr2nyv) | 2:40 | 2023-10-19 | 2023-11-05 |
 | [Teacher's in the Mood](https://open.spotify.com/track/6sdHXOQ6yP8lvpq8CLCv9v) | [Morabeza Tobacco](https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7) | [Teacher's in the Mood](https://open.spotify.com/album/4LWsQElQ8rP1oGKGGk9Mrw) | 4:03 | 2022-10-28 | 2022-11-11 |
 | [Tears can be so soft](https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 5:11 | 2023-05-11 | 2023-08-04 |
 | [Teasing The Thread](https://open.spotify.com/track/253LmvRIHO9bfUZ5E6Ihdc) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Teasing The Thread](https://open.spotify.com/album/1FOTqhruDFNtsYB5QUSsFx) | 2:55 | 2023-06-08 | 2023-06-30 |

@@ -388,6 +388,28 @@
     {
       "album": {
         "name": "Kumbalangi Nights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/64LFTJ3Aqog2CYDeiSlbS3"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224016,
+      "name": "Cherathukal (From \"Kumbalangi Nights\")",
+      "url": "https://open.spotify.com/track/1tTuiN0UenG2pSgvE4Dq05"
+    },
+    {
+      "album": {
+        "name": "Kumbalangi Nights (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6U0sKj7nG5fnmwIQmpQa2b"
       },
       "artists": [
@@ -402,7 +424,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 224016,
       "name": "Cherathukal (From \"Kumbalangi Nights\")",
       "url": "https://open.spotify.com/track/61G0A2wB1KhHo75ojSwpRd"
@@ -950,7 +972,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 135189,
       "name": "Jaya Hey Theme Song",
       "url": "https://open.spotify.com/track/25FKlwStsh3bjcbjxcacEx"
@@ -1018,6 +1040,40 @@
       "duration_ms": 132523,
       "name": "Jaya Hey Theme Song (From \"Jaya Jaya Jaya Jaya Hey\")",
       "url": "https://open.spotify.com/track/03rqcCuFVOpUR8TV7hj42N"
+    },
+    {
+      "album": {
+        "name": "Jaya Jaya Jaya Jaya Hey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4MHjjtGe53xdDckld6lhvu"
+      },
+      "artists": [
+        {
+          "name": "Ankit Menon",
+          "url": "https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV"
+        },
+        {
+          "name": "Sreya R",
+          "url": "https://open.spotify.com/artist/4VJcxEgCCC63YCfwM8cwGz"
+        },
+        {
+          "name": "Aditya Ajay",
+          "url": "https://open.spotify.com/artist/1WvGxvE9ea4pd0e3SkzfjT"
+        },
+        {
+          "name": "Sanjana J",
+          "url": "https://open.spotify.com/artist/11Qqr9VLX7xlyqtNJ75Eje"
+        },
+        {
+          "name": "Gowri",
+          "url": "https://open.spotify.com/artist/4ksCB8CK6miWPylwROvDiv"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132523,
+      "name": "Jaya Hey Theme Song (From \"Jaya Jaya Jaya Jaya Hey\")",
+      "url": "https://open.spotify.com/track/2rEqS9O151OmOPCDVBDjTg"
     },
     {
       "album": {
@@ -3476,10 +3532,36 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 236013,
       "name": "Uyiril Thodum (From \"Kumbalangi Nights\")",
       "url": "https://open.spotify.com/track/4J0UI8dLtEpT9ATtVEjCnD"
+    },
+    {
+      "album": {
+        "name": "Kumbalangi Nights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/64LFTJ3Aqog2CYDeiSlbS3"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        },
+        {
+          "name": "Anne Amie",
+          "url": "https://open.spotify.com/artist/00PnAePD5EyBOROxnfX68x"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236013,
+      "name": "Uyiril Thodum (From \"Kumbalangi Nights\")",
+      "url": "https://open.spotify.com/track/4zNh8UgXZA3LpeuD0e1u4z"
     },
     {
       "album": {

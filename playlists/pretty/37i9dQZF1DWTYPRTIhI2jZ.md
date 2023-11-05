@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYPRTIhI2jZ.md) - [plain]
 
 > <a href="spotify:artist:0XfQBWgzisaS9ltDV9bXAS">Honey Dijon</a>'s favorite tracks\. Updated regularly\. Curated by Honey Dijon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,165 likes - 50 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,174 likes - 50 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYPRTIhI2jZ.md) - [plain]
 | 3 | [Come On Then \- Rerub](https://open.spotify.com/track/45g2ZCIP9ehDHlSXVXctbG) | [Kevin Reynolds](https://open.spotify.com/artist/5yxKLmBYsn0F1uiP8BOQdh) | [A Certain Circumstance](https://open.spotify.com/album/63oaAaRx77YSP0dLXuKVCC) | 6:19 |
 | 4 | [Feel Funky](https://open.spotify.com/track/6MhGRUjntHi9qGYK3D6LUz) | [Mateo & Matos](https://open.spotify.com/artist/0YuYHYouQ7YvHKFEZ2mQWf) | [House Legends](https://open.spotify.com/album/0VV8ik6PAo1wynsbB1z28H) | 7:44 |
 | 5 | [Old Soul Funk \- Original Mix](https://open.spotify.com/track/1d0j1ABNYvN6CYNdF8p9DW) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [Old Soul Funk](https://open.spotify.com/album/0gqIh1I1iGE5Lf9Nr4A5m5) | 4:57 |
-| 6 | [Time Tunnel \- Original Mix](https://open.spotify.com/track/0Jp0FFk26Toy0tCwykaVNi) | [Brassica](https://open.spotify.com/artist/2n2Ah4eslXpgZNFQPM1STG) | [Time Tunnel](https://open.spotify.com/album/3CXgSnDsdKeV5h0niFoOxo) | 7:58 |
+| 6 | [Time Tunnel](https://open.spotify.com/track/2iu3nu0aBkzZsCqCZJU3Eu) | [Brassica](https://open.spotify.com/artist/2n2Ah4eslXpgZNFQPM1STG) | [Time Tunnel](https://open.spotify.com/album/1D6C7pSPvhW9BbKDk2ZwLa) | 7:58 |
 | 7 | [Pills](https://open.spotify.com/track/58a1Fay6JytcOR0Fv04BCc) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B) | [Pills](https://open.spotify.com/album/1qXtOrVlh7OM9OCgxnI9me) | 6:09 |
 | 8 | [I Call Upon …](https://open.spotify.com/track/3KPCZEU5kgUUFoH6RxSY2v) | [Love Letters](https://open.spotify.com/artist/1ALDJWUSGEnfpul5JCtjbD) | [I Call Upon ...](https://open.spotify.com/album/2649j7OFbcaJMEVjRMk2Jw) | 6:40 |
 | 9 | [They Frontin' \(feat\. Monty Luke\) \[Mixed\]](https://open.spotify.com/track/207iG2HJPRuULIAEnv4zzi) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Monty Luke](https://open.spotify.com/artist/1ogIcJRkvbtkJqCIoRA0dH) | [Darkbeat 10th Anniversary Collection \(Mixed by Anthony Pappa, Rollin Connection & Phil K\)](https://open.spotify.com/album/3TXLKyyY0sptt8LlXyL03P) | 3:26 |
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYPRTIhI2jZ.md) - [plain]
 | 15 | [Don’t You Want My Love](https://open.spotify.com/track/4L60ULqvJpqFReaNwmq8F0) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Forevernevermore](https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36) | 4:24 |
 | 16 | [Art O Fact \- Luv4Detroit Dub](https://open.spotify.com/track/0W0Ln32Z0c5sElhmQxWH6i) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Art O Fact](https://open.spotify.com/album/0XrYIb9sGoSucvpMjMuCZs) | 6:33 |
 | 17 | [Hostage](https://open.spotify.com/track/0rDhelUsBb84LNyfbxZe5r) | [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l), [James Ruskin](https://open.spotify.com/artist/1CxlOLe7rJ6EO7aPMxi9Xx) | [No Time Soon](https://open.spotify.com/album/0zUgpzY0tspgs1CJC8McDr) | 6:25 |
-| 18 | [Forever](https://open.spotify.com/track/0sPSHm2B6ECdQaBz4LWj7H) | [Eddie Fowlkes](https://open.spotify.com/artist/5s52J0wTa9B4YFG39iqXny) | [Forever EP](https://open.spotify.com/album/1Os6AtLQRHLzdMgwlEQwER) | 5:29 |
+| 18 | [Forever](https://open.spotify.com/track/2HhD9OZdNjHODz9fEaWCq1) | [Eddie Fowkes](https://open.spotify.com/artist/5Ey248euTzDQqPi5DvbpUb) | [Forever EP](https://open.spotify.com/album/3QapSgIlst2WK98toNaD0r) | 5:29 |
 | 19 | [I Wanna Rock You](https://open.spotify.com/track/7k873wUJrdcGzUSI1i376w) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [From Here To Eternity..\. And Back](https://open.spotify.com/album/0GHc5sPwMo4Myypns9Vplz) | 6:28 |
-| 20 | [Wild Life \- Disco Mix](https://open.spotify.com/track/171eZVZOwpCU2wD0IiAz3p) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Wild Life](https://open.spotify.com/album/1M9BmNvDimkfa3P8O0aWAi) | 5:49 |
+| 20 | [Wild Life \- Disco Mix](https://open.spotify.com/track/4zPfXAIzaFRgjlrAK01xrQ) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Wild Life](https://open.spotify.com/album/02LSPjSBlhU7sK8M5Ki9zW) | 5:49 |
 | 21 | [IwannagoBANG \- Kaytonik's Consent Dub](https://open.spotify.com/track/4qE9fYpagfhTmIJz5fzOud) | [Tomahawk Bang](https://open.spotify.com/artist/5K1hop0J7m33dJOIMwBmji), [Kaytronik](https://open.spotify.com/artist/4E3Ym06uZ8vSiMfd9L19Se) | [Indigetech \(Revisions\)](https://open.spotify.com/album/06cAYmks5msC97dSJL6cJA) | 5:59 |
 | 22 | [Charme](https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 5:44 |
 | 23 | [Monks In A Club](https://open.spotify.com/track/0OziBwTzbhvtpLoqBXDa0U) | [Repeat Orchestra](https://open.spotify.com/artist/1xmIZujqbTt9iBus9vJVk7) | [Infamous Lost Tracks](https://open.spotify.com/album/56GAajB9dtzrsGyQwdbABV) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYPRTIhI2jZ.md) - [plain]
 | 49 | [In Da Club \- Harvard Bass Dub](https://open.spotify.com/track/2JVXGUgrUVxdvtbls8zeyy) | [Steve Lawler](https://open.spotify.com/artist/0NDuRCSLSH0Ii5An4U6HME), [Joe Le Groove](https://open.spotify.com/artist/3Vny01PfbbFxQ6bCtW4AFr), [Harvard Bass](https://open.spotify.com/artist/0PpMaWbHMqUcVYcsF2O9CM) | [In Da Club](https://open.spotify.com/album/3PTn3QLIzHdjaad36AlMoN) | 6:15 |
 | 50 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 |
 
-Snapshot ID: `MCw0Y2VhNjZkNDA0YmE5MjQzMjNiYmE5N2E3YjI0Y2YwODg4YjI1N2Zj`
+Snapshot ID: `MCw5Mjg1YmJlZjFlY2RiMmEzYWQzYTQyZDMxOTY2ZWFkMDE4MGI0NTdi`

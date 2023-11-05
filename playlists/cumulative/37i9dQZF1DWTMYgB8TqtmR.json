@@ -1628,6 +1628,24 @@
     {
       "album": {
         "name": "B\u00e4ttre nu (The Wedding)",
+        "url": "https://open.spotify.com/album/3EQltKEqsH8RLRvEP6sgG6"
+      },
+      "artists": [
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204157,
+      "name": "B\u00e4ttre nu (The Wedding)",
+      "url": "https://open.spotify.com/track/0L3RpXaOJFNhP4QCynokYG"
+    },
+    {
+      "album": {
+        "name": "B\u00e4ttre nu (The Wedding)",
         "url": "https://open.spotify.com/album/1D46XUOvhkabY7IlRSIgPv"
       },
       "artists": [
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 204157,
       "name": "B\u00e4ttre nu (The Wedding)",
       "url": "https://open.spotify.com/track/5Fvq4z7pr7146lrYQCD9bY"

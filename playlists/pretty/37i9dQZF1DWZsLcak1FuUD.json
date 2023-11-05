@@ -1,12 +1,12 @@
 {
   "description": "Fue durante los '70 que el Rock se manifest\u00f3 como un gigante a nivel mundial. Argentina no fue la excepci\u00f3n.  Foto: <a href=\"spotify:artist:10vtHOCA3qPLmrGylgO2F1\">Manal</a>",
-  "num_followers": 37719,
+  "num_followers": 37750,
   "original_name": "Esp\u00edritu Setentista",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTIxZDU5MWJjODY4N2MxNzEyMjBjZGI4MDYyYzc1ZWU5YjU5YjNk",
+  "snapshot_id": "MCxlMzNhZTRjZTA0NjgxZDllMDM5ODZjNDM5MTRmZDhjZWIwNWNkMTRj",
   "tracks": [
     {
       "added_at": "2020-02-26 16:25:22",
@@ -523,6 +523,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "Pappo's Blues, Vol. 3",
+        "url": "https://open.spotify.com/album/1F3hULFzB7JebCft7dcdBq"
+      },
+      "artists": [
+        {
+          "name": "Pappo's Blues",
+          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
+        }
+      ],
+      "duration_ms": 275386,
+      "name": "Sucio y Desprolijo",
+      "url": "https://open.spotify.com/track/4gyVO49rTCm0JsSbKMqSxX"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "Aquelarre",
         "url": "https://open.spotify.com/album/21k9Lf53dN3pCJ8JZsk81p"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Pappo's Blues, Vol. 3",
-        "url": "https://open.spotify.com/album/1F3hULFzB7JebCft7dcdBq"
-      },
-      "artists": [
-        {
-          "name": "Pappo's Blues",
-          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
-        }
-      ],
-      "duration_ms": 275386,
-      "name": "Sucio y Desprolijo",
-      "url": "https://open.spotify.com/track/4gyVO49rTCm0JsSbKMqSxX"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "PorSuiGieco",
         "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 219039,
       "name": "La Mam\u00e1 de Jimmy",
       "url": "https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Otras Pistas",
-        "url": "https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV"
-      },
-      "artists": [
-        {
-          "name": "Aquelarre",
-          "url": "https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc"
-        }
-      ],
-      "duration_ms": 322026,
-      "name": "Violencia En El Parque",
-      "url": "https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -699,6 +683,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "Otras Pistas",
+        "url": "https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV"
+      },
+      "artists": [
+        {
+          "name": "Aquelarre",
+          "url": "https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc"
+        }
+      ],
+      "duration_ms": 322026,
+      "name": "Violencia En El Parque",
+      "url": "https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "Manal",
         "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 246960,
       "name": "Todo Tiempo Posible",
       "url": "https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE"
+      },
+      "artists": [
+        {
+          "name": "Polifemo",
+          "url": "https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Oye Dios Que Me Has Dado",
+      "url": "https://open.spotify.com/track/7xfYEIvk2qRxODCefqdOuR"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -795,34 +811,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "La Cofrad\u00eda De La Flor Solar",
-        "url": "https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR"
+        "name": "Pappo's Blues, Vol. 3",
+        "url": "https://open.spotify.com/album/1F3hULFzB7JebCft7dcdBq"
       },
       "artists": [
         {
-          "name": "La Cofradia De La Flor Solar",
-          "url": "https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL"
+          "name": "Pappo's Blues",
+          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
         }
       ],
-      "duration_ms": 266373,
-      "name": "Se Ama O No Se Ama",
-      "url": "https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE"
-      },
-      "artists": [
-        {
-          "name": "Polifemo",
-          "url": "https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Oye Dios Que Me Has Dado",
-      "url": "https://open.spotify.com/track/7xfYEIvk2qRxODCefqdOuR"
+      "duration_ms": 231480,
+      "name": "Caras en el Parque",
+      "url": "https://open.spotify.com/track/766L3B3l9QMMMthg8XqfR4"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -859,18 +859,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Pappo's Blues, Vol. 3",
-        "url": "https://open.spotify.com/album/1F3hULFzB7JebCft7dcdBq"
+        "name": "La Cofrad\u00eda De La Flor Solar",
+        "url": "https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR"
       },
       "artists": [
         {
-          "name": "Pappo's Blues",
-          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
+          "name": "La Cofradia De La Flor Solar",
+          "url": "https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL"
         }
       ],
-      "duration_ms": 231480,
-      "name": "Caras en el Parque",
-      "url": "https://open.spotify.com/track/766L3B3l9QMMMthg8XqfR4"
+      "duration_ms": 266373,
+      "name": "Se Ama O No Se Ama",
+      "url": "https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp"
     },
     {
       "added_at": "2020-02-26 16:25:22",

@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-1,116 songs - 2 day 20 hr 5 min
+1,117 songs - 2 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,8 +317,9 @@
 | [Fountain Of Youth](https://open.spotify.com/track/14B3iL077fUYRAkmka5eTq) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 3:49 | 2022-01-19 |  |
 | [Four Out Of Five \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/4ya6kBUnCe27g0hZM57L1n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 4:34 | 2022-01-19 |  |
 | [Freak Like Me \- Spotify Singles](https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Spotify Singles](https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs) | 3:08 | 2022-08-31 |  |
+| [Fresh Eyes \(Spotify Singles\)](https://open.spotify.com/track/0bJJw1WQ1TjiXHkOwhBoJu) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Spotify Singles \(Spotify Exclusive\)](https://open.spotify.com/album/2SJtePiXbTDlsxU4OKUa20) | 3:16 | 2023-10-02 |  |
 | [Fresh Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1TzHpSSy3oL0tTR3mXsQke) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Spotify Singles](https://open.spotify.com/album/4JNZCTcuenAhagoD43YUJy) | 3:16 | 2022-01-19 | 2022-07-29 |
-| [Fresh Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7DVgNcx4cNA1q2Eqoo0q6O) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Spotify Singles](https://open.spotify.com/album/6cy9FeU5iMICewZaY0Cuib) | 3:16 | 2022-07-05 |  |
+| [Fresh Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7DVgNcx4cNA1q2Eqoo0q6O) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Spotify Singles](https://open.spotify.com/album/6cy9FeU5iMICewZaY0Cuib) | 3:16 | 2022-07-05 | 2023-11-05 |
 | [Fresh Start \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3MR2N8tO2tfp3H2LVIqjZj) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles](https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL) | 3:10 | 2022-01-19 |  |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 3:40 | 2022-01-19 | 2022-07-29 |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 | 2022-07-05 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,892 likes - 101 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,946 likes - 101 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Silkroad](https://open.spotify.com/track/6EZ4V32DQZ7V7hRUwBVb7u) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [The Journey](https://open.spotify.com/album/6QJNcXUow95qKDvfg1byG2) | 4:33 |
 | 2 | [Nine \(feat\. NovaGina\)](https://open.spotify.com/track/5ZIv4cnwGDSood9MUrRspi) | [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK), [NovaGina](https://open.spotify.com/artist/7poUfOG4cz2W8jkseRpZ5B) | [Away With Words, Pt.2](https://open.spotify.com/album/3Vcibwodl0VUwchdgofmwN) | 3:17 |
 | 3 | [Catboy \- Live at the Iridium](https://open.spotify.com/track/6ENVj2YszxhC9QLgwBNkJE) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Jason "JT" Thomas](https://open.spotify.com/artist/5sN8E3sVIXfIgkW8rvOutw), [Wes Stephenson](https://open.spotify.com/artist/0su3WUFcvO40NtFuDiaT88), [Daniel Porter](https://open.spotify.com/artist/16uVRYUgf82UOiseOjclwG) | [Catboy \(Live at the Iridium\)](https://open.spotify.com/album/2dig4oAnKv3V2G5fDEZs5x) | 8:09 |
-| 4 | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv) | 5:50 |
+| 4 | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/2B3D38o8GaXnZo6DnTyZ2m) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Remember That You Will Die](https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw) | 5:50 |
 | 5 | [You Know I’m No Good](https://open.spotify.com/track/4GTj8Qz1nVtB4miu8Bu8ll) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj) | [Krasno/Moore Project: Book of Queens](https://open.spotify.com/album/6RwGvHFkks31pCeLlto8Dy) | 4:54 |
 | 6 | [firebird](https://open.spotify.com/track/4aVjtxZglv9VpHiOvb2F6m) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [firebird](https://open.spotify.com/album/16p01UoGeKCDn0r4E9zrok) | 4:40 |
 | 7 | [Samba Party](https://open.spotify.com/track/0eUyzOmDqoRNS65SQ3arbn) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [Samba Party](https://open.spotify.com/album/16VbSzKOdKqSwT1uwFAMPz) | 3:38 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 100 | [Tumescent](https://open.spotify.com/track/47XVn2ciuhWqHorHdWn89D) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/37Ge505lCbErq9PAjkKEyd) | 4:02 |
 | 101 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 |
 
-Snapshot ID: `MCxjZDkxMDcxZjVjNjJhODAwYzFlNWMyMDAzZWQzMWQ1N2I2Mjg5Mzlh`
+Snapshot ID: `MCw4ZWJiYTljMzI5N2EzNjM1N2E1NmU1YWQ4YjFmMjUxZGJmMWU1ZmJi`

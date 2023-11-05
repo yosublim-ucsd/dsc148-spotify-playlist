@@ -4,7 +4,7 @@
 
 > The Most Popular Ambient Tracks in 2022\. Kaitlyn Aurelia Smith on cover.
 
-109 songs - 9 hr 46 min
+111 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [All The Light They Cannot See](https://open.spotify.com/track/5yx4wEiqwftOWWArUes897) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/3Myx0XEGPjTmfWBTGKZ4F4) | 5:32 | 2023-01-01 |  |
 | [Always](https://open.spotify.com/track/5X28wVhPZ2RK91PPyfOOgQ) | [Franz Kirmann](https://open.spotify.com/artist/5ZPoz4WrKX7jKlbTp4S9Qe) | [Forget Me Not](https://open.spotify.com/album/0pu0cQ9JdarbHra7MOZs7Z) | 5:12 | 2023-01-01 |  |
 | [Alzheimer's Disease \(Floor 1\)](https://open.spotify.com/track/644RtTy8O2hT4zpF5BSVTA) | [Kyle Preston](https://open.spotify.com/artist/4y34hJ1oLcRl5wOn7FnhX8) | [Persona \(Original Soundtrack\)](https://open.spotify.com/album/4J7oRjeqqBkz1JQ1GZP8j7) | 4:16 | 2023-01-01 |  |
-| [Aparaquasynthe \- Remastered 2022](https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered 2022\)](https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6) | 5:51 | 2023-01-01 |  |
+| [Aparaquasynthe \(Remastered\)](https://open.spotify.com/track/6OlM4VG2u07UKSdjK0kRmB) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered\)](https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54) | 5:51 | 2023-01-01 |  |
+| [Aparaquasynthe \- Remastered 2022](https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered 2022\)](https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6) | 5:51 | 2023-01-01 | 2023-11-05 |
 | [Armonie Della Mente](https://open.spotify.com/track/2KeaoZokOnnGstN8MP7YPC) | [Lino Capra Vaccina](https://open.spotify.com/artist/2gLAzELc6CIseAelT3PzVm) | [Sincretico Modale](https://open.spotify.com/album/2z0qqpHJUTaWSXWn4ZqwVS) | 6:55 | 2023-01-01 |  |
 | [Arroyo](https://open.spotify.com/track/0MnagqW3Qe0vWOmnV2iR7g) | [Jon Porras](https://open.spotify.com/artist/0FDxPN4OkExGczv8cRTAZx) | [Arroyo](https://open.spotify.com/album/30q19AJSdAxkdVc6414z7H) | 7:44 | 2023-01-01 |  |
 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 | 2023-01-01 |  |
@@ -51,7 +52,8 @@
 | [Genesis](https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Genesis](https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3) | 3:19 | 2023-01-01 |  |
 | [Glass Ripples](https://open.spotify.com/track/54pqtuZ9QEVKpQreLP1mh6) | [Himalayan Beach Ensemble](https://open.spotify.com/artist/2mbmAHLUOR1DnyW3i2fu8o) | [Glass Ripples](https://open.spotify.com/album/0RkuycEp2BX9cmfoWQHrxT) | 2:29 | 2023-01-01 |  |
 | [Gold of the Azure \- Marconi Union Remix](https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6) | [Digitonal](https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai), [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Set the Weather Fair: Seasons](https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq) | 6:36 | 2023-01-01 |  |
-| [Golden Galactic](https://open.spotify.com/track/5UV4bOGPyQyF5hnWuel6Zv) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [Garden Gaia](https://open.spotify.com/album/1DgRx1LvQ06RX992m1yn5m) | 4:28 | 2023-01-01 |  |
+| [Golden Galactic](https://open.spotify.com/track/2plwi78vkh7HlMri5WRDS0) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [Garden Gaia](https://open.spotify.com/album/6U6T8AUAPYNdGBbTr2QPOx) | 4:28 | 2023-01-01 |  |
+| [Golden Galactic](https://open.spotify.com/track/5UV4bOGPyQyF5hnWuel6Zv) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [Garden Gaia](https://open.spotify.com/album/1DgRx1LvQ06RX992m1yn5m) | 4:28 | 2023-01-01 | 2023-11-05 |
 | [Heart Cave \- Extended Version](https://open.spotify.com/track/1HE4xVPnzWKc5r08wQjUeR) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Heart Cave \(Extended Version\)](https://open.spotify.com/album/3WKv3GqU0DUJ0neKe5Os7S) | 11:12 | 2023-01-01 |  |
 | [I Remember You Like the Best Song](https://open.spotify.com/track/0NKexfIeqfKHetCuMyuwJ7) | [Anenon](https://open.spotify.com/artist/1nDzzoDVAeT9c5PkreI1yI) | [I Remember You Like the Best Song](https://open.spotify.com/album/3eWjndQQuRh7iRJpPPqifL) | 17:57 | 2023-01-01 | 2023-07-01 |
 | [I Remember You Like the Best Song](https://open.spotify.com/track/1Zwc9fRegSciIK5h2QrLCD) | [Anenon](https://open.spotify.com/artist/1nDzzoDVAeT9c5PkreI1yI) | [I Remember You Like the Best Song](https://open.spotify.com/album/5QFfHX29wFOngGmjqZC5wo) | 17:57 | 2023-01-01 |  |

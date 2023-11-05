@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 52 | [I Can't Turn You Loose](https://open.spotify.com/track/6fmpeMEiK7M38rL9MSOFF5) | [The Chambers Brothers](https://open.spotify.com/artist/0OwaxYpG77PWKSLtj1QzG8) | [A New Time \- A New Day](https://open.spotify.com/album/43d24W4xf0thw054t8RQzY) | 4:55 |
 | 53 | [Sweet Soul Music](https://open.spotify.com/track/0j4y8UyEKIkQK4DRT25zi4) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 3:04 |
 | 54 | [Can't Turn You Loose \- Live at The Woodstock Music & Art Fair, August 17, 1969](https://open.spotify.com/track/4AZjmuuFDK17mJ4eAl4EwT) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin: The Woodstock Experience](https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4) | 4:25 |
-| 55 | [Sweet Soul Music](https://open.spotify.com/track/2MF70gFS4vaRw2E4lVOI5B) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Here Comes the Duke \(Expanded Version\)](https://open.spotify.com/album/10Gx9yth84HltBKBZmozee) | 1:57 |
+| 55 | [Sweet Soul Music](https://open.spotify.com/track/3u8g1boSdChU9mqIER48XU) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Here Comes the Duke](https://open.spotify.com/album/5Aob76ooSb45t1VqRyVRpq) | 1:58 |
 | 56 | [Sweet Soul Music](https://open.spotify.com/track/1NkBAvUj4EITElG8hO1mRC) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Feeling You! The 60's](https://open.spotify.com/album/6xsN1W274ooUQ1RFJuLH9Z) | 2:11 |
 | 57 | [Love Man](https://open.spotify.com/track/0ZZOxkcfaZtoDQRuE6v5xO) | [J\. Quinton Johnson](https://open.spotify.com/artist/3bijFH9sTMuMYHFoayvx1j) | [Dirty Dancing \(Original Television Soundtrack\)](https://open.spotify.com/album/7sp4Kksb5AJVI6rRWMNDM0) | 2:17 |
 | 58 | [I've Got Dreams To Remember](https://open.spotify.com/track/3OIpVy4hMNWrZEjj2WgRP9) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Live At Bonnaroo](https://open.spotify.com/album/4yYqT8PUl2m0L1LaJR9f3U) | 4:25 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 91 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 |
 | 92 | [Where You Lead Me](https://open.spotify.com/track/7CQfHbaz8di8UFbayDCRCl) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/6K1TG5C0rzi1tfNEmUI4CY) | 2:29 |
 
-Snapshot ID: `MCxhZTdlNWM1ZDE1OTRlNWU1ODhlYjkzZjA0MzU3ODQ2NWVmM2M4Yjkw`
+Snapshot ID: `MCw4ODVkNGUyZGU4MTQ0OTkxNDZkYzZmYmVlMjcxYTlhNWYyNWUwMzQ3`

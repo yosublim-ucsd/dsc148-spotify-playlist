@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 192000,
       "name": "90's Honey",
       "url": "https://open.spotify.com/track/4ygDeLod53IBCO4RnKREIj"
@@ -6286,6 +6286,28 @@
     {
       "album": {
         "name": "For Me + You",
+        "url": "https://open.spotify.com/album/485tVv2Eq2LvU2AzsZALgc"
+      },
+      "artists": [
+        {
+          "name": "Austin Mahone",
+          "url": "https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211278,
+      "name": "Lady (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/1osegSGQFc94XXrHU1esXU"
+    },
+    {
+      "album": {
+        "name": "For Me + You",
         "url": "https://open.spotify.com/album/7nKNy4dxqjtlMKCeFzwJvm"
       },
       "artists": [
@@ -9610,10 +9632,36 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 206327,
       "name": "Powerful",
       "url": "https://open.spotify.com/track/3eUhfanL9kEmpIPeGBl1yW"
+    },
+    {
+      "album": {
+        "name": "Peace Is The Mission",
+        "url": "https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206327,
+      "name": "Powerful (feat. Ellie Goulding & Tarrus Riley)",
+      "url": "https://open.spotify.com/track/3Q6T5Xwf39j9HTQwUZERMT"
     },
     {
       "album": {

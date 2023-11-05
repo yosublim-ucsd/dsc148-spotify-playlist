@@ -1022,10 +1022,28 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 243636,
       "name": "Get Loose (On & On)",
       "url": "https://open.spotify.com/track/62gS2FlhsVWjfqlc4L6RDD"
+    },
+    {
+      "album": {
+        "name": "Get up and Get Loose EP",
+        "url": "https://open.spotify.com/album/6Jcyk6zJC2pyqYiX7h5QFC"
+      },
+      "artists": [
+        {
+          "name": "SHEE",
+          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243636,
+      "name": "Get Loose (On & On)",
+      "url": "https://open.spotify.com/track/6LttO3HOHuCEwj1swRSWpk"
     },
     {
       "album": {

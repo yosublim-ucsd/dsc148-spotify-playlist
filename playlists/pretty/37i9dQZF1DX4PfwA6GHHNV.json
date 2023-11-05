@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 12594,
+  "num_followers": 12633,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjUwOTFjNjUwZmM5MWViMjY2NjJiZDM3NTUyMzA5ZGZhZGFjMTE0",
+  "snapshot_id": "MCwwYTM4NjBmMzg5MWUzMzcyZmJlZmI3NWY1MWQzM2RiZGM2OWEzZTFk",
   "tracks": [
     {
       "added_at": "2023-11-03 14:45:03",
@@ -75,6 +75,26 @@
     {
       "added_at": "2023-11-03 14:45:03",
       "album": {
+        "name": "LAPA",
+        "url": "https://open.spotify.com/album/3rXaAfgB3QKdNnX6s4hfrM"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        },
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "em santa",
+      "url": "https://open.spotify.com/track/5TGZX3PqtdyIXKMS3GapxW"
+    },
+    {
+      "added_at": "2023-11-03 14:45:03",
+      "album": {
         "name": "SSA",
         "url": "https://open.spotify.com/album/4MbRQR6jIWe9IQArJXVUFd"
       },
@@ -103,26 +123,6 @@
       "duration_ms": 221359,
       "name": "SSA",
       "url": "https://open.spotify.com/track/0DI7TtujPBwhpjmUncFpU9"
-    },
-    {
-      "added_at": "2023-11-03 14:45:03",
-      "album": {
-        "name": "LAPA",
-        "url": "https://open.spotify.com/album/3rXaAfgB3QKdNnX6s4hfrM"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        },
-        {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "em santa",
-      "url": "https://open.spotify.com/track/5TGZX3PqtdyIXKMS3GapxW"
     },
     {
       "added_at": "2023-11-03 14:45:03",
@@ -379,6 +379,26 @@
     {
       "added_at": "2023-11-03 14:45:03",
       "album": {
+        "name": "Ele Me Falou",
+        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Ele Me Falou",
+      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "added_at": "2023-11-03 14:45:03",
+      "album": {
         "name": "SOU + EU",
         "url": "https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV"
       },
@@ -459,34 +479,6 @@
     {
       "added_at": "2023-11-03 14:45:03",
       "album": {
-        "name": "Chave",
-        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "Pagar Pra Ter",
-      "url": "https://open.spotify.com/track/3Sr0nvA4P1D0QYHjrp1CjU"
-    },
-    {
-      "added_at": "2023-11-03 14:45:03",
-      "album": {
         "name": "Cabeza",
         "url": "https://open.spotify.com/album/5OYa7DkVEnROKwcKybrBdl"
       },
@@ -531,6 +523,62 @@
     {
       "added_at": "2023-11-03 14:45:03",
       "album": {
+        "name": "Chave",
+        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "Pagar Pra Ter",
+      "url": "https://open.spotify.com/track/3Sr0nvA4P1D0QYHjrp1CjU"
+    },
+    {
+      "added_at": "2023-11-03 14:45:03",
+      "album": {
+        "name": "Causa",
+        "url": "https://open.spotify.com/album/6dLaJeU1l2LzBNWZV4ul2C"
+      },
+      "artists": [
+        {
+          "name": "Don",
+          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        },
+        {
+          "name": "Pascon",
+          "url": "https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi"
+        }
+      ],
+      "duration_ms": 127627,
+      "name": "Causa",
+      "url": "https://open.spotify.com/track/5RlkuQxjxRw6oASf7wTvBC"
+    },
+    {
+      "added_at": "2023-11-03 14:45:03",
+      "album": {
         "name": "J\u00e9 Ka S\u00f3r\u00f3",
         "url": "https://open.spotify.com/album/3TkDRjv287cJL9Y7UEnUsL"
       },
@@ -555,6 +603,30 @@
       "duration_ms": 160000,
       "name": "J\u00e9 Ka S\u00f3r\u00f3",
       "url": "https://open.spotify.com/track/4R4sLlLQ1Spt62pe8ce0fj"
+    },
+    {
+      "added_at": "2023-11-03 14:45:03",
+      "album": {
+        "name": "Te Vejo Mais Tarde",
+        "url": "https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "\u00c9ffe",
+          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
+        }
+      ],
+      "duration_ms": 114117,
+      "name": "Te Vejo Mais Tarde",
+      "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
     },
     {
       "added_at": "2023-11-03 14:45:03",
@@ -627,30 +699,6 @@
     {
       "added_at": "2023-11-03 14:45:03",
       "album": {
-        "name": "Te Vejo Mais Tarde",
-        "url": "https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "\u00c9ffe",
-          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
-        }
-      ],
-      "duration_ms": 114117,
-      "name": "Te Vejo Mais Tarde",
-      "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
-    },
-    {
-      "added_at": "2023-11-03 14:45:03",
-      "album": {
         "name": "Do Nada",
         "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
       },
@@ -715,30 +763,18 @@
     {
       "added_at": "2023-11-03 14:45:03",
       "album": {
-        "name": "Causa",
-        "url": "https://open.spotify.com/album/6dLaJeU1l2LzBNWZV4ul2C"
+        "name": "Ressaca",
+        "url": "https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG"
       },
       "artists": [
         {
-          "name": "Don",
-          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
-        },
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
-        },
-        {
-          "name": "Pascon",
-          "url": "https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi"
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
         }
       ],
-      "duration_ms": 127627,
-      "name": "Causa",
-      "url": "https://open.spotify.com/track/5RlkuQxjxRw6oASf7wTvBC"
+      "duration_ms": 238500,
+      "name": "Ressaca",
+      "url": "https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ"
     },
     {
       "added_at": "2023-11-03 14:45:03",
@@ -763,22 +799,6 @@
     {
       "added_at": "2023-11-03 14:45:03",
       "album": {
-        "name": "Ressaca",
-        "url": "https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG"
-      },
-      "artists": [
-        {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Ressaca",
-      "url": "https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ"
-    },
-    {
-      "added_at": "2023-11-03 14:45:03",
-      "album": {
         "name": "Deixa Eu Mostrar",
         "url": "https://open.spotify.com/album/54aMRwjpAThmHSElGPvYQB"
       },
@@ -791,6 +811,26 @@
       "duration_ms": 138145,
       "name": "Deixa Eu Mostrar",
       "url": "https://open.spotify.com/track/28dzpx9Sn1jmAvCNLoKqd8"
+    },
+    {
+      "added_at": "2023-11-03 14:45:03",
+      "album": {
+        "name": "Em Mim",
+        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
+      },
+      "artists": [
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Guetta FInelly",
+          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
+        }
+      ],
+      "duration_ms": 126143,
+      "name": "Em Mim",
+      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
     },
     {
       "added_at": "2023-11-03 14:45:03",
@@ -835,22 +875,42 @@
     {
       "added_at": "2023-11-03 14:45:03",
       "album": {
-        "name": "Em Mim",
-        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
       },
       "artists": [
         {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+          "name": "Gabr\u00e1",
+          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
         },
         {
-          "name": "Guetta FInelly",
-          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
         }
       ],
-      "duration_ms": 126143,
-      "name": "Em Mim",
-      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
+      "duration_ms": 149433,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
+    },
+    {
+      "added_at": "2023-11-03 14:45:03",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
+        }
+      ],
+      "duration_ms": 144522,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
     },
     {
       "added_at": "2023-11-03 14:45:03",
@@ -871,26 +931,6 @@
       "duration_ms": 149351,
       "name": "Me Deixa",
       "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
-    },
-    {
-      "added_at": "2023-11-03 14:45:03",
-      "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00e1",
-          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
     },
     {
       "added_at": "2023-11-03 14:45:03",
@@ -939,26 +979,6 @@
       "duration_ms": 136800,
       "name": "Deixa Falar",
       "url": "https://open.spotify.com/track/0FiYoFSKLu3UgbmfR6i0Ph"
-    },
-    {
-      "added_at": "2023-11-03 14:45:03",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 144522,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
     },
     {
       "added_at": "2023-11-03 14:45:03",
@@ -1043,26 +1063,6 @@
       "duration_ms": 164007,
       "name": "Desacelera",
       "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
-    },
-    {
-      "added_at": "2023-11-03 14:45:03",
-      "album": {
-        "name": "T\u00f4 Aqui de Novo",
-        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
-      },
-      "artists": [
-        {
-          "name": "Vinijoe",
-          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
-        },
-        {
-          "name": "Pedrin 31",
-          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
-        }
-      ],
-      "duration_ms": 215572,
-      "name": "T\u00f4 Aqui de Novo",
-      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
     }
   ],
   "unique_name": "pique afrobeats",

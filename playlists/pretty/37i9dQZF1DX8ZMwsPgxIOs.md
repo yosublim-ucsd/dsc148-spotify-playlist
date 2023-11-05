@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Adam Beyer
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,535 likes - 80 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,578 likes - 80 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 26 | [Blind Date](https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Blind Date](https://open.spotify.com/album/1ZDktqQTTWUktZ0ivTA06P) | 4:05 |
 | 27 | [Nocturnal \- Rebuke Edit](https://open.spotify.com/track/6S6NVm1rjajtGhZpBv2L9i) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \(The Rebuke Edits\)](https://open.spotify.com/album/2cdMahFloyLuCPKzRDpfCw) | 6:27 |
 | 28 | [Pillow Princess \- TAAHLIAH Remix](https://open.spotify.com/track/6mEYqfF76mM7tCcvuYpL4Z) | [Manni Dee](https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Pillow Princess Remixes I](https://open.spotify.com/album/0qealHFPGDb0uG4dBrW6qR) | 2:48 |
-| 29 | [Intentionally](https://open.spotify.com/track/4REuw9Oum1mUaSuzEycj4Q) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Intentionally](https://open.spotify.com/album/6BZvZr6rHBJEOFABiAjqxz) | 6:16 |
+| 29 | [Intentionally](https://open.spotify.com/track/1pLvbMQbSMjMnKYJdpAo4W) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Intentionally](https://open.spotify.com/album/7hvs9s04RTMT3N2hakn9fb) | 6:16 |
 | 30 | [Mango \- 2023 Edit](https://open.spotify.com/track/0talaImygs93swVz15SW2H) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Clio](https://open.spotify.com/artist/74i6loAN8sWEGN1EblwOF0) | [Mango \(2023 Edit\)](https://open.spotify.com/album/62EBxGrMF56ygSQzhKqRtJ) | 3:35 |
 | 31 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 |
 | 32 | [0151](https://open.spotify.com/track/6ysPzVWbgTncomdLMQlo0Y) | [Cosmic Chaos](https://open.spotify.com/artist/3L2iV4IOzjCbD1Usy0XVBx) | [0151](https://open.spotify.com/album/1B3ScxjLsGhKV5DxzWt28r) | 3:37 |
@@ -66,17 +66,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 56 | [Pinger](https://open.spotify.com/track/3ozYevAGA6jmeBa3O6i24R) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Pinger](https://open.spotify.com/album/7aKgtWED31pHemqYp2ltCy) | 4:58 |
 | 57 | [The Sign \(with CamelPhat\)](https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:33 |
 | 58 | [Get Down](https://open.spotify.com/track/0Ex4dfzYtS1tgoubw8jLod) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Get Down](https://open.spotify.com/album/4RKK2gMGokfiGGGk4l1FiS) | 4:01 |
-| 59 | [Whatitcouldbe](https://open.spotify.com/track/74JVzAeT2MeGQoDMdciKJV) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [/Y\\](https://open.spotify.com/album/4vrJWnbIjBvj9j4NvsUjD6) | 3:09 |
+| 59 | [Whatitcouldbe](https://open.spotify.com/track/2t3AfL2DDgkVnbtnBw3XbE) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [/Y\\](https://open.spotify.com/album/2HL79drnZ6gYN6K6VacnDg) | 3:09 |
 | 60 | [The Limit](https://open.spotify.com/track/2Rd7hUQ3nTMgev8TfihesD) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Tibasko](https://open.spotify.com/album/6a4OdRazOujmG1m8ZiHVod) | 2:53 |
-| 61 | [Brunt](https://open.spotify.com/track/6lXm60fg9Nh0mJONXKTvxv) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [Brunt](https://open.spotify.com/album/3SY8NzLDUQuQFbRuezNpzY) | 6:30 |
-| 62 | [HEY DJ](https://open.spotify.com/track/7qFvhLqCeIn0DzuaSOiesv) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [HEY DJ](https://open.spotify.com/album/1aISciPEedMIeuaLiarVIL) | 6:51 |
+| 61 | [Brunt](https://open.spotify.com/track/1VvIJidbGCkz0DA56K2Isn) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [Brunt](https://open.spotify.com/album/6A76dZwPEFmVijVEs9o2FP) | 6:30 |
+| 62 | [HEY DJ](https://open.spotify.com/track/0OK0kC1IIjLgaaEtVDXwL6) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Hey DJ](https://open.spotify.com/album/1SjL6tOedOu6S7U9Cwa71W) | 6:51 |
 | 63 | [Escape](https://open.spotify.com/track/6lGb5bcwjsolNsvp55DXmT) | [Artche](https://open.spotify.com/artist/4AiZ03mzMP6HYs4FKGIHUP), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Escape](https://open.spotify.com/album/00CETdyuoeWPV0ElHt8umH) | 4:23 |
 | 64 | [Still Flowing Water \- Edit](https://open.spotify.com/track/6rSIyjJakGuPx7DL1GoMan) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Fuzzy Logic / Still Flowing Water](https://open.spotify.com/album/5aP5JuYG4xOpdRU7MTOloL) | 3:30 |
 | 65 | [Lotus](https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Lotus](https://open.spotify.com/album/4efymwZTnjpIXStNWWdCJ8) | 4:32 |
-| 66 | [See the Sun Rising](https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [See the Sun Rising](https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm) | 4:07 |
+| 66 | [See the Sun Rising](https://open.spotify.com/track/3idWxkGAnciwFL0DL60683) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Electronic Generations](https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs) | 4:07 |
 | 67 | [Expression](https://open.spotify.com/track/2dBU0wkNaVUoy9kJnxDhSi) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Expression](https://open.spotify.com/album/2U83gvD8EyynX78yqdQOaE) | 4:51 |
 | 68 | [Someday](https://open.spotify.com/track/5uQyM8sY3jXvJ8Qpcr1axC) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [1997](https://open.spotify.com/album/6y6ZbbAYM12taq2xjofbSH) | 4:13 |
-| 69 | [Apollo \- Original Mix](https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 7:00 |
+| 69 | [Apollo](https://open.spotify.com/track/7sNp24ekO02LkwhV7kBh3Z) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/5Plok6w5YeCXhdzXGSri4T) | 7:00 |
 | 70 | [Ready To Roll](https://open.spotify.com/track/4iuiFb9jw1mykbY8TcoCmF) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready To Roll](https://open.spotify.com/album/1WMfD1ahZbc4vXyUZ8s8VM) | 5:35 |
 | 71 | [Now Is](https://open.spotify.com/track/5sM3ZjYmxQ2haTliX3ry5M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 6:31 |
 | 72 | [Life Window](https://open.spotify.com/track/2KM0Fxre2A4V97Yq8W0AQS) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Life Window](https://open.spotify.com/album/0EnUlTPW784TP5qMnad7nB) | 3:55 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 74 | [When Together](https://open.spotify.com/track/26Ueac9pnDqYTCX04Y9LKK) | [Zaltsman](https://open.spotify.com/artist/64P9QlhICY8oF9DFPHHPco) | [When Together](https://open.spotify.com/album/4WQxdIVOs3LEwHpoR3FWUQ) | 5:40 |
 | 75 | [Echo Chamber](https://open.spotify.com/track/2E1ijRRSltbxCervdfmWVI) | [Mount Palomar](https://open.spotify.com/artist/3MF81jbkfVMeJdxo56JCz6) | [Echo Chamber](https://open.spotify.com/album/6yWWXwR7sxdL94rdikCdFR) | 4:26 |
 | 76 | [Spread Love](https://open.spotify.com/track/4u1yf0ZJudECfkdCqNEngD) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spread Love](https://open.spotify.com/album/2ma3J81ldd9ObkhhGQtjVB) | 2:52 |
-| 77 | [CreM](https://open.spotify.com/track/23kgh3nWUAAikuLRgxNLnk) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [CreM](https://open.spotify.com/album/7tiJtcAnAunUcAwAlhVgLE) | 5:02 |
+| 77 | [CreM](https://open.spotify.com/track/7u7Oyr3ohXTy4ccnV4Yca1) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Crem](https://open.spotify.com/album/5Aqpxzn5dcEqmoL50exJfi) | 5:02 |
 | 78 | [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 |
 | 79 | [Ghosts](https://open.spotify.com/track/045EJUy4tNHrB3lgvpSdND) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Icons](https://open.spotify.com/album/5sJJC4UoKTfJaW0jO6YYCG) | 5:53 |
 | 80 | [Seance](https://open.spotify.com/track/0YWDmzwd4pkBlKxLqOD3Xl) | [Kundai](https://open.spotify.com/artist/3X08gT9HYzAdJFfQvS7f81) | [Glisten](https://open.spotify.com/album/7pqQBz6OVlRO1NxFuGBIk1) | 5:57 |
 
-Snapshot ID: `MCwxZTg0OTU0NTQyYWYyNWY5NjVmYTA4ZmI3NDFhNzFlZjE4MTVkYWY1`
+Snapshot ID: `MCw5MDY3N2YwYjUxYjJlNzcxMzgzNTg0Y2JlOGU2OTY5N2RhZTFjYTcy`

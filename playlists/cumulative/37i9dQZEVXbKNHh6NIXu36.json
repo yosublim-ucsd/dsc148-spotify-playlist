@@ -2475,6 +2475,28 @@
     },
     {
       "album": {
+        "name": "ARKHAM ASYLUM",
+        "url": "https://open.spotify.com/album/0gTMQhUPWbhcYHa3SlN7vl"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Joker Bra",
+          "url": "https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "ARKHAM ASYLUM",
+      "url": "https://open.spotify.com/track/35wU7QXdrqu5FTC4fMzR90"
+    },
+    {
+      "album": {
         "name": "Zeit",
         "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
       },
@@ -5583,6 +5605,24 @@
     },
     {
       "album": {
+        "name": "LOVELINE EP \ud83d\udc94",
+        "url": "https://open.spotify.com/album/4nWp5yeh1jfCgTDnsYALlC"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150408,
+      "name": "Bunte Pille \ud83d\udc8a",
+      "url": "https://open.spotify.com/track/1bc29WF3xHcXUQAcO0csAs"
+    },
+    {
+      "album": {
         "name": "Fighting Demons",
         "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
@@ -7042,6 +7082,32 @@
       "duration_ms": 210810,
       "name": "Crash (feat. Ufo361)",
       "url": "https://open.spotify.com/track/4dQuL06qPM1rpaxAydjwQc"
+    },
+    {
+      "album": {
+        "name": "Crash Dummy",
+        "url": "https://open.spotify.com/album/1ob5JbhZ4KhzKdq0HZZwDG"
+      },
+      "artists": [
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        },
+        {
+          "name": "Monk",
+          "url": "https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE"
+        },
+        {
+          "name": "Ion Miles",
+          "url": "https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172136,
+      "name": "Crash Dummy",
+      "url": "https://open.spotify.com/track/3wlFVKpDLDADlWXTNl9gGN"
     },
     {
       "album": {
@@ -9884,7 +9950,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 96638,
       "name": "Enchant\u00e9",
       "url": "https://open.spotify.com/track/7Mn6Tisa1wVvYusahnvjE5"
@@ -11910,7 +11976,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -15098,7 +15164,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -15534,6 +15600,36 @@
       "duration_ms": 141318,
       "name": "In deinen Armen",
       "url": "https://open.spotify.com/track/6XVSsVuzVUZ2zgRWB5xwef"
+    },
+    {
+      "album": {
+        "name": "Blaue Stunden",
+        "url": "https://open.spotify.com/album/1DndcvOnocioZ39IRv5xp3"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Trettmann",
+          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179335,
+      "name": "In der Nacht",
+      "url": "https://open.spotify.com/track/04g4813XfiSFRpfD1eo67d"
     },
     {
       "album": {
@@ -16707,6 +16803,24 @@
     },
     {
       "album": {
+        "name": "Katile",
+        "url": "https://open.spotify.com/album/73kFkLJPBKlhv340tvCllj"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Katile",
+      "url": "https://open.spotify.com/track/4mFDARNcAMmqq4qwTbIFjJ"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -17494,7 +17608,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 157160,
       "name": "Lass mich gehen",
       "url": "https://open.spotify.com/track/1VxlVMCopT232hOcBVybyj"
@@ -19988,7 +20102,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 147960,
       "name": "MAXIMUM RIZZ",
       "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
@@ -20512,7 +20626,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 141026,
       "name": "mietfrei",
       "url": "https://open.spotify.com/track/0fq2RzyyUoqELsONRF8ZzP"
@@ -23718,6 +23832,24 @@
       "duration_ms": 183500,
       "name": "ON FIRE (feat. Ricky Rich)",
       "url": "https://open.spotify.com/track/63oIpOHmjQ41v3bCJ8Ewl2"
+    },
+    {
+      "album": {
+        "name": "LOVELINE EP \ud83d\udc94",
+        "url": "https://open.spotify.com/album/4nWp5yeh1jfCgTDnsYALlC"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "On Fire \ud83d\udd25",
+      "url": "https://open.spotify.com/track/5DD9Y2IEZAvkUMpnVqg4gm"
     },
     {
       "album": {
@@ -27660,7 +27792,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 279833,
       "name": "Say Don't Go (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
@@ -28290,6 +28422,24 @@
       "duration_ms": 171424,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/3quQYEq6YMZmSmHpc2UKkc"
+    },
+    {
+      "album": {
+        "name": "LOVELINE EP \ud83d\udc94",
+        "url": "https://open.spotify.com/album/4nWp5yeh1jfCgTDnsYALlC"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175529,
+      "name": "Shawty \ud83d\udc25",
+      "url": "https://open.spotify.com/track/2xCi2mvTrSAB64mjCn4STs"
     },
     {
       "album": {
@@ -29508,7 +29658,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -33752,7 +33902,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"

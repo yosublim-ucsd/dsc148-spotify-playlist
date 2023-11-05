@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,679 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,020 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 50 | [Sittin' Pretty](https://open.spotify.com/track/0xRaqQnhDegqjpe0LQj0ZZ) | [The Datsuns](https://open.spotify.com/artist/2P6KPAphDMASmfHjnxSMmR) | [The Datsuns](https://open.spotify.com/album/3rvuvHqTMjsPtrdPUHyDGZ) | 3:01 |
 | 51 | [Chapstick](https://open.spotify.com/track/3HYgvYoKtEqAnNy47bUmNx) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Haus Party, Pt\. 1](https://open.spotify.com/album/7HuGa9781G05ax5o354dpo) | 2:38 |
 | 52 | [Faith](https://open.spotify.com/track/59eAcAyhYSLi5GKFrgHJzG) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:14 |
-| 53 | [Tell You \(Today\) \- 12" Vocal](https://open.spotify.com/track/2IllryBU9oFx61KtdM1dqO) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Tell You \(Today\)](https://open.spotify.com/album/6cs8uVA614A8LtJ2cYbKS9) | 7:02 |
+| 53 | [Tell You \(Today\) \(12" Vocal\)](https://open.spotify.com/track/2WS2L7AIoDioUVSoo5Vpws) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Tell You \(Today\)](https://open.spotify.com/album/5ruXf8eqi1wyfCWfTlLSd6) | 7:02 |
 | 54 | [With Or Without You](https://open.spotify.com/track/6QPhpvO1pWDS91EsEmzsbc) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [U218 Singles](https://open.spotify.com/album/0pYUq4UiXNgq8mO23rlHVU) | 4:56 |
 | 55 | [The Gnome](https://open.spotify.com/track/1GqRmuG89ILDLcuAdcli6r) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Piper at the Gates of Dawn](https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC) | 2:13 |
 | 56 | [Strawberry Letter 23](https://open.spotify.com/track/4W8IEREeLldaSQyGXcZQ2I) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 3:59 |
@@ -340,4 +340,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 330 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 331 | [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 |
 
-Snapshot ID: `MCw5YTE4ZjA3YjQzZGI0ZTYxZWU2OGRhNjhmODVmYjkwYzQyYjQ0MGU5`
+Snapshot ID: `MCxkODgwZjNmMjc3ZDllZDY3NmRjN2Y0YzdhMTA1MmM4ODhjY2U1YWJk`

@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: The Used",
-  "num_followers": 442200,
+  "num_followers": 442359,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjg2OTBiMzY3MDAxNTk0MmNhZjBkNTJjNmE4ODUxMWFlYWVmMmI4",
+  "snapshot_id": "MCw0Y2NmMjY5NzI5YjhkZWM5ZjI4YTdiMTAyZmIyMGFhNWZkYzQxY2Jm",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "A Box Full of Sharp Objects",
-      "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "The City Sleeps in Flames",
         "url": "https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 209746,
       "name": "My Darkest Hour",
       "url": "https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "A Box Full of Sharp Objects",
+      "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "All's Well That Ends Well",
-        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
-      },
-      "artists": [
-        {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "The Words \"Best Friend\" Become Redefined",
-      "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "All's Well That Ends Well",
+        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "The Words \"Best Friend\" Become Redefined",
+      "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Try This With Your Eyes Closed",
         "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 249613,
       "name": "Apology",
       "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Let's Cheers To This",
+        "url": "https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "If You Can't Hang",
+      "url": "https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -895,22 +911,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Illusion of Safety",
-        "url": "https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Deadbolt",
-      "url": "https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "The Emptiness",
         "url": "https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg"
       },
@@ -923,6 +923,22 @@
       "duration_ms": 237840,
       "name": "The Thespian",
       "url": "https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "The Illusion of Safety",
+        "url": "https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "Deadbolt",
+      "url": "https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -987,22 +1003,6 @@
       "duration_ms": 227706,
       "name": "Ready To Fall",
       "url": "https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/2uEHtF7phOSbrXdKUes5GL"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 201986,
-      "name": "Tree Village",
-      "url": "https://open.spotify.com/track/0C9d07g8OTaJeZVVmjN0pS"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "With Ears To See And Eyes To Hear",
+        "url": "https://open.spotify.com/album/1oRHYWmIhP5bmXYerh9qXj"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "If I'm James Dean, You're Audrey Hepburn",
+      "url": "https://open.spotify.com/track/2D4LEUzvLRCQOLMxnajH72"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Vheissu",
         "url": "https://open.spotify.com/album/4pwaQ1jEWLrcCvYFDJVWbl"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 172653,
       "name": "The New Black",
       "url": "https://open.spotify.com/track/22EXrfNV0f9ZcWMpK2lF67"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Ride The Wings Of Pestilence",
-      "url": "https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt"
     }
   ],
   "unique_name": "Chaos Anthems",

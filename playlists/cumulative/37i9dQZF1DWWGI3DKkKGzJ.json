@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Native (Version masteris\u00e9e 2021)",
+        "url": "https://open.spotify.com/album/4oJqKz15EIPBxCXM0STWEU"
+      },
+      "artists": [
+        {
+          "name": "Native",
+          "url": "https://open.spotify.com/artist/7gT2KvWoPu7TVaN1go8Prj"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297666,
+      "name": "Si la vie demande \u00e7a (Version masteris\u00e9e 2021)",
+      "url": "https://open.spotify.com/track/0bvNKwSk0nxBaf9moIyIzy"
+    },
+    {
+      "album": {
         "name": "Native Story",
         "url": "https://open.spotify.com/album/4N13ap2KztQO25wymAzBwI"
       },
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 297666,
       "name": "Si la vie demande \u00e7a - Version masteris\u00e9e 2021",
       "url": "https://open.spotify.com/track/1Egxpv0vuL7TL7QrelWHzL"

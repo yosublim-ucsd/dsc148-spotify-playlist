@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 3846,
+  "num_followers": 3867,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjAyZGIxMmU3YjIwN2JiMTk5Yjk5OGFhZWVkMGI3ZGQzOGZmNjg0",
+  "snapshot_id": "MCxkYjgzZmMxZTU0OWVkZTM5MWE1NjZjNzUyNjdjMGY2Nzc4OWQ4ZmQ3",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Diamante y L\u00e1grima",
-        "url": "https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 200174,
-      "name": "Diamante y L\u00e1grima",
-      "url": "https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Ll\u00e9vame",
         "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 225000,
       "name": "Problema",
       "url": "https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Diamante y L\u00e1grima",
+        "url": "https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY"
+      },
+      "artists": [
+        {
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+        }
+      ],
+      "duration_ms": 200174,
+      "name": "Diamante y L\u00e1grima",
+      "url": "https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 211474,
-      "name": "Otra Noche en L.A.",
-      "url": "https://open.spotify.com/track/2CqqG67J2dUvM6BmlZKWiD"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Hasta el final",
         "url": "https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 208000,
       "name": "Hasta el final",
       "url": "https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 211474,
+      "name": "Otra Noche en L.A.",
+      "url": "https://open.spotify.com/track/2CqqG67J2dUvM6BmlZKWiD"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Dama",
+        "url": "https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 226125,
+      "name": "Dama",
+      "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "La Rareza",
         "url": "https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "El Hijo de Borik\u00e9n",
-        "url": "https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV"
-      },
-      "artists": [
-        {
-          "name": "El Hijo de Borik\u00e9n",
-          "url": "https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG"
-        }
-      ],
-      "duration_ms": 257091,
-      "name": "Flow Criollo",
-      "url": "https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Miel y Mantequilla",
         "url": "https://open.spotify.com/album/59NP5vnw0wIR1CAJKeiU0b"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 227319,
       "name": "Miel y Mantequilla",
       "url": "https://open.spotify.com/track/2YnlDzQ7jw9LwLhapCOYLU"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "El Hijo de Borik\u00e9n",
+        "url": "https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV"
+      },
+      "artists": [
+        {
+          "name": "El Hijo de Borik\u00e9n",
+          "url": "https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG"
+        }
+      ],
+      "duration_ms": 257091,
+      "name": "Flow Criollo",
+      "url": "https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -815,22 +831,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Prisma Tropical",
-        "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
-      },
-      "artists": [
-        {
-          "name": "Bal\u00fan",
-          "url": "https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU"
-        }
-      ],
-      "duration_ms": 293873,
-      "name": "La Nueva Ciudad",
-      "url": "https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Badtrip",
         "url": "https://open.spotify.com/album/1GRvgM1ftnBQdZCLEBhWop"
       },
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Miento",
-        "url": "https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne"
+        "name": "Prisma Tropical",
+        "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
       },
       "artists": [
         {
-          "name": "Deiv",
-          "url": "https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1"
+          "name": "Bal\u00fan",
+          "url": "https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU"
         }
       ],
-      "duration_ms": 169600,
-      "name": "Miento",
-      "url": "https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF"
+      "duration_ms": 293873,
+      "name": "La Nueva Ciudad",
+      "url": "https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC"
     }
   ],
   "unique_name": "Indie Boricua",

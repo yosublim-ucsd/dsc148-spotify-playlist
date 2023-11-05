@@ -1022,10 +1022,46 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 290373,
       "name": "Xtina",
       "url": "https://open.spotify.com/track/2ybGkYUXKKJMN701QYwXff"
+    },
+    {
+      "album": {
+        "name": "Total Eclipse",
+        "url": "https://open.spotify.com/album/6PPO7q95rqHmKjXC3IJafZ"
+      },
+      "artists": [
+        {
+          "name": "Lxury",
+          "url": "https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290373,
+      "name": "Xtina",
+      "url": "https://open.spotify.com/track/3z7IkJWkJuRGeKUOs8ildv"
+    },
+    {
+      "album": {
+        "name": "Zip",
+        "url": "https://open.spotify.com/album/0Z6x73vBEISKtPcMH2QoCH"
+      },
+      "artists": [
+        {
+          "name": "uu rhythm",
+          "url": "https://open.spotify.com/artist/3Tywj0x7JTOMejtEwGGO2O"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257390,
+      "name": "Zip",
+      "url": "https://open.spotify.com/track/4aDG9AuAxM310HJPMeCEW8"
     },
     {
       "album": {
@@ -1040,7 +1076,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 257390,
       "name": "Zip",
       "url": "https://open.spotify.com/track/5n94w4fog3OUFBpjlGaGCK"

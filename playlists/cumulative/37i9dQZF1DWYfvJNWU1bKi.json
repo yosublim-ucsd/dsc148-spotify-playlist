@@ -586,10 +586,36 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 251000,
       "name": "Ennadi Maayavi Nee",
       "url": "https://open.spotify.com/track/2PYKDQkFkNbc72SWOrrmCW"
+    },
+    {
+      "album": {
+        "name": "VadaChennai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/78uqEhVzpdnpBvFMezoxpA"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Ennadi Maayavi Nee (From \"VadaChennai\")",
+      "url": "https://open.spotify.com/track/2UbUqswNGUYofPyX65o9e6"
     },
     {
       "album": {
@@ -1024,7 +1050,7 @@
     {
       "album": {
         "name": "Deepavali (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7yv0wfPOLwqdb7HdTeIi4Q"
+        "url": "https://open.spotify.com/album/2qmmqGR35GNwvtwDDQ1xZz"
       },
       "artists": [
         {
@@ -1039,6 +1065,28 @@
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 309000,
+      "name": "Kaadhal Vaithu",
+      "url": "https://open.spotify.com/track/4GCS7blidC5PMyJD8JCTvc"
+    },
+    {
+      "album": {
+        "name": "Deepavali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7yv0wfPOLwqdb7HdTeIi4Q"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 309000,
       "name": "Kaadhal Vaithu",
       "url": "https://open.spotify.com/track/6lx7W4Li5TU32ek46fId7z"
@@ -1690,7 +1738,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 356718,
       "name": "Maruvaarthai",
       "url": "https://open.spotify.com/track/7dbzO881X6TVJST6EKhnDg"
@@ -1712,6 +1760,28 @@
       "duration_ms": 356718,
       "name": "Maruvaarthai",
       "url": "https://open.spotify.com/track/2G53OcVphvDNOs08gptddN"
+    },
+    {
+      "album": {
+        "name": "Enai Noki Paayum Thota (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5LaCy2Nr1poUL7VfpvRMp4"
+      },
+      "artists": [
+        {
+          "name": "Darbuka Siva",
+          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356718,
+      "name": "Maruvaarthai (From \"Enai Noki Paayum Thota\")",
+      "url": "https://open.spotify.com/track/1HBhhBBaoyyhvFB2mYpmS8"
     },
     {
       "album": {
@@ -2272,7 +2342,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 223326,
       "name": "Po Indru Neeyaga",
       "url": "https://open.spotify.com/track/1M0oh1uq87eUtgVQTj6KR5"
@@ -2294,6 +2364,28 @@
       "duration_ms": 223326,
       "name": "Po Indru Neeyaga",
       "url": "https://open.spotify.com/track/7fttjqzmvgvpRQoOzyYng3"
+    },
+    {
+      "album": {
+        "name": "Velai Illa Pattadhaari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TOKHFSj7mBAKfnkrPGxq0"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223326,
+      "name": "Po Indru Neeyaga (From \"Velai Illa Pattadhaari\")",
+      "url": "https://open.spotify.com/track/45TUsDINS6CMvccCZ25YKk"
     },
     {
       "album": {
@@ -2714,10 +2806,32 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 183758,
       "name": "The Youth Of Power Paandi - Paarthen",
       "url": "https://open.spotify.com/track/2cflOokNPNWlHBB398YO63"
+    },
+    {
+      "album": {
+        "name": "Power Paandi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2kn9LjF7cWUTlREZU52HQf"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183758,
+      "name": "The Youth Of Power Paandi - Paarthen",
+      "url": "https://open.spotify.com/track/67quQQ4RDcXiWW5Qvz62Ku"
     },
     {
       "album": {
@@ -3304,7 +3418,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 274678,
       "name": "Yennai Maatrum Kadhale",
       "url": "https://open.spotify.com/track/0veda7gIbScyRAp2fWjDQh"
@@ -3330,6 +3444,32 @@
       "duration_ms": 274678,
       "name": "Yennai Maatrum Kadhale",
       "url": "https://open.spotify.com/track/6RXJKdpBp6AVL6H6sHyNp0"
+    },
+    {
+      "album": {
+        "name": "Rockstar Anirudh Special",
+        "url": "https://open.spotify.com/album/43MRDI02yQ8V1lGyveTq4C"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vignesh Shivan",
+          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274678,
+      "name": "Yennai Maatrum Kadhale (From \"Naanum Rowdy Dhaan\")",
+      "url": "https://open.spotify.com/track/4QROxOGtSMviE3NydK7Hpo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYfvJNWU1bKi"

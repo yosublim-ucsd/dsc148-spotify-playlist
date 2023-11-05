@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Silent Planet
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,953 likes - 59 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,074 likes - 59 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 33 | [Kill the Disease](https://open.spotify.com/track/2dZk04PrdKVlnuNrH4FnUu) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [Last Day of Sun](https://open.spotify.com/album/0WGIHvgYm71t9u3sUUKylU) | 3:20 |
 | 34 | [Survive](https://open.spotify.com/track/4CDvXL8wxVzRy4t6vWMAvr) | [Night Rider](https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6) | [Night Rider](https://open.spotify.com/album/3kX4afSHP0LiOUXnTwD9xq) | 4:26 |
 | 35 | [i physically like you](https://open.spotify.com/track/5zixK8bJCFy034QOJrpyQj) | [Kontrust](https://open.spotify.com/artist/3sQVICf0Bhikl5tlBQSU6W) | [i physically like you](https://open.spotify.com/album/1JzkUGGpLgm6IlzTG9vDuW) | 2:56 |
-| 36 | [Sweet Devotion \- Bonus Track](https://open.spotify.com/track/0JmcZy6QrM6wKQnZPw60RH) | [Voodoo Circle](https://open.spotify.com/artist/6wDtiOQnBxuCtE3mO7qWmS) | [Sweet Devotion \(Bonus Track\)](https://open.spotify.com/album/2RXHn4rAJ3TaPxdxhZ3ql0) | 4:55 |
+| 36 | [Sweet Devotion](https://open.spotify.com/track/0JmcZy6QrM6wKQnZPw60RH) | [Voodoo Circle](https://open.spotify.com/artist/6wDtiOQnBxuCtE3mO7qWmS) | [Sweet Devotion](https://open.spotify.com/album/2RXHn4rAJ3TaPxdxhZ3ql0) | 4:55 |
 | 37 | [Harvester of Souls](https://open.spotify.com/track/1smQDYZTLil5HdFmzvvqXu) | [Infected](https://open.spotify.com/artist/1BRcojC6vu5WDIlnD6SVKu) | [Harvester of Souls](https://open.spotify.com/album/3aaKxm9AmQSFaJlIAb1JZG) | 3:57 |
 | 38 | [Without Your Light](https://open.spotify.com/track/03fgajLNG8o9mRviNHt8hw) | [Uni/Vs](https://open.spotify.com/artist/6yO6DEhwGBERgyfFfRVl1q) | [Without Your Light](https://open.spotify.com/album/6LL7Dpg7ZFv7nbGAoMsyJK) | 3:21 |
 | 39 | [Be My Guest](https://open.spotify.com/track/7LH01CRu66ymwEol1s71yr) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Guardian](https://open.spotify.com/album/7HhZ4OMQ4ZSGifamWSeJ9k) | 3:47 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 58 | [Hero's Tale](https://open.spotify.com/track/3yUKSoRvzh9yh1Hfv0VJjp) | [Chamelion](https://open.spotify.com/artist/4bBRCXgu9Vhd8SOQsguNbI) | [Hero's Tale](https://open.spotify.com/album/4jQxCTLislUSrKcNLog2MI) | 5:14 |
 | 59 | [From the Shadows](https://open.spotify.com/track/4QiYDqnDCOxQWKWhvnApsf) | [Graven Sin](https://open.spotify.com/artist/15WnLCTAfMvaZ3LGkhYFNA) | [Veil of the Gods](https://open.spotify.com/album/1g8LfduUtxYCrMsYMYvUPJ) | 4:23 |
 
-Snapshot ID: `MCxmODI5Y2YzNjM2ODA1YWExNDQwYWMzMjA3NzdmNzVlZjhjM2ZlMjM5`
+Snapshot ID: `MCxmNDQ2OGUwMzQ1MTZkYzg4NWNlMGFhMTE0NTViY2JjYjM1OGYwZGIw`

@@ -1,13 +1,69 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 302339,
+  "num_followers": 302328,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "MjAwMCwyZTVkNmY4YzliZTQyNTFmOWI5M2VlMDI4MTRjNTk1NWUyYTBlYmRh",
+  "snapshot_id": "MjAwMSwwOThmMTQyN2NiNTVhMTNlZjFiNTliMTNkNzU4YjlhZjM5MzEwYTk3",
   "tracks": [
+    {
+      "added_at": "2023-11-04 11:06:27",
+      "album": {
+        "name": "Innervoices",
+        "url": "https://open.spotify.com/album/46arDyT7SntOWRIOWT2GYM"
+      },
+      "artists": [
+        {
+          "name": "Magnificence",
+          "url": "https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N"
+        },
+        {
+          "name": "EisaYZ",
+          "url": "https://open.spotify.com/artist/2EwPQd6dinlS7VhCHz72zj"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Innervoices",
+      "url": "https://open.spotify.com/track/2byJgoMvLXZvGaBP4DgBXz"
+    },
+    {
+      "added_at": "2023-11-04 11:06:27",
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3k7pDoxeERJHYmaqqt86N2"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Jannah Beth",
+          "url": "https://open.spotify.com/artist/6eC2CFvVSX6FZRJqTqXwZh"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/524ZxSFu01jgIk4iXkf3lL"
+    },
+    {
+      "added_at": "2023-11-04 11:06:27",
+      "album": {
+        "name": "Howling (Pt. II)",
+        "url": "https://open.spotify.com/album/3kLYMZd6AQitZkstZlRBu7"
+      },
+      "artists": [
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        }
+      ],
+      "duration_ms": 272727,
+      "name": "Howling (Pt. II)",
+      "url": "https://open.spotify.com/track/4lNUdnOQiNKBHEa1pREqGW"
+    },
     {
       "added_at": "2023-10-28 08:44:05",
       "album": {

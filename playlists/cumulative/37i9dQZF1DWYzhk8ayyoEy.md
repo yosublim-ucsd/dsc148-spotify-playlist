@@ -4,11 +4,12 @@
 
 > Warm, inspirational pop, that's good at heart.
 
-108 songs - 6 hr 6 min
+109 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Anything Can Happen](https://open.spotify.com/track/5QpwOB8eAwbT3qIHO1LpEj) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Anything Can Happen \(Alt Versions\)](https://open.spotify.com/album/0zjPZCRrBDwrFjtLlsw7fN) | 3:09 | 2023-09-29 |  |
+| [Anything Can Happen](https://open.spotify.com/track/5QpwOB8eAwbT3qIHO1LpEj) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Anything Can Happen \(Alt Versions\)](https://open.spotify.com/album/0zjPZCRrBDwrFjtLlsw7fN) | 3:09 | 2023-09-29 | 2023-11-05 |
+| [Anything Can Happen](https://open.spotify.com/track/5pXJ62pjtmNOLQ1nu3ctUj) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Anything Can Happen](https://open.spotify.com/album/1tND2eeINGrMm1ga2d6zC6) | 3:09 | 2023-09-29 |  |
 | [Anything Can Happen](https://open.spotify.com/track/7jsXTvKtjaf6emYflX5bN0) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Anything Can Happen](https://open.spotify.com/album/3i5MndC3mSHJNk5tIUuwWY) | 3:09 | 2023-01-20 | 2023-11-03 |
 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 | 2023-01-04 |  |
 | [BACK ON TOP \(feat\. Griff\)](https://open.spotify.com/track/4WwfMajCmOe3ApD9eF5B15) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [BACK ON TOP \(feat\. Griff\)](https://open.spotify.com/album/5bAoNisJV6KVdJ3puwJ54B) | 2:53 | 2023-01-04 | 2023-05-06 |

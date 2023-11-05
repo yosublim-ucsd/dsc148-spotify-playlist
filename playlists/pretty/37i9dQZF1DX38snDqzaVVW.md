@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,927 likes - 56 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,947 likes - 56 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 39 | [Koroso](https://open.spotify.com/track/5PYkrbKgSbD9dIN8U8E1jf) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Hikima \- Creativity](https://open.spotify.com/album/6uFdhuYmW7Yei51ghA7Uh3) | 4:33 |
 | 40 | [Eghass Malan](https://open.spotify.com/track/79ewF7kpGeCwdZBuj8I8KN) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Eghass Malan](https://open.spotify.com/album/3ri5Fj0vI09Dhex4hnGxfn) | 4:49 |
 | 41 | [Syukur \(feat\. Yusuf Islam\)](https://open.spotify.com/track/60i1Mt5fuwxGFFvRR4zr4p) | [Raihan](https://open.spotify.com/artist/0wWm1rOeaLQ4jkLpn8tmTt), [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Lagenda Hit](https://open.spotify.com/album/1X0p2XZgfQHURXrpDlHTKd) | 5:30 |
-| 42 | [Nijaay](https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/5T2htXMWcRmuYQdoHJEgi9) | 7:11 |
+| 42 | [Nijaay](https://open.spotify.com/track/09Fm7uCNugdcI9bitG6Ype) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/42oYfuID95AxYWA0jduZCo) | 7:14 |
 | 43 | [Lam Tooro](https://open.spotify.com/track/6RXdIw5UTnCIIcWjFvBeis) | [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf), [Mansour Seck](https://open.spotify.com/artist/7HAuGBgyiW6xu9tARZUObr) | [Djam Leelii: The Adventurers](https://open.spotify.com/album/3fI60xJqLkfhnbAf907JsS) | 6:40 |
 | 44 | [Umri Prije Smrti](https://open.spotify.com/track/6EO0FVP1JQT7saa6869wtX) | [Dino Merlin](https://open.spotify.com/artist/7BjXGqrW02WB9cnLKKzwrK) | [Sredinom](https://open.spotify.com/album/2lgizMNXc7yi5cf79QSGkV) | 3:40 |
 | 45 | [Marley](https://open.spotify.com/track/0syx6Mn8xjTIv2jGuQtTgu) | [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY), [Mutabaruka](https://open.spotify.com/artist/6bm0wrRCDNh2EzfG7OKQar) | [Dakar \- Kingston](https://open.spotify.com/album/2kjgphBtC6e0YFDPCbF8Kd) | 3:34 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 55 | [Dimming of the Day](https://open.spotify.com/track/4SWme0PjIFPTwXLyVWGgOI) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Acoustic Classics](https://open.spotify.com/album/0jCVyzxYUUOyKYYlBUjGV0) | 3:18 |
 | 56 | [Hum Allah Hum Allah Hum Allah](https://open.spotify.com/track/71DfiueMJMIs8D0djEgiyz) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Jewels Of Thought](https://open.spotify.com/album/4eqjbUVRGuA1iM9Gt1UhaV) | 15:10 |
 
-Snapshot ID: `MCwwZDE5NjFhMmY5NWFhNzBmZDYxNjM4NWM2YjdlZDZiNzNiMzE5Y2Vk`
+Snapshot ID: `MCxkMzAwZjRmMDgzODdmMjE4NDU4ZjY2YTYzZjEwMGVhZmFiYThhNDMw`

@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Adolescent's Orquestra",
-  "num_followers": 1834673,
+  "num_followers": 1834737,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGU2MWQ0MTI5MDgyYzJmMDJhMTFiYmJlYWNlZWM2ZTkyM2FjMjcy",
+  "snapshot_id": "MCxjMjQ0MmUxZjJmMjMyYWU3MGQ5ZTQwYjVhYWVkOGY3NGYxZWUwNGFl",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -131,6 +131,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Historia De Un Sonero",
-        "url": "https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4"
+        "name": "EL YATE (feat. Sergio George) [Versi\u00f3n Salsa]",
+        "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
         }
       ],
-      "duration_ms": 266173,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC"
+      "duration_ms": 193046,
+      "name": "EL YATE (feat. Sergio George) - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1067,6 +1071,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Historia De Un Sonero",
+        "url": "https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Por Culpa de Alguien",
         "url": "https://open.spotify.com/album/5bNVN6hXTW5gmDHsvqoZ60"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 327563,
       "name": "La Mejor de Todas",
       "url": "https://open.spotify.com/track/55BVGdzYkXx51xxMKsScgr"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "EL YATE (feat. Sergio George) [Versi\u00f3n Salsa]",
-        "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Sergio George",
-          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
-        }
-      ],
-      "duration_ms": 193046,
-      "name": "EL YATE (feat. Sergio George) - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1131,26 +1131,6 @@
       "duration_ms": 209743,
       "name": "Te Quise Olvidar",
       "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "V\u00edctimas las Dos",
-        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 257614,
-      "name": "V\u00edctimas las Dos",
-      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1251,6 +1231,30 @@
       "duration_ms": 267332,
       "name": "Enam\u00f3rate Bailando",
       "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Busco Un Pueblo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ELi1pACZsdvMj0t3sbvlL"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Voltio",
+          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Ella Lo Que Quiere Es Salsa (feat. Voltio & Jowell y Randy)",
+      "url": "https://open.spotify.com/track/6l9iRzgakAc5U82eVbt8ow"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1587,18 +1591,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "La Foto, el Video, la Chicaner\u00eda",
-        "url": "https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4"
+        "name": "Incomprendido",
+        "url": "https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw"
       },
       "artists": [
         {
-          "name": "Orquesta Calibre",
-          "url": "https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 341839,
-      "name": "Charrupi",
-      "url": "https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9"
+      "duration_ms": 179890,
+      "name": "Incomprendido",
+      "url": "https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1623,6 +1635,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "La Foto, el Video, la Chicaner\u00eda",
+        "url": "https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Calibre",
+          "url": "https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB"
+        }
+      ],
+      "duration_ms": 341839,
+      "name": "Charrupi",
+      "url": "https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Afirmando",
         "url": "https://open.spotify.com/album/4YrnCdJtjxxZVMNfCsgHpl"
       },
@@ -1635,22 +1663,6 @@
       "duration_ms": 335360,
       "name": "Ven a Medell\u00edn",
       "url": "https://open.spotify.com/track/2BoOKq8gU4QNSRkdSLQXYk"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Salsa de Amor Vol. 3",
-        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
-      },
-      "artists": [
-        {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
-        }
-      ],
-      "duration_ms": 296133,
-      "name": "P\u00e1ginas De Amor",
-      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1671,6 +1683,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Salsa de Amor Vol. 3",
+        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
+      },
+      "artists": [
+        {
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+        }
+      ],
+      "duration_ms": 296133,
+      "name": "P\u00e1ginas De Amor",
+      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "From Miami a La Habana",
         "url": "https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn"
       },
@@ -1683,30 +1711,6 @@
       "duration_ms": 263680,
       "name": "El Dinero",
       "url": "https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Nuestra Esquina",
-        "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
-      },
-      "artists": [
-        {
-          "name": "N'Klabe",
-          "url": "https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q"
-        },
-        {
-          "name": "La Tribu de Abrante",
-          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
-        },
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Pa'lante y Pa'tras - Remix",
-      "url": "https://open.spotify.com/track/0j1Fh9m0wZbvTIl8xIlSKH"
     }
   ],
   "unique_name": "Salsa Nation",

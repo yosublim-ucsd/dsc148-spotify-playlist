@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Green Day
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,788 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,865 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 39 | [Try](https://open.spotify.com/track/1isiUXaYArJVAFe2f6vRPt) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:57 |
 | 40 | [Second Solution \- triple j Live at the Wireless 1998](https://open.spotify.com/track/71Ab6vKzlT8XYxR0HkSh0s) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End \(triple j Live at the Wireless 1998\)](https://open.spotify.com/album/5rHQ788x9MMwfTFYTbcI2T) | 4:50 |
 | 41 | [A Flair For Conclusions, Yet She'll Never Be Swan Queen](https://open.spotify.com/track/3p1pZmEemqIIqXKX7PpZwf) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Face For The Radio](https://open.spotify.com/album/1wMbTB7IKFwlLS3ELUVBH1) | 3:56 |
-| 42 | [Keep Your Mouth Shut](https://open.spotify.com/track/6MQQhRfedFeOUydGYXurNj) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Keep Your Mouth Shut](https://open.spotify.com/album/2uf3cAx0kR27d4rZzDoIJ3) | 1:45 |
+| 42 | [Keep Your Mouth Shut](https://open.spotify.com/track/7IjCXwvjO5HgWOM111qSZP) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [FLSD EP](https://open.spotify.com/album/1udEgBYJTIL1hkVDeqWksH) | 1:45 |
 | 43 | [I Just Wanna Play Dead](https://open.spotify.com/track/0J2Xk6yCxuiIihwDb4zZVd) | [The Dollyrots](https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy) | [Night Owls](https://open.spotify.com/album/27sUer7HCJrLeQdiZr20rd) | 3:13 |
 | 44 | [I Want Out](https://open.spotify.com/track/3eCXFMcneA2bS0vtNWFmUG) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [We Stand Against You](https://open.spotify.com/album/3i5a3C6XsuTCGeCVpLlFXh) | 2:47 |
 | 45 | [Survivor's Guilt](https://open.spotify.com/track/6jNN6oZaHZ7PiFsRgN8RFT) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [I Feel A Bit Weird](https://open.spotify.com/album/4KhsMrML9a4mIMwsHdXWXj) | 4:18 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 58 | [Here's Looking At You, Kid!](https://open.spotify.com/track/3qrdJp0kQATq1WvXW0GNML) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Here's Looking At You, Kid!](https://open.spotify.com/album/0pQe7BNRBgq6IxafMBlCFY) | 2:44 |
 | 59 | [Diritto Di Obbedire](https://open.spotify.com/track/5v2fyB3sLf7sB7CrLVqmnh) | [Golpe](https://open.spotify.com/artist/3poEwG5DgXTTIYKyD2mi33) | [Diritto Di Obbedire](https://open.spotify.com/album/4KwdVsKZZbIs74vOMLrSEZ) | 1:14 |
 | 60 | [FATHER JOHN](https://open.spotify.com/track/6QaakLNuvBzzd7vMT50xMS) | [Family Man](https://open.spotify.com/artist/4CpA5E2uTlbIgUSrDQH9mB) | [FATHER JOHN](https://open.spotify.com/album/06kZNBKAs1Yfv8Z6Sdc4rQ) | 3:20 |
-| 61 | [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 |
+| 61 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
 | 62 | [It Won't Be Like This Forever](https://open.spotify.com/track/748NBl59GV0pfENbadjSxE) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [It Won't Be Like This Forever](https://open.spotify.com/album/4iwi5cpXPASmSueTCcLPkc) | 3:27 |
 | 63 | [Crushed](https://open.spotify.com/track/4RR8JjZA5ySJtVkyTjYTT7) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Would You Miss It?](https://open.spotify.com/album/15At5fBHrNsaLtWA7dNWIA) | 2:19 |
 | 64 | [Losing What We Love](https://open.spotify.com/track/6CrWJF0SI2XfWGMzyXdIZe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/6uROVKhZs2MvHAHUdwAwb3) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [USA](https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [USA](https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG) | 1:38 |
 | 100 | [Fallen Short](https://open.spotify.com/track/1mbnRS3a0TgqsrahokSF43) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Fallen Short](https://open.spotify.com/album/7Dcgqmfp566cAcShiWhUqi) | 2:37 |
 
-Snapshot ID: `MCw3YTZkMTM2OWJkYjJhYmZiZTAxMzhmZGY5NzMzMzE3NTg3YjA5YzM3`
+Snapshot ID: `MCw5YTBiYzA4ODVmMmNkY2Q0MDBhOWUwOGY0MTM2NTg5MWU0NjgxZGMw`

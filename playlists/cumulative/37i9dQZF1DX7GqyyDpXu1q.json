@@ -1094,10 +1094,28 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 178920,
       "name": "Devil You Know",
       "url": "https://open.spotify.com/track/2sKvfN6Kdjf9FA2yDWHQ6J"
+    },
+    {
+      "album": {
+        "name": "Devil You Know",
+        "url": "https://open.spotify.com/album/1JHMeaoUwnGzpen1EOSYie"
+      },
+      "artists": [
+        {
+          "name": "Tim Montana",
+          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Devil You Know",
+      "url": "https://open.spotify.com/track/3VfLRvfDdy7iXW057kPm2x"
     },
     {
       "album": {

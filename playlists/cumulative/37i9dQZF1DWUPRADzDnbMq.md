@@ -4,7 +4,7 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-136 songs - 7 hr 56 min
+138 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Drift Away](https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [No Stranger to Shame](https://open.spotify.com/album/1qv4N04uuM0EfIjaJZTAj9) | 4:15 | 2022-04-24 |  |
 | [Everyone She Knows](https://open.spotify.com/track/0OURixtwzJF8pON5JpMHKv) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw) | 3:24 | 2022-04-15 |  |
 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 | 2022-04-24 | 2022-06-21 |
-| [Eyes On You \(feat\. Chase Rice\)](https://open.spotify.com/track/7HM8TbCagVN3nrfF2UshfP) | [Positive Vibrations](https://open.spotify.com/artist/4HK4FOF99boN9AaOtLdkMb), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Eyes On You \(feat\. Chase Rice\)](https://open.spotify.com/album/6AN0tipaUtM5wPqYreXc76) | 3:20 | 2022-07-08 |  |
+| [Eyes On You \(feat\. Chase Rice\)](https://open.spotify.com/track/2yDIvB2B91mIlv6XuidEuF) | [Positive Vibrations](https://open.spotify.com/artist/4HK4FOF99boN9AaOtLdkMb), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Eyes On You \(feat\. Chase Rice\)](https://open.spotify.com/album/1s0m2fZk3AnJXT5lstxXD8) | 3:20 | 2023-11-03 |  |
+| [Eyes On You \(feat\. Chase Rice\)](https://open.spotify.com/track/7HM8TbCagVN3nrfF2UshfP) | [Positive Vibrations](https://open.spotify.com/artist/4HK4FOF99boN9AaOtLdkMb), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Eyes On You \(feat\. Chase Rice\)](https://open.spotify.com/album/6AN0tipaUtM5wPqYreXc76) | 3:20 | 2022-07-08 | 2023-11-05 |
 | [Feet Wet](https://open.spotify.com/track/2UDGfQ79zL7dUimZK26naj) | [Corey Smith](https://open.spotify.com/artist/2Da6v0shOpKrOG07ZxonXo) | [While The Gettin' Is Good](https://open.spotify.com/album/1GYdmYeRu7YWfBjM4rc5qD) | 3:30 | 2020-09-08 | 2022-04-25 |
 | [Fillin' My Cup \(feat\. Little Big Town\)](https://open.spotify.com/track/1zj8nUbc4cSs9Fc733MFDy) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:11 | 2022-04-24 |  |
 | [Flip Flops](https://open.spotify.com/track/6V1vwYltQSbvZgssaPhm5M) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [Summertime Six\-Pack](https://open.spotify.com/album/2vm15qy6altCkBjOf0COdr) | 3:40 | 2020-09-08 | 2022-04-25 |
@@ -75,7 +76,8 @@
 | [Living Don't Cost a Lot](https://open.spotify.com/track/5FaouE0oUkLV2SQbDsBjGh) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [Love Every Minute](https://open.spotify.com/album/7Mkqjn18c0OK3lA3QnXsOE) | 3:10 | 2023-05-19 |  |
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2022-04-24 |  |
 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 | 2020-09-08 |  |
-| [Mimosas](https://open.spotify.com/track/3HyDZ8rB0Wh6yF6q7PBa1r) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/088ajVZOaklrQJP9k2IO2Q) | 3:03 | 2022-04-24 |  |
+| [Mimosas](https://open.spotify.com/track/3HyDZ8rB0Wh6yF6q7PBa1r) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/088ajVZOaklrQJP9k2IO2Q) | 3:03 | 2022-04-24 | 2023-11-05 |
+| [Mimosas](https://open.spotify.com/track/4qK2dwwOMhM5glUsgk9BwJ) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/6v0nKIJz5dP5iZWGClu2JH) | 3:03 | 2023-11-03 |  |
 | [Mozambique](https://open.spotify.com/track/4glXMXiiOlJP4ZJmMZ1Yvu) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Mozambique / University Of Bourbon Street](https://open.spotify.com/album/1FOgVvIp41RW2dOkdm9Dwj) | 3:16 | 2023-11-03 |  |
 | [No Hard Feelings](https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 3:11 | 2022-04-15 |  |
 | [No Working During Drinkin' Hours](https://open.spotify.com/track/0s3q6vM8sFpFJrLt3mEe4w) | [Donny Brewer](https://open.spotify.com/artist/4nI1bYqONqWFnHPlSL9k35), [Thom Shepherd](https://open.spotify.com/artist/2ddAJdT2r84S4Ss1Is3Eud) | [Winnebago Tapes, Vol\. 1](https://open.spotify.com/album/7Jx7qyak7RLTLKwMxizqQI) | 3:02 | 2020-09-08 | 2022-04-25 |

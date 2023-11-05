@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from The Beatles, Cat Burns, Joy Anonymous and more!",
-  "num_followers": 842206,
+  "num_followers": 842612,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTViODY5NzNjNmQ5OWU4MTBmNzUzYWU1OWQ4YTZjNGQzODA0MDJl",
+  "snapshot_id": "MCwzNmZiZDIxZDRjNzE5MGVhODA5NDljZGE1NTAyNDI0Yzk0MzBlODU4",
   "tracks": [
     {
       "added_at": "2023-11-03 00:01:00",
@@ -483,7 +483,7 @@
     {
       "added_at": "2023-11-03 00:01:00",
       "album": {
-        "name": "Nothing Lasts Forever",
+        "name": "Nothing Lasts Forever (with Grimes)",
         "url": "https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74"
       },
       "artists": [
@@ -497,7 +497,7 @@
         }
       ],
       "duration_ms": 199183,
-      "name": "Nothing Lasts Forever",
+      "name": "Nothing Lasts Forever (with Grimes)",
       "url": "https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h"
     },
     {
@@ -1004,8 +1004,8 @@
           "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         },
         {
-          "name": "Sosa",
-          "url": "https://open.spotify.com/artist/314ehmekxo7jcyjq69j30E"
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
         }
       ],
       "duration_ms": 215091,
@@ -1972,7 +1972,7 @@
           "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
         }
       ],
-      "duration_ms": 210743,
+      "duration_ms": 182513,
       "name": "Peach",
       "url": "https://open.spotify.com/track/0OPVKeNzdYcGgXkAckZTSZ"
     },

@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Meu Funeral
 
-391 songs - 21 hr 58 min
+393 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Abismo](https://open.spotify.com/track/1tn7xftRY7vRGqElMEJaE0) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Abismo](https://open.spotify.com/album/4slCnOvaFhfeo0Qy3AZEMt) | 4:40 | 2022-01-14 |  |
 | [Abuso de Poder](https://open.spotify.com/track/3D36cD2XCe20jJgUb7NgH6) | [Expressão Natural](https://open.spotify.com/artist/6juomSRQSBzAbY4zQARLcM) | [Abuso de Poder](https://open.spotify.com/album/2OaWVGoV0DUMOcvPLVy8V6) | 4:56 | 2022-01-14 | 2023-01-21 |
 | [Acaso](https://open.spotify.com/track/2wSLrkw84GBlAzyEGjnTih) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Acaso](https://open.spotify.com/album/4bjYx9mngwSOXVRNXpZzT9) | 3:58 | 2022-04-22 | 2022-10-29 |
-| [Agora Deixa \- LIVE](https://open.spotify.com/track/0k6g7j1v203m615OkO0YmJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [VTQMV TOUR \(LIVE\)](https://open.spotify.com/album/1d3WrKOjcpnDXaVKjkmI8A) | 4:47 | 2023-11-03 |  |
+| [Agora Deixa \(LIVE\)](https://open.spotify.com/track/67uSrT1Wf3IVgJtWj8kDXy) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [VTQMV TOUR \(LIVE\)](https://open.spotify.com/album/0Mqi7qi7JaNWAVoVNemkyN) | 4:47 | 2023-11-03 |  |
+| [Agora Deixa \- LIVE](https://open.spotify.com/track/0k6g7j1v203m615OkO0YmJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [VTQMV TOUR \(LIVE\)](https://open.spotify.com/album/1d3WrKOjcpnDXaVKjkmI8A) | 4:47 | 2023-11-03 | 2023-11-05 |
 | [Agora Deixa \- LIVE](https://open.spotify.com/track/5vN0nS5sDWg6eZraZoonBd) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [AGORA DEIXA \(LIVE\)](https://open.spotify.com/album/5yRuRMgIs8lfgxT6KsYVp1) | 4:47 | 2023-04-14 | 2023-11-04 |
 | [Alerta](https://open.spotify.com/track/4lnTk0oPt5GLSzwrs1mjAX) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Alerta](https://open.spotify.com/album/60BEBdhWozkZlmna9QmwZS) | 3:20 | 2022-09-09 | 2022-10-01 |
 | [ALGUÉM ME TIRA DAQUI!](https://open.spotify.com/track/26gLVXEUbA4ZjVIVadRQ4m) | [Cefa](https://open.spotify.com/artist/47nyfQJpSHM8ezSh6QATyU) | [ALGUÉM ME TIRA DAQUI!](https://open.spotify.com/album/4unIawkvUq6wJSlRRQqgdf) | 3:42 | 2023-01-27 | 2023-04-01 |
@@ -339,7 +340,8 @@
 | [Sonho Médio](https://open.spotify.com/track/5DyIhtiRFqZMn4MTdgxUT5) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt\. 1](https://open.spotify.com/album/0CecY6LCUP61MGvefKOtdq) | 2:19 | 2022-06-17 | 2022-07-02 |
 | [Sorrisos E Ilusões](https://open.spotify.com/track/1U2a2l7vC5SnWYVPbGRSk7) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [PROCLAMME](https://open.spotify.com/artist/1r87uZYCnUbSnspV74KjbD) | [Sorrisos E Ilusões](https://open.spotify.com/album/5LNPuAxDvgQiW4ImFm20PB) | 3:07 | 2023-07-07 | 2023-09-16 |
 | [Spoilers](https://open.spotify.com/track/1dvutwpbpitL6z4RzYDygC) | [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z), [Os Spoilers](https://open.spotify.com/artist/1k6BAtf7c3dMFNOVQxFTAA) | [Spoilers](https://open.spotify.com/album/0JeLSp5jmrzrpjQgO5QJ8D) | 2:49 | 2022-01-14 | 2022-01-29 |
-| [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 | 2023-08-25 |  |
+| [Stonehenge \(Live\)](https://open.spotify.com/track/4ZKiLTqCXQLvzzmnRu9LpY) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos; Live\)](https://open.spotify.com/album/7jmk1wr6sJdWCiQpw32iJ1) | 4:12 | 2023-11-03 |  |
+| [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 | 2023-08-25 | 2023-11-05 |
 | [Subway Boys \- Ao Vivo](https://open.spotify.com/track/68OZ0nAjOY4Hj6SJfexDjS) | [Corazones Muertos](https://open.spotify.com/artist/2imezOAIpxR4Tg1J4YIKz4), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Corazones Muertos No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/5UPXx3tKUWRnkYElTLfd5W) | 2:59 | 2023-03-03 | 2023-07-08 |
 | [SUCKERPUNCH](https://open.spotify.com/track/2rQHFSh3RDxjgAPv5Iiv8M) | [Seventeen Sunsets](https://open.spotify.com/artist/6AcY1a52SmTceyc9D5THcT) | [falling down \(falling out\)](https://open.spotify.com/album/5ngaI9j92OqREwOl6QglzT) | 3:45 | 2022-01-14 | 2022-10-15 |
 | [Supla Zombie](https://open.spotify.com/track/2bSv2939o5oeCJKevJz9PZ) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Supla Zombie](https://open.spotify.com/album/2eVJMjdV7HAYhmrdvNIHZY) | 2:34 | 2022-11-18 | 2022-11-26 |

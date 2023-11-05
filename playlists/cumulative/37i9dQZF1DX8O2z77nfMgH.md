@@ -4,7 +4,7 @@
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Arcángel y Peso Pluma
 
-5,914 songs - 13 day 6 hr 46 min
+5,915 songs - 13 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3566,7 +3566,7 @@
 | [Nalgas Rojas](https://open.spotify.com/track/5tF1nPbKUEKaiPOl9wc84l) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Magicenelbeat](https://open.spotify.com/artist/4Enz9bGPvgSkKRLyLeQL43) | [Nalgas Rojas](https://open.spotify.com/album/7soQAqoA4Mjk2gfvkMeVMQ) | 3:15 | 2023-09-22 | 2023-09-30 |
 | [Nalgona](https://open.spotify.com/track/2TluUChIW39tfUZhrsJdGa) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Sergio Acosta](https://open.spotify.com/artist/76yOiYbsm9mQ9cPFUKWNFw) | [Nalgona](https://open.spotify.com/album/41P9vKICWvQcjRGZwc0kaP) | 3:09 | 2022-08-12 | 2022-08-20 |
 | [Namora Aí](https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Namora Aí](https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i) | 2:28 | 2022-12-09 | 2022-12-17 |
-| [NAORU](https://open.spotify.com/track/5Hb1pcMSavgBFU0NrOpZ49) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Sheng 33](https://open.spotify.com/artist/654zAEjMrBSV93V2PyfUgJ) | [NAORU](https://open.spotify.com/album/3TihytvP1vHrVUXtu9CiUf) | 2:44 | 2023-11-03 |  |
+| [NAORU](https://open.spotify.com/track/5Hb1pcMSavgBFU0NrOpZ49) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Sheng 33](https://open.spotify.com/artist/654zAEjMrBSV93V2PyfUgJ) | [NAORU](https://open.spotify.com/album/3TihytvP1vHrVUXtu9CiUf) | 2:44 | 2023-11-03 |  |
 | [Naranjita sí carnal](https://open.spotify.com/track/38GUNizDnH3F6eBqZceONk) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 3:14 | 2022-06-03 | 2022-06-11 |
 | [Naranjita sí carnal](https://open.spotify.com/track/3tVAj7avOvVpwkmoF2YOha) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Naranjita sí carnal](https://open.spotify.com/album/6AM6Pzkh4jGokb8gaFnRx1) | 3:14 | 2022-03-04 | 2022-03-12 |
 | [Narcisista \- Ao Vivo](https://open.spotify.com/track/0WrM1ON5poAsmKw3x5uPhD) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Narcisista \(Ao Vivo\)](https://open.spotify.com/album/1EXTduPcx49gIFbLeZOwcC) | 3:31 | 2023-07-14 | 2023-07-22 |
@@ -4219,7 +4219,8 @@
 | [Play al Cora](https://open.spotify.com/track/0qiSLX9AQpZtZelmMa6tNF) | [Inti y Vicente](https://open.spotify.com/artist/4VVwBj04GbOfjT07az5SgD) | [Play al Cora](https://open.spotify.com/album/3UWFnBLDyw6NQ6UMdWzxnX) | 2:07 | 2023-02-17 | 2023-02-25 |
 | [Playa Del Inglés](https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Playa Del Inglés](https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9) | 3:57 | 2022-12-16 | 2022-12-24 |
 | [PLAYBOY](https://open.spotify.com/track/5sJ92rb60DbHLOY91y2NoU) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [PLAYBOY](https://open.spotify.com/album/7tGoCupmv66uD6hFI451P7) | 1:52 | 2023-04-07 | 2023-04-15 |
-| [Playita en tu mar](https://open.spotify.com/track/0HzObaOOSUHCS2JETdQftp) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6) | [Kaia Lana 2023](https://open.spotify.com/album/02KLy58RLR0qQvZmDfZdrS) | 2:41 | 2023-11-03 |  |
+| [Playita en tu mar](https://open.spotify.com/track/26srTONLOLxnVTMshEu9LO) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6), [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Playita en tu mar](https://open.spotify.com/album/1FR1nrtvMKY4Zr4v2FbFyD) | 2:41 | 2023-11-03 |  |
+| [Playita en tu mar](https://open.spotify.com/track/0HzObaOOSUHCS2JETdQftp) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6) | [Kaia Lana 2023](https://open.spotify.com/album/02KLy58RLR0qQvZmDfZdrS) | 2:41 | 2023-11-03 | 2023-11-05 |
 | [Playlist](https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Playlist](https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov) | 3:01 | 2022-07-08 | 2022-07-16 |
 | [PLEBADA](https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [PLEBADA](https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2) | 3:41 | 2023-06-09 | 2023-06-17 |
 | [PLIN PLIN \(feat\. Andiex\)](https://open.spotify.com/track/63WNdJji9wjpdz0e7iCMJi) | [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [Tinz](https://open.spotify.com/artist/2BJnebsztljXB56RiH26jW), [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY) | [PLIN PLIN \(feat\. Andiex\)](https://open.spotify.com/album/2Pq18LrFkPP85JQjilIvnj) | 3:11 | 2023-09-29 | 2023-10-07 |

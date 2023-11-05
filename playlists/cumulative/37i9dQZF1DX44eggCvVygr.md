@@ -4,7 +4,7 @@
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-95 songs - 5 hr 37 min
+96 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Ti Amo](https://open.spotify.com/track/0tmZtk7jH8Esx87io5XujD) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Italian Best Hits](https://open.spotify.com/album/02hMLd8D5BQgI6m20KEIPa) | 4:05 | 2021-08-26 | 2022-11-13 |
 | [Ti Amo](https://open.spotify.com/track/5Mtx78lRs3S62t6JaGqWPR) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [GLORIA FOREVER Il Tour](https://open.spotify.com/album/6zYWcL99HKx07mzlNzS87E) | 4:05 | 2021-08-26 | 2023-03-12 |
 | [Ti Amo](https://open.spotify.com/track/6GKuVYC3oC8xjnNmDZyPF0) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Ti amo](https://open.spotify.com/album/0wX6lGqIoR0pE1vwJUVR29) | 4:05 | 2021-08-26 |  |
-| [Timebomb Zone](https://open.spotify.com/track/2sifRHahNmhTR7a3BjKc9u) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [No Tourists](https://open.spotify.com/album/6DAq2tDWMqPP7MTdb3aIDi) | 3:24 | 2021-08-26 |  |
+| [Timebomb Zone](https://open.spotify.com/track/2sifRHahNmhTR7a3BjKc9u) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [No Tourists](https://open.spotify.com/album/6DAq2tDWMqPP7MTdb3aIDi) | 3:24 | 2021-08-26 | 2023-11-05 |
+| [Timebomb Zone](https://open.spotify.com/track/3Bh7XsEU3ITiT5t1tefc04) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [No Tourists](https://open.spotify.com/album/53McTme1ugOjYfqMMmyZre) | 3:24 | 2021-08-26 |  |
 | [Trail of Revenge](https://open.spotify.com/track/71gmGaGQgbLetxEkfR5CLa) | [Andrew Britton](https://open.spotify.com/artist/1W8rzmv9lhOEkwtRMAzZtw), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [David Goldsmith](https://open.spotify.com/artist/53I9STCG46PNT88ubfdSLj) | [Universal Trailer Series \- Psychological Thriller](https://open.spotify.com/album/2rhxu5UWEdP1jxL2i5c2Hx) | 2:53 | 2021-08-26 |  |
 | [Trained to Kill](https://open.spotify.com/track/228nvElbY7zWEJoyYii9hg) | [Andrew Britton](https://open.spotify.com/artist/1W8rzmv9lhOEkwtRMAzZtw), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [David Goldsmith](https://open.spotify.com/artist/53I9STCG46PNT88ubfdSLj) | [Universal Trailer Series \- Spy\-Crime Thriller](https://open.spotify.com/album/7w8Iutd4Cq6CUTYYA39mg0) | 3:04 | 2021-08-26 |  |
 | [Vanderlyle Crybaby Geeks](https://open.spotify.com/track/1cpraaZvYqYIJMY9BbqRnc) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet \(Expanded Edition\)](https://open.spotify.com/album/0ZHwBlV4OAweXWwbUemkmT) | 4:12 | 2021-12-03 |  |

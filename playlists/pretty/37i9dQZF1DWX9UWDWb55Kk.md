@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,284 likes - 408 songs - 1 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,360 likes - 408 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -325,7 +325,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 315 | [By This River \- 2004 Digital Remaster](https://open.spotify.com/track/13b87C9TNBFKJAi9YB4Rr8) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:03 |
 | 316 | [Emoji](https://open.spotify.com/track/4dzSYGqu0Yx4vjGAt7XWQG) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Emoji](https://open.spotify.com/album/1ZQ8y3JuZIKgAcEqkca5ZO) | 3:21 |
 | 317 | [Nada](https://open.spotify.com/track/73GJywoopMVsNHn2s9aC6x) | [Sila Lua](https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR) | [The Black Door](https://open.spotify.com/album/7p8pULtHhpJg4bDpdXzdJX) | 3:50 |
-| 318 | [Burn \- Matador Remix](https://open.spotify.com/track/5AZXtxCeMSLM13vz07Osyf) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Matador](https://open.spotify.com/artist/0mkOml01ubShhJsFDyKdlm) | [Burn](https://open.spotify.com/album/7dyemaX0uVPZupR5VBans6) | 6:56 |
+| 318 | [Burn \- Matador Remix](https://open.spotify.com/track/5vW0mdltDh1aSFur31mhKn) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Matador](https://open.spotify.com/artist/0mkOml01ubShhJsFDyKdlm) | [Burn](https://open.spotify.com/album/7E0uy7v9z1md2EBoJCZsea) | 6:56 |
 | 319 | [En Busca de Ti](https://open.spotify.com/track/0BuZzrJQuVjvJqkaOBOYrL) | [Zazo & Gxurmet](https://open.spotify.com/artist/2Nqj0SeShPGwB7O88EOvTM), [JUANIH SOUTH](https://open.spotify.com/artist/4P9bSsLwn31NnduS5HyGKd) | [Daruma](https://open.spotify.com/album/2av5SECIzmVl6OfLvu1q1m) | 3:42 |
 | 320 | [Karmaya](https://open.spotify.com/track/1877JIUu7Rc8HtLU4AdyNi) | [Lucas Vidal](https://open.spotify.com/artist/6MerhqnpjjeEbjZydltdlS) | [KARMA](https://open.spotify.com/album/2YnfwVZPfAsr1kOwTv2fne) | 3:42 |
 | 321 | [Drink](https://open.spotify.com/track/7uIVKkJgCGRWH6YoMTQppM) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [Drink](https://open.spotify.com/album/4f3vmgzSoPrhDwtFt0iTet) | 4:03 |
@@ -417,4 +417,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 407 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival Vol.01](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 |
 | 408 | [You Are the One](https://open.spotify.com/track/4ZWmHquNez0tTqRKCAu7TQ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:36 |
 
-Snapshot ID: `MCxiODBhMzg4ZGRiY2EwNzMwNjNiZjg1MmM5YjEyNTNhOWI2YzNjOTIy`
+Snapshot ID: `MCxlYmEwOThmNTYyY2YwNDkxOTk5ZGIwZjMxNGNjZTUyOTZkMmY2YTNk`

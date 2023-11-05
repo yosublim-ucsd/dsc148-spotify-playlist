@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Streichelfisch (Remastered)",
+        "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74246,
+      "name": "Anfangtastisch (Remastered)",
+      "url": "https://open.spotify.com/track/4Nal4GnS7niDUpjRXOAH4w"
+    },
+    {
+      "album": {
         "name": "Streichelfisch (Remastered 2022)",
         "url": "https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6"
       },
@@ -222,7 +240,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 74246,
       "name": "Anfangtastisch - Remastered 2022",
       "url": "https://open.spotify.com/track/4HwEPEnSRL5LZaH9luAKue"
@@ -240,7 +258,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 351980,
       "name": "Aparaquasynthe - Remastered 2022",
       "url": "https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy"
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 197280,
       "name": "Ripple and Fade",
       "url": "https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu"
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 240653,
       "name": "Swarm",
       "url": "https://open.spotify.com/track/2l7WZvw6VbGHKq3XDWVSm2"
@@ -1764,7 +1782,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 187960,
       "name": "The Orchardist",
       "url": "https://open.spotify.com/track/4wowzbudA7AirG6ibEjaFJ"

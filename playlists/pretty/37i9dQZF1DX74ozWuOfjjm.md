@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of Au & NZ at full volume! Cover: The Veronicas
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,239 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,242 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 98 | [foolish thinking](https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [foolish thinking](https://open.spotify.com/album/3aazS3R5JRjdKi2CcbAA3N) | 5:53 |
 | 99 | [Cheating on Myself](https://open.spotify.com/track/4pR70cMgLgsH2Y4WjWhbIH) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Cheating on Myself](https://open.spotify.com/album/2BBJcoBveE93eqIOXLt7qc) | 2:53 |
 
-Snapshot ID: `MCxlMmU3NWRjZmM2MWRkNDZjZDE2OTA4NTY0YzIzZWMxN2RlYTVlNjNm`
+Snapshot ID: `MCxhZGI2ZDExMDI5NDNhN2MzMmRmMTdkOTFjZmZmNjgxZWNlNjRiNTBk`

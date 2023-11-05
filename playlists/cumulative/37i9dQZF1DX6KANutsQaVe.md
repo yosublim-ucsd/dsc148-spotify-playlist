@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of Rock in Canada in 2022.<br/> Cover: TALK \#SpotifyWrapped
 
-87 songs - 4 hr 52 min
+88 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Love Is All I Bring](https://open.spotify.com/track/3YDfEw7uM8Rg9Hwa5FEVdB) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Lose My Cool](https://open.spotify.com/album/02ywTruEAT82sHErogZXzP) | 3:27 | 2022-11-30 |  |
 | [Love Me \(When You're Gone\)](https://open.spotify.com/track/461uGnpHqAbSRC0SuNruAf) | [WHALES•TALK](https://open.spotify.com/artist/0CqDdSmQpezWGxxjvDGzqT) | [Love Me \(When You're Gone\)](https://open.spotify.com/album/5UOtvaBqXxOko6UWYFvxhA) | 2:37 | 2022-11-30 |  |
 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2022-11-30 |  |
-| [Matilda](https://open.spotify.com/track/2OH3Yc4xqr76ld5Xnjzd3v) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:51 | 2022-11-30 |  |
+| [Matilda](https://open.spotify.com/track/2OH3Yc4xqr76ld5Xnjzd3v) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:51 | 2022-11-30 | 2023-11-05 |
+| [Matilda](https://open.spotify.com/track/6F1N5fTDCARDP0VSFVx834) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/7sGOQncTJ6iMPl4RZUv42N) | 3:51 | 2022-11-30 |  |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 | 2022-11-30 |  |
 | [Message to Belial](https://open.spotify.com/track/2ERKY2qthU8NIXAQYl3dUZ) | [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [Colder Streams](https://open.spotify.com/album/0Lyqapc83r2z87INofEPfc) | 3:15 | 2022-11-30 |  |
 | [Message to Belial](https://open.spotify.com/track/5hpgkowmJFFRQ1APPa64E8) | [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [Colder Streams](https://open.spotify.com/album/7xrEwxtqAtEv76y5Xj4frt) | 3:15 | 2022-11-30 | 2023-04-30 |

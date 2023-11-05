@@ -4,7 +4,7 @@
 
 > The best and finest 80s Funk\. Cover: Bootsy Collins.
 
-119 songs - 10 hr 32 min
+121 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Attack Me With Your Love](https://open.spotify.com/track/7sPqjOCAHslIh9xBG9wnMI) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Single Life](https://open.spotify.com/album/4dznrRY5dru3q11AYh0zJP) | 4:30 | 2020-12-01 |  |
 | [Baby Be Mine](https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:20 | 2020-12-01 |  |
 | [Baby I'm a Star](https://open.spotify.com/track/2soBvUQBf5rbMj9HIyhzzK) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:24 | 2020-12-01 |  |
-| [Baby Love](https://open.spotify.com/track/6TyPeZdVWsgnCqHS6azkv5) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/59mwpuFNItrOg2gAbmdKEJ) | 5:53 | 2020-12-01 |  |
+| [Baby Love](https://open.spotify.com/track/1S0U07ifPGgmXGvVmGzUWP) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/1caPDYrr1i3X12eYWh4UDl) | 5:53 | 2020-12-01 |  |
+| [Baby Love](https://open.spotify.com/track/6TyPeZdVWsgnCqHS6azkv5) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/59mwpuFNItrOg2gAbmdKEJ) | 5:53 | 2020-12-01 | 2023-11-05 |
 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 | 2022-09-27 |  |
 | [Backfired](https://open.spotify.com/track/2BRTt2EUyjI5ckBtwZzN8v) | [Debbie Harry](https://open.spotify.com/artist/7FxMjqH6DH056sdsstGeVl) | [KooKoo](https://open.spotify.com/album/6ienHM68vnUy29Gpgp72Ei) | 4:53 | 2020-12-01 | 2022-08-12 |
 | [Best in the West](https://open.spotify.com/track/2rxEpk0dyfchiMOtOzMsok) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka Khan](https://open.spotify.com/album/7ndE9iVFDmgIRey7SyZv3G) | 4:03 | 2020-12-01 |  |
@@ -80,7 +81,8 @@
 | [Koo Koo](https://open.spotify.com/track/2Tr5jDUYCVOxwtyL99TBUr) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [Sheila E.](https://open.spotify.com/album/4KvsP7hERJSIvJAoGX0ju6) | 3:25 | 2020-12-01 |  |
 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/7dcs4YfIp7PDDw76rWja2t) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [A Night to Remember \(Mixed By Tony Okungbowa & Jojoflores\)](https://open.spotify.com/album/1EaATYESKxC3pW4Whf2VvE) | 4:12 | 2020-12-01 |  |
 | [Let Me Go](https://open.spotify.com/track/2VpWQNy9Ywa6rIPX4l54A2) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [The Luxury Gap \(Deluxe Version\)](https://open.spotify.com/album/7uiDwjlTNmG6chyrlVITf6) | 4:22 | 2022-08-11 |  |
-| [Let's Celebrate](https://open.spotify.com/track/3nf3xKlene4BpKqaCrdtwQ) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 5:33 | 2020-12-01 |  |
+| [Let's Celebrate](https://open.spotify.com/track/3S9X1wYuzcISeZbdowhMnn) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/5YNJQp00hB4tUznV7zrAV2) | 5:33 | 2020-12-01 |  |
+| [Let's Celebrate](https://open.spotify.com/track/3nf3xKlene4BpKqaCrdtwQ) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 5:33 | 2020-12-01 | 2023-11-05 |
 | [Love Fever](https://open.spotify.com/track/0FkUIysh68ZdHTgJkvmogL) | [Gayle Adams](https://open.spotify.com/artist/15BDxaGYlN3CPzUdWddake) | [Love Fever](https://open.spotify.com/album/52ZVYXSDSMUmpmlzmNKvAh) | 6:41 | 2020-12-01 |  |
 | [Love Games \- Edit Album Version](https://open.spotify.com/track/3jEj0AW7fdDP2F3k4EcaLq) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [The Early Tapes / Level 42](https://open.spotify.com/album/3jNbBEmjeHSUyrqKpDgiw8) | 5:13 | 2020-12-01 |  |
 | [Love Is in Control \(Finger on the Trigger\) \[2014 Remaster\]](https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Donna Summer \(Re\-Mastered & Expanded\)](https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z) | 4:22 | 2020-12-01 |  |

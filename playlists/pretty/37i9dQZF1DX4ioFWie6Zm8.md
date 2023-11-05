@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,203 likes - 107 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,240 likes - 107 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 5 | [thula](https://open.spotify.com/track/0MfonO7Ip7SypONglF78pO) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [amaXesha](https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf) | 4:00 |
 | 6 | [hlala](https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [amaXesha](https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf) | 3:42 |
 | 7 | [La Ka Ba'a](https://open.spotify.com/track/1Y62CbvptkVHpq6OsmFceu) | [Alogte Oho & His Sounds of Joy](https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1) | [O Yinne!](https://open.spotify.com/album/44sQZjLg99YdsNsPAkBNXj) | 4:12 |
-| 8 | [Sonkolon](https://open.spotify.com/track/7kwh4OBLLGc0Fvp5ENu7hm) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT) | 3:30 |
+| 8 | [Sonkolon](https://open.spotify.com/track/30fDVObwlcnIxC5WWlaKh2) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/0AkYV0mq8RuPYk07G8221P) | 3:30 |
 | 9 | [Djorolen \(2003 \- Remaster\)](https://open.spotify.com/track/6LSSDJ9XsRPfqMXNr77f6O) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Oumou](https://open.spotify.com/album/7k44FzFVfb0rNHOSgfXQO8) | 6:42 |
 | 10 | [Mama](https://open.spotify.com/track/5r3xXhGutqkW1uw9bewyFW) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Cissoko Heritage](https://open.spotify.com/album/1b1GGqobvbVrPdedaj7w5w) | 5:11 |
 | 11 | [Diarra](https://open.spotify.com/track/0KAqd0zMI2WUgIyc2O8TKT) | [Tamala](https://open.spotify.com/artist/5V8tx5yPSD9rIb8ynhyWD7) | [Lumba](https://open.spotify.com/album/3Pg3IQ6LrccO6Cr3WfFYqh) | 4:31 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 44 | [Bougoudani](https://open.spotify.com/track/7ENxFeh3Ca4TIWbUsZ0zH7) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO) | 6:26 |
 | 45 | [Seydou](https://open.spotify.com/track/2SD12dIAtIKz39Sqp1LYPo) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | ["Folon".....The Past](https://open.spotify.com/album/1ban68aN7UrIS3MTKKp7SV) | 5:48 |
 | 46 | [Obili Éba](https://open.spotify.com/track/56HGK0lr90IKBmk7flx6VW) | [Sally Nyolo and the Original Bands of Yaounde](https://open.spotify.com/artist/6uBVl1CGtKrAlqASeY4b5M) | [Studio Cameroon](https://open.spotify.com/album/5Xg4oJf8D2fm9tFdjAMYUI) | 5:22 |
-| 47 | [Kanou](https://open.spotify.com/track/43jFFMQlyY38tWloRAhdYy) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT) | 3:53 |
+| 47 | [Kanou](https://open.spotify.com/track/7kaUgwfPiXLCek3AkzJGFu) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/0AkYV0mq8RuPYk07G8221P) | 3:52 |
 | 48 | [Isqoqodo](https://open.spotify.com/track/3TM2ZDpXyHjM7WEERiUmbE) | [Insingizi](https://open.spotify.com/artist/6FcmgYayMAYjPOeH3YRc2w) | [Insingizi: Voices of Southern Africa](https://open.spotify.com/album/7gAUCIDKQCEZ26KoQmT68e) | 3:06 |
 | 49 | [Gbê](https://open.spotify.com/track/3uwaKT9AIPP2fhi9pLBALu) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3), [Cyro Baptista](https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz) | [The Journey](https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt) | 3:48 |
 | 50 | [Obiero](https://open.spotify.com/track/0dXF2xOPWR3mPDqA5Lt9nJ) | [Ayub Ogada](https://open.spotify.com/artist/1f8646DgHta6Gl3eLxZTdk) | [En Mana Kuoyo](https://open.spotify.com/album/7kVFZYCVtpYHiuJ0kdua53) | 5:40 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 106 | [Wanita](https://open.spotify.com/track/6cBLK1pC202FMxthSKg1NN) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Wanita](https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg) | 5:39 |
 | 107 | [Makambo](https://open.spotify.com/track/2F9aMslwYQurvgv7DGS7S5) | [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Exile \(Real World Gold\)](https://open.spotify.com/album/3wDdQn9tgxEIjjo1pnc7X7) | 5:00 |
 
-Snapshot ID: `MCxkMGM1ZGQ3MThjNzkwNzc1ZWZmM2Y0ZmZmYzg3ZWE5ZDMyNmY1ODAw`
+Snapshot ID: `MCxiNmFhM2YwNGUyODg4MDA2NTRjODU4MDBhZDUxZGI1NGE4OTQ2OWFk`

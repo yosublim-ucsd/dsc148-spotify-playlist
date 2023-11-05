@@ -70,10 +70,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 187904,
       "name": "Baby - Short Version",
       "url": "https://open.spotify.com/track/0Wq4qAWGtK2mTX3ljg7Euw"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/67e02HjSWRGyQ3bJIsMH2S"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187904,
+      "name": "Baby - Short Version",
+      "url": "https://open.spotify.com/track/2vYhju4THfPTF7gTEjaZvr"
     },
     {
       "album": {

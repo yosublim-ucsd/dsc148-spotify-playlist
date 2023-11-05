@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover: Ryan Gosling in Barbie
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,988 likes - 85 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,001 likes - 85 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 3 | [This Wish \- From "Wish"](https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9) | 3:25 |
 | 4 | [Gay Old Life \- Radio Edit](https://open.spotify.com/track/7gbPVLwpcgYsRRTWNYJde0) | [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Megan Mullally](https://open.spotify.com/artist/7fMuncVtnMSI5VW5Kva22R) | [Gay Old Life \(Radio Edit\)](https://open.spotify.com/album/4UlrflGOfsG9tGnsfL2mVg) | 3:20 |
 | 5 | [Burn for You](https://open.spotify.com/track/6lmke3XxJTBC2x2tT6gMo7) | [Barlow & Bear](https://open.spotify.com/artist/2JymsYVZ5c5prv9mOdPB3p), [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu), [Emily Bear](https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk) | [The Unofficial Bridgerton Musical](https://open.spotify.com/album/7gXx19GNHIiQ3fIbXxeY1U) | 2:53 |
-| 6 | [Beast](https://open.spotify.com/track/1cKataJtvqxPrW6C4nA1uS) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Beast](https://open.spotify.com/album/5E3kloxkrwiq2MlJ1gUHpw) | 2:20 |
+| 6 | [Beast](https://open.spotify.com/track/3oW2oZPTc1AHOG1y0xCAIQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Drama Queen](https://open.spotify.com/album/0kMmfTz3OwAh73dSCN3FpW) | 2:20 |
 | 7 | [Crushing Me \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/0RNBDMSTGssQIRsWjnANt7) | [Ari Notartomaso](https://open.spotify.com/artist/3kpcOPO2xmHh1ClcFXnd5o), [Tricia Fukuhara](https://open.spotify.com/artist/4SSnp3DgxryeD7ZaBwarod), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \- Episode Eight \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/4GGOhulPzPt65sczzf87Al) | 1:47 |
 | 8 | [Out Alpha The Alpha](https://open.spotify.com/track/3GALk45nKwp5pg6zJp7nhm) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Out Alpha The Alpha](https://open.spotify.com/album/4vgXGnGzxojy5spBZranjW) | 3:46 |
 | 9 | [Rhythm Of My Heart \(From "Pacemaker"\) \[Original Soundtrack\]](https://open.spotify.com/track/5cAiboYMkTsZKJFFShGVf7) | [Philip Lawrence](https://open.spotify.com/artist/45wuKcOpGlFuFWdWuBFfkO), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Christopher Lennertz](https://open.spotify.com/artist/2TQwXfupr6fAEV5AgNqIO5) | [Rhythm Of My Heart \(From "Pacemaker"\) \[Original Soundtrack\]](https://open.spotify.com/album/1fVZYc7OXYxaIsyplldD3i) | 3:02 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 84 | [Let's Generalize About Men \(feat\. Rachel Bloom, Donna Lynne Champlin, Vella Lovell & Gabrielle Ruiz\)](https://open.spotify.com/track/73hr344AmxNViy6IgFw6QL) | [Crazy Ex\-Girlfriend Cast](https://open.spotify.com/artist/2Dzk9smBaIfEFjF7T2Gygz), [Donna Lynne Champlin](https://open.spotify.com/artist/4W6kSTuYNVuHw97QMvb2TB), [Gabrielle Ruiz](https://open.spotify.com/artist/5MVEzr4FAatsTTkPhDXkHj), [Rachel Bloom](https://open.spotify.com/artist/2tCT4ybLKzhFYsDF6ZOKAY), [Vella Lovell](https://open.spotify.com/artist/4QLs1KUSQaafoB2dGnxvmR) | [Crazy Ex\-Girlfriend: Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/61qQpAsfOVhFo5iDnKth4o) | 2:38 |
 | 85 | [Only Us \(with Dan + Shay\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Only Us \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF) | 3:45 |
 
-Snapshot ID: `MCxlYzhkYjExNjFmOWNmN2U5NmM4MzkxMGE1YWYzMmYwY2M0NmQ5ODUx`
+Snapshot ID: `MCw0ZDY4MzY0Y2Q5MWQ4ZWY0NzZjMjUwNmRiNmRjYTIxNTA1NmY1Njkw`

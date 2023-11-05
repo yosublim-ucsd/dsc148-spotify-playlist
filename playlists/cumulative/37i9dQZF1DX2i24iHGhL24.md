@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-410 songs - 23 hr 32 min
+412 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,8 @@
 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 | 2022-12-02 | 2023-10-17 |
 | [One Of Us](https://open.spotify.com/track/5CqrCMMhS8QzBfzks0vel8) | [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Broken Glass, Vol\. 5](https://open.spotify.com/album/1GNtlaf1suRPWz351bNiVc) | 3:34 | 2023-08-04 |  |
 | [Only Wanna Be With You \- Pokémon 25 Version](https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Only Wanna Be With You \(Pokémon 25 Version\)](https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4) | 4:01 | 2021-12-17 |  |
-| [Ordinary World](https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 3:20 | 2023-02-24 |  |
+| [Ordinary World](https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 3:20 | 2023-02-24 | 2023-11-05 |
+| [Ordinary World](https://open.spotify.com/track/73dLCr0dOQ9hORkFfvJjoK) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/5wo36E64oDg53M1xWVyZ7d) | 3:20 | 2023-10-18 |  |
 | [Ordinary World](https://open.spotify.com/track/7rOOz79ZvG4xaoJfX8ytE1) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Ordinary World](https://open.spotify.com/album/3IVrrKC9pZbbJjEFOifAEi) | 3:20 | 2022-12-16 | 2023-02-28 |
 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:41 | 2022-03-25 | 2022-04-16 |
 | [positions](https://open.spotify.com/track/4AzIX0rzbcTydZYFq3cmaz) | [Chaz Mazzota](https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM) | [positions](https://open.spotify.com/album/4looOoYgMmelHyFjiCzEFT) | 2:25 | 2021-12-17 | 2022-12-30 |
@@ -299,7 +300,8 @@
 | [Rather Be](https://open.spotify.com/track/1dRrzIe6iCMEOXtut9CHg1) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB) | 4:07 | 2022-07-08 | 2022-10-29 |
 | [Rather Be](https://open.spotify.com/track/65JDgeD464dj7HzRBHKnaY) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/4FVakTdaFIU6acV4hHypOs) | 4:07 | 2022-02-18 | 2022-07-29 |
 | [River](https://open.spotify.com/track/2jqvNMwGblEUNMwTMBhXMV) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [River](https://open.spotify.com/album/4i1B3n7MJsMwGapAjOxvBF) | 3:45 | 2022-03-25 | 2022-04-16 |
-| [RUNNING UP THAT HILL](https://open.spotify.com/track/0IPux9AVDKm0OiJgqi8b4v) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [RUNNING UP THAT HILL](https://open.spotify.com/album/4b0lmXRVg3jpRkrLS49yeg) | 3:19 | 2023-02-17 |  |
+| [RUNNING UP THAT HILL](https://open.spotify.com/track/0IPux9AVDKm0OiJgqi8b4v) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [RUNNING UP THAT HILL](https://open.spotify.com/album/4b0lmXRVg3jpRkrLS49yeg) | 3:19 | 2023-02-17 | 2023-11-05 |
+| [RUNNING UP THAT HILL](https://open.spotify.com/track/4NfjZe19Gsnm4pto3oJ8zb) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [RUNNING UP THAT HILL](https://open.spotify.com/album/3k5d8t2nSAr7saw6yqm5vC) | 3:19 | 2023-10-18 |  |
 | [Same Drugs](https://open.spotify.com/track/6eYUnN80DcA0KgR4eWnLAL) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Same Drugs](https://open.spotify.com/album/35haKLfTGFWlHuvbRA4q7d) | 4:01 | 2022-03-25 | 2022-04-21 |
 | [Same Drugs](https://open.spotify.com/track/6CTTipcCa8RZX8aY0mttHa) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Same Drugs](https://open.spotify.com/album/5Cm0jOtMleDMQXb2R7p0cI) | 4:24 | 2022-03-25 | 2022-04-16 |
 | [Say My Name](https://open.spotify.com/track/1FT0UxEC9oRWUg18MfPEcj) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Covers EP](https://open.spotify.com/album/1dh2pFzrKtkLeuQ8uoMX0U) | 3:40 | 2021-12-17 | 2022-12-30 |

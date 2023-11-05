@@ -4,7 +4,7 @@
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-73 songs - 6 hr 49 min
+74 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Another Excuse \- DFA Remix](https://open.spotify.com/track/296fOgdmVRTPZU3zLIAX30) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 7:52 | 2021-06-02 |  |
 | [Another Excuse \- Dfa Remix](https://open.spotify.com/track/0oSbSiUnmSbUIDexxH7OPd) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Nancy Whang](https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B) | [Nite Versions \(15 Year Anniversary Edition\)](https://open.spotify.com/album/4cGFG2xWOqE09EmRMUMd6t) | 8:00 | 2021-06-02 | 2022-11-13 |
 | [Another Excuse \- Dfa Remix](https://open.spotify.com/track/733gHaYR1w0B46dUEENvGx) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Nancy Whang](https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B) | [Nite Versions](https://open.spotify.com/album/5ftdUoPzoh1y5bIroXw68G) | 8:00 | 2021-06-02 | 2022-07-29 |
-| [Another Man \- 2012 \- Remaster](https://open.spotify.com/track/33qq1FKftOqTzUMKYed45x) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [The West End Story, Vol\. 2 \(2012 \- Remaster\)](https://open.spotify.com/album/5bYi0lm8inqOHBgx5bWpwd) | 6:56 | 2021-06-02 |  |
+| [Another Man \(2012 \- Remaster\)](https://open.spotify.com/track/7IA5gHTiqARGvXqlhLQvq6) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [The West End Story, Vol\. 2](https://open.spotify.com/album/1UvHv0Rmg3U4p7JnvcARc6) | 6:56 | 2021-06-02 |  |
+| [Another Man \- 2012 \- Remaster](https://open.spotify.com/track/33qq1FKftOqTzUMKYed45x) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [The West End Story, Vol\. 2 \(2012 \- Remaster\)](https://open.spotify.com/album/5bYi0lm8inqOHBgx5bWpwd) | 6:56 | 2021-06-02 | 2023-11-05 |
 | [Battle](https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Lain](https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:00 | 2021-06-02 |  |
 | [Beam Me Up \- Prins Thomas Diskomiks \- Single Edit](https://open.spotify.com/track/63o8AFj8EjvyUvR8Ez01C5) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Beam Me Up \(Prins Thomas Diskomiks \- Single Edit\)](https://open.spotify.com/album/49dNYLSLbFUnguSK2XVqfl) | 5:00 | 2021-06-02 |  |
 | [Bourgie Bourgie](https://open.spotify.com/track/5ul1HJv0yJHYzvUKWjMmz2) | [John Davis](https://open.spotify.com/artist/6e7u1ZLjBS8Pp9CQxGA0rc), [The Monster Orchestra](https://open.spotify.com/artist/1I0M6cH3V4GnOunNUix9s2) | [Joey Negro and Sean P Present the Best of Disco Spectrum](https://open.spotify.com/album/6Snhq073bHXQHQi4BVzD4K) | 6:09 | 2021-06-02 | 2022-07-29 |

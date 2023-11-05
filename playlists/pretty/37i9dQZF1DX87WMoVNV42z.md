@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87WMoVNV42z.md) - [plain]
 | 14 | [Lovesick](https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Someday Somewhere](https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE) | 3:16 |
 | 15 | [sekaisin](https://open.spotify.com/track/4aRKgWNK85cFDzX9SBFJNq) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [sekaisin](https://open.spotify.com/album/2jPS5g3haETLdPSbZDrY4m) | 2:49 |
 | 16 | [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 |
-| 17 | [Gyoza](https://open.spotify.com/track/2IFhlThFS4uAfNDqW5Yz21) | [Sandhog](https://open.spotify.com/artist/4Bg70gCux7vzM1w08aUF37) | [Gyoza](https://open.spotify.com/album/3HEVj0qA8IEUN8xJgXwzJu) | 6:39 |
+| 17 | [Gyoza](https://open.spotify.com/track/4sCyFkIRKgjHmeJhGBI5fN) | [Sandhog](https://open.spotify.com/artist/4Bg70gCux7vzM1w08aUF37) | [Gyoza](https://open.spotify.com/album/7sHeIqCo0bRBYdOMDAV8MW) | 6:39 |
 | 18 | [Love Will Tear Us Apart](https://open.spotify.com/track/33z70kPS4Iwxyd1KKpxMQk) | [Susanna](https://open.spotify.com/artist/4ENNORrr0p2n5eaYl4ZXgG), [Susanna and the Magical Orchestra](https://open.spotify.com/artist/7xcuzgehBTI4gNLwItyw9i) | [Melody Mountain](https://open.spotify.com/album/0ha3inmn0oMYaQfJRgnTuf) | 5:08 |
 | 19 | [Winaloto](https://open.spotify.com/track/4qDp2aoJCukWNIeeCInx3X) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Winaloto](https://open.spotify.com/album/0uCWPZ8T5L2Slsw7SQx3Pu) | 3:28 |
 | 20 | [Gang Drone](https://open.spotify.com/track/4ycY3UYqgLOgeI1nZBVVJ9) | [Twwth](https://open.spotify.com/artist/0igNErCtblHMcfEnCopVhT) | [Dislocation](https://open.spotify.com/album/0Xi7oXPjJb19Vh8y9Utr6h) | 10:34 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87WMoVNV42z.md) - [plain]
 | 35 | [Bounce Forever](https://open.spotify.com/track/2VCW0ejFjCLhRzDvTdHva3) | [Universal Production Music](https://open.spotify.com/artist/04mwHdsbf5QYDOpktMFpSa) | [90s Dance Revival](https://open.spotify.com/album/4bTQiQsyWNCtqz9igE7KBx) | 1:53 |
 | 36 | [Pump Your Fist](https://open.spotify.com/track/1iDJC4X2GQBjVICZJQ0foc) | [Ruben Ayala](https://open.spotify.com/artist/1sXZK0Q1I1e0WeOjCv1i4s), [Jeffrey W Wade](https://open.spotify.com/artist/3gDlNsAF1Dwk02bke3nl0l), [Lester Raynel Ruffin](https://open.spotify.com/artist/7Guq3kAIknS5bSzXnOVG4p) | [Hip Hop R 'N' B Old Skool](https://open.spotify.com/album/3gf7Zq1CSTdJVfZdK8sOBs) | 2:35 |
 
-Snapshot ID: `MCw0NjhmODVkOTM1NGIwZDBjZjU2M2FlMDVkNmVhM2RlOTAxMjQwMjRi`
+Snapshot ID: `MCw0OTI4Yzc4ZTYxNDUyNTkxNzVmMjkxZjhlZjI5M2JjODI3MmExMmUx`

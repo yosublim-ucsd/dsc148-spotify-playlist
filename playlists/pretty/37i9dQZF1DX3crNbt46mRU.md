@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: The Beatles
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,550 likes - 103 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,559 likes - 103 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 26 | [We No Speak Americano \- Luca\-Dante Spadafora & Niklas Dee Remix](https://open.spotify.com/track/57QDotZNUHiKkFlplhx3sE) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [We No Speak Americano \(Luca\-Dante Spadafora & Niklas Dee Remix\)](https://open.spotify.com/album/52zry5YLJvBVhYrFYq4a79) | 2:28 |
 | 27 | [DU FEHLST!!!](https://open.spotify.com/track/3k6nkN9tg5Wu0cQdNvyZBU) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [DU FEHLST!!!](https://open.spotify.com/album/5dPJfPpVpJTeTYfwgaXq3j) | 3:04 |
 | 28 | [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 |
-| 29 | [On ira](https://open.spotify.com/track/565OBXlZlMmtddb3I2yxBn) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp), [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [On ira](https://open.spotify.com/album/5OId2gN3v8HsMBBmVLQTJ2) | 2:36 |
+| 29 | [On Ira](https://open.spotify.com/track/565OBXlZlMmtddb3I2yxBn) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp), [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [On Ira](https://open.spotify.com/album/5OId2gN3v8HsMBBmVLQTJ2) | 2:36 |
 | 30 | [self\-esteem \(feat\. Philippa Kinsky\)](https://open.spotify.com/track/33ffnE3XUCde9FVvrDWwuc) | [Jonathan Baily](https://open.spotify.com/artist/1QfgytrRilvQ1HVXZGFJji), [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [self\-esteem \(feat\. Philippa Kinsky\)](https://open.spotify.com/album/4V830sWhCHBkM6tTljqy04) | 2:36 |
 | 31 | [Einmal um die Welt \("Die Mädchen\-WG 2023" Titelsong\) \(feat\. KATI K\)](https://open.spotify.com/track/7LqrkADuk4qBpM64C6Hm4Y) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Einmal um die Welt \("Die Mädchen\-WG 2023" Titelsong\) \(feat\. KATI K\)](https://open.spotify.com/album/7u3gIOXDLusTqOpid54wju) | 2:19 |
 | 32 | [Waka Waka](https://open.spotify.com/track/5Idil10mcvgdD2CHbRR2sF) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Waka Waka](https://open.spotify.com/album/7HGP96lEH5assiam9DokmF) | 2:05 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 93 | [HOP IN THE WHIP](https://open.spotify.com/track/2gla8798ZLQ8GVRaBcS3Lh) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [HOP IN THE WHIP](https://open.spotify.com/album/5mcORuqUIHtALvnbqbi2Hd) | 2:31 |
 | 94 | [stadt der geister](https://open.spotify.com/track/76qjW4UTomvITSO0ArE7oz) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [stadt der geister](https://open.spotify.com/album/7gXzDYM14xWXGgbBwLN4JW) | 2:53 |
 | 95 | [Mayday](https://open.spotify.com/track/1e1snBkwEaoXaW6LYt8lSE) | [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Mayday](https://open.spotify.com/album/1owrZgF2mos1oWCpsnA3Ly) | 2:20 |
-| 96 | [Nothing Lasts Forever](https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Nothing Lasts Forever](https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74) | 3:19 |
+| 96 | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74) | 3:19 |
 | 97 | [Dieser Tag](https://open.spotify.com/track/00uJPX7SlWa1zOcPSlMy2a) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Dieser Tag](https://open.spotify.com/album/2vxErJoKPnOVVQvSANaHnb) | 2:31 |
 | 98 | [This Life](https://open.spotify.com/track/7wFZibpYAhmzeWIcaR2YUx) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [This Life](https://open.spotify.com/album/4fyfi8KzHN70aB17kAWF52) | 3:47 |
 | 99 | [In Waves](https://open.spotify.com/track/3wsDvMMxWELZwTcUybNLXI) | [MERIT](https://open.spotify.com/artist/7tBhBEIKZznYE8CI618tNv) | [In Waves](https://open.spotify.com/album/3GSEMLqQoGrB4LpSFEVWtT) | 3:18 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 102 | [Young & Free](https://open.spotify.com/track/6fAykULmAdoUNqIorQZAVs) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Young & Free](https://open.spotify.com/album/0UeyTVnph7j8kYLCJMcYai) | 3:02 |
 | 103 | [Polizisten](https://open.spotify.com/track/76T4OHNAVcEypDQEbviZnf) | [The Disco Boys](https://open.spotify.com/artist/0suokA0Exjok9HBfB0Oc3X), [Extrabreit](https://open.spotify.com/artist/24PlSVIGWBTu65G4tEUwGj) | [Polizisten](https://open.spotify.com/album/2kAXaGXyDUIqFxllECO4Yo) | 2:28 |
 
-Snapshot ID: `MCxkOWY4Y2ZiMzY3NjgzOGUyODQ0NmI2MmNjNTA5MGEyNzkzNGMxMDlm`
+Snapshot ID: `MCxhNTkxOTFjOGYxZGVhYWIzYzk3MDc4MDQ0MzBhNjNhNjgxNGIwZmQ0`

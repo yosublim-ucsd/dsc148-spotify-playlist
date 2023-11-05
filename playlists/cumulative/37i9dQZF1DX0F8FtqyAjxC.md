@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-125 songs - 11 hr 28 min
+126 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Let Me Be Yours](https://open.spotify.com/track/6XtI7qyGCaPtXghHg4LSgb) | [Lillo Thomas](https://open.spotify.com/artist/14itayizvSheiiSLn0MhER) | [Let Me Be Yours](https://open.spotify.com/album/2tHwP1nwVlxZrWDOOreBts) | 5:17 | 2022-07-07 | 2023-08-26 |
 | [Life 4 Living](https://open.spotify.com/track/36abYTyqMC13buaMnlm8Zg) | [USG](https://open.spotify.com/artist/0qIfdkAUlwRwrjdqLyhlQj), [Monica Elam](https://open.spotify.com/artist/0iHIwJNxaCnw8qgzIqwThT) | [Word, Sound & Power](https://open.spotify.com/album/3MqP5lYO3a7FYfPmhLIFkk) | 9:00 | 2022-07-07 | 2022-10-15 |
 | [Love T.K.O.](https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:59 | 2023-03-08 |  |
-| [Love Thang](https://open.spotify.com/track/7vRuEtSugCJVYRQtk1lXnJ) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [Grandmaster Flash Presents: Salsoul Jam 2000](https://open.spotify.com/album/28n4vKOfQNAevM2189Pfsm) | 7:57 | 2022-07-07 |  |
+| [Love Thang](https://open.spotify.com/track/1jQenNAMTCKk0cOPbsFrW7) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [Grandmaster Flash Presents: Salsoul Jam 2000](https://open.spotify.com/album/3MNIRBUlKpGSKWMj9WS2en) | 7:56 | 2023-08-25 |  |
+| [Love Thang](https://open.spotify.com/track/7vRuEtSugCJVYRQtk1lXnJ) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [Grandmaster Flash Presents: Salsoul Jam 2000](https://open.spotify.com/album/28n4vKOfQNAevM2189Pfsm) | 7:57 | 2022-07-07 | 2023-11-05 |
 | [Love To The World](https://open.spotify.com/track/3WDBN6uvRNYqcgZCApxKrP) | [L.T.D.](https://open.spotify.com/artist/0H4sfMNK9hoasHItAgD1kJ), [Jeffrey Osborne](https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK) | [Classics Volume 27](https://open.spotify.com/album/0igyY1wB0qp0o0zvVkor5r) | 5:08 | 2022-07-07 |  |
 | [Lovin' Is Really My Game](https://open.spotify.com/track/3Ua5tojEvJ2YzibMzlrs6t) | [Brainstorm](https://open.spotify.com/artist/6JPBUFrfF5w5whOPk2w0kp) | [Stormin'](https://open.spotify.com/album/72kfJfNjTjoghbTJ0WoHPs) | 4:59 | 2022-07-07 | 2023-08-26 |
 | [Message In Our Music](https://open.spotify.com/track/1lYCmnucH0yo2XGzd2h57r) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 6:20 | 2023-04-11 | 2023-08-26 |

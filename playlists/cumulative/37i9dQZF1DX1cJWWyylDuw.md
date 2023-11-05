@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-496 songs - 1 day 8 hr 16 min
+497 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-04-15 | 2022-07-24 |
 | [Cathedrals of Blood \(Twilight of the Idols\)](https://open.spotify.com/track/7tyqpGsyDgCTL8EOcqhJt5) | [Phobophilic](https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF) | [Enveloping Absurdity](https://open.spotify.com/album/0ULfAaYkPeQfu3f64qNiuy) | 4:15 | 2022-09-16 | 2023-02-12 |
 | [Caved In](https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Caved In](https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG) | 2:58 | 2022-02-11 | 2023-11-04 |
-| [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/track/5vw6v6Fta7a4BwHvhMtnVW) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Chamber](https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN), [Jacob Lilly](https://open.spotify.com/artist/3liqJR5I9qc7zYvhrM0tUx) | [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/album/6M7pQm8mrIcrc57XXQfNmx) | 1:11 | 2023-04-28 |  |
+| [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/track/5vw6v6Fta7a4BwHvhMtnVW) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Chamber](https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN), [Jacob Lilly](https://open.spotify.com/artist/3liqJR5I9qc7zYvhrM0tUx) | [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/album/6M7pQm8mrIcrc57XXQfNmx) | 1:11 | 2023-04-28 | 2023-11-05 |
 | [Chainbreaker](https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Chainbreaker](https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B) | 4:35 | 2021-12-17 |  |
 | [Charlotte](https://open.spotify.com/track/1E0wg7h8fvowWXUOyrYose) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [God Hand](https://open.spotify.com/album/64CVhMqlsSVEtCLDXCHvvB) | 3:16 | 2021-12-17 | 2022-07-29 |
 | [Charlotte](https://open.spotify.com/track/1MCRmDZQsbB1r2KP8dsWKO) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [God Hand](https://open.spotify.com/album/3vnofNSDDHTomiI8cIZrpb) | 3:16 | 2023-02-10 |  |
@@ -233,6 +233,7 @@
 | [Hideous](https://open.spotify.com/track/5tqhz6V5vVrEitYkTGqAGa) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Hideous](https://open.spotify.com/album/4qftklc0DH2DWxanvoXSNG) | 4:14 | 2021-12-17 | 2022-07-29 |
 | [Hideous](https://open.spotify.com/track/7aJcCmELuZ3Tqd19oVQD7n) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Culling Culture](https://open.spotify.com/album/3ILJRDzXPGR8104VfpAz0U) | 4:14 | 2022-07-08 |  |
 | [Hollow Point](https://open.spotify.com/track/2zSqmJ6gsjIvcpF5YQIcfG) | [Xile](https://open.spotify.com/artist/0CzR5dQOy1y5niJZXGype3) | [Hollow Point](https://open.spotify.com/album/3sLKiBqGZgPqgkoqrp3dJC) | 3:24 | 2022-01-07 | 2022-07-24 |
+| [Hollowed Heart](https://open.spotify.com/track/3ffljpjKfPISFjCt4zpYUk) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Hollowed Heart](https://open.spotify.com/album/6sXEuCRjMv3I9LlyfOJBt8) | 3:51 | 2023-08-16 |  |
 | [Hollowed Heart](https://open.spotify.com/track/3qSO9glfDKlL7mFzUJbz2V) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Hollowed Heart](https://open.spotify.com/album/0Dw5ryGjm2rcsJOtmtVj1e) | 3:51 | 2022-07-08 | 2023-11-04 |
 | [Hollowed Heart](https://open.spotify.com/track/7HZHFE3NN7uQgf9JRRN3Hh) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Hollowed Heart](https://open.spotify.com/album/1eugdphmac0WQccxNJ96tn) | 3:51 | 2021-12-17 | 2022-07-29 |
 | [Hostage](https://open.spotify.com/track/2EvwCAigrjoCumwLRssYnK) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Hostage](https://open.spotify.com/album/0c7jMSvnyfejQBM59hG2f4) | 3:16 | 2021-12-17 | 2022-04-09 |

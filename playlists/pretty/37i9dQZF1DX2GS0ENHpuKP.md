@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,519 likes - 55 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,562 likes - 55 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 51 | [Jibaro \(Enrolle\)](https://open.spotify.com/track/39qNshURj4X8qghle1JSXq) | [Elkin & Nelson](https://open.spotify.com/artist/2B6jLXMjMSW7Jf8yBM6rVJ) | [Angeles y demonios](https://open.spotify.com/album/2w7OWXr7uD2QPYZM2qYEso) | 7:30 |
 | 52 | [Celebrai](https://open.spotify.com/track/4PzJpD928dFuoLmpj7vmXO) | [Alberto Radius](https://open.spotify.com/artist/2uyAYGYd55R5oAHtyJYN95) | [Carta Straccia](https://open.spotify.com/album/7gPXZfbUIhMsn5qpfQMWF8) | 4:39 |
 | 53 | [Hlabalaza](https://open.spotify.com/track/3vpdeKbEjRQildGqaUMLut) | [The Bees](https://open.spotify.com/artist/7hNz2UypuRHP6H4gitUILJ) | [She's a Witch \(Tikoloshi\)](https://open.spotify.com/album/2iuHTQQ9Th87ikH1HSuFMJ) | 5:23 |
-| 54 | [Il vecchiaccio](https://open.spotify.com/track/539NGs2uOS6xu8JMuemKO1) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le mie canzoni](https://open.spotify.com/album/5JJca3CzOPDWOamyhtH1At) | 3:44 |
+| 54 | [Il vecchiaccio](https://open.spotify.com/track/1u0uPBJx7pHVlx9L2Wcydu) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [le più belle canzoni](https://open.spotify.com/album/02322HwE6b1hf200vS8dVR) | 3:45 |
 | 55 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
 
-Snapshot ID: `MCw4YjkwMDYxOGE3OTA2ZjViOTc2ZTdkY2VlOTBiM2U1ODU4YTUzOTcy`
+Snapshot ID: `MCwxZDJiZTlkYjg1OGM3ODc5YzllMzkyM2U2MjI1MWQ3ZDNmYzlmMmI5`

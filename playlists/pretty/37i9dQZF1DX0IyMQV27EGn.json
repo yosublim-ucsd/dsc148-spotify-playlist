@@ -1,12 +1,12 @@
 {
   "description": "sultry and seductive feminine energy \ud83d\udd2a cover: Marilyn Monroe",
-  "num_followers": 801963,
+  "num_followers": 804235,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWY0ZWVhY2VmYzc3Y2RkYWIwNmJlMjc2NzNiNTkzNzcyY2U0MzMx",
+  "snapshot_id": "MCw2OTIxMTA4Y2Q0YTQ3MTU1ZGQyNzFlOWQ4ZDVmNDcxNDQ2YmQ4Mzg3",
   "tracks": [
     {
       "added_at": "2023-09-18 21:42:19",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-09-18 21:42:19",
       "album": {
+        "name": "Inbred",
+        "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 204317,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
+    },
+    {
+      "added_at": "2023-09-18 21:42:19",
+      "album": {
         "name": "Tonight (demo)",
         "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 287893,
       "name": "Look On Down From The Bridge",
       "url": "https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd"
-    },
-    {
-      "added_at": "2023-09-18 21:42:19",
-      "album": {
-        "name": "Inbred",
-        "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 204317,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
     },
     {
       "added_at": "2023-09-18 21:42:19",

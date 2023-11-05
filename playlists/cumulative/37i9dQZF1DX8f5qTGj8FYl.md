@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-254 songs - 17 hr 30 min
+255 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,8 @@
 | [Tej](https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD) | [The So Ons](https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D) | [Tej b/w Short Shrift](https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu) | 5:28 | 2020-11-13 |  |
 | [Test Drive \(Instrumental\)](https://open.spotify.com/track/5Ubw1kLPN7soW6f2jpOUfx) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [The Joy of Music, The Job of Real Estate](https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD) | 2:57 | 2020-11-13 |  |
 | [Test Drive \- Instrumental](https://open.spotify.com/track/6egcs8AHSL7oPfq5TZ8w6n) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [The Joy of Music\. The Job of Real Estate.](https://open.spotify.com/album/17OizIciohmcOZbMyBF2XV) | 2:57 | 2020-11-13 | 2022-07-29 |
-| [Tha Boogee](https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Maze of Sounds](https://open.spotify.com/album/6WWbQkQAv3YczhH34I3fv6) | 7:08 | 2020-11-13 |  |
+| [Tha Boogee](https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Maze of Sounds](https://open.spotify.com/album/6WWbQkQAv3YczhH34I3fv6) | 7:08 | 2020-11-13 | 2023-11-05 |
+| [Tha Boogee](https://open.spotify.com/track/4eh6JnrqfUX7mg335YvAIT) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Maze Of Sounds](https://open.spotify.com/album/4BZG7akPQogYTeomJQ363I) | 7:08 | 2023-08-04 |  |
 | [Thankful](https://open.spotify.com/track/70E9nuuyPTvNPkfKafHtAD) | [Pablo Ojeda](https://open.spotify.com/artist/0V62WYCDy3mT7xUsCYJk9W) | [Thankful](https://open.spotify.com/album/402bUU8HIw8M3mK8RZftqi) | 3:42 | 2021-12-17 |  |
 | [The Birdwatcher](https://open.spotify.com/track/0irNVT66UpJn8njXxsKhbV) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds...](https://open.spotify.com/album/2vIqDLBFlkzDIOcF2A89gL) | 2:47 | 2020-11-13 | 2022-07-29 |
 | [The Birdwatcher](https://open.spotify.com/track/2sqZfX3pEda59tqZNPJMaS) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:47 | 2020-11-13 |  |

@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-395 songs - 21 hr 33 min
+396 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/album/0XhJIckMs6b1crNGl9RUAB) | 3:08 | 2021-07-26 | 2022-07-31 |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-07-30 | 2023-08-26 |
 | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd) | 4:02 | 2021-12-07 | 2022-07-31 |
+| [Strawberry Perfume \(feat\. Essosa\)](https://open.spotify.com/track/4Z6oFfVBqD2UT54NY6A4PT) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y), [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Strawberry Perfume](https://open.spotify.com/album/73fdLbhr35YUOF7IW8R6ZN) | 2:42 | 2023-10-20 |  |
 | [Streets \- DJ Sliink Remix](https://open.spotify.com/track/2OlXEjn4FufYIVL9KC1FHO) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Streets \(Remixes\)](https://open.spotify.com/album/2bztR3sQyvs9HxlraqZMRD) | 2:13 | 2022-07-30 | 2022-11-26 |
 | [Stretch Limousine](https://open.spotify.com/track/3mT7Scw9X7D4LHCs7v3gxb) | [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E) | [Detour.](https://open.spotify.com/album/0iJkqiYb1CB3hOZwC0rDeM) | 2:20 | 2021-07-26 | 2022-07-28 |
 | [Suddenly](https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Suddenly](https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX) | 2:01 | 2023-10-06 |  |
@@ -367,7 +368,7 @@
 | [Unfamiliar](https://open.spotify.com/track/4qIWpGpSRXtK5hJOR8MF5k) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:05 | 2023-08-25 | 2023-10-27 |
 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 | 2022-07-30 | 2023-08-26 |
 | [up!](https://open.spotify.com/track/4wHSSAnlCZ9EDUR3Hd6PBo) | [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [up!](https://open.spotify.com/album/5LRTKkYv54Uu5aQsK74SiW) | 2:29 | 2021-07-26 | 2022-07-20 |
-| [UPSIDE DOWN](https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [UPSIDE DOWN](https://open.spotify.com/album/435sa84NSMTcIzBeSN178q) | 3:10 | 2023-08-25 |  |
+| [UPSIDE DOWN](https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [UPSIDE DOWN](https://open.spotify.com/album/435sa84NSMTcIzBeSN178q) | 3:10 | 2023-08-25 | 2023-11-05 |
 | [Urgency](https://open.spotify.com/track/6JxFllMVvgZbGLUI99JRDl) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh) | [Urgency](https://open.spotify.com/album/3dtbZTNOKybSZ6gcgpCp1W) | 3:36 | 2022-03-25 | 2022-04-19 |
 | [Vibe Session 2](https://open.spotify.com/track/1mww40cWQK873rdKklWP7r) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM), [Ictooicy](https://open.spotify.com/artist/19cyiv0rM3o9U8WboDW0Js), [ria of mars](https://open.spotify.com/artist/0gtJJVbTPtOIhz5oKVVNhC) | [Vibe Session 2](https://open.spotify.com/album/4qIpFTCICoWrVcHwTsT6jA) | 3:33 | 2021-07-26 | 2022-07-29 |
 | [Violin](https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O) | [Vanice](https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb) | 1:49 | 2022-07-30 | 2023-08-05 |

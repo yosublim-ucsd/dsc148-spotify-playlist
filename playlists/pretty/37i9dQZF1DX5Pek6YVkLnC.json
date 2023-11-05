@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: YOVNGCHIMI & Dei V",
-  "num_followers": 229999,
+  "num_followers": 230018,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDZiMmJlNDMxMWYxNTY5NGExMTU5ZTIwYWY2Njk1NGQzZTlkYTU0",
+  "snapshot_id": "MCw5OWU5YmM3NjI3OGZhMjU1OWIwZWJiNDAzZWZlNTVjN2YwOTViMDNk",
   "tracks": [
     {
       "added_at": "2023-10-24 20:37:41",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
+        "name": "Bonnie and Clyde",
+        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 209192,
+      "name": "Bonnie and Clyde",
+      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
+    },
+    {
+      "added_at": "2023-10-24 20:37:41",
+      "album": {
         "name": "4 Palos",
         "url": "https://open.spotify.com/album/1QoaG39dqeQ6iHpHwLX0wK"
       },
@@ -619,18 +635,22 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
-        "name": "Bonnie and Clyde",
-        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
+        "name": "WYA",
+        "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
       },
       "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        },
         {
           "name": "iZaak",
           "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
         }
       ],
-      "duration_ms": 209192,
-      "name": "Bonnie and Clyde",
-      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
+      "duration_ms": 196363,
+      "name": "WYA",
+      "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
     },
     {
       "added_at": "2023-10-24 20:37:41",
@@ -651,26 +671,6 @@
       "duration_ms": 202292,
       "name": "Maybach",
       "url": "https://open.spotify.com/track/3uDP8Rf3ddTO04d069A8pH"
-    },
-    {
-      "added_at": "2023-10-24 20:37:41",
-      "album": {
-        "name": "WYA",
-        "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
-      },
-      "artists": [
-        {
-          "name": "J Abdiel",
-          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "WYA",
-      "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
     },
     {
       "added_at": "2023-10-24 20:37:41",
@@ -771,30 +771,6 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
-        "name": "El Castillo",
-        "url": "https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo"
-      },
-      "artists": [
-        {
-          "name": "Juliito",
-          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        },
-        {
-          "name": "Hanzel La H",
-          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
-        }
-      ],
-      "duration_ms": 282037,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/5OXU3FmTNq8scG4SZ7bWap"
-    },
-    {
-      "added_at": "2023-10-24 20:37:41",
-      "album": {
         "name": "John Cenaa",
         "url": "https://open.spotify.com/album/3K3jFEMyFzRTgaDketTiT0"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 208192,
       "name": "John Cenaa",
       "url": "https://open.spotify.com/track/7AIYJEUzbs1WN7dmqtBnkK"
+    },
+    {
+      "added_at": "2023-10-24 20:37:41",
+      "album": {
+        "name": "El Castillo",
+        "url": "https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo"
+      },
+      "artists": [
+        {
+          "name": "Juliito",
+          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        }
+      ],
+      "duration_ms": 282037,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/5OXU3FmTNq8scG4SZ7bWap"
     },
     {
       "added_at": "2023-10-24 20:37:41",

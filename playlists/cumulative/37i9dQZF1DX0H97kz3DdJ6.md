@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-117 songs - 5 hr 39 min
+118 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Monstro](https://open.spotify.com/track/0TGN193dpJ5dg9YOk1oCAR) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Monstro](https://open.spotify.com/album/6ejBYCdgc2II7gwAmFKxnW) | 3:36 | 2022-05-20 | 2022-11-24 |
 | [Monstro](https://open.spotify.com/track/4EH1497hGrC9rDdok3qQ4N) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Monstro](https://open.spotify.com/album/2aKAOqDAK1jZegtyIiVO16) | 3:36 | 2022-11-17 |  |
 | [Movimento](https://open.spotify.com/track/58UHu0BkydzUIOcp1Gru3H) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Movimento](https://open.spotify.com/album/3CsfvJspB9VavWbHTdeB8f) | 2:53 | 2022-10-07 |  |
-| [Nunca foi descaso \(feat\. Gab Ferreira\) \- Ao Vivo](https://open.spotify.com/track/5cdwRfJldwrKv6mrHvCR1r) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Papel de Carta \(Ao Vivo\)](https://open.spotify.com/album/6jOWkYdTXWt9p2nDzYLnFr) | 3:44 | 2022-12-05 |  |
+| [Nunca foi descaso \(feat\. Gab Ferreira\) \(Ao Vivo\)](https://open.spotify.com/track/12Hk8aMqioAJfrZdU8M7a7) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Papel de Carta \(Ao Vivo\)](https://open.spotify.com/album/5MoQy12ZykKYRc1kNCaKPG) | 3:44 | 2023-05-12 |  |
+| [Nunca foi descaso \(feat\. Gab Ferreira\) \- Ao Vivo](https://open.spotify.com/track/5cdwRfJldwrKv6mrHvCR1r) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Papel de Carta \(Ao Vivo\)](https://open.spotify.com/album/6jOWkYdTXWt9p2nDzYLnFr) | 3:44 | 2022-12-05 | 2023-11-05 |
 | [Nunca Vaza](https://open.spotify.com/track/0vxAsQ83Uca0tTczrx257Q) | [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Nunca Vaza](https://open.spotify.com/album/18qlFy0abmSI3OzPvLRlep) | 2:29 | 2022-05-20 |  |
 | [Não sei o que você viu em mim](https://open.spotify.com/track/1YkJXJGTkKYgKlvdOkgkr0) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kourah](https://open.spotify.com/artist/0ZZjUA7WDQGjBN416iSBae) | [Não sei o que você viu em mim](https://open.spotify.com/album/0yD3aNHrXCYFYUfuNjOIbm) | 2:16 | 2022-05-20 |  |
 | [Não É Papo de Amor](https://open.spotify.com/track/3JxYJnOrox7cNs1yv0JRZk) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [4555](https://open.spotify.com/artist/2g8MdRUUgyYMiQyXgz15pa), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Minha Alma Canta II](https://open.spotify.com/album/67iDr3vGh8OGgheIA6CkKS) | 2:42 | 2022-08-12 | 2023-05-13 |

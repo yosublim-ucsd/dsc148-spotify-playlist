@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 112411,
+  "num_followers": 112568,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzZlNTBiODk4YzdjOTY3MTVjMTg0Mjc4MmQ3YzgzNDhlMTQ4MTJl",
+  "snapshot_id": "MCwyZTA0ZDdmNTdkNzk0NGMxZDJkZTAyZGEyMmIyZjI0NzI5NTlkNTJi",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Windowlicker",
-        "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 365640,
-      "name": "Windowlicker",
-      "url": "https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 258533,
       "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 365640,
+      "name": "Windowlicker",
+      "url": "https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -931,26 +931,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "How to Operate With a Blown Mind",
-        "url": "https://open.spotify.com/album/47ZlUaIT7HQeEzOioXrRj6"
-      },
-      "artists": [
-        {
-          "name": "Lo Fidelity Allstars",
-          "url": "https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs"
-        },
-        {
-          "name": "Pigeonhed",
-          "url": "https://open.spotify.com/artist/7C5dkQXLoTE3OFE5qBTrBB"
-        }
-      ],
-      "duration_ms": 339213,
-      "name": "Battleflag (feat. Pigeonhed)",
-      "url": "https://open.spotify.com/track/3F138QuYFlzPmgPeWKEFln"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Leftism",
         "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
       },
@@ -963,22 +943,6 @@
       "duration_ms": 411466,
       "name": "Open Up - Remastered",
       "url": "https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Vegas",
-        "url": "https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt"
-      },
-      "artists": [
-        {
-          "name": "The Crystal Method",
-          "url": "https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj"
-        }
-      ],
-      "duration_ms": 445000,
-      "name": "Busy Child",
-      "url": "https://open.spotify.com/track/43F49A8ReVXhH7l0jGMViS"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -999,18 +963,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Version 2.0 (20th Anniversary Deluxe Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk"
+        "name": "Vegas",
+        "url": "https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt"
       },
       "artists": [
         {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+          "name": "The Crystal Method",
+          "url": "https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj"
         }
       ],
-      "duration_ms": 242533,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW"
+      "duration_ms": 445000,
+      "name": "Busy Child",
+      "url": "https://open.spotify.com/track/43F49A8ReVXhH7l0jGMViS"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1031,6 +995,22 @@
       "duration_ms": 339893,
       "name": "Black Steel",
       "url": "https://open.spotify.com/track/52QqxUwMHSmeDZlZBABefY"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Version 2.0 (20th Anniversary Deluxe Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 242533,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1083,6 +1063,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "On the Ropes",
+        "url": "https://open.spotify.com/album/1S4vDNHYcAYNbQjB1aT5vu"
+      },
+      "artists": [
+        {
+          "name": "Mint Royale",
+          "url": "https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj"
+        }
+      ],
+      "duration_ms": 306909,
+      "name": "From Rusholme with Love",
+      "url": "https://open.spotify.com/track/32YtorOlPz4n7y5OiYkohZ"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "The Journey Man",
         "url": "https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt"
       },
@@ -1103,22 +1099,6 @@
       "duration_ms": 366387,
       "name": "I Adore You",
       "url": "https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "On the Ropes",
-        "url": "https://open.spotify.com/album/1S4vDNHYcAYNbQjB1aT5vu"
-      },
-      "artists": [
-        {
-          "name": "Mint Royale",
-          "url": "https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj"
-        }
-      ],
-      "duration_ms": 306909,
-      "name": "From Rusholme with Love",
-      "url": "https://open.spotify.com/track/32YtorOlPz4n7y5OiYkohZ"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1155,6 +1135,26 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Pre Millennium Tension",
+        "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Makes Me Wanna Die",
+      "url": "https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "U.F.Off: The Best Of The Orb",
         "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
       },
@@ -1183,26 +1183,6 @@
       "duration_ms": 367493,
       "name": "Original Bedroom Rockers",
       "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Pre Millennium Tension",
-        "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        },
-        {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Makes Me Wanna Die",
-      "url": "https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1291,22 +1271,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "U.F.Off: The Best Of The Orb",
-        "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
-      },
-      "artists": [
-        {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "Toxygene - 7\" Edit",
-      "url": "https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "In Sides",
         "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
       },
@@ -1319,6 +1283,22 @@
       "duration_ms": 388200,
       "name": "The Box, Pt. 1",
       "url": "https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "U.F.Off: The Best Of The Orb",
+        "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "Toxygene - 7\" Edit",
+      "url": "https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1351,6 +1331,22 @@
       "duration_ms": 413880,
       "name": "The Rockafeller Skank",
       "url": "https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Battleflag",
+        "url": "https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj"
+      },
+      "artists": [
+        {
+          "name": "Lo Fidelity Allstars",
+          "url": "https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Battleflag",
+      "url": "https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1391,22 +1387,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Atom Bomb",
-        "url": "https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS"
-      },
-      "artists": [
-        {
-          "name": "Fluke",
-          "url": "https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ"
-        }
-      ],
-      "duration_ms": 342800,
-      "name": "Atom Bomb - Atomix 1",
-      "url": "https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Dead Cities",
         "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
       },
@@ -1419,6 +1399,38 @@
       "duration_ms": 347106,
       "name": "My Kingdom",
       "url": "https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Halfway Between The Gutter And The Stars",
+        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 345893,
+      "name": "Weapon Of Choice",
+      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Atom Bomb",
+        "url": "https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS"
+      },
+      "artists": [
+        {
+          "name": "Fluke",
+          "url": "https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ"
+        }
+      ],
+      "duration_ms": 342800,
+      "name": "Atom Bomb - Atomix 1",
+      "url": "https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1451,22 +1463,6 @@
       "duration_ms": 260640,
       "name": "Gabriel",
       "url": "https://open.spotify.com/track/3hjWMckLi4P4KGlXQP4IqO"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Halfway Between The Gutter And The Stars",
-        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 345893,
-      "name": "Weapon Of Choice",
-      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
     },
     {
       "added_at": "2021-07-14 17:36:34",

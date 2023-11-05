@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,427 likes - 173 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,455 likes - 173 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,7 +179,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 169 | [I Can't Sleep \- LPACA Remix](https://open.spotify.com/track/6jjtunGp1ilOEUrPIDjfLh) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS), [Michi](https://open.spotify.com/artist/0Qaj2glLB2ykPA3qxiR8Z6), [LPACA](https://open.spotify.com/artist/0VrVe3wy9bP3D51Lo3AxrN) | [I Can't Sleep \(LPACA Remix\)](https://open.spotify.com/album/0q3eTPz8Kbi8g8pi8MaCdc) | 2:33 |
 | 170 | [May \(Late Night Version\)](https://open.spotify.com/track/0jGESyKIfEIdK34TpDpkJZ) | [Bkk](https://open.spotify.com/artist/37iEII5f2rWL5OxjUZ2wWw), [Sterke Atleet](https://open.spotify.com/artist/4byoowp8keg9sWSNaOfjOB) | [May \(Late Night Version\)](https://open.spotify.com/album/0zcPycXAwlLj3B1jJrsHQ4) | 3:07 |
 | 171 | [POOLSIDE](https://open.spotify.com/track/0xlWwwUYRWSbCRfo2ouHPJ) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [SPRING: POOLSIDE x LAGOON](https://open.spotify.com/album/5bJYoNzkHpbXYWl694WGmI) | 2:41 |
-| 172 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 |
+| 172 | [All Made Up](https://open.spotify.com/track/3L5dOP6Ihkg8dxkMzxJUuc) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4jCnOBRxxucPjnNMr1NYGK) | 4:10 |
 | 173 | [MY HOUSE](https://open.spotify.com/track/6sZzLJkAHCbSkbqLdUFT6Q) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [MY HOUSE / BLEAK](https://open.spotify.com/album/3YKs6Hoq25I2tqZjSP56qU) | 4:02 |
 
-Snapshot ID: `MCw2N2VkZWZkOTU2YmE3Y2Y4MDZlMDZhMTEyN2YwYzY4NGYzM2NmMmZi`
+Snapshot ID: `MCw0M2VkMDAxN2UxNzdmODdkMGExNDg5NDY1ZDViNzQyNGY1YWVlMDdj`

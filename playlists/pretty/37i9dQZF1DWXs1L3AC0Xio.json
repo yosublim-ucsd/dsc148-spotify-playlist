@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 694991,
+  "num_followers": 695130,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzYxYzAxZWJhZDc0MDgwMzdhNDgwMGFjMzRiMDAzZmZiYmI3Yzhk",
+  "snapshot_id": "MCw4NGNiNDZmZTViZWUxNTY0NjFhMjY4MGZhNzAyYTVjZjE4ZjVmZGMy",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Daughtry",
-        "url": "https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 204853,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Disobey",
         "url": "https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 219760,
       "name": "Hear Me Now",
       "url": "https://open.spotify.com/track/5bINaNAghUCg4uHIsuDgjG"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Daughtry",
+        "url": "https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 260093,
-      "name": "Never There",
-      "url": "https://open.spotify.com/track/3ujzd7pcdAhILCnS3oGbaU"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Dressed Up As Life",
         "url": "https://open.spotify.com/album/7zEvxcdeNWrFZCnWUnpDOC"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 258586,
       "name": "All The Same",
       "url": "https://open.spotify.com/track/3vIw7vxgUTPtppVwMfhcwo"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 260093,
+      "name": "Never There",
+      "url": "https://open.spotify.com/track/3ujzd7pcdAhILCnS3oGbaU"
     },
     {
       "added_at": "2023-10-20 04:01:00",

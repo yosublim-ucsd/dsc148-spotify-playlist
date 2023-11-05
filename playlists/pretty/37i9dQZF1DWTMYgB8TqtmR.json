@@ -1,12 +1,12 @@
 {
   "description": "It's Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 733434,
+  "num_followers": 733512,
   "original_name": "It's Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmZiNjY1OGM4ZmE5YzYxYzI0ZjY3MDhjYmQxOTMxNmYyYjY2NTM4",
+  "snapshot_id": "MCwyZDNkM2UyOWU3OGI0ZmEyOWI1MjZmNWIwOGZiNmYwNTcwMzljZTQ4",
   "tracks": [
     {
       "added_at": "2023-11-02 23:00:00",
@@ -44,7 +44,7 @@
       "added_at": "2023-11-02 23:00:00",
       "album": {
         "name": "B\u00e4ttre nu (The Wedding)",
-        "url": "https://open.spotify.com/album/1D46XUOvhkabY7IlRSIgPv"
+        "url": "https://open.spotify.com/album/3EQltKEqsH8RLRvEP6sgG6"
       },
       "artists": [
         {
@@ -54,7 +54,7 @@
       ],
       "duration_ms": 204157,
       "name": "B\u00e4ttre nu (The Wedding)",
-      "url": "https://open.spotify.com/track/5Fvq4z7pr7146lrYQCD9bY"
+      "url": "https://open.spotify.com/track/0L3RpXaOJFNhP4QCynokYG"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
+        "name": "SILENT HILLS",
+        "url": "https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 149243,
+      "name": "EXTEND",
+      "url": "https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
         "name": "Julibarn",
         "url": "https://open.spotify.com/album/4Z2DhkUJh87klzVawbKaEc"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 191752,
       "name": "Julibarn",
       "url": "https://open.spotify.com/track/3KKJ0gfzfKfHOgKH8K9G5x"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
-        "name": "Pistol - Spotify Singles",
-        "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P"
       },
       "artists": [
         {
-          "name": "Parham",
-          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
         }
       ],
-      "duration_ms": 218181,
-      "name": "Pistol - Spotify Singles",
-      "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
+      "duration_ms": 130666,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
     },
     {
       "added_at": "2023-11-02 23:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-11-02 23:00:00",
       "album": {
+        "name": "Pistol - Spotify Singles",
+        "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
+      },
+      "artists": [
+        {
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Pistol - Spotify Singles",
+      "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
+    },
+    {
+      "added_at": "2023-11-02 23:00:00",
+      "album": {
         "name": "Dans fr\u00e5n dig",
         "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 197281,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/1KB9MeVcnX2rjNGRYvP4aU"
-    },
-    {
-      "added_at": "2023-11-02 23:00:00",
-      "album": {
-        "name": "SILENT HILLS",
-        "url": "https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 149243,
-      "name": "EXTEND",
-      "url": "https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh"
     },
     {
       "added_at": "2023-11-02 23:00:00",

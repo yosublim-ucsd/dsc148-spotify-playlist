@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,049 likes - 273 songs - 14 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,224 likes - 273 songs - 14 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 83 | [Looking Down From Space](https://open.spotify.com/track/3DTTlCES4tHvTBjQBGQSwV) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Looking Down From Space](https://open.spotify.com/album/5qCrgDQMeXAQyw7eFHsGMI) | 4:08 |
 | 84 | [Evergreen \(feat\. KLOE\)](https://open.spotify.com/track/4Jvsedk3KnknusOF8RDC5C) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo), [KLOE](https://open.spotify.com/artist/0Olr5bDiMEkn5Z9eQwUIAq) | [Evergreen \(feat\. KLOE\)](https://open.spotify.com/album/0aL9igwFm3G63OPAH9DagN) | 2:50 |
 | 85 | [Her](https://open.spotify.com/track/2EMLyx9QTYPDa9GNCxhAqz) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Her](https://open.spotify.com/album/5tLg7FOM4rHctSrbPMun95) | 3:31 |
-| 86 | [Glow](https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G) | 3:13 |
+| 86 | [Glow](https://open.spotify.com/track/5SgJkK2j7HQXUAFl1wJ9HW) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/5EJiHGODG0BccM8YHsDTH1) | 3:13 |
 | 87 | [Alone \- Stephan Jolk Remix](https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Alone \(Stephan Jolk Remix\)](https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs) | 3:32 |
 | 88 | [Call On Me \(with Tove Lo\) \- SILK "2am" Remix](https://open.spotify.com/track/1FOB0dyeUM2iOLMNnX8dKE) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Call On Me & Lifetime \(Remixes\)](https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18) | 3:29 |
 | 89 | [Made For Us](https://open.spotify.com/track/0Y8XFZFn7CtjNeJ3Nv4J6n) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Jay Tastic](https://open.spotify.com/artist/1XpsXLUdznEbE60XLLdndG) | [Made For Us](https://open.spotify.com/album/4j72ePKF78g0SauH9eYejU) | 2:50 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 272 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 273 | [Just The Way I Feel](https://open.spotify.com/track/26ZLujrsJ2JQ8QWHYOe9B3) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [EMIAH](https://open.spotify.com/artist/2SvY2cO17kdD3swIBGOxs8) | [Just The Way I Feel](https://open.spotify.com/album/2P642dj0EaJxTs1fRpkqxa) | 3:06 |
 
-Snapshot ID: `MCxjZDM1ZGJlNjYzODM1MGZlMTM3NzlhYTNhYjkzNTFlYTExZTE1OTdj`
+Snapshot ID: `MCw4MzkwNmI3NTIwYWY1ZmQ1YzQyNmJiODNiZWE0NDQyMTI2MmZmODgz`

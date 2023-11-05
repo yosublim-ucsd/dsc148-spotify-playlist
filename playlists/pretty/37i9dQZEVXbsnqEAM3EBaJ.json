@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMTYzNDAsMDAwMDAwMDBhYWJhM2E5OTY3MGYyMDFmZjc2YmRmN2RhODU3MTc5Yw==",
+  "snapshot_id": "MjgzMTYzNDAsMDAwMDAwMDAyNjllMjg5NzgwNDNlMzM4MzE4YzU4NDViZjk2NzIzMQ==",
   "tracks": [
     {
       "added_at": "2023-11-03 03:00:00",
@@ -91,58 +91,6 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
-        "name": "And Still (Dark-Side Mix)",
-        "url": "https://open.spotify.com/album/5XSIbEUilFYGEbs27pDcjV"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 461243,
-      "name": "And Still - Dark-Side Mix",
-      "url": "https://open.spotify.com/track/0e2NW54lXBsVbolTn8MKZ0"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Dark Academia - Edition I",
-        "url": "https://open.spotify.com/album/7Agp69I1p5qufi98DDxzAP"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Luke Faulkner",
-          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
-        }
-      ],
-      "duration_ms": 187236,
-      "name": "Swan Lake Op. 20 Intermezzo (Piano arrangement by K. Kornienko)",
-      "url": "https://open.spotify.com/track/0k6Fm91QhT7PxPlnWE8TsO"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Too Hot in Tokyo 1994 (Live)",
-        "url": "https://open.spotify.com/album/2X1oRqhUQ8a907oi3iY6mN"
-      },
-      "artists": [
-        {
-          "name": "UFO",
-          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "Too Hot To Handle - Live Tokyo 1994",
-      "url": "https://open.spotify.com/track/0ZXx8SksZJyA0YGR6IFmvZ"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
         "name": "Embers Fire",
         "url": "https://open.spotify.com/album/6mOZFO7g6QBtBr5R8fzZZD"
       },
@@ -155,38 +103,6 @@
       "duration_ms": 291373,
       "name": "Embers Fire",
       "url": "https://open.spotify.com/track/2FCPbojm4fFPWRZ9WWQ89x"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Catch A Fire (50th Anniversary)",
-        "url": "https://open.spotify.com/album/5fys4mnxoURHl9ThAEPoKU"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Stir It Up - Jamaican Extra Organ Version",
-      "url": "https://open.spotify.com/track/3J9JUxKFWfck2gA1IDn4Bh"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "A Torch In The Dark",
-        "url": "https://open.spotify.com/album/6H6kvxbLq2kpLd8QGJfrbx"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 173116,
-      "name": "Forevermore",
-      "url": "https://open.spotify.com/track/4kga9bV33OuMRYwzt7oPul"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -207,6 +123,54 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
+        "name": "Live 1978 - 1992",
+        "url": "https://open.spotify.com/album/14EWYgtvXZSz0pzvpUCsbL"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "I Think I Love You Too Much - Live Version / Mixed And Remastered 2023",
+      "url": "https://open.spotify.com/track/11SkgKmpzIviXkKuILQTc9"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
+        "name": "And Still (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/5XSIbEUilFYGEbs27pDcjV"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 461243,
+      "name": "And Still - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/0e2NW54lXBsVbolTn8MKZ0"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
+        "name": "Too Hot in Tokyo 1994 (Live)",
+        "url": "https://open.spotify.com/album/2X1oRqhUQ8a907oi3iY6mN"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Too Hot To Handle - Live Tokyo 1994",
+      "url": "https://open.spotify.com/track/0ZXx8SksZJyA0YGR6IFmvZ"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
         "name": "Endlos",
         "url": "https://open.spotify.com/album/4jW8H7KBRZuRalIQ43bQKy"
       },
@@ -223,18 +187,54 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
-        "name": "Live 1978 - 1992",
-        "url": "https://open.spotify.com/album/14EWYgtvXZSz0pzvpUCsbL"
+        "name": "Tchaikovsky: The Nutcracker - March & Waltz of the Flowers - slowed + reverb",
+        "url": "https://open.spotify.com/album/1GlPV5EVv3QDTIdOajoiED"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Classical Slowed + Reverb",
+          "url": "https://open.spotify.com/artist/5KXpXnDelYc8HLAAVbtIzk"
         }
       ],
-      "duration_ms": 409000,
-      "name": "I Think I Love You Too Much - Live Version / Mixed And Remastered 2023",
-      "url": "https://open.spotify.com/track/11SkgKmpzIviXkKuILQTc9"
+      "duration_ms": 217693,
+      "name": "Tchaikovsky: The Nutcracker - March - slowed + reverb",
+      "url": "https://open.spotify.com/track/1khcaMXCNlUovJIf2TMlP4"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
+        "name": "A Torch In The Dark",
+        "url": "https://open.spotify.com/album/6H6kvxbLq2kpLd8QGJfrbx"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 173116,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/4kga9bV33OuMRYwzt7oPul"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
+        "name": "Catch A Fire (50th Anniversary)",
+        "url": "https://open.spotify.com/album/5fys4mnxoURHl9ThAEPoKU"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Stir It Up - Jamaican Extra Organ Version",
+      "url": "https://open.spotify.com/track/3J9JUxKFWfck2gA1IDn4Bh"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
+        "name": "M\u00fasica Medicina",
+        "url": "https://open.spotify.com/album/0nPqXBvJzhhaowJRXaArdD"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "duration_ms": 321793,
+      "name": "Madre Agua",
+      "url": "https://open.spotify.com/track/1Q6bxB00j7GZdm484jxovF"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 206961,
       "name": "Esperar\u00e9",
       "url": "https://open.spotify.com/track/7LY7rzKjEautSA2aigjyoH"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "M\u00fasica Medicina",
-        "url": "https://open.spotify.com/album/0nPqXBvJzhhaowJRXaArdD"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Donalson",
-          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
-        }
-      ],
-      "duration_ms": 313440,
-      "name": "Camino Rojo",
-      "url": "https://open.spotify.com/track/2vSDWfYF4ZbJlAs9k4SGcE"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -407,6 +407,30 @@
       "duration_ms": 270013,
       "name": "A Doorway - Dub Mix",
       "url": "https://open.spotify.com/track/3AY5AeJjkD04OrUlbtfqX8"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
+        "name": "Geese Attack!!!",
+        "url": "https://open.spotify.com/album/4uTvZveUEtehdRDMfz1rzG"
+      },
+      "artists": [
+        {
+          "name": "The Seafloor Cinema",
+          "url": "https://open.spotify.com/artist/39a4hGdTS669oJBra6j9Ru"
+        },
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        },
+        {
+          "name": "Aaron Pauley",
+          "url": "https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "The Lesson (.44 Magnum) [feat. Aaron Pauley]",
+      "url": "https://open.spotify.com/track/7cWcJnDpRdfVGgbg56Z0No"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -499,22 +523,6 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
-        "name": "Back In Town (Live)",
-        "url": "https://open.spotify.com/album/6II4ncJJBSusGhr6FAjmBj"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 92564,
-      "name": "Alabama Song - Live 1968",
-      "url": "https://open.spotify.com/track/0xreRyss0BadDkBWX5mGRN"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
         "name": "Bleed Out",
         "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
       },
@@ -527,6 +535,42 @@
       "duration_ms": 259048,
       "name": "We Go To War",
       "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
+        "name": "I Want You (Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978)",
+        "url": "https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 151840,
+      "name": "I Want You - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
+      "url": "https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
+        "name": "My Favourite Stranger (Remixes)",
+        "url": "https://open.spotify.com/album/4sKi74JyzjNzfrb1KYNtue"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 228883,
+      "name": "My Favourite Stranger - Ela Minus Remix",
+      "url": "https://open.spotify.com/track/0mmzCZ3uYf9r4AwiH0m3o3"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -559,38 +603,26 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
-        "name": "My Favourite Stranger (Remixes)",
-        "url": "https://open.spotify.com/album/4sKi74JyzjNzfrb1KYNtue"
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 228883,
-      "name": "My Favourite Stranger - Ela Minus Remix",
-      "url": "https://open.spotify.com/track/0mmzCZ3uYf9r4AwiH0m3o3"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "I Want You (Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978)",
-        "url": "https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT"
-      },
-      "artists": [
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
         {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         }
       ],
-      "duration_ms": 151840,
-      "name": "I Want You - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
-      "url": "https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO"
+      "duration_ms": 170261,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -619,30 +651,6 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 170261,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
         "name": "Already Over (Live in Sydney)",
         "url": "https://open.spotify.com/album/31MHUBN5g1csQzAsROe9SH"
       },
@@ -667,26 +675,6 @@
       "duration_ms": 161449,
       "name": "Already Over (Live in Sydney) [feat. Stand Atlantic, Between You & Me, & Polaris]",
       "url": "https://open.spotify.com/track/6oCR6j4z7LVhPCxQ1hntnl"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        },
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "Put A Little Holiday In Your Heart (with Cyndi Lauper)",
-      "url": "https://open.spotify.com/track/0DSOt7MdnrRyh8oT8w1t6r"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -727,6 +715,26 @@
       "duration_ms": 155360,
       "name": "What Christmas Means To Me (with Stevie Wonder)",
       "url": "https://open.spotify.com/track/1wGNUfqEyjEHmZATDVf6LB"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Put A Little Holiday In Your Heart (with Cyndi Lauper)",
+      "url": "https://open.spotify.com/track/0DSOt7MdnrRyh8oT8w1t6r"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -779,22 +787,6 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
-        "name": "Hojas de t\u00e9 (2023)",
-        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 209610,
-      "name": "Hojas de t\u00e9 - 2023",
-      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
         "name": "First In Line",
         "url": "https://open.spotify.com/album/6XN4rXWgar54VuGsPQLkHm"
       },
@@ -807,6 +799,22 @@
       "duration_ms": 322045,
       "name": "First In Line",
       "url": "https://open.spotify.com/track/7vdv5e5atEgBlW9oGjtPIG"
+    },
+    {
+      "added_at": "2023-11-03 03:00:00",
+      "album": {
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/6eV4BZmfN0QvTmqBQlz73W"
+      },
+      "artists": [
+        {
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3SwBQzQu86QW9KH9XDv7z0"
     },
     {
       "added_at": "2023-11-03 03:00:00",
@@ -843,22 +851,6 @@
     {
       "added_at": "2023-11-03 03:00:00",
       "album": {
-        "name": "Live in Switzerland (Remastered 2023)",
-        "url": "https://open.spotify.com/album/1DLdNlZoXWPL3ooXijwcEI"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 686000,
-      "name": "Budapest - Live - Remastered 2023",
-      "url": "https://open.spotify.com/track/0rjwoRP5XV7SMSj38sq1bR"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
         "name": "Iconic (feat. Jax)",
         "url": "https://open.spotify.com/album/4GgLfWDhquj9jKv7Fiwt8d"
       },
@@ -891,258 +883,6 @@
       "duration_ms": 179091,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 176529,
-      "name": "Naughty Girl",
-      "url": "https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 230256,
-      "name": "Evidence",
-      "url": "https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Live at the AFAS Live",
-        "url": "https://open.spotify.com/album/3XvorgWlkOVsKNZCLHxt3P"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 375447,
-      "name": "Code of Life - Live at the AFAS Live",
-      "url": "https://open.spotify.com/track/3rYrPc3LSpgCsECFby8LVI"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "We Love You Moar (feat. Pussy Riot)",
-        "url": "https://open.spotify.com/album/2Fjz2tjt6Hwsbjlio7n9vB"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        },
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        }
-      ],
-      "duration_ms": 275564,
-      "name": "We Love You Moar (feat. Pussy Riot)",
-      "url": "https://open.spotify.com/track/37pQPRmfsWA9HM7xMM6yXv"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "To The Faithful Departed (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/07lKVrnG3PmC9mndjDiJsb"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "When You're Gone - Paris Demo",
-      "url": "https://open.spotify.com/track/1ZTMDYbT0BG43f07S5yrRR"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "The Dark Side of the Moon Redux",
-        "url": "https://open.spotify.com/album/2LywAZA9wrn0VmDYnkp1CU"
-      },
-      "artists": [
-        {
-          "name": "Roger Waters",
-          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
-        }
-      ],
-      "duration_ms": 456485,
-      "name": "Us and Them",
-      "url": "https://open.spotify.com/track/0RZicklCcsEWF4jodu8QD2"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "The Collection II",
-        "url": "https://open.spotify.com/album/67KYu6Smel916pR6QBeIsQ"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 312794,
-      "name": "Poundcake - 2023 Remaster",
-      "url": "https://open.spotify.com/track/6d1hDAXExukAggcf12nBj2"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Tether",
-        "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Into The Sun",
-      "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Yessingles",
-        "url": "https://open.spotify.com/album/7BCKqUPSw6Y3Ih5Pk7otGY"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 178053,
-      "name": "Your Move",
-      "url": "https://open.spotify.com/track/7zgAvKRTfhUMHCv2s5Dgf5"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Necromanteum",
-        "url": "https://open.spotify.com/album/581ToRMWBjDECfy931Zoip"
-      },
-      "artists": [
-        {
-          "name": "Carnifex",
-          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
-        }
-      ],
-      "duration_ms": 240756,
-      "name": "Infinite Night Terror",
-      "url": "https://open.spotify.com/track/1q3ktDemgD0vPUv4BEPHwJ"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/7INtd4oNndspcldngUkOSN"
-      },
-      "artists": [
-        {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/01aD8yamjTucFoioAMzrFU"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Velas Ciegas",
-        "url": "https://open.spotify.com/album/63nQGE7xONCjYGS8JCW88Q"
-      },
-      "artists": [
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        }
-      ],
-      "duration_ms": 173209,
-      "name": "Velas Ciegas",
-      "url": "https://open.spotify.com/track/6FXyXeis8xGewrxuAZd0Rc"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Insatiable Remixes Vol. 001",
-        "url": "https://open.spotify.com/album/71suyBVVP754NLECru0cZo"
-      },
-      "artists": [
-        {
-          "name": "Silos",
-          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
-        },
-        {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        },
-        {
-          "name": "BLVCK CROWZ",
-          "url": "https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Insatiable - BLVCK CROWZ Remix",
-      "url": "https://open.spotify.com/track/1Az1YG8U4nuNuNLnfALqas"
-    },
-    {
-      "added_at": "2023-11-03 03:00:00",
-      "album": {
-        "name": "Call Your Name (Andromedik Remix)",
-        "url": "https://open.spotify.com/album/3TIjAIFSHDzJMBSSCtGtmc"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        },
-        {
-          "name": "Andromedik",
-          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Call Your Name - Andromedik Remix",
-      "url": "https://open.spotify.com/track/2ktvmX53byZmws2q2qMRiI"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

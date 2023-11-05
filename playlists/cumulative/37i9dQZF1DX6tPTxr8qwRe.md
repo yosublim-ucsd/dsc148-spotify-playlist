@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Dove Cameron
 
-521 songs - 23 hr 56 min
+522 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,8 @@
 | [sickly sweet](https://open.spotify.com/track/5VmWAuIo8jMKef4DcPy6S5) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/5BlMzd8siEvlbtsCV5rGJD) | 2:14 | 2023-04-28 | 2023-05-24 |
 | [Sicko \(feat\. Paycheck & TIMMS\)](https://open.spotify.com/track/3NeuyR9x5qZDL9Jwn6fWGL) | [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5), [Paycheck](https://open.spotify.com/artist/1xd5p7u9w8mQc2nU8GwBib), [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Sicko \(feat\. Paycheck & TIMMS\)](https://open.spotify.com/album/6CZAE3lo4cII14VOCED6Gh) | 3:19 | 2023-01-27 | 2023-08-05 |
 | [Sink Or Swim](https://open.spotify.com/track/2X0hSfFCaunosj2mcLU4Y4) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Sink Or Swim](https://open.spotify.com/album/4L15oA6HAW5cywuJjNBc44) | 3:04 | 2022-01-14 | 2022-04-02 |
-| [Sirens \(feat\. Sophie Powers\)](https://open.spotify.com/track/0mRsuiV1DDTFCoig8O7Bga) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA), [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Sirens \(feat\. Sophie Powers\)](https://open.spotify.com/album/2pDrVZZDZDVWyb0eNW1YWe) | 3:08 | 2023-09-08 |  |
+| [Sirens \(feat\. Sophie Powers\)](https://open.spotify.com/track/0mRsuiV1DDTFCoig8O7Bga) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA), [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Sirens \(feat\. Sophie Powers\)](https://open.spotify.com/album/2pDrVZZDZDVWyb0eNW1YWe) | 3:08 | 2023-09-08 | 2023-11-05 |
+| [Sirens \(feat\. Sophie Powers\)](https://open.spotify.com/track/4ssqA7CeDI5XmEh4Yez5H5) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA), [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Sirens \(feat\. Sophie Powers\)](https://open.spotify.com/album/6Aks7AMXw2jt1Ue5WZQCUQ) | 3:08 | 2023-10-06 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/1gnSosKDAUGYPTkTLiG5DW) | [Malia J](https://open.spotify.com/artist/6iY5faxtqPs0eA1OeSvsAQ) | [Smells Like Teen Spirit](https://open.spotify.com/album/6TIj4zX0PCftJPdTKsk6As) | 3:59 | 2021-09-10 | 2022-03-18 |
 | [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 | 2022-10-21 | 2022-11-26 |
 | [so far it just sucked](https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [so far it just sucked](https://open.spotify.com/album/6NZJZiZtWl4y69GXWDopTT) | 2:00 | 2022-09-09 | 2022-11-12 |

@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 391356,
+  "num_followers": 391418,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGRlYjcxZjEyNGVmNmM3MGZkZmFjNTQyNGFmNjNjMDU0MTU4Mzgw",
+  "snapshot_id": "MCxjZjM1MGNhNzgyNGY2NTQyMGExM2Y5NGFjMTk5ODM1MjgyOTVmNWFh",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -59,6 +59,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "The Decca Years",
+        "url": "https://open.spotify.com/album/653NffdK42IKzsD3goAEHg"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        }
+      ],
+      "duration_ms": 125960,
+      "name": "Something's Gotta Give",
+      "url": "https://open.spotify.com/track/3krgfOQI9Szq8cF0Umm1O1"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Best Of The Big Bands",
         "url": "https://open.spotify.com/album/3XY108i3c6uQg4b9GABoyi"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 203773,
       "name": "It's Been a Long, Long Time (with Harry James & His Orchestra)",
       "url": "https://open.spotify.com/track/52XDumqYDUXX16R7FM5fpV"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Decca Years",
-        "url": "https://open.spotify.com/album/653NffdK42IKzsD3goAEHg"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        }
-      ],
-      "duration_ms": 125960,
-      "name": "Something's Gotta Give",
-      "url": "https://open.spotify.com/track/3krgfOQI9Szq8cF0Umm1O1"
     },
     {
       "added_at": "2020-03-06 16:28:56",

@@ -76354,10 +76354,6 @@
           "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
         },
         {
-          "name": "Santa Salut",
-          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
-        },
-        {
           "name": "Sheng 33",
           "url": "https://open.spotify.com/artist/654zAEjMrBSV93V2PyfUgJ"
         }
@@ -90251,6 +90247,28 @@
     },
     {
       "album": {
+        "name": "Playita en tu mar",
+        "url": "https://open.spotify.com/album/1FR1nrtvMKY4Zr4v2FbFyD"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Pinz\u00f3n",
+          "url": "https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6"
+        },
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "Playita en tu mar",
+      "url": "https://open.spotify.com/track/26srTONLOLxnVTMshEu9LO"
+    },
+    {
+      "album": {
         "name": "Kaia Lana 2023",
         "url": "https://open.spotify.com/album/02KLy58RLR0qQvZmDfZdrS"
       },
@@ -90266,7 +90284,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 161906,
       "name": "Playita en tu mar",
       "url": "https://open.spotify.com/track/0HzObaOOSUHCS2JETdQftp"

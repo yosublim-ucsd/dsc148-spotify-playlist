@@ -4,7 +4,7 @@
 
 > Bluesy blips and blops
 
-77 songs - 5 hr 13 min
+79 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Back Against The Wall](https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV) | [Euphoria](https://open.spotify.com/artist/0v6ZsvpqHQJiB6Kz2J0QGZ) | [Precious Time](https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8) | 5:19 | 2020-12-01 |  |
 | [Beauty Beats](https://open.spotify.com/track/0Jk5J9HrDmCEKV7xYmaB6m) | [Beats Antique](https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm) | [Collide](https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52) | 3:45 | 2020-12-01 |  |
 | [Black Blood](https://open.spotify.com/track/3xQSVngL4OJu5RXAchFQPm) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel), [Lukasoprom](https://open.spotify.com/artist/3d8NwLM2U7JYt2H97W5ls1), [Like Lions](https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo) | [Black Blood](https://open.spotify.com/album/1455tyjIuvboNbV6mAYSiZ) | 2:26 | 2021-07-02 |  |
-| [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 | 2020-12-01 |  |
+| [Can't Help Myself \(E\-Z Rollers Remix\)](https://open.spotify.com/track/5lOcXs6XIrowQiJV9lNrRw) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/1FwtaKN4oXKnx9UGTFP0uH) | 12:18 | 2020-12-01 |  |
+| [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 | 2020-12-01 | 2023-11-05 |
 | [Chains](https://open.spotify.com/track/6krEKtL2aCEXIHTJY8QrKj) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Return](https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3) | 3:41 | 2020-12-01 |  |
 | [Code Name Loppsi \- My Lowd demo](https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [The Well](https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ) | 4:13 | 2020-12-01 |  |
 | [Cold Wind Blows](https://open.spotify.com/track/5O61SnNgvNtA7NIJFQaDIi) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Dark Days In Paradise](https://open.spotify.com/album/5rWM4lXXxij6N9jmZsUolC) | 5:29 | 2020-12-01 |  |
@@ -28,7 +29,8 @@
 | [Fatboy](https://open.spotify.com/track/4AE3o0Zl933eTmA2FV0LPF) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 3:27 | 2020-12-01 | 2023-11-04 |
 | [Fatboy](https://open.spotify.com/track/5baarVtoUjoffq6RPKGEES) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/1FwtaKN4oXKnx9UGTFP0uH) | 3:27 | 2020-12-01 |  |
 | [From the Storm](https://open.spotify.com/track/5eHLQ0pMsDwFoHjK315CQf) | [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu), [Ruby Friedman Orchestra](https://open.spotify.com/artist/723Ki2RVmcT0L3y6NHPOEE) | [From the Storm](https://open.spotify.com/album/3Fmfkjw6e8SLnQ8b2kLTd0) | 3:29 | 2023-08-04 |  |
-| [Go On Home](https://open.spotify.com/track/4K9APmIfS2d1eojcx04aDp) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 4:21 | 2020-12-01 |  |
+| [Go On Home](https://open.spotify.com/track/76elLpOjKBJ23cdLqporLq) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/1FwtaKN4oXKnx9UGTFP0uH) | 4:21 | 2020-12-01 |  |
+| [Go On Home](https://open.spotify.com/track/4K9APmIfS2d1eojcx04aDp) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 4:21 | 2020-12-01 | 2023-11-05 |
 | [Good & Gone \- Original Mix](https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj) | [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt) | [Good & Gone / The Observer](https://open.spotify.com/album/4kx8HQlzVqfPDZNIbk5F87) | 4:12 | 2020-12-01 |  |
 | [Grave](https://open.spotify.com/track/1wBICiJNPP9gj6o5nEPHfT) | [Thomas Vent](https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd) | [Grave](https://open.spotify.com/album/7mJKH7MLlY9AlGaIMUf8Bl) | 4:03 | 2022-07-29 |  |
 | [Guilty](https://open.spotify.com/track/4KSljblpjITY4IsjkKSqK4) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Wolves](https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i) | 3:33 | 2020-12-01 |  |

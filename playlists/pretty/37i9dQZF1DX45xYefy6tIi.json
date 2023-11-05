@@ -1,12 +1,12 @@
 {
   "description": "Listen to the face-paced soundtrack to the Austin Grand Prix, curated by Ti\u00ebsto. ",
-  "num_followers": 358381,
+  "num_followers": 358377,
   "original_name": "The Rockstars of Racing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjUzYjgyN2UzY2VkODdhN2ZhMjllOWZiNzk5MmE1OWI2MDhiMDNi",
+  "snapshot_id": "MCwzZmU2M2ZmNjBjNGI0ZGRjMWFkZDg1ZjQ4YmM3ODFjZDI0ZTM4MGY0",
   "tracks": [
     {
       "added_at": "2023-10-19 20:20:49",
@@ -227,22 +227,22 @@
     {
       "added_at": "2023-10-19 20:20:49",
       "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/6A6oGWjdOX6v40tZU9pW44"
+        "name": "Somebody (Edit)",
+        "url": "https://open.spotify.com/album/294RRK6GjMAA3ezK8KTMxj"
       },
       "artists": [
         {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
-        },
-        {
           "name": "Fahlberg",
           "url": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
+        },
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
         }
       ],
       "duration_ms": 223604,
       "name": "Somebody - Edit",
-      "url": "https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3"
+      "url": "https://open.spotify.com/track/6sGmDThWXd16RUqAI4VRFz"
     },
     {
       "added_at": "2023-10-19 20:20:49",

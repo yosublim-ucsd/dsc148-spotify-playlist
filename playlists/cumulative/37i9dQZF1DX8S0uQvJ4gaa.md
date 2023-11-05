@@ -4,7 +4,7 @@
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Kameron Marlowe
 
-1,863 songs - 4 day 4 hr 48 min
+1,866 songs - 4 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -882,7 +882,8 @@
 | [Key West & Colorado](https://open.spotify.com/track/0K9q7Z82z3BygBWznLCqXL) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Key West & Colorado](https://open.spotify.com/album/0FDFEgqvnVxMw84e9xgNEL) | 3:26 | 2022-07-29 | 2022-10-15 |
 | [Keys To The Country](https://open.spotify.com/track/12ZicG8o3Ehwk7NoClvtbp) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Keys To The Country](https://open.spotify.com/album/0RLL5G7u2zY6qFzGnssXwX) | 2:55 | 2022-04-29 | 2022-10-15 |
 | [Kids](https://open.spotify.com/track/2EJBb3MDWCoXh5vRntYVP4) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Kids](https://open.spotify.com/album/7r07SSu50xNwGjkNCLVEd9) | 3:57 | 2021-08-21 | 2021-11-20 |
-| [Kill Me](https://open.spotify.com/track/5pWgfYHRZuNctsKtWGDJ2E) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Kill Me](https://open.spotify.com/album/7iuVd42Ad5GoLpMw3XvwPT) | 2:43 | 2023-10-27 |  |
+| [Kill Me](https://open.spotify.com/track/5pWgfYHRZuNctsKtWGDJ2E) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Kill Me](https://open.spotify.com/album/7iuVd42Ad5GoLpMw3XvwPT) | 2:43 | 2023-10-27 | 2023-11-05 |
+| [Kill Me](https://open.spotify.com/track/7en1V1qZzo6DtDDHdXg93z) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Kill Me](https://open.spotify.com/album/3RZlJhazwEhC0GqH4lYHVu) | 2:43 | 2023-11-03 |  |
 | [Killed The Cowboy](https://open.spotify.com/track/3RJurSYlznV97FIN7mBXsQ) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/120PgtD9yJIkX79XmBSwAa) | 3:18 | 2023-09-08 | 2023-10-05 |
 | [Killed The Cowboy](https://open.spotify.com/track/7KzKQGfTsZfhAWCFoG5acX) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7uWz6n5E9FWKako5gGdpS0) | 3:18 | 2023-09-29 |  |
 | [Kiss Her](https://open.spotify.com/track/6qyHEaztEydyWCEOZjJSOv) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Kiss Her](https://open.spotify.com/album/4CR78cQqMeAlOVbmWswvOe) | 2:52 | 2021-05-15 | 2021-10-02 |
@@ -930,7 +931,8 @@
 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 | 2022-05-06 | 2022-05-28 |
 | [Like I Miss You](https://open.spotify.com/track/72U8SV8QHEYzr3i5IjNHZb) | [Waterloo Revival](https://open.spotify.com/artist/3dYdcyW7mhZYVDDkNvkd0c) | [Like I Miss You](https://open.spotify.com/album/1kJ7h1UKqpKoyE5AHuWtNX) | 2:45 | 2019-08-11 | 2019-10-26 |
 | [Like My Daddy Done It](https://open.spotify.com/track/7rQD8CMRUioul1UZlL0o4T) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl) | [Like My Daddy Done It](https://open.spotify.com/album/0xQjk2VXCb7ONGv6ULTyyA) | 3:27 | 2020-02-23 | 2020-04-04 |
-| [Little Less Lonely](https://open.spotify.com/track/5lzi9kb10icgVpEDbqp0kL) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Little Less Lonely](https://open.spotify.com/album/2BGBn23kDpM9geI0nGNFkL) | 3:16 | 2023-08-25 |  |
+| [Little Less Lonely](https://open.spotify.com/track/3xoFfxN2RfHqDNG64f9Amw) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Little Less Lonely](https://open.spotify.com/album/6P32qYBrXVjhE0ZLMdejSL) | 3:16 | 2023-11-03 |  |
+| [Little Less Lonely](https://open.spotify.com/track/5lzi9kb10icgVpEDbqp0kL) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Little Less Lonely](https://open.spotify.com/album/2BGBn23kDpM9geI0nGNFkL) | 3:16 | 2023-08-25 | 2023-11-05 |
 | [Little More Be Alright](https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Little More Be Alright](https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM) | 3:35 | 2020-06-21 | 2020-09-28 |
 | [Little More You](https://open.spotify.com/track/6DZOfhqYBvCn5Zm0S4yxrx) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Little More You](https://open.spotify.com/album/3JT0u3GVZQc7TZR4z19vny) | 3:23 | 2019-05-26\* | 2019-09-15 |
 | [Live With](https://open.spotify.com/track/7KXEovg7b9vUdLjaQm3zjq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 3:18 | 2021-05-29 | 2021-08-21 |
@@ -1618,7 +1620,8 @@
 | [Til the End of Time](https://open.spotify.com/track/2W8ryHNgSirUKDVbHw13KP) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt), [Lisa Hartman Black](https://open.spotify.com/artist/6vSo8MOzgy8fBHPyFuq0Iv) | [Til the End of Time](https://open.spotify.com/album/2DPJLNoYRvr74xwYACfYzf) | 4:58 | 2020-12-06 | 2020-12-12 |
 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 | 2021-04-10 | 2021-08-07 |
 | [Till There's Nothing Left](https://open.spotify.com/track/3xERNjol68IJkC8HIicJiL) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Till There's Nothing Left](https://open.spotify.com/album/4wNIHgj1pgZt3EzfFFvHmg) | 3:15 | 2020-02-18 | 2020-04-25 |
-| [Tim + Faith](https://open.spotify.com/track/1sFe3bncgvZROAQsebpKaA) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Tim + Faith](https://open.spotify.com/album/3ln8DFI7SEUD5kJPddGEsc) | 3:50 | 2023-11-03 |  |
+| [Tim + Faith](https://open.spotify.com/track/0gPsHNuKK5lsWpCqWwvxRX) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Tim + Faith](https://open.spotify.com/album/2ImzdPjUj4Ejjr1Qj5VZhv) | 3:50 | 2023-11-03 |  |
+| [Tim + Faith](https://open.spotify.com/track/1sFe3bncgvZROAQsebpKaA) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Tim + Faith](https://open.spotify.com/album/3ln8DFI7SEUD5kJPddGEsc) | 3:50 | 2023-11-03 | 2023-11-05 |
 | [Timeless](https://open.spotify.com/track/3JYPKPQYxpHrp8YWYOF4v2) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [The Fall](https://open.spotify.com/album/0fO6mAEG7FpJoCLwEZju0u) | 2:49 | 2019-12-14 | 2020-06-14 |
 | [Tip Jar](https://open.spotify.com/track/0NSVFmAwWSnupuMyNn6wo4) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN) | [Tip Jar](https://open.spotify.com/album/5c5wbtWMKqs9xLYMTGuLxb) | 2:42 | 2021-05-29 | 2021-10-09 |
 | [Tip of My Tongue](https://open.spotify.com/track/40ufL61vEaDaaOitYhnlQ7) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Tip of My Tongue](https://open.spotify.com/album/2neKEhAldnGfCDEkPE4kW0) | 3:19 | 2019-07-13 | 2019-08-25 |

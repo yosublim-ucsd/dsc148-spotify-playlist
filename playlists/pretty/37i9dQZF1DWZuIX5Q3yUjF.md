@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: JeBel
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,822 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,830 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 19 | [N'Anima](https://open.spotify.com/track/5lELyaYDICf3gj0xjXleOs) | [Naomi](https://open.spotify.com/artist/3dbuSqzwPQGqucy4evhJUB) | [N'Anima](https://open.spotify.com/album/13ECmY0qa7soTUErZ1IElY) | 2:54 |
 | 20 | [Stand by](https://open.spotify.com/track/4RiCyzImlul2OVb7nWWNQ3) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Stand by](https://open.spotify.com/album/29S37owZPBfL0m5qjcCM7H) | 3:05 |
 | 21 | [Koala](https://open.spotify.com/track/3dvc2alQsbI9yOJgHCgGaD) | [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F), [Obi](https://open.spotify.com/artist/397C43QkYq9EVsZCkhh84L) | [Koala](https://open.spotify.com/album/16n5szWljslh8FIDKOg6zB) | 3:00 |
-| 22 | [Come si fa \(feat\. Mecna\)](https://open.spotify.com/track/0fsVkQHvaOq1dxW1MMfGHV) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Aurora Boreale](https://open.spotify.com/album/0BywUWtRfCZXLRjrl53PFx) | 3:13 |
+| 22 | [Come si fa \(feat\. Mecna\)](https://open.spotify.com/track/3djhLlGIgNz63lhDplcW85) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Aurora Boreale](https://open.spotify.com/album/3oh4nZNcAzLtV6KKBohGfK) | 3:13 |
 | 23 | [Roulette](https://open.spotify.com/track/73JpGj55qaZvDHN6j0mHJo) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Roulette](https://open.spotify.com/album/2SiNIJDHO34gqUSsML9d5h) | 2:45 |
 | 24 | [GangstaBaby \(feat\. Rondodasosa\)](https://open.spotify.com/track/3fsDYD3B1niEm6qDpBWEHL) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 2:46 |
 | 25 | [Rosso di Marte](https://open.spotify.com/track/5rMe8OtABwtqal2o4e7bDL) | [Eakos](https://open.spotify.com/artist/4DPWOt9FehGYFm4Al5bA92), [The ego](https://open.spotify.com/artist/7CUwMTIN5PXXb2AAzAdJQj), [RudeBobo](https://open.spotify.com/artist/36y0bh05LsRHDaRRJqDiZc) | [Rosso di Marte](https://open.spotify.com/album/1nnn1v9kESLFSWOO2QjgQ5) | 2:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 59 | [Brandy & Monica](https://open.spotify.com/track/7D0lKhGUyoJvXA83Gko8ou) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Brandy & Monica](https://open.spotify.com/album/2TGJGvjsRyiNZub7jgeIcM) | 2:40 |
 | 60 | [salvare](https://open.spotify.com/track/4jQCFTq0WPVBHayDkgzIFf) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [salvare](https://open.spotify.com/album/2YjaCfTIJi5ehsSPOIflxu) | 3:04 |
 
-Snapshot ID: `MCw0YzI4NWRmNzY4ODM2NWVhMDVjZmJkOGFjZDNkY2I4MGUxYTdkNTA0`
+Snapshot ID: `MCxjMWMwYzM0ZDM3YmYyYTA3NGNlZmNmNjllOTNiMWVmODhhMjdlY2Y4`

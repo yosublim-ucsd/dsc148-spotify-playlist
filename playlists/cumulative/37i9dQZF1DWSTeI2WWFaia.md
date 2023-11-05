@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Westside Gunn
 
-557 songs - 1 day 5 hr 33 min
+558 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [Rich Problems](https://open.spotify.com/track/5wCqSOUqA8orGqTVqei04h) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Rich Problems](https://open.spotify.com/album/3umyqwAkITHw17JJjODAcv) | 3:54 | 2023-07-07 | 2023-07-24 |
 | [Right Hand Man \(feat\. Black Thought\)](https://open.spotify.com/track/1SL4bKAM4vkH0BqKdrZjH3) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [The Heaven Experience, Vol\. 1](https://open.spotify.com/album/0lQUDDBMXBJGaRVeRTXnci) | 4:02 | 2022-08-12 | 2022-08-20 |
 | [RIP Tracy \(feat\. Earl Sweatshirt & billy woods\)](https://open.spotify.com/track/2IUJBpKPp9jW3p2d4EbkmB) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [Flying High](https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz) | 3:38 | 2023-06-30 | 2023-11-04 |
-| [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 | 2023-07-21 |  |
+| [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 | 2023-07-21 | 2023-11-05 |
 | [Rome](https://open.spotify.com/track/5RBp3GOQIeCu8mrhLr8PxA) | [Kent Loon](https://open.spotify.com/artist/4D10XmdrnAaDediMRuOBKM), [Chester Watson](https://open.spotify.com/artist/1vmLIa1VRY38hZoar8AyYS) | [Rome](https://open.spotify.com/album/41HAHC41ZuXwZsxXlYYK1G) | 2:20 | 2021-09-03 | 2022-01-22 |
 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 1:42 | 2022-09-16 | 2023-04-15 |
 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/3hlOxtMvp2zeQc1Y3WwNvP) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [ROUND HERE \(PART ONE\)](https://open.spotify.com/album/6NSz5RJ2Gb660V60rO6EHs) | 1:42 | 2022-06-17 | 2022-07-08 |
@@ -537,6 +537,7 @@
 | [Uncle Ric \(feat\. Benny The Butcher\)](https://open.spotify.com/track/2S0DHw3JUZgqVrl4cehMgC) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Uncle Ric \(feat\. Benny the Butcher\)](https://open.spotify.com/album/4WKq8O4BepHdWVRTed0zhv) | 2:49 | 2022-02-04 | 2022-02-16 |
 | [Ups & Downs](https://open.spotify.com/track/6wbcWUz7Ro8PMNsAyJnD9e) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [Ups & Downs](https://open.spotify.com/album/6NV5eCfuSxaC1pEvJ73BCJ) | 3:15 | 2022-04-15 | 2022-07-27 |
 | [UPSNDOWNS](https://open.spotify.com/track/1JbhPEYyFSGDtvGVWPnFVC) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [HOMECOURT ADVANTAGE, Vol\. 2](https://open.spotify.com/album/17QB4idq8wi0Hu0eXBKwrs) | 1:48 | 2023-08-04 | 2023-09-11 |
+| [Vertigo \(feat\. Action Bronson\)](https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Flying High, Part 2](https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz) | 2:57 | 2023-11-03 |  |
 | [Vin Skully](https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 1:53 | 2023-10-06 |  |
 | [Vinyl Days \(feat\. DJ Premier\)](https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Vinyl Days](https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1) | 4:42 | 2022-05-20 | 2022-11-12 |
 | [Vlad TV \(feat\. Stove God Cooks, Symba & Major Myjah\)](https://open.spotify.com/track/1X1a1NKvRjNA7U0jlGTHbL) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Symba](https://open.spotify.com/artist/01988BWUnQiclJ70TTcnOq), [Major Myjah](https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L) | [Dope Don't Sell Itself](https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu) | 4:27 | 2022-02-04 | 2022-07-23 |

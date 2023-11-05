@@ -4,7 +4,7 @@
 
 > The official playlist for After Life, curated by Ricky Gervais\. Watch on Netflix.
 
-55 songs - 4 hr 18 min
+56 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [If These Walls Could Speak](https://open.spotify.com/track/1Mlc3atP5OQaMPFwudJ55K) | [Jimmy Webb](https://open.spotify.com/artist/0YJUdunUDA1pTDxJ8AJlyB) | [Ten Easy Pieces](https://open.spotify.com/album/1ofvptZMmnekEQddIbdySL) | 4:03 | 2022-01-13 |  |
 | [In the Middle of This Nowhere](https://open.spotify.com/track/1CZROHuLm6RdvDKonQh1Zx) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Oblivion Hymns](https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn) | 5:33 | 2022-01-13 |  |
 | [Into My Arms](https://open.spotify.com/track/0dDDB5Y0USPabzqBmajLJr) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(Remastered\)](https://open.spotify.com/album/4ij84pOJd9kY2uNdT2dOH1) | 4:16 | 2022-01-13 | 2022-07-29 |
-| [Into My Arms \- 2011 Remastered Version](https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 Remastered Version\)](https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A) | 4:16 | 2022-01-13 |  |
+| [Into My Arms](https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 \- Remaster\)](https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv) | 4:16 | 2022-01-13 |  |
+| [Into My Arms \- 2011 Remastered Version](https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 Remastered Version\)](https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A) | 4:16 | 2022-01-13 | 2023-11-05 |
 | [Kids Will Be Skeletons](https://open.spotify.com/track/3xogCrlDsnIZ7nQo8VvRL6) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Happy Songs for Happy People](https://open.spotify.com/album/1k2uLH7mwB72zbepvM8rR4) | 5:27 | 2022-01-13 |  |
 | [Lady Marmalade](https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Best Of Patti Labelle](https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub) | 3:55 | 2022-01-13 |  |
 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 | 2022-01-13 |  |

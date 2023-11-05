@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs"
+      },
+      "artists": [
+        {
+          "name": "Third Son",
+          "url": "https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316190,
+      "name": "Everything In Its Right Place",
+      "url": "https://open.spotify.com/track/0JHMC0yRspj8WLUHimDsI0"
+    },
+    {
+      "album": {
         "name": "Everything In Its Right Place",
         "url": "https://open.spotify.com/album/0IyUMNyvIsMMm1v6WyQ2oQ"
       },
@@ -632,7 +650,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 316190,
       "name": "Everything In Its Right Place",
       "url": "https://open.spotify.com/track/4hIjfcWeaUIg5JIgFsqyXj"
@@ -1057,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "The Edge of Everything",
+        "url": "https://open.spotify.com/album/28AlKDe5X9WlkqJSEYlbFJ"
+      },
+      "artists": [
+        {
+          "name": "Krust",
+          "url": "https://open.spotify.com/artist/6WPeOlm3f3UGoO1l6OPOUO"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112927,
+      "name": "It\u2019s A Lot",
+      "url": "https://open.spotify.com/track/0wZpU9weYE0BomxUdSCTgt"
+    },
+    {
+      "album": {
         "name": "The Edge Of Everything",
         "url": "https://open.spotify.com/album/4DeB6ku3F7xSVhgqc4PxKO"
       },
@@ -1068,7 +1104,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 112927,
       "name": "It\u2019s A Lot",
       "url": "https://open.spotify.com/track/73KoHFtH40JvEGCtFi0UIN"
@@ -1664,10 +1700,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 308000,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/06teMXvgw1V8HP3wIfoMUm"
+    },
+    {
+      "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs"
+      },
+      "artists": [
+        {
+          "name": "Third Son",
+          "url": "https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Roygbiv",
+      "url": "https://open.spotify.com/track/0jF2yeHcJLZyaKoow6Pwca"
     },
     {
       "album": {

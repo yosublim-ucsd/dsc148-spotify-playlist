@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-106 songs - 5 hr 48 min
+107 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Sweet Soul Music](https://open.spotify.com/track/1NkBAvUj4EITElG8hO1mRC) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Feeling You! The 60's](https://open.spotify.com/album/6xsN1W274ooUQ1RFJuLH9Z) | 2:11 | 2021-10-01 |  |
 | [Sweet Soul Music](https://open.spotify.com/track/0j4y8UyEKIkQK4DRT25zi4) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 3:04 | 2021-10-01 |  |
 | [Sweet Soul Music](https://open.spotify.com/track/18b7KtY3MqOOZEXTYXJoqy) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Here Comes the Duke](https://open.spotify.com/album/4EQo8dsclTJxQtcoMk4aEq) | 1:57 | 2021-10-01 | 2023-11-04 |
-| [Sweet Soul Music](https://open.spotify.com/track/2MF70gFS4vaRw2E4lVOI5B) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Here Comes the Duke \(Expanded Version\)](https://open.spotify.com/album/10Gx9yth84HltBKBZmozee) | 1:57 | 2021-10-01 |  |
+| [Sweet Soul Music](https://open.spotify.com/track/2MF70gFS4vaRw2E4lVOI5B) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Here Comes the Duke \(Expanded Version\)](https://open.spotify.com/album/10Gx9yth84HltBKBZmozee) | 1:57 | 2021-10-01 | 2023-11-05 |
+| [Sweet Soul Music](https://open.spotify.com/track/3u8g1boSdChU9mqIER48XU) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Here Comes the Duke](https://open.spotify.com/album/5Aob76ooSb45t1VqRyVRpq) | 1:58 | 2021-10-01 |  |
 | [Sweet Soul Music \- Live on Radio 1's "Studio B15", 1981](https://open.spotify.com/track/4vVLp77vmbdldsVB7HkWZi) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Jam At The BBC](https://open.spotify.com/album/2AkhTO58Jwta6LHJjRKhc7) | 2:02 | 2021-10-01 |  |
 | [The Dock of the Bay](https://open.spotify.com/track/1D8jvcCsh8sS1QQZohqVqz) | [Mandelbarth](https://open.spotify.com/artist/3zU1hJLF2O4pt5c3if4lQF), [ManuMatei](https://open.spotify.com/artist/1jDeFVnrDcm1O6W7sragOI) | [The Dock of the Bay](https://open.spotify.com/album/38KpJU5EpO0x95aGL5C7vZ) | 2:26 | 2021-10-01 |  |
 | [The Happy Song](https://open.spotify.com/track/1qUayp9EJqpSTT24PWdl0q) | [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Rita Coolidge](https://open.spotify.com/album/4pjxcFzk2FchRsjaGQlhpl) | 3:55 | 2021-10-01 |  |

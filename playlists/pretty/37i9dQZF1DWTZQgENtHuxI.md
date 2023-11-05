@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,666 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,693 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,19 +83,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 73 | [Gonna Get Over You](https://open.spotify.com/track/3Kbh7QUQvNEBVNB7xzVZJM) | [France Joli](https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr) | [Now!](https://open.spotify.com/album/3sBIVm6KbaEbJHmPHfjc4w) | 4:11 |
 | 74 | [Disco Nights \(Rock Freak\) \- 12" Disco Remix](https://open.spotify.com/track/21NEoaczQ5G1aEhJAgz0JQ) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Disco Nights \(Expanded Edition\)](https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum) | 8:50 |
 | 75 | [Stay the Night](https://open.spotify.com/track/5pzmmAL0lQM0601a5AfO9w) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Nights \(Feel Like Getting Down\) \[Expanded Edition\]](https://open.spotify.com/album/1qBIawNlWPB2UNg54APcNo) | 3:11 |
-| 76 | [I Got My Mind Made Up \(You Can Get It Girl\) \- Larry Levan Single Version](https://open.spotify.com/track/1OqFabug9LXWmBwPWEy3dx) | [Instant Funk](https://open.spotify.com/artist/2vxhgszTmEHgbNJM7Xd3aW) | [I Got My Mind Made Up \- The Best of Instant Funk](https://open.spotify.com/album/6h5wrh2Nl1pCgWRUpL5IzL) | 4:44 |
+| 76 | [I Got My Mind Made Up \(You Can Get It Girl\) \(Single Version\) \(2022 \- Remastered Version\)](https://open.spotify.com/track/34an3D011DK7naeQx2s61E) | [Instant Funk](https://open.spotify.com/artist/2vxhgszTmEHgbNJM7Xd3aW) | [Instant Funk](https://open.spotify.com/album/67ujjbVxxh6Rc9lTFa4m6I) | 4:43 |
 | 77 | [Keep On](https://open.spotify.com/track/50bxxJIwn0XnZjQH2OruOu) | [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe) | [You're the One for Me](https://open.spotify.com/album/6Cu53xS0YGhgEqyTqkVNeL) | 6:41 |
 | 78 | [What Cha Gonna Do With My Lovin' \- 12" Version](https://open.spotify.com/track/78Eo67Bv4bxY1iAk4gVorp) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Best of Disco Music\- Classics](https://open.spotify.com/album/3OTB2xQ6STdsWRu2wZJLUB) | 8:03 |
-| 79 | [The Beat Goes on and On](https://open.spotify.com/track/72y8Ux1ab53mniGZ7N15gG) | [Ripple](https://open.spotify.com/artist/3LnUnKJnfezw19rfp8hSxi) | [Sons of the Gods](https://open.spotify.com/album/6bHxogd4eT9H4iWlBMfgQi) | 4:32 |
+| 79 | [The Beat Goes on and On](https://open.spotify.com/track/6U0Oize4Suj1tmxnIyhAQj) | [Ripple](https://open.spotify.com/artist/3LnUnKJnfezw19rfp8hSxi) | [Sons of the Gods](https://open.spotify.com/album/0pWjTaQ9HJNQf0t4ywJF7c) | 4:32 |
 | 80 | [Any Love](https://open.spotify.com/track/1kWqY6h6McouejRwhmqtSw) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm) | [Masterjam](https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE) | 4:52 |
-| 81 | [Just As Long As I Got You](https://open.spotify.com/track/4AmG6NOFB8901aYSpbPfk1) | [Love Committee](https://open.spotify.com/artist/4n3HfjnsBTSPBBiaS9jJSg) | [Salsoul Classics Vol\. 1](https://open.spotify.com/album/4OuMyJdz88GLs0WrxDpf9U) | 8:37 |
+| 81 | [Just as Long as I Got You](https://open.spotify.com/track/3XO8ITKTCw6io79KKTRXdQ) | [Love Committee](https://open.spotify.com/artist/4n3HfjnsBTSPBBiaS9jJSg) | [Salsoul Classics, Vol\. 1 \(2013 \- Remaster\)](https://open.spotify.com/album/5IncjO9Rj4K938KvqBkZx8) | 8:37 |
 | 82 | [I Specialize In Love \- 12 Inch Version](https://open.spotify.com/track/1SRtnntbQW1KKO6rzEO7ac) | [Sharon Brown](https://open.spotify.com/artist/5kpZHJtnWFKx8bvyvVgDdS) | [I Specialize In Love](https://open.spotify.com/album/53L3e8tU8vmeU2xHtpz8T0) | 7:17 |
 | 83 | [You Got What It Takes](https://open.spotify.com/track/7gLflLqsZlOeLSlkx6XHrW) | [Bobby Thurston](https://open.spotify.com/artist/3iPWVg3McWlor6EUf9Jc7l) | [You Got What It Takes](https://open.spotify.com/album/0uw28qwpfGCHCV4SDCOO7c) | 9:33 |
 | 84 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
 | 85 | [Pop Muzik \(12 Inch Version\)](https://open.spotify.com/track/43U1bCDTZAhhY1Y8mCkTG4) | [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [New York, London, Paris, Munich](https://open.spotify.com/album/1NYT6pqKJdfCPOKtbgqbLV) | 4:56 |
 | 86 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/68oPWciPnkCZBNbq0HfFJE) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [The Original Hits](https://open.spotify.com/album/4Ls1kWhm4Lqgdteck35U7r) | 6:34 |
 | 87 | [Don'T Go Lose It Baby \(Stretch Mix\)](https://open.spotify.com/track/4Mh1lXTBDqOgWJ4mSgdySt) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Early Hugh Masekela](https://open.spotify.com/album/71VbtkxjzaGfhHtBf7z4Aw) | 7:35 |
-| 88 | [Ain't No Mountain High Enough](https://open.spotify.com/track/51uChSR8zp4cui4tLqiXb6) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Inner Life](https://open.spotify.com/album/7ldc7KAIZ3JmsuCwIHcS2B) | 7:59 |
+| 88 | [Ain't No Mountain High Enough](https://open.spotify.com/track/06xAJjt8HY09e14cLmBmgP) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [Inner Life](https://open.spotify.com/album/2DqaJOmf1G5MxRPSRonwlB) | 7:59 |
 | 89 | [Boogie Oogie Oogie \- Single Version 2 / Remastered 1999](https://open.spotify.com/track/0y0QpmcF1G3F79rjk3fjUx) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [A Taste Of Honey](https://open.spotify.com/album/2WDP1yNTx3cBR9LBE4Ribh) | 5:38 |
 | 90 | [Searching to Find the One \- Remix](https://open.spotify.com/track/2yzNqrykiRq4pwAlpe0bvL) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 7:24 |
 | 91 | [I Feel Love](https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [I Remember Yesterday](https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe) | 5:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 99 | [\#5 Go Bang! \(Francois K Mix\)](https://open.spotify.com/track/1WaeKhR5bpdmymEXM0yN1f) | [Dinosaur L](https://open.spotify.com/artist/0IebXswqiI5BInWTUqaSBw) | [24\-24 Music: The Definitive Arthur Russell Sleeping Bag Recordings](https://open.spotify.com/album/0Oq6ZorGIvnUdQKEMYYsY2) | 7:34 |
 | 100 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 |
 
-Snapshot ID: `MCw1ZGQ4NGYzZGY2OGQ0NzMwNjI3ZjdkNGY2MTEzZmQ4OTllMGVkNTc1`
+Snapshot ID: `MCxhNjg5NTQ4MjA3YWQ3NWY5MWYzYTU3M2JiMTdkYzYzMzdkZjYzNzU1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nCTkNS7Llm.md) - [plain]
 
 > Featuring Tainy, paopao, Feid & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 459 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nCTkNS7Llm.md) - [plain]
 | 24 | [BELLAQUE?](https://open.spotify.com/track/7gYblpRDCSmrnY39PJBPYE) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [BELLAQUE?](https://open.spotify.com/album/4nbY0nHvLnl73klr2ZOaNo) | 2:17 |
 | 25 | [No Le Bajamos](https://open.spotify.com/track/5z9BueVXyoqHHFk4eFvlpU) | [Jodosky](https://open.spotify.com/artist/6jOQofEFDXLbMGlzn3xSua), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [No Le Bajamos](https://open.spotify.com/album/10UVmswEcMMI6UjL4oEufc) | 2:44 |
 
-Snapshot ID: `MCw3M2Q3OGIyMDMxMTViYTk5MGFiMjBiOTNlNWUwYWFjODI3YzllNWI3`
+Snapshot ID: `MCw2ZDM0NTI5MGUyNWZkYjNmOTlkMDg0MzUyNzQxZTFiMTg4YTU4OTNm`

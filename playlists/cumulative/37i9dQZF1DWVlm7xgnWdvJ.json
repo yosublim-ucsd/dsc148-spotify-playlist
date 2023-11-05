@@ -1472,10 +1472,28 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 417410,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/1UjbMmN5yti1uyZQCuhaBI"
+    },
+    {
+      "album": {
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/3x42Or4zo3r7B7geCDfOXZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Yarin",
+          "url": "https://open.spotify.com/artist/0cPgP2pYS8lmkzxiJc0hO7"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417410,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/1ccSaqv3pRFBGsrjM2l1pe"
     },
     {
       "album": {

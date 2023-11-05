@@ -6027,6 +6027,24 @@
     },
     {
       "album": {
+        "name": "Rest in Punk",
+        "url": "https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108012,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/1tCiCPvZYVdR5rIxokcqbj"
+    },
+    {
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/0Z1B02ZtMcAtgluiIWZTMB"
       },
@@ -6038,7 +6056,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 108980,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/06YNVx8q2zF84s8SfGbxMC"

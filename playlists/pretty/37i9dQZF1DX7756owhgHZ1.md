@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 
 > Ya sea en la rampa o en la consola, así sonaba montar en patineta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,076 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,131 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Anarchy In the UK](https://open.spotify.com/track/17YNjZoMHOoS8BM1fcgiBk) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [The Sex Pistols](https://open.spotify.com/album/2BYBgtFWz6nqFfZQKvsLf6) | 3:33 |
 | 2 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 |
 | 3 | [Dig That Groove Baby](https://open.spotify.com/track/6CF9Eua4NiiB0gmeObmZ8w) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [We're Mad! The Anthology](https://open.spotify.com/album/6ZQk8OSfWt6kzoU4Jqx8Sy) | 2:31 |
-| 4 | [Freightliner](https://open.spotify.com/track/6U9xkvV0dLXN598VuSYCyt) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Fuel For The Hate Game \(Expanded Edition\)](https://open.spotify.com/album/2dFIDimd1AX5wuRrjbBahp) | 3:17 |
+| 4 | [Freightliner](https://open.spotify.com/track/3RQLI2IYRCkHhyW2WuRQlm) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Fuel For The Hate Game \(Expanded Edition\)](https://open.spotify.com/album/55UdgPxYdlMRyzD1pGOFmG) | 3:17 |
 | 5 | [New Girl](https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 2:03 |
 | 6 | [Not the Same](https://open.spotify.com/track/0q6Qyd2QaHMHp7APKyQsyi) | [Bodyjar](https://open.spotify.com/artist/2LyXoG111QdqfI0HLYQgvS) | [How It Works](https://open.spotify.com/album/3OXgyKFsDVI8PzYY0mspqD) | 3:08 |
 | 7 | [Blood Brothers](https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:33 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 | 20 | [Bad Fun](https://open.spotify.com/track/4lZ0jJ18JHo9GR4SK5s0nZ) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Electric](https://open.spotify.com/album/40P0nhd8xLFpuWt6TmR4lB) | 3:34 |
 | 21 | [Mass Appeal](https://open.spotify.com/track/1dJNuQQ5Zp06oBlnwpiNzT) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Full Clip: A Decade Of Gang Starr](https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh) | 3:40 |
 | 22 | [Spokesman](https://open.spotify.com/track/2jnkyrJ9dCuG3K0SEjRSrR) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 2:33 |
-| 23 | [The Number of the Beast \- 1998 Remaster](https://open.spotify.com/track/7z9UU7eamD9OQvGhOJ4R4l) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere Back in Time \(The Best of 1980 \- 1989\)](https://open.spotify.com/album/2BfXz1uwKCFaD5TddCWITq) | 4:50 |
+| 23 | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/track/0EG9tDhr5rd931Ebj213nO) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/1GmhZDrn15PUncSANUoteo) | 4:50 |
 | 24 | [All My Best Friends Are Metalheads](https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:31 |
 | 25 | [By The Time I Get To Arizona](https://open.spotify.com/track/5Y7Tj2fh27PM08CgaaDwoF) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Apocalypse 91… The Enemy Strikes Black](https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo) | 4:48 |
 | 26 | [Seneca Falls](https://open.spotify.com/track/1wDfhmlEvVEbQnEIdMRfvf) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Sing Sing Death House](https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 | 74 | [Non Compos Mentis](https://open.spotify.com/track/1GS9WWgNkqhR45YcdGPnBW) | [Haiku D'Etat](https://open.spotify.com/artist/5yLqc0R4cy4fVot8LuEkj4) | [Haiku D'Etat](https://open.spotify.com/album/45zWOfhF7pA5aIfkWypsnz) | 4:11 |
 | 75 | [Hush](https://open.spotify.com/track/7q0xO3uiDpfqyyWXNMWspM) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Sneak Attack](https://open.spotify.com/album/5xuI6nfWnsMKQMZgQFJMBN) | 3:55 |
 
-Snapshot ID: `MCxjMDJiYjNjMGM0N2I4OTZmNjJlODJlYTBlY2M5NmYzZDFkMWJkMzlh`
+Snapshot ID: `MCwyM2E0N2QzZDBkMjFkMWZlZGY3ZjVlZjdmNzMzYjlkM2M5MjY4OGYw`

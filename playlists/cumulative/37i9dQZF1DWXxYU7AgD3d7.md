@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-54 songs - 4 hr 20 min
+56 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,10 @@
 | [To be honest \- SG Lewis Remix](https://open.spotify.com/track/15D7d8uC0db0q0QkMdHia8) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [To be honest \(SG Lewis Remix\)](https://open.spotify.com/album/78tzLrfhvjKqMeLQ7Tq6en) | 3:58 | 2023-10-13 |  |
 | [Trip \(Extended Mix\)](https://open.spotify.com/track/5pQk0Q3QindFi9HgctbPUz) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Trip](https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B) | 6:41 | 2023-10-13 |  |
 | [WOI](https://open.spotify.com/track/2CISvEFIKOri1e92IMrWLA) | [efan](https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT) | [WOI](https://open.spotify.com/album/1gwWLLExGfmqXBrj3msIyO) | 5:00 | 2023-10-13 |  |
-| [Xtina](https://open.spotify.com/track/2ybGkYUXKKJMN701QYwXff) | [Lxury](https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf) | [Total Eclipse](https://open.spotify.com/album/4l1bVe35t30CE6UJQEKcl4) | 4:50 | 2023-10-13 |  |
-| [Zip](https://open.spotify.com/track/5n94w4fog3OUFBpjlGaGCK) | [uu rhythm](https://open.spotify.com/artist/3Tywj0x7JTOMejtEwGGO2O) | [Zip](https://open.spotify.com/album/1nV3keL2Oy8HIkX1udOV01) | 4:17 | 2023-10-13 |  |
+| [Xtina](https://open.spotify.com/track/2ybGkYUXKKJMN701QYwXff) | [Lxury](https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf) | [Total Eclipse](https://open.spotify.com/album/4l1bVe35t30CE6UJQEKcl4) | 4:50 | 2023-10-13 | 2023-11-05 |
+| [Xtina](https://open.spotify.com/track/3z7IkJWkJuRGeKUOs8ildv) | [Lxury](https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf) | [Total Eclipse](https://open.spotify.com/album/6PPO7q95rqHmKjXC3IJafZ) | 4:50 | 2023-10-13 |  |
+| [Zip](https://open.spotify.com/track/4aDG9AuAxM310HJPMeCEW8) | [uu rhythm](https://open.spotify.com/artist/3Tywj0x7JTOMejtEwGGO2O) | [Zip](https://open.spotify.com/album/0Z6x73vBEISKtPcMH2QoCH) | 4:17 | 2023-10-13 |  |
+| [Zip](https://open.spotify.com/track/5n94w4fog3OUFBpjlGaGCK) | [uu rhythm](https://open.spotify.com/artist/3Tywj0x7JTOMejtEwGGO2O) | [Zip](https://open.spotify.com/album/1nV3keL2Oy8HIkX1udOV01) | 4:17 | 2023-10-13 | 2023-11-05 |
 | [Кардио ритм](https://open.spotify.com/track/0IsB623ic7ekUJRsqIFWF6) | [LAUD](https://open.spotify.com/artist/5mzTr70OcAfZWMUF8BSjAm), [Shakhov](https://open.spotify.com/artist/7E2bZELNidSLV2Fm7nJhYn) | [Танцевальный ритм](https://open.spotify.com/album/0c9EfjKTqdK1aI03VKTo8f) | 4:29 | 2023-10-13 |  |
 
 \*This playlist was first scraped on 2023-10-18. Prior content cannot be recovered.

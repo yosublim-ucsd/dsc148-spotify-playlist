@@ -4,7 +4,7 @@
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-361 songs - 22 hr 26 min
+362 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,8 @@
 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 | 2021-10-26 |  |
 | [Teenage Dirtbag](https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Songs From Dawson's Creek, Vol\. II](https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj) | 4:01 | 2021-10-26 |  |
 | [Tell Me When](https://open.spotify.com/track/4IjcChJkuClpkcbekUj7De) | [The Applejacks](https://open.spotify.com/artist/27up4HDNmGpKK60gRie2tB) | [Tell Me When](https://open.spotify.com/album/1oZO3fNocrlaQ8lT7nHpxr) | 2:21 | 2023-09-21 |  |
-| [Tell You \(Today\) \- 12" Vocal](https://open.spotify.com/track/2IllryBU9oFx61KtdM1dqO) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Tell You \(Today\)](https://open.spotify.com/album/6cs8uVA614A8LtJ2cYbKS9) | 7:02 | 2023-09-21 |  |
+| [Tell You \(Today\) \(12" Vocal\)](https://open.spotify.com/track/2WS2L7AIoDioUVSoo5Vpws) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Tell You \(Today\)](https://open.spotify.com/album/5ruXf8eqi1wyfCWfTlLSd6) | 7:02 | 2023-09-25 |  |
+| [Tell You \(Today\) \- 12" Vocal](https://open.spotify.com/track/2IllryBU9oFx61KtdM1dqO) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Tell You \(Today\)](https://open.spotify.com/album/6cs8uVA614A8LtJ2cYbKS9) | 7:02 | 2023-09-21 | 2023-11-05 |
 | [Tender](https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 7:41 | 2023-08-22 |  |
 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2021-10-26 |  |
 | [thank u, next](https://open.spotify.com/track/2rPE9A1vEgShuZxxzR2tZH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/684W6NpKllEexqQlGqetCi) | 3:27 | 2021-10-26 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Mc Kadu e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,117 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,382 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Prazo De Validade](https://open.spotify.com/track/6tQVvcmfUvtxxg4FmQTpv9) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Prazo De Validade](https://open.spotify.com/album/79X2Zz8FuvzjIHzKTfSxcA) | 5:42 |
 | 50 | [Chove Chuva](https://open.spotify.com/track/1pQ29ZLS28yXAiXW2LREyK) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Chove Chuva](https://open.spotify.com/album/39kN9xSE9LbuQAiXQAe52G) | 2:50 |
 
-Snapshot ID: `MCxkMzFlYzAzYTdhNGEyYmQ1MTE2ODc5ODcwZTRhYmRjNzMzZjhiZTEz`
+Snapshot ID: `MCw4MWUxODYxYTU2ODE5ODg0Mzk1YjZlYWI3M2U1MjJhMjYyNDRmMmRl`

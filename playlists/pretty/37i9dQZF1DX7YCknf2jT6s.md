@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,747 likes - 100 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,848 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 17 | [Ano Yo](https://open.spotify.com/track/6meoOCk11jpUWEs5NiDMjK) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Selections from Les Jardins Mystiques Vol.1](https://open.spotify.com/album/5pPVN3FdmHNMmMKEL7N3gW) | 12:32 |
 | 18 | [Phoenix \- Theon Cross Remix](https://open.spotify.com/track/6c358FrD7dJCkAyDAQGOlj) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [The Midnight Hour](https://open.spotify.com/artist/1S5jf5XWhQTMjGZQxCH0AJ), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Phoenix \(Theon Cross Remix\)](https://open.spotify.com/album/3JUeHROdXb6FEGxs5KCPKN) | 4:05 |
 | 19 | [jazz is for ordinary people](https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp) | 2:44 |
-| 20 | [Light Years](https://open.spotify.com/track/4M3TB3K2uietahnWZuzIZF) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc) | 4:07 |
+| 20 | [Light Years](https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB) | 4:07 |
 | 21 | [AT EASE](https://open.spotify.com/track/1w8qCPaSGag0pzg9VkbVoj) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [AT EASE](https://open.spotify.com/album/5IaYIRrdDukByGOU3GylvN) | 3:27 |
 | 22 | [Dogtown](https://open.spotify.com/track/5ktCZMdlQ5jf1o6vqKFSso) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Stings](https://open.spotify.com/album/6VinTZHoP04RXMsQk3W4A4) | 6:30 |
 | 23 | [50 Years](https://open.spotify.com/track/3Dy0QWzEEKNpduq84nGxia) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Lindsey Webster](https://open.spotify.com/artist/3lBD383C0a92MbCRj9dEHZ), [Ledaris "LJ" Jones](https://open.spotify.com/artist/24fKdc1YoPQlaqiGZ0F6Wx), [Davonte "Deuce" Harris](https://open.spotify.com/artist/7plArfgEJ3wHAeSa4EMojf) | [50 Years](https://open.spotify.com/album/2sq05BkgQAE33vGTZ5kLFu) | 3:03 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 46 | [For Roy](https://open.spotify.com/track/10d2cJq5gUpMfJ7sO1VtIK) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [For Roy](https://open.spotify.com/album/0FAN1nY9LMj2mShCOorekg) | 3:43 |
 | 47 | [It's Ok, B U](https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [It's Ok, B U](https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep) | 4:22 |
 | 48 | [Bark Out Thunder Roar Out Lightning](https://open.spotify.com/track/0f32CcNYyYuoLtl83BXWPL) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Chief Adjuah](https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1) | [Bark Out Thunder Roar Out Lightning](https://open.spotify.com/album/4hDXyL2ja7MKltRAUqo40g) | 15:22 |
-| 49 | [Morning Of The Carnival](https://open.spotify.com/track/0Ap3NnGPsi3q9bmZBeOtHP) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/7BRTdya6UKyz9xLxjU0Hio) | 6:42 |
+| 49 | [Morning Of The Carnival](https://open.spotify.com/track/3MoLzbreunW3f0AfXUH8ki) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Dream Box](https://open.spotify.com/album/65WGqUztAtgLA6KLy9rcwJ) | 6:42 |
 | 50 | [Everything Is Going to Be OK](https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Everything Is Going to Be OK](https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M) | 4:47 |
 | 51 | [Darkness, Darkness](https://open.spotify.com/track/2ih7916Ch16x9n75yhc3Ok) | [Kieran Hebden](https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Darkness, Darkness / No Services](https://open.spotify.com/album/00FDYOFov2bt3WsLrRE5uY) | 10:07 |
 | 52 | [Why Am I Treated So Bad \(with Questlove, Christian McBride\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/22OeSoWelZKWr5On4XIaKP) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Why Am I Treated So Bad \(with Questlove, Christian McBride\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/4JdmT4JJgQFP3dUgvpjx3H) | 5:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [The Good Life](https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [New Jawn](https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR) | [Prime](https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ) | 7:15 |
 | 100 | [JERICHO](https://open.spotify.com/track/6ggQiv5Hr3CHTqI7sFfnxV) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [JERICHO](https://open.spotify.com/album/2GSNn4nuV4BzdgIJoZZgYT) | 2:39 |
 
-Snapshot ID: `MCwzZDA1YmMyOWEwNzJmMWY4MjA2Y2UwODM1ODcwMTI5ZmQ1MTRiMjBi`
+Snapshot ID: `MCxkYTNjZWRkNzEwNjM3YzJkZWZkNTFlMjhiZWFkNjE0MTYxZjdmMmU1`

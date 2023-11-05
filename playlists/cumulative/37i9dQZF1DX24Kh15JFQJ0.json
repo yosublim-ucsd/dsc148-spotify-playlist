@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "The Frontmen",
+        "url": "https://open.spotify.com/album/5JZgtLCQxZsuFxLtUZzkRk"
+      },
+      "artists": [
+        {
+          "name": "The Frontmen",
+          "url": "https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Amazed (The Frontmen Edition)",
+      "url": "https://open.spotify.com/track/4EcquOdwHuLw31NMjbuYSn"
+    },
+    {
+      "album": {
         "name": "No News (2023 Version)",
         "url": "https://open.spotify.com/album/1TA5XToA2y7gWRVjXZyiHr"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 240000,
       "name": "Amazed - The Frontmen Edition",
       "url": "https://open.spotify.com/track/22gWPIZabvlWJz6ZTQUYA1"
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 209440,
       "name": "Going Out Like This",
       "url": "https://open.spotify.com/track/1HyY2kBqyd7uHtX0oitoJ0"
@@ -1650,6 +1668,24 @@
       "duration_ms": 209440,
       "name": "Going Out Like This",
       "url": "https://open.spotify.com/track/2La9vfJPqpxxKgOxCqlJT3"
+    },
+    {
+      "album": {
+        "name": "God, Family, Country (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rE2C8x89VQpLnSyxHdRWv"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209440,
+      "name": "Going Out Like This",
+      "url": "https://open.spotify.com/track/7BwU032VTOQawedyw4Ohtq"
     },
     {
       "album": {
@@ -2584,6 +2620,24 @@
     {
       "album": {
         "name": "The Frontmen",
+        "url": "https://open.spotify.com/album/5JZgtLCQxZsuFxLtUZzkRk"
+      },
+      "artists": [
+        {
+          "name": "The Frontmen",
+          "url": "https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235053,
+      "name": "Left Their Mark",
+      "url": "https://open.spotify.com/track/1ivKjWTRL02kRtBwbjMLCz"
+    },
+    {
+      "album": {
+        "name": "The Frontmen",
         "url": "https://open.spotify.com/album/6gx1ygsB7Y8RD30o6QItqg"
       },
       "artists": [
@@ -2594,7 +2648,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 235053,
       "name": "Left Their Mark",
       "url": "https://open.spotify.com/track/3gKV0u3ypKPmA7dic5QbGd"

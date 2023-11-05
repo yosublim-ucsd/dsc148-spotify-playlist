@@ -578,10 +578,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 250613,
       "name": "Les mots bleus",
       "url": "https://open.spotify.com/track/2Desf0YgquK9YrSkRhkvDN"
+    },
+    {
+      "album": {
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250613,
+      "name": "Les mots bleus",
+      "url": "https://open.spotify.com/track/2g0iE5qCFBlT86XalEsfKf"
     },
     {
       "album": {
@@ -900,10 +918,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 259004,
       "name": "Tu t'en vas",
       "url": "https://open.spotify.com/track/4qmHz0JNrX0mBRa7Ot3T9c"
+    },
+    {
+      "album": {
+        "name": "Tu t'en vas",
+        "url": "https://open.spotify.com/album/1JysxzqN2hvhtLYcKRBSQq"
+      },
+      "artists": [
+        {
+          "name": "Alain Barri\u00e8re",
+          "url": "https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW"
+        },
+        {
+          "name": "No\u00eblle Cordier",
+          "url": "https://open.spotify.com/artist/4pBZhT1tFg5gdcK6igN5dJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259004,
+      "name": "Tu t'en vas",
+      "url": "https://open.spotify.com/track/5gNcpw9i4tRgR5s6kB0eAt"
     },
     {
       "album": {

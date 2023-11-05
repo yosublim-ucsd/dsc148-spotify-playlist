@@ -240,7 +240,7 @@
     {
       "album": {
         "name": "Danzer",
-        "url": "https://open.spotify.com/album/66K0LjIpY1roIJ80vRaAs2"
+        "url": "https://open.spotify.com/album/6gG5oOL3hHJzpP8vHIrdG1"
       },
       "artists": [
         {
@@ -251,6 +251,24 @@
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 365714,
+      "name": "Danzer",
+      "url": "https://open.spotify.com/track/3qxwMr3Xhc56VAHLFyk7vc"
+    },
+    {
+      "album": {
+        "name": "Danzer",
+        "url": "https://open.spotify.com/album/66K0LjIpY1roIJ80vRaAs2"
+      },
+      "artists": [
+        {
+          "name": "Darius Syrossian",
+          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 365714,
       "name": "Danzer - Original Mix",
       "url": "https://open.spotify.com/track/6HMquJvZpWxqusRawlo6jk"
@@ -1514,10 +1532,28 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 436256,
       "name": "Wait A Minute",
       "url": "https://open.spotify.com/track/58lHbCIW98BIAF6ZZ08nHA"
+    },
+    {
+      "album": {
+        "name": "Stay out All Night",
+        "url": "https://open.spotify.com/album/40RFzjpOI2YTUSX1XUGC2X"
+      },
+      "artists": [
+        {
+          "name": "Radio Slave",
+          "url": "https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436256,
+      "name": "Wait A Minute",
+      "url": "https://open.spotify.com/track/7iK8BZtCKTg892pc2JNSB3"
     },
     {
       "album": {

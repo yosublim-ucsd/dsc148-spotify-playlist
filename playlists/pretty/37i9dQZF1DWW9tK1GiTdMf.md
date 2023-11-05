@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Green Day in cover 🩸 Punk rock, emo e pop punk 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,965 likes - 86 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,994 likes - 86 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 45 | [Sex Pistols](https://open.spotify.com/track/47jzbaq1cxQTjdOcGjXbEA) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [Sex Pistols](https://open.spotify.com/album/2fBwG4OHm8OTfcvx0fiV6j) | 3:01 |
 | 46 | [MK ULTRA](https://open.spotify.com/track/30e9jkqHO5hyoctpZeJom3) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [MK ULTRA](https://open.spotify.com/album/6QeQUmYtzMAIswiSdGUrV9) | 2:18 |
 | 47 | [DIE YOUNG](https://open.spotify.com/track/2kvQMZIrlD0buXHvYVIXwl) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [Bedini](https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP) | [DIE YOUNG](https://open.spotify.com/album/6LpZxZD4fwq1MzQrTKzWN0) | 2:19 |
-| 48 | [occhiali](https://open.spotify.com/track/11KKERJounzfktvpniYWmD) | [kimori](https://open.spotify.com/artist/1Ry25dXtTBXrHleJl71Ikn), [Polvere](https://open.spotify.com/artist/3NKj5gr7FA8TAdXgH6ZS3Z) | [occhiali](https://open.spotify.com/album/4bzhdsaL1v7sPECZmiuBsz) | 2:19 |
+| 48 | [occhiali](https://open.spotify.com/track/11KKERJounzfktvpniYWmD) | [kimori](https://open.spotify.com/artist/1Ry25dXtTBXrHleJl71Ikn), [Polvere](https://open.spotify.com/artist/3HOEaYO2o1Na9RpkAn5bLN) | [occhiali](https://open.spotify.com/album/4bzhdsaL1v7sPECZmiuBsz) | 2:19 |
 | 49 | [Mani sul viso](https://open.spotify.com/track/6qXxGLUOO6t6vDzZUlNUGn) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Mani sul viso](https://open.spotify.com/album/3buEmqsvR1edDE1Wx3XwKp) | 2:25 |
 | 50 | [Mare Di Lacrime](https://open.spotify.com/track/35Jwhu5uWV0ekuzxDKCdpU) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Mare Di Lacrime](https://open.spotify.com/album/2hvhmg29psyxonU4ZogcnD) | 3:05 |
 | 51 | [LEI](https://open.spotify.com/track/6P1k9dyqSlRunYVjfXpFTT) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb) | [LEI](https://open.spotify.com/album/2TeZPRV4238oHBxMf8sU21) | 2:22 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 75 | [claudia!!](https://open.spotify.com/track/0I0hkEQpPptFMlRp8qIcvM) | [Itto](https://open.spotify.com/artist/2LJFeWUIvW4OF583ZiqIRh) | [claudia!!](https://open.spotify.com/album/5mafZgfnBGyJI6cSqEOIxY) | 2:39 |
 | 76 | [Muori!](https://open.spotify.com/track/6U1FZKN8kPWJNLnGqAWX4d) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [Muori!](https://open.spotify.com/album/2h2JocXmw1JjBM52U1sHL9) | 2:32 |
 | 77 | [Dammene ancora un po'](https://open.spotify.com/track/7Idwen98apdGsJh7B4vSTA) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT), [cino](https://open.spotify.com/artist/78BNTkfK1PBUMe9EfJKKGX) | [Dammene ancora un po'](https://open.spotify.com/album/6S7CreBwrPpnS6JZBc0S15) | 2:17 |
-| 78 | [fango](https://open.spotify.com/track/3APQiPVdWB5vf93osBexcJ) | [dolcedormire](https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP) | [fango](https://open.spotify.com/album/4aEbCWc3Qn5Kt4ufclPloh) | 2:40 |
+| 78 | [fango](https://open.spotify.com/track/3EzrI1ETE0U5XnU7J9utnU) | [dolcedormire](https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP) | [fango](https://open.spotify.com/album/1qEimeBm5etPBheuPeEQNr) | 2:40 |
 | 79 | [superficiale](https://open.spotify.com/track/4QxxIqzqXWQ1nvsK6iJBNV) | [mich<3](https://open.spotify.com/artist/60TrKa4pL7M9VGcFqa1n9F) | [superficiale](https://open.spotify.com/album/4SjOQkU222XKjmZlOzEPk9) | 2:40 |
 | 80 | [Camelot](https://open.spotify.com/track/5d7x7HeFJ9BksuEwhskqbi) | [Marco444](https://open.spotify.com/artist/5wOm0bGomUCwtrXipTu0KQ) | [Camelot](https://open.spotify.com/album/5rG7vUV0uA0fan4uA6Clua) | 3:05 |
 | 81 | [GIORNI](https://open.spotify.com/track/1M2Me9b51HDBQEZmh5YuKP) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT), [tobehonest](https://open.spotify.com/artist/2ufSXCAobEyscTZllwpEzV), [pippx](https://open.spotify.com/artist/78N7nP5wUagUYUax3I5Ldv) | [GIORNI](https://open.spotify.com/album/4F81BH0tY3rOOnRzrjz5I5) | 2:28 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 85 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
 | 86 | [Pillole](https://open.spotify.com/track/7gBO9lts9MZomcwuZnIXTy) | [TVB](https://open.spotify.com/artist/05LOeuVeelln8qMq6s1Cz5) | [Pillole](https://open.spotify.com/album/2LFoEjRvmHKzcstDPLPLUi) | 2:47 |
 
-Snapshot ID: `MCw1OTM4NWM2MGFhZDE2YTczZTE4ODA4ZTEzZTQ1MGEyNDEwYjRhZjJk`
+Snapshot ID: `MCxhNjdiZTE4ZDM2ZjlhMjhkM2FhMmU1MmZlOGUwYWJhMGRlMzc3MzZj`

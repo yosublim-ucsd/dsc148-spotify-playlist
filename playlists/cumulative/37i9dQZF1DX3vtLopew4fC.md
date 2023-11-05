@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume\. Cover: Jayli Wolf
 
-1,071 songs - 2 day 8 hr 11 min
+1,072 songs - 2 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -957,7 +957,8 @@
 | [This Song Sucks](https://open.spotify.com/track/38wQBahfbFT2z5dqJnrXvu) | [Jade Turner](https://open.spotify.com/artist/2IcuWwM2AJpbLrycJUuELT) | [This Song Sucks](https://open.spotify.com/album/2FPYEnw7UgTSksQ1ccWyHA) | 2:33 | 2022-07-06 | 2022-10-06 |
 | [this town is a little less mine](https://open.spotify.com/track/4NtxiZ0LM2IWZecXKhY4MK) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [this town is a little less mine](https://open.spotify.com/album/7Gr5p3X05a1cnlX5UI8oIT) | 2:07 | 2022-10-05 | 2022-11-10 |
 | [Ticking Clock](https://open.spotify.com/track/14fODZduhUPm2b164sNf8Y) | [Hyunji\-A](https://open.spotify.com/artist/6LL2gqtRfPs9VFk8yWc3W6) | [Ticking Clock](https://open.spotify.com/album/5TyVbXXFXmA2icxXPzUDMQ) | 8:00 | 2023-01-04 | 2023-02-02 |
-| [Tim + Faith](https://open.spotify.com/track/1sFe3bncgvZROAQsebpKaA) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Tim + Faith](https://open.spotify.com/album/3ln8DFI7SEUD5kJPddGEsc) | 3:50 | 2023-10-04 |  |
+| [Tim + Faith](https://open.spotify.com/track/0gPsHNuKK5lsWpCqWwvxRX) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Tim + Faith](https://open.spotify.com/album/2ImzdPjUj4Ejjr1Qj5VZhv) | 3:50 | 2023-10-04 |  |
+| [Tim + Faith](https://open.spotify.com/track/1sFe3bncgvZROAQsebpKaA) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Tim + Faith](https://open.spotify.com/album/3ln8DFI7SEUD5kJPddGEsc) | 3:50 | 2023-10-04 | 2023-11-05 |
 | [Time](https://open.spotify.com/track/5532nyuvgtokwp4EBVs9Eq) | [Gaby Harvey](https://open.spotify.com/artist/2viTeSP7GAq0XGW6q8n0nt) | [Time](https://open.spotify.com/album/7fnieJvggdTT5l7gpBjWkY) | 2:22 | 2021-12-08 | 2022-01-06 |
 | [Time After Time \- Spotify Singles](https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Time After Time \(Spotify Singles\)](https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop) | 3:39 | 2023-07-05 | 2023-08-10 |
 | [TIMEZONE](https://open.spotify.com/track/71N11HZCLEolNgAxvcj2cb) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [TIMEZONE](https://open.spotify.com/album/3t3Z3avQW3hVQbOw5aSj4R) | 3:08 | 2023-05-03 | 2023-06-08 |

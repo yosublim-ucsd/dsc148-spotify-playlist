@@ -4,7 +4,7 @@
 
 > Spiritbox on top of the biggest Metal playlist.
 
-546 songs - 1 day 12 hr 41 min
+548 songs - 1 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2rCtd6DcWfIJIy7AFSlrdt) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/30vZNuVyzbDmTBt1ftIFcE) | 3:38 | 2023-03-03 | 2023-07-29 |
 | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/album/7hMm40HVdj5nViNO7PruJf) | 5:01 | 2022-03-24 | 2022-06-24 |
 | [Father](https://open.spotify.com/track/6pPCkAzVYapjObH73BWu9t) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Weapons Of The Modern Age](https://open.spotify.com/album/53VtJpStdfdFG2MSJRgZgC) | 4:38 | 2022-10-14 | 2022-12-17 |
-| [Fedrekult](https://open.spotify.com/track/6USwgMF3VBSKMe14P0TJb4) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Endling](https://open.spotify.com/album/5LlLDIoYFzmH7CLK8jI2YA) | 3:51 | 2023-09-22 |  |
+| [Fedrekult](https://open.spotify.com/track/1DgiDbmQoKBd0Zddm7PSgw) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Endling](https://open.spotify.com/album/6Y5phc55G93rszSCghQace) | 3:51 | 2023-11-03 |  |
+| [Fedrekult](https://open.spotify.com/track/6USwgMF3VBSKMe14P0TJb4) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Endling](https://open.spotify.com/album/5LlLDIoYFzmH7CLK8jI2YA) | 3:51 | 2023-09-22 | 2023-11-05 |
 | [Feel What I Believe](https://open.spotify.com/track/1a1c2RbKhs6ozVLdrlWXJQ) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Feel What I Believe](https://open.spotify.com/album/5iEKR8ZWRqcVXlQ5qgLWHr) | 4:00 | 2022-01-21 | 2022-04-15 |
 | [Fence](https://open.spotify.com/track/6gQmCGUYq9Xql5rlShqUXj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Fence](https://open.spotify.com/album/7kTY68ysd8P6LOZe3TybbD) | 3:37 | 2023-04-14 | 2023-09-23 |
 | [Fight Fire With Gasoline](https://open.spotify.com/track/78frUxVotRtpMrNMcyYtns) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Fight Fire With Gasoline](https://open.spotify.com/album/4IXfMV0iTA3p0cjPQavnAY) | 3:48 | 2022-12-02 | 2023-08-19 |
@@ -274,7 +275,8 @@
 | [Lost In The Fall](https://open.spotify.com/track/2I0XplFdMIGiEJJYfPTwZ9) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Symptoms of Survival](https://open.spotify.com/album/5BO87WU4XaRXEU2Uxrg2le) | 4:04 | 2023-11-03 |  |
 | [Loveletting \- 7" Cut](https://open.spotify.com/track/0bJPjlcegkXGSnijanvwVD) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Loveletting \(7" Cut\)](https://open.spotify.com/album/2zhssj1XVMVEpStvHov6sU) | 3:55 | 2022-04-08 | 2022-05-27 |
 | [Lowborn](https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL) | 4:25 | 2021-12-20 | 2022-01-21 |
-| [Lowest In Me](https://open.spotify.com/track/1cdCfqSwdXM0BQEDy5Fc7M) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Lowest In Me](https://open.spotify.com/album/1ns3CtSmx6z1p7pNIUbNxv) | 3:07 | 2023-04-21 |  |
+| [Lowest In Me](https://open.spotify.com/track/1cdCfqSwdXM0BQEDy5Fc7M) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Lowest In Me](https://open.spotify.com/album/1ns3CtSmx6z1p7pNIUbNxv) | 3:07 | 2023-04-21 | 2023-11-05 |
+| [Lowest In Me](https://open.spotify.com/track/1jzXxq516d0bM1E7ThLAiR) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6) | 3:07 | 2023-11-03 |  |
 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-11-28 | 2023-04-01 |
 | [Make Believe](https://open.spotify.com/track/3aF7RDw2A7hnRn2lWOrIky) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Remade In Misery](https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1) | 3:49 | 2022-09-23 | 2023-04-29 |
 | [Make Believe](https://open.spotify.com/track/5NLi9YVXt9pMAXS068FY9o) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Make Believe](https://open.spotify.com/album/1GJWSnfxaODYIrS6uoqiB6) | 3:49 | 2022-02-24 | 2022-04-01 |

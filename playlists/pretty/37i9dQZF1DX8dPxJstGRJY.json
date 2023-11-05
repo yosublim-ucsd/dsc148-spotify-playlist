@@ -1,12 +1,12 @@
 {
   "description": "Pop classics and show tunes, sung by legendary classical voices. Cover: Andrea Bocelli",
-  "num_followers": 256458,
+  "num_followers": 256674,
   "original_name": "Classical Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDcxMWQxOGRiOWU3MTMyNmU1ZTMzZmI5YjI0MjQ2MTUwMzZkZDBj",
+  "snapshot_id": "MCw2NTBjYmMwNWRmMjA5ZmM5YTZlZjk3NTZjNmViMzQ1Mzk1OTI1NWNl",
   "tracks": [
     {
       "added_at": "2023-06-30 10:39:50",
@@ -872,12 +872,16 @@
       "added_at": "2023-06-30 10:39:50",
       "album": {
         "name": "In Harmony",
-        "url": "https://open.spotify.com/album/2QjdcIMXEny95djxh7lEN8"
+        "url": "https://open.spotify.com/album/1ZG1NaOLmvDamnEhevAJkz"
       },
       "artists": [
         {
           "name": "Domenico Modugno",
           "url": "https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI"
+        },
+        {
+          "name": "Franz Xaver Gruber",
+          "url": "https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y"
         },
         {
           "name": "Aled Jones",
@@ -894,7 +898,7 @@
       ],
       "duration_ms": 209480,
       "name": "Volare",
-      "url": "https://open.spotify.com/track/7r3YaTG6mKqouTw09iCNnZ"
+      "url": "https://open.spotify.com/track/5MzDXB17CWraVOgA0igdL6"
     },
     {
       "added_at": "2023-06-30 10:39:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,497 likes - 103 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,508 likes - 103 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 82 | [I'm Easy \- Crackazat Mana's Dub](https://open.spotify.com/track/0hvxsHq9qn5f3FgWT07Ouv) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Everybody Talks About It EP](https://open.spotify.com/album/5hS5SlMOWSD3kFx6AN4tvN) | 5:22 |
 | 83 | [Anyway You Want](https://open.spotify.com/track/6CbTrX2MUTNUdat5mJtQaV) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Habemus Paname, Vol\. 3](https://open.spotify.com/album/5jakmvZB2zi0oUMyOjUOhS) | 7:19 |
 | 84 | [Hiriza](https://open.spotify.com/track/39RCxlfSmKmGCJ5XzrfMGB) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Omar Hayat](https://open.spotify.com/artist/6CNB6WbUT0xyr4SsORJYUh) | [A Day In Essaouira](https://open.spotify.com/album/2i8W94b7HDbxCc4dD9isYA) | 6:38 |
-| 85 | [Lovefool](https://open.spotify.com/track/1UjbMmN5yti1uyZQCuhaBI) | [Juan Yarin](https://open.spotify.com/artist/0cPgP2pYS8lmkzxiJc0hO7) | [Lovefool](https://open.spotify.com/album/0DeLusvmxOjBZqBjSU15yN) | 6:57 |
+| 85 | [Lovefool](https://open.spotify.com/track/1ccSaqv3pRFBGsrjM2l1pe) | [Juan Yarin](https://open.spotify.com/artist/0cPgP2pYS8lmkzxiJc0hO7) | [Lovefool](https://open.spotify.com/album/3x42Or4zo3r7B7geCDfOXZ) | 6:57 |
 | 86 | [Wonky Bassline Disco Banger](https://open.spotify.com/track/2SMQQX11RBFBnTkkZqrDfd) | [Red Rack'Em](https://open.spotify.com/artist/5ZpsIb1MwTyfMmRH3Ma0KG) | [Wonky Bassline Disco Banger](https://open.spotify.com/album/08lPIgUE5JlKwOcKv850Ne) | 8:09 |
 | 87 | [Business Acumen \(Holy Ghost! Cover Version\)](https://open.spotify.com/track/7y4QQ1NdYzJaJbHULP2Tw2) | [In Flagranti](https://open.spotify.com/artist/7JmWc7RWsx9ga8HNet7sjx), [Holy Ghost!](https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6) | [Kitsuné: Business Acumen \(Bonus Track Version\)](https://open.spotify.com/album/2WL6R43mBzoz1mcuan3Pok) | 6:20 |
 | 88 | [walk in the park](https://open.spotify.com/track/5O3GznAgkjc07BtlE9Xq9r) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [walk in the park](https://open.spotify.com/album/3VkEwSXBTttuyUQNwICwIK) | 3:05 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 102 | [En Balaté \(rework\)](https://open.spotify.com/track/780wEKS87IvaYO3QRrpTmx) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj), [Jean\-Claude Naimro](https://open.spotify.com/artist/5NXrAZhndFutn5Kon2ZQCQ) | [En Balaté \(rework\)](https://open.spotify.com/album/0otCKYtXnC0tpVxB0Edg9P) | 6:25 |
 | 103 | [\(It Goes Like\) Nanana](https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana](https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc) | 6:07 |
 
-Snapshot ID: `MCwyMzgzNzFjNWNjODMzOTE0OGQ5NTkzOTRkZTJhY2I2ZDFjODZhZjY3`
+Snapshot ID: `MCw2YmRhNmYxN2FlMmUwZmJkMTc4ZThjY2IzN2I0NjIwMDIxZDU4Mzg5`

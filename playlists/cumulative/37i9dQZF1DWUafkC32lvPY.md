@@ -4,10 +4,11 @@
 
 > lofi beats by Latinxs.
 
-84 songs - 3 hr 22 min
+85 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [:\(](https://open.spotify.com/track/1JrsBQYxkbLbGvCyo7dgmJ) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [COMO ARRUINARTE LA VIDA](https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z) | 2:07 | 2023-11-03 |  |
 | [Abrázame mucho estos días](https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Óleo sobre tela](https://open.spotify.com/album/105WPjJen4emN55961ICvo) | 2:42 | 2023-06-26 |  |
 | [Aguancó](https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:30 | 2023-06-26 |  |
 | [Agüita de Coco](https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [El Chicahual](https://open.spotify.com/artist/6qF40Aqmb3S4s7K2OYX225) | [Agüita de Coco](https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL) | 2:16 | 2023-06-26 |  |
@@ -28,7 +29,7 @@
 | [Catá Surf](https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:55 | 2023-06-26 |  |
 | [Cavaquinho](https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Cavaquinho](https://open.spotify.com/album/3lzaTrd6xnDq33RyIETTfS) | 2:18 | 2023-06-26 |  |
 | [Cempasuchil](https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Dia de Muertos](https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V) | 2:29 | 2023-09-14 |  |
-| [Chipek](https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0), [Juan Carlos Montiel Rangel](https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 4:00 | 2023-09-14 |  |
+| [Chipek](https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0), [Juan Carlos Montiel Rangel](https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 4:00 | 2023-09-14 | 2023-11-05 |
 | [Cholomuco](https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo) | [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Día Más Largo](https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj) | 2:26 | 2023-09-14 |  |
 | [Ciudad de Papel](https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Ciudad de Papel](https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh) | 2:09 | 2023-06-26 |  |
 | [Confete e serpentina](https://open.spotify.com/track/7GloKOoI9fFgVdLyp5EDvh) | [LOFI LAND](https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv), [BOSSIFY](https://open.spotify.com/artist/7mhQk7Ki9ccyooQpecDQkR) | [Confete e serpentina](https://open.spotify.com/album/5SY6oIqvOTcjggKR4o13ZR) | 2:18 | 2023-06-26 |  |

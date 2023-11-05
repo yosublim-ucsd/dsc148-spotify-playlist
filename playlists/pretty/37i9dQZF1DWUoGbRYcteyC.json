@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 2000686,
+  "num_followers": 2000716,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODA0NWQzMWJjYWJjOTE2MGM1ODRhZGI1NjRhYTE3NWQxMWYyMTIz",
+  "snapshot_id": "MCw1YjNhMmVmYTc2YjI2NjAxZWFmZDNmZWM1OTZmMDdjNGYwY2IzY2M4",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 195970,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Si T\u00fa Me Quieres",
         "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 204454,
       "name": "Si T\u00fa Me Quieres",
       "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Mi Otra Mitad",
-        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 195970,
-      "name": "Mi Otra Mitad",
-      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 241796,
+      "name": "Mar Adentro",
+      "url": "https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "La Llave De Mi Corazon",
         "url": "https://open.spotify.com/album/5OBRA1jxjtshwdhCOGgZAG"
       },
@@ -1119,26 +1135,6 @@
       "duration_ms": 153000,
       "name": "Detr\u00e1s De Ti",
       "url": "https://open.spotify.com/track/71nmdxa5qNYzJMqASvdbXV"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Im\u00e1genes de Olga",
-        "url": "https://open.spotify.com/album/7DgSFmzSS2TEDXBV4OZMQc"
-      },
-      "artists": [
-        {
-          "name": "Fer Casillas",
-          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 266846,
-      "name": "Qu\u00e9date (feat. Juan Pablo Vega)",
-      "url": "https://open.spotify.com/track/0hXssSIHkEOKjd90YTO7xU"
     }
   ],
   "unique_name": "Amor Amor",

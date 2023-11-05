@@ -1873,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "\u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044",
+        "url": "https://open.spotify.com/album/7M3ulwJM8aT734IcjPIQkC"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235433,
+      "name": "\u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044",
+      "url": "https://open.spotify.com/track/4DF77S38RM9jX4ojH5qgl0"
+    },
+    {
+      "album": {
         "name": "\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30a8\u30ec\u30f3\u30fb\u30a4\u30a7\u30fc\u30ac\u30fc\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!",
         "url": "https://open.spotify.com/album/3c9hxI2scBzDg0HcIgzCDK"
       },

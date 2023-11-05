@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla's </a> favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,722 likes - 80 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,762 likes - 80 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 55 | [My House \(10 Years of Eats Everything Main Street Mix\)](https://open.spotify.com/track/149yUZqCPUUsOa0ruiZO4b) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i), [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [My House \(Eats Everything Remixes\)](https://open.spotify.com/album/2RXSHVAzTLVw6icNukiK5O) | 3:58 |
 | 56 | [Needin' U \(I Needed U\) \- Radio Mix](https://open.spotify.com/track/7GCdYWykXhqB91Wnnjvqhu) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [The Face](https://open.spotify.com/artist/0c3f0X32um603awrTfc3mD), [Juliet Roberts](https://open.spotify.com/artist/0oZwvxvXOK7NVV6iqExiU5) | [Needin' U II](https://open.spotify.com/album/4gAomxtsmyU0lgXYOyM9HZ) | 3:22 |
 | 57 | [Rhyme Dust \- Nic Fanciulli Remix](https://open.spotify.com/track/70v4yUr8Gv9192zZVclZiL) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Rhyme Dust \(Nic Fanciulli Remix\)](https://open.spotify.com/album/04lwFl9FZ6yIDVcSKabWFN) | 3:01 |
-| 58 | [Danzer \- Original Mix](https://open.spotify.com/track/6HMquJvZpWxqusRawlo6jk) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Danzer](https://open.spotify.com/album/66K0LjIpY1roIJ80vRaAs2) | 6:05 |
+| 58 | [Danzer](https://open.spotify.com/track/3qxwMr3Xhc56VAHLFyk7vc) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Danzer](https://open.spotify.com/album/6gG5oOL3hHJzpP8vHIrdG1) | 6:05 |
 | 59 | [Pictures](https://open.spotify.com/track/7bd3YmFqevYO3Hi03sPbuN) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Linkage](https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R) | [Pictures](https://open.spotify.com/album/4HgB0bkbUEBeByio432MQE) | 5:07 |
 | 60 | [Ancova](https://open.spotify.com/track/6spSYkfvz0jHTvNn5b9HNl) | [Mumbai Science](https://open.spotify.com/artist/7jmeOWayhjsGSvY5YNpV65) | [Live At Lowlands](https://open.spotify.com/album/3FOllYiUU9ZM284tHCMEEY) | 5:03 |
 | 61 | [Retrida](https://open.spotify.com/track/7pk9nPyG0qI90l7j3pWnya) | [Angelov](https://open.spotify.com/artist/1gfKoKe7IlVgI1rL6qG7J2) | [Cabora EP](https://open.spotify.com/album/05eBCMjfdwolF11j6orZaE) | 8:19 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 69 | [Only Man](https://open.spotify.com/track/5xg1c2BrE1Ebt9a4xR2LoC) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl), [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Only Man EP](https://open.spotify.com/album/2YnBlnJQS41Klgd146FlML) | 4:01 |
 | 70 | [Rakfunk](https://open.spotify.com/track/61wRpg6BRYtTGxWSkWtpUd) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [Evouh / Wakanpi / Rakfunk](https://open.spotify.com/album/2zalc1a1ZiKZF2Wp77mtlM) | 5:46 |
 | 71 | [No Turning Back](https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y) | [No Turning Back](https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt) | 3:10 |
-| 72 | [Wait A Minute](https://open.spotify.com/track/58lHbCIW98BIAF6ZZ08nHA) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Stay Out All Night](https://open.spotify.com/album/7AXKawVbCuZpLmUZzSZG8U) | 7:16 |
+| 72 | [Wait A Minute](https://open.spotify.com/track/7iK8BZtCKTg892pc2JNSB3) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Stay out All Night](https://open.spotify.com/album/40RFzjpOI2YTUSX1XUGC2X) | 7:16 |
 | 73 | [The Boy Is Mine](https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD), [Rosalie](https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7) | [The Boy Is Mine](https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc) | 3:21 |
 | 74 | [Cinemax](https://open.spotify.com/track/6RE12RU7kRcPRd7yOLEDhl) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Cinemax](https://open.spotify.com/album/63fkltU4MUZlcKp4R3SOpi) | 8:16 |
 | 75 | [Miracle Maker \- Ejeca Remix](https://open.spotify.com/track/7MDcf3pSWj1calkNnnMynn) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Miracle Maker \(Ejeca Remix\)](https://open.spotify.com/album/4AKIq1NLqe9koZeYk6Eu2m) | 3:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 79 | [We Could Be Love](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [We Could Be Love](https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z) | 3:09 |
 | 80 | [Define \- Cassian Remix](https://open.spotify.com/track/6uA724aKkiX68eVV9G3uGg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6) | [Define](https://open.spotify.com/album/60Ebp6R5FhD9oZvnc8YaZ9) | 5:33 |
 
-Snapshot ID: `MCxhZGE5OTEzOTM4ZmE2N2ZjOTk0Zjg5Nzg1ZjNhNjFiNWZhZTZlYjVk`
+Snapshot ID: `MCw1YjQyODA3MzA0MGU4NjNkZTQzZmYwMDEyMGRhMTViZGUyMjU0NDNi`

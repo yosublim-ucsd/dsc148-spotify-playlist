@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Green Day
 
-1,414 songs - 2 day 22 hr 46 min
+1,416 songs - 2 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,7 +657,8 @@
 | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI) | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/album/7sRIz0hKDDtZCzVNZmneuC) | 2:20 | 2023-03-30 | 2023-06-02 |
 | [Keep Going](https://open.spotify.com/track/14YFX4TkMfBY7ibVbtTbzh) | [Atlas for Home](https://open.spotify.com/artist/37spg9xBapfjLG1oE8uv7a) | [Keep Going](https://open.spotify.com/album/4qPiGWdTX6uusv4dhTZVSK) | 3:55 | 2022-01-21 | 2022-02-25 |
 | [Keep up That Talk](https://open.spotify.com/track/6xUckCwKNfYr31rHK0VJEM) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [Prince Daddy & The Hyena](https://open.spotify.com/album/4Os6Tb2ris9W7QgWSHEUye) | 2:58 | 2022-04-14 | 2022-05-27 |
-| [Keep Your Mouth Shut](https://open.spotify.com/track/6MQQhRfedFeOUydGYXurNj) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Keep Your Mouth Shut](https://open.spotify.com/album/2uf3cAx0kR27d4rZzDoIJ3) | 1:45 | 2023-03-24 |  |
+| [Keep Your Mouth Shut](https://open.spotify.com/track/6MQQhRfedFeOUydGYXurNj) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Keep Your Mouth Shut](https://open.spotify.com/album/2uf3cAx0kR27d4rZzDoIJ3) | 1:45 | 2023-03-24 | 2023-11-05 |
+| [Keep Your Mouth Shut](https://open.spotify.com/track/7IjCXwvjO5HgWOM111qSZP) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [FLSD EP](https://open.spotify.com/album/1udEgBYJTIL1hkVDeqWksH) | 1:45 | 2023-10-26 |  |
 | [Kick \- Etc Version](https://open.spotify.com/track/4RmheYqisYKjltli71RBWA) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Kick \(Etc Version\)](https://open.spotify.com/album/4qhxaVP9mZWvcrSLHMzzru) | 4:52 | 2022-04-07 | 2022-05-06 |
 | [Kicking Soles](https://open.spotify.com/track/2urkZbZWKYQ2gLMuGPOLqo) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Brass for Gold](https://open.spotify.com/album/5JGOnZNGITakM9gDfqLgBh) | 2:23 | 2022-02-11 | 2022-03-25 |
 | [Kid Bruises](https://open.spotify.com/track/4wiGs6E59rKMCwVsSDyJoH) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [Kid Bruises](https://open.spotify.com/album/5TWGm6Lw38ZNAEcarAq21O) | 3:19 | 2022-09-29 | 2022-11-18 |
@@ -677,7 +678,8 @@
 | [Lads Lads Lads](https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Lads Lads Lads](https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o) | 3:11 | 2023-04-20 | 2023-06-23 |
 | [Lake Speed](https://open.spotify.com/track/0ZK1Ii5fhYlwPhS2uIj3bz) | [Samiam](https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo) | [Stowaway](https://open.spotify.com/album/5EZd3zQ30PFR9Xtbcbp0EU) | 2:46 | 2023-03-30 | 2023-05-26 |
 | [Landline](https://open.spotify.com/track/4AmS8DAwNRgq8ysOGSOIL7) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Cheap Grills](https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz) | 2:59 | 2023-09-22 |  |
-| [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-09-28 |  |
+| [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-09-28 | 2023-11-05 |
+| [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-10-26 |  |
 | [Late Bloom \(bonus track\)](https://open.spotify.com/track/4dEjfHLUW3ZbiXmNFQiVUv) | [Sudden Waves](https://open.spotify.com/artist/3fA5EcbKHHdkbXE9VEHAsY) | [COURTSIDE // SHOWDOWN](https://open.spotify.com/album/4Bpx3LoeF1XyZlypMS3q8o) | 3:18 | 2022-12-02 | 2023-03-10 |
 | [Lately](https://open.spotify.com/track/5OE25ggoxJ6ydrSN4Op2Ag) | [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq), [Todd Barriage](https://open.spotify.com/artist/5JvB18ikUg21Uv5MrUBagY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Lately](https://open.spotify.com/album/3CwpPyVy8P6UjE4s81I3cm) | 3:01 | 2023-03-30 | 2023-05-26 |
 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP) | 3:04 | 2022-07-28 | 2022-09-16 |

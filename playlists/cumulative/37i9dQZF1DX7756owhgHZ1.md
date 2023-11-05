@@ -4,7 +4,7 @@
 
 > Ya sea en la rampa o en la consola, así sonaba montar en patineta.
 
-80 songs - 4 hr 21 min
+82 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Express Yourself](https://open.spotify.com/track/52IuMfbQa9aqRPz2oYPAI8) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 4:25 | 2022-06-07 |  |
 | [Fight Like A Brave](https://open.spotify.com/track/6NeRpRTcFftvt3j1vF4Pcw) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Uplift Mofo Party Plan](https://open.spotify.com/album/3rHJQrfEcBeSaLPuLwKR6F) | 3:53 | 2022-06-07 |  |
 | [Five Lessons Learned](https://open.spotify.com/track/23RuCuUzVU8KMJOjJqH424) | [Swingin' Utters](https://open.spotify.com/artist/6zXHaJc2ZqAmSyxT606ccM) | [Five Lessons Learned](https://open.spotify.com/album/0fpJZ5vCKAfd2caUuFEit6) | 1:55 | 2022-06-07 |  |
-| [Freightliner](https://open.spotify.com/track/6U9xkvV0dLXN598VuSYCyt) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Fuel For The Hate Game \(Expanded Edition\)](https://open.spotify.com/album/2dFIDimd1AX5wuRrjbBahp) | 3:17 | 2022-06-07 |  |
+| [Freightliner](https://open.spotify.com/track/3RQLI2IYRCkHhyW2WuRQlm) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Fuel For The Hate Game \(Expanded Edition\)](https://open.spotify.com/album/55UdgPxYdlMRyzD1pGOFmG) | 3:17 | 2022-06-07 |  |
+| [Freightliner](https://open.spotify.com/track/6U9xkvV0dLXN598VuSYCyt) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Fuel For The Hate Game \(Expanded Edition\)](https://open.spotify.com/album/2dFIDimd1AX5wuRrjbBahp) | 3:17 | 2022-06-07 | 2023-11-05 |
 | [Giant](https://open.spotify.com/track/32inVNSf3i5F30rjEvwU4b) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Charged](https://open.spotify.com/album/2G3OcVw6DwFwl8PyoRC7tA) | 3:55 | 2022-06-07 |  |
 | [Guerilla Radio](https://open.spotify.com/track/1uWXRX62AWuII2FmsaPf2d) | [Rage Against Power Machines](https://open.spotify.com/artist/0aEEZHFJ56C1G2IDQbtdVC) | [Parade of the Bulls](https://open.spotify.com/album/31nxeiBBiXSAK3lvXn11a4) | 3:20 | 2022-06-07 |  |
 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 | 2022-06-07 |  |
@@ -80,7 +81,8 @@
 | [Subculture \- Dieselboy + Kaos VIP](https://open.spotify.com/track/7rWZVdKcbIJ0MHWNou7h7Y) | [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX), [Dieselboy + Kaos](https://open.spotify.com/artist/5rUbUsiHSY0ZLZ9CRNpb5V) | [Subculture](https://open.spotify.com/album/4v5LKF5xITSZ6rjKnV1c84) | 7:09 | 2022-06-07 |  |
 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 | 2022-06-07 |  |
 | [The Boy Who Destroyed The World](https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:05 | 2022-06-07 |  |
-| [The Number of the Beast \- 1998 Remaster](https://open.spotify.com/track/7z9UU7eamD9OQvGhOJ4R4l) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere Back in Time \(The Best of 1980 \- 1989\)](https://open.spotify.com/album/2BfXz1uwKCFaD5TddCWITq) | 4:50 | 2022-06-07 |  |
+| [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/track/0EG9tDhr5rd931Ebj213nO) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/1GmhZDrn15PUncSANUoteo) | 4:50 | 2022-06-07 |  |
+| [The Number of the Beast \- 1998 Remaster](https://open.spotify.com/track/7z9UU7eamD9OQvGhOJ4R4l) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere Back in Time \(The Best of 1980 \- 1989\)](https://open.spotify.com/album/2BfXz1uwKCFaD5TddCWITq) | 4:50 | 2022-06-07 | 2023-11-05 |
 | [The Number of the Beast \- 2015 Remaster](https://open.spotify.com/track/139RwLyp7r8F9ojvhGF5lC) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 \- Remaster\)](https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy) | 4:50 | 2022-06-07 | 2023-11-03 |
 | [West Coast](https://open.spotify.com/track/41hKOXSa1WMSpdQgsgK0fc) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too](https://open.spotify.com/album/0qI8J5xjJcdBG52FASB3RC) | 3:22 | 2022-06-07 |  |
 | [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 2:57 | 2022-06-07 |  |

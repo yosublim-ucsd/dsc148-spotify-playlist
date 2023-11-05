@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,209 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,231 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 18 | [Get Your Back Into It](https://open.spotify.com/track/6c2cTUj9tG273blULygzpg) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Get Your Back Into It!](https://open.spotify.com/album/4M7Rt8MwypcTSVhG56zYB2) | 4:04 |
 | 19 | [Animal In Me](https://open.spotify.com/track/0FIeSr04FRgHFAQsDDlaqo) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Animal In Me](https://open.spotify.com/album/7DGUiEkagecwFnpucvxKAj) | 2:54 |
 | 20 | [Work Until My Days Are Done](https://open.spotify.com/track/2xMgZIxBuHiD7VLVFZVnsH) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Work Until My Days Are Done](https://open.spotify.com/album/2Yd9AicKdULZkAOZzGF8Gx) | 3:31 |
-| 21 | [Love Is All](https://open.spotify.com/track/1VdINjKve1zyYptgIWLdJd) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Love Is All](https://open.spotify.com/album/2TtprEnpsHFvtHa6pmdhCj) | 3:40 |
+| 21 | [Love Is All](https://open.spotify.com/track/3p0vfHAh2O2Rws5xPQJQho) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [The Fatalist](https://open.spotify.com/album/33ihKi0yijzptTHMNHXTNB) | 3:40 |
 | 22 | [Undertow](https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 3:22 |
 | 23 | [Unhinged](https://open.spotify.com/track/41N74tDfqzG242pQe16lSE) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [Unhinged](https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR) | 3:23 |
 | 24 | [Don't Get Me Started](https://open.spotify.com/track/6iji2KRmhPBorFa54KBLBa) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [LaVette!](https://open.spotify.com/album/4He1qQkf7kFRGD6n3Mwb11) | 5:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Always Free](https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 2:57 |
 | 100 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 |
 
-Snapshot ID: `MCw4YmRiY2Q1YzRhMGRhYzZhMzFjMWQ0ODgyYjY4ZWZlZDVkMGY4ZGZm`
+Snapshot ID: `MCw4MDUyZmQ5NmFmMDgwOWUzZTc5NWU4ZjM0YzdjMTNhNzllZTUwZjU1`

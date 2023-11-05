@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como El \u00daltimo de la Fila.",
-  "num_followers": 568318,
+  "num_followers": 568405,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTk4ZDE1NjlkYjNjZGI4ZWQyMmNkMDFiMzBkMTQ1MzYyNmQzODRl",
+  "snapshot_id": "MCw3MmQ4ZDQ0MGIxOGE3MTE2NmIyYzRhMzg1NTc3NTcxNmI5ZjdkYjli",
   "tracks": [
     {
       "added_at": "2023-11-02 22:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "Devil Came to Me",
-        "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
-      },
-      "artists": [
-        {
-          "name": "Dover",
-          "url": "https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Serenade",
-      "url": "https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
         "name": "Coces al Aire 1997-2007",
         "url": "https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 337666,
       "name": "Corazon de mimbre",
       "url": "https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
+        "name": "Devil Came to Me",
+        "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
+      },
+      "artists": [
+        {
+          "name": "Dover",
+          "url": "https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
+        "name": "Devil Came to Me",
+        "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
+      },
+      "artists": [
+        {
+          "name": "Dover",
+          "url": "https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW"
+        }
+      ],
+      "duration_ms": 276360,
+      "name": "Devil Came to Me",
+      "url": "https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "Devil Came to Me",
-        "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
-      },
-      "artists": [
-        {
-          "name": "Dover",
-          "url": "https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW"
-        }
-      ],
-      "duration_ms": 276360,
-      "name": "Devil Came to Me",
-      "url": "https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1315,38 +1315,6 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "Bailar\u00e9 sobre tu tumba",
-        "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
-      },
-      "artists": [
-        {
-          "name": "Siniestro Total",
-          "url": "https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Bailar\u00e9 sobre tu tumba",
-      "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
-        "name": "Veo Veo Mamoneo",
-        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
-      },
-      "artists": [
-        {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "Masculino singular",
-      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
         "name": "Vispera De Todos Los Santos",
         "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
       },
@@ -1359,6 +1327,22 @@
       "duration_ms": 294200,
       "name": "Palabras Para Julia",
       "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
+        "name": "Bailar\u00e9 sobre tu tumba",
+        "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
+      },
+      "artists": [
+        {
+          "name": "Siniestro Total",
+          "url": "https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Bailar\u00e9 sobre tu tumba",
+      "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
+        "name": "Veo Veo Mamoneo",
+        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
+      },
+      "artists": [
+        {
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+        }
+      ],
+      "duration_ms": 243040,
+      "name": "Masculino singular",
+      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
         "name": "Saca La Lengua",
         "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "Mediterr\u00e1naeo",
-        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes",
-          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
         "name": "Vamos Tirando",
         "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 188106,
       "name": "Tras la barra",
       "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "Confeti",
-        "url": "https://open.spotify.com/album/0M1kKYU2MLoxfXuer09fC7"
-      },
-      "artists": [
-        {
-          "name": "Rulo y la contrabanda",
-          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
-        }
-      ],
-      "duration_ms": 236597,
-      "name": "Confeti",
-      "url": "https://open.spotify.com/track/4jixeUK1hku6aaOlVBvB80"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
         "name": "Calle Melancol\u00eda",
         "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 380973,
       "name": "Calle Melancol\u00eda",
       "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
+        "name": "Confeti",
+        "url": "https://open.spotify.com/album/0M1kKYU2MLoxfXuer09fC7"
+      },
+      "artists": [
+        {
+          "name": "Rulo y la contrabanda",
+          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
+        }
+      ],
+      "duration_ms": 236597,
+      "name": "Confeti",
+      "url": "https://open.spotify.com/track/4jixeUK1hku6aaOlVBvB80"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-11-02 22:00:00",
       "album": {
-        "name": "Un Encuentro",
-        "url": "https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL"
-      },
-      "artists": [
-        {
-          "name": "Triana",
-          "url": "https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Tu frialdad",
-      "url": "https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
         "name": "Destrozares, Canciones para el Final de los Tiempos",
         "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
       },
@@ -1691,6 +1675,42 @@
       "duration_ms": 240760,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
+        "name": "Un Encuentro",
+        "url": "https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL"
+      },
+      "artists": [
+        {
+          "name": "Triana",
+          "url": "https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Tu frialdad",
+      "url": "https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok"
+    },
+    {
+      "added_at": "2023-11-02 22:00:00",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 209471,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX"
     },
     {
       "added_at": "2023-11-02 22:00:00",
@@ -1735,26 +1755,6 @@
       "duration_ms": 249791,
       "name": "Fr\u00edo (con Fito y Fitipaldis, Tarque y Rosendo)",
       "url": "https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57"
-    },
-    {
-      "added_at": "2023-11-02 22:00:00",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        },
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 209471,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

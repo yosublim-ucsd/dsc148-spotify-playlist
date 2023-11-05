@@ -11846,7 +11846,7 @@
     {
       "album": {
         "name": "Sample The Sky",
-        "url": "https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc"
+        "url": "https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB"
       },
       "artists": [
         {
@@ -11857,6 +11857,24 @@
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 247102,
+      "name": "Light Years",
+      "url": "https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB"
+    },
+    {
+      "album": {
+        "name": "Sample The Sky",
+        "url": "https://open.spotify.com/album/5GDOeUL17GyrbfIe8J9Hyc"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 247102,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/4M3TB3K2uietahnWZuzIZF"
@@ -13688,10 +13706,28 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 402665,
       "name": "Morning Of The Carnival",
       "url": "https://open.spotify.com/track/0Ap3NnGPsi3q9bmZBeOtHP"
+    },
+    {
+      "album": {
+        "name": "Dream Box",
+        "url": "https://open.spotify.com/album/65WGqUztAtgLA6KLy9rcwJ"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402665,
+      "name": "Morning Of The Carnival",
+      "url": "https://open.spotify.com/track/3MoLzbreunW3f0AfXUH8ki"
     },
     {
       "album": {

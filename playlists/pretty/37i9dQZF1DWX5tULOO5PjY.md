@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 
 > 80s electronic boogie and post\-disco
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,631 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,676 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 | 12 | [Baby Don't Hold Your Love Back \- Extended Vocal Version](https://open.spotify.com/track/36tcCFdhyj1aOULns4NpBH) | [Bridge](https://open.spotify.com/artist/4PpzoPLf3OsCHtcmp2nWgD) | [Baby Don't Hold Your Love Back](https://open.spotify.com/album/1qTTdLJQbGKmkSCAjO5Rep) | 5:44 |
 | 13 | [Love's Gonna Get You](https://open.spotify.com/track/1MtCxt2N2aQCmhEBczUOzQ) | [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [One From The Heart](https://open.spotify.com/album/7GRmkQvpjMOQU6zxD8Y1CC) | 5:43 |
 | 14 | [I Get Romantic](https://open.spotify.com/track/2LnUATPwigrQXgWvHXPV7g) | [Booker Newberry III](https://open.spotify.com/artist/1yv6dwyahiw7s50m4a6jW5) | [Love Town](https://open.spotify.com/album/2CrCvt3eBGttBl29wQ15nf) | 5:26 |
-| 15 | [Don't Make Me Wait \- MAW Main; 2016 \- Remaster](https://open.spotify.com/track/6cAHBfBDjtfNUAaQrr0SFf) | [NYC Peech Boys](https://open.spotify.com/artist/2094kAHzwGQeymAVX6sn5o), [MAW](https://open.spotify.com/artist/4LTmJHBiDkALajpxZkN7fd) | [West End Meets Salsoul](https://open.spotify.com/album/6T6wNCSo78NpsPSQDYjEc1) | 8:22 |
+| 15 | [Don't Make Me Wait \(MAW Main\) \( 2016 \- Remaster\)](https://open.spotify.com/track/7mXVDv3vFhJzfFaMT2AAay) | [NYC Peech Boys](https://open.spotify.com/artist/2094kAHzwGQeymAVX6sn5o), [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1) | [West End Meets Salsoul](https://open.spotify.com/album/1fNUUAE5WZyiVOyjHHjEBg) | 8:22 |
 | 16 | [Searching](https://open.spotify.com/track/2FBJGJQThAoynO9PxxG4gn) | [Infatuation](https://open.spotify.com/artist/129tRNtZOlMeXvWJPtxOdU) | [Searching](https://open.spotify.com/album/1le0wskpCNSf5SgQvBltO7) | 3:44 |
 | 17 | [Bad Habits](https://open.spotify.com/track/2vRjlKj1bn5wkXbGj3peBV) | [Jenny Burton](https://open.spotify.com/artist/2RSwLfG8Zw3ChFI2aOh4HO) | [Jenny Burton](https://open.spotify.com/album/6K56nbPCSXWh23IGQNN8jY) | 5:28 |
 | 18 | [A Lover's Holiday](https://open.spotify.com/track/2DeAEzzTCLxrcsO60WuCka) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [The Very Best Of Change](https://open.spotify.com/album/3pdY1TSQHCK98PHqaNYxxc) | 3:57 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 | 38 | [Prime Time](https://open.spotify.com/track/26687Np3CZqECjKXC4t9oM) | [Sylvia St\. James](https://open.spotify.com/artist/3nwXr85ukVO5QWzi8C93ie) | [Echoes And Images](https://open.spotify.com/album/3vtWgVv00F4JaKznKwtDm5) | 4:24 |
 | 39 | [I'm Ready](https://open.spotify.com/track/4ipXFsSBklGJ804zdXemVA) | [Kano](https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb) | [Kano](https://open.spotify.com/album/7IM0bm2zjWEY0vAxte6UXz) | 7:12 |
 | 40 | [Every Girl \(Wants My Guy\)](https://open.spotify.com/track/2xA9V7lbVClpuGhsU7SqIz) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right](https://open.spotify.com/album/0Pe124sDVootFFmCMhqeHO) | 6:32 |
-| 41 | [Let's Celebrate](https://open.spotify.com/track/3nf3xKlene4BpKqaCrdtwQ) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 5:33 |
+| 41 | [Let's Celebrate](https://open.spotify.com/track/3S9X1wYuzcISeZbdowhMnn) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/5YNJQp00hB4tUznV7zrAV2) | 5:33 |
 | 42 | [Snap Shot](https://open.spotify.com/track/6GXvfVC49IW9VOHdsAUUb1) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Show Time](https://open.spotify.com/album/4StsRPkqvRnZLIqE9vWXLC) | 4:42 |
 | 43 | [I'm Not Gonna Let You \- 12" Extended Version](https://open.spotify.com/track/15fNSFY3AwdwyqfpEgjPVZ) | [Colonel Abrams](https://open.spotify.com/artist/20B6eaXUEN0NOvJqdebu7L), [Timmy Regisford](https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH) | [Colonel Abrams \(Expanded Edition\)](https://open.spotify.com/album/5iCKsFEYmyNpCgLsk8xQhd) | 6:47 |
 | 44 | [Peanut Butter](https://open.spotify.com/track/3WvVrfS3DEw1N7troi252U) | [Gwen Guthrie](https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy) | [Portrait](https://open.spotify.com/album/5YO9PAJkOPXXzLyNDiGqyR) | 5:00 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 | 54 | [Touch You](https://open.spotify.com/track/6YJIRzPVrLcTtWtpCIK37X) | [Felix & Jarvis](https://open.spotify.com/artist/3HafidLXtYrYjKlLrfgKWI) | [Felix & Jarvis](https://open.spotify.com/album/7Hjr6BgmeVJxrQk5nfZZH4) | 3:45 |
 | 55 | [How Long](https://open.spotify.com/track/2xNlS3YW7yYkHMpUPlGQZK) | [Debra Laws](https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34) | [Very Special](https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4) | 4:02 |
 | 56 | [Fantastic Voyage](https://open.spotify.com/track/6lFQTBeL6VQcQ1ztAYPekp) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage \(Deluxe Edition\)](https://open.spotify.com/album/2poJa4a4YMEA9y3Bh7Xwoh) | 6:10 |
-| 57 | [High](https://open.spotify.com/track/0tQ92AMarYMFFcLnJPjBCT) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyway](https://open.spotify.com/album/6wMCS84QUyhS0v7C2gYObc) | 4:53 |
+| 57 | [High](https://open.spotify.com/track/6yLDffyb831xAuyjL0kOTI) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyway](https://open.spotify.com/album/5kNGieuXdxPw8JmWPsPnte) | 4:53 |
 | 58 | [Love's Comin' At Ya \- 2004 Digital Remaster](https://open.spotify.com/track/2JXK3ELYkEcGTE4dsO4kYq) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [Other Side Of The Rainbow](https://open.spotify.com/album/2H8dX8DEFqG96KEkzCv3Jd) | 5:43 |
 | 59 | [I Loved Every Minute of It](https://open.spotify.com/track/5OVto0axRHGWAAWOCf6cZD) | [Gayle Adams](https://open.spotify.com/artist/15BDxaGYlN3CPzUdWddake) | [Love Fever](https://open.spotify.com/album/52ZVYXSDSMUmpmlzmNKvAh) | 5:48 |
 | 60 | [He's a Freak Undercover](https://open.spotify.com/track/2WFS0puLBFzV698XkYbt3Z) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [With Love](https://open.spotify.com/album/1rj8M1ano07y53htwMsCem) | 5:19 |
 
-Snapshot ID: `MCxhYWQyZWYyZWJiYWNkNDkwYWYzN2MxMDU2MzdiNDM2NzE0MmJmMDg0`
+Snapshot ID: `MCwzMjAzNTkzYmFiZGE3ZjEwZjRlNWFlOGEyYWYyZjg3MjE5OGQ2ODI3`

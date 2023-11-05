@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-319 songs - 21 hr 49 min
+320 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [All of Me](https://open.spotify.com/track/3ts3nBCGF7K9JvSjWVQfX8) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) | 3:07 | 2022-07-14 |  |
 | [All of Me](https://open.spotify.com/track/7F8KRWIwcRjWvHK5i6ftzL) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love \(Hollywood Edition\)](https://open.spotify.com/album/2dNQDOzCubrvIWxtaYO6cU) | 3:07 | 2022-03-25 | 2022-07-29 |
 | [All Or Nothing At All](https://open.spotify.com/track/0j6BoHPikfrtJFYZdVnIT8) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [All Or Nothing At All](https://open.spotify.com/album/0Y9LX6aX9SxXZnvd1K0HAz) | 3:44 | 2022-01-20 |  |
-| [All the Way](https://open.spotify.com/track/39Ir3aJpxxoDAZApZ9FzXK) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Pieces of Treasure](https://open.spotify.com/album/1uj9iLqDY2alHSLYnTE9wY) | 2:31 | 2023-05-30 |  |
+| [All the Way](https://open.spotify.com/track/39Ir3aJpxxoDAZApZ9FzXK) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Pieces of Treasure](https://open.spotify.com/album/1uj9iLqDY2alHSLYnTE9wY) | 2:31 | 2023-05-30 | 2023-11-05 |
 | [Always on my mind](https://open.spotify.com/track/6kyUOXEadxHeG9ya0TuMIr) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [Always on my mind](https://open.spotify.com/album/5pFidxPVBBynmTakbH5LNL) | 3:31 | 2022-03-10 |  |
 | [And I Love Him](https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Travelin' Light](https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD) | 2:29 | 2022-01-20 |  |
 | [And If You Please](https://open.spotify.com/track/7065TeNvF2nMoBv6yD3CIz) | [Mario Romano](https://open.spotify.com/artist/2jFXgkiRAvxNTZQ4rQVg9b), [Jackie Richardson](https://open.spotify.com/artist/1pla8afeXCjPKlzJe6wyQA) | [Fenyrose Non Dimenticar](https://open.spotify.com/album/6Rhkna0aH4rERryCt4gSaa) | 4:31 | 2022-08-29 | 2022-11-16 |
@@ -180,6 +180,7 @@
 | [L\-O\-V\-E](https://open.spotify.com/track/70gk9Y6aKEdWiASuu59T7Q) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd) | 2:08 | 2022-01-20 | 2022-07-29 |
 | [La vie en rose \(feat\. Cécile McLorin Salvant\)](https://open.spotify.com/track/1QELw50Dl95LusF6uOkDqk) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:49 | 2022-01-20 | 2022-06-01 |
 | [Language of Love \(Version with Orchestra\)](https://open.spotify.com/track/22hByVCjdms7oeWe3SgxL8) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language of Love \(Version with Orchestra\)](https://open.spotify.com/album/4sQ9xawfO2mAMnZ25hz2o0) | 4:08 | 2022-02-11 |  |
+| [Lazy Afternoon](https://open.spotify.com/track/2eLtQAYHNzglYKH2nGaBrn) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [Lazy Afternoon](https://open.spotify.com/album/2yH09Pu2HzYcIq4hrC9vwL) | 5:03 | 2023-10-25 |  |
 | [Let's Do It](https://open.spotify.com/track/67fFApZyHZ9LjsvkUQJShY) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/1B9CLt71zBlS87qDLXqcqQ) | 3:05 | 2022-01-20 | 2022-07-29 |
 | [Let's Do It](https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:05 | 2022-07-14 |  |
 | [Let's Fall in Love](https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [That Towering Feeling](https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos) | 1:58 | 2022-01-20 | 2023-08-26 |

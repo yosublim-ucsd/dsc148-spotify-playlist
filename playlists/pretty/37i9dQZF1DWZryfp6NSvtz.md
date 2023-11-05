@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Green Day
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,932 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,152 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Eat My Words](https://open.spotify.com/track/1Lp7vOBdE1qXhhY11OG4qh) | [PrettyUgly](https://open.spotify.com/artist/0E8A04ZukBqS3V5J8sKvPU) | [Eat My Words](https://open.spotify.com/album/0xsoXZ8dwPLp4lq1eXKMSm) | 3:10 |
 | 50 | [Pacific Coast Highway](https://open.spotify.com/track/1q8VvE2vA3ti6MvNMKfCOT) | [Rue de Paradis](https://open.spotify.com/artist/7EcEdJgnkzNf8IMl41JZNi) | [Pacific Coast Highway](https://open.spotify.com/album/4c1NlLtA0zqLtcuPB4W06R) | 3:29 |
 
-Snapshot ID: `MCxiOTRmYzdlZDFlZTdmOGJjMWNmYjhlMjkxZWYyNzYxNGI4NTcyMTEy`
+Snapshot ID: `MCxiY2Q0NGM3YTgzNGU0MWIwMjQ0OGI1NjdmMWJhZTIxMjg1ZTFkNWE5`

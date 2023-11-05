@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-600 songs - 1 day 6 hr 17 min
+601 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Bäst här inne](https://open.spotify.com/track/2r8X5szspfSyhUlVes7plU) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Bäst här inne](https://open.spotify.com/album/5StD84eoU8BOFcReirunrU) | 4:59 | 2023-09-21 | 2023-09-26 |
 | [Bäst här inne](https://open.spotify.com/track/7ifhAM3ObwyI92K2P8Dl6z) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Superlativ 97](https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu) | 4:59 | 2023-10-12 | 2023-10-27 |
 | [Bästa var du](https://open.spotify.com/track/544i2kupbLppslcGI1PhlL) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bästa var du](https://open.spotify.com/album/6S6WCiLAWuTOT1gBWOvm7m) | 3:18 | 2023-08-17 | 2023-10-06 |
-| [Bättre nu \(The Wedding\)](https://open.spotify.com/track/5Fvq4z7pr7146lrYQCD9bY) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Bättre nu \(The Wedding\)](https://open.spotify.com/album/1D46XUOvhkabY7IlRSIgPv) | 3:24 | 2023-10-31 |  |
+| [Bättre nu \(The Wedding\)](https://open.spotify.com/track/0L3RpXaOJFNhP4QCynokYG) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Bättre nu \(The Wedding\)](https://open.spotify.com/album/3EQltKEqsH8RLRvEP6sgG6) | 3:24 | 2023-11-02 |  |
+| [Bättre nu \(The Wedding\)](https://open.spotify.com/track/5Fvq4z7pr7146lrYQCD9bY) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Bättre nu \(The Wedding\)](https://open.spotify.com/album/1D46XUOvhkabY7IlRSIgPv) | 3:24 | 2023-10-31 | 2023-11-05 |
 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2022-11-08 | 2023-05-26 |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-12-16 | 2022-01-21 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-26 | 2023-09-15 |

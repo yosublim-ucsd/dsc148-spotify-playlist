@@ -1,12 +1,12 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 66572,
+  "num_followers": 66655,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGUzZDkyNmQ3ZGU4OTExNjA4NzEzYzEzZGMwYThiOWY5ZTlhMDA1",
+  "snapshot_id": "MCwxNjJkMjZiYTAyYTlkODI3MjM5MmY1OGMwYzQ3OGJmZWZiZTI0ZWVk",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -211,22 +211,18 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "El Ritmo Fa",
-        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
+        "name": "Noches de Soledad",
+        "url": "https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M"
       },
       "artists": [
         {
-          "name": "DJ kLazH",
-          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
-        },
-        {
-          "name": "Dj Kury",
-          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
+          "name": "Santiago Cardona",
+          "url": "https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk"
         }
       ],
-      "duration_ms": 323076,
-      "name": "El Ritmo Fa",
-      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
+      "duration_ms": 218920,
+      "name": "Noches de Soledad",
+      "url": "https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -315,18 +311,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Noches de Soledad",
-        "url": "https://open.spotify.com/album/0pzTO3npRc2nVqQCKaLB1M"
+        "name": "El Ritmo Fa",
+        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
       },
       "artists": [
         {
-          "name": "Santiago Cardona",
-          "url": "https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk"
+          "name": "DJ kLazH",
+          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
+        },
+        {
+          "name": "Dj Kury",
+          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
         }
       ],
-      "duration_ms": 218920,
-      "name": "Noches de Soledad",
-      "url": "https://open.spotify.com/track/7k9b2xkni9bFGYbywuD53y"
+      "duration_ms": 323076,
+      "name": "El Ritmo Fa",
+      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
     },
     {
       "added_at": "2022-08-05 05:00:00",

@@ -552,7 +552,7 @@
     {
       "album": {
         "name": "Roots",
-        "url": "https://open.spotify.com/album/2IPFLTP9xWbtBoJSJ5VxU0"
+        "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
       },
       "artists": [
         {
@@ -563,6 +563,24 @@
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 257419,
+      "name": "Los Tamales",
+      "url": "https://open.spotify.com/track/2SZukdrFW2QV718N0Qahpj"
+    },
+    {
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/2IPFLTP9xWbtBoJSJ5VxU0"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 257419,
       "name": "Los Tamales",
       "url": "https://open.spotify.com/track/44hfmhrmuBNOdHw8ravtu0"
@@ -672,7 +690,7 @@
     {
       "album": {
         "name": "Mueve",
-        "url": "https://open.spotify.com/album/5YpOJ486WkZOyjrn7kiH2F"
+        "url": "https://open.spotify.com/album/5risGEoRT5XPR8UwbRT8NR"
       },
       "artists": [
         {
@@ -691,6 +709,32 @@
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 242812,
+      "name": "Mueve",
+      "url": "https://open.spotify.com/track/0JueG6VQgsYiPASAFdemVd"
+    },
+    {
+      "album": {
+        "name": "Mueve",
+        "url": "https://open.spotify.com/album/5YpOJ486WkZOyjrn7kiH2F"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Umberto Pagliaroli",
+          "url": "https://open.spotify.com/artist/4wShOgYAKFtg2grzqostEI"
+        },
+        {
+          "name": "El Apache Ness",
+          "url": "https://open.spotify.com/artist/5lPewWWLzFoRj13tTLgeF8"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 242812,
       "name": "Mueve",
       "url": "https://open.spotify.com/track/6qPEah5rcSL924pVoqqyTs"
@@ -958,7 +1002,7 @@
     {
       "album": {
         "name": "Toma Dale",
-        "url": "https://open.spotify.com/album/6JWMIEmeO5XD1bjhxm3eOn"
+        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
       },
       "artists": [
         {
@@ -973,6 +1017,28 @@
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 323763,
+      "name": "Toma Dale",
+      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+    },
+    {
+      "album": {
+        "name": "Toma Dale",
+        "url": "https://open.spotify.com/album/6JWMIEmeO5XD1bjhxm3eOn"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 323763,
       "name": "Toma Dale",
       "url": "https://open.spotify.com/track/4duvXkbpQVht8mv7K8cx3i"

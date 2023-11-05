@@ -1,12 +1,12 @@
 {
   "description": "Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses. Cover : Mehtab Ali Niazi",
-  "num_followers": 15598,
+  "num_followers": 15658,
   "original_name": "ECHO : Soulful Sitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGZkNGQzNzdkNjU0ZDQ4ZmRkYjk2ZDM5YzM4YmMwMzU0M2ZkNWJm",
+  "snapshot_id": "MCxiMTFiZWZiMzgxZDQyMzU3ODk5OTM0ZmRmOWM3YWQ0ZTdiNmYyZTU5",
   "tracks": [
     {
       "added_at": "2023-08-18 00:33:02",
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
+        "name": "Nada Yoga: Music of the Mystic",
+        "url": "https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9"
+      },
+      "artists": [
+        {
+          "name": "Ustad Usman Khan",
+          "url": "https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq"
+        }
+      ],
+      "duration_ms": 540160,
+      "name": "Raga Hansadhwani (Dancing Spring)",
+      "url": "https://open.spotify.com/track/2lalSgHoXxZWSHTT9PNV2t"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
         "name": "A Suitable Boy (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1TEK4k9Rsqk6C0p5uRFre2"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 210426,
       "name": "Raag Khamaaj",
       "url": "https://open.spotify.com/track/5WtMLrRmdaLC2hA2GZoy5D"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
-        "name": "Nada Yoga: Music of the Mystic",
-        "url": "https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9"
-      },
-      "artists": [
-        {
-          "name": "Ustad Usman Khan",
-          "url": "https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq"
-        }
-      ],
-      "duration_ms": 540160,
-      "name": "Raga Hansadhwani (Dancing Spring)",
-      "url": "https://open.spotify.com/track/2lalSgHoXxZWSHTT9PNV2t"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Prakshalana",
-        "url": "https://open.spotify.com/album/4V6pKFwkz1mtvVAmMCcoTD"
-      },
-      "artists": [
-        {
-          "name": "Raj Prakash Paul",
-          "url": "https://open.spotify.com/artist/5pCZk4EhxyQ17HZS5Vom2e"
-        }
-      ],
-      "duration_ms": 95399,
-      "name": "Yentha Prema (Sitar Instrumental)",
-      "url": "https://open.spotify.com/track/6LxJvtF1DPZtCDj60DIWul"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "Chants of India",
         "url": "https://open.spotify.com/album/53w0AMB3LamIPNsOpQSQ2s"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 272360,
       "name": "Vandanaa Trayee",
       "url": "https://open.spotify.com/track/0ikbKcgUbI3hinyrWEfwo5"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Prakshalana",
+        "url": "https://open.spotify.com/album/4V6pKFwkz1mtvVAmMCcoTD"
+      },
+      "artists": [
+        {
+          "name": "Raj Prakash Paul",
+          "url": "https://open.spotify.com/artist/5pCZk4EhxyQ17HZS5Vom2e"
+        }
+      ],
+      "duration_ms": 95399,
+      "name": "Yentha Prema (Sitar Instrumental)",
+      "url": "https://open.spotify.com/track/6LxJvtF1DPZtCDj60DIWul"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Inde Du Nord - North India : Raga Marwa Surbahar",
-        "url": "https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP"
+        "name": "Traces Of You",
+        "url": "https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq"
       },
       "artists": [
         {
-          "name": "Kushal Das",
-          "url": "https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli"
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
         }
       ],
-      "duration_ms": 349746,
-      "name": "Raga Marwa - Drut Tintal Jhala",
-      "url": "https://open.spotify.com/track/23L0bjrUtYuYZbglUK2hoT"
+      "duration_ms": 278520,
+      "name": "Lasya",
+      "url": "https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Traces Of You",
-        "url": "https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq"
+        "name": "Inde Du Nord - North India : Raga Marwa Surbahar",
+        "url": "https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP"
       },
       "artists": [
         {
-          "name": "Anoushka Shankar",
-          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+          "name": "Kushal Das",
+          "url": "https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli"
         }
       ],
-      "duration_ms": 278520,
-      "name": "Lasya",
-      "url": "https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi"
+      "duration_ms": 349746,
+      "name": "Raga Marwa - Drut Tintal Jhala",
+      "url": "https://open.spotify.com/track/23L0bjrUtYuYZbglUK2hoT"
     },
     {
       "added_at": "2023-06-21 04:09:47",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Sitar (Instrumental)",
-        "url": "https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz"
-      },
-      "artists": [
-        {
-          "name": "Sitar A Seyer Otsenre",
-          "url": "https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Creation",
-      "url": "https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "Nada Yoga: Music of the Mystic",
         "url": "https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 543373,
       "name": "Raga Shivaranjani (Yearning)",
       "url": "https://open.spotify.com/track/0KIsFToKwuGkPALbFxatlE"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Sitar (Instrumental)",
+        "url": "https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz"
+      },
+      "artists": [
+        {
+          "name": "Sitar A Seyer Otsenre",
+          "url": "https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Creation",
+      "url": "https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1"
     },
     {
       "added_at": "2023-06-20 11:43:22",

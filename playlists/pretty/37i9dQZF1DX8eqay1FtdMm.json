@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bSung Si Kyung x NAUL(\uc131\uc2dc\uacbd x \ub098\uc5bc)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 325988,
+  "num_followers": 326026,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2QzZDM2ZWZkN2NjYTJhNjc2NDAzMTg5ODNkMmFlYmFhZmE1YmIy",
+  "snapshot_id": "MCw5ZDZhNWYwMjE2MzlkY2ViYTI2YjBjYmMyOTZlMTM1MDMzNmFlMmY5",
   "tracks": [
     {
       "added_at": "2023-11-02 09:27:20",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
+        "name": "Do",
+        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "Do",
+      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
         "name": "Lovers of the Red Sky OST Part.1",
         "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 248066,
       "name": "Is it me?",
       "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
-        "name": "Such a thing",
-        "url": "https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka"
-      },
-      "artists": [
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 266986,
-      "name": "Such a thing",
-      "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -803,8 +803,8 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
-        "name": "Do",
-        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
+        "name": "Such a thing",
+        "url": "https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
         }
       ],
-      "duration_ms": 165986,
-      "name": "Do",
-      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
+      "duration_ms": 266986,
+      "name": "Such a thing",
+      "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 260264,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
         "name": "Spring Again",
         "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 236071,
       "name": "The Snowman",
       "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 260264,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
+        "name": "my life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 174990,
+      "name": "my life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
         "name": "It'll pass",
         "url": "https://open.spotify.com/album/6MkAOPaZtqTuDYVi68jqDU"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 228213,
       "name": "It'll pass",
       "url": "https://open.spotify.com/track/3Yzlsk9g1zqWZUeI5oq1BN"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
-        "name": "my life",
-        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
-      },
-      "artists": [
-        {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
-        }
-      ],
-      "duration_ms": 174990,
-      "name": "my life",
-      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
-        "name": "in the bed",
-        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 265058,
-      "name": "in the bed",
-      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
         "name": "I'M",
         "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 238252,
       "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
+        "name": "in the bed",
+        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 265058,
+      "name": "in the bed",
+      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
+        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 256314,
+      "name": "It\u2032s My Life",
+      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/38BploYaSSuEFrk7974uX1"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 214355,
       "name": "Time Spent Walking Through Memories (Feat. 10CM)",
       "url": "https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
-        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 256314,
-      "name": "It\u2032s My Life",
-      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
-        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
-      },
-      "artists": [
-        {
-          "name": "PARK MIN HYE",
-          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "After this night",
-      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
         "name": "Everytime",
         "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 162586,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "After this night",
+      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
-        "name": "Dear",
-        "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
-      },
-      "artists": [
-        {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
-        }
-      ],
-      "duration_ms": 240840,
-      "name": "First Line",
-      "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
-    },
-    {
-      "added_at": "2023-11-02 09:27:20",
-      "album": {
         "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
         "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
       },
@@ -1663,18 +1647,18 @@
     {
       "added_at": "2023-11-02 09:27:20",
       "album": {
-        "name": "Love Me Love Me",
-        "url": "https://open.spotify.com/album/2rtrqdfMeYxBNxpxcUl3cY"
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
       },
       "artists": [
         {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
         }
       ],
-      "duration_ms": 206240,
-      "name": "Love Me Love Me",
-      "url": "https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5"
+      "duration_ms": 240840,
+      "name": "First Line",
+      "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
     },
     {
       "added_at": "2023-11-02 09:27:20",
@@ -1691,6 +1675,26 @@
       "duration_ms": 263966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
+    },
+    {
+      "added_at": "2023-11-02 09:27:20",
+      "album": {
+        "name": "Burn Like A Star",
+        "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
+      },
+      "artists": [
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        },
+        {
+          "name": "Woo Ye Rin",
+          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
+        }
+      ],
+      "duration_ms": 188253,
+      "name": "Burn Like A Star",
+      "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
     }
   ],
   "unique_name": "v o K a l",

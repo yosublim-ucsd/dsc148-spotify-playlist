@@ -902,6 +902,24 @@
     {
       "album": {
         "name": "Ensanein",
+        "url": "https://open.spotify.com/album/5sdDDQFcVtxbgAMk2ZLYCq"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "Erjaa Shoufak",
+      "url": "https://open.spotify.com/track/2mCC8H1sSvmQave6EMiAQL"
+    },
+    {
+      "album": {
+        "name": "Ensanein",
         "url": "https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt"
       },
       "artists": [
@@ -2856,7 +2874,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 112744,
       "name": "Ya Ashikata Al Wardi",
       "url": "https://open.spotify.com/track/6gkq5hlwu8ZVK6JUUcLgkI"

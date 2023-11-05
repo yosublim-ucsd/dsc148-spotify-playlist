@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,754 likes - 85 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,778 likes - 85 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 67 | [Dance The Night Away](https://open.spotify.com/track/5YxD0O5KR5MTrTnwujFziJ) | [Diamond Lounge](https://open.spotify.com/artist/3GoqvGUih77Q03m7CkusNb), [People Of The Parallel](https://open.spotify.com/artist/1xl5tmlVgmpLe6NOL1IjQm) | [Dance The Night Away](https://open.spotify.com/album/7HovFkCzy5Z9Hi1o9KWNcx) | 3:14 |
 | 68 | [Hey Girl](https://open.spotify.com/track/2MSaqH6YRPN15sStlE9D4B) | [Abekejser](https://open.spotify.com/artist/3SC5UVDF2iMjJt0Oyh3Tbb) | [Blueprint](https://open.spotify.com/album/0SKYVSxxcwRtpz5c3V0md1) | 6:19 |
 | 69 | [All Yours](https://open.spotify.com/track/2Ve7DnsbG1TBmzSZUdVz0m) | [Ben Maxwell](https://open.spotify.com/artist/6OPUscoxZHZHQ2wUbiQhmR) | [All Yours](https://open.spotify.com/album/0dgErgADgR9uDN5dSaP29f) | 3:23 |
-| 70 | [Baby \- Short Version](https://open.spotify.com/track/0Wq4qAWGtK2mTX3ljg7Euw) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Baby](https://open.spotify.com/album/0ahizNeWVa0gfdTYyowEka) | 3:07 |
+| 70 | [Baby \- Short Version](https://open.spotify.com/track/2vYhju4THfPTF7gTEjaZvr) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Baby](https://open.spotify.com/album/67e02HjSWRGyQ3bJIsMH2S) | 3:07 |
 | 71 | [100 Percent](https://open.spotify.com/track/2EhAOc7H0qXKBK9SDTCcKu) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Friends And Other Necessities](https://open.spotify.com/album/5ECnPA9o4D8IlJRBBaC1fe) | 3:29 |
 | 72 | [F With Me \(feat\. Chromeo\)](https://open.spotify.com/track/6jQcZwHa3sZ54MxWvApCKb) | [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [F With Me \(feat\. Chromeo\)](https://open.spotify.com/album/0mo8Pdx3ZuorTKa7G7hhuj) | 2:50 |
 | 73 | [Ray Phunk Show](https://open.spotify.com/track/2jO8nQnIz4GfdNpv64cCgX) | [Ivan Makvel](https://open.spotify.com/artist/2NnG0MYrJ9KcBClx1Ja2Q4) | [Ray Phunk Show](https://open.spotify.com/album/43ptuA861r3UXQU1YeiFZ8) | 3:32 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 84 | [Closer to You](https://open.spotify.com/track/174JRizws7VqM3oCF8zruo) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx) | 5:04 |
 | 85 | [Pomslap](https://open.spotify.com/track/1o93PmeUiSJopZ70Z4LlMK) | [Pomrad](https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA) | [This Day EP](https://open.spotify.com/album/4zRbQIkHYXOBEoL84vEqTJ) | 4:04 |
 
-Snapshot ID: `MCw2YzYzNDc3N2E2ODNiNWMxZmEzYjIwOTJjMGFmOGZhZDExMTA3OTgy`
+Snapshot ID: `MCxhZGNhZDQwZGE0ZWFjM2UyYjAzZWIxODEyNmNhYWRjZDNhNjEzMTYy`

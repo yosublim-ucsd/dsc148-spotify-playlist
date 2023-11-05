@@ -882,6 +882,24 @@
     {
       "album": {
         "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
+        "url": "https://open.spotify.com/album/1EoEsgW8pVuLhv1EwP7NdT"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322760,
+      "name": "Herbert Harper's Free Press News",
+      "url": "https://open.spotify.com/track/4OGM1kTZC108CoHB83l4sx"
+    },
+    {
+      "album": {
+        "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
         "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
       },
       "artists": [
@@ -892,7 +910,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 322760,
       "name": "Herbert Harper's Free Press News",
       "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
@@ -1940,10 +1958,32 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 256013,
       "name": "She Loves You",
       "url": "https://open.spotify.com/track/4HnmJHeEWRhyVETGfBiGIX"
+    },
+    {
+      "album": {
+        "name": "Strange Situations: The Stan Webb & Chicken Shack Indigo Sessions",
+        "url": "https://open.spotify.com/album/4W13R6FBiOSmRqOL8KHFEJ"
+      },
+      "artists": [
+        {
+          "name": "Stan Webb",
+          "url": "https://open.spotify.com/artist/5q92HD24UWdGpV7pUU0ZlF"
+        },
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256013,
+      "name": "She Loves You",
+      "url": "https://open.spotify.com/track/7JltGnKRzDG5QMy9UrYM9t"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: The Get Up Kids
 
-103 songs - 6 hr 40 min
+104 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Grace, The Snow Is Here](https://open.spotify.com/track/2rUZQAHtHdEczOy4SvCZv4) | [The Gloria Record](https://open.spotify.com/artist/0gYSiuHXa3SjZA45d6AU0U) | [The Gloria Record](https://open.spotify.com/album/4xfddyCrChAJ6weLGd7sih) | 4:30 | 2023-01-25 | 2023-03-15 |
 | [Half Of Ninety](https://open.spotify.com/track/38Io4HK6GhMKlkzY3IXxS1) | [Pop Unknown](https://open.spotify.com/artist/4CLc2mcJfxXTAFGVHlonB7) | [If Arsenic Fails, Try Algebra](https://open.spotify.com/album/3oP8OX2XPNsI4uBCcrpYgG) | 4:03 | 2021-06-28 | 2023-03-15 |
 | [Heartbeat in the Brain](https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Whenever, If Ever](https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm) | 5:41 | 2023-03-14 |  |
-| [Holiday](https://open.spotify.com/track/0DHbBvRnc9SaiUJVYj6g48) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8) | 3:29 | 2023-03-28 |  |
+| [Holiday](https://open.spotify.com/track/0DHbBvRnc9SaiUJVYj6g48) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8) | 3:29 | 2023-03-28 | 2023-11-05 |
+| [Holiday](https://open.spotify.com/track/7BqOaCe91KO42CrBFkXPYe) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/0P1YuWWjYz6vnwizYv81Z3) | 3:29 | 2023-03-28 |  |
 | [Honestly?](https://open.spotify.com/track/0QNdEegC3Q9AVoAMmd8MEL) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp) | 6:10 | 2023-03-14 |  |
 | [Hope For Us](https://open.spotify.com/track/2bhMvw4ZILdxeEVt9bXHAq) | [The Jealous Sound](https://open.spotify.com/artist/1ggwkSYO7sCaM9sBV4ldYf) | [Kill Them With Kindness \[Deluxe Reissue\]](https://open.spotify.com/album/2xsahntmompiEH4N7QQrWm) | 4:10 | 2021-06-28 | 2023-03-15 |
 | [In Circles \- Remastered](https://open.spotify.com/track/5k7RUvywwUAl7Dq6qEXR8c) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(2009 Edition\)](https://open.spotify.com/album/2BpIgyANTKnyMIIRvXOjm2) | 4:58 | 2021-06-28 | 2022-07-29 |

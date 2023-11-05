@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 > Las grandes del Despecho y el Género Popular\. Foto: Shakira & Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,830 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,886 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 9 | [Para los Dolidos](https://open.spotify.com/track/560WpN34irYyIL5jtfQpCY) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Para los Dolidos](https://open.spotify.com/album/5shMbjREiwRHZSHSCHkIKm) | 2:36 |
 | 10 | [Demalas \(Versión Corrido\)](https://open.spotify.com/track/3rABYMCFJFzKapGzFV2Sd4) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Demalas \(Versión Corrido\)](https://open.spotify.com/album/3Hqi4nN7D5Tewtq7OVIg64) | 2:37 |
 | 11 | [No Te Guardo Rencor](https://open.spotify.com/track/1HtnC5ryoojHGlbMrEAGcY) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [No Te Guardo Rencor](https://open.spotify.com/album/4IcpUKHSzOd050HvhuRbM7) | 3:00 |
-| 12 | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/track/3F0M7Ug02v7jsA0WTooFHz) | [Adriana Bottina](https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO) | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/album/1IIkANQG0n9nmNBpeF3huX) | 2:59 |
+| 12 | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/track/5i5OIawLy7YP0mq2S8eOMN) | [Adriana Bottina](https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO) | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/album/5f9qt2svDGSn6zZ6bOwNaI) | 2:59 |
 | 13 | [Una Noche](https://open.spotify.com/track/1q0rUyBplcbhKws6GCH9Z0) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Una Noche](https://open.spotify.com/album/6thhCxR0dkeLfKoCZ4SyCj) | 3:11 |
 | 14 | [No Me Hubiera Enamorado](https://open.spotify.com/track/5qTOMXiOdtjgaaqnrANccu) | [Alexis Cortés](https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj) | [No Me Hubiera Enamorado](https://open.spotify.com/album/7MSKmORkjFaVDyWfRxbgJl) | 3:18 |
 | 15 | [Mujeres Divinas](https://open.spotify.com/track/1aonRnI6HP31i30Gcbsuj6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [México en Mi Voz](https://open.spotify.com/album/3K6llo2F2tGmc8d2dww0xE) | 3:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 79 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 80 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 |
 
-Snapshot ID: `MCw0NzBmYjRmNWZiNGQxNGI0YmEwYWNjM2U1MzlhOThmNjNhOGMyODFj`
+Snapshot ID: `MCxjOTNhNDQyZmQwMzBmODJlOGRhMWY4YzgwZDVhMDVkNzJiMWE0MDU3`

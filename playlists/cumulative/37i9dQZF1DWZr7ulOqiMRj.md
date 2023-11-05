@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla's </a> favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-80 songs - 6 hr 24 min
+82 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Changes \- Acid Radio Mix](https://open.spotify.com/track/60Ypo8vdYPRuJH8QceHmqj) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Changes](https://open.spotify.com/album/0S1ETZOiOPwoHYmJYSCkkT) | 2:45 | 2023-09-05 |  |
 | [Cinemax](https://open.spotify.com/track/6RE12RU7kRcPRd7yOLEDhl) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Cinemax](https://open.spotify.com/album/63fkltU4MUZlcKp4R3SOpi) | 8:16 | 2023-09-05 |  |
 | [Dance With Ibiza](https://open.spotify.com/track/1pWhDMMtSFtmUcI36UDXL1) | [Ugo Banchi](https://open.spotify.com/artist/0eiSKrrPR7JXmfVWCO3XuO) | [Dance With Ibiza](https://open.spotify.com/album/4LpyKPWVPym4XvKqZ13ZIy) | 6:10 | 2023-09-05 |  |
-| [Danzer \- Original Mix](https://open.spotify.com/track/6HMquJvZpWxqusRawlo6jk) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Danzer](https://open.spotify.com/album/66K0LjIpY1roIJ80vRaAs2) | 6:05 | 2023-09-05 |  |
+| [Danzer](https://open.spotify.com/track/3qxwMr3Xhc56VAHLFyk7vc) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Danzer](https://open.spotify.com/album/6gG5oOL3hHJzpP8vHIrdG1) | 6:05 | 2023-09-05 |  |
+| [Danzer \- Original Mix](https://open.spotify.com/track/6HMquJvZpWxqusRawlo6jk) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Danzer](https://open.spotify.com/album/66K0LjIpY1roIJ80vRaAs2) | 6:05 | 2023-09-05 | 2023-11-05 |
 | [Define \- Cassian Remix](https://open.spotify.com/track/6uA724aKkiX68eVV9G3uGg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6) | [Define](https://open.spotify.com/album/60Ebp6R5FhD9oZvnc8YaZ9) | 5:33 | 2023-09-05 |  |
 | [Drums Power](https://open.spotify.com/track/3nP0r8TD2xvPut4tT6PNor) | [Marian \(BR\)](https://open.spotify.com/artist/5FCqRgK9PqJYyfnBJg4AeH) | [Drums Power](https://open.spotify.com/album/3oUVGUTskcRrDCsIDmUwjT) | 3:18 | 2023-09-05 |  |
 | [Feed My Hunger \(No Shade\) \- Club Mix](https://open.spotify.com/track/0sG4YNfJJKyWk7rSdQv0r3) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Feed My Hunger \(No Shade\)](https://open.spotify.com/album/6IpuoQShDOYowPqkxzG8Ku) | 5:35 | 2023-09-05 |  |
@@ -81,7 +82,8 @@
 | [TOTO](https://open.spotify.com/track/76pl3eE1db1a5P0GpyfoRH) | [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9), [Mark Archer](https://open.spotify.com/artist/3bwbfpfkk1D1cHy7XZ97vF) | [Morse Code EP](https://open.spotify.com/album/0aWr5NCjKmeuVu3YHioFs1) | 4:28 | 2023-09-05 |  |
 | [Use Me Again \- Carl Craig Rework](https://open.spotify.com/track/0DmVOSnZLqxYEktgaVTP1H) | [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Use Me Again \(And Again\)](https://open.spotify.com/album/0PEKVd030jHP00OnxwIFtb) | 7:42 | 2023-09-05 |  |
 | [Voice Of Your Conscience](https://open.spotify.com/track/5xNkvLzrcCxsBza9y9pWdo) | [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF) | [Raskayu](https://open.spotify.com/album/4XO7TqzeCoSOf5xyos9xcM) | 6:16 | 2023-09-05 |  |
-| [Wait A Minute](https://open.spotify.com/track/58lHbCIW98BIAF6ZZ08nHA) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Stay Out All Night](https://open.spotify.com/album/7AXKawVbCuZpLmUZzSZG8U) | 7:16 | 2023-09-05 |  |
+| [Wait A Minute](https://open.spotify.com/track/58lHbCIW98BIAF6ZZ08nHA) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Stay Out All Night](https://open.spotify.com/album/7AXKawVbCuZpLmUZzSZG8U) | 7:16 | 2023-09-05 | 2023-11-05 |
+| [Wait A Minute](https://open.spotify.com/track/7iK8BZtCKTg892pc2JNSB3) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Stay out All Night](https://open.spotify.com/album/40RFzjpOI2YTUSX1XUGC2X) | 7:16 | 2023-09-05 |  |
 | [Wait No More](https://open.spotify.com/track/0ibtwb15E873ttruqHpRx7) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Wait No More](https://open.spotify.com/album/65PlfajZvErTQAxoHVSrAq) | 3:32 | 2023-09-05 |  |
 | [We Could Be Love](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [We Could Be Love](https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z) | 3:09 | 2023-09-05 |  |
 | [Where We Started](https://open.spotify.com/track/5KLrzC0YqnXfR781535NAQ) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Wait No More](https://open.spotify.com/album/65PlfajZvErTQAxoHVSrAq) | 3:21 | 2023-09-05 |  |

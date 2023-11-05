@@ -7583,6 +7583,24 @@
     },
     {
       "album": {
+        "name": "Quartzite",
+        "url": "https://open.spotify.com/album/2cnYYDd1dtIFhSc0gJUyAi"
+      },
+      "artists": [
+        {
+          "name": "Aiden Archer",
+          "url": "https://open.spotify.com/artist/3VgNLAQtZ0NxQLpZJSGFmE"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Quartzite",
+      "url": "https://open.spotify.com/track/7ApVbA2DWxftyUApfSB5Qq"
+    },
+    {
+      "album": {
         "name": "Quite Comfy",
         "url": "https://open.spotify.com/album/3gf4STG2CwjdpqjqSJNKKw"
       },
@@ -7684,7 +7702,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 135545,
       "name": "Rays in March",
       "url": "https://open.spotify.com/track/0dpDf1nbYcYhSDQLamQc2V"

@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1356,
+  "num_followers": 1357,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODVmMjc0MmQyY2Y0MjU1ZmYyMWY5YjkyNGFiNWU0M2I1MGZiNWQx",
+  "snapshot_id": "MCwwMGUxNTc3ZWMyNTE5NzczZTRmNzNlZDBiMTNlN2Y1ZGU0OWVmOGU4",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Gallina Pintadita, Vol. 2",
-        "url": "https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF"
-      },
-      "artists": [
-        {
-          "name": "Gallina Pintadita",
-          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
-        }
-      ],
-      "duration_ms": 119045,
-      "name": "Mi Merienda",
-      "url": "https://open.spotify.com/track/4G5XxbE4p0D6sg5i0F2bBR"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Let The Sun Shine",
         "url": "https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 109373,
       "name": "Clean Up Your Toys",
       "url": "https://open.spotify.com/track/55mGuJIzV9aTW85NXs4FQ8"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Gallina Pintadita, Vol. 2",
+        "url": "https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF"
+      },
+      "artists": [
+        {
+          "name": "Gallina Pintadita",
+          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
+        }
+      ],
+      "duration_ms": 119045,
+      "name": "Mi Merienda",
+      "url": "https://open.spotify.com/track/4G5XxbE4p0D6sg5i0F2bBR"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Songs to Brush Your Teeth To",
-        "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
-      },
-      "artists": [
-        {
-          "name": "Chompers",
-          "url": "https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z"
-        }
-      ],
-      "duration_ms": 109388,
-      "name": "Cover Your Sneeze",
-      "url": "https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Sesame Street: Splish Splash - Bath Time Fun",
         "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 171800,
       "name": "Kids Just Love to Brush",
       "url": "https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Songs to Brush Your Teeth To",
+        "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
+      },
+      "artists": [
+        {
+          "name": "Chompers",
+          "url": "https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z"
+        }
+      ],
+      "duration_ms": 109388,
+      "name": "Cover Your Sneeze",
+      "url": "https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "English Pitinglish",
-        "url": "https://open.spotify.com/album/5opZvBrL0N2jSFyGwvOvoZ"
-      },
-      "artists": [
-        {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "Comida light",
-      "url": "https://open.spotify.com/track/16QKoDI5F9MxWUBYORKV3w"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Sesame Street: Getting Ready for School",
         "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 93812,
       "name": "Snack Time (Juice and Cookies)",
       "url": "https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "English Pitinglish",
+        "url": "https://open.spotify.com/album/5opZvBrL0N2jSFyGwvOvoZ"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "Comida light",
+      "url": "https://open.spotify.com/track/16QKoDI5F9MxWUBYORKV3w"
     },
     {
       "added_at": "2023-03-17 09:43:03",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > We're celebrating the 10th anniversary of <a href=https://splashhouse.com/>Splash House </a> with the announcement of their June line up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,209 likes - 52 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,262 likes - 52 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [This Is The Sound](https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Is The Sound](https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u) | 3:12 |
+| 1 | [This Is The Sound](https://open.spotify.com/track/5JsIQ66sNFViii1ECZvtUp) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Is the Sound](https://open.spotify.com/album/4O30VW31P6zUNxdrTKog4H) | 3:12 |
 | 2 | [Down To Earth](https://open.spotify.com/track/1qylaDunQs1eEcDN5m1ZpE) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [Down To Earth](https://open.spotify.com/album/7sGpOYniLG9vzBH898x5kj) | 3:37 |
 | 3 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 |
 | 4 | [Mi Amor](https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/320kp38VL1lsenxJD9nGBc) | 3:15 |
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 33 | [Ose \- Gerd Janson Remix](https://open.spotify.com/track/3ICuRKEZfVTctwEl1xGZyL) | [Marina Trench](https://open.spotify.com/artist/4To1nBGVwlcmCjjufU2lJB), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO), [Hugo LX](https://open.spotify.com/artist/2seENlEi5S6kopQzmVyOzn) | [Ose \(Gerd Janson Remix\)](https://open.spotify.com/album/71KIWQCk4OyZK0HfX0qNO3) | 6:21 |
 | 34 | [Doris Day](https://open.spotify.com/track/3LQ5HUNpVLMhsms4jisFKK) | [Masha Mar](https://open.spotify.com/artist/5VuWDNXNzHEO08J2Hv3bU2) | [SOS MUSIC VOLUME 1](https://open.spotify.com/album/2sW21vXlX1MNW0VyJLo4LM) | 7:21 |
 | 35 | [Sex \- Bonus Track](https://open.spotify.com/track/2hWYwgaVa55pfXHlsHWenv) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [Red Light EP](https://open.spotify.com/album/4sgZAm5uD6Wy25NlMKUacO) | 6:26 |
-| 36 | [Gold Teeth](https://open.spotify.com/track/5Xnk7cBC8PX20HZurxdWbY) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Gold Teeth](https://open.spotify.com/album/2Ow5Z07VA7maRIXfNRolex) | 5:34 |
+| 36 | [Gold Teeth](https://open.spotify.com/track/0xxRT4tFluHiKNdyjNvYz5) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Gold Teeth](https://open.spotify.com/album/4r4Mgrost9naXOoWtLKJFR) | 5:34 |
 | 37 | [Virgil's Dream](https://open.spotify.com/track/5rqpaBX0c4f4sTcQqxV1yp) | [Masha Mar](https://open.spotify.com/artist/5VuWDNXNzHEO08J2Hv3bU2) | [Virgil's Dream](https://open.spotify.com/album/2aK99ZgU4HVNJbfKzwiO0B) | 5:56 |
 | 38 | [Space Funk '75](https://open.spotify.com/track/0wYFT8QDImTgUh2qNSm7Xq) | [The Sponges](https://open.spotify.com/artist/3cj6O7NrjS5l0CVo8LhpV1) | [Episode VI: Return of the Sponges](https://open.spotify.com/album/5c6QYsQtFnlrSWqthutmM0) | 3:54 |
 | 39 | [Over](https://open.spotify.com/track/1vIt4OWXj9RPVbJ7Hjx06K) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Over](https://open.spotify.com/album/59KBOSR2VoSUutLgQQfPoj) | 3:14 |
 | 40 | [WRONG](https://open.spotify.com/track/5vvEecaHtonA2AiBR2L7vW) | [Hank K](https://open.spotify.com/artist/7e6V4iJruHMPbTniZOeITW) | [WRONG](https://open.spotify.com/album/7gEFabAANCGj6JaSIhcuN8) | 5:37 |
 | 41 | [Call You Back](https://open.spotify.com/track/1xJeWMzCpzuJjKgGl1evum) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Pure Salinas, Vol\. 9 \(Compiled by DJ Zappi\)](https://open.spotify.com/album/1xvAoZ7gaN1CJ60lbbe43J) | 7:09 |
 | 42 | [Life Is Back](https://open.spotify.com/track/2HA6ZAwH7g6fy0ebKozdgi) | [Ash Lauryn](https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g) | [Truth](https://open.spotify.com/album/75FlIJdCotTnyEOZRew18J) | 5:24 |
-| 43 | [Bad Days](https://open.spotify.com/track/5doqdwpcmiAjHT423NS7qa) | [Monoky](https://open.spotify.com/artist/35fqprYtwqebSkrjHVXfxw), [Lee Wells](https://open.spotify.com/artist/0Q9UEU4EuF5eSWSMeIxCtX) | [Bad Days](https://open.spotify.com/album/7FlFMF1mmthW4aUhgpcIUi) | 6:15 |
+| 43 | [Bad Days](https://open.spotify.com/track/6xGmqj6RSKnK3of7pkllWY) | [Lee Wells](https://open.spotify.com/artist/0Q9UEU4EuF5eSWSMeIxCtX), [Monoky](https://open.spotify.com/artist/35fqprYtwqebSkrjHVXfxw) | [Bad Days](https://open.spotify.com/album/7JzhxIjvSsacGn7ereB4WO) | 6:15 |
 | 44 | [Best Friend](https://open.spotify.com/track/1zEhH5BmSpKi1mRSIfBDOq) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [ALISA UENO](https://open.spotify.com/artist/0WuYfDB2hAYzybfAd75fvb) | [Treehouse](https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa) | 3:04 |
 | 45 | [Youthful Kids](https://open.spotify.com/track/1YBvhB1094Q5Niw1GDSRY3) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Youthful Kids](https://open.spotify.com/album/6PcXHDSWeTupdzdabiuYZj) | 2:59 |
 | 46 | [Dream Of You](https://open.spotify.com/track/4Xicxvhcw2yx5wEDjeS1CE) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Maximo](https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG) | [Dream Of You](https://open.spotify.com/album/0nd6FSymivA5n9UCbWK8fO) | 2:50 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 51 | [Do U Wanna?](https://open.spotify.com/track/3JVyi1g3zaAHL9k0CRwghg) | [The Sponges](https://open.spotify.com/artist/3cj6O7NrjS5l0CVo8LhpV1) | [Love\. Death\. Funk?](https://open.spotify.com/album/2BeUzAPjKS5r0NMbmezusM) | 2:51 |
 | 52 | [Carry Us](https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Carry Us](https://open.spotify.com/album/1ZD3lsDNczYTYLhnKGiGxj) | 3:58 |
 
-Snapshot ID: `MCw4NTkzYjUwYjMxOWExNzlhMzlhYzI2Yjc3MWMxNzUyYjRjYjc0MWQz`
+Snapshot ID: `MCw3NmJmNDg0N2FjYTU5Njg1M2UxZThmMmI0MzgzMGYwNzk5MmMzNjFl`

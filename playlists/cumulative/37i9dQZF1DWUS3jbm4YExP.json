@@ -3594,7 +3594,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 190229,
       "name": "Every Trick in the Book",
       "url": "https://open.spotify.com/track/3SZ0veqxOxbVZrZxtHzSG0"
@@ -4536,7 +4536,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 251319,
       "name": "Hana Mash Hu Al Yaman",
       "url": "https://open.spotify.com/track/31SocnpUpBkeybeT5UsY65"
@@ -7526,7 +7526,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 284070,
       "name": "Musa Paradisa",
       "url": "https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE"
@@ -9566,6 +9566,24 @@
       "duration_ms": 317355,
       "name": "Shepherd Song - Esa & His Afro-Synth Band Version",
       "url": "https://open.spotify.com/track/0yM0uVP2UFGgA7SWVkgSnp"
+    },
+    {
+      "album": {
+        "name": "Malaka",
+        "url": "https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS"
+      },
+      "artists": [
+        {
+          "name": "Ali",
+          "url": "https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179497,
+      "name": "Shoreline Transit",
+      "url": "https://open.spotify.com/track/3qo9MuJSAYzXSyxPmNN4HB"
     },
     {
       "album": {

@@ -352,10 +352,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 405853,
       "name": "Bella",
       "url": "https://open.spotify.com/track/0TvRK8oISrIs7MVum2QldX"
+    },
+    {
+      "album": {
+        "name": "Los Hermanos Del Alma EP",
+        "url": "https://open.spotify.com/album/51xJhIh8iQUP7q5Gpsk5KH"
+      },
+      "artists": [
+        {
+          "name": "The Soul Brothers",
+          "url": "https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405853,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/2X4qoCJ5XVOPDiUf1E58gH"
     },
     {
       "album": {
@@ -1156,10 +1174,28 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 379645,
       "name": "Henna",
       "url": "https://open.spotify.com/track/1ObGyzfxrBrVSPNChYHRv1"
+    },
+    {
+      "album": {
+        "name": "April EP",
+        "url": "https://open.spotify.com/album/1h685ErLqz0XTrWqyZSOBp"
+      },
+      "artists": [
+        {
+          "name": "Capoon",
+          "url": "https://open.spotify.com/artist/6aO0WPJPV318xBCEVSJ5td"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379645,
+      "name": "Henna",
+      "url": "https://open.spotify.com/track/28GQ3bPbeW4UXJhqgE4irh"
     },
     {
       "album": {
@@ -1270,10 +1306,32 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 259672,
       "name": "Horizon Red",
       "url": "https://open.spotify.com/track/0PgOKL49AVmYzcdPCwpwng"
+    },
+    {
+      "album": {
+        "name": "Horizon Red",
+        "url": "https://open.spotify.com/album/5OH8W2ZKQwvjRvxhlzuSCc"
+      },
+      "artists": [
+        {
+          "name": "Made By Pete",
+          "url": "https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa"
+        },
+        {
+          "name": "Zoe Kypri",
+          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259672,
+      "name": "Horizon Red",
+      "url": "https://open.spotify.com/track/7mDuQlXi4UsXa5VmKGcm2U"
     },
     {
       "album": {
@@ -1624,6 +1682,24 @@
     {
       "album": {
         "name": "Mach 2",
+        "url": "https://open.spotify.com/album/5X4Bn59A7yi1vvxS9BFXcu"
+      },
+      "artists": [
+        {
+          "name": "Sharam",
+          "url": "https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 724043,
+      "name": "M.I.T.T.",
+      "url": "https://open.spotify.com/track/3YpkOkDGJd7FObXEPsqacg"
+    },
+    {
+      "album": {
+        "name": "Mach 2",
         "url": "https://open.spotify.com/album/1CvT2emvkVkyRfF7aMgLAO"
       },
       "artists": [
@@ -1634,7 +1710,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 724043,
       "name": "M.I.T.T. - Original Mix",
       "url": "https://open.spotify.com/track/6kYECjwht2qnj3KT9y9Ufz"

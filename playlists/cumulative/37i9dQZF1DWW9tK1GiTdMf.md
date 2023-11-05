@@ -4,7 +4,7 @@
 
 > Green Day in cover 🩸 Punk rock, emo e pop punk 🇮🇹 e 🌎!
 
-701 songs - 1 day 8 hr 13 min
+702 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Facciamo che](https://open.spotify.com/track/3pCWroOvM7nkbUTGqv0s54) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [Facciamo che](https://open.spotify.com/album/2IDAnybvNvHgi3pS141tKp) | 2:37 | 2022-08-25 | 2022-12-09 |
 | [FAMMI MALE](https://open.spotify.com/track/568eUgYTIDmKZo8J01kecJ) | [ELETTRICA](https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa) | [FAMMI MALE](https://open.spotify.com/album/0iD0mIHGkUWzQlGsHDsvpq) | 2:35 | 2023-11-02 |  |
 | [Fammi morire](https://open.spotify.com/track/1mqMoMzSTXzCFcJiCj1aPs) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Fammi morire](https://open.spotify.com/album/3Cg3jbGc848IssQcMO1Isy) | 2:08 | 2022-10-27 | 2023-03-18 |
-| [fango](https://open.spotify.com/track/3APQiPVdWB5vf93osBexcJ) | [dolcedormire](https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP) | [fango](https://open.spotify.com/album/4aEbCWc3Qn5Kt4ufclPloh) | 2:40 | 2023-09-28 |  |
+| [fango](https://open.spotify.com/track/3APQiPVdWB5vf93osBexcJ) | [dolcedormire](https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP) | [fango](https://open.spotify.com/album/4aEbCWc3Qn5Kt4ufclPloh) | 2:40 | 2023-09-28 | 2023-11-05 |
+| [fango](https://open.spotify.com/track/3EzrI1ETE0U5XnU7J9utnU) | [dolcedormire](https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP) | [fango](https://open.spotify.com/album/1qEimeBm5etPBheuPeEQNr) | 2:40 | 2023-11-02 |  |
 | [Fantasmi](https://open.spotify.com/track/2hr3kTDTIGq8WlbqEXhSEx) | [Zaite](https://open.spotify.com/artist/6KLLVe6z95qVupJjRHmxMO) | [Fantasmi](https://open.spotify.com/album/37hwk7S9dDiLoTL3Ip21Vf) | 2:50 | 2023-10-26 |  |
 | [Fantastica](https://open.spotify.com/track/2zrnzfccCva0hu3hllNZja) | [nonpiangere](https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7) | [Fantastica](https://open.spotify.com/album/21XVdZP2iseNltpUb2hi4p) | 2:36 | 2023-10-26 |  |
 | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A) | 2:55 | 2023-04-13 | 2023-06-09 |
@@ -453,7 +454,7 @@
 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 | 2022-09-22 | 2023-04-07 |
 | [occhi](https://open.spotify.com/track/6iW9PegPcomJryqLj5nMOE) | [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE), [Saint Abel](https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt), [Moskova Div](https://open.spotify.com/artist/0s7lgcaJpldccLW8kD7Xkk) | [occhi](https://open.spotify.com/album/5hqv0iT8Hx95Ayc2qWWgbw) | 3:19 | 2023-09-28 | 2023-10-13 |
 | [occhi rossi](https://open.spotify.com/track/1l3555yanzfiCs9Hf6xhXF) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7), [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [occhi rossi](https://open.spotify.com/album/6OZzDSSyeSjcLV5mjZbhfd) | 2:51 | 2022-05-06 | 2023-01-13 |
-| [occhiali](https://open.spotify.com/track/11KKERJounzfktvpniYWmD) | [kimori](https://open.spotify.com/artist/1Ry25dXtTBXrHleJl71Ikn), [Polvere](https://open.spotify.com/artist/3NKj5gr7FA8TAdXgH6ZS3Z) | [occhiali](https://open.spotify.com/album/4bzhdsaL1v7sPECZmiuBsz) | 2:19 | 2023-10-19 |  |
+| [occhiali](https://open.spotify.com/track/11KKERJounzfktvpniYWmD) | [kimori](https://open.spotify.com/artist/1Ry25dXtTBXrHleJl71Ikn), [Polvere](https://open.spotify.com/artist/3HOEaYO2o1Na9RpkAn5bLN) | [occhiali](https://open.spotify.com/album/4bzhdsaL1v7sPECZmiuBsz) | 2:19 | 2023-10-19 |  |
 | [Odio = Amore = Odio](https://open.spotify.com/track/3MfvnEIuliMldEn77dey1e) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [Odio = Amore = Odio](https://open.spotify.com/album/7pgcQo9sr2qGvw8oR0THxu) | 2:50 | 2023-10-05 |  |
 | [Odio tutti i ricordi](https://open.spotify.com/track/37hLqUeZ8C0Ln7DO0s6RF2) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Odio tutti i ricordi](https://open.spotify.com/album/7h2M3bLTIx0NF7hjK2Gvf3) | 2:52 | 2022-05-06 | 2022-06-10 |
 | [OFFLINE](https://open.spotify.com/track/42kqn34G9jaBcTgt08yXcz) | [Jellish](https://open.spotify.com/artist/33D8InnKCbdhCPUls8B4NU), [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn), [FREESO](https://open.spotify.com/artist/0oeY7yydJwva0gTUVN5vsI) | [OFFLINE](https://open.spotify.com/album/7tDokjP3aetBdFV7wTmfZn) | 3:19 | 2022-12-15 | 2023-01-13 |

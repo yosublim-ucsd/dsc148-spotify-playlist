@@ -1340,10 +1340,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 256500,
       "name": "Valley of the Dolls",
       "url": "https://open.spotify.com/track/5gmRgeec1UtQJ9MYxVhDxC"
+    },
+    {
+      "album": {
+        "name": "I Don't Want: The Gold Fire Sessions",
+        "url": "https://open.spotify.com/album/0YT5IhLx3P3sOrozDYIvwG"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256500,
+      "name": "Valley of the Dolls",
+      "url": "https://open.spotify.com/track/5sdrGdT7bxgfLMEoNf8XNj"
     },
     {
       "album": {

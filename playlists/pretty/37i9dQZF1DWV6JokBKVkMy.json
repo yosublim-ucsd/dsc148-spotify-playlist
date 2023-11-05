@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1995,
+  "num_followers": 2008,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGFmNTIxNDRjNzE4OGU1MzdhODI5OTZmZDQ5ZGM4N2MxNmQ3Yzc5",
+  "snapshot_id": "MCw4YjFiNmIxNDQ4MGFlODc0OTFmZGQwNGJlMDA2ZTdmYTcxNDdlYWJh",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Le meilleur de Cassiya avec D\u00e9sir\u00e9 Fran\u00e7ois (Best Of, vol. 1)",
-        "url": "https://open.spotify.com/album/6KeVT9o7E0gqnyhugESYnh"
-      },
-      "artists": [
-        {
-          "name": "Cassiya",
-          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
-        }
-      ],
-      "duration_ms": 273240,
-      "name": "Rev nou anc\u00e9tres",
-      "url": "https://open.spotify.com/track/2Bqtk3rEMJNCLGoGY52Xkd"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Elle danse",
         "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 202185,
       "name": "Pomper",
       "url": "https://open.spotify.com/track/2h7nEq7C0QwAQ75GAZzyhv"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Le meilleur de Cassiya avec D\u00e9sir\u00e9 Fran\u00e7ois (Best Of, vol. 1)",
+        "url": "https://open.spotify.com/album/6KeVT9o7E0gqnyhugESYnh"
+      },
+      "artists": [
+        {
+          "name": "Cassiya",
+          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
+        }
+      ],
+      "duration_ms": 273240,
+      "name": "Rev nou anc\u00e9tres",
+      "url": "https://open.spotify.com/track/2Bqtk3rEMJNCLGoGY52Xkd"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "S\u00e9paration (Zenfants perdi sim\u00e9)",
+        "url": "https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY"
+      },
+      "artists": [
+        {
+          "name": "Cassiya",
+          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
+        }
+      ],
+      "duration_ms": 306466,
+      "name": "R\u00e8ve nou anc\u00e8tre",
+      "url": "https://open.spotify.com/track/7CJjb2vLJSQPqUIEX1TpRV"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Roule a li m\u00eame",
         "url": "https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 209128,
       "name": "Longanis",
       "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "S\u00e9paration (Zenfants perdi sim\u00e9)",
-        "url": "https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY"
-      },
-      "artists": [
-        {
-          "name": "Cassiya",
-          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
-        }
-      ],
-      "duration_ms": 306466,
-      "name": "R\u00e8ve nou anc\u00e8tre",
-      "url": "https://open.spotify.com/track/7CJjb2vLJSQPqUIEX1TpRV"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Music from Mauritius",
-        "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
-      },
-      "artists": [
-        {
-          "name": "Denis Azor",
-          "url": "https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf"
-        }
-      ],
-      "duration_ms": 174497,
-      "name": "Ambalaba",
-      "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "La vie est belle (Best Of)",
         "url": "https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 250520,
       "name": "Met dan la joie",
       "url": "https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Music from Mauritius",
+        "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
+      },
+      "artists": [
+        {
+          "name": "Denis Azor",
+          "url": "https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf"
+        }
+      ],
+      "duration_ms": 174497,
+      "name": "Ambalaba",
+      "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
     },
     {
       "added_at": "2022-08-11 10:05:16",

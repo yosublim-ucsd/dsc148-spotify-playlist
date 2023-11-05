@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,096 likes - 104 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,157 likes - 104 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 47 | [I Shall Be Released \(with Fleet Foxes\) \- Live](https://open.spotify.com/track/4gIYdTW0oUC3jnCHbDUl65) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Alpha Mike Foxtrot: Rare Tracks 1994 \- 2014](https://open.spotify.com/album/71CIpjzqwqHxnUxL1FDS0M) | 3:33 |
 | 48 | [Things Have Changed](https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue) | 6:56 |
 | 49 | [I Want You](https://open.spotify.com/track/0KCdk9pI0pRCABKs3sU2G7) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Listen to Bob Dylan: A Tribute](https://open.spotify.com/album/2k4b6SP5UFZ6SfW3n7CY6z) | 2:42 |
-| 50 | [Nobody 'Cept You](https://open.spotify.com/track/2fvjzwM008TaNMFa4jINC9) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Written in Scars \(New Edition\)](https://open.spotify.com/album/0ROaXcCJvg74dnUHhm3GbF) | 3:12 |
+| 50 | [Nobody 'Cept You](https://open.spotify.com/track/4bb8ik4mJghLfby9mfzwda) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Written in Scars](https://open.spotify.com/album/0ZX4BKTHRP1gKX043rPqFZ) | 3:12 |
 | 51 | [Fourth Time Around](https://open.spotify.com/track/6D6G35aT8UypiaeoqJlU6M) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I'm Not There \(Music From The Motion Picture \- Original Soundtrack\)](https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3) | 5:07 |
 | 52 | [With God On Our Side](https://open.spotify.com/track/73e4ndrkfGIxqXAWm9PFvx) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings Dylan](https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34) | 5:11 |
 | 53 | [Every Grain of Sand](https://open.spotify.com/track/4hlVWkQO0hxR9Ob1IsNdN0) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 3:55 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 65 | [North Country Blues](https://open.spotify.com/track/3eoVxC9JXC79Ess36UJRwL) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:59 |
 | 66 | [Don't Think Twice It's Alright](https://open.spotify.com/track/2DiRa8VoCnzQXQ7eGu2Bp7) | [Ted Lennon](https://open.spotify.com/artist/61lZITYCgQ3S0tBzdPogaf), [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Don't Think Twice It's Alright](https://open.spotify.com/album/5uaHqdgUeFNAxFGdO9cjRk) | 4:04 |
 | 67 | [My Back Pages](https://open.spotify.com/track/3pO0GSjRmIQYnJWANtrzjU) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Sidetracks](https://open.spotify.com/album/6QpicGbHE5NjXzHQHvHzlX) | 4:07 |
-| 68 | [If Not for You \- 2014 Remaster](https://open.spotify.com/track/5zUP3RRw1vmZAsswtE3GrP) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 3:30 |
+| 68 | [If Not for You \(2014 Remaster\)](https://open.spotify.com/track/04meQOdHsGUMmlgLHmq0Is) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 3:30 |
 | 69 | [This Land Is Your Land \- Live in New York City \- November 1961](https://open.spotify.com/track/75noWD1FYMFBKeUnxCy4NB) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [No Direction Home: Bootleg Volume 7 \(Movie Soundtrack\)](https://open.spotify.com/album/0IN65w1790nVXZxpuoh3gU) | 5:58 |
 | 70 | [I'll Keep It With Mine](https://open.spotify.com/track/5yeK60qK7eN7UuCvfu8hvi) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:17 |
 | 71 | [It Ain't Me Babe](https://open.spotify.com/track/0TDlaRlo5DnfW9LUfPvf3b) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Carryin' On With Johnny Cash And June Carter](https://open.spotify.com/album/5ZfjQcvHkndkcGsewUeVNM) | 3:03 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 103 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/3XtzbjnUGMHUbHpw3yS46L) | [the ORIGINAL SEEKERS](https://open.spotify.com/artist/37uWXC5EdtnuuBUxDvWSoB) | [Back To Our Roots](https://open.spotify.com/album/0Aye9uEvEC6S6ngXg4w7p2) | 3:14 |
 | 104 | [The Times They Are A\-Changin'](https://open.spotify.com/track/4OjNq26zx5GvoBwgljFZ1d) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Back in the High Life Again / The Times They Are A\-Changin'](https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg) | 3:49 |
 
-Snapshot ID: `MCw3ODA5OTgzNTNjYzZiNzhkZWMwNmM3MWFhMDQ2OTMwYzQ0M2E4NmU2`
+Snapshot ID: `MCw3ZWUzNmRiNmQzZDBmMjU5MzkwMTAxMjcxZjRmMWYxYjI0M2YwOGYx`

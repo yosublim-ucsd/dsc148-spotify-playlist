@@ -118,6 +118,24 @@
     {
       "album": {
         "name": "Apollo EP",
+        "url": "https://open.spotify.com/album/5Plok6w5YeCXhdzXGSri4T"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420684,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/7sNp24ekO02LkwhV7kBh3Z"
+    },
+    {
+      "album": {
+        "name": "Apollo EP",
         "url": "https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O"
       },
       "artists": [
@@ -128,7 +146,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 420684,
       "name": "Apollo - Original Mix",
       "url": "https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN"
@@ -620,6 +638,24 @@
     {
       "album": {
         "name": "Brunt",
+        "url": "https://open.spotify.com/album/6A76dZwPEFmVijVEs9o2FP"
+      },
+      "artists": [
+        {
+          "name": "Dense & Pika",
+          "url": "https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390037,
+      "name": "Brunt",
+      "url": "https://open.spotify.com/track/1VvIJidbGCkz0DA56K2Isn"
+    },
+    {
+      "album": {
+        "name": "Brunt",
         "url": "https://open.spotify.com/album/3SY8NzLDUQuQFbRuezNpzY"
       },
       "artists": [
@@ -630,7 +666,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 390037,
       "name": "Brunt",
       "url": "https://open.spotify.com/track/6lXm60fg9Nh0mJONXKTvxv"
@@ -800,10 +836,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 302308,
       "name": "CreM",
       "url": "https://open.spotify.com/track/23kgh3nWUAAikuLRgxNLnk"
+    },
+    {
+      "album": {
+        "name": "Crem",
+        "url": "https://open.spotify.com/album/5Aqpxzn5dcEqmoL50exJfi"
+      },
+      "artists": [
+        {
+          "name": "NANCY Live",
+          "url": "https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302308,
+      "name": "CreM",
+      "url": "https://open.spotify.com/track/7u7Oyr3ohXTy4ccnV4Yca1"
     },
     {
       "album": {
@@ -1817,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/1SjL6tOedOu6S7U9Cwa71W"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411940,
+      "name": "HEY DJ",
+      "url": "https://open.spotify.com/track/0OK0kC1IIjLgaaEtVDXwL6"
+    },
+    {
+      "album": {
         "name": "HEY DJ",
         "url": "https://open.spotify.com/album/1aISciPEedMIeuaLiarVIL"
       },
@@ -1828,7 +1900,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 411940,
       "name": "HEY DJ",
       "url": "https://open.spotify.com/track/7qFvhLqCeIn0DzuaSOiesv"
@@ -2002,6 +2074,24 @@
     {
       "album": {
         "name": "Intentionally",
+        "url": "https://open.spotify.com/album/7hvs9s04RTMT3N2hakn9fb"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376386,
+      "name": "Intentionally",
+      "url": "https://open.spotify.com/track/1pLvbMQbSMjMnKYJdpAo4W"
+    },
+    {
+      "album": {
+        "name": "Intentionally",
         "url": "https://open.spotify.com/album/6BZvZr6rHBJEOFABiAjqxz"
       },
       "artists": [
@@ -2012,7 +2102,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 376386,
       "name": "Intentionally",
       "url": "https://open.spotify.com/track/4REuw9Oum1mUaSuzEycj4Q"
@@ -3398,10 +3488,32 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 247873,
       "name": "See the Sun Rising",
       "url": "https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg"
+    },
+    {
+      "album": {
+        "name": "Electronic Generations",
+        "url": "https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247873,
+      "name": "See the Sun Rising",
+      "url": "https://open.spotify.com/track/3idWxkGAnciwFL0DL60683"
     },
     {
       "album": {
@@ -4408,6 +4520,24 @@
     {
       "album": {
         "name": "/Y\\",
+        "url": "https://open.spotify.com/album/2HL79drnZ6gYN6K6VacnDg"
+      },
+      "artists": [
+        {
+          "name": "LCY",
+          "url": "https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Whatitcouldbe",
+      "url": "https://open.spotify.com/track/2t3AfL2DDgkVnbtnBw3XbE"
+    },
+    {
+      "album": {
+        "name": "/Y\\",
         "url": "https://open.spotify.com/album/4vrJWnbIjBvj9j4NvsUjD6"
       },
       "artists": [
@@ -4418,7 +4548,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 189000,
       "name": "Whatitcouldbe",
       "url": "https://open.spotify.com/track/74JVzAeT2MeGQoDMdciKJV"

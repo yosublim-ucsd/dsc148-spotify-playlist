@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,657 likes - 100 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,676 likes - 100 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 32 | [Hey Baby](https://open.spotify.com/track/3Qd9CoIBV2fXERJAXYXUiv) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Hey Baby](https://open.spotify.com/album/5SFR0BM59foRYgSloVXkWI) | 4:19 |
 | 33 | [FM Dial](https://open.spotify.com/track/73YJOu12ECTUYkJrueAPGP) | [Mr Sensi](https://open.spotify.com/artist/2KF1mVVVQenS4NdIscNFFm), [Kid Lib](https://open.spotify.com/artist/2PT0dZa1yzFBrkp8U1UTKW), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [FR021](https://open.spotify.com/album/4q6fNDCnHJ1coK2oYWKHxL) | 5:47 |
 | 34 | [Hoover1\-5B](https://open.spotify.com/track/0RUfB4XRwPFbtLcauR4gI6) | [Hoover1](https://open.spotify.com/artist/1Bx2uBKpSMvnunqahbZtY2) | [Hoover 1\-5](https://open.spotify.com/album/3YMKX6Ozu19E2OFDwhtF0t) | 5:04 |
-| 35 | [Blimey \- Denham Audio Remix](https://open.spotify.com/track/6z234Ek3zfHWw45SVWOONV) | [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1), [Bruised Skies](https://open.spotify.com/artist/5oI1AdZtFwpLD5CabiZnyb), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Blimey](https://open.spotify.com/album/4Ur1Mpt3PJBfnGwFM0KaL6) | 6:43 |
+| 35 | [Blimey \- Denham Audio Remix](https://open.spotify.com/track/6wPJh09QF84NTV0CTUXVAJ) | [Bruised Skies](https://open.spotify.com/artist/5oI1AdZtFwpLD5CabiZnyb), [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Blimey](https://open.spotify.com/album/2hIX2lw3Uy6Msu9OcPZUvC) | 6:43 |
 | 36 | [L.F.O.](https://open.spotify.com/track/09s0LZjI9zgBvXRNNA6j7K) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [L.F.O.](https://open.spotify.com/album/56FZp4N6OxLqFWcEG8qhmA) | 4:31 |
 | 37 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 |
 | 38 | [NEON RATS \- SHERELLE's Sleepless in Philadelphia Remix](https://open.spotify.com/track/2FlPHfGs4KUe2GDtNQfb3P) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 99 | [She Wore Velour](https://open.spotify.com/track/26bWOl3yNd6CkpgAiuZnZb) | [Velour](https://open.spotify.com/artist/3i0qn1J7C2VDP4EqRLmA2Q) | [The Velvet Collection](https://open.spotify.com/album/1p2e2evMM5MfSO2WAkm0MR) | 4:47 |
 | 100 | [Valentine](https://open.spotify.com/track/5oeyrLM976q1W9XLcFEajc) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Valentine](https://open.spotify.com/album/4nE6oMV2vmqYyoj6GJwdAv) | 2:08 |
 
-Snapshot ID: `MCwyNDczMzJiOGNkMjFkYjc1MjM3ZGI4ZGRkNGJhMzNkY2FjYmJkM2Y2`
+Snapshot ID: `MCwyOTg4YWY4MjQ2N2Y0NDlkN2ZiZDBkNmIxZjg0MGVmY2Y3ODI0NTQx`

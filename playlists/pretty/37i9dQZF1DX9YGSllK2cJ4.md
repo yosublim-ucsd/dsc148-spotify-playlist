@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,059 likes - 198 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,118 likes - 198 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 58 | [Ocean of Time](https://open.spotify.com/track/1Nl1QXLWVSG9nYuIjJqcwU) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Ocean of Time](https://open.spotify.com/album/1OCYSqcbCFM58zstXftvUy) | 2:15 |
 | 59 | [Gestalt](https://open.spotify.com/track/5RqRq2sgnvkwjossuNUrjp) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Gestalt](https://open.spotify.com/album/6ObPArNQyZa5fECTKmNaxg) | 2:55 |
 | 60 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
-| 61 | [Hidden](https://open.spotify.com/track/3i6TkLVyl4EiKSnuP1RrjG) | [Little Rose](https://open.spotify.com/artist/0dPYM8VKhqSSus8q5KfzMZ) | [Hidden](https://open.spotify.com/album/4bVpBfSsEpKxvHwuVHPBJm) | 2:34 |
+| 61 | [Hidden](https://open.spotify.com/track/3i6TkLVyl4EiKSnuP1RrjG) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Hidden](https://open.spotify.com/album/4bVpBfSsEpKxvHwuVHPBJm) | 2:34 |
 | 62 | [Nostalgica](https://open.spotify.com/track/0N0Rxym9LnsVtwAdAVcWrQ) | [Thom Nelson](https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1) | [Nostalgica](https://open.spotify.com/album/3zxaNFApLDuAYT2haPRbXq) | 2:06 |
 | 63 | [Afterthought](https://open.spotify.com/track/6V3EqKAHRMDKUYYPtD0lVQ) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Afterthought](https://open.spotify.com/album/4AFxPojfD0MLU03FMCtDmg) | 2:29 |
 | 64 | [Fifth](https://open.spotify.com/track/42cd6z8jhsKWx5So4pKJ7k) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Fifth](https://open.spotify.com/album/4RodR70upWkY1uDVnTmq8s) | 1:58 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 197 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 |
 | 198 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 |
 
-Snapshot ID: `MCw1MjkzYmI3N2I5Yjg0NjE2MmY3YTA1YzY5ZjU3Njc5MWYwZjgxMDQ5`
+Snapshot ID: `MCxiYmMxNjI1YzBhMzFmZGNmNzliMTZmYWMwZWRjM2JlNTdlNDBjYmZj`

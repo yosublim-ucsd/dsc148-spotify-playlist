@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 61932,
+  "num_followers": 61964,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTBkMjg2MDY4YzE1ODRiMGYwZDFmOGU5OGEzOGU3MzkwYzRkYWU4",
+  "snapshot_id": "MCwwNjBjYzMxYzA0NmYzN2IzMDQ4YjIyMjlhMDU1NTBmNzZjOTNhNDI3",
   "tracks": [
     {
       "added_at": "2023-09-01 14:10:27",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Bu\u0142garskie centrum",
-        "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
-      },
-      "artists": [
-        {
-          "name": "Pid\u017cama Porno",
-          "url": "https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY"
-        }
-      ],
-      "duration_ms": 374093,
-      "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
-      "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Omamy",
         "url": "https://open.spotify.com/album/4izFXcjIxPzX86R1hRAUbD"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 230826,
       "name": "Nie mam dla Ciebie mi\u0142o\u015bci - Kayax XX Rework",
       "url": "https://open.spotify.com/track/5hOFfDyhM9kSFyMBCmgAk5"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Bu\u0142garskie centrum",
+        "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
+      },
+      "artists": [
+        {
+          "name": "Pid\u017cama Porno",
+          "url": "https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY"
+        }
+      ],
+      "duration_ms": 374093,
+      "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Spis Rzeczy Ulubionych",
-        "url": "https://open.spotify.com/album/2h7ug91di7NKRe2gENYET7"
+        "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
+        "url": "https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb"
       },
       "artists": [
         {
-          "name": "Andrzej Piaseczny",
-          "url": "https://open.spotify.com/artist/3sYr49vFJ6BPZnV5Ky1PLH"
+          "name": "Bitamina",
+          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
         }
       ],
-      "duration_ms": 286066,
-      "name": "Chodz, przytul, przebacz",
-      "url": "https://open.spotify.com/track/5eYQ4VtpaITG5fMmLBPYZi"
+      "duration_ms": 157837,
+      "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
+      "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

@@ -2946,10 +2946,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 186293,
       "name": "Friends Like That",
       "url": "https://open.spotify.com/track/0ps3Ti2Q1gHbW2l6xW8EXG"
+    },
+    {
+      "album": {
+        "name": "Friends Like That",
+        "url": "https://open.spotify.com/album/1jktyxNVwYBwiARCZCsXBA"
+      },
+      "artists": [
+        {
+          "name": "John Morgan",
+          "url": "https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "Friends Like That",
+      "url": "https://open.spotify.com/track/0s8XDcxja9874FZvKo4IGO"
     },
     {
       "album": {

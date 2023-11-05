@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > Announcing <a href="https://tickets.spotify.com/events/spotify\-stages\-presents\-fresh\-finds\-brooklyn">Fresh Finds Live in New York</a> @ Baby's 12/4 ft Arcy Drive, Rahill, slimdan\. The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,775 likes - 110 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,824 likes - 110 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 109 | [Gloworm](https://open.spotify.com/track/1fwqhGIRtQeSNr21eSkhKF) | [Talik](https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz) | [Firefly](https://open.spotify.com/album/2Na8p20PZQm4jyeSoyLxst) | 4:20 |
 | 110 | [Challenger Deep](https://open.spotify.com/track/1aFtASIZ0GtGLp1LTzj9ea) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Challenger Deep](https://open.spotify.com/album/3knmKpCfct2IfzWPPwFQjM) | 3:54 |
 
-Snapshot ID: `MCxmMmJjMDU2ZGNjNGUwYTQ1ZDdlMDM5ZDdiYzVjMGFlMjBjZjYxMDNi`
+Snapshot ID: `MCw0N2Q0MWY5NjFmMjI3N2Y2MjM1MDE5ODRhZWQ3YzIxMTQ0YWIzMWFk`

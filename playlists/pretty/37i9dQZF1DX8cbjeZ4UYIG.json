@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 298368,
+  "num_followers": 298463,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWE5MjM2MTZmMzM0NGE0MWQ2N2ZhNjM2ZjE0NzBjMzIyNzYwOGI1",
+  "snapshot_id": "MCw1YWE0YzVhOTQ0MzE0MWFiNjM5ZWI1NWMyYzE1Y2Q4OTczNjhhMjU2",
   "tracks": [
     {
       "added_at": "2023-10-19 16:18:01",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-10-19 16:18:01",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG"
-      },
-      "artists": [
-        {
-          "name": "Rachel Wallace",
-          "url": "https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b"
-        }
-      ],
-      "duration_ms": 287276,
-      "name": "Tell Me Why - M&M Full Vocal",
-      "url": "https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y"
-    },
-    {
-      "added_at": "2023-10-19 16:18:01",
-      "album": {
         "name": "Frequencies",
         "url": "https://open.spotify.com/album/1USvljUnnceyGwsJFf9IR8"
       },
@@ -659,22 +643,6 @@
     {
       "added_at": "2023-10-19 16:18:01",
       "album": {
-        "name": "Far Out/Higher",
-        "url": "https://open.spotify.com/album/3OGpPRrKarUlNG4bF4sn6M"
-      },
-      "artists": [
-        {
-          "name": "Sonz Of A Loop Da Loop Era",
-          "url": "https://open.spotify.com/artist/7BVU0VCeUMAa18zDX5mOyh"
-        }
-      ],
-      "duration_ms": 295720,
-      "name": "Far out",
-      "url": "https://open.spotify.com/track/72qHsDcLYFyPTqKAmQcm4h"
-    },
-    {
-      "added_at": "2023-10-19 16:18:01",
-      "album": {
         "name": "Digeridoo",
         "url": "https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G"
       },
@@ -723,22 +691,6 @@
     {
       "added_at": "2023-10-19 16:18:01",
       "album": {
-        "name": "DJs Take Control",
-        "url": "https://open.spotify.com/album/57CmPHHFqK8aa3Yknb3hQW"
-      },
-      "artists": [
-        {
-          "name": "SL2",
-          "url": "https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn"
-        }
-      ],
-      "duration_ms": 305613,
-      "name": "DJs Take Control",
-      "url": "https://open.spotify.com/track/4BBQFns2zAlQHdIvEpVG2p"
-    },
-    {
-      "added_at": "2023-10-19 16:18:01",
-      "album": {
         "name": "This Style",
         "url": "https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR"
       },
@@ -755,6 +707,22 @@
     {
       "added_at": "2023-10-19 16:18:01",
       "album": {
+        "name": "DJs Take Control",
+        "url": "https://open.spotify.com/album/57CmPHHFqK8aa3Yknb3hQW"
+      },
+      "artists": [
+        {
+          "name": "SL2",
+          "url": "https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn"
+        }
+      ],
+      "duration_ms": 305613,
+      "name": "DJs Take Control",
+      "url": "https://open.spotify.com/track/4BBQFns2zAlQHdIvEpVG2p"
+    },
+    {
+      "added_at": "2023-10-19 16:18:01",
+      "album": {
         "name": "40 Miles",
         "url": "https://open.spotify.com/album/0FGGbq9a4SLw27m9WZ5DHA"
       },
@@ -767,22 +735,6 @@
       "duration_ms": 328829,
       "name": "40 Miles",
       "url": "https://open.spotify.com/track/7yZuzE8dyvegAEsGo3yyRo"
-    },
-    {
-      "added_at": "2023-10-19 16:18:01",
-      "album": {
-        "name": "Music for the Jilted Generation",
-        "url": "https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 379906,
-      "name": "No Good (Start the Dance)",
-      "url": "https://open.spotify.com/track/6B8Sm7JafUT6zMfMkWWnH0"
     },
     {
       "added_at": "2023-10-19 16:18:01",
@@ -815,6 +767,58 @@
       "duration_ms": 319666,
       "name": "Only You (Original Mix) [2011 Remastered Version]",
       "url": "https://open.spotify.com/track/0Y3VMlkIVyqG7Xkvdskdcz"
+    },
+    {
+      "added_at": "2023-10-19 16:18:01",
+      "album": {
+        "name": "Music for the Jilted Generation",
+        "url": "https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 379906,
+      "name": "No Good (Start the Dance)",
+      "url": "https://open.spotify.com/track/6B8Sm7JafUT6zMfMkWWnH0"
+    },
+    {
+      "added_at": "2023-10-19 16:18:01",
+      "album": {
+        "name": "Utd. State 90",
+        "url": "https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "C\u00fcbik",
+      "url": "https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa"
+    },
+    {
+      "added_at": "2023-10-19 16:18:01",
+      "album": {
+        "name": "It's a Jazz Thing / It's a Big up Thing (Remixes)",
+        "url": "https://open.spotify.com/album/2IeYXZiKQaxmd5xXeQm8db"
+      },
+      "artists": [
+        {
+          "name": "Roni Size",
+          "url": "https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr"
+        },
+        {
+          "name": "Utah Jazz",
+          "url": "https://open.spotify.com/artist/1qDIEHxFTJPRYmLO40RL5e"
+        }
+      ],
+      "duration_ms": 360012,
+      "name": "It's a Jazz Thing - Utah Jazz Remix",
+      "url": "https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH"
     }
   ],
   "unique_name": "Rave Classics",

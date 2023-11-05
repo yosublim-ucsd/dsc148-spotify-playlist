@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv?si=Dtfw4jkmT1\-06BCtssgYtA">Lekan</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,266 likes - 243 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,370 likes - 243 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,7 +203,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 193 | [Soon We'll Make It](https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Soon We'll Make It](https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL) | 2:19 |
 | 194 | [Say What U Mean](https://open.spotify.com/track/54EFYQHgRKfOsiPoJkwzO4) | [RHODETRIP!](https://open.spotify.com/artist/51vWoRhnlySdArQxr4JfKk), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [Say What U Mean](https://open.spotify.com/album/0uAiFV7gQXyntZRXX71zZp) | 3:44 |
 | 195 | [Jokes On You](https://open.spotify.com/track/7Abdet6Ax9gXiknBWyZ5GK) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [Trust The Process](https://open.spotify.com/album/3M0OZA2erTXgRbR2S5RcUE) | 2:25 |
-| 196 | [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 |
+| 196 | [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 |
 | 197 | [MADE UP](https://open.spotify.com/track/05MXAuQNy8YvjYwHks55IQ) | [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [MADE UP](https://open.spotify.com/album/14mTgQNpjsjiGWvf0Ek11d) | 3:23 |
 | 198 | [How Did We Get Here?](https://open.spotify.com/track/3xEiUmMP0c9Pl2109uEb2n) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Before I Go](https://open.spotify.com/album/6aWGSutqXpkVGMB5eXqg6j) | 3:13 |
 | 199 | [Down 4 Me](https://open.spotify.com/track/71zmuI6dfUCeXcOuPf7KMU) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Down 4 Me](https://open.spotify.com/album/5tw7yccjFJUo2UBi34X5Db) | 2:44 |
@@ -252,4 +252,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 242 | [All Roads](https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [All Roads](https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9) | 3:17 |
 | 243 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
 
-Snapshot ID: `MCwxOTQ0MTZlNDc1YTkyZmVlMGVhNDFkOTI0NGJlNjI2ZWU0ZDAwMjcz`
+Snapshot ID: `MCwxNGE1NjdmZTUxMTZhM2QyYTE2NDNjZDc1MjU3ZDVlNzJiZGY3ZTlk`

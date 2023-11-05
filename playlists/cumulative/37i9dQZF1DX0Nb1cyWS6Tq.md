@@ -4,7 +4,7 @@
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-276 songs - 20 hr 53 min
+277 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Haunted When the Minutes Drag](https://open.spotify.com/track/2aQPNm5EtLWBHsqzNuAdcq) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Seventh Dream of Teenage Heaven](https://open.spotify.com/album/4nGGzp3IFhkksr4DCOYLQ0) | 8:01 | 2021-10-15 | 2022-11-13 |
 | [Haunted When the Minutes Drag](https://open.spotify.com/track/0lPFVwTWdwXXNa6dMNqm1N) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Seventh Dream of Teenage Heaven](https://open.spotify.com/album/04gzQAamsdEEKerhfigHWU) | 8:03 | 2021-10-15 | 2022-06-06 |
 | [Heart and Soul](https://open.spotify.com/track/4fokGJSBrxFIvt01vz1Fbe) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 5:50 | 2021-10-15 | 2022-07-29 |
-| [Heart and Soul \- 2007 Remaster](https://open.spotify.com/track/4SDscXJTjdF2YgSkYADyU0) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 5:53 | 2021-10-15 |  |
+| [Heart and Soul \- 2007 Remaster](https://open.spotify.com/track/4SDscXJTjdF2YgSkYADyU0) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 5:53 | 2021-10-15 | 2023-11-05 |
 | [Heartland \- David 'Kid' Jensen Session, London, 1983, Live](https://open.spotify.com/track/6Nb2gfiGVt9YFNyB70bvOS) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Heartland \(David 'Kid' Jensen Session, London, 1983\)](https://open.spotify.com/album/5dBr2nR0rZuRt3naS1qaSF) | 4:23 | 2021-10-15 | 2022-06-10 |
 | [Helena](https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Famous Monsters](https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE) | 3:19 | 2021-10-15 |  |
 | [Hex](https://open.spotify.com/track/0ly1XWGeXQLaZM8Cng8PJV) | [Crone Visions](https://open.spotify.com/artist/12MHSwdVzUugwDgfhf3p0J) | [Hex](https://open.spotify.com/album/36FcnufhmxEwHxSPPZIH9l) | 3:24 | 2023-01-04 | 2023-03-18 |
@@ -186,6 +186,7 @@
 | [Qual](https://open.spotify.com/track/2BkhhBIOuX5Nqu5T5ILLf6) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Fetisch](https://open.spotify.com/album/7lpnhj5UdLW5sf4cj4cve2) | 3:48 | 2021-10-15 | 2022-07-25 |
 | [Rain](https://open.spotify.com/track/5Srq4DJy3AMtHeX4q5uTZX) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/2HLe3MOLEKEhuGIbrGSN3i) | 8:26 | 2021-10-15 | 2022-07-14 |
 | [Red Drop](https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:31 | 2021-10-15 |  |
+| [Red Right Hand](https://open.spotify.com/track/0jVo3e34A15l6MNu1O3cfa) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 \- Remaster\)](https://open.spotify.com/album/3OlT3zr0bvzYYg2Dwn6Fkx) | 6:10 | 2021-10-15 |  |
 | [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:10 | 2021-10-15 | 2023-11-04 |
 | [Release The Bats](https://open.spotify.com/track/0lMBJwVQbQbcHoK75ktvkO) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Live 81\-82](https://open.spotify.com/album/0pXim0IOK7zIb77vs3nj8N) | 3:05 | 2021-10-15 | 2022-07-10 |
 | [Repeats](https://open.spotify.com/track/3l5mgyIYPv7HVMEgzDG3Mq) | [screensaver](https://open.spotify.com/artist/38UP3ZGUai10OtCaC0dV33) | [Clean Current / Repeats](https://open.spotify.com/album/03AtoStW1D0nEF9zzA18KT) | 4:20 | 2022-05-06 | 2022-07-18 |

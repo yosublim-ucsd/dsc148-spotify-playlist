@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,021 songs - 2 day 16 hr 22 min
+1,022 songs - 2 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Find the truth](https://open.spotify.com/track/11kTme3riMq4bEgawgtGT6) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [Find the truth](https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o) | 3:50 | 2022-05-28 | 2022-06-03 |
 | [Fine Days](https://open.spotify.com/track/7IvySywtSMnhPm2pDPIDfj) | [諏訪ななか](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fine Days](https://open.spotify.com/album/5G2H3tBsXRon4X7ska2MwG) | 3:40 | 2022-11-02 | 2022-12-07 |
 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 | 2022-11-29 | 2023-01-13 |
-| [FIRST GREETING](https://open.spotify.com/track/3A2N0YMWbk7mG0Hc748nur) | [花たん](https://open.spotify.com/artist/7gCg1p9hTSlp86FNnq5VJN) | [TV SERIES ”LET ME CHECK THE WALKTHROUGH FIRST”](https://open.spotify.com/album/2Dm9bs7CVC5PgyfIrjxfEz) | 4:16 | 2023-10-07 |  |
+| [FIRST GREETING](https://open.spotify.com/track/3A2N0YMWbk7mG0Hc748nur) | [花たん](https://open.spotify.com/artist/7gCg1p9hTSlp86FNnq5VJN) | [TV SERIES ”LET ME CHECK THE WALKTHROUGH FIRST”](https://open.spotify.com/album/2Dm9bs7CVC5PgyfIrjxfEz) | 4:16 | 2023-10-07 | 2023-11-05 |
 | [FLY & DIVE](https://open.spotify.com/track/1GyJ9861V1V5xddnmDIRpx) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [FLY & DIVE](https://open.spotify.com/album/5DQw8dUj4sorH7LFW6LBFc) | 3:44 | 2023-09-24 | 2023-10-11 |
 | [Fly Away](https://open.spotify.com/track/5QLswL5FY0brw1yGXCGrdg) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/5bFzkvTOLC0iC6anD4wEsn) | 3:01 | 2023-04-01 | 2023-05-24 |
 | [Fly Away](https://open.spotify.com/track/60P9cFDj9TMUZpiUc0O1Rm) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/6qe4u576emFA48psNmvU4e) | 3:01 | 2023-04-01 | 2023-04-03 |
@@ -612,6 +612,7 @@
 | [あれこれドラスティック](https://open.spotify.com/track/3U25NvHuSKwNATFwDbkR4R) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2), [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [あれこれドラスティック](https://open.spotify.com/album/0ZNKgst0nutjnhEBAwnYvk) | 3:45 | 2022-07-05 | 2022-08-17 |
 | [いいの](https://open.spotify.com/track/6zYa0HNDUEjGtZ5HnB5Cqr) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [KIKUNOYU](https://open.spotify.com/artist/281ctw2ZJ8mLOcH58SVts5) | [いいの](https://open.spotify.com/album/1RsDnvYcyLXcAAvjyoImCc) | 3:47 | 2022-10-13 | 2023-01-06 |
 | [いけないfool logic](https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [いけないfool logic](https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4) | 4:15 | 2023-10-03 |  |
+| [いってらっしゃい](https://open.spotify.com/track/4DF77S38RM9jX4ojH5qgl0) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [いってらっしゃい](https://open.spotify.com/album/7M3ulwJM8aT734IcjPIQkC) | 3:55 | 2023-11-04 |  |
 | [いつしか](https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [いつしか](https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq) | 4:00 | 2022-10-25 | 2023-01-11 |
 | [いつ逢えたら](https://open.spotify.com/track/6YLUfjcftTF3N4LmKR6OIM) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [いつ逢えたら](https://open.spotify.com/album/5ZfeL7vTGeENYg7RRq6lby) | 4:05 | 2023-04-10 | 2023-04-12 |
 | [うれしくて](https://open.spotify.com/track/25C3HZIvRGGtkasbrZe7D1) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [うれしくて／ときめき](https://open.spotify.com/album/6Wm8TQQ90CrHqHrp9vmkwz) | 6:23 | 2023-09-12 |  |

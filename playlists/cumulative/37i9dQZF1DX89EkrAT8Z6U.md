@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene.
 
-286 songs - 12 hr 12 min
+287 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 | 2022-06-10 | 2023-09-30 |
 | [Blind Boy](https://open.spotify.com/track/0gqhiqBWmcXDrUiThfJmgf) | [Earl Stan](https://open.spotify.com/artist/3eCkVzIeYAyuPkVNoCKyUL) | [Blind Boy](https://open.spotify.com/album/7d0A9KYIGrTGoGbxMi6D4M) | 2:00 | 2022-05-25 | 2022-07-29 |
 | [Blood \(Alucard Rap\)](https://open.spotify.com/track/2deb24yUrqgOVwGJjaIaYp) | [Rustage](https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H), [TOPHAMHAT\-KYO](https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ) | [Blood \(Alucard Rap\)](https://open.spotify.com/album/6qeRZqsdSTULbT0g2ihOoZ) | 3:17 | 2023-07-13 |  |
-| [blood+ \(feat\. Witchouse 40k\)](https://open.spotify.com/track/4x6x2hydT6wyXfaP2u4DuE) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [in my restless dreams, i see you](https://open.spotify.com/album/5YlMDbNU9agz8VY656cNii) | 2:21 | 2023-09-29 |  |
+| [blood+ \(feat\. Witchouse 40k\)](https://open.spotify.com/track/2TL8BUI18wZJHlApaa9mex) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [in my restless dreams, i see you](https://open.spotify.com/album/3lKy1Ddnt6Jov2ALre3Cao) | 2:21 | 2023-09-29 |  |
+| [blood+ \(feat\. Witchouse 40k\)](https://open.spotify.com/track/4x6x2hydT6wyXfaP2u4DuE) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [in my restless dreams, i see you](https://open.spotify.com/album/5YlMDbNU9agz8VY656cNii) | 2:21 | 2023-09-29 | 2023-11-05 |
 | [Bluebird](https://open.spotify.com/track/09NzUAxEYgwlzlsx0z0Om7) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Bluebird](https://open.spotify.com/album/7F1O7eIMsLzwpLVcRMe9ka) | 3:34 | 2022-05-25 | 2022-07-29 |
 | [body bag](https://open.spotify.com/track/7IodwtlPswiT3rJVUQPFcO) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [body bag](https://open.spotify.com/album/2xJsMEX3rBCfqxQ7EfVnED) | 2:22 | 2023-09-29 |  |
 | [BodyPartz](https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [BodyPartz](https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7) | 1:19 | 2022-05-25 | 2023-08-23 |

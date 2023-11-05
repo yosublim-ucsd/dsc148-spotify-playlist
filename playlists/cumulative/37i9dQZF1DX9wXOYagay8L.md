@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg?si=Nqo9ZKGfR\_2v9iKZZ\_eypQ">Phila Dlozi</a>
+> Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees?si=VX24Cnv8TjGEpyfOBW0wWA">Mthandazo Gatya</a>
 
-497 songs - 1 day 11 hr 42 min
+498 songs - 1 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Kusina Mai](https://open.spotify.com/track/6foGZFf5hdViyimMImFv6f) | [Wanitwa Mos](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Jah Prayzah](https://open.spotify.com/artist/13JLy7UFJgqRypeQGbucP3) | [Kusina Mai](https://open.spotify.com/album/5I4qnFcv2Crz5NVCWZ5PJW) | 5:46 | 2023-08-10 | 2023-09-01 |
 | [kutheni na, \(feat\. Kwesta\)](https://open.spotify.com/track/12hMZGLnLlK3OEE2tdMop4) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [kutheni na, \(feat\. Kwesta\)](https://open.spotify.com/album/45mS0YMbYY1fs17kimbaU6) | 3:08 | 2021-06-03 | 2022-06-03 |
 | [Kuyabongwa](https://open.spotify.com/track/5126E37MXDlVwL3GNsFE81) | [ChubbyCheeks](https://open.spotify.com/artist/2jMiIQfoS53BBQstybElVW) | [Kuyabongwa](https://open.spotify.com/album/1p2L4YEwcJHgRndeMG25Cw) | 3:34 | 2023-10-16 |  |
+| [KUYALUNGA](https://open.spotify.com/track/5UwtI4FsIbqq9dP2Z8WNLi) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Thee Legacy](https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [KUYALUNGA](https://open.spotify.com/album/6E6Vcd24pqKCTQbeEK3IHa) | 3:58 | 2023-11-03 |  |
 | [Kuyobanini](https://open.spotify.com/track/7Db4g90Shps8AvEnjkypsn) | [LUNGA](https://open.spotify.com/artist/7810xgWOLCvaMyaFtnOeQa) | [Kuyobanini](https://open.spotify.com/album/2BBKqz9PnEfUEesepxLo9V) | 2:29 | 2022-05-05 | 2022-06-03 |
 | [Kwanele](https://open.spotify.com/track/6Sokog8WVBWLyvAS9YRWan) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Kwanele](https://open.spotify.com/album/6P5ym1KF06eBEsTmYpbY3n) | 4:41 | 2022-08-04 | 2022-10-29 |
 | [Kwanele](https://open.spotify.com/track/5jcdY2IBbING7OaVQ04o6l) | [Mr Brown](https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr), [Airburn Sounds](https://open.spotify.com/artist/2LkaC9qdFjuAWym0SCTHZ4), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL) | [Kwanele](https://open.spotify.com/album/1tuAVUDx8fAzuGRuxMaBPo) | 4:55 | 2022-07-07 | 2022-09-02 |
@@ -426,7 +427,7 @@
 | [There's Music in the Air](https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [There's Music in the Air](https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS) | 3:54 | 2022-09-09 | 2022-12-02 |
 | [Things We Love](https://open.spotify.com/track/7vsLUjThYsm2jNotIEFuVq) | [Wandile Mbambeni](https://open.spotify.com/artist/772EiD9fOEPeZc2E8dC0nX) | [Things We Love](https://open.spotify.com/album/5pBSpliSTS4JTn2Ky3EIVP) | 4:33 | 2022-02-17 | 2022-03-25 |
 | [Thixo](https://open.spotify.com/track/0oNkR5J4qmQxNVwLeA55y7) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:12 | 2023-01-30 | 2023-03-03 |
-| [Thixo Wami](https://open.spotify.com/track/4txtAWhrRwxQeMXU87XG8O) | [Zakwe](https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW), [Riot](https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR) | [Thixo Wami](https://open.spotify.com/album/0xGISgMZkizfIK7SzlOfSG) | 4:49 | 2023-06-22 |  |
+| [Thixo Wami](https://open.spotify.com/track/4txtAWhrRwxQeMXU87XG8O) | [Zakwe](https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW), [Riot](https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR) | [Thixo Wami](https://open.spotify.com/album/0xGISgMZkizfIK7SzlOfSG) | 4:49 | 2023-06-22 | 2023-11-05 |
 | [Thixo Wethu](https://open.spotify.com/track/6DCwIC3eoEK7KNldnKscdd) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Unathi](https://open.spotify.com/artist/7tAS9oUzXf3pvOxi7wd0N7) | [Gemini](https://open.spotify.com/album/37qxe0qhdSUNTNCMtsawc1) | 3:31 | 2022-06-16 | 2022-08-26 |
 | [Truth](https://open.spotify.com/track/1VMWvfEnjTzgwSd6777xeR) | [Jaziel Brothers](https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs) | [Truth](https://open.spotify.com/album/5K3vyTejoGDuRHvjo4vFNH) | 3:33 | 2022-06-30 | 2022-07-08 |
 | [Tshinakaho](https://open.spotify.com/track/3yNVOs4QdKBY78EtpN2GJM) | [Vhudie](https://open.spotify.com/artist/2g6okkT5hxpgApgXesuDAV), [Thembo](https://open.spotify.com/artist/7FqpAaU3B56P2qPzU1hrwp) | [Tshinakaho](https://open.spotify.com/album/1WP4Sf052O2iHtOingnbUx) | 3:33 | 2022-08-25 | 2022-10-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Arcángel y Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,723 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,755 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 32 | [La Última Vez](https://open.spotify.com/track/18H0STg2CPkVKx0AqRsoLQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:34 |
 | 33 | [Volverás](https://open.spotify.com/track/2KGTRMBVuBjYrsjIgBPApK) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [COMO ARRUINARTE LA VIDA](https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z) | 3:39 |
 | 34 | [Amor de Ayer](https://open.spotify.com/track/5LL67HAHSeGtlCKydUtz5w) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Amor de Ayer](https://open.spotify.com/album/11n5xOrXVg22JEEToOy2Dt) | 2:36 |
-| 35 | [Playita en tu mar](https://open.spotify.com/track/0HzObaOOSUHCS2JETdQftp) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6) | [Kaia Lana 2023](https://open.spotify.com/album/02KLy58RLR0qQvZmDfZdrS) | 2:41 |
+| 35 | [Playita en tu mar](https://open.spotify.com/track/26srTONLOLxnVTMshEu9LO) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6), [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Playita en tu mar](https://open.spotify.com/album/1FR1nrtvMKY4Zr4v2FbFyD) | 2:41 |
 | 36 | [Tornasol](https://open.spotify.com/track/5PaUN19HpJcTMVfnHJCing) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Tornasol](https://open.spotify.com/album/149LCaGwgK2z2beJhLPoFT) | 2:42 |
 | 37 | [Alarma de Emergencia](https://open.spotify.com/track/4zTem8a4efsWMT7v9B27WN) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Strata](https://open.spotify.com/album/51yOcD8pr3bLVy6oxBroXN) | 3:45 |
 | 38 | [No Te Vires](https://open.spotify.com/track/55isUVgoGajzCufq8FJp3v) | [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Tuny D](https://open.spotify.com/artist/0L5AaZ94npT6FbdTGNGdFH) | [No Te Vires](https://open.spotify.com/album/4L2Uyj9MGhj4MLsN2xGjy0) | 2:48 |
 | 39 | [Tregua](https://open.spotify.com/track/3fjniKdHqy0VMgOphFTPNn) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Tregua](https://open.spotify.com/album/0Z3WM0LZkRWEnrcJx8shtG) | 3:03 |
-| 40 | [NAORU](https://open.spotify.com/track/5Hb1pcMSavgBFU0NrOpZ49) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Sheng 33](https://open.spotify.com/artist/654zAEjMrBSV93V2PyfUgJ) | [NAORU](https://open.spotify.com/album/3TihytvP1vHrVUXtu9CiUf) | 2:44 |
+| 40 | [NAORU](https://open.spotify.com/track/5Hb1pcMSavgBFU0NrOpZ49) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Sheng 33](https://open.spotify.com/artist/654zAEjMrBSV93V2PyfUgJ) | [NAORU](https://open.spotify.com/album/3TihytvP1vHrVUXtu9CiUf) | 2:44 |
 | 41 | [10 a.eme.](https://open.spotify.com/track/7o4NHfo7eBtz56BRkELF17) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Drama Vol\. 2](https://open.spotify.com/album/4vx9kuJ3MzYQVO9ZpVFetj) | 2:56 |
 | 42 | [MENTÍA](https://open.spotify.com/track/4Arg3AG8kK5hQjyo1GEG1X) | [PM Beatz](https://open.spotify.com/artist/6wcfcQKvD00ZO41wa5FxDp), [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Mole](https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq) | [MENTÍA](https://open.spotify.com/album/4JdlXmO3W0bKXRZMfR4jdx) | 3:24 |
 | 43 | [Rayo de Sol](https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Mamá Flor](https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz) | 3:20 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [O Retorno de Jedi](https://open.spotify.com/track/1OCtpTqJdhOrn00sJYnWSt) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [O Retorno de Jedi](https://open.spotify.com/album/0BTjFs3Pbs2QwHktnSbBWL) | 2:50 |
 | 55 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 |
 
-Snapshot ID: `MCwxOWNjMjVkNzNjNDRkODM3MWY1OTA4MWViMGYxYmVhNTUxOTZiN2Iy`
+Snapshot ID: `MCxkMTFhZTA1OGE4OGU2MmJjYzVhZGQxMGFmNGJkN2M3ZjA2Y2NkNjZk`

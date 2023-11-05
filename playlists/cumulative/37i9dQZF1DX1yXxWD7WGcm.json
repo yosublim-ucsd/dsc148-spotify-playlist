@@ -888,7 +888,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 276266,
       "name": "Sy\u00e9 bwa",
       "url": "https://open.spotify.com/track/01l7fFEeJzWD2dnOIMYUOT"
@@ -910,6 +910,24 @@
       "duration_ms": 278600,
       "name": "Sy\u00e9 bwa",
       "url": "https://open.spotify.com/track/1mm94lmnVlbyrsa9PgSCvS"
+    },
+    {
+      "album": {
+        "name": "Vini Pou",
+        "url": "https://open.spotify.com/album/1L42ULJvUfrOrhSmRrXB1F"
+      },
+      "artists": [
+        {
+          "name": "Kassav'",
+          "url": "https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278600,
+      "name": "Sy\u00e9 bwa",
+      "url": "https://open.spotify.com/track/0eI5kOHA6raJvt2aj61zwg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 
 > The sound of 90s Jungle rave\. Cover: Roni Size
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,399 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,478 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 | 23 | [Bunn the Sensi \- Dub Hustlers Remix](https://open.spotify.com/track/5rwaFjD2ctbrsvh8tFP4cM) | [Top Cat](https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j) | [Rumble in the Jungle](https://open.spotify.com/album/5mucViTQhpvARXs9UCcHeg) | 5:50 |
 | 24 | [Ism Schism \- Mega Dangerous Remix](https://open.spotify.com/track/29DBvRV2y2rAAJTML08WhF) | [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Rumble in the Jungle](https://open.spotify.com/album/5mucViTQhpvARXs9UCcHeg) | 4:16 |
 | 25 | [Breaking Free](https://open.spotify.com/track/6oIszilcTZK9FI82NtFxtm) | [Slipmatt](https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr) | [We Love Drum & Bass](https://open.spotify.com/album/3etkNXAfN4VUWFfOjC7KNp) | 5:42 |
-| 26 | [Johnny '94 \- Dillinja Remix](https://open.spotify.com/track/6UDQgCyzXVkR7EnlfFwhhb) | [Johnny Jungle](https://open.spotify.com/artist/4fYroVBAQIpEuFho2WtbYY) | [Johnny '94 \(Dillinja And Noise Of Art & Double D Remixes\)](https://open.spotify.com/album/6OfuMdD1LzXxlQj4qa3c0F) | 6:28 |
+| 26 | [Johnny '94 \- Dillinja Remix](https://open.spotify.com/track/5G6dkLyGx4RfSdHuRpwstI) | [Johnny Jungle](https://open.spotify.com/artist/4fYroVBAQIpEuFho2WtbYY) | [Johnny '94 \(Dillinja and Noise of Art & Double D Remixes\)](https://open.spotify.com/album/2SVkdeN8a1thITSWUX0Jd6) | 6:28 |
 | 27 | [Truly One](https://open.spotify.com/track/24BPkzUA2v7yCrV4TJ60Ue) | [Origin Unknown](https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho) | [Truly One / Mission Control](https://open.spotify.com/album/7sYB2CzhHnjlbNHaegT46Q) | 6:15 |
 | 28 | [Peace, Love and Unity](https://open.spotify.com/track/7Cfc6dhTAZJSihMsSYMyVD) | [DJ Hype](https://open.spotify.com/artist/2MnM5JbezlOuVYlfx61Qc6), [MC Fats](https://open.spotify.com/artist/7cy71t1F8aAKPjTmt6PGyd) | [Peace, Love and Unity / And Remember Folks](https://open.spotify.com/album/0G5iLMoCmLtWW2ZLqF5d7E) | 5:42 |
 | 29 | [Play It for Me](https://open.spotify.com/track/3v2UAm0Tef2HhrCTYiKttl) | [DJ Die](https://open.spotify.com/artist/3kekxNoUNHgl8dXW3yjC8a) | [V Classic](https://open.spotify.com/album/2v6rSLlgweFFDtpDntQVPw) | 7:08 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 | 51 | [Here Comes the Drumz](https://open.spotify.com/track/4bNSfwZXF0cUuWen4kGOFy) | [Doc Scott](https://open.spotify.com/artist/1cuov4jcw3lXOvCANG7Kg4) | [Reinforced Presents Doc Scott \- The Early Plates](https://open.spotify.com/album/64nIGwlPFeIyOxgva8PMBl) | 4:30 |
 | 52 | [The Dark Stranger \- Origin Unknown Mix](https://open.spotify.com/track/5xqoIzTFlxXRGx86nIVn3b) | [Boogie Times Tribe](https://open.spotify.com/artist/0IEo8gcFe2WFGGF9L8Rmqy) | [Real Hardcore / The Dark Stranger](https://open.spotify.com/album/3hklWef2q00FpdkGX36QAV) | 5:27 |
 | 53 | [Terminator](https://open.spotify.com/track/1l0UpKKk4JoNSgiAU3jXUU) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Rufige Kru](https://open.spotify.com/artist/36kYq0d66eHa4Zz8iNkPFS) | [Fabio & Grooverider: 25 Years of Drum & Bass](https://open.spotify.com/album/1FHMZEpgqTR869J27inlbY) | 4:14 |
-| 54 | [R.I.P\. \- DJ Hype Remix](https://open.spotify.com/track/5MxfsO8miceiyxzZWhvnt7) | [Remarc](https://open.spotify.com/artist/0nCxyI85p7XgWv2LLv4S9d) | [R.I.P\. \(Remixes\)](https://open.spotify.com/album/3v8ljq4xKmInJvAyvCGdgv) | 6:30 |
+| 54 | [R.I.P\. \- DJ Hype Remix](https://open.spotify.com/track/1X6SSHGYYtJRltO5cdcT6l) | [Remarc](https://open.spotify.com/artist/0nCxyI85p7XgWv2LLv4S9d) | [R.I.P\. \(Remixes\)](https://open.spotify.com/album/7zxJfKfXTDl3b9RlAKhdRv) | 6:30 |
 | 55 | [Real Hardcore \- Johnny Jungle Remix](https://open.spotify.com/track/7DMEdz1YdQQtKIgysDxZeM) | [Boogie Times Tribe](https://open.spotify.com/artist/0IEo8gcFe2WFGGF9L8Rmqy) | [Real Hardcore / The Dark Stranger](https://open.spotify.com/album/3hklWef2q00FpdkGX36QAV) | 7:03 |
 | 56 | [The Angels Fell \- 2015 Remaster](https://open.spotify.com/track/4PVzD2FbJuMi5TgKNEVURw) | [Dillinja](https://open.spotify.com/artist/5CDTMeaU6dnv24n6e4uAtk) | [The Angels Fell / Ja Know Ya Big / Brutal Bass \(2015 Remasters\)](https://open.spotify.com/album/3z5hRBvwqUFDNjKhZGslMm) | 5:53 |
 | 57 | [Dub Plate Style](https://open.spotify.com/track/4uzOxS4N0RXPnuoO0amteG) | [Marvellous Cain](https://open.spotify.com/artist/3DyNrfbjNdST3C9fjeocIx) | [Dub Plate Style / Jump Up](https://open.spotify.com/album/2d77SPe20wST87gCFDsMxg) | 5:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 | 59 | [Guess](https://open.spotify.com/track/0NKri6cXGR5Kq8t5BXHVfa) | [Krust](https://open.spotify.com/artist/6WPeOlm3f3UGoO1l6OPOUO) | [V Classic](https://open.spotify.com/album/2v6rSLlgweFFDtpDntQVPw) | 7:11 |
 | 60 | [The Slammer](https://open.spotify.com/track/47a8lLhzf8Q7kTiIqoku5v) | [Krome & Time](https://open.spotify.com/artist/6K8WMXOwmE55m1s56xZIiM) | [Into the Night / The Slammer](https://open.spotify.com/album/34NCCbdNqJLVXtNTFJcroO) | 6:10 |
 
-Snapshot ID: `MCw4OTM3NTQzYTdiZGNjOTVhMGMxMmQ2YmNmNTRmYzFjMzI3YmQ1ZmIy`
+Snapshot ID: `MCw5NWRjODc2NmNmNWY3Y2NkNDg4NzEzZjAxOGE4MTFiZWI3ZGYxMGIw`

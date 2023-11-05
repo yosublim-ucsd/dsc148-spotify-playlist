@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Graham Barham
 
-309 songs - 16 hr 22 min
+314 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Ain't Got A Shot](https://open.spotify.com/track/6a2fq1YWUjR2dDDMl1sIv4) | [Nate Barnes](https://open.spotify.com/artist/2BtTAfI93v4WeSEubKCL6h) | [You Ain't Pretty](https://open.spotify.com/album/1ai40yy9DyrO8YxyI31zm6) | 3:23 | 2021-12-31 | 2022-02-12 |
 | [Alabama Nights](https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Alabama Nights](https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj) | 3:10 | 2023-06-02 |  |
 | [Alone Some](https://open.spotify.com/track/03lMS8wm9oa3xHCJMQ4KM3) | [Gracee Shriver](https://open.spotify.com/artist/2dn03VbHARxzUqbTrx0Rw1) | [Alone Some](https://open.spotify.com/album/2M7tI07QU18C9RD5JNjya8) | 2:52 | 2022-09-23 |  |
-| [Along For The Ride](https://open.spotify.com/track/5cY2DkoSx8XXiyLJrMzMpc) | [Jordan Harvey](https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW) | [It Is What It Is](https://open.spotify.com/album/6brYqTLZzsYeQsuwYgiT9F) | 2:51 | 2023-09-29 |  |
+| [Along For The Ride](https://open.spotify.com/track/1A4uDEzD3VWQihItCaeVE9) | [Jordan Harvey](https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW) | [It Is What It Is](https://open.spotify.com/album/3rSJUChPaIyGXpQ2iHPTxb) | 2:51 | 2023-10-27 |  |
+| [Along For The Ride](https://open.spotify.com/track/5cY2DkoSx8XXiyLJrMzMpc) | [Jordan Harvey](https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW) | [It Is What It Is](https://open.spotify.com/album/6brYqTLZzsYeQsuwYgiT9F) | 2:51 | 2023-09-29 | 2023-11-05 |
 | [Already Drank That Beer](https://open.spotify.com/track/04xV6TrdtlxobADx3FHCii) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/5xic0WEeujIOZ022648SlS) | 3:22 | 2021-12-31 |  |
 | [Always](https://open.spotify.com/track/1ubGogM1YgLECPXjMNz8EL) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 2:57 | 2021-12-31 | 2023-01-14 |
 | [Are You Okay?](https://open.spotify.com/track/7wy3CSZogtwp6wCwSTeTew) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Are You Okay?](https://open.spotify.com/album/4UzlGKEB3pNb8zSLoAtARW) | 3:12 | 2022-02-11 |  |
@@ -103,7 +104,8 @@
 | [Hang the Moon](https://open.spotify.com/track/2pQEiFLujXVmbLKhanrXjD) | [The Roads Below](https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI) | [Hang the Moon](https://open.spotify.com/album/7eWr3gZZqEHV7t2SAET5jo) | 2:56 | 2021-12-31 |  |
 | [Hard To Be Like You](https://open.spotify.com/track/2SwN4lQizVGH8xt2PV3Jn7) | [Tim Cote](https://open.spotify.com/artist/691irgH5wVKYSc2NkhFqR4) | [Hard To Be Like You](https://open.spotify.com/album/37ZmUNecp9w66EswqHTSQc) | 3:17 | 2021-12-31 |  |
 | [Hate Me](https://open.spotify.com/track/0B1lajXBzwHLTihUW19xEh) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Hate Me](https://open.spotify.com/album/28aNImQBnhTpzp02HkW9YX) | 2:52 | 2022-01-28 | 2022-07-02 |
-| [Hate Me](https://open.spotify.com/track/3ICvHsbfVNSw0lYsPq81ao) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [Hate Me](https://open.spotify.com/album/2cO5M6ZN4NoPNppgOAsFuN) | 2:54 | 2023-03-10 |  |
+| [Hate Me](https://open.spotify.com/track/3ICvHsbfVNSw0lYsPq81ao) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [Hate Me](https://open.spotify.com/album/2cO5M6ZN4NoPNppgOAsFuN) | 2:54 | 2023-03-10 | 2023-11-05 |
+| [Hate Me](https://open.spotify.com/track/6zOqmGjID2yYioGGehfxkN) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [Hate Me](https://open.spotify.com/album/05CMFHnlo2qflbiqhhMM9A) | 2:54 | 2023-10-27 |  |
 | [Hate This Hometown](https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Hate This Hometown](https://open.spotify.com/album/5rxQ4YdwcGbyqyP3GoJ0Ab) | 3:13 | 2022-02-11 | 2022-08-02 |
 | [Heartbreak Girl](https://open.spotify.com/track/30usOzYWz8pd8Y00FjTW2P) | [Willie Morrison](https://open.spotify.com/artist/1TLEakWAFDv8bQeDW0zr0W) | [Heartbreak Girl](https://open.spotify.com/album/4T5vSBPKdp289Hm6YSoBgB) | 3:02 | 2021-12-31 | 2022-02-12 |
 | [Heavenly](https://open.spotify.com/track/0fx1Oyto2wN6gLenluWyYJ) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Heavenly](https://open.spotify.com/album/2M5Y6YoELhOhQcgY1nGL9X) | 3:12 | 2023-03-01 |  |
@@ -125,7 +127,8 @@
 | [I Still Do](https://open.spotify.com/track/3F9EapDhISD4RPbJRNCcnd) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [I Still Do](https://open.spotify.com/album/7hbSZShyCn9RikSyFfSb5R) | 3:02 | 2021-12-31 | 2022-01-08 |
 | [I Still Think About You](https://open.spotify.com/track/3DeGzDk6bWzl4OH0LSbZrr) | [Rackley](https://open.spotify.com/artist/0GufVCqBIQMgGorRAeIMda) | [I Still Think About You](https://open.spotify.com/album/4dyAHZVVrCTN8CW2wXzZFq) | 3:38 | 2022-04-01 |  |
 | [I Think About You](https://open.spotify.com/track/3YCXRpU918lO8lKZMOtR0Z) | [Harper Grae](https://open.spotify.com/artist/0DLNCN6QeRGiexrWwYUnMr) | [I Think About You](https://open.spotify.com/album/2uF5SkbBCH2GFnBLUGNYMr) | 3:31 | 2021-12-31 |  |
-| [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/track/4N4HucJ3hNKQq1fOy1uH1B) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [The Other Half](https://open.spotify.com/album/6cmoD6nJ4anqACfPpuPjtE) | 2:40 | 2023-08-01 |  |
+| [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/track/1mMQ0DVUR47ASts0GJjGqq) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Tennessee's Waiting](https://open.spotify.com/album/7M5V96Xw8tnHAFwdjAkPWb) | 2:40 | 2023-10-27 |  |
+| [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/track/4N4HucJ3hNKQq1fOy1uH1B) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [The Other Half](https://open.spotify.com/album/6cmoD6nJ4anqACfPpuPjtE) | 2:40 | 2023-08-01 | 2023-11-05 |
 | [I'm Not There Yet](https://open.spotify.com/track/2kPNQECMXwnYZdpkp77YWf) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [I'm Not There Yet](https://open.spotify.com/album/4tQgfgItam1kvIwRNuJm3s) | 3:24 | 2022-04-01 | 2022-08-02 |
 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 | 2021-12-31 | 2022-02-12 |
 | [If We Ever Break Up](https://open.spotify.com/track/1cCB9LEPx68LUmMV86P9Js) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [If We Ever Break Up](https://open.spotify.com/album/5wIsBD8oAgYtwozFInMeIy) | 2:33 | 2022-03-25 |  |
@@ -150,7 +153,8 @@
 | [Like the Movies](https://open.spotify.com/track/5zd5yuvG5Xv92c1ToPtasO) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Like the Movies](https://open.spotify.com/album/6Itw6oshBRErChLtVeusJV) | 3:24 | 2021-12-31 | 2022-02-12 |
 | [LOML](https://open.spotify.com/track/1DQarOQMUb4ABXvwDd2XG2) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [LOML](https://open.spotify.com/album/2Jlrkiq7rm3gV7kXtVxLjM) | 3:00 | 2022-04-08 | 2022-07-02 |
 | [Lonely Does](https://open.spotify.com/track/3bZr2UIRMiwmWJoQw3kQYA) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2) | [Lonely Does](https://open.spotify.com/album/6bNt1IXkT6Yavw4q79lSYe) | 3:47 | 2021-12-31 | 2022-02-12 |
-| [Lonely Outta You](https://open.spotify.com/track/4K6Hx75Blpyb7ERrkhfBuv) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Lonely Outta You](https://open.spotify.com/album/0QmiHb5sXcfNzr0j07KKOB) | 3:16 | 2023-05-19 |  |
+| [Lonely Outta You](https://open.spotify.com/track/3QcKr4901M5cLaJiQfYq5p) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Lonely Outta You](https://open.spotify.com/album/7FX8PhAUzhW5Z3SV5M8Tk8) | 3:16 | 2023-10-27 |  |
+| [Lonely Outta You](https://open.spotify.com/track/4K6Hx75Blpyb7ERrkhfBuv) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Lonely Outta You](https://open.spotify.com/album/0QmiHb5sXcfNzr0j07KKOB) | 3:16 | 2023-05-19 | 2023-11-05 |
 | [Lonely Peace](https://open.spotify.com/track/6qmgGaI4PbCAbCKtW8g6pU) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [Lonely Peace](https://open.spotify.com/album/4MJtZsmjt5OmpXgLRFdq8m) | 3:09 | 2021-12-31 | 2022-01-22 |
 | [Lost My Heartbreak](https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4) | 2:37 | 2021-12-31 | 2022-07-02 |
 | [Love Child](https://open.spotify.com/track/2IRZm2pbQYoA5Q2gbwE6nU) | [Kalie Shorr](https://open.spotify.com/artist/5l2O3KSyCkTtjwcTLixHi5) | [Love Child](https://open.spotify.com/album/0hSp25ZPUeHmbSeldUqVoR) | 3:04 | 2021-12-31 | 2023-02-25 |
@@ -301,7 +305,8 @@
 | [What Do We Do Now?](https://open.spotify.com/track/2Y8Bc8FFaAFTLSUggumiqT) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [What Do We Do Now?](https://open.spotify.com/album/3DSiv8bSfBosbvQispCd9r) | 2:36 | 2022-05-13 | 2023-03-01 |
 | [What Do We Do Now?](https://open.spotify.com/track/6ptcHU0vegcB2ef8rqeOWR) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 2:36 | 2023-02-24 |  |
 | [What I'm Missing](https://open.spotify.com/track/66GQoMh8QwUD8ogFEX2xxD) | [Tarrah](https://open.spotify.com/artist/7wAd2gJo5Hr8WUUgRiLu6l) | [What I'm Missing](https://open.spotify.com/album/5KBJHtly6fuSycf8Hou4mm) | 4:07 | 2021-12-31 | 2022-02-12 |
-| [When I Get Home](https://open.spotify.com/track/0pYO30NBbEZTqLzHj1eWww) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [When I Get Home](https://open.spotify.com/album/5Vx9kDNjXzjDyeOVajPWLA) | 3:13 | 2022-07-22 |  |
+| [When I Get Home](https://open.spotify.com/track/0dCt91Yon7qzI71mfZ8bBr) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [When I Get Home](https://open.spotify.com/album/4ahodXXuSXTtIAS5Ellh1n) | 3:13 | 2023-10-27 |  |
+| [When I Get Home](https://open.spotify.com/track/0pYO30NBbEZTqLzHj1eWww) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [When I Get Home](https://open.spotify.com/album/5Vx9kDNjXzjDyeOVajPWLA) | 3:13 | 2022-07-22 | 2023-11-05 |
 | [When It Wasn't](https://open.spotify.com/track/2T4lQflLAaLiyXe4nVLAFL) | [Wild Fire](https://open.spotify.com/artist/3R2bn1e34SskxOaoM4XmD2) | [When It Wasn't](https://open.spotify.com/album/0fhQxTXDGEB3ahvmWLas0W) | 2:49 | 2022-07-08 | 2022-08-02 |
 | [When You Don't](https://open.spotify.com/track/3m1W8mCvokv36QHK5cXwtC) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/6Bcu7BwS7c5Lh5KqBsVu60) | 3:33 | 2022-11-02 | 2023-10-23 |
 | [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 | 2021-12-31 | 2022-11-06 |

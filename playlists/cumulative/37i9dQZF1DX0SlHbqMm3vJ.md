@@ -4,13 +4,14 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Yung D3mz
 
-461 songs - 23 hr 13 min
+462 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Bad](https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [2 Bad](https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ) | 2:36 | 2023-03-10 | 2023-05-07 |
 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-17 | 2023-09-25 |
-| [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-09-29 |  |
+| [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 | 2023-11-03 |  |
+| [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-09-29 | 2023-11-05 |
 | [234](https://open.spotify.com/track/2zCzjoAute0BouO3IVo5eh) | [DJ Savy](https://open.spotify.com/artist/5OXVSxR4R3fhxUIO6nJnNf), [9t9](https://open.spotify.com/artist/0lw8ofupGRkY51uAAsdiW4), [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [234](https://open.spotify.com/album/7KLupsQWurAEG9XkDxRX5s) | 3:10 | 2023-01-27 | 2023-02-17 |
 | [2x2](https://open.spotify.com/track/2PDz5WNKhyeiGLHE3UgqaC) | [Offei](https://open.spotify.com/artist/53lrU0w5zDWd58f5hDsftr) | [Butterfly Season](https://open.spotify.com/album/0y2NCccIKyGMBtPJZvLv7L) | 2:39 | 2023-10-27 |  |
 | [4LYFE](https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [4LYFE](https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m) | 2:47 | 2023-10-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,654 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,715 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 32 | [Crow Jane](https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH) | 3:53 |
 | 33 | [Smokestack Lightning](https://open.spotify.com/track/2ltKgfElKBcNHh2ZIq0TRv) | [Marty O'Reilly & the Old Soul Orchestra](https://open.spotify.com/artist/0oFKnXK9fgRpWNyKoJeSOy) | [Pray for Rain](https://open.spotify.com/album/4ZLAsjVWkF6YjKJbfa4fhA) | 6:51 |
 | 34 | [Ain't No Way](https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 6:47 |
-| 35 | [She Loves You](https://open.spotify.com/track/4HnmJHeEWRhyVETGfBiGIX) | [Stan Webb](https://open.spotify.com/artist/5q92HD24UWdGpV7pUU0ZlF), [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [Strange Situations: The Stan Webb & Chicken Shack Indigo Sessions](https://open.spotify.com/album/4TnvcqbCj5pncCpXtBnNgH) | 4:16 |
+| 35 | [She Loves You](https://open.spotify.com/track/7JltGnKRzDG5QMy9UrYM9t) | [Stan Webb](https://open.spotify.com/artist/5q92HD24UWdGpV7pUU0ZlF), [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [Strange Situations: The Stan Webb & Chicken Shack Indigo Sessions](https://open.spotify.com/album/4W13R6FBiOSmRqOL8KHFEJ) | 4:16 |
 | 36 | [Statesboro Blues](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 |
 | 37 | [Lazy Poker Blues](https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Lazy Poker Blues](https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh) | 3:17 |
 | 38 | [I Can't Stop Loving You](https://open.spotify.com/track/2ngkSsDjbKRxovWkMfjBUk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [That's What I Say](https://open.spotify.com/album/6B6Legr1T9aMiMxL55SZnK) | 4:47 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 59 | [Te Ni Nee Ni Nu](https://open.spotify.com/track/6FLhQua5ju8et7kCH6pDLA) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [All Time Favorites: Lou Ann Barton](https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ) | 2:54 |
 | 60 | [Look on Yonder Wall](https://open.spotify.com/track/773LlUafLOEk5AKr1DIGag) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Strange Angels: In Flight with Elmore James](https://open.spotify.com/album/3qeVFVdY4jf4fD3nkZ4ZdN) | 3:43 |
 | 61 | [Love That Burns \(with Rick Vito\) \(Live from The London Palladium\)](https://open.spotify.com/track/2IvVEPd1M58XvJ7zP9AMrl) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac](https://open.spotify.com/album/4mRWbr6PnIIo3ealvjT60y) | 5:54 |
-| 62 | [Herbert Harper's Free Press News](https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo) | 5:22 |
+| 62 | [Herbert Harper's Free Press News](https://open.spotify.com/track/4OGM1kTZC108CoHB83l4sx) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/1EoEsgW8pVuLhv1EwP7NdT) | 5:22 |
 | 63 | [I'll Play the Blues for You](https://open.spotify.com/track/6mu0vqpaJQJ0qoTMiP64ao) | [Frank Marino](https://open.spotify.com/artist/4N7EfXrDs4KJFXuN2BIuCT) | [L.A\. Blues Authority Vol\. Iv: Fit for a King](https://open.spotify.com/album/3BsSIZf9F8d6dejzNht08w) | 5:30 |
 | 64 | [I'm a Woman](https://open.spotify.com/track/0es3vILJEEfnvfXSJfHjF8) | [Louise Phelan](https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc), [Octavio Herrero](https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB) | [Azules](https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf) | 4:07 |
 | 65 | [Stones In My Passway](https://open.spotify.com/track/3igI8O766elxoGpdpzbiSs) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Other People's Stuff](https://open.spotify.com/album/3magaLME88Nwqz6ODcKJG9) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 99 | [Taxman](https://open.spotify.com/track/3kT1cthH4KOLPJRpmdHQrI) | [Teresa James](https://open.spotify.com/artist/4Ovys1AMeXFomDQvnc4f0C) | [Taxman](https://open.spotify.com/album/147vvnC0aJ0Ttrtbgmv6ee) | 3:26 |
 | 100 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 
-Snapshot ID: `MCwwZTM2NmEzMzFjN2YyNWQ1ZTQwNzQ4ODg5OWViMjQ3MzliNmY3Mjhi`
+Snapshot ID: `MCwzNTQ3NmJiY2QyNGJhM2JmYWRlYWQxNzY0N2Q5ZDBkNTcwNTIyMTQ2`

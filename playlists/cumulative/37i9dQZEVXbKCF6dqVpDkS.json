@@ -5441,6 +5441,28 @@
     },
     {
       "album": {
+        "name": "De Leven",
+        "url": "https://open.spotify.com/album/7BN14z7CoTNeKKGniRFVGf"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161922,
+      "name": "De Leven",
+      "url": "https://open.spotify.com/track/0NxfpRR1pmtGC9J61iHIIc"
+    },
+    {
+      "album": {
         "name": "De Overkant",
         "url": "https://open.spotify.com/album/0OcpWYf5TSY8G3GVnYXjip"
       },
@@ -10293,6 +10315,24 @@
     },
     {
       "album": {
+        "name": "Hoodiedate",
+        "url": "https://open.spotify.com/album/2GE8j7V7VOaFbrlT1SyssS"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183968,
+      "name": "Hoodiedate",
+      "url": "https://open.spotify.com/track/0rWktREtOKwpyAxwbh9aIh"
+    },
+    {
+      "album": {
         "name": "LIJPE",
         "url": "https://open.spotify.com/album/3eULQQ3G5JagLpMYx5VHCH"
       },
@@ -13060,7 +13100,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 265960,
       "name": "Last Christmas - Single Version",
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
@@ -13566,6 +13606,24 @@
       "duration_ms": 241595,
       "name": "Let Somebody Go",
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
+    },
+    {
+      "album": {
+        "name": "Beschadigd",
+        "url": "https://open.spotify.com/album/5poVrMO8E2jTqTkEPJFlNv"
+      },
+      "artists": [
+        {
+          "name": "Djaga Djaga",
+          "url": "https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149790,
+      "name": "Letter To Joey",
+      "url": "https://open.spotify.com/track/5CaCOy8A719Hb0qI8LrVJ5"
     },
     {
       "album": {
@@ -17038,7 +17096,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
@@ -17302,6 +17360,24 @@
       "duration_ms": 142742,
       "name": "Over",
       "url": "https://open.spotify.com/track/2z87XlLINvV8a2Xnb8mQ2v"
+    },
+    {
+      "album": {
+        "name": "Over De Grens",
+        "url": "https://open.spotify.com/album/1jw0WO9E7w1kJifRmQy2yB"
+      },
+      "artists": [
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159587,
+      "name": "Over De Grens",
+      "url": "https://open.spotify.com/track/1CnAxrziUyGbbKCwvphm3V"
     },
     {
       "album": {
@@ -17884,6 +17960,40 @@
       "duration_ms": 205721,
       "name": "Pipe Down",
       "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
+    },
+    {
+      "album": {
+        "name": "PK\u2019s",
+        "url": "https://open.spotify.com/album/3qP6ZMFwzTgA6QFGDWoyov"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        },
+        {
+          "name": "Moeman",
+          "url": "https://open.spotify.com/artist/0wCD0zZxxhHU91kYZolMnu"
+        },
+        {
+          "name": "Bokke8",
+          "url": "https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB"
+        },
+        {
+          "name": "Philly",
+          "url": "https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj"
+        },
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250377,
+      "name": "PK\u2019s",
+      "url": "https://open.spotify.com/track/7FQPxdB5CXhFZLmW4ZCEcH"
     },
     {
       "album": {
@@ -19610,10 +19720,40 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 220666,
       "name": "Schakelen",
       "url": "https://open.spotify.com/track/4XAs1VBbmfnf8sUjKwF6Tp"
+    },
+    {
+      "album": {
+        "name": "Beschadigd",
+        "url": "https://open.spotify.com/album/5poVrMO8E2jTqTkEPJFlNv"
+      },
+      "artists": [
+        {
+          "name": "Djaga Djaga",
+          "url": "https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "Schakelen",
+      "url": "https://open.spotify.com/track/6jQaK9D9PHGrh50lgvMYhO"
     },
     {
       "album": {
@@ -20776,7 +20916,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -21756,7 +21896,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -22274,7 +22414,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 173731,
       "name": "This World Is Our Home",
       "url": "https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY"
@@ -23695,6 +23835,28 @@
     },
     {
       "album": {
+        "name": "Beschadigd",
+        "url": "https://open.spotify.com/album/5poVrMO8E2jTqTkEPJFlNv"
+      },
+      "artists": [
+        {
+          "name": "Djaga Djaga",
+          "url": "https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8"
+        },
+        {
+          "name": "F.I.",
+          "url": "https://open.spotify.com/artist/7IDm2GGfPn28vd5x1wiKbI"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183864,
+      "name": "Warming Up",
+      "url": "https://open.spotify.com/track/3Cou6NROsyHu1r1Ix6xi6S"
+    },
+    {
+      "album": {
         "name": "LIJPE",
         "url": "https://open.spotify.com/album/3eULQQ3G5JagLpMYx5VHCH"
       },
@@ -24190,7 +24352,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,903 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,754 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 11 | [Anbenum \(From "Leo"\)](https://open.spotify.com/track/3l198ZkmLWrHYL3WXTOoep) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Anbenum \(From "Leo"\)](https://open.spotify.com/album/4bf7T0AXRlgHjLZVxhIkfz) | 3:34 |
 | 12 | [Hukum \- Thalaivar Alappara \(From "Jailer"\)](https://open.spotify.com/track/3pDbPKZHrpHAWcJVMsrNwA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Hukum \- Thalaivar Alappara \(From "Jailer"\)](https://open.spotify.com/album/09fIr7A4cAEktUmCMg7dJd) | 3:27 |
 | 13 | [Railin Oligal \- From "Blue Star"](https://open.spotify.com/track/5Y7Y315vZkOZbesJ22jXkK) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Railin Oligal \(From "Blue Star"\)](https://open.spotify.com/album/6SgtjBVtmhTI84jWMyQlFC) | 2:37 |
-| 14 | [Sottangalla \(From "Japan"\) \(Tamil\)](https://open.spotify.com/track/383ZKLbx3VH6TyC3fQDifP) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU) | [Sottangalla \(From "Japan"\) \(Tamil\)](https://open.spotify.com/album/2yQiuj0tJUr63078itjGWz) | 4:07 |
+| 14 | [Sottangalla \(From "Japan"\)](https://open.spotify.com/track/5eOMCMju0A8Gl8RLoThXbB) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Sottangalla \(From "Japan"\)](https://open.spotify.com/album/1lBntRhGTaqv4Fdk952tFP) | 4:07 |
 | 15 | [Adhirudha \- From "Mark Antony"](https://open.spotify.com/track/4u7dTTr6SApQiy7eBWARZI) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Adhirudha \(From "Mark Antony"\)](https://open.spotify.com/album/7zJ5qxeFanSZgXeZoD820s) | 4:00 |
 | 16 | [Iru Perum Nadhigal \- From "Minmini"](https://open.spotify.com/track/4x86dfn1Z0RrPEGRVTgKgQ) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Halitha Shameem](https://open.spotify.com/artist/7HNvh9gNgcnl8OFCNY1YBe) | [Iru Perum Nadhigal \(From "Minmini"\)](https://open.spotify.com/album/3zMHD7UBJYuST6awNBzg3t) | 3:16 |
 | 17 | [Nee Vaadi \(From "ANIMAL"\) \[TAMIL\]](https://open.spotify.com/track/2mYxRHt1C9WJwM98ifUpnr) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Nee Vaadi \(From "ANIMAL"\) \[TAMIL\]](https://open.spotify.com/album/0CQIDZ1ouall62VeuYfiE5) | 4:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 59 | [Aradhya \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/track/0H419AjRA2CY6RtjNT1q1l) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Aradhya \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/album/4BlgOYbwSOCeJueIHUG9wp) | 4:42 |
 | 60 | [Muthuvel Pandian Theme \- Instrumental](https://open.spotify.com/track/6BLzMdz3Gw8ho9GZMr9GSG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 1:42 |
 
-Snapshot ID: `MCxlMjM5ZDJlODUxZmRlMzY5MjQyMTI0ZTI4NmMxYzE4NDgwN2M5MmMx`
+Snapshot ID: `MCxlZWNjZmE3ZTcxM2U0YmVlN2E5ODQxNWIxNGI5ZDlmNDNjN2VkMzQ1`

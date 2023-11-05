@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Hollow Front
 
-764 songs - 1 day 23 hr 55 min
+766 songs - 2 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Black Heart](https://open.spotify.com/track/3x55ZUGp740NTVGOySqsBI) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/43U1hVWCs2ir6wZIAxvXnv) | 4:35 | 2022-07-13 | 2022-07-22 |
 | [Black Ink](https://open.spotify.com/track/7AlsIxffk4FHQ7geSUxLOE) | [As I May](https://open.spotify.com/artist/6RK7Xn39VaxdJNqhYVhVEk) | [Karu](https://open.spotify.com/album/1LUk4jMz426TXcyRvd6yoa) | 3:22 | 2022-01-07 | 2022-02-17 |
 | [Black of My Eyes](https://open.spotify.com/track/0rl0t8BwHP1GIIEyC5DN4Q) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Black of My Eyes](https://open.spotify.com/album/5mSrxhCmMMzvAufAaR33r1) | 3:52 | 2022-07-13 | 2022-07-16 |
-| [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-07-28 |  |
+| [Black Sheep](https://open.spotify.com/track/0phSq8JjgvNlRmFaGDbmlh) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6TPRyXWXQuVfgmOO14xRno) | 3:52 | 2023-10-27 |  |
+| [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-07-28 | 2023-11-05 |
 | [BLACK\_WAVE](https://open.spotify.com/track/3s3czPHKW5TXmZoeUB9yu7) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [BLACK\_WAVE](https://open.spotify.com/album/5kGa3VEUVZLdtiQuwc73FI) | 3:06 | 2023-04-24 |  |
 | [Bleed the Future](https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc) | 3:48 | 2022-07-13 | 2022-07-21 |
 | [Bleed When You Ask Me](https://open.spotify.com/track/4Pfclw9uhRXenUImApmAgG) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Krewe D'Amour, Vol\. 2](https://open.spotify.com/album/5vvNSlSJC11OnhvE8Esqnx) | 3:18 | 2021-12-17 | 2022-01-22 |
@@ -648,7 +649,8 @@
 | [Talk to Me](https://open.spotify.com/track/4QOuEQBmCJJJhYTkrE5Zy2) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [Talk to Me](https://open.spotify.com/album/78jDD0o4blFWZTpo9tHWoh) | 3:16 | 2023-01-20 |  |
 | [Tea Leaves](https://open.spotify.com/track/71rABdFG3LvphzqmMxDF2c) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Tea Leaves](https://open.spotify.com/album/6lcDSJnPRtRwPmNVVQc0Tt) | 3:34 | 2022-04-01 | 2022-04-15 |
 | [Teeth](https://open.spotify.com/track/2RfN92B2CL62PPcZs8Rl3f) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [I Won't Survive](https://open.spotify.com/album/4nALrWtHZfDGHX2eOzBkGO) | 2:08 | 2022-07-13 | 2022-07-23 |
-| [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/track/5dFc7LBIXNXdfOE6xBYN3i) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/album/3JduUHfZtTYuYvn7WhfEG1) | 3:04 | 2023-09-29 |  |
+| [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/track/1gdNdUdDmVpwVV2c6LgOIW) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/album/686K2XWjthBsIxbSCcXjzm) | 3:04 | 2023-10-27 |  |
+| [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/track/5dFc7LBIXNXdfOE6xBYN3i) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/album/3JduUHfZtTYuYvn7WhfEG1) | 3:04 | 2023-09-29 | 2023-11-05 |
 | [The 6 6 9](https://open.spotify.com/track/1x3D10RwWsAbJaohK2XeRX) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Deadlock](https://open.spotify.com/album/25flL4yb0wLI5mIJrL2rUR) | 4:32 | 2022-02-11 | 2022-05-06 |
 | [The Amygdala Chorus](https://open.spotify.com/track/5tmJCrDqstthNnM4MtWDk9) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [The Amygdala Chorus](https://open.spotify.com/album/5qOPQK5fz14mnJUlTA0Vwe) | 3:50 | 2022-07-13 | 2022-07-15 |
 | [The Awakening](https://open.spotify.com/track/13vYl0wAKM5RGjvoRaVyd8) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [The Awakening](https://open.spotify.com/album/2Jrd7g3DXOU5uoFbs95RLb) | 4:02 | 2021-12-17 | 2022-03-12 |

@@ -4,7 +4,7 @@
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-155 songs - 9 hr 24 min
+156 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Bounce That Booty \- Jackmaster Werks Remix](https://open.spotify.com/track/6Ta2yIK2q5GAs2tqTLRLX5) | [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Jackmaster Werks](https://open.spotify.com/artist/2eRGQtdPsIbK1HwWdWMPJN) | [Bounce That Booty \(Jackmaster Werks Remix\)](https://open.spotify.com/album/77SNTASc4iAYl3y5WfAZOS) | 2:44 | 2020-12-03 |  |
 | [Braxe Traxe \- SBF13](https://open.spotify.com/track/7nv1TaJwLtUdbYbRQP95oG) | [Big Dope P](https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe) | [Braxe Traxe \(SBF13\)](https://open.spotify.com/album/4XxVcPT88m47hDjVmAWQyr) | 2:05 | 2020-12-03 |  |
 | [Bring It Back](https://open.spotify.com/track/0NesKGMUOHjOoPI6KWNLKT) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 3:37 | 2020-12-03 |  |
-| [BS6](https://open.spotify.com/track/6TvNg91oTRyHX6zN676dK5) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [Sinistarr](https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe) | [BS6](https://open.spotify.com/album/6NeoDlP2hzdBFRQdG8hLQF) | 3:45 | 2020-12-03 |  |
+| [BS6](https://open.spotify.com/track/4G2ylGiKx1KonQKyPsxulR) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [Sinistarr](https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe) | [Bs6](https://open.spotify.com/album/5PhWDWDVBHZ4dtr2kg6xAu) | 3:45 | 2023-06-30 |  |
+| [BS6](https://open.spotify.com/track/6TvNg91oTRyHX6zN676dK5) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [Sinistarr](https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe) | [BS6](https://open.spotify.com/album/6NeoDlP2hzdBFRQdG8hLQF) | 3:45 | 2020-12-03 | 2023-11-05 |
 | [Burnin Shoes](https://open.spotify.com/track/2Ce4WzaMgZ2CexSmkMfRfy) | [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU), [Jon1st](https://open.spotify.com/artist/4rkqsUdw0a2YaadfuNM7zF) | [Rituals EP](https://open.spotify.com/album/653gnuoXpGfwuaVcHX0J5N) | 5:16 | 2020-12-03 | 2022-07-29 |
 | [Burnin Shoes](https://open.spotify.com/track/4ap5hCK1x2EjMd6QyJFZiK) | [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU), [Jon1st](https://open.spotify.com/artist/4rkqsUdw0a2YaadfuNM7zF) | [Rituals EP](https://open.spotify.com/album/7dA9oiC0iPu2yNXnOK8rn3) | 5:16 | 2020-12-03 |  |
 | [Burnin Ya Boa \(feat\. DJ Manny\)](https://open.spotify.com/track/3CJhotfLdzJbbjAWlK7YFZ) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Move Out EP](https://open.spotify.com/album/4NgpWCSva4J1jkTUz2gn7v) | 3:30 | 2020-12-03 | 2022-07-29 |

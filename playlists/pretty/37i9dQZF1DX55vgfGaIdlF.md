@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55vgfGaIdlF.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
 | 2 | [Higher](https://open.spotify.com/track/0Ff8iqVvjIJYzxoZYzmVdE) | [Kwamie Liv](https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg) | [Higher](https://open.spotify.com/album/50EZ4LCB6UtynLZu71Wjx9) | 4:38 |
-| 3 | [Permission To Love](https://open.spotify.com/track/13V90m5e1r9MEPZJS1LFGH) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Permission To Love](https://open.spotify.com/album/5XS3fM0wq5jHOOd0JNt97o) | 4:24 |
+| 3 | [Permission To Love](https://open.spotify.com/track/4R11ORTv2NY7mHyiWq8P7c) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Permission To Love](https://open.spotify.com/album/2SzSoznAcqjkYlMcimfaxi) | 4:24 |
 | 4 | [You're the Best \- EP Version](https://open.spotify.com/track/2zZ8pLraPgYEB5JDT3R8Nw) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Wet](https://open.spotify.com/album/6mmsKRts1C4XuRJChx0Pyx) | 2:54 |
 | 5 | [New York, I Love You but You're Bringing Me Down](https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 5:35 |
 | 6 | [The Morning \- Original](https://open.spotify.com/track/4jBfUB4kQJCWOrjGLQqhO0) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 5:14 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55vgfGaIdlF.md) - [plain]
 | 15 | [Wildest Moments](https://open.spotify.com/track/2QPuWjnOa6N5p8fGn3iGly) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion](https://open.spotify.com/album/1T5wmjLCBuuTKTpKsiAn7R) | 3:42 |
 | 16 | [1998](https://open.spotify.com/track/7JiCI5vmAgEjIZoMFn7jkU) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 6:05 |
 | 17 | [Life Round Here](https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:37 |
-| 18 | [Fifteen \(feat\. Chela\)](https://open.spotify.com/track/0UhvIPiieSHufcul1eUSw9) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Embrace](https://open.spotify.com/album/04TT3EIMPbSXgulCp8aXcL) | 5:00 |
+| 18 | [Fifteen \(feat\. Chela\)](https://open.spotify.com/track/1s3TagCdN5LJc5EAIl9BpA) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Chela](https://open.spotify.com/artist/1f4H4i3FmalnzLcflKdfkv) | [Embrace](https://open.spotify.com/album/41JxPbrsjN0ra5CjVGXQl5) | 5:00 |
 | 19 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
 | 20 | [BTSTU \- Edit](https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe) | 3:29 |
 | 21 | [The Suburbs](https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Pocketknife](https://open.spotify.com/album/1OR04dRjURhlyUXQx91g0L) | 5:07 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55vgfGaIdlF.md) - [plain]
 | 50 | [Look At Where We Are](https://open.spotify.com/track/5r5AMZbVoTbyUGppcm5UWC) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [In Our Heads](https://open.spotify.com/album/5GDNKEug3ME9sCAtCU0vu7) | 3:58 |
 | 51 | [808 PM At The Beach \- Original Mix](https://open.spotify.com/track/332axSkCygFiO7rlQ9TYiC) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Part IV](https://open.spotify.com/album/4zgA8bqaYJLSrMOn3MkxyU) | 6:24 |
 
-Snapshot ID: `MCxlZmM5ZTM2Mzg0NDkwZjBhNjkwN2FkZWEyNzQ3ZTlkOTI1NzA2Mzlh`
+Snapshot ID: `MCxlZTgwYTc5NGNmYjUxMTdmOGE0MDFhMjAwZjc0NGU5YjQ5NjcxZjM4`

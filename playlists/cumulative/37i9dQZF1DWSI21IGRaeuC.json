@@ -338,7 +338,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 206265,
       "name": "Bionic Boy",
       "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
@@ -404,10 +404,36 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 367086,
       "name": "Bocat - Michael Bibi Remix",
       "url": "https://open.spotify.com/track/1pea4MX31SSMy0PeQsme33"
+    },
+    {
+      "album": {
+        "name": "Bocat (Michael Bibi Remix)",
+        "url": "https://open.spotify.com/album/2fqJtOq1kD7ARdaCXw52b8"
+      },
+      "artists": [
+        {
+          "name": "Guy Gerber",
+          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
+        },
+        {
+          "name": "Albertina",
+          "url": "https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq"
+        },
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367086,
+      "name": "Bocat - Michael Bibi Remix",
+      "url": "https://open.spotify.com/track/32eqGAgvDMAucaoD7es7uv"
     },
     {
       "album": {
@@ -1510,7 +1536,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 263931,
       "name": "Honey Bee - Edit",
       "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
@@ -1608,7 +1634,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 362180,
       "name": "Into The Hood",
       "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
@@ -2468,7 +2494,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 184761,
       "name": "NYWTF feat. Mikhail Beltran - Edit",
       "url": "https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG"
@@ -2718,7 +2744,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 267906,
       "name": "Porompompom",
       "url": "https://open.spotify.com/track/7CNtkmRjPUXyGfAleRmkvk"
@@ -3086,7 +3112,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 430090,
       "name": "Samba Drone - Paco Osuna Remix",
       "url": "https://open.spotify.com/track/69pq8Gkwg6IeqfyhbgqESi"
@@ -3418,7 +3444,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 379218,
       "name": "street knowledge.",
       "url": "https://open.spotify.com/track/711gJWmej4ldX9N7BJQvbR"
@@ -3784,7 +3810,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 228420,
       "name": "The Attention Deficit Track - Edit",
       "url": "https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm"
@@ -4204,7 +4230,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 243720,
       "name": "Unique",
       "url": "https://open.spotify.com/track/7chDllCV1g3mIf27gjOJnl"
@@ -4270,6 +4296,28 @@
     {
       "album": {
         "name": "We Bring It",
+        "url": "https://open.spotify.com/album/16kmKC1uHic7yNNY9lQlPd"
+      },
+      "artists": [
+        {
+          "name": "Darius Syrossian",
+          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+        },
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368372,
+      "name": "We Bring It",
+      "url": "https://open.spotify.com/track/5klBsW9tLISCWfwJ82jI1l"
+    },
+    {
+      "album": {
+        "name": "We Bring It",
         "url": "https://open.spotify.com/album/4rKPPgUL5T28e6YPPsTz5Y"
       },
       "artists": [
@@ -4284,7 +4332,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 368372,
       "name": "We Bring It",
       "url": "https://open.spotify.com/track/4J7cSix3jYkSc6n76TgxEJ"
@@ -4458,7 +4506,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 196030,
       "name": "World Is Empty",
       "url": "https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6"

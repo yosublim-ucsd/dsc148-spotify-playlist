@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 183931,
       "name": "A.M. 180",
       "url": "https://open.spotify.com/track/24qP7UXfTVNu0JPdPlaQFg"
@@ -772,6 +772,28 @@
     {
       "album": {
         "name": "Forget Me Too",
+        "url": "https://open.spotify.com/album/0cAYoPLCwhjX1m19TXjwwy"
+      },
+      "artists": [
+        {
+          "name": "Outatime!",
+          "url": "https://open.spotify.com/artist/6uvkQUaYja7wkaOBVaJ0VP"
+        },
+        {
+          "name": "Steph Elaine",
+          "url": "https://open.spotify.com/artist/5SNY7tPMGWbKAi6MY6Jgw1"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181598,
+      "name": "Forget Me Too",
+      "url": "https://open.spotify.com/track/5Y7rJZjKvAIWhHdysCCaX5"
+    },
+    {
+      "album": {
+        "name": "Forget Me Too",
         "url": "https://open.spotify.com/album/61DNDI6ja7RcpTbNnlbfsM"
       },
       "artists": [
@@ -840,7 +862,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 199016,
       "name": "Give Yourself A Try",
       "url": "https://open.spotify.com/track/6PtjoQQDYygkbN13dg4OIv"
@@ -2324,7 +2346,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 145831,
       "name": "Self Esteem",
       "url": "https://open.spotify.com/track/6zXPfmbRwPKhDMQtZID9ed"
@@ -2868,7 +2890,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 203191,
       "name": "There's Nothing Holdin' Me Back",
       "url": "https://open.spotify.com/track/4dUedvWuuvVMW5qwdGfyrE"
@@ -3012,7 +3034,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 195967,
       "name": "Two Tickets To Paradise (2006)",
       "url": "https://open.spotify.com/track/4m9sbj1CNZw5ANg1YTflH4"

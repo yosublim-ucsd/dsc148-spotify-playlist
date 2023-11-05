@@ -262,10 +262,28 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 399582,
       "name": "Gyoza",
       "url": "https://open.spotify.com/track/2IFhlThFS4uAfNDqW5Yz21"
+    },
+    {
+      "album": {
+        "name": "Gyoza",
+        "url": "https://open.spotify.com/album/7sHeIqCo0bRBYdOMDAV8MW"
+      },
+      "artists": [
+        {
+          "name": "Sandhog",
+          "url": "https://open.spotify.com/artist/4Bg70gCux7vzM1w08aUF37"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399582,
+      "name": "Gyoza",
+      "url": "https://open.spotify.com/track/4sCyFkIRKgjHmeJhGBI5fN"
     },
     {
       "album": {

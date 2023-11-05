@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,803 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,807 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 49 | [Ngiphelele](https://open.spotify.com/track/4E5JMQvCv7Bzt3E04hvxY2) | [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3) | [Love and Respect](https://open.spotify.com/album/3tEgPrJtHZJDLvWwd2w8Kc) | 4:23 |
 | 50 | [Love Letter](https://open.spotify.com/track/3dlP7Y2nKQcg3djavKhlrD) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Umuthi](https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU) | 4:31 |
 
-Snapshot ID: `MCwzNzYyZTkxNTlhNmUwNGRlNmViMDc5MmUzOTU2MWZjMzA0Yjk3N2Uy`
+Snapshot ID: `MCw1OTkxMTNkYjMzOWIzOGY2N2RiMzkwYTllYTVjZGYxNWQzYjRhNGZm`

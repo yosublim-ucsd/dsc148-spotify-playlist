@@ -4,7 +4,7 @@
 
 > The biggest house tracks we couldn't get enough of this year\. Cover: John Summit
 
-78 songs - 4 hr 23 min
+79 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [The Calling](https://open.spotify.com/track/4ANmPUsA3LAvOSP8xen6Vt) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [The Calling](https://open.spotify.com/album/0Zq4pT3WEPhlGjaerScLLY) | 3:17 | 2022-11-30 |  |
 | [The Music Began To Play](https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [The Music Began To Play](https://open.spotify.com/album/1RPFQ2LTLiHL7hxRwL8RZc) | 2:25 | 2022-11-30 |  |
 | [Them Drums](https://open.spotify.com/track/4ug7ZV9kjKXbbha4gDyhug) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Them Drums](https://open.spotify.com/album/7dQ4q6Tnxkv4csaUqLYEBi) | 3:56 | 2022-11-30 |  |
-| [This Is The Sound](https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Is The Sound](https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u) | 3:12 | 2022-11-30 |  |
+| [This Is The Sound](https://open.spotify.com/track/5JsIQ66sNFViii1ECZvtUp) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Is the Sound](https://open.spotify.com/album/4O30VW31P6zUNxdrTKog4H) | 3:12 | 2022-11-30 |  |
+| [This Is The Sound](https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Is The Sound](https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u) | 3:12 | 2022-11-30 | 2023-11-05 |
 | [Trompeta](https://open.spotify.com/track/6o4BO9LLCPe5p43YKZzFuv) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Trompeta](https://open.spotify.com/album/3fyDFUE6R0Q8TdFHC5q2nz) | 3:08 | 2022-11-30 |  |
 | [Under The Sun](https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Under The Sun](https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z) | 3:28 | 2022-11-30 |  |
 | [Unholy \(feat\. Kim Petras\) \- Disclosure Remix](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Unholy \(feat\. Kim Petras\) \[Disclosure Remix\]](https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj) | 3:54 | 2022-11-30 |  |

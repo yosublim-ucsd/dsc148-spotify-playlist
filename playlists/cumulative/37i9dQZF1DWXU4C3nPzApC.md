@@ -4,7 +4,7 @@
 
 > The best music with a Nashville flavour\. Cover: Luke Combs
 
-154 songs - 8 hr 33 min
+155 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,8 +68,9 @@
 | [I Don't Wanna Play House](https://open.spotify.com/track/7EwQvRbSbf6FnEHrQy5tU4) | [Laura Aston](https://open.spotify.com/artist/4CFTXdJS0pNJdaYHbitsNv) | [The Calm Before the Storm](https://open.spotify.com/album/0hszJZ7zfQ9GkcTODmyKBF) | 2:35 | 2023-03-07 | 2023-08-26 |
 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2021-12-17 | 2023-03-08 |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-25 |  |
-| [I See Stars](https://open.spotify.com/track/2q6adG3QZ3pMgGem6kuK0S) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [10 Year Plan](https://open.spotify.com/album/3jT5ErU7lL3hrDYmaQP7GC) | 3:18 | 2023-03-07 |  |
+| [I See Stars](https://open.spotify.com/track/2q6adG3QZ3pMgGem6kuK0S) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [10 Year Plan](https://open.spotify.com/album/3jT5ErU7lL3hrDYmaQP7GC) | 3:18 | 2023-03-07 | 2023-11-05 |
 | [I See Stars](https://open.spotify.com/track/32WnhIyvw6RGjtNFrHF68W) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [I See Stars](https://open.spotify.com/album/0Y1mySIig8YiKZrjJGXZs3) | 3:18 | 2022-02-14 | 2023-03-08 |
+| [I See Stars](https://open.spotify.com/track/3J85ZK3csrITTIYudfW504) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [10 Year Plan](https://open.spotify.com/album/6CY8lxQxwgqGvBrhKPolut) | 3:18 | 2023-08-25 |  |
 | [I Won't](https://open.spotify.com/track/5P51W99kjEeqhMr8uHdI8m) | [Lucy Blu](https://open.spotify.com/artist/0zEgohBueDJpD4E4nz8sp1) | [I Won't](https://open.spotify.com/album/0nhbhXjVhQvOH3XuOFWlMP) | 3:14 | 2021-12-17 |  |
 | [I'm Gonna Start A Fire](https://open.spotify.com/track/1f0ySWK0ztjOgMy3jevrnk) | [Jesse Walton](https://open.spotify.com/artist/4eC7zpBCLhukFXCHFTpS20) | [Pages](https://open.spotify.com/album/3Fnho10pRayzjrO3KFqEm2) | 4:35 | 2021-12-17 | 2022-01-12 |
 | [If He Wanted To He Would](https://open.spotify.com/track/3nei8eHEdiwwSfyoOCHPZI) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [P.S.](https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i) | 2:54 | 2023-03-07 |  |

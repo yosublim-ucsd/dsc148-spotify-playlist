@@ -3775,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "Cult Following",
+        "url": "https://open.spotify.com/album/5AnOt3qJvSw2iHxajU2QSq"
+      },
+      "artists": [
+        {
+          "name": "IRONTOM",
+          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220527,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/4DvkaLrdOBW173C8O3AIjJ"
+    },
+    {
+      "album": {
         "name": "Bigger Than Me",
         "url": "https://open.spotify.com/album/11Kmry6hzWz0VFAI7s2Iz1"
       },
@@ -4862,6 +4880,24 @@
       "duration_ms": 284266,
       "name": "Call Me Little Sunshine",
       "url": "https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70"
+    },
+    {
+      "album": {
+        "name": "Cult Following",
+        "url": "https://open.spotify.com/album/5AnOt3qJvSw2iHxajU2QSq"
+      },
+      "artists": [
+        {
+          "name": "IRONTOM",
+          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197001,
+      "name": "Call Me the West",
+      "url": "https://open.spotify.com/track/5z9mI6Zdm0haj5HhKWhYtB"
     },
     {
       "album": {
@@ -14472,7 +14508,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 250700,
       "name": "K.D.P. (feat. YOVNGCHIMI)",
       "url": "https://open.spotify.com/track/6woLMre9nBApTlIobN5Py5"
@@ -16736,7 +16772,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 218357,
       "name": "Love Like This - En Vivo",
       "url": "https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH"
@@ -18518,10 +18554,32 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 231442,
       "name": "Mi Primera Chamba",
       "url": "https://open.spotify.com/track/5VdMiJiobLaK7zZkN7Virq"
+    },
+    {
+      "album": {
+        "name": "Tears In The Ofi",
+        "url": "https://open.spotify.com/album/3sBeQDRGs15hWUslFQguHL"
+      },
+      "artists": [
+        {
+          "name": "La Pirris",
+          "url": "https://open.spotify.com/artist/0IZ3bdKJOLbrpEfREKGRM6"
+        },
+        {
+          "name": "Eladio chambion",
+          "url": "https://open.spotify.com/artist/7wYBQX4u3CLKuvrUOWrNhl"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231444,
+      "name": "Mi Primera Chamba",
+      "url": "https://open.spotify.com/track/6KL3mzK9SdRCT93pPgVvHu"
     },
     {
       "album": {
@@ -28562,7 +28620,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 176700,
       "name": "Tas Texteandome",
       "url": "https://open.spotify.com/track/7spAR93xvPOfkxIeTGbpPf"
@@ -29040,6 +29098,24 @@
       "duration_ms": 234402,
       "name": "Tendencia Global",
       "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
+    },
+    {
+      "album": {
+        "name": "Terracotta Walls",
+        "url": "https://open.spotify.com/album/1ySOI8fX4td2TAr0DaM7Y1"
+      },
+      "artists": [
+        {
+          "name": "The Saint Cecilia",
+          "url": "https://open.spotify.com/artist/2e8gf6BOQ9GOm7nqsLoi3n"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265624,
+      "name": "Terracotta Walls",
+      "url": "https://open.spotify.com/track/2px2Kag2A87gGxuXkixQSE"
     },
     {
       "album": {
@@ -29640,7 +29716,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 250100,
       "name": "This Love (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/5QVVjX0ZItqlVpEuVCM9Yg"
@@ -32962,7 +33038,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-05",
       "duration_ms": 220433,
       "name": "Wildest Dreams (Taylor's Version)",
       "url": "https://open.spotify.com/track/1K39ty6o1sHwwlZwO6a7wK"

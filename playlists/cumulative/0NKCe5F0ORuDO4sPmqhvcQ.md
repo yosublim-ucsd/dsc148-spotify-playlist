@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-543 songs - 1 day 6 hr 34 min
+544 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [Wide Awake](https://open.spotify.com/track/0BJRJBpg3tnQ2KQRgjclec) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz) | [Mind Over Matter](https://open.spotify.com/album/7A6ctoMJhFjeQ0XBYDgTqX) | 3:15 | 2023-09-19 | 2023-10-06 |
 | [Wide Awake](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-06-29 |  |
 | [Wide Awake \(feat\. Charlie Houston\) \- Devault Remix](https://open.spotify.com/track/0OXTIle1hA45EBBQJ0ktYG) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Wide Awake \(Devault Remix\)](https://open.spotify.com/album/2qTLUHWEVu7AaNUpcrMkwr) | 4:33 | 2022-09-20 | 2023-10-06 |
+| [Wish You Were Here](https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Wish You Were Here](https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W) | 3:34 | 2023-11-04 |  |
 | [With You](https://open.spotify.com/track/7xbO9ZKSXeos37wSnKPfSZ) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [artemis orion](https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg) | [infina ad nausea: the remixes \[miami rave pack\]](https://open.spotify.com/album/3AVo3rXPsQirTxXQKCHhmw) | 3:33 | 2022-04-18 |  |
 | [Without u \(feat\. Holywatr\)](https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Without u \(feat\. Holywatr\)](https://open.spotify.com/album/38zCcpxCUq4CimSwKVAALj) | 3:05 | 2023-02-24 | 2023-08-18 |
 | [Wobbledrug](https://open.spotify.com/track/0xqRM5GuFJZgWXXkwaqMtV) | [WOBBLEBUG](https://open.spotify.com/artist/7gPfQfayKKrJ6X2zHg49Zu) | [Wobbledrug](https://open.spotify.com/album/1wYCpHXmc2NN3StQeefORi) | 2:57 | 2022-09-30 | 2023-01-30 |

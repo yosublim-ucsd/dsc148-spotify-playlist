@@ -168,7 +168,7 @@
     {
       "album": {
         "name": "All Made Up",
-        "url": "https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1"
+        "url": "https://open.spotify.com/album/4jCnOBRxxucPjnNMr1NYGK"
       },
       "artists": [
         {
@@ -179,6 +179,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 250518,
+      "name": "All Made Up",
+      "url": "https://open.spotify.com/track/3L5dOP6Ihkg8dxkMzxJUuc"
+    },
+    {
+      "album": {
+        "name": "All Made Up",
+        "url": "https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1"
+      },
+      "artists": [
+        {
+          "name": "Squidgenini",
+          "url": "https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
       "duration_ms": 250518,
       "name": "All Made Up",
       "url": "https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z"

@@ -1,18 +1,18 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 28344,
+  "num_followers": 28390,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzIyYTZjYWZhYTgxNjBkY2YxZmY2MGYyYzEyZGY5ZmFlNWMyYjk0",
+  "snapshot_id": "MCxjNDIzZTNhNDE5ODA1ZDk3ZDYyOTFjNzgzZjk5NTRjNzRkZjgwYmFj",
   "tracks": [
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
         "name": "Bocat (Michael Bibi Remix)",
-        "url": "https://open.spotify.com/album/7eFCcNOJPqwfcHfdfygATF"
+        "url": "https://open.spotify.com/album/2fqJtOq1kD7ARdaCXw52b8"
       },
       "artists": [
         {
@@ -30,27 +30,27 @@
       ],
       "duration_ms": 367086,
       "name": "Bocat - Michael Bibi Remix",
-      "url": "https://open.spotify.com/track/1pea4MX31SSMy0PeQsme33"
+      "url": "https://open.spotify.com/track/32eqGAgvDMAucaoD7es7uv"
     },
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
         "name": "We Bring It",
-        "url": "https://open.spotify.com/album/4rKPPgUL5T28e6YPPsTz5Y"
+        "url": "https://open.spotify.com/album/16kmKC1uHic7yNNY9lQlPd"
       },
       "artists": [
         {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
           "name": "Darius Syrossian",
           "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+        },
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
         }
       ],
       "duration_ms": 368372,
       "name": "We Bring It",
-      "url": "https://open.spotify.com/track/4J7cSix3jYkSc6n76TgxEJ"
+      "url": "https://open.spotify.com/track/5klBsW9tLISCWfwJ82jI1l"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "NYWTF",
-        "url": "https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Mikhail Beltran",
-          "url": "https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "NYWTF feat. Mikhail Beltran - Edit",
-      "url": "https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -747,22 +727,6 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "Dusty Showbiz",
-        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 178040,
-      "name": "Dusty Showbiz",
-      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
       },
@@ -779,6 +743,22 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
+        "name": "Dusty Showbiz",
+        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "Dusty Showbiz",
+      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
         "name": "Whispers In The Wind",
         "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
       },
@@ -791,42 +771,6 @@
       "duration_ms": 368852,
       "name": "Whispers In The Wind",
       "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
-        "name": "Bionic Boy",
-        "url": "https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 206265,
-      "name": "Bionic Boy",
-      "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
-        "name": "The Attention Deficit Track",
-        "url": "https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y"
-      },
-      "artists": [
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        },
-        {
-          "name": "Jackmaster",
-          "url": "https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB"
-        }
-      ],
-      "duration_ms": 228420,
-      "name": "The Attention Deficit Track - Edit",
-      "url": "https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -963,6 +907,22 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
+        "name": "What We Got",
+        "url": "https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "What We Got",
+      "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
       },
@@ -1015,22 +975,6 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "What We Got",
-        "url": "https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "What We Got",
-      "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
         "name": "Supermodel Thick",
         "url": "https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo"
       },
@@ -1043,26 +987,6 @@
       "duration_ms": 326357,
       "name": "Supermodel Thick",
       "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
-        "name": "World Is Empty",
-        "url": "https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda"
-      },
-      "artists": [
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        },
-        {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
-        }
-      ],
-      "duration_ms": 196030,
-      "name": "World Is Empty",
-      "url": "https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1135,6 +1059,22 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
+        "name": "This Energy EP",
+        "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "This Energy",
+      "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6t0gCJ3EsuUoIeAZJ7XfgS"
       },
@@ -1167,22 +1107,6 @@
       "duration_ms": 218130,
       "name": "Beeper Blowing Up",
       "url": "https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
-        "name": "This Energy EP",
-        "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "This Energy",
-      "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1315,22 +1239,6 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "N NIGHT",
-        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
-      },
-      "artists": [
-        {
-          "name": "Wheats",
-          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
-        }
-      ],
-      "duration_ms": 454000,
-      "name": "N NIGHT",
-      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
         "name": "Lucky Bastard",
         "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
       },
@@ -1343,6 +1251,22 @@
       "duration_ms": 185759,
       "name": "Lucky Bastard",
       "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
+        "name": "N NIGHT",
+        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
+      },
+      "artists": [
+        {
+          "name": "Wheats",
+          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+        }
+      ],
+      "duration_ms": 454000,
+      "name": "N NIGHT",
+      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1379,38 +1303,6 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "Galactica",
-        "url": "https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 310289,
-      "name": "Galactica",
-      "url": "https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
-        "name": "No Bueno (Extended Mix)",
-        "url": "https://open.spotify.com/album/6z3pZ6w15ymHLm4dyOHo6u"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 350125,
-      "name": "No Bueno (Extended Mix)",
-      "url": "https://open.spotify.com/track/3Ayzf6IFTLutVUf9Hyxx2d"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
         "name": "Music4TheMasses (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
       },
@@ -1431,6 +1323,38 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
+        "name": "No Bueno (Extended Mix)",
+        "url": "https://open.spotify.com/album/6z3pZ6w15ymHLm4dyOHo6u"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 350125,
+      "name": "No Bueno (Extended Mix)",
+      "url": "https://open.spotify.com/track/3Ayzf6IFTLutVUf9Hyxx2d"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
+        "name": "Galactica",
+        "url": "https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 310289,
+      "name": "Galactica",
+      "url": "https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
         "name": "Really Really Hot",
         "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
       },
@@ -1443,22 +1367,6 @@
       "duration_ms": 232133,
       "name": "Really Really Hot",
       "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
-        "name": "Where Ya At",
-        "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
-      },
-      "artists": [
-        {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Where Ya At",
-      "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1479,18 +1387,18 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "Gozar",
-        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
+        "name": "Where Ya At",
+        "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
       },
       "artists": [
         {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
         }
       ],
-      "duration_ms": 204384,
-      "name": "Gozar",
-      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
+      "duration_ms": 228750,
+      "name": "Where Ya At",
+      "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1511,6 +1419,22 @@
       "duration_ms": 186018,
       "name": "Thrill Me - LO'99 Remix",
       "url": "https://open.spotify.com/track/0AiLHyJny7YiQ0GT8jCbdR"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
+        "name": "Gozar",
+        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 204384,
+      "name": "Gozar",
+      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1563,22 +1487,6 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "Honey Bee",
-        "url": "https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX"
-      },
-      "artists": [
-        {
-          "name": "Ninetoes",
-          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
-        }
-      ],
-      "duration_ms": 263931,
-      "name": "Honey Bee - Edit",
-      "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
         "name": "Clapped",
         "url": "https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ"
       },
@@ -1591,22 +1499,6 @@
       "duration_ms": 210932,
       "name": "Clapped",
       "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
-        "name": "TRiPPPY",
-        "url": "https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ"
-      },
-      "artists": [
-        {
-          "name": "Cour T.",
-          "url": "https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "TRiPPPY",
-      "url": "https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1643,6 +1535,22 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
+        "name": "TRiPPPY",
+        "url": "https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ"
+      },
+      "artists": [
+        {
+          "name": "Cour T.",
+          "url": "https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "TRiPPPY",
+      "url": "https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
         "name": "Pronosticos Cachito",
         "url": "https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e"
       },
@@ -1655,6 +1563,22 @@
       "duration_ms": 240000,
       "name": "Pronosticos Cachito",
       "url": "https://open.spotify.com/track/3lBQvzsycvySqg739cOGew"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
+        "name": "Superlicious",
+        "url": "https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Superlicious",
+      "url": "https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1699,22 +1623,6 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "Superlicious",
-        "url": "https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "Superlicious",
-      "url": "https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
         "name": "Beats On Fire",
         "url": "https://open.spotify.com/album/42KeFM94VajibjjWtsPq41"
       },
@@ -1751,6 +1659,22 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
+        "name": "Jump Ship",
+        "url": "https://open.spotify.com/album/4BvWZEC1BIYEq0GM7Bw3qC"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 381431,
+      "name": "Jump Ship",
+      "url": "https://open.spotify.com/track/5V6srZGdQEeOMbwlcEOLqy"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
         "name": "A Walk In The Park (Moodymann Remix)",
         "url": "https://open.spotify.com/album/17lrQ0gDXaJh5RvtFWlE6u"
       },
@@ -1771,22 +1695,6 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "Jump Ship",
-        "url": "https://open.spotify.com/album/4BvWZEC1BIYEq0GM7Bw3qC"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 381431,
-      "name": "Jump Ship",
-      "url": "https://open.spotify.com/track/5V6srZGdQEeOMbwlcEOLqy"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
         "name": "Tonight EP",
         "url": "https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y"
       },
@@ -1799,6 +1707,98 @@
       "duration_ms": 352500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
+        "name": "summer '23",
+        "url": "https://open.spotify.com/album/2EbpNouTaGpQLUPQ6xfXJ4"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 379218,
+      "name": "street knowledge.",
+      "url": "https://open.spotify.com/track/711gJWmej4ldX9N7BJQvbR"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
+        "name": "Into The Hood",
+        "url": "https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Yamagucci",
+          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
+        }
+      ],
+      "duration_ms": 362180,
+      "name": "Into The Hood",
+      "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
+        "name": "Unique EP",
+        "url": "https://open.spotify.com/album/1p5cdny6T3dcuF0vFlkpjF"
+      },
+      "artists": [
+        {
+          "name": "Fleur Shore",
+          "url": "https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "Unique",
+      "url": "https://open.spotify.com/track/7chDllCV1g3mIf27gjOJnl"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
+        "name": "Porompompom",
+        "url": "https://open.spotify.com/album/390gLCD73Jet1l6mrZsrZW"
+      },
+      "artists": [
+        {
+          "name": "Freenzy Music",
+          "url": "https://open.spotify.com/artist/70BgO4a6LVEzYiAgxubE3q"
+        },
+        {
+          "name": "Jack Baron",
+          "url": "https://open.spotify.com/artist/4pxQgjDzsZiSnSjdxdYPK9"
+        }
+      ],
+      "duration_ms": 267906,
+      "name": "Porompompom",
+      "url": "https://open.spotify.com/track/7CNtkmRjPUXyGfAleRmkvk"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
+        "name": "Samba Drone",
+        "url": "https://open.spotify.com/album/6YXJp70sOxhBtGJ1xjZ0xa"
+      },
+      "artists": [
+        {
+          "name": "Rony Seikaly",
+          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
+        },
+        {
+          "name": "Paco Osuna",
+          "url": "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
+        }
+      ],
+      "duration_ms": 430090,
+      "name": "Samba Drone - Paco Osuna Remix",
+      "url": "https://open.spotify.com/track/69pq8Gkwg6IeqfyhbgqESi"
     }
   ],
   "unique_name": "Minimal Tech",

@@ -4,7 +4,7 @@
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-55 songs - 4 hr 2 min
+56 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [HIGHER](https://open.spotify.com/track/4oGZCvLL7bk8dico4GeQlF) | [Deepshower](https://open.spotify.com/artist/117Rg4kISlVXLtYDzYL7gS), [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [COLORS](https://open.spotify.com/album/4g9zqr1nUB5QFzUAxvabvi) | 3:39 | 2022-09-15 |  |
 | [Highland Melody](https://open.spotify.com/track/0KIMqbKvC0oAul3nEgrJUx) | [KROMI](https://open.spotify.com/artist/554qDHSwsDfX0qOfyxQjWs) | [Highland Melody](https://open.spotify.com/album/0gsuc7oBO94siaPxcLgX7U) | 4:20 | 2022-09-15 |  |
 | [Hot Summer Nights](https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Hot Summer Nights](https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ) | 2:38 | 2022-09-15 |  |
-| [How It Makes You Feel](https://open.spotify.com/track/1VIaMdoWo7iNLoxdAJJoHK) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [How It Makes You Feel](https://open.spotify.com/album/0IrIIRAzh0iG3wbZQJ8YnM) | 8:46 | 2022-09-15 |  |
+| [How It Makes You Feel](https://open.spotify.com/track/1VIaMdoWo7iNLoxdAJJoHK) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [How It Makes You Feel](https://open.spotify.com/album/0IrIIRAzh0iG3wbZQJ8YnM) | 8:46 | 2022-09-15 | 2023-11-05 |
+| [How It Makes You Feel](https://open.spotify.com/track/3saluMzeYBaD9Rfcs2KeOP) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Electronic Generations](https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs) | 8:46 | 2022-09-15 |  |
 | [Just Wanna Dance](https://open.spotify.com/track/4ID2pHUWPPXPiJzaEwbCEH) | [Alannys Weber](https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu), [YAKSA](https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR) | [Just Wanna Dance](https://open.spotify.com/album/6ZGmi3zSmG1sScW8ru5MQL) | 2:07 | 2022-09-15 |  |
 | [Keep My Light On](https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ) | [Keep My Light On](https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW) | 2:45 | 2022-09-15 |  |
 | [Liberation \- Shigeru Tanabu Remix](https://open.spotify.com/track/4Og2JTTYcDKV34FS7mj9n8) | [Osamu M](https://open.spotify.com/artist/6ERKdL9fnhgo7urWSNyC3i), [Satoshi Fumi](https://open.spotify.com/artist/38WQYltQVhjRe966Qen0UO), [Shigeru Tanabu](https://open.spotify.com/artist/0nN0tQcZ82WRjLTyqrQid0) | [Liberation](https://open.spotify.com/album/5TJJF2etjUulvG3bwqzl6D) | 7:29 | 2022-09-15 |  |

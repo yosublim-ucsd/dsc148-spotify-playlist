@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,779 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,804 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 13 | [Bump The Man \- Live](https://open.spotify.com/track/0Bwy62vMCaxtEdgRCh4jh5) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Bump The Man \(Live\)](https://open.spotify.com/album/1av1bz04u2EpaydQ5ecCpa) | 4:51 |
 | 14 | [Get out Your Ear's Way](https://open.spotify.com/track/0oQnNNdsHV00hIiMnKUUAq) | [Lachy Doley](https://open.spotify.com/artist/5ep1j3SaxtyVV4lLHHkjfI), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Get out Your Ear's Way](https://open.spotify.com/album/2xn2UW5EFRug6ecA4SyHXw) | 4:15 |
 | 15 | [B What U R](https://open.spotify.com/track/6WiZWymC6kOGvjUy0nmzTN) | [Stone Foundation](https://open.spotify.com/artist/0rVkv5DwsmIbQg2ECWMQGT), [Shirley Jones](https://open.spotify.com/artist/7722txNx6G1Q5u0kS7WaZn) | [B What U R](https://open.spotify.com/album/3E9k29nIhPhVgpxFAvqrxA) | 3:21 |
-| 16 | [Boots In Place](https://open.spotify.com/track/2R9P0B1TsHzLTMrGQb9JGE) | [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [George Porter Jr.](https://open.spotify.com/artist/2KDZHHE0Ca7LVqpzUH7y8a), [Floki Sessions](https://open.spotify.com/artist/601FZXyKDoyE6gWYNNWOWj), [Erica Falls](https://open.spotify.com/artist/4W3Re8hcwf5DvvqaKjV0eR), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Nikki Glaspie](https://open.spotify.com/artist/6qHV34ZuWE31v0NihuQbWv) | [Boots In Place](https://open.spotify.com/album/592HLqXY8YKBQ97UwXTDcg) | 4:15 |
+| 16 | [Boots In Place](https://open.spotify.com/track/47gSXRSECjAFpKvnDjw5iG) | [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [George Porter Jr.](https://open.spotify.com/artist/2KDZHHE0Ca7LVqpzUH7y8a), [Floki Sessions](https://open.spotify.com/artist/601FZXyKDoyE6gWYNNWOWj), [Erica Falls](https://open.spotify.com/artist/4W3Re8hcwf5DvvqaKjV0eR), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Nikki Glaspie](https://open.spotify.com/artist/6qHV34ZuWE31v0NihuQbWv) | [Boots In Place](https://open.spotify.com/album/2uZfLhsFZuy6TSzROA5Oup) | 4:15 |
 | 17 | [It's Your Thing](https://open.spotify.com/track/2tDI3yUDPzRvjp4FMrnkOz) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [It's Your Thing](https://open.spotify.com/album/1ZCtf0Kuxbx4x2QO44703o) | 2:57 |
 | 18 | [In Da Kar \- XL Middleton Remix](https://open.spotify.com/track/3NBdpiUHPmtaVUw7LR2tEH) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru), [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD), [Sly Stone](https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Soul Clap Records 11th Anniversary Remix Compilation \(Remixes\)](https://open.spotify.com/album/0LTgdpLDFKdji0QSZ491sx) | 6:16 |
 | 19 | [Willie and the Hand Jive](https://open.spotify.com/track/1mPADI4LKBHX7lisb8Vcza) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0) | [Willie and the Hand Jive](https://open.spotify.com/album/0mPzHdhZFJNz0y4bZKBvIp) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 99 | [Let's Celebrate Our Love](https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 4:35 |
 | 100 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
 
-Snapshot ID: `MCxiZmViMDM3Y2Y4MDJhYzNmNDQ4ZTU3NjIyYmVkNWM5OGEwNWQzYTRh`
+Snapshot ID: `MCw5YmI4NWQ4MDZlMWU3OGE5ZTU4MjI2YmNjMWYwYmExZGZhZDZjM2Zk`

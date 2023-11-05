@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 766554,
+  "num_followers": 767184,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWZmMTg0OTc4ZmE0MmZiM2UwMzJiZDE2NGNhZjAzNzI3ZDljNjI1",
+  "snapshot_id": "MCw1ZTYyODc5Mjg4ZTY0OWZmY2Y3ODk1NWMwMTE3OWUxMjljYzM5MTg5",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
-        "url": "https://open.spotify.com/album/0yDiMZdbFwO5lGB9Dq5wlL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 228300,
-      "name": "Versace on the Floor (Bruno Mars vs. David Guetta)",
-      "url": "https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "One Love (Deluxe)",
         "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "24K Magic (R3hab Remix)",
+        "url": "https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 158678,
+      "name": "24K Magic - R3hab Remix",
+      "url": "https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -707,26 +707,6 @@
       "duration_ms": 179512,
       "name": "My Head & My Heart - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "24K Magic (R3hab Remix)",
-        "url": "https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 158678,
-      "name": "24K Magic - R3hab Remix",
-      "url": "https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -819,6 +799,26 @@
       "duration_ms": 252933,
       "name": "Something Just Like This - Alesso Remix",
       "url": "https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
+        "url": "https://open.spotify.com/album/0yDiMZdbFwO5lGB9Dq5wlL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 228300,
+      "name": "Versace on the Floor (Bruno Mars vs. David Guetta)",
+      "url": "https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1003,22 +1003,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Chasing Highs (Felix Cartal Remix)",
-        "url": "https://open.spotify.com/album/62e63ul1zthWxs5PhJ4s9j"
+        "name": "Roses (Remixes) (feat. ROZES)",
+        "url": "https://open.spotify.com/album/2QmFzuPKkXez2pfFPXgwqW"
       },
       "artists": [
         {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        },
+        {
+          "name": "Zaxx",
+          "url": "https://open.spotify.com/artist/1VF81Q4Usmpf2fgjEV3HPJ"
         }
       ],
-      "duration_ms": 220650,
-      "name": "Chasing Highs - Felix Cartal Remix",
-      "url": "https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw"
+      "duration_ms": 190266,
+      "name": "Roses (feat. ROZES) - Zaxx Remix",
+      "url": "https://open.spotify.com/track/5MgBUUjbkQ27Kd9CbeZFLo"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1043,26 +1047,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Roses (Remixes) (feat. ROZES)",
-        "url": "https://open.spotify.com/album/2QmFzuPKkXez2pfFPXgwqW"
+        "name": "Chasing Highs (Felix Cartal Remix)",
+        "url": "https://open.spotify.com/album/62e63ul1zthWxs5PhJ4s9j"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
         },
         {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        },
-        {
-          "name": "Zaxx",
-          "url": "https://open.spotify.com/artist/1VF81Q4Usmpf2fgjEV3HPJ"
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
         }
       ],
-      "duration_ms": 190266,
-      "name": "Roses (feat. ROZES) - Zaxx Remix",
-      "url": "https://open.spotify.com/track/5MgBUUjbkQ27Kd9CbeZFLo"
+      "duration_ms": 220650,
+      "name": "Chasing Highs - Felix Cartal Remix",
+      "url": "https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Ciao Adios (Remixes)",
-        "url": "https://open.spotify.com/album/7C6UoXE3QOfuwS0jBeLAvZ"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Burak Yeter",
-          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
-        }
-      ],
-      "duration_ms": 180937,
-      "name": "Ciao Adios - Burak Yeter Remix",
-      "url": "https://open.spotify.com/track/0xedZw4tBgVZdsB8w7r5aG"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Happy Now (R3HAB Remix)",
         "url": "https://open.spotify.com/album/6NjkiK78KEOoE8FLDKdtDS"
       },
@@ -1943,6 +1923,26 @@
       "duration_ms": 189268,
       "name": "Happy Now - R3HAB Remix",
       "url": "https://open.spotify.com/track/7AkLPOwjju8taQCJCaIUts"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Ciao Adios (Remixes)",
+        "url": "https://open.spotify.com/album/7C6UoXE3QOfuwS0jBeLAvZ"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Burak Yeter",
+          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "Ciao Adios - Burak Yeter Remix",
+      "url": "https://open.spotify.com/track/0xedZw4tBgVZdsB8w7r5aG"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2111,6 +2111,30 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "First Time (Remixes)",
+        "url": "https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "First Time - Gryffin Remix",
+      "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Lose Control (The Remixes, Pt. 2)",
         "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
       },
@@ -2163,30 +2187,6 @@
       "duration_ms": 260786,
       "name": "Obsessed - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4918TwZfPrxk8vKhuaqIiq"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "First Time (Remixes)",
-        "url": "https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "First Time - Gryffin Remix",
-      "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
     }
   ],
   "unique_name": "Remix Hits",

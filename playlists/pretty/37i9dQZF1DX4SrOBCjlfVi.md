@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Megan The Stallion, Jeezy and more\. Cover: NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,869 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,965 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 41 | [WAKENBAKE \(feat\. Juicy J\)](https://open.spotify.com/track/6CkID5kC2e8JYd5zp73m1E) | [Sonny Digital](https://open.spotify.com/artist/655963AgkTZeYUvCyodCIL), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Dolores Son](https://open.spotify.com/album/1p2CnApRTL7woyWzBtWypP) | 2:09 |
 | 42 | [Walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:04 |
 | 43 | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O) | 2:51 |
-| 44 | [Different Now](https://open.spotify.com/track/44HC3aqOZfK7DF8Q4pcB3M) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Different Now](https://open.spotify.com/album/5uuvnhGPK6e3ikIGkVping) | 2:06 |
-| 45 | [Gasway Livin \(feat\. ShotOff\)](https://open.spotify.com/track/7jrQ5s1FCXj7Pj2YAoo3Zo) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [ShotOff](https://open.spotify.com/artist/6aaS6LqoDNT6uvZNUwMUPs) | [Gasway Livin \(feat\. ShotOff\)](https://open.spotify.com/album/0g5zC8lYp8e1gpqOoNIxsq) | 2:35 |
-| 46 | [Only Fans](https://open.spotify.com/track/2KzDSVQM0trdulmfvY8z84) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2) | [Only Fans](https://open.spotify.com/album/6vZQN8mJO9K2EXBaAcFxet) | 2:31 |
-| 47 | [Cellulite](https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Cellulite](https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN) | 3:10 |
-| 48 | [its Lil 30](https://open.spotify.com/track/0LgRFRWXSe2VHRinn1kZ5o) | [D30](https://open.spotify.com/artist/1upBc1lccb3lLZhTfgDE40) | [its Lil 30](https://open.spotify.com/album/7uJDkbw62nDTPOVELWCab1) | 2:33 |
-| 49 | [sins \(let me in\) \- Remix](https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [sins \(let me in\) \[Remix\]](https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA) | 2:44 |
+| 44 | [NOBU](https://open.spotify.com/track/7kQ0dKyEQkYTWqJUEf7Hx8) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Kill Jasper](https://open.spotify.com/artist/3Hxle1ifo8pdsakQ06MMUH) | [NOBU](https://open.spotify.com/album/5dANQ6jJJcwGZ5KqqYFk4d) | 2:35 |
+| 45 | [Different Now](https://open.spotify.com/track/44HC3aqOZfK7DF8Q4pcB3M) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Different Now](https://open.spotify.com/album/5uuvnhGPK6e3ikIGkVping) | 2:06 |
+| 46 | [Gasway Livin \(feat\. ShotOff\)](https://open.spotify.com/track/7jrQ5s1FCXj7Pj2YAoo3Zo) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [ShotOff](https://open.spotify.com/artist/6aaS6LqoDNT6uvZNUwMUPs) | [Gasway Livin \(feat\. ShotOff\)](https://open.spotify.com/album/0g5zC8lYp8e1gpqOoNIxsq) | 2:35 |
+| 47 | [Only Fans](https://open.spotify.com/track/2KzDSVQM0trdulmfvY8z84) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2) | [Only Fans](https://open.spotify.com/album/6vZQN8mJO9K2EXBaAcFxet) | 2:31 |
+| 48 | [Cellulite](https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Cellulite](https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN) | 3:10 |
+| 49 | [its Lil 30](https://open.spotify.com/track/0LgRFRWXSe2VHRinn1kZ5o) | [D30](https://open.spotify.com/artist/1upBc1lccb3lLZhTfgDE40) | [its Lil 30](https://open.spotify.com/album/7uJDkbw62nDTPOVELWCab1) | 2:33 |
+| 50 | [sins \(let me in\) \- Remix](https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [sins \(let me in\) \[Remix\]](https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA) | 2:44 |
 
-Snapshot ID: `MCw4YTNmM2FjYTBmOWNkNmE5YzFhZTA3OGMwZDc5YjA3NmE1ODc4NjQx`
+Snapshot ID: `MCw3MmUzNDRmNDI2Mzc5MzNiYzc5N2MxOTc2MmUyMTc3NjBiZWY3YmUw`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-140 songs - 13 hr 44 min
+141 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Mr\. Fire](https://open.spotify.com/track/6gOjpNTFwjWpFbI8b9zi9w) | [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT), [Odaya](https://open.spotify.com/artist/3su3dTqf9eYWR9Z9OwvZ8z) | [Mr\. Fire](https://open.spotify.com/album/0p5yLe7r9FxKNDsTy5PVRg) | 3:46 | 2023-02-03 | 2023-06-14 |
 | [Mutante \- Gui Boratto Rework](https://open.spotify.com/track/6pfGxlp0yBwaydQft6qvCr) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Rita Lee & Roberto – Classix Remix Vol\. l](https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm) | 8:19 | 2021-05-11 |  |
 | [Naboo \- Dorothys Fortress Remix](https://open.spotify.com/track/3bmWxCjl9dTRLyW9mRwLvB) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL), [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Naboo](https://open.spotify.com/album/5eCYzeSNQwpMNo8F1jlWhd) | 4:53 | 2021-05-11 | 2023-02-04 |
-| [Neunivai \- Original Mix](https://open.spotify.com/track/3S8gi2Vq1t8bKysBJ4783m) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Neunivai](https://open.spotify.com/album/7l228NGTYSldObg2XLzCfS) | 7:18 | 2023-06-13 |  |
+| [Neunivai](https://open.spotify.com/track/7HStZcjzsLpTX3U0uLdVzb) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Neunivai](https://open.spotify.com/album/1s2zxl5t4OqX0Kg04fyLy9) | 7:18 | 2023-06-13 |  |
+| [Neunivai \- Original Mix](https://open.spotify.com/track/3S8gi2Vq1t8bKysBJ4783m) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Neunivai](https://open.spotify.com/album/7l228NGTYSldObg2XLzCfS) | 7:18 | 2023-06-13 | 2023-11-05 |
 | [No Need \- Extended Mix](https://open.spotify.com/track/2RsGdqXD8drtHXtADOi4cX) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Ben Hauke](https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V) | [No Need](https://open.spotify.com/album/49mIMP2fA3LBEoAYrHeJdZ) | 6:02 | 2023-06-13 |  |
 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 | 2023-02-03 | 2023-06-14 |
 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 | 2021-05-11 | 2023-06-14 |
